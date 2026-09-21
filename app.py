@@ -82,13 +82,7 @@ ui_texts = {
         "tra_card_desc": "Examines how current planetary movements interact with your natal chart to reveal present influences.",
         "guide_link_text":"For detailed instructions on how to use this app, [click here](https://note.com/marroscorps/n/ncfc7216cd870)"
     }
-
-# ==========================================
-# 2. 言語の選択と変数 t の作成
-# ==========================================
-lang = st.sidebar.selectbox("Language / 言語", ["日本語", "English"], label_visibility="collapsed", key="lang_select")
-t = ui_texts.get(lang, ui_texts["日本語"])
-
+    
 # ==========================================
 # 3. メイン画面のタイトルと注釈を表示
 # ==========================================
