@@ -39,9 +39,9 @@ BASE_PREFECTURES = [
 # 英語UIテキスト定義
 # ==========================================
 t = {
-    "app_name": "HoroNote",
+    "app_name": "HoroNote Earth",
     "app_subtitle": "- Horoscope Information Export System -",
-    "page_title": "HoroNote",
+    "page_title": "HoroNote Earth",
     "page_subtitle": "- Horoscope Information Export System -",
     "disclaimer": "※ Minor discrepancies in house degrees may occur due to calculation libraries or coordinate settings.",
     "sidebar_header": "📝 Birth Data Input",
