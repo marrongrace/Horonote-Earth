@@ -264,7 +264,7 @@ def render_user_input_form(prefix, default_name, show_header=True):
     elif available_cities:
         input_city_name = st.selectbox(t["city_input"], available_cities, index=0, key=f"{prefix}_city_select_jp")
     else:
-        input_city_name = st.text_input(t["city_input"], value="", placeholder="先に都道府県を選択してください" if lang=="日本語" else "Please select a prefecture first", key=f"{prefix}_city_input_empty")
+        input_city_name = st.text_input(t["city_input"], value="", placeholder="Please select a region first", key=f"{prefix}_city_input_empty")
 
     is_valid, err_msg, lat_res, lng_res = False, "", None, None
     
