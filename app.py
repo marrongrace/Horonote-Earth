@@ -15,7 +15,7 @@ except ImportError:
 icon_url = "https://github.com/marrongrace/horoscope-app/blob/main/Horo_logo.png" # 取得した画像URLに差し替えてください
 
 st.set_page_config(
-    page_title="HoroNote Earth / Horoscope Information Export System",
+    page_title="HoroNote -ホロスコープ情報書き出しアプリ- / Horoscope Information Export System",
     page_icon="Horo_logo.png", # ここをURLに指定
     layout="centered",
 )
@@ -35,8 +35,59 @@ BASE_PREFECTURES = [
     "熊本県", "大分県", "宮崎県", "鹿児島県", "沖縄県", "海外・その他"
 ]
 
+# 1. 言語選択はサイドバーで1つにまとめる
+st.sidebar.markdown("### 🌐 言語 / Language")
+# lang = st.sidebar.radio("言語選択", ["日本語", "English"], label_visibility="collapsed", key="lang_radio")
+
 ui_texts = {
-        "app_name": "HoroNote Earth",
+    "日本語": {
+        "app_name": "HoroNote",
+        "app_subtitle": "- ホロスコープ情報書き出しアプリ -",
+        "page_title": "HoroNote",
+        "page_subtitle": "- ホロスコープ情報書き出しアプリ -",
+        "disclaimer": "※ 計算ライブラリや基準点の設定により、ハウス等の数値にわずかな誤差が生じる場合があります。",
+        "sidebar_header": "📝 出生データ入力",
+        "mode_select": "🔮 鑑定モード",
+        "mode_options": ["ネイタル（出生図）", "シナストリー（相性）", "コンポジット（合成図）", "トランジット（現在の運勢）"],
+        "transit_header": "🌌 トランジット設定",
+        "p1_header": "1人目",
+        "p2_header": "2人目",
+        "name_input": "お名前 / ニックネーム",
+        "birth_date": "生年月日",
+        "birth_time": "出生時間（日本時間）",
+        "pref_select": "都道府県",
+        "pref_default": "県名を選択してください",
+        "city_input": "市区町村・地名 (例: 古河市)",
+        "lat_input": "緯度",
+        "lng_input": "経度",
+        "settings_header": "⚙️ 表示設定（ネイタル）",
+        "aspect_view_label": "アスペクト表示形式:",
+        "aspect_view_options": ["ペア別", "アスペクト別"],
+        "unknown_time_checkbox": "出生時間が分からない（12:00仮定 / ハウス除外）",
+        "submit_btn": "✨ ホロスコープを作る",
+        "loading": "星々の配置を精密に計算中... 🌌✨",
+        "bodies_tab": "🌟 天体 ＋ 感受点",
+        "houses_tab": "🏠 12ハウス",
+        "aspects_tab": "🔗 アスペクト",
+        "patterns_tab": "💎 複合アスペクト",
+        "invalid_pref_error": "都道府県を選択してください",
+        "invalid_loc_error": "有効な地名を入力してください（県内に存在しません）",
+        # 🌟 初期画面用の説明文（タイトル行は削除）
+        "welcome_desc": "左側のサイドバーから出生データと鑑定モードを選択し、「✨ ホロスコープを作る」ボタンを押してください。",
+        "mobile_tip": "スマホをご利用の方は、画面左上の `>>` をタップするとサイドバーを開くことができます。",
+        "chart_intro_heading": "📊 チャート紹介",
+        "natal_card_title": "🔮 ネイタル（出生図）",
+        "natal_card_desc": "生まれた瞬間の星の配置から、あなたの本質、才能、人生のテーマを深く読み解きます。",
+        "syn_card_title": "💕 シナストリー（相性）",
+        "syn_card_desc": "2人分のホロスコープを重ね合わせ、お互いの相性や引き出し合う魅力を読み解きます。",
+        "comp_card_title": "☯️ コンポジット（合成図）",
+        "comp_card_desc": "2人の出生図を合成し、パートナーシップの絆や2人の間に生まれる関係性を読み解きます。",
+        "tra_card_title": "🌌 トランジット（現在の運勢）",
+        "tra_card_desc": "現在の星の動きから、あなたの人生にどんな影響を与えているかを読み解きます。",
+        "guide_link_text": "このアプリの詳しい使い方は[こちら](https://note.com/marroscorps/n/ncfc7216cd870)"
+    },
+    "English": {
+        "app_name": "HoroNote",
         "app_subtitle": "- Horoscope Information Export System -",
         "page_title": "HoroNote - Horoscope Information Export System",
         "page_subtitle": "- Horoscope Information Export System -",
@@ -82,7 +133,14 @@ ui_texts = {
         "tra_card_desc": "Examines how current planetary movements interact with your natal chart to reveal present influences.",
         "guide_link_text":"For detailed instructions on how to use this app, [click here](https://note.com/marroscorps/n/ncfc7216cd870)"
     }
-    
+}
+
+# ==========================================
+# 2. 言語の選択と変数 t の作成
+# ==========================================
+lang = st.sidebar.selectbox("Language / 言語", ["日本語", "English"], label_visibility="collapsed", key="lang_select")
+t = ui_texts.get(lang, ui_texts["日本語"])
+
 # ==========================================
 # 3. メイン画面のタイトルと注釈を表示
 # ==========================================
