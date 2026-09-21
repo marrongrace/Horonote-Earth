@@ -82,7 +82,8 @@ t = {
     "comp_card_desc": "Merges two birth charts to analyze the shared dynamic, bonds, and partnership theme.",
     "tra_card_title": "🌌 Transit Reading",
     "tra_card_desc": "Examines how current planetary movements interact with your natal chart to reveal present influences.",
-    "guide_link_text": "For detailed instructions on how to use this app, [click here](https://note.com/marroscorps/n/ncfc7216cd870)"
+    "guide_link_text": "For detailed instructions on how to use this app, [click here](https://note.com/marroscorps/n/ncfc7216cd870)",
+    "guide_link_text": "For detailed instructions on how to use this app, [click here](https://note.com/marroscorps/n/ncfc7216cd870)  \n<span style='font-size: 0.85rem; color: #888888;'>(Note: The linked article is in Japanese. Please use your browser's translation feature to read it.)</span>"
 }
 
 # ==========================================
