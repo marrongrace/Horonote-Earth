@@ -82,7 +82,6 @@ ui_texts = {
         "tra_card_desc": "Examines how current planetary movements interact with your natal chart to reveal present influences.",
         "guide_link_text":"For detailed instructions on how to use this app, [click here](https://note.com/marroscorps/n/ncfc7216cd870)"
     }
-}
 
 # ==========================================
 # 2. 言語の選択と変数 t の作成
