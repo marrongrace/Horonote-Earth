@@ -291,7 +291,7 @@ def render_user_input_form(prefix, default_name, show_header=True):
     input_lat = st.number_input(t["lat_input"], value=st.session_state[f"{prefix}_input_lat_val"], format="%.4f", key=lat_key)
     input_lng = st.number_input(t["lng_input"], value=st.session_state[f"{prefix}_input_lng_val"], format="%.4f", key=lng_key)
 
-    st.caption("※1 緯度・経度は十進数表記です" if lang == "日本語" else "* Please enter coordinates in decimal degrees")
+    st.caption("* Please enter coordinates in decimal degrees")
 
     return {
         "user_name": user_name,
@@ -309,9 +309,9 @@ with st.sidebar:
     
     # 鑑定モードの選択
     chart_mode_raw = st.selectbox(t["mode_select"], t["mode_options"], key="chart_mode_select")
-    is_synastry = chart_mode_raw in ["シナストリー（相性）", "Synastry (Compatibility)"]
-    is_composite = chart_mode_raw in ["コンポジット（合成図）", "Composite Chart"]
-    is_transit = chart_mode_raw in ["トランジット（現在の運勢）", "Transit"]
+    is_synastry = chart_mode_raw in ["Synastry (Compatibility)"]
+    is_composite = chart_mode_raw in ["Composite", "Composite Chart"]
+    is_transit = chart_mode_raw in ["Transit"]
     st.markdown("---")
 
     # 1人目の入力
@@ -320,7 +320,7 @@ with st.sidebar:
     # 🌟 トランジットモードが選ばれた場合
     if is_transit:
         st.markdown("---")
-        st.subheader("🌌 トランジット設定" if lang == "日本語" else "🌌 Transit Settings")
+        st.subheader("🌌 Transit Settings")
         
         import datetime
         from zoneinfo import ZoneInfo
@@ -330,13 +330,13 @@ with st.sidebar:
         
         # フォームの初期値として JST の現在の日付・時間をセット
         transit_date = st.date_input(
-            "トランジットの日付 / Transit Date" if lang == "日本語" else "Transit Date",
+            "Transit Date",
             value=jst_now.date(),
             key="transit_date_input"
         )
         
         transit_time = st.time_input(
-            "トランジットの時間 / Transit Time" if lang == "日本語" else "Transit Time",
+            "Transit Time",
             value=jst_now.time().replace(second=0, microsecond=0), # 秒・ミリ秒は切り捨てる
             key="transit_time_input"
         )
@@ -362,7 +362,7 @@ with st.sidebar:
         st.markdown("---")
         st.header(t["settings_header"])
         toggle_view_raw = st.radio(t["aspect_view_label"], t["aspect_view_options"], key="aspect_view_radio")
-        toggle_view = "ペア別" if toggle_view_raw in ["ペア別", "By Pair"] else "アスペクト別"
+        toggle_view = "ペア別" if toggle_view_raw in ["By Pair"] else "アスペクト別"
         unknown_checkbox = st.checkbox(t["unknown_time_checkbox"], key="unknown_time_chk")
     else:
         # ネイタル以外の場合は非表示にしつつ、エラー防止用のデフォルト値を設定
@@ -372,7 +372,7 @@ with st.sidebar:
     submit_button = st.button(label=t["submit_btn"], type="primary", key="submit_btn_main")
     
     # --- SNSシェアボタンの生成 ---
-    share_text = urllib.parse.quote("「HoroNote」-ホロスコープ情報書き出しアプリ- #HoroNote")
+    share_text = urllib.parse.quote("「HoroNote」- Horoscope Information Export System - #HoroNote")
     app_url = urllib.parse.quote("https://horonote.streamlit.app/#horo-note") # ←公開用URL
 
     # 各SNS・サービスのシェア用URL
@@ -417,9 +417,9 @@ with st.sidebar:
             .btn-pinterest {{ background-color: #e60023; }}
         </style>
 
-        <div style="font-size: 0.8em; color: gray; margin-top: 25px;">↓↓↓  成果をシェアする  ↓↓↓</div>
+        <div style="font-size: 0.8em; color: gray; margin-top: 25px;">↓↓↓ Share Output ↓↓↓</div>
         <div class="share-buttons-grid">
-            <a href="{x_share_url}" target="_blank" class="share-btn btn-x">𝕏 シェア</a>
+            <a href="{x_share_url}" target="_blank" class="share-btn btn-x">𝕏 Share</a>
             <a href="{line_share_url}" target="_blank" class="share-btn btn-line">LINE</a>
             <a href="{fb_share_url}" target="_blank" class="share-btn btn-fb">Facebook</a>
             <a href="{bsky_share_url}" target="_blank" class="share-btn btn-bsky">Bluesky</a>
@@ -433,7 +433,7 @@ with st.sidebar:
     st.sidebar.markdown(
         """
         <div style="font-size: 0.85em; color: gray; margin-top: 40px; text-align: left;">
-        Producted by まろんぐらっせ <br><span style="font-size: 1.0em;">(maronglace)</span>
+        Producted by marronglace <br><span style="font-size: 1.0em;">(maronglace)</span>
         </div>
         """,
         unsafe_allow_html=True
