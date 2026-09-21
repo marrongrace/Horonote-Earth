@@ -17,7 +17,6 @@ if os.path.exists(EPHE_PATH):
 LOCAL_JSON_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), "ja_data.json"))
 
 def load_address_master():
-    """ローカルファイルから住所マスターを読み込む。なければ自動ダウンロードして保存する"""
     if os.path.exists(LOCAL_JSON_PATH):
         try:
             with open(LOCAL_JSON_PATH, "r", encoding="utf-8") as f:
@@ -34,24 +33,24 @@ def load_address_master():
                 json.dump(data, f, ensure_ascii=False, indent=2)
             return data
     except Exception as e:
-        print(f"住所マスターの取得エラー: {e}")
+        print(f"Address master fetch error: {e}")
     
     return {}
 
 SIGN_DATA = {
-    "Aries": {"jp": "牡羊座", "en": "Aries"}, "Taurus": {"jp": "牡牛座", "en": "Taurus"},
-    "Gemini": {"jp": "双子座", "en": "Gemini"}, "Cancer": {"jp": "蟹座", "en": "Cancer"},
-    "Leo": {"jp": "獅子座", "en": "Leo"}, "Virgo": {"jp": "乙女座", "en": "Virgo"},
-    "Libra": {"jp": "天秤座", "en": "Libra"}, "Scorpio": {"jp": "蠍座", "en": "Scorpio"},
-    "Sagittarius": {"jp": "射手座", "en": "Sagittarius"}, "Capricorn": {"jp": "山羊座", "en": "Capricorn"},
-    "Aquarius": {"jp": "水瓶座", "en": "Aquarius"}, "Pisces": {"jp": "魚座", "en": "Pisces"}
+    "Aries": {"en": "Aries"}, "Taurus": {"en": "Taurus"},
+    "Gemini": {"en": "Gemini"}, "Cancer": {"en": "Cancer"},
+    "Leo": {"en": "Leo"}, "Virgo": {"en": "Virgo"},
+    "Libra": {"en": "Libra"}, "Scorpio": {"en": "Scorpio"},
+    "Sagittarius": {"en": "Sagittarius"}, "Capricorn": {"en": "Capricorn"},
+    "Aquarius": {"en": "Aquarius"}, "Pisces": {"en": "Pisces"}
 }
 
 SIGN_NORM_MAP = {
     "Ari": "Aries", "Tau": "Taurus", "Gem": "Gemini", "Can": "Cancer", "Leo": "Leo", "Vir": "Virgo",
     "Lib": "Libra", "Sco": "Scorpio", "Sag": "Sagittarius", "Cap": "Capricorn", "Aqu": "Aquarius", "Pis": "Pisces",
-    "牡羊座": "Aries", "牡牛座": "Taurus", "双子座": "Gemini", "蟹座": "Cancer", "獅子座": "Leo", "乙女座": "Virgo",
-    "天秤座": "Libra", "蠍座": "Scorpio", "射手座": "Sagittarius", "山羊座": "Capricorn", "水瓶座": "Aquarius", "魚座": "Pisces"
+    "Aries": "Aries", "Taurus": "Taurus", "Gemini": "Gemini", "Cancer": "Cancer", "Leo": "Leo", "Virgo": "Virgo",
+    "Libra": "Libra", "Scorpio": "Scorpio", "Sagittarius": "Sagittarius", "Capricorn": "Capricorn", "Aquarius": "Aquarius", "Pisces": "Pisces"
 }
 
 SIGN_RULERS = {
@@ -62,28 +61,24 @@ SIGN_RULERS = {
     "Leo": "Sun",
     "Virgo": "Mercury",
     "Libra": "Venus",
-    "Scorpio": "Pluto",      # 伝統的には Mars
+    "Scorpio": "Pluto",
     "Sagittarius": "Jupiter",
     "Capricorn": "Saturn",
-    "Aquarius": "Uranus",    # 伝統的には Saturn
-    "Pisces": "Neptune"      # 伝統的には Jupiter
+    "Aquarius": "Uranus",
+    "Pisces": "Neptune"
 }
 
-# 天体とサインのディグニティ対応表（主要7天体）
 DIGNITIES = {
-    "太陽": {"domicile": ["獅子座"], "exaltation": ["牡羊座"], "detriment": ["水瓶座"], "fall": ["天秤座"]},
-    "月":   {"domicile": ["蟹座"],   "exaltation": ["牡牛座"], "detriment": ["山羊座"], "fall": ["蠍座"]},
-    "水星": {"domicile": ["双子座", "乙女座"], "exaltation": ["乙女座"], "detriment": ["射手座", "魚座"], "fall": ["魚座"]},
-    "金星": {"domicile": ["牡牛座", "天秤座"], "exaltation": ["魚座"], "detriment": ["蠍座", "牡羊座"], "fall": ["乙女座"]},
-    "火星": {"domicile": ["牡羊座", "蠍座"],   "exaltation": ["山羊座"], "detriment": ["天秤座", "牡牛座"], "fall": ["蟹座"]},
-    "木星": {"domicile": ["射手座", "魚座"],   "exaltation": ["蟹座"], "detriment": ["双子座", "乙女座"], "fall": ["山羊座"]},
-    "土星": {"domicile": ["山羊座", "水瓶座"], "exaltation": ["天秤座"], "detriment": ["蟹座", "獅子座"], "fall": ["牡羊座"]}
+    "Sun": {"domicile": ["Leo"], "exaltation": ["Aries"], "detriment": ["Aquarius"], "fall": ["Libra"]},
+    "Moon": {"domicile": ["Cancer"], "exaltation": ["Taurus"], "detriment": ["Capricorn"], "fall": ["Scorpio"]},
+    "Mercury": {"domicile": ["Gemini", "Virgo"], "exaltation": ["Virgo"], "detriment": ["Sagittarius", "Pisces"], "fall": ["Pisces"]},
+    "Venus": {"domicile": ["Taurus", "Libra"], "exaltation": ["Pisces"], "detriment": ["Scorpio", "Aries"], "fall": ["Virgo"]},
+    "Mars": {"domicile": ["Aries", "Scorpio"], "exaltation": ["Capricorn"], "detriment": ["Libra", "Taurus"], "fall": ["Cancer"]},
+    "Jupiter": {"domicile": ["Sagittarius", "Pisces"], "exaltation": ["Cancer"], "detriment": ["Gemini", "Virgo"], "fall": ["Capricorn"]},
+    "Saturn": {"domicile": ["Capricorn", "Aquarius"], "exaltation": ["Libra"], "detriment": ["Cancer", "Leo"], "fall": ["Aries"]}
 }
 
 def apply_dignity_color(planet_name, sign_name):
-    """
-    天体名とサイン名を受け取り、品位に応じて星座部分のみにHTMLカラーとラベルを付与する
-    """
     for p, dign in DIGNITIES.items():
         if p in planet_name:
             if any(s == sign_name for s in dign.get("domicile", [])):
@@ -94,13 +89,10 @@ def apply_dignity_color(planet_name, sign_name):
                 return f'<span style="color: #1e90ff; font-weight: bold;">{sign_name}</span> <span style="font-size: 0.85em; color: #1e90ff;">🔵 [Detriment]</span>'
             elif any(s == sign_name for s in dign.get("fall", [])):
                 return f'<span style="color: #00bfff; font-weight: bold;">{sign_name}</span> <span style="font-size: 0.85em; color: #00bfff;">🩵 [Fall]</span>'
-    
-    # 品位に該当しない場合はそのままのサイン名を返す
     return sign_name
-    
+
 def get_cities_for_prefecture(pref):
-    """指定された都道府県の市区町村リストを返す"""
-    if pref == "海外・その他":
+    if pref == "Overseas / Other":
         return []
     master = load_address_master()
     if master and pref in master:
@@ -108,10 +100,9 @@ def get_cities_for_prefecture(pref):
     return []
 
 def validate_and_get_coords(pref, city_name):
-    """ローカルの住所マスターで存在チェックを行い、緯度・経度を返す (返り値4つ)"""
     cleaned_city = city_name.strip()
     
-    if pref == "海外・その他":
+    if pref == "Overseas / Other":
         try:
             encoded_name = urllib.parse.quote(cleaned_city)
             url = f"https://msearch.gsi.go.jp/address-search/AddressSearch?q={encoded_name}"
@@ -125,15 +116,13 @@ def validate_and_get_coords(pref, city_name):
             pass
         return True, "", 35.6812, 139.7671
 
-    # 1. ローカルの住所マスター（Geoloniaデータ）で完全バリデーション
     master = load_address_master()
     if master and pref in master:
         allowed_cities = master[pref]
         matched = any(c == cleaned_city or c.endswith(cleaned_city) or cleaned_city in c for c in allowed_cities)
         if not matched:
-            return False, "県内には存在しない地名です", None, None
+            return False, "Location does not exist in this prefecture.", None, None
 
-    # 2. 正確な緯度・経度を国土地理院APIで取得
     search_query = f"{pref}{cleaned_city}"
     try:
         encoded_name = urllib.parse.quote(search_query)
@@ -150,19 +139,15 @@ def validate_and_get_coords(pref, city_name):
                     coords = first_res["geometry"]["coordinates"]
                     return True, "", coords[1], coords[0]
                 else:
-                    return False, "県内には存在しない地名です", None, None
+                    return False, "Location does not exist in this prefecture.", None, None
             else:
-                return False, "県内には存在しない地名です", None, None
+                return False, "Location does not exist in this prefecture.", None, None
     except Exception as e:
-        print(f"ジオコーディングエラー: {e}")
+        print(f"Geocoding error: {e}")
     
-    return False, "地名が見つからないか、通信エラーが発生しました", None, None
+    return False, "Location not found or communication error.", None, None
 
 def get_house_ruler_chains(houses_list, bodies_meta, house_name_map, use_5_deg_rule=False, house_cusp_abs=None):
-    """
-    各ハウスのカスプのルーラーをたどる連鎖（チェーン）を計算する
-    use_5_deg_rule=True の場合は、5度前ルール適用後の天体ハウス位置を採用する
-    """
     body_house_map = {}
     major_bodies = {"Sun", "Moon", "Mercury", "Venus", "Mars", "Jupiter", "Saturn", "Uranus", "Neptune", "Pluto"}
 
@@ -170,7 +155,6 @@ def get_house_ruler_chains(houses_list, bodies_meta, house_name_map, use_5_deg_r
         h_raw = p.get('house', 'First_House') if isinstance(p, dict) else getattr(p, 'house', 'First_House')
         h_num = house_name_map.get(str(h_raw), 1)
         
-        # 5度前ルールが有効、かつ主要天体で条件を満たす場合は次のハウスにスライド
         if use_5_deg_rule and key in major_bodies and house_cusp_abs:
             sign = p.get('sign', 'Aries') if isinstance(p, dict) else getattr(p, 'sign', 'Aries')
             pos = p.get('position', 0.0) if isinstance(p, dict) else getattr(p, 'position', 0.0)
@@ -218,22 +202,19 @@ def get_house_ruler_chains(houses_list, bodies_meta, house_name_map, use_5_deg_r
             if len(path) > 15:
                 break
         
-        path_str = " → ".join([f"第{h}ハウス" for h in path])
+        path_str = " → ".join([f"{h}{'st' if h==1 else 'nd' if h==2 else 'rd' if h==3 else 'th'} House" for h in path])
+        start_h_str = f"{start_h}{'st' if start_h==1 else 'nd' if start_h==2 else 'rd' if start_h==3 else 'th'} House"
         if status == "domicile":
-            display_text = f"**第{start_h}ハウス** ➡️ {path_str} (ドミサイル)"
+            display_text = f"**{start_h_str}** ➡️ {path_str} (Domicile)"
         elif status == "loop":
-            display_text = f"**第{start_h}ハウス** ➡️ {path_str} (以降 第{loop_target}ハウスとのループ)"
+            display_text = f"**{start_h_str}** ➡️ {path_str} (Loop with {loop_target}{'st' if loop_target==1 else 'nd' if loop_target==2 else 'rd' if loop_target==3 else 'th'} House)"
         else:
-            display_text = f"**第{start_h}ハウス** ➡️ {path_str}"
+            display_text = f"**{start_h_str}** ➡️ {path_str}"
         chain_results.append(display_text)
         
     return chain_results
 
-def calculate_midpoints(bodies, chart_angles=None, mode="日本語"):
-    """
-    指定された条件に特化したミッドポイント（ハーフサム）を計算する
-    ※ 同一天体ペア、および木星以降の大天体同士のペアを除外
-    """
+def calculate_midpoints(bodies, chart_angles=None):
     body_map = {b["key"]: b["abs_pos"] for b in bodies}
     planet_keys = {"Sun", "Moon", "Mercury", "Venus", "Mars", "Jupiter", "Saturn", "Uranus", "Neptune", "Pluto"}
     outer_planets = {"Jupiter", "Saturn", "Uranus", "Neptune", "Pluto"}
@@ -285,7 +266,7 @@ def calculate_midpoints(bodies, chart_angles=None, mode="日本語"):
                 pos1, pos2 = pos2, pos1
 
             mp_pos = get_midpoint_pos(pos1, pos2)
-            mp_name = f"{get_p_name(k1, mode)}/{get_p_name(k2, mode)}"
+            mp_name = f"{k1}/{k2}"
 
             for target_k, target_pos in all_points:
                 if target_k == k1 or target_k == k2:
@@ -300,7 +281,7 @@ def calculate_midpoints(bodies, chart_angles=None, mode="日本語"):
                             "prio1": get_prio(k1),
                             "prio2": get_prio(k2),
                             "axis": mp_name,
-                            "target": get_p_name(target_k, mode),
+                            "target": target_k,
                             "aspect": asp_label,
                             "orb": orb
                         })
@@ -314,11 +295,11 @@ def calculate_midpoints(bodies, chart_angles=None, mode="日本語"):
     formatted_lines = []
     sorted_hits = sorted(unique_hits.values(), key=lambda x: (x["prio1"], x["prio2"], x["orb"]))
     for h in sorted_hits:
-        line = f"- **{h['axis']}** ＝ **{h['target']}** `({h['aspect']} / orb: {h['orb']:.2f}°)`"
+        line = f"- **{h['axis']}** = **{h['target']}** `({h['aspect']} / orb: {h['orb']:.2f}°)`"
         formatted_lines.append(line)
 
     if not formatted_lines:
-        return ["*(該当するミッドポイントヒットはありません)*" if mode == "日本語" else "*(No midpoint hits found)*"]
+        return ["*(No midpoint hits found)*"]
         
     return formatted_lines
 
@@ -330,7 +311,7 @@ def format_deg_min(decimal_deg):
         minutes = 0
     return f"{deg}°{minutes:02d}′"
 
-def to_dms(val, is_lat=True, mode="日本語"):
+def to_dms(val, is_lat=True):
     abs_val = abs(val)
     deg = int(abs_val)
     minutes_float = (abs_val - deg) * 60
@@ -345,41 +326,32 @@ def to_dms(val, is_lat=True, mode="日本語"):
         deg += 1
         
     if is_lat:
-        direction = "北緯" if val >= 0 else "南緯" if mode == "日本語" else ("N" if val >= 0 else "S")
+        direction = "N" if val >= 0 else "S"
     else:
-        direction = "東経" if val >= 0 else "西経" if mode == "日本語" else ("E" if val >= 0 else "W")
+        direction = "E" if val >= 0 else "W"
             
-    if mode == "日本語":
-        return f"{direction} {deg}.{minute:02d}.{second:02d}"
-    else:
-        return f"{deg}.{minute:02d}.{second:02d} {direction}"
+    return f"{deg}°{minute:02d}'{second:02d}\" {direction}"
 
-def get_s_name(key, mode="日本語"):
+def get_s_name(key):
     norm = SIGN_NORM_MAP.get(str(key).strip(), "Aries")
-    s = SIGN_DATA.get(norm, {"jp": key, "en": key})
-    return s['jp'] if mode == "日本語" else s['en']
+    s = SIGN_DATA.get(norm, {"en": key})
+    return s['en']
 
-def get_p_name(key, mode="日本語"):
-    jp_names = {
-        "Sun": "太陽", "Moon": "月", "Mercury": "水星", "Venus": "金星", "Mars": "火星",
-        "Jupiter": "木星", "Saturn": "土星", "Uranus": "天王星", "Neptune": "海王星", "Pluto": "冥王星",
-        "North Node": "ドラゴンヘッド", "South Node": "ドラゴンテイル", "Chiron": "キロン",
-        "ASC": "ASC", "MC": "MC"
-    }
-    return jp_names.get(key, key) if mode == "日本語" else key
+def get_p_name(key):
+    return key
 
-def format_house_name(h_num, mode="日本語"):
+def format_house_name(h_num):
     sfx = {"1": "st", "2": "nd", "3": "rd"}.get(str(h_num), "th")
-    return f"第{h_num}ハウス" if mode == "日本語" else f"{h_num}{sfx} House"
+    return f"{h_num}{sfx} House"
 
-def calculate_aspects(bodies, mode="日本語", view_type="ペア別"):
+def calculate_aspects(bodies, view_type="By Pair"):
     aspect_defs = [
-        ("Conjunction", 0, 7.0, "コンジャンクション (0°)", "Conjunction"),
-        ("Opposition", 180, 7.0, "オポジション (180°)", "Opposition"),
-        ("Trine", 120, 6.0, "トライン (120°)", "Trine"),
-        ("Square", 90, 6.0, "スクエア (90°)", "Square"),
-        ("Sextile", 60, 5.0, "セクスタイル (60°)", "Sextile"),
-        ("Quincunx", 150, 3.0, "クインカンクス (150°)", "Quincunx")
+        ("Conjunction", 0, 7.0, "Conjunction (0°)"),
+        ("Opposition", 180, 7.0, "Opposition (180°)"),
+        ("Trine", 120, 6.0, "Trine (120°)"),
+        ("Square", 90, 6.0, "Square (90°)"),
+        ("Sextile", 60, 5.0, "Sextile (60°)"),
+        ("Quincunx", 150, 3.0, "Quincunx (150°)")
     ]
     results = []
     n = len(bodies)
@@ -387,14 +359,13 @@ def calculate_aspects(bodies, mode="日本語", view_type="ペア別"):
         for j in range(i + 1, n):
             b1, b2 = bodies[i], bodies[j]
             diff = min(abs(b1["abs_pos"] - b2["abs_pos"]), 360 - abs(b1["abs_pos"] - b2["abs_pos"]))
-            for _, target_ang, orb_limit, jp_lbl, en_lbl in aspect_defs:
+            for _, target_ang, orb_limit, en_lbl in aspect_defs:
                 orb = abs(diff - target_ang)
                 if orb <= orb_limit:
-                    lbl = jp_lbl if mode == "日本語" else en_lbl
-                    results.append({"label": lbl, "b1": b1["key"], "b2": b2["key"], "orb": orb})
+                    results.append({"label": en_lbl, "b1": b1["key"], "b2": b2["key"], "orb": orb})
     
     if not results:
-        return "*(アスペクトなし)*" if mode == "日本語" else "*(No aspects)*"
+        return "*(No aspects)*"
     
     lines = []
     if view_type == "アスペクト別":
@@ -403,7 +374,7 @@ def calculate_aspects(bodies, mode="日本語", view_type="ペア別"):
         for label, items in grouped.items():
             lines.append(f"**■ {label}**")
             for item in sorted(items, key=lambda x: x["orb"]):
-                lines.append(f"- {get_p_name(item['b1'], mode)} & {get_p_name(item['b2'], mode)} `(orb: {item['orb']:.2f}°)`")
+                lines.append(f"- {get_p_name(item['b1'])} & {get_p_name(item['b2'])} `(orb: {item['orb']:.2f}°)`")
             lines.append("")
     else:
         priority = ["Sun", "Moon", "Mercury", "Venus", "Mars", "Jupiter", "Saturn", "Uranus", "Neptune", "Pluto", "North Node", "South Node", "Chiron"]
@@ -417,12 +388,12 @@ def calculate_aspects(bodies, mode="日本語", view_type="ペア別"):
         prev = None
         for r in sorted_results:
             if prev and r["b1"] != prev: lines.append("")
-            lines.append(f"- {get_p_name(r['b1'], mode)} & {get_p_name(r['b2'], mode)} : **{r['label']}** `(orb: {r['orb']:.2f}°)`")
+            lines.append(f"- {get_p_name(r['b1'])} & {get_p_name(r['b2'])} : **{r['label']}** `(orb: {r['orb']:.2f}°)`")
             prev = r["b1"]
             
     return "\n".join(lines)
 
-def detect_patterns(bodies, mode="日本語"):
+def detect_patterns(bodies):
     patterns = []
     aspect_pairs = []
     n = len(bodies)
@@ -483,15 +454,14 @@ def detect_patterns(bodies, mode="日本語"):
     priority = ["Sun", "Moon", "Mercury", "Venus", "Mars", "Jupiter", "Saturn", "Uranus", "Neptune", "Pluto"]
     for comp in stellium_groups:
         comp_sorted = sorted(comp, key=lambda x: priority.index(x) if x in priority else 99)
-        m_names = " & ".join([get_p_name(m, mode) for m in comp_sorted])
+        m_names = " & ".join([get_p_name(m) for m in comp_sorted])
         
         avg_pos = sum([body_map[k] for k in comp_sorted]) / len(comp_sorted)
         s_idx = int((avg_pos % 360) // 30)
         s_keys = list(SIGN_DATA.keys())
-        s_loc = get_s_name(s_keys[s_idx], mode) if s_idx < len(s_keys) else ""
+        s_loc = get_s_name(s_keys[s_idx]) if s_idx < len(s_keys) else ""
         
-        lbl = f"ステリウム (周辺: {s_loc})" if mode == "日本語" else f"Stellium (approx. {s_loc})"
-        patterns.append(f"{lbl} : {m_names}")
+        patterns.append(f"Stellium (approx. {s_loc}) : {m_names}")
 
     opps = [(a, b) for a, b, t, _ in aspect_pairs if t == "Opposition"]
     squares = [(a, b) for a, b, t, _ in aspect_pairs if t == "Square"]
@@ -512,9 +482,8 @@ def detect_patterns(bodies, mode="日本語"):
     for op_a, op_b in opps:
         common_sq = sq_dict.get(op_a, set()).intersection(sq_dict.get(op_b, set()))
         for apex in common_sq:
-            p_apex, p_a, p_b = get_p_name(apex, mode), get_p_name(op_a, mode), get_p_name(op_b, mode)
-            lbl = f"Tスクエア [頂点: {p_apex}]" if mode == "日本語" else f"T-Square [Apex: {p_apex}]"
-            patterns.append(f"{lbl} : {p_apex} & {p_a} & {p_b}")
+            p_apex, p_a, p_b = get_p_name(apex), get_p_name(op_a), get_p_name(op_b)
+            patterns.append(f"T-Square [Apex: {p_apex}] : {p_apex} & {p_a} & {p_b}")
 
     checked_gt = set()
     for a, neighbors in tr_dict.items():
@@ -525,9 +494,8 @@ def detect_patterns(bodies, mode="日本語"):
                     sorted_key = (a, b, c)
                     if sorted_key not in checked_gt:
                         checked_gt.add(sorted_key)
-                        p_a, p_b, p_c = get_p_name(a, mode), get_p_name(b, mode), get_p_name(c, mode)
-                        lbl = "グランドトライン" if mode == "日本語" else "Grand Trine"
-                        patterns.append(f"{lbl} : {p_a} & {p_b} & {p_c}")
+                        p_a, p_b, p_c = get_p_name(a), get_p_name(b), get_p_name(c)
+                        patterns.append(f"Grand Trine : {p_a} & {p_b} & {p_c}")
 
     checked_mt = set()
     for a, neighbors in sex_dict.items():
@@ -538,17 +506,15 @@ def detect_patterns(bodies, mode="日本語"):
                     sorted_key = tuple(sorted([a, b, c]))
                     if sorted_key not in checked_mt:
                         checked_mt.add(sorted_key)
-                        p_a, p_b, p_c = get_p_name(sorted_key[0], mode), get_p_name(sorted_key[1], mode), get_p_name(sorted_key[2], mode)
-                        lbl = "ミニトライン" if mode == "日本語" else "Mini Trine"
-                        patterns.append(f"{lbl} : {p_a} & {p_b} & {p_c}")
+                        p_a, p_b, p_c = get_p_name(sorted_key[0]), get_p_name(sorted_key[1]), get_p_name(sorted_key[2])
+                        patterns.append(f"Mini Trine : {p_a} & {p_b} & {p_c}")
 
     for a, sex_neighbors in sex_dict.items():
         for b in sex_neighbors:
             common_qui = qui_dict.get(a, set()).intersection(qui_dict.get(b, set()))
             for apex in common_qui:
-                p_apex, p_a, p_b = get_p_name(apex, mode), get_p_name(a, mode), get_p_name(b, mode)
-                lbl = f"ヨッド [頂点: {p_apex}]" if mode == "日本語" else f"Yod [Apex: {p_apex}]"
-                patterns.append(f"{lbl} : {p_apex} & {p_a} & {p_b}")
+                p_apex, p_a, p_b = get_p_name(apex), get_p_name(a), get_p_name(b)
+                patterns.append(f"Yod [Apex: {p_apex}] : {p_apex} & {p_a} & {p_b}")
 
     unique, seen = [], set()
     for pat in patterns:
@@ -562,7 +528,7 @@ def detect_patterns(bodies, mode="日本語"):
             unique.append(pat)
     return unique
 
-def get_chart_data(name, year, month, day, hour, minute, lat, lng, city_display_name, mode, view_type, is_unknown_time):
+def get_chart_data(name, year, month, day, hour, minute, lat, lng, city_display_name, view_type, is_unknown_time):
     calc_h, calc_m = (12, 0) if is_unknown_time else (hour, minute)
     with warnings.catch_warnings():
         warnings.simplefilter("ignore")
@@ -572,7 +538,7 @@ def get_chart_data(name, year, month, day, hour, minute, lat, lng, city_display_
                 hour=calc_h, minute=calc_m, lat=lat, lng=lng, tz_str="Asia/Tokyo", city=city_display_name
             )
         except Exception as e:
-            return {"error": f"ホロスコープ計算エラー: {str(e)}"}
+            return {"error": f"Horoscope calculation error: {str(e)}"}
 
     bodies_meta = [
         ("Sun", chart.sun), ("Moon", chart.moon), ("Mercury", chart.mercury),
@@ -619,16 +585,15 @@ def get_chart_data(name, year, month, day, hour, minute, lat, lng, city_display_
         abs_p_pos = s_idx * 30 + pos
         all_aspect_objs.append({"key": key, "abs_pos": abs_p_pos})
         
-        p_name, s_name = get_p_name(key, mode), get_s_name(sign, mode)
+        p_name, s_name = get_p_name(key), get_s_name(sign)
         formatted_pos = format_deg_min(pos)
         
-        # 品位を考慮した色付きサイン名を取得
         colored_sign = apply_dignity_color(p_name, s_name)
         
         if is_unknown_time:
             base_str = f"**{p_name}** : {colored_sign} `({formatted_pos})`"
         else:
-            base_h_label = format_house_name(h_num, mode)
+            base_h_label = format_house_name(h_num)
             rule_str = ""
             if key in major_bodies:
                 next_idx = (h_num % 12)
@@ -636,8 +601,8 @@ def get_chart_data(name, year, month, day, hour, minute, lat, lng, city_display_
                 dist = (cusp_next - abs_p_pos) % 360
                 if 0.0 <= dist <= 5.0:
                     eff_h = next_idx + 1
-                    eff_label = format_house_name(eff_h, mode)
-                    rule_str = f" (5度前ルール適用 ➡️ {eff_label})" if mode == "日本語" else f" (5-degree rule applied ➡️ {eff_label})"
+                    eff_label = format_house_name(eff_h)
+                    rule_str = f" (5-degree rule applied ➡️ {eff_label})"
             
             if rule_str:
                 base_str = f"**{p_name}** : {colored_sign} ({base_h_label}) `({formatted_pos})`<br>&nbsp;&nbsp;&nbsp;&nbsp;↳{rule_str.strip()}"
@@ -651,10 +616,10 @@ def get_chart_data(name, year, month, day, hour, minute, lat, lng, city_display_
     ruler_list_with_5deg = []
     
     if not is_unknown_time:
-        asc_s = get_s_name(chart.first_house.sign, mode)
-        mc_s = get_s_name(chart.tenth_house.sign, mode)
-        asc_lbl = "ASC (アセンダント)" if mode == "日本語" else "ASC (Ascendant)"
-        mc_lbl = "MC (ミッドヘブン)" if mode == "日本語" else "MC (Midheaven)"
+        asc_s = get_s_name(chart.first_house.sign)
+        mc_s = get_s_name(chart.tenth_house.sign)
+        asc_lbl = "ASC (Ascendant)"
+        mc_lbl = "MC (Midheaven)"
         
         asc_pos_str = format_deg_min(chart.first_house.position)
         mc_pos_str = format_deg_min(chart.tenth_house.position)
@@ -683,23 +648,21 @@ def get_chart_data(name, year, month, day, hour, minute, lat, lng, city_display_
 
         for i, h in enumerate(houses_list, 1):
             h_pos_str = format_deg_min(h.position)
-            h_lines.append(f"**{format_house_name(i, mode)}** : {get_s_name(h.sign, mode)} `({h_pos_str})`")
+            h_lines.append(f"**{format_house_name(i)}** : {get_s_name(h.sign)} `({h_pos_str})`")
         
-        # ハウスルーラー（5度前適用なし）
         ruler_list = get_house_ruler_chains(houses_list, bodies_meta, house_name_map, use_5_deg_rule=False)
-        # ハウスルーラー（5度前適用あり）
         ruler_list_with_5deg = get_house_ruler_chains(houses_list, bodies_meta, house_name_map, use_5_deg_rule=True, house_cusp_abs=house_cusp_abs)
     else:
-        h_lines.append("*(出生時間不明のためハウス除外)*" if mode == "日本語" else "*(Houses excluded due to unknown birth time)*")
+        h_lines.append("*(Houses excluded due to unknown birth time)*")
 
-    time_note = "（12:00仮定）" if is_unknown_time else ""
-    date_str = f"{year}年{month}月{day}日 {calc_h}:{calc_m:02d} {time_note}" if mode == "日本語" else f"{year}-{month:02d}-{day:02d} {calc_h}:{calc_m:02d} {'(Assumed 12:00)' if is_unknown_time else ''}"
+    time_note = "(Assumed 12:00)" if is_unknown_time else ""
+    date_str = f"{year}-{month:02d}-{day:02d} {calc_h:02d}:{calc_m:02d} {time_note}"
     
-    lat_str = to_dms(chart.lat, is_lat=True, mode=mode)
-    lng_str = to_dms(chart.lng, is_lat=False, mode=mode)
-    loc_str = f"[{city_display_name}] [{lat_str}, {lng_str} (十進: {chart.lat:.4f}, {chart.lng:.4f})]"
+    lat_str = to_dms(chart.lat, is_lat=True)
+    lng_str = to_dms(chart.lng, is_lat=False)
+    loc_str = f"[{city_display_name}] [{lat_str}, {lng_str} (Decimal: {chart.lat:.4f}, {chart.lng:.4f})]"
 
-    midpoints_data = calculate_midpoints(all_aspect_objs, chart_angles=None, mode=mode)
+    midpoints_data = calculate_midpoints(all_aspect_objs, chart_angles=None)
 
     return {
         "error": None, "date_str": date_str, "loc_str": loc_str,
@@ -707,6 +670,6 @@ def get_chart_data(name, year, month, day, hour, minute, lat, lng, city_display_
         "house_rulers": ruler_list,
         "house_rulers_with_5deg": ruler_list_with_5deg,
         "midpoints": midpoints_data,
-        "aspects": calculate_aspects(all_aspect_objs, mode, view_type),
-        "patterns": detect_patterns(all_aspect_objs, mode)
+        "aspects": calculate_aspects(all_aspect_objs, view_type),
+        "patterns": detect_patterns(all_aspect_objs)
     }
