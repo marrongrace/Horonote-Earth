@@ -225,6 +225,60 @@ if "chart_data" not in st.session_state:
 # 先頭に初期選択肢を追加
 PREFECTURES = COUNTRY_OPTIONS
 
+# GitHubのリポジトリ情報（ご自身の環境に合わせてください）
+GITHUB_REPO_OWNER = "marrongrace"
+GITHUB_REPO_NAME = "Horonote-Earth"
+BRANCH = "main"
+
+# 1. geolocatorのインスタンスをキャッシュ
+@st.cache_resource
+def get_geolocator():
+    return Nominatim(user_agent="horonote_earth")
+
+# 2. 緯度経度を取得する関数
+def fetch_lat_lng(city, state="", country=""):
+    geolocator = get_geolocator()
+    query_parts = [p for p in [city, state, country] if p]
+    query = ", ".join(query_parts)
+    
+    try:
+        location = geolocator.geocode(query, timeout=10)
+        if location:
+            return location.latitude, location.longitude
+    except Exception as e:
+        print(f"Geocoding error: {e}")
+    
+    return None, None
+
+# 3. GitHubから州・大区分リストを取得する関数
+@st.cache_data(ttl=3600)
+def get_states_for_country(country_name):
+    api_url = f"https://api.github.com/repos/{GITHUB_REPO_OWNER}/{GITHUB_REPO_NAME}/contents/PlaceAllData/{country_name}"
+    try:
+        response = requests.get(api_url)
+        if response.status_code == 200:
+            contents = response.json()
+            # 拡張子 .txt を除外してソート
+            states = [item['name'].replace('.txt', '') for item in contents if item['type'] == 'file']
+            return sorted(states)
+    except Exception as e:
+        print(f"Error fetching states: {e}")
+    return []
+
+# 4. GitHubから都市リストを取得する関数
+@st.cache_data(ttl=3600)
+def get_cities_for_state(country_name, state_name):
+    raw_url = f"https://raw.githubusercontent.com/{GITHUB_REPO_OWNER}/{GITHUB_REPO_NAME}/{BRANCH}/PlaceAllData/{country_name}/{state_name}.txt"
+    try:
+        response = requests.get(raw_url)
+        if response.status_code == 200:
+            # テキストを1行ずつ分割し、空行を除外
+            cities = [line.strip() for line in response.text.splitlines() if line.strip()]
+            return cities
+    except Exception as e:
+        print(f"Error fetching cities: {e}")
+    return []
+
 def convert_to_dms(text):
     """
     (16.30°) のような10進数の度数表記を (16°18') の60進数表記に変換する関数
