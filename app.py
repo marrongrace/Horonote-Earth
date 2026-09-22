@@ -5,6 +5,7 @@ import os
 import re
 import pytz
 import urllib.parse
+import requests
 import pandas as pd
 from horoscope_calc import validate_and_get_coords, get_chart_data, EPHE_PATH, get_cities_for_prefecture
 
@@ -286,20 +287,25 @@ def localize_text(text, lang):
 
 def get_states_for_country(country_name):
     """
-    選択された国名に対応する州や地域のリストをGitHubから取得する関数
+    選択された国名に対応するテキストファイルをGitHubから取得し、行ごとに分割してリストにする
     """
-    # 例として、ファイル名が国名.jsonとなっている場合を想定
-    # (スペースや特殊文字をURLエンコードする必要がある場合があります)
     try:
-        file_url = f"https://raw.githubusercontent.com/marrongrace/Horonote-Earth/main/PlaceAllData/{country_name}.txt"
+        # ファイル名に含まれるスペースや特殊文字をURL用にエンコードする
+        encoded_country_name = urllib.parse.quote(country_name)
+        
+        # GitHubのRaw URL (テキストファイル形式)
+        file_url = f"https://raw.githubusercontent.com/marrongrace/Horonote-Earth/main/PlaceAllData/{encoded_country_name}.txt"
+        
         response = requests.get(file_url)
         if response.status_code == 200:
-            # JSON形式の場合の例
-            return response.txt()
+            # テキストを改行で分割してリスト化し、空行や前後の空白を除外する
+            lines = response.text.splitlines()
+            states = [line.strip() for line in lines if line.strip()]
+            return states
         else:
             return []
     except Exception as e:
-        print(f"Error loading states: {e}")
+        print(f"Error loading states for {country_name}: {e}")
         return []
         
 def load_states_for_country(country_name):
