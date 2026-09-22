@@ -294,7 +294,7 @@ def get_states_for_country(country_name):
         encoded_country_name = urllib.parse.quote(country_name)
         
         # GitHubのRaw URL (テキストファイル形式)
-        file_url = f"https://raw.githubusercontent.com/marrongrace/Horonote-Earth/main/PlaceAllData/{encoded_country_name}.txt"
+        file_url = f"https://github.com/marrongrace/Horonote-Earth/tree/main/PlaceAllData/{encoded_country_name}.txt"
         
         response = requests.get(file_url)
         st.write(f"URL: {file_url}, Status: {response.status_code}")
