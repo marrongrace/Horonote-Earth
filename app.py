@@ -286,27 +286,20 @@ def localize_text(text, lang):
     return text
 
 def get_states_for_country(country_name):
-    """
-    選択された国名に対応するテキストファイルをGitHubから取得し、行ごとに分割してリストにする
-    """
     try:
-        # ファイル名に含まれるスペースや特殊文字をURL用にエンコードする
         encoded_country_name = urllib.parse.quote(country_name)
         
-        # GitHubのRaw URL (テキストファイル形式)
-        file_url = f"https://github.com/marrongrace/Horonote-Earth/tree/main/PlaceAllData/{encoded_country_name}.txt"
+        # 💡 必ず raw.githubusercontent.com を使用し、/blob/ を挟まないようにする
+        file_url = f"https://raw.githubusercontent.com/marrongrace/Horonote-Earth/main/PlaceAllData/{encoded_country_name}.txt"
         
         response = requests.get(file_url)
-        st.write(f"URL: {file_url}, Status: {response.status_code}")
         if response.status_code == 200:
-            # テキストを改行で分割してリスト化し、空行や前後の空白を除外する
             lines = response.text.splitlines()
             states = [line.strip() for line in lines if line.strip()]
             return states
         else:
             return []
     except Exception as e:
-        print(f"Error loading states for {country_name}: {e}")
         return []
         
 def load_states_for_country(country_name):
