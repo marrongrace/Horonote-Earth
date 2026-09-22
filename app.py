@@ -243,6 +243,27 @@ def convert_to_dms(text):
     
     return re.sub(r'\((\d+\.\d+)°\)', replace_deg, text)
 
+# geolocatorのインスタンスをキャッシュして効率化
+@st.cache_resource
+def get_geolocator():
+    return Nominatim(user_agent="horonote_earth")
+
+def fetch_lat_lng(city, state="", country=""):
+    """指定された地名からNominatimを使って緯度・経度を取得する関数"""
+    geolocator = get_geolocator()
+    # 空でない要素をカンマ繋ぎのクエリにする
+    query_parts = [p for p in [city, state, country] if p]
+    query = ", ".join(query_parts)
+    
+    try:
+        location = geolocator.geocode(query, timeout=10)
+        if location:
+            return location.latitude, location.longitude
+    except Exception as e:
+        print(f"Geocoding error: {e}")
+    
+    return None, None
+    
 def localize_text(text, lang):
     """
     英語モードの際に、占星術用語（星座、天体、ハウス、アスペクト等）を英語に翻訳する関数
@@ -351,6 +372,13 @@ def render_user_input_form(prefix, default_name, show_header=True):
         disabled=not available_cities,
         key=f"{prefix}_city_select_input"
     )
+
+    # 🌟 ここでgeopyを使って自動で緯度・経度を更新する処理を差し込む
+    if selected_city:
+        lat, lng = fetch_lat_lng(selected_city, selected_state, selected_country)
+        if lat is not None and lng is not None:
+            st.session_state[f"{prefix}_input_lat_val"] = lat
+            st.session_state[f"{prefix}_input_lng_val"] = lng
 
     # バリデーションや座標取得の判定（3段階すべて、または都市が決まったかで判定）
     is_valid = bool(selected_country and selected_city)
