@@ -1,12 +1,11 @@
 import datetime
+from zoneinfo import ZoneInfo
 import os
 import re
 import pytz
 import streamlit as st
 import urllib.parse
 from horoscope_calc import validate_and_get_coords, get_chart_data, EPHE_PATH, get_cities_for_prefecture
-from datetime import datetime
-from zoneinfo import ZoneInfo
 
 # 1. 画面でユーザーが入力した日付と時間（例）
 input_date = st.date_input("Date", value=datetime.date(2026, 9, 22))
