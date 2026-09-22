@@ -208,7 +208,7 @@ if "chart_data" not in st.session_state:
     st.markdown(t["guide_link_text"], unsafe_allow_html=True)
 
 # 先頭に初期選択肢を追加
-PREFECTURES = [t["pref_default"]] + BASE_PREFECTURES
+PREFECTURES = COUNTRY_OPTIONS
 
 def convert_to_dms(text):
     """
