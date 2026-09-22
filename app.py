@@ -283,9 +283,7 @@ def render_user_input_form(prefix, default_name, show_header=True):
     birth_date = st.date_input(t["birth_date"], value=datetime.date(2000, 1, 1), min_value=datetime.date(1900, 1, 1), max_value=datetime.date(2100, 12, 31), key=f"{prefix}_birth_date_input")
     birth_time = st.time_input(t["birth_time"], value=default_birth_time, key=f"{prefix}_birth_time_input")
 
-    # 🌍 国・州・地域のセレクトボックスに変更
-
-# 2. st.selectbox に placeholder と index=None を指定する
+# 🌍 国・州・地域のセレクトボックスに変更
     selected_country = st.selectbox(
         "Country / Region",
         options=GLOBAL_COUNTRIES,
