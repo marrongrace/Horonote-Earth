@@ -461,8 +461,7 @@ with st.sidebar:
     st.sidebar.markdown(
         """
         <div style="font-size: 0.85em; color: gray; margin-top: 40px; text-align: left;">
-        Producted by marronglace <br><span style="font-size: 1.0em;">(maronglace)</span>
-        </div>
+        Producted by marronglace
         """,
         unsafe_allow_html=True
     )
