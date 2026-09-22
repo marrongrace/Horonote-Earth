@@ -291,6 +291,23 @@ def render_user_input_form(prefix, default_name, show_header=True):
         placeholder="Please select a country/region",  # ← これがうっすらとプレースホルダー表示されます！
         key=f"{prefix}_country_select_input"
     )
+
+    selected_timezone_str = "Europe/London" # （※ここは選ばれた都市のタイムゾーン文字列に差し替えていく部分です）
+    
+    naive_dt = datetime.datetime.combine(birth_date, birth_time)
+    tz = ZoneInfo(selected_timezone_str)
+    local_dt = naive_dt.replace(tzinfo=tz)
+    utc_dt = local_dt.astimezone(ZoneInfo("UTC"))
+    
+    # まとめて辞書として返す（これまでの戻り値に utc_dt を追加する形にします）
+    return {
+        "user_name": user_name,
+        "birth_date": birth_date,
+        "birth_time": birth_time,
+        "utc_dt": utc_dt,
+        # "input_lat": lat,
+        # "input_lng": lng,
+    }
     
     # 🏙️ 都市名を入力するテキストボックス（例: Tokyo, London など）
     input_city_name = st.text_input(
