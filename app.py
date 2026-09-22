@@ -78,7 +78,7 @@ t = {
     "p2_header": "Person 2",
     "name_input": "Name / Label",
     "birth_date": "Birth Date",
-    "birth_time": "Birth Time (JST)",
+    "birth_time": "Birth Time (UTC)",
     "pref_select": "Prefecture / Region",
     "pref_default": "Please select a region",
     "city_input": "City / Location Name (e.g. London)",
