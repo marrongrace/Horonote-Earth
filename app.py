@@ -297,6 +297,7 @@ def get_states_for_country(country_name):
         file_url = f"https://raw.githubusercontent.com/marrongrace/Horonote-Earth/main/PlaceAllData/{encoded_country_name}.txt"
         
         response = requests.get(file_url)
+        st.write(f"URL: {file_url}, Status: {response.status_code}")
         if response.status_code == 200:
             # テキストを改行で分割してリスト化し、空行や前後の空白を除外する
             lines = response.text.splitlines()
