@@ -52,7 +52,7 @@ GLOBAL_COUNTRIES = [
     "Somalia", "South Africa", "South Georgia", "Spain", "Sri Lanka", "Sudan", "Suriname",
     "Sweden", "Switzerland", "Syria", "Taiwan", "Tajikistan", "Tanzania", "Thailand", "Togo",
     "Tokelau Islands", "Tonga", "Trinidad and Tobago", "Tunisia", "Turkey", "Turkmenistan", "Turks and Caicos", "Tuvalu", "Uganda", "Ukraine",
-    "United Arab Emirates", "United Kingdom", "Uruguay", "Uzbekistan", "Vanuatu", "Vatican City State", "Venezuela", "Vietnam",
+    "United Arab Emirates", "United Kingdom", "United States of America", "Uruguay", "Uzbekistan", "Vanuatu", "Vatican City State", "Venezuela", "Vietnam",
     "Western Sahara", "Yemen", "Yugoslavia", "Zambia", "Zimbabwe"
 ]
 
