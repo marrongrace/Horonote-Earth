@@ -437,14 +437,13 @@ def render_user_input_form(prefix, default_name, show_header=True):
 
     # 🌟 都市が変更されたときの処理
     if selected_city and st.session_state.get(current_selected_key) != selected_city:
-        lat, lng = fetch_lat_lng(selected_city, selected_state, selected_country)
-        # 🔍 デバッグ用：画面に直接結果を表示してみる)
-        if lat is not None and lng is not None:
-            st.session_state[lat_val_key] = lat
-            st.session_state[lng_val_key] = lng
-        st.session_state[current_selected_key] = selected_city
-        # 値を更新した直後にアプリを再描画させて number_input に反映させる
-        st.rerun()
+    lat, lng = fetch_lat_lng(selected_city, selected_state, selected_country)
+    if lat is not None and lng is not None:
+        # ウィジェットのキーに直接新しい値を代入する
+        st.session_state[lat_key] = lat
+        st.session_state[lng_key] = lng
+    st.session_state[current_selected_key] = selected_city
+    st.rerun()
 
     is_valid = bool(selected_country and selected_city)
 
