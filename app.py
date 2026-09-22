@@ -25,15 +25,41 @@ st.markdown(f"""
     <link rel="apple-touch-icon" href="{icon_url}">
 """, unsafe_allow_html=True)
 
-BASE_PREFECTURES = [
-    "北海道", "青森県", "岩手県", "宮城県", "秋田県", "山形県", "福島県",
-    "茨城県", "栃木県", "群馬県", "埼玉県", "千葉県", "東京都", "神奈川県",
-    "新潟県", "富山県", "石川県", "福井県", "山梨県", "長野県", "岐阜県",
-    "静岡県", "愛知県", "三重県", "滋賀県", "京都府", "大阪府", "兵庫県",
-    "奈良県", "和歌山県", "鳥取県", "島根県", "岡山県", "広島県", "山口県",
-    "徳島県", "香川県", "愛媛県", "高知県", "福岡県", "佐賀県", "長崎県",
-    "熊本県", "大分県", "宮崎県", "鹿児島県", "沖縄県", "海外・その他"
+# グローバル国・州・地域マスターリスト（提供いただいたデータ[cite: 1]）
+GLOBAL_COUNTRIES = [
+    "Afghanistan", "Alabama", "Alaska", "Albania", "Algeria", "American Samoa", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina",
+    "Arizona", "Arkansas", "Armenia", "Australia", "Austria", "Azerbaijan",
+    "Bahamas", "Bahrain", "Bangladesh", "Barbados", "Belarus", "Belgium", "Belize", "Benin", "Bermuda", "Bhutan",
+    "Bolivia", "Bosnia and Herzegovina", "Botswana", "Brazil", "Brunei", "Bulgaria", "Burkina Faso", "Burundi", "California", "Cambodia",
+    "Cameroon", "Canada", "Cape Verde", "Cayman Islands", "Central African Republic", "Chad","Chile", "China", "Colombia", "Colorado",
+    "Comoros", "Congo", "Connecticut","Cook Islands", "Costa Rica", "Croatia", "Cuba", "Cyprus", "Czech Republic",
+    "Delaware","Denmark", "District of Columbia", "Djibouti", "Dominica", "Dominican Republic","Democratic Republic of the Congo", "East Timor","Ecuador", "Egypt",
+    "El Salvador", "Equatorial Guinea", "Eritrea", "Estonia", "Eswatini", "Ethiopia", "Faeroe Islands", "Falkland Islands", "Fiji", "Finland", "Florida",
+    "France", "French Guiana", "French Polynesia", "Gabon", "Gambia", "Georgia", "Germany", "Ghana", "Gibraltar", "Greece",
+    "Greenland", "Grenada", "Guadeloupe", "Guam", "Guatemala", "Guernsey", "Guinea", "Guinea-Bissau", "Guyana", "Haiti",
+    "Hawaii", "Honduras", "Hungary", "Iceland", "Idaho", "Illinois", "India", "Indiana", "Indonesia", "Iowa",
+    "Iran", "Iraq", "Ireland", "Isle of Man", "Israel", "Italy", "Ivory Coast", "Jamaica", "Japan", "Jersey",
+    "Jordan", "Kansas", "Kazakhstan", "Kentucky", "Kenya", "Kiribati", "Kuwait", "Kyrgyzstan", "Laos", "Latvia",
+    "Lebanon", "Lesotho", "Liberia", "Libya", "Liechtenstein", "Lithuania", "Louisiana", "Luxembourg", "Madagascar",
+    "Maine", "Malawi", "Malaysia", "Maldives", "Mali", "Malta", "Marshall Islands", "Martinique", "Maryland", "Massachusetts",
+    "Mauritania", "Mauritius", "Mayotte", "Mexico", "Michigan", "Micronesia", "Midway Islands", "Minnesota", "Mississippi", "Missouri",
+    "Moldova", "Monaco", "Mongolia", "Montana", "Montserrat", "Morocco", "Mozambique", "Myanmar", "Namibia", "Nauru",
+    "Nebraska", "Nepal", "Netherlands", "Netherlands Antilles", "Nevada", "New Caledonia", "New Hampshire", "New Jersey", "New Mexico", "New York",
+    "New Zealand", "Nicaragua", "Niger", "Nigeria", "Niue", "Norfolk Islands", "North Carolina", "North Dakota", "North Macedonia", "Northern Mariana Islands",
+    "Norway", "Ohio", "Oklahoma", "Oman", "Oregon", "Pakistan", "Palau", "Palestine", "Panama", "Papua New Guinea",
+    "Paraguay", "Pennsylvania", "Peru", "Philippines", "Pitcairn", "Poland", "Portugal", "Puerto Rico", "Qatar", "Reunion",
+    "Rhode Island", "Romania", "Russia", "Rwanda", "Saint Helena", "Saint Kitts-Nevis", "Saint Lucia", "Saint Pierre and Miquelon", "Saint Vincent and Grenadines", "Samoa",
+    "San Marino", "Sao Tome and Principe", "Saudi Arabia", "Senegal", "Seychelles", "Sierra Leone", "Singapore", "Slovakia", "Slovenia", "Solomon Islands",
+    "Somalia", "South Africa", "South Carolina", "South Dakota", "South Georgia", "Spain", "Sri Lanka", "Sudan", "Suriname",
+    "Sweden", "Switzerland", "Syria", "Taiwan", "Tajikistan", "Tanzania", "Tennessee", "Texas", "Thailand", "Togo",
+    "Tokelau Islands", "Tonga", "Trinidad and Tobago", "Tunisia", "Turkey", "Turkmenistan", "Turks and Caicos", "Tuvalu", "Uganda", "Ukraine",
+    "United Arab Emirates", "United Kingdom", "Uruguay", "Utah", "Uzbekistan", "Vanuatu", "Vatican City State", "Venezuela", "Vermont", "Vietnam", "Virgin Islands",
+    "Virginia", "Wake Island", "Wallis and Futuna", "Washington", "West Virginia", "Western Sahara", "Wisconsin", "Wyoming", "Yemen", "Yugoslavia", "Zambia",
+    "Zimbabwe"
 ]
+
+country_default = "Please select a country/region"
+COUNTRY_OPTIONS = [country_default] + GLOBAL_COUNTRIES
 
 # ==========================================
 # 英語UIテキスト定義
@@ -256,38 +282,31 @@ def render_user_input_form(prefix, default_name, show_header=True):
     birth_date = st.date_input(t["birth_date"], value=datetime.date(2000, 1, 1), min_value=datetime.date(1900, 1, 1), max_value=datetime.date(2100, 12, 31), key=f"{prefix}_birth_date_input")
     birth_time = st.time_input(t["birth_time"], value=default_birth_time, key=f"{prefix}_birth_time_input")
 
-    selected_pref = st.selectbox(t["pref_select"], PREFECTURES, index=0, key=f"{prefix}_pref_select_input")
+    # 🌍 国・州・地域のセレクトボックスに変更
+    selected_country = st.selectbox("Country / Region", COUNTRY_OPTIONS, index=0, key=f"{prefix}_country_select_input")
     
-    available_cities = get_cities_for_prefecture(selected_pref) if selected_pref != t["pref_default"] else []
-    
-    if selected_pref == "海外・その他":
-        input_city_name = st.text_input(t["city_input"], value="ロンドン", key=f"{prefix}_city_input_text_overseas")
-    elif available_cities:
-        input_city_name = st.selectbox(t["city_input"], available_cities, index=0, key=f"{prefix}_city_select_jp")
-    else:
-        input_city_name = st.text_input(t["city_input"], value="", placeholder="Please select a region first", key=f"{prefix}_city_input_empty")
+    # 🏙️ 都市名を入力するテキストボックス（例: Tokyo, London など）
+    input_city_name = st.text_input(
+        t["city_input"], 
+        value="London" if prefix == "p1" else "New York", 
+        placeholder="e.g., London, Paris, Tokyo", 
+        key=f"{prefix}_city_input_global"
+    )
 
-    is_valid, err_msg, lat_res, lng_res = False, "", None, None
-    
-    if selected_pref != t["pref_default"]:
-        is_valid, err_msg, lat_res, lng_res = validate_and_get_coords(selected_pref, input_city_name)
+    # バリデーションや座標取得の判定
+    is_valid = selected_country != country_default and bool(input_city_name.strip())
 
-    if selected_pref == t["pref_default"]:
-        st.markdown(f"<p style='color: #ff4b4b; font-size: 0.82em; margin-top: -8px; margin-bottom: 8px;'>⚠️ {t['invalid_pref_error']}</p>", unsafe_allow_html=True)
-    elif not is_valid and selected_pref != "海外・その他":
-        st.markdown(f"<p style='color: #ff4b4b; font-size: 0.82em; margin-top: -8px; margin-bottom: 8px;'>⚠️ {t['invalid_loc_error']}</p>", unsafe_allow_html=True)
+    if selected_country == country_default:
+        st.markdown(f"<p style='color: #ff4b4b; font-size: 0.82em; margin-top: -8px; margin-bottom: 8px;'>⚠️ Please select a country/region.</p>", unsafe_allow_html=True)
+    elif not input_city_name.strip():
+        st.markdown(f"<p style='color: #ff4b4b; font-size: 0.82em; margin-top: -8px; margin-bottom: 8px;'>⚠️ Please enter a city name.</p>", unsafe_allow_html=True)
 
     lat_key = f"{prefix}_lat_number_input"
     lng_key = f"{prefix}_lng_number_input"
 
-    if is_valid and lat_res is not None and lng_res is not None:
-        st.session_state[f"{prefix}_input_lat_val"] = lat_res
-        st.session_state[f"{prefix}_input_lng_val"] = lng_res
-        st.session_state[lat_key] = lat_res
-        st.session_state[lng_key] = lng_res
-    
-    if f"{prefix}_input_lat_val" not in st.session_state: st.session_state[f"{prefix}_input_lat_val"] = 36.1243
-    if f"{prefix}_input_lng_val" not in st.session_state: st.session_state[f"{prefix}_input_lng_val"] = 139.5983
+    # セッションステートの初期値設定
+    if f"{prefix}_input_lat_val" not in st.session_state: st.session_state[f"{prefix}_input_lat_val"] = 51.5074
+    if f"{prefix}_input_lng_val" not in st.session_state: st.session_state[f"{prefix}_input_lng_val"] = -0.1278
 
     input_lat = st.number_input(t["lat_input"], value=st.session_state[f"{prefix}_input_lat_val"], format="%.4f", key=lat_key)
     input_lng = st.number_input(t["lng_input"], value=st.session_state[f"{prefix}_input_lng_val"], format="%.4f", key=lng_key)
@@ -298,7 +317,7 @@ def render_user_input_form(prefix, default_name, show_header=True):
         "user_name": user_name,
         "birth_date": birth_date,
         "birth_time": birth_time,
-        "selected_pref": selected_pref,
+        "selected_country": selected_country,
         "input_city_name": input_city_name,
         "input_lat": input_lat,
         "input_lng": input_lng,
