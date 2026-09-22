@@ -1,5 +1,5 @@
-Abanda
-Abbeville
+Abanda, 33.101051, -85.529282
+Abbeville, 29.973850, -92.134552
 Abbot Springs
 Abel
 Abercrombie
