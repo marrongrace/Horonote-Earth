@@ -284,6 +284,24 @@ def localize_text(text, lang):
         
     return text
 
+def get_states_for_country(country_name):
+    """
+    選択された国名に対応する州や地域のリストをGitHubから取得する関数
+    """
+    # 例として、ファイル名が国名.jsonとなっている場合を想定
+    # (スペースや特殊文字をURLエンコードする必要がある場合があります)
+    try:
+        file_url = f"https://raw.githubusercontent.com/marrongrace/Horonote-Earth/main/PlaceAllData/{country_name}.txt"
+        response = requests.get(file_url)
+        if response.status_code == 200:
+            # JSON形式の場合の例
+            return response.txt()
+        else:
+            return []
+    except Exception as e:
+        print(f"Error loading states: {e}")
+        return []
+        
 def load_states_for_country(country_name):
     # ファイル名として安全な形式に変換（スペースをアンダースコアにするなど、必要に応じて）
     # 例: "United States of America" -> "United States of America.json" など
