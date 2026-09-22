@@ -427,39 +427,35 @@ def render_user_input_form(prefix, default_name, show_header=True):
         key=f"{prefix}_city_select_input"
     )
 
-    lat_val_key = f"{prefix}_input_lat_val"
-    lng_val_key = f"{prefix}_input_lng_val"
+    # 🔑 number_input と共有するセッションステートのキー
+    lat_key = f"{prefix}_lat_number_input"
+    lng_key = f"{prefix}_lng_number_input"
     current_selected_key = f"{prefix}_last_selected_city"
 
-    # 初期値の設定
-    if lat_val_key not in st.session_state: st.session_state[lat_val_key] = 51.5074
-    if lng_val_key not in st.session_state: st.session_state[lng_val_key] = -0.1278
+    # セッションステートの初期値（まだ無い場合のみセット）
+    if lat_key not in st.session_state:
+        st.session_state[lat_key] = 51.5074
+    if lng_key not in st.session_state:
+        st.session_state[lng_key] = -0.1278
 
-    # 🌟 都市が変更されたときの処理
+    # 🌟 都市が変更されたときに緯度・経度を取得してセッションステートを書き換える
     if selected_city and st.session_state.get(current_selected_key) != selected_city:
         lat, lng = fetch_lat_lng(selected_city, selected_state, selected_country)
         if lat is not None and lng is not None:
-            # ウィジェットのキーに直接新しい値を代入する
-            st.session_state[lat_key] = lat
-            st.session_state[lng_key] = lng
+            # 💡 key と同じセッションステートの値を直接書き換える！
+            st.session_state[lat_key] = float(lat)
+            st.session_state[lng_key] = float(lng)
         st.session_state[current_selected_key] = selected_city
         st.rerun()
 
-    is_valid = bool(selected_country and selected_city)
-
-    lat_key = f"{prefix}_lat_number_input"
-    lng_key = f"{prefix}_lng_number_input"
-
-    # セッションステートの値を直接 value に指定して number_input を表示
+    # 📌 【重要】value= を外し、key= のみにする（これでセッションステートの変更が画面に反映されるようになります）
     input_lat = st.number_input(
         t["lat_input"], 
-        value=float(st.session_state[lat_val_key]), 
         format="%.4f", 
         key=lat_key
     )
     input_lng = st.number_input(
         t["lng_input"], 
-        value=float(st.session_state[lng_val_key]), 
         format="%.4f", 
         key=lng_key
     )
