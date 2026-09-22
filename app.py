@@ -309,7 +309,6 @@ def fetch_lat_lng(city, state="", country=""):
     # 空でない要素をカンマ繋ぎのクエリにする
     query_parts = [p for p in [city, state, country] if p]
     query = ", ".join(query_parts)
-    print(f"Geocoding query: {query}") # 🔍 どんな文字で検索しているかターミナルで確認
     
     try:
         location = geolocator.geocode(query, timeout=10)
@@ -444,6 +443,10 @@ def render_user_input_form(prefix, default_name, show_header=True):
     if selected_city:
         if st.session_state.get(current_selected_key) != selected_city:
             lat, lng = fetch_lat_lng(selected_city, selected_state, selected_country)
+            
+            # 🔍 デバッグ用：画面に直接結果を表示してみる
+            st.write(f"DEBUG -> 検索都市: {selected_city} | 取得緯度: {lat} | 取得経度: {lng}")
+            
             if lat is not None and lng is not None:
                 st.session_state[lat_val_key] = lat
                 st.session_state[lng_val_key] = lng
