@@ -272,26 +272,16 @@ def localize_text(text, lang):
     return text
 
 # 💡 1人分の入力フォームを関数化
-
 def render_user_input_form(prefix, default_name, show_header=True):
     if show_header:
         header_text = t["p1_header"] if prefix == "p1" else t["p2_header"]
         st.subheader(header_text)
 
     user_name = st.text_input(t["name_input"], value=default_name, key=f"{prefix}_user_name_input")
-    
+
     default_birth_time = datetime.time(12, 0)
     birth_date = st.date_input(t["birth_date"], value=datetime.date(2000, 1, 1), min_value=datetime.date(1900, 1, 1), max_value=datetime.date(2100, 12, 31), key=f"{prefix}_birth_date_input")
     birth_time = st.time_input(t["birth_time"], value=default_birth_time, key=f"{prefix}_birth_time_input")
-    
-    # この関数で、入力値だけでなく変換済みの utc_dt も一緒に返してあげると便利です！
-    return {
-        "user_name": user_name,
-        "birth_date": birth_date,
-        "birth_time": birth_time,
-        "utc_dt": utc_dt,
-        # 「この他に緯度経度などがあればここに追加」
-    }
 
     # 🌍 国・州・地域のセレクトボックスに変更
 
