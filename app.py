@@ -1,11 +1,11 @@
 import datetime
+from zoneinfo import ZoneInfo
+import streamlit as st
 import os
 import re
 import pytz
-import streamlit as st
 import urllib.parse
 from horoscope_calc import validate_and_get_coords, get_chart_data, EPHE_PATH, get_cities_for_prefecture
-# from zoneinfo import ZoneInfo
 
 # get_synastry_data が horoscope_calc に無い場合の安全対策
 try:
