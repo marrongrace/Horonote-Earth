@@ -212,7 +212,7 @@ if "chart_data" not in st.session_state:
     st.markdown("")
     st.markdown("")
 
-    st.caption(f"ℹ️ {t['us_territory_note']}")
+    st.info(f"ℹ️ **Note for U.S. Territories:** {t['us_territory_note']}")
     st.markdown("")
     st.markdown("")
     st.markdown("")
