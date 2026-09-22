@@ -5,6 +5,7 @@ import os
 import re
 import pytz
 import urllib.parse
+import pandas as pd
 from horoscope_calc import validate_and_get_coords, get_chart_data, EPHE_PATH, get_cities_for_prefecture
 
 # get_synastry_data が horoscope_calc に無い場合の安全対策
@@ -283,6 +284,11 @@ def localize_text(text, lang):
         
     return text
 
+def load_states_for_country(country_name):
+    # ファイル名として安全な形式に変換（スペースをアンダースコアにするなど、必要に応じて）
+    # 例: "United States of America" -> "United States of America.json" など
+    file_url = f"https://raw.githubusercontent.com/marrongrace/Horonote-Earth/main/PlaceAllData/{country_name}.json"
+    
 # 💡 1人分の入力フォームを関数化
 def render_user_input_form(prefix, default_name, show_header=True):
     if show_header:
