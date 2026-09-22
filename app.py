@@ -416,8 +416,7 @@ def render_user_input_form(prefix, default_name, show_header=True):
         key=f"{prefix}_state_select_input"
     )
 
-    # 🏙️ 第3段階：都市・町・村を選ぶセレクトボックス（またはテキスト入力）
-    # ※州・県が選ばれたら、その中の都市リストを絞り込んで選べるようにします
+    # 🏙️ 第3段階：都市・町・村を選ぶセレクトボックス
     available_cities = get_cities_for_state(selected_country, selected_state) if selected_state else []
     selected_city = st.selectbox(
         "City / Location Name",
@@ -428,40 +427,47 @@ def render_user_input_form(prefix, default_name, show_header=True):
         key=f"{prefix}_city_select_input"
     )
 
-    # 🌟 ここでgeopyを使って自動で緯度・経度を更新する処理を差し込む
-    if selected_city:
-        lat, lng = fetch_lat_lng(selected_city, selected_state, selected_country)
-        if lat is not None and lng is not None:
-            st.session_state[f"{prefix}_input_lat_val"] = lat
-            st.session_state[f"{prefix}_input_lng_val"] = lng
+    # セッションステートの初期値キーを定義
+    lat_val_key = f"{prefix}_input_lat_val"
+    lng_val_key = f"{prefix}_input_lng_val"
 
-    # バリデーションや座標取得の判定（3段階すべて、または都市が決まったかで判定）
+    # 初期値のデフォルト設定（まだセッションに無い場合）
+    if lat_val_key not in st.session_state:
+        st.session_state[lat_val_key] = 51.5074
+    if lng_val_key not in st.session_state:
+        st.session_state[lng_val_key] = -0.1278
+
+    # 🌟 都市が選択されたときに緯度・経度を自動取得してセッションを更新する
+    # ※ 前回選んでいた都市から変わったかどうかも判定できるようにするとさらに確実です
+    current_selected_key = f"{prefix}_last_selected_city"
+    if selected_city:
+        if st.session_state.get(current_selected_key) != selected_city:
+            lat, lng = fetch_lat_lng(selected_city, selected_state, selected_country)
+            if lat is not None and lng is not None:
+                st.session_state[lat_val_key] = lat
+                st.session_state[lng_val_key] = lng
+            st.session_state[current_selected_key] = selected_city
+
+    # バリデーション判定
     is_valid = bool(selected_country and selected_city)
 
     lat_key = f"{prefix}_lat_number_input"
     lng_key = f"{prefix}_lng_number_input"
 
-    # セッションステートの初期値設定
-    if f"{prefix}_input_lat_val" not in st.session_state: st.session_state[f"{prefix}_input_lat_val"] = 51.5074
-    if f"{prefix}_input_lng_val" not in st.session_state: st.session_state[f"{prefix}_input_lng_val"] = -0.1278
-
-    # （※都市が選ばれたら、自動的にその都市の緯度経度やタイムゾーンがセットされるように連動させると完璧です！）
-    input_lat = st.number_input(t["lat_input"], value=st.session_state[f"{prefix}_input_lat_val"], format="%.4f", key=lat_key)
-    input_lng = st.number_input(t["lng_input"], value=st.session_state[f"{prefix}_input_lng_val"], format="%.4f", key=lng_key)
-
-    st.caption("* Please enter coordinates in decimal degrees")
-
-    return {
-        "user_name": user_name,
-        "birth_date": birth_date,
-        "birth_time": birth_time,
-        "selected_country": selected_country,
-        "selected_state": selected_state,
-        "selected_city": selected_city,
-        "input_lat": input_lat,
-        "input_lng": input_lng,
-        "is_valid": is_valid
-    }
+    # st.number_input に session_state の値を渡す
+    input_lat = st.number_input(
+        t["lat_input"], 
+        value=st.session_state[lat_val_key], 
+        format="%.4f", 
+        key=lat_key
+    )
+    input_lng = st.number_input(
+        t["lng_input"], 
+        value=st.session_state[lng_val_key], 
+        format="%.4f", 
+        key=lng_key
+    )
+    
 with st.sidebar:
     st.header(t["sidebar_header"])
     
