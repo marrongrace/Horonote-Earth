@@ -283,7 +283,12 @@ def render_user_input_form(prefix, default_name, show_header=True):
     birth_time = st.time_input(t["birth_time"], value=default_birth_time, key=f"{prefix}_birth_time_input")
 
     # 🌍 国・州・地域のセレクトボックスに変更
-    selected_country = st.selectbox("Country / Region", COUNTRY_OPTIONS, index=0, key=f"{prefix}_country_select_input")
+    input_country = st.text_input(
+        "Country / Region",
+        value="",  # 最初は空っぽにしておく
+        placeholder="Please select a country/region",  # ← ここがうっすら見えるガイド文字になります！
+        key=f"{prefix}_country_text_input"
+    )
     
     # 🏙️ 都市名を入力するテキストボックス（例: Tokyo, London など）
     input_city_name = st.text_input(
