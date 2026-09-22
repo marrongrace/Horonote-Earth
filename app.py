@@ -437,7 +437,7 @@ def render_user_input_form(prefix, default_name, show_header=True):
 
     # 🌟 都市が変更されたときの処理
     if selected_city and st.session_state.get(current_selected_key) != selected_city:
-    lat, lng = fetch_lat_lng(selected_city, selected_state, selected_country)
+        lat, lng = fetch_lat_lng(selected_city, selected_state, selected_country)
         if lat is not None and lng is not None:
             # ウィジェットのキーに直接新しい値を代入する
             st.session_state[lat_key] = lat
