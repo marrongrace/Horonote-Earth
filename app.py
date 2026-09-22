@@ -416,7 +416,7 @@ def render_user_input_form(prefix, default_name, show_header=True):
         key=f"{prefix}_state_select_input"
     )
 
-    # 🏙️ 第3段階：都市・町・村を選ぶセレクトボックス
+    # 🏙️ 第3段階：都市を選ぶセレクトボックス
     available_cities = get_cities_for_state(selected_country, selected_state) if selected_state else []
     selected_city = st.selectbox(
         "City / Location Name",
@@ -427,47 +427,39 @@ def render_user_input_form(prefix, default_name, show_header=True):
         key=f"{prefix}_city_select_input"
     )
 
-    # セッションステートの初期値キーを定義
     lat_val_key = f"{prefix}_input_lat_val"
     lng_val_key = f"{prefix}_input_lng_val"
-
-    # 初期値のデフォルト設定（まだセッションに無い場合）
-    if lat_val_key not in st.session_state:
-        st.session_state[lat_val_key] = 51.5074
-    if lng_val_key not in st.session_state:
-        st.session_state[lng_val_key] = -0.1278
-
-    # 🌟 都市が選択されたときに緯度・経度を自動取得してセッションを更新する
-    # ※ 前回選んでいた都市から変わったかどうかも判定できるようにするとさらに確実です
     current_selected_key = f"{prefix}_last_selected_city"
-    if selected_city:
-        if st.session_state.get(current_selected_key) != selected_city:
-            lat, lng = fetch_lat_lng(selected_city, selected_state, selected_country)
-            
-            # 🔍 デバッグ用：画面に直接結果を表示してみる
-            st.write(f"DEBUG -> 検索都市: {selected_city} | 取得緯度: {lat} | 取得経度: {lng}")
-            
-            if lat is not None and lng is not None:
-                st.session_state[lat_val_key] = lat
-                st.session_state[lng_val_key] = lng
-            st.session_state[current_selected_key] = selected_city
 
-    # バリデーション判定
+    # 初期値の設定
+    if lat_val_key not in st.session_state: st.session_state[lat_val_key] = 51.5074
+    if lng_val_key not in st.session_state: st.session_state[lng_val_key] = -0.1278
+
+    # 🌟 都市が変更されたときの処理
+    if selected_city and st.session_state.get(current_selected_key) != selected_city:
+        lat, lng = fetch_lat_lng(selected_city, selected_state, selected_country)
+        if lat is not None and lng is not None:
+            st.session_state[lat_val_key] = lat
+            st.session_state[lng_val_key] = lng
+        st.session_state[current_selected_key] = selected_city
+        # 値を更新した直後にアプリを再描画させて number_input に反映させる
+        st.rerun()
+
     is_valid = bool(selected_country and selected_city)
 
     lat_key = f"{prefix}_lat_number_input"
     lng_key = f"{prefix}_lng_number_input"
 
-    # st.number_input に session_state の値を渡す
+    # セッションステートの値を直接 value に指定して number_input を表示
     input_lat = st.number_input(
         t["lat_input"], 
-        value=st.session_state[lat_val_key], 
+        value=float(st.session_state[lat_val_key]), 
         format="%.4f", 
         key=lat_key
     )
     input_lng = st.number_input(
         t["lng_input"], 
-        value=st.session_state[lng_val_key], 
+        value=float(st.session_state[lng_val_key]), 
         format="%.4f", 
         key=lng_key
     )
