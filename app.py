@@ -441,12 +441,17 @@ def render_user_input_form(prefix, default_name, show_header=True):
     # 🌟 都市が変更されたときに緯度・経度を取得してセッションステートを書き換える
     if selected_city and st.session_state.get(current_selected_key) != selected_city:
         lat, lng = fetch_lat_lng(selected_city, selected_state, selected_country)
+        
         if lat is not None and lng is not None:
-            # 💡 key と同じセッションステートの値を直接書き換える！
+            # 💡 正常に取得できた場合のみ、値を更新してフラグを進める
             st.session_state[lat_key] = float(lat)
             st.session_state[lng_key] = float(lng)
-        st.session_state[current_selected_key] = selected_city
-        st.rerun()
+            st.session_state[current_selected_key] = selected_city
+            st.rerun()
+        else:
+            # ⚠️ 取得に失敗した場合は、警告を出しつつフラグを進めない（再挑戦できるようにする）
+            st.warning(f"「{selected_city}」の緯度・経度の取得に失敗しました。時間をおいて再度お試しいただくか、手動で入力してください。")
+            # フラグは更新しないため、ユーザーがもう一度選び直せる
 
     # 📌 【重要】value= を外し、key= のみにする（これでセッションステートの変更が画面に反映されるようになります）
     input_lat = st.number_input(
