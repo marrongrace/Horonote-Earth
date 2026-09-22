@@ -309,7 +309,7 @@ def fetch_lat_lng(city, state="", country=""):
     # 空でない要素をカンマ繋ぎのクエリにする
     query_parts = [p for p in [city, state, country] if p]
     query = ", ".join(query_parts)
-    print(f"Geocoding query: {query}")　# 🔍 どんな文字で検索しているかターミナルで確認
+    print(f"Geocoding query: {query}") # 🔍 どんな文字で検索しているかターミナルで確認
     
     try:
         location = geolocator.geocode(query, timeout=10)
