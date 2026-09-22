@@ -8,6 +8,26 @@ from horoscope_calc import validate_and_get_coords, get_chart_data, EPHE_PATH, g
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
+# 1. 画面でユーザーが入力した日付と時間（例）
+input_date = st.date_input("Date", value=datetime.date(2026, 9, 22))
+input_time = st.time_input("Time", value=datetime.time(12, 0))
+
+# 2. 選択された都市データからタイムゾーンを取得（例: "Europe/London"）
+# （※今後、国・都市データから取得する文字列です）
+selected_timezone_str = "Europe/London" 
+
+# --- ★ ここから先ほどの一連のコードをセットします ★ ---
+
+# ① 日付と時間を一度ドッキングさせる（まだタイムゾーンがない「ナイーブ」な状態）
+naive_dt = datetime.datetime.combine(input_date, input_time)
+
+# ② 選んだ都市のタイムゾーン情報をくっつける（これで「アウェア」な状態になる）
+tz = ZoneInfo(selected_timezone_str)
+local_dt = naive_dt.replace(tzinfo=tz)
+
+# ③ 必要に応じて、ホロスコープ計算用に世界標準時（UTC）に変換する
+utc_dt = local_dt.astimezone(ZoneInfo("UTC"))
+
 # get_synastry_data が horoscope_calc に無い場合の安全対策
 try:
     from horoscope_calc import get_synastry_data
