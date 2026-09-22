@@ -81,7 +81,7 @@ t = {
     "birth_time": "Birth Time (JST)",
     "pref_select": "Prefecture / Region",
     "pref_default": "Please select a region",
-    "city_input": "City / Location Name (e.g., Kazo)",
+    "city_input": "City / Location Name (e.g. London)",
     "lat_input": "Latitude",
     "lng_input": "Longitude",
     "lat_caption": "💡 Auto-fetched or from Google Maps",
