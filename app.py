@@ -282,6 +282,24 @@ def render_user_input_form(prefix, default_name, show_header=True):
     default_birth_time = datetime.time(12, 0)
     birth_date = st.date_input(t["birth_date"], value=datetime.date(2000, 1, 1), min_value=datetime.date(1900, 1, 1), max_value=datetime.date(2100, 12, 31), key=f"{prefix}_birth_date_input")
     birth_time = st.time_input(t["birth_time"], value=default_birth_time, key=f"{prefix}_birth_time_input")
+    
+    # --- 🌟 ここで入力された日時とタイムゾーンを合体・変換する ---
+    # （※例としてここでは固定のタイムゾーン文字列を使っていますが、都市選択の結果が入ります）
+    selected_timezone_str = "Europe/London" 
+    
+    naive_dt = datetime.datetime.combine(birth_date, birth_time)
+    tz = ZoneInfo(selected_timezone_str)
+    local_dt = naive_dt.replace(tzinfo=tz)
+    utc_dt = local_dt.astimezone(ZoneInfo("UTC"))
+    
+    # この関数で、入力値だけでなく変換済みの utc_dt も一緒に返してあげると便利です！
+    return {
+        "user_name": user_name,
+        "birth_date": birth_date,
+        "birth_time": birth_time,
+        "utc_dt": utc_dt,
+        # 「この他に緯度経度などがあればここに追加」
+    }
 
     # 🌍 国・州・地域のセレクトボックスに変更
 
