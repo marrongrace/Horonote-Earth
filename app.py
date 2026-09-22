@@ -305,7 +305,7 @@ def get_states_for_country(country_name):
 def load_states_for_country(country_name):
     # ファイル名として安全な形式に変換（スペースをアンダースコアにするなど、必要に応じて）
     # 例: "United States of America" -> "United States of America.json" など
-    file_url = f"https://raw.githubusercontent.com/marrongrace/Horonote-Earth/main/PlaceAllData/{country_name}.json"
+    file_url = f"https://raw.githubusercontent.com/marrongrace/Horonote-Earth/main/PlaceAllData/{country_name}.txt"
     
 # 💡 1人分の入力フォームを関数化
 def render_user_input_form(prefix, default_name, show_header=True):
