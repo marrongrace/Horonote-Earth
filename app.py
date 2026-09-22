@@ -283,7 +283,15 @@ def render_user_input_form(prefix, default_name, show_header=True):
     birth_time = st.time_input(t["birth_time"], value=default_birth_time, key=f"{prefix}_birth_time_input")
 
     # 🌍 国・州・地域のセレクトボックスに変更
-    selected_country = st.selectbox("Country / Region", COUNTRY_OPTIONS, index=0, key=f"{prefix}_country_select_input")
+
+# 2. st.selectbox に placeholder と index=None を指定する
+    selected_country = st.selectbox(
+        "Country / Region",
+        options=GLOBAL_COUNTRIES,
+        index=None,  # 最初は何も選択されていない状態にする
+        placeholder="Please select a country/region",  # ← これがうっすらとプレースホルダー表示されます！
+        key=f"{prefix}_country_select_input"
+    )
     
     # 🏙️ 都市名を入力するテキストボックス（例: Tokyo, London など）
     input_city_name = st.text_input(
