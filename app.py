@@ -114,7 +114,7 @@ t = {
     "comp_card_desc": "Merges two birth charts to analyze the shared dynamic, bonds, and partnership theme.",
     "tra_card_title": "🌌 Transit Reading",
     "tra_card_desc": "Examines how current planetary movements interact with your natal chart to reveal present influences.",
-    "us_territory_note":For U.S. territories and islands (American Samoa, Guam, Midway Islands, Northern Mariana Islands, Puerto Rico, Virgin Islands, Wake Island), select "United States of America" as the country, and then select the appropriate option in the "State / Province / Region" field.
+    "us_territory_note":For U.S. territories and islands (American Samoa, Guam, Midway Islands, Northern Mariana Islands, Puerto Rico, Virgin Islands, Wake Island), select "United States of America" as the country, and then select the appropriate option in the "State / Province / Region" field,
     "guide_link_text": "For detailed instructions on how to use this app, [click here](https://note.com/marroscorps/n/ncfc7216cd870)",
     "guide_link_text": "For detailed instructions on how to use this app, [click here](https://note.com/marroscorps/n/ncfc7216cd870)  \n<span style='font-size: 0.85rem; color: #888888;'>(Note: The linked article is in Japanese. Please use your browser's translation feature to read it.)</span>"
 }
