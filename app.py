@@ -80,9 +80,15 @@ t = {
     "name_input": "Name / Label",
     "birth_date": "Birth Date",
     "birth_time": "Birth Time",
-    "pref_select": "Prefecture / Region",
-    "pref_default": "Please select a region",
-    "city_input": "City / Location Name (e.g. London)",
+    
+    # 🌍 ここから下の地域選択に関する文言をグローバル用にアップデート
+    "country_select": "Country / Region",
+    "country_default": "Please select a country/region",
+    "state_select": "State / Province / Region",
+    "state_default": "Please select state/region",
+    "city_select": "City / Location Name",
+    "city_default": "Please select city",
+    
     "lat_input": "Latitude",
     "lng_input": "Longitude",
     "lat_caption": "💡 Auto-fetched or from Google Maps",
@@ -96,8 +102,10 @@ t = {
     "houses_tab": "🏠 12 Houses",
     "aspects_tab": "🔗 Aspects",
     "patterns_tab": "💎 Complex Patterns",
+    
     "invalid_pref_error": "Please select a prefecture/region.",
     "invalid_loc_error": "Please enter a valid location within the prefecture.",
+    
     "welcome_desc": "Please input your birth data and select a reading mode from the sidebar, then click '✨ Create Horoscope'.",
     "mobile_tip": "If you are using a smartphone, tap the `>>` at the top left to open the sidebar.",
     "chart_intro_heading": "📊 Chart Overview",
@@ -283,30 +291,41 @@ def render_user_input_form(prefix, default_name, show_header=True):
     birth_date = st.date_input(t["birth_date"], value=datetime.date(2000, 1, 1), min_value=datetime.date(1900, 1, 1), max_value=datetime.date(2100, 12, 31), key=f"{prefix}_birth_date_input")
     birth_time = st.time_input(t["birth_time"], value=default_birth_time, key=f"{prefix}_birth_time_input")
 
-# 🌍 国・州・地域のセレクトボックスに変更
+    # 🌍 第1段階：国名を選ぶセレクトボックス
     selected_country = st.selectbox(
         "Country / Region",
-        options=GLOBAL_COUNTRIES,
-        index=None,  # 最初は何も選択されていない状態にする
-        placeholder="Please select a country/region",  # ← これがうっすらとプレースホルダー表示されます！
+        options=GLOBAL_COUNTRIES,  # 国のリスト
+        index=None,
+        placeholder="Please select a country/region",
         key=f"{prefix}_country_select_input"
     )
     
-    # 🏙️ 都市名を入力するテキストボックス（例: Tokyo, London など）
-    input_city_name = st.text_input(
-        t["city_input"], 
-        value="London" if prefix == "p1" else "New York", 
-        placeholder="e.g., London, Paris, Tokyo", 
-        key=f"{prefix}_city_input_global"
+    # 🗺️ 第2段階：州・県などの区分を選ぶセレクトボックス（国が選ばれた時だけ有効にする）
+    # ※選ばれた国に紐づく州・県のリストを動的に取得するイメージです
+    available_states = get_states_for_country(selected_country) if selected_country else []
+    selected_state = st.selectbox(
+        "State / Province / Region",
+        options=available_states,
+        index=None,
+        placeholder="Please select state/region",
+        disabled=not available_states, # 国が未選択ならロックする
+        key=f"{prefix}_state_select_input"
     )
 
-    # バリデーションや座標取得の判定
-    is_valid = selected_country != country_default and bool(input_city_name.strip())
+    # 🏙️ 第3段階：都市・町・村を選ぶセレクトボックス（またはテキスト入力）
+    # ※州・県が選ばれたら、その中の都市リストを絞り込んで選べるようにします
+    available_cities = get_cities_for_state(selected_country, selected_state) if selected_state else []
+    selected_city = st.selectbox(
+        "City / Location Name",
+        options=available_cities,
+        index=None,
+        placeholder="Please select city",
+        disabled=not available_cities,
+        key=f"{prefix}_city_select_input"
+    )
 
-    if selected_country == country_default:
-        st.markdown(f"<p style='color: #ff4b4b; font-size: 0.82em; margin-top: -8px; margin-bottom: 8px;'>⚠️ Please select a country/region.</p>", unsafe_allow_html=True)
-    elif not input_city_name.strip():
-        st.markdown(f"<p style='color: #ff4b4b; font-size: 0.82em; margin-top: -8px; margin-bottom: 8px;'>⚠️ Please enter a city name.</p>", unsafe_allow_html=True)
+    # バリデーションや座標取得の判定（3段階すべて、または都市が決まったかで判定）
+    is_valid = bool(selected_country and selected_city)
 
     lat_key = f"{prefix}_lat_number_input"
     lng_key = f"{prefix}_lng_number_input"
@@ -315,6 +334,7 @@ def render_user_input_form(prefix, default_name, show_header=True):
     if f"{prefix}_input_lat_val" not in st.session_state: st.session_state[f"{prefix}_input_lat_val"] = 51.5074
     if f"{prefix}_input_lng_val" not in st.session_state: st.session_state[f"{prefix}_input_lng_val"] = -0.1278
 
+    # （※都市が選ばれたら、自動的にその都市の緯度経度やタイムゾーンがセットされるように連動させると完璧です！）
     input_lat = st.number_input(t["lat_input"], value=st.session_state[f"{prefix}_input_lat_val"], format="%.4f", key=lat_key)
     input_lng = st.number_input(t["lng_input"], value=st.session_state[f"{prefix}_input_lng_val"], format="%.4f", key=lng_key)
 
@@ -325,12 +345,12 @@ def render_user_input_form(prefix, default_name, show_header=True):
         "birth_date": birth_date,
         "birth_time": birth_time,
         "selected_country": selected_country,
-        "input_city_name": input_city_name,
+        "selected_state": selected_state,
+        "selected_city": selected_city,
         "input_lat": input_lat,
         "input_lng": input_lng,
         "is_valid": is_valid
     }
-
 with st.sidebar:
     st.header(t["sidebar_header"])
     
