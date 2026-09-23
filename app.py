@@ -605,10 +605,16 @@ with st.sidebar:
     )
 
 # ==========================================
+# グローバル言語設定（安全な定義）
+# ==========================================
+if "lang" not in globals():
+    lang = "日本語"
+
+# ==========================================
 # 送信ボタン押下時の処理
 # ==========================================
 if submit_button:
-    # バリデーションチェック（グローバル対応版）
+    # バリデーションチェック
     p1_error = False
     if not p1_data["selected_country"]:
         st.error(f"1人目: {t['invalid_country_error']}")
@@ -628,6 +634,10 @@ if submit_button:
 
     if not p1_error and not p2_error:
         with st.spinner(t["loading"]):
+
+            # 表示用・計算用に都市名やロケーション情報を構築
+            # 例: "Abanda, Alabama, United States of America" のようなフルパスを作るか、都市名単体にする
+            p1_loc_full = f"{p1_data['input_city_name']}, {p1_data['selected_state']}, {p1_data['selected_country']}"
             
             # ── 1. トランジットモードの場合 ──
             if is_transit:
@@ -641,7 +651,7 @@ if submit_button:
                     p1_data["birth_date"].year, p1_data["birth_date"].month, p1_data["birth_date"].day,
                     p1_data["birth_time"].hour, p1_data["birth_time"].minute,
                     p1_data["input_lat"], p1_data["input_lng"],
-                    p1_data["input_city_name"], lang, toggle_view, unknown_checkbox,
+                    p1_loc_full, lang, toggle_view, unknown_checkbox,
                     transit_info=transit_info
                 )
                 
@@ -654,12 +664,14 @@ if submit_button:
 
             # ── 2. コンポジット（合成図）モードの場合 ──
             elif is_composite:
+                p2_loc_full = f"{p2_data['input_city_name']}, {p2_data['selected_state']}, {p2_data['selected_country']}"
+                
                 data1 = get_chart_data(
                     p1_data["user_name"],
                     p1_data["birth_date"].year, p1_data["birth_date"].month, p1_data["birth_date"].day,
                     p1_data["birth_time"].hour, p1_data["birth_time"].minute,
                     p1_data["input_lat"], p1_data["input_lng"],
-                    p1_data["input_city_name"], lang, toggle_view, unknown_checkbox
+                    p1_loc_full, lang, toggle_view, unknown_checkbox
                 )
                 
                 data2 = get_chart_data(
@@ -667,7 +679,7 @@ if submit_button:
                     p2_data["birth_date"].year, p2_data["birth_date"].month, p2_data["birth_date"].day,
                     p2_data["birth_time"].hour, p2_data["birth_time"].minute,
                     p2_data["input_lat"], p2_data["input_lng"],
-                    p2_data["input_city_name"], lang, toggle_view, unknown_checkbox
+                    p2_loc_full, lang, toggle_view, unknown_checkbox
                 )
                 
                 from horoscope_calc import calculate_composite_bodies, calculate_aspects
@@ -688,28 +700,31 @@ if submit_button:
 
             # ── 3. シナストリー（相性）モードの場合 ──
             elif is_synastry:
+                p2_loc_full = f"{p2_data['input_city_name']}, {p2_data['selected_state']}, {p2_data['selected_country']}"
+                
                 if get_synastry_data is not None:
                     p1_info = {
                         "name": p1_data["user_name"],
                         "year": p1_data["birth_date"].year, "month": p1_data["birth_date"].month, "day": p1_data["birth_date"].day,
                         "hour": p1_data["birth_time"].hour, "minute": p1_data["birth_time"].minute,
                         "lat": p1_data["input_lat"], "lng": p1_data["input_lng"],
-                        "city": p1_data["input_city_name"], "is_unknown_time": unknown_checkbox
+                        "city": p1_loc_full, "is_unknown_time": unknown_checkbox
                     }
                     p2_info = {
                         "name": p2_data["user_name"],
                         "year": p2_data["birth_date"].year, "month": p2_data["birth_date"].month, "day": p2_data["birth_date"].day,
                         "hour": p2_data["birth_time"].hour, "minute": p2_data["birth_time"].minute,
                         "lat": p2_data["input_lat"], "lng": p2_data["input_lng"],
-                        "city": p2_data["input_city_name"], "is_unknown_time": unknown_checkbox
+                        "city": p2_loc_full, "is_unknown_time": unknown_checkbox
                     }
                     data = get_synastry_data(p1_info, p2_info, mode=lang, display_mode=toggle_view)
                 else:
                     data = get_chart_data(
                         f"{p1_data['user_name']} & {p2_data['user_name']}", 
                         p1_data["birth_date"].year, p1_data["birth_date"].month, p1_data["birth_date"].day,
-                        p1_data["birth_time"].hour, p1_data["birth_time"].minute, p1_data["input_lat"], p1_data["input_lng"],
-                        p1_data["input_city_name"], lang, toggle_view, unknown_checkbox
+                        p1_data["birth_time"].hour, p1_data["birth_time"].minute, 
+                        p1_data["input_lat"], p1_data["input_lng"],
+                        p1_loc_full, lang, toggle_view, unknown_checkbox
                     )
                 st.session_state.chart_data = data
                 st.session_state.user_name = p1_data["user_name"]
@@ -718,7 +733,7 @@ if submit_button:
                 st.session_state.is_composite = False
                 st.session_state.is_transit = False
                 st.rerun()
-
+            
             # ── 4. シングル（ネイタル）モードの場合 ──
             else:
                 data = get_chart_data(
@@ -726,7 +741,7 @@ if submit_button:
                     p1_data["birth_date"].year, p1_data["birth_date"].month, p1_data["birth_date"].day,
                     p1_data["birth_time"].hour, p1_data["birth_time"].minute,
                     p1_data["input_lat"], p1_data["input_lng"],
-                    p1_data["input_city_name"], lang, toggle_view, unknown_checkbox
+                    p1_loc_full, lang, toggle_view, unknown_checkbox
                 )
                 st.session_state.chart_data = data
                 st.session_state.user_name = p1_data["user_name"]
