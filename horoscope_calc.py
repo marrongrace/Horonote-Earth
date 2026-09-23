@@ -528,17 +528,26 @@ def detect_patterns(bodies):
             unique.append(pat)
     return unique
 
-def get_chart_data(name, year, month, day, hour, minute, lat, lng, city_display_name, view_type, is_unknown_time):
-    calc_h, calc_m = (12, 0) if is_unknown_time else (hour, minute)
-    with warnings.catch_warnings():
-        warnings.simplefilter("ignore")
-        try:
-            chart = AstrologicalSubject(
-                name=name, year=year, month=month, day=day,
-                hour=calc_h, minute=calc_m, lat=lat, lng=lng
-            )
-        except Exception as e:
-            return {"error": f"Horoscope calculation error: {str(e)}"}
+def get_chart_data(u_name, year, month, day, hour, minute, lat, lng, tz_str="UTC"):
+    try:
+        # UIから正しく取得した lat と lng を直接渡す
+        # city名でデータベース検索させず、座標を優先させるため city には任意の文字列や空文字を指定
+        chart = AstrologicalSubject(
+            name=u_name,
+            year=year,
+            month=month,
+            day=day,
+            hour=hour,
+            minute=minute,
+            lat=lat,
+            lng=lng,
+            tz_str=tz_str  # タイムゾーン（例: "America/Chicago" など）
+        )
+        
+        # 以下、計算結果の取得処理...
+        return chart
+    except Exception as e:
+        return {"error": str(e)}
 
     bodies_meta = [
         ("Sun", chart.sun), ("Moon", chart.moon), ("Mercury", chart.mercury),
