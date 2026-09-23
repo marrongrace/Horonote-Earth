@@ -1027,7 +1027,7 @@ if "chart_data" in st.session_state:
 
         st.markdown(f"""
         <div style="padding: 20px; border: 2px solid #D4AF37; border-radius: 12px; background: linear-gradient(135deg, rgba(212,175,55,0.05), rgba(75,0,130,0.05)); text-align: center; margin-bottom: 25px;">
-            <h2 style="margin: 0; color: #B8860B;">✨ {u_name} {"さんのホロスコープ" if lang=="日本語" else "'s Horoscope Reading"} ✨</h2>
+            <h2 style="margin: 0; color: #B8860B;">✨ {u_name}'s Horoscope Reading ✨</h2>
             <p style="margin: 10px 0 0 0; font-size: 1.1em; color: #555;">📅 {data['date_str']}<br>📍 {display_loc_str}</p>
         </div>
         """, unsafe_allow_html=True)
