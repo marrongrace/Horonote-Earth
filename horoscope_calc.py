@@ -528,7 +528,7 @@ def detect_patterns(bodies):
             unique.append(pat)
     return unique
 
-ddef get_chart_data(u_name, year, month, day, hour, minute, lat, lng, tz_str="UTC"):
+def get_chart_data(u_name, year, month, day, hour, minute, lat, lng, tz_str="UTC"):
     try:
             # city 引数を外し、緯度・経度と日時に基づいて計算させる
             chart = AstrologicalSubject(
