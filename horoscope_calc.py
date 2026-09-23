@@ -528,9 +528,11 @@ def detect_patterns(bodies):
             unique.append(pat)
     return unique
 
-def get_chart_data(u_name, year, month, day, hour, minute, lat, lng, tz_str="UTC"):
-    try:
-            # city 引数を外し、緯度・経度と日時に基づいて計算させる
+def get_chart_data(name, year, month, day, hour, minute, lat, lng, city_display_name, view_type, is_unknown_time):
+    calc_h, calc_m = (12, 0) if is_unknown_time else (hour, minute)
+    with warnings.catch_warnings():
+        warnings.simplefilter("ignore")
+        try:
             chart = AstrologicalSubject(
                 name=name, 
                 year=year, 
