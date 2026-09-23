@@ -834,7 +834,7 @@ if "chart_data" in st.session_state:
             st.code(full_text, language="text")
             
             st.download_button(
-                label="💾 テキストファイルとしてダウンロード / Download as text",
+                label="💾 Download as text",
                 data="\ufeff" + full_text,
                 file_name=f"transit_{u_name}.txt",
                 mime="text/plain;charset=utf-8"
@@ -870,8 +870,8 @@ if "chart_data" in st.session_state:
     elif current_is_composite or data.get("type") == "composite":
         st.markdown(f"""
         <div style="padding: 20px; border: 2px solid #D4AF37; border-radius: 12px; background: linear-gradient(135deg, rgba(212,175,55,0.05), rgba(75,0,130,0.05)); text-align: center; margin-bottom: 25px;">
-            <h2 style="margin: 0; color: #B8860B;">☯️ {u_name} & {p2_name} のコンポジットチャート</h2>
-            <p style="margin: 10px 0 0 0; font-size: 1.1em; color: #555;">2人の出生図を合成したパートナーシップの象徴</p>
+            <h2 style="margin: 0; color: #B8860B;">☯️ {u_name} & {p2_name} 's Composit Chart</h2>
+            <p style="margin: 10px 0 0 0; font-size: 1.1em; color: #555;">A symbol of partnership created by combining the birth charts of two people</p>
         </div>
         """, unsafe_allow_html=True)
         st.stop()
@@ -906,7 +906,7 @@ if "chart_data" in st.session_state:
         col1, col2 = st.columns(2)
         
         with col1:
-            st.markdown("#### ■ コンポジット天体位置" if lang == "日本語" else "#### ■ Composite Bodies")
+            st.markdown("#### ■ Composite Celestial Object Position" if lang == "日本語" else "#### ■ Composite Bodies")
             if bodies and isinstance(bodies, list):
                 for body in bodies:
                     if isinstance(body, dict):
@@ -926,10 +926,10 @@ if "chart_data" in st.session_state:
                         
                         st.markdown(f"- **{disp_name}** : {disp_sign} `{deg_str}`")
             else:
-                st.info("表示する天体データがありません。" if lang == "日本語" else "No bodies data.")
+                st.info("There is no celestial body data to display." if lang == "日本語" else "No bodies data.")
 
         with col2:
-            st.markdown("#### ■ コンポジット・アスペクト" if lang == "日本語" else "#### ■ Composite Aspects")
+            st.markdown("#### ■ Composit Aspects" if lang == "日本語" else "#### ■ Composite Aspects")
             if aspects:
                 if isinstance(aspects, str):
                     # **■ を消して、きれいなMarkdownの見出し（####）に変換する
@@ -940,13 +940,13 @@ if "chart_data" in st.session_state:
                         formatted_asp = format_aspect_item(asp)
                         st.markdown(f"- {localize_text(convert_to_dms(formatted_asp), lang)}")
             else:
-                st.info("該当するアスペクトはありません。" if lang == "日本語" else "No aspects found.")
+                st.info("There are no matching aspects." if lang == "日本語" else "No aspects found.")
 
         st.divider()
 
         # 📋 一括コピー（結果画面の下側）
-        with st.expander("📋 結果をテキストで一括コピー / Copy All Results"):
-            copy_lines = [f"【コンポジットチャート: {u_name} & {p2_name}】\n", "[コンポジット天体位置]"]
+        with st.expander("📋 Copy All Results"):
+            copy_lines = [f"【Composit Chart: {u_name} & {p2_name}】\n", "[Composite Celestial Object Position]"]
             if bodies and isinstance(bodies, list):
                 for body in bodies:
                     if isinstance(body, dict):
@@ -965,7 +965,7 @@ if "chart_data" in st.session_state:
                         copy_lines.append(f"- {disp_name} : {disp_sign} ({deg_str})")
             
             if aspects:
-                copy_lines.append("\n[コンポジット・アスペクト]")
+                copy_lines.append("\n[Composit Aspects]")
                 if isinstance(aspects, str):
                     # コピー用テキストからは ** や ■ を完全に削除してスッキリさせる
                     clean_copy_str = aspects.replace("**■ ", "").replace("**", "")
@@ -978,7 +978,7 @@ if "chart_data" in st.session_state:
             full_text = "\n".join(copy_lines)
             st.code(full_text, language="text")
             st.download_button(
-                label="💾 テキストファイルとしてダウンロード / Download as text",
+                label="💾 Download as text",
                 data="\ufeff" + full_text,
                 file_name=f"composite_{u_name}_{p2_name}.txt",
                 mime="text/plain;charset=utf-8"
