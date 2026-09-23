@@ -541,7 +541,7 @@ def get_chart_data(u_name, year, month, day, hour, minute, lat, lng, tz_str="UTC
             minute=minute,
             lat=lat,
             lng=lng,
-            tz_str=tz_str  # タイムゾーン（例: "America/Chicago" など）
+            tz_str="UTC"  # タイムゾーン（例: "America/Chicago" など）
         )
         
         # 以下、計算結果の取得処理...
