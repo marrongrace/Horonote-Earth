@@ -531,7 +531,7 @@ def detect_patterns(bodies):
 
 def get_chart_data(name, year, month, day, hour, minute, lat, lng, city_display_name, view_type, is_unknown_time):
     calc_h, calc_m = (12, 0) if is_unknown_time else (hour, minute)
-
+    
     # 1. 緯度・経度からタイムゾーン文字列を取得する
     tf = TimezoneFinder()
     timezone_str = tf.timezone_at(lat=lat, lng=lng)
@@ -539,11 +539,11 @@ def get_chart_data(name, year, month, day, hour, minute, lat, lng, city_display_
     # 万が一海の上などでタイムゾーンが取得できなかった場合の安全策（フォールバック）
     if not timezone_str:
         timezone_str = "UTC"
-    
+
     with warnings.catch_warnings():
         warnings.simplefilter("ignore")
         try:
-            # city や tz_str を使わず、渡された lat と lng だけをダイレクトに渡す
+            # 2. tz_str に取得したタイムゾーンを渡す
             chart = AstrologicalSubject(
                 name=name,
                 year=year,
@@ -552,8 +552,8 @@ def get_chart_data(name, year, month, day, hour, minute, lat, lng, city_display_
                 hour=calc_h,
                 minute=calc_m,
                 lat=lat,
-                lng=lng
-                tz_str=timezone_str
+                lng=lng,
+                tz_str=timezone_str  # ← ここに追加！
             )
         except Exception as e:
             return {"error": f"Horoscope calculation error: {str(e)}"}
