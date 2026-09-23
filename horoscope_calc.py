@@ -665,9 +665,10 @@ def get_chart_data(name, year, month, day, hour, minute, lat, lng, city_display_
     time_note = "(Assumed 12:00)" if is_unknown_time else ""
     date_str = f"{year}-{month:02d}-{day:02d} {calc_h:02d}:{calc_m:02d} {time_note}"
     
-    lat_str = to_dms(chart.lat, is_lat=True)
-    lng_str = to_dms(chart.lng, is_lat=False)
-    loc_str = f"[{city_display_name}] [{lat_str}, {lng_str} (Decimal: {chart.lat:.4f}, {chart.lng:.4f})]"
+    # chart.lat / chart.lng ではなく、引数で受け取った lat と lng から DMS文字列と十進数を作る
+    lat_str = to_dms(lat, is_lat=True)
+    lng_str = to_dms(lng, is_lat=False)
+    loc_str = f"[{city_display_name}] [{lat_str}, {lng_str} (Decimal: {lat:.4f}, {lng:.4f})]"
 
     midpoints_data = calculate_midpoints(all_aspect_objs, chart_angles=None)
 
