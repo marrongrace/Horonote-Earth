@@ -547,7 +547,7 @@ def get_chart_data(u_name, year, month, day, hour, minute, lat, lng, tz_str="UTC
         # 以下、計算結果の取得処理...
         return chart
     except Exception as e:
-        return {"error": str(e)}
+        return {"error": f"Horoscope calculation error: {str(e)}"}
 
     bodies_meta = [
         ("Sun", chart.sun), ("Moon", chart.moon), ("Mercury", chart.mercury),
