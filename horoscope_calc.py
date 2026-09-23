@@ -530,10 +530,20 @@ def detect_patterns(bodies):
 
 def get_chart_data(name, year, month, day, hour, minute, lat, lng, city_display_name, view_type, is_unknown_time):
     calc_h, calc_m = (12, 0) if is_unknown_time else (hour, minute)
+
+    # 世界中どこでも対応できるように、経度(lng)からおおよそのタイムゾーン（例: "Etc/GMT+5" など、またはUTCからのオフセット）を算出、あるいは自動調整
+    # 簡易的に経度から時差（時間）を計算: 15度で1時間
+    offset_hours = round(lng / 15.0)
+    
+    # Kerykeion が受け取れる tz_str の形式（例: "Etc/GMT-5" や "UTC" など）に変換
+    # ※Kerykeion/pytzは "Etc/GMT+/-XX" 形式のタイムゾーン文字列も解釈できます
+    sign = "+" if offset_hours <= 0 else "-" # Etc/GMTの符号は逆転することが多いため注意が必要ですが、
+    # 確実なのは "UTC" をベースにするか、ライブラリ内部の挙動に合わせることです。
+    
     with warnings.catch_warnings():
         warnings.simplefilter("ignore")
         try:
-            # ★ ここで city や tz_str を使わず、渡された lat と lng だけをダイレクトに渡す
+            # city や tz_str を使わず、渡された lat と lng だけをダイレクトに渡す
             chart = AstrologicalSubject(
                 name=name,
                 year=year,
@@ -543,6 +553,7 @@ def get_chart_data(name, year, month, day, hour, minute, lat, lng, city_display_
                 minute=calc_m,
                 lat=lat,
                 lng=lng
+                online=False              # 勝手なネット検索やデフォルト上書きを防止
             )
         except Exception as e:
             return {"error": f"Horoscope calculation error: {str(e)}"}
