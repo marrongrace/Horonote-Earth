@@ -737,12 +737,19 @@ if submit_button:
             # ── 4. シングル（ネイタル）モードの場合 ──
             else:
                 data = get_chart_data(
-                    p1_data["user_name"],
-                    p1_data["birth_date"].year, p1_data["birth_date"].month, p1_data["birth_date"].day,
-                    p1_data["birth_time"].hour, p1_data["birth_time"].minute,
-                    p1_data["input_lat"], p1_data["input_lng"],
-                    p1_loc_full, lang, toggle_view, unknown_checkbox
+                    p1_data["user_name"],                  # name
+                    p1_data["birth_date"].year,            # year
+                    p1_data["birth_date"].month,           # month
+                    p1_data["birth_date"].day,             # day
+                    p1_data["birth_time"].hour,            # hour
+                    p1_data["birth_time"].minute,          # minute
+                    p1_data["input_lat"],                  # lat
+                    p1_data["input_lng"],                  # lng
+                    p1_loc_full,                           # city_display_name
+                    toggle_view,                           # view_type (toggle_view)
+                    unknown_checkbox                       # is_unknown_time
                 )
+                
                 st.session_state.chart_data = data
                 st.session_state.user_name = p1_data["user_name"]
                 st.session_state.is_synastry = False
