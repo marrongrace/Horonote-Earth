@@ -553,7 +553,6 @@ def get_chart_data(name, year, month, day, hour, minute, lat, lng, city_display_
                 minute=calc_m,
                 lat=lat,
                 lng=lng
-                online=False              # 勝手なネット検索やデフォルト上書きを防止
             )
         except Exception as e:
             return {"error": f"Horoscope calculation error: {str(e)}"}
