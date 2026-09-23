@@ -1219,33 +1219,33 @@ if "chart_data" in st.session_state:
 
             copy_lines = []
             if lang == "日本語":
-                copy_lines.append(f"【ホロスコープ鑑定データ: {u_name}】")
+                copy_lines.append(f"【Horoscope Analysis Data: {u_name}】")
                 
                 if not hide_dt_loc:
-                    copy_lines.append(f"日時: {data['date_str']}")
-                    copy_lines.append(f"場所: {data['loc_str']}\n")
+                    copy_lines.append(f"Date and Time: {data['date_str']}")
+                    copy_lines.append(f"Location: {data['loc_str']}\n")
                 else:
                     copy_lines.append("")
 
                 if data["angles"]:
-                    copy_lines.append("[アングル]")
+                    copy_lines.append("[Angle]")
                     for a in data["angles"]:
                         copy_lines.append(f"- {clean_html(a)}")
                     copy_lines.append("")
                 
-                copy_lines.append("[天体配置]")
+                copy_lines.append("[Celestial Alignment]")
                 for b in data["bodies"]:
                     clean_b = clean_html(b)
                     clean_b = clean_b.replace("↳", " ↳ ")
                     copy_lines.append(f"- {clean_b}")
                     
-                copy_lines.append("\n[12ハウス]")
+                copy_lines.append("\n[12 Types of houses]")
                 for h in data["houses"]:
                     copy_lines.append(f"- {clean_html(h)}")
 
                 if data.get("house_rulers"):
                     ruler_mode = st.session_state.get("ruler_mode_radio", "5度前ルール適用なし")
-                    copy_lines.append(f"\n[ハウスルーラー（{ruler_mode}）]")
+                    copy_lines.append(f"\n[House ruler（{ruler_mode}）]")
                     
                     is_without = ruler_mode in ["5度前ルール適用なし", "Without 5-degree rule"]
                     target_rulers_for_copy = (
@@ -1259,18 +1259,18 @@ if "chart_data" in st.session_state:
                         formatted_r = clean_and_format_ruler(r_line, "日本語")
                         copy_lines.append(f"- {formatted_r}")
 
-                copy_lines.append("\n[主要アスペクト]")
+                copy_lines.append("\n[Aspects]")
                 clean_aspects = clean_html(data["aspects"]).replace("■ ", "")
                 copy_lines.append(clean_aspects)
 
                 if data["patterns"]:
-                    copy_lines.append("\n[複合アスペクト]")
+                    copy_lines.append("\n[Complex Patterns]")
                     for pat in data["patterns"]:
                         copy_lines.append(f"- {clean_html(pat)}")
 
                 midpoints_data = data.get("midpoints", [])
                 if midpoints_data:
-                    copy_lines.append("\n[ミッドポイント]")
+                    copy_lines.append("\n[Midpoints]")
                     for m_line in midpoints_data:
                         clean_m = clean_html(m_line).lstrip("- ").strip()
                         copy_lines.append(f"- {clean_m}")
@@ -1340,7 +1340,7 @@ if "chart_data" in st.session_state:
             boms_text = "\ufeff" + full_text
             
             st.download_button(
-                label="💾 テキストファイルとしてダウンロード / Download as text",
+                label="💾 Download as text",
                 data=boms_text,
                 file_name=f"horoscope_{u_name}.txt",
                 mime="text/plain;charset=utf-8"
