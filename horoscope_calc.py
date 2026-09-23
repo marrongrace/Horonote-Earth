@@ -528,7 +528,7 @@ def detect_patterns(bodies):
             unique.append(pat)
     return unique
 
-def get_chart_data(u_name, year, month, day, hour, minute, lat, lng, tz_str="UTC"):
+def get_chart_data(u_name, year, month, day, hour, minute, lat, lng):
     try:
         # UIから正しく取得した lat と lng を直接渡す
         # city名でデータベース検索させず、座標を優先させるため city には任意の文字列や空文字を指定
