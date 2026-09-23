@@ -31,33 +31,36 @@ st.markdown(f"""
 
 # グローバル国・州・地域マスターリスト（提供いただいたデータ[cite: 1]）
 GLOBAL_COUNTRIES = [
-    "Afghanistan", "Albania", "Algeria", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina",
-    "Armenia", "Australia", "Austria", "Azerbaijan",
+    "Afghanistan", "Alabama", "Alaska", "Albania", "Algeria", "American Samoa", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina",
+    "Arizona", "Arkansas", "Armenia", "Australia", "Austria", "Azerbaijan",
     "Bahamas", "Bahrain", "Bangladesh", "Barbados", "Belarus", "Belgium", "Belize", "Benin", "Bermuda", "Bhutan",
-    "Bolivia", "Bosnia and Herzegovina", "Botswana", "Brazil", "Brunei", "Bulgaria", "Burkina Faso", "Burundi", "Cambodia",
-    "Cameroon", "Canada", "Cape Verde", "Cayman Islands", "Central African Republic", "Chad", "Chile", "China", "Colombia",
-    "Comoros", "Congo", "Cook Islands", "Costa Rica", "Croatia", "Cuba", "Cyprus", "Czech Republic",
-    "Denmark", "Djibouti", "Dominica", "Dominican Republic", "Democratic Republic of the Congo", "East Timor", "Ecuador", "Egypt",
-    "El Salvador", "Equatorial Guinea", "Eritrea", "Estonia", "Eswatini", "Ethiopia", "Faeroe Islands", "Falkland Islands", "Fiji", "Finland",
+    "Bolivia", "Bosnia and Herzegovina", "Botswana", "Brazil", "Brunei", "Bulgaria", "Burkina Faso", "Burundi", "California", "Cambodia",
+    "Cameroon", "Canada", "Cape Verde", "Cayman Islands", "Central African Republic", "Chad","Chile", "China", "Colombia", "Colorado",
+    "Comoros", "Congo", "Connecticut","Cook Islands", "Costa Rica", "Croatia", "Cuba", "Cyprus", "Czech Republic",
+    "Delaware","Denmark", "District of Columbia", "Djibouti", "Dominica", "Dominican Republic","Democratic Republic of the Congo", "East Timor","Ecuador", "Egypt",
+    "El Salvador", "Equatorial Guinea", "Eritrea", "Estonia", "Eswatini", "Ethiopia", "Faeroe Islands", "Falkland Islands", "Fiji", "Finland", "Florida",
     "France", "French Guiana", "French Polynesia", "Gabon", "Gambia", "Georgia", "Germany", "Ghana", "Gibraltar", "Greece",
-    "Greenland", "Grenada", "Guadeloupe", "Guatemala", "Guernsey", "Guinea", "Guinea-Bissau", "Guyana", "Haiti",
-    "Honduras", "Hungary", "Iceland", "India", "Indonesia",
-    "Iran", "Iraq", "Ireland", "Isle of Man", "Israel", "Italy", "Ivory Coast", "Jamaica", "Japan", "Jersey",
-    "Jordan", "Kazakhstan", "Kenya", "Kiribati", "Kuwait", "Kyrgyzstan", "Laos", "Latvia",
-    "Lebanon", "Lesotho", "Liberia", "Libya", "Liechtenstein", "Lithuania", "Luxembourg", "Madagascar",
-    "Malawi", "Malaysia", "Maldives", "Mali", "Malta", "Marshall Islands", "Martinique",
-    "Mauritania", "Mauritius", "Mayotte", "Mexico", "Micronesia", "Moldova", "Monaco", "Mongolia", "Montserrat", "Morocco", "Mozambique", "Myanmar", "Namibia", "Nauru",
-    "Nepal", "Netherlands", "Netherlands Antilles", "New Caledonia", "New Zealand", "Nicaragua", "Niger", "Nigeria", "Niue", "Norfolk Islands", "North Macedonia",
-    "Norway", "Oman", "Pakistan", "Palau", "Palestine", "Panama", "Papua New Guinea",
-    "Paraguay", "Peru", "Philippines", "Pitcairn", "Poland", "Portugal", "Qatar", "Reunion",
-    "Romania", "Russia", "Rwanda", "Saint Helena", "Saint Kitts-Nevis", "Saint Lucia", "Saint Pierre and Miquelon", "Saint Vincent and Grenadines", "Samoa",
+    "Greenland", "Grenada", "Guadeloupe", "Guam", "Guatemala", "Guernsey", "Guinea", "Guinea-Bissau", "Guyana", "Haiti",
+    "Hawaii", "Honduras", "Hungary", "Iceland", "Idaho", "Illinois", "India", "Indiana", "Indonesia", "Iowa",
+    "Iran", "Iraq", "Ireland", "Isle of Man", "Israel", "Italy", "Ivory Coast", "Jamaica",  "Japan", "Jersey",
+    "Jordan", "Kansas", "Kazakhstan", "Kentucky", "Kenya", "Kiribati", "Kuwait", "Kyrgyzstan", "Laos", "Latvia",
+    "Lebanon", "Lesotho", "Liberia", "Libya", "Liechtenstein", "Lithuania", "Louisiana", "Luxembourg", "Madagascar",
+    "Maine", "Malawi", "Malaysia", "Maldives", "Mali", "Malta", "Marshall Islands", "Martinique", "Maryland", "Massachusetts",
+    "Mauritania", "Mauritius", "Mayotte", "Mexico", "Michigan", "Micronesia", "Midway Islands", "Minnesota", "Mississippi", "Missouri",
+    "Moldova", "Monaco", "Mongolia", "Montana", "Montserrat", "Morocco", "Mozambique", "Myanmar", "Namibia", "Nauru",
+    "Nebraska", "Nepal", "Netherlands", "Netherlands Antilles", "Nevada", "New Caledonia", "New Hampshire", "New Jersey", "New Mexico", "New York",
+    "New Zealand", "Nicaragua", "Niger", "Nigeria", "Niue", "Norfolk Islands", "North Carolina", "North Dakota", "North Macedonia", "Northern Mariana Islands",
+    "Norway", "Ohio", "Oklahoma", "Oman", "Oregon", "Pakistan", "Palau", "Palestine", "Panama", "Papua New Guinea",
+    "Paraguay", "Pennsylvania", "Peru", "Philippines", "Pitcairn", "Poland", "Portugal", "Puerto Rico", "Qatar", "Reunion",
+    "Rhode Island", "Romania", "Russia", "Rwanda", "Saint Helena", "Saint Kitts-Nevis", "Saint Lucia", "Saint Pierre and Miquelon", "Saint Vincent and Grenadines", "Samoa",
     "San Marino", "Sao Tome and Principe", "Saudi Arabia", "Senegal", "Seychelles", "Sierra Leone", "Singapore", "Slovakia", "Slovenia", "Solomon Islands",
-    "Somalia", "South Africa", "South Georgia", "Spain", "Sri Lanka", "Sudan", "Suriname",
-    "Sweden", "Switzerland", "Syria", "Taiwan", "Tajikistan", "Tanzania", "Thailand", "Togo",
+    "Somalia", "South Africa", "South Carolina", "South Dakota", "South Georgia", "Spain", "Sri Lanka", "Sudan", "Suriname",
+    "Sweden", "Switzerland", "Syria", "Taiwan", "Tajikistan", "Tanzania", "Tennessee", "Texas", "Thailand", "Togo",
     "Tokelau Islands", "Tonga", "Trinidad and Tobago", "Tunisia", "Turkey", "Turkmenistan", "Turks and Caicos", "Tuvalu", "Uganda", "Ukraine",
-    "United Arab Emirates", "United Kingdom", "United States of America", "Uruguay", "Uzbekistan", "Vanuatu", "Vatican City State", "Venezuela", "Vietnam",
-    "Western Sahara", "Yemen", "Yugoslavia", "Zambia", "Zimbabwe"
-]
+    "United Arab Emirates", "United Kingdom", "Uruguay", "Utah", "Uzbekistan", "Vanuatu", "Vatican City State", "Venezuela", "Vermont", "Vietnam", "Virgin Islands",
+    "Virginia", "Wake Island", "Wallis and Futuna", "Washington", "West Virginia", "Western Sahara", "Wisconsin", "Wyoming", "Yemen", "Yugoslavia", "Zambia",
+    "Zimbabwe"
+    ]
 
 country_default = "Please select a country/region"
 COUNTRY_OPTIONS = [country_default] + GLOBAL_COUNTRIES
@@ -406,7 +409,7 @@ def render_user_input_form(prefix, default_name, show_header=True):
     birth_date = st.date_input(t["birth_date"], value=datetime.date(2000, 1, 1), min_value=datetime.date(1900, 1, 1), max_value=datetime.date(2100, 12, 31), key=f"{prefix}_birth_date_input")
     birth_time = st.time_input(t["birth_time"], value=default_birth_time, key=f"{prefix}_birth_time_input")
 
-    # 🌍 第1段階：国名を選ぶセレクトボックス
+    # 🌍 第1段階：国名（または州名）の選択
     selected_country = st.selectbox(
         "Country / Region",
         options=GLOBAL_COUNTRIES,
@@ -415,26 +418,37 @@ def render_user_input_form(prefix, default_name, show_header=True):
         key=f"{prefix}_country_select_input"
     )
     
-    # 🗺️ 第2段階：州・県などの区分を選ぶセレクトボックス
-    available_states = get_states_for_country(selected_country) if selected_country else []
-    selected_state = st.selectbox(
-        "State / Province / Region",
-        options=available_states,
-        index=None,
-        placeholder="Please select state/region",
-        disabled=not available_states,
-        key=f"{prefix}_state_select_input"
-    )
+    # 🏙️ 第2段階：選択された国に紐づく「場所（都市リスト）」をGitHub等から取得
+    # ※もし州の概念を省いて直接都市リストを取る場合、あるいは get_states_for_country の代わりに都市ファイルを読む形にします
+    city_data_map = {}
+    if selected_country:
+        # ここでは例として、国名に対応するファイルから直接都市データ（辞書）を取得する関数を想定
+        # 州を挟まずに "Country.txt" の中に「都市名, 緯度, 経度」が入っている構造の場合：
+        encoded_country_name = urllib.parse.quote(selected_country)
+        file_url = f"https://raw.githubusercontent.com/{GITHUB_REPO_OWNER}/{GITHUB_REPO_NAME}/{BRANCH}/PlaceAllData/{encoded_country_name}.txt"
+        
+        try:
+            response = requests.get(file_url)
+            if response.status_code == 200:
+                for line in response.text.splitlines():
+                    if line.strip():
+                        parts = [p.strip() for p in line.split(',')]
+                        if len(parts) >= 3:
+                            city_name = parts[0]
+                            lat = float(parts[1])
+                            lng = float(parts[2])
+                            city_data_map[city_name] = {"lat": lat, "lng": lng}
+        except Exception as e:
+            print(f"Error fetching location data: {e}")
 
-    # 🏙️ 第3段階：都市データを取得して都市名だけをセレクトボックスに表示
-    city_data_map = get_city_data_for_state(selected_country, selected_state) if selected_state else {}
     available_cities = list(city_data_map.keys())
 
+    # 📍 場所取得のセレクトボックス
     selected_city = st.selectbox(
-        "City / Location Name",
+        "Location / City",
         options=available_cities,
         index=None,
-        placeholder="Please select city",
+        placeholder="Please select location",
         disabled=not available_cities,
         key=f"{prefix}_city_select_input"
     )
@@ -444,11 +458,11 @@ def render_user_input_form(prefix, default_name, show_header=True):
     current_selected_key = f"{prefix}_last_selected_city"
 
     if lat_key not in st.session_state:
-        st.session_state[lat_key] = 51.4779  # デフォルト（ロンドンのグリニッジ天文台）
+        st.session_state[lat_key] = 35.6812  
     if lng_key not in st.session_state:
-        st.session_state[lng_key] = 0.0
+        st.session_state[lng_key] = 139.7671
 
-    # 選択された都市が変わったら、ファイル内の緯度・経度を直接セットする
+    # 選択された場所が変わったら緯度・経度を自動セット
     if selected_city and selected_city in city_data_map:
         if st.session_state.get(current_selected_key) != selected_city:
             st.session_state[lat_key] = city_data_map[selected_city]["lat"]
@@ -459,13 +473,12 @@ def render_user_input_form(prefix, default_name, show_header=True):
     input_lat = st.number_input(t["lat_input"], format="%.4f", key=lat_key)
     input_lng = st.number_input(t["lng_input"], format="%.4f", key=lng_key)
     
-    # 戻り値を辞書として返す
     return {
         "user_name": user_name,
         "birth_date": birth_date,
         "birth_time": birth_time,
         "selected_country": selected_country,
-        "selected_state": selected_state,
+        "selected_state": "", # 州を使わない場合は空文字または省略
         "selected_city": selected_city,
         "input_lat": input_lat,
         "input_lng": input_lng,
