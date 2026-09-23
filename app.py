@@ -254,14 +254,14 @@ def fetch_lat_lng(city, state="", country=""):
 # 3. GitHubから州・大区分リストを取得する関数
 @st.cache_data(ttl=3600)
 def get_states_for_country(country_name):
-    api_url = f"https://api.github.com/repos/{GITHUB_REPO_OWNER}/{GITHUB_REPO_NAME}/contents/PlaceAllData/{country_name}"
+    encoded_country_name = urllib.parse.quote(country_name)
+    file_url = f"https://raw.githubusercontent.com/{GITHUB_REPO_OWNER}/{GITHUB_REPO_NAME}/{BRANCH}/PlaceAllData/{encoded_country_name}.txt"
     try:
-        response = requests.get(api_url)
+        response = requests.get(file_url)
         if response.status_code == 200:
-            contents = response.json()
-            # 拡張子 .txt を除外してソート
-            states = [item['name'].replace('.txt', '') for item in contents if item['type'] == 'file']
-            return sorted(states)
+            lines = response.text.splitlines()
+            states = [line.strip() for line in lines if line.strip()]
+            return states
     except Exception as e:
         print(f"Error fetching states: {e}")
     return []
@@ -269,11 +269,12 @@ def get_states_for_country(country_name):
 # 4. GitHubから都市リストを取得する関数
 @st.cache_data(ttl=3600)
 def get_cities_for_state(country_name, state_name):
-    raw_url = f"https://raw.githubusercontent.com/{GITHUB_REPO_OWNER}/{GITHUB_REPO_NAME}/{BRANCH}/PlaceAllData/{country_name}/{state_name}.txt"
+    encoded_country_name = urllib.parse.quote(country_name)
+    encoded_state_name = urllib.parse.quote(state_name)
+    raw_url = f"https://raw.githubusercontent.com/{GITHUB_REPO_OWNER}/{GITHUB_REPO_NAME}/{BRANCH}/PlaceAllData/{encoded_country_name}/{encoded_state_name}.txt"
     try:
         response = requests.get(raw_url)
         if response.status_code == 200:
-            # テキストを1行ずつ分割し、空行を除外
             cities = [line.strip() for line in response.text.splitlines() if line.strip()]
             return cities
     except Exception as e:
@@ -383,7 +384,7 @@ def load_states_for_country(country_name):
     # 例: "United States of America" -> "United States of America.json" など
     file_url = f"https://raw.githubusercontent.com/marrongrace/Horonote-Earth/main/PlaceAllData/{country_name}"
     
-# 💡 1人分の入力フォームを関数化
+# 💡 1人分の入力フォーム関数（グローバル対応版）
 def render_user_input_form(prefix, default_name, show_header=True):
     if show_header:
         header_text = t["p1_header"] if prefix == "p1" else t["p2_header"]
@@ -398,25 +399,24 @@ def render_user_input_form(prefix, default_name, show_header=True):
     # 🌍 第1段階：国名を選ぶセレクトボックス
     selected_country = st.selectbox(
         "Country / Region",
-        options=GLOBAL_COUNTRIES,  # 国のリスト
+        options=GLOBAL_COUNTRIES,
         index=None,
         placeholder="Please select a country/region",
         key=f"{prefix}_country_select_input"
     )
     
-    # 🗺️ 第2段階：州・県などの区分を選ぶセレクトボックス（国が選ばれた時だけ有効にする）
-    # ※選ばれた国に紐づく州・県のリストを動的に取得するイメージです
+    # 🗺️ 第2段階：州・県などの区分を選ぶセレクトボックス
     available_states = get_states_for_country(selected_country) if selected_country else []
     selected_state = st.selectbox(
         "State / Province / Region",
         options=available_states,
         index=None,
         placeholder="Please select state/region",
-        disabled=not available_states, # 国が未選択ならロックする
+        disabled=not available_states,
         key=f"{prefix}_state_select_input"
     )
 
-    # 🏙️ 第3段階：都市を選ぶセレクトボックス
+   # 🏙️ 第3段階：都市を選ぶセレクトボックス
     available_cities = get_cities_for_state(selected_country, selected_state) if selected_state else []
     selected_city = st.selectbox(
         "City / Location Name",
@@ -431,8 +431,8 @@ def render_user_input_form(prefix, default_name, show_header=True):
     lat_key = f"{prefix}_lat_number_input"
     lng_key = f"{prefix}_lng_number_input"
     current_selected_key = f"{prefix}_last_selected_city"
-
-    # セッションステートの初期値（まだ無い場合のみセット）
+    
+    # セッションステートの初期値（まだ無い場合のみセット,セット値はロンドン）
     if lat_key not in st.session_state:
         st.session_state[lat_key] = 51.5074
     if lng_key not in st.session_state:
@@ -441,8 +441,8 @@ def render_user_input_form(prefix, default_name, show_header=True):
     # 🌟 都市が変更されたときに緯度・経度を取得してセッションステートを書き換える
     if selected_city and st.session_state.get(current_selected_key) != selected_city:
         lat, lng = fetch_lat_lng(selected_city, selected_state, selected_country)
-        
         if lat is not None and lng is not None:
+        
             # 💡 正常に取得できた場合のみ、値を更新してフラグを進める
             st.session_state[lat_key] = float(lat)
             st.session_state[lng_key] = float(lng)
@@ -453,18 +453,25 @@ def render_user_input_form(prefix, default_name, show_header=True):
             st.warning(f"「{selected_city}」の緯度・経度の取得に失敗しました。時間をおいて再度お試しいただくか、手動で入力してください。")
             # フラグは更新しないため、ユーザーがもう一度選び直せる
 
-    # 📌 【重要】value= を外し、key= のみにする（これでセッションステートの変更が画面に反映されるようになります）
-    input_lat = st.number_input(
-        t["lat_input"], 
-        format="%.4f", 
-        key=lat_key
-    )
-    input_lng = st.number_input(
-        t["lng_input"], 
-        format="%.4f", 
-        key=lng_key
-    )
+    input_lat = st.number_input(t["lat_input"], format="%.4f", key=lat_key)
+    input_lng = st.number_input(t["lng_input"], format="%.4f", key=lng_key)
     
+    # 戻り値を辞書として返す
+    return {
+        "user_name": user_name,
+        "birth_date": birth_date,
+        "birth_time": birth_time,
+        "selected_country": selected_country,
+        "selected_state": selected_state,
+        "selected_city": selected_city,
+        "input_lat": input_lat,
+        "input_lng": input_lng,
+        "input_city_name": selected_city or ""
+    }
+
+# ==========================================
+# サイドバー描画
+# ==========================================
 with st.sidebar:
     st.header(t["sidebar_header"])
     
@@ -483,9 +490,6 @@ with st.sidebar:
         st.markdown("---")
         st.subheader("🌌 Transit Settings")
         
-        import datetime
-        from zoneinfo import ZoneInfo
-        
         # 💡 日本時間（JST）の現在日時を取得
         jst_now = datetime.datetime.now(ZoneInfo("Asia/Tokyo"))
         
@@ -498,7 +502,7 @@ with st.sidebar:
         
         transit_time = st.time_input(
             "Transit Time",
-            value=jst_now.time().replace(second=0, microsecond=0), # 秒・ミリ秒は切り捨てる
+            value=jst_now.time().replace(second=0, microsecond=0),
             key="transit_time_input"
         )
             
@@ -598,23 +602,26 @@ with st.sidebar:
         """,
         unsafe_allow_html=True
     )
-    
+
+# ==========================================
+# 送信ボタン押下時の処理
+# ==========================================
 if submit_button:
-    # バリデーションチェック
+    # バリデーションチェック（グローバル対応版）
     p1_error = False
-    if p1_data["selected_pref"] == t["pref_default"]:
-        st.error(f"1人目: {t['invalid_pref_error']}")
+    if not p1_data["selected_country"]:
+        st.error(f"1人目: {t['invalid_country_error']}")
         p1_error = True
-    elif not p1_data["is_valid"] and p1_data["selected_pref"] != "海外・その他":
+    elif not p1_data["selected_city"]:
         st.error(f"1人目: {t['invalid_loc_error']}")
         p1_error = True
 
     p2_error = False
     if (is_synastry or is_composite) and p2_data:
-        if p2_data["selected_pref"] == t["pref_default"]:
-            st.error(f"2人目: {t['invalid_pref_error']}")
+        if not p2_data["selected_country"]:
+            st.error(f"2人目: {t['invalid_country_error']}")
             p2_error = True
-        elif not p2_data["is_valid"] and p2_data["selected_pref"] != "海外・その他":
+        elif not p2_data["selected_city"]:
             st.error(f"2人目: {t['invalid_loc_error']}")
             p2_error = True
 
@@ -623,7 +630,6 @@ if submit_button:
             
             # ── 1. トランジットモードの場合 ──
             if is_transit:
-                from horoscope_calc import get_transit_chart_data
                 transit_info = st.session_state.get("transit_info", {
                     "year": 2026, "month": 1, "day": 1, "hour": 12, "minute": 0,
                     "lat": p1_data["input_lat"], "lng": p1_data["input_lng"]
@@ -664,16 +670,12 @@ if submit_button:
                 )
                 
                 from horoscope_calc import calculate_composite_bodies, calculate_aspects
-
-                # 2つの変数で個別に受け取る
                 comp_bodies, comp_aspects = calculate_composite_bodies(data1["bodies_raw"], data2["bodies_raw"])
-                
-                st.write("📊 計算されたコンポジット天体の詳細データ:", comp_bodies)
                 
                 st.session_state.chart_data = {
                     "type": "composite", 
                     "bodies": comp_bodies,
-                    "aspects": comp_aspects # ここに計算済みの美しいアスペクト文字列が入る
+                    "aspects": comp_aspects
                 }
                 
                 st.session_state.user_name = p1_data["user_name"]
@@ -681,7 +683,6 @@ if submit_button:
                 st.session_state.is_composite = True
                 st.session_state.is_synastry = False
                 st.session_state.is_transit = False
-                
                 st.rerun()
 
             # ── 3. シナストリー（相性）モードの場合 ──
@@ -749,25 +750,25 @@ if "chart_data" in st.session_state:
         st.divider()
         st.subheader("🌌 トランジット分析結果" if lang == "日本語" else "🌌 Transit Reading")
         st.write(f"📅 対象日時: {data['transit'].get('transit_date', '')}")
-        st.caption("※ アスペクトはオーブ（誤差）が狭い順（影響が強い順）に並んでいます。")
+        st.caption("※ アスペクトはオーブが狭い順に並んでいます。")
         
         t_col1, t_col2 = st.columns(2)
         with t_col1:
-            st.markdown("### 👤 ネイタル天体配置" if lang == "日本語" else "👤 Natal Bodies")
+            st.markdown("### 👤 ネイタル天体配置")
             for body in data.get("bodies", []):
                 st.markdown(f"- {body}", unsafe_allow_html=True)
         with t_col2:
-            st.markdown("### 🔗 トランジット・アスペクト" if lang == "日本語" else "🔗 Transit Aspects")
+            st.markdown("### 🔗 トランジット・アスペクト")
             transit_aspects = data["transit"].get("transit_aspects", [])
             if transit_aspects:
                 for asp in transit_aspects:
                     clean_asp = re.sub(r'^[-\s◦○]+', '', str(asp)).strip()
                     st.markdown(f"- {clean_asp}")
             else:
-                st.info("現在、顕著なトランジット・アスペクトはありません。" if lang == "日本語" else "No significant transit aspects found.")
+                st.info("現在、顕著なトランジット・アスペクトはありません。")
         
         st.divider()
-
+        
         # 📋 ④ 一括コピー欄（トランジット用）
         with st.expander("📋 結果をテキストで一括コピー / Copy All Results"):
             def clean_html(text):
@@ -850,6 +851,7 @@ if "chart_data" in st.session_state:
             <p style="margin: 10px 0 0 0; font-size: 1.1em; color: #555;">2人の出生図を合成したパートナーシップの象徴</p>
         </div>
         """, unsafe_allow_html=True)
+        st.stop()
         
         # データの取り出し
         bodies = data.get("bodies", [])
