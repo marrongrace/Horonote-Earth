@@ -528,7 +528,7 @@ def detect_patterns(bodies):
             unique.append(pat)
     return unique
 
-def get_chart_data(u_name, year, month, day, hour, minute, lat, lng):
+def get_chart_data(u_name, year, month, day, hour, minute, lat, lng, tz_str="UTC"):
     try:
         # UIから正しく取得した lat と lng を直接渡す
         # city名でデータベース検索させず、座標を優先させるため city には任意の文字列や空文字を指定
@@ -541,7 +541,7 @@ def get_chart_data(u_name, year, month, day, hour, minute, lat, lng):
             minute=minute,
             lat=lat,
             lng=lng,
-            # tz_str=tz_str  # タイムゾーン（例: "America/Chicago" など）
+            tz_str=tz_str  # タイムゾーン（例: "America/Chicago" など）
         )
         
         # 以下、計算結果の取得処理...
