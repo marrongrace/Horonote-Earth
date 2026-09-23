@@ -1081,7 +1081,7 @@ if "chart_data" in st.session_state:
                         planet = raw_target.split(" & ")[0].strip()
                         if planet != current_planet:
                             current_planet = planet
-                            heading_prefix = "Aspects of" if lang != "日本語" else "のアスペクト"
+                            heading_prefix = "Aspects of"
                             st.markdown(f"\n#### 🌟 {current_planet} {heading_prefix}")
                     st.markdown(line)
 
@@ -1095,11 +1095,9 @@ if "chart_data" in st.session_state:
         with tab5:
             if data.get("house_rulers"):
                 ruler_mode_options = (
-                    ["5度前ルール適用なし", "5度前ルール適用あり"] 
-                    if lang == "日本語" 
-                    else ["Without 5-degree rule", "With 5-degree rule"]
+                    ["Without 5-degree rule", "With 5-degree rule"] 
                 )
-                ruler_mode_label = "Select Display Mode" if lang == "日本語" else "Select Display Mode"
+                ruler_mode_label = "Select Display Mode"
                 
                 ruler_mode = st.radio(
                     ruler_mode_label,
