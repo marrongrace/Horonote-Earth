@@ -71,6 +71,7 @@ t = {
     "page_title": "HoroNote Earth",
     "page_subtitle": "- Horoscope Information Export System -",
     "disclaimer": "※ Minor discrepancies in house degrees may occur due to calculation libraries or coordinate settings.",
+    "TimeZone_tips": "The time zone is automatically applied based on the latitude and longitude of the selected location."
     "sidebar_header": "📝 Birth Data Input",
     "mode_select": "🔮 Reading Mode",
     "mode_options": ["Single Horoscope", "Synastry (Compatibility)", "Composite", "Transit"],
@@ -174,6 +175,7 @@ with col2:
     """, unsafe_allow_html=True)
 
 st.caption(t["disclaimer"])
+st.caption(t["TimeZone_tips"])
 
 # ==========================================
 # 4. まだ結果が計算されていない初期状態の画面
