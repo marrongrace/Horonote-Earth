@@ -1082,7 +1082,7 @@ if "chart_data" in st.session_state:
                         if planet != current_planet:
                             heading_prefix = "Aspects of"
                             current_planet = planet
-                            st.markdown(f"\n#### 🌟 {heading_prefix}{current_planet}")
+                            st.markdown(f"\n#### 🌟 {heading_prefix} {current_planet}")
                     st.markdown(line)
 
         with tab4:
