@@ -530,25 +530,20 @@ def detect_patterns(bodies):
 
 ddef get_chart_data(u_name, year, month, day, hour, minute, lat, lng, tz_str="UTC"):
     try:
-        # UIから正しく取得した lat と lng を直接渡す
-        # city名でデータベース検索させず、座標を優先させるため city には任意の文字列や空文字を指定
-        chart = AstrologicalSubject(
-            name=u_name,
-            year=year,
-            month=month,
-            day=day,
-            hour=hour,
-            minute=minute,
-            lat=lat,
-            lng=lng,
-            tz_str=tz_str  # タイムゾーン（例: "America/Chicago" など）
-        )
-        
-        # 以下、計算結果の取得処理...
-        return chart
-    except Exception as e:
-        return {"error": str(e)}
-
+            # city 引数を外し、緯度・経度と日時に基づいて計算させる
+            chart = AstrologicalSubject(
+                name=name, 
+                year=year, 
+                month=month, 
+                day=day,
+                hour=calc_h, 
+                minute=calc_m, 
+                lat=lat, 
+                lng=lng
+            )
+        except Exception as e:
+            return {"error": f"Horoscope calculation error: {str(e)}"}
+            
     bodies_meta = [
         ("Sun", chart.sun), ("Moon", chart.moon), ("Mercury", chart.mercury),
         ("Venus", chart.venus), ("Mars", chart.mars), ("Jupiter", chart.jupiter),
