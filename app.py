@@ -231,7 +231,7 @@ if "chart_data" not in st.session_state:
 # 先頭に初期選択肢を追加
 PREFECTURES = COUNTRY_OPTIONS
 
-# GitHubのリポジトリ情報（ご自身の環境に合わせてください）
+# GitHubのリポジトリ情報
 GITHUB_REPO_OWNER = "marrongrace"
 GITHUB_REPO_NAME = "Horonote-Earth"
 BRANCH = "main"
