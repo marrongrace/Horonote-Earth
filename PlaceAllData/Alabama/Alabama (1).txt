@@ -1,0 +1,165 @@
+Abanda, 33.1008, -85.5297
+Abbeville, 31.5717, -85.2506
+Abbot Springs, 33.3608, -86.4817
+Abel, 33.5486, -85.7125
+Abercrombie, 32.9500, -87.1333
+Aberfoil, 32.0703, -85.6878
+Abernant, 33.2903, -87.1981
+Abernathy, 33.6506, -85.4075
+Abernathy Memorial Hospital, 31.0019, -87.2667
+Acipcoville, 33.5561, -86.8431
+Ackerville, 32.0294, -87.0664
+Acmar, 33.6214, -86.4961
+Active, 32.8678, -86.9769
+Acton, 33.4267, -86.7353
+Ada, 32.1053, -86.2764
+Adair Ford, 34.6708, -86.4311
+Adams, 32.7394, -86.8328
+Adams Crossroads, 34.0775, -85.4878
+Adamsburg, 34.3989, -85.6722
+Adamsville, 33.6008, -86.9561
+Addison, 34.2022, -87.1814
+Aden, 33.1586, -86.9967
+Adger, 33.3833, -87.1000
+Adkin Hill, 32.6089, -86.3111
+Adler, 32.6833, -87.2167
+Adville, 33.8839, -86.6447
+Agricola, 32.7683, -85.7386
+Ai, 33.6333, -85.5833
+Aimwell, 32.1214, -87.9061
+Airport Highlands, 33.5850, -86.7417
+Akinsville, 31.6356, -85.6111
+Akka, 30.7772, -88.0231
+Akron, 32.8764, -87.7425
+Alabama Baptist Hospital, 32.4011, -87.0336
+Alabama Bryce Insane Hospital, 33.2172, -87.5386
+Alabama City, 34.0222, -86.0456
+Alabama Fork, 34.8514, -86.9739
+Alabama Insane Hospital, 33.2172, -87.5386
+Alabama Port, 30.3628, -88.1147
+Alabama Shores, 34.7964, -87.5525
+Alabaster, 33.2442, -86.8164
+Alaga, 31.1261, -85.0725
+Albert P Brewer Development Center, 30.6700, -88.2194
+Alberta, 32.2319, -87.4100
+Alberta City, 33.2000, -87.5333
+Alberton, 31.2778, -86.1258
+Albertville, 34.2675, -86.2089
+Alden, 33.6389, -86.9653
+Alder Springs, 34.3431, -86.2158
+Aldrich, 33.1075, -86.8911
+Aldridge, 33.7069, -87.2419
+Aldridge Grove, 34.4231, -87.2406
+Alexander City, 32.9439, -85.9539
+Alexander Heights, 34.8472, -87.6808
+Alexandria, 33.7739, -85.8856
+Alexis, 34.1789, -85.5122
+Alfalfa, 32.5103, -87.7644
+Aliceville, 33.1294, -88.1514
+Allen, 31.6000, -87.7333
+Allens Crossroads, 34.4278, -86.5419
+Allenton, 31.9306, -87.0236
+Allenville(Hale), 32.4908, -87.6608
+Allenville(Mobile), 30.7028, -88.0789
+Allgood, 33.9119, -86.5094
+Alliance, 32.4808, -85.5622
+Allison(Jackson), 34.8778, -85.9594
+Allison(Greene), 32.7867, -87.9758
+Allison Mills, 33.3897, -86.1150
+Allsboro, 34.6942, -88.1103
+Allsop, 33.9411, -85.7164
+Alma, 31.4639, -87.7539
+Almeria, 32.0264, -85.8506
+Almond, 33.1464, -85.6217
+Almont, 33.1144, -86.8792
+Alpha Springs, 33.3833, -86.4244
+Alpine, 33.3486, -86.2386
+Alta, 33.6708, -87.5317
+Altadena Valley, 33.4667, -86.7500
+Altamont Park, 33.5094, -86.7656
+Alton, 33.5792, -86.6375
+Altoona, 34.0261, -86.3261
+America, 33.7378, -87.2525
+Andalusia, 31.3000, -86.4833
+Andalusia Hospital, 31.2958, -86.4947
+Anderson(Lauderdale), 34.9283, -87.2664
+Anderson(Etowah), 34.0711, -85.9214
+Andrews Chapel, 34.4167, -87.0833
+Angel, 33.8353, -85.8369
+Anita, 33.1742, -86.9803
+Anne Manie, 32.0528, -87.5708
+Anniston, 33.6597, -85.8317
+Ansley, 31.8861, -86.1158
+Antioch(Lauderdale), 34.8931, -87.4733
+Antioch(Covington), 31.3856, -86.3831
+Antioch(Pike), 31.7589, -85.8892
+Antioch(Calhoun), 33.6000, -86.0167
+Antioch(Cherokee), 34.2306, -85.6381
+Apple Grove, 34.3986, -86.6103
+Appleton, 31.2208, -87.1214
+Aqua Vista, 34.8303, -87.4853
+Aquilla, 31.7122, -88.4139
+Arab, 34.3181, -86.4958
+Arab Hospital, 34.3133, -86.4964
+Ararat, 31.9681, -88.1467
+Arabacoochee, 33.5761, -85.5172
+Arcola, 32.5569, -87.7675
+Ardell, 33.9953, -87.0986
+Ardilla, 31.1756, -85.3603
+Ardmore, 34.9919, -86.8469
+Ardmore Highway, 34.7167, -86.6333
+Argo(Walker), 33.8014, -87.1169
+Argo(Jefferson), 33.6817, -86.5306
+Argo Heights, 33.7667, -87.1833
+Arguta, 31.5692, -85.5953
+Ariton, 31.6000, -85.7189
+Arkadelphia, 33.9050, -86.9625
+Arkdell, 34.9597, -87.4297
+Arkwright, 33.3714, -86.4025
+Arley, 34.0789, -87.2122
+Arley Landing, 34.0442, -87.2658
+Arlington, 32.0569, -87.5886
+Armstead, 33.8819, -86.5247
+Armstrong, 32.2394, -85.6578
+Arona, 34.2217, -86.0819
+Arrowhead, 32.3833, -86.2500
+Asahel, 31.8678, -87.4208
+Asberry,33.8944, -85.7447
+Asbury(Dale), 31.5117, -85.5453
+Asbury(Marshall), 34.2667, -86.2000
+Ashbank, 34.0103, -87.4875
+Ashby, 33.0208, -86.9194
+Ashford(Houston), 31.1828, -85.2364
+Ashland(Clay),33.2736, -85.8361
+Ashridge, 34.2347, -87.4686
+Ashville, 33.8369, -86.2544
+Askea Grove, 34.2853, -86.4594
+Aspel, 34.6208, -86.1656
+Athens, 34.8028, -86.9717
+Athens-Limestone Hospital, 34.5125, -86.9783
+Atkinson, 31.9653, -87.6864
+Atmore, 31.0236, -87.4939
+Atmore Health Center, 31.0250, -87.4892
+Attalla, 34.0217, -86.0886
+Atwood, 34.3606, -87.9950
+Aubrey, 32.6669, -85.4525
+Auburn, 32.6097, -85.4808
+Augustin, 32.5061, -87.1078
+Aurora, 34.1167, -86.1925
+Aurora Springs, 34.7667, -87.9667
+Austinville, 34.5747, -87.0086
+Autauga Country Medical Center, 32.4639, -86.4528
+Autaugaville, 32.4339, -86.6547
+Ava, 33.3431, -85.4781
+Avalon Park, 3.4306, -86.9903
+Avant, 31.6214, -86.7014
+Avery, 34.8833, -85.8333
+Avoca, 34.5000, -87.7333
+Avon, 31.1892, -85.2861
+Avon Park, 33.5461, -86.7714
+Avondale, 33.5217, -86.7781
+Avondale Village, 33.5931, -86.2761
+Awin, 31.8378, -86.9489
+Axis, 30.9297, -88.0272
+Axle, 31.5956, -87.3297
+Ayres, 33.7647, -86.5636
