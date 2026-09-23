@@ -528,7 +528,7 @@ def detect_patterns(bodies):
             unique.append(pat)
     return unique
 
-def get_chart_data(u_name, year, month, day, hour, minute, lat, lng, tz_str="UTC"):
+ddef get_chart_data(u_name, year, month, day, hour, minute, lat, lng, tz_str="UTC"):
     try:
         # UIから正しく取得した lat と lng を直接渡す
         # city名でデータベース検索させず、座標を優先させるため city には任意の文字列や空文字を指定
@@ -541,13 +541,13 @@ def get_chart_data(u_name, year, month, day, hour, minute, lat, lng, tz_str="UTC
             minute=minute,
             lat=lat,
             lng=lng,
-            tz_str="UTC"  # タイムゾーン（例: "America/Chicago" など）
+            tz_str=tz_str  # タイムゾーン（例: "America/Chicago" など）
         )
         
         # 以下、計算結果の取得処理...
         return chart
     except Exception as e:
-        return {"error": f"Horoscope calculation error: {str(e)}"}
+        return {"error": str(e)}
 
     bodies_meta = [
         ("Sun", chart.sun), ("Moon", chart.moon), ("Mercury", chart.mercury),
