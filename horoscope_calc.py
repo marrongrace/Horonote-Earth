@@ -533,14 +533,15 @@ def get_chart_data(name, year, month, day, hour, minute, lat, lng, city_display_
     with warnings.catch_warnings():
         warnings.simplefilter("ignore")
         try:
+            # ★ ここで city や tz_str を使わず、渡された lat と lng だけをダイレクトに渡す
             chart = AstrologicalSubject(
-                name=name, 
-                year=year, 
-                month=month, 
+                name=name,
+                year=year,
+                month=month,
                 day=day,
-                hour=calc_h, 
-                minute=calc_m, 
-                lat=lat, 
+                hour=calc_h,
+                minute=calc_m,
+                lat=lat,
                 lng=lng
             )
         except Exception as e:
