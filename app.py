@@ -1011,14 +1011,19 @@ if "chart_data" in st.session_state:
         st.stop()
 
     if not current_is_synastry:
-        display_loc_str = data['loc_str']
-        if lang != "日本語":
-            display_loc_str = (
-                display_loc_str
-                .replace("北緯", "N")
-                .replace("東経", "E")
-                .replace("十進:", "Decimal:")
-            )
+    # まず data にエラーが含まれていないかチェックする
+        if isinstance(data, dict) and data.get("error"):
+            st.error(f"計算エラー: {data['error']}")
+        else:
+            # 安全に 'loc_str' を取得（なければ空文字）
+            display_loc_str = data.get('loc_str', '')
+            if lang != "日本語":
+                display_loc_str = (
+                    display_loc_str
+                    .replace("北緯", "N")
+                    .replace("東経", "E")
+                    .replace("十進:", "Decimal:")
+                )
 
         st.markdown(f"""
         <div style="padding: 20px; border: 2px solid #D4AF37; border-radius: 12px; background: linear-gradient(135deg, rgba(212,175,55,0.05), rgba(75,0,130,0.05)); text-align: center; margin-bottom: 25px;">
