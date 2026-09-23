@@ -1058,7 +1058,7 @@ if "chart_data" in st.session_state:
             converted_aspects = localize_text(convert_to_dms(data["aspects"]), lang)
             aspect_lines = [l.strip() for l in converted_aspects.strip().split("\n") if l.strip()]
             
-            current_view_raw = st.session_state.get("aspect_view_radio", "ペア別")
+            current_view_raw = st.session_state.get("aspect_view_radio", "By pair")
             is_by_aspect = current_view_raw in ["アスペクト別", "By Aspect"]
 
             if is_by_aspect:
@@ -1090,7 +1090,7 @@ if "chart_data" in st.session_state:
                 for pat in data["patterns"]:
                     st.success(localize_text(convert_to_dms(pat), lang))
             else:
-                st.info("*(該当する複合アスペクトはありません)*" if lang=="日本語" else "*(No complex aspects found)*")
+                st.info("*(No complex aspects found)*")
 
         with tab5:
             if data.get("house_rulers"):
@@ -1140,26 +1140,26 @@ if "chart_data" in st.session_state:
                     formatted_line = localize_text(formatted_line, lang)
                     st.markdown(f"- {formatted_line}")
             else:
-                st.info("*(出生時間不明のためハウスルーラー除外)*" if lang == "日本語" else "*(House rulers excluded due to unknown birth time)*")
+                st.info("*(House rulers excluded due to unknown birth time)*")
                 
         with tab6:
-            st.caption("※1 主要な感受点・軸に対するミッドポイント・ヒット（オーブ1.5°以内）を表示します。" if lang=="日本語" else "*1 Displays midpoint hits to major points/axes (orb within 1.5°).")
-            st.caption("※2 出生時間不明の場合、月・Asc・Mcを含む組み合わせは除外してあります。" if lang == "日本語" else "*2 Combinations including Moon, Asc, and MC are excluded if birth time is unknown.")
+            st.caption("*1 Displays midpoint hits to major points/axes (orb within 1.5°).")
+            st.caption("*2 Combinations including Moon, Asc, and MC are excluded if birth time is unknown.")
             midpoints_data = data.get("midpoints", [])
             if midpoints_data:
                 for m_line in midpoints_data:
                     clean_m = m_line.lstrip("- ").strip()
                     st.markdown(f"- {localize_text(clean_m, lang)}")
             else:
-                st.info("*(該当するミッドポイントデータはありません)*" if lang=="日本語" else "*(No midpoint data)*")
+                st.info("*(No midpoint data)*")
 
         st.divider()
 
-        with st.expander("📋 結果をテキストで一括コピー / Copy All Results"):
+        with st.expander("Copy All Results"):
             u_name = st.session_state.get("user_name", "TestUser")
             
             hide_dt_loc = st.checkbox(
-                "日時と場所を非表示にする（除外する）" if lang == "日本語" else "Exclude Date, Time & Location",
+                "Exclude Date, Time and Location",
                 value=False,
                 key="copy_hide_dt_loc"
             )
