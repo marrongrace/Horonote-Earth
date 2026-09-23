@@ -444,9 +444,9 @@ def render_user_input_form(prefix, default_name, show_header=True):
     current_selected_key = f"{prefix}_last_selected_city"
 
     if lat_key not in st.session_state:
-        st.session_state[lat_key] = 35.6812  # デフォルト（東京など）
+        st.session_state[lat_key] = 51.4779  # デフォルト（ロンドンのグリニッジ天文台）
     if lng_key not in st.session_state:
-        st.session_state[lng_key] = 139.7671
+        st.session_state[lng_key] = 0.0
 
     # 選択された都市が変わったら、ファイル内の緯度・経度を直接セットする
     if selected_city and selected_city in city_data_map:
