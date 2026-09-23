@@ -266,20 +266,28 @@ def get_states_for_country(country_name):
         print(f"Error fetching states: {e}")
     return []
 
-# 4. GitHubから都市リストを取得する関数
+# 4. GitHubから都市リストと緯度・経度を取得する関数（辞書型に変更）
 @st.cache_data(ttl=3600)
-def get_cities_for_state(country_name, state_name):
+def get_city_data_for_state(country_name, state_name):
     encoded_country_name = urllib.parse.quote(country_name)
     encoded_state_name = urllib.parse.quote(state_name)
     raw_url = f"https://raw.githubusercontent.com/{GITHUB_REPO_OWNER}/{GITHUB_REPO_NAME}/{BRANCH}/PlaceAllData/{encoded_country_name}/{encoded_state_name}.txt"
+    city_dict = {}
     try:
         response = requests.get(raw_url)
         if response.status_code == 200:
-            cities = [line.strip() for line in response.text.splitlines() if line.strip()]
-            return cities
+            for line in response.text.splitlines():
+                if line.strip():
+                    # カンマで分割して [都市名, 緯度, 経度] を取得
+                    parts = [p.strip() for p in line.split(',')]
+                    if len(parts) >= 3:
+                        city_name = parts[0]
+                        lat = float(parts[1])
+                        lng = float(parts[2])
+                        city_dict[city_name] = {"lat": lat, "lng": lng}
     except Exception as e:
         print(f"Error fetching cities: {e}")
-    return []
+    return city_dict
 
 def convert_to_dms(text):
     """
@@ -384,7 +392,7 @@ def load_states_for_country(country_name):
     # 例: "United States of America" -> "United States of America.json" など
     file_url = f"https://raw.githubusercontent.com/marrongrace/Horonote-Earth/main/PlaceAllData/{country_name}"
     
-# 💡 1人分の入力フォーム関数（グローバル対応版）
+# 💡 1人分の入力フォーム関数（グローバル対応版・修正）
 def render_user_input_form(prefix, default_name, show_header=True):
     if show_header:
         header_text = t["p1_header"] if prefix == "p1" else t["p2_header"]
@@ -416,8 +424,10 @@ def render_user_input_form(prefix, default_name, show_header=True):
         key=f"{prefix}_state_select_input"
     )
 
-   # 🏙️ 第3段階：都市を選ぶセレクトボックス
-    available_cities = get_cities_for_state(selected_country, selected_state) if selected_state else []
+    # 🏙️ 第3段階：都市データを取得して都市名だけをセレクトボックスに表示
+    city_data_map = get_city_data_for_state(selected_country, selected_state) if selected_state else {}
+    available_cities = list(city_data_map.keys())
+
     selected_city = st.selectbox(
         "City / Location Name",
         options=available_cities,
@@ -427,31 +437,22 @@ def render_user_input_form(prefix, default_name, show_header=True):
         key=f"{prefix}_city_select_input"
     )
 
-    # 🔑 number_input と共有するセッションステートのキー
     lat_key = f"{prefix}_lat_number_input"
     lng_key = f"{prefix}_lng_number_input"
     current_selected_key = f"{prefix}_last_selected_city"
-    
-    # セッションステートの初期値（まだ無い場合のみセット,セット値はロンドン）
-    if lat_key not in st.session_state:
-        st.session_state[lat_key] = 51.5074
-    if lng_key not in st.session_state:
-        st.session_state[lng_key] = -0.1278
 
-    # 🌟 都市が変更されたときに緯度・経度を取得してセッションステートを書き換える
-    if selected_city and st.session_state.get(current_selected_key) != selected_city:
-        lat, lng = fetch_lat_lng(selected_city, selected_state, selected_country)
-        if lat is not None and lng is not None:
-        
-            # 💡 正常に取得できた場合のみ、値を更新してフラグを進める
-            st.session_state[lat_key] = float(lat)
-            st.session_state[lng_key] = float(lng)
+    if lat_key not in st.session_state:
+        st.session_state[lat_key] = 35.6812  # デフォルト（東京など）
+    if lng_key not in st.session_state:
+        st.session_state[lng_key] = 139.7671
+
+    # 選択された都市が変わったら、ファイル内の緯度・経度を直接セットする
+    if selected_city and selected_city in city_data_map:
+        if st.session_state.get(current_selected_key) != selected_city:
+            st.session_state[lat_key] = city_data_map[selected_city]["lat"]
+            st.session_state[lng_key] = city_data_map[selected_city]["lng"]
             st.session_state[current_selected_key] = selected_city
             st.rerun()
-        else:
-            # ⚠️ 取得に失敗した場合は、警告を出しつつフラグを進めない（再挑戦できるようにする）
-            st.warning(f"「{selected_city}」の緯度・経度の取得に失敗しました。時間をおいて再度お試しいただくか、手動で入力してください。")
-            # フラグは更新しないため、ユーザーがもう一度選び直せる
 
     input_lat = st.number_input(t["lat_input"], format="%.4f", key=lat_key)
     input_lng = st.number_input(t["lng_input"], format="%.4f", key=lng_key)
