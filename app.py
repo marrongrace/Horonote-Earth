@@ -1080,8 +1080,8 @@ if "chart_data" in st.session_state:
                         raw_target = line.lstrip("-* ").strip()
                         planet = raw_target.split(" & ")[0].strip()
                         if planet != current_planet:
-                            current_planet = planet
                             heading_prefix = "Aspects of"
+                            current_planet = planet
                             st.markdown(f"\n#### 🌟 {current_planet} {heading_prefix}")
                     st.markdown(line)
 
