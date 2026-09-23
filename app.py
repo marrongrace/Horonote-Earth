@@ -256,44 +256,52 @@ def fetch_lat_lng(city, state="", country=""):
     
     return None, None
 
-# 3. GitHubから州・大区分リストを取得する関数
+# 1. PlaceAllData 直下の「国フォルダ一覧」を動的に取得する関数
 @st.cache_data(ttl=3600)
-def get_states_for_country(country_name):
-    encoded_country_name = urllib.parse.quote(country_name)
-    file_url = f"https://raw.githubusercontent.com/{GITHUB_REPO_OWNER}/{GITHUB_REPO_NAME}/{BRANCH}/PlaceAllData/{encoded_country_name}.txt"
+def fetch_country_folders():
+    api_url = f"https://api.github.com/repos/{GITHUB_REPO_OWNER}/{GITHUB_REPO_NAME}/contents/PlaceAllData"
+    countries = []
     try:
-        response = requests.get(file_url)
+        response = requests.get(api_url)
         if response.status_code == 200:
-            lines = response.text.splitlines()
-            states = [line.strip() for line in lines if line.strip()]
-            return states
+            contents = response.json()
+            countries = [item["name"] for item in contents if item["type"] == "dir"]
     except Exception as e:
-        print(f"Error fetching states: {e}")
-    return []
+        print(f"Error fetching countries: {e}")
+    return sorted(countries)
 
-# 4. GitHubから都市リストと緯度・経度を取得する関数（辞書型に変更）
+# 2. 選択された国フォルダ内のすべてのテキストファイルから「場所と座標」をまとめて取得する関数
 @st.cache_data(ttl=3600)
-def get_city_data_for_state(country_name, state_name):
-    encoded_country_name = urllib.parse.quote(country_name)
-    encoded_state_name = urllib.parse.quote(state_name)
-    raw_url = f"https://raw.githubusercontent.com/{GITHUB_REPO_OWNER}/{GITHUB_REPO_NAME}/{BRANCH}/PlaceAllData/{encoded_country_name}/{encoded_state_name}.txt"
-    city_dict = {}
+def fetch_city_data_for_country(country_name):
+    city_data_map = {}
+    encoded_country = urllib.parse.quote(country_name)
+    api_url = f"https://api.github.com/repos/{GITHUB_REPO_OWNER}/{GITHUB_REPO_NAME}/contents/PlaceAllData/{encoded_country}"
+    
     try:
-        response = requests.get(raw_url)
+        response = requests.get(api_url)
         if response.status_code == 200:
-            for line in response.text.splitlines():
-                if line.strip():
-                    # カンマで分割して [都市名, 緯度, 経度] を取得
-                    parts = [p.strip() for p in line.split(',')]
-                    if len(parts) >= 3:
-                        city_name = parts[0]
-                        lat = float(parts[1])
-                        lng = float(parts[2])
-                        city_dict[city_name] = {"lat": lat, "lng": lng}
+            files = response.json()
+            for file_info in files:
+                if file_info["type"] == "file" and file_info["name"].endswith(".txt"):
+                    file_url = file_info["download_url"]
+                    file_res = requests.get(file_url)
+                    if file_res.status_code == 200:
+                        for line in file_res.text.splitlines():
+                            if line.strip():
+                                parts = [p.strip() for p in line.split(',')]
+                                if len(parts) >= 3:
+                                    city_name = parts[0]
+                                    try:
+                                        lat = float(parts[1])
+                                        lng = float(parts[2])
+                                        city_data_map[city_name] = {"lat": lat, "lng": lng}
+                                    except ValueError:
+                                        continue
     except Exception as e:
-        print(f"Error fetching cities: {e}")
-    return city_dict
-
+        print(f"Error fetching city files for {country_name}: {e}")
+        
+    return city_data_map
+    
 def convert_to_dms(text):
     """
     (16.30°) のような10進数の度数表記を (16°18') の60進数表記に変換する関数
@@ -397,7 +405,6 @@ def load_states_for_country(country_name):
     # 例: "United States of America" -> "United States of America.json" など
     file_url = f"https://raw.githubusercontent.com/marrongrace/Horonote-Earth/main/PlaceAllData/{country_name}"
     
-# 💡 1人分の入力フォーム関数（グローバル対応版・修正）
 def render_user_input_form(prefix, default_name, show_header=True):
     if show_header:
         header_text = t["p1_header"] if prefix == "p1" else t["p2_header"]
@@ -409,41 +416,24 @@ def render_user_input_form(prefix, default_name, show_header=True):
     birth_date = st.date_input(t["birth_date"], value=datetime.date(2000, 1, 1), min_value=datetime.date(1900, 1, 1), max_value=datetime.date(2100, 12, 31), key=f"{prefix}_birth_date_input")
     birth_time = st.time_input(t["birth_time"], value=default_birth_time, key=f"{prefix}_birth_time_input")
 
-    # 🌍 第1段階：国名（または州名）の選択
+    # 🌍 ステップ1: GitHubから動的に取得した国フォルダのリストを選択
+    country_options = fetch_country_folders()
     selected_country = st.selectbox(
-        "Country / Region",
-        options=GLOBAL_COUNTRIES,
+        "Country / Region Folder",
+        options=country_options,
         index=None,
-        placeholder="Please select a country/region",
+        placeholder="Please select a country folder",
         key=f"{prefix}_country_select_input"
     )
     
-    # 🏙️ 第2段階：選択された国に紐づく「場所（都市リスト）」をGitHub等から取得
-    # ※もし州の概念を省いて直接都市リストを取る場合、あるいは get_states_for_country の代わりに都市ファイルを読む形にします
+    # 🏙️ ステップ2: 選択された国フォルダ内にあるファイルを読み込んで都市データを構築
     city_data_map = {}
     if selected_country:
-        # ここでは例として、国名に対応するファイルから直接都市データ（辞書）を取得する関数を想定
-        # 州を挟まずに "Country.txt" の中に「都市名, 緯度, 経度」が入っている構造の場合：
-        encoded_country_name = urllib.parse.quote(selected_country)
-        file_url = f"https://raw.githubusercontent.com/{GITHUB_REPO_OWNER}/{GITHUB_REPO_NAME}/{BRANCH}/PlaceAllData/{encoded_country_name}.txt"
-        
-        try:
-            response = requests.get(file_url)
-            if response.status_code == 200:
-                for line in response.text.splitlines():
-                    if line.strip():
-                        parts = [p.strip() for p in line.split(',')]
-                        if len(parts) >= 3:
-                            city_name = parts[0]
-                            lat = float(parts[1])
-                            lng = float(parts[2])
-                            city_data_map[city_name] = {"lat": lat, "lng": lng}
-        except Exception as e:
-            print(f"Error fetching location data: {e}")
+        city_data_map = fetch_city_data_for_country(selected_country)
 
-    available_cities = list(city_data_map.keys())
+    available_cities = sorted(list(city_data_map.keys()))
 
-    # 📍 場所取得のセレクトボックス
+    # 📍 ステップ3: 場所（都市名）の選択
     selected_city = st.selectbox(
         "Location / City",
         options=available_cities,
@@ -462,7 +452,7 @@ def render_user_input_form(prefix, default_name, show_header=True):
     if lng_key not in st.session_state:
         st.session_state[lng_key] = 139.7671
 
-    # 選択された場所が変わったら緯度・経度を自動セット
+    # 選択された都市が変わったら緯度・経度を自動セット
     if selected_city and selected_city in city_data_map:
         if st.session_state.get(current_selected_key) != selected_city:
             st.session_state[lat_key] = city_data_map[selected_city]["lat"]
@@ -478,7 +468,6 @@ def render_user_input_form(prefix, default_name, show_header=True):
         "birth_date": birth_date,
         "birth_time": birth_time,
         "selected_country": selected_country,
-        "selected_state": "", # 州を使わない場合は空文字または省略
         "selected_city": selected_city,
         "input_lat": input_lat,
         "input_lng": input_lng,
@@ -632,7 +621,7 @@ if submit_button:
     # バリデーションチェック
     p1_error = False
     if not p1_data["selected_country"]:
-        st.error(f"1人目: {t['invalid_country_error']}")
+        st.error("Please select a country folder.")
         p1_error = True
     elif not p1_data["selected_city"]:
         st.error(f"1人目: {t['invalid_loc_error']}")
@@ -641,7 +630,7 @@ if submit_button:
     p2_error = False
     if (is_synastry or is_composite) and p2_data:
         if not p2_data["selected_country"]:
-            st.error(f"2人目: {t['invalid_country_error']}")
+            st.error("Please select a country folder.")
             p2_error = True
         elif not p2_data["selected_city"]:
             st.error(f"2人目: {t['invalid_loc_error']}")
@@ -650,9 +639,7 @@ if submit_button:
     if not p1_error and not p2_error:
         with st.spinner(t["loading"]):
 
-            # 表示用・計算用に都市名やロケーション情報を構築
-            # 例: "Abanda, Alabama, United States of America" のようなフルパスを作るか、都市名単体にする
-            p1_loc_full = f"{p1_data['input_city_name']}, {p1_data['selected_state']}, {p1_data['selected_country']}"
+            p1_loc_full = f"{p1_data['input_city_name']}, {p1_data['selected_country']}"
             
             # ── 1. トランジットモードの場合 ──
             if is_transit:
