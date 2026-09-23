@@ -1039,8 +1039,8 @@ if "chart_data" in st.session_state:
             st.write("")
 
         # タブの作成（全6タブ）
-        ruler_tab_label = "ハウスルーラー" if lang == "日本語" else "House Rulers"
-        midpoint_tab_label = "ミッドポイント" if lang == "日本語" else "Midpoints"
+        ruler_tab_label = "House Rulers"
+        midpoint_tab_label = "Midpoints"
         tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs([
             t["bodies_tab"], t["houses_tab"], t["aspects_tab"], 
             t["patterns_tab"], ruler_tab_label, midpoint_tab_label
@@ -1099,7 +1099,7 @@ if "chart_data" in st.session_state:
                     if lang == "日本語" 
                     else ["Without 5-degree rule", "With 5-degree rule"]
                 )
-                ruler_mode_label = "表示モードを選択" if lang == "日本語" else "Select Display Mode"
+                ruler_mode_label = "Select Display Mode" if lang == "日本語" else "Select Display Mode"
                 
                 ruler_mode = st.radio(
                     ruler_mode_label,
