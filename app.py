@@ -650,7 +650,7 @@ if submit_button:
                 
                 data = get_chart_data(
                     p1_data["user_name"],
-                    p1_data["birth_date"].year, p1_data["birth_date"].month, い["birth_date"].day,
+                    p1_data["birth_date"].year, p1_data["birth_date"].month, ["birth_date"].day,
                     p1_data["birth_time"].hour, p1_data["birth_time"].minute,
                     p1_data["input_lat"], p1_data["input_lng"],
                     p1_loc_full, lang, toggle_view, unknown_checkbox,
@@ -706,28 +706,32 @@ if submit_button:
                 
                 # 1人目のチャートデータを計算モジュールから取得
                 p1_result = get_chart_data(
-                    name=p1_data["user_name"],
-                    year=p1_data["year"],
-                    month=p1_data["month"],
-                    day=p1_data["day"],
-                    hour=p1_data["hour"],
-                    minute=p1_data["minute"],
-                    lat=p1_data["lat"],
-                    lon=p1_data["lon"],
-                    tz=p1_data["tz"]
+                    name=p1_data.get("name", "Person 1"),
+                    year=p1_data["birth_date"].year,
+                    month=p1_data["birth_date"].month,
+                    day=p1_data["birth_date"].day,
+                    hour=p1_data["birth_time"].hour,
+                    minute=p1_data["birth_time"].minute,
+                    lat=p1_data["input_lat"],
+                    lng=p1_data["input_lng"],
+                    city_display_name=p1_data.get("city_display_name", ""),
+                    view_type="synastry",
+                    is_unknown_time=p1_data.get("is_unknown_time", False)
                 )
                 
                 # 2人目のチャートデータを計算モジュールから取得
                 p2_result = get_chart_data(
-                    name=p2_data["user_name"],
-                    year=p2_data["year"],
-                    month=p2_data["month"],
-                    day=p2_data["day"],
-                    hour=p2_data["hour"],
-                    minute=p2_data["minute"],
-                    lat=p2_data["lat"],
-                    lon=p2_data["lon"],
-                    tz=p2_data["tz"]
+                    name=p2_data.get("name", "Person 2"),
+                    year=p2_data["birth_date"].year,
+                    month=p2_data["birth_date"].month,
+                    day=p2_data["birth_date"].day,
+                    hour=p2_data["birth_time"].hour,
+                    minute=p2_data["birth_time"].minute,
+                    lat=p2_data["input_lat"],
+                    lng=p2_data["input_lng"],
+                    city_display_name=p2_data.get("city_display_name", ""),
+                    view_type="synastry",
+                    is_unknown_time=p2_data.get("is_unknown_time", False)
                 )
                 
                 # 計算モジュール側でシナストリーデータを統合・アスペクト計算する
