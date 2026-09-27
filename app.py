@@ -706,7 +706,7 @@ if submit_button:
                 
                 # 1人目のチャートデータを計算モジュールから取得
                 p1_result = get_chart_data(
-                    name=p1_data["name"],
+                    name=p1_data["user_name"],
                     year=p1_data["year"],
                     month=p1_data["month"],
                     day=p1_data["day"],
@@ -719,7 +719,7 @@ if submit_button:
                 
                 # 2人目のチャートデータを計算モジュールから取得
                 p2_result = get_chart_data(
-                    name=p2_data["name"],
+                    name=p2_data["user_name"],
                     year=p2_data["year"],
                     month=p2_data["month"],
                     day=p2_data["day"],
