@@ -691,6 +691,7 @@ def get_chart_data(name, year, month, day, hour, minute, lat, lng, city_display_
         "midpoints": midpoints_data,
         "aspects": calculate_aspects(all_aspect_objs, view_type),
         "patterns": detect_patterns(all_aspect_objs)
+        "aspect_objs": all_aspect_objs
     }
 
 def calculate_synastry_aspects(bodies_p1, bodies_p2, orb_dict=None):
@@ -752,11 +753,11 @@ def calculate_synastry_aspects(bodies_p1, bodies_p2, orb_dict=None):
 
 def get_synastry_data(p1_chart_result, p2_chart_result):
     """
-    2人分のチャート計算結果（bodiesなどを含む辞書）を受け取り、
-    シナストリー用の統合データを返す
+    2人分のチャート計算結果を受け取り、シナストリー用の統合データを返す
     """
-    bodies_p1 = p1_chart_result.get("bodies", {})
-    bodies_p2 = p2_chart_result.get("bodies", {})
+    # 文字列リストの "bodies" ではなく、絶対位置を持つ "aspect_objs" を取得する
+    bodies_p1_list = p1_chart_result.get("aspect_objs", [])
+    bodies_p2_list = p2_chart_result.get("aspect_objs", [])
     
     # 相互のアスペクトを計算
     synastry_aspects = calculate_synastry_aspects(bodies_p1, bodies_p2)
