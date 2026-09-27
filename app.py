@@ -1417,31 +1417,43 @@ if "chart_data" in st.session_state:
                 []
             )
             
+            # データが存在するかどうかのチェック
             if synastry_aspects and synastry_aspects is not Ellipsis:
-                if isinstance(synastry_aspects, str):
-                    lines = [l.strip() for l in synastry_aspects.split("\n") if l.strip()]
-                elif isinstance(synastry_aspects, list):
-                    lines = []
+                valid_items = []
+                
+                if isinstance(synastry_aspects, list):
                     for item in synastry_aspects:
-                        if item is not Ellipsis and str(item) != "Ellipsis":
-                            if isinstance(item, str):
-                                lines.extend([l.strip() for l in item.split("\n") if l.strip()])
-                            else:
-                                lines.append(str(item))
+                        if item and item is not Ellipsis and str(item) != "Ellipsis":
+                            valid_items.append(item)
+                elif isinstance(synastry_aspects, str):
+                    lines = [l.strip() for l in synastry_aspects.split("\n") if l.strip()]
+                    valid_items.extend(lines)
                 else:
-                    lines = [str(synastry_aspects)]
-
-                valid_lines = [l for l in lines if l and str(l) != "Ellipsis"]
-                if valid_lines:
-                    for line in valid_lines:
-                        converted_line = localize_text(convert_to_dms(line), lang)
-                        st.markdown(converted_line if converted_line.startswith("-") else f"- {converted_line}")
+                    valid_items.append(synastry_aspects)
+                
+                if valid_items:
+                    for item in valid_items:
+                        # 1. 計算モジュールから返された辞書型（構造化データ）の場合
+                        if isinstance(item, dict):
+                            p1_b = item.get('person1_body', 'Unknown')
+                            p2_b = item.get('person2_body', 'Unknown')
+                            asp_name = item.get('aspect', '')
+                            orb = item.get('orb', 0.0)
+                            
+                            # 見やすくリッチに表示（オーブ情報なども添える）
+                            display_text = f"- **{p1_b}** ({u_name}) ── *{asp_name}* ── **{p2_b}** ({p2_name}) <span style='color: gray; font-size: 0.85em;'>(Orb: {orb}°)</span>"
+                            converted_line = localize_text(display_text, lang)
+                            st.markdown(converted_line, unsafe_allow_html=True)
+                        
+                        # 2. 従来の文字列データの場合のフォールバック
+                        else:
+                            line_str = str(item)
+                            converted_line = localize_text(convert_to_dms(line_str), lang)
+                            st.markdown(converted_line if converted_line.startswith("-") else f"- {converted_line}", unsafe_allow_html=True)
                 else:
-                    st.info("*(No synastry aspects found)*")
+                    st.info("*(No synastry aspects found)*" if lang != "日本語" else "*(相性アスペクトが見つかりませんでした)*")
             else:
-                st.info("*(No data)*")
-
-        st.divider()
+                st.info("*(No data)*" if lang != "日本語" else "*(データがありません)*")
 
         with st.expander("📋 Copy All Results"):
             def clean_html(text):
