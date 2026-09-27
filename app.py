@@ -1395,7 +1395,7 @@ if "chart_data" in st.session_state:
         """, unsafe_allow_html=True)
 
         synastry_tabs_labels = (
-            ["🌟 Celestial Alignment", "🔗 Aspects Comparison"] 
+            ["🌟 Celestial Bodies", "🔗 Aspects Comparison"] 
         )
         stab1, stab2 = st.tabs(synastry_tabs_labels)
 
@@ -1479,7 +1479,7 @@ if "chart_data" in st.session_state:
 
             copy_lines = []
             if lang == "日本語":
-                copy_lines.append(f"【Celestial Alignment: {u_name} & {p2_name}】\n")
+                copy_lines.append(f"【Celestial Bodies: {u_name} & {p2_name}】\n")
                 
                 copy_lines.append(f"--- 👤 {u_name} の天体配置 ---")
                 p1_bodies = data.get("person1", {}).get("bodies", data.get("bodies", []))
@@ -1492,6 +1492,8 @@ if "chart_data" in st.session_state:
                     copy_lines.append(f"- {clean_html(convert_to_dms(p))}")
 
                 copy_lines.append(f"\n--- 🔗 Synastry Aspects ---")
+                copy_lines.append(f"(Left: {u_name} ── Right: {p2_name})\n")
+                
                 synastry_aspects = (
                     data.get("synastry_aspects") or 
                     data.get("person1_to_person2_aspects") or 
