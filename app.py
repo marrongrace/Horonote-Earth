@@ -722,11 +722,18 @@ if submit_button:
                     data = get_synastry_data(p1_info, p2_info, mode=lang, display_mode=toggle_view)
                 else:
                     data = get_chart_data(
-                        f"{p1_data['user_name']} & {p2_data['user_name']}", 
-                        p1_data["birth_date"].year, p1_data["birth_date"].month, p1_data["birth_date"].day,
-                        p1_data["birth_time"].hour, p1_data["birth_time"].minute, 
-                        p1_data["input_lat"], p1_data["input_lng"],
-                        p1_loc_full, lang, toggle_view, unknown_checkbox
+                    # get_chart_data(name, year, month, day, hour, minute, lat, lng, city_display_name, view_type, is_unknown_time)
+                        f"{p1_data['user_name']} & {p2_data['user_name']}", # name
+                        p1_data["birth_date"].year,                      # year
+                        p1_data["birth_date"].month,                     # month
+                        p1_data["birth_date"].day,                       # day
+                        p1_data["birth_time"].hour,                      # hour
+                        p1_data["birth_time"].minute,                    # minute
+                        p1_data["input_lat"],                            # lat
+                        p1_data["input_lng"],                            # lng
+                        p1_loc_full,                                     # city_display_name
+                        lang,                                            # view_type (※引数の役割がlangかview_typeか要確認ですが、定義に合わせて渡す)
+                        unknown_checkbox                                 # is_unknown_time
                     )
                 st.session_state.chart_data = data
                 st.session_state.user_name = p1_data["user_name"]
