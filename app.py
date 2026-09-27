@@ -1481,18 +1481,18 @@ if "chart_data" in st.session_state:
             if lang == "日本語":
                 copy_lines.append(f"【Celestial Bodies: {u_name} & {p2_name}】\n")
                 
-                copy_lines.append(f"--- 👤 {u_name} の天体配置 ---")
+                copy_lines.append(f"--- 👤 Celestial Bodies of {u_name} ---")
                 p1_bodies = data.get("person1", {}).get("bodies", data.get("bodies", []))
                 for p in p1_bodies:
                     copy_lines.append(f"- {clean_html(convert_to_dms(p))}")
 
-                copy_lines.append(f"\n--- 👤 {p2_name} の天体配置 ---")
+                copy_lines.append(f"\n--- 👤 Celestial Bodies of {p2_name} ---")
                 p2_bodies = data.get("person2", {}).get("bodies", data.get("person2_bodies", []))
                 for p in p2_bodies:
                     copy_lines.append(f"- {clean_html(convert_to_dms(p))}")
 
                 copy_lines.append(f"\n--- 🔗 Synastry Aspects ---")
-                copy_lines.append(f"(Left: {u_name} ×─ Right: {p2_name})\n")
+                copy_lines.append(f"(Left: {u_name} × Right: {p2_name})\n")
                 
                 synastry_aspects = (
                     data.get("synastry_aspects") or 
@@ -1520,12 +1520,12 @@ if "chart_data" in st.session_state:
                 # 英語用の出力
                 copy_lines.append(f"[Synastry Reading Data: {u_name} & {p2_name}]\n")
                 
-                copy_lines.append(f"--- 👤 {u_name}'s Celestial Bodies ---")
+                copy_lines.append(f"--- 👤 Celestial Bodies of {u_name} ---")
                 p1_bodies = data.get("person1", {}).get("bodies", data.get("bodies", []))
                 for p in p1_bodies:
                     copy_lines.append(f"- {clean_html(convert_to_dms(p))}")
                 
-                copy_lines.append(f"\n--- 👤 {u_name}'s Aspects ---")
+                copy_lines.append(f"\n--- 👤 Comparison Aspects of {u_name} ---")
                 p1_aspects = data.get("person1", {}).get("aspects", data.get("person1_aspects", data.get("aspects", [])))
                 if isinstance(p1_aspects, list):
                     for a in p1_aspects:
