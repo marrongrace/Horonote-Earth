@@ -1417,7 +1417,7 @@ if "chart_data" in st.session_state:
             
             st.markdown(
                 f"<p style='color: #888888; font-size: 0.9em; margin-bottom: 15px;'>"
-                f"（左側：<b>{u_name}</b> の天体 ── 右側：<b>{p2_name}</b> の天体）</p>", 
+                f"(Left: <b>{u_name}</b> ── Right: <b>{p2_name}</b>)</p>", 
                 unsafe_allow_html=True
             )
             
@@ -1535,6 +1535,7 @@ if "chart_data" in st.session_state:
                             copy_lines.append(f"- {clean_html(convert_to_dms(line))}")
 
                 copy_lines.append(f"\n--- 👤 {p2_name}'s Celestial Bodies ---")
+                copy_lines.append(f"(Left: {u_name} ── Right: {p2_name})\n")
                 p2_bodies = data.get("person2", {}).get("bodies", data.get("person2_bodies", []))
                 for p in p2_bodies:
                     copy_lines.append(f"- {clean_html(convert_to_dms(p))}")
