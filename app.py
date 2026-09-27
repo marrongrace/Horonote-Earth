@@ -702,41 +702,30 @@ if submit_button:
 
 # ── 3. シナストリー（相性）モードの場合 ──
             elif is_synastry:
+                p1_loc_full = f"{p1_data['input_city_name']}, {p1_data['selected_country']}"
                 p2_loc_full = f"{p2_data['input_city_name']}, {p2_data['selected_country']}"
                 
                 # 1人目のチャートデータを計算モジュールから取得
                 p1_result = get_chart_data(
-                    name=p1_data.get("name", "Person 1"),
-                    year=p1_data["birth_date"].year,
-                    month=p1_data["birth_date"].month,
-                    day=p1_data["birth_date"].day,
-                    hour=p1_data["birth_time"].hour,
-                    minute=p1_data["birth_time"].minute,
-                    lat=p1_data["input_lat"],
-                    lng=p1_data["input_lng"],
-                    city_display_name=p1_data.get("city_display_name", ""),
-                    view_type="synastry",
-                    is_unknown_time=p1_data.get("is_unknown_time", False)
+                    p1_data["user_name"],
+                    p1_data["birth_date"].year, p1_data["birth_date"].month, p1_data["birth_date"].day,
+                    p1_data["birth_time"].hour, p1_data["birth_time"].minute,
+                    p1_data["input_lat"], p1_data["input_lng"],
+                    p1_loc_full, lang, toggle_view, False
                 )
                 
                 # 2人目のチャートデータを計算モジュールから取得
                 p2_result = get_chart_data(
-                    name=p2_data.get("name", "Person 2"),
-                    year=p2_data["birth_date"].year,
-                    month=p2_data["birth_date"].month,
-                    day=p2_data["birth_date"].day,
-                    hour=p2_data["birth_time"].hour,
-                    minute=p2_data["birth_time"].minute,
-                    lat=p2_data["input_lat"],
-                    lng=p2_data["input_lng"],
-                    city_display_name=p2_data.get("city_display_name", ""),
-                    view_type="synastry",
-                    is_unknown_time=p2_data.get("is_unknown_time", False)
+                    p2_data["user_name"],
+                    p2_data["birth_date"].year, p2_data["birth_date"].month, p2_data["birth_date"].day,
+                    p2_data["birth_time"].hour, p2_data["birth_time"].minute,
+                    p2_data["input_lat"], p2_data["input_lng"],
+                    p2_loc_full, lang, toggle_view, False
                 )
                 
                 # 計算モジュール側でシナストリーデータを統合・アスペクト計算する
-                # synastry_data = get_synastry_data(p1_result, p2_result)
-                synastry_data = get_synastry_data(p1_result["bodies"], p2_result["bodies"])
+                synastry_data = get_synastry_data(p1_result, p2_result)
+                # synastry_data = get_synastry_data(p1_result["bodies"], p2_result["bodies"])
                 
                 # セッションステートに保存
                 st.session_state.chart_data = synastry_data
