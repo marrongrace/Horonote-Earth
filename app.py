@@ -1495,13 +1495,21 @@ if "chart_data" in st.session_state:
                 if isinstance(synastry_aspects, list):
                     for a in synastry_aspects:
                         if a is not Ellipsis and str(a) != "Ellipsis":
-                            copy_lines.append(f"- {clean_html(convert_to_dms(a))}")
+                            if isinstance(a, dict):
+                                # 辞書データ（シナストリーアスペクト）をきれいなテキストに変換
+                                p1_b = a.get('person1_body', '')
+                                p2_b = a.get('person2_body', '')
+                                asp = a.get('aspect', '')
+                                orb_val = a.get('orb', 0.0)
+                                copy_lines.append(f"- {p1_b} × {p2_b} : {asp} (Orb: {orb_val}°)")
+                            else:
+                                copy_lines.append(f"- {clean_html(convert_to_dms(a))}")
                 elif isinstance(synastry_aspects, str):
                     for line in synastry_aspects.split("\n"):
                         if line.strip():
                             copy_lines.append(f"- {clean_html(convert_to_dms(line))}")
             else:
-                # 英語用の出力も同様にシナストリー・アスペクトを反映
+                # 英語用の出力
                 copy_lines.append(f"[Synastry Reading Data: {u_name} & {p2_name}]\n")
                 
                 copy_lines.append(f"--- 👤 {u_name}'s Celestial Bodies ---")
@@ -1525,14 +1533,26 @@ if "chart_data" in st.session_state:
                 for p in p2_bodies:
                     copy_lines.append(f"- {clean_html(convert_to_dms(p))}")
 
-                copy_lines.append(f"\n--- 👤 {p2_name}'s Aspects ---")
-                p2_aspects = data.get("person2", {}).get("aspects", data.get("person2_aspects", []))
-                if isinstance(p2_aspects, list):
-                    for a in p2_aspects:
+                copy_lines.append(f"\n--- 🔗 Synastry Aspects ---")
+                synastry_aspects = (
+                    data.get("synastry_aspects") or 
+                    data.get("person1_to_person2_aspects") or 
+                    data.get("aspects") or 
+                    []
+                )
+                if isinstance(synastry_aspects, list):
+                    for a in synastry_aspects:
                         if a is not Ellipsis and str(a) != "Ellipsis":
-                            copy_lines.append(f"- {clean_html(convert_to_dms(a))}")
-                elif isinstance(p2_aspects, str):
-                    for line in p2_aspects.split("\n"):
+                            if isinstance(a, dict):
+                                p1_b = a.get('person1_body', '')
+                                p2_b = a.get('person2_body', '')
+                                asp = a.get('aspect', '')
+                                orb_val = a.get('orb', 0.0)
+                                copy_lines.append(f"- {p1_b} × {p2_b} : {asp} (Orb: {orb_val}°)")
+                            else:
+                                copy_lines.append(f"- {clean_html(convert_to_dms(a))}")
+                elif isinstance(synastry_aspects, str):
+                    for line in synastry_aspects.split("\n"):
                         if line.strip():
                             copy_lines.append(f"- {clean_html(convert_to_dms(line))}")
 
