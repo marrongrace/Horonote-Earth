@@ -1415,6 +1415,12 @@ if "chart_data" in st.session_state:
         with stab2:
             st.markdown(f"#### 🔗 Synastry Aspects between {u_name} & {p2_name}")
             
+            st.markdown(
+                f"<p style='color: #888888; font-size: 0.9em; margin-bottom: 15px;'>"
+                f"（左側：<b>{u_name}</b> の天体 ── 右側：<b>{p2_name}</b> の天体）</p>", 
+                unsafe_allow_html=True
+            )
+            
             # 各種キーのバリエーションに対応して取得
             synastry_aspects = (
                 data.get("synastry_aspects") or 
