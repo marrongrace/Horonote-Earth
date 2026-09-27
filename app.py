@@ -1543,6 +1543,7 @@ if "chart_data" in st.session_state:
                     copy_lines.append(f"- {clean_html(convert_to_dms(p))}")
 
                 copy_lines.append(f"\n--- 🔗 Synastry Aspects ---")
+                st.markdown("")
                 synastry_aspects = (
                     data.get("synastry_aspects") or 
                     data.get("person1_to_person2_aspects") or 
