@@ -1417,7 +1417,7 @@ if "chart_data" in st.session_state:
             st.markdown("")
             st.markdown(
                 f"<p style='color: #888888; font-size: 0.9em; margin-bottom: 15px;'>"
-                f"(Left: <b>{u_name}</b> ─ Aspect - Right: <b>{p2_name}</b>)</p>", 
+                f"(Left: <b>{u_name}</b> - Aspect - Right: <b>{p2_name}</b>)</p>", 
                 unsafe_allow_html=True
             )
             
