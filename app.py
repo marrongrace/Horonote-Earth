@@ -735,7 +735,8 @@ if submit_button:
                 )
                 
                 # 計算モジュール側でシナストリーデータを統合・アスペクト計算する
-                synastry_data = get_synastry_data(p1_result, p2_result)
+                # synastry_data = get_synastry_data(p1_result, p2_result)
+                synastry_data = get_synastry_data(p1_result["bodies"], p2_result["bodies"])
                 
                 # セッションステートに保存
                 st.session_state.chart_data = synastry_data
