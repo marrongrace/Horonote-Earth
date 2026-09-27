@@ -802,7 +802,7 @@ if "chart_data" in st.session_state:
         st.divider()
         
         # 📋 ④ 一括コピー欄（トランジット用）
-        with st.expander("📋 結果をテキストで一括コピー / Copy All Results"):
+        with st.expander("📋 Copy All Results"):
             def clean_html(text):
                 if not isinstance(text, str):
                     return str(text)
@@ -1384,14 +1384,12 @@ if "chart_data" in st.session_state:
         # 🌟 シナストリーモード用の表示（左右に分ける）
         st.markdown(f"""
         <div style="padding: 20px; border: 2px solid #D4AF37; border-radius: 12px; background: linear-gradient(135deg, rgba(212,175,55,0.05), rgba(75,0,130,0.05)); text-align: center; margin-bottom: 25px;">
-            <h2 style="margin: 0; color: #B8860B;">✨ {u_name} & {p2_name} {"のシナストリー鑑定" if lang=="日本語" else "'s Synastry Reading"} ✨</h2>
+            <h2 style="margin: 0; color: #B8860B;">✨ {u_name} & {p2_name} {"'s Synastry data" if lang=="日本語" else "'s Synastry Reading"} ✨</h2>
         </div>
         """, unsafe_allow_html=True)
 
         synastry_tabs_labels = (
-            ["🌟 2人分の天体配置", "🔗 2人分のアスペクト比較"] 
-            if lang == "日本語" 
-            else ["🌟 Celestial Bodies", "🔗 Aspects Comparison"]
+            ["🌟 Celestial Alignment", "🔗 Aspects Comparison"] 
         )
         stab1, stab2 = st.tabs(synastry_tabs_labels)
 
@@ -1408,7 +1406,7 @@ if "chart_data" in st.session_state:
                 for p in p2_bodies:
                     st.markdown(f"- {localize_text(convert_to_dms(p), lang)}", unsafe_allow_html=True)
         with stab2:
-            st.markdown(f"#### 🔗 {u_name} & {p2_name} のシナストリー・アスペクト" if lang=="日本語" else f"#### 🔗 Synastry Aspects between {u_name} & {p2_name}")
+            st.markdown(f"#### 🔗 Synastry Aspects between {u_name} & {p2_name}")
             
             # 各種キーのバリエーションに対応して取得
             synastry_aspects = (
@@ -1438,13 +1436,13 @@ if "chart_data" in st.session_state:
                         converted_line = localize_text(convert_to_dms(line), lang)
                         st.markdown(converted_line if converted_line.startswith("-") else f"- {converted_line}")
                 else:
-                    st.info("*(該当するアスペクトはありません)*" if lang=="日本語" else "*(No synastry aspects found)*")
+                    st.info("*(No synastry aspects found)*")
             else:
-                st.info("*(データなし)*" if lang=="日本語" else "*(No data)*")
+                st.info("*(No data)*")
 
         st.divider()
 
-        with st.expander("📋 結果をテキストで一括コピー / Copy All Results"):
+        with st.expander("📋 Copy All Results"):
             def clean_html(text):
                 if not isinstance(text, str):
                     return str(text)
@@ -1456,7 +1454,7 @@ if "chart_data" in st.session_state:
 
             copy_lines = []
             if lang == "日本語":
-                copy_lines.append(f"【シナストリー鑑定データ: {u_name} & {p2_name}】\n")
+                copy_lines.append(f"【Celestial Alignment: {u_name} & {p2_name}】\n")
                 
                 copy_lines.append(f"--- 👤 {u_name} の天体配置 ---")
                 p1_bodies = data.get("person1", {}).get("bodies", data.get("bodies", []))
@@ -1468,7 +1466,7 @@ if "chart_data" in st.session_state:
                 for p in p2_bodies:
                     copy_lines.append(f"- {clean_html(convert_to_dms(p))}")
 
-                copy_lines.append(f"\n--- 🔗 シナストリー・アスペクト ---")
+                copy_lines.append(f"\n--- 🔗 Synastry Aspects ---")
                 synastry_aspects = (
                     data.get("synastry_aspects") or 
                     data.get("person1_to_person2_aspects") or 
