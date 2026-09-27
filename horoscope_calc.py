@@ -692,3 +692,77 @@ def get_chart_data(name, year, month, day, hour, minute, lat, lng, city_display_
         "aspects": calculate_aspects(all_aspect_objs, view_type),
         "patterns": detect_patterns(all_aspect_objs)
     }
+
+def calculate_synastry_aspects(bodies_p1, bodies_p2, orb_dict=None):
+    """
+    1人目の天体リストと2人目の天体リストの間でアスペクトを計算する
+    """
+    if orb_dict is None:
+        orb_dict = {
+            'Conjunction': 8,
+            'Opposition': 8,
+            'Trine': 8,
+            'Square': 8,
+            'Sextile': 6
+        }
+
+    synastry_aspects = []
+    
+    # 主要なアスペクトの角度定義
+    aspect_angles = {
+        'Conjunction': 0,
+        'Sextile': 60,
+        'Square': 90,
+        'Trine': 120,
+        'Opposition': 180
+    }
+
+    for p1_name, p1_data in bodies_p1.items():
+        p1_pos = p1_data.get('abs_pos')
+        if p1_pos is None:
+            continue
+            
+        for p2_name, p2_data in bodies_p2.items():
+            p2_pos = p2_data.get('abs_pos')
+            if p2_pos is None:
+                continue
+                
+            # 2天体間の角度差（0〜180度）を算出
+            diff = abs(p1_pos - p2_pos)
+            if diff > 180:
+                diff = 360 - diff
+                
+            # 各アスペクトとの誤差をチェック
+            for asp_name, target_angle in aspect_angles.items():
+                allowed_orb = orb_dict.get(asp_name, 6)
+                orb_diff = abs(diff - target_angle)
+                
+                if orb_diff <= allowed_orb:
+                    synastry_aspects.append({
+                        'person1_body': p1_name,
+                        'person2_body': p2_name,
+                        'aspect': asp_name,
+                        'angle': target_angle,
+                        'actual_diff': diff,
+                        'orb': round(orb_diff, 2)
+                    })
+                    break  # 1つのペアにつき1つのアスペクトがヒットしたら次へ
+                    
+    return synastry_aspects
+
+def get_synastry_data(p1_chart_result, p2_chart_result):
+    """
+    2人分のチャート計算結果（bodiesなどを含む辞書）を受け取り、
+    シナストリー用の統合データを返す
+    """
+    bodies_p1 = p1_chart_result.get("bodies", {})
+    bodies_p2 = p2_chart_result.get("bodies", {})
+    
+    # 相互のアスペクトを計算
+    synastry_aspects = calculate_synastry_aspects(bodies_p1, bodies_p2)
+    
+    return {
+        "person1": p1_chart_result,
+        "person2": p2_chart_result,
+        "synastry_aspects": synastry_aspects
+    }
