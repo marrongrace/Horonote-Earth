@@ -160,7 +160,7 @@ with col2:
                 }}
                 .sub-title {{
                     display: block;
-                    margin-left: 0px;
+                    margin- 0px;
                     margin-top: 4px;
                     margin-bottom: 1.2rem; 
                 }}
@@ -1417,7 +1417,7 @@ if "chart_data" in st.session_state:
             st.markdown("")
             st.markdown(
                 f"<p style='color: #888888; font-size: 0.9em; margin-bottom: 15px;'>"
-                f"(Left: <b>{u_name}</b> ── Right: <b>{p2_name}</b>)</p>", 
+                f"(Left: <b>{u_name}</b> ─ Right: <b>{p2_name}</b>)</p>", 
                 unsafe_allow_html=True
             )
             
@@ -1543,7 +1543,6 @@ if "chart_data" in st.session_state:
                     copy_lines.append(f"- {clean_html(convert_to_dms(p))}")
 
                 copy_lines.append(f"\n--- 🔗 Synastry Aspects ---")
-                st.markdown("")
                 synastry_aspects = (
                     data.get("synastry_aspects") or 
                     data.get("person1_to_person2_aspects") or 
