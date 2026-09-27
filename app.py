@@ -1453,7 +1453,7 @@ if "chart_data" in st.session_state:
                             orb = item.get('orb', 0.0)
                             
                             # 見やすくリッチに表示（オーブ情報なども添える）
-                            display_text = f"- **{p1_b}** ({u_name}) ── *{asp_name}* ── **{p2_b}** ({p2_name}) <span style='color: gray; font-size: 0.85em;'>(Orb: {orb}°)</span>"
+                            display_text = f"- **{p1_b}** ({u_name}) ─ *{asp_name}* ─ **{p2_b}** ({p2_name}) <span style='color: gray; font-size: 0.85em;'>(Orb: {orb}°)</span>"
                             converted_line = localize_text(display_text, lang)
                             st.markdown(converted_line, unsafe_allow_html=True)
                         
@@ -1492,7 +1492,7 @@ if "chart_data" in st.session_state:
                     copy_lines.append(f"- {clean_html(convert_to_dms(p))}")
 
                 copy_lines.append(f"\n--- 🔗 Synastry Aspects ---")
-                copy_lines.append(f"(Left: {u_name} ── Right: {p2_name})\n")
+                copy_lines.append(f"(Left: {u_name} ×─ Right: {p2_name})\n")
                 
                 synastry_aspects = (
                     data.get("synastry_aspects") or 
