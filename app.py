@@ -1414,7 +1414,7 @@ if "chart_data" in st.session_state:
                     
         with stab2:
             st.markdown(f"#### 🔗 Synastry Aspects between {u_name} & {p2_name}")
-            
+            st.markdown("")
             st.markdown(
                 f"<p style='color: #888888; font-size: 0.9em; margin-bottom: 15px;'>"
                 f"(Left: <b>{u_name}</b> ── Right: <b>{p2_name}</b>)</p>", 
