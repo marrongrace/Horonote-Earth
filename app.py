@@ -710,7 +710,7 @@ if submit_button:
                         "year": p1_data["birth_date"].year, "month": p1_data["birth_date"].month, "day": p1_data["birth_date"].day,
                         "hour": p1_data["birth_time"].hour, "minute": p1_data["birth_time"].minute,
                         "lat": p1_data["input_lat"], "lng": p1_data["input_lng"],
-                        "city": p1_loc_full, lang, "unknown_checkbox":
+                        "city": p1_loc_full, lang, "unknown_checkbox"
                     }
                     p2_info = {
                         "name": p2_data["user_name"],
