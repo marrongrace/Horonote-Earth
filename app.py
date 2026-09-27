@@ -702,7 +702,7 @@ if submit_button:
 
             # ── 3. シナストリー（相性）モードの場合 ──
             elif is_synastry:
-                p2_loc_full = f"{p2_data['input_city_name']}, {p2_data['selected_state']}, {p2_data['selected_country']}"
+                p2_loc_full = f"{p2_data['input_city_name']}, {p2_data['selected_country']}"
                 
                 if get_synastry_data is not None:
                     p1_info = {
