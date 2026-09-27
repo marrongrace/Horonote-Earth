@@ -709,7 +709,6 @@ def calculate_synastry_aspects(bodies_p1, bodies_p2, orb_dict=None):
 
     synastry_aspects = []
     
-    # 主要なアスペクトの角度定義
     aspect_angles = {
         'Conjunction': 0,
         'Sextile': 60,
@@ -718,22 +717,29 @@ def calculate_synastry_aspects(bodies_p1, bodies_p2, orb_dict=None):
         'Opposition': 180
     }
 
-    for p1_name, p1_data in bodies_p1.items():
-        p1_pos = p1_data.get('abs_pos')
+    # リスト形式、辞書形式のどちらでも動くように安全にイテレートする処理
+    def get_items(data):
+        if isinstance(data, dict):
+            return data.items()
+        elif isinstance(data, list):
+            # リスト [{ "key": "Sun", "abs_pos": ... }, ...] の場合
+            return [(item.get("key"), item) for item in data if isinstance(item, dict)]
+        return []
+
+    for p1_name, p1_data in get_items(bodies_p1):
+        p1_pos = p1_data.get('abs_pos') if isinstance(p1_data, dict) else getattr(p1_data, 'abs_pos', None)
         if p1_pos is None:
             continue
             
-        for p2_name, p2_data in bodies_p2.items():
-            p2_pos = p2_data.get('abs_pos')
+        for p2_name, p2_data in get_items(bodies_p2):
+            p2_pos = p2_data.get('abs_pos') if isinstance(p2_data, dict) else getattr(p2_data, 'abs_pos', None)
             if p2_pos is None:
                 continue
                 
-            # 2天体間の角度差（0〜180度）を算出
             diff = abs(p1_pos - p2_pos)
             if diff > 180:
                 diff = 360 - diff
                 
-            # 各アスペクトとの誤差をチェック
             for asp_name, target_angle in aspect_angles.items():
                 allowed_orb = orb_dict.get(asp_name, 6)
                 orb_diff = abs(diff - target_angle)
@@ -747,7 +753,7 @@ def calculate_synastry_aspects(bodies_p1, bodies_p2, orb_dict=None):
                         'actual_diff': diff,
                         'orb': round(orb_diff, 2)
                     })
-                    break  # 1つのペアにつき1つのアスペクトがヒットしたら次へ
+                    break 
                     
     return synastry_aspects
 
