@@ -710,14 +710,14 @@ if submit_button:
                         "year": p1_data["birth_date"].year, "month": p1_data["birth_date"].month, "day": p1_data["birth_date"].day,
                         "hour": p1_data["birth_time"].hour, "minute": p1_data["birth_time"].minute,
                         "lat": p1_data["input_lat"], "lng": p1_data["input_lng"],
-                        "city": p1_loc_full, lang, "is_unknown_time": unknown_checkbox
+                        "city": p1_loc_full, lang, "unknown_checkbox":
                     }
                     p2_info = {
                         "name": p2_data["user_name"],
                         "year": p2_data["birth_date"].year, "month": p2_data["birth_date"].month, "day": p2_data["birth_date"].day,
                         "hour": p2_data["birth_time"].hour, "minute": p2_data["birth_time"].minute,
                         "lat": p2_data["input_lat"], "lng": p2_data["input_lng"],
-                        "city": p2_loc_full, lang, "is_unknown_time": unknown_checkbox
+                        "city": p2_loc_full, lang, "unknown_checkbox"
                     }
                     data = get_synastry_data(p1_info, p2_info, mode=lang, display_mode=toggle_view)
                 else:
