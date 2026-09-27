@@ -710,14 +710,14 @@ if submit_button:
                         "year": p1_data["birth_date"].year, "month": p1_data["birth_date"].month, "day": p1_data["birth_date"].day,
                         "hour": p1_data["birth_time"].hour, "minute": p1_data["birth_time"].minute,
                         "lat": p1_data["input_lat"], "lng": p1_data["input_lng"],
-                        "city": p1_loc_full, "is_unknown_time": unknown_checkbox
+                        "city": p1_loc_full, lang, "is_unknown_time": unknown_checkbox
                     }
                     p2_info = {
                         "name": p2_data["user_name"],
                         "year": p2_data["birth_date"].year, "month": p2_data["birth_date"].month, "day": p2_data["birth_date"].day,
                         "hour": p2_data["birth_time"].hour, "minute": p2_data["birth_time"].minute,
                         "lat": p2_data["input_lat"], "lng": p2_data["input_lng"],
-                        "city": p2_loc_full, "is_unknown_time": unknown_checkbox
+                        "city": p2_loc_full, lang, "is_unknown_time": unknown_checkbox
                     }
                     data = get_synastry_data(p1_info, p2_info, mode=lang, display_mode=toggle_view)
                 else:
@@ -735,6 +735,13 @@ if submit_button:
                         lang,                                            # view_type (※引数の役割がlangかview_typeか要確認ですが、定義に合わせて渡す)
                         unknown_checkbox                                 # is_unknown_time
                     )
+                    
+                    # 画面側（描画部分）が読み込めるように person1, person2 の形にまとめる
+                data = {
+                    "person1": p1_result,
+                    "person2": p2_result,
+                    "synastry_aspects": [] # 必要に応じて後からアスペクト計算等を追加できます
+                }
                 st.session_state.chart_data = data
                 st.session_state.user_name = p1_data["user_name"]
                 st.session_state.p2_name = p2_data["user_name"]
