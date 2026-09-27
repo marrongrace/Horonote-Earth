@@ -707,34 +707,32 @@ if submit_button:
                 
                 # 1人目のチャートデータを計算モジュールから取得
                 p1_result = get_chart_data(
-                    p1_data["user_name"],
-                    p1_data["birth_date"].year,
-                    p1_data["birth_date"].month,
-                    p1_data["birth_date"].day,
-                    p1_data["birth_time"].hour,
-                    p1_data["birth_time"].minute,
-                    p1_data["input_lat"],
-                    p1_data["input_lng"],
-                    p1_loc_full,
-                    lang,
-                    toggle_view,
-                    False
+                    name=p1_data["user_name"],
+                    year=p1_data["birth_date"].year,
+                    month=p1_data["birth_date"].month,
+                    day=p1_data["birth_date"].day,
+                    hour=p1_data["birth_time"].hour,
+                    minute=p1_data["birth_time"].minute,
+                    lat=p1_data["input_lat"],
+                    lng=p1_data["input_lng"],
+                    city_display_name=p1_loc_full,
+                    view_type=toggle_view,
+                    is_unknown_time=False  # チェックボックスの状態等にあわせて調整してください
                 )
                 
                 # 2人目のチャートデータを計算モジュールから取得
                 p2_result = get_chart_data(
-                    p2_data["user_name"],
-                    p2_data["birth_date"].year,
-                    p2_data["birth_date"].month,
-                    p2_data["birth_date"].day,
-                    p2_data["birth_time"].hour,
-                    p2_data["birth_time"].minute,
-                    p2_data["input_lat"],
-                    p2_data["input_lng"],
-                    p2_loc_full,
-                    lang,
-                    toggle_view,
-                    False
+                    name=p2_data["user_name"],
+                    year=p2_data["birth_date"].year,
+                    month=p2_data["birth_date"].month,
+                    day=p2_data["birth_date"].day,
+                    hour=p2_data["birth_time"].hour,
+                    minute=p2_data["birth_time"].minute,
+                    lat=p2_data["input_lat"],
+                    lng=p2_data["input_lng"],
+                    city_display_name=p2_loc_full,
+                    view_type=toggle_view,
+                    is_unknown_time=False
                 )
                 
                 # 計算モジュール側でシナストリーデータを統合・アスペクト計算する
