@@ -650,7 +650,7 @@ if submit_button:
                 
                 data = get_chart_data(
                     p1_data["user_name"],
-                    p1_data["birth_date"].year, p1_data["birth_date"].month, p1_data["birth_date"].day,
+                    p1_data["birth_date"].year, p1_data["birth_date"].month, い["birth_date"].day,
                     p1_data["birth_time"].hour, p1_data["birth_time"].minute,
                     p1_data["input_lat"], p1_data["input_lng"],
                     p1_loc_full, lang, toggle_view, unknown_checkbox,
@@ -1406,6 +1406,7 @@ if "chart_data" in st.session_state:
                 p2_bodies = data.get("person2", {}).get("bodies", data.get("person2_bodies", []))
                 for p in p2_bodies:
                     st.markdown(f"- {localize_text(convert_to_dms(p), lang)}", unsafe_allow_html=True)
+                    
         with stab2:
             st.markdown(f"#### 🔗 Synastry Aspects between {u_name} & {p2_name}")
             
@@ -1536,7 +1537,7 @@ if "chart_data" in st.session_state:
             boms_text = "\ufeff" + full_text
             
             st.download_button(
-                label="💾 テキストファイルとしてダウンロード / Download as text",
+                label="💾 Download as text",
                 data=boms_text,
                 file_name=f"synastry_{u_name}_{p2_name}.txt",
                 mime="text/plain;charset=utf-8"
