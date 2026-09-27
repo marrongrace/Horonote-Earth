@@ -765,8 +765,8 @@ def get_synastry_data(p1_chart_result, p2_chart_result):
     bodies_p1_list = p1_chart_result.get("aspect_objs", [])
     bodies_p2_list = p2_chart_result.get("aspect_objs", [])
     
-    # 相互のアスペクトを計算
-    synastry_aspects = calculate_synastry_aspects(bodies_p1, bodies_p2)
+    # 相互のアスペクトを計算（変数名を合わせる）
+    synastry_aspects = calculate_synastry_aspects(bodies_p1_list, bodies_p2_list)
     
     return {
         "person1": p1_chart_result,
