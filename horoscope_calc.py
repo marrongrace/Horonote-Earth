@@ -690,7 +690,7 @@ def get_chart_data(name, year, month, day, hour, minute, lat, lng, city_display_
         "house_rulers_with_5deg": ruler_list_with_5deg,
         "midpoints": midpoints_data,
         "aspects": calculate_aspects(all_aspect_objs, view_type),
-        "patterns": detect_patterns(all_aspect_objs)
+        "patterns": detect_patterns(all_aspect_objs),
         "aspect_objs": all_aspect_objs
     }
 
