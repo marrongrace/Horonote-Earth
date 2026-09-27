@@ -700,41 +700,48 @@ if submit_button:
                 st.session_state.is_transit = False
                 st.rerun()
 
-            # ── 3. シナストリー（相性）モードの場合 ──
+# ── 3. シナストリー（相性）モードの場合 ──
             elif is_synastry:
                 p2_loc_full = f"{p2_data['input_city_name']}, {p2_data['selected_country']}"
                 
-                # 1人目のチャートデータを取得
+                # 1人目のチャートデータを計算モジュールから取得
                 p1_result = get_chart_data(
-                    p1_data['user_name'],
-                    p1_data["birth_date"].year, p1_data["birth_date"].month, p1_data["birth_date"].day,
-                    p1_data["birth_time"].hour, p1_data["birth_time"].minute,
-                    p1_data["input_lat"], p1_data["input_lng"],
-                    p1_loc_full, lang, unknown_checkbox # 引数の順番に注意
+                    name=p1_data["name"],
+                    year=p1_data["year"],
+                    month=p1_data["month"],
+                    day=p1_data["day"],
+                    hour=p1_data["hour"],
+                    minute=p1_data["minute"],
+                    lat=p1_data["lat"],
+                    lon=p1_data["lon"],
+                    tz=p1_data["tz"]
                 )
                 
-                # 2人目のチャートデータを取得
+                # 2人目のチャートデータを計算モジュールから取得
                 p2_result = get_chart_data(
-                    p2_data['user_name'],
-                    p2_data["birth_date"].year, p2_data["birth_date"].month, p2_data["birth_date"].day,
-                    p2_data["birth_time"].hour, p2_data["birth_time"].minute,
-                    p2_data["input_lat"], p2_data["input_lng"],
-                    p2_loc_full, lang, unknown_checkbox
+                    name=p2_data["name"],
+                    year=p2_data["year"],
+                    month=p2_data["month"],
+                    day=p2_data["day"],
+                    hour=p2_data["hour"],
+                    minute=p2_data["minute"],
+                    lat=p2_data["lat"],
+                    lon=p2_data["lon"],
+                    tz=p2_data["tz"]
                 )
                 
-                # 画面側（描画部分）が読み込めるように person1, person2 の形にまとめる
-                data = {
-                    "person1": p1_result,
-                    "person2": p2_result,
-                    "synastry_aspects": [] # 必要に応じて後からアスペクト計算等を追加できます
-                }
+                # 計算モジュール側でシナストリーデータを統合・アスペクト計算する
+                synastry_data = get_synastry_data(p1_result, p2_result)
                 
-                st.session_state.chart_data = data
+                # セッションステートに保存
+                st.session_state.chart_data = synastry_data
                 st.session_state.user_name = p1_data["user_name"]
                 st.session_state.p2_name = p2_data["user_name"]
                 st.session_state.is_synastry = True
                 st.session_state.is_composite = False
                 st.session_state.is_transit = False
+                st.session_state.chart_type = "synastry" 
+                
                 st.rerun()
             
             # ── 4. シングル（ネイタル）モードの場合 ──
