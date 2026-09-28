@@ -701,11 +701,17 @@ if submit_button:
                 )
                 
                 data2 = get_chart_data(
-                    p2_data["user_name"],
-                    p2_data["birth_date"].year, p2_data["birth_date"].month, p2_data["birth_date"].day,
-                    p2_data["birth_time"].hour, p2_data["birth_time"].minute,
-                    p2_data["input_lat"], p2_data["input_lng"],
-                    p2_loc_full, lang, toggle_view, unknown_checkbox
+                    name=p2_data["user_name"],
+                    year=p2_data["birth_date"].year,
+                    month=p2_data["birth_date"].month,
+                    day=p2_data["birth_date"].day,
+                    hour=p2_data["birth_time"].hour,
+                    minute=p2_data["birth_time"].minute,
+                    lat=p2_data["input_lat"],
+                    lng=p2_data["input_lng"],
+                    city_display_name=p2_loc_full,
+                    view_type=toggle_view,
+                    is_unknown_time=unknown_checkbox
                 )
                 
                 from horoscope_calc import calculate_composite_bodies, calculate_aspects
