@@ -773,3 +773,71 @@ def get_synastry_data(p1_chart_result, p2_chart_result):
         "person2": p2_chart_result,
         "synastry_aspects": synastry_aspects
     }
+
+def calculate_composite_bodies(bodies_p1, bodies_p2):
+    """
+    2人の天体位置データ (bodies_p1, bodies_p2) から
+    コンポジット天体位置の辞書を計算・生成する
+    """
+    composite_bodies = {}
+    
+    # 共通して計算する天体キーのリスト
+    target_keys = ["太陽", "月", "水星", "金星", "火星", "木星", "土星", "天王星", "海王星", "冥王星", "ドラゴンヘッド"]
+    
+    for key in target_keys:
+        if key in bodies_p1 and key in bodies_p2:
+            lon1 = bodies_p1[key].get("longitude", 0)
+            lon2 = bodies_p2[key].get("longitude", 0)
+            
+            comp_lon = calculate_midpoint(lon1, lon2)
+            sign, deg, minute = get_zodiac_sign(comp_lon)
+            
+            composite_bodies[key] = {
+                "longitude": comp_lon,
+                "sign": sign,
+                "deg": deg,
+                "minute": minute,
+                "display": f"{sign} {deg}°{minute:02d}'"
+            }
+            
+    return composite_bodies
+
+def calculate_composite_aspects(composite_bodies):
+    """
+    コンポジット天体同士のアスペクトを計算する
+    """
+    aspect_defs = [
+        ("コンジャンクション", 0, 8),
+        ("オポジション", 180, 8),
+        ("トライン", 120, 6),
+        ("スクエア", 90, 6),
+        ("セクスタイル", 60, 4),
+        ("クインカンクス", 150, 2),
+    ]
+    
+    body_names = list(composite_bodies.keys())
+    aspect_results = {asp_name: [] for asp_name, _, _ in aspect_defs}
+    
+    for i in range(len(body_names)):
+        for j in range(i + 1, len(body_names)):
+            b1 = body_names[i]
+            b2 = body_names[j]
+            
+            lon1 = composite_bodies[b1]["longitude"]
+            lon2 = composite_bodies[b2]["longitude"]
+            
+            diff = abs(lon1 - lon2)
+            if diff > 180:
+                diff = 360 - diff
+                
+            for asp_name, exact_angle, orb in aspect_defs:
+                o = abs(diff - exact_angle)
+                if o <= orb:
+                    aspect_results[asp_name].append({
+                        "b1": b1,
+                        "b2": b2,
+                        "orb": round(o, 2)
+                    })
+                    
+    # 空のアスペクトカテゴリは除外する
+    return {k: v for k, v in aspect_results.items() if len(v) > 0}
