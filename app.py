@@ -714,7 +714,7 @@ if submit_button:
                     is_unknown_time=unknown_checkbox
                 )
                 
-                from horoscope_calc import calculate_composite_bodies, calculate_aspects
+                from horoscope_calc_2 import calculate_composite_bodies, calculate_composite_aspects
                 comp_bodies = calculate_composite_bodies(data1["aspect_objs"], data2["aspect_objs"])
                 comp_aspects = calculate_composite_aspects(comp_bodies)
                 
