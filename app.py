@@ -924,7 +924,6 @@ if "chart_data" in st.session_state:
             <p style="margin: 10px 0 0 0; font-size: 1.1em; color: #555;">A symbol of partnership created by combining the birth charts of two people</p>
         </div>
         """, unsafe_allow_html=True)
-        st.stop()
         
         # データの取り出し
         bodies = data.get("bodies", [])
