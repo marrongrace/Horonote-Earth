@@ -686,22 +686,18 @@ if submit_button:
                 ]
                 p2_loc_full = ", ".join([str(part) for part in p2_loc_parts if part])
 
-                # 695行目の直前に配置して確認
-                st.write("--- GET_CHART_DATA ARGUMENTS DEBUG ---")
-                st.write("user_name:", p1_data.get("user_name"), type(p1_data.get("user_name")))
-                st.write("year:", p1_data["birth_date"].year, type(p1_data["birth_date"].year))
-                st.write("month:", p1_data["birth_date"].month, type(p1_data["birth_date"].month))
-                st.write("day:", p1_data["birth_date"].day, type(p1_data["birth_date"].day))
-                st.write("hour:", p1_data["birth_time"].hour, type(p1_data["birth_time"].hour))
-                st.write("minute:", p1_data["birth_time"].minute, type(p1_data["birth_time"].minute))
-                st.write("loc_full:", p1_loc_full, type(p1_loc_full))
-
                 data1 = get_chart_data(
-                    p1_data["user_name"],
-                    p1_data["birth_date"].year, p1_data["birth_date"].month, p1_data["birth_date"].day,
-                    p1_data["birth_time"].hour, p1_data["birth_time"].minute,
-                    p1_data["input_lat"], p1_data["input_lng"],
-                    p1_loc_full, lang, toggle_view, unknown_checkbox
+                    name=p1_data["user_name"],
+                    year=p1_data["birth_date"].year,
+                    month=p1_data["birth_date"].month,
+                    day=p1_data["birth_date"].day,
+                    hour=p1_data["birth_time"].hour,
+                    minute=p1_data["birth_time"].minute,
+                    lat=p1_lat,
+                    lng=p1_lng, 
+                    city_display_name=p1_loc_full,
+                    view_type=toggle_view,
+                    is_unknown_time=unknown_checkbox
                 )
                 
                 data2 = get_chart_data(
