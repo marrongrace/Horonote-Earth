@@ -650,9 +650,13 @@ if submit_button:
                 
                 data = get_chart_data(
                     p1_data["user_name"],
-                    p1_data["birth_date"].year, p1_data["birth_date"].month, ["birth_date"].day,
-                    p1_data["birth_time"].hour, p1_data["birth_time"].minute,
-                    p1_data["input_lat"], p1_data["input_lng"],
+                    p1_data["birth_date"].year,
+                    p1_data["birth_date"].month, 
+                    p1_data["birth_date"].day,
+                    p1_data["birth_time"].hour,
+                    p1_data["birth_time"].minute,
+                    p1_data["input_lat"],
+                    p1_data["input_lng"],
                     p1_loc_full, lang, toggle_view, unknown_checkbox,
                     transit_info=transit_info
                 )
