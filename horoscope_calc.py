@@ -776,28 +776,53 @@ def get_synastry_data(p1_chart_result, p2_chart_result):
 
 def calculate_composite_bodies(bodies_p1, bodies_p2):
     """
-    2人の天体位置データ (bodies_p1, bodies_p2) から
-    コンポジット天体位置の辞書を計算・生成する
+    2人の天体位置リスト（または辞書）から、コンポジット（合成図）の天体位置を計算する
     """
+    # リスト形式なら辞書に変換（"Sun": {"abs_pos": ...}, ...）
+    def to_dict(bodies):
+        if isinstance(bodies, list):
+            return {b["key"]: b for b in bodies if isinstance(b, dict) and "key" in b and "abs_pos" in b}
+        return bodies
+
+    d1 = to_dict(bodies_p1)
+    d2 = to_dict(bodies_p2)
+    
     composite_bodies = {}
     
-    # 共通して計算する天体キーのリスト
-    target_keys = ["太陽", "月", "水星", "金星", "火星", "木星", "土星", "天王星", "海王星", "冥王星", "ドラゴンヘッド"]
+    # 英語キーで統一
+    target_keys = ["Sun", "Moon", "Mercury", "Venus", "Mars", "Jupiter", "Saturn", "Uranus", "Neptune", "Pluto", "North Node", "Chiron"]
     
+    def get_midpoint_pos(pos1, pos2):
+        diff = abs(pos1 - pos2)
+        if diff > 180:
+            mp = (pos1 + pos2 + 360) / 2
+        else:
+            mp = (pos1 + pos2) / 2
+        return mp % 360
+
     for key in target_keys:
-        if key in bodies_p1 and key in bodies_p2:
-            lon1 = bodies_p1[key].get("longitude", 0)
-            lon2 = bodies_p2[key].get("longitude", 0)
+        if key in d1 and key in d2:
+            pos1 = d1[key].get("abs_pos", 0)
+            pos2 = d2[key].get("abs_pos", 0)
             
-            comp_lon = calculate_midpoint(lon1, lon2)
-            sign, deg, minute = get_zodiac_sign(comp_lon)
+            comp_lon = get_midpoint_pos(pos1, pos2)
+            
+            # 360度からサイン（星座）と度数を割り出す
+            sign_indices = list(SIGN_DATA.keys())
+            s_idx = int(comp_lon // 30) % 12
+            sign_en = sign_indices[s_idx]
+            deg = int(comp_lon % 30)
+            minute = int(round((comp_lon % 1) * 60))
+            if minute == 60:
+                deg += 1
+                minute = 0
             
             composite_bodies[key] = {
-                "longitude": comp_lon,
-                "sign": sign,
-                "deg": deg,
-                "minute": minute,
-                "display": f"{sign} {deg}°{minute:02d}'"
+                "key": key,
+                "abs_pos": comp_lon,
+                "sign": sign_en,
+                "position": deg + (minute / 60.0),
+                "display": f"{get_s_name(sign_en)} {deg}°{minute:02d}'"
             }
             
     return composite_bodies
@@ -807,37 +832,62 @@ def calculate_composite_aspects(composite_bodies):
     コンポジット天体同士のアスペクトを計算する
     """
     aspect_defs = [
-        ("コンジャンクション", 0, 8),
-        ("オポジション", 180, 8),
-        ("トライン", 120, 6),
-        ("スクエア", 90, 6),
-        ("セクスタイル", 60, 4),
-        ("クインカンクス", 150, 2),
+        ("Conjunction", 0, 8.0),
+        ("Opposition", 180, 8.0),
+        ("Trine", 120, 6.0),
+        ("Square", 90, 6.0),
+        ("Sextile", 60, 4.0),
+        ("Quincunx", 150, 2.0),
     ]
     
-    body_names = list(composite_bodies.keys())
-    aspect_results = {asp_name: [] for asp_name, _, _ in aspect_defs}
+    # 辞書でもリストでも受け取れるようにする
+    if isinstance(composite_bodies, dict):
+        items = list(composite_bodies.items()) # (key, data_dict)
+    else:
+        items = [(b["key"], b) for b in composite_bodies]
+        
+    results = []
+    n = len(items)
     
-    for i in range(len(body_names)):
-        for j in range(i + 1, len(body_names)):
-            b1 = body_names[i]
-            b2 = body_names[j]
+    for i in range(n):
+        for j in range(i + 1, n):
+            k1, b1 = items[i]
+            k2, b2 = items[j]
             
-            lon1 = composite_bodies[b1]["longitude"]
-            lon2 = composite_bodies[b2]["longitude"]
+            pos1 = b1.get("abs_pos", 0)
+            pos2 = b2.get("abs_pos", 0)
             
-            diff = abs(lon1 - lon2)
+            diff = abs(pos1 - pos2)
             if diff > 180:
                 diff = 360 - diff
                 
-            for asp_name, exact_angle, orb in aspect_defs:
+            for asp_name, exact_angle, orb_limit in aspect_defs:
                 o = abs(diff - exact_angle)
-                if o <= orb:
-                    aspect_results[asp_name].append({
-                        "b1": b1,
-                        "b2": b2,
+                if o <= orb_limit:
+                    results.append({
+                        "label": asp_name,
+                        "b1": k1,
+                        "b2": k2,
                         "orb": round(o, 2)
                     })
                     
-    # 空のアスペクトカテゴリは除外する
-    return {k: v for k, v in aspect_results.items() if len(v) > 0}
+    if not results:
+        return "*(No aspects)*"
+        
+    # 通常のアスペクト表示と同じようなフォーマットに整形する
+    lines = []
+    priority = ["Sun", "Moon", "Mercury", "Venus", "Mars", "Jupiter", "Saturn", "Uranus", "Neptune", "Pluto", "North Node", "Chiron"]
+    def get_prio(r):
+        p1 = priority.index(r["b1"]) if r["b1"] in priority else 99
+        p2 = priority.index(r["b2"]) if r["b2"] in priority else 99
+        if p1 > p2: r["b1"], r["b2"] = r["b2"], r["b1"]
+        return (min(p1, p2), max(p1, p2), r["orb"])
+    
+    sorted_results = sorted(results, key=get_prio)
+    prev = None
+    for r in sorted_results:
+        if prev and r["b1"] != prev: lines.append("")
+        lines.append(f"- {get_p_name(r['b1'])} & {get_p_name(r['b2'])} : **{r['label']}** `(orb: {r['orb']:.2f}°)`")
+        prev = r["b1"]
+        
+    return "\n".join(lines)
