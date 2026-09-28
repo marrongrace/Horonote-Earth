@@ -1020,7 +1020,7 @@ if "chart_data" in st.session_state:
                         else:
                             deg_str = body.get('display', '')
                         
-                        copy_lines.append(f"- {disp_name} : {raw_sign} {deg_str}")
+                        copy_lines.append(f"- {disp_name} : {deg_str}")
             
             if aspects:
                 copy_lines.append("\n[Composit Aspects]")
