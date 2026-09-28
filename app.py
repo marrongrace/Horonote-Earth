@@ -732,7 +732,8 @@ if submit_button:
                 st.session_state.is_composite = True
                 st.session_state.is_synastry = False
                 st.session_state.is_transit = False
-                st.session_state.rerun()
+                
+                st.rerun()
 
             # ── 3. シナストリー（相性）モードの場合 ──
             elif is_synastry:
