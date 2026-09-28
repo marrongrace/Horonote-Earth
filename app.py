@@ -693,8 +693,8 @@ if submit_button:
                     day=p1_data["birth_date"].day,
                     hour=p1_data["birth_time"].hour,
                     minute=p1_data["birth_time"].minute,
-                    lat=p1_lat,
-                    lng=p1_lng, 
+                    lat=p1_data["input_lat"],
+                    lng=p1_data["input_lng"],
                     city_display_name=p1_loc_full,
                     view_type=toggle_view,
                     is_unknown_time=unknown_checkbox
