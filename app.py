@@ -1000,23 +1000,27 @@ if "chart_data" in st.session_state:
 
         # 📋 一括コピー（結果画面の下側）
         with st.expander("📋 Copy All Results"):
-            copy_lines = [f"【Composit Chart: {u_name} & {p2_name}】\n", "[Composite Celestial Object Position]"]
-            if bodies and isinstance(bodies, list):
-                for body in bodies:
+            copy_lines = [f"【Composite Chart: {u_name} & {p2_name}】\n", "[Composite Celestial Object Position]"]
+            
+            if bodies:
+                items = bodies.items() if isinstance(bodies, dict) else [(b.get('key', ''), b) for b in bodies]
+                for raw_name, body in items:
                     if isinstance(body, dict):
-                        raw_name = body.get('key', '')
+                        disp_name = body.get('key', raw_name)
                         raw_sign = body.get('sign', '')
-                        deg_val = body.get('degree', 0)
-                        d = int(deg_val)
-                        m = round((deg_val - d) * 60)
-                        if m == 60:
-                            d += 1
-                            m = 0
-                        deg_str = f"{d}°{m:02d}'"
                         
-                        disp_name = body_map.get(raw_name, raw_name) if lang == "日本語" else raw_name
-                        disp_sign = sign_map.get(raw_sign, raw_sign) if lang == "日本語" else raw_sign
-                        copy_lines.append(f"- {disp_name} : {disp_sign} ({deg_str})")
+                        if 'degree' in body:
+                            deg_val = body.get('degree', 0)
+                            d = int(deg_val)
+                            m = round((deg_val - d) * 60)
+                            if m == 60:
+                                d += 1
+                                m = 0
+                            deg_str = f"{d}°{m:02d}'"
+                        else:
+                            deg_str = body.get('display', '')
+                        
+                        copy_lines.append(f"- {disp_name} : {raw_sign} {deg_str}")
             
             if aspects:
                 copy_lines.append("\n[Composit Aspects]")
