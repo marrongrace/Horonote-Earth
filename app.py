@@ -715,7 +715,7 @@ if submit_button:
                 )
                 
                 # horoscope_calc_2 から正しい2つの関数をインポートする
-                from horoscope_calc_2 import calculate_composite_bodies, calculate_composite_aspects
+                from horoscope_calc import calculate_composite_bodies, calculate_composite_aspects
                 
                 # 天体位置とアスペクトをそれぞれ個別に計算する
                 comp_bodies = calculate_composite_bodies(data1["aspect_objs"], data2["aspect_objs"])
