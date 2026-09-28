@@ -955,27 +955,32 @@ if "chart_data" in st.session_state:
         col1, col2 = st.columns(2)
         
         with col1:
-            st.markdown("#### ■ Composite Celestial Object Position" if lang == "日本語" else "#### ■ Composite Bodies")
-            if bodies and isinstance(bodies, list):
-                for body in bodies:
+            st.markdown("#### ■ Composite Bodies")
+            if bodies:
+                # bodies が辞書型の場合は .items() を、リストの場合はそのまま回す
+                items = bodies.items() if isinstance(bodies, dict) else [(b.get('key', ''), b) for b in bodies]
+                
+                for raw_name, body in items:
                     if isinstance(body, dict):
-                        raw_name = body.get('key', '')
+                        # キーや値の取り出し（両方のパターンに対応）
+                        disp_name = body.get('key', raw_name)
                         raw_sign = body.get('sign', '')
-                        deg_val = body.get('degree', 0)
                         
-                        d = int(deg_val)
-                        m = round((deg_val - d) * 60)
-                        if m == 60:
-                            d += 1
-                            m = 0
-                        deg_str = f"{d}°{m:02d}'"
+                        # degree または degree計算済みの値に対応
+                        if 'degree' in body:
+                            deg_val = body.get('degree', 0)
+                            d = int(deg_val)
+                            m = round((deg_val - d) * 60)
+                            if m == 60:
+                                d += 1
+                                m = 0
+                            deg_str = f"{d}°{m:02d}'"
+                        else:
+                            deg_str = body.get('display', '')
                         
-                        disp_name = body_map.get(raw_name, raw_name) if lang == "日本語" else raw_name
-                        disp_sign = sign_map.get(raw_sign, raw_sign) if lang == "日本語" else raw_sign
-                        
-                        st.markdown(f"- **{disp_name}** : {disp_sign} `{deg_str}`")
+                        st.markdown(f"- **{disp_name}** : {raw_sign} `{deg_str}`")
             else:
-                st.info("There is no celestial body data to display." if lang == "日本語" else "No bodies data.")
+                st.info("There is no celestial body data to display.")
 
         with col2:
             st.markdown("#### ■ Composit Aspects" if lang == "日本語" else "#### ■ Composite Aspects")
