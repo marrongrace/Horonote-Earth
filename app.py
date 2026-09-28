@@ -666,7 +666,15 @@ if submit_button:
 
             # ── 2. コンポジット（合成図）モードの場合 ──
             elif is_composite:
-                p2_loc_full = f"{p2_data['input_city_name']}, {p2_data['selected_state']}, {p2_data['selected_country']}"
+                # p2_loc_full = f"{p2_data['input_city_name']}, {p2_data['selected_state']}, {p2_data['selected_country']}"
+                # 修正案：値が存在する（空ではない）ものだけを抽出し、カンマで結合する
+                loc_parts = [
+                    p2_data.get('input_city_name'),
+                    p2_data.get('selected_state'),
+                    p2_data.get('selected_country')
+                ]
+                # Noneや空文字を除外して結合
+                p2_loc_full = ", ".join([str(part) for part in loc_parts if part])
                 
                 data1 = get_chart_data(
                     p1_data["user_name"],
