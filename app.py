@@ -666,15 +666,21 @@ if submit_button:
 
             # ── 2. コンポジット（合成図）モードの場合 ──
             elif is_composite:
-                # p2_loc_full = f"{p2_data['input_city_name']}, {p2_data['selected_state']}, {p2_data['selected_country']}"
-                # 修正案：値が存在する（空ではない）ものだけを抽出し、カンマで結合する
-                loc_parts = [
+                # p1の地域情報を安全に組み立て
+                p1_loc_parts = [
+                    p1_data.get('input_city_name'),
+                    p1_data.get('selected_state'),
+                    p1_data.get('selected_country')
+                ]
+                p1_loc_full = ", ".join([str(part) for part in p1_loc_parts if part])
+
+                # p2の地域情報を安全に組み立て（selected_stateの有無に関わらずクラッシュしない）
+                p2_loc_parts = [
                     p2_data.get('input_city_name'),
                     p2_data.get('selected_state'),
                     p2_data.get('selected_country')
                 ]
-                # Noneや空文字を除外して結合
-                p2_loc_full = ", ".join([str(part) for part in loc_parts if part])
+                p2_loc_full = ", ".join([str(part) for part in p2_loc_parts if part])
                 
                 data1 = get_chart_data(
                     p1_data["user_name"],
@@ -706,7 +712,7 @@ if submit_button:
                 st.session_state.is_composite = True
                 st.session_state.is_synastry = False
                 st.session_state.is_transit = False
-                st.rerun()
+                st.session_state.rerun()
 
             # ── 3. シナストリー（相性）モードの場合 ──
             elif is_synastry:
