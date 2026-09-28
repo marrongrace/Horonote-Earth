@@ -686,12 +686,16 @@ if submit_button:
                 ]
                 p2_loc_full = ", ".join([str(part) for part in p2_loc_parts if part])
 
-                # デバッグ用に出力を確認してみる
-                st.write("--- DEBUG ---")
-                st.write("p1_data:", p1_data)
-                st.write("birth_date type:", type(p1_data.get("birth_date")), p1_data.get("birth_date"))
-                st.write("birth_time type:", type(p1_data.get("birth_time")), p1_data.get("birth_time"))
-                
+                # 695行目の直前に配置して確認
+                st.write("--- GET_CHART_DATA ARGUMENTS DEBUG ---")
+                st.write("user_name:", p1_data.get("user_name"), type(p1_data.get("user_name")))
+                st.write("year:", p1_data["birth_date"].year, type(p1_data["birth_date"].year))
+                st.write("month:", p1_data["birth_date"].month, type(p1_data["birth_date"].month))
+                st.write("day:", p1_data["birth_date"].day, type(p1_data["birth_date"].day))
+                st.write("hour:", p1_data["birth_time"].hour, type(p1_data["birth_time"].hour))
+                st.write("minute:", p1_data["birth_time"].minute, type(p1_data["birth_time"].minute))
+                st.write("loc_full:", p1_loc_full, type(p1_loc_full))
+
                 data1 = get_chart_data(
                     p1_data["user_name"],
                     p1_data["birth_date"].year, p1_data["birth_date"].month, p1_data["birth_date"].day,
