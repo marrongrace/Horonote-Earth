@@ -715,7 +715,8 @@ if submit_button:
                 )
                 
                 from horoscope_calc import calculate_composite_bodies, calculate_aspects
-                comp_bodies, comp_aspects = calculate_composite_bodies(data1["aspect_objs"], data2["aspect_objs"])
+                comp_bodies = calculate_composite_bodies(data1["aspect_objs"], data2["aspect_objs"])
+                comp_aspects = calculate_composite_aspects(comp_bodies)
                 
                 st.session_state.chart_data = {
                     "type": "composite", 
