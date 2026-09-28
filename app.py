@@ -685,6 +685,12 @@ if submit_button:
                     p2_data.get('selected_country')
                 ]
                 p2_loc_full = ", ".join([str(part) for part in p2_loc_parts if part])
+
+                # デバッグ用に出力を確認してみる
+                st.write("--- DEBUG ---")
+                st.write("p1_data:", p1_data)
+                st.write("birth_date type:", type(p1_data.get("birth_date")), p1_data.get("birth_date"))
+                st.write("birth_time type:", type(p1_data.get("birth_time")), p1_data.get("birth_time"))
                 
                 data1 = get_chart_data(
                     p1_data["user_name"],
