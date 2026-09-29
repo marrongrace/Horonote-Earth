@@ -510,6 +510,46 @@ with st.sidebar:
             value=jst_now.time().replace(second=0, microsecond=0),
             key="transit_time_input"
         )
+        
+        # ── 🌍 トランジット用の場所選択（国・都市・緯度・経度） ──
+        st.markdown("##### Transit Location")
+        
+        # ※もし国・都市の選択ロジックを共通関数や辞書で持っている場合、
+        #   p1_data と同様の仕組みを "transit_" などのキープレフィックスで展開します。
+        #   以下は例として独立した入力パーツ、または関数を流用するイメージです。
+        
+        # 例: 国の選択（国フォルダのリストから選択）
+        # 実際のプロジェクト内の変数（countries など）に合わせて調整してください
+        transit_country = st.selectbox(
+            "Country / Region Folder", 
+            options=list(country_folders.keys()) if 'country_folders' in locals() else ["Japan", "United States"], 
+            key="transit_country"
+        )
+        
+        # 例: 都市の選択
+        transit_city = st.selectbox(
+            "Location / City", 
+            options=..., # 選択された国に応じた都市リスト
+            key="transit_city"
+        )
+        
+        # 緯度・経度の数値入力（都市が選ばれたときに自動入力、または手動調整）
+        col1, col2 = st.columns(2)
+        with col1:
+            transit_lat = st.number_input("Latitude", value=35.6762, format="%.4f", key="transit_lat")
+        with col2:
+            transit_lng = st.number_input("Longitude", value=139.6503, format="%.4f", key="transit_lng")
+            
+        # 計算用にセッションステートへ保存
+        st.session_state["transit_info"] = {
+            "year": transit_date.year,
+            "month": transit_date.month,
+            "day": transit_date.day,
+            "hour": transit_time.hour,
+            "minute": transit_time.minute,
+            "lat": transit_lat,  # トランジット専用の緯度
+            "lng": transit_lng   # トランジット専用の経度
+        }
             
         # 計算用にセッションステートへ保存
         st.session_state["transit_info"] = {
