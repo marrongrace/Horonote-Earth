@@ -7,6 +7,7 @@ import warnings
 import swisseph as swe
 from kerykeion import AstrologicalSubject
 from timezonefinder import TimezoneFinder
+from datetime import datetime, timezone, timedelta
 
 EPHE_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), "ephe"))
 if not EPHE_PATH.endswith(os.path.sep):
@@ -529,7 +530,7 @@ def detect_patterns(bodies):
             unique.append(pat)
     return unique
 
-def get_chart_data(name, year, month, day, hour, minute, lat, lng, city_display_name, view_type, is_unknown_time):
+def get_chart_data(user_name, year, month, day, hour, minute, lat, lng, city_display_name, view_type, is_unknown_time):
     calc_h, calc_m = (12, 0) if is_unknown_time else (hour, minute)
     
     # 1. 緯度・経度からタイムゾーン文字列を取得する
@@ -891,3 +892,27 @@ def calculate_composite_aspects(composite_bodies):
         prev = r["b1"]
         
     return "\n".join(lines)
+
+def calculate_transit_positions(jd_transit):
+    """指定されたユリウス日（トランジット用）の主要天体の黄経を計算する"""
+    planets = {
+        "Sun": swe.SUN,
+        "Moon": swe.MOON,
+        "Mercury": swe.MERCURY,
+        "Venus": swe.VENUS,
+        "Mars": swe.MARS,
+        "Jupiter": swe.JUPITER,
+        "Saturn": swe.SATURN,
+        "Uranus": swe.URANUS,
+        "Neptune": swe.NEPTUNE,
+        "Pluto": swe.PLUTO,
+    }
+    
+    transit_pos = {}
+    for name, planet_id in planets.items():
+        # フラグ: 高精度計算 + 黄道座標
+        flag = swe.FLG_SWIEPH | swe.FLG_SPEED
+        res, _ = swe.calc_ut(jd_transit, planet_id, flag)
+        transit_pos[name] = res[0]  # 黄経（0〜360度）
+    
+    return transit_pos
