@@ -705,7 +705,7 @@ def get_chart_data(name, year, month, day, hour, minute, lat, lng, city_display_
         "midpoints": midpoints_data,
         "aspects": calculate_aspects(all_aspect_objs, view_type),
         "patterns": detect_patterns(all_aspect_objs),
-        "aspect_objs": all_aspect_objs
+        "aspect_objs": all_aspect_objs,
         "transit_positions": transit_positions,
         "transit_info": transit_info
     }
