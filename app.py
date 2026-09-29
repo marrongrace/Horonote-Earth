@@ -498,15 +498,18 @@ with st.sidebar:
         # 💡 日本時間（JST）の現在日時を取得
         jst_now = datetime.datetime.now(ZoneInfo("Asia/Tokyo"))
         
+        # 初期値として日付は今日、時刻は12:00に固定
+        today_date = datetime.date.today()
+        
         transit_date = st.date_input(
             "Transit Date",
-            value=jst_now.date(),
+            value=today_date,
             key="transit_date_input"
         )
         
         transit_time = st.time_input(
             "Transit Time",
-            value=jst_now.time().replace(second=0, microsecond=0),
+            value=datetime.time(12, 0),
             key="transit_time_input"
         )
         
