@@ -686,6 +686,8 @@ def get_chart_data(name, year, month, day, hour, minute, lat, lng, city_display_
     
     # 🌟 transit_info が渡されている場合はトランジット位置を計算する
     transit_positions = None
+    transit_aspects = []
+    
     if transit_info is not None:
         t_year = transit_info["year"]
         t_month = transit_info["month"]
