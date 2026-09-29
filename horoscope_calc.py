@@ -530,7 +530,7 @@ def detect_patterns(bodies):
             unique.append(pat)
     return unique
 
-def get_chart_data(name, year, month, day, hour, minute, lat, lng, city_display_name, view_type, is_unknown_time, lang="en", transit_info=None):
+def get_chart_data(name, year, month, day, hour, minute, lat, lng, city_display_name, view_type, is_unknown_time):
     calc_h, calc_m = (12, 0) if is_unknown_time else (hour, minute)
     
     # 1. 緯度・経度からタイムゾーン文字列を取得する
