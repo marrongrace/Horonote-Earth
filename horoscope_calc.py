@@ -966,8 +966,8 @@ def calculate_transit_aspects(transit_objs, natal_objs):
             for asp_name, target_angle, max_orb in aspect_defs:
                 orb = abs(diff - target_angle)
                 if orb <= max_orb:
-                    t_name = t['key'].replace("Transit ", "T. ")
-                    n_name = f"N. {n['key']}"
+                    t_name = t['key'].replace("Transit ", "T ")
+                    n_name = f"N) {n['key']}"
                     
                     text_str = f"**{t_name}** - {asp_name} - **{n_name}** `({orb:.2f}°)`"
                     
