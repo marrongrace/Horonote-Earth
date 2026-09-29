@@ -498,7 +498,6 @@ with st.sidebar:
         # 💡 日本時間（JST）の現在日時を取得
         jst_now = datetime.datetime.now(ZoneInfo("Asia/Tokyo"))
         
-        # フォームの初期値として JST の現在の日付・時間をセット
         transit_date = st.date_input(
             "Transit Date",
             value=jst_now.date(),
@@ -511,35 +510,54 @@ with st.sidebar:
             key="transit_time_input"
         )
         
-        # ── 🌍 トランジット用の場所選択（国・都市・緯度・経度） ──
+        # ── 🌍 トランジットの場所選択（GitHub連携） ──
         st.markdown("##### Transit Location")
         
-        # ※もし国・都市の選択ロジックを共通関数や辞書で持っている場合、
-        #   p1_data と同様の仕組みを "transit_" などのキープレフィックスで展開します。
-        #   以下は例として独立した入力パーツ、または関数を流用するイメージです。
-        
-        # 例: 国の選択（国フォルダのリストから選択）
-        # 実際のプロジェクト内の変数（countries など）に合わせて調整してください
-        transit_country = st.selectbox(
-            "Country / Region Folder", 
-            options=list(country_folders.keys()) if 'country_folders' in locals() else ["Japan", "United States"], 
-            key="transit_country"
+        prefix = "transit"
+        country_options = fetch_country_folders()
+        selected_country = st.selectbox(
+            "Country / Region Folder",
+            options=country_options,
+            index=None,
+            placeholder="Please select a country folder",
+            key=f"{prefix}_country_select_input"
         )
         
-        # 例: 都市の選択
-        transit_city = st.selectbox(
-            "Location / City", 
-            options=..., # 選択された国に応じた都市リスト
-            key="transit_city"
+        city_data_map = {}
+        if selected_country:
+            city_data_map = fetch_city_data_for_country(selected_country)
+
+        available_cities = sorted(list(city_data_map.keys()))
+
+        selected_city = st.selectbox(
+            "Location / City",
+            options=available_cities,
+            index=None,
+            placeholder="Please select location",
+            disabled=not available_cities,
+            key=f"{prefix}_city_select_input"
         )
+
+        lat_key = f"{prefix}_lat_number_input"
+        lng_key = f"{prefix}_lng_number_input"
+        current_selected_key = f"{prefix}_last_selected_city"
+
+        if lat_key not in st.session_state:
+            st.session_state[lat_key] = 35.6812  
+        if lng_key not in st.session_state:
+            st.session_state[lng_key] = 139.7671
+
+        # 選択された都市が変わったら緯度・経度を自動セット
+        if selected_city and selected_city in city_data_map:
+            if st.session_state.get(current_selected_key) != selected_city:
+                st.session_state[lat_key] = city_data_map[selected_city]["lat"]
+                st.session_state[lng_key] = city_data_map[selected_city]["lng"]
+                st.session_state[current_selected_key] = selected_city
+                st.rerun()
+
+        transit_lat = st.number_input("Latitude", format="%.4f", key=lat_key)
+        transit_lng = st.number_input("Longitude", format="%.4f", key=lng_key)
         
-        # 緯度・経度の数値入力（都市が選ばれたときに自動入力、または手動調整）
-        col1, col2 = st.columns(2)
-        with col1:
-            transit_lat = st.number_input("Latitude", value=35.6762, format="%.4f", key="transit_lat")
-        with col2:
-            transit_lng = st.number_input("Longitude", value=139.6503, format="%.4f", key="transit_lng")
-            
         # 計算用にセッションステートへ保存
         st.session_state["transit_info"] = {
             "year": transit_date.year,
@@ -547,19 +565,8 @@ with st.sidebar:
             "day": transit_date.day,
             "hour": transit_time.hour,
             "minute": transit_time.minute,
-            "lat": transit_lat,  # トランジット専用の緯度
-            "lng": transit_lng   # トランジット専用の経度
-        }
-            
-        # 計算用にセッションステートへ保存
-        st.session_state["transit_info"] = {
-            "year": transit_date.year,
-            "month": transit_date.month,
-            "day": transit_date.day,
-            "hour": transit_time.hour,
-            "minute": transit_time.minute,
-            "lat": p1_data["input_lat"],
-            "lng": p1_data["input_lng"]
+            "lat": transit_lat,
+            "lng": transit_lng
         }
         
     # 2人目の入力（シナストリー選択時のみ表示）
