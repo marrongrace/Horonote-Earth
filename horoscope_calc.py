@@ -696,6 +696,20 @@ def get_chart_data(name, year, month, day, hour, minute, lat, lng, city_display_
         dec_hour = t_hour + t_minute / 60.0
         jd_transit = swe.julday(t_year, t_month, t_day, dec_hour)
         transit_positions = calculate_transit_positions(jd_transit)
+        
+        # 🔗 ネイタルとトランジットのアスペクトを計算
+        if transit_positions and all_aspect_objs:
+            # トランジット天体の絶対位置リストを作成
+            transit_aspect_objs = []
+            for k, pos_val in transit_positions.items():
+                # pos_val が辞書の場合などを考慮して黄経度数を取得
+                abs_pos = pos_val.get('abs_pos', 0.0) if isinstance(pos_val, dict) else pos_val
+                transit_aspect_objs.append({"key": f"Transit {k}", "abs_pos": abs_pos})
+            
+            # トランジット天体とネイタル天体（all_aspect_objs）の間のアスペクトを計算
+            # ※ 既存の calculate_aspects を利用しつつ、T. を付けたリスト同士、あるいは別々に計算する関数があればそれを呼びます
+            # ここではシンプルに両方を混ぜた、あるいは比較用の計算関数を呼び出す形にします
+            transit_aspects = calculate_transit_aspects(transit_aspect_objs, all_aspect_objs)
 
     return {
         "error": None, "date_str": date_str, "loc_str": loc_str,
