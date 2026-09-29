@@ -947,14 +947,6 @@ def calculate_transit_positions(jd_transit):
     
     return transit_pos
 
-                    })
-    
-    # オーブ（誤差）が狭い順にソート
-    aspects_list.sort(key=lambda x: x["orb"])
-    
-    # 表示用の文字列リストに変換
-    return [item["text"] for item in aspects_list]
-
 def calculate_transit_aspects(transit_objs, natal_objs):
     """トランジット天体とネイタル天体のアスペクトを計算する関数"""
     aspects_list = []
