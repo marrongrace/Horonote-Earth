@@ -530,7 +530,7 @@ def detect_patterns(bodies):
             unique.append(pat)
     return unique
 
-def get_chart_data(name, year, month, day, hour, minute, lat, lng, city_display_name, view_type, is_unknown_time):
+def get_chart_data(name, year, month, day, hour, minute, lat, lng, city_display_name, view_type, is_unknown_time, transit_info=None):
     calc_h, calc_m = (12, 0) if is_unknown_time else (hour, minute)
     
     # 1. 緯度・経度からタイムゾーン文字列を取得する
@@ -683,6 +683,19 @@ def get_chart_data(name, year, month, day, hour, minute, lat, lng, city_display_
     loc_str = f"[{city_display_name}] [{lat_str}, {lng_str} (Decimal: {lat:.4f}, {lng:.4f})]"
 
     midpoints_data = calculate_midpoints(all_aspect_objs, chart_angles=None)
+    
+    # 🌟 transit_info が渡されている場合はトランジット位置を計算する
+    transit_positions = None
+    if transit_info is not None:
+        t_year = transit_info["year"]
+        t_month = transit_info["month"]
+        t_day = transit_info["day"]
+        t_hour = transit_info["hour"]
+        t_minute = transit_info["minute"]
+        
+        dec_hour = t_hour + t_minute / 60.0
+        jd_transit = swe.julday(t_year, t_month, t_day, dec_hour)
+        transit_positions = calculate_transit_positions(jd_transit)
 
     return {
         "error": None, "date_str": date_str, "loc_str": loc_str,
@@ -693,6 +706,8 @@ def get_chart_data(name, year, month, day, hour, minute, lat, lng, city_display_
         "aspects": calculate_aspects(all_aspect_objs, view_type),
         "patterns": detect_patterns(all_aspect_objs),
         "aspect_objs": all_aspect_objs
+        "transit_positions": transit_positions,
+        "transit_info": transit_info
     }
 
 def calculate_synastry_aspects(bodies_p1, bodies_p2, orb_dict=None):
