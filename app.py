@@ -658,7 +658,6 @@ if submit_button:
                     p1_data["input_lat"],
                     p1_data["input_lng"],
                     p1_loc_full, toggle_view, unknown_checkbox,
-                    transit_info=transit_info
                 )
                 
                 st.session_state.chart_data = data
