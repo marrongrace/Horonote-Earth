@@ -954,3 +954,35 @@ def calculate_transit_positions(jd_transit):
     
     # 表示用の文字列リストに変換
     return [item["text"] for item in aspects_list]
+
+def calculate_transit_aspects(transit_objs, natal_objs):
+    """トランジット天体とネイタル天体のアスペクトを計算する関数"""
+    aspects_list = []
+    aspect_defs = [
+        ("Conjunction", 0, 6.0),
+        ("Sextile", 60, 5.0),
+        ("Square", 90, 6.0),
+        ("Trine", 120, 6.0),
+        ("Opposition", 180, 6.0)
+    ]
+    
+    for t in transit_objs:
+        for n in natal_objs:
+            diff = abs(t["abs_pos"] - n["abs_pos"])
+            diff = min(diff, 360 - diff)
+            
+            for asp_name, target_angle, max_orb in aspect_defs:
+                orb = abs(diff - target_angle)
+                if orb <= max_orb:
+                    t_name = t['key'].replace("Transit ", "T. ")
+                    n_name = f"N. {n['key']}"
+                    
+                    text_str = f"**{t_name}** - {asp_name} - **{n_name}** `({orb:.2f}°)`"
+                    
+                    aspects_list.append({
+                        "text": text_str,
+                        "orb": orb
+                    })
+    
+    aspects_list.sort(key=lambda x: x["orb"])
+    return [item["text"] for item in aspects_list]
