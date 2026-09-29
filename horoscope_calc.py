@@ -946,3 +946,36 @@ def calculate_transit_positions(jd_transit):
         transit_pos[name] = res[0]  # 黄経（0〜360度）
     
     return transit_pos
+
+def calculate_transit_aspects(transit_objs, natal_objs):
+    """トランジット天体とネイタル天体のアスペクトを計算する関数"""
+    aspects_list = []
+    # 主要なアスペクトの定義 (名前, 角度, 標準オーブ)
+    aspect_defs = [
+        ("Conjunction", 0, 6.0),
+        ("Sextile", 60, 5.0),
+        ("Square", 90, 6.0),
+        ("Trine", 120, 6.0),
+        ("Opposition", 180, 6.0)
+    ]
+    
+    for t in transit_objs:
+        for n in natal_objs:
+            # 黄経の差を計算 (0〜360度内)
+            diff = abs(t["abs_pos"] - n["abs_pos"])
+            diff = min(diff, 360 - diff)
+            
+            for asp_name, target_angle, max_orb in aspect_defs:
+                orb = abs(diff - target_angle)
+                if orb <= max_orb:
+                    # オーブが狭い順などに並べ替えたい場合は後で調整可能
+                    aspects_list.append({
+                        "text": f"**{t['key']}** {asp_name} **{n['key']}** `(Orb: {orb:.2f}°)`",
+                        "orb": orb
+                    })
+    
+    # オーブ（誤差）が狭い順にソート
+    aspects_list.sort(key=lambda x: x["orb"])
+    
+    # 表示用の文字列リストに変換
+    return [item["text"] for item in aspects_list]
