@@ -721,7 +721,8 @@ def get_chart_data(name, year, month, day, hour, minute, lat, lng, city_display_
         "patterns": detect_patterns(all_aspect_objs),
         "aspect_objs": all_aspect_objs,
         "transit_positions": transit_positions,
-        "transit_info": transit_info
+        "transit_info": transit_info,
+        "transit_aspects": transit_aspects
     }
 
 def calculate_synastry_aspects(bodies_p1, bodies_p2, orb_dict=None):
