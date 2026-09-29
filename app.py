@@ -16,10 +16,10 @@ try:
 except ImportError:
     get_synastry_data = None
 
-icon_url = "https://github.com/marrongrace/horoscope-app/blob/main/Horo_logo.png"
+icon_url = "https://github.com/marrongrace/Horonote-Earth/blob/main/Horo_logo.png"
 
 st.set_page_config(
-    page_title="HoroNote - Horoscope Information Export System",
+    page_title="HoroNote Earth- Horoscope Information Export System",
     page_icon="Horo_logo.png",
     layout="centered",
 )
