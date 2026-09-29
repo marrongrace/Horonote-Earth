@@ -936,20 +936,23 @@ if "chart_data" in st.session_state:
         st.divider()
         st.markdown(f"""
         <div style="background-color: var(--secondary-background-color); padding: 20px; border-radius: 10px; text-align: center; border: 1px solid var(--border-color);">
-        <h3 style="margin-top: 0; color: var(--text-color);">❕ 何かお気づきの点がありましたら</h3>
-        <p style="color: var(--text-color);">今回のホロスコープのより詳しい解説は、noteの方で発信しています。</p>
+        <h3 style="margin-top: 0; color: var(--text-color);">❕ Feedback or Questions</h3>
+        <p style="color: var(--text-color);">Check out the author's blog for other topics and writings!</p>
         <a href="https://note.com/marroscorps" target="_blank" style="text-decoration: none; display: inline-block; margin-top: 15px;">
         <button style="background-color: #41d1a7; color: white; border: none; padding: 10px 20px; border-radius: 8px; font-weight: bold; cursor: pointer; width: 290px;">
-        noteをチェックする / Visit Note
+        Visit Author's Blog
         </button>
         </a>
         <br><br>
-        <p style="color: var(--text-color); margin-bottom: 10px;">匿名での質問も可能です。詳しくは以下からどうぞ</p>
+        <p style="color: var(--text-color); margin-bottom: 10px;">You can also send anonymous questions or feedback below.</p>
         <a href="https://note.com/qa/marroscorps" target="_blank" style="text-decoration: none; display: inline-block;">
         <button style="background-color: #41d1a7; color: white; border: none; padding: 10px 20px; border-radius: 8px; font-weight: bold; cursor: pointer; width: 290px;">
-        匿名で質問する / Ask anonymously
+        Ask Anonymously
         </button>
         </a>
+        <p style="color: var(--text-color); font-size: 0.85em; opacity: 0.8; margin-top: 15px; margin-bottom: 0;">
+        *Note: Both links lead to pages in Japanese. Please use your browser's translation feature if needed.
+        </p>
         </div>
         """, unsafe_allow_html=True)
         st.write("")
@@ -1084,26 +1087,26 @@ if "chart_data" in st.session_state:
                 mime="text/plain;charset=utf-8"
             )
 
-        # ==========================================
-        # 🌟 ここから下が「一番下に追加する note & 質問箱リンク」です！
-        # ==========================================
         st.divider()
         st.markdown(f"""
         <div style="background-color: var(--secondary-background-color); padding: 20px; border-radius: 10px; text-align: center; border: 1px solid var(--border-color);">
-        <h3 style="margin-top: 0; color: var(--text-color);">❕ 何かお気づきの点がありましたら</h3>
-        <p style="color: var(--text-color);">今回のホロスコープのより詳しい解説は、noteの方で発信しています。</p>
+        <h3 style="margin-top: 0; color: var(--text-color);">❕ Feedback or Questions</h3>
+        <p style="color: var(--text-color);">Check out the author's blog for other topics and writings!</p>
         <a href="https://note.com/marroscorps" target="_blank" style="text-decoration: none; display: inline-block; margin-top: 15px;">
         <button style="background-color: #41d1a7; color: white; border: none; padding: 10px 20px; border-radius: 8px; font-weight: bold; cursor: pointer; width: 290px;">
-        noteをチェックする / Visit Note
+        Visit Author's Blog
         </button>
         </a>
         <br><br>
-        <p style="color: var(--text-color); margin-bottom: 10px;">匿名での質問も可能です。詳しくは以下からどうぞ</p>
+        <p style="color: var(--text-color); margin-bottom: 10px;">You can also send anonymous questions or feedback below.</p>
         <a href="https://note.com/qa/marroscorps" target="_blank" style="text-decoration: none; display: inline-block;">
         <button style="background-color: #41d1a7; color: white; border: none; padding: 10px 20px; border-radius: 8px; font-weight: bold; cursor: pointer; width: 290px;">
-        匿名で質問する / Ask anonymously
+        Ask Anonymously
         </button>
         </a>
+        <p style="color: var(--text-color); font-size: 0.85em; opacity: 0.8; margin-top: 15px; margin-bottom: 0;">
+        *Note: Both links lead to pages in Japanese. Please use your browser's translation feature if needed.
+        </p>
         </div>
         """, unsafe_allow_html=True)
         st.write("")
@@ -1668,23 +1671,25 @@ if "chart_data" in st.session_state:
         # 🌟 ここから下が「一番下に追加する note & 質問箱リンク」です！
         # ==========================================
         st.divider()
-        
         st.markdown(f"""
         <div style="background-color: var(--secondary-background-color); padding: 20px; border-radius: 10px; text-align: center; border: 1px solid var(--border-color);">
-        <h3 style="margin-top: 0; color: var(--text-color);">❕ 何かお気づきの点がありましたら</h3>
-        <p style="color: var(--text-color);">今回のホロスコープのより詳しい解説は、noteの方で発信しています。</p>
+        <h3 style="margin-top: 0; color: var(--text-color);">❕ Feedback or Questions</h3>
+        <p style="color: var(--text-color);">Check out the author's blog for other topics and writings!</p>
         <a href="https://note.com/marroscorps" target="_blank" style="text-decoration: none; display: inline-block; margin-top: 15px;">
         <button style="background-color: #41d1a7; color: white; border: none; padding: 10px 20px; border-radius: 8px; font-weight: bold; cursor: pointer; width: 290px;">
-        noteをチェックする / Visit Note
+        Visit Author's Blog
         </button>
         </a>
         <br><br>
-        <p style="color: var(--text-color); margin-bottom: 10px;">匿名での質問も可能です。詳しくは以下からどうぞ</p>
+        <p style="color: var(--text-color); margin-bottom: 10px;">You can also send anonymous questions or feedback below.</p>
         <a href="https://note.com/qa/marroscorps" target="_blank" style="text-decoration: none; display: inline-block;">
         <button style="background-color: #41d1a7; color: white; border: none; padding: 10px 20px; border-radius: 8px; font-weight: bold; cursor: pointer; width: 290px;">
-        匿名で質問する / Ask anonymously
+        Ask Anonymously
         </button>
         </a>
+        <p style="color: var(--text-color); font-size: 0.85em; opacity: 0.8; margin-top: 15px; margin-bottom: 0;">
+        *Note: Both links lead to pages in Japanese. Please use your browser's translation feature if needed.
+        </p>
         </div>
         """, unsafe_allow_html=True)
         st.write("")
