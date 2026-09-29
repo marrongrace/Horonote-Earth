@@ -867,32 +867,38 @@ if "chart_data" in st.session_state:
     current_is_composite = st.session_state.get("is_composite", False) or (data.get("type") == "composite")
 
     # ==========================================
-    # 🌌 トランジットモードの場合の画面描画
+    # 🌌 Transit Reading Mode Display
     # ==========================================
-    if current_is_transit and "transit" in data:
+    if current_is_transit and data.get("transit_positions") is not None:
         st.divider()
-        st.subheader("🌌 トランジット分析結果" if lang == "日本語" else "🌌 Transit Reading")
-        st.write(f"📅 対象日時: {data['transit'].get('transit_date', '')}")
-        st.caption("※ アスペクトはオーブが狭い順に並んでいます。")
+        st.subheader("🌌 Transit Analysis Results")
+        
+        t_info = data.get("transit_info", {})
+        t_date_str = f"{t_info.get('year', '')}-{t_info.get('month', 1):02d}-{t_info.get('day', 1):02d} {t_info.get('hour', 0):02d}:{t_info.get('minute', 0):02d}"
+        
+        st.write(f"📅 **Transit Target Date & Time:** {t_date_str}")
+        st.caption("※ Aspects are ordered by the tightest orb.")
         
         t_col1, t_col2 = st.columns(2)
         with t_col1:
-            st.markdown("### 👤 ネイタル天体配置")
+            st.markdown("### 👤 Natal Planet Positions")
             for body in data.get("bodies", []):
                 st.markdown(f"- {body}", unsafe_allow_html=True)
+                
         with t_col2:
-            st.markdown("### 🔗 トランジット・アスペクト")
-            transit_aspects = data["transit"].get("transit_aspects", [])
+            st.markdown("### 🔗 Transit Aspects")
+            # トランジットとネイタル間のアスペクト計算結果に合わせて取得
+            transit_aspects = data.get("transit_aspects", [])
             if transit_aspects:
                 for asp in transit_aspects:
                     clean_asp = re.sub(r'^[-\s◦○]+', '', str(asp)).strip()
                     st.markdown(f"- {clean_asp}")
             else:
-                st.info("現在、顕著なトランジット・アスペクトはありません。")
+                st.info("No significant transit aspects found at this time.")
         
         st.divider()
         
-        # 📋 ④ 一括コピー欄（トランジット用）
+        # 📋 Copy All Results (Transit)
         with st.expander("📋 Copy All Results"):
             def clean_html(text):
                 if not isinstance(text, str):
@@ -902,33 +908,19 @@ if "chart_data" in st.session_state:
                 return text
 
             copy_lines = []
-            if lang == "日本語":
-                copy_lines.append(f"【トランジット鑑定データ: {u_name}】")
-                copy_lines.append(f"ネイタル日時: {data.get('date_str', '')}")
-                copy_lines.append(f"トランジット日時: {data['transit'].get('transit_date', '')}\n")
-                copy_lines.append("[ネイタル天体配置]")
-                for b in data.get("bodies", []):
-                    copy_lines.append(f"- {clean_html(b)}")
-                copy_lines.append("\n[トランジット・アスペクト]")
-                if transit_aspects:
-                    for asp in transit_aspects:
-                        clean_asp = re.sub(r'^[-\s◦○]+', '', clean_html(asp)).strip()
-                        copy_lines.append(f"- {clean_asp}")
-                else:
-                    copy_lines.append("- (特になし)")
+            copy_lines.append(f"[Transit Reading Data: {u_name}]")
+            copy_lines.append(f"Natal Date: {data.get('date_str', '')}")
+            copy_lines.append(f"Transit Date: {t_date_str}\n")
+            copy_lines.append("[Natal Planet Positions]")
+            for b in data.get("bodies", []):
+                copy_lines.append(f"- {clean_html(b)}")
+            copy_lines.append("\n[Transit Aspects]")
+            if transit_aspects:
+                for asp in transit_aspects:
+                    clean_asp = re.sub(r'^[-\s◦○]+', '', clean_html(asp)).strip()
+                    copy_lines.append(f"- {clean_asp}")
             else:
-                copy_lines.append(f"[Transit Reading Data: {u_name}]")
-                copy_lines.append(f"Natal Date: {data.get('date_str', '')}")
-                copy_lines.append(f"Transit Date: {data['transit'].get('transit_date', '')}\n")
-                copy_lines.append("[Natal Bodies]")
-                for b in data.get("bodies", []):
-                    copy_lines.append(f"- {clean_html(b)}")
-                copy_lines.append("\n[Transit Aspects]")
-                if transit_aspects:
-                    for asp in transit_aspects:
-                        copy_lines.append(f"- {clean_html(asp)}")
-                else:
-                    copy_lines.append("- (None)")
+                copy_lines.append("- (None)")
 
             full_text = "\n".join(copy_lines)
             st.code(full_text, language="text")
