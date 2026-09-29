@@ -952,11 +952,13 @@ def calculate_transit_aspects(transit_objs, natal_objs):
     aspects_list = []
     # 主要なアスペクトの定義 (名前, 角度, 標準オーブ)
     aspect_defs = [
-        ("Conjunction", 0, 6.0),
-        ("Sextile", 60, 5.0),
-        ("Square", 90, 6.0),
-        ("Trine", 120, 6.0),
-        ("Opposition", 180, 6.0)
+        # 記号と名称の定義 (英語圏でも通じるシンボル)
+    aspect_defs = [
+        ("Conjunction", "☌", 0, 6.0),
+        ("Sextile", "⚹", 60, 5.0),
+        ("Square", "□", 90, 6.0),
+        ("Trine", "△", 120, 6.0),
+        ("Opposition", "☍", 180, 6.0)
     ]
     
     for t in transit_objs:
