@@ -1,0 +1,61 @@
+Ajrum, 41.2167, 44.8833
+Alaverdi, 41.1333, 44.6500
+Amasija, 40.9667, 43.7667
+Aparan, 40.6000, 44.3833
+Ararat, 39.8333, 44.7000
+Art'ik, 40.6167, 43.9833
+Artašat, 39.9833, 44.5500
+Arzni, 40.3167, 44.6000
+Azizbekov, 39.6667, 45.5000
+Aštarak, 40.3000, 44.3667
+Basargecar, 40.1833, 45.7167
+Bazarcaj, 39.6667, 45.8000
+Berd, 40.8833, 45.3833
+Ch'arents'avan, 40.4000, 44.6333
+Dastakert, 39.3833, 46.0333
+Dilizan, 40.7500, 44.8667
+Dzabzur, 40.9000, 43.9667
+Dzermuk, 39.8500, 45.6833
+Echmiadzin, 40.1667, 44.3000
+Erezan > Yerevan, 40.1833, 44.5000
+Erivan > Yerevan, 40.1833, 44.5000
+Goris, 39.5167, 46.3833
+Gukas'an, 41.0500, 43.8667
+Idzevan, 40.8833, 45.1167
+Jechegnadzor, 39.7667, 45.3500
+Jerevan > Yerevan, 40.1833, 44.5000
+Kadzaran, 39.1833, 46.1333
+Kafan, 39.1833, 46.1333
+Kalinino, 41.1167, 44.2833
+Kamo, 40.3667, 45.1333
+Kirovakan, 40.8000, 44.5000
+Kolageran, 40.9667, 44.6167
+Krasnosel'sk, 40.6000, 45.3500
+Kumajri(Leninakan), 40.8000, 43.8333
+Leninakan > Kumajri, 40.8000, 43.8333
+Lukašin, 40.2000, 44.0167
+Lusakert, 40.3833, 44.6000
+Maralik, 40.5833, 43.8667
+Martuni, 40.1333, 45.3167
+Masis, 40.0000, 44.4833
+Megri, 38.9333, 46.2667
+Nojember'an, 41.2000, 45.0167
+Nor Acin, 40.3167, 44.5833
+Oktember'an, 40.1500, 44.0333
+Pemzašen, 40.5833, 43.9500
+Razdan, 40.5000, 44.7667
+Sevan, 40.5667, 44.9500
+Sisian, 39.5333, 46.0333
+Sovetašen(Ararat), 40.1000, 44.5500
+Sovetašen(Vayots Dzor), 39.8333, 45.0500
+Spitak, 40.8500, 44.2667
+Step'anavan, 41.0000, 44.3833
+Tsachkadzor, 40.5500, 44.7167
+Tuman'an, 41.0000, 44.6667
+Vardenik, 40.1333, 45.4500
+Vardenis, 40.1833, 45.7167
+Vedi, 39.9333, 44.7000
+Verin Talin, 40.3833, 43.8833
+Yeghegnadzor, 39.7500, 45.3333
+Yerevan, 40.1833, 44.5000
+Zod, 40.2000, 45.8667
