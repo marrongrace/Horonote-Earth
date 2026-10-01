@@ -782,7 +782,9 @@ if submit_button:
                 st.session_state.chart_data = {
                     "type": "composite", 
                     "bodies": comp_bodies,
-                    "aspects": comp_aspects
+                    "aspects": comp_aspects,
+                    "person1": p1_info,
+                    "person2": p2_info
                 }
                 
                 st.session_state.user_name = p1_data["user_name"]
