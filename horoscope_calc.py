@@ -535,7 +535,7 @@ def get_chart_data(name, year, month, day, hour, minute, lat, lng, city_display_
     
     # 1. 緯度・経度からタイムゾーン文字列を取得する
     tf = TimezoneFinder()
-    timezone_str = tf.timezone_at(lat=lat, lng=lng)
+    timezone_str = tf.timezone_at(lat=lat, lng=lng)　or "UTC"
     
     # 万が一海の上などでタイムゾーンが取得できなかった場合の安全策（フォールバック）
     if not timezone_str:
@@ -544,6 +544,11 @@ def get_chart_data(name, year, month, day, hour, minute, lat, lng, city_display_
     with warnings.catch_warnings():
         warnings.simplefilter("ignore")
         try:
+            # 🌟 入力されたローカル日時を、その土地のタイムゾーンとして解釈し、UTCに変換する
+            local_tz = ZoneInfo(timezone_str)
+            local_dt = datetime(year, month, day, calc_h, calc_m, tzinfo=local_tz)
+            utc_dt = local_dt.astimezone(timezone.utc)
+            
             # 2. tz_str に取得したタイムゾーンを渡す
             chart = AstrologicalSubject(
                 name=name,
