@@ -1008,6 +1008,7 @@ if "chart_data" in st.session_state:
                 </p>
             </div>
             """, unsafe_allow_html=True)
+        st.write("DEBUG DATA:", data)
         
         # データの取り出し
         bodies = data.get("bodies", [])
