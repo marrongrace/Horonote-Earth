@@ -703,7 +703,8 @@ if submit_button:
             if is_transit:
                 transit_info = st.session_state.get("transit_info", {
                     "year": 2026, "month": 1, "day": 1, "hour": 12, "minute": 0,
-                    "lat": p1_data["input_lat"], "lng": p1_data["input_lng"]
+                    "lat": p1_data["input_lat"], "lng": p1_data["input_lng"],
+                    "timezone": transit_timezone
                 })
                 
                 data = get_chart_data(
@@ -874,7 +875,7 @@ if "chart_data" in st.session_state:
     p2_name = st.session_state.get("p2_name", "TestUser2")
     current_is_composite = st.session_state.get("is_composite", False) or (data.get("type") == "composite")
 
-   # ==========================================
+    # ==========================================
     # 🌌 Transit Reading Mode Display
     # ==========================================
     if current_is_transit and data.get("transit_positions") is not None:
