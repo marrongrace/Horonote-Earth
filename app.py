@@ -591,17 +591,15 @@ with st.sidebar:
 
     submit_button = st.button(label=t["submit_btn"], type="primary", key="submit_btn_main")
     
-    # --- SNSシェアボタンの生成 ---
-    share_text = urllib.parse.quote("「HoroNote」- Horoscope Information Export System - #HoroNote")
-    app_url = urllib.parse.quote("https://horonote.streamlit.app/#horo-note") # ←公開用URL
-
-    # 各SNS・サービスのシェア用URL
+    # 各SNS・サービスのシェア用URL（HoroNote Earth対応・海外向け8つ構成）
     x_share_url = f"https://twitter.com/intent/tweet?text={share_text}&url={app_url}"
-    line_share_url = f"https://social-plugins.line.me/lineit/share?url={app_url}"
     fb_share_url = f"https://www.facebook.com/sharer/sharer.php?u={app_url}"
     bsky_share_url = f"https://bsky.app/intent/compose?text={share_text}%20{app_url}"
     threads_share_url = f"https://threads.net/intent/post?text={share_text}%20{app_url}"
     pinterest_share_url = f"https://pinterest.com/pin/create/button/?url={app_url}&description={share_text}"
+    reddit_share_url = f"https://www.reddit.com/submit?url={app_url}&title={share_text}"
+    whatsapp_share_url = f"https://api.whatsapp.com/send?text={share_text}%20{app_url}"
+    linkedin_share_url = f"https://www.linkedin.com/shareArticle?mini=true&url={app_url}&title={share_text}"
 
     st.markdown(f"""
         <style>
@@ -630,23 +628,29 @@ with st.sidebar:
                 opacity: 0.85;
             }}
             .btn-x {{ background-color: #000000; border: 1px solid #333; }}
-            .btn-line {{ background-color: #06c755; }}
             .btn-fb {{ background-color: #1877f2; }}
             .btn-bsky {{ background-color: #0585ee; }}
             .btn-threads {{ background-color: #101010; border: 1px solid #444; }}
             .btn-pinterest {{ background-color: #e60023; }}
+            .btn-reddit {{ background-color: #ff4500; }}
+            .btn-whatsapp {{ background-color: #25d366; }}
+            .btn-linkedin {{ background-color: #0a66c2; }}
         </style>
 
-        <div style="font-size: 0.8em; color: gray; margin-top: 25px;">↓↓↓ Share Output ↓↓↓</div>
+        <div style="font-size: 0.8em; color: gray; margin-top: 25px;">↓↓↓ Share Output (HoroNote Earth) ↓↓↓</div>
         <div class="share-buttons-grid">
             <a href="{x_share_url}" target="_blank" class="share-btn btn-x">𝕏 Share</a>
-            <a href="{line_share_url}" target="_blank" class="share-btn btn-line">LINE</a>
-            <a href="{fb_share_url}" target="_blank" class="share-btn btn-fb">Facebook</a>
             <a href="{bsky_share_url}" target="_blank" class="share-btn btn-bsky">Bluesky</a>
             <a href="{threads_share_url}" target="_blank" class="share-btn btn-threads">Threads</a>
+            <a href="{fb_share_url}" target="_blank" class="share-btn btn-fb">Facebook</a>
             <a href="{pinterest_share_url}" target="_blank" class="share-btn btn-pinterest">Pinterest</a>
+            <a href="{reddit_share_url}" target="_blank" class="share-btn btn-reddit">Reddit</a>
+            <a href="{whatsapp_share_url}" target="_blank" class="share-btn btn-whatsapp">WhatsApp</a>
+            <a href="{linkedin_share_url}" target="_blank" class="share-btn btn-linkedin">LinkedIn</a>
         </div>
     """, unsafe_allow_html=True)
+    st.write("")
+    
     # -----------------------------
     
     # 自分の名義
