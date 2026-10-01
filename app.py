@@ -561,18 +561,11 @@ with st.sidebar:
         transit_lat = st.number_input("Latitude", format="%.4f", key=lat_key)
         transit_lng = st.number_input("Longitude", format="%.4f", key=lng_key)
 
-        # transit_tz = "UTC"
-        # if selected_city and selected_city in city_data_map:
-            # 都市データに "timezone" キーが含まれている前提で取得（なければ "UTC" にフォールバック）
-        #     transit_tz = city_data_map[selected_city].get("timezone", "UTC")
-
         # ── 緯度・経度からタイムゾーンを自動で取得する ──
         from timezonefinder import TimezoneFinder
         tf = TimezoneFinder()
         # 緯度・経度から "America/Chicago" のようなタイムゾーン文字列を割り出す
         transit_tz = tf.timezone_at(lat=transit_lat, lng=transit_lng) or "UTC"
-        
-        st.write(f"🌐 **自動判定された transit_tz:** `{transit_tz}`") # デバッグ用（確認できたら消してOKです）
         
         # 計算用にセッションステートへ保存
         st.session_state["transit_info"] = {
