@@ -7,6 +7,7 @@ import warnings
 import swisseph as swe
 from kerykeion import AstrologicalSubject
 from timezonefinder import TimezoneFinder
+from zoneinfo import ZoneInfo
 from datetime import datetime, timezone, timedelta
 
 EPHE_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), "ephe"))
