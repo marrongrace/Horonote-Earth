@@ -720,7 +720,7 @@ def get_chart_data(name, year, month, day, hour, minute, lat, lng, city_display_
             transit_aspects = calculate_transit_aspects(transit_aspect_objs, all_aspect_objs)
 
     return {
-        "error": None, "date_str": date_str, "loc_str": loc_str,
+        "error": None, "timezone": timezone_str, "date_str": date_str, "loc_str": loc_str,
         "angles": angles_list, "bodies": p_lines, "houses": h_lines,
         "house_rulers": ruler_list,
         "house_rulers_with_5deg": ruler_list_with_5deg,
