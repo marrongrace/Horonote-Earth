@@ -560,6 +560,11 @@ with st.sidebar:
 
         transit_lat = st.number_input("Latitude", format="%.4f", key=lat_key)
         transit_lng = st.number_input("Longitude", format="%.4f", key=lng_key)
+
+        transit_tz = "UTC"
+        if selected_city and selected_city in city_data_map:
+            # 都市データに "timezone" キーが含まれている前提で取得（なければ "UTC" にフォールバック）
+            transit_tz = city_data_map[selected_city].get("timezone", "UTC")
         
         # 計算用にセッションステートへ保存
         st.session_state["transit_info"] = {
@@ -569,7 +574,9 @@ with st.sidebar:
             "hour": transit_time.hour,
             "minute": transit_time.minute,
             "lat": transit_lat,
-            "lng": transit_lng
+            "lng": transit_lng,
+            "loc_str": f"{selected_city}, {selected_country}" if selected_city else "",
+            "timezone": transit_tz
         }
         
     # 2人目の入力（シナストリー選択時のみ表示）
