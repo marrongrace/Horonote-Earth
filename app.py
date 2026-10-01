@@ -874,7 +874,7 @@ if "chart_data" in st.session_state:
     p2_name = st.session_state.get("p2_name", "TestUser2")
     current_is_composite = st.session_state.get("is_composite", False) or (data.get("type") == "composite")
 
-    # ==========================================
+   # ==========================================
     # 🌌 Transit Reading Mode Display
     # ==========================================
     if current_is_transit and data.get("transit_positions") is not None:
@@ -885,35 +885,35 @@ if "chart_data" in st.session_state:
         t_date_str = f"{t_info.get('year', '')}-{t_info.get('month', 1):02d}-{t_info.get('day', 1):02d} {t_info.get('hour', 0):02d}:{t_info.get('minute', 0):02d}"
         
         # ── 左右にカラムを分けて情報をすっきり配置 ──
-    col_left, col_right = st.columns(2)
-    
-    with col_left:
-        # ネイタル（個人）情報の枠（左寄せ版）
-        st.markdown(
-            f"""
-            <div style="border: 2px solid #ffd700; padding: 15px; border-radius: 10px; background-color: rgba(255, 215, 0, 0.05); height: 100%;">
-                <h4 style="color: #ffd700; text-align: left; margin-top: 0;">✨ {st.session_state.get('user_name', 'User')}'s Natal ✨</h4>
-                <p style="text-align: left; margin-bottom: 5px; font-size: 0.9em;">📅 {data.get('date_str', '')}</p>
-                <p style="text-align: left; font-size: 0.85em; margin-bottom: 5px;">📍 {data.get('loc_str', '')}</p>
-                <p style="text-align: left; font-size: 0.85em; margin-bottom: 0;">🌐 Timezone: {data.get('timezone', 'UTC')}</p>
-            </div>
-            """,
-            unsafe_allow_html=True
-        )
+        col_left, col_right = st.columns(2)
         
-    with col_right:
-        # トランジット（参照）情報の枠（左寄せ版）
-        st.markdown(
-            f"""
-            <div style="border: 2px solid #4a90e2; padding: 15px; border-radius: 10px; background-color: rgba(74, 144, 226, 0.05); height: 100%;">
-                <h4 style="color: #4a90e2; text-align: left; margin-top: 0;">⏳ Transit Target ⏳</h4>
-                <p style="text-align: left; margin-bottom: 5px; font-size: 0.9em;">📅 {t_date_str}</p>
-                <p style="text-align: left; font-size: 0.85em; margin-bottom: 5px;">📍 {t_info.get('loc_str', 'Current / Specified Location')}</p>
-                <p style="text-align: left; margin-bottom: 0; font-size: 0.85em;">🌐 Timezone: {t_info.get('timezone', 'UTC')}</p>
-            </div>
-            """,
-            unsafe_allow_html=True
-        )
+        with col_left:
+            # ネイタル（個人）情報の枠（左寄せ版）
+            st.markdown(
+                f"""
+                <div style="border: 2px solid #ffd700; padding: 15px; border-radius: 10px; background-color: rgba(255, 215, 0, 0.05); height: 100%;">
+                    <h4 style="color: #ffd700; text-align: left; margin-top: 0;">✨ {st.session_state.get('user_name', 'User')}'s Natal ✨</h4>
+                    <p style="text-align: left; margin-bottom: 5px; font-size: 0.9em;">📅 {data.get('date_str', '')}</p>
+                    <p style="text-align: left; font-size: 0.85em; margin-bottom: 5px;">📍 {data.get('loc_str', '')}</p>
+                    <p style="text-align: left; font-size: 0.85em; margin-bottom: 0;">🌐 Timezone: {data.get('timezone', 'UTC')}</p>
+                </div>
+                """,
+                unsafe_allow_html=True
+            )
+            
+        with col_right:
+            # トランジット（参照）情報の枠（左寄せ版）
+            st.markdown(
+                f"""
+                <div style="border: 2px solid #4a90e2; padding: 15px; border-radius: 10px; background-color: rgba(74, 144, 226, 0.05); height: 100%;">
+                    <h4 style="color: #4a90e2; text-align: left; margin-top: 0;">⏳ Transit Target ⏳</h4>
+                    <p style="text-align: left; margin-bottom: 5px; font-size: 0.9em;">📅 {t_date_str}</p>
+                    <p style="text-align: left; font-size: 0.85em; margin-bottom: 5px;">📍 {t_info.get('loc_str', 'Current / Specified Location')}</p>
+                    <p style="text-align: left; margin-bottom: 0; font-size: 0.85em;">🌐 Timezone: {t_info.get('timezone', 'UTC')}</p>
+                </div>
+                """,
+                unsafe_allow_html=True
+            )
 
         st.write("") # 少し余白
         st.caption("※ Aspects are ordered by the tightest orb.")
