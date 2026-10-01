@@ -641,7 +641,7 @@ with st.sidebar:
             .btn-linkedin {{ background-color: #0a66c2; }}
         </style>
 
-        <div style="font-size: 0.8em; color: gray; margin-top: 25px;">↓↓↓ Share Output (HoroNote Earth) ↓↓↓</div>
+        <div style="font-size: 0.8em; color: gray; margin-top: 25px;">↓↓↓ Share Output ↓↓↓</div>
         <div class="share-buttons-grid">
             <a href="{x_share_url}" target="_blank" class="share-btn btn-x">𝕏 Share</a>
             <a href="{bsky_share_url}" target="_blank" class="share-btn btn-bsky">Bluesky</a>
