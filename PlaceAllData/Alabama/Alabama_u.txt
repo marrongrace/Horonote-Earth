@@ -1,0 +1,43 @@
+Uchee, 32.3506, -85.3647
+Uhland, 32.4261, -85.2867
+Underwood(Lauderdale), 34.8711, -87.7008
+Underwood(Shelby), 33.0833, -86.8500
+Underwood Crossroads, 34.7564, -87.5292
+Uniform, 31.3492, -88.2344
+Union(Morgan), 34.4567, -86.7381
+Union(Clay), 33.4456, -85.7714
+Union(Etowah), 34.1586, -86.2008
+Union(Greene), 32.9881, -87.9150
+Union(Tallapoosa), 32.6986, -85.8472
+Union(Henry), 31.5203, -85.1914
+Union Academy, 31.3167, -85.8167
+Union Chapel, 33.8167, -87.1778
+Union Church, 30.5653, -88.3439
+Union Grove(Chilton), 32.9825, -86.6808
+Union Grove(Cullman), 34.2028, -86.5667
+Union Grove(Jefferson), 33.5978, -86.9767
+Union Grove(Madison), 34.9283, -86.4825
+Union Grove(Marshall), 34.4017, -86.4492
+Union Hill(Chambers), 33.0028, -85.5228
+Union Hill(Cleburne), 33.5403, -85.3894
+Union Hill(Cullman), 34.2997, -86.5119
+Union Hill(Morgan), 34.4736, -86.6219
+Union Hill(Limestone), 34.9772, -87.2006
+Union Springs, 32.1442, -85.7150
+Union Street Private Hospital, 32.4122, -87.0303
+Uniontown, 32.4494, -87.5142
+Unity(Coosa), 33.0053, -86.3592
+Unity(Tuscaloosa), 33.2000, -87.5333
+Universal Heights, 33.2000, -87.5333
+University Hospital, 33.5056, -86.8025
+University of Alabama Medical Center, 33.5050, -86.8011
+University of South Alabama Medical Center, 30.7069, -88.0986
+Upper Coalburg, 33.6122, -86.8508
+Upper Gordon Landing, 31.1661, -85.1033
+Upper Green Hill, 34.9847, -87.5067
+Upper Hall Landing, 30.8744, -87.8925
+Upshaw, 34.2814, -87.1558
+Upton, 34.0739, -85.9461
+Uptown, 33.4333, -86.9500
+Uriah, 31.3050, -87.5022
+US Government Tuberculosis Hospital, 34.6667, -86.0214

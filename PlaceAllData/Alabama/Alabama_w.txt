@@ -1,0 +1,253 @@
+Waco, 34.4819, -87.6539
+Wacoochee Valley, 32.6294, -85.1383
+Wadley, 33.1214, -85.5664
+Wadsworth(Autauga), 32.3975, -86.5283
+Wadsworth(Chilton), 32.6747, -86.4508
+Wagar, 31.4417, -87.9936
+Wagarville, 31.4361, -88.0283
+Wahl, 31.0050, -87.2214
+Wahouma, 33.5528, -86.7353
+Wainwright, 31.6489, -87.4869
+Walco, 33.1667, -86.3167
+Wald, 31.7578, -86.6656
+Walden Quarters, 32.7469, -87.8625
+Waldo, 33.3803, -86.0269
+Walker Chapel, 33.6067, -86.8225
+Walker County Health Clinic, 33.8361, -87.2806
+Walker County Hospital, 33.8403, -87.2833
+Walker Mill Ford, 34.7247, -86.2742
+Walker Regional Medical Center, 33.8428, -87.2358
+Walker Springs, 31.5406, -87.7911
+Walkers Corner, 34.1781, -86.7425
+Walkerton, 33.5850, -86.2964
+Wall Street, 34.6833, -86.6833
+Wallace, 31.2094, -87.2183
+Walley, 31.1844, -88.4250
+Wallsboro, 32.5867, -86.2092
+Wallstown, 33.8983, -86.7006
+Walnut Grove(Etowah), 34.0656, -86.3064
+Walnut Grove(Jefferson), 33.4564, -86.9228
+Walnut Hill, 32.7100, -85.7856
+Walnut Park, 34.0144, -86.0592
+Walnut Street Hospital, 34.0119, -86.0172
+Walter, 34.1186, -86.6769
+Wannville, 34.7775, -85.8778
+Ward, 32.3619, -88.2781
+Wards Mill, 32.9714, -85.3439
+Ware(Jefferson), 33.4356, -86.8858
+Ware(Elmore), 32.4564, -86.0508
+Warley, 30.8281, -88.3656
+Warrenton, 34.3567, -86.3594
+Warrior, 33.8142, -86.8094
+Warriorstand, 32.3117, -85.5533
+Warsaw, 32.9375, -88.2031
+Washington County Hospital, 31.4592, -88.2356
+Washington Heights, 33.5653, -86.8267
+Washington Hill, 32.4081, -86.4678
+Water Valley, 31.8939, -88.3931
+Waterford, 31.3525, -85.6014
+Waterloo, 34.9181, -88.0642
+Waterloo Springs, 34.3222, -85.5883
+Watkins, 33.3364, -86.6942
+Watson(Jefferson), 33.6336, -86.8794
+Watson(Cherokee), 34.3281, -85.5739
+Watson Hospital, 34.6089, -86.9853
+Watsonville, 31.8675, -87.1650
+Watts Crossroads, 33.3725, -85.7731
+Watts Mill, 33.3000, -85.7500
+Wattsville, 33.6814, -86.2797
+Waugh, 32.3650, -86.0450
+Waverly, 32.7353, -85.5792
+Wawbeek, 31.0278, -87.3608
+Wayne, 32.1056, -87.8008
+Weatherly Heights, 34.6367, -86.5528
+Weathers, 33.3347, -85.9625
+Weaver, 33.7519, -85.8114
+Webb, 31.2603, -85.2733
+Webb Addition, 34.6708, -86.0219
+Webbs Landing, 32.5183, -87.8422
+Webster Chapel, 33.9500, -86.0167
+Wedgeworth, 32.8081, -87.7625
+Wedowee, 33.3089, -85.4847
+Weed Crossroad, 31.5186, -86.2231
+Weeden Heights, 34.8211, -87.6381
+Weeks, 31.1506, -86.1164
+Weems, 33.5558, -86.6628
+Wegra, 33.6342, -87.1042
+Wehadkee, 33.2325, -85.2881
+Welch, 33.0881, -85.3394
+Welka, 31.0133, -87.2008
+Weller, 33.3350, -87.1472
+Wellington, 33.8225, -85.8928
+Wells Ford, 34.7072, -86.3061
+Welona, 32.7667, -86.3361
+Welti, 34.1392, -86.7389
+Wende, 32.2575, -85.3394
+Wenonah, 33.4394, -86.8961
+Weogufka, 33.0164, -86.3122
+Weoka, 32.7175, -86.1842
+Weoka Mills, 32.6817, -86.3006
+Wesoda, 34.1111, -86.7994
+Wessington, 33.0025, -86.7778
+West, 34.7333, -86.6000
+West Alabama Crippled Childrens Clinic, 33.2031, -87.5300
+West Alabama General Hospital, 33.2339, -87.5708
+West Alexandria, 33.7667, -85.8833
+West Anniston, 33.6667, -85.8333
+West Bend, 31.8242, -88.1322
+West Blocton, 33.1181, -87.1250
+West Butler, 32.0686, -88.3353
+West Central Alabama Rehabilitation Center, 32.4414, -87.0178
+West Corona, 33.7086, -87.4983
+West Decatur, 34.6042, -86.9956
+West End(Calhoun), 33.6667, -85.9167
+West End(Jefferson), 33.4903, -86.8658
+West End Anniston, 33.6667, -85.8333
+West Ensley, 33.5286, -86.9258
+West Fairfield, 33.4542, -86.9478
+West Greene, 32.9236, -88.0853
+West Highlands, 33.4333, -86.9500
+West Hill, 30.6900, -88.1808
+West Huntsville, 34.7144, -86.6031
+West Jasper, 33.8000, -87.3333
+West Jefferson, 33.6492, -87.0686
+West Lake Highlands, 33.3967, -86.9714
+West Monroeville, 31.5156, -87.3536
+West Point(Morgan), 34.2386, -86.9592
+West Point(Walker), 34.4517, -86.6456
+West Pratt, 33.7333, -87.1167
+West Sayre, 33.7139, -86.9875
+West Selmont, 32.3911, -87.0172
+West Side(Jefferson), 33.4333, -86.9500
+West Side(Montgomery), 32.3667, -86.3333
+West Wellington, 33.8247, -85.9100
+Westbrook, 32.3233, -87.3333
+Western Hills, 30.7000, -88.1667
+Western Hills Estates, 34.8114, -86.7456
+Western Hills Mall, 33.4667, -86.9167
+Westfield, 33.4844, -86.9406
+Westlawn, 34.7197, -86.6275
+Weston, 34.1597, -88.0319
+Westover, 33.3494, -86.5358
+Westwood, 33.5861, -86.9253
+Wetumpka, 32.5436, -86.2119
+Whatley, 31.6506, -87.7050
+Whatley Cross Road, 32.4975, -85.3747
+Wheat, 34.1000, -87.0667
+Wheeler, 34.6525, -87.2497
+Wheeler Dam Village, 34.7933, -87.3781
+Wheelerville, 30.6900, -88.1917
+Wheeling Crossroad, 33.4094, -86.9200
+Whistler, 30.7564, -88.1031
+White City(Cullman), 34.0928, -86.7744
+White City(Autauga), 32.6483, -86.5994
+White Crossroads, 33.1956, -85.3433
+White Hall, 32.3269, -86.7119
+White House Springs, 34.6483, -87.6939
+White Oak(Barbour), 31.9003, -85.3392
+White Oak(Henry), 31.7683, -85.1525
+White Oak(Marshall), 34.2403, -86.2444
+White Oak(Franklin), 34.5475, -87.9944
+White Plains(Calhoun), 33.7472, -85.6892
+White Plains(Chambers), 32.9922, -85.3992
+White Signboard Crossroad, 33.2497, -85.3842
+Whitehead, 34.8881, -87.3272
+Whitehouse, 34.1214, -87.7322
+Whitehouse Forks, 30.8078, -87.8142
+Whiteoak, 34.6531, -87.5286
+Whites Bluff, 32.3167, -87.2833
+Whites Chapel, 33.6000, -86.5333
+Whites Gap, 33.7783, -85.7394
+Whitesboro, 34.1633, -86.0694
+Whitesburg, 34.5764, -86.5636
+Whitesburg Estates, 34.6333, -86.5769
+Whiteside, 34.6333, -86.9500
+Whitesides Mill, 33.7383, -85.6581
+Whitesville, 34.1717, -86.2428
+Whitewater, 32.4639, -86.6356
+Whitfield, 32.3653, -88.0903
+Whitney, 33.8678, -86.2914
+Whitney Junction, 33.8747, -86.2994
+Whiton, 34.3556, -86.0786
+Whitsitt, 32.6008, -87.5922
+Whitson, 33.5686, -87.4078
+Whorton, 34.1306, -85.5067
+Wicksburg, 31.2081, -85.6225
+Wiggins, 31.3158, -86.3286
+Wigginsville, 34.7994, -86.9125
+Wiginton, 34.2867, -87.8758
+Wilburn, 33.9517, -87.0342
+Wilcox, 31.5083, -86.8764
+Wildcat Landing, 31.9650, -88.0919
+Wildwood, 33.4433, -85.5800
+Wiley(Montgomery), 32.2950, -86.3097
+Wiley(Tuscaloosa), 33.5328, -87.4633
+Wilhites, 34.3100, -86.8928
+Wilkes, 33.4547, -86.9300
+Wilkinstown, 31.6081, -85.9981
+Williams(Etowah), 33.9053, -86.1103
+Williams(Houston), 31.3056, -85.1639
+Williams(Sumter), 32.4500, -88.3058
+Williamstown, 33.7033, -87.3019
+Willow Springs, 32.4681, -86.1897
+Willowbrook, 34.6567, -86.5369
+Willowbrook Estates, 34.6581, -86.5475
+Wills Crossroads, 31.5561, -85.1797
+Wills Valley, 34.4778, -85.7142
+Wilmer, 30.8231, -88.3614
+Wilson Bend, 34.0150, -87.1294
+Wilson Lake Shores, 34.8031, -87.5789
+Wilson Quarters, 31.1597, -85.3444
+Wilsonia, 34.0997, -85.9042
+Wilsonville, 33.2342, -86.4836
+Wilton, 33.0786, -86.8817
+Wimberly, 31.9167, -88.3167
+Wimbly, 31.9150, -88.2483
+Winburn, 33.5081, -86.5469
+Windham Springs, 33.4914, -87.4986
+Windsor Highlands, 33.4683, -86.7939
+Winetka, 33.4369, -86.9114
+Winfield, 33.9289, -87.8172
+Winfield Carraway Hospital, 33.9300, -87.8244
+Wing, 31.0275, -86.6106
+Wingard, 31.8331, -86.1486
+Wininger, 34.7428, -86.1594
+Winn, 31.6517, -87.9172
+Winn Crossroads, 34.3378, -86.6164
+Winninger, 34.6333, -86.2667
+Winslow, 32.5161, -86.7700
+Winterboro, 33.3214, -86.1969
+Winton, 34.5117, -86.7508
+Wiregrass Comprehensive Mental Health Center, 31.1964, -85.3708
+Wolf Creek, 33.5292, -86.3819
+Wolf Springs, 34.5950, -87.4728
+Wolftown, 34.5136, -87.1061
+Womack Hill, 31.8531, -88.1886
+Woodaire Estates, 33.6578, -86.6822
+Woodall Place, 34.5508, -86.2575
+Woodbluff, 31.9167, -87.9833
+Woodcrest, 33.5953, -86.7153
+Woodfin Mill, 34.9625, -86.9192
+Woodford, 32.5039, -88.0064
+Woodland(Lauderdale), 34.7506, -87.8228
+Woodland(Macon), 32.5297, -85.7728
+Woodland(Randolph), 33.3742, -85.3997
+Woodland Mills, 34.4742, -86.6947
+Woodlawn, 33.5406, -86.7517
+Woodlawn Heights, 34.5308, -87.7242
+Woodlawn Heights, 33.5333, -86.7472
+Woodmeadow, 33.4167, -86.8000
+Woodmont, 33.4486, -86.9931
+Woods Bluff, 31.9356, -88.0617
+Woodstock, 33.2067, -87.1500
+Woodville, 34.6278, -86.2744
+Woodward, 33.4353, -86.9581
+Woodward Junction, 33.4217, -86.9339
+Woolfolk, 33.4172, -85.9983
+Wren, 34.4342, -87.2936
+Wright, 34.9086, -87.9900
+Wright Crossroads, 32.5328, -85.4700
+Wyatt, 33.6989, -87.0783
+Wylam, 33.5058, -86.9253
+Wylaunee, 31.9994, -85.0947
+Wynnville, 34.0808, -86.3936

@@ -1,0 +1,60 @@
+Vaiden, 32.5197, -87.3711
+Valdosta, 34.7164, -87.7236
+Valhalla, 33.4492, -86.9267
+Valhermoso Springs, 34.5011, -86.6858
+Vallegrande, 32.3833, -87.0000
+Valley Creek, 33.3875, -87.0722
+Valley Creek Junction, 32.5683, -86.9489
+Valley Head, 34.5689, -85.6150
+Valley of Shiloh, 31.4158, -86.4667
+Valley View, 34.4672, -86.9406
+Vance, 33.1742, -87.2336
+Vanderbilt, 33.5497, -86.7869
+Vandiver, 33.4706, -86.5133
+Vangale, 32.0714, -87.8308
+Vanlandingham Mill, 31.0433, -85.7589
+Varnons, 33.1661, -86.7619
+Vashti, 31.7031, -87.6381
+Vaughan Regional Medical Center, 32.4039, -87.0561
+Vaughn, 31.0297, -87.8611
+Vaughn Corners, 34.7719, -86.7142
+Vaughn Memorial Hospital, 32.4050, -87.0261
+Verbena, 32.7497, -86.5114
+Vernledge, 31.7711, -86.2928
+Vernon, 33.7569, -88.1089
+Vernontown, 33.0564, -87.1939
+Vestavia Hills, 33.4486, -86.7878
+Vesthaven, 33.4500, -86.7833
+Veterans Hospital, 33.2000, -87.5333
+Veto, 34.9944, -86.9889
+Vick, 32.9408, -87.0833
+Victoria, 31.5297, -85.9383
+Vida, 32.6100, -86.6744
+Vida Junction, 32.5739, -86.6822
+Vidette, 31.7328, -86.1950
+Vienna, 33.0186, -88.1919
+Viewpoint, 34.3000, -85.9333
+Vigo, 33.9181, -85.5581
+Villa Mercy Hospital, 30.6125, -87.9139
+Village Creek, 33.5536, -86.8083
+Village Creek Junction, 33.5286, -86.8919
+Village No 1, 34.7400, -87.7178
+Village Springs, 33.7583, -86.6386
+Villula, 32.2658, -85.1647
+Vilula, 32.5497, -87.2706
+Vina, 34.3764, -88.0586
+Vincent, 33.3844, -86.4119
+Vine Hill, 32.6122, -86.9022
+Vinegar Bend, 31.2636, -88.3447
+Vineland, 32.0356, -87.6594
+Vineland Park, 33.4397, -86.9947
+Vinemont, 34.2417, -86.8661
+Vines Mill, 33.4931, -87.1644
+Vinnette, 33.6261, -85.9189
+Virginia, 33.4089, -87.0506
+Virginia Shores, 34.7936, -87.5467
+Vocation, 31.0167, -87.5000
+Volanta, 30.5336, -87.9017
+Vredenburgh, 31.8283, -87.3217
+Vulcan, 33.6956, -86.9736
+Vulcan City, 33.5583, -86.7967

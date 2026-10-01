@@ -1,0 +1,75 @@
+Kalona, 32.9806, -86.7692
+Kansas, 33.9017, -87.5519
+Kaolin(Russell), 32.4442, -85.0103
+Kaolin(De Kalb), 34.6275, -85.5817
+Kaulton, 33.2000, -87.5333
+Keego, 31.0606, -87.1275
+Keener, 34.1561, -85.9511
+Keith(De Kalb), 34.6783, -85.6922
+Keith(Monroe), 31.6772, -87.3614
+Kellar Quarry Landing, 34.7344, -87.7581
+Keller Memorial Hospital, 34.7456, -87.7006
+Kellerman, 33.3406, -87.3047
+Kelly, 31.3236, -85.6553
+Kelly Springs, 31.2758, -85.4556
+Kellys Crossroads(Genava), 31.0694, -85.7517
+Kellys Crossroads(Coosa), 32.8372, -86.3344
+Kellyton, 32.9797, -86.0336
+Kendale Gardens, 34.8167, -87.6667
+Kendall Crossroads, 32.8367, -85.5072
+Kennedy, 33.5869, -87.9844
+Kent(Elmore), 32.6189, -85.9486
+Kent(Pike), 31.9525, -86.1747
+Kentuck, 33.5308, -85.8306
+Kenwood, 33.4167, -86.8000
+Kershaw, 33.7597, -87.1092
+Ketona, 33.6053, -86.7653
+Kewahatchie, 33.1200, -86.5436
+Key, 34.1025, -85.5344
+Keyno, 32.9369, -86.1092
+Keys Mill, 34.9367, -86.5239
+Keysburg, 33.9450, -85.9181
+Keystone, 33.2678, -86.8097
+Keyton, 31.2825, -85.8256
+Keytons, 31.1089, -85.3706
+Kilby, 32.4094, -86.2656
+Kilgore, 33.6794, -87.0306
+Killen, 34.8628, -87.5375
+Killian Mill, 34.3872, -85.8019
+Killough Springs, 33.6131, -86.7064
+Kilpatrick, 34.2681, -86.0764
+Kimberly, 33.7733, -86.8139
+Kimbrell, 33.2761, -87.0672
+Kimbrough, 32.0333, -87.5653
+Kimbrough Crossroads, 34.8267, -87.7633
+Kincheon, 32.7569, -86.7019
+King Memorial Hospital, 32.4103, -87.0272
+Kingdom Crossroads, 33.1608, -86.5550
+Kings Landing, 32.2558, -87.0819
+Kings Log Landing, 31.8078, -87.4617
+Kings Mill, 33.7344, -87.3592
+Kingston, 33.5381, -86.7692
+Kingsway Terrace, 33.5625, -86.7442
+Kingtown, 34.9053, -87.3831
+Kingville, 33.6675, -88.0406
+Kinsey, 31.2989, -85.3444
+Kinston, 31.2158, -86.1711
+Kinterbish, 32.3325, -88.3128
+Kiowa, 33.7992, -86.6672
+Kirbytown, 34.5047, -86.1286
+Kirk, 33.2414, -87.8875
+Kirkland, 31.1883, -87.0306
+Kirklands Crossroads, 31.4025, -85.4144
+Kirkpatrick Landing, 32.6189, -87.8544
+Kirks Grove, 34.1903, -85.4569
+Klein, 33.2836, -86.4497
+Klondike, 33.2644, -87.3022
+Knightens Crossroads, 33.9564, -85.7144
+Knoxville, 32.9922, -87.7906
+Koenton, 31.6400, -88.2594
+Kowaliga, 32.7400, -85.9692
+Kowaliga Beach, 32.9833, -85.8667
+Krafton, 30.7333, -88.0833
+Kushla, 30.8153, -88.1581
+Kyles, 34.7947, -86.0086
+Kymulga, 33.3339, -86.2989

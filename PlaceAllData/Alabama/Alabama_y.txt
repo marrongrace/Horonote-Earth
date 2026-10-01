@@ -1,0 +1,19 @@
+Yampertown, 34.0053, -87.8564
+Yantley, 32.2458, -88.3794
+Yarbo, 31.5436, -88.2778
+Yarbrough, 32.7158, -85.1992
+Yelling Settlement, 30.6219, -87.8364
+Yellow Bluff, 31.9675, -87.4681
+Yellow Creek Falls, 34.2167, -85.6000
+Yellow Pine, 31.4056, -88.4297
+Yellowleaf, 33.2500, -86.5000
+Yerkwood, 33.6878, -87.0800
+Yolande, 33.3067, -87.1914
+York, 32.4861, -88.2964
+Yorks Mill, 34.7447, -85.6736
+Younds Landing, 32.8217, -85.8542
+Youngblood, 31.8450, -86.0694
+Youngs Chapel, 33.9500, -86.0167
+Youngtown, 34.4167, -87.3908
+Yucca, 34.7992, -85.8067
+yupon, 30.4086, -87.8169

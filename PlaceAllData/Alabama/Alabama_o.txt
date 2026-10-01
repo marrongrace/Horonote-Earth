@@ -1,0 +1,125 @@
+O'Neal, 34.8514, -87.0417
+Oak, 30.3178, -87.7064
+Oak Bowery, 32.7506, -85.4364
+Oak Crossing, 33.5258, -86.5461
+Oak Grove(Autauga), 32.6222, -86.5456
+Oak Grove(Chilton), 32.9908, -86.7589
+Oak Grove(De Kalb), 34.6572, -85.6294
+Oak Grove(Hale), 32.5461, -87.6775
+Oak Grove(Mobile), 30.8569, -88.1819
+Oak Grove(Talladega), 33.1917, -86.2994
+Oak Grove(Lawrence), 34.5578, -87.4511
+Oak Grove(Limestone), 34.9186, -86.8558
+Oak Grove(Madison), 34.5144, -86.4381
+Oak Grove(Jefferson), 33.4547, -87.1536
+Oak Grove Estates, 33.4589, -86.8269
+Oak Hill, 34.3158, -86.0294
+Oak Hills, 33.4900, -86.9022
+Oak Lawn, 33.5814, -86.7528
+Oak Level, 33.8494, -85.4781
+Oak Park(Jefferson), 33.5756, -86.7692
+Oak Park(Madison), 34.7489, -86.5525
+Oak Ridge(Morgan), 34.4781, -86.9950
+Oak Ridge(St Clair), 33.6008, -86.2794
+Oak Ridge Park, 33.5394, -86.7400
+Oak Village, 32.8975, -87.7647
+Oakahalla, 33.7150, -87.0761
+Oakchia, 32.2983, -88.0106
+Oakdale(Etowah), 34.0931, -85.9550
+Oakdale(Limestone), 34.8208, -86.9119
+Oakdale Acres, 34.8164, -86.9097
+Oakhill, 31.9208, -87.0828
+Oakhurst, 33.5558, -86.8367
+Oakland(Chambers), 33.0136, -85.2389
+Oakland(Lauderdale), 34.8417, -87.7989
+Oakland(Limestone), 34.8275, -87.0853
+Oakley, 32.9911, -86.9022
+Oakman, 33.7133, -87.3886
+Oakmulgee, 32.7964, -87.0439
+Oakville(Jefferson), 33.5744, -86.6981
+Oakville(Lawrence), 34.4453, -87.1622
+Oakwood(Madison), 34.7461, -86.6089
+Oakwood(Jefferson), 33.3906, -86.9644
+Oakwood College, 34.7167, -86.5833
+Oakworth, 34.5903, -86.9897
+Oaky Grove, 31.4167, -85.3333
+Oaky Streak, 31.5781, -86.5536
+Oateston, 31.7619, -85.3744
+Ocampo, 33.0314, -86.7636
+Oceola, 34.1650, -85.4869
+Octagon, 32.2042, -87.7553
+Oden Ridge, 34.3739, -86.7622
+Odena, 33.2108, -86.2786
+Odenville, 33.6772, -86.3967
+Odom, 31.5378, -86.7861
+Ofelia, 33.3183, -85.6136
+Ohatchee, 33.7833, -86.0025
+Oil Well Landing, 31.5892, -88.0661
+Okatuppa, 31.9447, -88.3961
+Old Atkinson Crossing, 32.9633, -85.2350
+Old Bethel, 34.5811, -87.5236
+Old Bingham, 32.4417, -86.1303
+Old Blevins Mill, 34.7397, -85.6322
+Old Bluffport, 32.5922, -88.0569
+Old Burleson, 34.4108, -88.0367
+Old Coloma, 34.0306, -85.6183
+Old Davistown, 33.6667, -85.8333
+Old Davisville, 33.6486, -85.6558
+Old Eastaboga, 33.5864, -86.0217
+Old Fabius, 34.8289, -85.7772
+Old Fort Stoddard Mount Vern, 31.0892, -87.9786
+Old Harmony, 33.9386, -86.0619
+Old Island Landing, 31.1172, -87.8608
+Old Jonesboro, 33.3931, -86.9844
+Old Kingston, 32.5736, -86.6008
+Old Maylene, 33.1942, -86.8614
+Old Monrovia, 34.7697, -86.7064
+Old Nauvoo, 34.4500, -87.9272
+Old Samuel, 31.8722, -88.3061
+Old Spring Hill, 32.4375, -87.7736
+Old Texas, 31.8833, -87.0000
+Old Town(Conecuh), 31.4333, -86.9333
+Old Town(Dallas), 32.2389, -86.8728
+Oldfield, 33.2028, -86.2181
+Oleander, 34.4139, -86.5281
+Oliver, 34.8108, -87.2503
+Ollie, 31.4714, -87.3422
+Olmsted, 33.1833, -87.4500
+Olney, 33.1411, -88.0386
+Olustee, 31.8833, -86.1167
+Omaha, 33.3025, -85.3103
+Omega, 31.9758, -85.7850
+Oneonta, 33.9481, -86.4728
+Onycha, 31.2139, -86.2833
+Opelika, 32.6453, -85.3783
+Ophir, 34.3600, -85.9456
+Opine(Clarke), 31.9047, -87.9339
+Opine(Covington), 31.3275, -86.2872
+Opp, 31.2825, -86.2556
+Orange Beach, 30.2942, -87.5736
+Orchard, 30.7194, -88.2072
+Orion, 31.9586, -86.0056
+Orrville(Dallas), 32.3061, -87.2456
+Orrville(Limestone), 34.6672, -86.9769
+Osage Woodyard Landing, 31.8578, -88.1483
+Osaka, 31.0636, -87.2239
+Osanippa, 32.7611, -85.1511
+Osborn, 32.6836, -87.1431
+Osco, 31.8769, -85.2358
+Oswichee, 32.2794, -85.0039
+Otho, 31.6894, -85.1297
+Ottery, 33.7992, -86.0372
+Our Town, 32.8281, -85.9619
+Overbrook, 33.1167, -86.2000
+Overton, 33.5044, -86.6897
+Owassa, 31.4931, -86.9317
+Owens, 34.1294, -85.8503
+Owens Cross Roads, 34.5881, -86.4589
+Owenton, 33.5147, -86.8556
+Ox Level, 32.0297, -85.6286
+Oxanna, 33.6492, -85.8378
+Oxford, 33.6142, -85.8350
+Oxford Lake, 33.6667, -85.8333
+Oxmoor, 33.4328, -86.8594
+Ozan, 33.1058, -86.7156
+Ozark, 31.4589, -85.6406

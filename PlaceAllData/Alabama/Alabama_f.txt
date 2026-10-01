@@ -1,0 +1,215 @@
+Fabius, 34.8108, -85.7775
+Fackler, 34.7925, -85.9100
+Fadette, 31.0444, -85.5375
+Failetown, 31.9278, -88.0164
+Fair Oaks, 32.9394, -88.2517
+Fair View, 34.6267, -85.7903
+Fairdale, 32.9311, -87.1461
+Fairfax, 32.7961, -85.1839
+Fairfield(Covington), 31.2517, -86.6456
+Fairfield(Jefferson), 33.5628, -86.7981
+Fairfield(Lawrence), 34.4742, -87.1931
+Fairfield Highlands, 33.4533, -86.9425
+Fairfield Village, 33.4753, -86.9125
+Fairford, 31.1681, -88.0642
+Fairhope, 30.5228, -87.9033
+Fairmount, 34.8031, -86.8769
+Fairnelson, 31.5636, -87.0767
+Fairview(Blount), 33.9578, -86.5622
+Fairview(Chilton), 32.7744, -86.7214
+Fairview(Coffee), 31.2381, -86.0444
+Fairview(Conecuh), 31.4192, -87.0053
+Fairview(Cullman), 34.2553, -86.6881
+Fairview(Limestone), 34.8031, -86.8325
+Fairview(Madison), 34.9758, -86.4736
+Fairview(Marion), 34.2519, -87.7897
+Fairview(Morgan), 34.5814, -86.9725
+Fairview(Pickens), 33.3786, -87.8856
+Fairview(St Clair), 33.7425, -86.2075
+Fairview(Walker), 33.6028, -87.3497
+Fairview(Winston), 34.1408, -87.3572
+Fairview(Franklin), 34.5608, -87.7289
+Fairview(De Kalb), 34.3383, -85.9264
+Fairview Hospital, 32.3528, -86.3242
+Fairview West, 34.0331, -86.7956
+Falakto, 32.8047, -86.5942
+Falco, 31.0489, -86.6183
+Falkner, 32.6953, -86.0503
+Falkville, 34.3683, -86.9086
+Falliston, 33.2894, -86.8600
+Falls City, 34.0242, -87.2828
+Falls Junction, 33.5033, -86.9233
+Fannie, 31.0000, -87.2500
+Fannings Crossing, 34.8839, -86.4428
+Farill, 34.2461, -85.4933
+Farley, 34.5953, -86.5622
+Farmers Landing, 31.5747, -85.0583
+Farmersville, 32.0781, -86.8919
+Farmville, 32.6333, -85.3833
+Farnell, 30.6433, -88.1033
+Fatama, 31.8989, -87.2356
+Faulkner Ford, 34.0011, -86.4903
+Faunsdale, 32.4597, -87.5939
+Faustinas, 30.4336, -88.1056
+Fayette, 33.6844, -87.8308
+Fayette County Hospital, 33.7083, -87.8244
+Fayetteville, 33.1456, -86.4058
+Fays, 32.4806, -86.4100
+Ferguson Crossroad, 33.9475, -86.2986
+Fernbank, 33.5792, -88.1417
+Fernland, 30.4831, -88.2931
+Fernwood Estates, 33.6261, -86.6789
+Ferry Shores, 34.7758, -87.3067
+Fieldstown, 33.6419, -86.8558
+Finchburg, 31.6425, -87.5108
+Finley, 33.0594, -85.2831
+Finley Crossing, 31.9617, -87.6858
+Fish Pond, 34.6425, -87.1406
+Fisher Crossroads, 34.4669, -85.6486
+Fishermans Resort, 34.7842, -87.3939
+Fishhead, 33.4333, -85.6833
+Fishpond, 32.8678, -86.0233
+Fishtrap, 33.4903, -86.2406
+Fishtrap Ford, 34.5494, -86.3125
+Fisk, 34.9614, -86.5733
+Fitzpatrick, 32.2164, -85.8889
+Five Forks, 34.3697, -86.0758
+Five Points(Blount), 34.0197, -86.5506
+Five Points(Elmore), 32.4894, -86.3517
+Five Points(Greene), 32.7319, -87.9958
+Five Points(Houston), 31.0319, -85.4111
+Five Points(Lawrence), 34.4744, -87.1575
+Five Points(Madison), 34.7386, -86.5769
+Five Points(Marshall), 34.4472, -86.1772
+Five Points(Taladega), 33.1933, -86.2744
+Five Points(Walker), 33.8883, -87.2833
+Five Points(Chambers), 33.0181, -85.3503
+Five Points(Cleburne), 33.5839, -85.6803
+Five Points(Covington), 31.4406, -86.3033
+Five Points(Dale), 31.3017, -85.6253
+Five Points(Dallas), 32.2486, -87.2356
+Five Points East, 33.5311, -86.7086
+Five Points South, 33.5006, -86.8000
+Flanders, 34.2072, -85.9028
+Flat Creek, 33.6442, -87.0925
+Flat Rock(Jackson), 34.7697, -85.6944
+Flat Rock(Lawrence), 34.5367, -87.4853
+Flat Rock(Clay), 33.3000, -85.7500
+Flat Top, 33.6656, -87.0236
+Flatwood(Malengo), 32.1492, -87.5231
+Flatwood(Walker), 33.9450, -87.5033
+Flatwood(Montgomery), 32.4503, -86.2611
+Flatwoods, 31.9786, -86.4308
+Fleetwood, 33.2392, -87.4044
+Fleming Hills, 34.6614, -86.5828
+Fleming Meadows, 34.6828, -86.5719
+Flemington Heights, 34.6692, -86.5594
+Fleta, 32.1094, -86.3522
+Flint City, 34.5231, -86.9703
+Flint Hill, 33.3550, -87.0064
+Flippo Ford, 34.7272, -86.2478
+Flomaton, 31.0000, -87.2608
+Floral Crest, 34.8736, -85.5903
+Florala, 31.0050, -86.3281
+Florala Memorial Hospital, 31.0006, -86.3131
+Florence, 34.7997, -87.6772
+Florette, 34.4164, -86.7031
+Flournoys, 32.3697, -85.0078
+Flower Hill, 34.6803, -87.1561
+Flowers Hospital, 31.2242, -85.3983
+Floyd, 32.6000, -86.0172
+Flynn Gin Landing, 31.4275, -87.5858
+Foley, 30.4064, -87.6836
+Folsom(Randolph), 33.4167, -85.5000
+Folsom(Perry), 32.6825, -87.4058
+Foots Landing, 30.4056, -87.8989
+Ford City, 34.7858, -87.5286
+Fordyce, 32.9497, -85.5856
+Forest, 33.4167, -88.2167
+Forest Acres, 33.6256, -86.6897
+Forest Brook Estates, 33.4167, -86.8000
+Forest Hill, 30.7147, -88.1533
+Forest Hills(Lauderdale), 34.8528, -87.6828
+Forest Hills(Calhoun), 33.6667, -85.8333
+Forest Hills(Jefferson), 33.4703, -86.9250
+Forest Hills(Talladega), 33.2958, -86.3361
+Forest Home, 31.8622, -86.8428
+Forest Park(Mobile), 30.6286, -88.0889
+Forest Park(Jefferson), 33.5150, -86.7664
+Forestdale, 33.5700, -86.8964
+Forester, 32.4369, -86.5981
+Forester Chapel, 33.1167, -85.5667
+Forkland, 32.6481, -87.8833
+Forkville, 34.2692, -87.5514
+Forney, 34.0861, -85.4619
+Fort Benning, 32.4333, -84.9500
+Fort Dale, 31.8914, -86.6575
+Fort Davis, 32.2431, -85.7097
+Fort Deposit, 31.9844, -86.5786
+Fort Gaines, 30.2486, -88.0750
+Fort McClellan, 33.7167, -85.7833
+Fort McDermott, 30.6706, -87.9172
+Fort Mitchell, 32.3414, -85.0217
+Fort Morgan, 30.2283, -88.0231
+Fort Payne, 34.4442, -85.7197
+Fort Rucker, 31.3333, -85.7167
+Fort Stoddard, 31.0997, -87.9792
+Foshee, 31.1167, -87.2264
+Fosheeton, 32.9978, -85.8269
+Foster Crossroad, 33.4225, -85.5553
+Foster Crossroads, 32.9936, -85.5181
+Foster Landing, 31.7186, -87.5067
+Fosters, 33.0947, -87.6858
+Fosters Mill, 34.7672, -87.4181
+Fostoria, 32.0864, -86.8300
+Fountain, 31.5944, -87.4089
+Fountain Heights, 33.5292, -86.8264
+Four Point, 31.3011, -88.3644
+Fourmile, 33.2486, -86.5531
+Fowl River, 30.4622, -88.1689
+Fowler(Conecuh), 31.5892, -87.0972
+Fowler(Greene), 32.7289, -88.0619
+Fowler Spring, 34.0339, -86.5872
+Fowlers Crossroads, 33.8011, -87.6633
+Fox, 33.2000, -87.5333
+Frances Heights, 33.6131, -86.8367
+Francis, 33.7747, -86.0336
+Francis Mill, 33.7833, -86.0167
+Francisco, 34.9872, -86.2492
+Frankfort, 34.5633, -87.8422
+Franklin(Monroe), 31.7144, -87.4114
+Franklin(Macon), 32.4783, -85.8025
+Franklin Ford, 34.4928, -85.7958
+Franklin Gardens, 33.5583, -86.8353
+Frankville, 31.6464, -88.1475
+Frasier Ellis Hospital, 31.2119, -85.3933
+Frasier Hospital, 31.2119, -85.3933
+Fredonia, 32.9897, -85.2886
+Freeman Acres, 34.7828, -87.3461
+Freemanville, 31.0717, -87.5208
+Fremont, 32.5453, -86.8947
+French Mill, 34.7667, -86.8778
+Fresco, 31.7167, -85.8167
+Fridays Crossing, 34.0597, -86.4339
+Friendship(Montgomery), 32.0061, -86.1564
+Friendship(Covington), 31.4033, -86.2067
+Friendship(Elmore), 32.5369, -85.9747
+Friendship(Marshall), 34.3711, -86.4542
+Frisco, 31.5953, -85.8656
+Frisco City, 31.4333, -87.4014
+Frisco Quarters, 33.8242, -87.2697
+Frog Eye, 33.0325, -85.5942
+Frog Mountain, 34.0225, -85.5742
+Frost, 32.9500, -87.1333
+Fruitdale, 31.3425, -88.4078
+Fruithurst, 33.7308, -85.4339
+Fuller Crossroad, 33.3897, -85.6153
+Fullers Crossroads, 31.8178, -86.3111
+Fullerton, 34.2961, -85.4933
+Fulton, 31.7883, -87.7272
+Fulton Bridge, 34.0883, -88.0122
+Fulton Road, 30.6333, -88.0833
+Fulton Springs, 33.6183, -86.8017
+Fultondale, 33.6047, -86.7939
+Furman, 32.0067, -86.9669
+Fyffe, 34.4467, -85.9042

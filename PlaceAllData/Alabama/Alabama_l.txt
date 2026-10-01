@@ -1,0 +1,247 @@
+L V Stabler Memorial Hospital, 31.8333, -86.6308
+La Place, 32.3783, -85.8628
+Labuco, 33.6094, -87.0892
+Laceys Chapel, 33.3728, -86.9208
+Laceys Spring, 34.5342, -86.6042
+Lacon, 34.3347, -86.9033
+Ladiga, 33.9489, -85.5811
+Ladonia, 32.4681, -85.0792
+Lafayette, 32.8997, -85.4011
+Lake Bend Landing, 32.6333, -87.8125
+Lake Coves, 34.8458, -87.5692
+Lake Drive Estates, 33.4489, -86.8075
+Lake Forest, 30.6000, -87.9000
+Lake Highlands, 33.5728, -86.7308
+Lake Howard, 34.5069, -85.6117
+Lake Shore Estates, 33.4589, -86.8061
+Lakeshore Hospital, 33.4683, -86.7861
+Lakeside Acres, 34.8722, -87.5594
+Lakeside Highlands, 34.8114, -87.6186
+Lakeview(Colbert), 34.7894, -87.6167
+Lakeview(De Kalb), 34.3908, -85.9783
+Lakeview(Lawrence), 34.7025, -87.1539
+Lakeview(Marshall), 34.3303, -86.3222
+Lakeview Community Hospital, 31.8883, -85.1561
+Lakeview Estates, 33.4525, -86.8031
+Lakeview Highlands, 34.7872, -87.6033
+Lakeview Hospital, 31.0014, -86.3228
+Lakeview Park, 33.4517, -86.8161
+Lakewood(Jefferson), 33.5578, -86.7133
+Lakewood(Limestone), 34.8178, -86.9828
+Lakewood(De Kalb), 34.5150, -85.6697
+Lakewood(Madison), 34.7794, -86.5878
+Lakewood Estate, 33.3814, -86.9764
+Lakewood Hills, 33.4442, -86.8108
+Lamar, 33.3967, -85.3953
+Lamar County General Hospital, 33.7497, -88.1186
+Lamar County Medical Center, 33.7497, -88.1186
+Lamison, 32.1211, -87.5667
+Land, 32.0286, -88.3283
+Landersville, 34.4689, -87.4008
+Lands Crossroads, 34.4797, -85.8567
+Lane Springs, 34.8342, -87.9808
+Lanett, 32.8686, -85.1906
+Laneville, 32.5225, -87.5964
+Laney, 33.8564, -85.9056
+Langdale, 32.8203, -85.1722
+Langston, 34.5389, -86.0744
+Langston Ford, 33.3294, -86.8422
+Langtown, 34.6667, -87.3167
+Lanier Memorial Hospital, 32.8244, -85.1686
+Laniers, 33.3814, -86.3275
+Lapine, 31.9656, -86.2844
+Lardent, 33.6667, -85.8333
+Larkin, 34.9094, -86.2153
+Larkinsville, 34.6908, -86.1247
+Larkwood, 33.6536, -86.6964
+Lasca, 32.0164, -87.9583
+Latham, 31.0847, -87.8342
+Lathamville, 34.2733, -86.0333
+Lathrop, 33.3708, -87.9922
+Lato, 32.3242, -85.1022
+Lattiwood, 34.2728, -86.2842
+Lauderdale Beach, 34.8633, -87.5689
+Laurel Shanty Landing, 31.2297, -87.9892
+Laurendine, 30.4978, -88.1700
+Lavaca, 32.1403, -88.0800
+Lawley(Bibb), 32.8594, -86.9514
+Lawley(Shelby), 33.5011, -86.4475
+Lawngate, 34.7258, -87.0931
+Lawrence, 34.2322, -85.5311
+Lawrence County Hospital, 34.4833, -87.2853
+Lawrence Cove, 34.3333, -86.7667
+Lawrence Mill, 33.6833, -87.8333
+Lawrenceville, 31.6575, -85.2692
+Lawson, 34.7250, -87.0728
+Lawson Ford, 34.4044, -85.9144
+Lawsontown, 33.3339, -87.0986
+Lay Springs, 34.1683, -85.8567
+Le Grand, 32.1622, -86.2686
+Leatherwood, 33.7172, -85.8767
+Lebanon(Cleburne), 33.6811, -85.3747
+Lebanon(De Kalb), 34.3658, -85.8158
+Lecta, 33.5883, -85.4328
+Ledbetters, 33.2908, -86.1881
+Lee County Hospital, 32.6389, -85.4047
+Lee Crossroads, 33.1997, -85.2736
+Leeds, 33.5481, -86.5444
+Leeds Mineral Well, 33.5500, -86.5333
+Leesburg, 34.1797, -85.7614
+Leesdale, 34.3897, -86.9117
+Leggett Landing, 31.7275, -87.4828
+Leggtown, 34.9558, -87.0656
+Lehigh, 33.8667, -86.6833
+Leighton, 34.7008, -87.5289
+Lenlock, 33.6667, -85.8333
+Lennon Hill, 34.7394, -87.4161
+Lenoir Landing, 31.8569, -88.1586
+Lenox, 31.3364, -87.1856
+Lentzville, 34.8442, -87.1408
+Leon, 31.5575, -86.3928
+Leonard, 34.2075, -85.8303
+Leroy, 31.5044, -87.9847
+Leslie, 32.6667, -86.9167
+Lester, 34.9906, -87.1533
+Letcher, 34.7519, -86.1622
+Letchers, 33.6619, -85.8561
+Letohatchee, 32.1294, -86.4858
+Letson Settlement, 34.5767, -87.2917
+Level Plains Crossroads, 31.2994, -85.7781
+Levelroad, 33.1167, -85.5667
+Levert, 32.7592, -87.2414
+Lewis, 31.4097, -85.4675
+Lewisburg, 33.5825, -86.8056
+Lewiston, 33.0408, -88.0203
+Lexington, 34.9692, -87.3711
+Leydens Mill, 33.8019, -85.8381
+Liberty(Bulter), 31.8256, -86.7014
+Liberty(De Kalb), 34.2086, -86.0456
+Liberty(Blount), 34.1078, -86.5158
+Liberty City, 32.5811, -85.7492
+Liberty Crossroads, 32.8017, -85.4133
+Liberty Highlands, 33.5639, -86.6547
+Liberty Hill(Cleburne), 33.8486, -85.5728
+Liberty Hill(Franklin), 34.3475, -87.7650
+Liberty Hill(Jackson), 34.8278, -85.7144
+Libertyville, 31.2414, -86.4614
+Lightwood, 32.7117, -86.3892
+Ligon Springs, 34.5903, -87.7161
+Lilita, 32.4836, -88.1283
+Lillian, 30.4128, -87.4369
+Lily Flagg, 34.6514, -86.5667
+Lim Rock, 34.6722, -86.1883
+Lime, 33.1586, -85.2600
+Lime Kiln, 34.7650, -88.0392
+Lime Rock, 34.6053, -87.7461
+Lime Sink, 31.7828, -85.3981
+Limestone, 31.5167, -87.3333
+Lincoln(Madison), 34.7456, -86.5875
+Lincoln(Talladega), 33.6131, -86.1183
+Lincoln Park, 33.2000, -87.5333
+Lincoya Estates, 33.4500, -86.7833
+Lindbergh, 33.6000, -86.9667
+Linden, 32.3061, -87.7981
+Lindsey, 31.7581, -85.4694
+Lindseys Crossing, 33.2303, -86.9272
+Lineville, 33.3106, -85.7544
+Linn Crossing, 33.6772, -86.9664
+Linton, 33.8333, -86.8014
+Linwood, 31.9267, -85.8642
+Lipscomb, 33.4256, -86.9267
+Lisman, 32.1686, -88.2825
+Listerhill, 34.7575, -87.5822
+Little Nashville, 34.7528, -86.2311
+Little New York, 34.3878, -86.1858
+Little Oak, 31.7308, -86.0539
+Little River(Baldwin), 31.3000, -87.7333
+Little River(Cherokee), 34.2814, -85.6733
+Little Rock, 31.1144, -87.3889
+Little Shawmut, 32.8467, -85.2100
+Little Shoal, 33.5008, -87.2486
+Little Texas, 32.4428, -85.5683
+Little Walker, 32.1503, -88.1778
+Little Warrior, 33.9075, -86.5983
+Littleton(Jefferson), 33.6886, -86.9981
+Littleton(Etowah), 34.0669, -86.1331
+Littleville(Colvert), 34.5906, -87.6769
+Littleville,(Winston) 34.2514, -87.5750
+Live Oak, 31.8083, -86.2475
+Live Oak Landing, 30.7125, -87.8792
+Liveoak Landing, 30.8369, -88.0175
+Liverpool, 32.3667, -85.7783
+Livingston, 32.5842, -88.1872
+Lizzieville, 32.7875, -88.0289
+Lloyd Nolan Hospital, 33.4867, -86.9075
+Lloyds, 30.6175, -88.1281
+Loachapoka, 32.6042, -85.5933
+Loango, 31.3294, -86.6489
+Lock Five, 32.5831, -87.7367
+Lock Six, 34.8483, -87.5364
+Lock Three, 34.8117, -87.4106
+Locke Crossroads, 34.9356, -86.9517
+Lockhart, 31.0103, -86.3497
+Locust Fork, 33.9075, -86.6153
+Loflin, 32.1969, -85.0350
+Logan(Cullman), 34.1381, -87.0064
+Logan(Lowdens), 31.9858, -86.4906
+Logton, 31.9528, -85.9144
+Lois Spring, 33.2306, -88.0939
+Lola City, 33.5728, -86.6011
+Lomax, 32.8789, -86.6608
+London(Montgomery), 32.2731, -86.0503
+London(St Clair), 33.5500, -86.2667
+London(Conecuh), 31.2975, -87.0878
+Long Island, 34.9736, -85.6711
+Longleaf Estates, 34.5444, -86.9964
+Longview(Cullman), 34.2506, -86.8861
+Longview(Shelby), 33.2003, -86.7817
+Longview General Hospital, 33.6144, -86.9700
+Longwood, 34.7189, -86.5814
+Lookout Mountain, 34.1167, -85.7833
+Loop(Mobile), 30.6667, -88.1000
+Loop(Cherokee), 34.2167, -85.6000
+Loper, 31.5814, -88.3000
+Loree, 31.4872, -87.0900
+Loretto, 34.0686, -86.9161
+Lorton, 33.7553, -87.0622
+Lottie, 31.1289, -87.6222
+Lou, 31.9189, -88.2111
+Louina, 33.1244, -85.5522
+Louisville, 31.7833, -85.5558
+Love Hill, 31.1158, -85.2739
+Lovelace Crossroads, 34.8608, -87.7567
+Loveless, 34.3178, -85.7622
+Loveless Park, 33.3244, -86.9822
+Lovick, 33.5589, -86.6139
+Low Gap, 33.6667, -86.4167
+Lower Hall Landing, 30.8192, -87.9153
+Lower Peach Tree, 31.8406, -87.5453
+Lowery, 31.1672, -86.1428
+Lowerytown, 33.1119, -87.1517
+Lowetown, 33.3086, -87.0753
+Lowndesboro, 32.2750, -86.6114
+Lowrimores Crossroads, 33.7678, -85.9364
+Lowry Mill, 31.5386, -85.9822
+Loxley, 30.6181, -87.7531
+Loyola Villa, 30.5006, -87.9244
+Lucille, 33.0883, -87.1475
+Lucy, 31.0200, -85.0411
+Lugo, 31.9656, -85.2150
+Luke, 34.0503, -85.8994
+Lukes Landing, 32.6711, -88.0592
+Lum, 32.0658, -86.6508
+Lumbull, 34.2531, -87.7314
+Luttrell, 34.4403, -85.9347
+Luverne, 31.7164, -86.2639
+Lydia, 34.4331, -85.8508
+Lyeffion, 31.5425, -86.9861
+Lyle, 32.8886, -86.3353
+Lynn, 34.0469, -87.5497
+Lynn Acres, 33.6197, -86.7067
+Lynn Crossing, 33.6000, -86.9667
+Lynn Haven, 33.2000, -87.5333
+Lynndale, 32.3236, -86.2658
+Lynns Park, 33.8061, -87.1439
+Lynntown, 34.4306, -86.7053
+Lyster Army Hospital, 31.3269, -85.7242
+Lytle, 31.0756, -85.9525

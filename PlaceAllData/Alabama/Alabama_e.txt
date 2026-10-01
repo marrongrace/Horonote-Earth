@@ -1,0 +1,151 @@
+Eady City, 32.8281, -85.1750
+Eagle, 34.1467, -87.1822
+Earlytown, 31.1283, -86.1294
+Easley, 33.9592, -86.5425
+East Alabama Hospital, 32.6497, -85.3833
+East Alabama Medical Center, 32.6389, -85.4047
+East Birmingham, 33.5442, -86.7819
+East Brewton, 31.0931, -87.0628
+East Brighton, 33.4369, -86.9517
+East Brookwood, 33.2775, -87.2903
+East Chapman, 31.6656, -86.6967
+East End Memorial Hospital, 33.5642, -86.7233
+East Escambia, 31.1000, -86.9167
+East Florence, 34.8094, -87.6494
+East Gadsden, 34.0025, -85.9686
+East Hampton, 34.7928, -86.9319
+East Haven, 33.6231, -86.6839
+East Irondale, 33.5306, -86.6889
+East Jasper, 33.8333, -87.2333
+East Killen, 34.8614, -87.5256
+East Lake, 33.5667, -86.7250
+East Mill, 33.1303, -86.0528
+East Point, 34.1831, -86.7936
+East Port Landing, 32.7486, -87.8053
+East Royles, 33.5667, -86.7844
+East Saginaw, 33.2853, -86.6575
+East Side, 33.2000, -87.5333
+East Tallapoosa Medical Center, 32.8186, -85.7411
+East Tallassee, 32.5333, -85.8833
+East Thomas, 33.5194, -86.8381
+East Thomas Gardens, 33.5297, -86.8653
+Eastaboga, 33.6058, -86.0214
+Eastbrook, 32.3833, -86.2500
+Eastern Valley, 33.3594, -86.9686
+Easton, 32.9092, -85.6967
+Eastwood(Blount), 33.9408, -86.4572
+Eastwood(Jefferson), 33.5481, -86.7614
+Ebenezer, 34.2333, -86.8667
+Echo, 31.4756, -85.4658
+Echola, 33.3447, -87.7894
+Echols Crossroads, 34.5267, -86.7892
+Echols Hill, 34.7314, -86.5753
+Eclectic, 32.6353, -86.0344
+Eddy, 34.3553, -86.5094
+Eden, 33.5919, -86.3103
+Edge Memorial Hospital, 31.7814, -85.9453
+Edgefield(Barbour), 31.7167, -85.3722
+Edgefield(Jackson), 34.9039, -85.8083
+Edgemont, 33.4656, -86.8225
+Edgemont Park, 33.4531, -86.8325
+Edgemoor Estates, 33.4569, -86.8322
+Edgewater, 33.5267, -86.9578
+Edgewater Junction, 33.5308, -86.9589
+Edgewood, 33.4675, -86.8108
+Edmonton Heights, 34.7775, -86.5664
+Edna, 32.2867, -88.0742
+Edsons, 32.3181, -86.7753
+Edwardsville, 33.7072, -85.5092
+Edwin, 31.6653, -85.3753
+Egypt(Etowah), 34.0736, -86.1558
+Egypt(Marshall), 34.3442, -86.5339
+Egypt Ford, 34.7372, -87.3400
+Eight Mile, 30.7633, -88.1269
+Eiler, 31.9625, -88.4236
+El Reposo Sanatorium, 34.9639, -87.5750
+Elamville, 31.6675, -85.6564
+Elba, 31.4144, -86.0678
+Elba General Hospital, 31.4278, -86.0778
+Elberta, 30.4142, -87.5978
+Eldridge, 33.9228, -87.6172
+Eleanor, 32.3400, -87.3192
+Elgin, 34.8486, -87.3911
+Eliska, 31.3525, -87.6831
+Eliza Coffee Memorial Hospital, 34.7950, -87.6831
+Elkmont, 34.9289, -86.9739
+Elko, 34.7092, -86.6711
+Elkwood, 34.9775, -86.7236
+Ellards, 32.8147, -87.2608
+Elliotsville, 33.2000, -86.7833
+Elliott Crossroads, 34.6128, -85.7686
+Ellis, 32.1361, -87.2353
+Ellis Crossroads, 31.9781, -86.4514
+Ellison Crossroads, 34.0453, -86.3353
+Ellisville(Cherokee), 34.0647, -85.6100
+Ellisville(Washington), 31.5453, -88.2133
+Ellisville(Baldwin), 30.6167, -87.7500
+Elm Bluff, 32.1528, -87.0719
+Elmore, 32.5386, -86.3150
+Elmore County Hospital, 32.5522, -86.1867
+Elon, 34.5428, -86.4689
+Elrath, 34.1381, -85.7431
+Elrod, 33.2561, -87.7922
+Elsanor, 30.5450, -87.5836
+Elsmeade, 32.3333, -86.2667
+Elting, 34.8167, -87.6667
+Elvira, 33.3233, -86.8658
+Elyton, 33.5014, -86.8408
+Emauhee, 33.2203, -86.1928
+Emco-Listerhill Junction, 34.7136, -87.5933
+Emelle, 32.7292, -88.3144
+Emerald Shores, 34.8581, -87.5692
+Emory, 31.8106, -88.4575
+Empire, 33.8083, -87.0106
+Englewood, 33.1117, -87.5597
+English Village(Jefferson), 33.4942, -86.7822
+English Village(Madison), 34.6264, -86.5697
+Enoe, 33.6778, -87.3886
+Enon(Bullock), 32.1553, -85.4967
+Enon(Cullman), 34.3031, -86.7844
+Enon(Houston), 31.2156, -85.2769
+Enon(Pike), 31.8256, -85.7064
+Ensley, 33.5094, -86.8861
+Ensley Junction, 33.4933, -86.9181
+Enterprise(Chilton), 32.7347, -86.6181
+Enterprise(Coffee), 31.3150, -85.8553
+Enterprise Hospital, 31.3025, -85.8375
+Eoda, 31.3744, -86.3192
+Eoline, 32.9950, -87.2322
+Epes, 32.6903, -88.1261
+Equality, 32.7619, -86.1019
+Erin, 33.3625, -85.9086
+Erratta, 33.3003, -86.3722
+Escatawpa, 31.2894, -88.3872
+Estelle, 31.9692, -87.2025
+Estes Crossroads, 33.9958, -85.7100
+Estillfork, 34.9100, -86.1706
+Estothel, 31.2444, -86.1983
+Ethel, 31.8167, -85.8500
+Ethelsville, 33.4156, -88.2167
+Euclid Estates, 33.5106, -86.7453
+Eufaula, 31.8911, -85.1456
+Eulaton, 33.6456, -85.9125
+Eunola, 31.0397, -85.8475
+Eureka, 34.9000, -85.8836
+Eureka Landing, 31.4022, -87.6975
+Eutaw, 32.8406, -87.8875
+Eva, 34.3322, -86.7589
+Evansboro, 31.8836, -88.4681
+Evansville, 32.8381, -87.7525
+Everglade, 32.9978, -85.6553
+Evergreen(Autauga), 32.5522, -86.7578
+Evergreen(Conecuh), 31.4333, -86.9569
+Evergreen Hospital, 31.4217, -86.9472
+Ewell, 31.4214, -85.5747
+Ewing(Cherokee), 34.2025, -85.7644
+Ewing(Etowah), 33.9906, -85.9058
+Ewing Farms, 31.0825, -87.5875
+Excel, 31.4278, -87.3414
+Exmoor, 32.0564, -87.8742
+Exum, 33.5028, -86.9333
+Ezra, 33.4458, -87.1431

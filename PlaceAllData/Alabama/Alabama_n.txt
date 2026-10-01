@@ -1,0 +1,142 @@
+Nadawah, 31.8142, -87.1722
+Naftel, 32.0094, -86.2892
+Naheola, 32.2275, -88.0289
+Nanafalia, 32.1128, -87.9881
+Nances Creek, 33.8578, -85.6569
+Napier, 31.2500, -85.4333
+Napier Field, 31.3153, -85.4542
+Napoleon, 33.3239, -85.3592
+Nat, 34.6333, -86.2667
+Natchez, 31.7275, -87.2606
+Nathan, 34.0833, -87.2167
+Natis, 34.0419, -87.4292
+Natural Bridge, 34.0933, -87.6019
+Nauvoo, 33.9894, -87.4889
+Navco, 30.6294, -88.1053
+Nave, 32.4858, -87.2669
+Ne Smith, 34.5961, -87.4283
+Nebo, 34.5550, -86.3375
+Nectar, 33.9597, -86.6394
+Needham, 31.9878, -88.3367
+Needmore(Clay), 33.4672, -85.7014
+Needmore(Pike), 31.9019, -85.9408
+Needmore(Winston), 34.2472, -87.5797
+Needmore(Lawrence), 34.4636, -87.4817
+Needmore(Marshall), 34.1917, -86.2442
+Neel, 34.4656, -87.0611
+Neely, 30.7319, -88.1003
+Neenah, 31.9144, -87.1781
+Neighbors Mill, 34.3886, -86.4247
+Nellie, 31.9014, -87.3828
+Nelson(Shelby), 33.2153, -86.5811
+Nelson(Chambers), 32.8117, -85.2447
+Nelson Heights, 33.6022, -86.7114
+Nelson Landing, 31.0856, -87.8636
+Neman, 32.5797, -85.9842
+Nenemoosha, 30.8097, -88.0047
+Neshota, 30.6392, -88.0892
+Nesmith, 34.1756, -87.1092
+Nettleboro, 31.7989, -87.6222
+New Bingham, 32.4692, -86.1619
+New Brashier Chapel, 34.2667, -86.2000
+New Brockton, 31.3856, -85.9294
+New Canaan, 34.2822, -86.4944
+New Castle, 33.6489, -86.7686
+New Center, 34.4500, -86.9500
+New Convert, 32.8197, -86.8372
+New Dora, 33.7333, -87.1167
+New Georgia, 34.2372, -87.1622
+New Harmony(Chambers), 32.7800, -85.5300
+New Harmony(Cullman), 34.2425, -86.5333
+New Haven, 34.6333, -86.7614
+New Hill, 33.4183, -86.9219
+New Home, 34.6022, -85.6992
+New Hope(Randolph), 33.3264, -85.4225
+New Hope(Coffee), 31.5528, -85.8678
+New Hope(Crenshaw), 31.5403, -86.3419
+New Hope(Cullman), 34.2050, -86.6411
+New Hope(Jackson), 34.5847, -86.1069
+New Hope(Limestone), 34.5897, -86.8169
+New Hope(Madison), 34.5369, -86.3944
+New Hope(Marion), 33.9806, -87.8183
+New Hope(Shelby), 33.3592, -86.7372
+New Hopewell, 33.6333, -85.5833
+New Lexington, 33.5622, -87.6575
+New London, 33.4817, -86.3594
+New Market, 34.9100, -86.4278
+New Moon, 34.3931, -85.5203
+New Mount Hebron, 32.8569, -88.1011
+New Prospect(), 32.7167, -86.4833
+New Prospect(), 32.8397, -87.7364
+New Sharon, 34.9472, -86.6417
+New Site, 33.0372, -85.7742
+New Town, 34.8733, -85.8175
+New West Greene, 32.9239, -88.1350
+Newala, 33.2214, -86.8086
+Newbern, 32.5931, -87.5328
+Newberry Crossroads, 34.1628, -85.5722
+Newburg, 34.4803, -87.5758
+Newby, 31.5556, -86.1317
+Newell, 33.4331, -85.4336
+Newsome, 34.5333, -85.8167
+Newton(Dale), 31.3350, -85.6053
+Newton(Houston), 31.1625, -85.3956
+Newton Springs, 31.2500, -85.4333
+Newtonville, 33.5453, -87.8014
+Newtown, 34.5000, -87.7333
+Newville, 31.4217, -85.3378
+Nichburg, 31.4794, -87.1367
+Nichols Landing, 31.7628, -88.1125
+Nicholsville, 32.0081, -87.9019
+Nitrate City, 34.7572, -87.5597
+Nix, 34.3514, -87.7842
+Nix Mill, 34.3472, -87.8069
+Nixburg, 32.8278, -86.1111
+Nixon Chapel, 34.2039, -86.3847
+Noah, 34.1322, -85.5586
+Nokomis, 31.0100, -87.5647
+Nolan Hills, 34.7097, -86.7242
+Noland Hospital, 33.4867, -86.9075
+Nolandale, 34.6833, -86.6833
+Norala Junction, 34.7194, -87.6594
+Normal, 34.7889, -86.5719
+Norman, 32.5567, -87.2981
+Norris Junction, 33.5497, -86.6733
+North Alabama Hospital, 34.5119, -87.7183
+North Alabama Junction, 33.2822, -87.2858
+North Arab, 34.3431, -86.5044
+North Athens, 34.8000, -86.9667
+North Auburn, 32.6547, -85.4511
+North Birmingham, 33.5536, -86.8189
+North Carrollton, 33.4000, -87.0333
+North Dadeville, 32.8575, -85.7728
+North Daye Hill, 34.8564, -86.7242
+North Elmore, 32.5564, -86.3192
+North Florence, 34.8183, -87.6806
+North Highlands, 33.4231, -86.9892
+North Jackson County Hospital, 34.9142, -85.7719
+North Jackson Hospital, 34.9142, -85.7719
+North Johns, 33.3672, -87.1036
+North Lake Park, 33.5961, -86.7469
+North Mobile, 30.7614, -88.0914
+North River, 33.8333, -87.7000
+North Selma, 32.3833, -87.0000
+North Smithfield Estates, 33.5667, -86.8667
+North Vinemont, 34.2792, -86.8556
+North Walter, 34.1314, -86.6819
+North West Alabama Crippled Childrens Clinic, 34.7433, -87.6478
+Northeast Alabama Regional Medical Center, 33.6394, -85.8231
+Northport, 33.2289, -87.5772
+Northside(Etowah), 34.0344, -85.9769
+Northside(Houston), 31.2500, -85.4333
+Northside Acres, 34.8117, -86.6547
+Northwood Hills, 34.8550, -87.6958
+Norton(Etowah), 34.0431, -86.1117
+Norton(Madison), 34.5533, -86.5392
+Norwood, 33.5339, -86.7992
+Notasulga, 32.5606, -85.6725
+Nottingham, 33.3622, -86.2228
+Nuckols, 32.3381, -85.0547
+Nunnally Ford, 33.3125, -86.8672
+Nymph, 31.4333, -86.9333
+Nyota, 33.8500, -86.7453

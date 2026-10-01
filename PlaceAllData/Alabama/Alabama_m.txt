@@ -1,0 +1,406 @@
+Mabson, 31.4681, -85.5631
+Macedonia(Cleburne), 33.5772, -85.3708
+Macedonia(Walker), 33.8333, -87.2833
+Macedonia(Jackson), 34.5200, -86.0003
+Macedonia(Lowdence), 31.9925, -86.8039
+Macedonia(Montgomery), 32.2944, -86.2217
+Mackey, 34.1717, -85.7900
+Mackies, 30.8328, -88.0681
+MacMillan, 31.9728, -87.5225
+Macon, 33.7833, -86.0167
+Macon County Hospital, 32.4267, -85.6750
+Madison(Madison), 34.6992, -86.7483
+Madison(Montgomery), 32.4236, -86.2264
+Madison(Jefferson), 33.4442, -86.9392
+Madison Crossroads, 34.9033, -86.7142
+Madrid, 31.0356, -85.3933
+Magazine, 30.7342, -88.0525
+Magnolia, 32.1356, -87.6681
+Magnolia Beach, 30.5156, -87.9175
+Magnolia Courts, 33.6036, -86.7025
+Magnolia Shores, 31.9325, -86.2942
+Magnolia Springs, 30.3994, -87.7761
+Magnolia Terminal, 32.0667, -87.5833
+Mahan Crossroads, 34.5733, -85.7753
+Mahlep, 33.7447, -85.8811
+Majestic, 33.7494, -86.7606
+Malbis, 30.6556, -87.8519
+Malcolm, 31.1911, -88.0075
+Malone(Colbert), 34.7222, -88.1033
+Malone(Randolph), 33.1986, -85.5842
+Malta, 31.0247, -87.4547
+Malvern, 31.1392, -85.5192
+Mamie, 32.1864, -86.0406
+Manack, 32.3283, -86.5111
+Manchester(Marshall), 34.4111, -86.3483
+Manchester(Walker), 33.9064, -87.3014
+Manila(Dallas), 32.4483, -86.9211
+Manila(Clarke), 31.5083, -87.7231
+Manistee, 31.4408, -87.4944
+Manley Crossroads, 34.6833, -86.6833
+Mann, 30.5931, -88.1439
+Manningham, 31.8858, -86.7464
+Mansion View, 34.8622, -87.7286
+Mantua, 33.0536, -87.9289
+Maple Ford, 34.5633, -86.3108
+Maple Forks, 34.2125, -87.0244
+Maple Grove, 34.1203, -85.7694
+Maple Hill, 34.9833, -86.8500
+Maplesville, 32.7883, -86.8717
+Maplewood(Madison), 34.6981, -86.7583
+Maplewood(Jefferson), 33.5389, -86.5528
+Marble City Heights, 33.1667, -86.3167
+Marble Valley, 33.0439, -86.4519
+Marbury, 32.7011, -86.4711
+Marcoot, 32.9578, -85.4892
+Marengo, 32.0569, -87.8142
+Marengo County Hospital, 32.3128, -87.7986
+Margaret, 33.6861, -86.4750
+Margerum, 34.7669, -88.0683
+Marietta, 33.7006, -87.3939
+Marigold, 33.9381, -87.3150
+Marine Hospital, 30.6911, -88.0547
+Marion, 32.6322, -87.3192
+Marion County General Hospital, 34.1258, -87.9911
+Marion Junction, 32.4372, -87.2389
+Markeeta, 33.5800, -86.5392
+Marks Village, 33.5439, -86.7247
+Markton, 33.8800, -86.0100
+Marl, 31.0903, -85.9800
+Marley Mill, 31.4928, -85.6958
+Marlow, 30.4608, -87.7992
+Mars Hill(Chilton), 32.9533, -86.8300
+Mars Hill(Lauderdale), 34.8517, -87.6608
+Marshall(Marshall), 34.2428, -86.1447
+Marshall(Dallas), 32.4342, -87.3250
+Marshall County Nursing Home, 34.2867, -86.2750
+Marshall Space Flight Center, 34.7333, -86.6000
+Marshall Upper Landing, 31.6625, -87.5669
+Martin, 32.3128, -87.3061
+Martins, 33.4875, -86.8922
+Martins Mill, 33.6347, -86.0683
+Martintown(Winston), 34.2908, -87.5856
+Martintown(Jackson), 34.7436, -85.9206
+Martinville, 31.0922, -87.4806
+Martling, 34.3672, -86.1675
+Marvel, 33.1467, -87.0031
+Marvyn, 32.4389, -85.3642
+Mary, 32.7556, -85.6886
+Marylee, 33.9792, -87.1917
+Maryville, 34.0961, -86.0906
+Masena, 33.1617, -87.0436
+Mashville, 31.8031, -86.5411
+Mason City, 33.4681, -86.8497
+Massey, 34.3703, -87.0222
+Masseyline, 33.7917, -86.6861
+Massillon, 32.4378, -87.2958
+Masterson Mill, 34.5386, -87.2833
+Mattawana, 33.9228, -86.4903
+Matthews, 32.2653, -86.0039
+Maud, 32.8797, -86.9817
+Maud, 34.6431, -88.1097
+Mauvilla, 30.8367, -88.1844
+Maxine, 33.5778, -87.1489
+Maxwell, 33.0792, -87.5556
+Maxwell Air Force Base, 32.3667, -86.3000
+Maxwellborn, 33.8808, -85.7169
+Mayes Crossroad, 34.0183, -85.8350
+Mayfair(Jefferson), 33.4717, -86.7933
+Mayfair(Madison), 34.7119, -86.5864
+Maylene, 33.2033, -86.8617
+Maynard Cove, 34.7867, -86.0772
+Mays Crossroads, 31.6036, -87.9875
+Maysville, 34.7697, -86.4303
+Maytown, 33.5358, -86.9972
+McAding, 33.5611, -85.8311
+McAdory, 33.3869, -87.0153
+McBrydes, 31.9922, -87.0214
+McCainville, 32.6528, -88.2147
+McCaleb Mill, 34.8214, -86.4844
+McCalla, 33.3486, -87.0142
+McCartys Landing, 31.9511, -88.1217
+McClure, 32.8464, -87.8422
+McClure Town, 31.8444, -85.9611
+McCollum, 33.8178, -87.3253
+McCombs, 33.5633, -86.6172
+McCord Crossroads, 34.1164, -85.4597
+McCosh Mill, 33.1078, -85.2358
+McCrary, 33.4644, -88.2822
+McCrory Village, 33.2333, -87.6000
+McCulley, 33.1392, -87.0892
+McCulley Hill, 33.1167, -87.1167
+McCulloh, 32.7064, -85.1497
+McCullough, 31.1667, -87.5264
+McCullum, 33.8333, -87.2833
+McDade, 32.3156, -86.0464
+McDonald Chapel, 33.5217, -86.9336
+McDonald Lower Landing, 31.2297, -87.8356
+McDowell, 32.5233, -87.9219
+McElderry, 33.4864, -85.9636
+McEntyre, 31.8083, -87.9656
+McFarland, 33.2000, -87.5333
+McFrey Crossroads, 33.9761, -85.5750
+McGee Town, 34.8514, -87.7481
+McGehees, 32.2697, -86.3747
+McGhee, 34.1678, -85.7325
+McGhees Bend, 34.1500, -85.6833
+McGinty, 32.7772, -85.1522
+McGuire Ford, 33.0628, -86.9956
+McIntosh, 31.2661, -88.0314
+McKenzie, 31.5422, -86.7150
+McKestes, 34.3975, -85.8947
+McKinley, 32.2983, -87.5403
+McLarty, 34.1767, -86.4019
+McLendon, 32.1547, -85.0944
+McMillan Memorial Hospital, 31.1269, -87.0733
+McMullen, 33.1333, -88.1667
+McPherson Landing, 33.0761, -87.5886
+McRae, 31.0586, -86.2614
+McRitchie Mill, 32.6192, -85.6325
+McShan, 33.3808, -88.1417
+McVay, 31.6067, -87.8956
+McVille, 34.2861, -86.1278
+McWilliams, 31.8308, -87.0939
+Meadow Hills, 34.7931, -86.5808
+Meadowood, 34.3636, -86.5103
+Meadows Crossroads, 32.5203, -85.2544
+Meadows Mill, 32.5292, -85.2547
+Meadville, 32.0678, -86.1439
+Meadwood Heights, 33.5756, -86.7519
+Mechanicsville, 32.6667, -85.1469
+Media, 33.6694, -87.0458
+Medical Center East, 33.5900, -86.6708
+Medical Center Hospital, 34.7203, -86.5747
+Medical College of Alabama, 33.5056, -86.8025
+Meeksville, 31.9178, -86.0056
+Megargel, 31.3797, -87.4283
+Mehaffey, 31.6175, -88.3986
+Mehama, 34.5000, -87.7333
+Mellow Valley, 33.1858, -85.7481
+Melrose(Calhoun), 33.7589, -85.8900
+Melrose(Conech), 31.3489, -86.7369
+Melrose(Pickens), 33.3928, -88.1178
+Melton, 32.7400, -87.6833
+Meltonsville, 34.4350, -86.1900
+Melville, 34.0833, -87.2167
+Melvin, 31.9303, -88.4589
+Memorial Hospital, 33.1497, -86.2514
+Memphis, 33.1364, -88.2975
+Mentone, 34.5794, -85.5906
+Mercury, 34.7858, -86.5361
+Meridianville, 34.8514, -86.5722
+Merrellton, 33.8633, -85.7419
+Merrill Mill, 31.5931, -86.4025
+Merritts Crossroads, 31.0869, -85.4850
+Merriwether, 32.6258, -87.8525
+Merry, 32.3467, -86.0944
+Mertz(Mobile), 30.6625, -88.0883
+Mertz(Bibb), 32.9053, -87.3753
+Mexboro, 31.4936, -87.3744
+Mexia, 31.5069, -87.3883
+Mexia Crossing, 31.4883, -87.3714
+Micaville, 33.4967, -85.5411
+Middle Brooks Crossroads, 32.6939, -85.6025
+Middleton, 33.7697, -85.9847
+Midfield, 33.4614, -86.9089
+Midland City, 31.3189, -85.4939
+Midway(Bullock), 32.0769, -85.5222
+Midway(Clarke), 31.8856, -87.7889
+Midway(Clay), 33.1303, -86.0964
+Midway(Colbert), 34.7397, -87.4417
+Midway(Monroe), 31.7189, -87.0492
+Midway(Wilcox), 32.0842, -87.4050
+Midway(Butler), 31.8133, -86.4636
+Midway(Chilton), 32.7253, -86.4839
+Midway Plaza, 32.6333, -85.3833
+Miflin, 30.3703, -87.6108
+Mignon, 33.1833, -86.3000
+Miles, 33.4667, -86.9333
+Military Bridge Landing, 30.7000, -87.9025
+Milk Springs, 34.6758, -87.7131
+Mill Village, 34.3381, -86.3144
+Millbrook, 32.4797, -86.3619
+Miller(Henry), 31.4406, -85.1539
+Miller(Marengo), 32.1564, -87.7856
+Miller(Greene), 32.7125, -88.0786
+Millers Ferry, 32.1000, -87.3667
+Millers Ford, 31.7889, -85.4369
+Millerville, 33.1914, -85.9258
+Million Dollar Lake Estates, 33.2733, -87.1461
+Millport, 33.5633, -88.0814
+Millry, 31.6339, -88.3133
+Milltown, 33.0544, -85.4847
+Millville, 32.5269, -88.3358
+Milner, 33.4022, -85.5439
+Milstead, 32.4425, -85.8975
+Milton, 32.5586, -86.8072
+Mincoka, 33.0486, -86.7594
+Mineola, 31.2794, -87.6339
+Mineral Springs(Chilton), 32.9517, -86.6453
+Mineral Springs(Jefferson), 33.6261, -86.8786
+Minooka, 33.1000, -86.7500
+Minor, 33.5372, -86.9406
+Minor Terrace, 33.2711, -86.3481
+Mint Spring, 34.9517, -86.4681
+Minter, 32.0778, -86.9936
+Minvale, 34.4592, -85.7117
+Mitchell, 32.2461, -85.9378
+Mitchell Crossroads, 32.5386, -85.4133
+Mitchelltown, 34.8817, -87.4289
+Mitylene, 32.3828, -86.1742
+Mixonville, 31.7047, -86.9486
+Mizell Memorial Hospital, 31.2917, -86.2542
+Mobile, 30.6942, -88.0431
+Mobile Infirmary, 30.6967, -88.0808
+Mobile Junction, 33.3681, -86.9767
+Mobile Mental Health Center, 30.7056, -88.0981
+Moffat(Bibb), 33.0531, -87.1831
+Moffet(Mobile), 30.8542, -88.3975
+Moffits Mill, 32.5100, -85.1853
+Molder, 34.7000, -86.3667
+Mollie, 32.2414, -88.2717
+Molloy, 33.9000, -88.1333
+Mon Louis, 30.4403, -88.1058
+Monmouth, 33.7356, -86.7478
+Monroe County Hospital, 31.4978, -87.3211
+Monroeton, 31.5381, -87.2781
+Monroeville, 31.5278, -87.3247
+Monrovia, 34.7864, -86.7139
+Montague, 34.9694, -85.8006
+Monte Vista, 34.0364, -86.0044
+Monte-Sano, 33.4803, -86.9028
+Monterey, 31.9033, -86.8819
+Monterey Heights, 32.5119, -85.0908
+Montevallo, 33.1006, -86.8642
+Montgomery, 32.3667, -86.3000
+Montgomery County Health Center, 32.3656, -86.3158
+Montgomery Hill Landing, 31.1814, -87.8542
+Montgomery Infirmary, 32.3664, -86.3067
+Monticello, 31.8253, -85.7786
+Montrose, 30.5656, -87.9017
+Moody, 33.5908, -86.4908
+Moody Ford, 34.8931, -87.2564
+Moody Hospital, 31.2269, -85.3972
+Moodys Crossroads, 31.7347, -86.3947
+Moontown, 34.7333, -86.4569
+Moore Corner, 33.5194, -86.6569
+Moore Town, 32.5508, -88.1069
+Moorefield, 32.8250, -85.4442
+Moores Bridge, 33.4486, -87.7936
+Moores Crossroads(Randolph), 33.1536, -85.3128
+Moores Crossroads(De Kalb), 34.4164, -85.9525
+Moores Mill, 34.8439, -86.5183
+Moores Valley, 32.0608, -87.6300
+Mooresville, 34.6283, -86.8803
+Moragne, 34.0294, -86.1111
+Moreland, 34.2411, -87.3006
+Morgan, 33.3336, -86.9167
+Morgan City, 34.4719, -86.5697
+Morgan Springs, 32.7453, -87.4158
+Morgans Crossroads, 33.9572, -86.0394
+Moriah, 32.9336, -86.3458
+Morningside, 33.6294, -86.6658
+Morris, 33.7481, -86.8086
+Morris Chapel, 34.5333, -87.1833
+Morris Crossroads, 34.9289, -86.9889
+Morris Mill, 34.6478, -85.8578
+Morrison Crossroad, 33.4264, -85.4933
+Morrisville, 33.7267, -85.9572
+Morrows Grove, 33.0533, -87.9947
+Morvin, 31.9856, -87.9933
+Moscow(Lamar), 33.8697, -88.1028
+Moscow(Marengo), 32.4378, -87.9961
+Moshat, 34.1186, -85.6222
+Mossboro, 33.2508, -86.8983
+Mossy Grove, 31.7544, -85.9600
+Mostellers, 33.1064, -86.5086
+Motley, 33.1169, -85.6589
+Motts, 32.5722, -85.1386
+Moulton, 34.4811, -87.2933
+Moulton Heights, 34.5972, -87.0144
+Moundville, 32.9975, -87.6300
+Mount Andrew(Barbour), 31.9711, -85.5247
+Mount Andrew(Macon), 32.3444, -85.7361
+Mount Carmel(Jackson), 34.9364, -85.7758
+Mount Carmel(Madison), 34.7992, -86.4975
+Mount Carmel(Marshall), 34.3892, -86.3692
+Mount Carmel(Montgomery), 32.0608, -86.3653
+Mount Hebron(Greene), 32.8739, -88.0797
+Mount Hebron(Marshall), 34.1422, -86.2894
+Mount Herman Valley, 32.7833, -87.5167
+Mount Hester, 34.7283, -88.0119
+Mount Hope(Walker), 33.7692, -87.2411
+Mount Hope(Lawrence), 34.4583, -87.4817
+Mount Ida, 31.5833, -86.2500
+Mount Jefferson, 32.7094, -85.3725
+Mount Lebanon, 34.8644, -86.6072
+Mount Meigs, 32.3625, -86.1019
+Mount Meigs Medical and Diagnostic Center, 32.3808, -86.1022
+Mount Moriah, 34.5442, -87.3244
+Mount Nebo, 32.2897, -87.0525
+Mount Olive(Butler), 31.5783, -86.8481
+Mount Olive(Coosa), 33.0694, -86.1350
+Mount Olive(De Kalb), 34.8478, -85.6233
+Mount Olive(Blount), 33.9161, -86.7158
+Mount Olive(Marshall), 34.4569, -86.5567
+Mount Olive(Jefferson), 33.6708, -86.8561
+Mount Pinson, 33.7167, -86.6667
+Mount Pleasant(Cleburne), 33.7408, -85.5086
+Mount Pleasant(Coffee), 31.3167, -85.8167
+Mount Pleasant(Monroe), 31.3333, -87.6958
+Mount Pleasant Landing, 31.3492, -87.7211
+Mount Rozell, 34.9350, -87.1403
+Mount Sharon, 33.2103, -86.4108
+Mount Sinai, 32.5492, -86.5450
+Mount Star, 34.5000, -87.7333
+Mount Sterling, 32.0936, -88.1631
+Mount Tabor, 34.4406, -86.8667
+Mount Union, 31.4333, -86.9333
+Mount Vernon(Lamar), 33.7342, -87.9103
+Mount Vernon(Mobile), 31.0850, -88.0133
+Mount Vernon(Cullman), 34.2333, -86.8667
+Mount Vernon(De Kalb), 34.2925, -85.7878
+Mount Vernon Hospital, 31.0883, -88.0292
+Mount View, 34.2547, -86.7847
+Mount Willing, 32.0600, -86.7014
+Mount Zion(Montgomery), 32.0500, -86.2167
+Mount Zion(Cullman), 34.1125, -87.1053
+Mountain Brook(Jefferson), 33.5008, -86.7522
+Mountain Brook(Madison), 34.7250, -86.5478
+Mountain Brook Village, 33.4836, -86.7739
+Mountain Chest, 34.3500, -86.3167
+Mountain Creek, 32.7106, -86.4789
+Mountain Grove, 34.0886, -86.6172
+Mountain Home, 34.6667, -87.3167
+Mountain Park, 33.5650, -86.7714
+Mountain Star, 34.5414, -87.6536
+Mountain View, 34.3050, -86.2981
+Mountain View Hospital, 34.0725, -86.0197
+Mountain Woods Park, 33.4500, -86.7833
+Mountainboro, 34.1469, -86.1306
+Mountaindale, 33.5122, -86.7325
+Movico, 31.0644, -88.0256
+Muck City, 34.4825, -87.3547
+Mud Creek(Jackson), 34.7167, -85.9667
+Mud Creek(Jefferson), 33.3833, -87.1000
+Mud Creek(Cherokee), 34.0833, -85.5167
+Mud Landing, 30.9244, -87.8758
+Mulberry(Crenshaw), 31.5947, -86.4336
+Mulberry(Autauga), 32.4594, -86.7764
+Mulberry(Chilton), 32.6708, -86.7175
+Mulga, 33.5497, -86.9742
+Mulga Mine, 33.5561, -86.9936
+Mullins Flat, 34.6500, -86.6833
+Munford, 33.5297, -85.9508
+Munk City, 34.4833, -87.2833
+Murphree Place, 34.6986, -86.9569
+Murphy, 34.9167, -88.0667
+Murphy Cross Roads, 34.9819, -87.8981
+Murphy Ford, 34.0072, -86.4814
+Murrays Chapel, 33.7667, -86.4833
+Murrycross, 34.1206, -85.8586
+Muscadine, 33.7344, -85.3861
+Muscle Shoals, 34.7447, -87.6675
+Muscoda, 33.3794, -86.9397
+Mynot, 34.6456, -88.0506
+Myrtlewood, 32.2503, -87.9497

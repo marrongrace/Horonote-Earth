@@ -1,0 +1,39 @@
+Idaho, 33.2667, -85.8333
+Ider, 34.7142, -85.6808
+Independence, 32.5231, -86.7014
+Indian Creek, 31.9500, -85.7000
+Indian Hill, 33.2975, -86.3528
+Indian Rivers Community Mental Health Center, 33.2100, -87.5617
+Indian Springs(Choctaw), 32.2522, -88.1008
+Indian Springs(Lauderdale), 34.8261, -87.6019
+Indland Junction, 33.8492, -86.5653
+Industrial City, 33.4439, -86.9819
+Industry, 31.6042, -86.6128
+Ingate, 32.9683, -87.2158
+Ingle Terrace, 33.5653, -86.7758
+Inglenook, 33.5656, -86.7786
+Ingram, 32.8700, -87.5419
+Ingram Ford, 34.9053, -87.2658
+Ingram Wells, 33.7792, -85.9794
+Inland, 33.9167, -86.4500
+Inmanfield, 34.2450, -87.1883
+Ino, 31.2711, -86.0947
+Institute, 32.0000, -87.0000
+Interburan Heights, 33.4667, -86.9333
+Intercourse, 32.4161, -88.2403
+Interurban Heights, 33.4814, -86.9142
+Inverness, 32.0147, -85.7461
+Ireland Hill, 34.2333, -87.6167
+Iron City, 33.6678, -85.6642
+Ironaton, 33.4267, -85.9711
+Irondale, 33.5381, -86.7072
+Irvington(Limestone), 34.6397, -86.9292
+Irvington(Mobile), 30.5067, -88.2339
+Isabella, 32.8283, -86.7867
+Isbell, 34.4553, -87.7539
+Ishkooda, 33.4597, -86.8614
+Island Landing, 31.0522, -87.8650
+Isney, 31.7822, -88.4556
+Ivalee, 34.0344, -86.1453
+Ivanhoe, 33.4831, -86.8947
+Ivy Creek, 31.7069, -86.3653

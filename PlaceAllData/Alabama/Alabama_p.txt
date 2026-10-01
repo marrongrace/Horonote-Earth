@@ -1,0 +1,307 @@
+Packards Bend, 31.7758, -87.4894
+Paint Rock, 34.6606, -86.3289
+Painter, 34.3128, -86.0775
+Palestine, 33.9414, -85.4503
+Palmerdale, 33.7386, -86.6461
+Palmers Crossroads, 31.2997, -87.5486
+Palmetto, 33.4839, -87.9778
+Palmetto Beach, 30.2475, -87.8397
+Palmyra, 31.9975, -86.7525
+Palos, 33.6456, -87.0450
+Panhandle, 32.6861, -87.0258
+Panola(Sumter), 32.9506, -88.2689
+Panola(Crenshaw), 31.9714, -86.3889
+Pansey, 31.1539, -85.1756
+Paradise Points, 34.7992, -87.5497
+Paradise Shores, 34.7219, -87.1303
+Paragon, 31.8761, -88.3744
+Paramount, 33.3133, -86.8289
+Paran, 33.2069, -85.2556
+Park City, 30.6431, -87.9122
+Park Courts, 33.4775, -86.8864
+Park Hill, 33.5964, -86.2861
+Park Place, 33.5572, -86.8217
+Parkdale, 33.0978, -86.1122
+Parker(Sumter), 32.6386, -88.1678
+Parker(Limestone), 34.7144, -86.8153
+Parker Heights, 33.5561, -86.7514
+Parker Springs, 31.0547, -86.8097
+Parkers Crossroads, 32.5617, -85.3447
+Parkland, 33.8333, -87.2833
+Parkway Estates, 34.6589, -86.5742
+Parkway Medical Center Hospital, 34.5767, -87.0158
+Parkwood, 33.3622, -86.8794
+Parnell, 32.6947, -86.9147
+Parrish, 33.7306, -87.2844
+Parsons, 33.6278, -86.5003
+Partlow State School and Hospital, 33.2100, -87.5164
+Partridge Crossroads, 33.7617, -86.9356
+Pasqua, 33.1408, -86.7528
+Pate, 32.4825, -86.5058
+Patsburg, 31.7864, -86.2283
+Pattersontown, 33.3064, -87.2225
+Patton, 33.7006, -87.4547
+Patton Chapel, 33.3942, -86.7981
+Paul, 31.3200, -86.7439
+Pauls Hill, 33.4122, -86.9297
+Pawnee, 33.5833, -86.7667
+Pawnee Heights, 33.6286, -86.7458
+Paynesville, 32.6133, -88.3467
+Pea Ridge(Marion), 34.0639, -87.8669
+Pea Ridge(Shelby), 33.1500, -87.0000
+Pea Ridge(Escambia), 31.1158, -87.0978
+Pea Ridge(Fayette), 33.7333, -87.5700
+Pea Ridge Crossroads, 34.6383, -85.7147
+Peace, 32.4086, -86.7711
+Peaceburg, 33.7394, -85.9106
+Peachburg, 32.1636, -85.6242
+Peacock, 31.7572, -87.7747
+Pearce, 31.2586, -85.2261
+Pearces Mills, 34.1208, -87.8367
+Pearson, 33.0247, -87.3183
+Peaveys Landing Boat Ramp, 31.6058, -88.0817
+Peavy, 33.1431, -85.4542
+Pebble, 34.2864, -87.5464
+Pebble Hill, 31.9389, -87.3433
+Peeks Corner, 34.3931, -85.8731
+Peeks Hill, 33.7833, -86.0167
+Peets Corner, 34.7303, -86.8775
+Pelham(Shelby), 33.2856, -86.8100
+Pelham(Choctaw), 32.2794, -88.1200
+Pelham Heights, 33.7322, -85.8017
+Pell City, 33.5861, -86.2861
+Pell City Hospital, 33.6053, -86.2775
+Pendley, 33.7331, -87.5119
+Penfield Heights, 33.5942, -86.7297
+Penn, 34.3561, -87.0833
+Pennington, 32.2069, -88.0561
+Pennsylvania, 30.8731, -88.0475
+Penton, 33.0064, -85.4656
+Pentonville, 32.8156, -86.2278
+Peoples Hospital, 33.8325, -87.2728
+Pepperell, 32.6353, -85.4206
+Pera, 31.1353, -86.0919
+Perdido, 31.0075, -87.6272
+Perdido Beach, 30.3406, -87.5050
+Perdue Hill, 31.5139, -87.4933
+Perkins Landing, 30.8411, -87.9031
+Perote, 31.9475, -85.7053
+Perry County Hospital, 32.6311, -87.3069
+Perry Store, 31.2800, -86.1572
+Perrys Mill, 32.2911, -86.1583
+Perryville(Perry), 32.6167, -87.1142
+Perryville(Tallapoosa), 33.0211, -85.8014
+Persimmon Grove(Limestone), 34.8656, -87.0528
+Persimmon Grove(Sumter), 32.3181, -88.0772
+Persons, 32.1861, -85.2592
+Peterman(Houston), 31.1997, -85.4792
+Peterman(Monroe), 31.5844, -87.2594
+Peterson, 33.2325, -87.4236
+Petersville, 34.8553, -87.6917
+Petes Crossroads, 33.7506, -87.0014
+Petey, 34.8000, -86.9667
+Petrey, 31.8486, -86.2078
+Petronia, 32.2658, -86.7886
+Pettusville, 34.9717, -86.9461
+Peytonia Points, 34.8061, -87.5553
+Phalin, 33.0667, -87.4500
+Phelan, 34.1331, -86.8172
+Phenix City, 32.4708, -85.0008
+Phil Campbell, 34.3508, -87.7064
+Phil Campbell Medical Clinic, 34.3464, -87.7086
+Philadelphia, 31.1608, -85.1075
+Phillips Crossroads, 31.6167, -85.6069
+Phillips Estates, 33.3475, -86.9300
+Phillipsville, 30.8961, -87.6356
+Phipps, 32.9294, -87.5028
+Phoenixville, 33.4558, -86.8942
+Pickens County Hospital, 33.2744, -88.0914
+Pickens Ferry, 33.2281, -88.2908
+Pickens Landing, 31.9819, -88.0661
+Pickensville, 33.2272, -88.2664
+Pickering, 32.5667, -86.9167
+Pickett, 31.9778, -85.6261
+Piedmont(Calhoun), 33.9244, -85.6114
+Piedmont(Madison), 34.7006, -86.5769
+Piedmont Heights, 32.9911, -85.2097
+Piedmont Hospital, 33.9194, -85.6200
+Piedmont Springs, 33.9003, -85.6711
+Pierce, 30.7333, -88.4667
+Pigeon Creek, 31.6575, -86.5072
+Pigeye, 34.2978, -87.9242
+Pike Road, 32.2842, -86.1031
+Pikeville(Marion), 34.0381, -87.9511
+Pikeville(Jackson), 34.7436, -86.0386
+Pilgrims Rest, 33.9500, -86.0167
+Pin Hook, 32.3575, -87.8717
+Pinchona, 30.9231, -87.7242
+Pinckard, 31.3114, -85.5531
+Pinder Hill, 34.8561, -85.8208
+Pine Apple, 31.8725, -86.9911
+Pine Beach, 30.2667, -87.6833
+Pine Bluff Landing, 31.2272, -87.9814
+Pine Crest, 33.3717, -86.9869
+Pine Dale, 34.9622, -86.8275
+Pine Flat, 32.6542, -86.4311
+Pine Grove(Baldwin), 30.8333, -87.7411
+Pine Grove(Lee), 32.7161, -85.2519
+Pine Grove(Mobile), 30.7131, -88.1311
+Pine Grove(Bullock), 32.0358, -85.5889
+Pine Grove(Cherokee), 34.0331, -85.7078
+Pine Grove(Tallapoosa), 32.7697, -85.7050
+Pine Haven Shores, 34.8569, -87.3600
+Pine Hill(Randolph), 33.4669, -85.4111
+Pine Hill(Dallas), 31.9794, -87.5881
+Pine Lake Village, 34.3369, -86.5394
+Pine Level(Montgomery), 32.0678, -86.0597
+Pine Level(Autauga), 32.5836, -86.4656
+Pine Level(Coffee), 31.4756, -86.1864
+Pine Mountain, 33.8167, -86.6000
+Pine Orchard, 31.6406, -87.1364
+Pine Springs, 33.9428, -88.1522
+Pine Tuckey, 33.4725, -85.5392
+Pinebelt, 32.1697, -87.1786
+Pinedale, 32.2950, -86.2386
+Pinedale Acres(Lauderdale), 34.8653, -87.4692
+Pinedale Acres(Limestone), 34.7936, -86.9931
+Pinedale Shores, 33.8383, -86.3142
+Pineola, 31.0572, -88.1117
+Pineview, 33.5375, -86.6817
+Pineville, 31.7425, -87.1772
+Pinewood Terrace, 33.2875, -86.3589
+Piney, 34.1519, -85.6264
+Piney Bend, 34.4542, -87.9900
+Piney Chapel, 34.8550, -86.9336
+Piney Grove(Lawrence), 34.3139, -87.1147
+Piney Grove(Marion), 34.0858, -87.7475
+Piney Grove(Geneva), 31.1686, -86.0508
+Piney Woods, 33.8214, -85.4339
+Pinkney City, 33.6272, -86.9347
+Pinkneyville, 33.1067, -85.9592
+Pinnell, 32.7558, -85.6553
+Pinson(Mt Pinson Station), 33.6889, -86.6833
+Pintlalla, 32.1756, -86.3675
+Pioneer, 33.1664, -87.8850
+Piper, 33.0894, -87.0414
+Pisgah(Jackson), 34.6808, -85.8478
+Pisgah(Limestone), 34.9000, -86.7333
+Pisgah(Montgomery), 31.9967, -86.1183
+Pittsview, 32.1881, -85.1633
+Plain View, 33.5744, -86.7714
+Plainview(Cleburne), 33.6653, -85.3933
+Plainview(Dale), 31.3672, -85.6131
+Plainview(De Kalb), 34.4831, -85.8206
+Plano, 34.1142, -85.7275
+Plant City, 32.8531, -85.1908
+Plantersville(Dallas), 32.6567, -86.9244
+Plantersville(Talladega), 33.3697, -86.2358
+Plateau, 30.7361, -88.0639
+Pleasant Gap, 33.9875, -85.5200
+Pleasant Grove(Chilton), 32.9217, -86.7947
+Pleasant Grove(Franklin), 34.5714, -87.9181
+Pleasant Grove(Jackson), 34.7325, -86.2142
+Pleasant Grove(Jefferson), 33.4908, -86.9703
+Pleasant Grove(Marshall), 34.2689, -86.3386
+Pleasant Grove(Pickens), 33.1403, -87.9247
+Pleasant Grove(St Clair), 33.5211, -86.4092
+Pleasant Grove Estates, 33.4900, -86.9592
+Pleasant Hill(Choctaw), 31.9300, -88.2144
+Pleasant Hill(Barbour), 31.7447, -85.2336
+Pleasant Hill(Jackson), 34.5636, -86.1331
+Pleasant Hill(Dallas), 32.1653, -86.9119
+Pleasant Hill(De Kalb), 34.4400, -85.8339
+Pleasant Hill(Escambia), 31.0631, -87.4911
+Pleasant Hill(Jefferson), 33.3308, -86.9961
+Pleasant Hill(Macon), 32.4583, -85.6158
+Pleasant Hill(Winston), 34.2189, -87.4431
+Pleasant Home, 31.2833, -86.4500
+Pleasant Plains, 31.3042, -85.2297
+Pleasant Ridge(Franklin), 34.5056, -87.6889
+Pleasant Ridge(Greene), 33.0142, -88.0836
+Pleasant Ridge(Marion), 34.1717, -87.9906
+Pleasant Ridge(Pike), 31.6644, -86.0544
+Pleasant Site, 34.5419, -88.0653
+Pleasant Valley, 33.6131, -86.2536
+Pleasant View, 34.2347, -86.7656
+Pletcher, 32.7028, -86.7850
+Plevna, 34.9617, -86.4167
+Poarch, 31.1172, -87.5294
+Pocahontas, 33.8728, -87.4831
+Pogo, 34.5572, -88.1139
+Point Clear, 30.4739, -87.9192
+Polk, 32.2722, -86.8886
+Pollard, 31.0269, -87.1736
+Pollards Bend, 34.1833, -85.7667
+Ponders, 32.7103, -85.7742
+Pondville, 32.9050, -87.3111
+Pool, 34.4167, -87.0833
+Pooles Crossroad, 33.1164, -85.4589
+Pools Crossroads, 32.7486, -86.7194
+Pope(Cherokee), 34.0586, -85.6367
+Pope(De Kalb), 34.4989, -85.8861
+Pope(Marengo), 32.0628, -87.6244
+Poplar Creek, 34.7314, -87.1417
+Poplar Point, 34.7283, -87.1375
+Poplar Ridge, 34.5872, -86.3647
+Poplar Springs(Marshall), 34.4144, -86.1369
+Poplar Springs(Winston), 34.0325, -87.3961
+Poplar Springs Branch, 34.7969, -87.2556
+Port Birmingham, 33.5664, -87.1067
+Porter, 33.6231, -87.0547
+Porter Square, 31.2500, -85.4333
+Portersville, 34.3211, -85.8208
+Portland, 32.1544, -87.1686
+Posey Mill, 34.3242, -87.5819
+Poseys Crossroads(Chilton), 32.9367, -86.8331
+Poseys Crossroads(Autauga), 32.5733, -86.5519
+Postoak, 32.0008, -85.8200
+Potash, 33.2772, -85.3525
+Potter, 32.4311, -87.1081
+Powderly, 33.4683, -86.8714
+Powderly Hills, 33.4644, -86.8639
+Powell, 34.2864, -85.7494
+Powell Crossroads, 34.5339, -85.8886
+Powellville, 33.9083, -87.0994
+Powers, 32.9656, -87.6558
+Powes Landing, 31.8158, -88.1817
+Powhatan, 33.5906, -87.1086
+Powledge, 32.6269, -85.1544
+Praco, 33.6136, -87.1125
+Prairie, 32.1539, -87.4400
+Prairie Bluff, 32.1342, -87.4036
+Prairieville, 32.5100, -87.6944
+Pratt City, 33.5400, -86.8689
+Prattmont, 32.4667, -86.4500
+Pratts, 31.8308, -85.5097
+Prattville, 32.4639, -86.4597
+Prattville Junction, 32.4672, -86.3428
+Prescott, 33.5683, -86.4458
+Preston, 34.5258, -86.1725
+Prestwick, 31.4528, -87.9661
+Prices, 33.8903, -85.6958
+Priceville, 34.5250, -86.8947
+Prichard, 30.7386, -88.0789
+Pride, 34.7333, -87.7000
+Pride Landing, 34.7328, -87.8172
+Primitive Ridge, 33.1003, -87.1261
+Prince Crossroads, 32.5206, -85.2217
+Princeton, 34.8433, -86.2431
+Proctor, 34.7142, -87.0567
+Professional Center Hospital, 32.3739, -86.3103
+Pronto, 31.7572, -85.8175
+Prospect, 33.9325, -87.4458
+Providence(Cullman), 34.2725, -86.8122
+Providence(Butler), 31.7219, -86.8228
+Providence(Marengo), 32.5000, -87.7167
+Providence(Walker), 33.7219, -87.3339
+Providence Hospital, 30.6928, -88.0725
+Providence Infirmary, 30.6906, -88.0550
+Prudence, 32.1833, -85.1667
+Pruitton, 34.9903, -87.6094
+Pull Tight, 34.0211, -87.7847
+Pumpkin Center(Walker), 33.6394, -87.1544
+Pumpkin Center(Morgan), 34.4675, -87.0867
+Pumpkin Center(De Kalb), 34.4353, -85.6353
+Pushmataha, 32.1933, -88.3533
+Putnam, 32.0225, -88.0314
+Pyriton, 33.3631, -85.8339

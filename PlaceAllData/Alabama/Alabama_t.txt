@@ -1,0 +1,162 @@
+Tabernacle(Houston), 31.1817, -85.4683
+Tabernacle(Caffee), 31.4511, -85.8714
+Tacoa, 33.3019, -86.8542
+Tacon, 30.6878, -88.1047
+Taft, 34.3422, -85.6272
+Taits Gap, 33.9647, -86.3994
+Talladega, 33.4358, -86.1058
+Talladega Springs, 33.1214, -86.4433
+Tallahatta Springs, 31.9094, -87.8767
+Tallapoosa City, 32.5333, -85.8833
+Tallassee, 32.5358, -85.8933
+Tallaweka, 32.5167, -85.8833
+Talucah, 34.5561, -86.7008
+Tanner, 34.7314, -86.9706
+Tanner Crossroads, 34.7311, -86.9550
+Tanner Heights, 34.4222, -86.9314
+Tanner Williams, 30.7239, -88.3700
+Tanyard(St Clair), 33.6356, -86.3247
+Tanyard(Bullock), 31.8886, -85.7042
+Tarentum, 31.6392, -85.8789
+Tarpley, 33.4447, -86.8908
+Tarrant, 33.5833, -86.7728
+Tarrant City, 33.5833, -86.7728
+Tarrant Heights, 33.5956, -86.7569
+Tarsus, 33.6364, -85.9111
+Tasso, 32.2172, -87.1967
+Tattlersville, 31.7125, -88.0564
+Tayloe, 32.4481, -87.4381
+Taylor(Houston), 31.1647, -85.4683
+Taylor(Montgomery), 31.9753, -86.2333
+Taylor Ford, 34.5867, -85.5653
+Taylors Crossroads, 33.2258, -85.3606
+Taylorville, 33.1433, -87.5472
+Teals Crossroads, 31.6408, -85.5686
+Teasleys Mill, 32.1542, -86.1114
+Tecumseh, 33.9989, -85.4242
+Tecumseh Furnace, 33.9808, -85.4247
+Teddy, 31.0833, -87.0667
+Ten Broeck, 34.4178, -85.9869
+Tenant, 33.2667, -85.4500
+Tennala, 34.0978, -85.6744
+Tennant, 33.2681, -85.4569
+Tennille, 31.6231, -85.7686
+Tensaw, 31.1567, -87.7992
+Terese, 31.8047, -85.1639
+Terry Crossroads, 31.1064, -85.2864
+Terry Heights, 34.6622, -87.2872
+Terry Heights, 34.7325, -86.6042
+Terrytown, 34.6247, -87.3442
+Texas, 33.9297, -87.6786
+Texasville, 31.7150, -85.4244
+Thach, 34.9197, -86.8928
+Thaddeus, 32.5667, -85.6500
+Tharptown, 34.5222, -87.6286
+The Bottle, 32.6761, -85.4864
+The Cedars, 34.8356, -87.6594
+The Highlands(Madison), 34.7567, -86.6339
+The Highlands(Etowah), 34.0489, -86.0186
+The Ridge, 31.5167, -87.3333
+Theba, 31.5556, -86.3036
+Theodore, 30.5475, -88.1753
+Thomas, 33.5325, -86.8569
+Thomas Acres, 33.3794, -86.9808
+Thomas Crossroad, 31.7764, -86.1286
+Thomas Hill, 33.1667, -86.3167
+Thomas Hospital, 30.5189, -87.8897
+Thomas Place, 34.3200, -86.9931
+Thomaston, 32.2664, -87.6253
+Thomasville, 31.9133, -87.7358
+Thompson, 32.1850, -85.8181
+Thorin, 32.2044, -86.2839
+Thorn Hill, 34.2333, -87.6167
+Thornhill, 32.6881, -87.9322
+Thornton(Tallapoosa), 32.7019, -85.7481
+Thornton(Lauderdale), 34.7708, -87.3033
+Thornton Springs, 31.9019, -88.2161
+Thorntontown, 34.8394, -87.3556
+Thorsby, 32.9156, -86.7158
+Thrasher Crossroads, 34.2789, -86.4814
+Three Forks(Tuscaloosa), 33.5533, -87.3331
+Three Forks(Madison), 34.8236, -86.4817
+Three Notch, 32.1061, -85.5792
+Three Notches, 30.6000, -88.1667
+Threet, 34.9506, -87.8289
+Thurston, 31.0147, -85.7819
+Tibbie, 31.3619, -88.2486
+Tilden, 32.0658, -87.1431
+Till, 31.6333, -86.7333
+Tiller Crossroads, 32.9897, -85.5722
+Tillery Crossroad, 32.6936, -85.1961
+Tillmans Corner, 30.5900, -88.1708
+Tinela, 31.8083, -87.3972
+Tishabee, 32.6375, -87.9986
+Titus, 32.7122, -86.3183
+Toadvine, 33.4333, -86.9500
+Toddtown, 31.6186, -87.8767
+Tohopeka, 32.9556, -85.7606
+Toinette, 31.3394, -88.0083
+Tompkinsville, 32.2031, -88.0203
+Toney, 34.8981, -86.7336
+Toonersville, 34.8631, -87.3378
+Topton, 31.2861, -88.1500
+Toulminville, 30.7186, -88.0908
+Town Creek, 34.6811, -87.4061
+Townley, 33.8289, -87.4317
+Townsend Crossroads, 34.6494, -85.6631
+Toxey, 31.9128, -88.3094
+Trace Ford, 34.5303, -87.3567
+Trade, 34.0661, -87.0906
+Trafford, 33.8181, -86.7428
+Trammel Crossroads, 32.9711, -85.5353
+Travelers Rest, 32.8194, -86.3306
+Travis Bridge, 31.4333, -86.9333
+Tredegar, 33.8525, -85.7736
+Trenton, 34.7447, -86.2517
+Tri-Counties Tuberculosis Sanatorium, 34.6736, -86.0642
+Triana, 34.5861, -86.7333
+Triana Landing, 34.5803, -86.7308
+Trickem(Lowndes), 32.2733, -86.7469
+Trickem(Cleburne), 33.5561, -85.4111
+Trimble, 34.0933, -86.9486
+Trinity(Morgan), 34.6067, -87.0883
+Trinity(Calhoun), 33.5894, -85.8689
+Trio, 32.9122, -87.0247
+Trotwood Park, 33.5656, -86.7356
+Troy, 31.8086, -85.9700
+Truett, 33.0969, -85.5953
+Trussville, 33.6197, -86.6089
+Tuckabatchie, 32.5167, -85.8833
+Tuckahoe Heights, 34.0697, -86.0203
+Tucker, 33.9708, -87.7736
+Tucker Crossroads, 34.1350, -85.5719
+Tuckersburg, 32.7594, -85.3675
+Tullis, 31.8872, -85.1878
+Tulse, 33.2450, -86.9028
+Tumbleton, 31.4064, -85.2567
+Tunnel Springs, 31.6425, -87.2400
+Tupelo, 34.7508, -86.0778
+Turkestan, 31.7767, -87.1550
+Turkey Branch, 30.4217, -87.8364
+Turkeytown, 34.0931, -85.8983
+Turnbough Town, 33.6744, -86.4697
+Turnbull, 31.7147, -87.1319
+Turner(Talladega), 33.5361, -86.0439
+Turner(Shellby), 33.2447, -86.9556
+Turner Crossroads(Coffee), 31.3122, -85.9742
+Turney Crossroads(Morgan), 34.4464, -86.7839
+Tuscahoma Landing, 32.0581, -88.1150
+Tuscaloosa, 33.2097, -87.5692
+Tuscaloosa County Health Center, 33.2050, -87.5281
+Tuscaloosa Surgical Center, 33.2306, -87.5358
+Tuscumbia, 34.7311, -87.7025
+Tuskegee, 32.4239, -85.6917
+Tuskegee Institute, 32.4167, -85.7000
+Twilley Town, 33.6625, -87.0869
+Twin, 33.9500, -87.8833
+Twinsprings, 31.8833, -85.1500
+Tyler, 32.3392, -86.8797
+Tyler Crossroads, 31.7031, -85.5267
+Tyler Ford, 32.9119, -86.2836
+Tyson, 32.1867, -86.4394
+Tysonville, 32.4003, -85.9986

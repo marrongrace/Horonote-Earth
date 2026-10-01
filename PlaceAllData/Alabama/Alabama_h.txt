@@ -1,0 +1,267 @@
+Hackleburg, 34.2772, -87.8286
+Hackneyville, 33.0603, -85.9331
+Hacoda, 31.0747, -86.1664
+Haden, 34.6892, -86.5047
+Hagler, 33.0339, -87.3400
+Halawaka, 32.6644, -85.1714
+Hale Infirmary, 32.3700, -86.2922
+Hale Memorial Hospital, 33.2036, -87.5281
+Haleburg, 31.4064, -85.1372
+Hales, 33.0956, -86.8067
+Haleys, 34.2333, -87.6167
+Haleyville, 34.2264, -87.6214
+Half Acre, 32.1944, -87.9122
+Half Chance, 32.2997, -87.7278
+Hall Creek, 32.5158, -87.9511
+Halls Crossroads, 31.4022, -87.3314
+Halltown, 34.4531, -88.0614
+Halsell, 32.2839, -88.2772
+Halso Mill, 31.7131, -86.5206
+Hamburg, 32.5278, -87.2864
+Hamilton, 34.1422, -87.9886
+Hamilton Crossroads, 31.6436, -85.8083
+Hammac, 31.1222, -87.2231
+Hammondville, 34.5817, -85.6267
+Hamner, 32.7433, -88.2692
+Hampden, 32.0814, -87.6289
+Hampton, 32.9586, -85.6119
+Hanceville, 34.0606, -86.7675
+Hancock Crossroads, 34.5347, -85.9936
+Hannah, 34.7878, -86.9547
+Hannon, 32.2392, -85.5261
+Hanover, 33.0047, -86.2025
+Happy Hill, 31.1814, -88.0517
+Hardaway, 32.2864, -85.8489
+Hardwick, 33.6883, -86.3525
+Hardwickburg, 31.4986, -85.1508
+Hardy, 33.2636, -86.8108
+Harkins Crossroads, 33.2311, -85.8672
+Harkness Crossroads, 33.9142, -86.7228
+Harlem Heights, 33.4603, -86.9806
+Harmon, 33.0319, -87.2733
+Harmon Crossroads, 33.2025, -85.4803
+Harmony(Covington), 31.3572, -86.3750
+Harmony(Lawrence), 34.4833, -87.2833
+Harmony(Marshall), 34.2667, -86.2000
+Harper Hill, 32.8567, -87.6125
+Harpers Store, 31.5939, -87.1347
+Harpersville, 33.3439, -86.4381
+Harrell, 32.4431, -87.2156
+Harriman Park, 33.5664, -86.7933
+Harris, 34.8872, -85.8594
+Harrisburg(St Clair), 33.5922, -86.2894
+Harrisburg(Bibb), 32.8758, -87.2244
+Harrisville, 34.0667, -86.3500
+Hartford, 31.1022, -85.6969
+Hartselle, 34.4433, -86.9353
+Harvest, 34.8556, -86.7508
+Hatchechubbee, 32.2706, -85.2758
+Hatchet, 33.0167, -86.1050
+Hatters, 30.9033, -88.0508
+Hatton, 34.5628, -87.4153
+Havana, 32.8950, -87.6203
+Haven Hospital, 31.2472, -85.4611
+Hawk, 33.4344, -85.3686
+Hawkins Ford, 33.9575, -88.0775
+Hawkinsville, 32.0342, -85.2278
+Hawthorn, 31.3331, -88.0883
+Hayden, 33.8925, -86.7578
+Hayes, 31.5028, -85.0728
+Hayes Crossing, 33.6983, -87.4386
+Hayes Highland, 33.5778, -86.8311
+Haynes, 32.6256, -86.6731
+Haynes Crossing, 34.8822, -85.8158
+Haynes Crossroad, 33.4378, -85.7319
+Hayneville, 32.1839, -86.5803
+Hays Ford, 33.9933, -88.0525
+Hays Mill, 34.8800, -86.9697
+Haysland Estates, 34.6536, -86.5778
+Haywood, 33.3036, -85.3886
+Hazel Green, 34.9322, -86.5719
+Hazen, 32.3400, -87.2039
+Headland, 31.3511, -85.3422
+Headland Medical Clinic, 31.3542, -85.3472
+Healing Springs, 31.6322, -88.3367
+Heath, 31.3606, -86.4697
+Hebron, 33.1672, -87.0672
+Hebron, 34.4853, -86.3803
+Hector, 32.1122, -85.9089
+Heflin, 33.6489, -85.5875
+Heiberger, 32.7581, -87.2867
+Helena, 33.2961, -86.8436
+Helicon(Crenshaw), 31.9133, -86.2119
+Helicon(Winston), 34.1261, -87.1383
+Hellum Ford, 34.6069, -86.3314
+Henagar, 34.6350, -85.7672
+Henderson(Morgan), 34.4850, -86.8311
+Henderson(Pike), 31.6664, -86.0733
+Hendrick Mill, 33.8758, -86.5689
+Hendrix, 34.0381, -86.4533
+Henry County Hospital, 31.5542, -85.2539
+Henryville, 34.4244, -86.2622
+Henson Springs, 34.0192, -88.0642
+Hephzibah, 31.7653, -86.0131
+Hepzibah, 33.4469, -86.2317
+Herbert, 31.8358, -86.8053
+Heron Bay, 30.3544, -88.1303
+Hester Heights, 34.5431, -87.7089
+Hestle, 31.9294, -87.6281
+Hickory, 33.1628, -88.0631
+Hickory Flat, 33.1500, -85.3667
+Hickory Grove(Jefferson), 33.3417, -86.9997
+Hickory Grove(Lawrence), 34.4303, -87.4444
+Hickory Hills(Lauderdale), 34.8308, -87.6503
+Hickory Hills(Morgan), 34.5486, -86.9250
+Hicks, 33.5808, -85.7775
+Hicks Hill, 32.2389, -86.7489
+Hideaway Hills, 34.8558, -87.5614
+Higdon, 34.8456, -85.6164
+High Bluff, 31.1564, -85.7314
+High Level, 33.6656, -87.2128
+High Pine, 33.2533, -85.9064
+High Point(De Kalb), 34.5714, -85.7283
+High Point(Marshall), 34.2422, -86.2786
+High Ridge, 32.0625, -85.8950
+High Rock, 33.9594, -86.6906
+Highfalls, 31.0983, -85.8000
+Highland(Chilton), 32.7931, -86.6733
+Highland(Clay), 33.3556, -85.8256
+Highland Avenue Unit Birmingham Baptist Hospital, 33.5028, -86.7900
+Highland Baptist Hospital, 33.5028, -86.7900
+Highland Home, 31.9533, -86.3139
+Highland Lake, 33.8833, -86.4167
+Highmound, 34.1439, -86.3789
+Highnote, 30.9958, -85.6925
+Hightogy, 33.6950, -88.0947
+Hightower, 33.5317, -85.3956
+Hill Top, 32.2594, -87.9003
+Hillandale, 34.7317, -86.6156
+Hillcrest, 32.4514, -87.4747
+Hillcrest Sanitarium, 33.5489, -86.7303
+Hilliard, 33.8144, -87.3764
+Hillman, 33.4450, -86.9081
+Hillman Gardens, 33.4478, -86.9031
+Hillman Hospital, 33.5056, -86.8025
+Hillman Park, 33.4447, -86.9006
+Hillsboro(Madison), 34.9389, -86.4233
+Hillsboro(Lawrence), 34.6392, -87.1917
+Hillsdale(Shelby), 33.1453, -86.6050
+Hillsdale(Walker), 33.8683, -87.2664
+Hilltop, 33.4333, -86.9500
+Hillview, 33.5756, -86.8842
+Hillwood, 32.9253, -86.3614
+Hines, 34.9597, -87.6436
+Hines Landing, 32.5472, -87.8447
+Hinton, 32.0919, -88.4422
+Hirsch, 32.1717, -85.1219
+Hissop, 32.8922, -86.1533
+Hixon(Sumter), 32.5456, -88.2247
+Hixon(Monroe), 31.5728, -87.4261
+Hobbie Farm, 32.1939, -86.2447
+Hobbs Island, 34.6333, -86.5667
+Hobdy, 31.8150, -85.5317
+Hobgood, 34.7142, -87.6347
+Hoboken(Barbour), 31.9117, -85.1489
+Hoboken(Marengo), 32.0258, -87.8769
+Hobson, 33.5097, -86.9300
+Hobson City, 33.6214, -85.8442
+Hodge, 34.6194, -85.9494
+Hodges, 34.3269, -87.9264
+Hodges Store, 34.4167, -87.0833
+Hodgesville, 31.0825, -85.3731
+Hodgewood, 31.9372, -88.3022
+Hog Jaw, 34.3322, -86.5603
+Hogglesville, 32.8542, -87.4917
+Hokes Bluff, 33.9981, -85.8664
+Holiday Gardens, 33.5219, -86.7106
+Holiday Park Estates, 33.6531, -86.6697
+Holland Gin, 34.9633, -86.8872
+Holley Crossroads, 33.8014, -85.6836
+Hollins, 33.1175, -86.1444
+Hollis Crossroads, 33.5236, -85.6372
+Holloway, 34.8903, -87.5386
+Holly Grove, 33.8386, -87.4225
+Holly Pond, 34.1742, -86.6164
+Holly Springs, 33.8244, -86.4783
+Hollytree, 34.8028, -86.2497
+Hollywood(Jackson), 34.7242, -85.9725
+Hollywood(Jefferson), 33.4728, -86.7831
+Holman, 33.2797, -87.8233
+Holman Crossroads, 33.1042, -86.1925
+Holmes Memorial Hospital, 30.4058, -87.6844
+Holt, 33.2339, -87.4844
+Holtville, 32.6361, -86.3267
+Holy Name of Jesus Hospital, 34.0047, -86.0036
+Holy Trinity, 32.2222, -85.0053
+Homewood(Jefferson), 33.4717, -86.8008
+Homewood(Monroe), 31.3694, -87.5994
+Honoraville, 31.8506, -86.4061
+Hoods Crossroads, 33.9883, -86.4203
+Hooks, 32.1917, -85.2325
+Hooks Crossroads, 32.0514, -85.8528
+Hooper City, 33.5553, -86.8411
+Hoover(Madison), 34.8553, -86.7356
+Hoover(Jefferson), 33.4053, -86.8114
+Hope Hull, 32.2697, -86.3572
+Hopeful, 33.4939, -85.9125
+Hopewell(Cherokee), 34.2011, -85.7294
+Hopewell(Cleburne), 33.6319, -85.3828
+Hopewell(De Kalb), 34.3744, -86.0475
+Hopewell(Blount), 34.2561, -86.4681
+Hopewell(Jefferson), 33.3606, -86.9386
+Hopewell(Lee), 32.5250, -85.3025
+Hopper, 34.0553, -86.2514
+Horn Hill, 31.2456, -86.3167
+Hornady, 32.4650, -85.8653
+Horton(De Kalb), 34.3844, -85.8464
+Horton(Marshall), 34.2008, -86.2969
+Hortons Mill, 33.9167, -86.4500
+Hotamville, 31.9922, -87.9400
+Houston, 34.1414, -87.2581
+Houston County Health Center, 31.2208, -85.3969
+Houstontown, 34.8272, -87.4350
+Houstonville, 30.5017, -87.9003
+Howard, 33.8542, -87.5675
+Howard Landing, 31.4558, -87.5658
+Howe, 32.0183, -85.1642
+Howells, 31.0522, -86.2092
+Howells Crossroads, 34.1781, -85.5456
+Howelton, 34.0558, -86.1836
+Howton, 33.2589, -87.3403
+Hubbard, 32.8989, -86.8181
+Hubbard Landing, 31.0625, -87.8706
+Hubertville, 33.8278, -87.7400
+Huckaville, 31.0794, -86.4161
+Hudson Gardens, 33.4272, -86.9358
+Hudson Grove, 33.4311, -86.9308
+Hudson Settlement, 33.8853, -87.2992
+Hueytown, 33.4511, -86.9967
+Hueytown Crest, 33.4611, -86.9969
+Huffman, 33.5992, -86.6931
+Huffman Gardens, 33.6039, -86.6750
+Hughes Mill, 34.4189, -85.7839
+Hugley, 32.4319, -85.2461
+Hugo, 32.2667, -87.6889
+Huguley, 32.8344, -85.2297
+Hulaco, 34.3122, -86.5986
+Hull(Tuscaloosa), 33.0536, -87.5717
+Hull(Walker), 33.7742, -87.0589
+Humana Hospital Russellville, 34.5075, -87.7186
+Humpton, 34.5475, -86.3050
+Hunter, 32.3956, -86.3956
+Huntsville, 34.7303, -86.5861
+Huntsville City Infirmaries, 34.7225, -86.5817
+Huntsville Hospital, 34.7203, -86.5806
+Huntsville Park, 34.7044, -86.6189
+Huntsville Skilled Nursing Center, 34.6967, -86.5703
+Hurley, 34.2750, -85.6231
+Hurricane, 30.8408, -87.9019
+Hurtsboro, 32.2417, -85.4164
+Hustleville, 34.3117, -86.1675
+Hustontown, 34.8667, -87.5333
+Huxford, 31.2200, -87.4619
+Hyatt, 34.2342, -86.3431
+Hybart, 31.8264, -87.3819
+Hycutt, 32.7067, -87.9953
+Hyde Park, 33.4778, -86.8800
+Hytop, 34.9161, -86.0881

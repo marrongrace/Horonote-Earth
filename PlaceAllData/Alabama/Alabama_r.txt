@@ -1,0 +1,229 @@
+Rabb, 31.4333, -86.9333
+Rabbit Town, 34.2797, -86.2583
+Rabbittown(Calhoun), 33.8197, -85.6428
+Rabbittown(Winston), 34.2639, -87.4956
+Rabun, 31.0267, -87.7250
+Radford, 32.5892, -87.2000
+Ragland, 33.7444, -86.1558
+Rahatchie, 33.2667, -86.3500
+Raimund, 33.3678, -86.9614
+Rainbow, 34.7525, -86.7364
+Rainbow City, 33.9547, -86.0419
+Rainbow Mountain Heights, 34.7478, -86.7144
+Rainsville, 34.4942, -85.8478
+Raleigh, 33.2000, -87.9667
+Ralph, 33.0419, -87.7689
+Ramah, 31.6122, -87.1375
+Ramer, 32.0503, -86.2214
+Ramsey, 33.9922, -86.1492
+Ranburne, 33.5228, -85.3447
+Randolph, 32.8994, -86.9108
+Randolph County Hospital, 33.1578, -85.3886
+Range, 31.3125, -87.2356
+Rash, 34.8739, -85.8950
+Rawls, 31.4531, -86.4811
+Ray, 32.8872, -86.0378
+Rayburn, 34.3489, -86.2675
+Rays Crossroads, 33.2506, -85.8961
+Reads Mill, 33.8731, -85.9017
+Ready Crossing, 34.9328, -86.7292
+Red Bank, 34.7672, -87.3700
+Red Bay, 34.4397, -88.1408
+Red Eagle, 33.0844, -87.1322
+Red Gap Junction, 33.5333, -86.7000
+Red Hill(Elmore), 32.6850, -85.9431
+Red Hill(Blount), 33.7167, -87.0000
+Red Hill(Marshall), 34.2558, -86.4242
+Red Level(Chambers), 33.0897, -85.4778
+Red Level(Covington), 31.4069, -86.6122
+Red Level(Montgomery), 32.1342, -86.2233
+Red Ore, 33.4333, -86.9500
+Red Rock, 34.6978, -87.8639
+Red Springs, 32.0297, -88.2711
+Red Star, 33.7125, -87.1214
+Red Wine, 33.6178, -86.9606
+Reddock Springs, 31.8333, -86.6333
+Redland Heights, 32.8167, -85.1667
+Redmont Park, 33.5031, -86.7753
+Redstone Arsenal, 34.7333, -86.6000
+Redstone Park, 34.5972, -86.5664
+Redtown, 31.1378, -87.6325
+Reece City, 34.0722, -86.0333
+Reedtown, 34.4967, -87.7417
+Reeltown, 32.6036, -85.8053
+Reform, 33.3783, -88.0153
+Regent Forest, 33.4167, -86.8000
+Rehobeth, 31.1228, -85.4528
+Rehoboth, 32.1956, -87.3814
+Reid, 34.7492, -87.0386
+Reid Settlement, 31.2458, -88.0989
+Rembert, 32.2178, -87.8697
+Remlap, 33.8167, -86.6008
+Rendalia, 33.3175, -86.1572
+Renfroe, 33.4311, -86.2017
+Reno, 33.3333, -87.0167
+Renson, 31.5539, -87.2839
+Repton, 31.4089, -87.2392
+Republic, 33.6011, -86.8908
+Reynolds, 34.6331, -87.1728
+Reynolds Mill, 33.3553, -86.2158
+Rhoades, 31.2625, -86.1619
+Rhodes, 31.5781, -86.6917
+Rhodesville, 34.8722, -87.8706
+Rice(Marshall), 34.3183, -86.5336
+Rice(Jefferson), 33.3733, -86.9747
+Rice Creek Landing, 31.0153, -87.8800
+Richards Crossroads, 31.7369, -85.2644
+Richardson, 34.2006, -85.7425
+Richburg, 31.3967, -85.9608
+Richland, 31.7328, -85.7278
+Richmond, 32.1139, -87.0550
+Richmond Hills, 34.7278, -87.7169
+Richville, 32.8150, -86.3183
+Rickey, 33.2522, -87.1286
+Riddle, 32.6547, -86.2486
+Rideout Village, 34.7506, -86.6689
+Riderville, 32.6772, -86.9314
+Riderwood, 32.1286, -88.3278
+Ridge, 33.0081, -88.1486
+Ridge Grove, 32.6578, -85.5181
+Ridgeville(Etowah), 34.0167, -86.0667
+Ridgeville(Butler), 31.8667, -86.8333
+Ridgway Mill, 34.9353, -87.1922
+Rigdom, 34.6461, -87.3622
+Riley, 31.7261, -87.1261
+Ringgold, 34.3339, -85.5478
+Ripley, 34.7619, -87.1208
+River Bend(Cullman), 34.0392, -86.7136
+River Bend(Hale), 32.6500, -87.6500
+River Bend Center for Mental Health, 34.7947, -87.6847
+River Falls, 31.3528, -86.5392
+River Park(De Kalb), 34.5053, -85.6103
+River Park(Baldwin), 30.4506, -87.8119
+River Ridge, 31.7136, -87.3131
+River View, 32.7889, -85.1450
+Riverbend, 33.1167, -87.1167
+Riverdale, 34.5600, -85.5808
+Rivermont, 34.7356, -87.7244
+Riverside(Blount), 34.0675, -86.4933
+Riverside(Etowah), 33.9397, -86.0236
+Riverside(St Clair), 33.6061, -86.2044
+Riverside(Cullman), 34.0947, -86.6678
+Riverside Medical Center, 33.2181, -87.5294
+Riverton, 34.8806, -88.0767
+Riverview(Tuscaloosa), 33.2197, -87.5283
+Riverview(Escambia), 31.0833, -87.0667
+Roanoke, 33.1511, -85.3722
+Roanoke Junction, 32.6794, -85.3700
+Roba, 32.2439, -85.5942
+Robbins Crossroads, 33.7344, -86.9956
+Roberson Beach, 34.7653, -87.2867
+Roberta, 33.0958, -86.8069
+Roberts, 31.0817, -86.8889
+Roberts Crossroads, 31.6008, -85.5289
+Robertsdale, 30.5536, -87.7119
+Robertsville, 34.8667, -85.3833
+Robinson Crossroads(Crenshaw), 31.7356, -86.3756
+Robinson Crossroads(Montgomery), 32.1514, -86.2300
+Robinson Springs, 32.5117, -86.3767
+Robinsons, 32.3300, -86.5592
+Robinsonville, 31.0611, -87.4383
+Robinwood, 33.6150, -86.7489
+Robjohn, 32.2139, -88.1272
+Rock City(Jackson), 34.5325, -85.9503
+Rock City(Marion), 33.9844, -87.7086
+Rock Creek(Colbert), 34.5967, -87.9167
+Rock Creek(Winston), 34.1950, -87.3894
+Rock Fence, 33.0361, -85.4386
+Rock Hill, 31.1164, -86.9992
+Rock House, 34.5833, -85.9833
+Rock Mills, 33.1597, -85.2875
+Rock Run, 34.0278, -85.4953
+Rock Spring, 33.9367, -85.9106
+Rock Springs(Choctaw), 32.0783, -88.3664
+Rock Springs(Blount), 34.1681, -86.5367
+Rock Springs(Clarke), 31.9500, -88.0811
+Rock Stand, 33.1500, -85.3667
+Rockdale, 33.3461, -86.9781
+Rocket, 34.6833, -86.6667
+Rockford, 32.8894, -86.2197
+Rockhouse Landing, 34.5625, -86.8458
+Rockledge, 34.0892, -86.1128
+Rockville, 31.4200, -87.8425
+Rockwest, 31.9997, -87.3717
+Rockwood, 34.4550, -87.7847
+Rocky Ford, 32.7058, -87.8417
+Rocky Head, 31.5681, -85.7686
+Rocky Hill, 34.6794, -87.3444
+Rocky Hollow, 33.7814, -87.0847
+Rocky Mount, 32.9908, -86.7169
+Rocky Point, 34.5283, -86.8058
+Rocky Ridge(Jefferson), 33.4169, -86.7731
+Rocky Ridge(Marshall), 34.5958, -86.2750
+Rocky Springs, 34.9578, -85.7533
+Rodentown, 34.2344, -86.0169
+Rodgers, 34.6553, -85.6006
+Roe Landing, 32.6044, -87.8397
+Roebuck(Jefferson), 33.5814, -86.7031
+Roebuck(Shelby), 33.2772, -86.8725
+Roebuck Crest Estates, 33.5964, -86.7017
+Roebuck Forest, 33.5831, -86.6814
+Roebuck Gardens, 33.6103, -86.6983
+Roebuck Park, 33.6053, -86.6950
+Roebuck Plaza, 33.5875, -86.6600
+Roebuck Springs, 33.5769, -86.7036
+Roebuck Terrace, 33.5800, -86.7225
+Roeton, 31.5975, -85.8347
+Rogers, 34.3414, -86.0914
+Rogersville, 34.8256, -87.2947
+Rolling Hills, 34.5628, -86.9206
+Rollins, 32.9461, -85.4253
+Romar Beach, 30.2606, -87.6222
+Rome, 31.1417, -86.6689
+Romulus, 33.1475, -87.7519
+Roosevelt, 33.4394, -86.9331
+Roosevelt Cairo Village, 33.4461, -86.9183
+Roper, 33.6064, -86.5803
+Rosa, 33.9906, -86.5133
+Rosalie, 34.6997, -85.7686
+Rose Hill(Covington), 31.4492, -86.3394
+Rose Hill(Jefferson), 33.5489, -86.6642
+Rose Park, 34.8603, -87.6719
+Roseboro, 34.9842, -86.4025
+Rosebud, 31.9411, -87.1369
+Rosedale(Tuscaloosa), 33.2000, -87.5333
+Rosedale(Jefferson), 33.4836, -86.7942
+Roselle, 33.1856, -86.0497
+Rosemary, 32.6478, -87.5750
+Rosemont(Jefferson), 33.4578, -86.8850
+Rosemont(Greene), 32.6711, -87.9081
+Rosinton, 30.6183, -87.6936
+Ross Ford, 33.1111, -86.0628
+Rossland City, 33.6797, -87.7814
+Round Mountain, 34.2156, -85.6839
+Roundhill, 31.8925, -87.7117
+Rowells Crossroads, 32.6861, -85.5772
+Roxana(Montgomery), 32.1831, -86.2717
+Roxana(Chambers), 32.6869, -85.6692
+Roy Ford, 33.3247, -86.8478
+Royal, 34.0719, -86.5022
+Ruffner, 33.5494, -86.7047
+Rural, 31.8642, -87.7386
+Russell(Fayette), 33.8333, -87.8333
+Russell(Mobile), 31.1167, -88.2333
+Russell Heights, 33.5533, -86.5603
+Russell Hospital, 32.9303, -85.9706
+Russell Mill, 32.9833, -85.8667
+Russell Village, 34.5622, -86.9911
+Russellville, 34.5078, -87.7286
+Rutan, 31.4394, -88.1894
+Ruth, 34.3642, -86.5567
+Rutherford, 32.1889, -85.3181
+Rutledge(Crenshaw), 31.7303, -86.3097
+Rutledge(Jefferson), 33.4667, -86.9167
+Rutledge Heights, 34.7464, -86.6414
+Rutledge Springs, 33.4611, -86.9475
+Rutthven, 31.8533, -87.0297
+Ryan, 33.1678, -86.8667
+Ryan Crossroads, 34.3419, -86.6103
+Ryland, 34.7697, -86.4808

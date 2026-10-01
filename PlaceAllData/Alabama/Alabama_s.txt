@@ -1,0 +1,427 @@
+Saco, 31.9550, -85.8208
+Safford, 32.2878, -87.3714
+Saginaw, 33.2161, -86.7919
+Sahama Village, 33.2000, -87.5333
+Saints Crossroads, 34.5489, -87.5889
+Saks, 33.6986, -85.8397
+Salco, 30.9675, -88.0353
+Salem(Fayette), 33.6781, -87.4981
+Salem(Dallas), 32.3503, -87.2622
+Salem(Lee), 32.5967, -85.2386
+Salem(Limestone), 34.9389, -87.1147
+Salem Corner, 34.7008, -86.8783
+Salitpa, 31.6294, -88.0200
+Salt Well, 32.4569, -87.9311
+Samantha, 33.4222, -87.6053
+Samford University, 33.4500, -86.8167
+Samoset, 33.7364, -87.1275
+Samson, 31.1128, -86.0461
+Samuels Chapel, 34.0667, -86.3500
+San Souci Beach, 30.3886, -88.2583
+Sand Landing, 30.9236, -87.9650
+Sand Mountain, 32.8547, -86.9125
+Sand Mountain Nursing Home, 34.2867, -86.2750
+Sand Rock, 34.2428, -85.7686
+Sand Springs, 34.9167, -86.8500
+Sanders Hill, 31.7053, -86.0364
+Sandfield, 31.9058, -85.8078
+Sandfort, 32.3381, -85.2233
+Sandtown, 33.5900, -87.4919
+Sandusky, 33.5497, -86.9003
+Sandy Creek, 32.8000, -85.6500
+Sandy Point, 31.7919, -85.2700
+Sandy Ridge, 32.0244, -86.4519
+Sandy Springs, 34.0731, -85.4989
+Sanford, 31.2981, -86.3892
+Sanford Springs, 34.0181, -85.5733
+Sanie, 33.6603, -86.4789
+Santuck, 32.6328, -86.1297
+Sapps, 33.2208, -88.1692
+Saragossa, 33.8989, -87.3992
+Saraland, 30.8206, -88.0706
+Saratoga, 34.2528, -86.1928
+Sardine, 31.0000, -87.2500
+Sardis(Dallas), 32.2875, -86.9858
+Sardis(Crenshaw), 31.9028, -86.3158
+Sardis(Walker), 33.7967, -87.1489
+Sardis(Bullock), 32.0889, -85.7628
+Sardis City, 34.1742, -86.1228
+Sardis Springs, 34.8364, -86.8853
+Satsuma, 30.8531, -88.0561
+Saucer, 31.8667, -86.8333
+Savannah Ford, 34.9883, -87.5844
+Saville, 31.8772, -86.3311
+Sawyerville, 32.7517, -87.7294
+Sayre, 33.7122, -86.9744
+Sayreton, 33.5617, -86.8297
+Scant City, 34.3622, -86.4236
+Scarce Grease, 34.9706, -87.1325
+Scenic Heights, 34.0544, -86.0339
+Schenks, 33.8167, -85.9000
+Schley, 32.7931, -86.3700
+Schmits Mill, 33.6167, -86.1167
+Schultys Landing, 31.9392, -88.1011
+Schuster, 31.8639, -87.0469
+Scotland, 31.6667, -87.2731
+Scott City, 33.5469, -86.5797
+Scott Ford, 34.3708, -87.9194
+Scottland, 32.0264, -85.7064
+Scottrock, 33.2511, -86.8233
+Scottsboro, 34.6722, -86.0342
+Scottsboro Crossroads, 31.6992, -85.2119
+Scrange, 31.1667, -87.5333
+Scranton, 31.1928, -85.8419
+Scratch Ankle, 31.6625, -87.4375
+Scratch Hill, 32.4447, -88.2644
+Screamer, 31.6614, -85.2067
+Scrougeout, 34.1808, -85.8692
+Scruggs Landing, 31.8964, -88.1306
+Scyrene, 31.7556, -87.6478
+Seaboard, 31.3211, -88.1886
+Seacliff, 30.5450, -87.9028
+Seale, 32.2972, -85.1689
+Sealy Springs, 31.0367, -85.3089
+Searcy, 31.9153, -86.6053
+Searcy State Hospital, 31.0883, -88.0292
+Searight, 31.4708, -86.3933
+Searles, 33.3242, -87.3217
+Section, 34.5789, -85.9867
+Seddon, 33.5922, -86.2275
+Sedgefield(Bullock), 32.1836, -85.7047
+Sedgefield(Dallas), 32.2394, -87.3614
+Segco, 33.7333, -87.2833
+Self Creek, 33.7819, -86.7506
+Selfville, 33.8303, -86.6681
+Sellers, 32.0561, -86.3031
+Sellers Landing, 31.8633, -88.1408
+Sellersville, 31.1297, -86.0042
+Selma, 32.4072, -87.0211
+Selma Infirmary, 32.4061, -87.0317
+Selma Mall, 32.3833, -87.0000
+Selma Medical Center, 32.4292, -87.0558
+Selmont, 32.3950, -87.0083
+Seloca, 33.7986, -86.8211
+Seman, 32.7325, -86.1122
+Seminole, 30.5150, -87.4739
+Semmes, 30.7781, -88.2592
+Serange, 31.2178, -87.6392
+Service, 31.7333, -88.2000
+Sessions, 32.9300, -85.7467
+Seven Hills, 30.6539, -88.3031
+Seven Pines, 34.4739, -88.0686
+Sewell, 33.3897, -85.3064
+Seymour, 33.1144, -87.0250
+Shacklesville, 31.6333, -86.7333
+Shades Cliff, 33.4311, -86.8269
+Shades Creek, 33.4500, -86.8167
+Shades Crest Estates, 33.4167, -86.8000
+Shady Brook, 33.3664, -86.9703
+Shady Grove(Coffee), 31.5239, -86.0378
+Shady Grove(Washington), 31.6308, -88.3914
+Shady Grove(Pike), 31.9094, -86.1625
+Shady Grove(Clay), 33.1689, -86.0061
+Shady Grove(Franklin), 34.3500, -87.7000
+Shady Grove(Jefferson), 33.5931, -87.0033
+Shady Lane, 34.7564, -86.6206
+Shadywood, 33.5772, -86.6917
+Shanghai, 34.8500, -87.0850
+Shannon, 33.4053, -86.8719
+Sharps Mill, 34.9081, -87.7056
+Shaw, 33.5064, -88.0942
+Shawmut, 32.8403, -85.1833
+Shawnee, 32.0000, -87.3000
+Sheffield, 34.7650, -87.6986
+Shelby, 33.1103, -86.5842
+Shelby Memorial Hospital, 33.2522, -86.8131
+Shelby Shores, 33.1283, -86.4658
+Shelby Springs, 33.1350, -86.6867
+Shell, 31.6011, -86.6536
+Shell Landing, 30.9106, -87.8714
+Shellhorn, 31.8758, -86.0797
+Shepherd Hill, 32.1856, -86.0664
+Sherman Heights(Jefferson), 33.5214, -86.9053
+Sherman Heights(Calhoun), 33.7331, -85.7981
+Sherwood Forest, 34.8436, -87.6817
+Sherwood Park, 34.7197, -86.6625
+Shiloh(Marengo), 32.1272, -87.7353
+Shiloh(De Kalb), 34.4625, -85.8797
+Shiloh(Pike), 31.7811, -85.7442
+Shiloh(Chambers), 33.0208, -85.5367
+Shinebone, 33.3000, -85.7500
+Shingle, 34.3500, -87.7000
+Shirleys Crossroads, 31.7147, -86.1650
+Shoals Acres, 34.8686, -87.5528
+Shoals Hospital, 34.7633, -87.6981
+Shopton, 32.1169, -85.9422
+Short Creek, 33.5511, -87.1014
+Shorter, 32.3947, -85.9169
+Shorterville, 31.5700, -85.1014
+Shortleaf, 32.5117, -87.8556
+Shottsville, 34.2608, -88.1272
+Shotwell, 32.5842, -85.1836
+Shrader, 34.7150, -85.7342
+Shreve, 31.5094, -86.7069
+Sibert, 30.7444, -88.0600
+Sico, 33.1667, -86.3167
+Siddonsville, 32.4181, -87.6133
+Sidney(Mobile), 31.1167, -88.2333
+Sidney(Marshall), 34.2789, -86.3658
+Sigma, 31.2819, -85.1972
+Sigsbee, 34.3414, -85.7100
+Sikes, 32.8886, -85.5586
+Sikesville, 33.1264, -85.6747
+Silas, 31.7653, -88.3292
+Siloam, 32.4228, -88.2675
+Siluria, 33.2333, -86.8333
+Silver Cross, 31.6808, -88.1742
+Silver Landing, 31.2328, -87.8478
+Silver Run, 33.5650, -85.9081
+Silverhill, 30.5453, -87.7517
+Simcoe, 34.2242, -86.7344
+Simmons Crossroads, 32.6672, -85.7225
+Simmsville, 33.3244, -86.7089
+Simpson, 33.0717, -85.7219
+Simsville, 32.1044, -85.8708
+Sipsey, 33.8247, -87.0861
+Six Mile, 34.4239, -86.7564
+Six Way, 34.5244, -86.8828
+Sixmile, 33.0078, -87.0056
+Sizemore Landing, 30.8636, -87.8956
+Skaggs Corner, 34.6964, -85.6906
+Skeggs Crossroads, 33.1153, -86.1128
+Skinem, 34.9575, -86.5186
+Skinnerton, 31.6697, -87.0650
+Skipperville, 31.5575, -85.5456
+Skirum, 34.3236, -85.9672
+Sky Ball, 34.0219, -86.6361
+Sky Ranch, 33.4167, -86.8000
+Skyhaven Estates, 34.1517, -86.1497
+Skyline, 34.6500, -86.0167
+Skyline Acres, 34.7153, -86.7067
+Skyline Estates, 33.4167, -86.8000
+Skyview, 33.3881, -86.9758
+Slackland, 34.1467, -85.8300
+Slater, 31.9933, -88.1000
+Slaughter Landing, 34.5872, -86.6997
+Slaughters, 32.8253, -85.6725
+Sledge, 32.6994, -88.3100
+Slick Ford, 34.0872, -87.2681
+Slickrock Ford, 34.5269, -87.9131
+Sliocco Springs, 33.4556, -86.1381
+Sloan, 33.8475, -86.9558
+Slocomb, 31.1081, -85.5944
+Sloss, 33.7519, -87.0783
+Smith Hill, 33.1222, -87.1019
+Smith Institute, 34.1850, -86.0506
+Smithfield, 33.5083, -86.8419
+Smithport, 30.4592, -88.1150
+Smiths, 32.5333, -85.1000
+Smiths Ford, 33.0461, -87.1989
+Smiths Mill, 33.5600, -86.1200
+Smiths Station, 32.5400, -85.0986
+Smithson, 33.3097, -86.9525
+Smithsonia, 34.7942, -87.8792
+Smithtown, 30.8608, -88.2086
+Smuteye, 31.9778, -85.6503
+Smyer, 31.8933, -88.0289
+Smyrna, 31.2350, -85.3256
+Snead, 34.1194, -86.3956
+Snead Crossroads, 34.1194, -86.3956
+Snells Crossroads, 31.5256, -85.4361
+Snoddy, 33.0386, -87.8756
+Snow Hill(Dale), 31.4592, -85.4806
+Snow Hill(Wilcox), 32.0044, -87.0072
+Snowdoun, 32.2414, -86.2964
+Snowtown, 33.6631, -87.0383
+Socapatoy, 32.9864, -86.0672
+Social Town, 31.7117, -86.1819
+Society Hill, 32.4264, -85.4453
+Soleo, 33.0136, -86.0353
+Somerville, 34.4731, -86.7986
+Sonoma, 34.0750, -85.9028
+South, 31.4000, -86.6167
+South Alabama Infirmary, 31.7011, -87.7747
+South Baldwin Hospital, 30.4256, -87.6844
+South Calera, 33.0744, -86.7494
+South Gadsden, 34.0017, -86.0453
+South Gate Mall, 34.7500, -87.6833
+South Guntersville, 34.3500, -86.3167
+South Haleyville, 34.2111, -87.6350
+South Highlands, 33.5697, -86.7131
+South Highlands Hospital, 33.4944, -86.8067
+South Hill, 34.4103, -86.0383
+South Holt, 33.2000, -87.5333
+South Lowell, 33.9100, -87.2694
+South Orchard, 30.4647, -88.1506
+South Sheffield, 34.7422, -87.7036
+Southeast Alabama General Hospital, 31.2158, -85.3631
+Southeast Alabama Medical Center, 31.2158, -85.3631
+Southeast Alabama Rehabilitation Center, 31.2272, -85.3594
+Southern Infirmary, 30.6931, -88.0658
+Southern Junction, 31.0292, -85.4700
+Southmont, 32.3228, -86.2992
+Southside, 33.9244, -86.0225
+Southtown, 34.3500, -86.3097
+Southwood, 33.4697, -86.7825
+Souwilpa, 31.8200, -88.3292
+Spain Ford, 34.0364, -87.3783
+Spanish Fort, 30.6667, -87.9000
+Spaulding, 33.4686, -86.8425
+Speake, 34.4158, -87.1675
+Spears, 31.1447, -85.9856
+Speed, 32.7747, -86.2319
+Speeds Water Mill, 33.3333, -87.9000
+Speigner, 32.5839, -86.3447
+Spencer Store, 34.9158, -87.0414
+Spocari, 32.5178, -87.8136
+Sprague, 32.1328, -86.2700
+Spring Garden, 33.9728, -85.5539
+Spring Hill(Barbour), 32.0792, -85.3369
+Spring Hill(Batler), 31.8725, -86.5742
+Spring Hill(Choctaw), 31.9469, -88.1372
+Spring Hill(Cullman), 34.1944, -86.9564
+Spring Hill(Escambia), 31.1078, -87.0353
+Spring Hill(Mobile), 30.6983, -88.1389
+Spring Hill(Walker), 33.9775, -87.5581
+Spring Hill(Pike), 31.6908, -85.9606
+Spring Hill Medical Complex Hospital, 30.6844, -88.1319
+Spring Lake Estates, 33.6189, -86.6739
+Spring Valley, 34.6567, -87.6167
+Spring Villa, 32.5883, -85.3114
+Springbrook, 33.2000, -87.5333
+Springdale, 33.6008, -86.7664
+Springfield(Randolph), 33.2119, -85.3172
+Springfield(Clarke), 31.8336, -87.7619
+Springfield(Lauderdale), 34.8881, -87.3881
+Springhill, 33.3103, -85.9219
+Springhill Memorial Hospital, 30.6844, -88.1319
+Springs Junction, 33.1117, -86.6861
+Springville, 33.7750, -86.4717
+Springville Lake Estates, 33.7914, -86.5161
+Sprott, 32.6767, -87.2214
+Spruce Pine, 34.3919, -87.7264
+St Bernard, 34.1667, -86.8167
+St Clair, 32.3233, -86.6167
+St Clair County Hospital, 33.6053, -86.2775
+St Clair Nursing Home, 33.5775, -86.4136
+St Clair Springs, 33.7631, -86.4031
+St Clair Store, 34.8367, -86.4122
+St Elmo, 30.5033, -88.2542
+St Florian, 34.8733, -87.6233
+St Ives, 33.4300, -86.2503
+St Jude Hospital, 32.3528, -86.3242
+St Lukes Hospital, 33.6594, -85.8261
+St Margaret Hospital, 32.3744, -86.2969
+St Margarets Hospital, 32.3744, -86.2969
+St Stephens, 31.5403, -88.0553
+St Vincent Hospital, 33.5075, -86.7881
+Stabler Infirmary, 31.8333, -86.6308
+Stafford, 33.4467, -88.2450
+Stamp, 34.5878, -85.7261
+Standard(Sumter), 32.4139, -88.2922
+Standard(Walker), 33.7358, -87.2706
+Standing Rock, 33.0797, -85.2531
+Stanley, 31.2008, -86.4478
+Stanley Crossroads, 31.1344, -87.3403
+Stansel, 33.3194, -88.0456
+Stanton, 32.7356, -86.8997
+Stapler Ford, 34.5186, -86.3492
+Stapleton, 30.7425, -87.7933
+Star Hill, 31.9125, -85.6317
+Starlington, 31.6747, -86.8253
+Staryeacre Ford, 33.4275, -87.0811
+State Insane Asylum for Negroes, 31.0883, -88.0292
+State Line(Houston), 30.9500, -85.4000
+State Line(Madison), 34.9906, -86.5714
+Statesville, 32.4694, -86.8306
+Steam Mill Landing, 30.7547, -87.9164
+Stedman, 31.0711, -86.3036
+Steele, 33.9397, -86.2017
+Steele Crossing, 34.9781, -86.4106
+Steelwood, 30.7156, -87.7847
+Steenson Hollow, 34.7858, -87.6114
+Steiner, 32.3503, -86.2608
+Stemley, 33.5183, -86.2225
+Stems, 33.1311, -86.7556
+Stephenson Crossing, 33.6986, -87.4161
+Steppville, 34.0667, -86.7667
+Sterrett, 33.4486, -86.4800
+Stevenson, 34.8686, -85.8394
+Stewart, 32.9111, -87.7061
+Stewarts, 33.6186, -86.3158
+Stewarts Crossroads, 33.5406, -86.4575
+Stewartville, 33.0792, -86.2444
+Stills Crossroads, 31.9972, -85.8931
+Stinson, 34.0208, -87.9078
+Stockdale, 33.4228, -86.0272
+Stockton, 30.9936, -87.8581
+Stokeley, 31.2833, -86.4500
+Stokes, 33.1353, -87.5050
+Stonewall(Dallas), 32.5647, -87.0383
+Stonewall(Lee), 32.7064, -85.4775
+Stoney Point, 32.5908, -86.4322
+Stotesville, 33.1167, -87.1167
+Stough, 33.6956, -87.7444
+Straight Mountain, 33.9167, -86.4500
+Strata, 32.0344, -86.2942
+Straughn, 31.3881, -86.4181
+Straven, 33.2194, -86.8897
+Strawberry, 34.2492, -86.4950
+Strickland Crossroads, 33.0628, -86.3861
+Stringer, 34.4356, -86.7564
+Stroud, 33.0547, -85.3308
+Stroups Crossroads, 34.4167, -87.0833
+Studdards Crossroads, 33.8083, -87.5875
+Sturdivant, 32.9108, -85.8519
+Sturkie, 32.7978, -85.4689
+Sublett Mill, 34.6989, -86.4186
+Suburban Hospital, 30.8481, -88.0703
+Sueann, 33.7703, -86.6703
+Sugar Creek, 33.9389, -86.6800
+Suggsville, 31.5894, -87.6931
+Sulligent, 33.9017, -88.1344
+Sullivan Crossroads, 34.9003, -87.8008
+Sulphur Spring, 33.1156, -86.4436
+Sulphur Springs(De Kalb), 34.6975, -85.5803
+Sulphur Springs(Jackson), 34.7964, -85.7419
+Sulphur Springs(Cullman), 34.0642, -87.0331
+Sulphur Springs(Calhoun), 33.6942, -86.0556
+Sulphur Springs(Madison), 34.9175, -86.5058
+Sumiton, 33.7556, -87.0500
+Summer Bluff, 34.9592, -85.7672
+Summerdale, 30.4875, -87.6997
+Summerfield, 32.5206, -87.0417
+Summerville, 30.7453, -88.0767
+Summit, 34.2044, -86.4942
+Summit Farm, 33.3011, -86.9833
+Sumter, 33.3533, -87.1278
+Sumterville, 32.7117, -88.2389
+Sun Valley, 33.6442, -86.6989
+Sunflower, 31.3822, -88.0083
+Sunlight, 33.9269, -87.2103
+Sunny Cove, 30.4839, -88.1008
+Sunny Home, 34.0842, -87.6992
+Sunny South, 31.9647, -87.6400
+Sunnyside Landing, 34.5758, -86.7258
+Sunset Acres, 34.3192, -86.5139
+Sunset Cove, 34.6444, -86.5286
+Sunset Mill Village, 32.3833, -87.0000
+Superior, 33.2106, -86.9303
+Surginer, 32.0553, -87.7092
+Susie Parker Stringfellow Memorial Hospital, 33.6681, -85.8236
+Suspension, 32.1964, -85.5881
+Suttell Ford, 34.4592, -85.8467
+Suttle, 32.5361, -87.1797
+Swagg, 33.3744, -85.5481
+Swaim, 34.8694, -86.1983
+Swancott, 34.5972, -86.7886
+Swearengin, 34.5633, -86.1903
+Sweet Water, 32.0972, -87.8675
+Swift Ford, 34.5578, -86.4681
+Swink, 32.1375, -86.9953
+Sycamore, 33.2511, -86.2025
+Sylacauga, 33.1731, -86.2517
+Sylacauga City Hospital, 33.1639, -86.2556
+Sylvan Grove, 31.3536, -85.4656
+Sylvan Springs, 33.5156, -87.0150
+Sylvania, 34.5622, -85.8125

@@ -1,0 +1,76 @@
+J Paul Jones Hospital, 31.9972, -87.3003
+Jachin, 32.2297, -88.1683
+Jack, 31.5739, -86.0003
+Jack Springs, 31.1667, -87.5333
+Jackson(Clarke), 31.5089, -87.8944
+Jackson(Choctaw), 31.9167, -88.3167
+Jackson County Hospital, 34.6619, -86.0486
+Jackson Heights, 30.6703, -88.1581
+Jackson Hospital(Clarke), 31.5308, -87.8950
+Jackson Hospital(Montgomery), 32.3664, -86.2856
+Jackson Oak, 30.6225, -87.9119
+Jackson Quarters, 32.6447, -87.8517
+Jackson Spur, 31.9567, -88.3150
+Jacksonburg, 34.8908, -87.6636
+Jacksons Gap, 32.8861, -85.8117
+Jacksonville, 33.8136, -85.7614
+Jagger, 33.9833, -87.4833
+Jamback, 31.9100, -85.6653
+James, 32.6447, -85.5731
+Jamestown, 34.3978, -85.5775
+Jamesville, 32.7128, -85.6211
+Janes Mill, 31.2781, -87.1533
+Jarrett, 32.8000, -85.1833
+Jasper, 33.8311, -87.2775
+Jasper Community Hospital, 33.8403, -87.2833
+Java, 31.5578, -85.8439
+Jeddo, 31.3322, -87.5142
+Jeff, 34.8228, -86.7136
+Jefferson, 32.3867, -87.8981
+Jefferson Hills, 33.5722, -86.7733
+Jefferson Park, 33.5417, -86.6444
+Jefferson Tuberculosis Sanitorium, 33.4683, -86.7861
+Jemison, 32.9597, -86.7467
+Jena, 33.1306, -87.8469
+Jenifer, 33.5492, -85.9364
+Jenkins, 33.7994, -85.6700
+Jenkins Crossroads, 32.0261, -85.7744
+Jericho(Jackson), 34.9775, -86.0792
+Jericho(Perry), 32.7739, -87.2753
+Jernigan, 32.1261, -85.0722
+Jerusalem, 34.7050, -87.2269
+Jerusalem Heights, 33.2000, -87.5333
+Jester, 32.7033, -85.1436
+Jet, 33.6678, -86.9319
+Joe Wheeler Dam, 34.6833, -87.4000
+Joffre, 32.5628, -86.6392
+John A Andrew Hospital, 32.4336, -85.7050
+Johnny Ford, 33.8328, -87.3856
+Johns, 33.3617, -87.1097
+Johnson Crossroads, 34.9608, -87.7517
+Johnson Landing, 34.5483, -86.6603
+Johnsons Crossing, 34.0889, -86.7967
+Johnsons Mill, 34.2833, -86.4503
+Johnsonville, 31.4333, -86.9333
+Jones, 32.5839, -86.8975
+Jones Chapel, 34.2103, -87.0519
+Jones Crossroads(Limestone), 34.7181, -87.0017
+Jones Crossroads(Houston), 31.2106, -85.4847
+Jones Mill, 32.7506, -85.5594
+Jones Valley, 33.4650, -86.8789
+Jones Valley Estates, 34.6833, -86.5578
+Jonesboro(Franklin), 34.5000, -87.7333
+Jonesboro(Baldwin), 30.6000, -87.9000
+Jonesboro(Jefferson), 33.3819, -86.9619
+Jonesville, 31.8931, -85.9042
+Joppa, 34.2978, -86.5561
+Joquin, 31.7864, -86.1642
+Jordan(Elmore), 32.7053, -86.0022
+Jordan(Washington), 31.4936, -88.1944
+Jordans Mill, 34.4603, -88.0028
+Joseph Springs, 33.6953, -85.6736
+Josephine, 30.3264, -87.5311
+Josie, 31.8697, -85.7189
+Joy, 34.0333, -86.6167
+Judson, 32.8358, -85.5861
+Jumbo, 32.9672, -86.5906

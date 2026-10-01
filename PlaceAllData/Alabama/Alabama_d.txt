@@ -1,0 +1,158 @@
+D'Olive, 30.8703, -87.7958
+Dadeville, 32.8311, -85.7636
+Daisey City, 33.6169, -86.9217
+Daisy(Butler), 31.8989, -86.4847
+Daisy(Etowah), 34.0675, -85.9575
+Dale County Hospital, 31.4514, -85.6319
+Dale Ferry Landing, 31.4803, -87.5636
+Daleville, 31.3100, -85.7131
+Dallas(Madison), 34.7439, -86.5767
+Dallas(Blout), 33.8494, -86.6606
+Damascus(Coffee), 31.3203, -86.0044
+Damascus(Escambia), 31.1728, -86.8569
+Dancy, 33.0111, -88.2928
+Danielsville, 31.9206, -86.4064
+Danleys Crossroads, 31.4189, -86.1678
+Danville(Morgan), 34.4144, -87.0875
+Danville(Jefferson), 33.5922, -86.7700
+Danway, 32.7583, -85.3772
+Danzey, 31.4672, -85.2906
+Daphne, 30.6033, -87.9036
+Dargin, 33.1522, -86.7589
+Darling Landing, 30.4431, -87.9133
+Darlington, 31.9775, -87.1306
+Darrah, 32.8556, -87.7883
+Darwin Downs, 34.7450, -86.5631
+Dauphin Island, 30.2553, -88.1097
+Davies Hospital, 31.2231, -85.4000
+Davis Crossroads, 32.1356, -86.1758
+Davis Hills, 34.7656, -86.6119
+Davis Landing, 31.2397, -87.8453
+Daviston, 33.0528, -85.6397
+Davistown, 34.5417, -86.0197
+Davisville, 32.3275, -85.6697
+Dawes, 30.6075, -88.2553
+Dawson, 34.3039, -85.9261
+Dayton, 32.3508, -87.6419
+DCH Regional Medical Center, 33.2050, -87.5264
+De Kalb County Health Clinic, 34.4381, -85.7267
+De Kalb County Hospital, 34.4383, -85.7528
+Deans, 31.6600, -86.9389
+Deans Landing, 32.3883, -88.0456
+DeArmanville, 33.6264, -85.7514
+Deas, 32.2292, -88.0972
+Deason Hill, 33.7667, -87.1833
+Deatsville, 32.6081, -86.3958
+Deavers Town, 33.9231, -86.5875
+Deavertown, 33.9833, -86.5833
+Decatur, 34.6058, -86.9833
+Decatur General Hospital, 34.5900, -86.9719
+Decatur Junction, 34.6267, -86.9708
+Deerhurst, 33.2831, -86.7636
+DeFoor, 34.2206, -87.5678
+Delchamps, 30.4006, -88.1489
+Dells Vista Shores, 34.7619, -87.2747
+Delma, 33.3861, -88.1844
+Delmar, 34.1700, -87.6058
+Delta, 33.4400, -85.6906
+Demopolis, 32.5175, -87.8364
+Dempsey, 34.4842, -87.9497
+Denson, 32.9325, -85.3019
+Denver, 32.9939, -85.6067
+DePorres Hospital, 30.6722, -88.0514
+Deposit, 34.8522, -86.4581
+Derby, 32.3622, -88.1744
+Derder Landing, 32.6306, -87.9308
+Detroit, 34.0281, -88.1700
+Devenport, 32.0656, -86.4064
+Dewey, 34.3261, -85.5078
+Dexter, 32.6392, -86.1497
+Diamond, 34.3022, -86.3964
+Dickert, 33.1317, -85.4731
+Dickinson, 31.7633, -87.7106
+Dill, 31.5108, -85.6536
+Dillard, 31.5175, -85.6950
+Dillburg, 33.1936, -88.1014
+Dilworth, 33.8022, -87.0536
+Dime, 31.9167, -87.9833
+Dingler, 33.3311, -85.6308
+District Four Sanatorium, 34.0725, -86.0197
+District Number One Sanatorium, 34.5217, -86.9672
+Dixiana, 33.7333, -86.7000
+Dixie Escambia, 31.1500, -86.7333
+Dixie Chilton, 32.7231, -86.9058
+Dixie Springs, 33.7136, -87.3708
+Dixieland, 32.4667, -85.0167
+Dixon Corner, 30.4519, -88.2419
+Dixon Shop, 34.1400, -85.7592
+Dixons Mills, 32.0581, -87.7875
+Dixonville, 31.0003, -87.0361
+Docena, 33.5594, -86.9311
+Dock, 31.8333, -86.6333
+Docray, 33.2236, -87.1656
+Doctor D. E. Jackson Memorial Hospital, 34.9903, -87.1536
+Doctor Savages Hospital, 32.5119, -87.8350
+Doctor Watkins Infirmary, 32.3664, -86.2856
+Doctors Hospital, 30.6986, -88.0783
+Dog, 34.4000, -85.6833
+Dog Town, 34.3528, -85.7369
+Dogtown, 33.9481, -87.5667
+Dogwood, 33.1511, -86.8731
+Dogwood Shelby, 34.4500, -85.7167
+Dolcito De Kalb, 33.5833, -86.7667
+Doliska, 33.7117, -87.1011
+Dollar, 32.8786, -86.4242
+Dolomite, 33.4628, -86.9614
+Dolonar, 33.3889, -86.9914
+Dolonar Junction, 33.4264, -86.9714
+Donaldson Mill, 34.2508, -87.6258
+Dora, 33.7286, -87.0903
+Dora Junction, 33.7608, -87.0614
+Doster, 31.6475, -85.6739
+Dosterville, 32.4383, -86.4497
+Dothan, 31.2231, -85.3906
+Double Bridges(Henry), 31.5500, -85.2500
+Double Bridges(Marshall), 34.2322, -86.1236
+Double Springs, 34.1464, -87.4022
+Doublehead, 33.0942, -85.3942
+Douglas(Marshall), 34.1736, -86.3236
+Douglas(Winston), 34.4269, -85.7286
+Douglasville(Baldwin), 30.8658, -87.7856
+Douglasville(Jefferson), 33.5542, -86.7983
+Dove, 32.4914, -88.3914
+Dovertown, 33.7378, -87.1536
+Dowdle, 33.1808, -87.2100
+Downing, 32.1667, -86.0000
+Downs, 32.2647, -85.7842
+Dozier, 31.4919, -86.3650
+Drewry, 31.4861, -87.2531
+Drifton, 33.6814, -87.2328
+Dripping Springs, 34.2422, -87.0044
+Druid City Hospital, 33.2050, -87.5264
+Drummond, 33.7828, -87.0186
+Drummond Fraser Hospital, 33.1803, -86.2533
+Dry Forks, 31.9014, -87.3667
+Dry Valley, 33.5833, -86.0908
+Dublin, 32.0319, -86.1592
+Duck Springs, 34.1458, -85.9992
+Dudley, 33.1608, -87.3000
+Dudleyville, 32.9150, -85.6000
+Dug Hill, 34.7133, -86.4878
+Duke, 33.8506, -85.9025
+Duketon, 34.3650, -87.8322
+Dulin, 33.9167, -87.8000
+Dunavant, 33.4933, -86.5442
+Dunbar, 31.6781, -88.3461
+Duncan, 33.4569, -86.8828
+Duncan Crossroads, 34.5444, -85.9144
+Duncanville, 33.0617, -87.4422
+Dundee, 31.1203, -85.6717
+Dunn, 31.8450, -85.8961
+Dupree(Lee), 32.4683, -85.3678
+Dupree(Houston), 31.1283, -85.2339
+Dutton, 34.6108, -85.9169
+Duvall, 31.2761, -86.2419
+Dwight, 31.1517, -88.2586
+Dyas, 30.9622, -87.6761
+Dyers Crossroads, 34.2492, -86.8206
+Dykes Crossroad, 31.6000, -85.5611
