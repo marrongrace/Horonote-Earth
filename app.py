@@ -736,7 +736,7 @@ if submit_button:
                 ]
                 p1_loc_full = ", ".join([str(part) for part in p1_loc_parts if part])
 
-                # p2の地域情報を安全に組み立て（selected_stateの有無に関わらずクラッシュしない）
+                # p2の地域情報を安全に組み立て
                 p2_loc_parts = [
                     p2_data.get('input_city_name'),
                     p2_data.get('selected_state'),
