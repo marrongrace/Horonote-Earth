@@ -1,0 +1,15 @@
+All Saints, 17.0500, -61.8000
+Antigua Island, 17.0500, -61.8000
+Barbuda Island, 17.6333, -61.8000
+Bolands, 17.0333, -61.8833
+Codrington, 17.6333, -61.8333
+Falmouth, 17.0000, -61.7833
+Fort Byham, 17.1333, -61.8000
+Freetown, 17.0500, -61.7000
+Liberta, 17.0333, -61.7833
+Old Road, 17.0167, -61.8333
+Parham, 17.0833, -61.7667
+Redonda Island, 16.9167, -62.3167
+St John's, 17.1000, -61.8500
+Urlins, 17.0333, -61.8667
+Willikies, 17.0833, -61.7000
