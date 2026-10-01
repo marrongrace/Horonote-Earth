@@ -1,0 +1,115 @@
+Tafton, 34.6194, -92.2211
+Tag, 35.5314, -93.0414
+Talbert Landing, 36.4050, -92.2208
+Talladega, 34.1167, -92.1167
+Talley, 33.1622, -93.0736
+Tamo, 34.1103, -91.7592
+Tappan, 34.3167, -90.9167
+Tarry, 34.0758, -91.8414
+Tarsus, 35.0900, -90.4072
+Tate, 35.0267, -93.9967
+Tates Bluff, 33.7989, -92.9008
+Taylor, 33.1003, -93.4608
+Tech, 35.2833, -93.1500
+Telico, 35.1167, -90.8000
+Temperanceville, 33.9703, -93.8828
+Temple, 33.5822, -93.9906
+Tennessee(Grant), 34.2000, -92.6167
+Tennessee(Drew), 33.5500, -91.7833
+Terre Noire, 34.0667, -93.2833
+Terrytown, 34.6536, -92.4272
+Texarkana, 33.4417, -94.0375
+Thacker, 36.2333, -91.2667
+The Pines, 34.8667, -94.0703
+The Quarry, 35.7919, -91.7511
+Thebes, 33.2861, -91.5842
+Thida, 35.5711, -91.4789
+Thiel, 34.2453, -92.6158
+Thola, 35.8867, -92.4292
+Thomas McRae Tuberculosis Home, 34.6167, -92.4472
+Thomasville, 34.7458, -90.9339
+Thompson(Crittenden), 35.0050, -90.3389
+Thompson(Madison), 35.9217, -93.9461
+Thompson(Pike), 34.0833, -93.6833
+Thornburg, 34.9342, -92.8064
+Thorney, 35.9953, -93.9322
+Thornton, 33.7789, -92.4917
+Three Brothers, 36.4525, -92.4656
+Three Creeks, 33.0944, -92.8536
+Three Forks, 35.3378, -90.4456
+Three Sisters Landing, 34.6239, -93.1714
+Three Way, 35.6989, -90.2439
+Tichnor, 34.1403, -91.2706
+Tide Water, 33.2144, -93.1397
+Tillar, 33.7122, -91.4528
+Tilly, 35.7167, -92.8333
+Tilton, 35.3172, -91.0139
+Tily, 35.7200, -92.8328
+Timbo, 35.8708, -92.3169
+Tinsman, 33.6297, -92.3550
+Tintop, 34.7533, -94.2708
+Tip, 35.1628, -91.1672
+Tipperary, 36.3342, -90.4725
+Tisdale Ford, 36.0736, -93.9919
+Titsworth, 35.3500, -93.6833
+Toad Suck, 35.0756, -92.5597
+Tobin, 34.0333, -93.5000
+Togo, 35.3408, -90.5486
+Tokalon, 35.3764, -93.4711
+Tokio, 34.0033, -93.7508
+Toledo, 33.9264, -92.1611
+Tollette, 33.8197, -93.8942
+Tollville, 34.7197, -91.5353
+Toltec, 34.6511, -92.0558
+Tolu, 35.8144, -94.4950
+Tomahawk, 36.0606, -92.7064
+Tomato, 35.8436, -89.7411
+Tomberlins, 34.5158, -91.8714
+Tomlinson, 35.0833, -94.0833
+Toney, 35.5181, -93.9625
+Toneyville, 34.8994, -92.1019
+Tongin, 34.8561, -90.6081
+Tontitown, 36.1778, -94.2333
+Topaz, 35.0364, -90.3592
+Totten, 34.8833, -91.7667
+Trace, 33.8369, -92.9519
+Traceys Landing, 36.2989, -92.2667
+Trafalgar, 33.3542, -91.5950
+Trammellville, 36.2667, -90.3000
+Traskwood, 34.4492, -92.6539
+Treat, 35.6125, -93.1611
+Trenton, 34.4997, -90.8653
+Trippe, 33.5953, -91.3344
+Troy(Mssissippi), 35.6000, -89.9667
+Troy(Ouachita), 33.5008, -93.0869
+Trumann, 35.6736, -90.5072
+Tubal, 33.0667, -92.9333
+Tuberculosis Sanitorium, 35.3642, -94.3475
+Tuck, 35.8333, -90.8000
+Tucker, 34.4444, -91.9544
+Tuckerman, 35.7306, -91.1983
+Tuckertown, 35.8097, -89.9358
+Tulip, 34.0822, -92.6536
+Tull, 34.4478, -92.5761
+Tully, 35.6833, -90.5167
+Tulot, 35.6189, -90.4758
+Tumbling Shoals, 35.5419, -91.9672
+Tunis, 35.9661, -90.5378
+Tupelo, 35.3931, -91.2306
+Turkey, 36.2444, -92.7636
+Turkey Creek, 35.7664, -92.2097
+Turkey Scratch, 34.6439, -90.9272
+Turner(Mississippi), 35.8369, -90.0617
+Turner(Phillips), 34.4761, -91.0186
+Turner Memorial Hospital, 35.4856, -93.8333
+Turrell, 35.3797, -90.2578
+Tuttle, 36.0336, -93.9722
+Twentythree, 35.3761, -91.5594
+Twin City Hospital, 35.3975, -94.4086
+Twin Creek, 35.9456, -92.0361
+Twin Rivers Medical Center, 34.1236, -93.0878
+Twin Springs, 34.7500, -92.3667
+Twist, 35.3761, -90.5072
+Tyro, 33.8356, -91.7206
+Tyronza, 35.4900, -90.3586
+Tyronza Junction, 35.5122, -90.3892

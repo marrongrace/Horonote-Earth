@@ -1,0 +1,129 @@
+Aa Junction, 36.0797, -90.9397
+Abbott, 35.0733, -94.1936
+Aberdeen, 34.6033, -91.3417
+Acorn, 34.6428, -94.2008
+Ada, 35.1069, -92.8733
+Adona, 35.0381, -92.8978
+Advance, 36.1553, -92.3822
+Aetna, 35.9297, -90.5547
+Afton, 36.3833, -91.5167
+Agnos, 36.2772, -91.6914
+Airport Village, 35.6378, -91.1950
+Alabam, 36.1525, -93.6811
+Alabama, 33.4833, -93.4000
+Alamo, 34.4739, -93.4686
+Albany, 33.6667, -93.3667
+Albert, 34.3711, -93.8744
+Albert Pike, 34.5000, -93.0500
+Albion, 35.3425, -91.7894
+Alco, 35.8875, -92.3669
+Alexander(Greene), 36.0667, -90.5333
+Alexander(Pulaski), 34.6294, -92.4411
+Alf, 34.4897, -93.8703
+Alfrey, 34.8289, -91.1550
+Algoa, 35.5058, -91.1167
+Alicia, 35.8931, -91.0828
+Alix, 35.4247, -93.7303
+Allbrook, 33.8833, -93.9167
+Alleene, 33.7700, -94.2603
+Allen, 35.6000, -93.1333
+Allendale, 34.8103, -91.2664
+Allfriend, 36.1833, -93.4000
+Allis, 33.6278, -91.9050
+Allison, 35.9367, -92.1172
+Allport, 34.5419, -91.7839
+Alma, 35.4778, -94.2217
+Almond, 35.6958, -91.7983
+Almyra, 34.4061, -91.4094
+Alpena, 36.2947, -93.2919
+Alpha, 35.1156, -93.2806
+Alpine, 34.2289, -93.3789
+Alread, 35.6328, -92.6797
+Altheimer, 34.3192, -91.8472
+Alto, 35.5700, -90.3311
+Altus, 35.4461, -93.7622
+Aly, 34.9833, -93.3000
+Amagon, 35.5619, -91.1103
+Amanca, 35.1083, -90.2297
+Amboy, 34.8058, -92.2914
+Ames, 33.5747, -93.2169
+Amity, 34.2647, -93.4608
+Amy, 33.7319, -92.8153
+Anderson(Benton), 36.3000, -94.2833
+Anderson(Scott), 34.9122, -94.1214
+Anderson Tully, 35.4853, -90.6017
+Andrews, 35.1839, -91.5681
+Andrews Landing, 35.4197, -90.0450
+Annieville, 36.1550, -91.2403
+Anthony, 33.7000, -93.5833
+Antioch(Craighead), 35.9294, -90.5769
+Antioch(Hot Spring), 34.3117, -92.9867
+Antioch(Perry), 34.9578, -92.7586
+Antioch(White), 35.1356, -91.9169
+Antoine, 34.0361, -93.4206
+Apalco, 33.3583, -93.4600
+Apex, 34.9997, -94.4358
+Aplin, 34.9739, -92.9786
+Apple Glenn, 36.4500, -94.5333
+Appleby, 36.0211, -94.2461
+Applegate Ford, 36.2631, -93.6108
+Appleton, 35.4244, -92.8747
+Apt, 35.7742, -90.6722
+Arbaugh, 35.7817, -93.5014
+Arbor Grove, 36.0183, -91.0475
+Arcadia, 33.8422, -93.4658
+Archey Valley, 35.7000, -92.7333
+Ard, 35.2333, -93.1667
+Arden, 33.6894, -94.2856
+Arkadelphia, 34.1208, -93.0536
+Arkana(Baxter), 36.2383, -92.3164
+Arkana(Lafayette), 33.1000, -93.6500
+Arkansas, 34.0667, -91.3667
+Arkansas Childrens Hospital, 34.7428, -92.2925
+Arkansas City, 33.6086, -91.2067
+Arkansas Fuel Oil Company Village, 33.2667, -93.2333
+Arkansas Methodist Hospital, 36.0519, -90.4981
+Arkansas Post, 34.0167, -91.3500
+Arkansas State Hospital, 34.7494, -92.3228
+Arkawana, 36.4036, -92.4608
+Arkinda, 33.7803, -94.4686
+Arkola, 35.0847, -94.3089
+Arkoma, 35.3542, -94.4356
+Arlberg, 35.7336, -92.3892
+Armorel, 35.9200, -89.7981
+Armstrong, 36.3728, -91.3172
+Arnett, 35.8950, -94.0394
+Artesian, 33.4017, -92.4689
+Artex, 33.3875, -93.8319
+Arthur, 35.2500, -92.6833
+Artist Point, 35.7197, -94.1372
+Ash Flat, 36.2239, -91.6083
+Ashdown, 33.6742, -94.1311
+Asher(Madison), 35.9425, -93.8503
+Asher(Pulaski), 34.7333, -92.3333
+Ashland, 35.9667, -91.0167
+Ashley, 35.8500, -91.6167
+Ashley Memorial Hospital, 33.1303, -91.9619
+Ashton, 33.3128, -91.3392
+Athelstan, 35.6981, -90.1783
+Athens, 34.3144, -93.9767
+Atkins, 35.2464, -92.9364
+Atlanta, 33.1186, -93.0525
+Attica, 36.3508, -90.9953
+Atwood, 34.0983, -94.0725
+Aubrey, 34.7167, -90.9003
+Auburn, 34.0333, -91.5167
+Augsburg, 35.4144, -93.2381
+Augusta, 35.2822, -91.3653
+Aurelle, 33.0481, -92.4056
+Aurora, 35.9972, -93.7025
+Austin(Loneke), 34.9983, -91.9836
+Austin(Conway), 35.4419, -92.5264
+Auvergne, 35.5136, -91.2306
+Avant, 34.6458, -93.3397
+Avant Landing, 34.6361, -93.3833
+Avery, 33.9297, -91.6569
+Avilla, 34.6825, -92.5850
+Avoca, 36.4019, -94.0706
+Avon, 34.0747, -94.3228
+Azor, 33.5917, -93.4247

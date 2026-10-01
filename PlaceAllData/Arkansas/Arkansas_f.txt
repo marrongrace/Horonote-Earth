@@ -1,0 +1,145 @@
+Faber, 34.1683, -92.9361
+Fair Field, 35.3269, -90.8258
+Fair Landing, 34.2567, -90.8394
+Fair Oaks, 35.2433, -91.0311
+Fairbanks, 35.4444, -92.2719
+Fairfield(Jefferson), 34.2125, -91.8950
+Fairfield(Pulaski), 34.6833, -92.3500
+Fairfield Bay, 35.5942, -92.2778
+Fairindale, 34.0667, -92.5500
+Fairman, 34.7789, -92.2119
+Fairmount, 34.5956, -91.5989
+Fairplay, 34.5000, -92.7000
+Fairview(Marion), 36.3333, -92.6044
+Fairview(Ouachita), 33.5364, -92.8378
+Fairview(Searcy), 35.9453, -92.4869
+Fairview(Sevier), 34.1667, -94.3167
+Fairview(Fulton), 36.3097, -91.8281
+Fairview(Pulaski), 34.7022, -92.2769
+Fairview(Chicot), 33.2836, -91.2606
+Fairview(Dallas), 33.9731, -92.8794
+Faith, 34.1036, -92.1033
+Falcon, 33.4644, -93.4133
+Falls Chapel, 33.8833, -94.0833
+Fallsville, 35.7764, -93.4653
+Fancy Hill, 34.4000, -93.6167
+Fannie, 34.6994, -93.4494
+Farelly Lake, 34.1047, -91.5306
+Farewell, 36.3922, -93.3694
+Fargo, 34.9514, -91.1800
+Farindale, 34.0928, -92.4083
+Farmington, 36.0419, -94.2469
+Farmville, 33.5156, -92.1903
+Farris, 35.9500, -92.3667
+Farris Springs, 35.6447, -93.4633
+Faulkner County Hospital, 35.0856, -92.4575
+Faulknerville, 36.1667, -90.6167
+Fayette, 33.3500, -92.4500
+Fayette Junction, 36.0417, -94.1803
+Fayetteville, 36.0625, -94.1572
+Fayetteville City Hospital, 36.0597, -94.1647
+Feenyville, 33.9772, -91.9092
+Felce, 35.2306, -90.3992
+Felker, 36.2333, -94.4667
+Felsenthal, 33.0594, -92.1567
+Felton, 34.8042, -90.7961
+Fender, 36.1750, -90.8958
+Fendley, 34.2322, -93.3333
+Fenter, 34.3767, -92.6375
+Ferda, 34.4589, -91.9544
+Ferguson(Phillips), 34.1381, -90.9839
+Ferguson(Yell), 35.1167, -93.4333
+Ferguson Crossroads, 33.3328, -93.9531
+Ferguson Landing, 34.1275, -90.9639
+Fern, 35.6389, -94.0161
+Ferndale, 34.7789, -92.5575
+Fiftysix, 35.9575, -92.2183
+Figure Five, 35.5169, -94.3536
+Finch, 36.0667, -90.5333
+Fir, 34.6167, -93.4667
+Fisher(Craighead), 35.7806, -90.9803
+Fisher(Poinsett), 35.4914, -90.9742
+Fitzgerald, 35.6525, -91.2886
+Fitzgerald Crossing, 35.1786, -90.8033
+Fitzhugh, 35.3581, -91.3228
+Fivemile, 35.6736, -91.9594
+Flag, 35.8192, -92.3942
+Flag Lake Crossing, 35.2236, -90.6431
+Flat, 35.9594, -92.9858
+Flat Creek, 36.1000, -91.2167
+Flat Rock, 35.3333, -93.2500
+Flatwoods, 36.0072, -93.1344
+Fleener, 34.8667, -91.0167
+Flint, 36.2667, -94.4167
+Flippin, 36.2789, -92.5969
+Floodway, 35.8833, -90.1667
+Floral, 35.5872, -91.7569
+Florence, 33.7656, -91.6456
+Floss, 35.7950, -94.3608
+Floyd, 35.1947, -91.9675
+Fogel, 34.7069, -94.4542
+Fogleman, 35.4000, -90.2500
+Fomby, 33.6833, -94.1333
+Fontaine, 36.0006, -90.8133
+Fordyce, 33.8136, -92.4128
+Foreman, 33.7217, -94.3967
+Forest Grove, 33.0422, -93.1644
+Forest Park, 34.7667, -92.3833
+Formosa, 35.4631, -92.5100
+Forrest Bonner, 33.8392, -92.5444
+Forrest City, 35.0081, -90.7897
+Fort Chaffee, 35.3122, -94.3058
+Fort Douglas, 35.6842, -93.2417
+Fort Lynn, 33.1650, -93.8839
+Fort Roots Veterans Administration Hospital, 34.7764, -92.2958
+Fort Smith, 35.3858, -94.3983
+Forty Four, 36.1436, -92.0608
+Forum, 36.1817, -93.7147
+Foster, 36.3500, -90.9833
+Foster Hill, 33.1231, -92.7261
+Fouke, 33.2611, -93.8853
+Fountain Hill, 33.3578, -91.8503
+Fountain Lake, 34.5728, -92.9875
+Fountain Prairie, 33.2333, -91.8000
+Four Forks, 34.7667, -90.7667
+Four Forks, 35.0622, -91.2389
+Four Gums, 35.0139, -91.0131
+Fourche, 34.9939, -92.6208
+Fourche Junction, 34.9564, -93.1569
+Fourche Lafave, 35.0000, -92.8167
+Fourmile Corner, 34.9783, -91.5636
+Fourmile Hill, 35.2906, -91.7703
+Fowler, 35.1483, -93.0200
+Fox, 35.7914, -92.2975
+Fox Hill, 35.0958, -94.2911
+Francis(Boone), 36.2333, -93.0667
+Francis(Cleburne), 35.5833, -92.0667
+Francure, 35.1500, -91.4833
+Franklin, 36.1703, -91.7758
+Freck, 36.1072, -92.7000
+Fredonia, 34.8167, -91.4000
+Free Hope, 33.2917, -93.1639
+Freedom, 34.6333, -94.3833
+Freeo, 33.7667, -92.6833
+French(Fulton), 36.3606, -91.6933
+French(Lafayette), 33.0667, -93.5500
+Frenchmans Bayou, 35.4661, -90.1808
+Frenchport, 33.4711, -92.7778
+Frenchport Landing, 33.4833, -92.7539
+Fresno, 33.9631, -91.7069
+Friendship(Columbia), 33.3667, -93.5000
+Friendship(Cleveland), 33.9769, -92.0433
+Friendship(Conway), 35.3753, -92.5081
+Friendship(Hot Spring), 34.2231, -93.0028
+Friley, 35.7292, -93.6278
+Frisco, 36.2564, -94.0781
+Frisco Junction, 35.9333, -90.2500
+Fritz, 36.1858, -90.2853
+Frog Town, 35.0397, -94.3542
+Fryatt, 36.4636, -91.6511
+Frys Mill, 35.5483, -90.3347
+Fulton, 33.6144, -93.8133
+Fulton County Hospital, 36.3828, -91.8100
+Funston, 35.0572, -92.1869
+Furlow, 34.8331, -91.9803
+Furry, 35.4806, -94.3022

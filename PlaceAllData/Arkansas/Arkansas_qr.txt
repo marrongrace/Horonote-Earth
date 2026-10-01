@@ -1,0 +1,213 @@
+Quachita Hospital, 34.5067, -93.0528
+Quarles, 35.1011, -90.2453
+Quarry Heights, 35.1100, -93.6964
+Quarry Landing, 36.2611, -92.2411
+Quinn, 33.2817, -92.6144
+Quitman, 35.3842, -92.2156
+Ragan, 34.2928, -90.8594
+Raggio, 34.8322, -90.6050
+Rago, 36.4506, -94.1958
+Ragsdale, 34.9403, -92.8950
+Ragtown, 34.5403, -91.1100
+Rally Hill, 36.1608, -92.9525
+Ralph, 36.1719, -92.6742
+Ramsey, 33.8742, -92.5536
+Ramsey Hill, 35.7667, -91.6167
+Randall, 34.0233, -92.0411
+Randolph, 33.9167, -91.5167
+Randolph County Hospital, 36.2897, -90.9969
+Randolph County Medical Center, 36.2897, -90.9969
+Randolph Memorial Hospital, 36.2531, -90.9778
+Random Shot Landing, 35.4922, -90.0464
+Ranger, 35.1219, -93.3431
+Rankin, 34.9667, -92.7333
+Raspberry, 35.6864, -92.9347
+Rasts Landing, 35.3786, -90.1283
+Ratcliff, 35.3083, -93.8833
+Ratio, 34.2611, -90.9319
+Ravanna, 33.0653, -94.0408
+Ravenden, 36.2333, -91.2517
+Ravenden Springs, 36.3164, -91.2225
+Rawlinson, 34.9292, -90.5897
+Rawlison, 34.9500, -90.4667
+Rawls, 33.0106, -91.8550
+Raymond, 34.6167, -91.1167
+Rea Valley, 36.2211, -92.5411
+Reader, 33.7519, -93.1050
+Readland, 33.0656, -91.2133
+Reamey, 35.6644, -91.3092
+Rebsamen Memorial Hospital, 34.8736, -92.1231
+Rebsamen Regional Medical Center, 34.8736, -92.1231
+Rector, 36.2631, -90.2925
+Red Bank, 36.1961, -93.2667
+Red Bank Landing, 36.4494, -92.2675
+Red Bluff, 33.6458, -93.9581
+Red Colony, 33.9667, -94.1500
+Red Fork, 33.9364, -91.2700
+Red Gate, 34.6464, -92.4442
+Red Gum Farm, 34.9639, -90.4800
+Red Hill, 33.7433, -93.0244
+Red Leaf, 33.2722, -91.1964
+Red Lick, 35.5500, -93.4167
+Red Line, 35.7147, -90.0911
+Red Oak, 34.4203, -93.0211
+Red Onion, 35.9958, -90.3425
+Red Rock, 35.9144, -93.1353
+Red Springs, 33.9022, -93.0642
+Red Star, 35.8667, -93.5306
+Red Wing, 34.0461, -94.2428
+Redding, 35.6800, -93.7769
+Redemption, 35.0000, -92.6167
+Redfern, 34.9933, -90.8353
+Redfield, 34.4450, -92.1831
+Redland, 33.8067, -93.2775
+Redman Point, 35.2406, -90.1131
+Redstripe, 35.8167, -91.9167
+Reed, 33.7000, -91.4500
+Reed Keathly, 35.0500, -93.4833
+Reeds Creek, 35.9333, -91.3000
+Reedville, 33.9303, -91.5183
+Reese, 34.8972, -90.4467
+Reeves, 35.9136, -93.4986
+Reform, 34.7897, -92.8333
+Rehms Corner, 35.0869, -92.7989
+Relfs Bluff, 33.8011, -91.8428
+Relief, 35.6500, -91.7000
+Remmel, 35.5469, -91.1631
+Rena, 35.4833, -94.3500
+Rendezvous, 33.5100, -92.8311
+Republican, 35.2814, -92.4250
+Retta, 35.5167, -92.9489
+Revel, 35.2300, -91.2814
+Revilee, 35.1833, -93.7833
+Rex, 35.6025, -92.7058
+Reydell, 34.1572, -91.5675
+Reyno, 36.3628, -90.7536
+Reynolds(Greene), 36.1833, -90.3333
+Reynolds(Madison), 35.9819, -93.5994
+Rhea, 36.0142, -94.4028
+Rheas Mill, 36.0167, -94.4000
+Rhyne, 36.3581, -90.1394
+Riceville, 35.1231, -90.2258
+Rich, 34.7644, -91.1372
+Rich Mountain, 34.6906, -94.3369
+Richardson(Randolph), 36.4000, -90.8667
+Richardson(Jefferson), 34.2181, -91.7381
+Richland, 34.7167, -92.2667
+Richland View, 36.0000, -94.0167
+Richmond(Little River), 33.6375, -94.2072
+Richwood(Clark), 34.0833, -93.0333
+Richwoods(Clark), 34.0369, -93.0853
+Richwoods(Lawrence), 36.1425, -91.0117
+Ridge, 35.7472, -90.6869
+Ridgeway, 36.3178, -93.2044
+Riffe Ford, 33.7722, -93.0353
+Riggs, 35.7706, -90.9544
+Riley(Yell), 35.1167, -93.5333
+Riley(Ashley), 33.3631, -91.7164
+Rington, 35.9961, -90.1881
+Rio Vista, 35.2906, -91.4708
+Risher, 35.7467, -90.9736
+Rison, 33.9583, -92.1900
+Ritchie, 33.2861, -92.5417
+Ritz, 34.7531, -94.2361
+River Front, 35.2628, -90.6667
+River Mountain, 35.2833, -93.3167
+Riverdale, 35.4236, -94.1039
+Riverside(Woodruff), 35.2936, -91.2411
+Riverside(Logan), 35.2989, -93.2867
+Rivervale, 35.6739, -90.3400
+Riverview, 35.1158, -92.7842
+Riverview Medical Center, 34.7533, -92.2844
+Rixey, 34.8158, -92.1689
+Roane, 33.1167, -93.6833
+Roanoke, 36.2167, -91.0667
+Roark, 33.3617, -91.8200
+Roasting Ear, 35.9333, -92.3000
+Rob Roy, 34.2811, -91.8969
+Roberts, 34.4500, -91.7167
+Robertsville, 35.3678, -92.7900
+Robinson, 36.1692, -94.3586
+Robinson Point Landing, 36.3517, -92.2383
+Rock, 36.2717, -93.8661
+Rock Creek, 36.0333, -92.5167
+Rock Hill(Greene), 36.0667, -90.5333
+Rock Hill(Sevier), 33.8833, -94.0833
+Rock Island Junction, 33.4500, -92.1667
+Rock Island Quarters, 33.2167, -92.6667
+Rock Springs(Drew), 33.7611, -91.9081
+Rock Springs(Searcy), 35.9447, -92.5353
+Rockhouse, 36.2819, -93.6728
+Rockport, 34.3875, -92.8253
+Rockwell, 34.5000, -93.0500
+Rocky(Polk), 34.5917, -94.3692
+Rocky(Mississippi), 35.9333, -90.2500
+Rocky Crossing, 34.9117, -93.0556
+Rocky Ford, 36.1611, -93.7603
+Rocky Hill, 35.7500, -92.5167
+Rocky Mound(Columbia), 33.1408, -93.3647
+Rocky Mound(Hempstead), 33.6689, -93.5297
+Rocky Mound(Miller), 33.2667, -93.8833
+Rodney, 36.2428, -92.1611
+Roe, 34.6333, -91.3850
+Rogers, 36.3319, -94.1183
+Rohwer, 33.7608, -91.2756
+Rokey, 35.8594, -90.2747
+Roland, 34.9006, -92.4981
+Rolfe Junction, 33.1236, -91.8725
+Rolla, 34.2081, -92.7306
+Roller Ridge, 36.4833, -93.9167
+Romance, 35.2408, -92.0511
+Rondo(Lee), 34.6592, -90.8206
+Rondo(Miller), 33.4444, -93.9775
+Rone, 34.0697, -92.1278
+Roosevelt, 35.5164, -91.6692
+Rosa, 35.7694, -89.8497
+Rosboro, 34.2875, -93.5083
+Rose Bud, 35.3314, -92.0811
+Rose City, 34.7581, -92.2075
+Rose Creek, 35.0667, -93.0000
+Rose Meadow, 34.7167, -92.2667
+Rose Place, 35.2386, -90.5958
+Rosedale, 34.7208, -92.3728
+Roseland, 35.8464, -90.1011
+Rosetta, 35.7089, -93.3444
+Roseville, 35.3825, -93.7753
+Rosewood Convalescent Center, 34.5319, -93.0389
+Rosie, 35.6683, -91.5383
+Ross, 35.4550, -93.2531
+Rosston, 33.5925, -93.2764
+Rotan, 35.6250, -89.9919
+Rottaken, 34.5731, -92.2108
+Roughedge Ford, 35.9722, -92.9044
+Round Hill, 34.1322, -92.7942
+Round Mountain, 35.0333, -93.0500
+Round Pond, 35.0667, -90.6167
+Round Prairie, 36.2667, -94.5500
+Rover, 34.9464, -93.4053
+Rowell, 33.8861, -92.0183
+Roxton, 36.0369, -93.7981
+Roy(Mississippi), 35.6603, -90.0947
+Roy(Pike), 34.0083, -93.6969
+Royal(Garland), 34.5114, -93.2408
+Royal(White), 35.1000, -92.0167
+Royal Oak, 34.6667, -92.3667
+Rubicon, 34.6311, -92.7661
+Rudd, 36.2136, -93.4858
+Ruddell, 35.7833, -91.6833
+Ruddle Mill, 35.7667, -91.6167
+Rudy, 35.5278, -94.2706
+Rule, 36.2778, -93.4597
+Rumley, 35.7889, -92.5136
+Running Lake, 36.3167, -90.8833
+Rupert, 35.6342, -92.6908
+Rush, 36.1331, -92.5708
+Rushing, 35.7353, -92.2644
+Russell, 35.3625, -91.5075
+Russellville, 35.2783, -93.1336
+Ruth, 36.3700, -92.1361
+Rutherford, 35.7228, -91.5386
+Ryan, 34.5436, -91.8275
+Rye, 33.7461, -91.9978
+Rye Hill, 35.3667, -94.3833
+Ryker, 35.8881, -93.4733

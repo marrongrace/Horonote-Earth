@@ -1,0 +1,189 @@
+Dabney, 35.6317, -92.7864
+Dacus, 35.1333, -90.1833
+Daggett, 35.0342, -91.3197
+Dagmar, 34.8561, -91.3006
+Daisy, 34.2372, -93.7419
+Dalark, 34.0372, -92.8858
+Dale Place, 35.1097, -94.2894
+Dallas(Polk), 34.5358, -94.2189
+Dallas(Calhoun), 33.5833, -92.4000
+Dallas County Hospital, 33.8106, -92.4256
+Dalton, 36.4211, -91.1414
+Damascus(Faulkner), 35.3672, -92.4094
+Damascus(Columbia), 33.2622, -93.0181
+Danley, 34.9667, -92.4000
+Dansby, 34.8942, -90.6403
+Danville, 35.0539, -93.3933
+Darcy, 35.5333, -92.1000
+Dardanelle, 35.2231, -93.1578
+Dardanelle Hospital, 35.2206, -93.1572
+Darysaw, 34.2167, -92.3000
+Datto, 36.3917, -90.7308
+Dave, 33.6425, -93.8808
+Davenport, 35.4333, -91.8333
+Davidson, 35.7000, -94.4767
+Davis Ford, 34.2353, -94.0156
+Davis Spur, 35.7264, -90.5444
+Day, 36.2386, -91.7275
+Days Creek, 33.3167, -94.0000
+Dayton, 35.1142, -94.2264
+De Ann, 33.7781, -93.5625
+De Bastrop, 33.1167, -91.5167
+De Gray, 34.1750, -93.1475
+De Queen, 34.0378, -94.3411
+De Queen Clinic, 34.0467, -94.3522
+De Roane, 33.6500, -93.5667
+De Roche, 34.3278, -93.0567
+De Soto, 36.0833, -92.6000
+De Witt, 34.2928, -91.3378
+De Witt City Hospital, 34.2794, -91.3383
+Dean, 36.1919, -93.5336
+Dean Island Landing, 35.4242, -90.0394
+Dean Springs, 35.5356, -94.1950
+Deane, 33.5703, -91.6969
+Deaneyville, 33.8000, -93.3833
+Deans Market, 35.5322, -94.2206
+Deanyville, 33.8619, -93.4992
+Dearman, 35.8725, -90.0086
+Deberrie, 34.9408, -93.0150
+Decatur, 36.3358, -94.4606
+Deckerville, 35.4450, -90.3050
+Deep Elm(Monroe), 34.5386, -91.1739
+Deep Elm(Chicot), 33.4911, -91.3994
+Deep Landing, 35.7469, -90.4217
+Deer, 35.8267, -93.2092
+Deerfield, 34.0861, -90.9839
+Degelow, 35.7442, -90.3578
+Deglow, 35.7514, -90.3761
+Dekalb, 34.4000, -92.5167
+Delaney, 35.8522, -93.9000
+Delaplaine, 36.2336, -90.7264
+Delaware, 35.2836, -93.2986
+Delfore, 35.9203, -90.2964
+Delight, 34.0314, -93.5028
+Dell, 35.8553, -90.0417
+Delmar, 36.1606, -93.3408
+Delpro, 35.5522, -90.0844
+Delta, 33.4717, -93.2847
+Delta Medical Center, 34.8814, -91.1958
+Delta Memorial Hospital, 33.8825, -91.4869
+Deluce, 34.2086, -91.2467
+Democrat, 35.0203, -90.4250
+Demun, 36.2833, -90.9667
+Denmark, 35.4842, -91.5831
+Dennard, 35.7567, -92.5244
+Denning, 35.4292, -93.7569
+Dennison Heights, 35.7375, -91.6392
+Denny Ford, 36.2056, -93.8803
+Denton(Lawrence), 36.0953, -91.2078
+Denton(Scott), 34.8833, -94.1833
+Denton Island, 35.7553, -91.0300
+Denver, 36.3925, -93.3147
+Denwood, 35.4881, -90.2508
+Departee, 35.5667, -91.4167
+Dermott, 33.5253, -91.4358
+Dermott-Chicot Memorial Hospital, 33.5197, -91.4436
+Des Arc, 34.9769, -91.4950
+Desha, 35.7361, -91.6797
+DeSoto Landing, 33.6928, -91.2292
+Detonti, 34.4972, -92.5086
+DeValls Bluff, 34.7847, -91.4583
+DeView, 35.2239, -91.1931
+Dewey(Chicot), 33.4742, -91.2425
+Dewey(White), 35.4211, -91.7581
+Dewey Mill, 35.5086, -90.3842
+Dexter, 34.3167, -92.1083
+Dialion, 33.9667, -92.1833
+Diamond, 35.0833, -94.2833
+Diamond Cave, 35.9850, -93.2325
+Diamond City, 36.4644, -92.9200
+Diamond Grove, 35.3119, -94.1986
+Diamondhead, 34.4397, -92.9450
+Dian, 33.8000, -93.3833
+Diaz, 35.6383, -91.2650
+Dickerson, 35.6833, -93.6500
+Dickey Junction, 35.8375, -92.9544
+Dickson, 36.4333, -94.3333
+Dicus, 36.0883, -90.9278
+Dierks, 34.1192, -94.0164
+Dill, 35.5667, -91.9333
+Dillard, 33.9000, -93.9333
+Dillen, 35.7081, -93.1886
+Dills Mills, 33.6678, -93.2047
+Dilworth, 33.9397, -94.2492
+Dimple, 35.4683, -90.2506
+Dinsmore, 36.1144, -93.4733
+Divide, 35.0333, -93.0500
+Dixie(Craighead), 35.9208, -90.4514
+Dixie(Pulaski), 34.7642, -92.2281
+Dixie(Woodruff), 35.0767, -91.3631
+Dixie(Crittenden), 35.1731, -90.4892
+Dixie(Greene), 36.2450, -90.3194
+Dixon, 34.8667, -91.1333
+Dobbs Landing, 34.7553, -91.3058
+Dobell, 35.6828, -90.5119
+Dobson, 35.6833, -91.0000
+Dobyville, 34.0119, -93.2539
+Doctors Hospital(Mississippi), 35.9306, -89.9192
+Doctors Hospital(Pulaski), 34.7478, -92.3439
+Dodd City, 36.3272, -92.7928
+Doddridge, 33.0917, -93.9081
+Dodge City, 33.0194, -92.9683
+Dodson, 33.2417, -93.3461
+Dodsons Corner, 35.0167, -90.7833
+Dogpatch, 36.1097, -93.1347
+Dogwood(White), 35.1000, -91.6000
+Dogwood(Grant), 34.2367, -92.5264
+Dogwood(Missisippi), 35.8922, -89.9186
+Dollar Junction, 33.0700, -92.1878
+Dollarway, 34.2167, -92.0333
+Dolph, 36.2283, -92.1125
+Donald, 35.3167, -93.9333
+Donaldson, 34.2367, -92.9233
+Dongola, 35.9086, -92.7583
+Doniphan, 35.2478, -91.6694
+Donnick, 35.6458, -90.4461
+Dooley, 33.4686, -93.8572
+Dora, 35.4542, -94.4406
+Dorothy, 35.9086, -90.8192
+Dortch, 34.7167, -92.0500
+Dota, 35.7944, -91.3778
+Dotson, 33.9225, -93.5983
+Douglas, 34.0419, -91.5344
+Dover, 35.4014, -93.1142
+Dowdy, 35.8517, -91.3042
+Dowell, 35.9333, -90.9500
+Doylestown, 34.2700, -92.2036
+Drakes Creek, 36.0206, -93.8597
+Drasco, 35.6314, -91.9469
+Driftwood, 35.9711, -91.2519
+Driggs, 35.2364, -93.7722
+Dripping Springs, 35.5331, -94.3981
+Driver, 35.6122, -90.0119
+Dry Run, 33.8167, -92.3667
+Dryden, 35.8342, -90.9089
+Dryfork, 36.1533, -93.4889
+Drytown, 35.9667, -91.8000
+Dub, 35.5222, -90.3575
+Dublin, 35.3619, -93.4711
+Duckett, 34.2833, -94.2167
+Duckett Ford, 34.2631, -94.1933
+Dudley Lake, 34.4500, -91.8667
+Duff, 36.0006, -92.7625
+Dugger, 36.1258, -92.9175
+Dumas, 33.8869, -91.4917
+Dumas City, 33.2589, -92.7550
+Duncan, 34.6208, -91.2511
+Dunlap, 33.8525, -93.5389
+Dunn, 36.2406, -91.1056
+Dunnington(Independence), 35.6253, -91.4286
+Dunnington(Jefferson), 34.3667, -91.7833
+Durham, 35.9494, -93.9803
+Durian, 34.3833, -92.8167
+Dutch Creek, 35.0000, -93.6500
+Dutch Mills, 35.8756, -94.4914
+Dutton, 35.8167, -93.6936
+Duty, 36.0667, -91.0667
+Duvall, 35.2083, -90.5600
+Dyer, 35.4922, -94.1375
+Dyess, 35.5897, -90.2133

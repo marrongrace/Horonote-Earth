@@ -1,0 +1,248 @@
+Wabash, 34.3886, -90.8286
+Wabbaseka, 34.3608, -91.7958
+Wade, 33.9842, -94.3825
+Wager, 36.2500, -94.2833
+Wagnon, 33.6653, -92.2886
+Wakefield Village, 34.6861, -92.3278
+Walcott, 36.0433, -90.6711
+Waldenburg, 35.5653, -90.9336
+Waldo, 33.3514, -93.2956
+Waldron, 34.8983, -94.0906
+Waldron Place Medical Center, 35.3675, -94.3722
+Walker(Columbia), 33.2264, -93.2250
+Walker(White), 35.1219, -91.6894
+Walker Creek, 33.1167, -93.5167
+Walkers Corner, 34.7133, -92.0911
+Walkerville, 33.0894, -93.3139
+Wallace(Little River), 33.6817, -94.3583
+Wallace(Ashley), 33.2497, -91.7439
+Wallaceburg, 33.8931, -93.5472
+Walls, 34.6667, -91.9833
+Walnut, 35.7906, -93.3592
+Walnut Corner(Greene), 36.0403, -90.7756
+Walnut Corner(Phillips), 34.5550, -90.7681
+Walnut Grove(Yell), 35.0839, -93.5972
+Walnut Grove(Independence), 35.8369, -91.3858
+Walnut Grove(Little River), 33.6833, -94.1333
+Walnut Grove(Clay), 36.4167, -90.5833
+Walnut Grove(Columbia), 33.0725, -93.3936
+Walnut Grove(Washington), 36.0036, -94.2669
+Walnut Grove(Poinsett), 35.6833, -90.5167
+Walnut Grove(Van Buren), 35.5622, -92.5556
+Walnut Grove Corner, 35.6275, -90.6175
+Walnut Hill, 33.1097, -93.6839
+Walnut Lake, 33.8333, -91.5000
+Walnut Ridge(Lawrence), 36.0683, -90.9558
+Walnut Ridge(Grant), 34.4019, -92.2375
+Walnut Springs, 33.9492, -94.2922
+Walters, 35.8736, -90.2772
+Waltreak, 34.9839, -93.6122
+Wampler, 34.2167, -92.0333
+Wampoo, 34.5525, -92.0833
+Wappanocca, 35.3000, -90.2667
+War Eagle, 36.2678, -93.9408
+Warbritton, 34.2764, -92.0308
+Ward(Lonoke), 35.0303, -91.9503
+Ward(Pulaski), 34.6750, -92.3039
+Wardell, 35.5389, -90.1783
+Wards Crossing, 34.9444, -93.3278
+Ware, 33.0294, -93.0711
+Wargo Landing, 33.8197, -91.1500
+Warm Springs, 36.4803, -91.0514
+Warner, 33.6381, -92.7975
+Warner Brown Hospital, 33.2139, -92.6689
+Warnock Springs, 33.3100, -93.1417
+Warren, 33.6125, -92.0644
+Warsaw, 34.9522, -92.1550
+Washburn, 35.1683, -94.0933
+Washington, 33.7739, -93.6825
+Washington Regional Medical Center, 36.0778, -94.1586
+Washington Square, 35.0167, -90.7833
+Washita, 34.6528, -93.5333
+Watalula, 35.5733, -93.8272
+Watensaw, 34.7500, -91.4667
+Water Can Crossing, 34.1556, -93.9428
+Water Valley, 36.3333, -91.1333
+Waterloo, 33.5431, -93.2458
+Watkins, 35.2500, -91.7167
+Watkins Corner, 34.4686, -90.9558
+Watson(Calhoun), 33.6472, -92.3739
+Watson(Desha), 33.8950, -91.2561
+Watson Chapel, 34.1892, -92.0656
+Wattensaw, 34.9075, -91.8481
+Watts, 35.8183, -92.6592
+Wave, 34.0275, -92.6883
+Waveland, 35.1236, -93.6281
+Waverly, 35.0469, -90.2389
+Wayton, 35.9036, -93.2539
+Weathers, 35.9594, -93.5203
+Weaver, 35.3667, -94.0333
+Webb City, 35.4681, -93.8317
+Weber, 34.1458, -91.1767
+Weddington, 36.0892, -94.4194
+Wedington, 36.0667, -94.4167
+Weeks(Bradley), 33.6692, -92.2100
+Weeks(Scott), 34.8811, -94.4186
+Weiner, 35.6203, -90.8983
+Welborn, 35.1667, -92.7500
+Welcome(Columbia), 33.0211, -93.4658
+Welcome(Pope), 35.4494, -92.9039
+Weldon, 35.4453, -91.2314
+Wells Bayou, 33.9167, -91.6167
+Welsh, 34.3561, -93.4736
+Weona, 35.5469, -90.5975
+Weona Junction, 35.5075, -90.5997
+Wesley, 36.0272, -93.9200
+Wesley Chapel, 35.1333, -92.7500
+Wesson, 33.1153, -92.7625
+West Bauxite, 34.5500, -92.5000
+West Camden Heights, 33.5833, -92.7833
+West Cobb, 35.7261, -93.7553
+West Crossett, 33.1408, -91.9939
+West End, 34.2236, -92.0600
+West Fork, 35.9242, -94.1883
+West Gum Springs, 34.0833, -93.0333
+West Hartford, 35.0044, -94.4100
+West Helena, 34.5506, -90.6417
+West Kennett, 36.2597, -90.1217
+West Liberty, 36.2881, -93.7631
+West Line, 34.0333, -94.5667
+West Marche, 34.8803, -92.4078
+West Memphis, 35.1464, -90.1844
+West Otis, 33.9531, -94.4361
+West Pangburn, 35.4317, -91.8867
+West Point(White), 35.2069, -91.6142
+West Point(Benton), 36.2528, -94.5661
+West Prairie, 35.6167, -90.8667
+West Richwoods, 35.8264, -92.1717
+West Ridge, 35.6831, -90.2625
+West Sullivan, 35.9833, -91.6500
+Western Grove, 36.1008, -92.9536
+Westor, 34.8408, -90.8636
+Westover, 35.5211, -90.2133
+Westville, 35.4203, -94.2583
+Westwood, 34.7067, -92.3700
+Wharton, 36.0247, -93.6303
+Wharton Creek, 36.0333, -93.6167
+Wheatley, 34.9128, -91.1100
+Wheeler(Ban Vuren), 35.6167, -92.7167
+Wheeler(Washington), 36.1142, -94.2589
+Wheeling, 36.3203, -91.8631
+Whelen Springs, 33.8308, -93.1261
+Whippie, 35.4219, -92.4619
+Whiskerville, 36.1197, -90.8131
+Whisp, 35.8778, -90.2750
+Whispering Springs, 35.5542, -92.2314
+Whistleville, 35.7714, -90.1261
+Whitaker, 35.5667, -90.7167
+White, 33.0139, -91.9956
+White Cliffs, 33.7969, -94.0600
+White County Memorial Hospital, 35.2508, -91.6925
+White Eagle, 35.1000, -92.9500
+White Hall, 34.2739, -92.0908
+White Oak(Johnson), 35.5761, -93.6761
+White Oak(Franklin), 35.5461, -93.8589
+White Oak Bluff, 34.0314, -92.3058
+White River Medical Center, 35.7678, -91.6344
+White Rock(Franklin), 35.5817, -93.9692
+White Rock(Washington), 36.0794, -94.2522
+Whitefield, 34.0644, -91.7567
+Whitehall(Lee), 34.7642, -90.5469
+Whitehall(Poinsett), 35.4803, -90.7356
+Whitehall(Yell), 35.1486, -92.9969
+Whitehead Ford, 35.3772, -91.9717
+Whitener, 36.1411, -93.8958
+Whitetown, 34.6297, -93.7450
+Whiteville, 36.2833, -92.5000
+Whitley, 35.5833, -94.1167
+Whitlow, 33.2189, -91.9858
+Whitlow Junction, 33.1997, -91.9653
+Whitmore, 35.0694, -90.5681
+Whittington, 34.6142, -92.8883
+Whitton, 35.5114, -90.2683
+Wick Mill, 35.1631, -90.9358
+Wickes, 34.3031, -94.3381
+Wideman, 36.1864, -92.0086
+Widener, 35.0233, -90.6847
+Wilbeth, 35.5344, -90.3397
+Wilburn, 35.5072, -91.8881
+Wild Cherry, 36.2639, -92.0567
+Wiley, 36.1833, -90.9167
+Wiley Crossing, 35.4606, -90.7400
+Wileys Cove, 35.8375, -92.5736
+Wilhemina Medical Center, 34.5781, -94.2333
+Wilkins, 34.2597, -91.9297
+Williams, 34.6667, -92.0667
+Williams Junction, 34.8814, -92.7733
+Williamson, 33.9500, -94.3500
+Williford, 36.2528, -91.3558
+Willis(poinsett), 35.6500, -90.5167
+Willis(Boone), 36.3781, -92.9864
+Willisville, 33.5169, -93.2981
+Willow, 34.1336, -92.7461
+Willow Belle, 34.6358, -92.0294
+Willow Creek, 35.4500, -92.4000
+Wilmar, 33.6289, -91.9314
+Wilmington, 33.2167, -92.4333
+Wilmington Landing, 33.2725, -92.4219
+Wilmot, 33.0572, -91.5733
+Wilson(Mississippi), 35.5681, -90.0419
+Wilson(Pope), 35.2103, -92.9294
+Wilson Junction, 35.8472, -90.0617
+Wilton, 33.7411, -94.1481
+Winchester, 33.7744, -91.4744
+Winesburg, 35.8442, -90.9008
+Winfield, 34.8864, -94.1861
+Winfrey, 35.7344, -94.0994
+Wing, 34.9447, -93.4642
+Winington, 36.3558, -92.9075
+Winona, 36.3667, -93.6833
+Winrock, 35.1381, -92.9436
+Winslow, 35.8008, -94.1347
+Winston Terrace, 34.7333, -92.3333
+Winthrop, 33.8317, -94.3544
+Wirth, 36.4506, -91.3803
+Wiseman, 36.2344, -91.8153
+Witcherville, 35.1375, -94.2642
+Witherspoon, 34.1589, -92.9889
+Witter, 35.9375, -93.6833
+Wittich, 35.3667, -93.8667
+Witts Springs, 35.7681, -92.8667
+Wittsburg, 35.2189, -90.7017
+Wiville, 35.1481, -91.2408
+Wolf Bayou, 35.6547, -91.9106
+Wolf Creek, 34.0333, -93.4667
+Wolquarry, 35.8975, -91.9094
+Womble, 34.4667, -93.6667
+Wonderview, 35.3278, -92.7297
+Woodberry, 33.5822, -92.5158
+Wooden Hills, 36.3369, -93.0603
+Woodland, 35.5242, -93.5206
+Woodland Corner, 35.9667, -90.0367
+Woodland Heights, 34.7936, -92.3983
+Woodland Hills, 36.3783, -91.4631
+Woodrow, 35.6633, -92.0806
+Woodruff County Hospital, 35.2561, -91.2203
+Woods Point Landing, 36.2942, -92.1722
+Woodson, 34.5292, -92.2108
+Woodyardville, 34.6656, -92.2697
+Woolsey, 35.8853, -94.1683
+Woolum(Van Buren), 35.7108, -92.6636
+Woolum(Searcy), 35.9722, -92.8833
+Wooster, 35.2019, -92.4558
+Worden, 35.2942, -91.4911
+Worthen, 35.2436, -93.0225
+Wright, 34.4350, -92.0661
+Wright Town, 35.4067, -94.2944
+Wrightland, 34.8372, -90.7964
+Wrights Corner, 35.3553, -91.6228
+Wrightsville, 34.6022, -92.2167
+Wyanoke, 35.1039, -90.1900
+Wycamp, 34.5547, -90.7156
+Wycough, 35.7500, -91.4333
+Wye, 34.9392, -92.6417
+Wylie Spur, 35.1986, -90.2486
+Wyman, 36.0750, -94.0692
+Wynne, 35.2244, -90.7867
+Wynne Medical Center, 35.2186, -90.7864
+Wyola, 35.8789, -94.0469

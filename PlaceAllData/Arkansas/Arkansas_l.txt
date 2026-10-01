@@ -1,0 +1,218 @@
+L'Anguille, 35.2367, -90.8942
+La Fave, 34.8500, -93.7833
+La Grue, 34.2833, -91.3333
+Labahn Veterinary Hospital, 35.4033, -94.3858
+Lacey, 33.4550, -91.8467
+Laconia, 34.0531, -90.9542
+Laconia Landing, 34.0275, -90.9664
+LaCrosse, 36.0906, -91.8414
+Ladd, 34.1408, -91.9089
+Ladelle, 33.4644, -91.7936
+Lafe, 36.2042, -90.5139
+Lafferty, 35.9142, -91.8250
+LaGrange, 34.6564, -90.7328
+LaGrue Springs, 34.2078, -91.2117
+Lake Catherine, 34.5000, -93.0500
+Lake City, 35.8161, -90.4342
+Lake Dick, 34.2519, -91.8386
+Lake Elmdale, 36.1833, -94.1500
+Lake Farm, 34.2244, -91.7036
+Lake Frances, 36.1333, -94.5500
+Lake Hamilton, 34.4244, -93.0950
+Lake Ridge, 34.5522, -90.8031
+Lake View(Craighead), 35.8922, -90.4525
+Lake View(Phillips), 34.5333, -90.6167
+Lake Village, 33.3286, -91.2817
+Lakehall, 33.3283, -91.2706
+Lakeport, 33.2250, -91.1267
+Lakeside(Garland), 34.5000, -93.0500
+Lakeside(Saline), 34.5367, -92.2653
+Lakeside(Ouachita), 33.5781, -92.7381
+Lakeside(St Francis), 34.9700, -90.6222
+Lakeview(Baxter), 36.3686, -92.5453
+Lakeview(Yell), 35.1339, -93.0231
+Lakeway, 36.3386, -92.7683
+Lakewood, 34.7944, -92.2439
+Lamar, 35.4406, -93.3878
+Lamartine, 33.3931, -93.2886
+Lamb, 34.8667, -94.0000
+Lambert, 34.3081, -93.2064
+Lambethville, 35.3786, -90.1814
+Lambrook, 34.3356, -90.9675
+Lamont, 34.1000, -92.2833
+Lanark, 33.5311, -92.2644
+Lancaster, 35.5667, -94.2333
+Landers(Poinsett), 35.5692, -90.6083
+Landers(Hot Spring), 34.2633, -92.7511
+Landis, 35.9394, -92.4419
+Laneburg, 33.6850, -93.3467
+Lanesport, 33.6492, -94.4728
+Langford, 34.1675, -91.5956
+Langley, 34.3128, -93.8417
+Lansing, 35.2503, -90.3867
+Lanty, 35.3364, -92.6856
+Lapile, 33.0933, -92.2686
+Larkin, 36.1117, -91.8678
+Larue, 36.3417, -93.9458
+Latour, 34.5761, -90.7411
+Laughlin, 33.3367, -93.0972
+Lauratown, 36.0200, -91.0883
+Lavaca, 35.3361, -94.1731
+Lave Creek, 36.1333, -91.6167
+Lawrence Memorial Hospital, 36.0739, -90.9678
+Lawrenceville, 34.5092, -91.1808
+Lawson, 33.1967, -92.4828
+Layne, 36.0667, -91.6167
+Leachville, 35.9358, -90.2578
+Lead Hill, 36.4197, -92.9147
+Leake, 33.5000, -93.1667
+Lebanon(Searcy), 35.9167, -92.6333
+Lebanon(Sevier), 34.1064, -94.0978
+Ledwidge, 34.9572, -92.5661
+Lee County Memorial Hospital, 34.7756, -90.7747
+Lee Creek, 35.6814, -94.3492
+Lehi, 35.1472, -90.2925
+Leitner, 34.2500, -92.0667
+Leland, 33.3722, -91.1564
+Lemmons, 36.4000, -90.4333
+Lenham, 34.3003, -92.6389
+Lennie, 35.7675, -90.1775
+Lenox, 34.2489, -93.2683
+Leola, 34.1694, -92.5908
+Leonard, 36.2197, -90.2494
+Lepanto, 35.6111, -90.3297
+Lepanto Junction, 35.7381, -90.3333
+Lerch, 33.2536, -93.4925
+Leslie, 35.8303, -92.5578
+Lester(Craighead), 35.8778, -90.4533
+Lester(Ouachita), 33.6486, -92.9200
+Lester Junction, 33.6278, -92.9369
+Lesterville, 36.1508, -90.9564
+Letchworth, 34.9108, -91.4942
+Letona, 35.3617, -91.8292
+Leverney, 34.7000, -93.4500
+Levesque, 35.2492, -90.7106
+Levi Memorial Hospital, 34.5100, -93.0567
+Levy, 34.7886, -92.2764
+Lewis(Scott), 35.0533, -94.1250
+Lewis(Drew), 33.4875, -91.7908
+Lewisburg, 35.1333, -92.7500
+Lewisville, 33.3583, -93.5775
+Lexa, 34.5978, -90.7522
+Lexa Junction, 34.5989, -90.7681
+Lexington, 35.7167, -92.4167
+Libby Memorial Physical Medical Center, 34.5119, -93.0489
+Liberty(Logan), 35.2850, -93.3822
+Liberty(Montgomery), 34.6800, -93.4456
+Liberty(Ouachita), 33.4044, -92.8364
+Liberty(Sebastian), 35.0275, -94.2308
+Liberty Hall, 35.2333, -93.1667
+Liberty Valley, 35.3000, -91.5667
+Lick Branch, 36.3300, -93.2286
+Lick Creek, 33.7333, -94.2000
+Lick Mountain, 35.3833, -92.5833
+Liddell, 36.4500, -90.1500
+Light, 36.0700, -90.7478
+Lignite, 34.5619, -92.4875
+Limedale, 35.7939, -91.7192
+Limedale Junction, 35.8158, -91.7133
+Limestone, 35.7839, -93.2833
+Lincoln, 35.9494, -94.4233
+Linder, 35.1903, -92.3728
+Lindsey, 35.9908, -91.0164
+Linn Creek, 35.7500, -92.4500
+Linwood, 34.1536, -91.7972
+Lisbon, 33.2725, -92.8272
+Litteral, 36.1000, -94.2667
+Little Arkansaw, 36.2892, -93.2364
+Little Bay, 33.7625, -92.5322
+Little Black, 36.4500, -90.8500
+Little Dixie, 35.0072, -91.3647
+Little Fir Landing, 34.6306, -93.4742
+Little Flock, 36.3167, -94.1333
+Little Garnett, 33.8631, -91.8036
+Little Green Store, 35.9522, -90.0361
+Little Italy, 34.9375, -92.5858
+Little Red, 35.4467, -91.7361
+Little River, 35.8075, -90.1003
+Little River Country Club, 33.8333, -94.3500
+Little River Memorial Hospital, 33.6692, -94.1347
+Little Rock, 34.7464, -92.2894
+Little Texas, 34.8425, -93.7256
+Littrel Ford, 36.2514, -93.5978
+Live Oak, 33.7500, -91.5667
+Lloyd Ford, 33.3592, -92.3781
+Loafer, 35.7833, -93.4831
+Locke, 35.6739, -94.0733
+Lockesburg, 33.9672, -94.1683
+Lockheart, 35.8367, -91.2464
+Locust Bayou, 33.5567, -92.6689
+Locust Grove(Independence), 35.7208, -91.7383
+Locust Grove(Stone), 35.9000, -92.3833
+Lodge Corner, 34.3000, -91.5250
+Lodi, 34.3108, -93.7072
+Lofton, 34.4006, -93.2311
+Logan, 36.2008, -94.3872
+Lollie, 34.9881, -92.5842
+Lon Norris, 35.3000, -94.4167
+London, 35.3289, -93.2528
+Lone, 35.0636, -94.0472
+Lone Elm, 35.5467, -93.9650
+Lone Grove, 35.3150, -92.7017
+Lone Hill, 34.3500, -92.9167
+Lone Pine(Searcy), 35.9731, -92.5625
+Lone Pine(Yell), 35.1039, -93.3217
+Lone Pine(Lincoln), 33.8500, -91.8167
+Lone Rock, 36.1806, -92.3444
+Lone Star(Izard), 36.0036, -91.9897
+Lone Star(Carroll), 36.3439, -93.7528
+Lonelm, 35.5167, -94.0833
+Long, 33.6583, -94.0267
+Longino, 34.9828, -90.8706
+Longview, 33.3808, -91.9703
+Longview Crossing, 33.3469, -91.9175
+Lono, 34.2081, -92.7100
+Lonoke, 34.7839, -91.8997
+Lonsdale, 34.5444, -92.8081
+Lookout, 34.5633, -91.3764
+Lookout Store, 34.6333, -91.3833
+Lorado, 35.9892, -90.7175
+Lorays, 34.1106, -90.9839
+Lorine, 36.2667, -90.9667
+Lost Bridge Village, 36.3883, -93.9067
+Lost Corner(Pope), 35.5717, -92.8339
+Lost Corner(Conway), 35.4125, -92.6544
+Louann, 33.3908, -92.7917
+Louis Southwestern Railway Hospital, 33.4206, -94.0206
+Louise, 35.0764, -90.2936
+Love, 36.0667, -91.6167
+Love Creek, 34.0253, -93.3147
+Love Place, 35.3164, -90.5736
+Low Gap, 36.0000, -93.1833
+Lowden, 35.8144, -90.0608
+Lowell, 36.2553, -94.1306
+Lower Poplar Ridge, 35.8333, -90.3667
+Lower Surrounded Hill, 34.8333, -91.4000
+Lowes Boydsville, 36.2667, -90.3000
+Lowry, 36.4717, -93.0542
+Loy, 36.0144, -93.5522
+Luber, 35.7656, -92.0836
+Lucas(Crittenden), 34.9333, -90.3333
+Lucas(Logan), 35.0697, -94.1153
+Lucca Landing, 33.7153, -91.2150
+Lucerne, 35.0714, -90.5581
+Ludwig, 35.5108, -93.4292
+Lumber, 33.3503, -93.3472
+Luna, 33.3831, -91.2050
+Luna Landing, 33.3903, -91.1936
+Lundell, 34.1919, -90.9622
+Lundsford Corner, 34.9072, -92.5494
+Lunenburg, 36.0025, -91.9075
+Lunet, 33.7633, -92.9086
+Lunsford, 35.7572, -90.4803
+Lurton, 35.7714, -93.0775
+Lutherville, 35.4839, -93.2778
+Luxora, 35.7561, -89.9281
+Lydalisk, 35.7439, -92.3342
+Lydesdale, 33.3208, -93.1181
+Lynn, 36.0072, -91.2522

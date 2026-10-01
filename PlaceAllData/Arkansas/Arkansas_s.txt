@@ -1,0 +1,336 @@
+Sacred Heart, 35.4333, -93.6167
+Saddle, 36.3550, -91.6386
+Saffell, 35.9197, -91.2900
+Sage, 36.0458, -91.8161
+Saginaw, 34.3003, -92.9361
+Salado, 35.6911, -91.5956
+Salasco Sanitarium, 34.6431, -92.4458
+Salem(Pike), 34.3111, -93.6175
+Salem(Ouachita), 33.6908, -92.6572
+Salem(Saline), 34.6289, -92.5581
+Salem(Fulton), 36.3711, -91.8225
+Salem Landing, 36.3667, -92.2444
+Salesville, 36.2500, -92.2667
+Saline, 33.8733, -92.2669
+Saline Landing, 33.7583, -93.9611
+Saltillo, 35.0275, -92.3264
+Salus, 35.7308, -93.4058
+Samples, 34.3461, -92.1406
+Sand Gap, 35.7208, -93.0958
+Sand Hill, 35.0086, -91.4347
+Sand Point, 35.6500, -94.0833
+Sand Ridge, 35.2931, -93.5792
+Sand Spring, 35.4500, -93.2667
+Sanders, 33.4806, -93.3572
+Sandiff, 35.6478, -92.2231
+Sandtown(Independence), 35.9047, -91.6350
+Sandtown(Conway), 35.1333, -92.7500
+Sandy, 35.7658, -90.4358
+Sandy Bend, 33.1000, -92.3667
+Sandy Land, 33.3347, -92.7011
+Sandy Ridge, 35.9500, -89.9500
+Sans Souci, 35.6531, -89.9494
+Sans Souci Landing, 35.6619, -89.9347
+Saratoga, 33.7517, -93.9025
+Sardis, 34.5317, -92.4078
+Satuma, 34.9025, -92.8592
+Saulsburg, 34.9700, -91.2161
+Savoy, 36.1056, -94.3325
+Sawmill, 33.1583, -92.2553
+Sayre, 33.7519, -93.0919
+Schaal, 33.8833, -93.9167
+Schaberg, 35.7272, -94.1694
+Schug, 35.9658, -90.4419
+Scipio, 33.3961, -91.7939
+Scotia, 35.3311, -93.2922
+Scotland, 35.5275, -92.6117
+Scott, 34.6964, -92.0961
+Scott Valley, 34.7300, -90.7678
+Scottsville, 35.4486, -93.0464
+Scranton, 35.3611, -93.5356
+Screeton, 34.7814, -91.6672
+Searcy, 35.2506, -91.7361
+Searcy Medical Center, 35.2519, -91.7036
+Seaton, 34.5500, -91.8833
+Seba, 36.3728, -94.2936
+Sedgwick, 35.9778, -90.8639
+Segur, 34.3561, -93.5036
+Self, 36.3981, -93.1081
+Self Creek, 34.2500, -93.7000
+Sellers Store, 36.3417, -91.4097
+Selma, 33.6972, -91.5675
+Seyppel, 34.9500, -90.4667
+Shady, 34.4497, -94.1200
+Shady Grove(Baxter), 36.2514, -92.3792
+Shady Grove(Johnson), 35.4628, -93.5239
+Shady Grove(Logan), 35.2300, -93.4150
+Shady Grove(Pulaski), 34.7619, -92.4719
+Shady Grove(Pulton), 36.3667, -91.9128
+Shady Grove(Nevada), 33.8000, -93.3833
+Shady Grove(Mississippi), 35.8303, -90.1786
+Shady Grove(Poinsett), 35.6781, -90.6064
+Shakertown, 33.9342, -92.9817
+Shannon(Randolph), 36.2089, -90.9581
+Shannon(Lincoln), 34.0833, -91.7000
+Shannon Hills, 34.6200, -92.3953
+Shannon Tank, 34.0892, -91.7186
+Shannondale, 34.9192, -90.5075
+Shannonville, 35.2664, -90.4814
+Shark, 34.9950, -93.5147
+Sharman, 33.1900, -93.4108
+Sharp Ford, 36.2394, -93.9144
+Sharum, 36.2228, -90.8539
+Shaw, 34.4981, -92.5381
+Shawmut, 34.1517, -93.4494
+Shawnee, 35.4953, -90.1167
+Shearerville, 35.1481, -90.4006
+Shelbyville, 35.9589, -91.3994
+Shell Lake, 35.0667, -90.5000
+Shepherd, 35.7333, -93.9833
+Sheppard, 33.6264, -93.7219
+Sheppard Point, 34.1911, -91.2117
+Shepperd Crossing, 34.9878, -90.6003
+Sheridan, 34.3069, -92.4011
+Sherman, 35.6667, -93.4333
+Sherrill, 34.3853, -91.9506
+Sherwood, 34.8150, -92.2242
+Sherwood Hills, 34.3833, -92.8167
+Shibley, 35.4503, -94.2936
+Shiloh(Randolph), 36.3000, -91.0333
+Shiloh(Columbia), 33.3928, -93.2711
+Shiloh(Rafayette), 33.3886, -93.4597
+Shiloh(Pope), 35.2833, -93.1500
+Shiloh(Howard), 33.8708, -94.0003
+Shipp, 36.2119, -92.3600
+Shippen, 35.6906, -90.0994
+Shirley, 35.6561, -92.3192
+Shives, 33.2753, -91.1708
+Shoal Creek, 35.2833, -93.4333
+Shoffner, 35.4714, -91.2308
+Shorewood Hills, 34.4375, -92.8958
+Short Mountain, 35.3000, -93.7500
+Shover Springs, 33.6228, -93.5303
+Shuler, 33.1786, -92.9014
+Shumaker, 33.6717, -92.7256
+Sidney, 36.0031, -91.6597
+Sidon, 35.3444, -91.9392
+Siedenstricker, 34.7283, -91.5528
+Signal Hill, 35.7500, -92.0667
+Silex, 35.5006, -93.2150
+Sills, 35.2778, -93.2769
+Siloam, 36.4500, -90.9333
+Siloam Springs, 36.1881, -94.5403
+Silver, 34.5347, -93.5100
+Silver Hill, 35.9706, -92.7458
+Silver Lake, 33.9333, -91.4333
+Silver Ridge, 33.8833, -94.0833
+Simmons, 35.8061, -91.7228
+Simmons Ford, 36.3300, -93.5878
+Simpson(Grant), 34.4167, -92.3000
+Simpson(Pope), 35.6072, -93.0658
+Simpson(Bradley), 33.4586, -92.1042
+Sims, 34.6592, -93.6908
+Simsboro, 35.0253, -90.3731
+Sisemore, 34.7836, -91.8514
+Sitka, 36.1883, -91.4214
+Skaggs, 36.2378, -90.9072
+Skunkhollow, 35.0833, -92.4500
+Skylight, 35.8422, -94.3942
+Slaytonville, 35.1106, -94.4383
+Slick Rock Ford, 35.3778, -91.8917
+Sloan, 36.1661, -91.1442
+Slonikers Mill, 35.0078, -90.9167
+Slovak, 34.6486, -91.5819
+Smackover, 33.3647, -92.7247
+Smale, 34.7103, -91.1039
+Smalley, 34.4167, -91.0167
+Smart, 35.7333, -92.1500
+Smead, 33.7947, -92.8175
+Smearney, 33.3833, -92.1500
+Smearny, 33.3972, -92.0161
+Smeltzer, 35.4578, -94.3111
+Smith, 33.1356, -92.6500
+Smith Clinic, 35.2978, -93.7306
+Smith Corner, 34.7753, -90.9083
+Smithdale, 35.2608, -90.5231
+Smiths Corner, 34.8000, -91.0000
+Smithton, 33.9500, -93.1333
+Smithville(Union), 33.2250, -92.5747
+Smithville(Lawrence), 36.0803, -91.3036
+Smithville(Miller), 33.0539, -93.8675
+Smyrna(Clark), 34.0622, -93.3386
+Smyrna(Pope), 35.6508, -92.9197
+Snipe, 33.3244, -93.0481
+Snow, 36.2528, -92.8019
+Snow Hill, 33.3878, -92.6539
+Snow Lake, 34.0608, -91.0231
+Snowball, 35.9064, -92.8217
+Snyder, 33.2936, -91.6211
+Social Hill, 34.3319, -92.9131
+Solgohachia, 35.2561, -92.6761
+Solo, 35.5872, -92.9633
+Sonora, 36.1653, -94.0447
+Sorrells, 34.1608, -92.0658
+Soudan, 34.8261, -90.6592
+South Big Rock, 36.0000, -91.4833
+South Crossett, 33.1056, -91.9536
+South Fort Smith, 35.3314, -94.4008
+South Harrison, 36.2000, -93.1167
+South Hot Springs, 34.5000, -93.0500
+South Jacksonville, 34.7833, -92.2000
+South Lead Hill, 36.3947, -92.9106
+South Lebanon, 36.1333, -91.4167
+South Ozark, 35.4803, -93.8308
+South Pine Bluff, 34.2167, -92.0333
+South Sheridan, 34.3167, -92.4000
+South Side, 34.7167, -92.2667
+South Union, 36.2833, -91.3000
+Southall, 33.9167, -92.4333
+Southerlands Crossroads, 35.4833, -93.8333
+Southern State College, 33.2667, -93.2333
+Southland(Phillips), 34.5853, -90.6539
+Southland(Craighead), 35.8214, -90.4644
+Southside(Independence), 35.6983, -91.6233
+Southside(Van Buren), 35.4264, -92.3897
+Southwest Hospital, 34.6589, -92.3992
+Southwest Little Rock, 34.7333, -92.3333
+Spadra, 35.4250, -93.4936
+Sparkman, 33.9167, -92.8481
+Sparks Regional Medical Center, 35.3753, -94.4192
+Spear Lake, 35.5481, -90.3217
+Spencer Place, 34.7897, -90.5978
+Spillway Landing, 34.5717, -93.2156
+Spirit Lake, 33.3667, -93.5833
+Sport Haven Landing, 34.9711, -92.4036
+Spotville, 33.2667, -93.2333
+Spriggs Mill, 35.4525, -91.3197
+Spring Creek, 34.6886, -90.8981
+Spring Grove, 36.0500, -90.5667
+Spring Hill(Hempstead), 33.5875, -93.6483
+Spring Hill(Ouachita), 33.5064, -93.0214
+Spring Valley(Washington), 36.1761, -93.9347
+Spring Valley(Pulaski), 34.7328, -92.4428
+Springdale, 36.1867, -94.1286
+Springdale Memorial Hospital, 36.1797, -94.1364
+Springfield, 35.2675, -92.5575
+Springhill, 35.1886, -92.3922
+Springtown, 36.2608, -94.4231
+Sprotville, 33.1906, -93.0206
+Sprudel, 33.6164, -93.7664
+Spur Four, 35.6192, -90.0889
+St Anthonys Hospital, 35.1475, -92.7433
+St Bernards Hospital, 35.8358, -90.7019
+St Bernards Regional Medical Center, 35.8358, -90.7019
+St Charles, 34.3717, -91.1364
+St Claire, 35.2186, -90.1186
+St Edward Mercy Medical Center, 35.3561, -94.3533
+St Francis, 36.4533, -90.1453
+St James, 35.8383, -91.9178
+St Joe, 36.0300, -92.8044
+St Joseph Hospital, 34.5186, -93.0567
+St Marys Hospital, 35.2833, -93.1500
+St Marys Regional Medical Center, 35.2833, -93.1500
+St Michael Hospital of Texarkana, 33.4258, -94.0408
+St Paul, 35.8242, -93.7639
+St Thomas, 35.4419, -90.1428
+St Vincent, 35.3011, -92.7314
+St Vincent Infirmary, 34.7508, -92.3381
+Stacy(Crittenden), 35.4044, -90.2325
+Stacy(Poinsett), 35.6783, -90.5708
+Stafford, 35.1564, -93.4300
+Stamps, 33.3653, -93.4950
+Standard Umpstead, 33.3731, -92.6747
+Stanford, 36.0972, -90.6636
+Stanley, 34.1667, -91.3833
+Star City, 33.9428, -91.8433
+Stark, 35.5333, -92.1000
+Stark City, 35.9378, -90.0364
+Starr Hill, 35.9500, -94.4167
+State Capital, 34.7333, -92.2667
+State College of Arkansas, 35.0833, -92.4500
+State Line, 33.1000, -93.2000
+State Services, 34.7500, -92.7167
+State University, 35.8333, -90.7167
+Staves, 34.0392, -92.2772
+Steel, 33.3333, -93.6333
+Steele, 35.2167, -92.6167
+Stegall, 35.6072, -91.1400
+Stella, 36.0108, -91.8003
+Stelltown, 34.0467, -93.5492
+Stephens, 33.4111, -93.0694
+Steprock, 35.4289, -91.6875
+Sterling Springs, 35.9231, -90.7106
+Steve, 34.8706, -93.3219
+Stevens Creek, 35.3000, -91.5667
+Stevens Landing, 35.6783, -90.4639
+Stewart, 35.4778, -90.6014
+Stier, 35.7044, -90.3414
+Stillions, 33.2528, -92.0422
+Stillwater, 34.7528, -93.4131
+Stimson, 34.0294, -91.0731
+Stockton, 33.4492, -93.3103
+Stokes, 36.3558, -90.9342
+Stonewall, 36.2431, -90.5522
+Stony Point(White), 35.0667, -91.8833
+Stony Point(Perry), 35.0769, -92.6044
+Story, 34.6931, -93.5175
+Stoverville, 36.0311, -93.3981
+Stow Landing, 33.2764, -92.4467
+Strangers Home, 35.9000, -91.0833
+Strawberry(Johnson), 35.5478, -93.3542
+Strawberry(Lawrence), 35.9675, -91.3211
+Strickler, 35.8336, -94.3131
+Stringers Mill, 35.5225, -91.1164
+Stringtown, 33.9364, -94.2439
+Strong, 33.1075, -92.3347
+Stuart, 36.2639, -91.5183
+Stumptoe, 35.4658, -92.8297
+Sturkie, 36.4572, -91.8731
+Stuttgart, 34.5003, -91.5525
+Stuttgart Memorial Hospital, 34.5175, -91.5586
+Subiaco, 35.2928, -93.6344
+Success, 36.4544, -90.7214
+Sugar Camp, 35.6667, -92.1167
+Sugar Grove, 35.0819, -93.8011
+Sugar Hill, 35.9500, -94.4167
+Sugar Loaf, 36.4333, -92.9167
+Sugarloaf Lake, 35.1833, -94.4167
+Sulphur City, 35.9650, -94.0503
+Sulphur Rock, 35.7511, -91.5006
+Sulphur Springs(Benton), 36.4833, -94.4583
+Sulphur Springs(Ashley), 33.0717, -92.0311
+Sulphur Springs(Jefferson), 34.1806, -92.1233
+Sulphur Springs(Johnson), 35.4775, -93.5639
+Sulphur Springs(Yell), 35.1925, -93.3258
+Summers, 35.9811, -94.4914
+Summers Ford, 36.4625, -93.5956
+Summerville, 33.5203, -92.3556
+Summerville Ford, 34.4083, -92.6275
+Summit, 36.2522, -92.6906
+Sumpter, 33.4856, -92.0492
+Sunny Hill, 35.2500, -91.7167
+Sunnydale, 35.4475, -91.6958
+Sunnyside(Conway), 35.3686, -92.6275
+Sunnyside(Chicot), 33.2944, -91.1806
+Sunset(Crittenden), 35.2217, -90.2056
+Sunset(Washington), 35.8103, -94.0131
+Sunshine(Garland), 34.4744, -93.2358
+Sunshine(Ashley), 33.1869, -91.5294
+Supply, 36.4569, -90.8414
+Sutherland Crossroads, 35.5347, -93.7706
+Suttle, 35.9761, -94.3981
+Sutton, 33.6447, -93.3983
+Swain, 35.8492, -93.3397
+Swan Lake, 34.1822, -91.6939
+Swayne, 35.8000, -89.8500
+Sweden, 34.1931, -91.7242
+Sweet Home(Perry), 35.0217, -92.7578
+Sweet Home(Pulaski), 34.6864, -92.2422
+Swifton, 35.8217, -91.1283
+Sycamore(Clark), 33.8425, -93.1622
+Sycamore(Boone), 36.4450, -92.9603
+Sycamore Bend, 34.9500, -90.4667
+Sycamore Bend Farm, 34.9847, -90.4522
+Sylamore, 35.9414, -92.1081
+Sylvan Hills, 34.8364, -92.2311
+Sylvania, 34.9722, -91.9283

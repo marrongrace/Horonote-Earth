@@ -1,0 +1,97 @@
+Ida, 35.5881, -91.9278
+Imboden, 36.2025, -91.1744
+Imo, 35.7786, -92.7506
+Index, 33.5469, -94.0417
+Indian, 33.0525, -91.2894
+Indian Bay, 34.3828, -91.0669
+Indian Bayou, 34.5333, -91.8667
+Indianhead Lake Estates, 34.8000, -92.2333
+Industrial, 34.6833, -92.3500
+Ingalls, 33.3833, -92.1508
+Ingleside, 35.4894, -91.3197
+Ingram, 36.3989, -91.0075
+Ink, 34.5872, -94.1239
+Ione, 35.1333, -93.9167
+Ionia, 36.3325, -94.5144
+Ions Creek, 34.8000, -93.6000
+Irma, 33.5553, -93.2833
+Iron Springs(Nevada), 33.8725, -93.4044
+Iron Springs(Pulaski), 34.5894, -92.3256
+Irons Fork Landing, 34.6900, -93.3642
+Ironton, 34.6319, -92.2772
+Isbell, 34.5667, -91.7000
+Island, 35.4000, -94.1167
+Island No 39 Landing, 35.3478, -90.1094
+Island Town, 35.5786, -91.2647
+Iuka, 36.2042, -92.1550
+Ivan, 33.9117, -92.4244
+Ivesville, 34.8025, -92.4325
+Ivy(Dallas), 34.1281, -92.5294
+Ivy(Franklin), 35.5000, -94.0000
+Jacinto, 33.9044, -92.6381
+Jacks Bay Landing, 34.0953, -91.1700
+Jacks Landing, 34.9894, -92.4039
+Jackson Ford, 35.3758, -91.9250
+Jackson Heights, 34.9167, -92.1167
+Jackson Landing, 35.9422, -90.3792
+Jacksonport, 35.6417, -91.3094
+Jacksonville, 34.8661, -92.1100
+James, 34.9167, -93.8500
+James Creek, 36.3333, -92.6000
+James Mill, 35.2628, -90.2175
+James R Bush, 34.4500, -90.7333
+Jamestown(Johnson), 35.4419, -93.4625
+Jamestown(Independence), 35.6967, -91.7044
+Janes Creek, 36.3167, -91.2167
+Japton, 35.9619, -93.8042
+Jasmine, 35.0642, -91.5836
+Jasper, 36.0081, -93.1864
+Jeanette, 35.1781, -90.4292
+Jeannette, 35.0667, -90.5000
+Jeff Davis, 33.8000, -94.3833
+Jefferson(Columbia), 33.3511, -93.3686
+Jefferson(Jefferson), 34.3806, -92.1639
+Jefferson Hospital, 34.1878, -92.0178
+Jefferson Square, 34.2167, -92.0333
+Jeffersonville, 34.7214, -90.6772
+Jeffrey, 34.8219, -92.3214
+Jennie, 33.2561, -91.2861
+Jenny Lind, 35.2508, -94.3181
+Jenson, 35.1972, -94.4389
+Jericho, 35.2858, -90.2269
+Jerome, 33.3994, -91.4700
+Jerrett, 36.4167, -90.9000
+Jersey, 33.4283, -92.3142
+Jerusalem, 35.4047, -92.8167
+Jessieville, 34.7011, -93.0614
+Jesup, 36.0169, -91.3361
+Jethro, 35.6075, -93.8872
+Jewell, 33.8561, -94.4239
+Jim Fork, 35.1167, -94.3500
+Joan, 34.1144, -92.9403
+Joe Burleson, 36.2500, -92.7500
+Johnson(Logan), 35.3428, -93.4536
+Johnson(Washington), 36.1328, -94.1653
+Johnson County Regional Hospital, 35.4625, -93.4439
+Johnston, 33.2658, -93.1669
+Johnstown, 35.5783, -91.1625
+Johnsville, 33.3731, -92.0158
+Joiner, 35.5078, -90.1469
+Jolliff Store, 35.9333, -90.2500
+Jones Mills, 34.4375, -92.8875
+Jonesboro, 35.8422, -90.7042
+Jonesville, 33.2667, -93.8833
+Jonquil, 35.0819, -90.4542
+Joplin, 34.5422, -93.4525
+Jordan, 36.2328, -92.1842
+Jordan Landing, 36.2706, -92.1908
+Joy, 35.2875, -91.9503
+Joyce City, 33.3758, -92.6489
+Joyland, 35.4742, -90.4489
+Joyland Park, 35.1333, -93.9167
+Judd Hill, 35.6022, -90.5192
+Judsonia, 35.2700, -91.6397
+Julius, 35.1892, -90.3072
+Jumbo, 36.0600, -91.9794
+Junction City, 33.0161, -92.7242
+Jurden, 34.9500, -90.4667

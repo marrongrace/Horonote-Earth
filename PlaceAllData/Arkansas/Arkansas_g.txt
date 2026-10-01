@@ -1,0 +1,175 @@
+Gaines Landing, 33.4594, -91.2292
+Gainesboro, 35.7667, -91.6167
+Gainesville, 36.1647, -90.5106
+Gainsboro, 35.7967, -91.5314
+Gaither, 36.1436, -93.1667
+Galena, 34.2514, -94.1128
+Galet, 35.1153, -90.2131
+Galilee, 35.4361, -90.3850
+Galla Creek, 35.2333, -93.0500
+Galla Rock, 35.1778, -92.9694
+Gallatin, 36.2061, -94.4269
+Galloway, 34.7797, -92.1286
+Gamaliel, 36.4567, -92.2331
+Gamaliel Landing, 36.4219, -92.2236
+Gammon, 35.2481, -90.1525
+Gap, 34.4167, -93.6167
+Gap Springs, 34.4500, -94.1167
+Garber, 35.6650, -93.3675
+Garden, 35.0833, -91.3833
+Gardner, 33.1061, -92.3808
+Garfield, 36.4483, -93.9739
+Garland, 33.3667, -93.7167
+Garland City Station, 33.3628, -93.7097
+Garland Springs, 35.2275, -92.1528
+Garlandville, 33.8117, -93.4844
+Garner, 35.1414, -91.7861
+Garnett, 33.8442, -91.7775
+Garret Grove, 34.8000, -91.0000
+Garrett, 35.4056, -93.3594
+Garrett Bridge, 33.8669, -91.6550
+Garrett Grove, 34.8006, -91.0828
+Garson, 35.9739, -90.2275
+Gassett, 34.8739, -90.5622
+Gassville, 36.2831, -92.4939
+Gaston, 34.5500, -93.7667
+Gateway, 36.4903, -93.9317
+Gaulett, 35.6503, -90.7100
+Gavin, 35.1908, -90.2197
+Gayler, 35.9272, -92.1700
+Gaylor, 35.8667, -92.1167
+Geneva, 34.0208, -94.2419
+Genevia, 34.7081, -92.2211
+Genoa, 33.3836, -93.9094
+Gentry, 36.2675, -94.4844
+Gentry Corner, 34.9575, -92.2908
+George, 36.0797, -93.4003
+Georges Creek, 36.2508, -92.7614
+Georgetown(Madison), 35.9956, -93.8311
+Georgetown(Pope), 35.3333, -93.2758
+Georgetown(White), 35.1269, -91.4550
+Georgia, 33.6833, -93.2667
+Gepp, 36.3878, -92.1042
+Geridge, 34.5400, -91.7061
+Gernada Chapel, 35.4833, -93.8333
+Gertrude, 33.4089, -93.9783
+Gethsemane, 34.4167, -91.8672
+Geyer Springs, 34.7014, -92.3350
+Gibbs, 34.6667, -93.6833
+Gibson(Craighead), 35.7769, -90.8156
+Gibson(Pulaski), 34.8842, -92.2356
+Gid, 35.9797, -91.8564
+Gieseck, 35.1800, -90.5603
+Gifford, 34.3756, -92.7442
+Gilbert, 35.9878, -92.7161
+Gilchrist, 35.7500, -89.9333
+Giles, 35.5833, -92.1333
+Giles Spur, 36.1000, -90.9500
+Gilkerson, 35.8039, -90.8064
+Gilkey, 34.9833, -93.3500
+Gill, 34.8775, -90.9075
+Gillam Park, 34.7067, -92.2558
+Gillett, 34.1172, -91.3764
+Gillham, 34.1692, -94.3161
+Gillian Settlement, 35.6317, -93.4017
+Gilmore, 35.4117, -90.2783
+Gin City, 33.1069, -93.7228
+Gipson, 34.8983, -94.3869
+Gladden, 35.2667, -90.4667
+Glade, 36.3681, -93.9139
+Glaize, 35.4833, -91.4167
+Glass, 35.8500, -91.1167
+Gleason, 35.1108, -92.5158
+Gleghorn, 36.3833, -90.5167
+Glen Rose, 34.4556, -92.7294
+Glencoe, 36.2942, -91.7472
+Glendale, 33.9628, -91.9592
+Glenlake, 34.1933, -91.8892
+Glenville, 33.4914, -93.1956
+Glenwood, 34.3267, -93.5506
+Gobbler, 36.1886, -93.4561
+Gobblers Point, 35.4228, -92.7786
+Godfrey Log, 33.2422, -92.0883
+Gold Creek, 35.0119, -92.4139
+Gold Lake Estates, 35.0833, -92.4500
+Golden City, 35.0592, -93.9258
+Golden Lake, 35.5458, -90.0456
+Goldman, 34.4547, -91.6042
+Goobertown, 35.9514, -90.5756
+Good Hope, 33.6439, -93.0597
+Goodman, 34.5603, -92.4700
+Goodrich, 35.3317, -91.2303
+Goodrum, 34.8833, -92.0000
+Goodwin, 34.9381, -91.0208
+Goose Camp, 35.4333, -93.6167
+Gorby, 36.1019, -92.0758
+Goshen, 36.1011, -93.9911
+Gosnell, 35.9597, -89.9719
+Gospoda, 34.8886, -91.4950
+Gould, 33.9850, -91.5608
+Gourd, 33.8436, -91.5967
+Grady, 34.0800, -91.7006
+Grand Glaise, 35.4750, -91.4097
+Grand Lake, 33.0922, -91.2106
+Grandfield, 34.2183, -93.9117
+Grandview(Conway), 35.3531, -92.5972
+Grandview(Carrol), 36.4339, -93.6211
+Grange, 35.9333, -91.5500
+Grannis, 34.2406, -94.3347
+Grants, 33.1561, -93.6572
+Grapevine, 34.1456, -92.3153
+Graphic, 35.5733, -94.1433
+Grassy, 35.6500, -91.8333
+Grassy Lake, 35.2667, -90.4667
+Grassy Lake Bottom, 35.2681, -90.3958
+Gravel Hill(Van Buren), 35.4803, -92.6372
+Gravel Hill(White), 35.2619, -91.9772
+Gravel Junction, 34.0453, -92.9425
+Gravel Ridge, 34.8683, -92.1906
+Gravelly, 34.8831, -93.6872
+Gravelridge, 33.4464, -92.2189
+Graves Chapel, 33.8833, -94.0833
+Gravesville, 35.3892, -92.3478
+Gravette, 36.4219, -94.4533
+Gravette Medical Center, 36.4147, -94.4522
+Gray Rock, 35.3400, -93.7444
+Grays, 35.2264, -91.2339
+Grays Hospital, 35.7722, -91.6503
+Grayson, 35.0556, -93.8694
+Graysonia, 34.1269, -93.4397
+Greasy Corner, 35.0072, -90.4483
+Green Forest, 36.3353, -93.4358
+Green Hill, 33.5647, -91.8978
+Greenbrier, 35.2339, -92.3875
+Greene High, 36.0667, -90.5333
+Greenfield, 35.6322, -90.7125
+Greenland, 35.9942, -94.1750
+Greenway, 36.3411, -90.2203
+Greenwood(Sebastian), 35.2156, -94.2556
+Greenwood(Franklin), 35.4078, -93.7711
+Greenwood Junction, 35.4481, -94.4397
+Greer Place, 34.7528, -90.6725
+Greers Ferry, 35.5667, -92.1833
+Gregory, 35.1553, -91.3431
+Grider, 35.6386, -89.9806
+Griffin, 35.4000, -92.8167
+Griffith Spring, 33.9333, -91.8333
+Griffithtown, 34.0547, -92.9594
+Griffithville, 35.1236, -91.6450
+Grove, 36.0833, -92.9667
+Grubb Springs, 36.2150, -93.1544
+Grubbs, 35.6497, -91.0739
+Guernsey, 33.7000, -93.5833
+Guion, 35.9253, -91.9406
+Gulledge, 33.0708, -91.8711
+Gum Grove, 33.7022, -93.1792
+Gum Log, 35.2833, -92.9833
+Gum Point, 35.7792, -90.5353
+Gum Pond, 34.5333, -91.5333
+Gum Springs(Cleveland), 33.9786, -92.2739
+Gum Springs(Pulaski), 34.6992, -92.3256
+Gum Springs(Clark), 34.0672, -93.0917
+Gum Tree, 35.1867, -93.4528
+Gum Woods, 34.5333, -91.9667
+Gurdon, 33.9208, -93.1539
+Guy, 35.3253, -92.3342

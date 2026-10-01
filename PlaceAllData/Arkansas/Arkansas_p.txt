@@ -1,0 +1,258 @@
+Pace City, 33.4028, -92.9119
+Packard Springs, 36.3333, -93.7500
+Palarm, 34.9050, -92.4475
+Palatka, 36.4664, -90.6578
+Palestine, 34.9722, -90.9025
+Palmer, 34.5761, -91.0656
+Palmyra, 33.9228, -91.9303
+Pangburn, 35.4267, -91.8367
+Pankey, 34.8003, -92.4203
+Pankov, 33.7044, -94.3397
+Pansy, 33.8219, -92.0028
+Panther Forest, 33.3333, -91.2833
+Paraclifta, 33.8833, -94.1833
+Paradise(Drew), 33.5333, -91.8000
+Paradise(Franklin), 35.6322, -93.8339
+Paradise Landing(Crittenden), 35.3608, -90.1275
+Paradise Landing(Faulkner), 34.9772, -92.4086
+Paragould, 36.0583, -90.5000
+Paraloma, 33.7978, -94.0189
+Paris, 35.2919, -93.7297
+Park, 34.8000, -93.9667
+Park Grove, 34.6922, -91.2117
+Park Hill, 34.7858, -92.2603
+Park Place, 34.8289, -90.5961
+Parkdale, 33.1214, -91.5456
+Parker, 33.5667, -93.3833
+Parker Ford, 36.2008, -93.8358
+Parkers, 34.6183, -92.3156
+Parkers Chapel, 33.2167, -92.6667
+Parkers Corner, 34.6575, -91.7186
+Parkin, 35.2633, -90.5711
+Parks, 34.8019, -93.9606
+Parma, 35.7192, -92.1789
+Parnell, 34.9833, -92.0167
+Paron, 34.7728, -92.7583
+Paroquet, 35.6744, -91.3636
+Partain, 35.6278, -92.2397
+Partee, 33.2422, -93.2444
+Parthenon, 35.9531, -93.2419
+Pastoria, 34.3581, -92.0400
+Patmos, 33.5117, -93.5661
+Patoka, 35.0733, -90.3111
+Patrick, 35.8431, -93.8836
+Patsville, 33.4500, -92.1667
+Patterson(Sebastian), 34.9919, -94.3608
+Patterson(Woodruff), 35.2567, -91.2350
+Patterson(Clay), 36.2722, -90.1217
+Pattonville, 35.7928, -91.7142
+Pattsville, 33.4419, -92.1067
+Pauls Switch, 35.9522, -90.8250
+Paup, 33.5019, -93.9425
+Pawheen, 35.9333, -90.2500
+Payne(Clay), 36.2833, -90.1167
+Payne(Union), 33.1475, -92.4308
+Payneway, 35.5431, -90.5028
+Pea Ridge(Desha), 33.9206, -91.3367
+Pea Ridge(Benton), 36.4539, -94.1150
+Peach Orchard, 36.2786, -90.6628
+Peanut, 35.6753, -93.7047
+Pearcy, 34.4286, -93.2897
+Pearson, 35.4406, -92.1278
+Pecan, 35.4833, -90.0500
+Pecan Grove, 34.7731, -92.2067
+Pecan Point, 35.4775, -90.0392
+Pecan Point Landing, 35.4747, -90.0317
+Pedro, 36.1683, -94.4039
+Peel, 36.4322, -92.7686
+Pelsor, 35.7167, -93.0667
+Pencil Bluff, 34.6297, -93.7342
+Pendleton, 33.9772, -91.3819
+Penjur, 34.9750, -90.4281
+Pennington(Jackson), 35.5892, -91.0611
+Pennington(Bradrey), 33.6167, -92.1000
+Pennys, 33.8781, -94.1650
+Penrose, 35.1928, -91.0508
+Perkins, 34.0767, -93.8597
+Perla, 34.3644, -92.7714
+Perry, 35.0475, -92.7939
+Perrytown, 33.6964, -93.5369
+Perryville, 35.0047, -92.8025
+Peter Creek, 35.5833, -91.9500
+Peter Pender, 35.3600, -93.9342
+Peters, 34.8194, -90.4789
+Petit Jean, 35.0906, -93.1803
+Pettigrew, 35.8178, -93.6483
+Pettus, 34.6669, -91.9061
+Pettyview, 34.4050, -93.1669
+Pettyville, 35.8458, -90.1194
+Peytonville, 33.6936, -94.0781
+Pfeiffer, 35.8239, -91.5878
+Phenix, 34.0333, -91.7708
+Philadelphia(Columbia), 33.2039, -93.3119
+Philadelphia(Craighead), 35.8789, -90.7025
+Philander Smith College, 34.7333, -92.3167
+Phillips(Craighead), 35.8164, -90.5842
+Phillips(Garland), 34.5500, -92.8333
+Phillips Bayou, 34.6481, -90.6397
+Phoenix, 35.4000, -93.0167
+Pickens(Desha), 33.8467, -91.4797
+Pickens(White), 35.3475, -91.8742
+Piercetown, 35.9664, -93.0714
+Pigeon, 36.4500, -92.3500
+Piggott, 36.3828, -90.1906
+Piggott Community Hospital, 36.3856, -90.1928
+Pike City, 34.1122, -93.5750
+Pike County Memorial Hospital, 34.0708, -93.6867
+Pike Junction, 34.0350, -93.4106
+Pilgrims Rest(Phillips), 34.3903, -90.8694
+Pilgrims Rest(Washington), 36.1872, -93.9939
+Pillar, 34.5461, -90.7158
+Pilot Rock, 35.6667, -93.2167
+Pinckney, 34.9767, -90.3053
+Pindall, 36.0661, -92.8811
+Pine, 35.4833, -91.8667
+Pine Bluff, 34.2283, -92.0031
+Pine City, 34.5828, -91.1131
+Pine Grove, 33.8822, -92.7717
+Pine Grove Valley, 35.0667, -94.2500
+Pine Haven, 34.5647, -92.4894
+Pine Island Landing, 33.2514, -92.0728
+Pine Log, 36.4000, -93.9000
+Pine Mountain, 35.0167, -92.4500
+Pine Ridge(Monroe), 34.6833, -91.1833
+Pine Ridge(Montgomery), 34.5858, -93.9100
+Pine Top, 36.3244, -93.8778
+Pine Valley, 35.9333, -91.5500
+Pinebergen, 34.1028, -91.9922
+Pinecrest, 34.2167, -92.0333
+Pinetree, 35.1267, -90.9281
+Pineville, 36.1628, -92.1069
+Piney(Franklin), 35.5858, -94.0575
+Piney(Garland), 34.5031, -93.1258
+Piney(Johnson), 35.3444, -93.3253
+Piney Fork, 36.0667, -91.6333
+Piney Grove(Lafayette), 33.4378, -93.6061
+Piney Grove(Pike), 33.9714, -93.4558
+Pinnacle, 34.8256, -92.4967
+Pisgah(Pike), 33.9792, -93.5258
+Pisgah(Yell), 35.2333, -93.1667
+Pitkin Corner, 35.8853, -94.1747
+Pitman, 36.4783, -90.8225
+Pittinger, 35.4422, -90.9864
+Pitts, 35.6744, -91.0314
+Pittsburg, 35.4333, -93.3667
+Pittston Junction, 35.6489, -93.7311
+Plainfield, 33.0478, -93.3186
+Plainview(Logan), 35.3147, -93.5894
+Plainview(White), 35.3125, -91.6769
+Plainview(Yell), 34.9894, -93.2972
+Plant, 35.5833, -92.4667
+Planters, 33.1333, -91.3000
+Plantersville, 33.7669, -91.8806
+Plata, 34.4525, -93.5467
+Pleasant Grove(Van Buren), 35.4928, -92.6147
+Pleasant Grove(Craighead), 35.8333, -90.8000
+Pleasant Grove(Stone), 35.8164, -91.9092
+Pleasant Hill(Conway), 35.3850, -92.5869
+Pleasant Hill(Crawford), 35.5217, -94.0489
+Pleasant Hill(Garland), 34.4556, -93.1614
+Pleasant Hill(Logan), 35.3372, -93.6139
+Pleasant Hill(Nevada), 33.8650, -93.4278
+Pleasant Hill(Cross), 35.2167, -90.7833
+Pleasant Hill(Yell), 34.8892, -93.5378
+Pleasant Hills, 35.9167, -92.3167
+Pleasant Plains, 35.5500, -91.6261
+Pleasant Ridge(Boone), 36.2253, -92.9078
+Pleasant Ridge(Fulton), 36.3000, -91.6500
+Pleasant Ridge(Carroll), 36.4817, -93.6439
+Pleasant Valley(Faulkner), 35.1789, -92.4494
+Pleasant Valley(Izard), 36.1383, -92.1639
+Pleasant Valley(Carroll), 36.3869, -93.6097
+Pleasant Valley(Lafayette), 33.1086, -93.8125
+Pleasant Valley(Perry), 34.9714, -92.6742
+Pleasant Valley(Pope), 35.4408, -93.1333
+Pleasant View, 35.4836, -94.0175
+Pleasure Heights, 36.2361, -94.0153
+Pless, 35.4042, -93.2650
+Plum Bayou, 34.3333, -91.9000
+Plumerville, 35.1600, -92.6406
+Plumlee, 36.0833, -93.3000
+Plunketts, 34.8167, -91.4000
+Pocahontas, 36.2614, -90.9711
+Poff, 35.6667, -92.1833
+Point, 35.1500, -91.3500
+Point Cedar, 34.3275, -93.3072
+Point De Luce, 34.2000, -91.2833
+Point Peter, 35.9556, -92.9092
+Poker Point Landing, 35.3361, -90.1167
+Poland, 36.0000, -90.6167
+Pollard, 36.4308, -90.2683
+Polo, 36.4333, -93.5500
+Ponca, 36.0242, -93.3644
+Ponders, 36.0008, -90.8969
+Pontoon, 35.0333, -93.0500
+Pooles Landing, 34.9758, -92.4153
+Poping, 35.4528, -93.8894
+Poplar Corner, 35.9308, -90.1772
+Poplar Grove, 34.5478, -90.8531
+Poplar Ridge, 35.8297, -90.4044
+Porter, 35.7333, -94.1333
+Portia, 36.0864, -91.0672
+Portland, 33.2378, -91.5114
+Posey, 34.9553, -91.1161
+Possum Fork, 33.7667, -91.2667
+Possum Grape, 35.4758, -91.4111
+Postal Landing, 35.1381, -91.4267
+Postelle, 34.5700, -91.0228
+Potter, 34.5536, -94.3389
+Potter Junction, 34.5506, -94.3058
+Pottsville, 35.2481, -93.0489
+Poughkeepsie, 36.0767, -91.4792
+Poven, 34.3242, -92.6397
+Powell(Craighead), 35.9333, -90.6333
+Powell(Marion), 36.2375, -92.8167
+Powers, 33.6664, -93.7256
+Powhatan, 36.0822, -91.1183
+Poyen, 34.3333, -92.6333
+Prague, 34.2867, -92.2806
+Prairie Creek(Benton), 36.3419, -94.0617
+Prairie Creek(Sebastian), 35.0522, -94.3500
+Prairie Grove, 35.9758, -94.3175
+Prairie Landing, 34.0803, -91.1883
+Prairie View, 35.3344, -93.5178
+Prattsville, 34.3147, -92.5533
+Prescott, 33.8025, -93.3808
+Presley Junction, 35.1786, -90.1872
+Preston, 35.0256, -92.4222
+Preston Ferry, 34.5347, -91.3036
+Preston Place, 34.4756, -90.6436
+Price(Garland), 34.5000, -93.0500
+Price(Marion), 36.4500, -92.6333
+Price(Washington), 35.9667, -94.4833
+Price Ford, 35.3750, -91.9561
+Prim, 35.6939, -92.1083
+Princedale, 35.2639, -90.6469
+Princeton, 33.9817, -92.6244
+Princeton Landing, 35.1756, -91.4272
+Process City, 34.0211, -94.3653
+Proctor, 35.0950, -90.3733
+Promised Land(Mississippi), 35.8992, -89.8531
+Promised Land(Poinsett), 35.6833, -90.5167
+Pronton, 35.1119, -93.0103
+Prosperity(Boone), 36.3328, -93.2008
+Prosperity(Yell), 35.1567, -93.1653
+Protho Junction, 34.7675, -92.1986
+Providence, 35.3703, -91.6761
+Provo, 34.0375, -94.1075
+Pruitt, 36.0622, -93.1367
+Pryor, 35.1750, -91.5486
+Pugh, 33.2394, -91.9619
+Pulaski, 34.7683, -92.3097
+Pulaski County Hospital, 34.7242, -92.3081
+Pulaski Heights, 34.7569, -92.3167
+Pullman, 34.1144, -94.3164
+Pumpkin Bend, 35.3000, -91.1000
+Purdy, 36.0914, -93.5736
+Puryear, 34.7903, -94.4261
+Pyatt, 36.2458, -92.8447

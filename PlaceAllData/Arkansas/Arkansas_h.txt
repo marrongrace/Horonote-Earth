@@ -1,0 +1,267 @@
+H Lake Landing, 34.1778, -91.0947
+Habberton, 36.1150, -94.0514
+Hackett, 35.1903, -94.4108
+Hadley, 33.3667, -93.4333
+Hagarville, 35.5156, -93.3247
+Hagler, 34.2542, -91.5281
+Haig, 34.8189, -92.3164
+Hale, 34.5833, -93.1667
+Haleside, 34.7178, -90.6553
+Half Moon, 35.9119, -90.0144
+Half Moon Lake, 35.9167, -90.0167
+Halfway, 34.0847, -93.3217
+Halley, 33.5356, -91.3247
+Halley Junction, 33.5328, -91.3753
+Halliday, 36.1214, -90.4342
+Hallsville, 34.8167, -91.4953
+Halstead, 34.7500, -92.3667
+Hamburg, 33.2281, -91.7975
+Hamil, 36.4031, -91.0653
+Hamilton(Lonoke), 34.6219, -91.7192
+Hamilton(Garland), 34.7047, -93.1331
+Hamiter, 34.6622, -92.0672
+Hamlet, 35.0781, -92.3050
+Hamlin, 35.2350, -90.9275
+Hammons, 33.0956, -94.0414
+Hammonsville, 35.2333, -92.1167
+Hampton, 33.5378, -92.4697
+Hancock, 35.8014, -90.2961
+Hancock Junction, 35.7806, -90.3047
+Hand, 36.3333, -92.1000
+Hand Landing, 36.2861, -92.2036
+Hand Valley, 36.2050, -92.4944
+Hannaberry, 34.1225, -91.5589
+Hanover(Stone), 35.8033, -92.1236
+Hanover(Crittenden), 35.2500, -90.3886
+Happy, 35.1653, -91.6442
+Happy Bend, 35.2639, -92.8672
+Happy Corners, 35.9333, -90.2500
+Harbor View Mercy Hosptial, 35.3408, -94.3181
+Hardin(Faulkner), 35.2333, -92.3500
+Hardin(Jefferson), 34.2811, -92.1500
+Hardy, 36.3158, -91.4825
+Haretown, 34.0208, -93.3742
+Hargrave Corner, 36.2592, -90.2292
+Hargraves Junction, 36.2667, -90.3000
+Harlow, 33.7481, -92.5669
+Harmon(Boone), 36.2131, -92.9211
+Harmon(Washington), 36.1536, -94.2769
+Harmontown, 35.7611, -91.8139
+Harmony(Bladley), 33.6167, -92.0667
+Harmony(Boone), 36.2333, -93.0667
+Harmony(Nevada), 33.6542, -93.3989
+Harmony(Columbia), 33.1425, -93.3550
+Harmony(Johnson), 35.5481, -93.5556
+Harmony(Madison), 36.1081, -93.7122
+Harmony(White), 35.2375, -91.9067
+Harmony Grove, 33.6519, -92.7808
+Harness, 35.8431, -92.4053
+Haroldton, 35.3622, -94.2600
+Harp, 34.3267, -92.7886
+Harper, 33.8167, -92.0333
+Harrell, 33.5100, -92.3986
+Harriet, 35.9933, -92.5203
+Harris(Stone), 35.9500, -92.1500
+Harris(Washington), 36.0311, -94.0475
+Harris Hospital, 35.6056, -91.2806
+Harrisburg, 35.5642, -90.7167
+Harrison, 36.2297, -93.1075
+Hart, 35.2986, -92.0517
+Hartford, 35.0228, -94.3811
+Hartley, 34.3683, -94.1706
+Hartman, 35.4325, -93.6153
+Hartsell, 35.4667, -91.6833
+Hartsugg, 35.6833, -92.6167
+Hartwell, 36.1203, -93.8017
+Harvard, 35.2339, -90.2072
+Harve, 35.1667, -92.2667
+Harvey, 34.8458, -93.7850
+Harwood, 33.1628, -91.1281
+Haskell, 34.5014, -92.6364
+Hasty, 36.0150, -93.0475
+Hatchie Coon, 35.6350, -90.4919
+Hatfield, 34.4856, -94.3783
+Hattieville, 35.2875, -92.7867
+Hatton, 34.3583, -94.3717
+Havana, 35.1111, -93.5294
+Hawkins, 35.0603, -90.9219
+Hayley, 34.9958, -91.6547
+Haynes, 34.8908, -90.7919
+Hays, 36.0500, -90.3833
+Haywood(Jefferson), 34.3628, -91.9247
+Haywood(Clay), 36.3333, -90.2167
+Hazel, 34.5167, -93.6667
+Hazel Grove, 35.8722, -91.3606
+Hazel Valley, 35.8611, -93.9922
+Hazen, 34.7808, -91.5808
+Heafer, 35.3664, -90.3397
+Healing Springs(Benton), 36.2547, -94.2781
+Healing Springs(Cleburne), 35.6667, -91.9333
+Health, 35.7892, -93.9428
+Hearn, 34.0833, -93.0333
+Heart, 36.3236, -91.7147
+Heber, 35.5000, -92.0000
+Heber Springs, 35.4914, -92.0311
+Hebron, 33.7667, -92.2333
+Hector, 35.4672, -92.9747
+Heelstring, 36.3536, -90.6944
+Heffington, 35.4494, -91.5131
+Helena, 34.5294, -90.5914
+Helena Crossing, 34.5033, -90.6200
+Helena Regional Medical Center, 34.5100, -90.6267
+Helfer Log Landing, 35.6469, -90.2706
+Hempwallace, 34.4439, -93.2103
+Henderson, 36.3806, -92.2275
+Henderson College, 34.0833, -93.0333
+Hendrix College, 35.0833, -92.4500
+Henslee Heights, 34.2622, -92.0828
+Hensley, 34.5053, -92.2056
+Hensley Ford, 35.8597, -92.7536
+Henton, 34.4167, -91.6667
+Herbert, 33.5511, -92.8381
+Herbine, 33.8211, -92.0339
+Herd, 36.0667, -92.1833
+Hergett, 35.7675, -90.5911
+Herma, 33.2608, -92.6225
+Herman, 35.7150, -90.5322
+Hermitage(Bladley), 33.4464, -92.1739
+Hermitage(Pulaski), 34.7167, -92.2667
+Herndon, 35.9333, -90.7167
+Herpel, 35.9075, -92.0267
+Herring, 35.0000, -93.5167
+Hervey, 33.4981, -93.7769
+Heth, 35.0775, -90.4950
+Heubner, 36.2169, -90.3119
+Hickey, 35.5000, -93.2500
+Hickeytown, 35.4047, -93.3106
+Hickman, 35.9442, -89.7331
+Hickman Landing, 35.9428, -89.6872
+Hickoria, 36.3911, -90.4433
+Hickory, 36.3500, -93.4333
+Hickory Creek, 36.2542, -94.0344
+Hickory Flat, 35.4892, -91.7536
+Hickory Grove(Newton), 35.8333, -93.2833
+Hickory Grove(Yell), 35.1603, -93.4700
+Hickory Hill, 35.2431, -92.7331
+Hickory Plains, 34.9900, -91.7367
+Hickory Ridge, 35.3972, -90.9964
+Hickory Valley, 35.8958, -91.5564
+Hicks(Phillips), 34.5650, -90.9811
+Hicks(Washington), 35.9389, -94.0481
+Hicks Station, 35.0942, -90.6128
+Hicksville, 34.5833, -91.0167
+Hico, 36.1833, -94.5167
+Hidden Valley, 36.2753, -91.5128
+Higden, 35.5733, -92.2031
+Higgins(Conway), 35.1000, -92.8667
+Higgins(Pulaski), 34.6514, -92.2339
+Higginson, 35.1947, -91.7125
+Highfill, 36.2614, -94.3575
+Highland(Poke), 34.6269, -93.9631
+Highland(Sharp), 36.2667, -91.5000
+Highland(Pike), 34.0353, -93.7719
+Highland Farm, 34.9667, -90.3847
+Hightower, 35.8142, -90.0169
+Hilburn, 35.8000, -93.7833
+Hill Creek, 35.2114, -92.6189
+Hillcrest(Johnson), 35.4667, -93.5000
+Hillcrest(Pulaski), 34.7500, -92.3667
+Hillemann, 35.1225, -91.0889
+Hillsboro, 33.1356, -92.4978
+Hilo, 33.3617, -92.2725
+Hilton, 35.6458, -90.0903
+Hindman, 34.6667, -91.0833
+Hindsville, 36.1442, -93.8619
+Hinkle, 35.4278, -93.5833
+Hiram, 35.4692, -91.8678
+Hiwasse, 36.4317, -94.3336
+Hixson, 36.0333, -92.1333
+Hobbs, 35.5333, -94.2667
+Hobbtown, 35.5742, -94.3031
+Hog Jaw, 34.5992, -93.7567
+Hogan, 36.1578, -91.1317
+Hogeye, 35.9203, -94.2675
+Holdridge, 34.4317, -91.4428
+Holiday Island, 36.4000, -93.7333
+Holla Bend, 35.1661, -93.0517
+Holland(Lonoke), 34.9242, -92.0533
+Holland(Faulkner), 35.1714, -92.2736
+Hollis, 34.8744, -93.1103
+Holly, 35.6667, -92.4000
+Holly Corner, 36.2667, -90.3000
+Holly Creek, 34.1333, -93.9500
+Holly Grove, 34.5958, -91.1997
+Holly Island, 36.2667, -90.3000
+Holly Island Community, 36.2592, -90.1581
+Holly Springs(White), 35.2500, -91.7167
+Holly Springs(Dallas), 33.8153, -92.7094
+Holly Springs(Conway), 35.2986, -92.5192
+Hollywood, 34.1039, -93.2467
+Holman, 35.4844, -93.3108
+Holmes, 36.2667, -90.9667
+Holt Krock Clinic, 35.3717, -94.4175
+Holub, 34.8478, -90.9081
+Homan, 33.5428, -93.8861
+Homewood, 35.0300, -92.9764
+Hon, 34.9392, -94.1811
+Hooker(Greene), 36.2233, -90.5317
+Hooker(Jefferson), 34.1197, -91.8808
+Hoop Spur, 34.3439, -90.8367
+Hoover, 36.2500, -94.3333
+Hoover Landing, 36.1881, -90.9894
+Hope, 33.6669, -93.5914
+Hopeville, 33.7897, -92.5572
+Hopewell(Boone), 36.3350, -93.0922
+Hopewell(Cleburne), 35.3981, -92.0650
+Hopewell(Greene), 36.2447, -90.3533
+Hopewell(Lawrence), 35.9783, -91.0889
+Hopper(Lee), 34.8525, -91.0517
+Hopper(Montgomery), 34.3586, -93.6886
+Horatio, 33.9383, -94.3569
+Hornor, 34.5500, -90.6833
+Horsehead(Columbia), 33.1097, -93.2636
+Horsehead(Johnson), 35.5500, -93.5667
+Horseshoe, 35.5128, -91.2744
+Horseshoe Bend, 36.2000, -91.7167
+Hortons Landing, 34.2953, -91.1125
+Hot Spring County Memorial Hospital, 34.3558, -92.8089
+Hot Springs, 34.5036, -93.0550
+Hot Springs Junction, 34.7133, -92.2853
+Hot Springs National Park, 34.5000, -93.0500
+Hot Springs Village, 34.6719, -92.9986
+Hough, 36.3089, -93.3650
+Houston, 35.0333, -92.6944
+Howard(Conway), 35.1500, -92.6167
+Howard(Polk), 34.7058, -94.4369
+Howard County Memorial Hospital, 33.9522, -93.8569
+Howell, 35.1136, -91.2453
+Hoxie, 36.0503, -90.9750
+Hoyt, 35.4264, -93.5636
+Hubbard, 35.9053, -94.3197
+Huddleston, 34.6167, -93.7833
+Hudgin, 33.9833, -91.9833
+Hudson, 35.9333, -93.2333
+Hudsons Landing Campground, 34.2189, -91.0594
+Hudspeth, 33.4369, -91.4525
+Huey, 33.6500, -92.4667
+Huff, 35.6236, -91.6058
+Huffman, 35.9733, -89.7339
+Hughes, 34.9492, -90.4714
+Hulbert, 35.1308, -90.1931
+Huma, 34.5347, -90.6731
+Humnoke, 34.5414, -91.7569
+Humphrey, 34.4219, -91.7061
+Hunt(Columbia), 33.1781, -93.3556
+Hunt(Johnson), 35.5289, -93.6586
+Hunt(Scott), 34.9500, -93.7500
+Hunter, 35.0528, -91.1261
+Huntington, 35.0822, -94.2631
+Huntsville, 36.0861, -93.7411
+Huntsville Memorial Hospital, 36.0939, -93.7419
+Hurds, 33.5339, -91.3561
+Hurricane Grove, 34.5500, -93.6333
+Hutchinson, 35.6447, -91.6742
+Hutson, 35.6333, -91.4667
+Huttig, 33.0394, -92.1825
+Hyden, 34.1889, -91.3608
+Hydrick, 35.4464, -90.7436
