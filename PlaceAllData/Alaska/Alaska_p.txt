@@ -1,0 +1,48 @@
+Paimiut, 61.9642, -160.2319
+Palmer, 61.5997, -149.1128
+Paradise, 62.4167, -160.0500
+Paradise Hill, 62.2000, -159.7667
+Pauloff Harbor, 54.4667, -162.7000
+Paxson, 63.0333, -145.5000
+Pederson Point, 58.7333, -157.0167
+Pedro Bay, 59.7833, -154.1167
+Pelican, 57.9608, -136.2275
+Peninsula Point, 55.3833, -131.7333
+Pennock Island, 55.3333, -131.6333
+Perkinsville, 64.5506, -165.4150
+Perryville, 55.9167, -159.1500
+Peters Creek, 61.4111, -149.4456
+Petersburg, 56.8125, -132.9556
+Pile Bay Village, 59.7833, -153.8833
+Pilgrim Springs, 65.0936, -164.9239
+Pilot Point, 57.5642, -157.5792
+Pilot Station, 61.9389, -162.8750
+Pitkas Point, 62.0328, -163.2878
+Platinum, 59.0131, -161.8164
+Point Baker, 56.3528, -133.6211
+Point Barrow, 71.2906, -156.7886
+Point Hope, 68.3478, -166.8081
+Point Lay, 69.7575, -163.0511
+Point Retreat, 58.3500, -134.5500
+Point Whiteshed, 60.5500, -145.7500
+Popof Island, 55.3397, -160.4972
+Port Alexander, 56.2497, -134.6444
+Port Alsworth, 60.2025, -154.3128
+Port Ashton, 60.0575, -148.0522
+Port Chilkoot, 59.2289, -135.4378
+Port Clarence, 65.2622, -166.8458
+Port Graham, 59.3514, -151.8297
+Port Heiden, 56.9167, -158.6833
+Port Higgins, 55.4500, -131.8167
+Port Lions, 57.8675, -152.8822
+Port Moller, 56.0000, -160.5833
+Port Nellie Juan, 60.5500, -148.1667
+Port Safety, 64.4517, -164.8256
+Port Wakefield, 58.0500, -153.0500
+Portage, 60.8333, -148.9833
+Portage Creek, 59.4000, -158.6333
+Pounrevik, 62.5333, -164.8667
+Pribilof Islands, 57.4000, -169.5508
+Prince of Wales, 55.7333, -133.2500
+Providence Hospital, 61.1894, -149.8186
+Prudhoe Bay, 70.2500, -148.3667

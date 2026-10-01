@@ -1,0 +1,38 @@
+Ac, 61.0000, -159.9500
+Adak, 51.8800, -176.6581
+Adak Naval Station, 51.8667, -176.6500
+Afognak, 58.0078, -152.7681
+Akhiok, 56.9456, -154.1703
+Akiachak, 60.9094, -161.4314
+Akiak, 60.9122, -161.2139
+Akolmiut, 60.9000, -162.5000
+Akutan, 54.1333, -165.7667
+Alakanuk, 62.6889, -164.6153
+Alaska Psychiatric Institute, 61.1867, -149.8236
+Alatna, 66.5667, -152.6500
+Aleknagik, 59.2731, -158.6178
+Aleknagik Mission, 59.2833, -158.6000
+Aleksashkina, 57.7800, -152.3553
+Aleutian Islands, 52.1167, -176.6000
+Alexander, 61.4167, -150.6000
+Alitak, 57.3500, -153.1667
+Allakaket, 66.5656, -152.6456
+Alyeska, 60.9608, -149.1108
+Ambler, 67.0861, -157.8514
+Anaktuvuk Pass, 68.1433, -151.7358
+Anchor Point, 59.7767, -151.8314
+Anchorage, 61.2181, -149.9003
+Anderson, 64.3442, -149.1869
+Andreafsky, 62.0500, -163.1667
+Angoon, 57.5033, -134.5839
+Aniak, 61.5783, -159.5222
+Annette, 55.0667, -131.5500
+Anvik, 62.6561, -160.2067
+Arctic Village, 68.1269, -145.5378
+Artesian Village, 61.2275, -149.7814
+Atka, 52.2000, -174.2000
+Atmautluak, 60.8167, -162.7167
+Atqasuk, 70.4694, -157.3958
+Auke Bay, 58.3833, -134.6597
+Aurora, 64.8569, -147.7586
+Aurora Lodge, 64.4706, -146.9386

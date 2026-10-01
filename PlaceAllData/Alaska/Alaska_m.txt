@@ -1,0 +1,41 @@
+Mack, 64.8500, -147.7833
+Manley Hot Springs, 65.0011, -150.6339
+Manokotak, 58.9833, -159.0500
+Marshall, 61.8778, -162.0811
+Marvel Creek, 61.5667, -159.4000
+Marys Igloo, 65.1500, -165.0667
+Matanuska, 61.5500, -149.2333
+May Creek, 61.3500, -142.7000
+McCarthy, 61.4333, -142.9217
+McCord, 57.1500, -153.2000
+McGrath, 62.9564, -155.5958
+McKinley Acres, 64.8500, -147.7833
+McKinley Park, 63.7333, -148.9167
+Meakerville, 60.5500, -145.7333
+Medfra, 63.1067, -154.7142
+Mekoryuk, 60.3881, -166.1850
+Mellicks Trading Post, 61.6844, -157.1781
+Mendeltna Lodge, 61.6000, -149.3333
+Mendenhall Flats, 58.3667, -134.6333
+Mendenhaven, 58.3919, -134.5669
+Mentasta Lake, 62.9167, -143.7500
+Meshik, 56.9125, -158.6819
+Metlakatla, 55.1292, -131.5722
+Meyers Chuck, 55.7408, -132.2564
+Miller House, 65.5333, -145.2167
+Minto, 64.8833, -149.1833
+Montana, 62.0833, -150.0667
+Moore Creek(Yukon-Koyukuk), 62.6006, -157.1419
+Moose Creek(Matanuska-Susitna), 61.6833, -149.0333
+Moose Creek(Fairbanks North St), 64.7100, -147.1436
+Moose Pass, 60.4833, -149.3667
+Morzhovoi, 54.9167, -163.3000
+Moses Point Fishing Village, 64.6978, -162.0281
+Mount Edgecombe, 57.0511, -135.3544
+Mountain Point, 55.2944, -131.5325
+Mountain View, 61.2264, -149.8042
+Mountain Village, 62.0833, -163.7167
+Mud Bay, 55.4208, -131.7681
+Mumtrak, 59.1167, -161.5833
+Musk Ox, 64.9003, -147.8225
+Muskwa Village, 60.4033, -149.3592

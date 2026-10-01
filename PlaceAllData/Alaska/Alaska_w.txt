@@ -1,0 +1,35 @@
+Wacker, 55.4167, -131.7333
+Wade Hampton, 62.3000, -164.6833
+Wainwright, 70.6369, -160.0383
+Wales, 65.6167, -168.0833
+Ward Cove, 55.4119, -131.7228
+Wasilla, 61.5814, -149.4394
+Waterfall, 55.2972, -133.2406
+Wells, 59.4167, -135.9331
+West Fairwest, 64.8500, -147.7833
+West Juneau, 58.2950, -134.4294
+West Petersburg, 56.8142, -132.9931
+Westgate, 64.8372, -147.7958
+Westwood, 64.8500, -147.7833
+Wevok, 68.8719, -166.0903
+White Mountain, 64.6814, -163.4056
+Whitney, 61.2500, -149.8167
+Whitshed, 60.4667, -145.9500
+Whittier, 60.7731, -148.6839
+Wilburs Place, 62.0833, -163.4667
+Wilcox, 64.8500, -147.7833
+Wilcox Estates, 64.8500, -147.7833
+Wild Lake, 66.9333, -151.5000
+Wildwood Station, 60.5833, -151.3000
+Willow, 61.7500, -150.0500
+Willow Lake, 61.7444, -150.0364
+Wilson Village, 61.2364, -149.8192
+Windham(P O), 57.5961, 133.3375
+Wiseman, 67.4100, 150.1075
+Wood River, 59.0692, 158.4411
+Woodchopper, 64.8500, 147.7833
+Woodland Park, 61.2000, 149.8833
+Woodrow, 60.1917, 149.3750
+Woody Island, 57.7833, 152.3500
+Wortmanns, 61.1111, 145.8164
+Wrangell, 56.4708, 132.3767

@@ -1,0 +1,24 @@
+Fairbanks, 64.8378, -147.7164
+Fairbanks North Star, 64.8000, -148.3500
+Fairhaven, 58.3781, -134.7036
+Falls, 60.4200, -149.3703
+False Pass, 54.8500, -163.4167
+Farewell, 63.1000, -154.7333
+Farewell Lake Lodge, 62.5167, -153.9000
+Federal, 64.8500, -147.7833
+Fink Creek, 65.8956, -163.0186
+Fire Lake, 61.3500, -149.5333
+Fish Village(Lake and Peninsula), 59.9472, -154.8583
+Fish Village(Wade Hampton), 62.5211, -163.8433
+Flat, 62.4536, -158.0075
+Fort Greely, 64.0000, -145.7333
+Fort Richardson, 61.2544, -149.6883
+Fort Wainwright, 64.8333, -147.6333
+Fort Yukon, 66.5647, -145.2739
+Fortuna Ledge, 61.8833, -162.0833
+Fortymile Roadhouse, 63.7833, -145.2333
+Fox, 64.9581, -147.6183
+Fritz Cove, 58.3667, -134.6500
+Fritz Creek, 59.7000, -151.3500
+Funter, 58.2500, -134.8500
+Funter Bay, 58.3500, -134.5500

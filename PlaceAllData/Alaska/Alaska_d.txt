@@ -1,0 +1,20 @@
+Dairy, 55.3069, -131.5664
+Davidsons Landing, 65.2419, -165.2717
+Deadhorse, 70.1833, -148.4833
+DeBarr Vista, 61.2122, -149.7531
+Deering, 66.0756, -162.7172
+Delta Junction, 64.0378, -145.7322
+Denali, 63.1833, -147.4667
+Dennis Manor, 64.8292, -147.5397
+Derby Tract, 64.8500, -147.7833
+Dillingham, 59.0397, -158.4575
+Dime Landing, 65.1200, -161.1597
+Diomede, 65.7833, -169.0000
+Discovery, 62.4525, -157.9339
+Dobson Landing, 58.4906, -134.7842
+Dogpatch, 64.8956, -147.8064
+Donnelly, 63.6833, -145.8833
+Dot Lake, 63.6667, -144.0667
+Douglas, 58.2756, -134.3925
+Duncan Canal, 56.8000, -132.9667
+Dutch Harbor, 53.8833, -166.5333

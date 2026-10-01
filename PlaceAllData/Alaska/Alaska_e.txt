@@ -1,0 +1,33 @@
+Eagle, 64.7881, -141.2000
+Eagle River, 61.3214, -149.5678
+Eagle Village, 64.7806, -141.1136
+Edna Bay, 55.9489, -133.6622
+Eek, 60.2189, -162.0244
+Egavik, 64.0403, -160.9225
+Egegik, 58.2156, -157.3758
+Eielson, 64.6333, -147.1000
+Eielson Air Force Base, 64.6333, -147.1000
+Eklutna, 61.4581, -149.3622
+Ekuk, 58.8167, -158.5667
+Ekwok, 59.3497, -157.4753
+Elephant Point, 66.2597, -161.3461
+Elfin Cove, 58.1944, -136.3433
+Elim, 64.6175, -162.2606
+Ellamar, 60.8956, -146.6975
+Elmendorf, 61.2500, -149.8167
+Elmendorf Air Force Base, 61.2833, -149.8167
+Elmendorf Reservation, 61.2500, -149.8167
+Emanguk, 62.7500, -164.5000
+Emmonak, 62.7778, -164.5231
+English Bay, 59.3667, -151.9167
+Entrance Island, 57.4167, -133.4500
+Eska, 61.7378, -148.9086
+Espenberg, 66.5928, -163.9647
+Ester, 64.8500, -148.0167
+Eureka(Yukon-Koyukuk), 65.0000, -150.6333
+Eureka(Matanuska-Susitna), 61.6000, -149.3333
+Eureka Roadhouse, 61.9333, -147.1667
+Evansville, 66.9228, -151.5081
+Excursion Inlet, 58.4167, -135.4500
+Eyak, 60.5333, -145.6000
+Eyak River Cabins, 60.5500, -145.7500

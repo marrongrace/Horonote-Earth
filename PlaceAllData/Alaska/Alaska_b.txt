@@ -1,0 +1,31 @@
+Baranof, 57.0894, -134.8331
+Barrow, 71.2906, -156.7886
+Bartlett Cove, 58.4167, -135.7333
+Basher, 61.1667, -149.6833
+Beaver, 66.3594, -147.3964
+Belkofski, 55.0833, -162.0333
+Bell Island Hot Springs, 55.9317, -131.5653
+Bethel, 60.7922, -161.7558
+Bettles, 66.9069, -151.6831
+Big Delta, 64.1525, -145.8422
+Big Lake, 67.5000, -149.4500
+Bill Moores, 62.9497, -163.7789
+Biorka, 53.8333, -166.2167
+Birch Creek, 69.0000, -147.3667
+Birch Lake, 64.8500, -147.7833
+Birchwood, 61.4053, -149.4689
+Bjerremark, 64.8500, -147.7833
+Bluff(Fairbanks North St), 64.7150, -147.1758
+Bluff(Nome), 64.5728, -163.7542
+Bonibrook, 61.1997, -149.7742
+Border, 63.1167, -143.3667
+Boswell Bay, 60.5500, -145.7500
+Boundary, 64.0667, -141.1000
+Boyd, 64.8500, -147.7833
+Brevig Mission, 65.3347, -166.4892
+Broad Pass, 63.2333, -149.2667
+Broadmoor, 64.8239, -147.8758
+Broadmoor Acres, 64.8500, -147.7833
+Browerville, 71.2981, -156.7700
+Buckland, 65.9797, -161.1231
+Butte, 61.5500, -149.0500

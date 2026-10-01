@@ -1,0 +1,66 @@
+Salmon Creek, 58.3333, -134.4667
+Salt Chuck, 55.6264, -132.5536
+San Juan Cannery, 60.0500, -148.0667
+Sanak, 54.5000, -162.8167
+Sand Lake, 61.1500, -149.9500
+Sand Point, 55.3397, -160.4972
+Savonoski, 58.7172, -156.8639
+Savoonga, 63.7000, -170.4833
+Saxman, 55.3183, -131.5958
+Scammon Bay, 61.8428, -165.5817
+Scow Bay, 56.7703, -132.9603
+Seatons Stop, 62.9667, -141.9333
+Selawik, 66.6039, -160.0069
+Seldovia, 59.4381, -151.7114
+Seversens, 59.7536, -154.8172
+Seward, 60.1042, -149.4422
+Shageluk, 62.6822, -159.5619
+Shaktoolik, 64.3333, -161.1500
+Shanly, 64.8500, -147.7833
+Sheldon Point, 62.5333, -164.8667
+Sheldons Point, 62.5336, -164.8411
+Shemya Island, 52.7167, -174.1167
+Sheshalik, 66.9942, -162.8281
+Shishmaref, 66.2567, -166.0719
+Shoreline Drive, 55.4000, -132.1333
+Shuman House, 66.9000, -143.7667
+Shungnak, 66.8881, -157.1364
+Silvertip, 60.7500, -149.3667
+Sinuk, 64.5928, -166.2528
+Sitka, 57.0531, -135.3300
+Situk, 59.4353, -139.5547
+Skagway, 59.4583, -135.3139
+Skwentna, 61.9667, -151.1833
+Slaterville, 64.8481, -147.7236
+Sleetmute, 61.7025, -157.1697
+Snowball, 64.8500, -147.7833
+Snug Harbor, 60.4833, -149.8333
+Soldotna, 60.4878, -151.0583
+Solomon, 64.5608, -164.4392
+Sourdough, 62.4333, -144.9833
+South Bjerremark, 64.8333, -147.8833
+South Fairbanks, 64.8500, -147.7833
+South Naknek, 58.7156, -156.9981
+Spenard, 61.1886, -149.9064
+Sprucewood, 64.8500, -147.7833
+Squaw Harbor, 55.2433, -160.5533
+St George, 57.4000, -169.5508
+St George Island, 57.4000, -169.5508
+St Marys, 62.0531, -163.1658
+St Michael, 63.4781, -162.0392
+St Paul, 57.4000, -170.2817
+St Terese, 58.4722, -134.7803
+Standard, 64.7833, -148.5333
+Stebbins, 63.5222, -162.2881
+Sterling, 60.5333, -150.7667
+Stevens Village, 66.0064, -149.0908
+Stony River, 61.7831, -156.5881
+Strelna, 61.5114, -144.0689
+Stuyahok, 62.0603, -160.9508
+Summit, 63.3333, -149.1167
+Summit Lodge, 62.4333, -144.9833
+Sunnyside, 57.9833, -136.2500
+Sunshine, 62.1667, -150.0667
+Suntrana, 63.8542, -148.8483
+Susitna, 61.5436, -150.5125
+Sutton, 61.7114, -148.8942

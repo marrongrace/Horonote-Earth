@@ -1,0 +1,57 @@
+Kachemak, 59.6700, -151.4342
+Kaguyak, 56.8667, -153.7667
+Kake, 56.9758, -133.9472
+Kakhonak, 59.4333, -154.8500
+Kako Landing, 61.8539, -161.3464
+Kaktovik, 70.1319, -143.6239
+Kalakaket Creek Radio Relay, 64.7333, -156.9333
+Kalifonsky, 60.4183, -151.2900
+Kalskag, 61.5372, -160.3053
+Kaltag, 64.3272, -158.7219
+Kamishak, 59.1250, -154.2500
+Karluk, 57.5719, -154.4556
+Kasaan, 55.5389, -132.4008
+Kashega, 53.4667, -167.1667
+Kashegelok, 61.7000, -157.1667
+Kasigluk, 60.8956, -162.5206
+Kasilof, 60.3375, -151.2744
+Katalla, 60.1972, -144.5183
+Kenai, 60.5544, -151.2583
+Kenai Lake, 60.4833, -149.8333
+Kenai Packers Cannery, 60.5500, -151.2667
+Kennicott, 61.4864, -142.8864
+Ketchikan, 55.3422, -131.6461
+Ketchikan Gateway, 55.5500, -131.4667
+Kiana, 66.9750, -160.4228
+King Cove, 55.0500, -162.3167
+King Salmon, 58.6883, -156.6614
+Kingegan, 65.6092, -168.0875
+Kipnuk, 59.9389, -164.0414
+Kivalina, 67.7269, -164.5333
+Kiwalik, 66.0228, -161.8419
+Klawock, 55.5522, -133.0958
+Klery Creek, 67.1794, -160.4031
+Klikitarik, 63.4694, -161.4711
+Klukwan, 59.3992, -135.8939
+Knik, 61.4578, -149.7289
+Knudson Cove, 55.4000, -132.1333
+Kobuk, 66.9072, -156.8811
+Kodiak, 57.7900, -152.4072
+Kodiak Island, 57.9000, -153.0500
+Kodiak Naval Station, 57.7500, -152.4833
+Koggiung, 58.8669, -157.0075
+Kokhanok, 59.6333, -154.8833
+Kokrines, 64.9378, -154.6919
+Koliganek, 59.7286, -157.2844
+Kongiganak, 59.8667, -163.0333
+Kotlik, 63.0342, -163.5533
+Kotzebue, 66.8983, -162.5967
+Koyuk, 64.9319, -161.1569
+Koyukuk, 64.8803, -157.7008
+Kupreanof, 56.8000, -132.9667
+Kuskokwim, 62.2000, -156.8167
+Kustatan, 61.0667, -151.1333
+Kwethluk, 60.8122, -161.4358
+Kwigillingok, 59.8644, -163.1342
+Kwiguk, 62.7667, -164.5000
+Kwinhagak, 59.7489, -161.9158

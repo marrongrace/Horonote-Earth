@@ -1,0 +1,65 @@
+Campbell(Anchorage), 61.1719, -149.8942
+Campbell(Prince of Wales-Outer Ketchikan), 55.3667, -132.7167
+Cannery, 57.7853, -135.0964
+Cantwell, 63.3917, -148.9508
+Cape Fanshaw, 57.2167, -133.5000
+Cape Lisburne, 68.8667, -166.0833
+Cape Newenham Air Force Station, 59.0167, -161.8167
+Cape Nome, 64.4639, -164.9594
+Cape Pole, 55.9650, -133.7933
+Cape Romanzof, 60.8167, -162.7167
+Cape Sarichef Radio Relay, 53.8833, -166.5333
+Cape Yakataga, 60.0667, -142.4333
+Carlanna, 55.4000, -132.1333
+Caro, 67.1675, -148.0197
+Central, 65.5725, -144.8031
+Chakaktolik, 61.7683, -163.6222
+Chalkyitsik, 66.6544, -143.7222
+Chandalar, 67.5053, -148.4936
+Chaniliut, 63.0333, -163.4167
+Charcoal Point, 55.4000, -132.1333
+Chase, 62.4667, -150.1167
+Chatanika, 65.1122, -147.4772
+Chatham, 57.5153, -134.9436
+Chefornak, 60.2167, -164.2000
+Chena Hot Springs, 65.0531, -146.0556
+Chenega, 60.2814, -148.0761
+Chernofski, 53.4167, -167.5500
+Chevak, 61.5278, -165.5864
+Chickaloon, 61.7967, -148.4628
+Chicken, 64.0733, -141.9361
+Chignik, 56.2953, -158.4022
+Chignik Lagoon, 56.3333, -158.4833
+Chignik Lake, 56.2333, -158.7833
+Chisana, 62.0667, -142.0500
+Chistochina, 62.5650, -144.6647
+Chitina, 61.5158, -144.4369
+Christian, 67.3600, -145.1961
+Chuathbaluk, 61.5667, -159.2667
+Chugiak, 61.3889, -149.4819
+Circle, 65.8256, -144.0606
+Circle Hot Springs, 65.4833, -144.6342
+Clam Gulch, 60.2311, -151.3936
+Clarks Point, 58.8442, -158.5508
+Clear, 64.4167, -149.2500
+Clear Creek Park, 64.8186, -147.5658
+Clearwater Ranch, 63.7833, -145.2333
+Clover Pass, 55.4167, -131.8000
+Coal Creek, 65.3167, -143.1500
+Cohoe, 60.3686, -151.3064
+Cold Bay, 55.1858, -162.7211
+College, 64.8569, -147.8028
+Colorado, 63.1628, -149.4358
+Colville River, 71.3000, -156.7833
+Cooper Landing, 60.4900, -149.8342
+Copper Center, 61.9550, -145.3053
+Cordova, 60.5428, -145.7575
+Cottonwood, 61.5667, -149.7167
+Council, 64.8950, -163.6764
+Crab Bay, 60.0661, -148.0081
+Craig, 55.4764, -133.1483
+Crooked Creek, 61.8700, -158.1108
+Crooked Creek, 64.9333, -141.6667
+Crystal Fall, 60.4858, -145.7292
+Curry, 62.6147, -150.0119
+Curry's Corner, 64.8500, -147.7833

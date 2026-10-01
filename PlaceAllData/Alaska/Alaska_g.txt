@@ -1,0 +1,24 @@
+Gakona, 62.3019, -145.3019
+Gakona Junction, 62.2886, -145.3514
+Galena, 64.7333, -156.9275
+Gambell, 63.7797, -171.7411
+Ganes Creek, 62.9333, -156.0667
+Garner, 63.8333, -148.9833
+Geist, 64.8500, -147.7833
+Gilpatricks, 60.6014, -149.5375
+Girdwood, 60.9425, -149.1664
+Glen Alps, 61.1000, -149.7000
+Glenallen, 62.1092, -145.5464
+Goat Creek, 61.4167, -149.4333
+Goddard, 56.8353, -135.3728
+Gold Creek, 62.7667, -149.6833
+Golovin, 64.5433, -163.0292
+Goodnews, 59.1186, -161.5886
+Goodnews Mining Camp, 58.9261, -161.7300
+Gost Creek, 62.2106, -159.7858
+Graehl, 64.8500, -147.7333
+Granite Mountain, 64.9500, -165.8167
+Grayling, 62.9500, -160.0500
+Gulkana, 62.2714, -145.3822
+Gulkana Airport, 62.2000, -145.4667
+Gustavus, 58.4133, -135.7369

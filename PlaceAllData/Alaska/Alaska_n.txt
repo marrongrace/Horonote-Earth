@@ -1,0 +1,41 @@
+Nabesna, 62.3719, -143.0086
+Naknek, 58.7283, -157.0139
+Nancy, 61.7500, -150.0500
+Napaimiut, 61.5400, -158.6742
+Napakiak, 60.6967, -161.9519
+Napaskiak, 60.7081, -161.7661
+Naptowne, 60.5275, -150.7250
+Nash Harbor, 60.2056, -166.9383
+Navy Town, 52.8408, -173.1756
+Nelson Lagoon, 55.9167, -161.0000
+Nelsonville, 59.0067, -158.5336
+Nenana, 64.5639, -149.0931
+New Igloo, 65.1275, -165.1683
+New Knockhock, 62.1275, -164.8883
+New Stuyahok, 59.4528, -157.3119
+Newhalen, 59.7200, -154.8972
+Newtok, 60.9428, -164.6294
+Nightmute, 60.4794, -164.7239
+Nikishka, 60.5500, -151.2667
+Nikolai, 63.0133, -154.3750
+Nikolski, 52.9381, -168.8678
+Nilak, 62.5333, -164.8667
+Ninilchik, 60.0514, -151.6689
+Noatak, 67.5711, -162.9653
+Nolan, 67.4833, -150.2333
+Nome, 64.5011, -165.4064
+Nondalton, 59.9736, -154.8458
+Noorvik, 66.8383, -161.0328
+North Douglas, 58.3167, -134.4667
+North Kenai, 60.5500, -151.2667
+North Pole, 64.7511, -147.3494
+Northway, 62.9617, -141.9372
+Northway Indian Village, 62.9822, -141.9517
+Nulato, 64.7194, -158.1031
+Nunachuak, 59.5967, -157.0583
+Nunachuk, 60.9381, -162.5828
+Nunaka Valley, 61.2000, -149.7667
+Nunapitchuk, 60.8969, -162.4594
+Nunapitsinchak, 60.7956, -161.3756
+Nushagak, 58.9481, -158.4922
+Nyac, 61.0042, -159.9406
