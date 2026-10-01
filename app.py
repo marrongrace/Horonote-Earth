@@ -704,7 +704,7 @@ if submit_button:
                 transit_info = st.session_state.get("transit_info", {
                     "year": 2026, "month": 1, "day": 1, "hour": 12, "minute": 0,
                     "lat": p1_data["input_lat"], "lng": p1_data["input_lng"],
-                    "timezone": transit_timezone,
+                    "timezone": transit_tz,
                 })
                 
                 data = get_chart_data(
