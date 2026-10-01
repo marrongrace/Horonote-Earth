@@ -1,0 +1,56 @@
+Tabelbala, 29.3833, -3.2500
+Tablat, 36.4000, 3.3167
+Tadjemout, 25.6167, 3.8000
+Tadjenanet, 36.1333, 5.9833
+Tagdempt > Tiaret, 35.4667, 1.3500
+Taghit, 30.9167, -2.0333
+Tahart, 22.8500, 5.2000
+Tahifet, 22.9667, 5.9167
+Tamadjert, 25.6000, 7.3333
+Tamanrasset, 22.9333, 5.5000
+Tamenghest, 22.9333, 5.5000
+Tan Emellel, 27.5000, 9.7500
+Tan Kena, 26.5500, 9.5833
+Taougrite, 36.2500, 0.9167
+Taoura, 36.1500, 8.0500
+Tarat, 26.2167, 9.3000
+Tarhaouaout, 22.3333, 5.9667
+Tarhit, 30.9167, -2.0333
+Tazoult-Lambese, 35.4833, 6.2500
+Tazrouk, 23.4167, 6.2667
+Tbessa, 35.4667, 8.1500
+Telergma, 36.1167, 6.3500
+Teniet el Had, 35.7833, 2.0167
+Thenia, 36.7167, 3.5667
+Theniet el Hadd, 35.7833, 2.0167
+Ti-n-Zaouâtene, 19.9833, 2.9167
+Tiaret, 35.4667, 1.3500
+Tidjenaouine, 22.5500, 5.2500
+Tif, 27.0000, 1.6167
+Tighennif, 35.3333, 0.3500
+Tiguentourine, 27.8333, 9.3000
+Tigzirt, 36.9000, 4.1333
+Tihert, 35.4667, 1.3500
+Tilimsen, 34.8667, -1.2500
+Tilrhemt, 33.1667, 3.3500
+Timellouline, 29.2500, 8.9000
+Timimoun, 29.2333, 0.2667
+Timmoudi, 29.3167, -1.1500
+Timoudi, 29.3167, -1.1500
+Tin Zaouatene, 19.9833, 2.9167
+Tindouf, 27.8333, -8.0667
+Tipasa, 36.5833, 2.4500
+Tissemsilt, 35.5833, 1.8333
+Tit, 27.0000, 1.6167
+Tit, 23.0000, 5.1667
+Titaf, 27.4333, -0.2167
+Tizi-Ouzou, 36.8000, 4.0333
+Tizzeine, 25.3500, 8.8333
+Tlemcen, 34.8667, -1.2500
+Tletat ed-Douaïr, 35.9833, 2.9167
+Tolga, 34.7667, 5.3667
+Touggourt, 33.1667, 6.0000
+Toustain, 36.6667, 8.2500
+Tébessa, 35.4667, 8.1500
+Télagh, 34.7833, 0.5667
+Ténès, 36.5167, 1.2333

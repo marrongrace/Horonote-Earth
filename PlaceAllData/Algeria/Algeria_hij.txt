@@ -1,0 +1,26 @@
+Hadjout, 36.5167, 2.4167
+Hammamet, 35.4500, 7.9667
+Hassi Bel Guebbour, 28.7667, 6.4500
+Hassi el Ghella, 35.4667, -1.0500
+Hassi Mameche, 35.8667, 0.0667
+Hassi Messaoud, 31.7167, 5.9833
+Hassi R'Mel, 32.5833, 3.4000
+Hassi Zehana, 35.0167, -0.8833
+Hennaya, 34.9667, -1.3667
+Hirhafok, 23.8167, 5.7500
+Idelès, 23.9667, 5.8833
+Ifata, 25.4833, 7.9667
+Ighil Izane, 35.7333, 0.5000
+Igli, 30.4167, -2.2000
+Ilizi, 26.4833, 8.4667
+In Amguel, 23.6667, 5.1667
+In Amnas, 28.0833, 9.5000
+In Aménas, 28.0833, 9.5000
+In Belbel, 27.9000, 1.1667
+In Ecker, 24.1500, 5.0500
+In Ezzane, 23.4667, 11.2000
+In Guezzam, 19.5333, 5.7000
+In Rhar, 27.1167, 1.9000
+In Salah, 27.2000, 2.4667
+Jdiouia, 35.9500, 0.8333
+Jijel, 36.8000, 5.7667

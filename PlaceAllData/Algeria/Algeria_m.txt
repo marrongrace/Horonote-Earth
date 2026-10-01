@@ -1,0 +1,28 @@
+M'Chedallah, 36.3500, 4.2667
+M'Daourouch, 36.0833, 7.8167
+M'Sila, 35.7667, 4.5167
+Maghnia, 34.8333, -1.8333
+Maghniyya, 34.8333, -1.8333
+Mansourah, 36.0667, 4.4667
+Mascara, 35.7500, 0.0167
+Mazoula, 28.3333, 7.8333
+Mechriyya, 33.5833, -0.3000
+Mechroha, 36.3500, 7.8500
+Medjana, 36.1333, 4.6833
+Mehdia, 35.4333, 1.6667
+Melyana, 36.2500, 2.2500
+Merouana, 35.6333, 5.9167
+Mers el Kébir, 35.7500, -0.7167
+Meskiana, 35.6500, 7.6833
+Mestghanem, 35.8500, 0.1167
+Metlili Chaamba, 32.3000, 3.6667
+Metlili ech-Chaâmba, 32.3000, 3.6667
+Mila, 36.4500, 6.2667
+Miliana, 36.2500, 2.2500
+Misserghin, 35.6167, -0.7500
+Mohammadia, 35.5500, 0.0500
+Morsott, 35.6667, 8.0167
+Mostaganem, 35.8500, 0.1167
+Mouaskar, 35.7500, 0.0167
+Méchéria, 33.5833, -0.3000
+Médéa, 36.2000, 2.8333

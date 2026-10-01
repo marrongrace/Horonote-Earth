@@ -1,0 +1,19 @@
+Nacereddine, 36.1333, 3.4333
+Nechmeya, 36.6000, 7.5167
+Negrine, 34.5000, 7.5000
+Nédroma, 35.0167, -1.7500
+Ohanet, 28.7500, 8.9167
+Oran(Ouahran), 35.7167, -0.7167
+Orléansville > Ech-Cheliff, 36.1667, 1.3333
+Ouahran > Oran, 35.7167, 0.7167
+Ouallene, 24.6167, 1.2667
+Ouan Taredert, 27.5500, 9.5333
+Ouargla, 31.9833, 5.4167
+Oued Athmenia, 36.2500, 6.2833
+Oued Cheham, 36.3833, 7.7667
+Oued Fodda, 36.1833, 1.5333
+Oued Rhiou, 35.9667, 0.9167
+Oued Tlélat, 35.5667, -0.4500
+Ouenza, 35.9500, 8.0667
+Ouled Agla, 35.9667, 4.7500
+Ouled Djellal, 34.4667, 5.0333

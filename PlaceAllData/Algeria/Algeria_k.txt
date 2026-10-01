@@ -1,0 +1,12 @@
+Kenadsa, 31.8000, -2.4333
+Kerzaz, 29.5000, -1.6167
+Khadra, 36.2500, 0.5833
+Khemis, 36.2667, 2.2167
+Khemis el Khechna, 36.6500, 3.3333
+Khemis Miliana, 36.2667, 2.2167
+Khenchela, 35.4667, 7.1833
+Khenchla, 35.4667, 7.1833
+Kherrata, 36.5167, 5.4333
+Kolea, 36.6333, 2.7667
+Ksar Chellala, 35.2167, 2.3000
+Ksar el Boukhari, 35.8500, 2.8667

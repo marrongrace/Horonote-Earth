@@ -1,0 +1,33 @@
+Rahouia, 35.5333, 1.0167
+Reggane, 26.7000, 0.1667
+Remchi, 35.0667, -1.4333
+Rhourde-El-Baguel, 31.4000, 6.9500
+Rouiba, 36.7333, 3.2833
+Râs el Aïoun, 35.5000, 8.3000
+Râs el Ma, 34.5167, -0.7667
+Râs el Oued, 35.9500, 5.0500
+Sali, 26.9667, -0.0167
+Saïda, 34.8333, 0.1500
+Sba, 28.2167, -0.1333
+Sedrata, 36.1333, 7.5333
+Seraidi, 36.9167, 7.6833
+Sfizef, 35.2333, -0.2500
+Sidi Akacha, 36.4667, 1.3000
+Sidi Ali, 36.1000, 0.4167
+Sidi Aïch, 36.6167, 4.7000
+Sidi Aïssa, 35.8833, 3.8000
+Sidi bel Abbès, 35.2167, -0.1667
+Sidi Mohammed Ben Ali, 36.1500, 0.8500
+Sidi Okba, 34.8000, 5.9000
+Sig, 35.5333, -0.1833
+Silet, 22.7333, 4.6167
+Skikda(Philippeville), 36.8333, 6.9667
+Souguer, 35.2000, 1.5000
+Sougueur, 35.2000, 1.5000
+Souk Ahras, 36.3833, 8.0000
+Souq Ahras, 36.3833, 8.0000
+Sour el Ghozlane, 36.1667, 3.7500
+Stif, 36.1500, 5.4333
+Stile, 34.3333, 5.8500
+Still, 34.3333, 5.8500
+Sétif, 36.1500, 5.4333

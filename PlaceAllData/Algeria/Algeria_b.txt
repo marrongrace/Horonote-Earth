@@ -1,0 +1,52 @@
+Baniou, 35.4167, 4.3500
+Barika, 35.3833, 5.3667
+Batna, 35.5667, 6.1833
+Bejaïa(Bougie), 36.7500, 5.0833
+Bekkaria, 35.3667, 8.2500
+Ben Badis, 34.9500, -0.9167
+Ben Mehidi, 36.7667, 7.9000
+Ben Smih, 36.3833, 7.5167
+Beni Saf, 35.3167, -1.3833
+Berriyyane, 32.8333, 3.7667
+Berrouaghia, 36.1333, 2.9167
+Besbes, 36.7000, 7.8500
+Beskra, 34.8500, 5.7333
+Bidon Cinq > Post Maurice Cortier, 22.3000, 1.0833
+Bir Chouhada, 35.8833, 6.3000
+Bir el Ater, 34.7333, 8.0500
+Bir Ghbalou, 36.2667, 3.5833
+Biskra, 34.8500, 5.7333
+Blida, 36.4667, 2.8333
+Bloumet, 23.4500, 6.1000
+Bordj Amguid, 26.4333, 5.3667
+Bordj Bou Arreridj, 36.0667, 4.7667
+Bordj Bounaama, 35.8500, 1.6000
+Bordj el Oussif, 32.3333, 8.0333
+Bordj Fly Ste Marie, 27.3333, -3.8333
+Bordj Menaïel, 36.7333, 3.7167
+Bordj Omar Idriss, 28.1500, 6.7167
+Bou Bernous, 27.3000, -2.9833
+Bou Hadjar, 36.5000, 8.1000
+Bou Ismaïl, 36.6333, 2.6833
+Bou Kadir, 36.0667, 1.1167
+Bou Khadra, 35.7500, 8.0333
+Bou Medfaa, 36.3667, 2.4667
+Bou Saâda, 35.2000, 4.1833
+Bou Smail, 36.6333, 2.6833
+Bou Zadjar, 35.5833, -1.1500
+Bouchegouf, 36.4667, 7.7333
+Boudjellil, 36.3333, 4.3500
+Boudouaou, 36.7167, 3.4167
+Boufarik, 36.5667, 2.9167
+Bougaa, 36.3333, 5.0833
+Bougie > Bejaïa, 36.7500, 5.0833
+Bougtob, 34.0333, 0.0833
+Bougzoul, 35.7000, 2.8500
+Bouqteb, 34.0333, 0.0833
+Bouteldja, 36.7833, 8.2000
+Bouïra, 36.3833, 3.9000
+Briziana, 33.0667, 1.2333
+Brézina, 33.0667, 1.2333
+Béchar, 31.6167, -2.2167
+Béni Abbas, 30.1333, -2.1667
+Böne > Annaba, 36.9000, 7.7667
