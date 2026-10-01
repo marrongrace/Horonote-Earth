@@ -793,62 +793,6 @@ if submit_button:
                 
                 st.rerun()
 
-                # ── 3. シナストリー（相性）モードの場合 ──
-            elif is_synastry:
-                p1_loc_full = f"{p1_data['input_city_name']}, {p1_data['selected_country']}"
-                p2_loc_full = f"{p2_data['input_city_name']}, {p2_data['selected_country']}"
-                
-                # 1人目のチャートデータを計算モジュールから取得
-                p1_result = get_chart_data(
-                    name=p1_data["user_name"],
-                    year=p1_data["birth_date"].year,
-                    month=p1_data["birth_date"].month,
-                    day=p1_data["birth_date"].day,
-                    hour=p1_data["birth_time"].hour,
-                    minute=p1_data["birth_time"].minute,
-                    lat=p1_data["input_lat"],
-                    lng=p1_data["input_lng"],
-                    city_display_name=p1_loc_full,
-                    view_type=toggle_view,
-                    is_unknown_time=False  # チェックボックスの状態等にあわせて調整してください
-                )
-                
-                # 2人目のチャートデータを計算モジュールから取得
-                p2_result = get_chart_data(
-                    name=p2_data["user_name"],
-                    year=p2_data["birth_date"].year,
-                    month=p2_data["birth_date"].month,
-                    day=p2_data["birth_date"].day,
-                    hour=p2_data["birth_time"].hour,
-                    minute=p2_data["birth_time"].minute,
-                    lat=p2_data["input_lat"],
-                    lng=p2_data["input_lng"],
-                    city_display_name=p2_loc_full,
-                    view_type=toggle_view,
-                    is_unknown_time=False
-                )
-                
-                # horoscope_calc_2 から正しい2つの関数をインポートする
-                from horoscope_calc import calculate_composite_bodies, calculate_composite_aspects
-                
-                # 天体位置とアスペクトをそれぞれ個別に計算する
-                comp_bodies = calculate_composite_bodies(data1["aspect_objs"], data2["aspect_objs"])
-                comp_aspects = calculate_composite_aspects(comp_bodies)
-                
-                st.session_state.chart_data = {
-                    "type": "composite", 
-                    "bodies": comp_bodies,
-                    "aspects": comp_aspects
-                }
-                
-                st.session_state.user_name = p1_data["user_name"]
-                st.session_state.p2_name = p2_data["user_name"]
-                st.session_state.is_composite = True
-                st.session_state.is_synastry = False
-                st.session_state.is_transit = False
-                
-                st.rerun()
-
             # ── 3. シナストリー（相性）モードの場合 ──
             elif is_synastry:
                 p1_loc_full = f"{p1_data['input_city_name']}, {p1_data['selected_country']}"
