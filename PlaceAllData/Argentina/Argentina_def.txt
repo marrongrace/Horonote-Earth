@@ -1,0 +1,61 @@
+Daireaux, -36.6000, -61.7500
+Dalmacio Vélez Sársfield, -32.6000, -63.5833
+Darregueira, -37.7000, -63.1667
+Darwin, -39.2000, -65.7667
+Del Campillo, -34.3667, -64.4833
+Del Carril, -35.5167, -59.5000
+Del Viso, -34.4500, -58.8000
+Deseado, -47.7500, -65.9000
+Desiderio Tello, -31.2167, -66.3167
+Devoto, -31.4000, -62.3167
+Deán Funes, -30.4333, -64.3500
+Diadema Argentina, -45.7667, -67.6667
+Diamante, -32.0667, -60.6500
+Diego Gaynor, -34.2833, -59.2333
+Dique Florentino Ameghino, -43.6667, -66.4167
+Dolavón, -43.3000, -65.7000
+Dolores, -36.3333, -57.6667
+Domselaar, -35.0667, -58.3000
+Don Torcuato, -34.5000, -58.6333
+Donadeu, -26.7167, -62.7333
+Eduardo Castex, -35.9000, -64.3000
+Egaña, -36.9833, -59.1000
+El Aguilar, -23.2000, -65.7000
+El Bolsón, -41.9667, -71.5167
+El Caburé, -26.0167, -62.3667
+El Carmen, -24.3833, -65.2667
+El Carril, -25.0833, -65.4667
+El Cholar, -37.4167, -70.6500
+El Chorrillo, -33.3000, -66.2667
+El Colorado, -26.3000, -59.3667
+El Corcovado, -43.5333, -71.6000
+El Cuy, -39.9333, -68.3333
+El Galpón, -25.3833, -64.6333
+El Huecú, -37.6167, -70.6000
+El Mayoco, -42.6500, -70.9833
+El Milagro, -31.0167, -65.9833
+El Naranjo, -25.7333, -64.9833
+El Palomar, -34.6000, -58.6000
+Facundo, -45.3000, -69.9667
+Famaillá, -27.0500, -65.4000
+Famatina, -28.9167, -67.5167
+Federación, -31.0000, -57.9000
+Federal, -30.9500, -58.8000
+Fernández, -27.9167, -63.9000
+Ferreyra, -31.4667, -64.1333
+Fiambalá, -27.6833, -67.6333
+Firmat, -33.4500, -61.4833
+Fitz Roy, -47.0333, -67.2500
+Florencio Varela, -34.8167, -58.2833
+Fontana, -27.4167, -59.0333
+Formosa, -26.1833, -58.1833
+Forres, -27.8833, -63.9667
+Fortuna, -35.1167, -65.3833
+Fortín Uno, -38.8500, -65.2833
+Fraga, -33.5000, -65.8000
+Francisco A. Berra, -35.3833, -58.8500
+Francisco Álvarez, -34.6333, -58.8667
+Fray Luis Beltrán, -39.3167, -65.7667
+Freyre, -31.1667, -62.1000
+Frías, -28.6500, -65.1500
+Fátima, -34.4333, -59.0000

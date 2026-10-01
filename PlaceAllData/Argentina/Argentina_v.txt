@@ -1,0 +1,90 @@
+Vagues, -34.3167, -59.4333
+Valcheta, -40.7000, -66.1500
+Valle Hermoso, -31.1167, -64.4833
+Varela, -34.1167, -66.4500
+Vedia, -34.5000, -61.5333
+Veinticinco de Mayo, -34.5833, -68.5500
+Veinticinco de Mayo, -35.4333, -60.1667
+Venado Tuerto, -33.7500, -61.9667
+Vera(Jobson), -29.4667, -60.2167
+Verónica, -35.3667, -57.3333
+Viale, -31.8833, -60.0167
+Viamonte, -33.7333, -63.1000
+Vicente Casares, -34.9500, -58.6333
+Vicente López, -34.5333, -58.4667
+Vichigasta, -29.4833, -67.5167
+Victoria, -32.6167, -60.1667
+Victorica, -36.2167, -65.4500
+Victorino de la Plaza, -36.6000, -62.6667
+Vicuña Mackenna, -33.9000, -64.3833
+Viedma, -40.8000, -63.0000
+Vieytes, -35.2667, -57.5833
+Vilelas, -27.9500, -62.6333
+Villa Aberastain, -31.6500, -68.5833
+Villa Alberdi, -27.5833, -65.6167
+Villa Allende, -31.3000, -64.3000
+Villa Ana, -28.4833, -59.6167
+Villa Atamisqui, -28.4833, -63.8000
+Villa Atuel, -34.8333, -67.9000
+Villa Berthet, -27.2833, -60.4167
+Villa Bustos, -29.2833, -67.0333
+Villa Carlos Paz, -31.4000, -64.5167
+Villa Castelli, -29.0000, -68.1833
+Villa Cañás, -34.0000, -61.6000
+Villa Colón(Caucete), -31.6500, -68.2833
+Villa Concepción del Tío, -31.3167, -62.8333
+Villa Constitución, -33.2333, -60.3333
+Villa de María, -29.9000, -63.7167
+Villa de Mayo, -34.5000, -58.6833
+Villa de Soto, -30.8500, -64.9833
+Villa del Carmen, -32.9500, -65.0500
+Villa del Rosario(Córdoba), -31.5833, -63.5333
+Villa del Rosario(Entre Rios), -30.7833, -57.9167
+Villa Diego, -33.0167, -60.6167
+Villa Dolores, -31.9333, -65.2000
+Villa El Alto, -28.3000, -65.3667
+Villa Elisa, -32.1667, -58.4000
+Villa General Roca, -32.6500, -66.4667
+Villa Guillermina, -28.2333, -59.4667
+Villa Hernandarias, -31.2167, -59.9833
+Villa Huidobro(Cãnada Verde), -34.8333, -64.5833
+Villa Iris, -38.1667, -63.2500
+Villa Krause, -31.5667, -68.5333
+Villa La Angostura, -40.7833, -71.6667
+Villa La Paz, -33.4500, -67.6333
+Villa Larca, -32.6167, -64.9833
+Villa Larroque, -33.0333, -59.0167
+Villa Lía, -34.1167, -59.4333
+Villa Madero, -34.7000, -58.5000
+Villa María, -32.4167, -63.2500
+Villa María Grande, -31.6500, -59.9000
+Villa Matoque, -25.8167, -63.8167
+Villa Mazán, -28.6667, -66.5667
+Villa Mercedes, -30.1167, -68.7000
+Villa Nueva(Mendoza), -32.9000, -68.7833
+Villa Nueva(Córdoba), -32.4333, -63.2500
+Villa Numancia, -34.9167, -58.4000
+Villa Ocampo, -28.4667, -59.3667
+Villa Ojo de Agua, -29.5167, -63.7000
+Villa Quinteros, -27.2333, -65.5500
+Villa Ramírez, -32.1833, -60.2000
+Villa Regina, -39.1000, -67.0667
+Villa Reynolds, -33.7167, -65.3833
+Villa Rosa, -34.4167, -58.8667
+Villa Ruiz, -34.4167, -59.2500
+Villa San José, -32.2000, -58.2167
+Villa San Martín, -28.3000, -64.2000
+Villa Unión(La Rioja), -29.3000, -68.2000
+Villa Unión(Santiago del Estero), -29.4000, -62.7833
+Villa Valeria, -34.3333, -64.9167
+Villa Zorraquín, -31.3167, -58.0333
+Villa Ángela, -27.5833, -60.7167
+Villaguay, -31.8500, -59.0167
+Villalonga, -39.8833, -62.5833
+Villars, -34.8333, -58.9333
+Vinchina, -28.7667, -68.1667
+Vipos, -26.4833, -65.3667
+Vista Alegre, -38.7500, -68.1833
+Vista Flores, -33.6333, -69.1500
+Vivoratá, -37.6667, -57.6500
+Volcán, -23.9000, -65.4500

@@ -1,0 +1,147 @@
+Cabildo, -38.4833, -61.9000
+Cabo Blanco, -47.2000, -65.7500
+Cabo Raso, -44.3500, -65.2333
+Cacharí, -36.4000, -59.5333
+Cachí, -25.1000, -66.1833
+Cafayate, -26.0833, -65.9667
+Calafate, -50.3333, -72.3000
+Calchaquí, -29.9000, -60.3000
+Caleta Olivia, -46.4333, -67.5333
+Caleufú, -35.5833, -64.5500
+Calilegua, -23.7833, -64.7833
+Calingasta, -31.3167, -69.4167
+Camarones, -44.8000, -65.7000
+Campana, -34.1667, -58.9500
+Campo Gallo, -26.5833, -62.8500
+Campo Grande, -27.2167, -54.9667
+Campo Largo, -26.8000, -60.8333
+Campo Quijano, -24.9167, -65.6500
+Campo Santo, -24.6667, -65.1000
+Canals, -33.5500, -62.8833
+Candelaria(Misiones), -27.4667, -55.7333
+Candelaria(San Luis), -32.0667, -65.8167
+Canning, -34.8833, -58.5000
+Capilla del Monte, -30.8500, -64.5167
+Capilla del Señor, -34.3000, -59.1000
+Capitán Bermúdez, -32.8167, -60.7167
+Capitán Sarmiento, -34.1667, -59.8000
+Carcarañá, -32.8500, -61.1500
+Carhué, -37.1833, -62.7333
+Carlos Beguerie, -35.4833, -59.1000
+Carlos Casares, -35.6333, -61.3500
+Carlos Keen, -34.4833, -59.2333
+Carlos Pellegrini, -32.0500, -61.8000
+Carlos Tejedor, -35.3833, -62.4167
+Carmen de Areco, -34.3667, -59.8167
+Carmen de Patagones, -40.8000, -62.9833
+Casbas, -36.7500, -62.5000
+Caseros, -34.6000, -58.5500
+Casilda, -33.0500, -61.1667
+Castelar, -34.6667, -58.6667
+Castelli, -36.1000, -57.7833
+Castro Barros, -30.5833, -65.7333
+Catamarca, -28.4667, -65.7833
+Catriló, -36.4333, -63.4000
+Cañada de Gómez, -32.8167, -61.4000
+Cañada Honda, -31.9833, -68.5500
+Cañada Verde > Villa Huidobro, -34.8333, -64.5833
+Cañadón Seco, -46.5500, -67.5833
+Cañuelas, -35.0500, -58.7333
+Cebollar, -29.1000, -66.5500
+Centenario, -38.8000, -68.1333
+Centro Río Mayo, -45.5833, -71.1000
+Cereales, -36.8167, -63.8500
+Ceres, -29.8833, -61.9500
+Cerrillos, -24.9000, -65.4833
+Cerro Azul, -27.6333, -55.4833
+Chabás, -33.2500, -61.3667
+Chacabuco, -34.6333, -60.4833
+Chajarí, -30.7667, -57.9833
+Chamaicó, -35.0500, -64.9667
+Chamical(Gobernador Gordillo), -30.3500, -66.3167
+Chaquiago, -27.5333, -66.3500
+Charadai, -27.6333, -59.9000
+Charata, -27.2167, -61.2000
+Chascomús, -35.5667, -58.0167
+Chasicó, -40.3000, -68.9667
+Chavarría, -28.9500, -58.5833
+Chañar, -30.5333, -65.9667
+Chelforó, -39.0667, -66.5333
+Chenaut, -34.2500, -59.2167
+Chepes, -31.3500, -66.6000
+Chilecito(La Rioja), -29.1667, -67.5000
+Chilecito(Mendoza), -33.8833, -69.0500
+Chillar, -37.3000, -59.9833
+Chimbas, -31.4833, -68.5333
+Chimpay, -39.1667, -66.1500
+Chivilcoy, -34.8833, -60.0167
+Choele Choel, -39.2667, -65.6833
+Cholila, -42.5167, -71.4500
+Chos Malal, -37.3833, -70.2667
+Choya, -28.5000, -64.8667
+Chumbicha, -28.8667, -66.2333
+Cinco Saltos, -38.8167, -68.0667
+Cipolletti, -38.9333, -67.9833
+Ciudad General Belgrano, -34.7167, -58.5333
+Clara, -31.8333, -58.8167
+Claraz, -37.9000, -59.2833
+Claypole, -34.8000, -58.3333
+Clodomira, -27.5833, -64.1333
+Clorinda, -25.2833, -57.7167
+Cochagual, -31.9000, -68.3833
+Colalao del Valle, -26.3667, -65.9500
+Colonia Alvear, -35.0000, -67.6667
+Colonia Caroya, -31.0333, -64.0833
+Colonia Dora, -28.6000, -62.9500
+Colonia Elisa, -26.9333, -59.5333
+Colonia Hogar Ricardo Gutiérrez, -34.8500, -58.8500
+Colonia José Mármol, -26.9833, -60.7333
+Colonia Las Heras, -46.5500, -68.9500
+Colonia Villafañe, -26.2000, -59.0833
+Colonias Unidas, -26.7000, -59.6333
+Colán Conhué, -43.2667, -69.8500
+Colón(Buenos Aries), -33.8833, -61.1167
+Colón(Entre Rios), -32.2167, -58.1333
+Comallo, -41.0333, -70.2667
+Comandante Fontana, -25.3333, -59.6833
+Comandante Leal, -30.8833, -65.7833
+Comandante Luis Piedra Buena, -49.9833, -68.9000
+Comandante Nicanor Otamendi, -38.1167, -57.8500
+Comodoro Py, -35.3167, -60.5167
+Comodoro Rivadavia, -45.8667, -67.5000
+Cona Niyeo, -41.8833, -67.0000
+Concarán, -32.5667, -65.2500
+Concepción(Corrientes), -28.3833, -57.8833
+Concepción(Tucumán), -27.3333, -65.5833
+Concepción de la Sierra, -27.9833, -55.5167
+Concepción del Uruguay, -32.4833, -58.2333
+Concordia, -31.4000, -58.0333
+Contraalmirante Cordero, -38.7333, -68.1667
+Copacabana, -28.2000, -67.4833
+Copetonas, -38.7167, -60.4500
+Coronda, -31.9667, -60.9167
+Coronel Brandsen, -35.1667, -58.2333
+Coronel Dorrego, -38.7000, -61.2833
+Coronel Du Graty, -27.6667, -60.9333
+Coronel Eugenio del Busto, -38.9500, -64.2500
+Coronel Moldes, -33.6333, -64.6000
+Coronel Moldes, -25.2667, -65.4833
+Coronel Pringles, -37.9667, -61.3667
+Coronel Suárez, -37.4667, -61.9167
+Coronel Vidal, -37.4500, -57.7167
+Corpus, -27.1167, -55.5167
+Corral de Bustos, -33.2833, -62.2000
+Corrientes, -27.4667, -58.8333
+Cortaderas, -32.5000, -65.0000
+Cortines, -34.5667, -59.2167
+Corzuela, -26.9500, -60.9667
+Cosquín, -31.2500, -64.4833
+Crespo, -32.0333, -60.3167
+Cruz Alta, -33.0167, -61.8167
+Cruz del Eje, -30.7333, -64.8000
+Cuadro Nacional, -34.6167, -68.2833
+Cubanea, -40.6667, -63.5000
+Cuchillo Có, -38.3333, -64.6167
+Curuzú Cuatiá, -29.7833, -58.0500
+Cutral-Có, -38.9333, -69.2333
+Córdoba, -31.4000, -64.1833

@@ -1,0 +1,74 @@
+Macachín, -37.1500, -63.6500
+Machagai, -26.9333, -60.0500
+Maciá, -32.1667, -59.3833
+Magdalena, -35.0667, -57.5333
+Maipú(Buenos Aries), -36.8667, -57.8667
+Maipú(Mendoza), -32.9667, -68.7833
+Makallé, -27.2167, -59.2833
+Malanzán, -30.8000, -66.6167
+Malargüe, -35.4667, -69.5833
+Malaspina, -44.9333, -66.9000
+Malbrán, -29.3500, -62.4500
+Malligasta, -29.1833, -67.4333
+Malvinas, -29.6167, -58.9833
+Manantiales Behr, -45.6833, -67.5167
+Mancha Blanca, -40.7833, -65.4500
+Manuel Derqui, -27.8333, -58.8000
+Manzone, -34.4833, -58.8667
+Maquinchao, -41.2500, -68.7333
+Mar del Plata, -38.0000, -57.5500
+Marayes, -31.4833, -67.3333
+Marcos Juárez, -32.7000, -62.1000
+Marcos Paz, -34.7667, -58.8333
+Margarita Belén, -27.2667, -58.9667
+Mariano Acosta, -34.7167, -58.8000
+Mariano I. Loza, -29.3667, -58.2000
+Mariano J. Haedo, -34.6333, -58.6000
+Mariano Moreno > Moreno, -38.7333, -70.0167
+María Ignacia, -37.4000, -59.5000
+María Teresa, -34.0167, -61.9000
+Mascasín, -31.3667, -66.9833
+Mata Amarilla, -49.6000, -71.2167
+Matanza > San Justo, -34.6667, -58.5500
+Matheu, -34.3667, -58.8333
+Mayor Buratovich, -39.2500, -62.6167
+Maza, -36.8333, -63.3167
+Mazarredo, -47.0833, -66.7000
+Mburucuyá, -28.0500, -58.2333
+Mechita, -35.0667, -60.4000
+Media Agua, -31.9833, -68.4167
+Melincué, -33.6500, -61.4500
+Mencué, -40.4167, -69.6333
+Mendoza, -32.8833, -68.8167
+Mercedes(Corrientes), -29.2000, -58.0833
+Mercedes(San Juan), -33.6667, -65.4667
+Mercedes(Buenos Aries), -34.6500, -59.4500
+Merlo(Buenos Aries), -34.6667, -58.7500
+Merlo(San Luis), -32.3500, -65.0333
+Metán, -25.4833, -64.9500
+Miguel Riglos, -36.8500, -63.7000
+Mina Pirquitas, -22.6833, -66.5167
+Ministro Ramos Mexía, -40.5000, -67.2833
+Ministro Rivadavia, -34.8500, -58.3667
+Miraflores, -28.6000, -65.9167
+Miramar(Buenos Aries), -38.2667, -57.8500
+Miramar(Códoba), -30.9000, -62.6667
+Misión San Francisco de Laishí, -26.2333, -58.6333
+Mocoretá, -30.6333, -57.9667
+Moisés Ville, -30.7167, -61.4833
+Molinos, -25.4167, -66.3167
+Monte Buey, -32.9167, -62.4500
+Monte Caseros, -30.2500, -57.6500
+Monte Comán, -34.6000, -67.9000
+Monte Maíz, -33.2000, -62.6000
+Monte Quemado, -25.8000, -62.8667
+Montecarlo, -26.5667, -54.7833
+Monteros, -27.1667, -65.5000
+Moreno, -34.6500, -58.8000
+Morrison, -32.6000, -62.8333
+Morteros, -30.7000, -62.0000
+Morón, -34.6500, -58.6167
+Mutquín, -28.3167, -66.1667
+Muñiz, -34.5500, -58.7000
+Máximo Paz, -34.9333, -58.6167
+Médanos, -38.8333, -62.6833

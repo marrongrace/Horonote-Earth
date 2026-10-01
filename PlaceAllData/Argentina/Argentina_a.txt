@@ -1,0 +1,71 @@
+Abra Pampa, -22.7167, -65.7000
+Acebal, -33.2333, -60.8333
+Acevedo, -33.7500, -60.4500
+Achiras, -33.1667, -65.0000
+Acuña, -29.9167, -57.9667
+Adrogué > Almirante Brown, -34.8000, -58.3833
+Aguada Cecilio, -40.8500, -65.8500
+Aguada de Guerra, -41.0667, -68.4167
+Aguaray, -22.2667, -63.7333
+Aguayo, -31.6667, -65.9000
+Aguilares, -27.4333, -65.6167
+Aimogasta, -28.5500, -66.8167
+Albardón, -31.4333, -68.5333
+Alberti, -35.0333, -60.2667
+Alcira, -32.7500, -64.3333
+Alcorta, -33.5333, -61.1167
+Aldea Apeleg, -44.6833, -70.8500
+Aldo Bonzi, -34.7000, -58.5167
+Alejandro Roca, -33.3500, -63.7167
+Alejo Ledesma, -33.6167, -62.6167
+Alemania, -25.6000, -65.6333
+Algarrobo, -38.8833, -63.1333
+Algarrobo del Águila, -36.4333, -67.1500
+Algarrobo Verde, -31.7333, -68.3000
+Allen, -38.9667, -67.8333
+Almafuerte, -32.2000, -64.2500
+Almirante Brown, -34.8000, -58.3833
+Alpachiri, -37.3667, -63.7667
+Alsina, -33.9000, -59.3833
+Alta Gracia, -31.6667, -64.4333
+Alto Río Senguerr, -45.0333, -70.8333
+Aluminé, -39.2167, -70.9500
+Alvear, -29.1000, -56.5500
+Amaichá del Valle, -26.6000, -65.9167
+Ameghino, -34.8333, -62.4500
+Aminga, -28.8333, -66.9000
+Anasagasti, -35.0167, -59.4000
+Ancasti, -28.8167, -65.5000
+Anchorena, -35.6833, -65.4500
+Andacollo, -37.1833, -70.6833
+Andalgalá, -27.6000, -66.3167
+Angastaco, -25.6333, -66.1833
+Angualasto, -30.0500, -69.1500
+Antilla, -26.1167, -64.6000
+Antofagasta de la Sierra, -26.0667, -67.4167
+Antonio de Biedma, -47.4833, -66.5000
+Apeadero Funke, -35.4667, -58.9833
+Apolinario Saravia, -24.4167, -64.0333
+Apóstoles, -27.9167, -55.7667
+Arana, -35.0000, -57.9000
+Arboledas, -36.8833, -61.4833
+Arequito, -33.1500, -61.4667
+Arias, -33.6333, -62.4167
+Arizona, -35.7167, -65.3000
+Armstrong, -32.7833, -61.6000
+Arraga, -28.0667, -64.2333
+Arrecifes, -34.0500, -60.1167
+Arroyito, -31.4167, -63.0500
+Astica, -30.9333, -67.3833
+Astra, -45.7333, -67.5000
+Atalaya, -35.0333, -57.5333
+Atucha, -33.9667, -59.3000
+Auca Mahuida, -37.8833, -68.5167
+Avellaneda, -29.1167, -59.6667
+Avellaneda, -34.6500, -58.3833
+Ayacucho, -37.1500, -58.4833
+Azcuénaga, -34.3833, -59.3500
+Azucena, -37.4833, -59.3000
+Azul, -36.7833, -59.8500
+Añatuya, -28.4667, -62.8333
+Añelo, -38.3500, -68.7833

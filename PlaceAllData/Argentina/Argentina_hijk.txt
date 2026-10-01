@@ -1,0 +1,67 @@
+Hasenkamp, -31.5167, -59.8500
+Helvecia, -31.1000, -60.0833
+Henderson, -36.3000, -61.7167
+Hernando, -32.4167, -63.7333
+Herradura, -26.4833, -58.3000
+Herrera, -28.4833, -63.0667
+Hipólito Yrigoyen, -32.9167, -66.3333
+Holdich, -45.9500, -68.2167
+Huaco, -30.1500, -68.5167
+Hualfín, -27.2333, -66.8333
+Huanguelén, -37.0333, -61.9500
+Huillapima, -28.7333, -65.9833
+Huinca Renancó, -34.8333, -64.3833
+Humahuaca, -23.2000, -65.3500
+Humberto Primo, -30.8667, -61.3667
+Hurlingham, -34.6000, -58.6333
+Ibarreta, -25.2167, -59.8500
+Ibicuy, -33.7333, -59.1667
+Icaño, -28.9000, -65.3167
+Icaño, -28.6833, -62.9000
+Iglesia, -30.4000, -69.2167
+Ingeniero Jacobacci, -41.3000, -69.5833
+Ingeniero Juan Allan, -34.8833, -58.1833
+Ingeniero Luiggi, -35.4167, -64.4833
+Ingeniero Maschwitz, -34.3833, -58.7333
+Ingeniero Rómulo Otamendi, -34.2167, -58.9000
+Ingeniero White, -38.7833, -62.2667
+Ingeniero Williams, -34.9000, -59.3667
+Ingenio La Esperanza, -24.2167, -64.8500
+Ingenio Santa Ana, -27.4667, -65.6833
+Intendente Alvear, -35.2333, -63.5833
+Intiyaco, -28.6500, -60.0833
+Isidro Casanova, -34.7000, -58.5833
+Isla Verde, -33.2333, -62.4000
+Itatí, -27.2667, -58.2500
+Ituzaingó(Corrientes), -27.6000, -56.6833
+Ituzaingó(Buenos Aries), -34.6667, -58.6667
+Itá Ibaté, -27.4333, -57.3333
+Jacinto Aráuz, -38.0667, -63.4333
+Jagüé, -28.6333, -68.4000
+James Craik, -32.1500, -63.4667
+Jaramillo, -47.1833, -67.1500
+Jardín América, -27.0500, -55.2333
+Jeppener, -35.2833, -58.2000
+Jesús María, -30.9833, -64.1000
+Joaquín V. González, -25.0833, -64.1833
+Jocolí, -32.5833, -68.6833
+José C. Paz, -34.5000, -58.7500
+José de San Martín, -44.0333, -70.4833
+José María Blanco > Tres Lomas, -36.4500, -62.8500
+José Santos Arévalo, -35.1667, -59.2333
+Juan Atucha, -35.5333, -59.3500
+Juan B. Arruabarrena, -30.3333, -58.3167
+Juan de Garay, -38.8667, -64.5667
+Juan E. Barra, -37.8000, -60.4833
+Juan Jorba, -33.6167, -65.2667
+Juan José Castelli, -25.9500, -60.6167
+Juan N. Fernández, -38.0000, -59.2667
+Juan Tronconi, -35.5000, -59.2500
+Jujuy > San Salvador de Jujuy, -24.1833, -65.3000
+Junín, -34.5833, -60.9500
+Junín de los Andes, -39.9333, -71.0833
+Justiniano Posse, -32.8833, -62.6667
+Justo Daract, -33.8667, -65.1833
+Juárez, -37.6667, -59.8000
+Jáuregui, -34.6000, -59.1667
+Koluel Kayte, -46.7167, -68.2333

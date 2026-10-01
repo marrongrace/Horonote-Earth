@@ -1,0 +1,142 @@
+Saavedra, -37.7500, -62.3667
+Sachayoj, -26.6833, -61.8333
+Saladas, -28.2500, -58.6333
+Saladillo, -35.6333, -59.7667
+Salado, -28.3000, -67.2500
+Salavina, -28.8000, -63.4167
+Saldungaray, -38.2000, -61.7833
+Salliqueló, -36.7500, -62.9333
+Salsacate, -31.3167, -65.0833
+Salta, -24.7833, -65.4167
+Salto, -34.2833, -60.2500
+Salto de las Rosas, -34.7167, -68.2333
+Salvador María, -35.3000, -59.1667
+Salvador Mazza, -22.0667, -63.7167
+Sampacho, -33.3833, -64.7167
+Samuhú, -27.5167, -60.4000
+San Agustín(Buenos Aries), -38.0167, -58.3500
+San Agustín(Córdoba), -31.9833, -64.3833
+San Agustín de Valle Fértil, -30.6333, -67.4500
+San Andrés de Giles, -34.4500, -59.4500
+San Antonio(Jujuy), -24.3667, -65.3333
+San Antonio(Catamacra), -28.9333, -65.1000
+San Antonio de Areco, -34.2500, -59.4667
+San Antonio de los Cobres, -24.1833, -66.3500
+San Antonio de Padua, -34.6667, -58.7000
+San Antonio Oeste, -40.7333, -64.9333
+San Bernardo, -27.2833, -60.7000
+San Blas de los Sauces, -28.4000, -67.0833
+San Carlos(Corrientes), -27.7500, -55.9000
+San Carlos(Salta), -25.9333, -65.9333
+San Carlos(Mendoza), -33.7667, -69.0333
+San Carlos Centro, -31.7333, -61.1000
+San Carlos de Bariloche, -41.1500, -71.3000
+San Cayetano, -38.3333, -59.6167
+San Cosme, -27.3667, -58.5167
+San Cristóbal, -30.3167, -61.2333
+San Eladio, -34.7667, -59.1833
+San Enrique, -35.7833, -60.3667
+San Fernando, -34.4333, -58.5667
+San Francisco, -31.4333, -62.0833
+San Francisco del Chañar, -29.7833, -63.9333
+San Francisco del Monte de Oro, -32.6000, -66.1333
+San Gregorio, -34.3167, -62.0333
+San Ignacio, -27.2667, -55.5333
+San Isidro(Buenos Aries), -34.4500, -58.5000
+San Isidro(Catamarca), -28.4500, -65.7333
+San Javier(Misiones), -27.8833, -55.1333
+San Javier(Santa Fé), -30.5833, -59.9500
+San Jerónimo Norte, -31.5500, -61.0833
+San Jorge, -31.9000, -61.8667
+San José(Catamarca), -28.3833, -65.7000
+San José(Misiones), -27.7667, -55.7833
+San José de Feliciano, -30.3833, -58.7500
+San José de Jáchal, -30.2333, -68.7500
+San José de la Esquina, -33.1000, -61.7000
+San Juan, -31.5333, -68.5167
+San Julián, -49.3000, -67.7167
+San Justo(Santa Fé), -30.7833, -60.5833
+San Justo(Buenos Aries), -34.6667, -58.5500
+San Lorenzo(Corrientes), -28.1333, -58.7667
+San Lorenzo(Santa Fé), -32.7500, -60.7333
+San Luis, -33.3000, -66.3500
+San Luis del Palmar, -27.5167, -58.5667
+San Manuel, -37.7833, -58.8333
+San Martín(Mendoza), -33.0667, -68.4667
+San Martín(Catemarca), -29.2333, -65.7667
+San Martín > General San Martín, -34.5667, -58.5333
+San Martín de los Andes, -40.1667, -71.3500
+San Miguel, -28.0000, -57.6000
+San Miguel > General Sarmiento, -34.5500, -58.7167
+San Miguel de Tucumán, -26.8167, -65.2167
+San Miguel del Monte, -35.4500, -58.8000
+San Nicolás, -33.3333, -60.2167
+San Nicolás de los Arroyos, -33.3333, -60.2167
+San Pedro(Buenos Aries), -33.6667, -59.6667
+San Pedro(Jujuy), -24.2333, -64.8667
+San Pedro(Santiago del Estero), -27.9500, -65.1667
+San Rafael, -34.6000, -68.3333
+San Ramón, -27.7000, -64.2833
+San Ramón de la Nueva Orán, -23.1333, -64.3333
+San Roque(San Juan), -30.2833, -68.6833
+San Roque(Corrientes), -28.5667, -58.7167
+San Salvador(Santa FéCorrientes), -29.2667, -57.5167
+San Salvador(Entre Rios), -31.6167, -58.5000
+San Salvador de Jujuy, -24.1833, -65.3000
+San Solano, -31.4833, -65.9167
+San Vicente(Bunoes Aries), -34.9667, -58.3667
+San Vicente(Santiago del Estero), -28.5000, -64.1500
+Santa Ana, -27.3667, -55.5667
+Santa Catalina, -21.9500, -66.0667
+Santa Clara, -29.5500, -68.5167
+Santa Cruz, -50.0167, -68.5167
+Santa Elena, -30.9500, -59.8000
+Santa Fe, -31.6333, -60.7000
+Santa Isabel(), -33.9000, -61.7000
+Santa Isabel(La Pampa), -36.2500, -66.9333
+Santa Lucía(San Juan), -31.5333, -68.4833
+Santa Lucía(Corrientes), -28.9833, -59.1000
+Santa Magdalena, -34.5000, -63.9333
+Santa María, -26.6833, -66.0333
+Santa Rita de Catuna, -30.9500, -66.2167
+Santa Rosa(La Pampa), -36.6167, -64.2833
+Santa Rosa(Catamarca), -28.0333, -67.6167
+Santa Rosa(Salta), -23.3667, -64.5000
+Santa Rosa(San Luis), -32.3333, -65.2000
+Santa Rosa de Leales, -27.1500, -65.2500
+Santa Rosa de Río Primero, -31.1500, -63.3833
+Santa Rosa de Toay, -36.6167, -64.2833
+Santa Sylvina, -27.8167, -61.1500
+Santa Teresa, -33.4333, -60.7833
+Santiago del Estero, -27.7833, -64.2667
+Santiago Larre, -35.5667, -59.1667
+Santo Domingo, -29.2667, -63.9333
+Santo Tomé(Santa Fé), -31.6667, -60.7667
+Santo Tomé(Corrientes), -28.5500, -56.0500
+Sarmiento, -45.6000, -69.0833
+Sastre, -31.7500, -61.8333
+Saturnino M. Laspiur, -31.7000, -62.4833
+Sauce, -30.0833, -58.7667
+Saujil, -28.1833, -66.2333
+Sañogasta, -29.3000, -67.6000
+Seclantás, -25.3000, -66.2500
+Seguí, -31.9500, -60.1333
+Seis de Septiembre > Morón, -34.6500, -58.6167
+Selva, -29.7667, -62.0500
+Serodino, -32.6167, -60.9500
+Serrezuela, -30.6333, -65.3833
+Sierra Chica, -36.8333, -60.2167
+Sierra Colorada, -40.5833, -67.8000
+Sierras Bayas, -36.9500, -60.1500
+Simoca, -27.2667, -65.3500
+Sol de Julio, -29.5500, -63.4500
+Solca, -30.7667, -66.4667
+Solís, -34.3000, -59.3333
+Strobel, -32.0500, -60.6167
+Stroeder, -40.1833, -62.6167
+Sucre, -34.5000, -59.1167
+Suipacha, -34.7500, -59.6833
+Sumampa, -29.3667, -63.4667
+Sunchales, -30.9333, -61.5667
+Suncho Corral, -27.9333, -63.4500
+Susques, -23.4167, -66.4833

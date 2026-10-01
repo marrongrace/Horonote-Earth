@@ -1,0 +1,33 @@
+Nahuel Huapí, -41.0500, -71.1500
+Nahuel Niyeu, -40.5000, -66.5500
+Napenay, -26.7333, -60.6167
+Naschel, -32.9167, -65.3833
+Navarro, -35.0167, -59.2667
+Navia, -34.7833, -66.5833
+Necochea, -38.5500, -58.7500
+Neuquén, -38.9500, -68.0667
+Nihuil, -35.0333, -68.6667
+Niquivil, -30.4167, -68.7000
+Noetinger, -32.3667, -62.3167
+Nogoyá, -32.4000, -59.8000
+Nonogasta, -29.3000, -67.5000
+Norberto de la Riestra, -35.2667, -59.7667
+Nuestra Señora de Talavera, -25.4333, -63.8000
+Nueva California, -32.7500, -68.3333
+Nueva Francia, -28.1833, -64.2000
+Nueva Galia, -35.1167, -65.2500
+Nueva Lubecka, -44.5333, -70.4000
+Nueve de Julio, -35.4500, -60.8667
+Oberá, -27.4833, -55.1333
+Olascoaga, -35.2000, -60.6000
+Olavarría, -36.9000, -60.2833
+Oliden, -35.1833, -57.9500
+Oliva, -32.0500, -63.5667
+Olivera, -34.6333, -59.2500
+Olta, -30.6167, -66.2667
+Oncativo, -31.9167, -63.6667
+Open Door, -34.5000, -59.0833
+Ordoqui, -35.9000, -61.1667
+Orense, -38.6667, -59.7833
+Oriente, -38.7333, -60.6167
+Otumpa, -27.3167, -62.2167

@@ -1,0 +1,58 @@
+Quemú Quemú, -36.0500, -63.5500
+Quequén, -38.5333, -58.7000
+Quilino, -30.2000, -64.4833
+Quilmes, -34.7333, -58.2667
+Quimilí, -27.6333, -62.4167
+Quines, -32.2167, -65.8000
+Quirós, -28.7833, -65.1167
+Quitilipi, -26.8667, -60.2167
+Rafael Calzada, -34.8000, -58.3667
+Rafael Castillo, -34.7167, -58.6167
+Rafaela, -31.2667, -61.4833
+Ramos Mejía, -34.6333, -58.5667
+Ranchillos, -26.9500, -65.0500
+Rancul, -35.0500, -64.7000
+Ranelagh, -34.8000, -58.2000
+Rapelli, -26.4000, -64.4833
+Rauch, -36.7667, -59.1000
+Rawson(Buenos Aries), -34.6000, -60.0667
+Rawson(Chubut), -43.3000, -65.1000
+Real del Padre, -34.8333, -67.7667
+Realicó, -35.0333, -64.2500
+Recalde, -36.6500, -61.0833
+Reconquista, -29.1500, -59.6500
+Recreo, -29.2667, -65.0667
+Remecó, -37.6333, -63.6500
+Resistencia, -27.4500, -58.9833
+Reynaldo Cullen, -31.3167, -60.6500
+Rinconada, -22.4333, -66.1667
+Rivadavia(San Juan), -31.5500, -68.6167
+Rivadavia(Salta), -24.1833, -62.8833
+Rivadavia(Mendoza), -33.1833, -68.4667
+Rivadavia(Buenos Aries), -35.4667, -62.9500
+Rivera, -37.2000, -63.2333
+Roberto Payró, -35.1667, -57.6500
+Rodeo, -30.2000, -69.1000
+Rodolfo Iselín, -34.6500, -68.0167
+Rojas, -34.2000, -60.7333
+Roldán, -32.9000, -60.9000
+Roque Pérez, -35.4167, -59.3333
+Rosario, -32.9500, -60.6667
+Rosario de la Frontera, -25.8000, -64.9667
+Rosario de Lerma, -24.9833, -65.5833
+Rosario del Tala, -32.3000, -59.1500
+Roversi, -27.5833, -61.9500
+Rufino, -34.2667, -62.7000
+Ruiz de Montoya, -26.9833, -55.0500
+Río Ceballos, -31.1667, -64.3333
+Río Chico, -41.7167, -70.5000
+Río Colorado, -39.0167, -64.0833
+Río Cuarto, -33.1333, -64.3500
+Río Gallegos, -51.6333, -69.2167
+Río Grande, -53.7833, -67.7000
+Río Luján, -34.2833, -58.9000
+Río Mayo, -45.6833, -70.2667
+Río Pico, -44.2167, -71.3500
+Río Piedras, -25.3000, -64.9000
+Río Segundo, -31.6667, -63.9167
+Río Tercero, -32.1833, -64.1000

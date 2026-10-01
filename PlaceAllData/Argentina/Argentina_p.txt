@@ -1,0 +1,88 @@
+Pagancillo, -29.5667, -68.0500
+Palmira, -33.0500, -68.5667
+Palo Santo, -25.5667, -59.3500
+Palpalá, -24.2500, -65.2000
+Pampa Almirón, -26.7000, -59.1333
+Pampa de los Guanacos, -26.2333, -61.8500
+Pampa del Castillo, -45.8000, -68.0833
+Pampa del Chañar, -30.1833, -68.7167
+Pampa del Indio, -26.0333, -59.9167
+Pampa del Infierno, -26.5167, -61.1667
+Paraná, -31.7333, -60.5333
+Parera, -35.1333, -64.5333
+Paso de Indios, -43.8667, -69.1000
+Paso de los Libres, -29.7167, -57.0833
+Paso del Rey, -34.6500, -58.7667
+Paso Limay, -40.5500, -70.4333
+Patquía, -30.0500, -66.8833
+Pavón, -34.3833, -59.0500
+Pedernales, -35.2500, -59.6500
+Pedro Luro, -39.4833, -62.6833
+Pedro R. Fernández, -28.7500, -58.6500
+Pehuajó, -35.8000, -61.8833
+Pellegrini, -36.2667, -63.1500
+Pergamino, -33.8833, -60.5833
+Perico, -24.3833, -65.1000
+Perito Moreno, -46.6000, -70.9333
+Perugorría, -29.3333, -58.6167
+Pichanal, -23.3167, -64.2167
+Pichi Mahuída, -38.8333, -64.9500
+Pico Truncado, -46.8000, -67.9667
+Picún Leufú, -39.5167, -69.2500
+Piedra del Águila, -40.0500, -70.0833
+Piedras Blancas, -31.1833, -59.9333
+Pigüé, -37.6167, -62.4167
+Pila, -36.0167, -58.1333
+Pilar(Córdoba), -31.6833, -63.9000
+Pilar(Santa Fé), -31.4500, -61.2500
+Pilar(Buenos Aries), -34.4500, -58.9000
+Pinas, -31.1500, -65.4833
+Pinto, -29.1500, -62.6500
+Pipinas, -35.5333, -57.3333
+Pirané, -25.7167, -59.1000
+Pirovano, -36.5000, -61.5667
+Pituil, -28.5667, -67.4500
+Piñero, -34.5333, -58.7500
+Plaza Huincul, -38.9167, -69.1500
+Plomer, -34.8000, -59.0333
+Plottier, -38.9667, -68.2333
+Plátanos, -34.7833, -58.1833
+Poblet, -35.0667, -57.9500
+Polvaredas, -35.5833, -59.5000
+Pomán, -28.4000, -66.2167
+Pontevedra, -34.7500, -58.7000
+Porteña, -31.0167, -62.0667
+Posadas, -27.3833, -55.8833
+Pozo del Molle, -32.0333, -62.9167
+Pozo del Tigre, -24.9000, -60.3167
+Pozo Hondo, -27.1667, -64.5000
+Presidencia de la Plaza, -27.0167, -59.8500
+Presidencia Roca, -26.1333, -59.6000
+Presidencia Roque Sáenz Peña, -26.7833, -60.4500
+Presidente Derqui, -34.4833, -58.8500
+Pringles, -38.0000, -61.3833
+Pucheta, -29.9000, -57.5667
+Pueblo Ledesma, -23.8333, -64.7667
+Pueblo Libertador, -30.2167, -59.3833
+Puelches, -38.1500, -65.9167
+Puerto Belgrano, -38.9000, -62.1000
+Puerto Bermejo, -26.9333, -58.5000
+Puerto Constanza, -33.8333, -59.0500
+Puerto Delicia, -26.2000, -54.5833
+Puerto Deseado, -47.7500, -65.9000
+Puerto Esperanza, -26.0167, -54.6500
+Puerto Iguazú, -25.5667, -54.5667
+Puerto Libertad, -25.9167, -54.6000
+Puerto Lobos, -42.0000, -65.1000
+Puerto Madryn, -42.7667, -65.0500
+Puerto Piray, -26.4667, -54.7000
+Puerto Pirámides, -42.5667, -64.2833
+Puerto Rico, -26.8000, -55.0333
+Puerto Victoria, -26.3333, -54.6500
+Puerto Visser, -45.4000, -67.1333
+Punta Alta, -38.8833, -62.0833
+Punta de los Llanos, -30.1500, -66.5500
+Punta Delgada, -42.7667, -63.6333
+Punta Porá, -25.2167, -58.5167
+Puán, -37.5500, -62.7167
+Pérez, -33.0000, -60.7667
