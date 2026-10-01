@@ -592,7 +592,7 @@ with st.sidebar:
     submit_button = st.button(label=t["submit_btn"], type="primary", key="submit_btn_main")
 
     # --- SNSシェアボタンの生成 ---
-    share_text = urllib.parse.quote("「HoroNote Earth」- Horoscope Information Export System - #HoroNote-Earth")
+    share_text = urllib.parse.quote("「HoroNote Earth」- Horoscope Information Export System - #HoroNoteEarth")
     app_url = urllib.parse.quote("https://horonote-earth.streamlit.app/") # ←公開用URL
 
     # 各SNS・サービスのシェア用URL
