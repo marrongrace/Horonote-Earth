@@ -1135,21 +1135,22 @@ if "chart_data" in st.session_state:
                     .replace("東経", "E")
                     .replace("十進:", "Decimal:")
                 )
-        display_loc_str = data.get('loc_str', '')
+                
+        # display_loc_str = data.get('loc_str', '')
         timezone_info = data.get('timezone', 'UTC')
         
         st.markdown(f"""
         <div style="padding: 20px; border: 2px solid #D4AF37; border-radius: 12px; background: linear-gradient(135deg, rgba(212,175,55,0.05), rgba(75,0,130,0.05)); text-align: center; margin-bottom: 25px;">
             <h2 style="margin: 0; color: #B8860B;">✨ {u_name}'s Horoscope Reading ✨</h2>
             <p style="margin: 10px 0 0 0; font-size: 1.1em; color: #555;">
-                📅 {data['date_str']}<br>
+                📅 {data.get('date_str', '')}<br>
                 📍 {display_loc_str}<br>
                 🌐 Timezone: <b>{timezone_info}</b>
             </p>
         </div>
         """, unsafe_allow_html=True)
-
-        if data["angles"]:
+        
+        if data.get["angles"]:
             col_a1, col_a2 = st.columns(2)
             col_a1.info(localize_text(convert_to_dms(data["angles"][0]), lang))
             col_a2.info(localize_text(convert_to_dms(data["angles"][1]), lang))
