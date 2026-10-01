@@ -604,6 +604,7 @@ with st.sidebar:
     reddit_share_url = f"https://www.reddit.com/submit?url={app_url}&title={share_text}"
     whatsapp_share_url = f"https://api.whatsapp.com/send?text={share_text}%20{app_url}"
     linkedin_share_url = f"https://www.linkedin.com/shareArticle?mini=true&url={app_url}&title={share_text}"
+    discord_share_url = "https://discord.com/"
 
     st.markdown(f"""
         <style>
@@ -639,6 +640,7 @@ with st.sidebar:
             .btn-reddit {{ background-color: #ff4500; }}
             .btn-whatsapp {{ background-color: #25d366; }}
             .btn-linkedin {{ background-color: #0a66c2; }}
+            .btn-discord {{ background-color: #5865f2; }}
         </style>
 
         <div style="font-size: 0.8em; color: gray; margin-top: 25px;">↓↓↓ Share Output ↓↓↓</div>
@@ -651,6 +653,7 @@ with st.sidebar:
             <a href="{reddit_share_url}" target="_blank" class="share-btn btn-reddit">Reddit</a>
             <a href="{whatsapp_share_url}" target="_blank" class="share-btn btn-whatsapp">WhatsApp</a>
             <a href="{linkedin_share_url}" target="_blank" class="share-btn btn-linkedin">LinkedIn</a>
+            <a href="{discord_share_url}" target="_blank" class="share-btn btn-discord">Discord</a>
         </div>
     """, unsafe_allow_html=True)
     st.write("")
