@@ -1,0 +1,21 @@
+Kabul, 34.5167, 69.2000
+Kabul, 34.5167, 69.2000
+Kamdesh, 35.4000, 71.3333
+Kariz-e Elyas, 35.4167, 61.3333
+Karokh, 34.4667, 62.5833
+Khanabad, 36.6833, 69.1167
+Khash, 31.5167, 62.8667
+Khenjan, 35.6000, 70.9833
+Khevaj, 38.2167, 71.0333
+Kheyr Khaneh, 34.9500, 63.6167
+Khivach, 38.2167, 71.0333
+Kholm, 36.7000, 67.6833
+Khowst, 33.3667, 69.9500
+Khugiani Šani, 31.5167, 66.2000
+Khvajeh Ra'uf, 33.3167, 64.7167
+Kohsan, 34.6500, 61.2000
+Konar-e Khas, 34.6500, 70.9000
+Koshk-e Kohneh, 34.8667, 62.5167
+Kowt-e ‘Ashrow, 34.4500, 68.8000
+Kuchnay Darvishan, 30.9833, 64.1833
+Kugas, 38.4167, 70.8000

@@ -1,0 +1,9 @@
+Chahar Bagh, 37.0000, 65.2333
+Chahar Bagh, 35.9667, 69.6333
+Chahar Deh-ye Ghowrband, 34.9833, 68.7333
+Chakhansur, 31.1667, 62.0667
+Chamkani, 33.8000, 69.8167
+Charikar, 35.0167, 69.1833
+Chehel Dokhtaran, 35.1000, 62.3167
+Chelik-e Yas Khan, 37.0833, 66.2333
+Chesht-e Sharif, 34.3500, 63.7333

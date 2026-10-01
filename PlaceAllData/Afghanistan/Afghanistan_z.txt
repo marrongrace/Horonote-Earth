@@ -1,0 +1,6 @@
+Zaranj, 31.1000, 61.8833
+Zarghun Shahr, 32.8500, 68.4167
+Zaydabad, 34.2833, 69.1167
+Zendeh Jan, 34.3500, 61.7500
+Ziarat-e Shah Maqsud, 31.9833, 65.5000
+Zibak, 36.5333, 71.3500

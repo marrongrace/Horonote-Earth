@@ -1,0 +1,23 @@
+Baba Vali Saheb, 31.6667, 65.6667
+Badrao, 34.7667, 69.6667
+Baghlan, 36.2167, 68.7667
+Baghlin, 36.2333, 65.9167
+Baghran Khowleh, 33.0167, 64.9667
+Bahram Chah, 29.4333, 64.0500
+Bailugh, 32.6833, 66.7667
+Bala Bagh, 34.4000, 70.2333
+Bala Morghab, 35.5833, 63.3333
+Balkh, 36.7667, 66.9000
+Bamian, 34.8333, 67.8333
+Band, 33.2833, 68.6500
+Banow, 35.6333, 69.2500
+Baraki Barak, 33.9333, 68.9167
+Barg-e Matal, 35.6667, 71.3500
+Barghanak, 33.9333, 62.4333
+Bari Gav, 33.8667, 67.8167
+Barikowt, 35.3000, 71.5333
+Batsawul, 34.2500, 70.8667
+Bazar-e Panjva'i, 31.5333, 65.4667
+Belcheragh, 35.8333, 65.2333
+Biabanak, 32.1833, 64.1833
+Boyni Qara, 36.3167, 66.8833

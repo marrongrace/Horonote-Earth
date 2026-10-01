@@ -1,0 +1,20 @@
+Sakhar, 32.9500, 65.5333
+Salam Khan, 31.7833, 66.7500
+Sang-e Masheh, 33.1333, 67.4500
+Sangar Saray, 34.4000, 70.6333
+Sayghan, 35.1833, 67.7000
+Shah Juy, 32.5167, 67.4167
+Shah-i-Mashhad, 35.0500, 63.9667
+Shahi Kowt, 34.2667, 70.5667
+Shahr-e Monjan, 36.0333, 70.7667
+Shahr-e Safa, 31.8333, 66.3667
+Shahrak, 34.1000, 64.3000
+Shahrestan, 34.3667, 66.7833
+Sheberghan, 36.6833, 65.7500
+Shekhabad, 34.0833, 68.7500
+Shesh Gav, 33.7500, 68.5500
+Shin Naray, 31.3167, 66.7167
+Shindand, 33.3000, 62.1333
+Shinkay, 31.9500, 67.4333
+Sorubi, 34.6000, 69.7167
+Spin Buldak, 31.0167, 66.4000

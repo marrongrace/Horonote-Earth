@@ -1,0 +1,16 @@
+Mahmud-e ‘Eraqi, 35.0167, 69.3333
+Malek Din, 32.4167, 68.0667
+Mandel, 33.2833, 61.8667
+Marghi, 34.9667, 66.5167
+Mashuray, 32.2000, 68.3500
+Mazar-e Sharif, 36.7000, 67.1000
+Ma‘Rut, 31.5667, 67.0500
+Mehtar Lam, 34.6500, 70.1667
+Mengeh Jek, 37.0333, 66.1167
+Meydan Kalay, 32.4167, 66.7333
+Meydan Khvolah, 33.6000, 69.8500
+Meymaneh, 35.9167, 64.7833
+Mir Bachcheh Kut, 34.7500, 69.1333
+Mirabad, 30.4167, 61.8333
+Mogor, 32.8667, 67.7833
+Musá Qal‘eh, 32.3667, 64.7667
