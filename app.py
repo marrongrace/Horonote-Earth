@@ -1492,12 +1492,48 @@ if "chart_data" in st.session_state:
         st.write("")
 
     else:
-        # 🌟 シナストリーモード用の表示（左右に分ける）
+        # 🌟 シナストリーモード用のヘッダー枠
         st.markdown(f"""
-        <div style="padding: 20px; border: 2px solid #D4AF37; border-radius: 12px; background: linear-gradient(135deg, rgba(212,175,55,0.05), rgba(75,0,130,0.05)); text-align: center; margin-bottom: 25px;">
+        <div style="padding: 15px; border: 2px solid #D4AF37; border-radius: 12px; background: linear-gradient(135deg, rgba(212,175,55,0.05), rgba(75,0,130,0.05)); text-align: center; margin-bottom: 20px;">
             <h2 style="margin: 0; color: #B8860B;">✨ {u_name} & {p2_name} {"'s Synastry data" if lang=="日本語" else "'s Synastry Reading"} ✨</h2>
         </div>
         """, unsafe_allow_html=True)
+
+        # 🌟 1人目と2人目の詳細情報（日時・場所・タイムゾーン）を左右に並べて表示
+        p1_info = data.get("person1", {})
+        p2_info = data.get("person2", {})
+
+        col_inf1, col_inf2 = st.columns(2)
+        
+        with col_inf1:
+            disp_loc1 = p1_info.get('loc_str', '')
+            if lang != "日本語":
+                disp_loc1 = disp_loc1.replace("北緯", "N").replace("東経", "E").replace("十進:", "Decimal:")
+            st.markdown(f"""
+            <div style="padding: 15px; border: 1px solid #D4AF37; border-radius: 10px; background: rgba(212,175,55,0.02); margin-bottom: 20px;">
+                <h4 style="margin: 0 0 10px 0; color: #B8860B;">👤 {u_name}</h4>
+                <p style="margin: 0; font-size: 0.95em; color: #ccc;">
+                    📅 {p1_info.get('date_str', '')}<br>
+                    📍 {disp_loc1}<br>
+                    🌐 Timezone: <b>{p1_info.get('timezone', 'UTC')}</b>
+                </p>
+            </div>
+            """, unsafe_allow_html=True)
+
+        with col_inf2:
+            disp_loc2 = p2_info.get('loc_str', '')
+            if lang != "日本語":
+                disp_loc2 = disp_loc2.replace("北緯", "N").replace("東経", "E").replace("十進:", "Decimal:")
+            st.markdown(f"""
+            <div style="padding: 15px; border: 1px solid #D4AF37; border-radius: 10px; background: rgba(212,175,55,0.02); margin-bottom: 20px;">
+                <h4 style="margin: 0 0 10px 0; color: #B8860B;">👤 {p2_name}</h4>
+                <p style="margin: 0; font-size: 0.95em; color: #ccc;">
+                    📅 {p2_info.get('date_str', '')}<br>
+                    📍 {disp_loc2}<br>
+                    🌐 Timezone: <b>{p2_info.get('timezone', 'UTC')}</b>
+                </p>
+            </div>
+            """, unsafe_allow_html=True)
 
         synastry_tabs_labels = (
             ["🌟 Celestial Bodies", "🔗 Aspects Comparison"] 
