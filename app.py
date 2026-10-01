@@ -1009,7 +1009,7 @@ if "chart_data" in st.session_state:
         </div>
         """, unsafe_allow_html=True)
         
-        # 🌟 セッションステートや入力値からそれぞれのデータを取得（変数名は適宜アプリに合わせて調整してください）
+        # 🌟 シナストリーと同様に、2人の基礎データを上下/左右にコンパクト表示
         p1_info = data.get("person1", {})
         p2_info = data.get("person2", {})
 
