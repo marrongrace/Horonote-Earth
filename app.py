@@ -744,7 +744,13 @@ if submit_button:
                 ]
                 p2_loc_full = ", ".join([str(part) for part in p2_loc_parts if part])
 
-                data1 = get_chart_data(
+                # ── 3. シナストリー（相性）モードの場合 ──
+            elif is_synastry:
+                p1_loc_full = f"{p1_data['input_city_name']}, {p1_data['selected_country']}"
+                p2_loc_full = f"{p2_data['input_city_name']}, {p2_data['selected_country']}"
+                
+                # 1人目のチャートデータを計算モジュールから取得
+                p1_result = get_chart_data(
                     name=p1_data["user_name"],
                     year=p1_data["birth_date"].year,
                     month=p1_data["birth_date"].month,
@@ -755,10 +761,11 @@ if submit_button:
                     lng=p1_data["input_lng"],
                     city_display_name=p1_loc_full,
                     view_type=toggle_view,
-                    is_unknown_time=unknown_checkbox
+                    is_unknown_time=False  # チェックボックスの状態等にあわせて調整してください
                 )
                 
-                data2 = get_chart_data(
+                # 2人目のチャートデータを計算モジュールから取得
+                p2_result = get_chart_data(
                     name=p2_data["user_name"],
                     year=p2_data["birth_date"].year,
                     month=p2_data["birth_date"].month,
@@ -769,7 +776,7 @@ if submit_button:
                     lng=p2_data["input_lng"],
                     city_display_name=p2_loc_full,
                     view_type=toggle_view,
-                    is_unknown_time=unknown_checkbox
+                    is_unknown_time=False
                 )
                 
                 # horoscope_calc_2 から正しい2つの関数をインポートする
@@ -782,9 +789,7 @@ if submit_button:
                 st.session_state.chart_data = {
                     "type": "composite", 
                     "bodies": comp_bodies,
-                    "aspects": comp_aspects,
-                    "person1": p1_info,
-                    "person2": p2_info
+                    "aspects": comp_aspects
                 }
                 
                 st.session_state.user_name = p1_data["user_name"]
