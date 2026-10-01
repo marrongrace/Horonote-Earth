@@ -1,0 +1,60 @@
+M'banza Congo, -6.2667, 14.2500
+Mabaia, -7.2167, 14.0500
+Macocola, -6.7833, 16.1333
+Macolo, -7.0833, 16.8000
+Macondo, -12.5833, 23.7333
+Macusse, -17.8500, 20.3500
+Madimba, -6.5167, 14.3500
+Mafembage, -14.5333, 21.7000
+Maianga, -14.2000, 21.7500
+Malange, -9.5333, 16.3333
+Malanje, -9.5333, 16.3333
+Mamué, -13.5333, 13.0833
+Maquela do Zombo, -6.0500, 15.1167
+Mariano Machado, -13.0333, 14.6667
+Marimba, -8.4667, 17.1333
+Marunga, -17.4500, 20.0333
+Masibi, -11.1333, 22.7000
+Massangano, -9.6167, 14.2500
+Matala, -14.7667, 15.0667
+Mavinga, -15.8333, 20.3500
+Melunga, -17.2667, 16.4000
+Menongue, -14.6000, 17.8000
+Miconge, -4.4333, 12.8500
+Mienga, -17.2833, 19.8000
+Milando, -8.7500, 17.6000
+Missão Santa Cruz, -16.2333, 21.9500
+Mona Quimbundo, -9.9167, 19.9667
+Monte Verde, -8.7167, 16.8500
+Mossamedes > Namibe, 15.1667, 12.1500
+Moçâmedes > Namibe, 15.1667, 12.1500
+Muacandala, -10.0333, 19.6667
+Muangai, -12.5333, 19.8500
+Mucoma, -15.3000, 13.6500
+Mucope(Lunda Sul), -8.7000, 21.7167
+Mucope(Cunene), -16.4000, 14.8833
+Muculo, -16.7833, 14.8500
+Mucusso, -17.8500, 20.3500
+Mucári, -9.5000, 16.9000
+Mufuma, -9.0667, 17.1000
+Muginga, -8.3333, 17.6167
+Muié, -14.3500, 20.6000
+Mulanda, -14.6833, 21.8000
+Mulondo, -15.6500, 15.2333
+Munenga, -10.0333, 14.6833
+Mungau, -13.9333, 21.9167
+Munhango, -12.1667, 18.5500
+Mupa, -16.1667, 15.7333
+Muquequete, -14.8333, 14.2667
+Murila, -10.7333, 20.3333
+Muriége, -9.9667, 21.1833
+Mussende, -10.5333, 16.0833
+Mussolo, -9.9833, 17.3167
+Mussuco, -17.1333, 19.0833
+Mussuma, -14.2333, 21.9833
+Mutumbo, -13.2333, 17.2833
+Muxaluando, -8.1167, 14.2833
+Muxima, -9.5167, 13.9333
+Muzeze, -15.0500, 17.7167
+Muá Ximica, -9.8333, 18.6833
+Môngua, -16.7167, 15.3833

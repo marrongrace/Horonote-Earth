@@ -1,0 +1,27 @@
+Bailundo, -12.2000, 15.8667
+Baixo Longa, -15.7000, 18.8333
+Balombo, -12.3500, 14.7667
+Bando, -15.0000, 20.5000
+Barra do Cuanza, -9.1500, 13.0000
+Barra do Dande, -8.4667, 13.3667
+Baía dos Tigres, -16.6000, 11.7167
+Baía Farta, -12.6667, 13.1833
+Bela Vista(Luanda), -12.5833, 16.2167
+Bela Vista(Cunene), -7.8333, 13.6667
+Bembe, -7.0333, 14.3000
+Benguela, -12.5833, 13.4167
+Benza, -6.2667, 12.9500
+Bessa Monteiro, -7.1167, 13.7333
+Bibala, -14.7667, 13.3500
+Bimbe, -11.8167, 15.8167
+Bom Jesus, -9.1500, 13.5667
+Bongo, -8.8000, 17.8167
+Botera, -11.6167, 14.2833
+Branco, -12.5000, 20.5333
+Brito Godins, -8.9500, 16.5333
+Buco Zau, -4.7667, 12.5500
+Buela, -5.9167, 14.5500
+Bula Atumba, -8.6667, 14.8000
+Bungo, -7.4333, 15.3833
+Buto, -15.7667, 15.1500
+Béú, -6.2333, 15.4667

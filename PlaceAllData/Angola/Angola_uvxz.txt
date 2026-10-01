@@ -1,0 +1,16 @@
+Uamba, -7.2000, 16.4167
+Uiche, -12.0500, 20.8333
+Umpulo, -12.6333, 17.7000
+Urimba, -10.9333, 16.5333
+Uíge, -7.6167, 15.0500
+Veríssimo Sarmento, -8.1667, 20.6500
+Vila Arriaga, -14.7667, 13.3500
+Vila Luso, -11.7833, 19.8667
+Vila Nova, -12.6333, 16.0500
+Vila Nova do Seles, -11.4000, 14.2500
+Vouga, -12.1833, 16.7833
+Xamindele, -7.1333, 14.2667
+Xangongo, -16.7167, 15.0167
+Xá-Cassau, -9.0333, 20.2333
+Zenza do Itombe, -9.2667, 14.2167
+Zundi, -10.4667, 16.8000

@@ -1,0 +1,20 @@
+Ebanga, -12.7333, 14.7333
+Ebo, -11.0333, 14.6833
+Emílio de Carvalho, -5.9167, 12.9500
+Evale, -16.5500, 15.7333
+Fazenda Libongo, -8.4000, 13.4000
+Ferreira, -12.8833, 22.8000
+Folgares, -14.9000, 15.1333
+Forte República, -7.7500, 16.3833
+Foz do Cunene, -17.2667, 11.8333
+Gabela, -10.8000, 14.3333
+Gago Coutinho, -14.1333, 21.4167
+Galangue, -13.8000, 16.1500
+Gambos, -14.8500, 14.5000
+Ganda, -13.0333, 14.6667
+Gando, -12.5000, 17.4167
+General Machado, -12.0500, 17.5000
+Golungo Alto, -9.1333, 14.7667
+Guilherme Capelo, -5.2167, 12.1333
+Gumba, -11.6667, 16.5667
+Gungo, -11.8000, 14.1333

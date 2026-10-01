@@ -1,0 +1,41 @@
+Oncócua, -16.5667, 13.4667
+Ondjiva, -17.0500, 15.7833
+Otchinjau, -16.5000, 13.9500
+Paiva Couceiro, -14.8500, 14.5000
+Pango Aluquém, -8.7167, 14.4500
+Pereira de Eça, -17.0500, 15.7833
+Pipas, -14.9333, 12.2000
+Porto Alexandre, -15.8167, 11.8833
+Porto Amboim, -10.7333, 13.7333
+Porto Rico, -6.1333, 12.5000
+Portugália, -7.3333, 20.7833
+Pungo Andongo, -9.6667, 15.5833
+Púlpito do Sul, -15.7667, 12.0000
+Quela, -9.2667, 17.0333
+Quelo, -6.4500, 12.8000
+Quibala, -10.7667, 14.9833
+Quibaxi, -8.4833, 14.6000
+Quiculungo, -8.5167, 15.3167
+Quilenda, -10.5500, 14.3667
+Quilengues, -14.0833, 14.0667
+Quimbango, -11.0167, 17.5500
+Quimbele, -6.4667, 16.2167
+Quimbo, -13.9833, 16.0833
+Quimbonge, -8.6000, 18.5000
+Quimbumbe, -7.8333, 14.0500
+Quinjenje, -12.8167, 14.9167
+Quinzáu, -6.8500, 12.7667
+Quipeio, -12.4333, 15.5000
+Quipemba, -7.2000, 15.1000
+Quirima, -10.9000, 18.1000
+Quirimbo, -10.6833, 14.1333
+Quissongo, -10.0167, 15.1167
+Quitapa, -10.3000, 18.2000
+Quitexe, -7.9333, 15.0333
+Quixico, -7.9833, 14.4167
+Quixinge, -9.8667, 14.3833
+Quizenga, -9.3500, 15.4667
+Ricupe, -14.6167, 21.4167
+Robert Williams, -12.8500, 15.5500
+Roçadas, -16.7167, 15.0167
+Ruacaná, -17.4167, 14.2000

@@ -1,0 +1,26 @@
+N'Dalantando, -9.3000, 14.9000
+N'Giva, -17.0500, 15.7833
+N'Riquinha, -15.7833, 21.5333
+N'zeto, -7.2333, 12.8667
+Namachire, -11.4333, 22.7167
+Namacunde, -17.3000, 15.8333
+Nambuangongo, -8.0167, 14.2000
+Namibe, -15.1667, 12.1500
+Nana Candundo, -11.5167, 23.0500
+Naulila, -17.2000, 14.7000
+Nauxindo, -16.1000, 17.0833
+Negage, -7.7500, 15.2667
+Negola, -14.1667, 14.5000
+Neriquinha, -15.7833, 21.5333
+Ngunza, -11.2167, 13.8333
+Nhareia, -11.4167, 17.0500
+Nhundo, -14.4167, 21.3833
+Ninda, -14.7833, 21.4000
+Norton de Matos, -12.3500, 14.7667
+Nova Caipemba, -7.4333, 14.6333
+Nova Chaves, -10.5667, 21.2833
+Nova Gaia, -10.1500, 17.5167
+Nova Lisboa > Huambo, 12.7333, 15.7833
+Nova Sintra, -12.1500, 17.2667
+Novo Redondo, -11.2167, 13.8333
+Nóqui, -5.8500, 13.4167

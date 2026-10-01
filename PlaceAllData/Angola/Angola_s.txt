@@ -1,0 +1,27 @@
+Sa da Bandeira, -14.6833, 13.4833
+Sacandica, -5.9667, 15.9333
+Sacaola, -12.9500, 22.4167
+Sachicapa, -10.3500, 19.9833
+Sachimbo, -9.2333, 20.2667
+Sagaba, -11.2833, 23.1167
+Samacimbo, -13.5500, 16.9833
+Samba Caju, -8.7667, 15.4000
+Sambo, -13.0333, 16.1000
+Sambungo, -8.6500, 20.7167
+Sandongo, -15.5000, 21.4667
+Sandumba, -13.7500, 17.4333
+Sanga, -11.1167, 15.3667
+Santo António do Zaire, -6.1167, 12.3000
+Sanza Pombo, -7.3167, 15.9833
+Sapu, -12.4833, 19.4333
+Saricumbe, -12.2000, 19.7667
+Saupite, -13.9000, 17.7167
+Saurimo, -9.6500, 20.4000
+Saútar, -11.1833, 18.4500
+Sessa, -13.9333, 20.8000
+Sombo, -8.7000, 20.9500
+Songo, -7.3667, 14.8500
+Soyo, -6.1167, 12.3000
+São José de Encoge, -7.6333, 14.6833
+São Nicolau, -14.2500, 12.3500
+São Salvador do Congo, -6.2667, 14.2500
