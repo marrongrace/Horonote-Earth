@@ -590,6 +590,9 @@ with st.sidebar:
         unknown_checkbox = False
 
     submit_button = st.button(label=t["submit_btn"], type="primary", key="submit_btn_main")
+
+    # シェア用のテキストとURLを定義
+    share_text = "Check out my horoscope analysis with HoroNote Earth! ✨"
     
     # 各SNS・サービスのシェア用URL（HoroNote Earth対応・海外向け8つ構成）
     x_share_url = f"https://twitter.com/intent/tweet?text={share_text}&url={app_url}"
