@@ -559,7 +559,7 @@ def get_chart_data(name, year, month, day, hour, minute, lat, lng, city_display_
                 minute=calc_m,
                 lat=lat,
                 lng=lng,
-                tz_str=timezone_str  # ← ここに追加！
+                tz_str=timezone_str
             )
         except Exception as e:
             return {"error": f"Horoscope calculation error: {str(e)}"}
