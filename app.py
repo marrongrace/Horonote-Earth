@@ -978,9 +978,14 @@ if "chart_data" in st.session_state:
         </div>
         """, unsafe_allow_html=True)
         
-        # 🌟 シナストリーと同様に、2人の基礎データを上下/左右にコンパクト表示
-        p1_info = data.get("person1", {})
-        p2_info = data.get("person2", {})
+        # 🌟 セッションステートや入力値からそれぞれのデータを取得（変数名は適宜アプリに合わせて調整してください）
+        p1_date_str = st.session_state.get('p1_date_str', '2000-01-01 12:00')
+        p1_loc_str = st.session_state.get('p1_loc_str', '')
+        p1_tz_str = st.session_state.get('p1_tz', 'UTC')
+
+        p2_date_str = st.session_state.get('p2_date_str', '1992-06-17 12:00')
+        p2_loc_str = st.session_state.get('p2_loc_str', '')
+        p2_tz_str = st.session_state.get('p2_tz', 'UTC')
 
         col_inf1, col_inf2 = st.columns(2)
         with col_inf1:
@@ -1008,7 +1013,6 @@ if "chart_data" in st.session_state:
                 </p>
             </div>
             """, unsafe_allow_html=True)
-        st.write("DEBUG DATA:", data)
         
         # データの取り出し
         bodies = data.get("bodies", [])
