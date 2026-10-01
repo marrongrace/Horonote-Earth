@@ -728,21 +728,70 @@ if submit_button:
 
             # ── 2. コンポジット（合成図）モードの場合 ──
             elif is_composite:
-                # p1の地域情報を安全に組み立て
-                p1_loc_parts = [
-                    p1_data.get('input_city_name'),
-                    p1_data.get('selected_state'),
-                    p1_data.get('selected_country')
-                ]
-                p1_loc_full = ", ".join([str(part) for part in p1_loc_parts if part])
-
-                # p2の地域情報を安全に組み立て
-                p2_loc_parts = [
-                    p2_data.get('input_city_name'),
-                    p2_data.get('selected_state'),
-                    p2_data.get('selected_country')
-                ]
-                p2_loc_full = ", ".join([str(part) for part in p2_loc_parts if part])
+                p1_loc_full = f"{p1_data['input_city_name']}, {p1_data['selected_country']}"
+                p2_loc_full = f"{p2_data['input_city_name']}, {p2_data['selected_country']}"
+                
+                # 1人目のチャートデータを取得
+                p1_result = get_chart_data(
+                    name=p1_data["user_name"],
+                    year=p1_data["birth_date"].year,
+                    month=p1_data["birth_date"].month,
+                    day=p1_data["birth_date"].day,
+                    hour=p1_data["birth_time"].hour,
+                    minute=p1_data["birth_time"].minute,
+                    lat=p1_data["input_lat"],
+                    lng=p1_data["input_lng"],
+                    city_display_name=p1_loc_full,
+                    view_type=toggle_view,
+                    is_unknown_time=False
+                )
+                
+                # 2人目のチャートデータを取得
+                p2_result = get_chart_data(
+                    name=p2_data["user_name"],
+                    year=p2_data["birth_date"].year,
+                    month=p2_data["birth_date"].month,
+                    day=p2_data["birth_date"].day,
+                    hour=p2_data["birth_time"].hour,
+                    minute=p2_data["birth_time"].minute,
+                    lat=p2_data["input_lat"],
+                    lng=p2_data["input_lng"],
+                    city_display_name=p2_loc_full,
+                    view_type=toggle_view,
+                    is_unknown_time=False
+                )
+                
+                from horoscope_calc import calculate_composite_bodies, calculate_composite_aspects
+                
+                comp_bodies = calculate_composite_bodies(p1_result["aspect_objs"], p2_result["aspect_objs"])
+                comp_aspects = calculate_composite_aspects(comp_bodies)
+                
+                # 表示側（p1_info, p2_info）が参照できるように person1, person2 の情報をここに含める
+                st.session_state.chart_data = {
+                    "type": "composite",
+                    "person1": {
+                        "date_str": p1_result.get("date_str", ""),
+                        "loc_str": p1_loc_full,
+                        "timezone": p1_result.get("timezone", "UTC"),
+                        "bodies": p1_result.get("bodies", [])
+                    },
+                    "person2": {
+                        "date_str": p2_result.get("date_str", ""),
+                        "loc_str": p2_loc_full,
+                        "timezone": p2_result.get("timezone", "UTC"),
+                        "bodies": p2_result.get("bodies", [])
+                    },
+                    "bodies": comp_bodies,
+                    "aspects": comp_aspects
+                }
+                
+                st.session_state.user_name = p1_data["user_name"]
+                st.session_state.p2_name = p2_data["user_name"]
+                st.session_state.is_composite = True
+                st.session_state.is_synastry = False
+                st.session_state.is_transit = False
+                
+                st.rerun()
 
                 # ── 3. シナストリー（相性）モードの場合 ──
             elif is_synastry:
