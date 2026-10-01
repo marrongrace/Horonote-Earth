@@ -565,6 +565,18 @@ with st.sidebar:
         if selected_city and selected_city in city_data_map:
             # 都市データに "timezone" キーが含まれている前提で取得（なければ "UTC" にフォールバック）
             transit_tz = city_data_map[selected_city].get("timezone", "UTC")
+
+        # ── 🔍 ここにデバッグ用コードを挟む ──
+        if selected_city and selected_city in city_data_map:
+            st.write("🔍 **選択された都市の生データ:**")
+            st.json(city_data_map[selected_city])
+
+        transit_tz = "UTC"
+        if selected_city and selected_city in city_data_map:
+            transit_tz = city_data_map[selected_city].get("timezone", "UTC")
+        
+        st.write(f"🌐 **判定された transit_tz:** `{transit_tz}`")
+        # ──────────────────────────────────────
         
         # 計算用にセッションステートへ保存
         st.session_state["transit_info"] = {
