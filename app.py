@@ -972,11 +972,42 @@ if "chart_data" in st.session_state:
     # ==========================================
     elif current_is_composite or data.get("type") == "composite":
         st.markdown(f"""
-        <div style="padding: 20px; border: 2px solid #D4AF37; border-radius: 12px; background: linear-gradient(135deg, rgba(212,175,55,0.05), rgba(75,0,130,0.05)); text-align: center; margin-bottom: 25px;">
+        <div style="padding: 20px; border: 2px solid #D4AF37; border-radius: 12px; background: linear-gradient(135deg, rgba(212,175,55,0.05), rgba(75,0,130,0.05)); text-align: center; margin-bottom: 20px;">
             <h2 style="margin: 0; color: #B8860B;">☯️ {u_name} & {p2_name} 's Composit Chart</h2>
-            <p style="margin: 10px 0 0 0; font-size: 1.1em; color: #555;">A symbol of partnership created by combining the birth charts of two people</p>
+            <p style="margin: 10px 0 0 0; font-size: 1.1em; color: #888;">A symbol of partnership created by combining the birth charts of two people</p>
         </div>
         """, unsafe_allow_html=True)
+        
+        # 🌟 シナストリーと同様に、2人の基礎データを上下/左右にコンパクト表示
+        p1_info = data.get("person1", {})
+        p2_info = data.get("person2", {})
+
+        col_inf1, col_inf2 = st.columns(2)
+        with col_inf1:
+            disp_loc1 = p1_info.get('loc_str', '')
+            st.markdown(f"""
+            <div style="padding: 12px; border: 1px solid #D4AF37; border-radius: 10px; background: rgba(212,175,55,0.02); margin-bottom: 20px;">
+                <h4 style="margin: 0 0 8px 0; color: #B8860B;">👤 {u_name}</h4>
+                <p style="margin: 0; font-size: 0.9em; color: #ccc;">
+                    📅 {p1_info.get('date_str', '')}<br>
+                    📍 {disp_loc1}<br>
+                    🌐 Timezone: <b>{p1_info.get('timezone', 'UTC')}</b>
+                </p>
+            </div>
+            """, unsafe_allow_html=True)
+
+        with col_inf2:
+            disp_loc2 = p2_info.get('loc_str', '')
+            st.markdown(f"""
+            <div style="padding: 12px; border: 1px solid #D4AF37; border-radius: 10px; background: rgba(212,175,55,0.02); margin-bottom: 20px;">
+                <h4 style="margin: 0 0 8px 0; color: #B8860B;">👤 {p2_name}</h4>
+                <p style="margin: 0; font-size: 0.9em; color: #ccc;">
+                    📅 {p2_info.get('date_str', '')}<br>
+                    📍 {disp_loc2}<br>
+                    🌐 Timezone: <b>{p2_info.get('timezone', 'UTC')}</b>
+                </p>
+            </div>
+            """, unsafe_allow_html=True)
         
         # データの取り出し
         bodies = data.get("bodies", [])
