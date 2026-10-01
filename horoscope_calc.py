@@ -535,7 +535,7 @@ def get_chart_data(name, year, month, day, hour, minute, lat, lng, city_display_
     
     # 1. 緯度・経度からタイムゾーン文字列を取得する
     tf = TimezoneFinder()
-    timezone_str = tf.timezone_at(lat=lat, lng=lng)　or "UTC"
+    timezone_str = tf.timezone_at(lat=lat, lng=lng) or "UTC"
     
     # 万が一海の上などでタイムゾーンが取得できなかった場合の安全策（フォールバック）
     if not timezone_str:
