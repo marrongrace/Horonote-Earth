@@ -708,11 +708,16 @@ if submit_button:
             
             # ── 1. トランジットモードの場合 ──
             if is_transit:
-                transit_info = st.session_state.get("transit_info", {
-                    "year": 2026, "month": 1, "day": 1, "hour": 12, "minute": 0,
-                    "lat": p1_data["input_lat"], "lng": p1_data["input_lng"],
-                    "timezone": transit_tz,
-                })
+                # まずセッションステートから正確に取得を試みる
+                transit_info = st.session_state.get("transit_info", {})
+    
+                # 万が一 transit_info が空だった場合のデフォルト値（必要に応じて補う）
+                if not transit_info:
+                    transit_info = {
+                        "year": 2026, "month": 1, "day": 1, "hour": 12, "minute": 0,
+                        "lat": p1_data["input_lat"], "lng": p1_data["input_lng"],
+                        "timezone": "UTC"
+                    }
                 
                 data = get_chart_data(
                     p1_data["user_name"],
