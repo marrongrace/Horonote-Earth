@@ -1,0 +1,61 @@
+Fair Oaks, 34.7236, -112.7611
+Fairbank, 31.7150, -110.1847
+Fairwood VIII, 33.5878, -112.2056
+Falcon Estates, 33.4333, -111.8333
+Falfa, 33.3461, -111.8319
+Feaster, 33.9917, -109.1447
+Fennemore, 33.5703, -112.4267
+Fenner, 31.9700, -110.2306
+Ferguson Place Windmill, 34.3467, -112.7328
+Fiesta Park, 33.4214, -111.7483
+Firebrand Ranch, 33.5767, -111.9814
+Fish Creek(historical town), 33.5333, -111.3056
+Fishers Landing, 32.9728, -114.4628
+Fivemile Landing, 34.7953, -114.5050
+Flagstaff, 35.1981, -111.6506
+Flagstaff Community Hospital, 35.2089, -111.6453
+Flamingo Mobile Home Resort, 33.5261, -112.1656
+Flat Rock, 36.0056, -109.5550
+Flecha Caida Estates, 32.3000, -110.9333
+Florence, 33.0314, -111.3867
+Florence Junction, 33.2594, -111.3364
+Flores, 34.0625, -112.8208
+Flower Pot, 34.5033, -111.9700
+Forbing Park, 34.5656, -112.4950
+Fordville, 32.7044, -110.6936
+Forepaugh, 33.9714, -113.0456
+Forest Lakes Estates, 34.3389, -110.7992
+Forrest, 31.3667, -109.7269
+Fort Apache, 33.7906, -109.9881
+Fort Apache Indian Reservation, 33.8333, -109.9667
+Fort Apache Junction, 33.7897, -110.0011
+Fort Defiance, 35.7444, -109.0758
+Fort Huachuca, 31.5500, -110.3500
+Fort McDonald, 34.2350, -111.3475
+Fort McDowell, 33.6367, -111.6739
+Fort McDowell Indian Reservation, 33.6333, -111.6667
+Fort Misery, 34.1403, -112.3658
+Fort River Caves, 34.5681, -111.8464
+Fort Thomas, 33.0369, -109.9647
+Fort Tule, 34.0033, -112.2672
+Fort Tuthill, 35.1417, -111.6936
+Fort Verde Estates, 34.5406, -111.8561
+Fort Whipple, 34.5547, -112.4519
+Fortuna, 32.6906, -114.4522
+Fountain East, 33.4103, -111.6994
+Fountain Hills, 33.6117, -111.7167
+Fountain of the Sun, 33.4114, -111.6553
+Fountain View, 33.6078, -111.7311
+Fowler, 33.4514, -112.2031
+Fox, 32.7431, -109.1378
+Fox Glen, 33.5922, -112.2156
+Foxboro, 33.5542, -112.2514
+Franconia, 34.7394, -114.2675
+Franklin, 32.6775, -109.0786
+Frazier Wells, 35.7825, -113.0714
+Fredonia, 36.9456, -112.5258
+Freeman, 32.8458, -112.2958
+Fresnal Canyon, 31.9167, -111.8833
+Friendly Corners, 32.6178, -111.5503
+Fry, 31.5567, -110.2944
+Fuller Ranch, 33.4047, -111.7839

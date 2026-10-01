@@ -1,0 +1,286 @@
+S C Townhouse Mobile Home Estate, 33.5769, -112.2706
+Sacate, 33.1772, -112.0800
+Sacaton, 33.0767, -111.7386
+Sacaton Flats, 33.0700, -111.6678
+Sacred Mountain, 35.2000, -111.6167
+Saddle, 33.1578, -113.0794
+Saddlehorn Ranch, 33.6411, -112.1878
+Safford, 32.8339, -109.7069
+Sage Memorial Hospital, 35.7103, -109.5431
+Sagewood, 33.3881, -111.8361
+Saginaw, 31.4292, -109.8828
+Sahara Mobile Home Park, 33.5375, -112.1478
+Sahuarita, 31.9575, -110.9550
+Sahuarita Heights, 31.9500, -110.9247
+Salado, 34.4336, -109.4100
+Salina, 36.0222, -109.8667
+Salome, 33.7811, -113.6139
+Salt River, 33.5333, -111.7500
+Salt River Indian Reservation, 33.5000, -111.7333
+Salt River Powder District ?Power?, 33.6667, -111.1500
+Salt River Reservation Clinic, 33.4689, -111.8661
+San Agustin, 31.6022, -111.8942
+San Carlos(Maricopa), 33.3458, -111.8500
+San Carlos(Gila), 33.3453, -110.4525
+San Carlos Hospital, 33.3539, -110.4539
+San Carlos Indian Reservation, 33.3333, -110.4500
+San Gabriel, 33.6494, -112.1531
+San Jose(Graham), 32.8200, -109.5914
+San Jose(Cochise), 31.4167, -109.9000
+San Lucy Village, 32.9639, -112.7172
+San Luis(Pima), 32.0803, -111.9544
+San Luis(Yuma), 32.4869, -114.7814
+San Manuel, 32.5997, -110.6303
+San Manuel Copper Hospital, 32.6106, -110.6272
+San Miguel(Maricopa), 33.6169, -112.1875
+San Miguel(Pima), 31.6128, -111.7814
+San Pedro, 32.0833, -111.4875
+San Rafael, 31.7372, -112.0236
+San Rafael Terrace, 31.4167, -109.9000
+San Serafin, 32.2875, -112.0083
+San Simon, 32.2678, -109.2269
+San Tan Mobile Village, 33.3033, -111.7903
+San Vicente, 32.0117, -111.6364
+San Xavier, 31.9736, -111.0944
+San Xavier Indian Reservation, 32.0333, -111.0833
+Sanchez, 32.8694, -109.5422
+Sand Mill, 34.0778, -112.7433
+Sand Springs(Coconico), 35.7189, -110.9325
+Sand Springs(Apache), 36.8394, -109.7017
+Sandalwood, 33.6283, -111.9978
+Sanders, 35.2164, -109.3331
+Sandwash Mill, 31.4822, -111.4153
+Sanokai Village, 33.2333, -111.6708
+Santa Claus, 35.3367, -114.2156
+Santa Cruz(Pinal), 33.2281, -112.1658
+Santa Cruz(Pima), 32.0344, -111.9064
+Santa Grande Mobile Home Park, 33.5158, -112.1539
+Santa Lucia, 32.0672, -111.9489
+Santa Maria, 33.4228, -112.2033
+Santa Rita, 31.7000, -111.0667
+Santan, 33.1758, -111.7986
+Santiago, 33.6208, -111.9736
+Santo Tomas, 33.5483, -111.9158
+Sapano Vaya, 31.5969, -111.6622
+Sasabe, 31.4886, -111.5414
+Sawmill(Gila), 33.6181, -110.3958
+Sawmill(Apache), 35.9025, -109.1653
+Schoens Crossing, 34.4097, -110.1161
+Schuchk, 32.1211, -111.6825
+Schuchuli, 32.2222, -112.6875
+Scottsdale, 33.5092, -111.8983
+Scottsdale Community Hospital, 33.4653, -111.8978
+Scottsdale Memorial Hospital, 33.4881, -111.9222
+Scottsdale Mobile Home Park, 33.4533, -111.9158
+Scottsdale Ranch, 33.5750, -111.8575
+Scottsdale Trailer Corral, 33.4842, -111.9244
+Second Mesa, 35.7933, -110.5044
+Secundino, 31.6939, -111.4422
+Security Acres, 34.5508, -111.8639
+Sedona, 34.8697, -111.7603
+Seligman, 35.3256, -112.8767
+Sells, 31.9119, -111.8806
+Seneca, 33.7567, -110.5122
+Sentinel, 32.8581, -113.2125
+Serape, 33.2328, -111.8364
+Sereno, 35.2394, -112.2725
+Sereno Spring, 35.2389, -112.2797
+Seven Palms Mobile Home Estate, 33.6425, -112.0644
+Sevenmile, 33.7853, -109.9561
+Shadow Canyon, 33.6531, -112.1211
+Shadow Hills, 33.6308, -112.1772
+Shadow Mountain, 33.6056, -112.0194
+Shadow Mountain Village Scot, 33.4533, -111.8972
+Shadow Ridge II, 33.6239, -111.9736
+Shady Ranch Trailer Lodge, 33.4833, -111.9850
+Shady Rest Mobile Home Park, 33.4047, -111.5822
+Shamrock Mobile Home Park, 33.5358, -112.2411
+Shaotkam, 31.7694, -112.4097
+Shawmut, 32.9969, -112.5031
+Sheep Crossing Campground, 33.9597, -109.5058
+Sheffield Place, 33.4875, -112.2528
+Sheldon, 32.8147, -109.1717
+Shelley, 34.1931, -112.4061
+Sherwood, 33.4333, -111.8333
+Sherwood Forest Estates, 35.2406, -112.0442
+Shiloh Canyon, 33.5847, -111.8456
+Shipolovi, 35.8083, -110.4956
+Shongopovi, 35.8056, -110.5272
+Shonto, 36.5944, -110.6417
+Shopishik, 32.7214, -111.7811
+Short Creek, 36.9833, -112.9833
+Show Low, 34.2542, -110.0292
+Shumway, 34.4061, -110.0722
+Sichomovi, 35.8353, -110.3936
+Sierra Bonita, 32.2500, -109.8333
+Sierra Plaza, 34.9106, -110.1650
+Sierra Vista, 31.5544, -110.3031
+Sierra Vista Community Hospital, 31.5514, -110.2711
+Sierra Vista Estates, 31.4833, -110.2500
+Sif Vaya, 32.6181, -112.1139
+Signal, 34.4742, -113.6331
+Signal Village, 31.5500, -110.3556
+Sikort Chuapo, 32.3153, -112.6711
+Sikul Himatk, 32.1150, -112.0350
+Sil Murk, 32.9833, -112.7278
+Sil Nakya, 32.2217, -111.8158
+Silver Bell, 32.3833, -111.5000
+Silver Bell Trailer Park, 33.5042, -112.0625
+Silver Creek, 34.3400, -109.9489
+Silver Spur Ranch, 33.4167, -111.6292
+Silver Spur Village, 33.4200, -111.6272
+Silvergate II, 33.3403, -111.8733
+Silvergate Trails, 33.3283, -111.8781
+Singing Spur Mobile Park, 33.5028, -112.0333
+Siovi Shuatak, 31.9508, -112.5975
+Site Six, 34.5000, -114.3333
+Sivili Chuchg, 31.7442, -112.1600
+Six Mile Crossing, 34.5611, -113.3511
+Skoksonak, 32.2956, -111.5369
+Skull Valley, 34.5053, -112.6847
+Sky Ridge Mobile Homes, 33.3722, -112.0667
+Skyline Bel Aire Estates, 32.3203, -110.8889
+Skyline Heights, 33.5478, -112.0456
+Skyway Village, 33.4333, -111.8333
+Sleepy Hollow Trailer Village, 33.4003, -112.0733
+Smelter City, 34.7333, -112.0167
+Smelter Town, 33.2911, -111.2764
+Smoke Signal, 35.9800, -110.0444
+Smurr, 32.9286, -112.8206
+Snaketown, 33.1831, -111.9189
+Snowflake, 34.5133, -110.0778
+Soap Creek, 36.8167, -111.6333
+Soldier Camp, 32.4269, -110.7406
+Solomon, 32.8125, -109.6333
+Sombrero Butte, 32.7261, -110.4817
+Somerton, 32.5964, -114.7089
+Sonoita, 31.6794, -110.6547
+Sonora, 33.1653, -110.9953
+Sonora Town, 33.3353, -111.7889
+Sotos Crossing, 31.6306, -111.0356
+South Bisbee, 31.4169, -109.9031
+South Central, 33.4000, -112.0500
+South Cove, 36.0906, -114.0972
+South Fort, 34.1467, -112.2664
+South Komelik, 31.7222, -111.7722
+South Mountain Trailer Park, 33.3694, -112.0736
+South Phoenix, 33.4067, -112.0728
+South Santan, 33.1175, -111.7456
+South Tucson, 32.1994, -110.9678
+Southern Acres Mobile Home Park, 33.3933, -112.0064
+Southern Arizona Mental Health Center, 32.2272, -110.9469
+Southern Palms Trailer Park, 33.3925, -111.8317
+Southgate Mall, 32.7333, -114.5833
+Southside District Hospital, 33.4147, -111.8256
+Speedway, 32.2500, -110.9167
+Sponseller, 34.1964, -109.8867
+Spring Valley, 34.3450, -112.1583
+Springerville, 34.1333, -109.2853
+Sprucedale, 33.7403, -109.3264
+Spur Cross, 33.1833, -109.4572
+Spurlock, 34.1483, -111.0317
+Squaw Peak Terrace, 33.4958, -112.0147
+St David, 31.9042, -110.2136
+St Johns, 34.5058, -109.3603
+St Johns Mission, 33.2903, -112.1725
+St Joseph Hospital, 32.2267, -110.8544
+St Joseph Youth Camp, 34.9458, -111.4922
+St Josephs Hospital, 33.4811, -112.0789
+St Lukes Hospital, 33.4539, -112.0417
+St Lukes in the Desert Hospital, 32.2411, -110.9611
+St Marys Hospital, 32.2269, -111.0003
+St Michaels, 35.6447, -109.0950
+Stagecoach Trailer Park, 33.4522, -112.1489
+Stan Shuatuk, 31.7989, -112.2997
+Stanfield, 32.8825, -111.9614
+Stanton, 34.1653, -112.7286
+Stanwix, 32.8397, -113.3222
+Star Valley, 34.2550, -111.2578
+Stargo, 33.0678, -109.3594
+Stark, 31.3714, -110.0361
+Starlite Trailer Park, 33.4500, -111.9917
+Steam, 32.7278, -114.7000
+Steamboat, 35.7500, -109.8500
+Steamboat Canyon, 35.7481, -109.8500
+Steamboat Canyon Trading Post, 35.7467, -109.8583
+Steeplechase, 33.6447, -112.1236
+Stewart Mountain Trailer Park, 33.4161, -111.6281
+Stoa Pitk, 32.4850, -112.5161
+Stockham, 32.2742, -111.0069
+Stockton, 35.3094, -114.0892
+Stonegate Crossing, 33.3319, -111.8369
+Stoneman Lake, 34.7814, -111.5119
+Stony Mountain Villas, 33.5900, -112.0306
+Stotonic, 33.1581, -111.7986
+Stotonyak, 32.1550, -112.3681
+Stoval, 32.7650, -113.6214
+Strawberry, 34.4078, -111.4928
+Strayhorse, 33.5506, -109.3175
+Stringfield, 34.6950, -112.5558
+Student Union, 32.2333, -110.9500
+Summer Mesa, 33.4017, -111.7489
+Summer Place Trails, 33.3958, -111.7819
+Summer Place Village, 33.4000, -111.7842
+Summerhaven, 32.4386, -110.7592
+Summerplace Green, 33.3967, -111.7750
+Sun City, 33.5975, -112.2711
+Sun City West, 33.6619, -112.3406
+Sun Grove Mobile Home Park, 33.5569, -112.2792
+Sun Lakes, 33.2111, -111.8747
+Sun Tech, 33.3300, -111.8636
+Sun Terra Acres, 33.3500, -111.7833
+Sun Trailer Park, 33.4517, -112.1061
+Sun Valley, 34.9806, -110.0575
+Sun Valley Mobile Home Park, 33.5925, -111.9850
+Sun Valley Trailer Park, 33.4647, -112.0089
+Sunburst Homes, 33.4675, -112.1875
+Suncrest Villas Chandler, 33.3028, -111.9381
+Suncrest Villas East, 33.6386, -112.0331
+Suncrest Villas Mesa, 33.3889, -111.7797
+Suncrest Villas West, 33.6744, -112.1472
+Sundad, 33.1814, -113.2353
+Sundial Mobile Park, 33.4536, -111.8289
+Sunflower, 33.8642, -111.4669
+Sunizona, 31.4181, -109.6528
+Sunny Acres Trailer Village, 33.4125, -111.6644
+Sunny Slope Mobile Home Park, 33.5703, -112.0817
+Sunnyside, 31.4339, -110.4044
+Sunnyslope, 33.5658, -112.0644
+Sunray Manor, 33.6122, -112.1403
+Sunridge IV, 33.3528, -111.8556
+Sunrise, 35.2986, -110.9886
+Sunrise Heights Mobile Home, 33.6481, -112.0472
+Sunrise Springs, 35.6036, -109.7447
+Sunrise Terrace, 33.4958, -112.2342
+Sunrise Trading Post, 35.6108, -109.7419
+Sunrise Village Mobile Home, 33.4594, -111.7089
+Sunrise Vista Mobile Home Park, 33.4100, -111.7553
+Sunscape Homes, 33.4611, -112.1944
+Sunset, 32.5239, -110.2067
+Sunset Acres, 31.4167, -109.9000
+Sunset Hills, 33.6278, -112.0350
+Sunset North, 33.6231, -112.0861
+Sunset Ridge I, 33.6267, -111.9472
+Sunset Trail Ranch, 33.4133, -111.6444
+Sunset Village, 33.5925, -112.2594
+Sunset Vista, 33.6486, -112.1883
+Sunshine, 35.1239, -111.0308
+Sunshine Acres, 33.4769, -111.7139
+Sunshine Valley Mobile Home, 33.2817, -111.8444
+Suntrails, 33.3972, -111.7572
+Suntree, 33.3833, -111.7653
+Sunview, 33.3764, -111.7944
+Supai, 36.2369, -112.6883
+Superior, 33.2939, -111.0956
+Superstition Country, 33.4003, -111.6292
+Superstition Estates, 33.4167, -111.5667
+Superstition Shadows Mobile, 33.4167, -111.5908
+Supi Oidak, 31.9167, -111.8833
+Surprise, 33.6306, -112.3325
+Swansea, 34.1700, -113.8453
+Sweetwater(Pima), 31.9608, -112.5833
+Sweetwater(Pinal), 33.1319, -111.8400
+Sweetwater Garden, 33.6042, -111.9931
+Sweetwater Ranch, 33.6042, -111.8875
+Swift Trail Junction, 32.7297, -109.7133
+Sycamore, 34.8639, -112.0992

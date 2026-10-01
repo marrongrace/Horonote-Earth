@@ -1,0 +1,122 @@
+Wabash Trailer Court, 33.5703, -112.0642
+Waddell, 33.6114, -112.4264
+Wagon Wheel Mobile Ranch, 33.4597, -111.9811
+Wagoner, 34.2136, -112.5350
+Wahak Hotrontk(San Simon Indian), 32.1828, -112.3650
+Wahweap, 36.9967, -111.4894
+Walapai, 35.3444, -113.8833
+Walker, 34.4558, -112.3775
+Walker Place Windmill, 34.3439, -112.6217
+Walnut Grove, 34.2831, -112.5478
+Walpi, 35.8322, -110.3972
+Warner Park, 33.3333, -111.8556
+Warren, 31.4108, -109.8778
+Washington Camp, 31.3819, -110.6906
+Washington Park, 34.4244, -111.2669
+Washington Trailer Park, 33.4486, -112.0069
+Wayne, 33.5661, -112.4089
+Webb, 33.5525, -112.3664
+Weedville, 33.6139, -112.2147
+Welcome Home Mobile Park, 33.5158, -112.1125
+Wellington Court, 33.5931, -112.1986
+Wellton, 32.6728, -114.1461
+Wenden, 33.8225, -113.5408
+Wepo Village, 35.8933, -110.3733
+West Chandler, 33.3053, -111.9450
+West Chevelon Crossing, 34.4714, -110.9244
+West End, 33.4944, -112.2544
+West Mesa Trailer Court, 33.4142, -111.8492
+West Pershing Plaza, 31.5550, -110.3486
+West Sedona, 34.5000, -112.6833
+West Winslow, 35.0403, -110.7417
+West Yuma, 32.7167, -114.6667
+Westbriar, 33.4981, -112.2517
+Westbrook Village, 33.6572, -112.2775
+Westcliff Park, 33.6131, -112.1539
+Western Acres Mobile Home Park, 33.4528, -112.1997
+Western Acres Mobile Park, 33.4144, -111.6242
+Western Palms Mobile Home Court, 33.4550, -112.2050
+Westerra, 33.5986, -112.1894
+Westgreen Estates, 33.5653, -112.2514
+Westridge Park, 33.4597, -112.2044
+Westward Quest, 33.4333, -111.8333
+Westwind, 33.5986, -112.1983
+Wheatfields, 36.2378, -109.1281
+Wheel Inn Ranch, 33.4592, -111.9286
+Wheeler Place, 32.2647, -109.0828
+Whetstone, 31.9572, -110.3414
+Whipple, 34.5567, -112.4489
+Whispering Hills, 31.5500, -110.2833
+Whispering Pines, 33.7303, -109.0556
+White Clay, 36.0650, -109.2181
+White Cone, 35.6053, -110.0675
+White Hills, 35.7381, -114.3967
+White Mountain Communities Hospital, 34.1481, -109.2847
+White Mountain Community Hospital, 34.1481, -109.2847
+White Mountain Lake, 34.2500, -110.0333
+White Mountain Lakes Estates, 34.3553, -109.9953
+White Tanks, 33.6042, -112.2986
+Whiteriver, 33.8369, -109.9636
+Whitlock Cienega, 32.5528, -109.3353
+Whitted Place, 34.7319, -110.9597
+Why, 32.2686, -112.7381
+Wickchoupai, 32.0039, -111.9211
+Wickenburg, 33.9686, -112.7289
+Wickenburg Community Hospital, 33.9783, -112.7394
+Wide Ruins, 35.4194, -109.4958
+Wiggins Crossing, 34.5167, -110.9878
+Wigwam Villa Mobile Home Park, 33.4686, -112.0897
+Wikieup, 34.7033, -113.6106
+Wild Cow Campground, 35.0653, -113.8700
+Wild Flower, 33.6703, -112.0803
+Wildwood Estates, 34.5742, -112.5075
+Wilhoit, 34.4258, -112.5861
+Willaha, 35.7619, -112.2633
+Willcox, 32.2528, -109.8314
+Williams, 35.2494, -112.1903
+Williams Air Force Base, 33.3500, -111.8333
+Williams Hospital, 35.2472, -112.1917
+Williams Junction, 35.2431, -112.1347
+Willow, 33.7147, -110.9778
+Willow Beach, 35.9667, -114.8333
+Willow Canyon, 32.3886, -110.6981
+Willow Spring, 34.6700, -112.8625
+Willow Springs, 36.1894, -111.3931
+Willow Valley Estates, 34.8667, -114.1500
+WillowBrook II, 33.5872, -112.1828
+Willows West, 33.4981, -112.2228
+Wilmot, 32.1222, -110.8439
+Windemere, 33.5319, -111.9033
+Windmill, 33.5972, -112.2281
+Window Rock, 35.6806, -109.0519
+Windsong, 33.6428, -111.9281
+Windsor Mobile Home Park, 33.4128, -111.7781
+Windsor Square, 33.5656, -112.1750
+Wingfield, 34.5708, -111.3047
+Winkelman, 32.9875, -110.7703
+Winnwood Homes, 33.4489, -112.3417
+Winona, 35.2050, -111.4075
+Winslow, 35.0242, -110.6967
+Wintercone Park, 33.4494, -111.8183
+Wintersburg, 33.4244, -112.8672
+Winwood, 31.4167, -109.9000
+Wishing Well Trailer Park, 33.3064, -111.8278
+Wittmann, 33.7764, -112.5278
+Wolf Crossing, 35.3944, -111.1075
+Womack East, 33.3469, -111.8542
+Wonder Rift, 33.3503, -112.0189
+Wood Springs, 35.8125, -109.4614
+Wood Trap, 34.6078, -112.7989
+Woodbridge Crossing, 33.3847, -111.7958
+Woodcreek, 33.3833, -111.8700
+Woodglen, 33.3531, -111.8714
+Woodin, 35.8489, -112.2550
+Woodland Heights, 33.3903, -111.7575
+Woodleaf, 33.5222, -111.9039
+Woodleaf II, 33.5933, -111.9625
+Woodridge Lakes, 33.4389, -111.8022
+Woodridge VI, 33.6583, -112.1694
+Woodruff, 34.7814, -110.0428
+Woodside, 33.3903, -111.7653
+Wranglers Roost, 33.9242, -112.1125
+Wymola, 32.6581, -111.4039

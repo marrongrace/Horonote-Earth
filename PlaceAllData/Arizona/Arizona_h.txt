@@ -1,0 +1,102 @@
+Hacienda de Valencia, 33.4100, -111.7336
+Hacienda Los Encino, 31.6589, -110.6467
+Hacienda Solano Park, 33.3050, -111.7903
+Haciendas del Lago, 33.5778, -111.8711
+Hackberry, 35.3692, -113.7264
+Haivan Vaya, 31.6097, -111.8728
+Haivana Nakya, 32.0067, -111.7131
+Hali Murk, 32.0011, -112.2936
+Hamilton Corner, 33.2478, -111.8406
+Hamilton Crossing, 34.6547, -110.9969
+Hannagan Meadow, 33.6422, -109.3233
+Hano, 35.8369, -110.3917
+Happy Jack, 34.7433, -111.4067
+Happy Valley Ranch, 33.7158, -111.8992
+Harcuvar, 33.7600, -113.6525
+Hard Rocks, 36.0783, -110.4383
+Harmony Villa, 33.4606, -111.6922
+Harqua, 33.2431, -112.9983
+Harrington Place, 32.0425, -110.5461
+Harris, 35.1369, -114.0831
+Harshaw, 31.4672, -110.7064
+Hashan Chuchg, 31.5672, -111.7722
+Hassayampa, 33.3483, -112.7247
+Havana Nakya, 31.9167, -111.8833
+Havasupai Indian Reservation, 34.1500, -114.2833
+Haviland, 34.8022, -114.1764
+Hawaiian Village Mobile Home, 33.4544, -111.8400
+Hawkins, 34.2672, -112.9017
+Hawley Lake, 33.9839, -109.7464
+Hayden, 33.0047, -110.7847
+Hayden Junction, 33.0097, -110.8147
+Headquarters, 34.8142, -109.8642
+Heap Place, 34.5836, -109.4075
+Heatherbrook, 33.3478, -111.8908
+Heaton, 33.0789, -112.1339
+Heber, 34.4314, -110.5933
+Hecla, 34.5381, -112.1208
+Helena, 33.3561, -111.9428
+Helvetia, 31.8578, -110.7881
+Hereford, 31.4383, -110.0972
+Heritage Court, 33.5817, -111.8572
+Heritage Highlands, 33.6061, -112.0783
+Heritage North Ranch, 33.6389, -111.9319
+Heritage Terrace, 33.5667, -111.9017
+Hi View Mobile Home Park, 33.5925, -112.0969
+Hibbard, 34.9700, -110.5178
+Hickiwan, 32.3689, -112.4747
+Hidden Acres Mobile Home Park, 33.4528, -112.2003
+Hidden Springs, 35.8833, -111.4167
+Hidden Springs Mission, 36.1892, -111.3942
+Highjinks, 32.5711, -110.7378
+Highland Park(Cochise), 31.4506, -109.9403
+Highland Park(Yavapai), 34.5592, -112.5683
+Highland Terrace Mobile Home, 33.5939, -112.0972
+Hightown, 33.3044, -111.9086
+Higley, 33.3072, -111.7203
+Hillside, 34.4183, -112.9164
+Hilltop(Cochise), 32.2667, -109.2333
+Hilltop(Mohave), 35.2081, -114.0242
+Ho-Kay-Gan, 34.5333, -112.4667
+Hoa Murk, 32.2797, -112.6667
+Hoemako Co-Operative Hospital, 32.8786, -111.7386
+Hohokam Village, 33.4406, -111.8194
+Hoi Oidak, 32.3033, -111.8714
+Hoka Tiki Mobile Village, 33.5692, -112.2075
+Holbrook, 34.9022, -110.1575
+Holiday, 34.1500, -114.2833
+Holiday Palms Mobile Home Park, 33.4089, -111.6275
+Holiday Spa Mobile Home Park, 33.5800, -112.0486
+Holiday Village Mobile Home, 33.4019, -111.8533
+Hollywood, 32.8294, -109.6828
+Homestead, 33.4556, -111.7650
+Hookers Hot Springs, 32.3386, -110.2389
+Hooper, 34.2661, -112.3822
+Hope, 33.7231, -113.7017
+Hopi, 35.9333, -110.3667
+Hopi Indian Reservation, 35.8333, -110.5000
+Horn, 32.9447, -113.5025
+Horse Crossing, 34.5844, -111.1297
+Horse Mesa(Apache), 36.7050, -109.0458
+Horse Mesa(Maricopa), 33.5831, -111.3547
+Horse Thief, 34.4000, -112.2333
+Horseshoe Mobile Home Park, 33.4133, -111.9028
+Hortons Place, 32.8778, -110.5831
+Hotason Vo, 32.2464, -112.6042
+Hotevilla, 35.9278, -110.6722
+Houck, 35.2831, -109.2064
+House Rock, 36.9500, -112.5167
+Huachuca City, 31.6278, -110.3333
+Huachuca Terrace, 31.3967, -109.9244
+Hualapai, 35.2000, -114.0333
+Hualapai Indian Reservation, 34.5667, -111.8500
+Hubbell, 35.7167, -109.5500
+Huck Ovi, 35.8917, -110.6869
+Humana Phoenix Hospital, 33.4794, -112.0353
+Humboldt, 34.5008, -112.2367
+Humburg, 34.0547, -112.3225
+Hunt, 34.6100, -109.6269
+Hunters Point, 35.5478, -109.1044
+Hyde Park, 33.6206, -111.9667
+Hyde Park Lodge, 33.4642, -111.9911
+Hyder, 33.0164, -113.3481

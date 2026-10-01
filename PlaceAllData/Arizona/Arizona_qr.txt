@@ -1,0 +1,107 @@
+Quail Country Place, 33.6514, -112.0700
+Quail Lane, 33.5833, -112.1950
+Quail Place, 33.3464, -111.8722
+Quail Valley, 33.6283, -111.9792
+Quartzsite, 33.6639, -114.2292
+Queen Creek, 33.2486, -111.6336
+Queen Valley, 33.2986, -111.2889
+Querino, 35.2833, -109.2000
+Quijotoa, 32.1272, -112.1375
+Quinlin, 32.2561, -111.6058
+Quivero, 35.5325, -112.1900
+Radium, 33.4503, -110.8239
+Rainbow Mines, 34.3269, -110.7694
+Rainbow Valley, 33.2319, -112.3864
+Raintree, 33.3361, -111.9086
+Raintree Luxury Homes, 33.3314, -111.9294
+Rambler Mobile Park, 33.4139, -111.6308
+Rambling Rons Mobile Home Park, 33.5261, -112.1642
+Ramsey, 31.4458, -110.3108
+Ranch del Sol, 33.3500, -111.7833
+Rancho de Arboleda, 33.4569, -111.7806
+Rancho de Chandler, 33.2889, -111.8194
+Rancho del Rio, 34.1500, -114.2833
+Rancho Encanto, 33.6361, -112.1306
+Rancho Hermoso, 33.4572, -112.0111
+Rancho Mobile Estates, 33.4753, -112.0111
+Rancho Rio Vista Mobile Home, 33.4236, -111.9675
+Rancho San Carlos, 33.6000, -112.0172
+Rancho Santa Fe, 33.6369, -111.9919
+Rancho Tempe Family and Adult, 33.3839, -111.9578
+Rancho Vista Estates, 34.5231, -112.5086
+Randolph, 32.9169, -111.5142
+Rankin, 32.1428, -110.8375
+Rare Metals, 36.1494, -111.1356
+Raso, 32.3394, -109.7525
+Ray, 33.1833, -110.9969
+Ray Junction, 33.1069, -110.9625
+Ray Place, 35.8225, -114.0031
+Raymond W Bliss Army Hospital, 31.5486, -110.3519
+Reata Pass, 33.7333, -111.8442
+Red Lake, 35.3792, -112.1597
+Red Mesa, 36.9964, -109.3683
+Red Rock(Pinal), 32.5761, -111.3250
+Red Rock(Yavapai), 34.8256, -111.8158
+Red Rock(Apache), 36.6044, -109.0600
+Reddell's Ranch Acres, 34.5722, -111.8625
+Redington, 32.4275, -110.4925
+Redwood Gardens Mobile Home, 33.4125, -111.8794
+Renaissance, 33.3517, -111.9236
+Reymert, 33.2297, -111.2086
+Reynolds Trailer Court, 33.4139, -111.8958
+Richville, 34.2861, -109.3547
+Ridgegate, 33.6150, -112.0622
+Rileys El Encinar, 31.4897, -109.9889
+Rillito, 32.4147, -111.1556
+Rimmy Jims, 35.1100, -111.0303
+Rimrock, 34.6506, -111.7450
+Rincon, 32.0761, -111.9172
+Rincon Sanitorium, 32.1161, -110.6956
+Rio Rico, 31.4714, -110.9758
+Rio Verde, 33.7225, -111.6750
+Riordan, 36.1925, -111.7364
+Rittenhouse, 33.2567, -111.6344
+Riverside, 33.1053, -110.9572
+Riverside Stage Stop, 33.0500, -110.9000
+Riverside Terrace, 32.3167, -110.9500
+Riviera, 35.1008, -114.6206
+Riviera Mobile Home Park, 33.4542, -111.9089
+Road Junction Windmill, 34.0103, -111.9550
+Roadrunner Mobile Home Park, 33.4014, -112.0750
+Robbers Roost, 35.6606, -113.1522
+Robinson Trail Crossing, 34.3594, -110.0900
+Robles Junction, 32.0772, -111.3111
+Rock Crossing, 36.7261, -113.3411
+Rock Crossing Campground, 34.5625, -111.2156
+Rock Point, 36.7181, -109.6253
+Rock Springs, 34.0489, -112.1478
+Rockledge, 34.9681, -111.4700
+Rocky Junction, 33.4775, -110.2483
+Rocky Point, 32.5336, -112.8475
+Roles Inn of America, 33.5447, -112.1669
+Roll, 32.7517, -113.9883
+Rollin' W Mobile Home Ranch, 33.6464, -112.0408
+Rolling Hills Country Club E, 32.2011, -110.8114
+Roosevelt, 33.6675, -111.1336
+Rose Creek Lodge, 33.8342, -110.9775
+Rose Garden Place, 33.6681, -112.1153
+Rose Garden Place III, 33.6700, -112.1103
+Rose Lane Trailer Park, 33.4486, -112.1250
+Rose Terrace Trailer Park, 33.5147, -112.1550
+Rose Well, 35.7419, -112.8719
+Rosebud, 34.0006, -109.2667
+Rosedale Heights, 34.9092, -110.1528
+Rosemont Camp, 31.8250, -110.7342
+Rosemont Junction, 31.8342, -110.7322
+Rough Rock, 36.4072, -109.8722
+Round Rock, 36.5131, -109.4728
+Roundy Crossing, 34.2958, -110.0925
+Rowood, 32.3683, -112.8453
+Royal Estates West, 33.6083, -112.1889
+Royal Glen Mobile Home Park, 33.5431, -112.1519
+Royal Palm Travel Trailer and, 33.5700, -112.1017
+Royal Palm Village, 33.4125, -111.7467
+Ruby, 31.4611, -111.2369
+Rush Place Windmill, 34.2761, -112.6100
+Ryan, 36.6883, -112.3486
+Rye, 34.1094, -111.3531

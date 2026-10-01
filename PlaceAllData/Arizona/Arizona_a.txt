@@ -1,0 +1,102 @@
+A and F Trailer Court, 33.2958, -111.8411
+A and F Trailer Park, 33.4944, -112.1103
+A-1 Trailer Park, 33.4486, -112.0083
+Abra, 34.9019, -112.4461
+Achi, 32.3444, -112.0142
+Adamana, 34.9767, -109.8217
+Adamsville, 33.0128, -111.4414
+Admiral Trailer Park, 33.4508, -111.9917
+Adobe, 33.6892, -112.1219
+Adobe Mountain Trailer Park, 33.6861, -112.1144
+Adoration Sanctuary Hospital, 32.2328, -110.9258
+Agua Caliente, 32.9853, -113.3236
+Agua Fria(Maricopa), 33.6056, -112.3139
+Agua Fria(Yavapai), 34.5333, -112.4667
+Agua Linda, 31.6789, -111.0611
+Aguila, 33.9428, -113.1733
+Ahan Owuch, 32.1425, -112.3428
+Ahwatukee, 33.3417, -111.9833
+Aire Libre Mobile Home Park, 33.6378, -112.0172
+Ajo, 32.3717, -112.8600
+Ak, 31.9167, -112.0333
+Ak Chin, 33.0328, -112.0725
+Ak Chut Vaya, 31.6306, -111.8089
+Ak Komelik, 31.7178, -112.2006
+Akchin, 31.9167, -111.8833
+Alamo Crossing, 34.2600, -113.5819
+Alchesay Flat, 33.8333, -109.9667
+Alhambra, 33.4983, -112.1336
+Ali Ak Chin, 31.8581, -112.5400
+Ali Chuk, 31.8150, -112.5561
+Ali Chukson, 31.9136, -111.7986
+Ali Molina, 31.9000, -111.7736
+Ali Oidak, 32.3042, -112.0250
+Allah, 33.9281, -112.6900
+Allan Lake Landing, 34.8253, -111.4358
+Allentown, 35.2919, -109.1578
+Allenville, 33.3519, -112.5858
+Alma Gardens, 33.4047, -111.8539
+Alma Meadows Mobile Home Park, 33.4047, -111.8569
+Alpine, 33.8481, -109.1425
+Alta Mira, 33.3256, -111.9069
+Alto, 31.6044, -110.8775
+Amado, 31.7078, -111.0639
+Ambassador Downs Mobile Home, 33.4067, -111.7803
+Amberwood, 33.3617, -111.8686
+Amberwood II, 33.3458, -111.8447
+Amberwood North, 33.6597, -112.1458
+Ambrosia Mill, 33.7997, -113.1817
+Amphitheater, 32.2722, -110.9717
+Andalusia, 33.5694, -111.8694
+Anegam, 32.3728, -112.0303
+Angell, 35.1956, -111.3033
+Antares, 35.4197, -113.8078
+Apache(Navajo), 33.9500, -110.0833
+Apache(Cochise), 31.6903, -109.1317
+Apache Acres Trailer Park, 33.4222, -111.6014
+Apache Flats, 31.5581, -110.3619
+Apache Grove, 32.8697, -109.1897
+Apache Ho, 33.4167, -111.5667
+Apache Junction, 33.4150, -111.5489
+Apache Wells, 33.4594, -111.7103
+Apache West Mobile Village, 33.4139, -111.8539
+Apex, 35.9431, -112.1850
+Apollo Mobile Home Park, 33.5831, -112.2683
+Apron Crossing, 34.4833, -113.0469
+Araby, 32.6756, -114.5214
+Aragon Place, 32.9722, -109.3569
+Aravaipa, 32.9572, -110.3544
+Arcadia, 33.5000, -112.0000
+Arcosanti, 34.3428, -112.0947
+Aripine, 34.4083, -110.4303
+Aristocrat Trailer Park, 33.4947, -112.0625
+Arivaca, 31.5747, -111.3317
+Arivaca Junction, 31.7272, -111.0606
+Arizola, 32.8511, -111.7136
+Arizona Acres Mobile Home Resort, 33.4128, -111.6264
+Arizona City, 32.7558, -111.6703
+Arizona Shores, 34.1500, -114.2833
+Arizona State Hospital, 33.4539, -112.0253
+Arizona State Hospital Farm, 33.4619, -111.9978
+Arizona State Sanatorium, 33.4408, -111.9403
+Arizona State Teachers College, 35.2000, -111.6167
+Arizona Sun Sites, 31.9167, -109.9583
+Arlington, 33.3256, -112.7633
+Arnold Place, 34.4533, -111.9175
+Arntz, 34.9358, -110.0419
+Arrowhead Mall, 33.5500, -112.2167
+Arrowhead Ranch, 33.6683, -112.1917
+Artesa, 31.8994, -111.8517
+Artesia, 32.6981, -109.7069
+Ash Fork, 35.2250, -112.4833
+Asher, 32.6756, -114.0728
+Ashurst, 32.9842, -109.9317
+Athos, 34.9500, -114.1386
+Audley, 35.4017, -113.0383
+Aultman, 34.6164, -111.9136
+Autumn Ridge, 33.6531, -112.1531
+Avondale, 33.4356, -112.3489
+Avra(Pinal), 32.5519, -111.3028
+Avra(Pima), 32.3278, -111.2175
+Aztec, 32.8244, -113.4492
+Aztec Lodge, 33.8450, -110.9683

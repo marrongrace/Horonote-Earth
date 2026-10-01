@@ -1,0 +1,40 @@
+Oak Creek, 34.7792, -111.7625
+Oak Grove, 36.1528, -113.5831
+Oak Knoll Village, 34.5153, -112.4439
+Oak Springs, 35.4756, -109.1269
+Oak Wells, 32.7889, -110.9369
+Oakhurst, 33.6425, -111.9511
+Oasis Park, 33.4167, -111.5667
+Oatman, 35.0264, -114.3828
+Ocotillo, 33.2436, -111.8578
+Ocotillo, 34.3636, -112.2011
+Octave, 34.1417, -112.6892
+Oit Ihuk, 32.3156, -112.2450
+Olberg, 33.0922, -111.6856
+Old Columbine, 32.7072, -109.9089
+Old Glory, 31.4342, -111.2531
+Old Oraibi, 35.8764, -110.6397
+Old Shongopavi(site), 35.8044, -110.5197
+Old Sopori School, 31.7025, -111.1856
+Old Tucson, 32.2181, -111.1294
+Olga, 32.2997, -109.3586
+Olive West, 33.5694, -112.2150
+One Mile, 36.8050, -112.0536
+Oracle, 32.6108, -110.7703
+Oracle Foothills Estates, 32.2997, -110.9528
+Oracle Junction, 32.5550, -110.9328
+Oracle Place(shopping center), 32.3364, -110.9764
+Oraibi, 35.8753, -110.6197
+Orange Grove Estates, 32.3211, -111.0400
+Orangetree, 33.3369, -111.8944
+Orangetree Estates, 33.5864, -111.9642
+Orangewood Village Mobilehome, 33.6567, -112.1183
+Oregon Trail Mobile Home Park, 33.5578, -112.1144
+Oro Blanco, 31.4958, -111.2792
+Oro Valley, 32.3908, -110.9658
+Oshrin Hospital, 32.2356, -110.9400
+Otero, 31.5306, -111.0142
+Out West Trailer Park, 33.4508, -112.1281
+Overgaard, 34.3908, -110.5525
+Overland Trail, 33.6556, -112.1600
+Owl, 32.7219, -113.7914

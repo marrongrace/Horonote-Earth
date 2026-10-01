@@ -1,0 +1,126 @@
+Tacna, 32.6972, -113.9569
+Tahchee, 36.2286, -109.8939
+Taliesin West, 33.6069, -111.8425
+Taliverde, 33.5181, -112.0278
+Tanner Springs, 35.2883, -109.6850
+Tanners Crossing, 35.8639, -111.3864
+Tanque, 32.6089, -109.5375
+Tanque Verde, 32.2517, -110.7367
+Tapco, 34.7947, -112.0461
+Tarton, 32.8789, -113.0992
+Tat Momoli, 32.6039, -111.8611
+Tatai Toak, 32.3964, -112.4958
+Tatk Kam Vo, 31.9900, -112.3431
+Tatkum Vo, 31.6681, -112.1231
+Tatria Toak, 31.9167, -111.8833
+Taylor, 34.4650, -110.0906
+Taylor Place, 32.0761, -109.3242
+Teec Nos Pas, 36.9083, -109.1000
+Tees To, 35.0333, -110.7000
+Tees Toh, 35.4994, -110.4050
+Tempe, 33.4147, -111.9086
+Tempe Camp, 34.9078, -111.4417
+Tempe Cascade, 33.4242, -111.8867
+Tempe Community Hospital, 33.4119, -111.9400
+Tempe Junction, 33.4142, -111.9428
+Tempe Royal Palms, 33.3483, -111.9042
+Tempe Saint Lukes Hospital, 33.4119, -111.9400
+Tempe Travel Trailer Villa, 33.4133, -111.9061
+Temple Bar Marina, 34.8667, -114.1500
+Tes Nez Iah, 36.9431, -109.7083
+Tewa, 35.8556, -110.3833
+Thatcher, 32.8492, -109.7586
+The Citadel, 33.5722, -112.2014
+The Covey, 33.6194, -111.9803
+The Gap, 35.8833, -111.4167
+The Haciendas, 33.2931, -111.8208
+The Home Place, 33.3150, -111.8781
+The Lakes, 33.3711, -111.9194
+The Landings, 33.3667, -111.9078
+The Pointe, 33.5542, -112.0458
+The Pointe at South Mountain, 33.3744, -111.9756
+The Preserve, 33.5803, -112.0208
+The Town Square, 33.6414, -112.0686
+The Trails III, 33.4531, -111.8944
+The West Winds Trailer Court, 33.3056, -111.8317
+Theba, 32.9194, -112.8939
+Thomas Trailer Court, 33.4808, -112.0394
+Three Forks, 33.8547, -109.3136
+Three Fountains, 33.5186, -112.1881
+Three Points, 32.0767, -111.3131
+Three Way, 32.9483, -109.2297
+Thunderbird Palms II, 33.6094, -112.1831
+Thunderbird Valley II, 33.6153, -112.1122
+Tiburon, 33.3303, -111.8889
+Tierra Madre, 33.3500, -111.7833
+Tiger, 32.7078, -110.6817
+Tiis Holoni, 35.5650, -111.0533
+Tiki Tai Village, 33.5306, -112.1806
+Tin House, 35.6978, -112.5453
+Tintown, 31.4142, -109.8978
+Tolacon, 36.9667, -109.0333
+Tolani, 35.4347, -110.8439
+Tolchico, 35.3933, -111.1072
+Tolleson, 33.4500, -112.2586
+Toltec, 32.7922, -111.6142
+Tombstone, 31.7128, -110.0669
+Tonalea, 36.3167, -110.9333
+Tonopah, 33.4936, -112.9364
+Tonto Basin, 33.8667, -111.3167
+Tonto Village, 34.3161, -111.1314
+Topawa, 31.8139, -111.8250
+Topock, 34.7183, -114.4864
+Toreva, 35.8042, -110.4964
+Tortilla Flat, 33.5264, -111.3892
+Totacon, 36.8500, -109.4250
+Totopitk, 32.5633, -112.2122
+Tovrea, 33.4433, -111.9761
+Toyei, 35.7025, -109.9375
+Trail Inn Lodge, 33.4517, -112.1236
+Trail Riders Holiday Park, 33.4175, -111.7758
+Trail-R-Dale Mobile Home Park, 33.4250, -112.3492
+Trailer Corral, 33.4522, -112.1467
+Trailing R Mobile Park, 33.4178, -111.6419
+Trails West Mobile Home Park, 33.4086, -111.5892
+Tremaine, 33.3589, -111.8317
+Trench Camp, 31.4644, -110.7286
+Tres Rios, 34.5639, -111.8475
+Triple T Mobilcity, 33.5411, -112.1986
+Troweek, 33.9289, -109.0600
+Troy, 33.1436, -110.8986
+Truxton, 35.4850, -113.5628
+Tsaile, 36.2797, -109.1672
+Tse Bonita, 35.6833, -109.0500
+Tsegi, 36.6494, -110.4286
+Tsintaa Yiti Ii, 35.8256, -109.8117
+Tuba City, 36.1350, -111.2392
+Tuba City Hospital, 36.1361, -111.2383
+Tubac, 31.6125, -111.0453
+Tucker, 33.6408, -110.6067
+Tucson, 32.2217, -110.9258
+Tucson Country Club Estates, 32.2592, -110.8581
+Tucson Estates, 32.1875, -111.0903
+Tucson General Hospital, 32.2767, -110.9417
+Tucson Medical Center, 32.2525, -110.8789
+Tucson National Estates, 32.3531, -111.0250
+Tucson Veterans Hospital, 32.1811, -110.9644
+Tully, 31.9828, -110.1228
+Tumacacori, 31.5686, -111.0517
+Turf Mobile Manor, 33.6272, -112.0975
+Turf Trailer Lodge, 33.6417, -112.0944
+Turkey Crossing, 34.4281, -111.0219
+Turkey Flat, 32.6308, -109.8206
+Turtle Creek, 33.6383, -112.0706
+Tusayan, 35.9736, -112.1258
+Tusconita, 32.1333, -110.9333
+Tutt, 34.6606, -112.4142
+Tuweep, 36.4158, -113.0658
+Twin Acres Family Mobile Park, 33.4136, -111.6158
+Twin Arrows, 35.2000, -111.6167
+Twin Buttes, 35.4353, -109.9033
+Twin Buttes, 31.9025, -111.0600
+Twin Falls, 36.8636, -109.1019
+Twin Knolls, 33.4133, -111.6506
+Two Guns, 35.1178, -111.0928
+Two Story, 35.6500, -109.1000
+Tyson, 32.7967, -113.8808

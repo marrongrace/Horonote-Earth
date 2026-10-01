@@ -1,0 +1,21 @@
+Yampai, 35.4894, -113.1997
+Yaqui Indian Settlement, 33.4167, -112.0164
+Yarnell, 34.2217, -112.7467
+Yava, 34.4719, -112.8897
+Yavapai Community Hospital, 34.5600, -112.4806
+Yavapai Hills, 34.5617, -112.3828
+Yavapai Indian Reservation, 34.5667, -112.4667
+Yazzi, 36.5792, -109.2236
+Yellow Hammer Mill, 32.3633, -109.2881
+York, 32.8936, -109.2022
+Young, 34.1014, -110.9631
+Young America Homes, 33.4761, -112.1522
+Young America West, 33.4928, -112.2600
+Youngberg, 33.4575, -111.4903
+Youngtown, 33.5939, -112.3022
+Yucca, 34.8722, -114.1486
+Yuma, 32.7253, -114.6236
+Yuma Proving Ground, 32.8667, -114.8667
+Yuma Regional Medical Center, 32.6828, -114.6333
+Yuma Station, 32.6500, -114.5833
+Zeniff, 34.5744, -110.3775

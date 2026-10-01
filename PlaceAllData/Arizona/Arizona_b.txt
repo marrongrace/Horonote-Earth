@@ -1,0 +1,126 @@
+Babbit Winter, 34.6253, -110.8325
+Baby Rock, 36.7753, -110.0083
+Bacabi, 35.9236, -110.6567
+Bagdad, 34.5811, -113.2039
+Bagdad Hospital, 34.5778, -113.1836
+Bakerville, 31.4228, -109.8867
+Baldwin Place, 34.2856, -112.4847
+Baldwins Crossing, 34.8239, -111.8069
+Bapchule, 33.1364, -111.8725
+Baptist Hospital of Scottsdale, 33.4881, -111.9222
+Barkerville, 32.8317, -110.9447
+Barts Crossing, 34.4722, -110.9306
+Basking Ridge, 33.6394, -111.9358
+Bayless Shopping Center, 33.4167, -111.5667
+Bear Canyon Junction, 33.5364, -110.3936
+Beardsley, 33.6614, -112.3783
+Beaver Dam, 36.8833, -113.9333
+Bel-Aire Trailer Park, 33.4847, -112.1144
+Belaire Manor, 33.5153, -112.1792
+Bell, 34.2722, -109.9142
+Bella Vista Estates, 31.5500, -110.2833
+Bellemont, 35.2381, -111.8328
+Bellevue, 33.3319, -110.9428
+Benson, 31.9678, -110.2939
+Benson Highway, 32.0500, -110.8500
+Benson Hospital, 31.9650, -110.3089
+Benson Junction, 31.7392, -110.1975
+Bernardino, 31.5106, -109.3122
+Berry, 35.2528, -114.9711
+Betatakin Overlook, 36.6817, -110.5308
+Bethany Grand Mobile Home Park, 33.5261, -112.1644
+Bethany Villa Adult Mobile Home, 33.5261, -112.1633
+Beverly Trailer Park, 33.4061, -111.8536
+Beyerville, 31.3903, -110.8778
+Bidahochi, 35.4103, -110.0639
+Big Horn, 32.8594, -112.3919
+Big Palm Trailer Park, 33.4625, -111.9792
+Big Pine Mobile Home Park, 33.4606, -111.9792
+Big Reef Mill, 33.9647, -112.4842
+Big Springs, 36.6017, -112.3492
+Biltmore Gates, 33.5225, -112.0167
+Biltmore Greens III, 33.5286, -112.0125
+Biltmore Villas, 33.5125, -112.0208
+Bisbee, 31.4481, -109.9278
+Bisbee Junction, 31.3514, -109.8856
+Bishop Place, 35.4603, -112.7222
+Bitahochee, 35.4000, -110.0833
+Bitlabito, 36.8411, -109.0197
+Bitter Springs, 36.6286, -111.6536
+Black Bear Spring, 31.3861, -110.2875
+Black Canyon City, 34.0708, -112.1500
+Black Diamond, 31.8436, -109.9061
+Black Falls Crossing, 35.5703, -111.2750
+Black River Crossing, 33.7128, -110.2111
+Blackwater, 33.0311, -111.5819
+Blaisdell, 32.7125, -114.4258
+Blake Place, 32.8075, -110.5217
+Bledsoe, 31.4478, -110.3061
+Blue, 33.6100, -109.1061
+Blue Bell Mobile Home Park, 33.4378, -112.1267
+Blue Gap, 36.1708, -109.9458
+Blue Hills Farms, 34.5208, -112.2958
+Blue Palm Mobile Home Park, 33.4508, -112.1197
+Blue Sky Mobile Estates, 33.5361, -112.1611
+Blue Star Mobile Home Park, 33.4172, -111.5947
+Blue Vista, 33.6192, -109.0825
+Bon, 32.9714, -111.9078
+Bona Venture Mobile Home Park, 33.6486, -112.0631
+Bonds Trailer Park, 33.4156, -111.8444
+Bonelli Landing, 36.0833, -114.4811
+Boneyard, 33.8792, -109.2717
+Bonita, 32.5897, -109.9686
+Bonita Trading Post, 35.7364, -109.0697
+Bonnie Blink, 31.5467, -110.3717
+Bootlegger Crossing, 35.2389, -112.1136
+Booze Crossing, 36.8167, -112.6003
+Boquillas, 31.7719, -110.2275
+Borree Corner, 32.9733, -111.5581
+Bosque, 32.9664, -112.5975
+Boswell Memorial Hospital, 33.6039, -112.2828
+Bouse, 33.9325, -114.0050
+Bowie, 32.3264, -109.4864
+Bowie Junction(historical), 32.3625, -109.6250
+Boys Ranch, 33.3000, -111.7667
+Bradberry, 32.4103, -110.3119
+Bradshaw City, 34.1967, -112.3550
+Braemar VII, 33.5764, -112.2056
+Branaman, 33.0514, -110.9111
+Brandywine, 33.6381, -112.1403
+Breckenridge Manor, 33.3628, -111.7958
+Brenda, 33.6797, -113.9439
+Brentwood Mobile Manor, 33.4192, -111.7511
+Brentwood West, 33.4100, -111.7597
+Bridge Canyon Country Estate, 35.3333, -112.8833
+Bridgeport(Maricopa), 33.3478, -111.8667
+Bridgeport(Yavapai), 34.7214, -111.9958
+Briggs(Cochise), 31.4183, -109.8964
+Briggs(Yavapai), 34.0608, -112.4750
+Brighton Place, 33.3381, -111.8631
+Bristol Square, 33.5900, -112.1897
+Broadway Trailer Court, 33.4075, -112.1039
+Bronze Boot, 33.4858, -112.0442
+Browns Crossing, 34.2942, -113.5456
+Bryce, 32.9289, -109.8272
+Buckeye, 33.3703, -112.5831
+Buckeye Mill, 32.2561, -109.5817
+Buckhorn, 33.4156, -111.7011
+Buena Vista, 32.8436, -109.5614
+Buenavante, 33.5989, -111.9214
+Buenos Aires, 31.5211, -111.6567
+Buffalo Crossing, 33.7631, -109.3544
+Buffalo Crossing Camp, 33.7678, -109.3544
+Bullhead City, 35.1478, -114.5675
+Bumble Bee, 34.2008, -112.1522
+Bumstead, 33.5733, -112.3561
+Burch, 33.4439, -110.8314
+Burgundy Hill, 33.3633, -111.9764
+Burns, 33.0128, -111.8336
+Burnt Water, 35.2167, -109.3333
+Burro John, 34.1303, -112.3603
+Burton, 34.3322, -110.1472
+Bush Pit, 33.7514, -113.7686
+Bushman Acres, 35.0242, -110.6794
+Buzzard Gulch Trailer Park, 34.9192, -110.1511
+Bylas, 33.1386, -110.1244
+Byrds Mobile Park, 33.4269, -112.3514

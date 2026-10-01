@@ -1,0 +1,175 @@
+P and E Junction, 34.6061, -112.4039
+Pacific Mobile Manor, 33.4161, -111.6178
+Packer, 34.0983, -112.2686
+Page, 36.9086, -111.4728
+Page Springs, 34.7675, -111.8928
+Palamino Acres, 33.3500, -111.7833
+Palm Gardens Mobile Home Manor, 33.4131, -111.7681
+Palm Lakes Village, 33.6353, -112.0083
+Palm Shadows Mobile Home Park, 33.5439, -112.1700
+Palm Springs, 33.4047, -111.5378
+Palmaritas, 33.5589, -112.1319
+Palmas del Sol, 33.4508, -111.6961
+Palmas Royale, 33.5569, -112.0833
+Palms Trailer Park, 33.4664, -112.0375
+Palo Verde, 33.3481, -112.6767
+Palo Verde Mobile Home and R, 33.4897, -112.9356
+Palo Verde Mobile Manor, 33.4642, -111.9903
+Palo Verde Stand, 32.3364, -112.0322
+Palomas, 32.9089, -113.4806
+Palominas, 31.3797, -110.1178
+Pan Tak, 32.0117, -111.5647
+Pantano, 31.9994, -110.5794
+Papago(Maricopa), 33.1042, -113.1383
+Papago(Pima), 31.9833, -112.0000
+Papago Farms, 31.7858, -112.3083
+Papago Indian Reservation, 31.9167, -111.8833
+Papago Peaks Village, 33.4564, -111.9664
+Paradise, 31.9347, -109.2183
+Paradise Acres, 34.5367, -111.8489
+Paradise City, 33.6406, -112.0303
+Paradise Grove Family Park, 33.5606, -112.2108
+Paradise Grove Trailer Park, 33.5339, -112.1861
+Paradise North Mobile Home Park, 33.6536, -112.0294
+Paradise Palms Trailer Resort, 33.4161, -111.7950
+Paradise Shadows Mobile Home, 33.6600, -112.0247
+Paradise Valley, 33.5311, -111.9419
+Paradise Valley Miranda, 33.6392, -111.9783
+Paradise Valley Mobilhome Park, 33.6353, -112.0169
+Paradise Valley Oasis, 33.6242, -112.0017
+Paradise View Mobile Home Park, 33.4811, -111.9814
+Paradise Village North II, 33.6133, -111.9736
+Park Place Travel Resort, 33.4089, -111.7028
+Parker, 34.1500, -114.2883
+Parker Creek, 33.4000, -110.8000
+Parker Hospital, 34.1364, -114.2842
+Parks, 35.2606, -111.9481
+Parkside, 33.3500, -111.9875
+Parkview Estates, 33.7033, -112.1650
+Parkview Hospital, 32.6828, -114.6333
+Parkview Mesa, 33.3806, -111.8433
+Parkview North, 33.6375, -112.1486
+Parkview Village Mobile Home, 33.4511, -111.9658
+Parkwood, 33.4783, -112.1536
+Parque Vista Estates, 33.6556, -112.0117
+Parsons Grove, 32.8244, -110.4756
+Partridge(historical), 31.4797, -111.2747
+Pascua Yaqui Indian Village, 32.2483, -110.9836
+Patagonia, 31.5394, -110.7556
+Patrick Park, 33.3936, -112.0200
+Paul Spur, 31.3661, -109.7339
+Paulcell Place, 34.9619, -109.8253
+Paulden, 34.8856, -112.4675
+Paxton Place, 34.1722, -112.4839
+Payson, 34.2308, -111.3244
+Payson Hospital, 34.2303, -111.3211
+Peach Pu, 32.0608, -112.3164
+Peach Springs, 35.5292, -113.4247
+Peacock Village, 33.6458, -112.2389
+Pearce, 31.9050, -109.8200
+Pecan Grove Trailer Park, 33.4878, -112.1158
+Peeples Valley, 34.2689, -112.7264
+Pensfield Place, 33.5906, -112.2056
+Penzance, 34.9053, -110.2542
+Peoria, 33.5806, -112.2367
+Peoria Estates, 33.5839, -112.2381
+Peoria Polynesian Village, 33.5847, -112.2528
+Pepper Ridge, 33.6431, -112.0294
+Pepper Tree Mobile Home Park, 33.5300, -112.1958
+Pepperwood, 33.3092, -111.9033
+Peralta Estates, 33.4167, -111.5667
+Peri-Winkle Mobile Home Park, 33.5139, -112.1178
+Peridot, 33.3103, -110.4547
+Perkinsville, 34.9017, -112.1906
+Perryville, 33.4356, -112.4606
+Peters Corner, 32.8758, -112.0481
+Peterson, 33.3783, -111.9428
+Petrified Forest National Park, 34.9167, -110.1500
+Phoenix, 33.4483, -112.0733
+Phoenix Acres Trailer Park, 33.4411, -112.1372
+Phoenix Baptist Hospital, 33.5231, -112.0828
+Phoenix Community Hospital, 33.5331, -112.0983
+Phoenix General Hospital, 33.4956, -112.1000
+Phoenix Medical Center, 33.4958, -112.0481
+Phoenix Memorial Hospital, 33.4356, -112.0811
+Phoenix Mobile Home Park, 33.6928, -112.1111
+Phoenix West Mobile Home Park, 33.5403, -112.1264
+Physicians Hospital, 33.4653, -111.8978
+Pi Va Hon Kia Pi, 35.8894, -110.6989
+Pia Oik, 31.9467, -112.5411
+Piato Vaya, 32.0506, -112.1572
+Pica, 35.4572, -113.1364
+Picacho, 32.7161, -111.4947
+Piedmont, 34.2389, -112.8636
+Piedra, 32.9047, -112.9847
+Pilgrim Playground, 34.9619, -111.4811
+Pima, 32.8961, -109.8269
+Pima County General Hospital, 32.1889, -110.9694
+Pima Hospital, 33.0825, -111.7511
+Pinal, 33.3761, -110.7531
+Pinal General Hospital, 33.0267, -111.3928
+Pinaveta, 35.2272, -112.5722
+Pine, 34.3844, -111.4544
+Pine Springs, 35.4053, -109.2794
+Pine Tank, 35.2419, -112.0653
+Pinecrest, 32.8167, -109.7167
+Pinedale, 34.3075, -110.2508
+Pinetop, 34.1258, -109.9369
+Pink Arrow, 35.7769, -110.1567
+Pinnacle Paradise, 33.7014, -111.8939
+Pinnacle Peak Country Club E, 33.6869, -111.8939
+Pinnacle Peak Estates I, 33.7075, -111.9056
+Pinnacle Peak Estates II, 33.6894, -111.9056
+Pinnacle Peak Estates III, 33.7103, -111.8967
+Pinnacle Peak Heights, 33.6956, -111.8639
+Pinnacle Peak Heights IV, 33.6989, -111.8644
+Pinnacle Peak Heights V-VI, 33.6917, -111.8639
+Pinnacle Peak Shadows, 33.6961, -111.8792
+Pinnacle Peak Village, 33.7000, -111.9011
+Pinon, 36.1008, -110.2253
+Pinta, 35.0822, -109.6300
+Pioneer, 33.6919, -113.8944
+Pioneer Acres, 34.5597, -111.8431
+Pioneer Estates, 33.6375, -112.1708
+Pioneer Village II, 33.5792, -112.2106
+Pipyak, 32.3136, -111.7889
+Pirtleville, 31.3569, -109.5611
+Pisinimo, 32.0350, -112.3144
+Pitoikam, 31.8111, -111.6789
+Planet, 34.2475, -113.9642
+Plantsite, 33.0564, -109.3319
+Plaza, 35.2000, -111.6167
+Plaza Trailer Inn, 33.4506, -112.0031
+Plomosa, 33.6342, -114.1172
+Po Ni Vi, 35.8814, -110.7133
+Point of Pines, 33.3658, -109.7508
+Point of Rocks, 32.9939, -112.7572
+Polacca, 35.8367, -110.3808
+Poland Junction, 34.4508, -112.2686
+Polo Village, 32.2397, -110.9475
+Polvo, 32.1869, -110.9086
+Pomerene, 31.9994, -110.2856
+Ponderosa Park, 34.4714, -112.4867
+Pony Acres Mobile Home Park, 33.4133, -111.9053
+Portal, 31.9136, -109.1408
+Poston, 33.9906, -114.3956
+Potato Patch, 34.4300, -112.4133
+Potter Place, 34.8111, -109.6550
+Powell, 34.7372, -114.3761
+Pozo, 33.2769, -111.8406
+Prado del Sol, 33.3147, -111.9500
+Prescott, 34.5400, -112.4678
+Prescott Valley, 34.6100, -112.3150
+Presidential Estates, 31.6167, -110.3167
+Preston Hills, 33.5847, -111.8667
+Price, 33.0956, -111.2317
+Prinston Park, 33.3500, -111.7833
+Public Health Agency Hospital, 34.1467, -114.3031
+Pueblo Alto, 33.3000, -111.7667
+Pueblo Gardens, 32.1961, -110.9386
+Pueblo Sereno Mobile Home Park, 33.4533, -111.9017
+Puertocito, 31.6097, -111.4964
+Pumpkin Center, 35.4147, -111.9153
+Pumpkin Center, 33.8667, -111.3167
+Punkin Center, 33.8722, -111.3125
+Purple Sage Mobile Home Park, 33.5392, -112.1986

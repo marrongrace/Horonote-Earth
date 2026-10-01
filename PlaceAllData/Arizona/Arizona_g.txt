@@ -1,0 +1,94 @@
+Gadsden, 32.5544, -114.7842
+Gainey Ranch, 33.5711, -111.9167
+Galena, 31.4219, -109.8925
+Galeyville, 31.9503, -109.2178
+Gallups, 34.0786, -111.1858
+Ganado, 35.7114, -109.5414
+Gatewood Housing, 31.5550, -110.3347
+Germann, 33.2781, -111.6686
+Geronimo, 33.0769, -110.0344
+Getz, 35.2047, -114.0194
+Gibson, 32.3786, -112.8722
+Gila Bend, 32.9478, -112.7161
+Gila Bend Indian Reservation, 31.9167, -111.8833
+Gila County Hospital, 33.3933, -110.7739
+Gila Crossing, 33.2767, -112.1661
+Gila River Indian Reservation, 33.0833, -111.7333
+Gilbert, 33.3528, -111.7883
+Gillespie, 33.2617, -112.9806
+Gillette, 34.0189, -112.1628
+Gisela, 34.1017, -111.2792
+Gladden, 33.9025, -113.2986
+Gleeson, 31.7339, -109.8292
+Glen Canyon Trailer Park, 33.5389, -112.1133
+Glen Ilah, 34.2150, -112.7583
+Glen Oaks, 34.4431, -112.5478
+Glenbar, 32.9167, -109.8575
+Glendale, 33.5386, -112.1853
+Glendale West Mobile Home Park, 33.5397, -112.2306
+Glenview Estates, 33.3042, -111.9233
+Globe, 33.3942, -110.7858
+Goldbadge, 33.6108, -112.3383
+Golden Hills, 33.4333, -111.8333
+Golden West Estates, 33.4222, -111.7583
+Goldfield, 33.4589, -111.4867
+Good Samaritan Hospital, 33.4653, -112.0594
+Goodwater, 34.9919, -109.9442
+Goodwin, 34.3558, -112.3792
+Goodyear, 33.4353, -112.3575
+Goodyear Farms, 34.5000, -112.6833
+Government Hill, 33.6744, -111.1494
+Graham, 32.8750, -109.7400
+Grand Canyon, 36.0544, -112.1386
+Grand Canyon Caverns, 35.5286, -113.2306
+Grand Canyon Estates, 36.0500, -112.1333
+Grand Canyon Hospital, 36.0469, -112.1269
+Grand Missouri Adult Mobile, 33.5183, -112.1528
+Grand View, 34.4197, -112.8225
+Grandview Mobile Home Park, 33.4761, -112.0111
+Granite, 34.6956, -112.4086
+Granite Basin Summer Homes, 34.6133, -112.5533
+Granite Dells, 34.6058, -112.4117
+Granite Reef Estates, 33.4392, -111.6836
+Granville, 33.1889, -109.3819
+Grapevine, 33.6511, -111.0483
+Grasshopper, 34.0756, -110.6297
+Grasshopper Junction, 35.3969, -114.2589
+Gray Mountain, 35.7458, -111.4728
+Greasewood, 35.5225, -109.8567
+Greasewood Springs, 36.5833, -109.0833
+Greaterville, 31.7642, -110.7508
+Green Acres Mobile and Recreational, 33.4503, -112.1153
+Green Acres Trailer Court, 33.4153, -111.8822
+Green Spot, 34.1897, -109.4031
+Green Tree Mobile Home Park, 33.3083, -111.8297
+Green Valley, 31.8667, -110.9931
+Green Valley Trailer Park, 33.3936, -112.0092
+Greenbriar, 33.5842, -112.1639
+Greenbrier East, 33.6153, -111.9667
+Greenfield Estates, 33.4236, -111.7350
+Greenfield Park, 33.4214, -111.7297
+Greenhaven Mobile Park, 33.4575, -111.9794
+Greenlaw Village, 35.2000, -111.6167
+Greentrails, 33.6397, -112.0628
+Greenway Center, 33.5833, -112.3833
+Greenway Park V, 33.6289, -111.9642
+Greenwood, 34.5078, -113.5939
+Greer, 34.0100, -109.4581
+Greer Place, 34.6033, -109.6044
+Griffith, 35.0667, -114.1158
+Gripe, 32.8125, -109.6014
+Grizzles Orchard, 31.7542, -109.7481
+Groom Creek, 34.4756, -112.4306
+Growler, 32.8156, -113.7983
+Grunow Memorial Clinic, 33.4661, -112.0611
+Gu Achi, 32.3236, -112.0406
+Gu Chuapo, 31.8944, -111.6639
+Gu Komelik, 31.9167, -111.8833
+Gu Oidak, 31.9217, -112.0428
+Gu Vo, 32.0656, -112.5600
+Guadalupe, 33.3708, -111.9622
+Guevavi Mission(ruins), 31.4100, -110.9017
+Gunsight, 32.3667, -112.8500
+Gurli Put Vo, 32.2039, -112.0189
+Guthrie, 32.9461, -109.2525

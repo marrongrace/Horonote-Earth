@@ -1,0 +1,53 @@
+Eagar, 34.1111, -109.2908
+Eagle Creek, 33.0500, -109.3000
+East Flagstaff, 35.2114, -111.6125
+East Fork(Navajo), 33.7981, -109.9297
+East Fort(Yavapai), 34.1636, -112.2544
+East Mesa, 33.4153, -111.6572
+East Pershing Plaza, 31.5550, -110.3431
+East Plantsite, 33.0469, -109.3181
+Eastway Mobile Home Park, 33.4533, -111.8175
+Echinique Place, 34.7178, -110.9661
+Eddy Place, 34.9606, -112.6019
+Eden, 32.9611, -109.8947
+Ehrenberg, 33.6042, -114.5244
+Eighteen Bells Mobile Home Park, 33.6422, -112.0428
+El Camino Mobile Home Park, 33.6467, -112.0275
+El Dorado Medical Center, 32.2383, -110.8539
+El Dorado Mobile Home Resort, 33.4642, -111.9889
+El Mar Trailer Court, 33.4133, -111.7583
+El Mirage, 33.6131, -112.3239
+El Paseo, 33.5617, -111.8956
+El Pueblecito, 32.7333, -114.5833
+El Rio, 32.2353, -110.9889
+El San Juan Trailer Park, 33.5833, -112.2542
+El Sereno-La Rosa, 33.4664, -112.0308
+El Tule, 34.3797, -109.3967
+Elden Pueblo, 35.2425, -111.5672
+Eleven Mile Corner, 32.8794, -111.5664
+Elfrida, 31.6853, -109.6864
+Elgin, 31.6597, -110.5247
+Elik, 32.5167, -111.9500
+Elks Hospital, 32.2358, -111.0081
+Ellison Place, 33.0097, -110.3150
+Elmwood Trailer Park, 33.3064, -111.8292
+Eloy, 32.7558, -111.5542
+Emery, 33.0697, -110.0164
+Emery Park, 32.1411, -110.9553
+Emika, 32.4333, -112.4858
+Emmanuel Mission, 36.8022, -109.3967
+Empire Landing, 34.1500, -114.2833
+Engesser Junction, 33.2011, -113.8717
+Enid, 33.0725, -112.2011
+Ensenada del Oro, 33.5797, -111.8694
+Entro, 34.6069, -112.4033
+Escalante Crossing, 31.8611, -110.2092
+Esmond, 32.0933, -110.7642
+Esplanada, 33.3525, -111.8469
+Estados de La Mancha II, 33.5764, -111.9014
+Estate Monterra, 33.5319, -112.0403
+Estates La Colina, 33.3381, -111.9011
+Estrella, 33.0011, -112.4167
+Estrella Camp, 33.4486, -112.3739
+Estrella Estates Family Park, 33.4686, -112.0897
+Evergreen Villa Mobile Home, 33.3283, -111.8536
