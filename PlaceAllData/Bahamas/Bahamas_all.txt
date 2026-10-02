@@ -1,0 +1,54 @@
+Acklins island, 22.4333, -73.9667
+Adelaide, 25.0000, -77.5167
+Albert Town, 22.6000, -74.3500
+Alice Town, 25.7333, -79.2833
+Andros Island, 24.4333, -77.9500
+Andros Town, 24.7167, -77.7833
+Arthurs Town, 24.6333, -75.7000
+Bannerman Town, 24.6333, -76.1667
+Bannets Harbour, 24.5833, -75.6333
+Berry Islands, 25.5667, -77.7500
+Bimini Islands, 25.7333, -79.2500
+Blanket Sound, 24.8500, -77.9000
+Bullock Harbour, 25.7833, -77.8500
+Cat Island, 24.4500, -75.5000
+Cherokee Sound, 26.2833, -77.0667
+Clarence Town, 23.1000, -74.9833
+Crooked Island, 22.7500, -74.2167
+Deadmans Cay, 23.2333, -75.2333
+Dunmore Town, 25.5000, -76.6500
+Eleuthera Island, 25.1667, -76.2333
+Freeport, 26.5000, -78.7500
+Freetown, 26.5667, -78.4500
+Geroge Town, 23.5000, -75.7667
+Governor's Harbour, 25.1667, -76.2333
+Grand Bahama Island, 26.6333, -78.4167
+Great Abaco Island, 26.4667, -77.0833
+Great Exuma Island, 23.5333, -75.8333
+Great Guana Cay, 24.0000, -76.3333
+Great Inagua Isld, 21.0833, -73.3000
+High Rock, 26.6000, -76.3000
+Hope Town, 26.5500, -76.9500
+Kemps Bay, 24.0333, -77.5500
+Little Inagua Island, 21.5000, -73.0000
+Long Island, 23.2500, -75.1167
+Mangrove Cay, 24.2500, -77.6500
+Marsh Harbour, 26.5500, -77.0500
+Mastic Point, 25.0500, -77.9500
+Matthew Town, 20.9500, -73.6667
+Mayaguana Island, 22.3833, -72.9500
+Mores Island, 26.3000, -77.5500
+Nassau, 25.0833, -77.3500
+New Plymouth, 26.8333, -77.3833
+Nicolls Town, 25.1333, -78.0000
+Old Bight, 24.2500, -75.3500
+Pirate Well, 22.4333, -73.0667
+Point Nelson, 23.6333, -74.8333
+Ragged Island, 22.2000, -75.7333
+Rock Sound, 24.9000, -76.2000
+Rolleville, 23.6833, -76.0000
+Samana Cay, 23.1000, -73.7000
+Sandilands Village, 25.0333, -77.3000
+Savannah Sound, 25.1000, -76.1500
+The Bight, 24.3167, -75.4000
+West End, 26.6833, -78.9667
