@@ -1,0 +1,5 @@
+Al-Manamah, 26.2167, 50.5833
+Al-Muharraq, 26.2667, 50.6167
+Manama > Al-Manamah, 26.2167, 50.5833
+Sitrah, 26.1500, 50.6333
+'Awali, 26.0833, 50.5500
