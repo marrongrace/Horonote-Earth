@@ -1,0 +1,9 @@
+Bathsheba, 13.2167, 59.5167
+Bridgetown, 13.1000, 59.6167
+Bulkeley, 13.1167, 59.5333
+Crab Hill, 13.3167, 59.6333
+Hasting, 13.0667, 59.5833
+Holetown, 13.1833, 59.6500
+Oistins, 13.0667, 59.5333
+Speightstown, 13.2500, 59.6500
+St Andrew, 13.2500, 59.5500
