@@ -1,0 +1,77 @@
+Abbaynagar, 23.0167, 89.4667
+Alamdanga, 23.7667, 88.9500
+Alampur, 23.8167, 89.1000
+Alfadanga, 23.3000, 89.7000
+Amadi, 22.4667, 89.3167
+Amjhupi, 23.7500, 88.7000
+Amla, 23.9000, 88.9333
+Amtali, 22.1333, 90.2333
+Angaria, 22.4833, 90.3667
+Araihazar, 23.7833, 90.6667
+Arani, 24.2833, 88.8667
+Arpara, 23.3833, 89.3833
+Asasuni, 22.5333, 89.1667
+Atgharia, 24.1000, 89.2333
+Badura, 22.2667, 90.3500
+Baga, 22.4333, 90.4667
+Bagatipara, 24.3000, 88.9500
+Bagherhat, 22.6667, 89.8000
+Bagherpara, 23.2333, 89.3500
+Baghia, 23.4500, 90.4833
+Bahadurabad Ghat, 25.1500, 89.7000
+Baharpur, 23.6833, 89.5667
+Baidya Bazar, 23.6500, 90.6167
+Baisrasi, 23.4500, 90.0333
+Baje Phukura, 23.1500, 89.7500
+Bakarganj, 22.5500, 90.3500
+Bakhrabad, 23.7167, 90.8833
+Baksir Chandpur, 23.5000, 89.7333
+Baliakandi, 23.6333, 89.5500
+Baliati, 23.9833, 90.0500
+Bamna, 22.3167, 90.1000
+Banagram, 22.5833, 89.9167
+Banaripara, 22.7833, 90.1667
+Banchharampur, 23.7667, 90.8000
+Bangeswardi, 23.4833, 89.7333
+Banibaha, 23.7000, 89.6167
+Baniyachung, 24.5167, 91.3667
+Bankhari, 23.7333, 90.0500
+Bara Doani, 22.1000, 89.9833
+Barahanuddin, 22.5000, 90.7167
+Baraigram, 24.3167, 89.1667
+Barakpur, 22.9167, 89.5333
+Barguna, 22.1500, 90.1167
+Barisal, 22.7000, 90.3667
+Barkal, 22.7333, 92.3833
+Barkhanpur, 23.8333, 89.5500
+Barthi, 23.0333, 90.2000
+Basail, 24.2333, 90.0667
+Bauphal, 22.4167, 90.5500
+Begamganj, 22.9333, 91.1000
+Belonia, 23.2500, 91.4500
+Bera(Sirajganj,Rajshahi), 24.0833, 89.6167
+Bera(Pabna,Rajshahi), 23.9833, 89.6667
+Betagi, 22.4167, 90.1833
+Betil, 24.2333, 89.7167
+Bhairab Bazar, 24.0667, 90.9667
+Bhandaria, 22.4833, 90.0667
+Bhanga, 23.3667, 89.9833
+Bhatai, 23.6000, 89.1833
+Bhatiapara Ghat, 23.2167, 89.7000
+Bhatsala, 22.5500, 90.5000
+Bhattapratap, 22.7500, 89.8000
+Bheramara, 24.0333, 88.9667
+Bhola, 22.6833, 90.6500
+Bhushana, 23.4000, 89.6667
+Bibi Chini, 22.4667, 90.2000
+Binodepur, 23.4333, 89.5000
+Biraba, 23.8500, 90.5667
+Bishahari, 23.1667, 89.0167
+Bishaykhali, 23.4667, 89.1500
+Boalia, 23.5833, 88.9500
+Bogra, 24.8500, 89.3667
+Brahmanbaria, 23.9833, 91.1167
+Budhhata, 22.6000, 89.1667
+Bunagati, 23.3167, 89.4167
+Buruz Bagan, 23.0500, 89.0000
+Båndarban, 22.2000, 92.2167

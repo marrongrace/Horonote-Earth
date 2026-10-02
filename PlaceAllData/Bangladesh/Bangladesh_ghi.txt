@@ -1,0 +1,35 @@
+Gaibanda, 25.3167, 89.5500
+Gala, 24.3000, 89.9000
+Galachipa, 22.1667, 90.4167
+Garadaha, 24.2333, 89.5667
+Gaurambha, 22.6500, 89.5667
+Gauribaradia, 23.7500, 89.8667
+Gaurnadi, 22.9667, 90.2333
+Gazipur, 24.0000, 90.4333
+Gazipura, 23.9167, 90.4000
+Ghatakhan, 23.0333, 90.4333
+Ghior, 23.9000, 89.8833
+Ghorasal, 23.9333, 90.6333
+Ghoshpur, 23.4500, 89.6500
+Gilatala, 22.6000, 89.6833
+Goalundo Ghat, 23.7167, 89.7667
+Gobra, 23.7500, 89.2000
+Godagari, 24.4667, 88.3333
+Gohala, 23.2500, 89.9833
+Gopalganj, 23.0167, 89.8333
+Gopalpur, 24.5500, 89.9333
+Gosairhat, 23.0833, 90.4333
+Gouripur, 24.7667, 90.5667
+Habiganj, 24.3833, 91.4167
+Hajiganj, 23.2500, 90.8333
+Haldibunia, 22.4333, 89.6333
+Hanar Char, 23.1333, 90.6333
+Hantalbunia, 22.7333, 89.5167
+Harinakunda, 23.6500, 89.0500
+Harirampur, 23.7000, 89.9500
+Hilli, 25.2833, 89.0167
+Hogalbaria, 23.8833, 88.8500
+Husainpur, 24.4167, 90.6667
+Iluhar, 22.8000, 90.1000
+Ishurdi, 24.1333, 89.0833
+Iswaripur, 22.3167, 89.1167

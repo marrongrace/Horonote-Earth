@@ -1,0 +1,62 @@
+Chakaria, 21.7500, 92.0833
+Chandanpratap, 23.5500, 89.4000
+Chandapara, 22.7667, 90.2667
+Chandar, 23.9000, 89.9667
+Chandipur, 23.9833, 89.0167
+Chandpur(Chittagong,Chittagong), 22.1333, 91.9167
+Chandpur(Chandpur,Chittagong), 23.2167, 90.6500
+Chandra Dighalia, 23.0667, 89.7667
+Chaugacha > Chaugacha, 23.2667, 89.0167
+Char Bansi, 22.9833, 90.7167
+Char Haim, 23.0667, 90.6333
+Char Lakhpur, 24.0667, 90.6667
+Charghat, 24.2833, 88.7500
+Chatmohar, 24.2167, 89.2500
+Chaumuhani, 22.9333, 91.1167
+Chhanka, 23.9833, 89.9167
+Chhatak, 25.0333, 91.6667
+Chhota Baisdia, 22.0000, 90.4500
+Chilmari, 25.5500, 89.7167
+Chittagong, 22.3333, 91.8333
+Chuadanga, 23.6333, 88.8500
+Churamankati, 23.2333, 89.1500
+Comilla, 23.4500, 91.2000
+Cox's Bazar, 21.4333, 91.9833
+Dacca > Dhaka, 23.7167, 90.4167
+Daibagnyahati, 22.5500, 89.8667
+Damurhuda, 23.6000, 88.7833
+Danga, 23.9000, 90.6000
+Dariapur, 23.6000, 89.4500
+Darsana, 23.5333, 88.8667
+Dasmina, 22.2833, 90.5833
+Dasuria, 24.1167, 89.1333
+Dattapara, 23.0167, 90.8833
+Daudkandi, 23.5333, 90.7167
+Daulatkhan, 22.6333, 90.8167
+Daulatpur(Kushtia,Khulna), 24.0000, 88.8667
+Daulatpur(Khulna,Khulna), 22.8833, 89.5167
+Daulatpur(Ramchandrapur), 23.9667, 89.8333
+Debhata, 22.5500, 88.9667
+Debir Char, 22.4000, 90.6833
+Deopara, 22.9167, 90.2500
+Dhaka, 23.7167, 90.4167
+Dhamrai, 23.9167, 90.2167
+Dhamura, 22.8833, 90.2000
+Dhaneswargati, 23.4167, 89.3333
+Dhirasram, 23.9500, 90.4167
+Dhopakholai, 23.1333, 89.1667
+Dhulasar, 21.8667, 90.2333
+Dighalia, 23.1167, 89.6500
+Dinajpur, 25.6333, 88.6333
+Dohar, 23.5833, 90.1500
+Duaigaon, 24.2333, 90.8500
+Dulai, 23.9500, 89.5167
+Dumria, 22.7833, 89.4333
+Durbadanga, 22.9500, 89.2500
+Elliotganj, 23.5167, 90.8667
+Faridganj, 23.1333, 90.7500
+Faridpur(Faridpur,Dhaka), 23.6000, 89.8333
+Faridpur(Pabna,Rajshahi), 24.1667, 89.4333
+Faridpur Station, 24.1667, 89.1667
+Fatulla, 23.6333, 90.4833
+Feni, 23.0000, 91.4000

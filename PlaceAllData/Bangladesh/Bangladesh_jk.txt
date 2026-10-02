@@ -1,0 +1,63 @@
+Jafarpur, 22.4833, 89.1000
+Jagannathganj Ghat, 24.7500, 89.8167
+Jagati, 23.9000, 89.1000
+Jaintiapur, 25.1333, 92.1167
+Jaipur Håt, 25.1000, 89.0167
+Jalirpar, 23.2167, 89.9667
+Jamalpur, 24.9167, 89.9333
+Jamurki, 24.1500, 90.0333
+Jangal Badhal, 23.1167, 89.3500
+Jaria Jhanjail, 25.0333, 90.6500
+Jatrapur, 22.7333, 89.7500
+Jaydebpur > Gazipur, 24.0000, 90.4333
+Jaynagar, 22.6000, 90.7000
+Jessore, 23.1667, 89.2167
+Jhalakati, 22.6500, 90.2000
+Jhenaidah, 23.5500, 89.1667
+Jhingergacha, 23.1167, 89.1167
+Jibannagar, 23.4167, 88.8333
+Jiudhara, 22.4000, 89.7333
+sKabadak, 22.2167, 89.3167
+Kachua(Bagerhat,Khulna), 22.6500, 89.8833
+Kachua(Chandpur,Chittagong), 23.3500, 90.9000
+Kajalia, 23.0167, 89.9500
+Kalaia, 22.3833, 90.6000
+Kalapara, 21.9833, 90.2333
+Kalaroa, 22.8667, 89.0333
+Kalia, 23.0500, 89.6333
+Kaliakair, 24.0833, 90.2333
+Kaliganj(Jhenaidah,Khulna), 23.4167, 89.1333
+Kaliganj(Shatkhira,Khulna), 22.4667, 89.0333
+Kalikapur(Khulna,Khulna), 22.7167, 89.4333
+Kalikapur(Manikganj,Dhaka), 23.7667, 89.9167
+Kalipara, 22.1500, 89.2667
+Kalkini, 23.1000, 90.2667
+Kalupara, 22.9667, 90.1667
+Kamarkhali Ghat, 23.5333, 89.5500
+Kamranga, 23.2333, 90.7833
+Kanaipur, 23.5500, 89.7833
+Kanakeswar, 23.1500, 90.4167
+Kapasia, 24.1167, 90.5333
+Kapilmuni, 22.7000, 89.3333
+Kaptai, 22.3500, 92.2833
+Karatia, 24.2333, 89.9667
+Kasiani, 23.2333, 89.7500
+Kasimpur, 23.9833, 90.3167
+Kasinathpur, 23.9667, 89.6167
+Kathuli, 23.8667, 88.6667
+Katiadi, 24.2500, 90.8000
+Kaukhali, 22.6333, 90.0667
+Kazir Char, 22.7667, 90.5500
+Kedarpur, 23.3000, 90.4500
+Kesabpur, 22.9167, 89.2167
+Khagråchari, 23.1000, 91.9667
+Khoksa, 23.8000, 89.2833
+Khulna, 22.8000, 89.5500
+Kishoreganj, 24.4333, 90.7667
+Kotchandpur, 23.4000, 89.0167
+Kotwalipara, 22.9833, 89.9833
+Krishnapur, 23.5000, 89.9333
+Kumarkhali, 23.8500, 89.2500
+Kurigram, 25.8167, 89.6500
+Kurmani, 22.7833, 89.8833
+Kushtia, 23.9167, 89.1167
