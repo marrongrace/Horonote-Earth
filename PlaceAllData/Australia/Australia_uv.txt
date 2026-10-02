@@ -1,0 +1,27 @@
+Ulladulla, -35.3500, 150.4833
+Ulmarra, -29.6167, 153.0333
+Ulverstone, -41.1500, 146.1667
+Unanderra, -34.4500, 150.8667
+Ungarie, -33.6333, 146.9667
+Unley, -34.9500, 138.5833
+Upper Beaconsfield, -38.0167, 145.4167
+Upper Castlereagh, -33.7167, 150.6667
+Upper Ferntree Gully, -37.9000, 145.3167
+Upwey, -37.9000, 145.3333
+Uralla, -30.6500, 151.5000
+Urana, -35.3333, 146.2667
+Urandangi, -21.6000, 138.3000
+Urangan, -25.3000, 152.9000
+Urania, -34.5167, 137.6000
+Uranquinty, -35.2000, 147.2500
+Urarey, -27.4333, 122.3000
+Utopia, -22.2333, 134.5500
+Vanrook, -16.9500, 141.9500
+Vaucluse, -33.8500, 151.2833
+Vermont, -37.8333, 145.2000
+Verran, -33.8500, 136.3000
+Victor Harbor, -35.5667, 138.6167
+Victoria Park, -31.9667, 115.9167
+Victoria Point, -27.5833, 153.3000
+Victoria River Downs, -16.4000, 131.0000
+Virginia, -34.6667, 138.5667

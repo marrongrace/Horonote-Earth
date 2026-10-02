@@ -1,0 +1,87 @@
+Eaglehawk, -36.7167, 144.2500
+Earaheedy, -25.5667, 121.6500
+Earlwood, -33.9333, 151.1333
+East Burwood, -37.8500, 145.1500
+East Freemantle, -32.0333, 115.7667
+East Hills, -33.9667, 150.9833
+East Lindfield, -33.7667, 151.1833
+Eastwood, -33.8000, 151.0833
+Eaton, -33.3167, 115.7167
+Echuca, -36.1333, 144.7667
+Echunga, -35.1167, 138.8000
+Edah, -28.2833, 117.1667
+Eden, -37.0667, 149.9000
+Eden Valley, -34.6500, 139.1000
+Edeowie, -31.4500, 138.4500
+Edgeroi, -30.1167, 149.8000
+Edith, -33.8000, 149.9167
+Edith River, -14.1833, 132.0333
+Edithburgh, -35.1000, 137.7333
+Edithvale, -38.0333, 145.1167
+Edjudina, -29.8000, 122.3833
+Edmonton, -17.0167, 145.7500
+Edmund, -23.7667, 116.0333
+Edwards Creek, -28.3500, 135.8500
+Egg Lagoon, -39.6500, 143.9667
+Eidsvold, -25.3667, 151.1167
+Eildon, -37.2333, 145.9333
+Einasleigh, -18.5167, 144.0833
+Elanora Heights, -33.7000, 151.2833
+Elgin, -33.5167, 115.6167
+Elizabeth, -34.7167, 138.6667
+Ellavalla, -25.0833, 114.3667
+Elleker, -35.0000, 117.7167
+Ellendale, -17.9333, 124.8000
+Elliott, -17.5500, 133.5333
+Elliston, -33.6500, 134.9167
+Elmhurst, -37.1833, 143.2500
+Elmore, -36.5000, 144.6167
+Eltham, -37.7333, 145.1500
+Elwood, -37.8833, 144.9833
+Emerald(Queensland), -23.5333, 148.1667
+Emerald(Victoria), -37.9333, 145.4333
+Emita, -40.0000, 147.9000
+Emmaville, -29.4333, 151.6000
+Emmet, -24.6667, 144.4667
+Emu Downs, -33.9000, 138.9833
+Emu Park, -23.2500, 150.8333
+Emu Plains, -33.7500, 150.6833
+Enfield(New South Wales), -33.8833, 151.1000
+Enfield(South Australia), -34.8833, 138.5833
+Engadine, -34.0667, 151.0167
+Enngonia, -29.3167, 145.8500
+Ensay, -37.3833, 147.8333
+Epping(Victoria), -37.6500, 145.0333
+Epping(New South Wales), -33.7667, 151.0833
+Eradu, -28.6833, 115.0333
+Erica, -37.9833, 146.3667
+Erldunda, -25.2333, 133.2000
+Erlistoun, -28.3333, 122.1333
+Ermington, -33.8000, 151.0667
+Ernaballa Mission, -26.2833, 132.1167
+Eromanga, -26.6667, 143.2667
+Errabiddy, -25.4667, 117.1167
+Erskine Park, -33.8167, 150.7833
+Erudina, -31.4667, 139.3833
+Esk, -27.2500, 152.4167
+Esmeralda, -18.8333, 142.5667
+Esperance, -33.8500, 121.8833
+Essendon, -37.7667, 144.9167
+Etadunna, -28.7167, 138.6333
+Ethel Creek, -22.9000, 120.1500
+Eton, -21.2667, 148.9667
+Ettalong, -33.5167, 151.3500
+Eucla, -31.7167, 128.8667
+Eucumbene, -36.1167, 148.6333
+Eudunda, -34.1833, 139.0667
+Eugowra, -33.4333, 148.3833
+Eulo, -28.1667, 145.0500
+Eumungerie, -31.9500, 148.6167
+Euroa, -36.7500, 145.5833
+Euston, -34.5833, 142.7333
+Eva Downs, -18.0167, 134.8667
+Evandale, -41.5667, 147.2333
+Ewaninga, -23.9667, 133.9667
+Exeter, -34.6333, 150.3167
+Exmouth Gulf, -22.3833, 114.1167
+Eyre, -32.2500, 126.3000

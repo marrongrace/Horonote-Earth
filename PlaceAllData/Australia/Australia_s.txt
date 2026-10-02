@@ -1,0 +1,135 @@
+Saddleworth, -34.0833, 138.7833
+Safety Bay, -32.3000, 115.7167
+Sale, -38.1000, 147.0667
+Salisbury, -34.7667, 138.6333
+Salmon Gums, -32.9833, 121.6333
+Salt Ash, -32.7833, 151.9167
+Samford, -27.3833, 152.8833
+San Remo, -38.5167, 145.3667
+Sanderston, -34.7667, 139.2167
+Sandgate, -27.3333, 153.0833
+Sandilands, -34.5167, 137.7667
+Sandringham(Queensland), -24.0833, 139.0667
+Sandringham(Victoria), -37.9500, 145.0000
+Sandstone, -27.9833, 119.2833
+Sans Souci, -33.9833, 151.1333
+Saratoga, -33.4667, 151.3500
+Sarina, -21.4333, 149.2167
+Sassafras, -37.8667, 145.3500
+Sawyers Valley, -31.9000, 116.2167
+Scaddan, -33.4500, 121.7167
+Scarborough, -31.9000, 115.7500
+Scarsdale, -37.6667, 143.6667
+Sceale Bay, -33.0167, 134.2000
+Schofields, -33.7000, 150.8667
+Scone, -32.0500, 150.8667
+Scoresby, -37.9000, 145.2333
+Scottsdale, -41.1667, 147.5167
+Sea Lake, -35.5000, 142.8500
+Seaforth, -33.8000, 151.2500
+Seaholme, -37.8667, 144.8333
+Sebastopol, -37.6000, 143.8500
+Second Valley, -35.5500, 138.2333
+Sedan, -34.5833, 139.3000
+Seemore Downs, -30.7000, 125.2500
+Selby, -37.9167, 145.3667
+Selwyn, -21.5333, 140.5000
+Serpentine, -32.3667, 115.9833
+Seven Hills, -33.7667, 150.9500
+Sevenhill, -33.8833, 138.6333
+Seymour, -37.0333, 145.1333
+Shannons Flat, -35.9000, 148.9667
+Shaw River, -20.7167, 119.3333
+Shelbourne, -36.8667, 144.0167
+Shellharbour, -34.5833, 150.8667
+Shepparton, -36.3833, 145.4167
+Sheringa, -33.8500, 135.2500
+Shooters Hill, -33.9000, 149.8667
+Silverton, -31.8833, 141.2167
+Singleton, -32.5667, 151.1667
+Skipton, -37.6833, 143.3667
+Smithfield(South Australia), -34.6833, 138.6833
+Smithfield(New south Wales), -33.8500, 150.9500
+Smithton, -40.8500, 145.1167
+Smoky Bay, -32.3667, 133.9333
+Smythesdale, -37.6333, 143.6833
+Snowtown, -33.7833, 138.2167
+Sodwalls, -33.5167, 149.9833
+Sofala, -33.0833, 149.7000
+Somersby, -33.4167, 151.2833
+Somerville, -38.2167, 145.1667
+Sommariva, -26.4000, 146.6000
+Sorell, -42.7833, 147.5500
+Sorrento, -38.3333, 144.7500
+Soudan, -20.0833, 137.0000
+South Barwon, -38.2833, 144.5000
+South Melbourne, -37.8333, 144.9500
+South Perth, -31.9833, 115.8500
+Southbrook, -27.6833, 151.7167
+Southern Cross, -31.2167, 119.3167
+Southport, -27.9667, 153.4167
+Spalding, -33.5000, 138.6167
+Spearwood, -32.1167, 115.7833
+Spotswood, -37.8333, 144.8833
+Springsure, -24.1167, 148.0833
+Springton, -34.7167, 139.0833
+Springvale(Victoria), -37.9500, 145.1500
+Springvale(Western Australia), -17.8000, 127.6833
+Springvale(Queensland), -23.5500, 140.7000
+Springvale South, -37.9667, 145.1500
+Springwood, -33.7000, 150.5500
+St Albans(Victoria), -37.7333, 144.8000
+St Albans(New South Wales), -33.2833, 150.9833
+St Arnaud, -36.6167, 143.2500
+St George, -28.0333, 148.5833
+St Helens, -41.3333, 148.2500
+St Ives, -33.7333, 151.1667
+St Kilda(South Australia), -34.7333, 138.5333
+St Kilda(Victoria), -37.8667, 144.9833
+St Lawrence, -22.3500, 149.5167
+St Marys(New South Wales), -33.7833, 150.7833
+St Marys(Tasmania), -41.5833, 148.1667
+Stamford, -21.2667, 143.8167
+Stanley, -40.7667, 145.3000
+Stansbury, -34.9167, 137.7833
+Stanthorpe, -28.6500, 151.9500
+Station Peak, -21.1667, 118.1833
+Staughton Vale, -37.8500, 144.2833
+Stawell, -37.0667, 142.7667
+Stephens Creek, -31.8333, 141.5000
+Stirling(South Australia), -35.0000, 138.7167
+Stirling(Northern Territory), -21.7333, 133.7500
+Stockton, -32.9167, 151.7833
+Stonehenge, -24.3667, 143.2833
+Stony Crossing, -35.0833, 143.5833
+Strahan, -42.1500, 145.3167
+Strathalbyn, -35.2667, 138.9000
+Strathfield, -33.8667, 151.1000
+Strathpine, -27.3167, 152.9833
+Streaky Bay, -32.8000, 134.2167
+Streatham, -37.6833, 143.0667
+Stretton, -32.5333, 117.6833
+Stroud Road, -32.3333, 151.9333
+Sturdee, -31.8667, 132.3833
+Sturt Creek, -19.1667, 128.1667
+Subiaco, -31.9500, 115.8167
+Sunbury, -37.5833, 144.7333
+Sundown, -26.2333, 133.2000
+Sunny Corner, -33.3833, 149.8833
+Sunshine, -37.7833, 144.8333
+Surat, -27.1500, 149.0667
+Surfers Paradise, -28.0000, 153.4333
+Sussex Inlet, -35.1833, 150.6000
+Sutherland, -34.0333, 151.0667
+Sutherlands, -34.1667, 139.2167
+Sutton, -35.1667, 149.2500
+Sutton Forest, -34.5833, 150.3167
+Swan Hill, -35.3500, 143.5667
+Swansea(Tasmania), -42.1333, 148.0667
+Swansea(New South Wales), -33.0833, 151.6333
+Sydenham, -37.7000, 144.7667
+Sydenham West, -37.6833, 144.6500
+Sydney, -33.8667, 151.2167
+Sylvania, -34.0167, 151.1167
+Sylvania Heights, -34.0333, 151.1000
+Syndal, -37.8833, 145.1500

@@ -1,0 +1,125 @@
+Padstow, -33.9500, 151.0333
+Paisley, -37.8500, 144.8500
+Pakenham, -38.0667, 145.4833
+Pallamana, -35.0333, 139.2000
+Palm Beach, -28.1333, 153.4667
+Palm Beach, -33.6000, 151.3167
+Palmer, -34.8500, 139.1667
+Palmerville, -15.9833, 144.0833
+Papunya, -23.2667, 131.9000
+Parachilna, -31.1333, 138.3833
+Parafield, -34.7833, 138.6333
+Paratoo, -32.7000, 139.3667
+Park Orchards, -37.7667, 145.2167
+Parker Range, -31.6333, 119.5833
+Parkerville, -31.8833, 116.1500
+Parkes, -33.1333, 148.1833
+Parklea, -33.7333, 150.9500
+Paroo, -26.2667, 119.7667
+Parramatta, -33.8167, 151.0000
+Pascoe Vale, -37.7333, 144.9333
+Paskeville, -34.0333, 137.9000
+Patchewollock, -35.3833, 142.1833
+Paterson, -32.6000, 151.6167
+Paxton, -32.9000, 151.2667
+Payneham, -34.8833, 138.6333
+Paynes Find, -29.2500, 117.6833
+Peak Crossing, -27.7833, 152.7333
+Peak Hill, -25.6333, 118.7167
+Peak Hill, -32.7333, 148.2000
+Peakhurst, -33.9667, 151.0667
+Peakview, -36.0667, 149.4000
+Pedirka, -26.6667, 135.2333
+Peebinga, -34.9333, 140.9167
+Peedamullah, -21.8333, 115.6333
+Peel, -33.3167, 149.6333
+Pemberton, -34.4667, 116.0167
+Pendle Hill, -33.8000, 150.9500
+Penguin, -41.1167, 146.0667
+Pennant Hills, -33.7333, 151.0667
+Penneshaw, -35.7333, 137.9333
+Penola, -37.3833, 140.8333
+Penong, -31.9167, 133.0167
+Penrith, -33.7500, 150.7000
+Pentland, -20.5333, 145.4000
+Perenjori, -29.4333, 116.2833
+Perth, -31.9500, 115.8500
+Peterborough, -32.9667, 138.8333
+Petersham, -33.9000, 151.1500
+Petrie, -27.2667, 152.9833
+Pialba, -25.2833, 152.8500
+Piawaning, -30.8500, 116.3667
+Pickering Brook, -32.0500, 116.1333
+Picton, -34.1833, 150.6000
+Picton Junction, -33.3500, 115.6833
+Pilga, -21.4833, 119.4167
+Pilliga, -30.3500, 148.9000
+Pimba, -31.2500, 136.7833
+Pindar, -28.4833, 115.8000
+Pine Creek, -13.8167, 131.8167
+Pine Hill, -23.6500, 146.9667
+Pine Point, -34.5667, 137.8667
+Pingaring, -32.7500, 118.6167
+Pingelly, -32.5333, 117.0833
+Pingrup, -33.5333, 118.5167
+Pinjarra, -32.6167, 115.8833
+Pinnaroo, -35.2667, 140.9167
+Pioneer, -31.8000, 121.7167
+Pithara, -30.4000, 116.6667
+Pittsworth, -27.7167, 151.6333
+Plumpton, -33.7500, 150.8333
+Point Cloates, -22.5833, 113.6833
+Point Cook, -37.9333, 144.7500
+Point McLeay, -35.5333, 139.1000
+Point Pass, -34.0833, 139.0500
+Point Samson, -20.6000, 117.2000
+Pokataroo, -29.5833, 148.7000
+Poochera, -32.7167, 134.8500
+Pooncarie, -33.3833, 142.5667
+Pooraka, -34.8333, 138.6167
+Poowong, -38.3500, 145.7667
+Port Adelaide, -34.8500, 138.5000
+Port Alma, -23.5833, 150.8500
+Port Arthur, -43.1500, 147.8500
+Port Augusta, -32.5000, 137.7667
+Port Broughton, -33.6000, 137.9333
+Port Campbell, -38.6167, 143.0000
+Port Clinton, -34.2333, 138.0167
+Port Darwin, -12.4667, 130.8333
+Port Elliot, -35.5333, 138.6833
+Port Fairy, -38.3833, 142.2333
+Port Germein, -33.0167, 138.0000
+Port Hacking, -34.0667, 151.1333
+Port Hedland, -20.3167, 118.5667
+Port Hughes, -34.0667, 137.5333
+Port Keats Mission, -14.2167, 129.5333
+Port Kembla, -34.4833, 150.9000
+Port Kenny, -33.1667, 134.7000
+Port Lincoln, -34.7333, 135.8667
+Port MacDonnell, -38.0500, 140.7000
+Port Macquarie, -31.4333, 152.9167
+Port Melbourne, -37.8500, 144.9333
+Port Neill, -34.1167, 136.3333
+Port Noarlunga, -35.1500, 138.4667
+Port Pirie, -33.1833, 138.0167
+Port Vincent, -34.7833, 137.8500
+Port Wakefield, -34.1833, 138.1500
+Portarlington, -38.1167, 144.6500
+Porters Retreat, -34.0000, 149.8000
+Portland, -33.3667, 150.0000
+Portland, -38.3500, 141.6000
+Portsea, -38.3167, 144.7167
+Prahran, -37.8500, 144.9833
+Prairie, -20.8667, 144.6000
+Preston, -37.7500, 145.0167
+Price, -34.2833, 138.0000
+Proserpine, -20.4000, 148.5667
+Prospect, -34.9000, 138.5833
+Prospect, -33.8000, 150.9333
+Prospect Hill, -35.2167, 138.7333
+Proston, -26.1667, 151.6000
+Punchbowl, -33.9333, 151.0500
+Purga, -27.7167, 152.7333
+Putty, -32.9500, 150.6667
+Pyalong, -37.1167, 144.9000
+Pymble, -33.7500, 151.1500

@@ -1,0 +1,122 @@
+Nagambie, -36.7833, 145.1667
+Nairne, -35.0333, 138.9000
+Nambi, -28.9000, 121.6833
+Nambour, -26.6333, 152.9667
+Nambucca Heads, -30.6500, 153.0000
+Nanango, -26.6667, 152.0000
+Nannine, -26.8833, 118.3333
+Nannup, -33.9833, 115.7500
+Nanson, -28.5667, 114.7667
+Nantawarra, -34.0000, 138.2333
+Nappamerry, -27.6000, 141.1167
+Nar Nar Goon, -38.0833, 145.5667
+Naracoorte, -36.9667, 140.7333
+Naradhan, -33.6167, 146.3167
+Narangba, -27.2000, 152.9667
+Narellan, -34.0333, 150.7333
+Narembeen, -32.0667, 118.4000
+Naretha, -31.0000, 124.8333
+Nariel, -36.4333, 147.8333
+Narooma, -36.2333, 150.0500
+Narrabeen, -33.7167, 151.3000
+Narrabri, -30.3167, 149.7833
+Narrandera, -34.7500, 146.5500
+Narraweena, -33.7500, 151.2667
+Narre Warren, -38.0333, 145.3167
+Narre Warren North, -37.9833, 145.3167
+Narrogin, -32.9333, 117.1667
+Narromine, -32.2333, 148.2500
+Narwietooma, -23.2500, 132.5833
+Natimuk, -36.7500, 141.9500
+Nattai River, -34.0667, 150.4500
+Navarre, -36.9000, 143.1167
+Neales Flat, -34.2500, 139.1667
+Nedlands, -31.9833, 115.8167
+Neerim South, -38.0167, 145.9667
+Nerang, -28.0000, 153.3333
+Nerriga, -35.1167, 150.0833
+Nerrima, -18.4000, 124.4833
+Netherdale, -21.1333, 148.5333
+Nevertire, -31.8667, 147.6500
+New Angledool, -29.1167, 147.9500
+New Norcia, -30.9667, 116.2167
+New Norfolk, -42.7833, 147.0500
+Newborough, -38.1833, 146.2833
+Newcastle, -32.9333, 151.7667
+Newcastle Waters, -17.4000, 133.4000
+Newdegate, -33.1000, 119.0167
+Newlyn, -37.4167, 143.9833
+Newmarket, -27.4167, 153.0167
+Newport(New South Wales), -33.6667, 151.3167
+Newport(Victoria), -37.8500, 144.8833
+Newstead, -37.1167, 144.0667
+Newtown, -38.1500, 144.3333
+Nhill, -36.3333, 141.6500
+Nhulunbuy, -12.1833, 136.7833
+Nicholson, -18.0333, 128.9000
+Nimmitabel, -36.5167, 149.2667
+Nindigully, -28.3500, 148.8167
+Nipan, -24.7833, 150.0167
+Nive Downs, -25.5000, 146.5333
+Noarlunga, -35.1833, 138.5000
+Nobby, -27.8500, 151.9000
+Noble Park, -37.9667, 145.1667
+Noccundra, -27.8333, 142.6000
+Nockatunga, -27.7167, 142.7167
+Nonning, -32.5000, 136.5000
+Noojee, -37.9167, 146.0000
+Nookawarra, -26.3167, 116.8667
+Noonamah, -12.6333, 131.0667
+Noonkanbah, -18.5000, 124.8333
+Noorat, -38.2000, 142.9333
+Noosaville, -26.4000, 153.0667
+Norlane, -38.1000, 144.3500
+Normanby, -27.4667, 153.0167
+Normanhurst, -33.7167, 151.1000
+Normanton, -17.6667, 141.0833
+Normanville, -35.4500, 138.3167
+Nornalup, -35.0000, 116.8167
+Norseman, -32.2000, 121.7667
+North Auburn, -33.8333, 151.0333
+North Balwyn, -37.8000, 145.0833
+North Bannister, -32.5833, 116.4333
+North Beach, -31.8667, 115.7500
+North Bourke, -30.0500, 145.9500
+North Box Hill, -37.8000, 145.1167
+North Dandalup, -32.5167, 115.9667
+North Essendon, -37.7500, 144.9000
+North Fitzroy, -37.7833, 144.9833
+North Manly, -33.7667, 151.2667
+North Maroota, -33.4833, 150.9333
+North Narrabeen, -33.7000, 151.3000
+North Parramatta, -33.8000, 151.0000
+North Rocks, -33.7667, 151.0333
+North Ryde, -33.8000, 151.1167
+North Sydney, -33.8333, 151.2167
+North Tamborine, -27.9333, 153.1833
+North Turramurra, -33.7167, 150.1500
+North Yelta, -34.0500, 137.6167
+Northam, -31.6500, 116.6667
+Northampton, -28.3500, 114.6167
+Northbridge, -33.8167, 151.2167
+Northcliffe, -34.6000, 116.1167
+Northcote, -37.7667, 145.0000
+Northmead, -33.7833, 151.0000
+Notting Hill, -37.9000, 145.1333
+Nowendoc, -31.5333, 151.7167
+Nowingi, -34.6000, 142.2333
+Nowra, -34.8833, 150.6000
+Nullagine, -21.8833, 120.1000
+Nullarbor, -31.4333, 130.9167
+Numeralla, -36.1833, 149.3333
+Numurkah, -36.1000, 145.4333
+Nunawading, -37.8167, 145.1667
+Nundah, -27.4000, 153.0667
+Nungarin, -31.1833, 118.1000
+Nunjikompita, -32.2667, 134.3167
+Nuriootpa, -34.4833, 139.0000
+Nutwood Downs, -15.8167, 134.1667
+Nyabing, -33.5333, 118.1500
+Nyah West, -35.1833, 143.3667
+Nymagee, -32.0667, 146.3333
+Nyngan, -31.5667, 147.1833

@@ -1,0 +1,128 @@
+Galena, -27.8333, 114.6833
+Gallipoli, -19.1667, 137.9167
+Galvin, -37.8500, 144.8167
+Garah, -29.0667, 149.6333
+Gascoyne Junction, -25.0500, 115.2000
+Gatton, -27.5500, 152.2833
+Gawler, -34.6167, 138.7333
+Gayndah, -25.6167, 151.6000
+Geebung, -27.3667, 153.0500
+Geehi, -36.4000, 148.1833
+Geelong, -38.1333, 144.3500
+Geelong West, -38.1333, 144.3333
+Geeveston, -43.1667, 146.9167
+Gellibrand, -38.5333, 143.5333
+Gembrook, -37.9500, 145.5500
+Genoa, -37.4833, 149.5833
+George Town, -41.1000, 146.8333
+Georges Hall, -33.9167, 150.9833
+Georgetown, -18.3000, 143.5500
+Geraldton, -28.7667, 114.6000
+Gerringong, -34.7500, 150.8333
+Gibb River, -15.6500, 126.6333
+Gibson, -33.6500, 121.8000
+Gidgee, -27.2667, 119.3667
+Gifford Creek, -24.0833, 116.1833
+Gilbert River, -18.1500, 142.8667
+Gilgai, -31.2500, 119.9333
+Gilgandra, -31.7000, 148.6500
+Gilmore, -35.3333, 148.1833
+Gin Gin, -25.0000, 151.9667
+Gingin, -31.3500, 115.7000
+Giralia, -22.6833, 114.3500
+Girgarre, -36.4000, 144.9833
+Girilambone, -31.2500, 146.9000
+Giru, -19.5167, 147.1000
+Gisborne, -37.4833, 144.5833
+Gladesville, -33.8333, 151.1333
+Gladstone(Queensland), -23.8500, 151.2667
+Gladstone(South Australia), -33.2833, 138.3667
+Glass House Mountains, -26.8833, 152.9667
+Glen Alice, -33.0333, 150.2167
+Glen Davis, -33.1333, 150.2833
+Glen Eagle, -32.2833, 116.1833
+Glen Florrie, -22.9167, 115.9833
+Glen Forest, -31.9000, 116.1000
+Glen Innes, -29.7333, 151.7333
+Glen Waverley, -37.8833, 145.1667
+Glenbrook, -33.7667, 150.6167
+Glencoe, -37.7000, 140.6167
+Gleneagle, -27.9500, 152.9833
+Glenelg, -34.9833, 138.5167
+Glenfield, -33.9667, 150.9000
+Glengyle, -24.8000, 139.6167
+Glenhaven, -33.7000, 151.0000
+Glenhuntly, -37.9000, 145.0500
+Glenmorgan, -27.2500, 149.6833
+Glenore Grove, -27.5333, 152.4000
+Glenorie, -33.5500, 151.0000
+Glenormiston, -22.9167, 138.8000
+Glenreagh, -30.0500, 152.9833
+Glenroy(Victoria), -37.7000, 144.9167
+Glenroy(Kimberley), -17.3667, 126.1000
+Glenroy(Pilbara), -21.7667, 114.8167
+Gloucester, -31.9833, 151.9667
+Gnalta, -31.0500, 142.3333
+Gnaraloo, -23.8500, 113.5167
+Gnowangerup, -33.9333, 117.9833
+Gold Coast > Southport, -27.9667, 153.4167
+Golspie, -34.2833, 149.6667
+Goodna, -27.6167, 152.9000
+Goodooga, -29.1167, 147.4500
+Goolgowi, -33.9833, 145.7000
+Goolwa, -35.5167, 138.7833
+Goomalling, -31.3167, 116.8167
+Goombalie, -29.9833, 145.3833
+Goombungee, -27.3000, 151.8500
+Goomburra, -28.0500, 152.1167
+Goondiwindi, -28.5333, 150.3167
+Goongarrie, -30.0500, 121.1500
+Gordon Downs, -18.7333, 128.5833
+Gordonvale, -17.0833, 145.7833
+Gore, -28.2833, 151.4833
+Gore Hill, -33.8167, 151.1833
+Gorokan, -33.2667, 151.5000
+Gosford, -33.4333, 151.3500
+Gosnells, -32.0667, 116.0000
+Goulburn, -34.7500, 149.7167
+Grafton, -29.6833, 152.9333
+Grange, -34.9000, 138.5000
+Granite Downs, -26.9500, 133.5000
+Granite Peak, -25.6333, 121.3500
+Grantham, -27.5667, 152.2000
+Grants Patch, -30.4500, 121.1167
+Granville, -33.8333, 151.0167
+Grass Patch, -33.2333, 121.7167
+Grass Valley, -31.6333, 116.8000
+Grassy, -40.0500, 144.0667
+Gravesend, -29.5833, 150.3167
+Grays Point, -34.0667, 151.0833
+Greater Wollongong > Wollongong, -34.4167, 150.900
+Greenbushes, -33.8500, 116.0500
+Greendale, -33.9167, 150.6500
+Greenmount(Western Australia), -31.9000, 116.0500
+Greenmount(Queensland), -27.7833, 151.9000
+Greenock, -34.4500, 138.9167
+Greenough, -28.9500, 114.7333
+Greenwell Point, -34.9167, 150.7333
+Greenwich, -33.8333, 151.1833
+Greg Greg, -36.0500, 148.0333
+Gregadoo, -35.2333, 147.4500
+Grenfell, -33.9000, 148.1667
+Greta, -32.6833, 151.4000
+Greystanes, -33.8167, 150.9167
+Griffith, -34.2833, 146.0500
+Guildford, -33.8500, 150.9833
+Gulargambone, -31.3333, 148.4667
+Gulgong, -32.3667, 149.5333
+Gumeracha, -34.8167, 138.8833
+Gunbar, -34.0167, 145.4167
+Gundagai, -35.0667, 148.1167
+Gunnedah, -30.9833, 150.2500
+Gunyidi, -30.1333, 116.0667
+Guyra, -30.2333, 151.6667
+Gwabegar, -30.6000, 148.9667
+Gwalia, -28.9167, 121.3333
+Gwambygine, -31.9833, 116.8000
+Gymea Bay, -34.0333, 151.0833
+Gympie, -26.1833, 152.6667

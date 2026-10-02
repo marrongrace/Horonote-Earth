@@ -1,0 +1,259 @@
+Cables, -27.9833, 123.3833
+Caboolture, -27.0833, 152.9500
+Cabramatta, -33.9000, 150.9333
+Cabramurra, -35.9667, 148.3833
+Cadoux, -30.7833, 117.1333
+Caiguna, -32.2689, 125.4900
+Cairns, -16.9167, 145.7667
+Calen, -20.9000, 148.7667
+Calingiri, -31.1000, 116.4500
+Callanna, -29.6333, 137.9167
+Callington, -35.1167, 139.0333
+Calliope, -24.0000, 151.2000
+Caloote, -34.9667, 139.2667
+Caloundra, -26.8000, 153.1500
+Calvert Hills, -17.2500, 137.3333
+Camberwell, -37.8333, 145.0667
+Camboon, -25.0500, 150.4333
+Cambooya, -27.7000, 151.8667
+Cambrai, -34.6500, 139.2833
+Cambridge Park, -33.7500, 150.7167
+Camden, -34.0500, 150.7000
+Camfield, -17.1500, 131.3500
+Camooweal, -19.9167, 138.1167
+Campbell Town, -41.9333, 147.4833
+Campbellfield, -37.6833, 144.9500
+Campbells River, -33.9000, 149.6167
+Campbelltown(South Australia), -34.8833, 138.6667
+Campbelltown(New South Wales), -34.0667, 150.8167
+Camperdown, -38.2333, 143.1500
+Campsie, -33.9167, 151.1000
+Canbelego, -31.5500, 146.3167
+Canberra, -35.2833, 149.1333
+Candelo, -36.7667, 149.7000
+Canley Vale, -33.8833, 150.9500
+Cann River, -37.5667, 149.1667
+Canowindra, -33.5667, 148.6333
+Canterbury(Victoria), -37.8167, 145.0833
+Canterbury(New South Wales), -33.9167, 151.1167
+Canungra, -28.0167, 153.1667
+Cape Jervis, -35.6000, 138.1000
+Capella, -23.0833, 148.0333
+Capertee, -33.1500, 149.9833
+Captains Flat, -35.5833, 149.4500
+Carabost, -35.6000, 147.7333
+Cardabia, -23.1000, 113.8000
+Cardiff, -32.9500, 151.6833
+Cardwell, -18.2667, 146.0333
+Carey Downs, -25.6333, 115.4500
+Carinda, -30.4667, 147.6833
+Caringbah, -34.0500, 151.1333
+Carlingford, -33.7833, 151.0500
+Carlton, -33.9667, 151.1333
+Carmila, -21.9167, 149.4167
+Carnamah, -29.7000, 115.8833
+Carnarvon, -24.8833, 113.6667
+Carnegie, -25.7167, 122.9833
+Carpolac, -36.7333, 141.3167
+Carramar, -33.8833, 150.9667
+Carrathool, -34.4000, 145.4333
+Carrieton, -32.4333, 138.5333
+Carrum, -38.0833, 145.1333
+Carrum Downs, -38.1000, 145.1833
+Carrum North, -38.0500, 145.1500
+Cashmere Downs, -28.9667, 119.5833
+Casino, -28.8667, 153.0500
+Casterton, -37.5833, 141.4000
+Castle Hill, -33.7333, 151.0000
+Castlecrag, -33.8000, 151.2167
+Castlemaine, -37.0667, 144.2167
+Caulfield, -37.8833, 145.0500
+Cavendish, -37.5167, 142.0333
+Cecil Park, -33.8667, 150.8500
+Cecil Plains, -27.5333, 151.2000
+Ceduna, -32.1167, 133.6667
+Cessnock, -32.8333, 151.3500
+Chadstone, -37.8833, 145.0833
+Charbon, -32.9000, 149.9667
+Charleston, -34.9167, 138.9000
+Charlestown, -32.9667, 151.7000
+Charleville, -26.4000, 146.2500
+Charlton, -36.2667, 143.3500
+Charters Towers, -20.0833, 146.2667
+Chatswood, -33.8000, 151.2000
+Chatsworth, -21.9667, 140.3167
+Cheepie, -26.6500, 145.0167
+Chelsea, -38.0500, 145.1167
+Cheltenham(Victoria), -37.9667, 145.0500
+Cheltenham(New South Wales), -33.7667, 151.0833
+Chermside, -27.3833, 153.0333
+Cherrabun, -18.4833, 125.3167
+Chester Hill, -33.8833, 151.0000
+Chewton, -37.0833, 144.2667
+Chidlow, -31.8667, 116.2333
+Childers, -25.2333, 152.2833
+Chillagoe, -17.1500, 144.5333
+Chilwell, -38.1667, 144.3500
+Chinchilla, -26.7500, 150.6333
+Chittering, -31.4833, 116.1000
+Christmas Creek, -18.8833, 125.9167
+Christmas Island, -10.4167, 105.7167
+Chullora, -33.9000, 151.0667
+City Beach, -31.9333, 115.7500
+Clackline, -31.7167, 116.5167
+Clampton, -29.9333, 119.1000
+Clandulla, -32.9167, 149.9500
+Claraville, -18.6667, 141.7167
+Clare(South Australia), -33.8333, 138.6000
+Clare(New South Wales), -33.4167, 143.9167
+Clarence Town, -32.5833, 151.7833
+Clarendon, -35.1167, 138.6333
+Clarke River, -19.2167, 145.4500
+Clayton, -37.9333, 145.1167
+Clermont, -22.8167, 147.6500
+Cleve, -33.7000, 136.5000
+Cleveland, -27.5333, 153.2833
+Clifton, -27.9333, 151.9000
+Clifton Hills, -26.8667, 138.8333
+Clive, -22.7667, 149.3000
+Cloncurry, -20.7000, 140.5000
+Clontarf, -33.8000, 151.2667
+Clovelly, -33.9167, 151.2667
+Clunes, -37.3000, 143.7833
+Cluny, -24.5167, 139.5833
+Cobar, -31.5000, 145.8167
+Cobargo, -36.3833, 149.8833
+Cobbitty, -34.0167, 150.6833
+Cobden, -38.3333, 143.0833
+Cobram, -35.9167, 145.6500
+Coburg, -37.7500, 144.9667
+Cockburn, -32.0833, 141.0000
+Cocklebiddy, -32.0400, 126.0961
+Coen, -13.9333, 143.2000
+Coffs Harbour, -30.3000, 153.1333
+Cohuna, -35.8167, 144.2167
+Colac, -38.3333, 143.5833
+Colbinabbin, -36.5833, 144.8167
+Coldstream, -37.7333, 145.3833
+Coledale, -34.2833, 150.9500
+Coleraine, -37.6000, 141.7000
+Colinton, -35.8500, 149.1500
+Collarenebri, -29.5500, 148.5833
+Collaroy, -33.7333, 151.3000
+Collerina, -29.6833, 146.6333
+Collie, -33.3500, 116.1500
+Collingwood, -37.8000, 145.0000
+Collinsville, -20.5667, 147.8500
+Colo Vale, -34.4000, 150.4833
+Colona, -31.6333, 132.0833
+Colton, -33.4833, 134.9333
+Colyton, -33.7833, 150.8000
+Comboyne, -31.6000, 152.4833
+Comet, -23.6167, 148.5500
+Como, -34.0000, 151.0667
+Conara Junction, -41.8333, 147.4333
+Concord, -33.8667, 151.1000
+Concord West, -33.8500, 151.0833
+Condamine, -26.9333, 150.1333
+Condobolin, -33.0833, 147.1500
+Congelin, -32.8333, 116.9000
+Conjola, -35.2167, 150.4500
+Connemara, -24.2167, 142.2833
+Coober Pedy, -29.0167, 134.7167
+Coogee(New South Wales), -33.9167, 151.2667
+Coogee(Western Australia), -32.1167, 115.7667
+Cook, -30.6167, 130.4167
+Cookardinia, -35.5667, 147.2333
+Cookernup, -33.0000, 115.9000
+Cooktown, -15.4667, 145.2500
+Coolabah, -31.0333, 146.7167
+Cooladdi, -26.6500, 145.4667
+Coolah, -31.8333, 149.7000
+Coolamon, -34.8167, 147.2000
+Coolangatta, -28.1667, 153.5333
+Coolawanyah, -21.7833, 117.8000
+Coolgardie, -30.9500, 121.1667
+Coolup, -32.7333, 115.8833
+Cooma, -36.2333, 149.1333
+Coomberdale, -30.4667, 116.0333
+Coomera, -27.8667, 153.3167
+Coominya, -27.3833, 152.5000
+Coonabarabran, -31.2667, 149.2833
+Coonalpyn, -35.7000, 139.8500
+Coonamble, -30.9500, 148.3833
+Coonana, -31.0167, 123.1167
+Coondambo, -31.0667, 135.8667
+Coongoola, -27.6500, 145.9000
+Coopers Plains, -27.5667, 153.0333
+Coorabie, -31.9000, 132.3000
+Cooranbong, -33.0667, 151.4500
+Coorow, -29.8833, 116.0167
+Cooroy, -26.4167, 152.9167
+Cootamundra, -34.6500, 148.0333
+Cooyar, -26.9833, 151.8333
+Copley, -30.5333, 138.4167
+Cordillo Downs, -26.7167, 140.6333
+Coreinbob, -35.2167, 147.6333
+Corfield, -21.7167, 143.3667
+Corinda, -17.8833, 138.5833
+Corio, -38.0667, 144.3833
+Corny Point, -34.9167, 137.0500
+Corowa, -36.0333, 146.3833
+Corrigin, -32.3500, 117.8667
+Corrimal, -34.3667, 150.9000
+Corryong, -36.2000, 147.9000
+Corunna Downs, -21.4667, 119.8500
+Cotherstone, -22.6167, 148.2333
+Cottesloe, -31.9833, 115.7500
+Coulta, -34.3833, 135.4833
+Countegany, -36.1833, 149.4500
+Cowaramup, -33.8667, 115.0833
+Coward Springs, -29.4000, 136.8167
+Cowarie, -27.7167, 138.3333
+Cowell, -33.6833, 136.9167
+Cowes, -38.4500, 145.2333
+Cowley, -26.9000, 144.8167
+Cowra, -33.8333, 148.6833
+Cradock, -32.0667, 138.5000
+Crafers-Bridgewater, -35.0167, 138.7833
+Cranbourne, -38.1000, 145.2833
+Cranbrook, -34.3000, 117.5333
+Cranebrook, -33.7167, 150.7000
+Cravensville, -36.4000, 147.5667
+Cressy, -38.0333, 143.6333
+Creswell Downs, -17.9500, 135.9167
+Creswick, -37.4333, 143.9000
+Crib Point, -38.3667, 145.2000
+Cringila, -34.4667, 150.8833
+Cromer, -33.7333, 151.2833
+Cronulla, -34.0500, 151.1500
+Crookwell, -34.4667, 149.4667
+Crossman, -32.7833, 116.6000
+Crow's Nest, -27.2667, 152.0500
+Crows Nest, -33.8333, 151.2000
+Croydon(New South Wales), -33.8833, 151.1167
+Croydon(Victoria), -37.8000, 145.2833
+Croydon(Queensland), -18.2000, 142.2333
+Croydon Park, -33.9000, 151.1167
+Crystal Brook, -33.3500, 138.2167
+Cudgegong, -32.8000, 149.8167
+Cudgewa, -36.2000, 147.7667
+Cue, -27.4167, 117.9000
+Culbin, -33.1667, 116.8333
+Culcairn, -35.6667, 147.0500
+Cullen Bullen, -33.3000, 150.0167
+Cumborah, -29.7333, 147.7667
+Cummins, -34.2667, 135.7333
+Cunderdin, -31.6500, 117.2500
+Cunliffe, -34.0833, 137.7500
+Cunnamulla, -28.0667, 145.6833
+Cunningham, -28.1500, 151.8500
+Curl Curl, -33.7667, 151.3000
+Curlewis, -31.1167, 150.2667
+Curnamona, -31.6500, 139.5333
+Curramulka, -34.7000, 137.7000
+Currarong, -35.0167, 150.8167
+Currency Creek, -35.4667, 138.7667
+Currie, -39.9333, 143.8667
+Curtin Springs, -25.3333, 131.7500
+Cygnet River, -35.7000, 137.5167

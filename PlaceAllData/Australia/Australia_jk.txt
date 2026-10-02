@@ -1,0 +1,140 @@
+Jacana, -37.7000, 144.9167
+Jamberoo, -34.6500, 150.7833
+Jambin, -24.2000, 150.3667
+Jamestown, -33.2000, 138.6000
+Jamison Town, -33.7667, 150.6833
+Jandowae, -26.7833, 151.1000
+Jannali, -34.0167, 151.0667
+Jarrahdale, -32.3333, 116.0667
+Jeparit, -36.1500, 141.9833
+Jerangle, -35.8667, 149.3667
+Jericho, -23.6000, 146.1333
+Jerilderie, -35.3667, 145.7333
+Jervis Bay, -35.1333, 150.7000
+Jiggalong Mission, -23.4167, 120.7833
+Jimboomba, -27.8333, 153.0333
+Jindabyne, -36.4167, 148.6333
+Jingellic, -35.9333, 147.7000
+Jitarning, -32.8000, 117.9833
+Jubilee Downs, -18.3667, 125.2833
+Julia Creek, -20.6500, 141.7500
+Junee, -34.8667, 147.5833
+Kadina, -33.9667, 137.7167
+Kajabbi, -20.0333, 140.0333
+Kalamunda, -31.9500, 116.0500
+Kalannie, -30.3500, 117.0667
+Kalbar, -27.9333, 152.6167
+Kalgan, -34.8833, 118.0167
+Kalgoorlie, -30.7500, 121.4667
+Kallista, -37.8833, 145.3667
+Kalorama, -37.8167, 145.3667
+Kalumburu, -14.3000, 126.6500
+Kamballie, -30.8000, 121.5000
+Kandos, -32.8667, 149.9667
+Kangarilla, -35.1500, 138.6667
+Kangaroo Flat, -34.5500, 138.6667
+Kangaroo Ground, -37.6833, 145.2167
+Kangaroo Valley, -34.7333, 150.5333
+Kaniva, -36.3833, 141.2500
+Kanowna, -30.6000, 121.6000
+Kapunda, -34.3500, 138.9000
+Karonie, -30.9667, 122.5333
+Karoonda, -35.1000, 139.9000
+Karridale, -34.2167, 115.0833
+Karumba, -17.4833, 140.8333
+Karunjie, -16.3000, 127.2000
+Katanning, -33.7000, 117.5500
+Katherine, -14.4667, 132.2667
+Kathleen Valley, -27.3833, 120.6333
+Katoomba, -33.7000, 150.3000
+Keilor, -37.7167, 144.8333
+Keith, -36.1000, 140.3500
+Kellerberrin, -31.6333, 117.7167
+Kellyville, -33.7167, 150.9500
+Kelmscott, -32.1167, 116.0167
+Kempsey, -31.0833, 152.8333
+Kendall, -31.6333, 152.7167
+Kendenup, -34.4833, 117.6500
+Kensington, -33.9167, 151.2333
+Kenthurst, -33.6667, 151.0000
+Kenwick, -32.0333, 115.9667
+Keon Park, -37.7000, 145.0167
+Kerang, -35.7333, 143.9167
+Kersbrook, -34.7833, 138.8500
+Kew, -37.8167, 145.0333
+Keyneton, -34.5667, 139.1333
+Keysborough, -38.0000, 145.1667
+Keysbrook, -32.4333, 115.9833
+Khancoban, -36.2000, 148.0833
+Kiama, -34.6833, 150.8500
+Kiandra, -35.8833, 148.5000
+Kilcoy, -26.9500, 152.5500
+Kildurk, -16.4333, 129.6167
+Killara, -33.7667, 151.1500
+Killarney, -28.3333, 152.3000
+Killarney Heights, -33.7667, 151.2167
+Kilmore, -37.3000, 144.9500
+Kilsyth, -37.8000, 145.3167
+Kimba, -33.1500, 136.4167
+Kimberley Downs, -17.4000, 124.3667
+Kingaroy, -26.5500, 151.8333
+Kingoonya, -30.9000, 135.3000
+Kingscote, -35.6667, 137.6333
+Kingsford, -33.9333, 151.2333
+Kingsgrove, -33.9500, 151.1000
+Kingsthorpe, -27.4833, 151.8167
+Kingston, -27.6667, 153.1167
+Kingston Southeast, -36.8333, 139.8500
+Kingsville, -37.8167, 144.8667
+Kingswood, -33.7667, 150.7167
+Kitchener, -31.0333, 124.1833
+Knox, -37.8833, 145.3000
+Kogan, -27.0500, 150.7667
+Kogarah, -33.9667, 151.1333
+Kojonup, -33.8333, 117.1500
+Kondinin, -32.5000, 118.2667
+Koo-Wee-Rup, -38.2000, 145.5000
+Kookynie, -29.3333, 121.4833
+Koolamarra, -20.2000, 140.2333
+Koolatah, -15.8833, 142.4500
+Kooloonong, -34.8833, 143.1500
+Koolyanobbing, -30.8333, 119.5833
+Koolywurtie, -34.6333, 137.6167
+Koondrook, -35.6500, 144.1333
+Koonibba, -31.9667, 133.4500
+Koorawatha, -34.0333, 148.5500
+Koorda, -30.8333, 117.4833
+Kooyong, -37.8333, 145.0333
+Koriella, -37.1667, 145.6500
+Koroit, -38.2833, 142.3667
+Korumburra, -38.4333, 145.8167
+Koumala, -21.6167, 149.2500
+Ku-Ring-Gai, -33.7500, 151.1333
+Kukerin, -33.1833, 118.0833
+Kulgera, -25.8333, 133.3000
+Kulin, -32.6667, 118.1667
+Kulnura, -33.2333, 151.2167
+Kulpara, -34.0667, 138.0333
+Kulwin, -35.0333, 142.5500
+Kumarl, -32.7833, 121.5500
+Kumbarilla, -27.3167, 150.8833
+Kundip, -33.7000, 120.1667
+Kungurri, -21.0833, 148.7333
+Kununurra, -15.7833, 128.7333
+Kuridala, -21.2833, 140.5000
+Kurnell, -34.0167, 151.2167
+Kurrajong, -33.5500, 150.6667
+Kurri Kurri, -32.8167, 151.4833
+Kwinana, -32.2500, 115.8000
+Kwobrup, -33.6167, 117.7667
+Kyabra, -26.3000, 143.1667
+Kyabram, -36.3167, 145.0500
+Kyalite, -34.9667, 143.4667
+Kyancutta, -33.1333, 135.5667
+Kybean, -36.3667, 149.4167
+Kydra, -36.4500, 149.3833
+Kyeamba, -35.4333, 147.6167
+Kyneton, -37.2500, 144.4500
+Kynuna, -21.5833, 141.9167
+Kyogle, -28.6167, 153.0000
+Kywong, -34.9833, 146.7333

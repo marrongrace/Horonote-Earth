@@ -1,0 +1,98 @@
+Daintree, -16.2500, 145.3167
+Dajarra, -21.6833, 139.5167
+Dalby, -27.1833, 151.2667
+Dale Bridge, -32.0833, 116.8167
+Dalgaranga, -27.7667, 117.0333
+Dalgety, -36.5000, 148.8333
+Dalgety Downs, -25.2833, 116.2500
+Dalwallinu, -30.2833, 116.6667
+Daly River, -13.7500, 130.8333
+Daly Waters, -16.2500, 133.3667
+Dampier, -20.6500, 116.7500
+Dandaragan, -30.6667, 115.7000
+Dandenong, -37.9833, 145.2000
+Dapto, -34.5000, 150.7833
+Dardadine, -33.2333, 116.8333
+Dardanup, -33.4000, 115.7500
+Darkan, -33.3333, 116.7333
+Darke Peak, -33.4667, 136.2000
+Darlington(Victoria), -38.0000, 143.0500
+Darlington(Western Australia), -31.9167, 116.0833
+Darnick, -32.8500, 143.6167
+Darra, -27.5667, 152.9667
+Dartmoor, -37.9167, 141.2833
+Darwin, -12.4667, 130.8333
+Darwin River, -12.8167, 130.9667
+Davenport, -41.1833, 146.3167
+Davenport Downs, -24.1333, 141.1167
+Dayboro, -27.1833, 152.8333
+Daylesford, -37.3500, 144.1500
+De Grey, -20.1667, 119.2000
+Deakin, -30.7667, 128.9667
+Dee Why, -33.7500, 151.2833
+Deep Well, -24.4167, 134.0833
+Deepwater, -29.4500, 151.8500
+Deer Park, -37.7833, 144.7833
+Delamere, -35.5833, 138.1833
+Delegate, -37.0500, 148.9667
+Deloraine, -41.5167, 146.6500
+Delta Downs, -17.0000, 141.3000
+Delungra, -29.6500, 150.8333
+Denham, -25.9167, 113.5333
+Denial Bay, -32.1000, 133.5333
+Deniliquin, -35.5333, 144.9667
+Denmark, -34.9500, 117.3500
+Derby, -17.3000, 123.6333
+Derby, -41.1500, 147.7833
+Derrinallum, -37.9500, 143.2167
+Derwent Bridge, -42.1333, 146.2167
+Devonport, -41.1833, 146.3500
+Diamantina Lakes, -23.7667, 141.1500
+Diamond Creek, -37.6833, 145.1500
+Dimboola, -36.4500, 142.0333
+Dimbulah, -17.1500, 145.1167
+Dingley, -37.9667, 145.1167
+Dingo, -23.6500, 149.3333
+Dirranbandi, -28.5833, 148.2333
+Dobbyn, -19.8000, 140.0000
+Donald, -36.3667, 143.0000
+Doncaster, -37.7833, 145.1333
+Doncaster East, -37.7833, 145.1667
+Dongara, -29.2500, 114.9333
+Donnybrook, -33.5833, 115.8167
+Donors Hills, -18.7000, 140.5500
+Doomadgee Mission, -17.9333, 138.8167
+Doondi, -28.2500, 148.4667
+Doonside, -33.7667, 150.8667
+Dooralong, -33.2000, 151.3667
+Dorrigo, -30.3500, 152.7167
+Doughboy, -35.2500, 149.6500
+Douglas Park, -34.1833, 150.7167
+Dover, -43.3167, 147.0167
+Dover Heights, -33.8833, 151.2833
+Doveton, -38.0000, 145.2333
+Dowerin, -31.2000, 117.0333
+Dromana, -38.3500, 144.9667
+Drouin, -38.1333, 145.8500
+Drummoyne, -33.8500, 151.1500
+Drysdale, -38.1833, 144.5667
+Duaringa, -23.7167, 149.6667
+Dubbo, -32.2500, 148.6000
+Dublin, -34.4500, 138.3500
+Duchess, -21.3667, 139.8667
+Duffield, -25.8333, 134.6667
+Dulkaninna, -29.0167, 138.4500
+Dumbleyung, -33.3167, 117.7333
+Dundas, -33.8000, 151.0333
+Dundoo, -27.6500, 144.6500
+Dunedoo, -32.0167, 149.4000
+Dungog, -32.4000, 151.7667
+Dunheved, -33.7500, 150.7833
+Dunmarra, -16.7000, 133.4167
+Dunolly, -36.8667, 143.7333
+Dunwich, -27.5167, 153.3833
+Dural, -33.6833, 151.0333
+Duranillin, -33.5167, 116.8000
+Durham Downs, -27.0833, 141.9000
+Durrie, -25.6333, 140.2667
+Dwellingup, -32.7167, 116.0333

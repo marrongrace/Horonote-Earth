@@ -1,0 +1,304 @@
+Babakin, -32.1167, 118.0167
+Babinda, -17.3333, 145.9167
+Bacchus Marsh, -37.6833, 144.4500
+Badgery's Creek, -33.8833, 150.7333
+Bairnsdale, -37.8333, 147.6333
+Bajool, -23.6500, 150.6500
+Bakers Hill, -31.7500, 116.4500
+Balaklava, -34.1500, 138.4167
+Balcanoona, -30.5167, 139.3000
+Bald Hills, -27.3167, 153.0167
+Balfes Creek, -20.2167, 145.9167
+Balfour Downs, -22.8333, 120.8333
+Balgo Hill Mission, -20.1500, 127.8000
+Balgowlah, -33.8000, 151.2667
+Balhannah, -35.0000, 138.8333
+Balingup, -33.8000, 115.9667
+Balladonia, -32.4500, 123.8500
+Ballan, -37.6000, 144.2333
+Ballarat, -37.5667, 143.8667
+Ballidu, -30.6000, 116.7667
+Ballina, -28.8667, 153.5500
+Balmain, -33.8500, 151.1833
+Balmoral, -37.2500, 141.8500
+Balranald, -34.6333, 143.5500
+Balwyn, -37.8167, 145.0833
+Bamaga, -10.8667, 142.4000
+Bambaroo, -18.8667, 146.2000
+Bamboo Creek, -20.9333, 120.2167
+Bamboo Springs, -22.0667, 119.6333
+Banana, -24.4667, 150.1167
+Bangholme, -38.0333, 145.1833
+Banka Banka, -18.8000, 134.0167
+Banksmeadow, -33.9667, 151.2167
+Bankstown, -33.9167, 151.0333
+Bannister, -32.6667, 116.5500
+Bannockburn, -38.0500, 144.1667
+Baradine, -30.9333, 149.0667
+Barakula, -26.4333, 150.5167
+Baralaba, -24.1833, 149.8167
+Baratta, -31.9833, 139.1000
+Barcaldine, -23.5500, 145.2833
+Bardoc, -30.3333, 121.2833
+Bargara, -24.8167, 152.4500
+Bargo, -34.3000, 150.5833
+Barmedman, -34.1500, 147.3833
+Barmera, -34.2500, 140.4667
+Barraba, -30.3667, 150.6000
+Barringun, -29.0167, 145.7167
+Barrow Creek, -21.5500, 133.8833
+Barton, -30.5167, 132.6500
+Barwidgee, -27.0333, 120.9000
+Bass Hill, -33.9000, 151.0000
+Batchelor, -13.0667, 131.0167
+Batemans Bay, -35.7167, 150.1833
+Bathurst, -33.4167, 149.5833
+Bathurst Island Mission, -11.7500, 130.6333
+Batlow, -35.5167, 148.1500
+Baulkham Hills, -33.7667, 151.0000
+Bayswater, -37.8500, 145.2667
+Bayswater North, -37.8167, 145.2833
+Bayview, -33.6667, 151.3000
+Beachport, -37.5000, 140.0167
+Beacon, -30.4333, 117.8500
+Beacon Hill, -33.7500, 151.2500
+Beaconsfield, -38.0500, 145.3667
+Beaconsfield, -41.2000, 146.8000
+Beagle Bay Mission, -16.9667, 122.6667
+Bealiba, -36.8000, 143.5500
+Beaudesert, -27.9833, 153.0000
+Beaufort, -37.4333, 143.3833
+Beaumaris, -37.9833, 145.0333
+Bedfordale, -32.1667, 116.0500
+Bedourie, -24.3500, 139.4667
+Beeac, -38.2000, 143.6333
+Beech Forest, -38.6333, 143.5667
+Beechmont, -28.1167, 153.1833
+Beechworth, -36.3667, 146.6833
+Beecroft, -33.7500, 151.0667
+Beenleigh, -27.7167, 153.2000
+Beerburrum, -26.9667, 152.9667
+Beerwah, -26.8500, 152.9667
+Bega, -36.6667, 149.8333
+Belfield, -33.9000, 151.0833
+Belgrave, -37.9167, 145.3500
+Bellambi, -34.3500, 150.9167
+Bellarine, -38.1333, 144.6167
+Bellata, -29.9167, 149.7833
+Bellbird, -32.8500, 151.3500
+Bellbrook, -30.8167, 152.5167
+Bellingen, -30.4500, 152.9000
+Belmont, -33.0333, 151.6667
+Belmont, -38.1667, 144.3500
+Belmore, -33.9167, 151.0833
+Belrose, -33.7333, 151.2167
+Beltana, -30.8000, 138.4167
+Benagerie, -31.4167, 140.4000
+Benalla, -36.5500, 145.9833
+Bencubbin, -30.8000, 117.8667
+Bendemeer, -30.8833, 151.1667
+Bendigo, -36.7667, 144.2833
+Benger, -33.1833, 115.8667
+Benlidi, -24.5667, 144.8667
+Bennettswood, -37.8500, 145.1167
+Bentleigh, -37.9167, 145.0333
+Beresford, -29.2333, 136.6667
+Bermagui, -36.4167, 150.0667
+Berowra, -33.6167, 151.1500
+Berri, -34.2833, 140.6000
+Berridale, -36.3667, 148.8333
+Berrigan, -35.6667, 145.8167
+Berrima, -34.5000, 150.3333
+Berry, -34.7833, 150.7000
+Berwick, -38.0333, 145.3500
+Betoota, -25.7000, 140.7333
+Beulah, -35.9333, 142.4333
+Beverley, -32.1000, 116.9333
+Beverly Hills, -33.9500, 151.0833
+Bexley, -33.9500, 151.1333
+Big Bell, -27.3500, 117.6667
+Billiluna, -19.6167, 127.6833
+Biloela, -24.4000, 150.5000
+Bilpin, -33.5000, 150.5167
+Bimbowrie, -32.0500, 140.1500
+Bindebango, -27.7500, 147.4000
+Bingara, -29.8667, 150.5667
+Binna Burra, -28.2167, 153.2333
+Binnaway, -31.5500, 149.3833
+Birdsville, -25.9000, 139.3667
+Birdum, -15.6500, 133.2167
+Birdwood, -34.8167, 138.9500
+Birregurra, -38.3333, 143.8000
+Birrindudu, -18.3667, 129.4500
+Black Rock, -37.9833, 145.0167
+Black Springs, -33.8667, 149.7000
+Blackall, -24.4167, 145.4667
+Blackburn, -37.8167, 145.1500
+Blackbutt, -26.8833, 152.1000
+Blackheath, -33.6333, 150.2833
+Blacktown, -33.7667, 150.9167
+Blackwater, -23.5833, 148.8833
+Blackwood(Voctoria), -37.4833, 144.3167
+Blackwood(South Australia), -35.0333, 138.6167
+Blair Athol, -22.7000, 147.5500
+Blakehurst, -33.9833, 151.1167
+Blaxland, -33.7500, 150.6000
+Blayney, -33.5333, 149.2500
+Blenheim, -27.6500, 152.3333
+Blinman, -31.1000, 138.6833
+Bloods Creek, -26.4667, 135.2833
+Bloomsbury, -20.7167, 148.5833
+Blyth, -33.8500, 138.4833
+Boatman, -27.2667, 146.9167
+Bobbin Head, -33.6500, 151.1333
+Bodalla, -36.0833, 150.0500
+Bodallin, -31.3667, 118.8667
+Boddington, -32.8000, 116.4667
+Bogan Gate, -33.1167, 147.8000
+Bogantungan, -23.6500, 147.3000
+Boggabilla, -28.6167, 150.3500
+Boggabri, -30.7000, 150.0333
+Bohemia Downs, -18.8833, 126.2333
+Bokal, -33.4833, 116.9000
+Bolangum, -36.7667, 142.8833
+Bolgart, -31.2667, 116.5000
+Bolivar, -34.7667, 138.6000
+Bollon, -28.0833, 147.2500
+Bolwarra, -17.4000, 144.1833
+Bomaderry, -34.8500, 150.6167
+Bombala, -36.9000, 149.2333
+Bon Bon, -30.4333, 135.4667
+Bonbeach, -38.0667, 145.1333
+Bondi, -33.8833, 151.2833
+Bongaree, -27.0833, 153.1667
+Bonnie Rock, -30.5333, 118.3500
+Bonnyrigg, -33.9000, 150.9000
+Boogardie, -28.0333, 117.7833
+Bookabie, -31.8333, 132.6833
+Bookaloo, -31.9167, 137.3667
+Boolaloo, -22.5833, 115.8500
+Booleroo Centre, -32.8833, 138.3500
+Booligal, -33.8667, 144.8833
+Boologooro, -24.3500, 114.0333
+Boomarra, -19.5500, 140.3333
+Boomi, -28.7333, 149.5833
+Boonah, -28.0000, 152.6833
+Boorindal, -30.3500, 146.1333
+Booroorban, -34.9333, 144.7667
+Boorowa, -34.4333, 148.7167
+Boorthanna, -28.6333, 135.9000
+Bopeechee, -29.6000, 137.3833
+Borambola, -35.2000, 147.6833
+Borden, -34.0833, 118.2667
+Bordertown, -36.3167, 140.7833
+Boronia, -37.8667, 145.2833
+Borroloola, -16.0667, 136.2833
+Bossley Park, -33.8667, 150.9000
+Botany, -33.9500, 151.2000
+Bothwell, -42.3833, 147.0000
+Boulder, -30.7833, 121.4833
+Boulia, -22.9000, 139.9000
+Bourke, -30.0833, 145.9333
+Bowelling, -33.4167, 116.4833
+Bowen, -20.0167, 148.2500
+Bowenfels, -33.5167, 150.1167
+Bowmans, -34.1500, 138.2667
+Bowral, -34.4667, 150.4167
+Bowraville, -30.6500, 152.8500
+Box Hill, -37.8167, 145.1333
+Boyanup, -33.4833, 115.7333
+Boyup Brook, -33.8333, 116.4000
+Braeside, -21.2000, 121.0167
+Braeside, -37.9833, 145.1167
+Braidwood, -35.4500, 149.8000
+Bransby, -28.2333, 142.0667
+Branxholme, -37.8500, 141.7833
+Branxton, -32.6500, 151.3667
+Braybrook, -37.7833, 144.8500
+Breadalbane, -23.8167, 139.5833
+Bredbo, -35.9500, 149.1667
+Breeza Plains, -14.8333, 144.1167
+Brewarrina, -29.9500, 146.8667
+Brewongle, -33.4833, 149.7167
+Bridgetown, -33.9500, 116.1333
+Bright, -36.7333, 146.9667
+Brighton, -37.9167, 145.0000
+Brighton, -35.0167, 138.5167
+Brighton Downs, -23.3667, 141.5667
+Brighton-Le-Sands, -33.9667, 151.1500
+Brindabella, -35.3833, 148.7500
+Bringelly, -33.9333, 150.7333
+Brinkley, -35.2333, 139.2167
+Brinkworth, -33.7000, 138.4000
+Brisbane, -27.4667, 153.0333
+Brixton, -23.5333, 144.9500
+Broad Arrow, -30.3333, 121.4500
+Broadford, -37.2167, 145.0500
+Broadmeadows, -37.6667, 144.9000
+Brocks Creek, -13.4667, 131.4167
+Broke, -32.7500, 151.1000
+Broken Hill, -31.9500, 141.4500
+Bronte Park, -42.1333, 146.5000
+Brookton, -32.3667, 117.0167
+Brookvale, -33.7667, 151.2833
+Brooloo, -26.4833, 152.7000
+Broome, -17.9667, 122.2333
+Bruce Rock, -31.8833, 118.1500
+Brunette Downs, -18.6333, 135.9500
+Brungle, -35.1667, 148.2333
+Brunswick, -37.7667, 144.9667
+Brunswick Junction, -33.2500, 115.8500
+Bruthen, -37.7167, 147.8000
+Buckingham, -33.4000, 116.3167
+Buckleboo, -32.9167, 136.2000
+Bulga, -32.6500, 151.0167
+Bulgroo, -25.8000, 143.9833
+Bulimba, -27.4167, 153.0667
+Bullabulling, -31.0167, 120.5333
+Bullara, -22.6667, 114.0500
+Bullfinch, -30.9833, 119.1000
+Bulli, -34.3333, 150.9167
+Bullioh, -36.2000, 147.3333
+Bullock Creek, -17.7167, 144.5167
+Bulloo Downs, -28.5167, 142.9500
+Bullsbrook, -31.6667, 116.0167
+Bulyee, -32.3667, 117.5167
+Bunbury, -33.3167, 115.6333
+Bundaberg, -24.8667, 152.3500
+Bundanoon, -34.6500, 150.3000
+Bundarra, -30.1667, 151.0833
+Bundeena, -34.0833, 151.1500
+Bundooma, -24.9000, 134.2667
+Bundoora, -37.7000, 145.0667
+Bungendore, -35.2500, 149.4500
+Bungonia, -34.8500, 149.9500
+Buninyong, -37.6500, 143.8833
+Buntine, -29.9833, 116.5667
+Bunyip, -38.1000, 145.7167
+Burakin, -30.5167, 117.1667
+Burcher, -33.5333, 147.3000
+Burekup, -33.3167, 115.8167
+Burketown, -17.7167, 139.5667
+Burleigh Heads, -28.1000, 153.4500
+Burnie, -41.0667, 145.9000
+Burnside, -34.9500, 138.6667
+Burpengary, -27.1667, 152.9500
+Burra, -33.6667, 138.9333
+Burracoppin, -31.3833, 118.4833
+Burramurra, -20.5000, 137.3333
+Burrawang, -34.6000, 150.5167
+Burren Junction, -30.1000, 148.9667
+Burrundie, -13.5333, 131.7000
+Burtundy, -33.7333, 142.2667
+Burtville, -28.7833, 122.6500
+Burwood(New South Wales), -33.8833, 151.1000
+Burwood(Victoria), -37.8500, 145.1000
+Busby, -33.9000, 150.8833
+Bushy Park, -21.2667, 139.7167
+Busselton, -33.6500, 115.3333
+Bute, -33.8667, 138.0167
+Butru, -21.5000, 139.7167
+Byford, -32.2167, 116.0000
+Byro, -26.0833, 116.1500
+Byrock, -30.6667, 146.4000
+Byron Bay, -28.6500, 153.6167

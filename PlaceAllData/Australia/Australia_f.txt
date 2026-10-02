@@ -1,0 +1,45 @@
+Fairfield, -33.8667, 150.9500
+Fairview, -15.5500, 144.3167
+Fairy Meadow, -34.3833, 150.9000
+Falls Creek, -34.9833, 150.6000
+Farrell Flat, -33.8333, 138.7833
+Fawkner, -37.7167, 144.9667
+Ferguson, -33.4333, 115.8500
+Fernvale, -27.4500, 152.6500
+Ferny Creek, -37.8833, 145.3500
+Fingal, -41.6500, 147.9667
+Finke, -25.5667, 134.5833
+Finley, -35.6500, 145.5833
+Finniss, -35.4000, 138.8167
+First King, -31.8167, 124.3500
+Fish River, -17.9167, 137.7500
+Fisher, -30.5500, 130.9667
+Fitzroy, -37.8000, 144.9833
+Fitzroy Crossing, -18.1833, 125.5833
+Five Dock, -33.8667, 151.1333
+Flinton, -27.9000, 149.5667
+Flying Fish Cove, -10.4167, 105.7167
+Footscray, -37.8000, 144.9000
+Forbes, -33.3833, 148.0167
+Fords Bridge, -29.7500, 145.4333
+Forest Hill(Victoria), -37.8333, 145.1833
+Forest Hill(New South Wales), -35.1500, 147.4500
+Forest Hill(Queensland), -27.5833, 152.3667
+Forestville, -33.7667, 151.2167
+Forrest, -30.8500, 128.1000
+Forsayth, -18.5833, 143.6000
+Forster, -32.1833, 152.5167
+Fort Constantine, -20.4667, 140.6167
+Fort Dundas, -11.4000, 130.4833
+Fort Hurd, -11.6500, 130.3000
+Fossil Downs, -18.1333, 125.6333
+Foster, -38.6500, 146.2000
+Fowlers Bay, -31.9833, 132.4500
+Fox Valley, -33.7500, 151.1000
+Frankston, -38.1333, 145.1167
+Fraser Range, -32.0500, 122.8000
+Freestone, -28.1333, 152.1333
+Fremantle, -32.0500, 115.7500
+Frenchs Forest, -33.7500, 151.2333
+Frewena, -19.4167, 135.4167
+Frome Downs, -31.2167, 139.7667

@@ -1,0 +1,207 @@
+Wadderin Hill, -32.0000, 118.4500
+Wagerup, -32.9167, 115.9000
+Wagga Wagga, -35.1167, 147.3667
+Wagin, -33.3000, 117.3500
+Wahroonga, -33.7167, 151.1167
+Waikerie, -34.1833, 139.9833
+Waitara, -33.7167, 151.1167
+Waitpinga, -35.6167, 138.4833
+Walcha, -30.9833, 151.6000
+Walgett, -30.0167, 148.1167
+Walkaway, -28.9500, 114.8000
+Wallacia, -33.8667, 150.6500
+Wallal Downs, -19.7833, 120.6667
+Wallangarra, -28.9333, 151.9333
+Wallaroo, -33.9333, 137.6333
+Wallaroo Mines, -33.9500, 137.6833
+Wallerawang, -33.4167, 150.0667
+Wallgrove, -33.7833, 150.8500
+Wallsend, -32.9167, 151.6667
+Walpeup, -35.1333, 142.0333
+Walpole, -34.9500, 116.7333
+Walsh, -16.6500, 143.9000
+Walwa, -35.9667, 147.7500
+Wamuran, -27.0333, 152.8667
+Wanaaring, -29.7000, 144.1500
+Wanbi, -34.7667, 140.3167
+Wandana, -32.0667, 133.8167
+Wandering, -32.6667, 116.6667
+Wandoan, -26.1333, 149.9500
+Wangaratta, -36.3667, 146.3333
+Wangary, -34.5500, 135.4833
+Wangi Wangi, -33.0667, 151.5833
+Wanneroo, -31.7500, 115.8000
+Wantirna, -37.8500, 145.2333
+Wantirna South, -37.8667, 145.2333
+Waratah(Tasmania), -41.4500, 145.5333
+Waratah(New South Wales), -32.9000, 151.7333
+Warbreccan, -24.3000, 142.8500
+Warburton, -37.7667, 145.6833
+Warenda, -22.6167, 140.5333
+Warialda, -29.5333, 150.5667
+Waroona, -32.8333, 115.9167
+Warra, -26.9333, 150.9167
+Warracknabeal, -36.2500, 142.4000
+Warragul, -38.1667, 145.9333
+Warrandyte, -37.7500, 145.2167
+Warrandyte South, -37.7667, 145.2333
+Warrawagine, -20.8500, 120.7000
+Warrawee, -33.7333, 151.1167
+Warrawong, -34.4833, 150.8833
+Warren, -31.7000, 147.8333
+Warriewood, -33.7000, 151.3000
+Warrina, -28.2000, 135.8333
+Warrnambool, -38.3833, 142.4833
+Warwick, -28.2167, 152.0333
+Waterloo(South Australia), -33.9833, 138.8833
+Waterloo(Western Australia), -33.3333, 115.7833
+Waterloo(Northern Territory), -16.6333, 129.3000
+Watervale, -33.9500, 138.6333
+Watheroo, -30.2833, 116.0667
+Watson, -30.4833, 131.5167
+Watsonia, -37.7167, 145.0833
+Watsons Bay, -33.8500, 151.2833
+Watsons Creek, -37.6667, 145.2167
+Wattle Flat, -33.1333, 149.6833
+Wattle Glen, -37.6667, 145.1833
+Waubra, -37.3500, 143.6500
+Wauchope(Northern Territory) -20.6000, 134.2500
+Wauchope(New South Wales), -31.4500, 152.7333
+Waukaringa, -32.3000, 139.4333
+Wave Hill, -17.4833, 130.9500
+Waverley, -33.9000, 151.2667
+Wedderburn, -36.4167, 143.6167
+Wee Jasper, -35.1500, 148.6833
+Wee Waa, -30.2333, 149.4333
+Weebo, -28.0167, 121.0500
+Weethalle, -33.8833, 146.6333
+Weilmoringle, -29.2500, 146.8500
+Weipa, -12.6833, 141.8667
+Welbourn Hill, -27.3500, 134.1000
+Wellard, -32.3167, 115.8333
+Wellington, -32.5500, 148.9500
+Wellington Point, -27.4833, 153.2500
+Welshpool, -38.6500, 146.4333
+Wenlock, -13.1000, 142.9667
+Wentworth, -34.1167, 141.9167
+Wentworth Falls, -33.7167, 150.3667
+Wentworthville, -33.8000, 150.9667
+Wernadinga, -18.1167, 139.9667
+Werribee, -37.9000, 144.6667
+Werribee South, -37.9333, 144.7000
+Werrimull, -34.4000, 141.4333
+Werrington, -33.7500, 150.7667
+Werris Creek, -31.3500, 150.6500
+West Heidelberg, -37.7500, 145.0333
+West Hoxton, -33.9167, 150.8167
+West Pymble, -33.7667, 151.1333
+West Ryde, -33.8000, 151.0833
+West Toodyay, -31.5500, 116.4500
+West Torrens, -34.9333, 138.5333
+West Wallsend, -32.9000, 151.5833
+West Wyalong, -33.9167, 147.2167
+Westbrook, -27.6000, 151.8667
+Westby, -35.5000, 147.4167
+Westgate, -26.5833, 146.2000
+Weston, -32.8167, 151.4667
+Wetherill Park, -33.8500, 150.9000
+Whalan, -33.7500, 150.8167
+Wheelers Hill, -37.9167, 145.1833
+Whim Creek, -20.8333, 117.8333
+White Cliffs(New South Wales), -30.8500, 143.0833
+White Cliffs(Western Australia), -28.4333, 122.9500
+Whitemark, -40.1167, 148.0167
+Whitewood, -21.4667, 143.6000
+Whittlesea, -37.5167, 145.1167
+Whyalla, -33.0333, 137.5833
+Wickepin, -32.7667, 117.5000
+Widgiemooltha, -31.5000, 121.5667
+Wilberforce, -33.5500, 150.8333
+Wilcannia, -31.5667, 143.3833
+Wilgena, -30.7667, 134.7333
+Willaston, -34.6000, 138.7500
+Willeroo, -15.2833, 131.5833
+William Creek, -28.9167, 136.3500
+Williams, -33.0167, 116.8667
+Williamsdale, -35.5833, 149.1500
+Williamstown(Victoria), -37.8667, 144.9000
+Williamstown(South Australia), -34.6667, 138.8833
+Williamtown, -32.8167, 151.8333
+Willoughby, -33.8000, 151.2000
+Willowra, -21.2500, 132.5833
+Willunga, -35.2833, 138.5500
+Wilmington, -32.6500, 138.1167
+Wilson, -32.0000, 138.3667
+Wiluna, -26.6000, 120.2167
+Winchelsea, -38.2500, 143.9833
+Windang, -34.5333, 150.8833
+Windera, -26.0500, 151.8333
+Windorah, -25.4333, 142.6500
+Windsor(New South Wales), -33.6167, 150.8167
+Windsor(South Australia), -34.4167, 138.3333
+Wingello, -34.7000, 150.1500
+Wingham, -31.8667, 152.3667
+Winning, -23.1500, 114.5333
+Wintinna, -27.7333, 134.1167
+Winton, -22.3833, 143.0333
+Wirraminna, -31.2000, 136.2500
+Wirrulla, -32.4000, 134.5167
+Wisemans Ferry, -33.4000, 150.9833
+Wittenoom, -22.2833, 118.3167
+Woden, -35.3667, 149.1333
+Wodgina, -21.1833, 118.6667
+Wodonga, -36.1167, 146.9000
+Wokalup, -33.1000, 115.8833
+Wollogorang, -17.2167, 137.9500
+Wollombi, -32.9333, 151.1500
+Wollongong, -34.4167, 150.9000
+Wombarra, -34.2667, 150.9667
+Wonarah, -19.9167, 136.3333
+Wondai, -26.3167, 151.8667
+Wondinong, -27.8667, 118.4167
+Wonga Park, -37.7333, 145.2667
+Wongan Hills, -30.8833, 116.7000
+Wonthaggi, -38.6000, 145.5833
+Woocalla, -31.7000, 137.2167
+Woodchester, -35.2167, 138.9500
+Woodenbong, -28.3833, 152.6167
+Woodend, -37.3667, 144.5333
+Woodford, -26.9500, 152.7833
+Woodridge, -27.6333, 153.1000
+Woods, -34.2500, 138.5167
+Woods Point, -37.5833, 146.2500
+Woodside(Victoria), -38.5167, 146.8667
+Woodside(South Australia), -34.9500, 138.8667
+Woodstock, -22.2500, 141.9500
+Woodville, -34.8833, 138.5333
+Wool Bay, -35.0000, 137.7500
+Woolgangie, -31.1667, 120.5333
+Woolgoolga, -30.1167, 153.2000
+Woollahra, -33.8833, 151.2500
+Woomargama, -35.8333, 147.2500
+Woomera, -31.5167, 137.1667
+Woonona, -34.3500, 150.9167
+Woorabinda, -24.1333, 149.4667
+Wooramel, -25.7333, 114.2833
+Woorim, -27.1333, 153.2000
+Wooroloo, -31.8000, 116.3167
+Woronora, -34.0167, 151.0500
+Wowan, -23.9167, 150.2000
+Woy Woy, -33.5000, 151.3333
+Wubin, -30.1000, 116.6333
+Wudinna, -33.0500, 135.4667
+Wundowie, -31.7667, 116.3667
+Wuraming, -32.8000, 116.2667
+Wurarga, -28.4167, 116.2833
+Wyalkatchem, -31.1667, 117.3667
+Wyandra, -27.2500, 145.9833
+Wycheproof, -36.0833, 143.2333
+Wydgee, -28.8500, 117.8167
+Wyee, -33.1833, 151.4833
+Wymah, -36.0333, 147.2833
+Wynbring, -30.5500, 133.5333
+Wyndham, -15.4667, 128.1000
+Wynnum, -27.4500, 153.1667
+Wynyard, -40.9833, 145.6833
+Wyong, -33.2833, 151.4167
+Wyreema, -27.6500, 151.8667

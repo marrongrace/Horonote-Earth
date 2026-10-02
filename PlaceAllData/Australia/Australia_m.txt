@@ -1,0 +1,298 @@
+Mabel Creek, -29.0167, 134.2833
+Macclesfield, -35.1667, 138.8333
+MacDonald Downs, -22.4500, 135.2167
+Mackay, -21.1500, 149.1833
+Macksville, -30.7167, 152.9167
+Maclean, -29.4667, 153.2167
+Macleod, -37.7167, 145.0667
+Macquarie Fields, -33.9833, 150.8833
+Maddington, -32.0500, 115.9833
+Madura, -31.9167, 127.0000
+Maffra, -37.9667, 146.9833
+Maggieville, -17.4500, 141.1667
+Maidstone, -37.7833, 144.8667
+Mainoru, -14.0333, 134.0833
+Maitland(South Australia), -34.3667, 137.6667
+Maitland(New South Wales), -32.7333, 151.5500
+Malabar, -33.9667, 151.2500
+Malbon, -21.0667, 140.3000
+Malbooma, -30.6833, 134.1833
+Malcolm, -28.9333, 121.5000
+Maldon, -37.0000, 144.0667
+Mallala, -34.4333, 138.5000
+Mallapunyah, -16.9833, 135.8167
+Mallina, -20.8833, 118.0333
+Malmsbury, -37.2000, 144.3833
+Malpas, -34.7167, 140.6167
+Malvern, -37.8667, 145.0333
+Malvern Hills, -24.4833, 145.1667
+Mandora, -19.7333, 120.8500
+Mandurah, -32.5333, 115.7167
+Mangoplah, -35.3833, 147.2500
+Mangrove Mountain, -33.3167, 151.2333
+Manilla, -30.7500, 150.7167
+Maningrida, -12.0500, 134.2167
+Manjimup, -34.2333, 116.1500
+Manly, -33.8000, 151.2833
+Mannahill, -32.4333, 139.9833
+Mannus, -35.8000, 147.9500
+Manoora, -34.0000, 138.8167
+Mansfield, -37.0500, 146.0833
+Many Peaks, -24.5500, 151.3833
+Maranalgo, -29.3833, 117.8000
+Maranboy, -14.5000, 132.7500
+Marathon, -20.8167, 143.5667
+Marayong, -33.7500, 150.9000
+Marble Bar, -21.1833, 119.7333
+Marburg, -27.5667, 152.5833
+Marda, -30.2167, 119.2833
+Mardie, -21.1833, 115.9500
+Mareeba, -17.0000, 145.4333
+Margaret River(Pilbara), -18.6333, 126.8667
+Margaret River(South West), -33.9500, 115.0667
+Maribyrnong, -37.7667, 144.9000
+Marion, -35.0167, 138.5667
+Marion Downs, -23.3667, 139.6500
+Marlborough, -22.8167, 149.8833
+Maroon, -28.1667, 152.7333
+Maroubra, -33.9500, 151.2667
+Marrabel, -34.1333, 138.8833
+Marradong, -32.8667, 116.4500
+Marrawah, -40.9333, 144.6833
+Marree, -29.6500, 138.0667
+Marrickville, -33.9167, 151.1500
+Marsden, -33.7500, 147.5333
+Marsden Park, -33.7000, 150.8333
+Marsfield, -33.7833, 151.1167
+Martinsville, -33.0500, 151.4167
+Marulan, -34.7167, 150.0000
+Marulan South, -34.7667, 150.0333
+Marvel Loch, -31.4667, 119.4667
+Mary Kathleen, -20.8167, 139.9667
+Maryborough(Queensland), -25.5333, 152.7000
+Maryborough(Victoria), -37.0500, 143.7500
+Marysville, -37.5167, 145.7500
+Maryvale, -28.0833, 152.2500
+Mascot, -33.9333, 151.2000
+Matakana, -33.0000, 145.9000
+Mataranka, -14.9333, 133.1167
+Matraville, -33.9000, 151.3000
+Maude, -34.4667, 144.3000
+Maydena, -42.9167, 146.5000
+McArthur River, -16.4500, 136.1167
+McDouall Peak, -29.8500, 134.9167
+McKinlay, -21.2667, 141.2833
+Meadow Flat, -33.4333, 149.9333
+Meadows, -35.1833, 138.7667
+Meandarra, -27.3333, 149.8833
+Meckering, -31.6333, 117.0167
+Meeberrie, -26.9667, 115.9667
+Meekatharra, -26.6000, 118.4833
+Meenaar, -31.6333, 116.8833
+Meentheena, -21.2833, 120.4667
+Meka, -27.4333, 116.8000
+Melbourne, -37.8167, 144.9667
+Melrose, -32.7000, 146.9667
+Melrose, -27.9333, 121.3167
+Melton(Victoria), -37.6833, 144.5833
+Melton(South Australia), -34.0833, 137.9833
+Melville, -32.0500, 115.8167
+Menai, -34.0167, 151.0167
+Menangina, -29.8333, 121.9000
+Menindee, -32.4000, 142.4333
+Meningie, -35.7000, 139.3333
+Menzies, -29.6833, 121.0333
+Merbein, -34.1833, 142.0667
+Meredith, -37.8500, 144.0667
+Merewether, -32.9500, 151.7667
+Meribah, -34.7000, 140.8500
+Merimbula, -36.8833, 149.9000
+Merinda, -20.0167, 148.1667
+Merlynston, -37.7167, 144.9667
+Mermaid Beach, -28.0500, 153.4500
+Merredin, -31.4833, 118.2667
+Merriwa, -32.1333, 150.3500
+Merrygoen, -31.8333, 149.2333
+Merrylands, -33.8333, 150.9833
+Merton, -36.9833, 145.7000
+Michelago, -35.7167, 149.1667
+Middalya, -23.9167, 114.7500
+Middle Swan, -31.8667, 116.0000
+Middleton, -22.3667, 141.5333
+Midland, -31.8833, 116.0000
+Milang, -35.4167, 138.9667
+Mildura, -34.2000, 142.1500
+Miles, -26.6667, 150.1833
+Mileura, -26.3833, 117.3333
+Miling, -30.5000, 116.3500
+Millendon, -31.8000, 116.0333
+Millicent, -37.6000, 140.3667
+Millmerran, -27.8667, 151.2667
+Millstream, -21.5833, 117.0667
+Milparinka, -29.7333, 141.8833
+Milton, -35.3167, 150.4333
+Minderoo, -22.0000, 115.0333
+Mingary, -32.1333, 140.7333
+Mingela, -19.8833, 146.6333
+Mingenew, -29.1833, 115.4333
+Minilya, -23.8500, 113.9667
+Minlaton, -34.7667, 137.6000
+Minnie Creek, -24.0333, 115.7000
+Minnipa, -32.8500, 135.1500
+Mintaro, -33.9167, 138.7167
+Minto, -34.0167, 150.8500
+Miranda, -34.0333, 151.1000
+Mirboo North, -38.4000, 146.1667
+Miriam Vale, -24.3333, 151.5667
+Mistake Creek, -17.1000, 129.0667
+Mitcham, -34.9833, 138.6000
+Mitcham, -37.8167, 145.2000
+Mitchell, -26.4833, 147.9667
+Mitchell River Mission, -15.4667, 141.7333
+Mittagong, -34.4500, 150.4500
+Moama, -36.1167, 144.7833
+Moana, -35.2167, 138.4833
+Moe, -38.1667, 146.2500
+Mole Creek, -41.5500, 146.4000
+Molong, -33.1000, 148.8667
+Mona Vale, -33.6833, 151.3000
+Monarto South, -35.1333, 139.1333
+Monbulk, -37.8667, 145.4167
+Monkira, -24.8167, 140.5667
+Mont Park, -37.7167, 145.0667
+Montejinni, -16.6667, 131.7500
+Montmorency, -37.7167, 145.1167
+Monto, -24.8667, 151.1167
+Montrose, -37.8167, 145.3500
+Moolawatana, -29.9167, 139.7167
+Mooloogool, -26.1000, 119.0833
+Moonta, -34.0667, 137.5833
+Moonyoonooka, -28.7833, 114.7167
+Moora, -30.6500, 116.0000
+Moorabbin, -37.9333, 145.0333
+Mooraberree, -25.2333, 140.9833
+Moorarie, -25.9333, 117.5833
+Moore, -26.8833, 152.3000
+Moorebank, -33.9333, 150.9333
+Moorooka, -27.5333, 153.0333
+Mooroolbark, -37.7833, 145.3167
+Morawa, -29.2167, 116.0000
+Morayfield, -27.1167, 152.9500
+Mordialloc, -38.0000, 145.0833
+Moree, -29.4667, 149.8500
+Morella, -22.9833, 143.8667
+Moreton, -12.4667, 142.6333
+Morgan, -34.0333, 139.6667
+Morisset, -33.1000, 151.4833
+Morney, -25.3667, 141.4667
+Mornington, -38.2167, 145.0500
+Morphett Vale, -35.1167, 138.5167
+Mortana, -33.0333, 134.1167
+Mortlake(Victoria), -38.0833, 142.8000
+Mortlake(New South Wales), -33.8500, 151.1167
+Moruya, -35.9167, 150.0833
+Morven, -26.4167, 147.1167
+Morwell, -38.2333, 146.4000
+Mosman, -33.8167, 151.2333
+Mosman Park, -32.0167, 115.7667
+Moss Vale, -34.5500, 150.3667
+Mossgiel, -33.2500, 144.5667
+Mossman, -16.4667, 145.3667
+Moulamein, -35.0833, 144.0333
+Mount Alford, -28.0667, 152.6000
+Mount Augustus, -24.3167, 116.9000
+Mount Barker(South Australia), -35.0667, 138.8667
+Mount Barker(North Australia), -34.6333, 117.6667
+Mount Buller, -37.1667, 146.4500
+Mount Cavenagh, -25.9667, 133.2500
+Mount Colah, -33.6833, 151.1167
+Mount Compass, -35.3667, 138.6167
+Mount Crawford, -34.6667, 138.9500
+Mount Crosby, -27.5333, 152.8000
+Mount Dandenong, -37.8333, 145.3667
+Mount Doreen, -22.0500, 131.3000
+Mount Druitt, -33.7667, 150.8167
+Mount Dutton, -27.8333, 135.7167
+Mount Eba, -30.2000, 135.6667
+Mount Edwards, -28.0167, 152.5167
+Mount Evelyn, -37.7833, 145.3833
+Mount Gambier, -37.8333, 140.7667
+Mount Garnet, -17.6833, 145.1167
+Mount Gravatt, -27.5500, 153.1000
+Mount Hawthorn, -31.9167, 115.8333
+Mount Helena, -31.8833, 116.2167
+Mount Hope, -34.1167, 135.3833
+Mount Howitt, -26.5167, 142.2667
+Mount Isa, -20.7333, 139.5000
+Mount Kokeby, -32.2167, 116.9667
+Mount Lawley, -31.9333, 115.8667
+Mount Magnet, -28.0667, 117.8167
+Mount Manara, -32.4833, 143.9333
+Mount Margaret, -26.9000, 143.3500
+Mount Martha, -38.2833, 145.0167
+Mount Mee, -27.0667, 152.7667
+Mount Molloy, -16.6833, 145.3333
+Mount Monger, -30.9833, 121.8833
+Mount Morgan, -23.6500, 150.3833
+Mount Mulligan, -16.8500, 144.8667
+Mount Perry, -25.1833, 151.6500
+Mount Pleasant, -34.7833, 139.0333
+Mount Pritchard, -33.9000, 150.9000
+Mount Rebecca, -26.8000, 135.1667
+Mount Riddock, -23.0500, 134.6667
+Mount Sandiman, -24.4000, 115.3833
+Mount Sarah, -26.9500, 135.3667
+Mount Surprise, -18.1500, 144.3167
+Mount Sylvia, -27.7333, 152.2333
+Mount Torrens, -34.8667, 138.9500
+Mount Vernon, -24.2167, 118.2333
+Mount Victoria, -33.5833, 150.2500
+Mount Waverley, -37.8833, 145.1333
+Mount Wedge(Northern Territory), -22.7500, 132.1500
+Mount Wedge(South Australia), -33.4833, 135.1667
+Mount Willoughby, -27.9667, 134.1333
+Moyagee, -27.7500, 117.9000
+Muccan, -20.6333, 120.0667
+Muchea, -31.5833, 115.9833
+Muckadilla, -26.5833, 148.3833
+Mudgee, -32.6000, 149.5833
+Mudgeeraba, -28.0667, 153.3667
+Mukinbudin, -30.9000, 118.2167
+Mulga Downs, -22.1333, 118.4333
+Mulgathing, -30.2500, 134.0000
+Mulgoa, -33.8333, 150.6667
+Mulgowie, -27.7167, 152.3667
+Mulgrave, -37.9333, 145.2000
+Mulgul, -24.8167, 118.4333
+Mullengudgery, -31.6833, 147.4333
+Mullewa, -28.5500, 115.5167
+Mullumbimby, -28.5500, 153.5000
+Mundaring, -31.9000, 116.1667
+Mundijong, -32.3000, 115.9833
+Mundiwindi, -23.8667, 120.1500
+Mundrabilla, -31.8667, 127.8500
+Mundubbera, -25.6000, 151.3000
+Mungallala, -26.4500, 147.5500
+Mungana, -17.1167, 144.4000
+Mungar Junction, -25.6000, 152.6000
+Mungeranie, -28.0000, 138.6000
+Mungindi, -28.9667, 148.9833
+Muntadgin, -31.7500, 118.5667
+Murchison, -36.6167, 145.2333
+Murgon, -26.2500, 151.9500
+Murra Murra, -28.2667, 146.8000
+Murray Bridge, -35.1167, 139.2833
+Murray Downs, -21.0667, 134.6667
+Murrin Murrin, -28.9167, 121.8167
+Murrumburrah, -34.5500, 148.3500
+Murrurundi, -31.7667, 150.8333
+Murtee, -31.5833, 143.5000
+Murtoa, -36.6167, 142.4667
+Murwillumbah, -28.3167, 153.4000
+Musgrave, -14.7833, 143.5000
+Muswellbrook, -32.2667, 150.8833
+Muttaburra, -22.6000, 144.5500
+Mylor, -35.0500, 138.7500
+Myponga, -35.4000, 138.4667
+Myroodah, -18.1333, 124.2667
+Myrtleville, -34.4833, 149.8167

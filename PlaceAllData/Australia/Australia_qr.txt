@@ -1,0 +1,107 @@
+Quairading, -32.0167, 117.4167
+Quakers Hill, -33.7167, 150.8833
+Quambatook, -35.8500, 143.5167
+Queanbeyan, -35.3500, 149.2333
+Queenscliff, -38.2667, 144.6667
+Queenstown, -42.0833, 145.5500
+Quilpie, -26.6167, 144.2500
+Quindanning, -33.0500, 116.5667
+Quirindi, -31.5167, 150.6833
+Quorn, -32.3500, 138.0500
+Raglan, -33.4333, 149.6000
+Railton, -41.3500, 146.4167
+Ramsgate, -33.9833, 151.1333
+Rand, -35.6000, 146.5833
+Randwick, -33.9167, 151.2500
+Ranford, -32.8000, 116.5167
+Ranken Store, -19.5833, 136.9167
+Rankins Springs, -33.8333, 146.2667
+Rapid Bay, -35.5333, 138.2000
+Rathdowney, -28.2000, 152.8667
+Ravensbourne, -27.3667, 152.1667
+Ravenshoe, -17.6167, 145.4833
+Ravensthorpe, -33.5833, 120.0333
+Rawlinna, -31.0167, 125.3333
+Raymond Terrace, -32.7667, 151.7333
+Red Cliffs, -34.3167, 142.1833
+Red Hill, -21.9833, 116.0500
+Redcliffe, -27.2333, 153.1167
+Redland Bay, -27.6167, 153.3000
+Regent, -37.7333, 145.0000
+Regents Park, -33.8833, 151.0333
+Regentville, -33.7833, 150.6667
+Reid, -30.8167, 128.4333
+Renmark, -34.1833, 140.7500
+Renner Springs, -18.3333, 133.8000
+Research, -37.7000, 145.1833
+Reservoir, -37.7167, 145.0000
+Revesby, -33.9500, 151.0167
+Reynella, -35.1000, 138.5333
+Rhodes, -33.8333, 151.0833
+Richmond(Victoria), -37.8167, 145.0000
+Richmond(New South Wales), -33.6000, 150.7667
+Richmond(Queensland), -20.7333, 143.1333
+Ringwood, -37.8167, 145.2333
+Ringwood North, -37.8000, 145.2333
+Riversleigh, -19.0333, 138.7333
+Riverstone, -33.6667, 150.8667
+Riverton, -34.1500, 138.7500
+Riverwood, -33.9500, 151.0500
+Robe, -37.1833, 139.7500
+Robertson, -34.5833, 150.5833
+Robertstown, -34.0000, 139.0833
+Robinvale, -34.6000, 142.7667
+Rochester, -36.3667, 144.7000
+Rock Flat, -36.3500, 149.2000
+Rockbank, -37.7167, 144.6500
+Rockdale, -33.9500, 151.1333
+Rockhampton, -23.3833, 150.5167
+Rockhampton Downs, -18.9500, 135.0167
+Rockingham, -32.2833, 115.7333
+Rocky Gully, -34.5000, 116.8000
+Rodinga, -24.5667, 134.0833
+Roebourne, -20.7833, 117.1500
+Roelands, -33.3000, 115.8333
+Rogans Hill, -33.7333, 151.0167
+Rokewood, -37.9000, 143.7167
+Rokewood Junction, -37.8500, 143.6833
+Roleystone, -32.1333, 116.0667
+Rolleston, -24.4667, 148.6167
+Rollingstone, -19.0500, 146.4000
+Roma, -26.5833, 148.7833
+Romsey, -37.3500, 144.7500
+Rooty Hill, -33.7667, 150.8333
+Roper River Mission, -14.7333, 134.7333
+Roper Valley, -14.9333, 134.0000
+Rosanna, -37.7500, 145.0667
+Roseberth, -25.7833, 139.6167
+Rosebery, -41.7667, 145.5333
+Rosebud, -38.3500, 144.9000
+Rosedale, -24.6333, 151.9167
+Rosevale, -27.8500, 152.4833
+Roseville, -33.7833, 151.1833
+Rosewood(Queensland), -27.6500, 152.5833
+Rosewood(New South Wales), -35.6833, 147.8667
+Roseworthy, -34.5333, 138.7333
+Ross, -42.0333, 147.4833
+Rossmore, -33.9500, 150.7667
+Rothsay, -29.2833, 116.8833
+Roto, -33.0500, 145.4667
+Rouse Hill, -33.6833, 150.9333
+Rowena, -29.8167, 148.9000
+Rowland Flat, -34.5833, 138.9333
+Rowville, -37.9333, 145.2333
+Roxborough Downs, -22.5000, 138.8333
+Roy Hill, -22.6333, 119.9500
+Royalla, -35.5167, 149.1500
+Rozelle, -33.8667, 151.1667
+Rudall, -33.6833, 136.2667
+Rum Jungle, -13.0167, 131.0000
+Rumbalara, -25.3333, 134.4833
+Rumula, -16.5833, 145.3333
+Rupari, -35.6167, 139.1500
+Rydal, -33.4833, 150.0333
+Rydalmere, -33.8167, 151.0333
+Ryde, -33.8167, 151.1000
+Rye, -38.3833, 144.8167
+Rylstone, -32.8000, 149.9667
