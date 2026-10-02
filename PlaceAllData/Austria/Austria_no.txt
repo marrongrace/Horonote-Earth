@@ -1,0 +1,48 @@
+Namlos, 47.3500, 10.6667
+Nassereith, 47.3167, 10.8333
+Natters, 47.2333, 11.3667
+Nauders, 46.8833, 10.5000
+Navis, 47.1167, 11.5333
+Nenzing, 47.1833, 9.7000
+Nesselwängle, 47.4833, 10.6167
+Neu-Reisenberg, 48.0167, 16.5000
+Neufelden, 48.4833, 14.0000
+Neuhaus, 47.7833, 15.1833
+Neukirchen(Oberösterreich), 47.8667, 13.7000
+Neukirchen(Salzburg), 47.2500, 12.2833
+Neukirchen am Walde, 48.4000, 13.7667
+Neumarkt am Wallersee, 47.9500, 13.2333
+Neumarkt im Hansruckkreis, 48.2667, 13.7500
+Neumarkt in Steiermark, 47.0667, 14.4167
+Neunkirchen, 47.7167, 16.0833
+Neusiedl am See, 47.9500, 16.8500
+Neustift im Stubaital, 47.1167, 11.3167
+Niedersulz, 48.4833, 16.6667
+Nikolsdorf, 46.7833, 12.9167
+Nofels, 47.2500, 9.5667
+Nussdorf am Attersee, 47.8833, 13.5167
+Oberaurach, 47.4000, 12.4333
+Oberdrauburg, 46.7500, 12.9667
+Obergurgl, 46.8667, 11.0167
+Oberkirchbach, 48.2833, 16.2000
+Obermieming, 47.3000, 10.9833
+Obermühl, 48.4500, 13.9167
+Obernberg am Inn, 48.3167, 13.3333
+Oberndorf bei Salzburg, 47.9500, 12.9333
+Oberndorf in Tirol, 47.5000, 12.3833
+Oberpettnau, 47.3000, 11.1333
+Oberpullendorf, 47.5167, 16.5167
+Obertilliach, 46.7000, 12.6167
+Obertraun, 47.5500, 13.6833
+Obertrum, 47.9333, 13.0833
+Obervellach, 46.9333, 13.2000
+Oberwart, 47.2833, 16.2167
+Oberwölz Stadt, 47.2167, 14.2833
+Oberzeiring, 47.2500, 14.4833
+Obsteig, 47.3000, 10.9333
+Oepping, 48.6000, 13.9333
+Oetz, 47.2000, 10.9000
+Ohlsdorf, 47.9500, 13.7833
+Oppenberg, 47.4833, 14.2667
+Ottenschlag, 48.4167, 15.2167
+Ottnang, 48.1000, 13.6667

@@ -1,0 +1,15 @@
+Igls, 47.2333, 11.4167
+Imst, 47.2333, 10.7333
+Innerbraz, 47.1500, 9.9167
+Innerfragant, 46.9667, 13.0667
+Innervillgraten, 46.8000, 12.3833
+Innsbruck, 47.2667, 11.4000
+Irdning, 47.5500, 14.0167
+Ischgl, 47.0167, 10.2833
+Jenbach, 47.4000, 11.7833
+Jennersdorf, 46.9500, 16.1333
+Jerzens, 47.1667, 10.7500
+Jochberg, 47.3833, 12.4000
+Judenau, 48.2833, 16.0000
+Judenburg, 47.1667, 14.6667
+Julbach, 48.6667, 13.8667

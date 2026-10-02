@@ -1,0 +1,108 @@
+Saalbach, 47.3833, 12.6333
+Saalfelden, 47.4167, 12.8500
+Sachsenburg, 46.8333, 13.3500
+Salzburg, 47.8000, 13.0333
+Sandl, 48.5500, 14.6333
+Sankt Aegyd am Neuwalde, 47.8667, 15.5833
+Sankt Andrä, 46.7667, 14.8167
+Sankt Andrä vor dem Hagenthale, 48.3167, 16.2167
+Sankt Anton am Arlberg, 47.1333, 10.2667
+Sankt Gallen, 47.6833, 14.6167
+Sankt Gallenkirch, 47.0167, 9.9833
+Sankt Georgen, 46.7167, 14.9167
+Sankt Georgen im Attergau, 47.9333, 13.4833
+Sankt Gilgen, 47.7667, 13.3667
+Sankt Jakob im Lesachtal, 46.6833, 12.9333
+Sankt Jakob in Defereggen, 46.9167, 12.3333
+Sankt Johann am Tauern, 47.3667, 14.4833
+Sankt Johann im Pongau, 47.3500, 13.2000
+Sankt Johann im Walde, 46.9000, 12.6167
+Sankt Johann in Tirol, 47.5167, 12.4333
+Sankt Leonhard im Pitztal, 47.0667, 10.8500
+Sankt Lorenzen im Lesachtal, 46.7000, 12.7833
+Sankt Martin, 47.4667, 13.3833
+Sankt Michael im Lungau, 47.1000, 13.6333
+Sankt Paul im Lavanttal, 46.7000, 14.8667
+Sankt Pölten, 48.2000, 15.6167
+Sankt Stefan an der Gail, 46.6167, 13.5167
+Sankt Valentin, 48.1667, 14.5333
+Sankt Veit an der Glan, 46.7667, 14.3500
+Sankt Veit im Pongau, 47.3333, 13.1500
+Sankt Wolfgang im Salzkammergut, 47.7333, 13.4500
+Sattledt, 48.0667, 14.0500
+Schalchen, 48.1167, 13.1667
+Schardenberg, 48.5333, 13.5000
+Scharfling, 47.8000, 13.4167
+Scharnitz, 47.3833, 11.2833
+Scheffau an der Lammer, 47.5833, 13.2000
+Scheibbs, 48.0000, 15.1667
+Scheiblingstein, 48.2667, 16.2167
+Scheifling, 47.1500, 14.4000
+Schladming, 47.3833, 13.6833
+Schneegattern, 48.0167, 13.3000
+Schrems, 48.7833, 15.0667
+Schrick, 48.5000, 16.6167
+Schruns, 47.0667, 9.9167
+Schröcken, 47.2500, 10.0833
+Schwadorf, 48.0667, 16.5833
+Schwanenstadt, 48.0500, 13.7667
+Schwarzach, 47.4500, 9.7500
+Schwarzach im Pongau, 47.3167, 13.1500
+Schwaz, 47.3333, 11.7000
+Schwechat, 48.1333, 16.4833
+Schwerting, 48.0167, 12.9500
+Schärding, 48.4500, 13.4333
+Schönberg, 48.7167, 13.8667
+Schönberg im Stubaital, 47.1833, 11.4167
+Schönwies, 47.1833, 10.6500
+Schörfling, 47.9333, 13.6000
+Seckau, 47.2667, 14.7833
+See(Salzburg), 47.8000, 13.4500
+See(Tirol), 47.0833, 10.4667
+Seeboden, 46.8167, 13.5000
+Seefeld in Tirol, 47.3333, 11.1833
+Seehaus, 47.7500, 13.9500
+Seekirchen Markt, 47.9000, 13.1333
+Seetal, 47.1500, 13.9500
+Seewalchen am Attersee, 47.9500, 13.5833
+Seewiesen, 47.6167, 15.2667
+Seitenstetten, 48.0333, 14.6500
+Seiz, 47.3833, 14.9167
+Semmering, 47.6333, 15.8167
+Serfaus, 47.0333, 10.6000
+Seyring, 48.3333, 16.4833
+Siegenfeld, 48.0333, 16.1667
+Siezenheim, 47.8000, 12.9833
+Silbertal, 47.0833, 9.9833
+Sillian, 46.7500, 12.4167
+Sittendorf, 48.0833, 16.1667
+Solbad Hall in Tirol, 47.2833, 11.5167
+Sollenau, 47.8833, 16.2500
+Sonntagberg, 47.9833, 14.7500
+Spannberg, 48.4500, 16.7333
+Sparbach, 48.0667, 16.1833
+Spital am Pyhrn, 47.6500, 14.3333
+Spittal an der Drau, 46.8000, 13.5000
+Spitz, 48.3667, 15.4167
+Staatz, 48.6667, 16.4833
+Stadl an der Mur, 47.0833, 13.9667
+Stadl-Paura, 48.0833, 13.8833
+Stadt Haag, 48.1167, 14.5667
+Stainz, 46.9000, 15.2667
+Stams, 47.2667, 10.9833
+Stanz, 47.4667, 15.5000
+Stanzach, 47.3833, 10.5667
+Steeg, 47.2333, 10.2833
+Stegersbach, 47.1667, 16.1667
+Steinach, 47.0833, 11.4667
+Steinfeld, 46.7500, 13.2500
+Steyr, 48.0500, 14.4167
+Stockerau, 48.3833, 16.2167
+Strass bei Jenbach, 47.3833, 11.8167
+Strasswalchen, 47.9833, 13.2500
+Strengen, 47.1333, 10.4500
+Strobl, 47.7167, 13.4833
+Stumm, 47.2833, 11.8833
+Suben, 48.4167, 13.4333
+Sölden, 46.9667, 11.0000
+Söll, 47.5000, 12.1833

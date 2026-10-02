@@ -1,0 +1,76 @@
+Pack, 46.9667, 14.9833
+Palfau, 47.7000, 14.8000
+Parndorf, 47.9833, 16.8500
+Partenen, 46.9667, 10.0500
+Patergassen, 46.8167, 13.8667
+Paternion, 46.7167, 13.6333
+Peilstein im Mühlviertel, 48.6167, 13.8833
+Pellendorf, 48.1000, 16.4500
+Perchau, 47.1000, 14.4500
+Perchtoldsdorf, 48.1167, 16.2833
+Perg, 48.2500, 14.6167
+Pernitz, 47.9000, 15.9667
+Pertisau, 47.4333, 11.7000
+Pettenbach, 47.9500, 14.0167
+Pettneu am Arlberg, 47.1500, 10.3333
+Peuerbach, 48.3500, 13.9333
+Pfaffstätten, 48.0167, 16.2667
+Pfunds, 46.9667, 10.5500
+Pians, 47.1333, 10.5000
+Piberegg, 47.0833, 15.0833
+Pichl bei Wels, 48.1833, 13.9000
+Piesendorf, 47.2833, 12.7167
+Pinkafeld, 47.3667, 16.1167
+Plangeross, 46.9833, 10.8667
+Podersdorf am See, 47.8500, 16.8333
+Poysdorf, 48.6667, 16.6333
+Pram, 48.2333, 13.6167
+Prambachkirchen, 48.3167, 13.9167
+Predlitz, 47.0667, 13.9167
+Pregarten, 48.3500, 14.5333
+Pressbaum, 48.1833, 16.0833
+Pruggern, 47.4167, 13.8667
+Prutz, 47.0833, 10.6667
+Prägraten, 47.0167, 12.3833
+Puchberg am Schneeberg, 47.7833, 15.9000
+Pulkau, 48.7000, 15.8500
+Purgstall, 48.0500, 15.1333
+Purkersdorf, 48.2000, 16.1833
+Pöchlarn, 48.2000, 15.2167
+Pöllau, 47.3000, 15.8500
+Pörtschach, 46.6167, 14.1333
+Pürgg, 47.5333, 14.0667
+Raab, 48.3500, 13.6500
+Raabs an der Thaya, 48.8500, 15.5000
+Raasdorf, 48.2500, 16.5667
+Radenthein, 46.8000, 13.7167
+Radkersburg, 46.6833, 15.9833
+Radstadt, 47.3833, 13.4500
+Ragnitz, 46.8333, 15.5833
+Raiding, 47.5667, 16.5333
+Rainbach im Innkreis, 48.4500, 13.5333
+Ramingstein, 47.0667, 13.8333
+Ranalt, 47.0333, 11.2167
+Rangersdorf, 46.8500, 12.9667
+Rankweil, 47.2833, 9.6500
+Rannersdorf, 48.1333, 16.4667
+Ranten, 47.1500, 14.0833
+Rattenberg, 47.4333, 11.9000
+Rauchenwarth, 48.0833, 16.5333
+Rauris, 47.2167, 13.0000
+Regau, 47.9833, 13.6833
+Reichenau, 47.7000, 15.8333
+Reichraming, 47.8833, 14.4500
+Reisach, 46.6500, 13.1500
+Reith bei Seefeld, 47.3000, 11.2000
+Rennweg, 47.0167, 13.6167
+Retz, 48.7500, 15.9500
+Reutte, 47.4833, 10.7167
+Ried im Innkreis, 48.2167, 13.5000
+Ried im Oberinntal, 47.0500, 10.6500
+Riedau, 48.3000, 13.6333
+Riegersdorf, 46.5500, 13.7833
+Riezlern, 47.3500, 10.1833
+Rohrbach in Oberösterreich, 48.5667, 13.9833
+Rottenmann, 47.5167, 14.3667
+Rust, 47.8000, 16.6833

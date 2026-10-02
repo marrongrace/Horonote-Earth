@@ -1,0 +1,19 @@
+Ybbs an der Donau, 48.1833, 15.0833
+Ybbsitz, 47.9333, 14.8833
+Zams, 47.1500, 10.5833
+Zaderhaus, 47.1500, 13.5000
+Zeiselmauer, 48.3333, 16.1833
+Zell am Moos, 47.9000, 13.3167
+Zell am See, 47.3167, 12.7833
+Zell am Ziller, 47.2333, 11.8833
+Zeltweg, 47.1833, 14.7500
+Ziersdorf, 48.5167, 15.9167
+Zin, 47.2833, 11.2333
+Zinkenbach, 47.7333, 14.4167
+Zirl, 47.2833, 11.2333
+Zwettl, 48.6167, 15.1667
+Zwieselstein, 46.9333, 11.0333
+Zwölfaxing, 48.1000, 16.4667
+Zürs, 47.1667, 10.1667
+Öblarn, 47.4500, 13.9833
+Überackern, 48.1833, 12.8667

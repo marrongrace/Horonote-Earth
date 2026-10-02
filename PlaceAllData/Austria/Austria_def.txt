@@ -1,0 +1,71 @@
+Dalaas, 47.1167, 10.0000
+Damüls, 47.2833, 9.8833
+Dellach, 46.6667, 13.0833
+Deutsch Wagram, 48.3000, 16.5667
+Deutschfeistritz, 47.1833, 15.3333
+Deutschlandsberg, 46.8167, 15.2167
+Diersbach, 48.4167, 13.5667
+Dorf Dienten, 47.3667, 13.0000
+Dorfgastein, 47.2500, 13.1000
+Dornbirn, 47.4167, 9.7333
+Drösing, 48.5333, 16.9000
+Döbriach, 46.7833, 13.6500
+Döllach, 46.9667, 12.9000
+Dölsach, 46.8167, 12.8500
+Dürnkrut, 48.4667, 16.8500
+Ebbs, 47.6333, 12.2167
+Ebenau, 47.7833, 13.1833
+Ebene Reichenau, 46.8500, 13.9000
+Ebensee, 47.8000, 13.7667
+Ebergassing, 48.0500, 16.5167
+Eberndorf, 46.5833, 14.6333
+Eberschwang, 48.1500, 13.5667
+Eberstein, 46.8000, 14.5667
+Eferding, 48.3000, 14.0333
+Egg, 47.4333, 9.9000
+Eggelsberg, 48.0833, 13.0000
+Eggenburg, 48.6500, 15.8333
+Ehrenhausen, 46.7167, 15.5833
+Ehrwald, 47.4000, 10.9167
+Eisenkappel, 46.4833, 14.5833
+Eisentadt, 47.8500, 16.5333
+Eisgarn, 48.9000, 15.1000
+Ellmau, 47.5167, 12.3000
+Elmen, 47.3333, 10.5333
+Elsbethen, 47.7500, 13.0833
+Engelhartszell, 48.5167, 13.7333
+Enns, 48.2167, 14.4833
+Enzenkirchen, 48.3833, 13.6500
+Enzesfeld, 47.9167, 16.1667
+Erl, 47.6833, 12.1833
+Erlach, 47.7167, 16.2167
+Erlsbach, 46.9167, 12.2500
+Erpfendorf, 47.5833, 12.4667
+Eugendorf, 47.8667, 13.1167
+Feichten, 47.0333, 10.7333
+Feistritz an der Gail, 46.5667, 13.6000
+Feld am See, 46.7833, 13.7500
+Feldbach, 46.9500, 15.9000
+Feldkirch, 47.2333, 9.6000
+Feldkirchen in Kärnten, 46.7167, 14.0833
+Ferlach, 46.5167, 14.3000
+Ferleiten, 47.1667, 12.8167
+Fieberbrunn, 47.4833, 12.5500
+Fladnitz, 46.9833, 15.7833
+Flandorf, 48.3500, 16.3833
+Flirsch, 47.1500, 10.4000
+Fohnsdorf, 47.2167, 14.6833
+Frankenburg, 48.0833, 13.5000
+Frankenmarkt, 47.9833, 13.4167
+Freiland, 47.9667, 15.5667
+Freinberg, 48.5667, 13.5167
+Freistadt, 48.5167, 14.5167
+Friedberg, 47.4500, 16.0500
+Friedburg, 48.0167, 13.2500
+Friesach, 46.9500, 14.4000
+Frohnleiten, 47.2667, 15.3333
+Fulpmes, 47.1667, 11.3500
+Fusch, 47.2167, 12.8167
+Fuschl am See, 47.8000, 13.3000
+Fügen, 47.3500, 11.8500
+Fürstenfeld, 47.0500, 16.0833

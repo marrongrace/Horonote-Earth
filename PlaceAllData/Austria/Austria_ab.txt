@@ -1,0 +1,89 @@
+Absam, 47.3000, 11.5000
+Absdorf, 48.4000, 15.9833
+Abtenau, 47.5500, 13.3500
+Ach, 48.1500, 12.8333
+Achau, 48.0833, 16.3833
+Achenkirch, 47.5167, 11.7000
+Aderklaa, 48.2833, 16.5333
+Admont, 47.5667, 14.4500
+Aflenz Kurort, 47.5333, 15.2333
+Afritz, 46.7167, 13.8000
+Aich, 47.4167, 13.8167
+Aigen im Mühlkreis, 48.6500, 13.9667
+Alberschwende, 47.4500, 9.8167
+Alland, 48.0500, 16.0833
+Allentsteig, 48.7000, 15.3333
+Alm, 47.4000, 12.9000
+Altenburg, 48.6333, 15.5833
+Altenfelden, 48.4833, 13.9667
+Altheim, 48.2500, 13.2167
+Althofen, 46.9000, 14.4500
+Altmünster, 47.9000, 13.7500
+Ampflwang, 48.0833, 13.5667
+Amstetten, 48.1167, 14.8833
+Andorf, 48.3833, 13.5833
+Angern, 48.3667, 16.8333
+Anif, 47.7500, 13.0667
+Annaberg(Salzburg), 47.5167, 13.4333
+Annaberg(Oberösterreich), 47.8667, 15.3667
+Ansfelden, 47.8833, 13.9167
+Apetlon, 47.7500, 16.8333
+Arbesbach, 48.4833, 14.9500
+Arnoldstein, 46.5500, 13.7167
+Aschach an der Donau, 48.3667, 14.0333
+Aspach, 48.1833, 13.3000
+Aspang Markt, 47.5500, 16.1000
+Attersee, 47.9167, 13.5500
+Attnang, 48.0167, 13.7167
+Au, 47.3167, 9.9833
+Aurolzmünster, 48.2500, 13.4500
+Ausserfragant, 46.9333, 13.1000
+Axams, 47.2333, 11.3000
+Baad, 47.3167, 10.1167
+Bach, 47.2667, 10.4000
+Bad Aussee, 47.6000, 13.7833
+Bad Fusch, 47.2000, 12.8500
+Bad Gleichenberg, 46.8667, 15.9000
+Bad Goisern, 47.6333, 13.6167
+Bad Hall, 48.0333, 14.2167
+Bad Hofgastein, 47.1667, 13.1000
+Bad Ischl, 47.7167, 13.6167
+Bad Kleinkirchheim, 46.8167, 13.8167
+Bad Leonfelden, 48.5500, 14.3167
+Bad Schallerbach, 48.2333, 13.9167
+Bad St Leonhard im Lavanttal, 46.9667, 14.8000
+Bad Tatzmannsdorf, 47.3333, 16.2167
+Bad Vöslau, 47.9500, 16.2667
+Bad Wimsbach-Neydharting, 48.0667, 13.9000
+Baden, 48.0000, 16.2333
+Badgastein, 47.1167, 13.1333
+Berg, 46.7500, 13.1500
+Bergheim, 47.8333, 13.0333
+Berndorf, 47.9500, 16.1333
+Berwang, 47.4000, 10.7500
+Bezau, 47.3833, 9.9000
+Bichlbach, 47.4167, 10.7833
+Biedermannsdorf, 48.0833, 16.3500
+Birkfeld, 47.3500, 15.7000
+Birnbaum, 46.6833, 12.9000
+Bisamberg, 48.3333, 16.3667
+Bischofshofen, 47.4167, 13.2167
+Bleiberg ob Villach, 46.6167, 13.6833
+Bleiburg, 46.5833, 14.8000
+Bludenz, 47.1500, 9.8167
+Bramberg am Wildkogel, 47.2667, 12.3500
+Brand, 47.1000, 9.7333
+Brandenberg, 47.4833, 11.8833
+Braunau am Inn, 48.2500, 13.0333
+Bregenz, 47.5000, 9.7667
+Breitsetten, 48.2000, 16.7000
+Brenner, 47.0000, 11.5000
+Brixen im Thale, 47.4500, 12.2500
+Brixlegg, 47.4167, 11.8833
+Bruck, 47.2833, 12.8167
+Bruck an der Leitha, 48.0167, 16.8167
+Bruck an der Mur, 47.4167, 15.2667
+Brunn am Gebirge, 48.1167, 16.2833
+Burgkirchen, 48.2000, 13.1000
+Böckstein, 47.0833, 13.1167
+Bürs, 47.1500, 9.8000

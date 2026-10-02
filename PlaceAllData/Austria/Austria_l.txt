@@ -1,0 +1,42 @@
+Laa an der Thaya, 48.7167, 16.3833
+Laab im Walde, 48.1500, 16.1833
+Laaben, 48.1000, 15.8667
+Laakirchen, 47.9667, 13.8167
+Lainbach, 47.6333, 14.7667
+Lambach, 48.0833, 13.8833
+Lambrechten, 48.3167, 13.5167
+Lamprechtshausen, 47.9833, 12.9500
+Landeck, 47.1333, 10.5667
+Landl, 47.5833, 12.0333
+Lanersbach, 47.1500, 11.7333
+Langau, 48.8167, 15.7000
+Langenlois, 48.4667, 15.6667
+Langenzersdorf, 48.3000, 16.3667
+Lanzendorf, 48.1000, 16.4333
+Lassee, 48.2167, 16.8167
+Laterns, 47.2667, 9.7167
+Lauffen, 47.6667, 13.6167
+Launsdorf, 46.7667, 14.4500
+Lauterach, 47.4833, 9.7333
+Laxenburg, 48.0667, 16.3500
+Lech, 47.2000, 10.1500
+Lechleiten, 47.2667, 10.2000
+Leibnitz, 46.7833, 15.5333
+Leisach, 46.8000, 12.7500
+Lembach im Mühlkreis, 48.4833, 13.8833
+Lend, 47.3000, 13.0667
+Lendorf, 46.8333, 13.4333
+Leoben, 47.3833, 15.1000
+Leogang, 47.4333, 12.7500
+Leonding, 48.2667, 14.2500
+Leopoldsdorf, 48.1000, 16.4000
+Lermoos, 47.4000, 10.8833
+Lessach, 47.1833, 13.8167
+Lienz, 46.8333, 12.7833
+Liezen, 47.5833, 14.2500
+Lilienfeld, 48.0500, 15.6000
+Linz, 48.3000, 14.3000
+Lofer, 47.5833, 12.6833
+Lunz am See, 47.8500, 15.0500
+Lustenau, 47.4333, 9.6500
+Längenfeld, 47.0667, 10.9667

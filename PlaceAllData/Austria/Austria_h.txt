@@ -1,0 +1,53 @@
+Haag, 48.1167, 14.5667
+Haag am Hausruck, 48.1833, 13.6333
+Hadersfeld, 48.3333, 16.2500
+Hagenbrunn, 48.3333, 16.4167
+Haiding, 48.2167, 13.9667
+Haiming, 47.2500, 10.8833
+Hainburg an der Donau, 48.1500, 16.9500
+Hainfeld, 48.0333, 15.7667
+Hainzenberg, 47.2167, 11.9000
+Hallein, 47.6833, 13.1000
+Hallstatt, 47.5500, 13.6500
+Hard, 47.4833, 9.6833
+Hartberg, 47.2833, 15.9833
+Haugsdorf, 48.7000, 16.0833
+Haus, 47.4167, 13.8167
+Heidenreichenstein, 48.8667, 15.1167
+Heiligenblut, 47.0333, 12.8333
+Helfenberg, 48.5333, 14.1333
+Hellmonsödt, 48.4333, 14.3000
+Hennersdorf, 48.1167, 16.3667
+Hermagor, 46.6167, 13.3667
+Herzogenburg, 48.2833, 15.7000
+Hieflau, 47.6000, 14.7333
+Himberg, 48.0833, 16.4333
+Hinterbichl, 47.0167, 12.3333
+Hinterbrühl, 48.0833, 16.2500
+Hinterriss, 47.4667, 11.4667
+Hintersdorf, 48.3000, 16.2167
+Hintersee, 47.7000, 13.2833
+Hinterstoder, 47.6833, 14.1500
+Hintertux, 47.1167, 11.6833
+Hittisau, 47.4500, 9.9500
+Hochburg, 48.1167, 12.8667
+Hochfilzen, 47.4667, 12.6167
+Hochfinstermünz, 46.9333, 10.4833
+Hofkirchen an der Trattnac, 48.2167, 13.7333
+Hohenau an der March, 48.6000, 16.9167
+Hohenems, 47.3667, 9.6833
+Hohentauern, 47.4333, 14.4833
+Hohenthurn, 46.5500, 13.6667
+Hollabrunn, 48.5667, 16.0833
+Hollenstein an der Ybbs, 47.8000, 14.7667
+Holzgau, 47.2667, 10.3500
+Hopfgarten, 47.4500, 12.1667
+Hopfgarten in Defereggen, 46.9167, 12.5167
+Horn, 48.6667, 15.6667
+Huben(Längenfeld, Imst), 47.0500, 10.9667
+Huben(Matrei in Osttirol, Lienz), 46.9333, 12.5667
+Häselgehr, 47.3167, 10.5000
+Höchst, 47.4667, 9.6333
+Höflein an der Donau, 48.3500, 16.2833
+Hüttau, 47.4167, 13.3000
+Hüttschlag, 47.1667, 13.2333

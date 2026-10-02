@@ -1,0 +1,65 @@
+Mallnitz, 46.9833, 13.1667
+Malta, 46.9500, 13.5000
+Mandling, 47.4000, 13.5667
+Mank, 48.1000, 15.3333
+Mannersdorf am Leithagebirge, 47.9667, 16.6000
+Mannersdorf an der Rabnitz, 47.4167, 16.5167
+Marchegg, 48.2833, 16.9167
+Marchtrenk, 48.1833, 14.1167
+Maria Enzersdorf, 48.1000, 16.2833
+Maria Gail, 46.6000, 13.8667
+Maria Lanzendorf, 48.1000, 16.4167
+Maria Luggau, 46.7000, 12.7500
+Mariazell, 47.7833, 15.3167
+Martinsberg, 48.3667, 15.1500
+Matrei am Brenner, 47.1333, 11.4500
+Matrei in Osttirol, 47.0000, 12.5333
+Mattersburg, 47.7333, 16.4167
+Mattighofen, 48.1000, 13.1500
+Mattsee, 47.9667, 13.1000
+Mauerbach, 48.2500, 16.1667
+Mauerkirchen, 48.1833, 13.1333
+Mautern, 47.4000, 14.8333
+Mauterndorf, 47.1333, 13.6667
+Mauthausen, 48.2333, 14.5333
+Mauthen, 46.6667, 13.0000
+Mayerling, 48.0500, 16.1000
+Mayrhofen, 47.1667, 11.8667
+Melk, 48.2333, 15.3333
+Mellau, 47.3500, 9.8833
+Metnitz, 46.9833, 14.2167
+Mettmach, 48.1667, 13.3500
+Micheldorf, 47.8667, 14.1333
+Milders, 47.1000, 11.2667
+Millstatt, 46.8000, 13.5833
+Mistelbach an de Zaya, 48.5667, 16.5833
+Mittelberg, 47.3333, 10.1667
+Mitterding, 48.3667, 13.4000
+Mitterndorf, 47.5500, 13.9167
+Mittersill, 47.2667, 12.4833
+Mittewald an der Drau, 46.7667, 12.6000
+Molln, 47.8833, 14.2500
+Mondsee, 47.8667, 13.3500
+Moosbrunn, 48.0167, 16.4667
+Muckendorf an der Donau, 48.3333, 16.1500
+Munderfing, 48.0833, 13.1833
+Murau, 47.1167, 14.0167
+Mureck, 46.7000, 15.7667
+Musau, 47.5333, 10.6667
+Mutters, 47.2333, 11.3833
+Möderbrugg, 47.2833, 14.4833
+Mödling, 48.0833, 16.2833
+Möllbrücke, 46.8333, 13.3667
+Möllersdorf, 48.0333, 16.3000
+Mönchdorf, 48.3500, 14.8000
+Mönchhof, 47.8667, 16.9333
+Mönichkirchen, 47.5167, 16.0333
+Mörbisch, 47.7500, 16.6667
+Mörtschach, 46.9167, 12.9167
+Mühlbach am Hochkönig, 47.3667, 13.1333
+Mühldorf, 48.3667, 15.3500
+Mühlleiten, 48.1667, 16.5667
+Münchendorf, 48.0333, 16.3833
+Münzkirchen, 48.4833, 13.5667
+Mürzsteg, 47.6667, 15.4833
+Mürzzuschlag, 47.6000, 15.6833

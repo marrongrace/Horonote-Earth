@@ -1,0 +1,57 @@
+Gaaden, 48.0500, 16.2000
+Gablitz, 48.2333, 16.1500
+Galtür, 46.9667, 10.1833
+Gaming, 47.9333, 15.1000
+Gargellen, 46.9667, 9.9333
+Gaspoltshofen, 48.1333, 13.7667
+Gastein > Badgastein, 47.1167, 13.1333
+Gattendorf, 48.0167, 16.9833
+Gaweinstal, 48.4667, 16.5833
+Gerasdorf, 48.3000, 16.4667
+Gerlos, 47.2333, 12.0333
+Glanegg, 46.7333, 14.1833
+Gleisdorf, 47.1000, 15.7333
+Gloggnitz, 47.6667, 15.9500
+Gmunden, 47.9167, 13.8000
+Gmünd(Kärtnen,Carinthia), 46.9000, 13.5333
+Gmünd(Niederösterreich), 48.7833, 15.0000
+Golling an der Salzach, 47.6000, 13.1667
+Gosau, 47.5667, 13.5167
+Gramatneusiedl, 48.0333, 16.4833
+Gratkorn, 47.1333, 15.3500
+Graz, 47.0833, 15.4500
+Greifenburg, 46.7500, 13.1833
+Greifenstein, 48.3500, 16.4167
+Grein, 48.2333, 14.8500
+Gresten, 48.0000, 15.0333
+Gries am Brenner, 47.0500, 11.4833
+Gries im Sellrain, 47.2000, 11.1500
+Grieskirchen, 48.2333, 13.8333
+Griffen, 46.7000, 14.7333
+Grimmenstein, 47.6333, 16.1000
+Gross-Enzersdorf, 48.2000, 16.5500
+Gross-Gerungs, 48.5667, 14.9500
+Grossarl, 47.2333, 13.2000
+Grossgmain, 47.7167, 12.9167
+Grosskrut, 48.6333, 16.7167
+Grossraming, 47.8833, 14.5500
+Grosssölk, 47.4167, 13.9667
+Gröbming, 47.4333, 13.9000
+Grödig, 47.7333, 13.0333
+Grünau im Almtal, 47.8500, 13.9500
+Gschnitz, 47.0500, 11.3667
+Gugging, 48.3167, 16.2500
+Gumpoldskirchen, 48.0500, 16.2833
+Gundertshausen, 48.0833, 12.9833
+Gunskirchen, 48.1333, 13.9500
+Guntersdorf, 48.6500, 16.0500
+Guntramsdorf, 48.0500, 16.3167
+Gurk, 46.8667, 14.3000
+Gusswerk, 47.7500, 15.3000
+Gänserndorf, 48.3333, 16.7167
+Göpfritz, 48.7167, 15.4000
+Gössl, 47.6333, 13.9000
+Göstling, 47.8000, 14.9167
+Götzendorf, 48.0167, 16.5833
+Götzis, 47.3333, 9.6333
+Güssing, 47.0667, 16.3333

@@ -1,0 +1,52 @@
+Kaibing, 47.2000, 15.8333
+Kaiserhaus, 47.5333, 11.9167
+Kaltenleutgeben, 48.1167, 16.2000
+Kalwang, 47.4333, 14.7667
+Kapellen, 47.6333, 15.6167
+Kapellerfeld, 48.3167, 16.5000
+Kapelln, 48.2500, 15.7500
+Kapfenberg, 47.4333, 15.3000
+Kaprun, 47.2667, 12.7667
+Karlstift, 48.5833, 14.7500
+Karres, 47.2167, 10.7833
+Kathal, 47.1000, 14.7000
+Kefermarkt, 48.4333, 14.5333
+Kellerberg, 46.6667, 13.7000
+Kernhof, 47.8167, 15.5333
+Kierling, 48.3167, 16.2833
+Kilb, 48.1000, 15.4000
+Kindberg, 47.5167, 15.4500
+Kirchbach in Steiermark, 46.9000, 15.7333
+Kirchberg am Wagram, 48.4333, 15.8833
+Kirchberg in Tirol, 47.4500, 12.3167
+Kirchbichl, 47.5167, 12.0833
+Kirchdorf an der Krems, 47.9333, 14.1167
+Kirchheim, 48.2000, 13.3833
+Kirchschlag in der Buckligen Welt, 47.5167, 16.3000
+Kitzbühel, 47.4500, 12.3833
+Klagenfurt, 46.6167, 14.3000
+Klein Glödnitz, 46.8500, 14.1333
+Klopein, 46.6000, 14.5833
+Klosterneuburg, 48.3000, 16.3333
+Klösterle, 47.1333, 10.0833
+Knappenberg, 46.9333, 14.5833
+Knittelfeld, 47.2333, 14.8333
+Kolbnitz, 46.8667, 13.3167
+Korneuburg, 48.3500, 16.3333
+Krampen, 47.6667, 15.5333
+Kramsach, 47.4500, 11.8667
+Krems an der Donau, 48.4167, 15.6000
+Kremsbrücke, 46.9500, 13.6167
+Kremsmünster, 48.0500, 14.1333
+Kreuzen, 46.6667, 13.5833
+Krimml, 47.2167, 12.1833
+Kritzendorf, 48.3333, 16.3000
+Kuchl, 47.6167, 13.1500
+Kufstein, 47.5833, 12.1667
+Kundl, 47.4667, 11.9833
+Köflach, 47.0667, 15.0833
+Königsbrunn, 48.3500, 16.4167
+Königstetten, 48.3000, 16.1500
+Kössen, 47.6667, 12.4000
+Kötschach, 46.6667, 13.0000
+Kühnsdorf, 46.6167, 14.6167
