@@ -1,0 +1,41 @@
+Kalinkovici, 52.1333, 29.3500
+Kamen', 55.0167, 28.8833
+Kamenec, 52.4000, 23.8167
+Kirovo, 51.4833, 29.4000
+Kirovsk, 53.2667, 29.4833
+Kl'asticy, 55.8833, 28.6000
+Kleck, 53.0667, 26.6333
+Klicev, 53.4833, 29.3500
+Klimovici, 53.6167, 31.9667
+Kobrin, 52.2167, 24.3500
+Kobyl'nik, 54.9333, 26.6833
+Kochanovici, 55.8667, 28.1333
+Kochanovo, 54.4667, 30.0167
+Kolbca, 53.6500, 29.2333
+Komarin, 51.4333, 30.5167
+Kopatkevici, 52.3167, 28.8167
+Kopcevici, 52.2333, 28.3167
+Kopyl', 53.1500, 27.0833
+Kopys', 54.3167, 30.2833
+Korelici, 53.5667, 26.1333
+Korma(Korma District,Homyel'), 53.1333, 30.8000
+Korma(Dobrush District,Homyel'), 52.3500, 31.5167
+Kossovo, 52.7500, 25.1500
+Kost'ukovici, 53.3333, 32.0500
+Kost'ukovka, 52.5333, 30.9333
+Kozlovšcina, 53.3167, 25.3000
+Kozyany, 55.3000, 26.8667
+Krasnaja Sloboda, 52.8500, 27.1667
+Krasnaja Vol'a, 52.3833, 27.0667
+Krasnoje, 54.2333, 27.0833
+Krasnoluki, 54.6167, 28.8333
+Krasnopolje, 53.3333, 31.4000
+Krevo, 54.3167, 26.2833
+Kricov, 53.7000, 31.7167
+Krivici, 54.7167, 27.2833
+Krivošin, 52.8667, 26.1333
+Krugloje, 54.2500, 29.8000
+Krulevšcina, 55.0333, 27.7500
+Krupki, 54.3167, 29.1333
+Krušinovka, 53.2333, 29.8333
+Kurenec, 54.5500, 26.9500

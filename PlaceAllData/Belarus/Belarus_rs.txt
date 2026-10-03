@@ -1,0 +1,67 @@
+R'asna, 54.0167, 31.2000
+Radoškovici, 54.1500, 27.2333
+Radun', 54.0500, 25.0000
+Radvanici, 52.0333, 24.0333
+Ratomka, 53.9333, 27.3500
+Rechitsa(Homyel'), 52.3667, 30.4167
+Rechitsa(Brest), 51.8667, 26.8000
+Rodostov, 51.9667, 24.9500
+Rogacov, 53.0833, 30.0500
+Ross', 53.2833, 24.4000
+Rossasna, 54.6500, 30.8833
+Rossony, 55.8833, 28.8167
+Rovbick, 52.6667, 24.0833
+Rovbickskaja, 52.6667, 24.0833
+Rovenskaja Sloboda, 52.2167, 30.3167
+Rubel', 51.9667, 27.0667
+Rudensk, 53.6000, 27.8667
+Ruzany, 52.8667, 24.8833
+Samotevici, 53.2167, 31.8333
+Savici(Homyel'), 52.4167, 29.0500
+Savici(Homyel'), 51.6167, 30.2833
+Selec-Cholopejev, 53.3833, 30.4000
+Semezevo, 52.9667, 27.0000
+Senno, 54.8167, 29.7167
+Sergejevici, 53.5000, 27.7500
+Simanovici, 53.0833, 28.6333
+Simonici, 51.8833, 28.0667
+Sin'avka, 52.9667, 26.4833
+Sirotino, 55.3833, 29.6167
+Skidel', 53.5667, 24.2500
+Skorodnoje, 51.6333, 28.8167
+Slavgorod, 53.4500, 31.0000
+Slavnoje, 54.3000, 29.4500
+Sled'uki, 53.5833, 30.3667
+Sloboda, 53.9667, 28.1333
+Slobodka, 55.6833, 27.1833
+Slonim, 53.1000, 25.3167
+Sluck, 53.0167, 27.5500
+Smilovici, 53.7500, 28.0167
+Smol'anica, 52.7000, 24.6333
+Smol'any, 54.6000, 30.0667
+Smolevici, 54.0333, 28.0833
+Smolovka, 55.5500, 30.2167
+Smorgon', 54.4833, 26.4000
+Sn'adin, 52.0667, 28.3167
+Snov, 53.2167, 26.4000
+Soligorsk, 52.8000, 27.5333
+Soly, 54.5167, 26.1833
+Sopockin, 53.8333, 23.6500
+Sporovo, 52.4167, 25.3333
+Staraja Belica, 54.7000, 29.6333
+Staraja Rudn'a, 52.8333, 30.2833
+Starobin, 52.7333, 27.4667
+Staroje Selo, 55.2333, 29.9000
+Staryje Dorogi, 53.0333, 28.2667
+Stodolici, 51.7333, 28.5000
+Stolbcy, 53.4833, 26.7333
+Stolbun, 52.8000, 31.4167
+Stolin, 51.8833, 26.8500
+Stradec', 51.9333, 23.6667
+Strešin, 52.7167, 30.0833
+Suraz, 55.4167, 30.7333
+Svetilovici, 52.8000, 31.3167
+Svetlogorsk, 52.6333, 29.7000
+Svir', 54.8500, 26.4000
+Svisloch'(Hrodna), 53.0333, 24.1000
+Svisloch'(Mahilyov), 53.4333, 28.9833

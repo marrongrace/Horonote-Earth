@@ -1,0 +1,62 @@
+Narovl'a, 51.8000, 29.4833
+Negoreloje, 53.6000, 27.0667
+Nesviz, 53.2167, 26.6667
+Nizin, 52.6333, 28.1667
+Novka, 55.4500, 30.4000
+Novogrudok, 53.6000, 25.8333
+Novojel'n'a, 53.4667, 25.5833
+Novolukoml', 54.6667, 29.1333
+Novopolock, 55.5167, 28.6333
+Novosëlki(Brest), 52.0333, 24.3500
+Novosëlki(Homyel'), 52.4000, 28.5500
+Novyj Dvor, 52.8333, 24.3500
+Novyj Pogost, 55.5000, 27.4833
+Novyje Denisovici, 54.2000, 29.2167
+Obcuga, 54.5000, 29.3667
+Obol', 55.3667, 29.2833
+Obrovo, 52.5000, 25.5667
+Okt'abr'skij, 52.6333, 28.8833
+Ol'šany, 52.0833, 27.3333
+Opsa, 55.5333, 26.7833
+Orechovsk, 54.6833, 30.5000
+Orl'a, 53.5000, 24.9833
+Orša, 54.5000, 30.4000
+Osintorf, 54.7000, 30.6500
+Osipovici, 53.3000, 28.6333
+Ostrov, 52.8833, 25.9833
+Ostrovec, 54.6167, 25.9500
+Ostrovno, 55.1333, 29.8833
+Ostrošickij Gorodok, 54.0667, 27.7000
+Ostryna, 53.7333, 24.5333
+Osveja, 56.0167, 28.1000
+Oz'ory, 53.7167, 24.1833
+Ozarici, 52.4667, 29.2667
+Ozd'atici, 54.1000, 28.8333
+Ošm'any, 54.4167, 25.9333
+Paradino, 53.9833, 31.8500
+Parici, 52.8000, 29.4167
+Pererov, 52.0667, 28.0000
+Pervomajskij, 53.9000, 25.3833
+Peršaj, 54.0333, 26.6833
+Peski, 53.3500, 24.6333
+Pesocnoje, 53.3333, 27.1000
+Petrikov, 52.1333, 28.5000
+Pinsk, 52.1167, 26.0667
+Plešcenicy, 54.4167, 27.8333
+Plotnica, 52.0500, 26.6500
+Pocepy, 53.2833, 31.3333
+Podsvilje, 55.1500, 27.9667
+Pogost(Salihorsk District,Minsk), 52.8500, 27.6500
+Pogost(Byerazino District,Minsk), 53.8500, 29.1500
+Pokol'ubici, 52.5000, 31.0333
+Polesje, 53.0833, 31.2833
+Polock > Polotsk, 55.5167, 28.7667
+Polotsk, 55.5167, 28.7667
+Porecje, 53.9167, 24.1167
+Porozovo, 52.9333, 24.3667
+Postavy, 55.1167, 26.8333
+Protasy, 52.7833, 29.0833
+Prudy, 53.7833, 26.5333
+Pruzany, 52.5500, 24.4667
+Ptic', 52.1500, 28.8667
+Puchovici, 53.5333, 28.2500
