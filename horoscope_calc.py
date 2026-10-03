@@ -348,7 +348,6 @@ def format_house_name(h_num):
     return f"{h_num}{sfx} House"
 
 def calculate_aspects(bodies, view_type="By Pair"):
-    # 基本のアスペクト定義（アスペクト名、正確な角度、標準オーブ）
     aspect_defs = [
         ("Conjunction", 0, 7.0, "Conjunction (0°)"),
         ("Opposition", 180, 7.0, "Opposition (180°)"),
@@ -357,30 +356,16 @@ def calculate_aspects(bodies, view_type="By Pair"):
         ("Sextile", 60, 5.0, "Sextile (60°)"),
         ("Quincunx", 150, 3.0, "Quincunx (150°)")
     ]
-    
-    # ルミナリー（太陽・月）のリスト
-    luminaries = {"Sun", "Moon"}
-
     results = []
     n = len(bodies)
     for i in range(n):
         for j in range(i + 1, n):
             b1, b2 = bodies[i], bodies[j]
-            k1, k2 = b1["key"], b2["key"]
-            
-            # どちらかに太陽または月が含まれているか判定
-            is_luminary = (k1 in luminaries or k2 in luminaries)
-            
             diff = min(abs(b1["abs_pos"] - b2["abs_pos"]), 360 - abs(b1["abs_pos"] - b2["abs_pos"]))
-            
-            for _, target_ang, base_orb_limit, en_lbl in aspect_defs:
-                # ルミナリーが絡む場合はオーブを +1.0° 広げる（必要に応じて数値は調整できます）
-                orb_limit = base_orb_limit + 1.0 if is_luminary else base_orb_limit
-                
+            for _, target_ang, orb_limit, en_lbl in aspect_defs:
                 orb = abs(diff - target_ang)
                 if orb <= orb_limit:
-                    results.append({"label": en_lbl, "b1": k1, "b2": k2, "orb": orb})
-    
+                    results.append({"label": en_lbl, "b1": b1["key"], "b2": b2["key"], "orb": orb})
     if not results:
         return "*(No aspects)*"
     
