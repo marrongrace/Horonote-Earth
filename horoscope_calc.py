@@ -347,25 +347,54 @@ def format_house_name(h_num):
     sfx = {"1": "st", "2": "nd", "3": "rd"}.get(str(h_num), "th")
     return f"{h_num}{sfx} House"
 
+def get_custom_orb(asp_type, b1_key, b2_key):
+    # ルミナリー（太陽・月）のリスト
+    luminaries = {"Sun", "Moon"}
+    is_luminary = (b1_key in luminaries or b2_key in luminaries)
+    
+    # アスペクトごとの基本オーブ
+    base_orbs = {
+        "Conjunction": 7.0,
+        "Opposition": 7.0,
+        "Trine": 6.0,
+        "Square": 6.0,
+        "Sextile": 5.0,
+        "Quincunx": 3.0
+    }
+    
+    limit = base_orbs.get(asp_type, 5.0)
+    if is_luminary:
+        limit += 1.0  # 太陽・月が絡む場合はオーブを広げる
+        
+    return limit
+
 def calculate_aspects(bodies, view_type="By Pair"):
     aspect_defs = [
-        ("Conjunction", 0, 7.0, "Conjunction (0°)"),
-        ("Opposition", 180, 7.0, "Opposition (180°)"),
-        ("Trine", 120, 6.0, "Trine (120°)"),
-        ("Square", 90, 6.0, "Square (90°)"),
-        ("Sextile", 60, 5.0, "Sextile (60°)"),
-        ("Quincunx", 150, 3.0, "Quincunx (150°)")
+        ("Conjunction", 0, "Conjunction (0°)"),
+        ("Opposition", 180, "Opposition (180°)"),
+        ("Trine", 120, "Trine (120°)"),
+        ("Square", 90, "Square (90°)"),
+        ("Sextile", 60, "Sextile (60°)"),
+        ("Quincunx", 150, "Quincunx (150°)")
     ]
+    
     results = []
     n = len(bodies)
     for i in range(n):
         for j in range(i + 1, n):
             b1, b2 = bodies[i], bodies[j]
+            k1, k2 = b1["key"], b2["key"]
+            
             diff = min(abs(b1["abs_pos"] - b2["abs_pos"]), 360 - abs(b1["abs_pos"] - b2["abs_pos"]))
-            for _, target_ang, orb_limit, en_lbl in aspect_defs:
+            
+            for _, target_ang, en_lbl in aspect_defs:
+                # 外出した関数からこの組み合わせ・アスペクト用のオーブを取得
+                orb_limit = get_custom_orb(en_lbl.split(" ")[0], k1, k2)
+                
                 orb = abs(diff - target_ang)
                 if orb <= orb_limit:
-                    results.append({"label": en_lbl, "b1": b1["key"], "b2": b2["key"], "orb": orb})
+                    results.append({"label": en_lbl, "b1": k1, "b2": k2, "orb": orb})
+    
     if not results:
         return "*(No aspects)*"
     
