@@ -1,0 +1,77 @@
+Banja Luka, 44.7667, 17.1833
+Bihac, 44.8167, 15.8667
+Bijeljina, 44.7500, 19.2167
+Bileca, 42.8833, 18.4333
+Blagaj, 43.2500, 17.8333
+Bosanska Gradiška, 45.1500, 17.2500
+Bosanska Krupa, 44.8833, 16.1667
+Bosanski Novi, 45.0500, 16.3833
+Bosanski Petrovac, 44.5500, 16.3667
+Bosanski Šamac, 45.0500, 18.4667
+Bosansko Grahovo, 44.1833, 16.3667
+Brcko, 44.8833, 18.8000
+Bugojno, 44.0500, 17.4500
+Busovaca, 44.1000, 17.8833
+Cajnice, 43.5500, 19.0667
+Capljina, 43.1167, 17.7000
+Cazin, 44.9667, 15.9500
+Cemerno, 43.1833, 18.6167
+Derventa, 44.9667, 17.9167
+Doboj, 44.7333, 18.1000
+Donji Vakuf, 44.1500, 17.4167
+Drvar, 44.3667, 16.4000
+Dubica, 45.1833, 16.8000
+Duvno, 43.7167, 17.2333
+Foca, 43.5167, 18.7667
+Fojnica, 43.9667, 17.9000
+Gacko, 43.1667, 18.5333
+Glamoc, 44.0500, 16.8500
+Gorazde, 43.6667, 18.9333
+Gornji Vakuf, 43.9333, 17.5833
+Gracanica, 44.7000, 18.3167
+Gradacac, 44.8833, 18.4333
+Jablanica, 43.6500, 17.7500
+Jajce, 44.3500, 17.2667
+Janja, 44.6667, 19.2500
+Kalinovik, 43.5167, 18.4333
+Kladanj, 44.2167, 18.6833
+Kljuc, 44.5333, 16.7833
+Konjic, 43.6500, 17.9500
+Kotor Varoš, 44.6167, 17.3833
+Kozarac, 44.9667, 16.8500
+Kulen Vakuf, 44.5667, 16.1000
+Kupres, 44.0000, 17.2833
+Livno, 43.8333, 17.0167
+Lištica, 43.3833, 17.6000
+Ljubija, 44.9333, 16.6167
+Ljubinje, 42.9500, 18.0833
+Ljubuški, 43.2000, 17.5500
+Maglaj, 44.5500, 18.1000
+Modrica, 44.9500, 18.3000
+Mostar, 43.3333, 17.8167
+Mrkonjic Grad, 44.4167, 17.0833
+Nevesinje, 43.2500, 18.1167
+Okucani, 45.2667, 17.2000
+Prijedor, 44.9833, 16.7167
+Prnjavor, 44.8667, 17.8667
+Prozor, 43.8167, 17.6167
+Rogatica, 43.8000, 19.0000
+Rudo, 43.6167, 19.3667
+Sanski Most, 44.7667, 16.6667
+Sarajevo, 43.8667, 18.4167
+Sarayevo > Sarajevo, 43.8667, 18.4167
+Serayevo > Sarajevo, 43.8667, 18.4167
+Stolac, 43.0833, 17.9667
+Teslic, 44.6167, 17.8500
+Tešanj, 44.6167, 18.0000
+Travnik, 44.2333, 17.6667
+Trebinje, 42.7167, 18.3333
+Tuzla, 44.5333, 18.6833
+Vareš, 44.1500, 18.3167
+Visoko, 43.9833, 18.1833
+Višegrad, 43.7833, 19.2833
+Vlasenica, 44.1833, 18.9333
+Vrnograc, 45.1667, 15.9500
+Zavidovici, 44.4500, 18.1500
+Zenica, 44.2000, 17.9167
+Zvornik, 44.3833, 19.1000
