@@ -1,0 +1,56 @@
+Quetena, -22.1667, -67.4167
+Quiabaya, -15.6167, -68.7667
+Quillacas, -19.2333, -66.9667
+Quillacollo, -17.4333, -66.2833
+Quime, -17.0333, -67.2500
+Ravelo, -18.8000, -65.5333
+Reyes, -14.3167, -67.3833
+Riberalta, -10.9833, -66.1000
+Roboré, -18.3333, -59.7500
+Rurrenabaque, -14.4667, -67.5667
+Río Mulatos, -19.7000, -66.7833
+Sabaya, -19.0167, -68.3833
+Sacaba, -17.3833, -66.0333
+Sacaca, -18.0833, -66.4333
+Sajama, -18.1167, -69.0000
+Salinas de Garci Mendoza, -19.6333, -67.7167
+Samaipata, -18.1500, -63.8667
+San Benito, -17.5167, -65.9167
+San Borja, -14.8167, -66.8500
+San Buena Ventura, -14.4667, -67.5833
+San Ignacio(Beni), -14.8833, -65.6000
+San Ignacio(Santa Cruz), -16.3833, -60.9833
+San Javier(Santa Cruz), -16.3333, -62.6333
+San Javier(Beni), -14.5667, -64.7000
+San Joaquín, -13.0667, -64.8167
+San José, -14.2167, -68.0833
+San José de Chiquitos, -17.8500, -60.7833
+San Juan del Piray, -20.4500, -64.1500
+San Lorenzo, -21.4333, -64.7833
+San Lucas, -20.1000, -65.1167
+San Matías, -16.3667, -58.4000
+San Miguel, -16.7000, -61.0167
+San Pablo de Tiquina, -16.2167, -68.8667
+San Pedro, -14.3333, -64.8333
+San Pedro de Buena Vista, -18.2167, -65.9833
+San Ramón, -13.2833, -64.7167
+Sanandita, -21.6667, -63.5833
+Santa Ana(Beni), -13.7500, -65.5833
+Santa Ana(La Paz), -15.5167, -67.5000
+Santa Ana(Santa Cruz), -18.7167, -58.7333
+Santa Cruz, -17.8000, -63.1667
+Santa Rosa(Pando), -10.6000, -67.4167
+Santa Rosa(Beni), -14.1667, -66.8833
+Santa Rosa(Santa Cruz), -17.1167, -63.5833
+Santa Rosa de la Roca, -16.0667, -61.5333
+Santa Rosa del Palmar, -16.9000, -62.4000
+Santiago, -18.3167, -59.5667
+Santiago de Huata, -16.1000, -68.8833
+Santiago de Machaca, -17.0833, -69.2667
+Santo Corazón, -17.9833, -58.8500
+Sena, -11.5333, -67.1833
+Sicasica, -17.3667, -67.7500
+Sopachuy, -19.4833, -64.5167
+Sorata, -15.7833, -68.6667
+Sotomayor, -19.3000, -65.0500
+Sucre, -19.0333, -65.2833

@@ -1,0 +1,43 @@
+Tapacarí, -17.5167, -66.6000
+Tarabuco, -19.1667, -64.9500
+Tarata, -17.6167, -66.0167
+Tarija, -21.5167, -64.7500
+Tiahuanacu, -16.5500, -68.7000
+Tinguipaya, -19.1833, -65.8500
+Tiraque, -17.6167, -65.0667
+Todos Santos, -16.8000, -65.1333
+Toledo, -18.1667, -67.4167
+Tomave, -20.1000, -66.5833
+Tomás Barrón > Eucaliptus, -17.5833, -67.5167
+Torotoro, -18.1167, -65.7667
+Totora(Oruro), -17.8167, -68.1167
+Totora(Cochabamba), -17.7000, -65.1500
+Totora Palca, -19.9167, -65.4333
+Trigal, -18.2833, -64.1333
+Trinidad, -14.7833, -64.7833
+Tumupasa, -14.1500, -67.9167
+Tupiza, -21.4500, -65.7167
+Uncia, -18.4500, -66.6167
+Uyuni, -20.4667, -66.8333
+Vallegrande, -18.4833, -64.1000
+Viacha, -16.6500, -68.3000
+Villa Abecia, -21.0000, -65.3833
+Villa Bella, -10.3833, -65.4000
+Villa Eufronio Viscarra, -17.9833, -65.6000
+Villa Martín, -20.7667, -67.7833
+Villa Montes, -21.2500, -63.5000
+Villa Rivero, -17.6167, -65.8000
+Villa Serrano, -19.1000, -64.3667
+Villa Tunari, -16.9167, -65.4167
+Villa Vaca Guzmán, -19.9000, -63.8000
+Villazón, -22.1000, -65.6000
+Vitichi, -20.2167, -65.4833
+Warnes, -17.5000, -63.1667
+Yaco, -17.1500, -67.4000
+Yacuiba, -22.0333, -63.7000
+Yamparáez, -19.1667, -65.1667
+Yanacachi, -16.3833, -67.7167
+Yata, -13.3333, -66.5833
+Yotala, -19.1667, -65.2833
+Yotaú, -16.0500, -63.0500
+Zudañez, -19.1000, -64.7333
