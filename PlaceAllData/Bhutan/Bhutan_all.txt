@@ -1,0 +1,10 @@
+Chhukha Dzong, 27.1500, 89.6000
+Lhuntsi Dzong, 27.6500, 91.1500
+Paro, 27.4333, 89.4167
+Phuntsholing, 26.8833, 89.3833
+Punakha, 27.6167, 89.8667
+Taga Dzong, 27.0667, 89.8833
+Tashi Gand Dzong, 27.3167, 91.5667
+Thimbu, 27.4667, 89.6500
+Tongsa Dzong, 27.5167, 90.5000
+Wangdü Phodrang, 27.4833, 89.9000
