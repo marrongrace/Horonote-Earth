@@ -1,0 +1,17 @@
+Belice > Belize City, 17.5000, -88.2000
+Belize City, 17.5000, -88.2000
+Belmopan, 17.2500, -88.7667
+Benque Viejo, 17.0833, -89.1333
+Caledonia, 18.2333, -88.4833
+Casemero Palma, 16.3333, -88.7833
+Corozal, 18.4000, -88.4000
+Hill Bank, 17.5833, -88.7000
+Indian Church, 17.7500, -88.6667
+Middlesex, 17.0333, -88.5167
+Monkey River, 16.3667, -88.4833
+Orange Walk, 18.1000, -88.5500
+Palmar Camp, 16.4333, -88.8833
+Punta Gorda, 16.1167, -88.8000
+San Antonio, 16.2500, -89.0333
+Sierra de Agua, 17.5333, -88.9000
+Stann Creek, 16.9667, -88.2167
