@@ -1,0 +1,14 @@
+Bethaven, 32.2833, -64.7500
+Evans Bay, 32.2500, -64.8667
+Flatts, 32.3167, -64.7333
+Hamilton, 32.2833, -64.7667
+Ireland Point, 32.3333, -64.8333
+Kindley Field, 32.3667, -64.6667
+Paget, 32.3000, -64.7667
+Riddles Bay, 32.2500, -64.8167
+Somerset, 32.3000, -64.8667
+Spainsh Point, 32.3000, -64.8000
+St George, 32.3667, -64.6667
+Sunnyside, 32.3264, -64.7411
+The Flats Village, 32.3167, -64.7333
+Tuckers' Town, 32.3333, -64.7000
