@@ -26,7 +26,7 @@ st.set_page_config(
 
 # スマホのホーム画面用アイコン設定をHTMLインジェクションで追加
 st.markdown(f"""
-    <link rel="apple-touch-icon" href="{icon_url}">
+    <link rel="apple-touch-icon" href="{"https://raw.githubusercontent.com/marrongrace/Horonote-Earth/main/Horo_logo.png"}">
 """, unsafe_allow_html=True)
 
 # グローバル国・州・地域マスターリスト（提供いただいたデータ[cite: 1]）
