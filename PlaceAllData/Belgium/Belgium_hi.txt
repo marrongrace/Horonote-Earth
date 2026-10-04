@@ -1,0 +1,53 @@
+Haaltert, 50.9000, 4.0000
+Habay la Neuve, 49.7333, 5.6500
+Hakendover, 50.8000, 4.9833
+Halle, 50.7333, 4.2167
+Halma, 50.0833, 5.1333
+Hamme, 51.1000, 4.1333
+Hamme Mille, 50.7833, 4.7167
+Hamoir, 50.4333, 5.5333
+Hamont, 51.2500, 5.5500
+Han sur Lesse, 50.1333, 5.1833
+Handzame, 51.0333, 3.0000
+Hannut, 50.6667, 5.0833
+Harchies, 50.4833, 3.6833
+Harelbeke, 50.8500, 3.3000
+Hasselt, 50.9333, 5.3333
+Hastière Lavaux, 50.2167, 4.8333
+Havelange, 50.3833, 5.2333
+Havré, 50.4667, 4.0333
+Hechtel, 51.1333, 5.3500
+Heer, 50.1667, 4.8333
+Heist Aan Zee, 51.3500, 3.2500
+Heist Op Den Berg, 51.0833, 4.7167
+Hekelgem, 50.9000, 4.1000
+Helchteren, 51.0500, 5.3667
+Hemiksem, 51.1500, 4.3500
+Henri Chapelle, 50.6667, 5.9333
+Herbeumont, 49.7833, 5.2333
+Herentals, 51.1833, 4.8333
+Herk De Stad, 50.9333, 5.1667
+Herselt, 51.0500, 4.8833
+Herstal, 50.6667, 5.6333
+Herve, 50.6333, 5.8000
+Het Zoute, 51.3500, 3.3000
+Heule, 50.8333, 3.2333
+Heusden, 51.0333, 5.2667
+Heverlee, 50.8667, 4.7000
+Hoboken, 51.1667, 4.3500
+Hofstade, 50.9667, 4.0333
+Hooglede, 50.9833, 3.0833
+Hoogstraten, 51.4000, 4.7667
+Hornu, 50.4333, 3.8167
+Hotton, 50.2667, 5.4500
+Houdeng Aimeries, 50.4833, 4.1333
+Houffalize, 50.1333, 5.7833
+Houthalen, 51.0333, 5.3667
+Houthulst, 50.9833, 2.9500
+Humbeek, 50.9667, 4.3833
+Huy, 50.5167, 5.2333
+Ichtegem, 51.1000, 3.0000
+Ieper(Ypres), 50.8500, 2.8833
+Ingelmunster, 50.9167, 3.2500
+Ixelles, 50.8333, 4.3667
+Izegem, 50.9167, 3.2000

@@ -1,0 +1,99 @@
+Aalst(Alost), 50.9333, 4.0333
+Aalter, 51.0833, 3.4500
+Aarschot, 50.9833, 4.8333
+Achêne, 50.2667, 5.0500
+Adegem, 51.2000, 3.4833
+Agimont, 50.1667, 4.8000
+Alle, 49.8500, 4.9667
+Alost > Aalst, 50.9333, 4.0333
+Amay, 50.5500, 5.3167
+Amberes > Antwerpen, 51.2167, 4.4167
+Andenne, 50.4833, 5.1000
+Anderlecht, 50.8333, 4.3000
+Anderlues, 50.4000, 4.2667
+Andinkerke, 51.0667, 2.6000
+Annevoie Rouillon, 50.3500, 4.8333
+Ans, 50.6500, 5.5333
+Anseremme, 50.2500, 4.9000
+Antoing, 50.5667, 3.4500
+Antwaep > Antwerpen, 51.2167, 4.4167
+Antwerpen(Anvers), 51.2167, 4.4167
+Anvers > Antwerpen, 51.2167, 4.4167
+Ardooie, 50.9833, 3.2000
+Arendonk, 51.3167, 5.0833
+Arlon, 49.6833, 5.8167
+As, 51.0167, 5.5833
+Asse, 50.9167, 4.2000
+Assebroek, 51.2000, 3.2667
+Assenede, 51.2333, 3.7500
+Ath, 50.6333, 3.7833
+Athus, 49.5667, 5.8333
+Aubange, 49.5833, 5.8000
+Auby sur Semois, 49.8167, 5.1667
+Auderghem, 50.8167, 4.4333
+Avelgem, 50.7667, 3.4333
+Averbode, 51.0333, 4.9833
+Aywaille, 50.4667, 5.6667
+Baarle Hertog, 51.4500, 4.9333
+Baasrode, 51.0333, 4.1667
+Balen, 51.1667, 5.1500
+Bastogne, 50.0000, 5.7167
+Battice, 50.6500, 5.8167
+Baudour, 50.4833, 3.8167
+Beaubru, 49.7667, 5.0833
+Beaufays, 50.5667, 5.6333
+Beaumont, 50.2333, 4.2333
+Beauraing, 50.1167, 4.9667
+Beernem, 51.1500, 3.3333
+Beerse, 51.3167, 4.8667
+Beho, 50.2167, 6.0000
+Bekkevoort, 50.9500, 4.9667
+Bellegem, 50.7833, 3.2667
+Bellevaux Ligneuville, 50.4000, 6.0000
+Beloeil, 50.5500, 3.7167
+Belsele, 51.1500, 4.0833
+Berchem(Antwerp), 51.2000, 4.4333
+Berchem(Oost-Vlaanderen), 50.7833, 3.5000
+Berchem Ste Agathe, 50.8667, 4.2833
+Bergen > Mons, 50.4500, 3.9333
+Beringen, 51.0500, 5.2167
+Berlaar, 51.1167, 4.6500
+Bertogne, 50.0833, 5.6667
+Bertrix, 49.8500, 5.2500
+Beveren, 51.2167, 4.2500
+Beverlo, 51.0833, 5.2000
+Bierwart, 50.5667, 5.0167
+Bilzen, 50.8667, 5.5167
+Binche, 50.4000, 4.1667
+Bissegem, 50.8167, 3.2167
+Bièvre, 49.9333, 5.0167
+Blankenberge, 51.3167, 3.1333
+Bocholt, 51.1667, 5.5833
+Bohan, 49.8667, 4.8833
+Bomal, 50.3833, 5.5333
+Bon Secours, 50.5000, 3.6000
+Bonheiden, 51.0333, 4.5333
+Booischot, 51.0500, 4.7667
+Boom, 51.0833, 4.3667
+Borgerhout, 51.2167, 4.4333
+Borgloon, 50.8000, 5.3333
+Bouillon, 49.8000, 5.0667
+Boussu, 50.4333, 3.8000
+Braine l'Alleud, 50.6833, 4.3667
+Braine le Château, 50.6833, 4.2667
+Braine le Comte, 50.6000, 4.1333
+Brasschaat, 51.2833, 4.4500
+Bray, 50.4333, 4.1000
+Brecht, 51.3500, 4.6333
+Bredene, 51.2333, 2.9667
+Bree, 51.1333, 5.6000
+Bruges > Brugge, 51.2167, 3.2333
+Brugge(Bruges), 51.2167, 3.2333
+Bruselas > Bruxelles, 50.8333, 4.3333
+Brussel > Bruxelles, 50.8333, 4.3333
+Brussels > Bruxelles, 50.8333, 4.3333
+Bruxelles(Brussel,Brussels), 50.8333, 4.3333
+Brûly, 49.9667, 4.5167
+Buggenhout, 51.0167, 4.2000
+Büllingen, 50.4167, 6.2667
+Bütgenbach, 50.4333, 6.2000

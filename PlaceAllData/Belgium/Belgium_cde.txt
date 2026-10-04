@@ -1,0 +1,60 @@
+Celles, 50.2333, 5.0167
+Champlon, 50.1167, 5.4667
+Charleroi, 50.4167, 4.4333
+Chaudfontaine, 50.5833, 5.6333
+Cherain, 50.1833, 5.8667
+Chimay, 50.0500, 4.3167
+Chiny, 49.7333, 5.3333
+Chièvres, 50.5833, 3.8000
+Châtelet, 50.4000, 4.5167
+Châtelineau, 50.4167, 4.5167
+Ciney, 50.3000, 5.1000
+Comblain Au Pont, 50.4667, 5.5833
+Coo, 50.4000, 5.8667
+Corbion, 49.8000, 5.0000
+Couillet, 50.3833, 4.4500
+Courcelles, 50.4667, 4.3667
+Court St Étienne, 50.6500, 4.5667
+Coutrai > Kortrijk, 50.8333, 3.2667
+Couvin, 50.0500, 4.4833
+Crupet, 50.3500, 4.8000
+Cuesmes, 50.4333, 3.9167
+Damme, 51.2500, 3.2833
+De Haan, 51.2667, 3.0333
+De Panne, 51.1000, 2.5833
+De Pinte, 51.0000, 3.6500
+Deerlijk, 50.8500, 3.3500
+Deinze, 50.9833, 3.5333
+Denderleeuw, 50.8833, 4.0667
+Dendermonde, 51.0333, 4.1167
+Dessel, 51.2333, 5.1167
+Destelbergen, 51.0500, 3.8000
+Deurne, 51.2167, 4.4667
+Diest, 50.9833, 5.0500
+Diksmuide(Dixmude), 51.0333, 2.8667
+Dilbeek, 50.8500, 4.2667
+Dinant, 50.2667, 4.9167
+Dixmude > Diksmuide, 51.0333, 2.8667
+Doornik > Tournai, 50.6000, 3.3833
+Dour, 50.4000, 3.7833
+Drongen, 51.0500, 3.6667
+Dudzele, 51.2833, 3.2333
+Duffel, 51.1000, 4.5167
+Durbuy, 50.3500, 5.4667
+Edegem, 51.1500, 4.4500
+Edingen > Enghien, 50.7000, 4.0333
+Eeklo, 51.1833, 3.5667
+Ekeren, 51.2833, 4.4167
+Eksel, 51.1500, 5.3833
+Ellezelles, 50.7333, 3.6833
+Emptinne, 50.3167, 5.1167
+Enghien(Edingen), 50.7000, 4.0333
+Engis, 50.5833, 5.4167
+Erquelinnes, 50.3000, 4.1167
+Ertvelde, 51.1833, 3.7500
+Esneux, 50.5333, 5.5667
+Essen, 51.4667, 4.4667
+Etterbeek, 50.8333, 4.3833
+Eupen, 50.6333, 6.0333
+Evere, 50.8667, 4.4000
+Evergem, 51.1167, 3.7000

@@ -1,0 +1,71 @@
+Maaseik, 51.1000, 5.8000
+Machelen, 50.9167, 4.4333
+Macon, 50.0500, 4.2167
+Maissin, 49.9667, 5.1833
+Maldegem, 51.2167, 3.4500
+Malines >Mechalen, 51.0333, 4.4667
+Malmédy, 50.4167, 6.0333
+Manderfeld, 50.3333, 6.3333
+Marbais, 50.5500, 4.5167
+Marche En Famenne, 50.2000, 5.3333
+Marche Les Dames, 50.4833, 4.9667
+Marchienne Au Pont, 50.4000, 4.3833
+Mariembourg, 50.1000, 4.5167
+Martelange, 49.8333, 5.7333
+Mechelen(Malines), 51.0333, 4.4667
+Mechlin > Mechelen, 51.0333, 4.4667
+Meer, 51.4500, 4.7333
+Meerbeke, 50.8333, 4.0333
+Meerhout, 51.1333, 5.0833
+Meerle, 51.4667, 4.8000
+Membre, 49.8667, 4.9000
+Menen, 50.8000, 3.1167
+Merchtem, 50.9667, 4.2333
+Merelbeke, 51.0000, 3.7500
+Merkem, 50.9500, 2.8500
+Merksem, 51.2500, 4.4500
+Merksplas, 51.3667, 4.8667
+Mettet, 50.3167, 4.6667
+Meulebeke, 50.9500, 3.2833
+Middelkerke, 51.1833, 2.8167
+Moen, 50.7667, 3.4000
+Moerbeke, 50.7500, 3.9167
+Moerbeke-Waas, 51.1739, 3.9375
+Mol, 51.1833, 5.1000
+Molenbeek St Jean, 50.8500, 4.3167
+Momignies, 50.0333, 4.1667
+Monceau sur Sambre, 50.4167, 4.3667
+Mons(Bergen), 50.4500, 3.9333
+Moorsel, 50.9500, 4.1000
+Moorslede, 50.8833, 3.0667
+Moresnet, 50.7167, 5.9833
+Morlanwelz, 50.4500, 4.2333
+Mortsel, 51.1667, 4.4667
+Mouscron, 50.7333, 3.2167
+Moxhe, 50.6333, 5.0833
+Muizen, 51.0167, 4.5167
+Méan, 50.3667, 5.3333
+Naast, 50.5500, 4.0833
+Nadrin, 50.1667, 5.6833
+Nalinnes, 50.3167, 4.4333
+Namen > Namur, 50.4667, 4.8667
+Namur, 50.4667, 4.8667
+Nazareth, 50.9667, 3.6000
+Nederbrakel, 50.8000, 3.7667
+Nederzwalm Hermelgem, 50.8833, 3.6833
+Neeroeteren, 51.0833, 5.7000
+Neerpelt, 51.2167, 5.4167
+Neufchâteau, 49.8333, 5.4333
+Neufvilles, 50.5667, 4.0000
+Neuville En Condroz, 50.5333, 5.4500
+Niel, 51.1167, 4.3333
+Nieuwpoort, 51.1333, 2.7500
+Nieuwpoort Bad, 51.1500, 2.7000
+Nijlen, 51.1667, 4.6500
+Nijvel > Nivelles, 50.6000, 4.3333
+Nimy, 50.4667, 3.9500
+Ninove, 50.8333, 4.0167
+Nismes, 50.0833, 4.5500
+Nivelles(Nijvel), 50.6000, 4.3333
+Nonceveux, 50.4667, 5.7333
+Noville, 50.6667, 5.3833

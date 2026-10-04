@@ -1,0 +1,42 @@
+Tamines, 50.4333, 4.6000
+Templeuve, 50.6333, 3.2667
+Temse, 51.1333, 4.2167
+Tenneville, 50.1000, 5.5333
+Termonde > Dendermonde, 51.0333, 4.1167
+Tervuren, 50.8167, 4.5167
+Terwagne, 50.4500, 5.3333
+Tessenderlo, 51.0667, 5.0833
+Theux, 50.5333, 5.8167
+Thorembais Les Béguines, 50.6667, 4.8167
+Thourout, 51.0667, 3.1000
+Thuin, 50.3333, 4.2833
+Tielt, 51.0000, 3.3167
+Tienen, 50.8000, 4.9500
+Tilff, 50.5667, 5.5833
+Tintigny, 49.6833, 5.5167
+Tirlemont, 50.8000, 4.9333
+Tongeren, 50.7833, 5.4667
+Tongerlo, 51.1167, 4.9000
+Torhout, 51.0667, 3.1000
+Tournai, 50.6000, 3.3833
+Tournhout, 51.3167, 4.9500
+Trazegnies, 50.4667, 4.3167
+Trois Ponts, 50.3667, 5.8667
+Tubize, 50.6833, 4.2000
+Turnhout, 51.3167, 4.9500
+Uccle, 50.8000, 4.3167
+Vencimont, 50.0333, 4.9167
+Verviers, 50.5833, 5.8667
+Veurne(Furnes), 51.0667, 2.6667
+Vielsalm, 50.2833, 5.9167
+Villers Devant Orval, 49.6167, 5.3167
+Villers la Ville, 50.5833, 4.5333
+Vilvoorde, 50.9333, 4.4333
+Virelles, 50.0667, 4.3333
+Virginal Samme, 50.6333, 4.2000
+Virton, 49.5667, 5.5333
+Visé, 50.7333, 5.7000
+Vloesberg > Flobecq, 50.7333, 3.7333
+Vorst, 51.0667, 5.0167
+Vosselaar, 51.3167, 4.8833
+Vresse, 49.8667, 4.9333

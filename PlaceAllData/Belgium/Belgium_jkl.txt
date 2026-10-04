@@ -1,0 +1,76 @@
+Jabbeke, 51.1833, 3.0833
+Jalhay, 50.5667, 5.9667
+Jambes, 50.4667, 4.8667
+Jamoigne, 49.7000, 5.4167
+Jemappes, 50.4500, 3.8833
+Jemeppe, 50.6167, 5.5000
+Jette, 50.8667, 4.3333
+Jodoigne, 50.7167, 4.8667
+Jumet, 50.4333, 4.4167
+Jupille, 50.6500, 5.6333
+Kain, 50.6333, 3.3667
+Kalmthout, 51.3833, 4.4667
+Kapelle Op Den Bos, 51.0167, 4.3667
+Kapellen, 51.3167, 4.4333
+Kaprijke, 51.2167, 3.6000
+Kasterlee, 51.2500, 4.9500
+Kaulille, 51.1833, 5.5167
+Keerbergen, 51.0000, 4.6167
+Kemmel, 50.7833, 2.8167
+Kerkhove, 50.8000, 3.5000
+Kessel, 51.1333, 4.6167
+Knesselare, 51.1333, 3.4167
+Knokke, 51.3500, 3.2833
+Koekelare, 51.0833, 2.9667
+Koersel, 51.0667, 5.2667
+Koksijde, 51.1167, 2.6333
+Kontich, 51.1333, 4.4500
+Koolskamp, 51.0000, 3.2000
+Kortemark, 51.0333, 3.0333
+Kortrijk(Courtrai), 50.8333, 3.2667
+Kruishoutem, 50.9000, 3.5167
+Kuurne, 50.8500, 3.2833
+La Bouverie, 50.4000, 3.8667
+La Gleize, 50.4167, 5.8500
+La Louvière, 50.4667, 4.1833
+La Roche En Ardenne, 50.1833, 5.5833
+Laeken, 50.8833, 4.3500
+Lanaken, 50.8833, 5.6500
+Landen, 50.7500, 5.0833
+Langemark, 50.9167, 2.9167
+Lanklaar, 51.0167, 5.7333
+Lauwe, 50.8000, 3.1833
+Lebbeke, 51.0000, 4.1333
+Lede, 50.9667, 3.9667
+Lembeek, 50.7167, 4.2167
+Lendelede, 50.8833, 3.2333
+Leopoldsburg, 51.1167, 5.2500
+Lessen > Lessines, 50.7167, 3.8333
+Lessines(Lessen), 50.7167, 3.8333
+Leuven(Louvain), 50.8833, 4.7000
+Leuze, 50.5667, 4.9000
+Leuze, 50.6000, 3.6000
+Libramont, 49.9167, 5.3833
+Lichtaart, 51.2333, 4.9000
+Lichtervelde, 51.0333, 3.1500
+Liedekerke, 50.8667, 4.0833
+Lieja > Lièje, 50.6333, 5.5667
+Lier, 51.1333, 4.5667
+Lierneux, 50.3000, 5.8000
+Limbourg, 50.6167, 5.9333
+Lissewege, 51.3000, 3.1833
+Liège, 50.6333, 5.5667
+Lobbes, 50.3500, 4.2500
+Lochristi, 51.1000, 3.8333
+Lokeren, 51.1000, 4.0000
+Lommel, 51.2333, 5.3000
+Londerzeel, 51.0000, 4.3000
+Longchamps, 50.0500, 5.7000
+Longvilly, 50.0167, 5.8333
+Louvain > Leuven, 50.8833, 4.7000
+Louveigné, 50.5333, 5.7000
+Luik > Liège, 50.6333, 5.5667
+Lummen, 50.9833, 5.2000
+Lustin, 50.3833, 4.8833
+Löwen > Leuven, 50.8833, 4.7000
+Lüttich > Liège, 50.6333, 5.5667

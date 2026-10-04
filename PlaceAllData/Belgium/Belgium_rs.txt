@@ -1,0 +1,65 @@
+Raeren, 50.6833, 6.1167
+Rebecq Rognon, 50.6667, 4.1333
+Recogne, 49.9167, 5.3667
+Renaix > Ronse, 50.7500, 3.6000
+Retie, 51.2667, 5.0667
+Riemst, 50.8000, 5.6000
+Rijkevorsel, 51.3500, 4.7667
+Robertville, 50.4500, 6.1167
+Rochefort, 50.1667, 5.2167
+Rochehaut, 49.8500, 5.0000
+Roclenge sur Geer, 50.7500, 5.6000
+Roesbrugge Haringe, 50.9167, 2.6167
+Roeselare(Roulers), 50.9500, 3.1333
+Ronse(Renaix Gleiche), 50.7500, 3.6000
+Rotem, 51.0500, 5.7333
+Roulers > Roeselare, 50.9500, 3.1333
+Ruddervoorde, 51.1000, 3.2000
+Ruiselede, 51.0500, 3.4000
+Rumbeke, 50.9333, 3.1667
+Rumst, 51.0833, 4.4167
+Rœulx, 50.5000, 4.1000
+Saintes, 50.7000, 4.1667
+Salmehâteau, 50.2667, 5.9000
+Sart, 50.5167, 5.9333
+Schaerbeek, 50.8500, 4.3833
+Scherpenheuve, 50.9833, 4.9833
+Schilde, 51.2333, 4.5667
+Schoten, 51.2500, 4.5000
+Seneffe, 50.5167, 4.2500
+Seraing, 50.6000, 5.4833
+Silenrieux, 50.2333, 4.4000
+Sinsin, 50.2833, 5.2500
+Sint Amandsberg, 51.0667, 3.7500
+Sint Andries, 51.2000, 3.1667
+Sint Denijs Westrem, 51.0167, 3.6667
+Sint Gillis Waas, 51.2167, 4.1333
+Sint Joris Weert, 50.8000, 4.6500
+Sint Joris Winge, 50.9167, 4.8667
+Sint Katelijne Waver, 51.0667, 4.5333
+Sint Kruis, 51.2167, 3.2500
+Sint Lenaarts, 51.3500, 4.6833
+Sint Michiels, 51.1833, 3.2000
+Sint Niklaas(St Nicolas), 51.1667, 4.1333
+Sint Pieters Leeuw, 50.7833, 4.2333
+Sint Truiden, 50.8000, 5.2000
+Sirault, 50.5000, 3.7833
+Sleidinge, 51.1333, 3.6833
+Soheit Tinlot, 50.4833, 5.3667
+Soignies(Zinnik), 50.5833, 4.0667
+Solre sur Sambre, 50.3000, 4.1333
+Sougne Remouchamps, 50.4833, 5.6667
+Soy, 50.2833, 5.5167
+Spa, 50.5000, 5.8667
+St Gilles, 50.8167, 4.3333
+St Gérard, 50.3500, 4.7500
+St Hubert, 50.0167, 5.3833
+St Nicolas > Sint Niklaas, 51.1667, 4.1333
+St Séverin, 50.5333, 5.4167
+St Troud, 50.8000, 5.2000
+St Vith, 50.2833, 6.1333
+Stabroek, 51.3333, 4.3667
+Staden, 50.9833, 3.0167
+Stavelot, 50.3833, 5.9333
+Stekene, 51.2000, 4.0333
+Stoumont, 50.4167, 5.8000

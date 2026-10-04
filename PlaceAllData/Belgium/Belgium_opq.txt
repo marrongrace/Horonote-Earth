@@ -1,0 +1,46 @@
+Oedelem, 51.1667, 3.3333
+Ohey, 50.4333, 5.1333
+Olen, 51.1500, 4.8500
+Oombergen, 50.9000, 3.8333
+Oostakker, 51.1000, 3.7667
+Oostduinkerke, 51.1167, 2.6833
+Oostende(Ostende), 51.2167, 2.9167
+Oosterzele, 50.9500, 3.8000
+Oostkamp, 51.1500, 3.2333
+Oostmalle, 51.3000, 4.7333
+Oostrozebeke, 50.9167, 3.3333
+Oostvleteren, 50.9333, 2.7333
+Ophain Bois Seigneur Isaac, 50.6667, 4.3500
+Ophasselt, 50.8167, 3.8833
+Opwijk, 50.9667, 4.1833
+Oreye, 50.7333, 5.3667
+Ostende > Oostende, 51.2167, 2.9167
+Ottignies, 50.6667, 4.5667
+Oudenaarde, 50.8500, 3.6000
+Oudenburg, 50.7667, 3.8833
+Ouffet, 50.4333, 5.4667
+Overijse, 50.7667, 4.5333
+Overpelt, 51.2167, 5.4167
+Paal, 51.0333, 5.1833
+Paliseul, 49.9000, 5.1333
+Pamel, 50.8333, 4.0667
+Pecq, 50.6833, 3.3333
+Peer, 51.1333, 5.4667
+Pepinster, 50.5667, 5.8167
+Pervijze, 51.0833, 2.7833
+Petegem, 50.9667, 3.5333
+Philippeville, 50.2000, 4.5333
+Pittem, 51.0000, 3.2667
+Ploegsteert, 50.7167, 2.8833
+Poelkapelle, 50.9167, 2.9500
+Pont de Bonne, 50.4500, 5.2833
+Pont À Celles, 50.5000, 4.3500
+Poperinge, 50.8500, 2.7167
+Poppel, 51.4500, 5.0333
+Presles, 50.3833, 4.5833
+Putte, 51.0667, 4.6333
+Puurs, 51.0833, 4.2833
+Péronnes, 50.4333, 4.1333
+Péruwelz, 50.5167, 3.5833
+Quaregnon, 50.4333, 3.8500
+Quiévrain, 50.4000, 3.6833

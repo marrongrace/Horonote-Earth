@@ -1,0 +1,46 @@
+Fallais, 50.6167, 5.1667
+Familleureux, 50.5167, 4.2000
+Fauvillers, 49.8500, 5.6667
+Fleurus, 50.4833, 4.5500
+Flobecq, 50.7333, 3.7333
+Floreffe, 50.4333, 4.7500
+Florennes, 50.2500, 4.6167
+Florenville, 49.7000, 5.3000
+Forest, 50.8000, 4.3167
+Fosses la Ville, 50.4000, 4.7000
+Fraire, 50.2667, 4.5000
+Frameries, 50.4000, 3.9000
+Frasnes Lez Buissenal, 50.6667, 3.6000
+Furnes > Veurne, 51.0667, 2.6667
+Gand > Gent, 51.0500, 3.7167
+Ganshoren, 50.8667, 4.3000
+Gente > Gent, 51.0500, 3.7167
+Gaurain Ramecroix, 50.5833, 3.4833
+Gedinne, 49.9833, 4.9333
+Geel, 51.1667, 5.0000
+Gelinden, 50.7667, 5.2500
+Gellingen > Ghislenghien, 50.6500, 3.8667
+Geluwe, 50.8000, 3.0667
+Gembloux, 50.5667, 4.6833
+Genappe, 50.6000, 4.4500
+Genk, 50.9667, 5.5000
+Gent, 51.0500, 3.7167
+Gentbrugge, 51.0500, 3.7500
+Genval, 50.7167, 4.4833
+Geraardsbergen, 50.7667, 3.8667
+Gerpinnes, 50.3333, 4.5167
+Ghent > Gent, 51.0500, 3.7167
+Ghislenghien(Gellingen), 50.6500, 3.8667
+Ghlin, 50.4667, 3.8833
+Gierle, 51.2667, 4.8500
+Gilly, 50.4333, 4.5000
+Gistel, 51.1667, 2.9500
+Godinne, 50.3500, 4.8667
+Gosselies, 50.4667, 4.4167
+Grammont > Geraardsbergen, 50.7667, 3.8667
+Grand Halleux, 50.3167, 5.9000
+Grandrieu, 50.2000, 4.1667
+Grez Doiceau, 50.7333, 4.7000
+Grimbergen, 50.9333, 4.3833
+Grobbendonk, 51.2000, 4.7167
+Gruitrode, 51.0833, 5.5833
