@@ -24,12 +24,6 @@ st.set_page_config(
     layout="centered",
 )
 
-# スマホのホーム画面用アイコン設定をHTMLインジェクションで追加
-st.markdown("""
-    <link rel="apple-touch-icon" href="https://raw.githubusercontent.com/marrongrace/Horonote-Earth/main/Horo_logo.png">
-    <link rel="manifest" href="manifest.json">
-""", unsafe_allow_html=True)
-
 # グローバル国・州・地域マスターリスト（提供いただいたデータ[cite: 1]）
 GLOBAL_COUNTRIES = [
     "Afghanistan", "Alabama", "Alaska", "Albania", "Algeria", "American Samoa", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina",
