@@ -1,0 +1,73 @@
+Ladainha, -17.6500, -41.7333
+Ladário, -19.0167, -57.5833
+Lagarto, -10.9000, -37.6833
+Lageado, -29.4500, -51.9667
+Lago da Pedra, -4.3333, -45.1667
+Lagoa, -23.3000, -45.6000
+Lagoa Branca, -21.9000, -47.0333
+Lagoa da Prata, -20.0167, -45.5500
+Lagoa Dourada, -20.9167, -44.0833
+Lagoa Formosa, -18.7833, -46.4000
+Lagoa Santa, -19.6333, -43.8833
+Lagoa Vermelha, -28.2167, -51.5333
+Lagoinha, -23.1000, -45.1833
+Lagolândia, -15.6167, -49.0333
+Laguna, -28.4833, -48.7833
+Laguna Carap, -22.4500, -55.0167
+Laje, -13.1667, -39.4167
+Lajeado, -29.4500, -51.9667
+Lajedo, -8.6667, -36.3167
+Lajes(Santa Catarina), -27.8000, -50.3167
+Lajes(Rio Grande do Norte), -5.6833, -36.2333
+Lajinha, -20.1500, -41.6167
+Lambari, -21.9667, -45.3500
+Landri Sales, -7.2667, -43.9167
+Lapa, -25.7500, -49.7000
+Lapela, -3.7333, -44.7500
+Lapão, -11.4000, -41.8333
+Laranjal, -21.3667, -42.4667
+Laranjeiras, -10.8000, -37.1667
+Laranjeiras do Sul, -25.4167, -52.4167
+Lassance, -17.9000, -44.5667
+Lauro Müller, -28.4000, -49.3833
+Lavras, -21.2333, -45.0000
+Lavras da Mangabeira, -6.7500, -38.9500
+Lavras do Sul, -30.8167, -53.9167
+Lavrinhas, -22.5833, -44.9000
+Leandro, -5.9833, -44.9167
+Lebon Régis, -26.9333, -50.7000
+Leme, -22.2000, -47.4000
+Lençóis, -12.5667, -41.3833
+Leopoldina, -21.5333, -42.6333
+Leopoldo de Bulhães, -16.6167, -48.7667
+Liberdade, -22.0167, -44.3167
+Lima Duarte, -21.8500, -43.8000
+Limeira, -22.5667, -47.4000
+Limoeiro, -7.8667, -35.4500
+Limoeiro do Norte, -5.1333, -38.0833
+Lindóia, -22.5167, -46.6500
+Linfa, -23.7333, -46.9333
+Linhares, -19.4167, -40.0667
+Lins, -21.6667, -49.7500
+Livramento > Santana do Livramento, -30.8833, -55.5167
+Livramento do Brumado, -13.6500, -41.8333
+Lizarda, -9.6000, -46.6833
+Loanda, -22.9000, -53.1667
+Londrina, -23.3000, -51.1500
+Lorena, -22.7333, -45.1333
+Loreto, -7.0833, -45.1500
+Lourenço, 2.5000, -51.6667
+Lourenço Velho, -22.3667, -45.3167
+Louveira, -23.0667, -46.9667
+Luisiânia, -21.6833, -50.2833
+Luminosa, -22.5833, -45.6333
+Luminárias, -21.5000, -44.9000
+Luz(Mina Gerais), -19.8000, -45.6667
+Luz(Rio Grande do Norte), -22.8000, -43.0833
+Luzilândia, -3.4667, -42.3667
+Luziânia, -16.2500, -47.9333
+Luís Alves, -26.7333, -48.9500
+Luís Correia, -2.8833, -41.6667
+Luís Gomes, -6.4167, -38.3833
+Lábrea, -7.2667, -64.7833
+Lídice, -22.8500, -44.2000

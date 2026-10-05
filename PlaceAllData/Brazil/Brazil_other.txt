@@ -1,0 +1,20 @@
+Àrvorezinha, -28.8833, -52.1667
+Água Boa, -17.9833, -42.4000
+Água Branca(Paraíba), -7.5167, -37.6667
+Água Branca(Piauí), -5.8833, -42.6333
+Água Branca(Alagoas), -9.2833, -37.9167
+Água Clara, -20.4500, -52.8667
+Água Comprida(North Minas Gerais), 20.0667, 48.1333
+Água Comprida(Southern Minas Gerais), -21.9000, -45.6667
+Água Doce, -27.0000, -51.5500
+Água Limpa, -18.1000, -48.7667
+Água Viva, -21.6833, -42.5500
+Águas Belas, -9.1167, -37.1167
+Águas da Prata, -21.9333, -46.7167
+Águas de Contendas, -21.9000, -45.0167
+Águas de Lindóia, -22.4833, -46.6500
+Águas Formosas, -17.0833, -40.9500
+Éden, -22.8000, -43.4000
+Óbidos, -1.9167, -55.5167
+Ôlho d'Agua das Cunhas, -4.7167, -44.5667
+Ôlho d'Água das Flores, -9.5500, -37.2833

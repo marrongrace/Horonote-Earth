@@ -1,0 +1,403 @@
+Caapiranga, -3.3000, -61.2167
+Cabaceiras, -7.5000, -36.2833
+Cabeceiras, -15.8000, -46.9833
+Cabedelo, -6.9667, -34.8333
+Cabo, -8.2833, -35.0333
+Cabo Frio, -22.8833, -42.0167
+Cabo Verde, -21.4667, -46.4000
+Cabreúva, -23.3000, -47.1333
+Cabrobó, -8.5167, -39.3167
+Cabuçu(São Paulo), -23.4167, -46.5333
+Cabuçu(Nova Iguaçu), -22.7833, -43.5333
+Cabuçu(Itaboraí), -22.8333, -42.9167
+Cacequi, -29.8833, -54.8167
+Cachoeira, -12.6000, -38.9667
+Cachoeira Alta, -18.8000, -50.9667
+Cachoeira de Goiás, -16.7333, -50.6333
+Cachoeira de Minas, -22.3500, -45.7833
+Cachoeira do Arari, -1.0167, -48.9667
+Cachoeira do Sul, -30.0333, -52.9000
+Cachoeira Paulista, -22.6667, -45.0167
+Cachoeiras, -22.6500, -43.4667
+Cachoeiras de Macacu, -22.4667, -42.6500
+Cachoeirinha, -8.4833, -36.2333
+Cachoeiro de Itapemirim, -20.8500, -41.1000
+Cacimbinhas, -9.4000, -36.9833
+Caconde, -21.5500, -46.6333
+Caculé, -14.5000, -42.2167
+Caetanópolis, -19.3000, -44.4000
+Caetité, -14.0667, -42.4833
+Caeté, -19.9000, -43.6667
+Cafelândia do Leste Matogrossense, -16.6667, -53.4167
+Cafundó, -22.5167, -46.4167
+Caiapônia, -16.9500, -51.8167
+Caicó, -6.4500, -37.1000
+Caieiras, -23.3667, -46.7333
+Cairari, -2.5500, -49.1167
+Cairu, -13.5000, -39.0500
+Caiçara(Goiás), -15.5667, -50.2000
+Caiçara(Paraíba), -6.6000, -35.4833
+Caiçara(Rio Grande do Norte), -5.0667, -36.0500
+Cajamar, -23.3500, -46.8833
+Cajapió, -2.9667, -44.8000
+Cajari, -3.3333, -45.0167
+Cajueiro, -9.4167, -36.1333
+Cajuru, -21.2833, -47.3000
+Cajàzeiras, -6.9000, -38.5667
+Calama, -8.0500, -62.8833
+Caldas, -21.9333, -46.3833
+Caldas Novas, -17.7500, -48.6333
+Calçoene, 2.5000, -50.9500
+Camacho, -22.3333, -47.2167
+Camamu, -13.9500, -39.1167
+Camanducaia, -22.7667, -46.1500
+Camapuã, -19.5000, -54.0833
+Camaquã, -30.8500, -51.8167
+Camarajibe, -8.0167, -34.9667
+Camará, -3.9167, -62.7333
+Camaçari, -12.6833, -38.3000
+Cambaquara, -23.9000, -45.4500
+Cambará, -23.0500, -50.0833
+Camboriú, -27.0167, -48.6333
+Cambuci, -21.5667, -41.9167
+Cambuquira, -21.8500, -45.3000
+Cambuí, -22.6167, -46.0667
+Cametá, -2.2500, -49.5000
+Camiranga, -1.8000, -46.2833
+Camocim, -2.9000, -40.8333
+Campanha, -21.8333, -45.4000
+Campestre(Eastern Minas Gerais), -21.2667, -42.9333
+Campestre(Southern Minas Gerais), -21.7167, -46.2500
+Campina Grande, -7.2167, -35.8833
+Campina Verde, -19.5167, -49.4667
+Campinas, -22.9000, -47.0833
+Campo Alegre de Goiás, -17.6500, -47.7500
+Campo Belo, -20.8833, -45.2667
+Campo da Bocaina, -22.2833, -46.1000
+Campo do Coelho, -22.2500, -42.6500
+Campo Erê, -26.3833, -53.0500
+Campo Florido, -19.7833, -48.5833
+Campo Formoso, -10.5167, -40.3333
+Campo Grande, -20.4500, -54.6167
+Campo Largo, -25.4333, -49.5333
+Campo Limpo, -23.2000, -46.8000
+Campo Maior, -4.8167, -42.1667
+Campo Mourão, -24.0500, -52.3667
+Campo Nôvo, -27.7000, -53.8000
+Campolide, -21.6000, -43.8833
+Campos, -21.7500, -41.3000
+Campos Altos, -19.6833, -46.1667
+Campos Belos, -13.0500, -46.8833
+Campos de Cunha, -22.9167, -44.8167
+Campos do Jordão, -22.7333, -45.5833
+Campos Elyseos, -22.7000, -43.2833
+Campos Gerais, -21.2333, -45.7667
+Campos Novos, -27.4000, -51.2000
+Campos Sales, -7.0667, -40.3833
+Cananéia, -25.0167, -47.9500
+Canavieiras, -15.6500, -38.9500
+Candeias, -12.6667, -38.5500
+Candeias, -20.7833, -45.2667
+Candelária, -29.6667, -52.8000
+Canela, -29.3667, -50.8333
+Cangas, -16.0833, -56.5500
+Canguaretama, -6.4000, -35.1333
+Canguçu, -31.4000, -52.6833
+Canhotinho, -8.8833, -36.2000
+Canindé, -4.3667, -39.3167
+Canindé de São Francisco, -9.6500, -37.8000
+Canoas, -29.9333, -51.1833
+Canoinhas, -26.1667, -50.4000
+Cansanção, -10.6833, -39.5167
+Cantagalo, -21.9667, -42.3667
+Cantanhede, -3.6500, -44.4000
+Canto do Buriti, -8.1167, -42.9667
+Canto do Pontes, -22.9667, -43.0667
+Canumã, -4.0333, -59.0667
+Canutama, -6.5333, -64.3333
+Canápolis, -18.7333, -49.2167
+Capanema(Pará), -1.2000, -47.1833
+Capanema(Paraná), -25.6667, -53.8000
+Capela(Alagoas), -9.4167, -36.0667
+Capela(Sergipe), -10.5000, -37.0667
+Capelinha, -17.7000, -42.5167
+Capinzal, -27.3333, -51.6000
+Capinópolis, -18.6833, -49.5833
+Capistrano, -4.4667, -38.9167
+Capitari, 0.8500, -61.4000
+Capitão de Campos, -4.4667, -41.9500
+Capivari, -23.0000, -47.5167
+Capuáva, -23.6500, -46.4833
+Capão Bonito, -24.0167, -48.3333
+Caquende, -21.3333, -44.5500
+Caracaraí, 1.8333, -61.1333
+Caracol(Mato Grosso do Sul), -22.0167, -57.0333
+Caracol(Piauí), -9.2833, -43.3333
+Caraguatatuba, -23.6167, -45.4167
+Carandaí, -20.9500, -43.8000
+Carangola, -20.7333, -42.0333
+Carapajó, -2.2667, -49.3667
+Carapeva, -23.2000, -45.4000
+Carapicuíba, -23.5167, -46.8333
+Carapó, -22.6333, -54.8000
+Caratinga, -19.7833, -42.1333
+Carauari, -4.8667, -66.9000
+Caravelas, -17.7500, -39.2500
+Caraí, -17.2000, -41.7000
+Caraúbas(Rio Grande do Norte), -5.7833, -37.5667
+Caraúbas(Paraíba), -7.7167, -36.5167
+Cardoso, -20.0667, -49.9000
+Careaçu, -22.0333, -45.7000
+Careiro, -3.2000, -59.7500
+Cariacica, -20.2667, -40.4167
+Caridade, -4.2167, -39.2000
+Carinhanha, -14.3000, -43.7833
+Carira, -10.3500, -37.7000
+Caririaçu, -7.0333, -39.2833
+Cariré, -3.9500, -40.4500
+Cariús, -6.5333, -39.5000
+Carlos Alves, -21.6167, -43.1167
+Carlos Barbosa, -29.3000, -51.5000
+Carlos Chagas, -17.7167, -40.7500
+Carlos Sampaio, -22.7000, -43.5167
+Carlópolis, -23.4167, -49.6833
+Carmo, -21.9333, -42.6167
+Carmo da Cachoeira, -21.4667, -45.2167
+Carmo de Minas, -22.1167, -45.1333
+Carmo do Paranaíba, -18.9833, -46.3500
+Carmo do Rio Verde, -15.3500, -49.7000
+Carmópolis de Minas, -20.5500, -44.6333
+Carnaíba, -7.8000, -37.8167
+Carolina, -7.3333, -47.4667
+Carpina, -7.8500, -35.2500
+Carrancas, -21.5000, -44.6500
+Carrazedo, -1.6000, -51.9000
+Caruaru, -8.2833, -35.9667
+Carutapera, -1.2167, -46.0167
+Carvalhos, -22.0000, -44.4667
+Carvoeiro, -1.4000, -61.9833
+Caràzinho, -28.3000, -52.8000
+Casa Branca, -21.7667, -47.0667
+Casa Nova, -9.4167, -41.1333
+Casca, -28.5667, -51.9833
+Cascalho Rico, -18.5667, -47.8667
+Cascatinha, -22.4833, -43.1500
+Cascavel(Paraná), -24.9500, -53.4667
+Cascavel(Ceará), -4.1167, -38.2333
+Casimiro de Abreu, -22.4833, -42.2000
+Cassilândia, -19.1500, -51.7500
+Cassino, -32.1833, -52.1667
+Cassununga, -16.0500, -53.6333
+Castanhal, -1.3000, -47.9167
+Castelo, -20.6000, -41.2000
+Castelo do Piauí, -5.3333, -41.5500
+Castilho, -20.8667, -51.4833
+Castro, -24.7833, -50.0000
+Cataguarino, -21.3000, -42.7167
+Cataguases, -21.4000, -42.6833
+Catalão, -18.1667, -47.9500
+Catanduva, -21.1333, -48.9667
+Catarina, -6.2000, -39.9000
+Catingueira, -7.1333, -37.6167
+Catingueiro, -22.1667, -46.8667
+Catolé do Rocha, -6.3500, -37.7500
+Catrimani, 0.4500, -61.6833
+Catu, -12.3500, -38.3833
+Catuçaba, -23.2500, -45.2000
+Caucaia, -3.7000, -38.6500
+Caucaia do Alto, -23.6833, -47.0333
+Cava, -22.6833, -43.4333
+Cavalcante, -13.8000, -47.5000
+Cavalheiro, -17.2500, -48.0333
+Caxambu, -21.9833, -44.9333
+Caxias, -4.8333, -43.3500
+Caxias do Sul, -29.1667, -51.1833
+Caçador, -26.7833, -51.0000
+Caçapava, -23.1000, -45.7000
+Caçapava do Sul, -30.5000, -53.5000
+Caçapava Velha, -23.1167, -45.6500
+Caçu, -18.6167, -51.0667
+Ceará > Fortaleza, -3.7167, -38.5000
+Ceará-Mirim, -5.6333, -35.4333
+Cedro, -6.6000, -39.0500
+Centenário do Sul, -22.8000, -51.6167
+Central, -11.1333, -42.1333
+Centralina, -18.5667, -49.2167
+Ceres, -15.2833, -49.5833
+Chapada dos Guimarães, -15.4333, -55.7500
+Chapadinha, -3.7333, -43.3500
+Chapecó, -27.1000, -52.6000
+Chaval, -3.0333, -41.2500
+Chaves, -0.1667, -49.9167
+Chiador, -22.0167, -43.0500
+Chopinzinho, -25.8500, -52.5000
+Chorrochó, -8.9833, -39.1000
+Chuí, -33.6833, -53.4500
+Chácara, -21.6833, -43.2167
+Cianorte, -23.6167, -52.6167
+Cipolândia, -20.1333, -55.4000
+Cipó, -11.1000, -38.5167
+Clevelândia, -26.4000, -52.3500
+Clevelândia do Norte, 3.8167, -51.8667
+Coaraci, -14.6333, -39.5333
+Coari, -4.0833, -63.1333
+Cocal, -3.4667, -41.5667
+Cococi, -6.4167, -40.5000
+Codajás, -3.8333, -62.0833
+Codòzinho, -4.7667, -44.1667
+Codó, -4.4833, -43.8833
+Coelho da Rocha, -22.7833, -43.3833
+Coelho Neto, -4.2500, -43.0000
+Coimbra, -20.8667, -42.8000
+Coimbra, -19.9167, -57.7833
+Colares, -0.9333, -48.2833
+Colatina, -19.5333, -40.6167
+Colinas(Goiás), -14.2000, -48.0500
+Colinas(Maranhão), -6.0333, -44.2333
+Colombo, -25.2833, -49.2333
+Coluna, -18.2333, -42.8333
+Colônia Leopoldina, -8.9500, -35.6500
+Comendador Gomes, -19.6833, -49.0833
+Comercinho, -16.3167, -41.7833
+Conceição(Paraíba), -7.5500, -38.5167
+Conceição(Mato Grosso), -7.4000, -58.0833
+Conceição da Aparecida, -21.1000, -46.2000
+Conceição da Barra, -18.5833, -39.7500
+Conceição da Ibitipoca, -21.7167, -43.9167
+Conceição da Pedra, -22.1500, -45.4500
+Conceição das Alagoas, -19.9167, -48.3833
+Conceição de Ipanema, -19.9167, -41.6833
+Conceição de Jacareí, -23.0333, -44.1500
+Conceição do Almeida, -12.8000, -39.2000
+Conceição do Araguaia, -8.2500, -49.2833
+Conceição do Canindé, -7.9000, -41.5667
+Conceição do Coité, -11.5500, -39.2667
+Conceição do Formoso, -21.4167, -43.3500
+Conceição do Mato Dentro, -19.0167, -43.4167
+Conceição do Maú, 3.5833, -59.8833
+Conceição do Norte, -12.2167, -47.3000
+Conceição do Rio Verde, -21.8833, -45.0833
+Conceição dos Ouros, -22.4167, -45.7833
+Conchal, -22.3333, -47.1667
+Concórdia, -27.2333, -52.0167
+Concórdia, -4.5833, -66.5833
+Conde, -11.8167, -37.6167
+Condeixa, -0.9000, -48.6000
+Condeúba, -14.8833, -41.9833
+Congo, -7.8000, -36.6667
+Congonhal, -22.1500, -46.0333
+Congonhinhas, -23.5500, -50.5500
+Conquista, -19.9333, -47.5500
+Conrado, -22.5333, -43.5500
+Conselheiro Lafaiete, -20.6667, -43.8000
+Conselheiro Paulino, -22.2167, -42.5167
+Conselheiro Pena, -19.1667, -41.5000
+Conservatória, -22.3000, -43.9500
+Consolação, -22.5500, -45.9167
+Contendas do Sincorá, -13.7500, -41.0333
+Copatana, -2.8000, -67.0667
+Coração de Jesus, -16.7000, -44.3667
+Coração de Maria, -12.2333, -38.7500
+Cordeiro, -22.0333, -42.3667
+Cordisburgo, -19.1167, -44.3500
+Coreaú, -3.5500, -40.6500
+Coremas, -7.0167, -37.9667
+Coribe, -13.8333, -44.4667
+Corinto, -18.3500, -44.4500
+Cornélio Procópio, -23.1333, -50.6500
+Coroa Grande, -22.9000, -43.8667
+Coroaci, -18.5833, -42.2833
+Coroatá, -4.1333, -44.1333
+Coromandel, -18.4667, -47.2167
+Coronel Fabriciano, -19.5167, -42.6333
+Coronel Murta, -16.6167, -42.1833
+Coronel Pacheco, -21.5833, -43.2667
+Coronel Ponce, -15.5667, -55.0167
+Coronel Vivida, -25.9667, -52.5667
+Corredor, -23.4500, -46.3167
+Correia de Almeida, -21.2833, -43.6333
+Corrente, -10.4500, -45.1667
+Correntes, -9.1333, -36.3167
+Correntezas, -22.5000, -42.5167
+Correntina, -13.3333, -44.6500
+Corumbaíba, -18.1500, -48.5667
+Corumbá, -19.0167, -57.6500
+Corumbá de Goiás, -15.9167, -48.8000
+Coruripe, -10.1333, -36.1667
+Cosmorama, -20.4667, -49.7833
+Cosmópolis, -22.6333, -47.2000
+Costas, -22.6500, -45.9333
+Cotegipe, -12.0333, -44.2500
+Cotia, -23.6167, -46.9333
+Cotubandê, -22.8500, -43.0167
+Couto Magalhães, -8.2833, -49.2667
+Coxim, -18.5000, -54.7500
+Coxipó da Ponte, -15.6333, -56.0667
+Crateús, -5.1667, -40.6667
+Crato, -7.2333, -39.3833
+Criciúma, -28.6667, -49.3833
+Crissiumal, -27.5000, -54.1167
+Cristalina, -16.7500, -47.6000
+Cristalândia, -10.6000, -49.1833
+Cristianópolis, -17.2167, -48.7500
+Cristina, -22.2167, -45.2667
+Cristino Castro, -8.8167, -44.2167
+Cristinápolis, -11.4833, -37.7667
+Crisólia, -22.2500, -46.4167
+Crixalândia, -15.3000, -47.2500
+Crixás, -14.4500, -49.9667
+Cromínia, -17.2833, -49.3500
+Crucilândia, -20.3833, -44.3500
+Cruz Alta, -28.6500, -53.6000
+Cruz das Almas, -22.7333, -46.8500
+Cruz Descoberta, -22.7500, -46.8000
+Cruz Machado, -26.0167, -51.3500
+Cruzeiro, -22.5667, -44.9667
+Cruzeiro do Oeste, -23.7667, -53.0667
+Cruzeiro do Sul, -7.6333, -72.6000
+Cruzeta, -6.4167, -36.7833
+Cruzília, -21.8333, -44.8000
+Crãolândia, -7.9500, -47.2500
+Cubati, -6.8500, -36.3500
+Cubatão, -23.8833, -46.4167
+Cucuí, 1.2000, -66.8333
+Cuiabá, -15.5833, -56.0833
+Cuiari, 1.5000, -68.1833
+Cuité, -6.4833, -36.1500
+Cumari, -18.2667, -48.1833
+Cumbe, -10.3500, -37.2333
+Cunani, 2.8667, -51.1000
+Cunha, -23.0833, -44.9667
+Cunha Porã, -26.9000, -53.1500
+Cunhambebe, -23.0000, -44.3333
+Cupins, -19.8500, -51.0500
+Curaçá, -8.9833, -39.9000
+Curimatá, -10.0333, -44.2833
+Curitiba, -25.4167, -49.2500
+Curitibanos, -27.3000, -50.6000
+Curiúva, -24.0333, -50.4500
+Currais Novos, -6.2500, -36.5167
+Curralinho, -1.8000, -49.7833
+Curumu, -1.0167, -51.0500
+Curupá, -9.9000, -45.9000
+Cururupu, -1.8333, -44.8667
+Curuçambaba, -2.1333, -49.3000
+Curuçá, -0.7167, -47.8333
+Curva Grande, -2.6167, -45.4500
+Curvelo, -18.7500, -44.4167
+Custódia, -8.1167, -37.6500
+Cyuabá > Cuiabá, -15.5833, -56.0833
+Cáceres, -16.0667, -57.6833
+Cássia, -20.6000, -46.9333
+Cássia dos Coqueiros, -21.2833, -47.1667
+Cândido de Abreu, -24.5833, -51.3333
+Cândido Mendes, -1.4500, -45.7167
+Cêrro Azul, -24.8333, -49.2500
+Cêrro Corá, -6.0500, -36.3500
+Cêrro Largo, -28.1500, -54.7500
+Cícero Dantas, -10.6000, -38.3833
+Córrego do Bom Jesus, -22.6333, -46.0333
+Córrego do Ouro(Minas Gerais), -16.3000, -50.5333
+Córrego do Ouro(Goiás), -21.3667, -45.7833
+Córrego Rico, -15.2333, -47.8000
+Côcos, -14.1667, -44.5500

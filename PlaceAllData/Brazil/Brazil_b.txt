@@ -1,0 +1,203 @@
+Babaçulândia, -7.2167, -47.7667
+Babilônia, -22.5500, -44.4667
+Baby, -22.7000, -43.3833
+Bacabal, -4.2333, -44.7833
+Bacatuba, -5.6667, -43.7000
+Bacurituba, -2.7167, -44.7167
+Badu, -22.9000, -43.0667
+Baependi, -21.9500, -44.8833
+Bagre, -1.9000, -50.2000
+Bagé, -31.3333, -54.1000
+Bahía > Salvador, -12.9833, -38.5167
+Bailique, 0.9667, -50.0667
+Bairrinho, -22.6000, -47.1000
+Bairro Alto, -23.4833, -45.3500
+Baixa Grande, -11.9500, -40.1833
+Baixio, -6.7333, -38.7167
+Baião, -2.6833, -49.6833
+Baldeador, -22.8833, -43.0333
+Baldim, -19.2833, -43.9500
+Baliza, -16.2500, -52.4167
+Balsas, -7.5167, -46.0333
+Bambu, -22.5167, -46.4333
+Bambuí, -20.0167, -45.9667
+Bananal, -22.6833, -44.3167
+Bananeiras, -6.7500, -35.6167
+Bandeira do Sul, -21.7833, -46.3833
+Bandeirantes(Goiás), -13.6833, -50.8000
+Bandeirantes(Mato Grosso do Sul), -19.8833, -54.3833
+Bandeirantes(Paraná), -23.1000, -50.3500
+Barbacena, -21.2333, -43.7667
+Barbalha, -7.3167, -39.2833
+Barcelos, -0.9667, -62.9500
+Bariri, -22.0667, -48.7333
+Barra, -11.0833, -43.1667
+Barra da Estiva, -13.6333, -41.3167
+Barra de Santa Rosa, -6.7167, -36.0667
+Barra de Santo Antônio, -9.4000, -35.5000
+Barra de São Francisco, -21.9667, -42.7000
+Barra do Bugres, -15.0833, -57.1833
+Barra do Corda, -5.5000, -45.2500
+Barra do Garças, -15.8833, -52.2500
+Barra do Mendes, -11.7167, -42.0667
+Barra do Piraí, -22.4667, -43.8167
+Barra do Ribeiro, -30.3000, -51.3000
+Barra dos Coqueiros, -10.9000, -37.0500
+Barra Mansa, -22.5333, -44.1833
+Barracão, -26.2500, -53.6333
+Barracão do Barreto, -8.8000, -58.4000
+Barras, -4.2500, -42.3000
+Barreiras, -12.1333, -45.0000
+Barreirinha, -2.7833, -57.0500
+Barreirinhas, -2.7500, -42.8333
+Barreiros, -8.8167, -35.2000
+Barretos, -20.5500, -48.5500
+Barrinho, -23.1167, -45.3667
+Barro, -7.1833, -38.7833
+Barro Alto, -15.0667, -48.9667
+Barro Duro, -2.8667, -42.2833
+Barrânia, -21.5500, -46.5333
+Barueri, -23.5167, -46.8833
+Barão Ataliba Nogueira, -22.4000, -46.7500
+Barão de Aquino, -22.1167, -42.6500
+Barão de Cocais, -19.9333, -43.4667
+Barão de Geraldo, -22.8167, -47.1000
+Barão de Grajaú, -6.7500, -43.0167
+Barão de Juparanã, -22.3500, -43.6833
+Barão de Melgaço, -16.2167, -55.9667
+Barão de Tromaí, -1.4833, -45.6000
+Basílio, -31.8833, -53.0167
+Bataguaçu, -21.7000, -52.3667
+Bataiporã, -22.3333, -53.2833
+Batalha(Alagoas), -9.6833, -37.1333
+Batalha(Piauí), -4.0167, -42.0833
+Batatais, -20.8833, -47.6167
+Batatuba, -23.0667, -46.4167
+Bateia, -22.3333, -45.8167
+Batovi, -15.8833, -53.4000
+Baturité, -4.3333, -38.8833
+Bauru, -22.3167, -49.0667
+Bayeux, -7.1333, -34.9333
+Baía Formosa, -6.3667, -35.0000
+Baús, -18.3167, -53.1667
+Bebedouro, -20.9333, -48.4667
+Beberibe, -4.1833, -38.1333
+Beja, -1.6000, -48.7833
+Bela Cruz, -3.0500, -40.1833
+Bela Vista, -22.1000, -56.5167
+Bela Vista de Goiás, -16.9667, -48.9500
+Bela Vista do Paraíso, -23.0000, -51.2000
+Belford Roxo, -22.7667, -43.4000
+Bello Horizonte> Belo Horizonte, -19.9167, -43.9333
+Belmonte, -15.8500, -38.9000
+Belo Horizonte, -19.9167, -43.9333
+Belo Jardim, -8.3333, -36.4333
+Belo Vale, -20.4167, -44.0167
+Belterra, -2.6333, -54.9500
+Belém, -1.4500, -48.4833
+Belém de São Francisco, -8.7667, -38.9667
+Bemposta, -22.1500, -43.1167
+Beneditinos, -5.4500, -42.3667
+Benedito Leite, -7.2167, -44.5667
+Benjamin Constant, -4.3667, -70.0333
+Bento Gonçalves, -29.1667, -51.5167
+Bequimão, -2.4333, -44.7833
+Bertioga, -23.8500, -46.1500
+Bertolínia, -7.6333, -43.9500
+Beruri, -3.9000, -61.3667
+Betém, -22.8667, -44.2833
+Bezerros, -8.2333, -35.7500
+Bias Fortes, -21.6000, -43.7667
+Bicas, -21.7167, -43.0667
+Bicas do Meio, -22.5167, -45.3500
+Biguaçu, -27.5000, -48.6667
+Bilac, -21.4000, -50.4667
+Birigui, -21.3000, -50.3167
+Biritiba-Mirim, -23.5833, -46.0333
+Bitupitá, -2.9000, -41.2667
+Bituruna, -26.1667, -51.5667
+Blumenau, -26.9333, -49.0500
+Boa Barrinha, -23.3000, -47.1667
+Boa Esperança(Minas Gerais), -21.0833, -45.5667
+Boa Esperança(Rio de Janeiro), -22.8000, -42.5667
+Boa Nova, -14.3667, -40.1667
+Boa Vereda, -22.4500, -46.2333
+Boa Viagem, -5.1167, -39.7333
+Boa Vida, -22.3000, -42.7833
+Boa Vista(Santa Catarina), -26.2833, -48.8333
+Boa Vista(Roraima), 2.8167, -60.6667
+Bocaina de Minas, -22.1667, -44.4000
+Bocaiúva, -17.1167, -43.8167
+Bodocó, -7.7833, -39.9167
+Boiaçu, -0.4500, -61.7667
+Bojuru, -31.6333, -51.4333
+Bom Conselho, -9.1667, -36.6833
+Bom Despacho, -19.7167, -45.2500
+Bom Jardim de Goiás, -16.2833, -52.1167
+Bom Jardim de Minas, -21.9500, -44.1833
+Bom Jesus, -9.0667, -44.3667
+Bom Jesus da Lapa, -13.2500, -43.4167
+Bom Jesus da Terra Preta, -23.2500, -46.6000
+Bom Jesus dos Perdões, -23.1333, -46.4667
+Bom Repouso, -22.4667, -46.1500
+Bom Retiro, -27.8000, -49.5167
+Bom Retiro, -22.1667, -45.6667
+Bom Retiro do Sul, -29.6167, -51.9333
+Bom Sucesso(Guarulhos area), -23.4167, -46.4000
+Bom Sucesso(Paraíba Valley), -22.8667, -45.5500
+Bom Sucesso(Mato Grosso), -15.7167, -56.1167
+Bom Sucesso(Paraná), -23.7000, -51.7500
+Bomfim, -10.3500, -40.1000
+Bonfim, -22.9667, -45.2500
+Bonfinópolis, -16.6333, -48.9667
+Bonito(Mato Grosso do Sul), -21.1333, -56.4667
+Bonito(Pernambuco), -8.4833, -35.7333
+Bonito de Santa Fé, -7.3167, -38.5167
+Borba, -4.4000, -59.5833
+Borborema, -21.6167, -49.0667
+Borda da Mata(Minas Gerais), -22.2667, -46.1667
+Borda da Mata(São Paulo), -22.6167, -47.0167
+Borrazópolis, -23.9333, -51.6000
+Botelhos, -21.6500, -46.4000
+Botucatu, -22.8667, -48.4333
+Bragança, -1.0500, -46.7667
+Bragança Paulista, -22.9500, -46.5667
+Brasiléia, -11.0000, -68.7333
+Brasília, -15.7833, -47.9167
+Brasília de Minas, -16.2000, -44.4333
+Brazópolis, -22.4667, -45.6167
+Braço do Norte, -28.2833, -49.1833
+Braúnas, -19.0667, -42.7167
+Brejinho de Nazaré, -11.0167, -48.5667
+Brejo, -3.6833, -42.7833
+Brejo de São Félix, -5.4000, -43.4000
+Brejo Grande, -10.4333, -36.4667
+Brejo Santo, -7.4833, -39.0000
+Brejões, -13.1000, -39.8000
+Breves, -1.6667, -50.4833
+Britânia, -15.2333, -51.1500
+Brotas de Macaúbas, -12.0000, -42.6333
+Brumadinho, -20.1333, -44.2167
+Brumado, -14.2167, -41.6667
+Brusque, -27.1000, -48.9333
+Brás Cubas, -23.5333, -46.2167
+Bueno Brandão, -22.4500, -46.3500
+Buenolândia, -15.8000, -50.2833
+Buenópolis, -17.9000, -44.1833
+Buerarema, -14.9500, -39.3167
+Buquim, -11.1500, -37.6167
+Buri, -23.8000, -48.5833
+Buritama, -21.0500, -50.1333
+Buriti(Maranhão), -3.9167, -42.9500
+Buriti(Mato Grosso), -16.4500, -53.4500
+Buriti Alegre, -18.1500, -49.0500
+Buriti Bravo, -5.8333, -43.8333
+Buriti Cortado, -5.1833, -43.1000
+Buriti dos Lopes, -3.1667, -41.8667
+Buritizeiro, -17.3500, -44.9667
+Butiá, -30.1167, -51.9667
+Buíque, -8.6167, -37.1500
+Bálsamo, -20.4500, -53.9500
+Bôca da Mata, -9.6833, -36.1833
+Bôca do Acre, -8.7500, -67.3833
+Bôca do Jari, -1.1167, -51.9667

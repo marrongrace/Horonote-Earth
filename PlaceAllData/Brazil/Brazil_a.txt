@@ -1,0 +1,240 @@
+Abadia dos Dourados, -18.4667, -47.4000
+Abadiânia, -16.1000, -48.8000
+Abaetetuba, -1.7000, -48.9000
+Abaeté, -19.1500, -45.4500
+Abarracamento, -22.2000, -43.5000
+Abatiá, -23.3167, -50.3000
+Abel, -22.9000, -46.1333
+Abraão, -23.1333, -44.1667
+Abre Campo, -20.3000, -42.4833
+Abreu e Lima, -7.9000, -34.8833
+Abufari, -5.3964, -63.0906
+Abunã, -9.7000, -65.3833
+Acajutiba, -11.6667, -38.0167
+Acaraú, -2.8833, -40.1167
+Acari, -6.5167, -36.6333
+Acará, -1.9500, -48.1833
+Acopiara, -6.1000, -39.4500
+Acorizal, -15.2000, -56.3667
+Adamantina, -21.7000, -51.0667
+Adrianópolis, -22.6500, -43.5000
+Afogados da Ingàzeira, -7.7500, -37.6500
+Afonso Bezerra, -5.5000, -36.5000
+Afonso Cláudio, -20.0833, -41.1333
+Afuá, -0.1667, -50.3833
+Agostinho Pôrto, -22.7833, -43.3833
+Agrestina, -8.4500, -35.9500
+Aguaí, -22.0667, -46.9667
+Agudo, -29.6333, -53.2500
+Agudos, -22.4667, -49.0000
+Agulhas Negras, -22.4667, -44.4500
+Aiapuá, -4.4833, -62.0667
+Aimorés, -19.5000, -41.0667
+Aiquara, -14.1167, -39.8667
+Airão, -1.9333, -61.3667
+Aiuaba, -6.6333, -40.1167
+Aiuruoca, -21.9667, -44.6000
+Aiva, -22.7000, -43.4667
+Alagoa, -22.1667, -44.6333
+Alagoa Grande, -7.0500, -35.6333
+Alagoa Nova, -7.0667, -35.7667
+Alagoinhas, -12.1167, -38.4333
+Albertina, -22.2000, -46.6167
+Alcantilado, -16.3833, -53.5167
+Alcobaça, -17.5000, -39.2167
+Alcântara, -2.4000, -44.4000
+Aldeia, -23.5000, -46.8500
+Aldeia de Carapicuiba, -23.5833, -46.8000
+Aldeia Velha, -22.7833, -42.9167
+Aldeinha, -23.7500, -46.8833
+Alegre, -20.7667, -41.5333
+Alegrete, -29.7667, -55.7667
+Alenquer, -1.9333, -54.7667
+Alexandria, -6.4167, -38.0167
+Alfenas, -21.4167, -45.9500
+Alfredo Chaves, -20.6333, -40.7500
+Alhandra, -7.4333, -34.9000
+Aliança, -7.5833, -35.2167
+Aljezur, -22.6667, -43.6000
+Almas, -11.5500, -47.1500
+Almeirim, -1.5333, -52.5667
+Almenara, -16.1833, -40.7000
+Almino Afonso, -6.1500, -37.7667
+Aloândia, -17.7167, -49.4833
+Alpinópolis, -20.8667, -46.3833
+Altamira, -3.2000, -52.2000
+Alterosa, -21.2500, -46.1333
+Altinho, -8.4833, -36.0667
+Altinópolis, -21.0333, -47.3833
+Alto Araguaia, -17.3167, -53.2000
+Alto Coité, -15.7833, -54.3333
+Alto da Serra, -22.8833, -44.2333
+Alto Garças, -16.9333, -53.5333
+Alto Longá, -5.2500, -42.2000
+Alto Paraguai, -14.5000, -56.5167
+Alto Paraíso de Goiás, -14.1167, -47.5167
+Alto Parnaíba, -9.1000, -45.9500
+Alto Rio Doce, -21.0333, -43.4167
+Alto Santo, -5.5167, -38.2500
+Alto Sucuriú, -19.3167, -52.7833
+Altos, -5.0500, -42.4667
+Alvarães, -3.2000, -64.8333
+Alvinópolis, -20.1000, -43.0500
+Além Paraíba, -21.8667, -42.6833
+Amambaí, -23.0833, -55.2167
+Amapá, 2.0500, -50.8000
+Amaraji, -8.4000, -35.4500
+Amaral, -22.7000, -43.4833
+Amarante, -6.2333, -42.8333
+Amarante do Maranhão, -5.6000, -46.7500
+Amargosa, -13.0333, -39.6000
+Amaro Leite, -13.9667, -49.1500
+Amataurá, -3.4833, -68.1000
+Ambaí, -22.7167, -43.4667
+Americana, -22.7500, -47.3333
+Americano, -1.3167, -48.0667
+Amolar, -18.0167, -57.5000
+Amorinópolis, -16.6000, -51.1333
+Amparo, -22.7000, -46.7500
+Anadia, -9.7000, -36.3000
+Anajatuba, -3.2667, -44.6167
+Anajás, -0.9833, -49.9500
+Anam, -3.5833, -61.3667
+Ananindeua, -1.3667, -48.3833
+Anapurus, -3.6667, -43.1000
+Anastácio, -21.5167, -54.1333
+Anaurilândia, -22.0500, -52.7500
+Andaraí, -12.8000, -41.3333
+Andradas, -22.0667, -46.5667
+Andrade Araújo, -22.7500, -43.4333
+Andrade Pinto, -22.2333, -43.3667
+Andradina, -20.9000, -51.3833
+Andrelândia, -21.7333, -44.3000
+Angatuba, -23.4833, -48.4167
+Angelim, -8.8833, -36.2833
+Angical, -12.0000, -44.7000
+Angical do Piauí, -6.0833, -42.7333
+Angicos, -5.6667, -36.6000
+Angra dos Reis, -23.0000, -44.3000
+Angustura, -21.7500, -42.6833
+Anhanguera, -18.3167, -48.2333
+Anicuns, -16.4667, -49.9667
+Anil, -2.5333, -44.2333
+Anori, -3.7833, -61.6333
+Anta, -22.0500, -42.9833
+Antas, -10.3833, -38.3333
+Antenor Navarro, -6.7333, -38.4500
+Antonina, -25.4500, -48.7167
+Antonina do Norte, -6.7167, -39.9667
+Antônio Carlos, -21.3167, -43.7500
+Antônio Diogo, -4.3000, -38.7500
+Antônio João, -23.2500, -55.5167
+Antônio Lemos, -1.3667, -50.8333
+Antônio Prado, -28.8500, -51.2833
+Anápolis, -16.3333, -48.9667
+Aparecida, -22.8333, -45.2333
+Apeú, -1.3000, -47.9833
+Apiacá, -21.1333, -41.5667
+Apiaí, -24.5167, -48.8333
+Apinajé, -11.5167, -48.3000
+Apodi, -5.6500, -37.8000
+Aporema, 1.2333, -50.8167
+Aporá, -11.6500, -38.0833
+Aporé, -18.9667, -52.0167
+Apucarana, -23.5500, -51.4833
+Apuiarés, -3.9333, -39.4000
+Aquidabã, -10.2833, -37.0333
+Aquidauana, -20.4667, -55.8000
+Aracajú, -10.9167, -37.0667
+Aracati, -4.5667, -37.7667
+Araci, -11.3333, -38.9500
+Aracitaba, -21.3333, -43.3833
+Aracoiaba, -4.3833, -38.8167
+Aracruz, -19.8167, -40.2667
+Aragarças, -15.9167, -52.2500
+Aragoiânia, -16.9500, -49.5000
+Araguacema, -8.8333, -49.5667
+Araguainha, -16.8167, -53.0833
+Araguari, -18.6333, -48.1833
+Araguatins, -5.6333, -48.1167
+Araguaçu, -12.8167, -49.8500
+Araguaína, -7.2000, -48.2000
+Araioses, -2.8833, -41.9167
+Aramari, -12.0667, -38.5000
+Arantina, -21.9333, -44.2500
+Arapeí, -22.6833, -44.4500
+Arapiraca, -9.7500, -36.6500
+Arapongas, -23.3833, -51.4500
+Arapoti, -24.1333, -49.8333
+Araquari, -26.3833, -48.7167
+Araranguá, -28.9333, -49.4833
+Araraquara, -21.7833, -48.1667
+Araras(Eastern São Paulo), -22.8167, -46.6000
+Araras(Campinas region,São Paulo), -22.3667, -47.3833
+Arari, -3.4667, -44.7833
+Araripe, -7.2000, -40.1333
+Araripina, -7.5500, -40.5667
+Araruna, -6.5333, -35.7333
+Arassuahi, -16.8667, -42.0667
+Aratiba, -27.4000, -52.3167
+Aratuípe, -13.0833, -39.0000
+Araucária, -25.5833, -49.4167
+Arauá, -11.2667, -37.6167
+Araxá, -19.5833, -46.9167
+Araçariguama, -23.4333, -47.0667
+Araçatuba, -21.2000, -50.4167
+Araçuaí, -16.8667, -42.0667
+Araújos, -19.9333, -45.0667
+Arcadas, -22.7000, -46.8667
+Arceburgo, -21.3667, -46.9333
+Arcos, -20.2833, -45.5333
+Arcoverde, -8.4167, -37.0667
+Arcângelo, -21.3000, -44.3167
+Areado, -21.3500, -46.1500
+Areal, -22.2333, -43.1167
+Areia, -6.9667, -35.7000
+Areia Branca(Rio Grande do Norte), -4.9333, -37.1167
+Areia Branca(São Paulo), -22.8000, -46.8500
+Areia Branca(RIo de Janeiro), -22.7333, -43.4167
+Areias, -22.5833, -44.7000
+Arenápolis, -14.4333, -56.8167
+Argirita, -21.6167, -42.8333
+Ariaú, -3.1833, -57.2333
+Aripuanã, -9.1667, -60.6333
+Ariquemes, -9.9333, -63.0667
+Armazém, -28.2667, -49.0167
+Arneiroz, -6.3333, -40.1333
+Aroeiras, -7.5167, -35.6833
+Arraial do Cabo, -22.9667, -42.0167
+Arraias, -12.9333, -46.9500
+Arroio Grande, -32.2333, -53.0833
+Arrozal, -22.6167, -44.0500
+Artur Nogueira, -22.5833, -47.1500
+Aruanã, -14.9000, -51.0833
+Arujá, -23.4000, -46.3333
+Arumanduba, -1.4833, -52.4833
+Arês, -6.1833, -35.1500
+Assaré, -6.8667, -39.8667
+Assaí, -23.3667, -50.8167
+Assis, -22.6667, -50.4167
+Astolfo Dutra, -21.3167, -42.8667
+Astorga, -23.2167, -51.6667
+Atalaia, -9.5167, -36.0333
+Atibaia, -23.1167, -46.5500
+Augusto Severo, -5.8667, -37.3167
+Auriflama, -20.6833, -50.5667
+Aurilândia, -16.7333, -50.4667
+Aurizona, -1.2833, -45.7667
+Aurora(Ceará), -6.9500, -38.9667
+Aurora(Rio de Janeiro), -22.7667, -43.4000
+Aurora do Norte, -12.7167, -46.4000
+Austin, -22.7167, -43.5333
+Autazes, -3.5833, -59.1333
+Avaré, -23.0833, -48.9167
+Avaí, -22.1333, -49.3667
+Aveiro, -3.2500, -55.1667
+Avelar, -22.3333, -43.4167
+Axinim, -4.0333, -59.3667
+Axixá, -2.8500, -44.0667
+Açu, -5.5667, -36.9000
+Açucena, -19.0667, -42.5333

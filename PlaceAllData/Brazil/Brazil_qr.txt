@@ -1,0 +1,133 @@
+Quaraí, -30.3833, -56.4500
+Quatis, -22.4167, -44.2667
+Quatá, -22.2667, -50.7000
+Quebrângulo, -9.3333, -36.4833
+Queimada Nova, -8.5833, -41.4167
+Queimadas, -10.9667, -39.6333
+Queimados, -22.7000, -43.5667
+Queluz, -22.5333, -44.7667
+Queluz → Conselheiro Lafaiete, -20.6667, -43.8000
+Querência do Norte, -23.0000, -53.4667
+Quipapá, -8.8333, -36.0333
+Quirinópolis, -18.5333, -50.5000
+Quiririm, -23.0333, -45.6333
+Quitaúna, -23.5167, -46.7833
+Quixadá, -4.9667, -39.0167
+Quixeramobim, -5.2000, -39.2833
+Quixeré, -5.0833, -37.9833
+Rancharia, -22.2500, -50.9167
+Raul Soares, -20.0833, -42.3667
+Rebouças, -25.6000, -50.7000
+Recife, -8.0500, -34.9000
+Recreio(Mato Grosso), -8.1833, -58.2333
+Recreio(Minas Gerais), -21.5333, -42.4667
+Redenção, -4.2167, -38.7167
+Redenção da Serra, -23.2667, -45.5500
+Regeneração, -6.2500, -42.6833
+Registro, -24.5000, -47.8333
+Registro do Araguaia, -15.7333, -51.8333
+Remanso, -9.6833, -42.0667
+Remansão, -4.4167, -49.5667
+Remedios, -3.3333, -32.4167
+Renascença, -3.8333, -66.3500
+Reriutaba, -4.1667, -40.5833
+Resende, -22.4667, -44.4500
+Reserva, -24.6333, -50.8667
+Resplandes, -6.2833, -45.2167
+Resplendor, -19.3333, -41.2500
+Restinga Sêca, -29.8167, -53.3833
+Riacho de Santana, -13.6167, -42.9500
+Riacho Grande, -23.8000, -46.5833
+Riachuelo, -10.7333, -37.1833
+Riachão, -7.3667, -46.6167
+Riachão do Dantas, -11.0667, -37.7333
+Riachão do Jacuípe, -11.8000, -39.3500
+Rialma, -15.3000, -49.5667
+Rialto, -22.5833, -44.2667
+Rianápolis, -15.4833, -49.4667
+Ribamar, -2.5500, -44.0500
+Ribas do Rio Pardo, -20.4500, -53.7667
+Ribeira, -24.6667, -49.0167
+Ribeira do Amparo, -11.0500, -38.4333
+Ribeira do Pombal, -10.8333, -38.5333
+Ribeiro Gonçalves, -7.5333, -45.2333
+Ribeiro Junqueira, -21.4667, -42.5167
+Ribeirão(Pernambuco), -8.5167, -35.3833
+Ribeirão(Paraíba Valley,São Paulo), -23.2833, -45.6000
+Ribeirão(Greater São Paulo), -23.5833, -46.9167
+Ribeirão de São Joaquim, -22.2833, -44.1833
+Ribeirão do Pinhal, -23.4000, -50.3000
+Ribeirão do Pote, -23.6000, -45.8333
+Ribeirão Fundo, -22.6667, -46.2500
+Ribeirão Grande, -22.8000, -45.4500
+Ribeirão Pires, -23.7167, -46.4167
+Ribeirão Prêto, -21.1667, -47.8000
+Ribeirão Vermelho, -21.1833, -45.0500
+Ribeirãozinho, -16.4500, -52.5833
+Rio Azul, -25.7167, -50.7833
+Rio Bonito, -22.7167, -42.6167
+Rio Branco, -9.9667, -67.8000
+Rio Brilhante, -21.8000, -54.5500
+Rio Casca, -20.2167, -42.6500
+Rio Claro(São Paulo), -22.4000, -47.5500
+Rio Claro(Rio de Janeiro), -22.7167, -44.1500
+Rio d'Oeste, -27.2000, -49.8000
+Rio d'Ouro, -22.6500, -43.5333
+Rio da Conceição, -11.4000, -46.9000
+Rio das Antas, -26.9167, -51.0667
+Rio das Flores, -22.1667, -43.5833
+Rio de Contas, -13.6000, -41.8000
+Rio de Janeiro, -22.9000, -43.2333
+Rio do Ouro, -22.8500, -42.9833
+Rio do Prado, -16.5833, -40.5667
+Rio do Sul, -27.2167, -49.6500
+Rio Espera, -20.8500, -43.4833
+Rio Fortuna, -28.1000, -49.1167
+Rio Grande, -32.0333, -52.0833
+Rio Grande do Sul > Rio Grande, -32.0333, -52.0833
+Rio Largo, -9.4833, -35.8500
+Rio Negrinho, -26.2500, -49.5167
+Rio Negro(Santa Catarina), -26.1000, -49.8000
+Rio Negro(Mato Grosso do Sul), -19.4500, -54.9667
+Rio Novo, -21.4833, -43.1333
+Rio Novo do Sul, -20.8667, -40.9333
+Rio Pardo, -29.9833, -52.3667
+Rio Pardo de Minas, -15.6167, -42.5500
+Rio Piracicaba, -19.9167, -43.1833
+Rio Pomba, -21.2833, -43.1833
+Rio Prêto(São Paulo), -22.8000, -45.7667
+Rio Prêto(Rio de Janeiro), -22.1000, -43.8333
+Rio Prêto → São José do Rio Prêto, -22.1667, -42.9500
+Rio Real, -11.4667, -37.9333
+Rio Sêco, -22.7667, -42.6667
+Rio Tinto, -6.8000, -35.0833
+Rio Verde, -17.7167, -50.9333
+Rio Verde de Mato Grosso, -18.9333, -54.8667
+Rio Vermelho, -18.3000, -43.0000
+Riograndina, -22.1833, -42.5000
+Riolândia, -19.9833, -49.6667
+Rocha, -21.4667, -45.8167
+Rocha Sobrinho, -22.7833, -43.4167
+Rochedinho, -20.2333, -54.5500
+Rochedo, -19.9500, -54.8667
+Rochedo de Minas, -21.6333, -43.0167
+Rodeio, -26.9500, -49.3833
+Rodeiro, -21.2000, -42.8667
+Rolândia, -23.3000, -51.3667
+Rondon, -23.3833, -52.8000
+Rondonópolis, -16.4667, -54.6333
+Rondônia, -10.8667, -61.9500
+Roque, -3.0167, -45.3833
+Roseira, -22.9000, -45.3000
+Roseiras, -22.8167, -46.2833
+Rosário, -2.9500, -44.2333
+Rosário de Minas, -21.7167, -43.6333
+Rosário do Sul, -30.2500, -54.9167
+Rosário Oeste, -14.8333, -56.4167
+Roça Grande, -21.6000, -42.9667
+Roçado, -6.6667, -44.3167
+Rubiataba, -15.1333, -49.8000
+Rubim, -16.3833, -40.5333
+Rudge Ramos, -23.6833, -46.5667
+Russas, -4.9333, -37.9667
+Ruy Barbosa, -12.3000, -40.4500

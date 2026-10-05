@@ -1,0 +1,56 @@
+Falcão, -22.2833, -44.2667
+Faro, -2.1833, -56.7333
+Faxinal, -23.9833, -51.3667
+Faxinal do Soturno, -29.6167, -53.4333
+Fazenda de Cima, -15.9333, -56.6167
+Fazenda Nova, -16.1833, -50.8000
+Feijó, -8.1500, -70.3500
+Feira de Santana, -12.2500, -38.9500
+Felixlândia, -18.7833, -44.9167
+Fernandes Belo, -1.1167, -46.3167
+Fernando de Noronha, -3.8500, -32.4167
+Fernandópolis, -20.2667, -50.2333
+Ferraz de Vasconcelos, -23.5333, -46.3667
+Ferreira Gomes, 0.8000, -51.1333
+Ferreiros, -22.4167, -43.5667
+Ferros, -19.2333, -43.0333
+Figueira, -22.7000, -43.4500
+Figueira > Governador Valadares, -18.8500, -41.9333
+Filadélfia, -7.3500, -47.5000
+Firminópolis, -16.6667, -50.3167
+Flores, -7.8500, -37.9833
+Flores da Cunha, -29.0333, -51.1833
+Floresta, -8.6000, -38.5667
+Floresta Azul, -14.8500, -39.6833
+Florestina, -18.4833, -48.0167
+Floriano(Rio de Janeiro), -22.4500, -44.3000
+Floriano(Piauí), -6.7833, -43.0167
+Floriano Peixoto(Amazonas), -9.0500, -67.4000
+Floriano Peixoto(Alagoas), -9.5333, -35.6000
+Florianópolis, -27.5833, -48.5667
+Florânia, -6.1333, -36.8167
+Flôres de Goiás, -14.5667, -47.0667
+Fonte, -23.4167, -46.3500
+Fonte Boa, -2.5333, -66.0167
+Formiga, -20.4500, -45.4167
+Formosa, -15.5333, -47.3333
+Fortaleza, -3.7167, -38.5000
+Fortaleza do Ituxi, -7.4833, -66.3333
+Fortaleza dos Nogueiras, -6.9000, -46.1500
+Foz do Iguaçu, -25.5500, -54.5833
+Foz do Jordão, -9.3833, -71.9333
+Franca, -20.5333, -47.4000
+Francisco Beltrão, -26.0833, -53.0667
+Francisco Morato, -23.2667, -46.7500
+Francisco Sá, -16.4667, -43.5000
+Franco da Rocha, -23.3333, -46.7167
+Francês dos Carvalhos, -22.0833, -44.4833
+França, -11.5667, -40.6000
+Frecheiras, -2.8500, -42.0833
+Frecheirinha, -3.7667, -40.8000
+Frederico Westphalen, -27.3667, -53.4000
+Fronteiras, -7.0833, -40.6167
+Frutal, -20.0333, -48.9167
+Fumaça, -22.2833, -44.3167
+Fundão, -19.9167, -40.4000
+Fátima, -16.1833, -54.9667

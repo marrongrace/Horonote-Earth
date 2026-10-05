@@ -1,0 +1,213 @@
+Macajuba, -12.1500, -40.3667
+Macambira, -10.6667, -37.5333
+Macapá, 0.0333, -51.0500
+Macarani, -15.5500, -40.4000
+Macau, -5.1167, -36.6333
+Macaé, -22.3833, -41.7833
+Macaíba, -5.8500, -35.3500
+Macaúbas, -13.0333, -42.7000
+Maceió, -9.6667, -35.7167
+Machado, -21.6833, -45.9333
+Machados, -22.5000, -46.4167
+Madre de Deus de Minas, -21.4833, -44.3333
+Mae dos Homens, -22.8667, -46.6167
+Mafra, -26.1167, -49.8167
+Magalhães de Almeida, -3.4000, -42.2000
+Magé, -22.6500, -43.0333
+Magé-Mirim, -22.6667, -43.0167
+Maiauatá, -1.8500, -49.0333
+Mairi, -11.7167, -40.1333
+Mairinque, -23.5500, -47.1667
+Mairiporã, -23.3167, -46.5833
+Mairipotaba, -17.3000, -49.4667
+Major Isidoro, -9.5333, -37.0000
+Malacacheta, -17.8333, -42.0833
+Mallet, -25.9167, -50.8333
+Malta, -6.9000, -37.5167
+Mamanguape, -6.8333, -35.1167
+Mambaí, -14.4667, -46.1167
+Mambucaba, -23.0167, -44.5167
+Manacapuru, -3.3000, -60.6167
+Manaus, -3.1333, -60.0167
+Mandaguari, -23.5333, -51.7000
+Mandaguaçu, -23.3333, -52.0833
+Manduri, -23.0167, -49.3167
+Manga, -14.7667, -43.9333
+Mangaratiba, -22.9500, -44.0333
+Mangueirinha, -25.9500, -52.1500
+Manhuaçu, -20.2500, -42.0333
+Manhumirim, -20.3667, -41.9500
+Manicoré, -5.8167, -61.2833
+Manuel Duarte, -22.1000, -43.5667
+Manuel Ribas, -24.5167, -51.6500
+Manuel Urbano, -8.8833, -69.3000
+Manáos > Manaus, -3.1333, -60.0167
+Mar de Espanha, -21.8667, -43.0000
+Marabá, -5.3500, -49.1167
+Maracaju, -21.6333, -55.1500
+Maracan, -0.7667, -47.4500
+Maracanaú, -3.8667, -38.6333
+Maracaí, -22.6000, -50.6500
+Maracás, -13.4333, -40.4500
+Maragogi, -9.0167, -35.2167
+Maragogipe, -12.7667, -38.9167
+Maraial, -8.7833, -35.8333
+Maranguape, -3.8833, -38.6667
+Marapanim, -0.7000, -47.7000
+Marapicu, -22.8000, -43.5833
+Marau, -28.4500, -52.2000
+Maravilha, -26.7833, -53.1500
+Maravilha, -9.2333, -37.3500
+Maraã, -1.8333, -65.3667
+Maraú, -14.1000, -39.0000
+Marcelino Ramos, -27.4667, -51.9000
+Marco, -3.1333, -40.1500
+Marechal Cândido Rondon, -24.5667, -54.0667
+Marechal Deodoro, -9.7167, -35.9000
+Maresias, -23.8000, -45.5500
+Maria da Fé, -22.3000, -45.3833
+Maria Paula, -22.9000, -43.0333
+Mariana, -20.3833, -43.4167
+Marianópolis, -4.7833, -44.6333
+Maricá, -22.9167, -42.8167
+Maringá, -23.4167, -51.9167
+Marins, -22.4500, -45.1333
+Maripá de Minas, -21.8000, -42.9667
+Mariópolis, -26.3333, -52.5500
+Marmelos, -6.1333, -61.8333
+Martim Francisco, -22.5167, -46.9500
+Martin Vaz, -20.5000, -28.8500
+Martin Vaz Island, -20.5000, -28.8500
+Martin Vaz, Ilhas, -20.5000, -28.8500
+Martinho Campos, -19.3333, -45.2167
+Martins, -6.0833, -37.9167
+Martinópole, -3.2500, -40.6833
+Maruim, -10.7500, -37.0833
+Marzagão, -17.9833, -48.6500
+Marília, -22.2167, -49.9333
+Massapê, -3.5167, -40.3167
+Mata de São João, -12.5167, -38.2833
+Mata Grande, -9.1167, -37.7333
+Matias Barbosa, -21.8833, -43.3333
+Matinha, -3.1000, -45.0333
+Matipó, -20.2833, -42.3500
+Mato do Gado, -23.7000, -47.1167
+Mato Grosso, -15.0000, -59.9500
+Mato Verde, -15.3833, -42.8667
+Matozinhos, -19.5833, -44.1167
+Matutina, -19.2167, -45.9667
+Mauriti, -7.3833, -38.7667
+Mauá, -23.6667, -46.4500
+Maués, -3.4000, -57.7000
+Maxaranguape, -5.5167, -35.2667
+Mazagão, -0.1167, -51.2833
+Mazagão Velho, -0.2167, -51.4167
+Medeiros Neto, -17.3333, -40.2333
+Medina, -16.2500, -41.4833
+Melgaço, -1.7833, -50.7333
+Mendes, -22.5333, -43.7333
+Mercês, -21.2000, -43.3500
+Meruoca, -3.4667, -40.4667
+Mesquita, -19.2167, -42.5833
+Mesquita, -22.8000, -43.4333
+Miguel Alves, -4.1667, -42.9000
+Miguel Calmon, -11.4333, -40.6000
+Miguel Couto, -22.7167, -43.4500
+Miguel Pereira, -22.4500, -43.3667
+Miguelópolis, -20.2000, -48.0500
+Milagre, -21.3000, -47.0000
+Milagres, -7.2833, -38.9500
+Mimoso(Goiás), -15.1667, -48.0833
+Mimoso(Mato Grasso), -16.2833, -55.8000
+Mimoso do Sul, -21.0667, -41.3667
+Minas Novas, -17.2500, -42.6000
+Minduri, -21.6833, -44.6167
+Mineiros, -17.5667, -52.5667
+Miracema do Norte, -9.5500, -48.4000
+Mirador, -6.3667, -44.3667
+Miradouro, -20.8833, -42.3500
+Miranda, -20.2333, -56.3667
+Mirante do Paranapanema, -22.2833, -51.9000
+Mirantão, -22.2500, -44.5000
+Miraí, -21.2000, -42.6167
+Mirinzal, -2.0167, -44.7167
+Miriti, -6.2500, -59.0000
+Missão Velha, -7.2500, -39.1333
+Mocajuba, -2.5833, -49.5000
+Mococa, -21.4667, -47.0167
+Moeda, -20.3333, -44.0500
+Moema, -19.8333, -45.4000
+Mogi das Cruzes, -23.5167, -46.1833
+Mogi-Guaçu, -22.3667, -46.9500
+Mogi-Mirim, -22.4333, -46.9500
+Moinhos, -22.7167, -46.3333
+Moiporá, -16.5667, -50.7000
+Moiraba, -2.4500, -49.4167
+Moju, -1.8833, -48.7667
+Mombaça, -5.7500, -39.6333
+Mondaí, -27.0833, -53.4167
+Mongaguá, -24.1000, -46.6167
+Monjolo, -22.8167, -42.9500
+Monsenhor Hipólito, -6.9833, -41.1167
+Monsenhor Paulo, -21.7667, -45.5500
+Monsenhor Tabosa, -4.7833, -40.0667
+Monte Alegre(Pará), -2.0167, -54.0667
+Monte Alegre(Rio Grande do Norte), -6.0667, -35.3333
+Monte Alegre de Goiás, -13.2333, -47.1667
+Monte Alegre de Minas, -18.8667, -48.8667
+Monte Alegre de Sergipe, -10.0333, -37.5500
+Monte Alegre do Piauí, -9.7667, -45.3000
+Monte Alegre do Sul, -22.6667, -46.6833
+Monte Azul, -15.1500, -42.8833
+Monte Azul Paulista, -20.9167, -48.6333
+Monte Belo, -21.3333, -46.3833
+Monte do Carmo, -10.7500, -48.1167
+Monte Santo(Tocantins), -9.9000, -49.0500
+Monte Santo(Bahia), -10.4333, -39.3333
+Monte Santo de Minas, -21.2000, -46.9833
+Monte Sião, -22.4333, -46.5667
+Monteiro, -7.8833, -37.1167
+Monteiro Lobato, -22.9667, -45.8333
+Montenegro, -29.7000, -51.4667
+Montes Altos, -5.8333, -47.0667
+Montes Claros, -16.7167, -43.8667
+Montividiu, -17.4000, -51.2333
+Monumento, -22.7333, -43.8500
+Monção, -3.5000, -45.2500
+Morada Nova, -5.1167, -38.3833
+Morada Nova de Minas, -18.6167, -45.3667
+Morretes, -25.4667, -48.8167
+Morrinhos(Ceará), -3.2333, -40.1167
+Morrinhos(Goiás), -17.7333, -49.1167
+Morro Agudo, -22.7500, -43.4833
+Morro do Chapéu, -11.5500, -41.1500
+Morro do Pilar, -19.2000, -43.3833
+Morros, -2.8667, -44.0500
+Morungaba, -22.8667, -46.8000
+Mosqueiro, -1.1667, -48.4667
+Mossoró, -5.1833, -37.3333
+Mossâmedes, -16.1167, -50.1833
+Mostardas, -31.1000, -50.9500
+Moura, -1.4500, -61.6333
+Mozarlândia, -14.7833, -50.5833
+Muaná, -1.5333, -49.2167
+Mucambo, -3.9000, -40.7333
+Mucugê, -13.0000, -41.3833
+Mucuri, -18.0833, -39.5667
+Mulungu, -7.0333, -35.4667
+Mundo Novo, -11.8667, -40.4667
+Munhoz, -22.6167, -46.3667
+Muniz Freire, -20.4667, -41.4167
+Muqui, -20.9500, -41.3333
+Murajá, -0.7833, -47.9500
+Muribeca, -10.4333, -36.9833
+Muribeca dos Guararapes, -8.1667, -35.0167
+Murici, -9.3167, -35.9333
+Murinéli, -22.1167, -42.6500
+Muritiba, -12.6500, -38.9833
+Murutinga, -3.4333, -59.2000
+Mutum, -19.8167, -41.4333
+Mutunópolis, -13.6667, -49.2500
+Mutuípe, -13.2500, -39.5167
+Muzambinho, -21.3667, -46.5333
+Muçum, -29.1667, -51.8833

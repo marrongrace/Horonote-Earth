@@ -1,0 +1,81 @@
+Vacaria, -28.5000, -50.9333
+Val-de-Cães, -1.3833, -48.4833
+Valdelândia, -15.1833, -50.0333
+Valente, -11.5667, -39.4500
+Valença(Bahia), -13.3667, -39.0833
+Valença(Rio de Janeiro), -22.2500, -43.7167
+Valença do Piauí, -6.4000, -41.7500
+Valinhos, -22.9500, -47.0167
+Valparaíso, -21.2167, -50.8500
+Vargem, -22.8833, -46.4167
+Vargem Alegre, -22.5000, -43.9167
+Vargem do Laje, -22.1333, -44.8167
+Vargem Grande(Maranhão), -3.5500, -43.9333
+Vargem Grande(São Paulo), -22.9833, -45.2833
+Vargem Grande do Sul, -21.8333, -46.8833
+Varginha, -21.5500, -45.4333
+Varjão, -17.0500, -49.6167
+Varzeão, -24.5667, -49.4333
+Vassouras, -22.4167, -43.6667
+Vazante, -18.0000, -46.9000
+Veiros, -2.0833, -52.1667
+Venceslau Brás, -23.8500, -49.8000
+Venâncio Aires, -29.6000, -52.1833
+Veranópolis, -28.9500, -51.5500
+Verava, -23.7833, -47.0833
+Vertentes, -7.9000, -35.9833
+Veríssimo, -19.7000, -48.3000
+Vespasiano, -19.6667, -43.9167
+Viadutos, -27.5667, -52.0167
+Viamão, -30.0833, -51.0333
+Viana, -3.2167, -45.0000
+Vicente de Carvalho, -23.9333, -46.3167
+Victoria > Vitória, -20.3167, -40.3500
+Vicência, -7.6667, -35.3333
+Vidal Ramos, -27.3833, -49.3667
+Videira, -27.0000, -51.1333
+Vigia, -0.8000, -48.1333
+Vila, -3.8333, -32.4333
+Vila Augusta, -23.4667, -46.5333
+Vila Galvão, -23.4500, -46.5500
+Vila Muriqui, -22.9333, -43.9500
+Vila Progresso, -22.9167, -43.0500
+Vila Rica, -3.6667, -61.0333
+Vila Velha(Espírito Santo), -20.3333, -40.2833
+Vila Velha(Amapá), 3.2167, -51.2167
+Vilarinho do Monte, -1.6167, -52.0167
+Vilhena, -12.7167, -60.1167
+Vinhedo, -23.0167, -46.9833
+Viradouro, -20.8833, -48.3000
+Virgem da Lapa, -16.8167, -42.3500
+Virginópolis, -18.7500, -42.7500
+Virgolândia, -18.4500, -42.3000
+Virgínia, -22.3333, -45.1000
+Viseu, -1.2000, -46.1167
+Vista Alegre, -21.4500, -42.5833
+Vitorino Freire, -4.0667, -45.1667
+Vitória(Espírito Santo), -20.3167, -40.3500
+Vitória(Pará), -2.9000, -52.0167
+Vitória da Conquista, -14.8500, -40.8500
+Vitória de Santo Antão, -8.1167, -35.3000
+Vitória do Mearim, -3.4667, -44.8833
+Viçosa(Alagoas), -9.4000, -36.2333
+Viçosa(Minas Gerais), -20.7500, -42.8833
+Viçosa do Ceará, -3.5667, -41.0833
+Volta Grande, -21.7667, -42.5333
+Volta Redonda, -22.5333, -44.1167
+Votuporanga, -20.4000, -49.9833
+Várzea, -22.5000, -44.7667
+Várzea Alegre, -6.7833, -39.2833
+Várzea da Palma, -17.6000, -44.7333
+Várzea das Moças, -22.9500, -42.9667
+Várzea Grande, -15.6500, -56.1333
+Várzea Paulista, -23.2000, -46.8333
+Werneck, -22.2167, -43.3167
+Xambioá, -6.4167, -48.6667
+Xanxerê, -26.8833, -52.3833
+Xapuri, -10.6500, -68.5167
+Xavantina, -21.2500, -52.8000
+Xaxim, -26.9333, -52.5167
+Xerém, -22.5500, -43.3000
+Xique-Xique, -10.8333, -42.7333

@@ -1,0 +1,99 @@
+Damianópolis, -14.5500, -46.1667
+Davinópolis, -15.9667, -50.1333
+Delfim Moreira, -22.5000, -45.2833
+Delfinópolis, -20.3333, -46.8500
+Delmiro Gouveia, -9.3833, -37.9833
+Depósito, 3.2000, -60.5833
+Descanso, -26.8333, -53.5833
+Descoberto, -21.4500, -42.9667
+Destêrro, -7.2833, -37.1000
+Diadema, -23.7000, -46.6167
+Diamante de Ubá, -21.2000, -42.9167
+Diamantina, -18.2500, -43.6000
+Diamantino, -14.4167, -56.4500
+Dianópolis, -11.6333, -46.8333
+Dias, -22.4667, -45.5667
+Dionísio, -19.8167, -42.7500
+Dionísio Cerqueira, -26.2500, -53.6333
+Diorama, -16.3500, -51.2333
+Divino, -20.6167, -42.1500
+Divinolândia, -21.6667, -46.7500
+Divinópolis, -20.1500, -44.9000
+Divisa Nova, -21.5167, -46.2000
+Dois Irmãos, -9.2667, -49.0833
+Dois Riachos, -9.3833, -37.0833
+Dom Aquino, -15.8000, -54.8833
+Dom Caváti, -19.3833, -42.1000
+Dom Joaquim, -18.9500, -43.2667
+Dom Pedrito, -30.9833, -54.6667
+Dom Pedro, -4.4833, -44.4500
+Dom Silvério, -20.1500, -42.9667
+Dom Viçoso, -22.2167, -45.1500
+Domiciano Ribeiro, -16.9333, -47.7667
+Domingos Martins, -20.3667, -40.6667
+Dona Eusébia, -21.3000, -42.8000
+Dores da Boa Esperança, -21.1000, -45.3500
+Dores do Indaiá, -19.4500, -45.6000
+Dores do Paraibuna, -21.5167, -43.6500
+Dorândia, -22.4500, -43.9500
+Douradinho, -21.7500, -45.7667
+Dourados, -22.2167, -54.8000
+Dracena, -21.5333, -51.4833
+Duartina, -22.4000, -49.4167
+Duas Barras, -22.0333, -42.5333
+Dueré, -11.3333, -49.2833
+Duque Bacelar, -4.1500, -42.9500
+Duque de Caxias, -22.7833, -43.3000
+Echaporã, -22.4333, -50.2000
+Edéia, -17.3000, -49.9167
+Eirunepé, -6.6667, -69.8667
+Eldorado, -24.5333, -48.1000
+Elesbão Veloso, -6.2167, -42.1333
+Eleutério, -22.3167, -46.7167
+Eliseu Martins, -8.2167, -43.7000
+Elói Mendes, -21.6167, -45.5667
+Emboabas, -21.3000, -44.1333
+Embu, -23.6500, -46.8500
+Embu-Guaçu, -23.8167, -46.8000
+Encantado, -29.2500, -51.8833
+Encruzilhada, -15.5167, -40.9000
+Encruzilhada do Sul, -30.5333, -52.5167
+Engenheiro Passos, -22.5000, -44.6833
+Engenheiro Paulo de Fron, -22.5500, -43.6833
+Engenho, -15.1667, -56.4167
+Engenho do Mato, -22.8667, -43.0167
+Engenho Nôvo, -21.8167, -43.0000
+Enseada, -23.4833, -45.0833
+Entre Rios, -11.9333, -38.0833
+Entre Rios de Minas, -20.6833, -44.0667
+Entupido, -22.5000, -44.8500
+Envira, -7.3000, -70.2167
+Erechim, -27.6333, -52.2833
+Eremita, -21.5833, -45.0667
+Erval, -32.0333, -53.4000
+Escada, -8.3667, -35.2333
+Espera Feliz, -20.6500, -41.9167
+Esperantina, -3.9000, -42.2333
+Esperantinópolis, -4.8833, -44.8833
+Esperança, -4.4000, -69.8667
+Esperança, -7.0167, -35.8500
+Espinosa, -14.9333, -42.8333
+Esplanada, -11.7833, -37.9500
+Espumoso, -28.7333, -52.8500
+Espírito Santo > Vila Velha, 3.2167, -51.2167
+Espírito Santo do Dourado, -22.0500, -45.9667
+Estandarte, -1.4333, -45.5333
+Esteio, -29.8500, -51.1667
+Estiva, -22.4667, -46.0333
+Estrêla, -29.4833, -51.9667
+Estrêla do Indaiá, -19.5167, -45.7833
+Estrêla do Leste, -16.2833, -53.5667
+Estrêla do Norte, -13.8167, -49.0667
+Estrêla do Sul, -18.7667, -47.7000
+Estância, -11.2667, -37.4333
+Eubanque, -21.5500, -43.5000
+Euclides da Cunha, -10.5167, -39.0167
+Eugenópolis, -21.1000, -42.1833
+Eugênio de Melo, -23.1500, -45.7833
+Extrema, -22.8500, -46.3167
+Exu, -7.5167, -39.7167
