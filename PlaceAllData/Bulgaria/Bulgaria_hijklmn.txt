@@ -1,0 +1,39 @@
+Harmanli, 41.9333, 25.9000
+Haskovo, 41.9333, 25.5500
+Ihtiman, 42.4333, 23.8167
+Isperih, 43.7167, 26.8333
+Ivajlovgrad, 41.5333, 26.1333
+Jambol, 42.4833, 26.5000
+Kalofer, 42.6167, 24.9833
+Karlovo, 42.6333, 24.8000
+Karnobat, 42.6500, 26.9833
+Kavarna, 43.4167, 28.3333
+Kazanlâk, 42.6333, 25.3500
+Khaskovo > Haskovo, 41.9333, 25.5500
+Kolarovgrad > Šumen, 43.2667, 26.9167
+Kostenec, 42.2667, 23.8167
+Kotel, 42.8833, 26.4500
+Krivodol, 43.3833, 23.4833
+Krumovgrad, 41.4667, 25.6500
+Kubrat, 43.8000, 26.5000
+Kula, 43.8833, 22.5167
+Kârdzali, 41.6500, 25.3667
+Lehcevo, 43.5333, 23.5333
+Levski, 43.3667, 25.1333
+Ljubimec, 41.8333, 26.0833
+Lom, 43.8167, 23.2333
+Lovec, 43.1333, 24.7167
+Lukovit, 43.2000, 24.1667
+Madan, 41.5000, 24.9500
+Malko Târnovo, 41.9833, 27.5333
+Maritsa, 42.0333, 25.8333
+Medkovec, 43.6167, 23.1667
+Mezdra, 43.1500, 23.7000
+Micurin, 42.1667, 27.8500
+Mihajlovgrad, 43.4167, 23.2167
+Mikre, 43.0333, 24.5167
+Momcilgrad, 41.5333, 25.4167
+Nesebâr, 42.6500, 27.7333
+Nikopol, 43.7000, 24.9000
+Nova Zagora, 42.4833, 26.0167
+Novi Pazar, 43.3500, 27.2000

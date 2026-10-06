@@ -1,0 +1,67 @@
+Obnova, 43.4333, 24.9833
+Omurtag, 43.1000, 26.4167
+Opaka, 43.4500, 26.1667
+Orjahovo, 43.7500, 23.9500
+Panagjurište, 42.5000, 24.1833
+Pavlikeni, 43.2333, 25.3000
+Pazardzik, 42.2000, 24.3333
+Pernik, 42.6000, 23.0333
+Petric, 41.4000, 23.2167
+Peštera, 42.0333, 24.3000
+Philippopolis > Plovdiv, 42.1500, 24.7500
+Pirdop, 42.7000, 24.1833
+Pleven, 43.4167, 24.6167
+Plovdiv, 42.1500, 24.7500
+Polski Trâmbeš, 43.3667, 25.6333
+Pomorie, 42.5500, 27.6500
+Popinci, 42.4167, 24.2833
+Popovo, 43.3500, 26.2167
+Pordim, 43.3833, 24.8500
+Primorsko, 42.2667, 27.7667
+Provadija, 43.1833, 27.4333
+Pârvomaj, 42.1000, 25.2167
+Radnevo, 42.3000, 25.9333
+Radomir, 42.5500, 22.9667
+Rakovski, 42.3000, 24.9667
+Razgrad, 43.5333, 26.5167
+Razlog, 41.8833, 23.4667
+Rezovo, 41.9833, 28.0333
+Roman, 43.1500, 23.9167
+Ruschuk > Ruse, 43.8333, 25.9500
+Ruse, 43.8333, 25.9500
+Ryazovo, 41.9833, 28.0333
+Samokov, 42.3333, 23.5500
+Sandanski, 41.5667, 23.2833
+Sevlievo, 43.0167, 25.1000
+Shipka, 42.7167, 25.3333
+Shumen > Šumen, 43.2667, 26.9167
+Silistra, 44.1167, 27.2667
+Sliven, 42.6667, 26.3167
+Slivnitsa, 42.8500, 23.0333
+Smoljan, 41.5833, 24.6833
+Sofia > Sofija, 42.6833, 23.3167
+Sofija(Sofia), 42.6833, 23.3167
+Sozopol, 42.4167, 27.7000
+Stalin > Varna, 43.2167, 27.9167
+Stanke Dimitrov, 42.2667, 23.1167
+Stara Zagora, 42.4167, 25.6333
+Svilengrad, 41.7667, 26.2000
+Svištov, 43.6167, 25.3333
+Svoge, 42.9667, 23.3500
+Telerig, 43.8500, 27.6667
+Tervel, 43.7500, 27.4000
+Teteven, 42.9167, 24.2667
+Tirnovo > Veliko Târnovo, 43.0667, 25.6500
+Tolbuhin, 43.5667, 27.8333
+Topolovgrad, 42.0833, 26.3333
+Trnovo > Veliko Târnovo, 43.0667, 25.6500
+Trojan, 42.8500, 24.7167
+Trân, 42.8333, 22.6500
+Trâstenik, 43.5167, 24.4667
+Tsenovo, 43.5333, 25.6500
+Turgovishte > Târgovište, 43.2500, 26.5667
+Turnovo > Veliko Târnovo, 43.0667, 25.6500
+Tutrakan, 44.0500, 26.6167
+Tvârdica, 43.7000, 25.9000
+Târgovište, 43.2500, 26.5667
+Ugârcin, 43.1000, 24.4167
