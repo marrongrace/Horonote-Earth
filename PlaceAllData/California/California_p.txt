@@ -1,0 +1,359 @@
+P-38 Crossing, 40.1694, -121.8958
+Pabrico, 37.5828, -122.0053
+Pacer, 34.9353, -120.4889
+Pachappa, 33.9467, -117.3842
+Pacheco, 37.9836, -122.0742
+Pacific(Los Angeles), 33.8000, -118.1833
+Pacific(El Dorado), 38.7603, -120.5061
+Pacific Beach, 32.7978, -117.2394
+Pacific Gardens, 37.9667, -121.3167
+Pacific Grove, 36.6167, -121.9167
+Pacific Grove Acres, 36.6289, -121.9289
+Pacific Hospital, 33.8069, -118.1922
+Pacific House, 38.7667, -120.5000
+Pacific Manor(Humboldt), 40.8667, -124.0833
+Pacific Manor(San Mateo), 37.6503, -122.4886
+Pacific Palisades, 34.0481, -118.5256
+Pacific State Hospital, 34.0406, -117.8075
+Pacific Villas, 37.9667, -121.3167
+Pacifica, 37.6139, -122.4858
+Pacoima, 34.2625, -118.4261
+Pacoima Memorial Hospital, 34.2817, -118.3828
+Paddison Square, 33.9000, -118.0833
+Paddon, 38.3500, -121.9833
+Paicines, 36.7286, -121.2775
+Paige, 36.1819, -119.4197
+Paintersville, 38.3200, -121.5750
+Pajaro, 36.9042, -121.7475
+Pala, 33.3653, -117.0758
+Pala Indian Reservation, 33.3500, -117.0500
+Pala Mesa, 33.3322, -117.1628
+Pala Mesa Village, 33.3833, -117.3500
+Palermo, 39.4356, -121.5369
+Pallett, 34.4333, -117.8333
+Palm Beach, 36.8672, -121.8169
+Palm City(San Diego), 32.5836, -117.0833
+Palm City(Riverside), 33.7167, -116.3167
+Palm Desert, 33.7214, -116.3875
+Palm Grove, 32.7353, -116.2089
+Palm Harbor Hospital, 33.7775, -117.9167
+Palm Springs, 33.8303, -116.5444
+Palm Wells, 34.0500, -116.5833
+Palmdale, 34.5794, -118.1156
+Palmer Creek, 40.5833, -124.1333
+Palmetto, 39.8239, -121.3181
+Palmo, 35.5592, -119.3303
+Palms, 34.0228, -118.4047
+Palo Alto, 37.4419, -122.1419
+Palo Cedro, 40.5639, -122.2378
+Palo Verde, 33.4328, -114.7314
+Palo Verde Hospital, 33.6136, -114.5939
+Paloma, 38.2594, -120.7622
+Palomar Memorial Hospital, 33.1250, -117.0739
+Palomar Mountain(P O), 33.3228, -116.8778
+Palomar Park, 37.4667, -122.2500
+Palomares, 37.7000, -122.0833
+Palos Verdes, 33.7167, -118.3500
+Palos Verdes Estates, 33.8006, -118.3892
+Palos Verdes Peninsula, 33.7667, -118.3667
+Panama, 35.2669, -119.0558
+Panamint, 36.1183, -117.0944
+Panamint Springs, 36.3397, -117.4669
+Panoche, 36.5969, -120.8325
+Panoche Junction, 36.5461, -120.4869
+Panorama City, 34.2247, -118.4489
+Panorama Heights(Tulare), 35.8050, -118.6283
+Panorama Heights(San Bernardino), 34.1242, -116.2200
+Panorama Heights(Orange), 33.7778, -117.7972
+Paola, 41.4553, -120.5275
+Pape Place, 40.1714, -121.8017
+Paradise(Stanislaus), 37.6333, -121.0167
+Paradise(Butte), 39.7464, -121.6361
+Paradise Camp, 37.3667, -118.4000
+Paradise Cay, 37.8833, -122.4833
+Paradise Clay, 37.9131, -122.4742
+Paradise Park, 37.0103, -122.0425
+Paradise Springs, 34.3958, -117.8056
+Paramount, 33.8894, -118.1589
+Parchers Camp, 37.3667, -118.4000
+Pardee, 34.4150, -118.5397
+Paris, 34.4719, -118.1800
+Park, 37.8667, -122.2833
+Park Central, 37.7833, -122.2667
+Park Siding, 38.2167, -122.6333
+Park Village, 36.5111, -116.8547
+Parker Dam, 34.2872, -114.1422
+Parker Junction, 34.7703, -114.5953
+Parkfield, 35.8997, -120.4317
+Parkfield Junction, 36.0819, -120.4794
+Parkhill, 39.7225, -121.4956
+Parklabrea, 34.0658, -118.3542
+Parkmoor, 37.3167, -121.9167
+Parkside, 37.7500, -122.4833
+Parkview Hospital, 33.9267, -117.4378
+Parkway, 38.4961, -121.4578
+Parkway Estates, 38.4833, -121.4500
+Parkwood, 36.9667, -120.0667
+Parlier, 36.6117, -119.5261
+Parramore Springs, 39.3136, -122.8789
+Parrott Landing, 39.6181, -121.9789
+Parsley Bar Crossing, 39.0283, -120.4347
+Pasadena, 34.1478, -118.1436
+Pasadena Hospital, 34.1775, -118.1503
+Pasatiempo, 37.0044, -122.0247
+Paskenta, 39.8847, -122.5447
+Paso Robles, 35.6267, -120.6900
+Patata, 33.9333, -118.1833
+Patch, 35.2528, -118.8950
+Patricks Point, 41.1236, -124.1556
+Patterson, 37.4717, -121.1286
+Patton, 34.1358, -117.2231
+Patton State Hospital, 34.1381, -117.2133
+Patton Village, 40.1500, -120.1333
+Paulsell, 37.7183, -120.6894
+Pauma Valley, 33.3033, -116.9806
+Paxton, 40.0381, -120.9939
+Paymaster Landing, 33.2458, -114.6889
+Payne, 40.2431, -123.0917
+Payne Place, 40.2333, -121.8764
+Paynes Creek, 40.3356, -121.9139
+Paynesville, 38.8092, -119.7783
+Peaceful Pines, 38.4061, -119.7883
+Peachton, 39.3806, -121.6603
+Peachtree Crossing, 38.9367, -122.5681
+Peanut, 40.4681, -123.1675
+Pearblossom, 34.5064, -117.9089
+Peardale, 39.1911, -120.9989
+Pearland, 34.5611, -118.0394
+Pearson(Yuba), 39.0619, -121.5764
+Pearson(San Joaquin), 38.1303, -121.2461
+Pearsonville, 35.6500, -117.8167
+Peavine, 39.6778, -120.0056
+Pebble Beach, 36.5667, -121.9500
+Pecwan, 41.0500, -123.6667
+Pedley, 33.9753, -117.4750
+Pedro Valley, 37.5933, -122.4969
+Peethill, 38.5842, -121.5211
+Peligreen Place, 40.2089, -121.7872
+Pellow Place, 39.9767, -122.6286
+Peltier, 38.1886, -121.2431
+Penasquitos, 32.9833, -117.1167
+Pendleton, 33.3667, -117.4167
+Peninsula Center, 33.7667, -118.3500
+Peninsula Hospital, 37.5914, -122.3825
+Peninsula Village, 40.2733, -121.1294
+Penn Valley, 39.2167, -121.0667
+Penney, 40.1983, -123.1006
+Penngrove, 38.2997, -122.6656
+Pennington, 39.2911, -121.7922
+Penoyar, 41.6675, -122.0617
+Penryn, 38.8522, -121.1683
+Pentland, 34.9856, -119.3556
+Pentz, 39.6553, -121.5828
+Penvir, 36.5386, -121.4831
+Pepper Corner, 33.8517, -117.5497
+Pepperwood, 40.4461, -123.9917
+Pepperwood Grove, 39.0581, -122.7803
+Peral, 36.4281, -119.2858
+Peralta Hills, 33.8444, -117.8169
+Perez, 41.6764, -121.2531
+Perkins, 38.5464, -121.3972
+Perks Corner, 38.7114, -120.8381
+Permanente, 36.3742, -118.0078
+Permanente Foundation Hospital, 38.1264, -122.2472
+Perris, 33.7825, -117.2278
+Perris Valley, 33.8000, -117.2000
+Perry(Santa Clara), 37.1836, -121.7053
+Perry(Los Angeles), 33.8656, -118.3436
+Perrys Corner, 32.8617, -115.3792
+Pescadero, 37.2550, -122.3803
+Petaluma, 38.2325, -122.6356
+Petaluma Rural, 38.2667, -122.6833
+Peters, 37.9808, -121.0469
+Peterson Mill, 37.2544, -118.4775
+Peterson Place(Site), 39.8783, -122.7628
+Petrolia, 40.3256, -124.2858
+Pettit Place, 35.6397, -118.6167
+Pettyjohn Place, 40.1736, -122.6747
+Phelan, 34.4261, -117.5714
+Phelps Corner, 32.7222, -116.8097
+Philbrick Mill, 39.0822, -123.4942
+Phillips, 38.8181, -120.0767
+Phillipsville, 40.2092, -123.7847
+Philo, 39.0658, -123.4439
+Picacho, 33.0231, -114.6103
+Pico, 34.3775, -118.6111
+Pico Heights, 34.0500, -118.3000
+Pico Rivera, 33.9831, -118.0958
+Piedmont, 37.8244, -122.2306
+Piedra, 36.8103, -119.3811
+Piedra PO, 36.8228, -119.3644
+Pierce(Solano), 38.1256, -122.0994
+Pierce(Sikiyou), 41.2686, -122.2136
+Piercy, 39.9664, -123.7942
+Pierpont Bay, 34.2597, -119.2683
+Pike, 39.4392, -120.9969
+Pilibos Ranch, 36.6836, -120.5133
+Pilliken, 38.6864, -120.3533
+Pilot Hill, 38.8350, -121.0133
+Pine Bluff, 38.6833, -121.1833
+Pine Cove, 33.7606, -116.7369
+Pine Flat, 35.8781, -118.6506
+Pine Grove(Mendocino), 39.3494, -123.8131
+Pine Grove(Amador), 38.4131, -120.6578
+Pine Grove(San Diego), 32.9453, -116.7117
+Pine Grove(Shasta), 40.6650, -122.3522
+Pine Grove(Lake), 38.8283, -122.7300
+Pine Hill, 40.7647, -124.1733
+Pine Hills, 33.0483, -116.6300
+Pine Valley, 32.8214, -116.5283
+Pine Wood, 33.8142, -116.7367
+Pinecrest, 38.1886, -119.9897
+Pinecroft, 39.0764, -120.9769
+Pinedale, 36.8428, -119.7889
+Pinehurst, 36.6953, -119.0156
+Pineridge, 37.0667, -119.3667
+Pinewood Camp, 36.5739, -118.7650
+Pinezanita, 34.1644, -116.9525
+Pinnacles, 36.5308, -121.1442
+Pinnio, 41.0742, -120.4683
+Pino Grande, 38.8703, -120.6250
+Pinole, 38.0044, -122.2978
+Pinon Hills, 34.4333, -117.6456
+Pinto Wye, 34.0208, -116.0186
+Pinyon Crest, 33.6086, -116.4364
+Pinyon Pines, 33.8000, -116.7333
+Pioneer(Siskiyou), 41.2925, -122.3092
+Pioneer(Amador), 38.4319, -120.5708
+Pioneer Memorial Hospital, 32.9589, -115.5531
+Pioneer Point, 35.7858, -117.3625
+Pioneertown, 34.1567, -116.4953
+Pippin Corner, 35.2989, -120.4019
+Piru, 34.4153, -118.7931
+Pisgah, 34.7597, -116.3544
+Pismo Beach, 35.1428, -120.6403
+Pitco, 36.3567, -119.6628
+Pittsburg, 38.0281, -121.8836
+Pittville, 41.0486, -121.3333
+Pixley, 35.9686, -119.2908
+Pizona, 37.9717, -118.5572
+Place of the Oaks, 40.7814, -122.7486
+Placentia, 33.8722, -117.8694
+Placerville, 38.7297, -120.7975
+Plainfield, 38.5908, -121.7958
+Plainsburg, 37.2331, -120.3233
+Plainview, 36.1442, -119.1331
+Planada, 37.2908, -120.3175
+Planehaven, 38.6667, -121.3833
+Plano, 36.0436, -119.0075
+Plantation, 38.5333, -123.0833
+Plaskett, 35.9167, -121.4678
+Plasse, 38.6372, -120.1256
+Plaster City, 32.7925, -115.8578
+Platina, 40.3667, -122.8833
+Playa del Rey, 33.9489, -118.4447
+Playmor, 32.6167, -117.0667
+Plaza, 33.7833, -117.8333
+Plaza Camino Real, 33.0167, -117.2833
+Plaza Center, 34.0500, -117.6500
+Pleasant Grove, 38.8239, -121.4828
+Pleasant Hill(Humboldt), 40.8667, -124.0833
+Pleasant Hill(Contra Costa), 37.9481, -122.0597
+Pleasant Valley, 38.6831, -120.6619
+Pleasant View, 35.8056, -118.6400
+Pleasanton, 37.6625, -121.8736
+Pleyto, 35.8603, -120.9925
+Plumbago, 39.4522, -120.8167
+Plumtree Crossing, 39.0803, -120.9933
+Plymouth, 38.4819, -120.8436
+Poe, 39.7444, -121.4703
+Poffenbergers Landing, 38.9389, -121.8294
+Poinsettia Tract, 38.0000, -121.8500
+Point Arena, 38.9089, -123.6919
+Point Firmin, 33.7333, -118.3000
+Point Loma, 32.7333, -117.2333
+Point McCloud, 40.9239, -122.2425
+Point Mugu, 34.1167, -119.1000
+Point Pleasant, 38.3317, -121.4628
+Point Reyes Station, 38.0692, -122.8058
+Point Richmond, 37.9242, -122.3881
+Poker Flat, 39.6933, -120.8436
+Polaris, 39.3392, -120.1347
+Pole Garden, 39.2197, -122.6364
+Polk, 38.5322, -121.4078
+Polk Springs, 40.1172, -121.6642
+Pollard Flat, 40.9958, -122.4172
+Pollock(Shasta), 40.9167, -122.3847
+Pollock(Sacramento), 38.4894, -121.4675
+Pollock Pines, 38.7614, -120.5856
+Pomo, 39.3067, -123.0947
+Pomona, 34.0553, -117.7514
+Pomona Valley Hospital(San Bernardino), 34.0767, -117.7492
+Pomona Valley Hospital(Los Angeles), 34.0772, -117.7503
+Ponca, 36.0419, -119.0161
+Pond, 35.7178, -119.3278
+Pondosa, 41.1994, -121.6878
+Pope(Imperial), 33.3658, -115.7219
+Pope(San Joaquin), 38.1417, -121.2425
+Pope Valley, 38.6153, -122.4267
+Poplar, 36.0533, -119.1422
+Porphyry, 33.8758, -117.5389
+Port Chicago, 38.0461, -122.0197
+Port Costa, 38.0464, -122.1822
+Port Hueneme, 34.1478, -119.1942
+Port Kenyon, 40.5953, -124.2786
+Port San Luis, 35.1750, -120.7542
+Portal Inn, 40.7358, -122.3183
+Porter, 38.3942, -120.4242
+Porterville, 36.0653, -119.0158
+Porterville State Hospital, 36.0403, -118.9817
+Portola, 39.8106, -120.4681
+Portola Terrace, 37.4500, -122.1833
+Portola Valley, 37.3842, -122.2342
+Portuguese Bend, 33.7397, -118.3686
+Posey, 35.8047, -118.6819
+Poso Park, 35.8108, -118.6339
+Posts, 36.2283, -121.7633
+Potrero, 32.6047, -116.6122
+Potrero District, 37.7597, -122.3969
+Potter Valley, 39.3222, -123.1119
+Potwisha, 36.5175, -118.7989
+Poverty Hill, 39.6225, -121.0058
+Poway, 32.9628, -117.0350
+Powellton, 39.9289, -121.5714
+Pozo, 35.3036, -120.3756
+Prairie City, 38.6422, -121.1547
+Prather, 37.0375, -119.5131
+Pratt Place, 39.9131, -123.7206
+Prattco, 36.6167, -121.8333
+Pratton, 36.7467, -119.8986
+Prattville, 40.2100, -121.1592
+Prenda, 33.9214, -117.3875
+Presidio, 37.7833, -122.4500
+Presidio of Monterey, 36.6000, -121.8833
+Presswood, 39.1683, -123.2047
+Preston, 38.8353, -123.0164
+Preston Heights, 40.8667, -124.0833
+Preuss, 34.0500, -118.3833
+Priest, 37.8142, -120.2717
+Priest Valley, 36.1333, -120.3667
+Princeton(Colusa), 39.4033, -122.0089
+Princeton(San Mateo), 37.5050, -122.4858
+Princeton-by-the-Sea, 37.5000, -122.4667
+Proberta, 40.0817, -122.1694
+Progress, 39.0633, -121.8000
+Project City, 40.6800, -122.3508
+Prospect(Plumas), 39.7522, -120.7942
+Prospect(Lassen), 39.8825, -120.0011
+Prospero, 35.4711, -119.1258
+Prosser Lakeview Estates, 39.3333, -120.2000
+Prunedale, 36.7758, -121.6686
+Pudding Creek, 39.4500, -123.8000
+Puente Junction, 34.0142, -117.9594
+Pulga, 39.8031, -121.4475
+Pumpkin Center(Lassen), 41.1100, -121.1056
+Pumpkin Center(Kern), 35.2669, -119.0325
+Punta, 34.3625, -119.4458
+Punta Gorda, 34.3567, -119.4408
+Purdon Crossing, 39.3275, -121.0453
+Pushawalla Palms, 33.8242, -116.2808

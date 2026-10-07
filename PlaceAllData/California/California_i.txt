@@ -1,0 +1,74 @@
+Ibis, 34.9400, -114.7917
+Iceland, 39.3756, -120.0250
+Idlewild(Placer), 39.1089, -120.1583
+Idlewild(Tulare), 35.8108, -118.6711
+Idria, 36.4169, -120.6733
+Idyllwild, 33.7400, -116.7181
+Idylwood Acres, 37.9167, -122.0500
+Igerna, 41.4017, -122.3783
+Ignacio, 38.0703, -122.5375
+Igo, 40.5056, -122.5406
+Ilmon, 35.3125, -118.6931
+Imola, 38.2786, -122.2794
+Imperial, 32.8475, -115.5686
+Imperial Beach, 32.5839, -117.1122
+Imperial County Hospital, 32.7469, -115.5603
+Imperial Crest, 33.9000, -118.0833
+Imperial Gables, 33.1275, -114.9283
+Imperial Hospital, 33.9319, -118.3597
+Imperial Valley Sanitarium, 32.8386, -115.2778
+Inca, 33.8008, -114.7656
+Incline, 37.6606, -119.8517
+Independence(Inyo), 36.8028, -118.1992
+Independence(Calaveras), 38.3492, -120.5125
+Indian Falls, 40.0569, -120.9628
+Indian Gulch, 37.4394, -120.1958
+Indian Mission, 37.0833, -119.4833
+Indian Springs(Los Angeles), 34.3322, -118.3328
+Indian Springs(Madera), 37.0506, -119.7314
+Indian Springs(San Diego), 32.7203, -116.8800
+Indian Springs(Mendocino), 39.7336, -123.3728
+Indian Village, 36.4492, -116.8733
+Indian Wells(Kern), 35.6653, -117.8722
+Indian Wells(Riverside), 33.7186, -116.3075
+Indianola, 40.8128, -124.0819
+Indio, 33.7206, -116.2147
+Industry, 34.0197, -117.9578
+Ingle, 36.7214, -120.2556
+Inglenook, 39.5297, -123.7578
+Ingleside, 37.7375, -122.5167
+Inglewood, 33.9617, -118.3522
+Ingomar, 37.1803, -120.9672
+Ingot, 40.7278, -122.0781
+Inskip, 39.9900, -121.5400
+Inspiration Point, 38.9464, -120.0994
+Intercommunity Hospital, 33.9692, -118.0478
+Inverness, 38.1011, -122.8558
+Inverness Park, 38.0639, -122.8217
+Inwood, 40.5242, -121.9561
+Inyokern, 35.6469, -117.8117
+Ione, 38.3528, -120.9317
+Iowa City, 39.2917, -121.4764
+Iowa Hill, 39.1086, -120.8583
+Iremel, 34.9233, -120.5256
+Iris, 33.1953, -115.4036
+Irmulco, 39.4222, -123.5164
+Iron Mountain(San Bernardino), 34.1167, -114.5167
+Iron Mountain(Shasta), 40.6708, -122.5231
+Ironsides, 33.8111, -118.3053
+Irrigosa, 36.8911, -119.9864
+Irvine, 33.6694, -117.8222
+Irvings Crest, 32.9797, -116.9114
+Irvington, 37.5228, -121.9706
+Irwin, 37.3969, -120.8489
+Irwindale, 34.1069, -117.9344
+Isla Vista, 34.4167, -119.8500
+Island Crossing, 37.5350, -119.0672
+Island Mountain, 40.0264, -123.4892
+Isleton, 38.1619, -121.6106
+Italian Swiss Colony, 36.9667, -120.0667
+Ivanhoe, 36.3872, -119.2169
+Ivanpah, 35.3406, -115.3097
+Iversen Landing, 38.8456, -123.6453
+Ivesta, 36.7219, -119.6356
+Ivory, 36.5686, -119.4225

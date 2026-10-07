@@ -1,0 +1,182 @@
+Nacimiento, 35.8092, -120.7406
+Nadeau, 33.9656, -118.2422
+Nanceville, 36.0694, -119.0722
+Napa, 38.2972, -122.2844
+Napa Junction, 38.1875, -122.2497
+Napa Soda Springs, 38.3908, -122.2783
+Napa State Hospital, 38.2781, -122.2653
+Naples(Las Angeles), 33.7544, -118.1228
+Naples(Santa Barbara), 34.4408, -119.9581
+Naranjo, 36.4047, -119.0617
+Narlon, 34.8106, -120.5978
+Narod, 34.0581, -117.6836
+Nashmead, 39.8225, -123.4136
+Nashua, 36.7414, -121.7647
+Nashville, 38.5789, -120.8442
+National City, 32.6781, -117.0983
+Natividad, 36.7328, -121.5956
+Natoma, 38.6550, -121.1803
+Naud Junction, 34.0606, -118.2353
+Navajo, 32.7833, -117.0333
+Naval(San Diego), 32.7500, -117.1500
+Naval(Ventura), 34.1667, -119.2000
+Naval Air Station(Kings), 36.2833, -119.8500
+Naval Air Station(Alameda), 37.7833, -122.2667
+Naval Hospital(Alameda), 37.8000, -122.2167
+Naval Hospital(San Diego), 32.7500, -117.1500
+Naval Supply Center, 37.8000, -122.2167
+Naval Training Center, 32.7500, -117.1500
+Navarro, 39.1519, -123.5408
+Navelencia, 36.6833, -119.3847
+Navy Landing, 33.7631, -118.1986
+Neal, 37.4136, -122.1428
+Nealeys Corner, 34.1872, -117.4383
+Nebelhorn, 38.8114, -120.0333
+Nebo, 34.8800, -116.9567
+Need, 38.3022, -121.3236
+Needles, 34.8481, -114.6133
+Neenach, 34.6667, -118.1833
+Nelson, 39.5522, -121.7644
+Nelsons Crossing, 39.6639, -121.2147
+Neponset, 36.7286, -121.7833
+Nervo, 38.6878, -122.8792
+Nestor, 32.5758, -117.0833
+Neufeld, 35.6194, -119.3317
+Nevada(Kem), 39.3167, -120.9833
+Nevada(Nevada), 34.0656, -117.2172
+Nevada City, 39.2617, -121.0150
+Nevin, 34.0142, -118.2453
+New Almaden, 37.1761, -121.8197
+New Auberry, 37.0933, -119.4961
+New Chicago, 38.4372, -120.8353
+New Cuyama, 34.9469, -119.6844
+New Dunn, 35.0494, -116.4253
+New Hope Landing, 38.2281, -121.4897
+New Monterey, 36.6147, -121.9011
+New Pine Creek, 41.9931, -120.2981
+Newark, 37.5297, -122.0392
+Newberry Springs, 34.8269, -116.6869
+Newburg, 40.6006, -124.1244
+Newbury Park, 34.1842, -118.9097
+Newcastle, 38.8742, -121.1322
+Newell, 41.8883, -121.3711
+Newhall, 34.3847, -118.5300
+Newhall Ranch, 34.4167, -118.5333
+Newlove, 37.9939, -121.7617
+Newman, 37.3139, -121.0197
+Newman Springs, 39.1964, -122.7147
+Newport, 39.5775, -123.7736
+Newport Beach, 33.6189, -117.9281
+Newport Heights, 33.6192, -117.9225
+Newtown(Nevada), 39.2528, -121.1022
+Newtown(Shasta), 40.6572, -122.3953
+Newtown(El Dorado), 38.7044, -120.6781
+Newville, 39.7911, -122.5272
+Nicasio, 38.0617, -122.6975
+Nice, 39.1233, -122.8472
+Nicholls Warm Springs, 33.6058, -114.7303
+Nichols, 38.0414, -121.9869
+Nicklin, 33.9436, -117.0133
+Nicks Cove, 38.1997, -122.9200
+Nicolaus, 38.9033, -121.5767
+Nielsburg, 38.9572, -121.0322
+Nielson Place, 40.0069, -123.3433
+Nigger Hill, 38.7333, -120.8000
+Nightingale, 33.5894, -116.4519
+Niguel Terrace, 33.5167, -117.7167
+Niland, 33.2400, -115.5181
+Niles, 37.5789, -121.9767
+Nimbus, 38.6292, -121.2142
+Nimshew, 39.8436, -121.6181
+Nineth Street Junction, 34.0203, -118.2197
+Ninetynine Oaks, 34.4758, -118.6158
+Nipinnawassee, 37.4033, -119.7322
+Nipomo, 35.0428, -120.4750
+Nipton, 35.4667, -115.2714
+Nitro, 38.0092, -122.3636
+Noe Valley, 37.7500, -122.4333
+Noel Heights, 38.4939, -122.9611
+Norco, 33.9333, -117.5500
+Nord, 39.7797, -121.9561
+Norden, 39.3181, -120.3550
+Normal Heights, 32.7633, -117.1219
+Norman, 39.4081, -122.1908
+North Annex, 34.3000, -118.4333
+North Antelope Valley, 34.7000, -118.2000
+North Bay View Park, 36.6167, -121.8333
+North Beach, 37.8058, -122.4111
+North Belridge, 34.8333, -120.5333
+North Berkeley, 37.8833, -122.2667
+North Bloomfield, 39.3683, -120.8983
+North Carlsbad, 33.2000, -117.3333
+North City, 33.0500, -117.0667
+North Clairemont, 32.8328, -117.1992
+North Coastal, 41.0000, -124.0667
+North Columbia, 39.3728, -120.9861
+North Cucamonga, 34.1000, -117.5833
+North Dinuba, 36.5675, -119.3936
+North Downey, 33.9500, -118.1333
+North Edwards, 35.0169, -117.8347
+North El Dorado, 38.8000, -120.7333
+North Elsinore, 33.6900, -117.3383
+North Fair Oaks, 37.4833, -122.2000
+North Fillmore, 34.4067, -118.9325
+North Fork, 37.2297, -119.5086
+North Gardena, 33.8833, -118.2833
+North Glendale, 34.1606, -118.2636
+North Highlands, 38.6858, -121.3711
+North Hills, 34.2667, -118.5000
+North Hollywood, 34.1722, -118.3781
+North Inglewood, 33.9667, -118.3500
+North Island, 32.7000, -117.2333
+North Jamul, 32.7256, -116.8686
+North Kern Hospital, 35.5936, -119.3506
+North Landing, 37.6353, -118.7436
+North Loma Linda, 34.0667, -117.2667
+North Long Beach, 33.8600, -118.1847
+North Oaks, 34.4167, -118.5333
+North Palm Springs, 33.9228, -116.5422
+North Park, 32.7408, -117.1297
+North Pomona, 34.0900, -117.7494
+North Redondo Beach, 33.8667, -118.3667
+North Richmond, 37.9589, -122.3664
+North Sacramento, 38.6061, -121.4564
+North San Juan, 39.3694, -121.1028
+North Santa Maria, 34.9569, -120.4436
+North Seal Beach, 33.7667, -118.0833
+North Shafter, 35.5114, -119.2836
+North Shore(Riverside), 33.5667, -116.0833
+North Shore(San Bernardino), 34.2681, -117.1833
+North Star, 39.5867, -121.0758
+North Torrance, 33.8667, -118.3333
+North Turlock, 37.4833, -120.8333
+North Valley Plaza, 39.7333, -121.8333
+North Wawona, 37.5486, -119.6400
+North Whittier, 34.0500, -117.9833
+North Whittier Heights, 34.0000, -117.9500
+Northcrest, 41.7667, -124.2000
+Northeast Modesto, 37.6333, -120.9833
+Northridge, 34.2283, -118.5358
+Northspur, 39.4228, -123.5508
+Northwest, 38.2167, -122.8333
+Northwood, 38.4756, -123.0006
+Northwood Heights, 38.4797, -122.9983
+Northwood Lodge, 38.4772, -122.9967
+Norton(San Joaquin), 38.0808, -121.2417
+Norton(Yolo), 38.5861, -121.9700
+Norton Air Force Base, 34.1000, -117.2500
+Nortonville, 37.9578, -121.8794
+Norvell, 40.4864, -121.0044
+Norwalk, 33.9022, -118.0808
+Norwalk Manor, 33.9000, -118.0833
+Norwood Center, 34.2833, -118.4500
+Notarb, 37.0111, -120.1181
+Notleys Landing, 36.3983, -121.9025
+Novato, 38.1075, -122.5686
+Noyo, 39.4283, -123.8022
+Nubieber, 41.0958, -121.1819
+Nuestro, 39.1839, -121.6611
+Nuevo, 33.8014, -117.1450
+Nut Tree, 38.3500, -121.9833
+Nyland, 34.2256, -119.1342
+Nyland Acres, 34.2000, -119.1667

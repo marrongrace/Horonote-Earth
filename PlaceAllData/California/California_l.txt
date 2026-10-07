@@ -1,0 +1,384 @@
+La Ballona, 34.0000, -118.4000
+La Barr Meadows, 39.1747, -121.0442
+La Canada, 34.2044, -118.2000
+La Casita del Arroyo, 34.1414, -118.1658
+La Costa, 34.1000, -118.7333
+La Crescenta, 34.2242, -118.2392
+La Cresta(Karn), 35.3833, -118.9833
+La Cresta(San Diego), 32.8111, -116.8625
+La Delta, 34.6422, -117.3436
+La Fetra, 34.1333, -117.8500
+La Fresa, 33.8728, -118.3350
+La Habra, 33.9319, -117.9453
+La Habra Heights, 33.9608, -117.9497
+La Honda, 37.3192, -122.2731
+La Honda Park, 38.1206, -120.4953
+La Jolla(Orange), 33.8575, -117.8756
+La Jolla(San Diego), 32.8472, -117.2733
+La Jolla Amago, 33.2828, -116.8625
+La Jolla Indian Reservation, 33.2833, -116.9000
+La Jolla Ranch, 36.7283, -120.6019
+La Loma, 37.6333, -120.9833
+La Mesa, 32.7678, -117.0222
+La Mesa Sanitarium, 32.7514, -117.0022
+La Mirada, 33.9172, -118.0111
+La Palma, 33.8464, -118.0458
+La Paloma, 33.7808, -117.8036
+La Panza, 35.3611, -120.2144
+La Patera, 34.4375, -119.8411
+La Playa, 32.7122, -117.2444
+La Porte, 39.6822, -120.9831
+La Presa, 32.7081, -116.9964
+La Puente, 34.0200, -117.9486
+La Salle, 34.6478, -120.5253
+La Selva Beach, 36.9367, -121.8636
+La Sierra, 33.9208, -117.4956
+La Sierra Heights, 33.9442, -117.4856
+La Tijera, 33.9833, -118.3333
+La Verne, 34.1008, -117.7669
+La Vina, 36.8806, -120.1094
+La Vina Hospital and Sanitorium, 34.2108, -118.1586
+Lacjac, 36.6117, -119.4831
+Lackey Place, 35.6322, -118.6458
+Ladera, 37.4000, -122.2000
+Ladera Heights, 33.9833, -118.3667
+Lafayette, 37.8858, -122.1169
+Lagol, 34.2694, -118.9497
+LaGrange, 37.6636, -120.4625
+Laguna, 33.9767, -118.1389
+Laguna Beach, 33.5422, -117.7822
+Laguna Dam, 32.7333, -114.5833
+Laguna Hills, 33.6125, -117.7119
+Laguna Junction, 32.8094, -116.5117
+Laguna Lake, 35.3000, -120.7500
+Laguna Niguel, 33.5225, -117.7067
+Lagunitas, 38.0114, -122.7011
+Laird Landing, 41.8731, -121.7231
+Lairds Corner, 36.0514, -119.2311
+Lairds Landing, 38.1594, -122.9114
+Lairport, 33.9222, -118.3778
+Lake Alpine, 38.4786, -120.0028
+Lake Arrowhead, 34.2483, -117.1883
+Lake City(Modoc), 41.6428, -120.2158
+Lake City(Nevada), 39.3586, -120.9406
+Lake Elsinore, 33.9167, -117.7333
+Lake Forest, 39.1844, -120.1136
+Lake Henshaw, 33.1167, -116.6667
+Lake Hills Estates, 38.6833, -121.1833
+Lake Hughes, 34.6769, -118.4444
+Lake Isabella, 35.6092, -118.4828
+Lake Kirkwood, 38.7000, -120.0667
+Lake Los Angeles, 34.5833, -118.1000
+Lake Mary, 37.6333, -118.9667
+Lake Mathews, 33.8667, -117.3167
+Lake Morena Village, 32.6167, -116.4667
+Lake Nokopen, 40.3000, -121.0167
+Lake of The Woods, 34.8167, -118.9500
+Lake San Marcos, 33.1261, -117.2075
+Lake Shastina, 41.4833, -122.4167
+Lake Tahoe, 39.2333, -120.1167
+Lake Tamarisk, 33.7167, -115.4000
+Lake Valley, 38.9300, -120.0036
+Lake View Terrace, 34.2833, -118.4500
+Lakehead, 40.9053, -122.3781
+Lakeland Village, 33.6386, -117.3431
+Lakeport, 39.0431, -122.9147
+Lakeshore(Shasta), 40.8800, -122.3875
+Lakeshore(Fresno), 37.2531, -119.1739
+Lakeside, 32.8572, -116.9214
+Lakeside Farms, 32.8669, -116.9392
+Lakeside Hospital, 39.1058, -122.9031
+Lakeside Park, 34.2281, -118.6458
+Lakeview(Kern), 35.0947, -119.1086
+Lakeview(Riverside), 33.8386, -117.1172
+Lakeview(San Diego), 32.8428, -116.9033
+Lakeview Hot Springs, 33.8383, -117.1447
+Lakeview Junction, 41.4761, -120.5367
+Lakeview Terrace Sanitarium, 34.2739, -118.3342
+Lakeville, 38.1992, -122.5461
+Lakewood, 33.8536, -118.1331
+Lakewood Hospital, 33.8542, -118.1319
+Lakin, 41.3783, -121.5611
+Lamanda Park, 34.1481, -118.0931
+Lambert, 38.6167, -122.8667
+Lamoine, 40.9781, -122.4297
+Lamont, 35.2597, -118.9133
+Lanare, 36.4306, -119.9300
+Lancaster, 34.6981, -118.1358
+Lancha Plana, 38.2247, -120.9008
+Land Park, 38.5333, -121.4667
+Landco, 35.3794, -119.0603
+Lander Crossing, 39.0692, -120.9775
+Landers, 34.2661, -116.3922
+Landscape, 37.9000, -122.2833
+Lane, 38.0028, -121.2492
+Lane Mill, 36.2819, -117.5700
+Lanfair, 35.1258, -115.1828
+Lang, 34.4317, -118.3767
+Lansdale, 37.9833, -122.5833
+LaQuinta, 33.6633, -116.3092
+Larabee, 40.4061, -123.9281
+Larabee Ranch, 40.3500, -123.9167
+Larchmont Riviera, 38.5500, -121.3667
+Largo, 39.0217, -123.1289
+Largo Vista, 34.4269, -117.7653
+Larkfield, 38.4333, -122.7167
+Larkmead, 38.5589, -122.5219
+Larkspur, 37.9342, -122.5342
+Larwin Plaza-Vallejo, 38.1167, -122.2333
+Larwin Square-Tustin, 33.7500, -117.8167
+Las Cruces, 34.5081, -120.2281
+Las Encinas Hospital, 34.1417, -118.0892
+Las Flores(San Diego), 33.2858, -117.4514
+Las Flores(Tehama), 40.0719, -122.1617
+Las Flores(Malibu P O), 34.0372, -118.6350
+Las Gallinas, 38.0206, -122.5375
+Las Juntas, 37.9319, -122.0533
+Las Lomas(MOnterey), 36.9167, -121.7833
+Las Lomas(Sonoma), 38.6772, -123.1342
+Las Palmas, 36.7575, -119.6994
+Las Posas, 34.2833, -119.0333
+Las Posas Estates, 34.2333, -119.0333
+Lasco, 40.4225, -120.9717
+Last Chance, 39.1114, -120.6236
+Lathrop, 37.8228, -121.2756
+Laton, 36.4333, -119.6858
+Latrobe, 38.5597, -120.9828
+Laughlin, 39.2797, -123.2333
+Laurel(San Mateo), 37.5319, -122.3067
+Laurel(Santa Cruz), 37.1167, -121.9653
+Laurel Canyon, 34.2000, -118.4000
+Laurel Hospital, 34.1411, -117.2936
+Lavic, 34.7278, -116.3125
+Lawndale(Los Angeles), 33.8872, -118.3517
+Lawndale(Sonoma), 38.4214, -122.5692
+Lawrence, 37.3700, -121.9947
+Laws, 37.4008, -118.3447
+Laytonville, 39.6883, -123.4817
+Le Grand, 37.2286, -120.2472
+Leadfield, 36.8467, -117.0583
+Leaf, 41.6422, -122.0008
+Leavitt, 40.3961, -120.5250
+Lebec, 34.8367, -118.8633
+Lee Vining, 37.9575, -119.1208
+Leesdale, 34.1967, -119.0989
+Leesville, 39.1900, -122.4178
+Leggett, 39.8658, -123.7131
+Leisure Town, 38.3661, -121.9436
+Leisure World, 33.7667, -118.0833
+Lemon Grove, 32.7425, -117.0306
+Lemon Heights, 33.7589, -117.7811
+Lemona, 33.9803, -117.3250
+Lemoncove, 36.3828, -119.0236
+Lemoore, 36.3008, -119.7819
+Lemoore Station, 36.2667, -119.9000
+Lennox, 33.9381, -118.3517
+Lento, 34.4728, -120.1594
+Lenwood, 34.8767, -117.1031
+Leon, 34.5581, -117.3056
+Leona Valley, 34.6183, -118.2872
+Leonardi, 38.8819, -120.5353
+Lerdo, 35.4903, -119.1517
+Lerona, 37.1294, -119.4303
+Letterman, 37.7833, -122.4500
+Letterman General Hospital, 37.8008, -122.4517
+Leucadia, 33.0681, -117.3025
+Levis, 36.6236, -120.4053
+Lewiston, 40.7075, -122.8064
+Lexington, 37.1667, -121.9667
+Liberty, 38.2844, -122.7008
+Liberty Acres, 33.9167, -118.3500
+Liberty Farms, 38.3167, -121.7000
+Libfarm, 38.3167, -121.7000
+Lick, 37.2872, -121.8447
+Lido Isle, 33.6039, -117.9164
+Likely, 41.2306, -120.5031
+Lilac, 33.2878, -117.0831
+Limco, 34.3500, -119.0667
+Limon, 34.3206, -119.1069
+Limoneira, 34.3303, -119.1247
+Lincoln, 38.8917, -121.2919
+Lincoln Acres, 32.6678, -117.0719
+Lincoln Crest, 34.5869, -118.3039
+Lincoln Heights, 34.0706, -118.2042
+Lincoln Village(Sacramento), 38.5833, -121.3333
+Lincoln Village(San Joaquin), 38.0053, -121.3272
+Lincoln Village(Los Angeles), 33.8278, -118.2219
+Linda, 39.1278, -121.5497
+Linda Mar, 37.6333, -122.4833
+Linda Mar Gardens, 32.9833, -117.2667
+Linda Vista(Los Angeles), 34.1714, -118.1761
+Linda Vista(San Diego), 32.7833, -117.1706
+Linda Vista(Santa Clara), 37.3667, -121.8167
+Lindbergh Field, 32.7333, -117.1833
+Lindcove, 36.3578, -119.0636
+Linden, 38.0214, -121.0828
+Linden Avenue, 37.6500, -122.4333
+Lindenwood, 37.4500, -122.1833
+Lindsay, 36.2031, -119.0872
+Lingard, 37.2403, -120.3964
+Lingos Landing, 38.1594, -121.9247
+Linne, 35.5725, -120.5681
+Linnell, 36.3333, -119.3000
+Linnie, 35.8331, -117.8661
+Lira, 39.1453, -121.8667
+Liskey, 41.8489, -121.4089
+Lisko, 36.0969, -119.0364
+List, 36.2761, -119.1269
+Litchfield, 40.3828, -120.3861
+Little Hayen, 40.0094, -121.2292
+Little Lake(Riverside), 33.7500, -116.9333
+Little Lake(Inyo), 35.9367, -117.9058
+Little Morongo Heights, 34.0956, -116.5192
+Little Norway, 38.8167, -120.0500
+Little Paradise, 33.6697, -116.5206
+Little Penny, 38.9228, -123.4567
+Little Reed Heights, 37.8833, -122.4833
+Little River, 39.2708, -123.7872
+Little Shasta, 41.7119, -122.3903
+Little Valley, 40.8944, -121.1764
+Littlerock, 34.5211, -117.9828
+Live Oak(Sacramento), 38.4842, -121.0731
+Live Oak(Sutter), 39.2758, -121.6589
+Live Oak Acres, 34.4069, -119.3075
+Live Oak Canyon, 34.1167, -117.7667
+Live Oak Springs, 32.6906, -116.3336
+Livermore, 37.6819, -121.7669
+Livingston, 37.3869, -120.7225
+Llanada, 36.6092, -120.9156
+Llano(Sonoma), 38.4119, -122.7933
+Llano(Los Angeles), 34.5000, -117.8333
+Lobitos, 37.3831, -122.3992
+Lobo, 33.8000, -117.9833
+Locans, 36.7236, -119.6622
+Loch Lomond, 38.8633, -122.7183
+Locke, 38.2506, -121.5083
+Lockeford, 38.1636, -121.1489
+Lockhart, 35.0147, -117.3300
+Lockwood, 35.9442, -121.0803
+Locust, 37.9000, -122.5333
+Lodge Pole, 36.5667, -118.7667
+Lodi, 38.1303, -121.2714
+Lodi Junction, 38.1283, -121.2422
+Lodi Rural, 38.1500, -121.3000
+Lodoga, 39.3019, -122.4881
+Loftus, 40.9000, -122.3833
+Log Landing, 41.9633, -120.4961
+Logan, 36.9069, -121.6306
+Logandale, 39.4372, -122.1908
+Loganville, 39.5681, -120.6661
+Lois, 36.0186, -119.0267
+Lokern, 35.4000, -119.5450
+Lokoya, 38.3733, -122.4267
+Loleta, 40.6411, -124.2242
+Loma(Los Angeles), 33.7667, -118.1333
+Loma(Tulare), 36.2578, -119.2864
+Loma Linda, 34.0483, -117.2603
+Loma Mar, 37.2711, -122.3075
+Loma Portal, 32.7439, -117.2181
+Loma Rica, 39.3119, -121.4167
+Loma Verde, 38.1000, -122.5667
+Lomas Santa Fe, 32.9833, -117.2667
+Lombard, 38.1908, -122.2550
+Lomita, 33.7922, -118.3142
+Lomita Park, 37.6167, -122.4033
+Lomo(Butte), 40.0386, -121.6150
+Lomo(Sutter), 39.2208, -121.6406
+Lompico, 37.1056, -122.0517
+Lompoc, 34.6392, -120.4569
+Lompoc Landing(Site), 34.7200, -120.6069
+Lompoc Valley, 34.6667, -120.4000
+London, 36.4761, -119.4422
+Lone Pine, 36.6061, -118.0619
+Lone Pine Indian Reservation, 36.6000, -118.0667
+Lone Star(Glenn), 39.7094, -122.8081
+Lone Star(Fresno), 36.7006, -119.6803
+Lone Star Junction, 40.6328, -123.8761
+Lone Wolf Colony, 34.4706, -117.1550
+Long Barn, 38.0931, -120.1333
+Long Beach, 33.7669, -118.1883
+Long Beach Naval Shipyard, 33.8167, -118.1667
+Longvale, 39.5553, -123.4286
+Longview, 34.5000, -117.9167
+Longville, 40.1478, -121.2436
+Lonoak, 36.2775, -120.9419
+Lonoke, 37.0258, -121.5769
+Lonsmith, 35.3403, -118.9225
+Lookout, 41.2081, -121.1542
+Lookout Junction, 41.2586, -121.2336
+Loomis, 38.8214, -121.1919
+Loomis Corners, 40.5883, -122.3047
+Loop, 33.9333, -118.1833
+Loope, 38.6653, -119.6950
+Loraine, 35.3047, -118.4358
+Loree Estates, 37.3167, -122.0333
+Lorenzo Station, 37.6925, -122.1289
+Lort, 36.3428, -119.1533
+Los Alamitos, 33.8031, -118.0717
+Los Alamitos Junction, 33.8058, -117.9983
+Los Alamos, 34.7444, -120.2772
+Los Altos(Los Angeles), 33.7939, -118.1244
+Los Altos(Santa Clara), 37.3853, -122.1131
+Los Altos Hills, 37.3797, -122.1364
+Los Angeles, 34.0522, -118.2428
+Los Angeles County Hospital, 34.0628, -118.2058
+Los Banos, 37.0583, -120.8489
+Los Berros, 35.1167, -120.5833
+Los Coyotes Indian Reservation, 33.3000, -116.5167
+Los Deltos, 36.8500, -120.4500
+Los Feliz, 34.1000, -118.3000
+Los Gatos, 37.2267, -121.9736
+Los Medanos, 38.0122, -121.8503
+Los Molinos, 40.0214, -122.0992
+Los Nietos, 33.9683, -118.0697
+Los Nietos Junction, 33.9614, -118.0694
+Los Olivos, 34.6678, -120.1139
+Los Osos, 35.3111, -120.8314
+Los Padres, 34.6833, -119.2333
+Los Posas Park, 34.2333, -119.0333
+Los Ranchitos, 38.0167, -122.5500
+Los Serranos, 33.9728, -117.7072
+Los Terrentos, 32.8347, -116.6211
+Los Trancos Woods, 37.3494, -122.1983
+Los Tules, 33.2833, -116.6203
+Lost City, 38.0867, -120.7486
+Lost Hills, 35.6164, -119.6933
+Lost Lake, 33.6167, -114.5833
+Lotus, 38.8017, -120.9075
+Lovdal, 38.6003, -121.5514
+Lovelock, 39.8914, -121.5767
+Lowell, 38.1742, -122.2522
+Lower Crossing(Site), 41.9281, -122.1586
+Lower Forni, 38.8031, -120.2281
+Lower Lake, 38.9106, -122.6092
+Lower Town, 38.3675, -119.1189
+Lower Trinity, 40.8167, -123.4333
+Lowes Corner, 36.0944, -119.2311
+Lowrey, 40.0139, -122.5522
+Loyalton, 39.6764, -120.2400
+Loyola, 37.3667, -122.1000
+Loyola Corners, 37.3522, -122.0850
+Lucas Valley, 38.0167, -122.5500
+Lucca, 36.2453, -119.0889
+Lucerne(Kings), 36.3808, -119.6633
+Lucerne(Lake), 39.0903, -122.7953
+Lucerne Valley, 34.4439, -116.9669
+Lucia, 36.0208, -121.5494
+Ludlow, 34.7211, -116.1592
+Lugo(Los Angeles), 34.0167, -118.2000
+Lugo(San Bernardino), 34.3672, -117.3414
+Lumer, 36.0375, -118.9903
+Lumpkin, 39.6100, -121.2078
+Lundy, 38.0275, -119.2406
+Lushmeadows Mountain Estates, 37.4833, -119.9667
+Luther Burbank, 38.4500, -122.7000
+Luther Hospital, 33.8511, -117.9444
+Luzon, 38.0144, -122.2503
+Lynwood, 33.9303, -118.2106
+Lynwood Gardens, 33.9103, -118.1911
+Lynwood Hills, 32.6453, -117.0508
+Lyons Crossing, 32.7172, -115.6033
+Lyonsville, 40.3094, -121.7369
+Lyoth, 37.7158, -121.3806
+Lytle Creek, 34.2592, -117.4992
+Lytton, 38.6594, -122.8706

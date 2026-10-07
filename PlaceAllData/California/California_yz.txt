@@ -1,0 +1,49 @@
+Yager Junction, 40.5483, -123.8233
+Yale, 33.7500, -116.9333
+Yankee Hill(Butte), 39.7036, -121.5211
+Yankee Hill(Tuolumne), 38.0397, -120.3769
+Yankee Jims, 39.0294, -120.8606
+Yellowjacket, 40.2406, -121.6900
+Yellowjacket Place, 40.1694, -123.3225
+Yermo, 34.9050, -116.8194
+Yettem, 36.4864, -119.2586
+Ygnacio Valley, 37.9333, -122.0333
+Yokohl, 36.3256, -119.0814
+Yolanda, 37.9833, -122.5833
+Yolano, 38.4103, -121.7044
+Yolo, 38.7319, -121.8067
+Yolo County General Hospital, 38.6858, -121.7914
+Yontocket, 41.9078, -124.1978
+Yorba, 33.8653, -117.8081
+Yorba Linda, 33.8886, -117.8122
+York, 34.0833, -118.3667
+Yorkville, 38.8981, -123.2133
+Yosemite, 37.7500, -119.5833
+Yosemite Forks, 37.3672, -119.6308
+Yosemite Junction, 37.8908, -120.4872
+Yosemite Lodge, 37.7500, -119.5833
+Yosemite National Park, 37.7500, -119.5833
+Yosemite Village, 37.7453, -119.5972
+You Bet, 39.2092, -120.8989
+Youngstown, 38.1739, -121.2419
+Yountville, 38.4017, -122.3597
+Yreka, 41.7356, -122.6333
+Yreka City, 41.6667, -122.6000
+Yuba City, 39.1406, -121.6158
+Yuba County Hospital, 39.1492, -121.5983
+Yuba Foothills, 39.4167, -121.2167
+Yuba Pass, 39.3231, -120.5992
+Yucaipa, 34.0336, -117.0422
+Yucca Grove, 35.4025, -115.7914
+Yucca Inn, 34.4097, -117.5886
+Yucca Valley, 34.1192, -116.4450
+Zamora, 38.7967, -121.8808
+Zante, 36.1147, -119.0447
+Zayante, 37.0919, -122.0425
+Zediker, 36.0739, -119.5231
+Zenia, 40.2056, -123.4908
+Zentner, 35.7031, -119.1683
+Zinfandel, 38.4828, -122.4744
+Zurich, 37.1828, -118.2592
+Zuver, 38.9742, -120.5989
+Zzyzx, 35.2667, -116.0667

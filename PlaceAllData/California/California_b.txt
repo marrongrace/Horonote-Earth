@@ -1,0 +1,473 @@
+Babcock Crossing, 40.1269, -120.6258
+Baden, 37.6500, -122.4333
+Badger, 36.6314, -119.0122
+Badwater, 36.2297, -116.7661
+Bagby, 37.7167, -120.2000
+Bagdad, 34.5828, -115.8747
+Bahia, 38.0967, -122.1019
+Bailey, 33.9667, -118.0167
+Bailhache, 38.6036, -122.8536
+Baker, 35.2650, -116.0736
+Bakersfield, 35.3733, -119.0178
+Balance Rock, 35.8061, -118.6511
+Balboa, 33.5869, -117.9000
+Balboa Island, 33.5944, -117.8908
+Balch, 35.0428, -116.0267
+Balch Camp, 36.9031, -119.1222
+Balderson Station, 38.9347, -120.7531
+Baldwin Hills Hospital, 33.9903, -118.3778
+Baldwin Lake, 34.2667, -116.8500
+Baldwin Park, 34.0853, -117.9600
+Baldy, Mount, 34.2361, -117.6592
+Ballarat, 36.0478, -117.2225
+Ballard, 34.6358, -120.1122
+Ballico, 37.4544, -120.7050
+Ballou, 34.0492, -117.6061
+Ballroad, 33.8167, -118.0333
+Balls Ferry, 40.4500, -122.3000
+Baltimore Park, 37.9308, -122.5314
+Baltimore Town, 39.3878, -120.5392
+Bancroft, 37.9339, -122.0461
+Bancroft Point, 32.7369, -116.9847
+Bandini, 33.9822, -118.1172
+Bangor, 39.3886, -121.4042
+Bankhead Springs, 32.6497, -116.2431
+Banner, 33.0689, -116.5453
+Banning, 33.9256, -116.8756
+Bannister, 35.2656, -119.0997
+Bannock, 34.9367, -114.8631
+Banta, 37.7544, -121.3697
+Barber, 39.7147, -121.8344
+Barber City, 33.7589, -118.0233
+Bard, 32.7892, -114.5553
+Bard Sanitarium, 34.2806, -119.2519
+Bardi, 37.7647, -121.1642
+Bardsdale, 34.3717, -118.9319
+Barkerville, 39.1544, -122.5614
+Barlett Springs, 39.1839, -122.7033
+Barlow, 38.4250, -122.8575
+Barlow Sanatorium, 34.0758, -118.2472
+Barnwell, 35.2931, -115.2350
+Baroda, 34.6867, -120.5917
+Barona, 32.9358, -116.8672
+Barona Ranch Indian Reservation, 32.9333, -116.8667
+Barrett(Mariposa), 37.6400, -120.2847
+Barrett(San Diego), 32.6292, -116.4597
+Barrett Junction, 32.6114, -116.7064
+Barrington, 34.0667, -118.4833
+Barro, 38.5261, -122.4917
+Barron Park, 37.4167, -122.1333
+Barstow(San Bernardino), 34.8986, -117.0219
+Barstow(Fresno), 36.8153, -119.9689
+Barstow Colony, 36.8000, -119.8333
+Barsug, 34.9575, -120.5719
+Bartle, 41.2578, -121.8200
+Bartlett, 36.4767, -118.0300
+Bartolo, 34.0064, -118.0614
+Barton, 36.7333, -119.7500
+Barton, 38.4547, -120.5292
+Barton Memorial Hospital, 38.9117, -119.9967
+Base Line, 34.1167, -117.3000
+Bass Lake, 37.3200, -119.5567
+Bassett, 34.0497, -117.9958
+Bassetts, 39.6197, -120.5864
+Batavia, 38.3897, -121.8583
+Batto, 38.2836, -122.4358
+Baumberg, 37.6208, -122.0992
+Baxter, 39.2131, -120.7800
+Bay, 34.2500, -116.8833
+Bay Harbor Hospital, 33.7983, -118.3028
+Bay Meadows Race Track, 37.5500, -122.3000
+Bay Park, 32.7817, -117.2056
+Bay View, 37.7333, -122.4000
+Bay View Park, 36.6167, -121.8333
+Bayley, 41.2881, -120.5369
+Bayliss, 39.5828, -122.0447
+Bayo Vista, 38.0369, -122.2603
+Bayshore, 37.7064, -122.4117
+Bayside, 40.8425, -124.0625
+Bayview, 40.7728, -124.1828
+Bayview District, 37.7483, -122.4544
+Bayview Park, 37.9667, -122.3333
+Baywood Park, 35.3264, -120.8342
+Beach Center, 33.6833, -118.0000
+Beal Place, 40.5978, -121.7486
+Beale Air Force Base, 39.1167, -121.3667
+Beale East, 39.1167, -121.3667
+Beale West, 39.1167, -121.4167
+Beall Place(Site), 40.0275, -123.8286
+Bealville, 35.2722, -118.6253
+Bear Creek(San Joaquin), 38.0839, -121.2417
+Bear Creek(Merced), 37.2972, -120.4164
+Bear River, 38.9000, -121.0667
+Bear River Lake, 38.4167, -120.5500
+Bear River Pines, 39.1694, -120.9669
+Bear Valley(Alpine), 38.4647, -120.0389
+Bear Valley(Mariposa), 37.5689, -120.1183
+Beatrice(Yolo), 38.6433, -121.5950
+Beatrice(Humboldt), 40.6700, -124.2014
+Beatty Junction, 36.5881, -116.9422
+Beaumont, 33.9294, -116.9764
+Beckwourth, 39.8203, -120.3778
+Bee Rock, 35.7872, -120.9381
+Beegum, 40.3450, -122.8569
+Beeks Place, 33.8203, -117.6378
+Behrens Hospital, 34.1531, -118.2394
+Bel Air, 34.0833, -118.4478
+Bel Air Memorial Hospital, 34.1156, -118.4628
+Bel Aire Estates, 37.8833, -122.4833
+Bel Marin Keys, 38.1000, -122.5667
+Belden, 40.0061, -121.2481
+Beldons Landing, 38.1889, -121.9739
+Belfast, 40.4436, -120.4506
+Belfort, 38.4164, -119.2661
+Bell, 33.9775, -118.1861
+Bell Gardens, 33.9653, -118.1506
+Bell Mountain, 34.6242, -117.2061
+Bell Springs, 39.9236, -123.4725
+Bella Vista(Contra Costa), 38.0000, -121.8500
+Bella Vista(Tulare), 35.6522, -118.3217
+Bella Vista(Los Angeles), 34.0167, -118.1500
+Bella Vista(Shasta), 40.6408, -122.2314
+Bellaire, 38.0000, -121.8500
+Belle Haven, 37.4500, -122.1833
+Belle Monte, 37.5192, -122.2958
+Belleview(Humboldt), 40.5061, -124.1197
+Belleview(Tuolumne), 38.0131, -120.2897
+Bellevue, 38.4019, -122.7125
+Bellflower, 33.8817, -118.1161
+Bellota, 38.0531, -121.0128
+Bells Station, 36.8500, -121.4000
+Belltown, 34.0167, -117.3833
+Bellview, 40.5000, -124.1000
+Belmont, 37.5203, -122.2747
+Belmont Shore, 33.7572, -118.1361
+Beltown, 34.0117, -117.3825
+Belvedere(Los Angeles), 34.0406, -118.1683
+Belvedere(Marin), 37.8728, -122.4633
+Belvedere Gardens, 34.0167, -118.1500
+Belvedere Heights, 33.9836, -117.3100
+Belvernon Gardens, 37.8833, -122.4833
+Ben Ali, 38.6219, -121.4214
+Ben Hur, 37.3517, -119.9567
+Ben Lomond, 37.0892, -122.0853
+Bena, 35.3267, -118.7389
+Benbow, 40.0686, -123.7833
+Bend, 40.2553, -122.2075
+Benicia, 38.0494, -122.1575
+Benito, 36.8217, -120.4353
+Benton, 37.8192, -118.4756
+Benton Crossing, 37.6992, -118.7631
+Benton Hot Springs, 37.8003, -118.5281
+Berenda, 37.0403, -120.1525
+Berg, 39.1808, -121.6264
+Berkeley, 37.8717, -122.2717
+Berkeley Highlands, 37.9000, -122.2833
+Bernal, 37.7500, -122.4333
+Berros, 35.0781, -120.5389
+Berry Creek, 39.6453, -121.4022
+Berry Glenn, 41.3175, -124.0400
+Berry Hill Estates, 33.7667, -118.3500
+Berryessa(Santa Clara), 37.3864, -121.8594
+Berryessa(Napa), 38.6667, -122.3167
+Berryessa Park, 38.3000, -122.3000
+Berteleda, 41.7667, -124.2000
+Bertram, 33.3736, -115.7756
+Bertsch Terrace, 41.7667, -124.2000
+Bestville, 41.3008, -123.1419
+Beswick, 41.9669, -122.2208
+Bethany, 37.7167, -121.4333
+Bethel Island, 38.0150, -121.6394
+Bethel Tract, 36.6167, -119.5167
+Betteravia, 34.9178, -120.5139
+Betteravia Junction, 34.9275, -120.5328
+Beulah Picnic Ground, 32.8489, -116.5497
+Beverly Glen, 34.1078, -118.4447
+Beverly Hills, 34.0736, -118.3994
+Beverly Hospital, 34.0150, -118.0997
+Bicknell, 34.8167, -120.3922
+Bieber, 41.1214, -121.1431
+Big Bar(Trinity), 40.7411, -123.2547
+Big Bar(Calaveras), 38.3119, -120.7189
+Big Basin, 37.1725, -122.2208
+Big Bear, 34.2000, -116.9667
+Big Bear City, 34.2611, -116.8442
+Big Bear Highlands, 34.2500, -116.8833
+Big Bear Lake, 34.2439, -116.9106
+Big Bear Pines, 34.2500, -116.8833
+Big Bear Pinewoods, 34.2500, -116.8833
+Big Bend(Butte), 39.6983, -121.4597
+Big Bend(Placer), 39.3056, -120.5169
+Big Bend(Sonoma), 41.0167, -121.9167
+Big Bend(Fresco), 38.2364, -122.4611
+Big Bunch, 36.7572, -119.5372
+Big Chief, 39.3333, -120.2000
+Big Creek, 37.2050, -119.2450
+Big Flat, 41.0000, -122.6833
+Big Lagoon, 41.1606, -124.1325
+Big Lagoon Park, 41.0667, -124.1333
+Big Meadow, 38.4150, -120.1142
+Big Oak Flat, 37.8236, -120.2572
+Big Pine(Bigpine P O), 37.1650, -118.2886
+Big Pine Indian Reservation, 37.1667, -118.2833
+Big Pines, 34.3789, -117.6892
+Big Rock Springs, 34.4353, -117.8347
+Big Springs, 41.5956, -122.4039
+Big Sur, 36.2703, -121.8064
+Big Trees(Calaveras), 38.2775, -120.3094
+Big Trees(Santa Cruz), 37.0500, -122.0667
+Big Valley, 41.0667, -121.1167
+Bigelow, 37.3353, -118.3133
+Biggs, 39.4125, -121.7117
+Biggs Gridley Memorial Hospital, 39.3675, -121.6906
+Bijou, 38.9467, -119.9675
+Bijou Park, 38.9494, -119.9578
+Binghamton, 38.3514, -121.8217
+Binney Junction, 39.1575, -121.5892
+Biola, 36.8022, -120.0153
+Biola Junction, 36.8008, -119.8678
+Birch Hill, 33.3333, -116.9167
+Birchville, 39.3278, -121.1433
+Birds Landing, 38.1328, -121.8697
+Birmingham General Hospital, 34.1922, -118.5053
+Bishop, 37.3636, -118.3942
+Bishop Acres, 35.5000, -119.2667
+Bishop Creek, 37.3667, -118.4000
+Bishop Indian Reservation, 37.3667, -118.4000
+Biskra Palms, 33.7900, -116.2522
+Bismarck, 34.9658, -116.8586
+Bissell, 34.9947, -118.0014
+Bitney Corner, 39.2319, -121.1078
+Bitterwater, 36.3803, -121.0017
+Bivalve, 38.0925, -122.8261
+Bixby, 33.8333, -118.1833
+Bixby Knolls, 33.8356, -118.1758
+Bixby Landing, 36.3722, -121.9058
+Bixler, 37.9403, -121.6211
+Black Butte, 41.3917, -122.3600
+Black Lands, 38.0575, -121.2417
+Black Meadow Landing, 34.3519, -114.1969
+Black Oaks, 38.8308, -122.8314
+Black Point, 38.1103, -122.5044
+Black Point Landing, 38.6794, -123.4272
+Blackslough Landing, 37.9944, -121.4178
+Blackwells Corner, 35.6150, -119.8669
+Blairsden, 39.7811, -120.6156
+Blakes Landing, 38.1944, -122.9183
+Blanchard, 37.7314, -120.3244
+Blanco(Monterey), 36.6786, -121.7417
+Blanco(Tulare), 36.0361, -119.5103
+Blavo, 39.5717, -121.7322
+Blocksburg, 40.2761, -123.6353
+Bloomfield, 38.3139, -122.8500
+Bloomfield Acres, 40.8667, -124.0833
+Bloomington, 34.0703, -117.3950
+Blossom Hill, 37.2500, -121.8500
+Blossom Valley, 37.3833, -122.0833
+Blue Canyon(Blue Canon P O), 39.2572, -120.7100
+Blue Hills, 37.2881, -122.0311
+Blue Jay, 34.2461, -117.2089
+Blue Lake, 40.8831, -123.9828
+Bluff Creek, 41.0500, -123.6667
+Blunkall Crossing, 40.1417, -121.8511
+Blunt, 40.2419, -122.2900
+Bly, 34.0000, -117.4333
+Blythe, 33.6103, -114.5956
+Boal, 32.6136, -117.0883
+Boards Crossing, 38.3044, -120.2331
+Bob Hoaglin Place, 40.0944, -123.3275
+Bob Rabbit Place(Site), 35.5661, -118.2808
+Boca, 39.3861, -120.0931
+Bodega, 38.3453, -122.9728
+Bodega Bay, 38.3333, -123.0469
+Bodfish, 35.5881, -118.4911
+Bodie, 38.2122, -119.0111
+Bogue, 39.0981, -121.6239
+Boiling Point, 34.5222, -118.2614
+Bolam, 41.5142, -122.2481
+Boles, 41.5392, -121.0581
+Bolinas, 37.9094, -122.6853
+Bollinger Place, 39.8436, -122.8786
+Bolsa, 33.7500, -117.9833
+Bolsa Knolls, 36.7339, -121.6369
+Bombay, 38.6869, -121.4792
+Bombay Beach, 33.2333, -115.5167
+Bonanza Springs, 38.8644, -122.6858
+Bonds Corner, 32.6936, -115.3364
+Bonetti, 38.6747, -120.4536
+Bonilla, 38.2781, -122.4367
+Bonita(Madera), 36.9525, -120.2008
+Bonita(San Diego), 32.6578, -117.0292
+Bonnefoy, 38.3606, -120.7500
+Bonnie Bell, 33.9492, -116.6428
+Bonnie Doon, 37.0417, -122.1494
+Bonnie View, 39.3825, -122.6839
+Bonnyview, 40.5333, -122.3833
+Bonsall, 33.2889, -117.2247
+Boonville, 39.0092, -123.3650
+Booth Crossing, 39.5028, -122.9917
+Booth Memorial Hospital, 37.7939, -122.2206
+Bootjack, 37.4650, -119.8856
+Borden, 36.9300, -120.0256
+Border City, 34.5000, -117.8333
+Boron, 34.9994, -117.6489
+Borosolvay, 35.7350, -117.4008
+Borrego, 33.2211, -116.3333
+Borrego Springs, 33.2558, -116.3742
+Boston Ravine, 39.2081, -121.0686
+Bostonia, 32.8075, -116.9356
+Boulder Bay, 34.2397, -116.9456
+Boulder Creek, 37.1261, -122.1211
+Boulder Oaks, 32.7317, -116.4839
+Boulder Park, 32.6589, -116.1000
+Boulevard, 32.6667, -116.2667
+Bouquet Junction, 34.4228, -118.5397
+Bourns Landing, 38.7850, -123.5617
+Bowerbank, 35.3994, -119.4075
+Bowles, 36.6042, -119.7500
+Bowling Green, 38.6000, -121.4333
+Bowman, 38.9419, -121.0464
+Bowman Place, 39.7894, -123.5617
+Box Springs, 33.9467, -117.2956
+Boyers Landing, 38.9517, -121.8381
+Boyes Hot Springs, 38.3139, -122.4808
+Boyle, 34.0667, -118.2167
+Boyle Heights, 34.0339, -118.2044
+Boys Republic, 33.9969, -117.7236
+Brackney, 37.0689, -122.0811
+Bracut, 40.8275, -124.0822
+Bradbury, 34.1469, -117.9700
+Bradford, 37.6667, -122.0833
+Bradley, 35.8633, -120.7997
+Bragur, 34.9353, -120.5456
+Brainard, 40.8122, -124.1092
+Bramlet Place, 40.2606, -123.1619
+Brandeis, 34.3500, -119.0667
+Brandon Corner, 38.5858, -120.9333
+Brandy City, 39.5378, -121.0242
+Branscomb, 39.6536, -123.6244
+Brant, 35.2917, -115.3697
+Brawley, 32.9786, -115.5294
+Bray, 41.6442, -121.9697
+Brazos, 38.2083, -122.3050
+Brea, 33.9167, -117.8992
+Brea Chem, 33.9169, -117.8683
+Bredehoft Place, 39.7828, -122.9383
+Brela, 38.5753, -120.9647
+Brents Junction, 34.1483, -118.6969
+Brentwood(Contra Costa), 37.9319, -121.6947
+Brentwood(Los Angeles), 34.0519, -118.4731
+Brentwood Heights, 34.0636, -118.4739
+Bretz Mill, 37.0375, -119.2389
+Briceburg, 37.6050, -119.9658
+Briceland, 40.1081, -123.8989
+Bridge Haven, 38.4336, -123.0997
+Bridge House, 38.5000, -121.2000
+Bridgehead, 38.0050, -121.7544
+Bridgeport(Mono), 38.2558, -119.2303
+Bridgeport(Nevada), 39.2917, -121.1936
+Bridgeport(Mariposa), 37.4333, -120.0033
+Bridgeport Landing(Site), 39.0628, -123.6939
+Bridgeville, 40.4694, -123.7986
+Briggs, 34.0667, -118.3667
+Briggs Terrace, 34.2408, -118.2258
+Brighton, 38.5494, -121.4161
+Briones, 37.9833, -122.2000
+Brisbane, 37.6808, -122.3989
+Bristol, 33.7500, -117.9167
+Brito, 36.9925, -120.7078
+Broadmoor, 37.6833, -122.4833
+Broadview Farms, 36.8219, -120.5058
+Broadview Sanitarium, 34.0967, -118.2003
+Broadway(San Mateo), 37.5833, -122.3667
+Broadway(Sacramento), 38.5500, -121.4833
+Broadway Hospital, 33.9497, -118.2769
+Broadwell, 34.8739, -116.1925
+Brockman, 40.9639, -120.4981
+Brockmans Corner, 37.3761, -118.4314
+Brockway, 39.2267, -120.0111
+Broderick, 38.5911, -121.5161
+Bromela, 35.0178, -120.5828
+Brookdale, 37.1064, -122.1050
+Brookhurst Center, 33.8167, -117.9833
+Brooks, 38.7417, -122.1469
+Brooks Mill, 41.2794, -120.3097
+Brookside Park, 37.4500, -122.1833
+Brown, 35.7736, -117.8492
+Browning, 33.7333, -117.8014
+Browns Corner, 38.6778, -121.8014
+Browns Flat, 38.0039, -120.3842
+Browns Valley, 39.2422, -121.4081
+Brownsville, 39.4733, -121.2681
+Bruce Crossing, 38.4617, -120.3767
+Bruceville, 38.3358, -121.4161
+Brush Creek, 39.6906, -121.3381
+Bryant, 33.8667, -118.1667
+Bryants, 38.7189, -120.4756
+Bryman, 34.6747, -117.3447
+Bryn Mawr, 34.0483, -117.2300
+Bryson, 35.8067, -121.0894
+Bryte, 38.5947, -121.5406
+Buchanan, 37.9147, -120.1875
+Buchli, 38.2150, -122.3317
+Buck Meadows, 37.8128, -120.0633
+Buckeye(El Dorado), 38.9239, -120.7969
+Buckeye(Plumas), 39.7956, -121.3031
+Buckeye(Shasta), 40.6436, -122.3964
+Buckhorn, 34.4008, -118.8147
+Buckingham Park, 39.0156, -122.7569
+Bucks Bar, 38.7333, -120.8000
+Bucks Lake, 39.9333, -120.9167
+Bucks Lodge, 39.8756, -121.1736
+Bucksport, 40.7753, -124.1911
+Bucktown, 38.3908, -122.0231
+Buellton, 34.6136, -120.1917
+Buena, 33.1733, -117.2078
+Buena Park, 33.8675, -117.9972
+Buena Vista(Mariposa), 37.7111, -119.7928
+Buena Vista(Sonoma), 38.2897, -122.4339
+Buena Vista(Amador), 38.2944, -120.9122
+Buena Vista(Tehama), 40.0556, -121.8664
+Buffalo Hill, 38.9086, -120.8464
+Buhach, 37.3364, -120.5808
+Bull Creek, 40.3358, -124.0253
+Bullard(El Dorado), 38.6092, -120.9603
+Bullard(Fresno), 36.8167, -119.8167
+Bullion, Mount, 37.5069, -120.0425
+Bullock's Fashion Square, 34.1500, -118.4333
+Bully Hill, 40.7978, -122.1919
+Bumblebee, 38.2264, -119.9961
+Bummerville, 38.4014, -120.5047
+Bunker, 38.3508, -121.7572
+Bunker Hill, 38.4267, -120.8272
+Buntingville, 40.2858, -120.4839
+Burbank(Santa Clara), 37.3233, -121.9306
+Burbank(Los Angeles), 34.1808, -118.3081
+Burbank Junction, 34.1853, -118.3172
+Burbeck, 39.4300, -123.4425
+Burdell, 38.1581, -122.5642
+Burke, 33.9833, -118.0833
+Burkett Acres, 37.9667, -121.2500
+Burkett Gardens, 37.9667, -121.2500
+Burlingame, 37.5842, -122.3650
+Burlingame Hills, 37.5833, -122.3667
+Burlington, 40.3086, -123.9081
+Burness, 36.7650, -119.6575
+Burney, 40.8825, -121.6597
+Burnham, 37.8919, -121.1478
+Burnt Ranch, 40.8092, -123.4731
+Burr, 36.2453, -119.1142
+Burrel, 36.4883, -119.9842
+Burrough, 37.0167, -119.4000
+Burson(Helisma Station), 38.1839, -120.8894
+Burton Mill, 35.5006, -118.4061
+Bush, 34.1500, -115.7022
+Butano Park, 37.2333, -122.3261
+Butler, 34.1325, -117.9644
+Butte City, 39.4647, -121.9889
+Butte Creek, 39.7333, -121.8333
+Butte Meadows, 40.0814, -121.5500
+Butte Saint Junction, 34.0181, -118.2308
+Butte Valley, 41.8333, -121.9667
+Buttonwillow, 35.4006, -119.4686
+Byron, 37.8672, -121.6369

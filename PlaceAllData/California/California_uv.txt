@@ -1,0 +1,170 @@
+U S Naval Hospital, 33.8167, -118.1667
+U S Naval Postgrad School, 36.6000, -121.8833
+Ueland Place(Site), 40.3131, -123.3956
+Ukiah, 39.1503, -123.2067
+Ulmar, 37.7031, -121.7150
+Ultra, 35.9642, -118.9975
+Una, 35.4244, -119.1769
+Underwood Park, 39.8600, -123.7158
+Union, 38.3214, -122.3089
+Union City(Alvarado), 37.5964, -122.0806
+Union Hill(Nevada), 39.2056, -121.0375
+Union Hill(Sierra), 39.5972, -121.0022
+Union Landing, 39.6994, -123.8006
+Union Mills, 39.3539, -120.1061
+United S Marine Hospital, 37.7886, -122.4736
+US Veterans Hospital(Long Beach), 33.7778, -118.1181
+US Veterans Hospital(Sepulveda), 34.2467, -118.4819
+US Veterans Hospital(San Fernando), 34.3261, -118.4169
+Universal City, 34.1389, -118.3525
+University City, 32.8547, -117.2031
+University Heights(San Diego), 32.7556, -117.1386
+University Heights(San Mateo), 37.4500, -122.1833
+University of Cal-Davis, 38.6167, -121.7167
+University of California Medical Center, 37.7625, -122.4569
+University of Santa Clara, 37.3500, -121.9667
+University Park, 33.6167, -117.9000
+Upland, 34.0975, -117.6475
+Upper Crossing, 41.8806, -122.1650
+Upper Forni, 38.8222, -120.1717
+Upper Lake, 39.1647, -122.9094
+Upper San Gabriel Valley, 34.1000, -118.0167
+Upper Scheelite, 37.3667, -118.4000
+Upper Soda Springs, 41.2167, -122.2667
+Upper Town, 38.3544, -119.1169
+Upton, 41.3411, -122.3469
+Uptown, 34.1333, -117.3000
+Urgon, 38.1581, -121.2706
+Uva, 36.6189, -119.4889
+Vacation, 38.5000, -123.0000
+Vacation Beach, 38.4897, -123.0122
+Vacaville, 38.3567, -121.9867
+Vacaville Junction, 38.2956, -121.9642
+Vade, 38.8167, -120.0500
+Val Verde(Los Angeles), 34.4450, -118.6567
+Val Verde(Riverside), 33.8483, -117.2531
+Val Verde Park, 34.4167, -118.5333
+Valdez, 38.3261, -121.6122
+Vale, 38.3203, -121.7844
+Valencia, 34.4436, -118.6086
+Valerie, 33.5689, -116.1794
+Valinda, 34.0453, -117.9428
+Valjean, 35.5856, -116.1239
+Valla, 33.9581, -118.0586
+Valle Vista(Riverside), 33.7478, -116.8925
+Valle Vista(Contra Costa), 37.8228, -122.1378
+Vallecito, 38.0872, -120.4719
+Vallejo, 38.1042, -122.2556
+Vallemar, 37.6136, -122.4797
+Valleton, 35.8894, -120.7047
+Valley Acres, 35.2061, -119.4058
+Valley Center, 33.2183, -117.0333
+Valley Convalescent Hospital, 34.0775, -118.1486
+Valley Crossing, 38.6997, -123.4125
+Valley Doctors Hospital, 34.1581, -118.4083
+Valley Fair, 37.3167, -121.9333
+Valley Ford, 38.3181, -122.9231
+Valley Home, 37.8289, -120.9111
+Valley Hospital, 36.7783, -119.7633
+Valley of Enchantment, 34.2467, -117.3039
+Valley of the Moon, 34.2333, -117.2833
+Valley Plaza, 34.0833, -118.3667
+Valley Springs, 38.1917, -120.8281
+Valley View Park, 34.2350, -117.3072
+Valley Village, 34.1667, -118.4000
+Valley Wells(San Bernardino), 35.4667, -115.2667
+Valley Wells(Inyo), 35.8283, -117.3308
+Valley Wells Station, 35.4347, -115.7014
+Valleydale, 34.1167, -117.9000
+Valona, 38.0522, -122.2233
+Valyermo, 34.4461, -117.8514
+Van Allen, 37.7983, -121.0514
+Van Duzen, 40.4667, -123.8000
+Van Ness, 33.9825, -118.3186
+Van Nuys, 34.1867, -118.4481
+Van Vleck, 38.7781, -120.5144
+Vance, 36.2242, -119.1025
+Vanden, 38.3500, -121.9833
+Vandenberg Air Force Base, 34.6833, -120.4833
+Vandenberg Village, 34.7000, -120.4833
+Vandenburg, 34.6833, -120.4833
+Vanderbilt, 35.3306, -115.2503
+Vanguard, 36.2553, -119.9581
+Vann, 39.2528, -122.9544
+Vanowen, 34.0833, -118.3667
+Vasona Junction, 37.2572, -121.9636
+Vasquez Crossing, 36.3178, -120.8536
+Vega, 34.1919, -118.3500
+Ven-tu Park, 34.1833, -118.9167
+Venado, 38.6056, -123.0069
+Venice, 33.9908, -118.4592
+Venida, 36.3328, -119.1292
+Venola, 35.3108, -119.0533
+Ventucopa, 34.8314, -119.4689
+Ventura, 34.2783, -119.2922
+Verano, 38.3028, -122.4739
+Verdant, 33.1175, -115.5581
+Verde, 35.1717, -120.5569
+Verdemont, 34.1933, -117.3642
+Verdi Sierra Pines, 39.5167, -119.9833
+Verdugo City, 34.2114, -118.2386
+Verdugo Viejo, 34.1667, -118.2500
+Vermont Avenue, 34.0833, -118.3000
+Vernalis, 37.6308, -121.2861
+Vernon, 34.0039, -118.2292
+Verona, 38.7861, -121.6175
+Verona Landing, 38.9000, -121.5833
+Vestal, 35.8397, -119.0839
+Veteran Heights, 38.5742, -122.4350
+Veterans Administration Hospital, 33.8167, -118.1667
+Veterans Bureau Hospital, 37.4000, -122.1500
+Veterans Home, 38.4000, -122.3667
+Veterans Hospital, 36.7731, -119.7764
+Vichy Springs(Medocino), 39.1669, -123.1569
+Vichy Springs(Napa), 38.3378, -122.2600
+Victor, 38.1381, -121.2050
+Victoria Park, 33.8833, -118.2833
+Victorville, 34.5361, -117.2903
+Victory Center Annex, 34.0833, -118.3667
+Victory Plams, 33.7056, -115.7511
+Vidal, 34.1189, -114.5094
+Vidal Junction, 34.1886, -114.5733
+View Park, 34.0000, -118.3417
+Viewland, 40.4303, -120.2792
+Viking, 33.8167, -118.1167
+Villa Grande, 38.4731, -123.0244
+Villa Montalvo, 37.2439, -122.0297
+Villa Park, 33.8144, -117.8122
+Villa Verona, 39.5000, -121.5500
+Villa View Hospital, 32.7494, -117.0769
+Village, 34.0667, -118.4333
+Villinger, 38.1442, -121.3725
+Vina, 39.9331, -122.0528
+Vincent, 34.5006, -118.1156
+Vincent Landing, 38.2194, -122.9408
+Vine Hill, 38.0086, -122.0950
+Vineburg, 38.2725, -122.4375
+Vineyard, 34.0833, -117.5167
+Vinland, 35.7150, -119.2339
+Vinton, 39.8044, -120.1772
+Vinvale, 33.9536, -118.1628
+Viola, 40.5181, -121.6767
+Virgilia, 40.0186, -121.1044
+Virginia Colony, 34.2878, -118.8575
+Virginiatown, 38.9006, -121.2136
+Virner, 38.9000, -120.8333
+Visalia, 36.3303, -119.2911
+Visitacion, 37.7167, -122.4167
+Vista, 33.2000, -117.2417
+Vista del Mar, 33.8189, -118.1978
+Vista del Morro, 35.3000, -120.7500
+Vista Grande, 37.6833, -122.4500
+Vista La Mesa, 32.7667, -117.0000
+Vista Park, 35.3500, -118.9833
+Vista Robles, 39.4208, -121.5514
+Volcano, 38.4431, -120.6297
+Volcanoville, 38.9819, -120.7881
+Vollmers, 40.9431, -122.4389
+Volta, 37.0975, -120.9250
+Vorden, 38.2772, -121.5400
+Voss, 38.6572, -120.3867

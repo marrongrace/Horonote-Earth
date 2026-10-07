@@ -1,0 +1,218 @@
+Gabilan, 36.7000, -121.5333
+Gabilan Acres, 36.7553, -121.6183
+Gale, 34.8561, -116.8414
+Galivan, 33.5694, -117.6731
+Gallinas, 38.0203, -122.5242
+Galt, 38.2547, -121.2989
+Ganns, 38.4044, -120.1581
+Ganser Bar, 40.0000, -121.2500
+Garberville, 40.1003, -123.7939
+Garden Acres, 37.9667, -121.2333
+Garden Farms, 35.4181, -120.6053
+Garden Gate Village, 37.3167, -122.0333
+Garden Grove, 33.7739, -117.9406
+Garden Park Memorial Hospital, 33.8186, -117.9664
+Garden Valley, 38.8542, -120.8583
+Garden Village, 37.6833, -122.4833
+Gardena, 33.8883, -118.3081
+Gardena Village, 37.6833, -122.4833
+Gardenland, 38.6111, -121.4739
+Garey, 34.8886, -120.3139
+Garfield, 35.6000, -118.5000
+Garlock, 35.4025, -117.7892
+Garnet, 33.9019, -116.5447
+Garvanza, 34.1164, -118.1794
+Gas Point, 40.4156, -122.5333
+Gasoline Alley, 38.9000, -121.0667
+Gasquet, 41.8456, -123.9683
+Gaston, 39.3942, -120.7406
+Gate Place(Site), 39.9292, -120.5767
+Gateley, 38.0072, -122.3089
+Gates, 38.3500, -121.9833
+Gateway(Los Angeles), 34.0000, -118.4000
+Gateway(Nebada), 39.3261, -120.2025
+Gato, 34.4575, -120.3767
+Gaviota, 34.4717, -120.2139
+Gazelle, 41.5208, -122.5192
+Geary, 37.7833, -122.4333
+Gemco, 34.2092, -118.4367
+Gene, 34.1667, -114.3000
+General Hospital(Riverside), 33.9181, -117.4533
+General Hospital(Los Angeles), 33.8033, -118.1511
+Genesee, 40.0431, -120.7528
+Genevra, 39.0700, -122.0906
+George, 34.5833, -117.3833
+George Air Force Base, 34.5833, -117.3667
+George Washington, 32.7500, -117.1500
+Georgetown, 38.9069, -120.8375
+Gepford, 36.3983, -119.8083
+Gerber, 40.0564, -122.1492
+Geyser Resort, 38.8000, -123.0167
+Geyserville, 38.7078, -122.9014
+Giant, 37.9906, -122.3561
+Gibson, 41.0119, -122.4078
+Gibsonville, 39.7403, -120.9078
+Giffen Cantua Ranch, 36.4747, -120.3914
+Gilberts, 38.6369, -120.4917
+Gillete, 36.1739, -119.0353
+Gillis(San Joaquin), 37.9342, -121.3819
+Gillis(Siskiyou), 41.9583, -122.0958
+Gilman Hot Springs, 33.8358, -116.9881
+Gilroy, 37.0058, -121.5672
+Gilroy Hot Springs, 37.0167, -121.5833
+Girvan, 40.5128, -122.3789
+Glacier Lodge, 37.1667, -118.2833
+Glamis, 32.9975, -115.0711
+Glasgow, 34.9836, -115.8689
+Glassell, 34.1167, -118.2333
+Glen Arbor, 37.0744, -122.0811
+Glen Avon, 34.0117, -117.4839
+Glen Avon Heights, 34.0167, -117.4833
+Glen Ellen, 38.3642, -122.5231
+Glen Frazer, 37.9983, -122.1617
+Glen Martin, 34.1500, -116.9833
+Glen Oaks, 32.8383, -116.8031
+Glen Valley, 33.8619, -117.3253
+Glenblair, 39.4578, -123.7242
+Glenbrook(Nevada), 39.2422, -121.0344
+Glenbrook(Lake), 38.8517, -122.7575
+Glenbrook Heights, 39.2167, -121.0667
+Glenburn, 41.0614, -121.4892
+Glencoe, 38.3542, -120.5839
+Glencove, 38.0686, -122.2058
+Glendale(Los Angeles), 34.1425, -118.2542
+Glendale(Humboldt), 40.9000, -124.0158
+Glendale Hospital and Sanitarium, 34.1511, -118.2286
+Glendale Junction, 34.0753, -118.2242
+Glendora, 34.1361, -117.8644
+Glenhaven, 39.0264, -122.7319
+Glenn, 39.5219, -122.0128
+Glennville, 35.7289, -118.7028
+Glenoaks, 34.1833, -118.3333
+Glenshire, 39.3333, -120.2000
+Glenview(Los Angeles), 34.1244, -118.6006
+Glenview(Lake), 38.9000, -122.7581
+Glenview(San Diego), 32.8322, -116.9050
+Glenwood, 37.1083, -121.9856
+Globe, 36.1011, -118.8272
+Globe Mill, 40.8844, -123.0228
+Glorietta, 37.8622, -122.1669
+Glorietta, 36.8378, -119.7086
+Goat Rock, 38.5817, -123.1203
+Goffs, 34.9192, -115.0619
+Gold Flat, 39.2461, -121.0233
+Gold Gulch, 37.0500, -122.0667
+Gold Hill, 38.9017, -121.1806
+Gold Run, 39.1808, -120.8547
+Golden Gate Race Track, 37.8833, -122.3167
+Golden Hills, 32.7333, -117.1167
+Golden Trout Crossing, 39.6075, -121.1506
+Goldleaf, 36.7222, -119.7169
+Goldstone, 35.2972, -116.9131
+Goldtree, 35.3219, -120.6814
+Goler Heights, 35.4269, -117.7450
+Goleta, 34.4358, -119.8267
+Goleta Valley, 34.4500, -119.8333
+Goleta Valley Hospital, 34.4353, -119.8075
+Gonzales, 36.5067, -121.4433
+Good Samaritan Hospital, 37.2519, -121.9453
+Goodale, 36.3781, -119.0433
+Goodmans Corner, 38.2050, -120.9861
+Goodmill, 36.7808, -119.0225
+Goodyears Bar, 39.5400, -120.8833
+Gorda, 35.9325, -121.4678
+Gordola, 36.9753, -122.1333
+Gordon, 36.8961, -119.7289
+Gorman, 34.7961, -118.8517
+Gosford, 35.3111, -119.0906
+Goshen, 36.3511, -119.4192
+Gottsville, 41.8675, -122.7400
+Government Island, 37.7833, -122.2667
+Grabtown, 37.4222, -122.3428
+Graeagle, 39.7664, -120.6175
+Graham, 33.9500, -118.2333
+Graham Place, 40.4267, -123.4069
+Graino, 39.0358, -121.9611
+Granada Hills, 34.2647, -118.5222
+Grand Avenue, 33.9167, -117.7333
+Grand Central, 34.1667, -118.2667
+Grand Island, 39.0661, -121.8672
+Grand Lake, 37.8167, -122.2333
+Grand Terrace, 34.0339, -117.3128
+Grandview, 34.8900, -117.1058
+Grandview Sanitarium, 34.0100, -118.0483
+Grandview-Palos Verdes, 33.7667, -118.3500
+Grangeville, 36.3436, -119.7078
+Granite Bay Vista, 38.7500, -121.2833
+Granite Springs, 37.7011, -120.2947
+Graniteville, 39.4408, -120.7386
+Grant, 38.5903, -122.8467
+Grantville, 32.7875, -117.0964
+Grape, 34.0981, -117.4633
+Grapeland, 34.1250, -117.5617
+Grapevine, 34.9269, -118.9250
+Grapevine Crossing, 40.1061, -121.7794
+Grapit, 39.6811, -122.1931
+Grass Flat, 39.6758, -120.9342
+Grass Lake, 41.6350, -122.1903
+Grass Valley, 39.2192, -121.0600
+Grass Valley Memorial Hospital, 39.2333, -121.0542
+Graton, 38.4364, -122.8686
+Gravenstein, 38.4047, -122.8067
+Gravesboro, 36.7731, -119.4106
+Grays Crossing, 38.5919, -119.6558
+Grays Flat, 40.0178, -121.0625
+Grayson, 37.5639, -121.1783
+Greeley, 35.3500, -118.9833
+Green, 34.0000, -118.2833
+Green Brae, 37.9486, -122.5236
+Green Hospital, 37.7875, -122.4264
+Green Valley, 34.6217, -118.4131
+Green Valley Estates, 38.2333, -122.0333
+Green Valley Lake, 34.2408, -117.0764
+Greenacres, 35.3833, -119.1089
+Greenbrook, 37.8333, -122.0000
+Greendale, 38.3736, -121.5850
+Greenfield, 36.3208, -121.2428
+Greenfield(Delkern P O), 35.2689, -119.0019
+Greenmead, 33.9333, -118.2500
+Greenspot, 34.0833, -117.1333
+Greenview, 41.5508, -122.9044
+Greenview Acres, 40.8667, -124.0833
+Greenville(Plumas), 40.1397, -120.9500
+Greenville(Yuba), 39.4367, -121.1764
+Greenwater, 36.1794, -116.6156
+Greenwich Village, 34.1814, -118.8636
+Greenwood(Glenn), 39.6961, -122.1933
+Greenwood(El Dorado), 38.8967, -120.9117
+Gregg, 36.8817, -119.9358
+Grenada, 41.6472, -122.5189
+Gridley, 39.3639, -121.6925
+Griffin Place, 39.9694, -122.7853
+Griffith, 34.1000, -118.2667
+Grimes, 39.0744, -121.8928
+Griminger, 38.7197, -120.4092
+Grizzlie Place, 41.9011, -120.6394
+Grizzly Flat, 38.6364, -120.5264
+Grossmont, 32.7783, -116.9875
+Grossmont Hospital, 32.7806, -117.0058
+Grove, 39.4369, -123.6583
+Grove Highlands, 36.6167, -121.9333
+Groveland, 37.8383, -120.2317
+Grover City, 35.1217, -120.6203
+Guadalcanal Village, 38.1186, -122.2928
+Guadalupe, 34.9717, -120.5708
+Gualala, 38.7658, -123.5269
+Guasti, 34.0650, -117.5856
+Guatay, 32.8489, -116.5564
+Guerneville, 38.5019, -122.9950
+Guernewood, 38.4928, -123.0139
+Guernewood Park, 38.4969, -123.0114
+Guernsey, 36.2131, -119.6400
+Guernsey Mill, 35.8342, -118.6156
+Guild, 38.1453, -121.2425
+Guinda, 38.8292, -122.1928
+Gulf, 35.1794, -119.1592
+Gum, 34.9200, -120.5206
+Gustine, 37.2578, -120.9978
+Gypsite, 35.3311, -117.9303

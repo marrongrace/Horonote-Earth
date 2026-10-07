@@ -1,0 +1,120 @@
+Kadota, 37.2950, -120.4111
+Kaiser, 34.0939, -117.4881
+Kaiser Center, 37.8000, -122.2667
+Kaiser HospitalSacramento), 38.6028, -121.3914
+Kaiser Hospital(San Bernardino), 34.0733, -117.4325
+Kaiser Hospital(Santa Clara), 37.3411, -121.9775
+Kaiser Hospital(Alameda), 37.6306, -122.0939
+Kaiser's Eagle Mountain, 33.8500, -115.4833
+Kalina, 41.9953, -121.4192
+Kamp Klamath, 41.5333, -124.0333
+Kanawyers, 36.7953, -118.5839
+Kandra, 41.8261, -121.3989
+Kane Spring, 33.1092, -115.8353
+Karlo, 40.5506, -120.3144
+Karnak, 38.7850, -121.6544
+Katella Hospital, 33.8014, -117.9958
+Kathryn, 33.7042, -117.7525
+Kaweah, 36.4697, -118.9175
+Kayandee, 35.3475, -118.9942
+Kearny Mesa, 32.8167, -117.1500
+Kearsarge, 36.8069, -118.1164
+Kecks Corner, 35.6708, -120.0808
+Keddie, 40.0150, -120.9600
+Keeler, 36.4872, -117.8731
+Keenbrook, 34.2494, -117.4567
+Keene, 35.2236, -118.5614
+Keene Summit, 39.2667, -123.5833
+Kegg, 41.6894, -121.9858
+Keith, 34.3942, -118.9592
+Kekawaka, 40.0956, -123.5181
+Keller Place, 39.7156, -122.9067
+Kellog, 38.5833, -122.5833
+Kellogg, 38.6322, -122.6728
+Kelsey, 38.7989, -120.8197
+Kelseyville, 38.9781, -122.8383
+Kelso, 35.0125, -115.6528
+Kennedy Meadow, 37.9833, -120.3833
+Kenny, 39.9219, -123.8975
+Kensington(San Diego), 32.7667, -117.1000
+Kensington(Contra Costa), 37.9106, -122.2792
+Kent Woodlands, 37.9667, -122.5167
+Kentfield, 37.9522, -122.5561
+Kenton Mill, 34.6397, -116.3544
+Kentwood-in-the-Pines, 33.0717, -116.5747
+Kenwood, 38.4139, -122.5450
+Keough Hot Springs, 37.2547, -118.3761
+Kephart, 41.5892, -121.3131
+Kerens, 34.9664, -115.8058
+Kerman, 36.7236, -120.0589
+Kern City, 35.3539, -119.0725
+Kern Homes, 35.4000, -119.0333
+Kern Lake, 35.1400, -119.0739
+Kernell, 35.7569, -119.3431
+Kernvale, 35.6500, -118.4667
+Kernville, 35.7547, -118.4244
+Kester, 34.2000, -118.4500
+Keswick, 40.6225, -122.4647
+Kett, 40.6072, -122.4628
+Kettenpom, 40.1575, -123.4597
+Kettleman, 38.1161, -121.2422
+Kettleman City, 36.0083, -119.9608
+Kettleman Station, 35.9989, -119.9628
+Kevet, 34.3622, -119.0394
+Keyes, 37.5567, -120.9144
+Keyesville, 35.6258, -118.5100
+Keystone, 33.8253, -118.2794
+Keystone, 37.8353, -120.5067
+Kibesillah, 39.5903, -123.7767
+Kiesel, 38.6631, -121.6156
+Kilaga Springs, 38.9711, -121.2469
+Kilkare Woods, 37.6283, -121.9111
+Kilowatt, 35.3989, -119.4464
+Kimball, 34.2567, -119.1883
+Kincaid, 34.1286, -117.9347
+King, 33.7667, -117.8833
+King City, 36.2128, -121.1250
+King Farms, 38.7267, -121.6903
+King Salmon, 40.7394, -124.2175
+Kings Beach, 39.2378, -120.0256
+Kings Canyon National Park, 36.7333, -118.9667
+Kings County General Hospital, 36.3289, -119.6636
+Kings View Hospital, 36.5661, -119.4750
+Kingsburg, 36.5139, -119.5531
+Kingsville, 38.6767, -120.8747
+Kingvale, 39.3211, -120.4278
+Kinyon, 41.2714, -121.8931
+Kirkville, 38.9089, -121.7917
+Kirkwood(Alpine), 38.7028, -120.0717
+Kirkwood(Glenn), 39.8553, -122.1608
+Kiska, 40.0683, -122.1594
+Kismet, 37.0472, -120.0925
+Kister, 39.8222, -121.3622
+Kit Carson, 38.6833, -120.1167
+Kiva Beach, 38.9406, -120.0500
+Klamath, 41.5267, -124.0372
+Klamath Glen, 41.5128, -123.9928
+Klamath River(P O), 41.8614, -122.8217
+Klau, 35.6253, -120.8906
+Klinefelter, 34.9006, -114.7661
+Klondike, 34.6683, -116.0022
+Klondike Mine, 40.4003, -123.3908
+Kneeland, 40.7614, -123.9936
+Knights Ferry, 37.8197, -120.6711
+Knights Landing, 38.7997, -121.7172
+Knightsen, 37.9689, -121.6669
+Knob, 40.3889, -122.9869
+Knollwood Hospital, 33.9622, -117.3942
+Knowles, 37.2200, -119.8731
+Knowles Corner, 38.3525, -122.8142
+Knowles Junction, 37.2028, -119.9081
+Knoxville, 38.8278, -122.3394
+Komandorski Village, 37.7161, -121.9078
+Korbel(Sonoma), 38.5078, -122.9633
+Korbel(Humboldt), 40.8706, -123.9572
+Korblex, 40.9036, -124.0703
+Kramer Hills, 34.9208, -117.4678
+Kramer Junction, 34.9925, -117.5408
+Kramm, 39.5531, -121.5836
+Krug, 38.5181, -122.4806
+Kyburz, 38.7747, -120.2958

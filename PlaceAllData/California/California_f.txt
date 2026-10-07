@@ -1,0 +1,248 @@
+Facht Place, 40.2425, -121.9622
+Fagan, 39.3361, -121.6825
+Fair Oaks(Sacramento), 38.6447, -121.2711
+Fair Oaks(San Joaquin), 37.9553, -121.2575
+Fair Oaks(San Luis Obispo), 35.1167, -120.5833
+Fair Play, 38.5936, -120.6594
+Fairbanks, 38.8658, -120.6692
+Fairfax, 37.9872, -122.5878
+Fairfield, 38.2494, -122.0389
+Fairhaven, 40.7853, -124.2017
+Fairmead, 37.0764, -120.1919
+Fairmont, 34.7347, -118.4239
+Fairmont Hospital, 37.7083, -122.1164
+Fairmont Terrace, 37.7167, -122.1500
+Fairmount, 37.9167, -122.3000
+Fairview(Alameda), 37.6667, -122.0500
+Fairview(Fresno), 36.7000, -119.5500
+Fairview(Tulare), 35.9258, -118.4939
+Fairview(Ventura), 34.3153, -118.9139
+Fairview(Orange), 33.6833, -117.9000
+Fairview(Stanislaus), 37.6333, -120.9833
+Fairview State Hospital, 33.6633, -117.9233
+Fairville, 38.1781, -122.4444
+Fales Hot Springs, 38.3511, -119.3992
+Falk, 40.7833, -124.1667
+Fall River Mills, 41.0047, -121.4372
+Fallbrook, 33.3764, -117.2503
+Fallen Leaf, 38.8831, -120.0717
+Falling Springs, 34.3017, -117.8383
+Fallon, 38.2747, -122.9047
+Fallrock Junction, 33.2233, -117.3933
+Fallsvale, 34.1000, -116.9500
+Famoso, 35.5981, -119.2072
+Fancher, 36.7333, -119.7500
+Fane, 36.3700, -119.1336
+Farley, 39.6147, -123.3661
+Farmers Market, 34.0667, -118.3500
+Farmersville, 36.2978, -119.2058
+Farmington, 37.9300, -120.9992
+Farr, 33.1303, -117.3286
+Farwell, 37.5983, -121.9442
+Fashion Square La Habra, 33.9333, -117.9333
+Favinger Place, 40.0447, -121.9764
+Fawnskin, 34.2681, -116.9417
+Fayette, 36.2019, -119.0639
+Feather Falls, 39.5933, -121.2553
+Feather River Inn, 39.7833, -120.6167
+Feather River Park, 39.7783, -120.6286
+Federal, 34.1000, -117.8833
+Federal Building(San Francisco), 37.7833, -122.4333
+Federal Building(Ventura), 34.2000, -119.1667
+Federal Terrace, 38.1167, -122.2333
+Felix, 38.0283, -120.7147
+Fellows, 35.1786, -119.5403
+Felton, 37.0514, -122.0722
+Felton Grove, 37.0500, -122.0667
+Femmons, 37.9383, -120.0214
+Fenner, 34.8158, -115.1783
+Fergus, 37.3194, -120.5372
+Fern, 40.6883, -121.9306
+Fern Ann Falls, 34.2847, -118.6156
+Fern Valley, 33.7586, -116.6972
+Fernbridge, 40.6164, -124.2000
+Fernbrook, 32.9681, -116.9108
+Ferndale, 40.5764, -124.2628
+Fernwood(Los Angeles), 34.0794, -118.6017
+Fernwood(Humboldt), 40.8692, -123.8494
+Ferrum, 33.4586, -115.8600
+Fetters Hot Springs, 38.3200, -122.4850
+Fiddlers Green, 39.7289, -122.7142
+Fiddletown, 38.5039, -120.7544
+Fieldbrook, 40.9658, -124.0344
+Fields Landing, 40.7247, -124.2139
+Fig Garden, 36.8000, -119.8000
+Fig Orchard, 35.3086, -118.5817
+Figarden, 36.8228, -119.8614
+Figueroa, 34.1833, -118.1333
+Fillmore, 34.3992, -118.9172
+Finley, 39.0044, -122.8744
+Finley Place, 40.2933, -121.7919
+Fire Mountain, 40.3167, -121.5333
+Firebaugh, 36.8589, -120.4550
+Firebrick, 38.3344, -120.9242
+Firestone, 33.9333, -118.1833
+Firestone Park, 33.9631, -118.2317
+First Street, 33.2000, -117.3333
+Fish Camp, 37.4786, -119.6394
+Fish Rock, 38.8050, -123.5842
+Fish Springs, 37.0750, -118.2528
+Fishel, 34.3125, -115.2414
+Fisher(Humboldt), 40.9417, -124.1172
+Fisher(Shasta), 41.0364, -122.3922
+Fisher Place, 38.2353, -120.4497
+Fisk, 37.7667, -122.4667
+Fitchburg, 37.7667, -122.1833
+Five Brooks, 38.0011, -122.7567
+Five Corners, 37.8269, -121.1431
+Five Mile Terrace, 38.7383, -120.7119
+Five Points(Fresno), 36.4294, -120.1019
+Five Points(Kern), 35.0514, -118.5117
+Five Points(Los Angeles), 34.0622, -118.0183
+Five Points(Plumas), 39.8711, -120.5714
+Five Points(San Diego), 32.7431, -117.1839
+Five Points(Solano), 38.2908, -121.6433
+Flamingo Heights, 34.2406, -116.4381
+Fleener Place, 41.8478, -121.5894
+Fleet, 32.7500, -117.1500
+Fleetridge, 32.7278, -117.2472
+Fleta, 35.0033, -118.1572
+Fletcher, 41.4458, -120.7533
+Fletcher Place, 41.7375, -120.5136
+Flinn Springs, 32.8000, -116.9500
+Flintridge, 34.1864, -118.1867
+Flonellis, 38.5694, -120.9636
+Florence, 33.9744, -118.2472
+Florin, 38.4961, -121.4078
+Florin Crossing, 41.1847, -121.6308
+Floriston, 39.3947, -120.0203
+Flosden Acres, 38.1364, -122.2511
+Flournoy, 39.9206, -122.4350
+Flower Village, 35.3833, -118.9833
+Fluhr, 37.3628, -120.5767
+Flumeville, 38.9294, -123.7086
+Fly in Acres, 38.2500, -120.3500
+Flynn, 34.9786, -115.7314
+Folsom, 38.6781, -121.1750
+Folsom Junction, 38.6683, -121.1811
+Fondo, 33.1114, -115.6236
+Fontana, 34.0922, -117.4342
+Foote Crossing, 39.4169, -120.9506
+Foothill Center, 34.1167, -117.9000
+Foothill Farms, 38.6764, -121.3353
+Foppiano, 38.0219, -121.2403
+Forbestown, 39.5172, -121.2661
+Ford City, 35.1544, -119.4553
+Forebay, 39.2367, -120.7356
+Forest, 39.4914, -120.8519
+Forest Falls, 34.0858, -116.9092
+Forest Glen, 40.3733, -123.3242
+Forest Hills, 38.5081, -122.9233
+Forest Home(Amador), 38.4833, -120.8500
+Forest Home(San Bernardino), 34.1000, -116.9500
+Forest Knolls, 38.0153, -122.6875
+Forest Lake(San Joaquin), 38.1667, -121.2167
+Forest Lake(Lake), 38.8181, -122.7167
+Forest Park(Los Angeles), 34.4472, -118.4278
+Forest Park(Santa Cruz), 37.1167, -122.1167
+Forest Ranch, 39.8822, -121.6717
+Forest Springs(Nevada), 39.2167, -121.0667
+Forest Springs(Santa Cruz), 37.1389, -122.1478
+Foresta, 37.6983, -119.7542
+Foresthill, 39.0203, -120.8169
+Forestville, 38.4736, -122.8892
+Forks of Salmon, 41.2667, -123.3167
+Fornis, 38.8925, -120.8603
+Fort Baker, 37.8667, -122.5000
+Fort Barry, 37.8667, -122.5000
+Fort Bidwell, 41.8606, -120.1503
+Fort Bidwell Indian Reservation, 41.8667, -120.2000
+Fort Bragg, 39.4458, -123.8042
+Fort Bragg Landing, 39.4406, -123.8133
+Fort Cronkhite, 37.8667, -122.5000
+Fort Dick, 41.8681, -124.1478
+Fort Goff, 41.8622, -123.2556
+Fort Independence Indian Reseration, 36.8500, -118.2167
+Fort Irwin, 35.2500, -116.7000
+Fort Jones, 41.6078, -122.8392
+Fort Macarthur, 33.7333, -118.3000
+Fort McDowell, 37.8628, -122.4217
+Fort Mohave Indian Reservation, 35.0333, -114.6333
+Fort Ord, 36.6333, -121.7667
+Fort Ord Village, 36.6167, -121.8333
+Fort Orford, 34.4703, -120.2275
+Fort Piute, 35.1150, -114.9844
+Fort Romie, 36.4003, -121.3453
+Fort Rosecrans, 32.6842, -117.2453
+Fort Ross, 38.5142, -123.2425
+Fort Scott, 37.8017, -122.4725
+Fort Seward, 40.2231, -123.6422
+Fort Sutter, 38.5667, -121.4667
+Fort Yuma, 32.7333, -114.6333
+Fort Yuma Indian Reservation, 32.7333, -114.6333
+Fortuna, 40.5983, -124.1561
+Foster(San Diego), 32.9083, -116.9253
+Foster(Siskiyou), 41.2539, -122.9578
+Foster City, 37.5586, -122.2700
+Foster Memorial Hospital, 34.2750, -119.2572
+Fountain Place, 38.8511, -119.9331
+Fountain Springs, 35.8911, -118.9147
+Fountain Valley, 33.7092, -117.9528
+Four Corners(Contra Costa), 37.9564, -122.0383
+Four Corners(San Bernardino), 34.1833, -116.0667
+Four Corners(San Diego), 32.9778, -116.7764
+Four Corners(Sonoma), 38.2758, -122.4597
+Four Pines, 39.6100, -123.0117
+Four Points, 34.5425, -118.0292
+Fourth Crossing, 38.1314, -120.6336
+Fouts Springs, 39.3533, -122.6639
+Fowler, 36.6306, -119.6775
+Foy, 34.0000, -118.2667
+Frances, 33.7119, -117.7636
+Franciscan Park, 37.7000, -122.4667
+Franklin(Sacramento), 38.3792, -121.4533
+Franklin(Napa), 38.3000, -122.3000
+Frazier Park, 34.8228, -118.9439
+Fraziers Landing, 39.0050, -121.8181
+Freda, 34.1022, -114.9097
+Fredalba, 34.2017, -117.1314
+Fredericksburg, 38.8289, -119.7858
+Freedom, 36.9353, -121.7719
+Freeman Hospital, 33.9667, -118.3442
+Freeman Junction, 35.6017, -117.9019
+Freemans Crossing, 39.3889, -121.0844
+Freeport, 38.4619, -121.5006
+Freestone, 38.3725, -122.9144
+Fremont(Alameda), 37.5483, -121.9875
+Fremont(San Bernardino), 35.1917, -117.5758
+Fremont(Yolo), 38.6767, -121.6339
+Fremont Landing(Site), 38.7828, -121.6178
+French Camp, 37.8842, -121.2700
+French Corral, 39.3061, -121.1603
+French Gulch, 40.7008, -122.6372
+French Hospital(San Francisco), 37.7800, -122.4628
+French Hospital(Los Angeles), 34.0653, -118.2383
+Frenchtown(El Dorado), 38.6414, -120.9103
+Frenchtown(Yuba), 39.3881, -121.2539
+Fresh Pond, 38.7603, -120.5289
+Freshwater, 40.7617, -124.0606
+Freshwater Corners, 40.7856, -124.0842
+Fresno, 36.7478, -119.7714
+Fresno Crossing, 37.2372, -119.7742
+Fresno Hospital, 36.7778, -119.7789
+Friant, 36.9878, -119.7108
+Friend Place, 40.4858, -123.3625
+Friendly Hills(San Bernardino), 34.1333, -116.3167
+Friendly Hills(Los Angeles), 33.9536, -118.0028
+Frink, 33.3625, -115.6472
+Frost, 34.5108, -117.2767
+Fruitland, 40.2958, -123.8242
+Fruitridge Manor, 38.5250, -121.4411
+Fruitvale(Alameda), 37.7833, -122.2167
+Fruitvale(Kern), 35.3833, -119.0822
+Fruto, 39.5900, -122.4489
+Frying Pan, 40.0842, -122.9775
+Fuller, 32.8603, -115.4053
+Fuller Acres, 35.3000, -118.9108
+Fullerton, 33.8703, -117.9244
+Fulton, 38.4964, -122.7689

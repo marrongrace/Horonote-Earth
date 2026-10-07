@@ -1,0 +1,230 @@
+Daggett, 34.8633, -116.8872
+Dagon, 38.3447, -120.9603
+Dairy Valley, 33.8583, -118.0639
+Dairyland, 37.0183, -120.3094
+Dairyville, 40.1300, -122.1200
+Dales, 40.3139, -122.0706
+Dalewood, 33.7833, -117.9833
+Daley Mill, 35.3386, -117.9314
+Dalton, 41.9364, -121.4183
+Daly City, 37.7203, -122.5258
+Dameron Hospital, 37.9619, -121.2997
+Dan Ryan Place, 41.1497, -120.8161
+Dana, 41.1117, -121.5636
+Dana Point, 33.4669, -117.6972
+Danby, 34.6356, -115.3472
+Danielson, 38.2383, -122.1039
+Dantoni, 39.1650, -121.5153
+Dantuma Place, 40.2936, -121.7989
+Danville, 37.8217, -121.9989
+Daphnedale Park, 41.5092, -120.5439
+Dardanelle, 38.3411, -119.8328
+Darlington, 38.7292, -120.4006
+Darlingtonia, 41.8364, -123.9419
+Darrah, 37.5181, -119.8342
+Darwin, 36.2681, -117.5908
+Darwin Mines, 36.2772, -117.5961
+Date City, 32.7931, -115.3092
+Daulton, 37.1192, -119.9811
+Davenport, 37.0117, -122.1908
+Davenport Landing, 37.0244, -122.2147
+Davis, 38.5450, -121.7394
+Davis Creek, 41.7333, -120.3708
+Dawson Place, 39.9239, -122.7064
+Day, 41.2117, -121.3753
+Dayton, 39.6486, -121.8711
+Dayton Avenue, 34.0839, -118.2217
+Daywalt, 38.4000, -122.8333
+Deacon Lee Place, 41.4808, -122.9281
+Deadman Crossing, 40.1575, -122.5811
+Deadwood(Butte), 39.7425, -121.5236
+Deadwood(Trinity), 40.7194, -122.7325
+Deadwood(Tuolumne), 38.0042, -120.1072
+Dean Place, 39.2233, -121.7800
+Deane Brothers Subdivision, 34.4167, -118.5333
+Dearborn Park, 37.2589, -122.3169
+Death Valley, 36.4500, -116.8667
+Death Valley Junction, 36.3022, -116.4128
+Debon, 41.4333, -122.3833
+Declezville, 34.0444, -117.4806
+Decoto, 37.6000, -122.0167
+Dedrick, 40.8628, -123.0356
+Deep Springs, 37.3717, -117.9842
+Deer Creek, 40.2600, -121.3919
+Deer Creek Colony, 35.9783, -118.9992
+Deer Creek Crossing, 40.0542, -121.7831
+Deer Crossing, 36.6900, -119.0478
+Deer Lake Highlands, 34.2839, -118.5958
+Deer Lick Springs, 40.3667, -122.8833
+Deer Park, 38.5333, -122.4667
+Deer View, 38.8433, -120.6667
+Deetz, 41.3581, -122.3822
+DeHaven, 39.6603, -123.7839
+Del Aire, 33.9167, -118.3667
+Del Cerro, 32.7833, -117.0667
+Del Dios, 33.0728, -117.1183
+Del Mar(San Diego), 32.9594, -117.2644
+Del Mar(Santa Cruz), 36.9833, -122.0000
+Del Mar Heights(San Diego), 32.9483, -117.2600
+Del Mar Heights(San Luis Obispo), 35.3667, -120.8500
+Del Mar Landing, 38.7411, -123.5047
+Del Mar Race Track, 32.9833, -117.2667
+Del Mesa, 37.9667, -122.5167
+Del Monte Center, 36.6000, -121.8833
+Del Monte Forest, 36.5833, -121.9333
+Del Monte Heights, 36.6117, -121.8311
+Del Monte Park, 36.6167, -121.9333
+Del Paso, 38.6528, -121.4722
+Del Paso Heights, 38.6361, -121.4192
+Del Puerto Hospital, 37.4669, -121.1339
+Del Rey, 36.6592, -119.5928
+Del Rey Oaks, 36.5933, -121.8339
+Del Rio Woods, 38.6231, -122.8383
+Del Rosa, 34.1489, -117.2425
+Del Sur, 34.6897, -118.2878
+Del Valle, 34.4194, -118.6556
+Delano, 35.7689, -119.2461
+Delevan(P O), 39.3542, -122.1900
+Delft Colony, 36.5119, -119.4450
+Delhi, 37.4322, -120.7775
+Delkern, 35.3500, -119.0500
+Delleker, 39.8089, -120.4969
+DelLoma, 40.7786, -123.3311
+Delmonico Place, 39.9756, -123.3172
+Delmonte, 36.6008, -121.8681
+Delphos, 39.1903, -122.1689
+Delta(Los Angeles), 33.9197, -118.3208
+Delta(Shasta), 40.9444, -122.4236
+Delta(San Joaquin), 38.2167, -121.5500
+DeLuz, 33.3589, -117.2700
+Democrat Hot Springs, 35.3833, -119.0167
+Demuth, 41.3378, -121.2650
+Denair, 37.5264, -120.7958
+Denis, 34.6261, -118.1242
+Denny, 40.9442, -123.3856
+Denverton, 38.2247, -121.8964
+Derby Acres, 35.2472, -119.5944
+Des Moines, 33.9319, -117.9669
+DeSabla, 39.8739, -121.6017
+Descanso, 32.8528, -116.6150
+Descanso Junction, 32.8411, -116.6119
+Desert, 35.4667, -115.2667
+Desert Beach, 33.5128, -115.9264
+Desert Camp, 33.5336, -115.9825
+Desert Center, 33.7125, -115.4014
+Desert Heights, 34.2011, -116.1408
+Desert Hot Springs, 33.9611, -116.5008
+Desert Lake, 35.0025, -117.6981
+Desert Lodge, 33.2106, -116.3264
+Desert Shores, 33.6500, -116.1500
+Desert View, 33.8014, -116.6400
+Desert View Highlands, 34.6000, -118.1500
+Devils Den, 35.7667, -119.9667
+Devils Elbow, 39.3458, -122.4278
+Devon, 34.8419, -120.5183
+Devore, 34.2164, -117.4006
+Devore Heights, 34.2372, -117.4147
+Dew Drop, 39.0872, -121.0856
+Dewitt State Hospital, 38.9383, -121.1031
+Di Giorgio, 35.2528, -118.8506
+Diablo, 37.8350, -121.9569
+Diablo Range, 37.0833, -121.4167
+Diamond, 33.7333, -117.9000
+Diamond Bar, 34.0286, -117.8094
+Diamond Crossing, 39.1097, -120.2900
+Diamond Heights, 37.7500, -122.4333
+Diamond Springs, 38.6947, -120.8139
+Diamond Springs Heights, 38.7000, -120.8167
+Dibble Place, 41.1894, -120.8958
+Dillard, 38.4014, -121.2558
+Dillon Beach, 38.2508, -122.9642
+Dimond, 37.8000, -122.2167
+Dinkey Creek, 37.0861, -119.1567
+Dinsmore, 40.4917, -123.6058
+Dinsmores, 40.7200, -123.7378
+Dinuba, 36.5433, -119.3861
+Dirigo, 41.1494, -122.3094
+Ditch Camp Five, 38.7653, -120.5472
+Dixie, 40.9442, -121.1708
+Dixie Crossing, 40.8872, -121.1153
+Dixieland, 32.7908, -115.7694
+Dixon, 38.3239, -121.8211
+Dobbins, 39.3717, -121.2050
+Doble, 34.2986, -116.8208
+Dockweiler, 34.0333, -118.3167
+Doctors Hospital(San Diego), 32.7486, -117.2206
+Doctors Hospital(Orange), 33.7622, -117.8906
+Doctors Hospital(Stanislaus), 37.6647, -120.9967
+Doghouse Junction, 32.6003, -116.8403
+Dogtown(Mariposa), 37.7022, -120.1269
+Dogtown(San Joaquin), 38.2139, -121.0875
+Dogtown(Glenn), 39.5886, -122.7117
+Doheny Park, 33.4667, -117.6667
+Dolanco Junction, 33.8450, -118.2992
+Dollar Ranch, 37.8833, -122.0500
+Dolomite, 36.5531, -117.9444
+Dolores, 33.8331, -118.2256
+Domineguez Valley Hospital, 33.8714, -118.2056
+Dominguez, 33.8347, -118.2178
+Dominguez Junction, 33.8633, -118.2169
+Don Pedro Camp, 37.6667, -120.4667
+Donlon, 34.2000, -119.1667
+Donner, 39.3667, -120.3000
+Donner Lake, 39.3333, -120.2000
+Dora Belle, 37.1128, -119.3200
+Dorr Place, 38.6206, -123.0906
+Dorrington, 38.3014, -120.2761
+Dorris, 41.9675, -121.9169
+Dos Cabezas, 32.7458, -116.1394
+Dos Palmas Corners, 33.9247, -116.5011
+Dos Palos, 36.9861, -120.6256
+Dos Palos Y, 37.0489, -120.6344
+Dos Rios, 39.7169, -123.3522
+Douds Landing, 38.2128, -120.3244
+Dougherty(San Joaquin), 38.1625, -121.2422
+Dougherty(Alameda), 37.7111, -121.9086
+Douglas, 34.0167, -118.4667
+Douglas City, 40.6522, -122.9436
+Douglas Flat, 38.1144, -120.4539
+Douglas Junction, 33.8558, -118.1639
+Douglas Park, 41.7875, -124.0617
+Downey, 33.9400, -118.1317
+Downieville, 39.5594, -120.8258
+Doyle, 40.0281, -120.1028
+Doyle Center, 32.6956, -117.0989
+Doyle Crossing, 40.1131, -120.4828
+Doyles Corner, 40.8775, -121.5592
+Dozier, 38.2856, -121.8156
+Drake, 34.4706, -120.3028
+Drakesbad, 40.4444, -121.4033
+Drawbridge, 37.4664, -121.9739
+Dresser, 37.5925, -121.9547
+Drytown, 38.4411, -120.8533
+Duarte, 34.1394, -117.9764
+Dublin, 37.7022, -121.9347
+Ducor, 35.8917, -119.0464
+Dudmore, 33.8567, -118.3500
+Dufour, 38.7619, -121.8419
+Dugan, 38.6044, -120.9578
+Dulah, 34.3125, -119.3589
+Dulzura, 32.6442, -116.7806
+Dumont, 35.6931, -116.1750
+Duncan Springs, 38.9522, -123.1236
+Duncans Mills, 38.4539, -123.0539
+Dunderberg Mill, 38.1039, -119.2494
+Dunes, 32.7831, -114.7964
+Dunlap, 36.7383, -119.1200
+Dunlap Acres, 34.0311, -117.1067
+Dunlap Place, 39.8539, -123.4308
+Dunmovin, 36.0886, -117.9603
+Dunn, 35.0450, -116.4369
+Dunneville, 36.9406, -121.4094
+Dunnigan, 38.8853, -121.9686
+Dunsmuir, 41.2197, -122.2739
+Durham, 39.6464, -121.7989
+Durmid, 33.4308, -115.8322
+Dustin Acres, 35.2194, -119.3897
+Dutch Flat, 39.2061, -120.8367
+Dutch Village, 33.8500, -118.1500
+Dutton, 38.0761, -121.8822
+Dutton Landing, 38.2114, -122.3058

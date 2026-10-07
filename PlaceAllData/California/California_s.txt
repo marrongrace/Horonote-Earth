@@ -1,0 +1,698 @@
+Sablon, 34.1747, -114.9936
+Sabre City, 38.7500, -121.2833
+Sacate, 34.4722, -120.2925
+Saco, 35.4444, -119.0914
+Sacramento, 38.5817, -121.4933
+Sacramento Army Depot, 38.5500, -121.4667
+Sacramento Canyon, 40.9667, -122.3500
+Sacramento Landing, 38.1497, -122.9053
+Sacramento South, 38.5333, -121.4500
+Saddle Junction, 33.7739, -116.6733
+Sage, 33.5817, -116.9314
+Sage Hen, 41.1108, -120.4769
+Sageland, 35.4800, -118.2117
+Salida, 37.7058, -121.0839
+Salinas, 36.6778, -121.6544
+Salminas Resort, 38.8758, -122.7275
+Salmon Creek, 38.3506, -123.0611
+Salt Creek, 40.9000, -122.3833
+Saltdale, 35.3592, -117.8867
+Salton, 33.4739, -115.8839
+Salton City, 33.3333, -116.0000
+Salton Sea Beach, 33.3750, -116.0111
+Saltus, 34.5378, -115.6892
+Salvador, 38.3408, -122.3197
+Salvia, 33.8725, -116.5008
+Salyer, 40.8903, -123.5833
+Samoa, 40.8189, -124.1853
+San Andreas, 38.1961, -120.6794
+San Anselmo, 37.9747, -122.5606
+San Antonio, 37.3833, -122.0833
+San Antonio Heights, 34.1556, -117.6556
+San Antonio Hospital, 34.1014, -117.6369
+San Ardo, 36.0206, -120.9042
+San Augustine, 34.4594, -120.3572
+San Benito, 36.5097, -121.0808
+San Bernardino, 34.1214, -117.3022
+San Bruno, 37.6306, -122.4100
+San Carlos(San Mateo), 37.5072, -122.2594
+San Carlos(San Diego), 32.7833, -117.0333
+San Clemente, 33.4269, -117.6111
+San Diego, 32.7153, -117.1564
+San Dieguito, 33.0500, -117.2667
+San Dimas, 34.1067, -117.8058
+San Emidio, 34.6656, -119.3036
+San Felipe(Santa Clara), 36.9708, -121.4181
+San Felipe(San Diego), 33.1992, -116.5978
+San Fernando, 34.2819, -118.4381
+San Fernando Hospital, 34.2767, -118.4433
+San Francisco, 37.7750, -122.4183
+San Francisco Hospital, 37.7547, -122.4031
+San Francisco Intl Airport, 37.6167, -122.3833
+San Francisco Recreation Camp, 38.5500, -121.2833
+San Gabriel, 34.0961, -118.1050
+San Gabriel Valley Hospital, 34.0997, -118.0975
+San Geronimo, 38.0133, -122.6628
+San Geronimo Valley, 38.0000, -122.6500
+San Gorgonio Pass, 33.9833, -117.0333
+San Gorgonio Pass Memorial Hospital, 33.9322, -116.9450
+San Gregorio, 37.3272, -122.3856
+San Ignacio, 33.3047, -116.5175
+San Jacinto, 33.7839, -116.9578
+San Joaquin, 36.6067, -120.1881
+San Joaquin Bridge, 37.8167, -121.2833
+San Joaquin River Club, 37.6808, -121.2719
+San Jose, 37.3353, -121.8939
+San Jose Hospital, 37.3433, -121.8758
+San Juan Bautista, 36.8456, -121.5369
+San Juan Capistrano, 33.5017, -117.6617
+San Juan Hot Springs, 33.5908, -117.5086
+San Lawrence Terrace, 35.7458, -120.6825
+San Leandro, 37.7250, -122.1550
+San Lorenzo, 37.6811, -122.1233
+San Lorenzo Park, 37.1961, -122.1444
+San Lorenzo Valley, 37.1167, -122.1000
+San Lucas, 36.1289, -121.0194
+San Luis Obispo, 35.2828, -120.6586
+San Luis Obispo Bay, 35.2000, -120.6833
+San Luis Obispo Rural, 35.2833, -120.6167
+San Luis Rey, 33.2319, -117.3228
+San Luis Rey Downs, 33.2333, -117.3333
+San Luis Rey Heights, 33.3189, -117.2083
+San Marcos, 33.1433, -117.1653
+San Marin, 38.1000, -122.5667
+San Marino, 34.1214, -118.1056
+San Martin, 37.0850, -121.6092
+San Mateo, 37.5631, -122.3244
+San Mateo Park, 37.5667, -122.3442
+San Miguel, 35.7525, -120.6953
+San Onofre, 33.3811, -117.5722
+San Pablo, 37.9622, -122.3444
+San Pasqual, 33.0917, -116.9531
+San Pasqual Indian Reservation, 33.2167, -116.9667
+San Pedro, 33.7358, -118.2914
+San Pedro Hill, 33.7461, -118.3353
+San Quentin, 37.9414, -122.4839
+San Rafael, 37.9736, -122.5300
+San Ramon, 37.7800, -121.9769
+San Ramon Village, 37.7214, -121.9289
+San Roque, 34.4333, -119.7333
+San Simeon, 35.6439, -121.1897
+San Tomas, 37.2689, -121.9744
+San Ysidro, 33.2553, -116.5656
+Sanborn, 35.0006, -118.1056
+Sand City, 36.6167, -121.8500
+Sand Hill, 37.9736, -121.6944
+Sandberg, 34.7411, -118.7086
+Sanders, 39.2028, -121.6608
+Sandia, 32.8856, -115.4050
+Sands, 35.0153, -115.9419
+Sandy Gulch, 38.3803, -120.5317
+Sandy Korner, 33.6422, -116.1803
+Sandyland, 34.4167, -119.5500
+Sandyland Cove, 34.3967, -119.5303
+Sanford, 34.0667, -118.3000
+Sanger, 36.7081, -119.5550
+Sanitarium, 38.5450, -122.4744
+Sankey, 38.7783, -121.4981
+Sans Crainte, 37.9167, -122.0500
+Santa Ana, 33.7456, -117.8669
+Santa Ana Air Facility, 33.7000, -117.8167
+Santa Ana Canyon, 33.8833, -117.7333
+Santa Ana Heights, 33.6525, -117.8947
+Santa Anita, 34.1333, -118.0333
+Santa Anita Race Track, 34.1333, -118.0500
+Santa Anita Sanitarium, 34.1025, -118.0439
+Santa Barbara, 34.4233, -119.7033
+Santa Barbara General Hospital, 34.4450, -119.7800
+Santa Clara, 37.3475, -121.2500
+Santa Cruz, 36.9742, -122.0297
+Santa Cruz Gardens, 36.9833, -122.0000
+Santa Fe Hospital, 34.0386, -118.2158
+Santa Fe Springs, 33.9472, -118.0844
+Santa Margarita, 35.3900, -120.6081
+Santa Maria, 34.9531, -120.4347
+Santa Maria Valley, 34.9000, -120.4000
+Santa Monica, 34.0194, -118.4903
+Santa Nella(Merced), 37.2500, -121.0000
+Santa Nella(Sonoma), 38.4972, -122.9656
+Santa Nella Village, 37.0978, -121.0158
+Santa Paula, 34.3542, -119.0583
+Santa Rita(Santa Barbara), 34.7000, -120.4833
+Santa Rita(Monterey), 36.7239, -121.6550
+Santa Rita Park, 37.0500, -120.6000
+Santa Rita Rehabilitation Center, 37.7044, -121.8811
+Santa Rita Rehabilitation Center Annex, 37.6969, -121.8469
+Santa Rita State Farm, 37.7044, -121.8811
+Santa Rosa, 38.4406, -122.7133
+Santa Rosa Indian Reservation, 33.5667, -116.5167
+Santa Rosa Race Track, 38.4333, -122.7000
+Santa Susana, 34.2717, -118.7081
+Santa Susana Knolls, 34.2622, -118.6728
+Santa Venetia, 37.9986, -122.5242
+Santa Western, 34.0833, -118.3667
+Santa Ynez, 34.6144, -120.0789
+Santa Ynez Valley, 34.6167, -120.1167
+Santa Ysabel, 33.1092, -116.6722
+Santa Ysabel Indian Reservation, 33.1667, -116.6167
+Santee, 32.8383, -116.9731
+Saranap, 37.8833, -122.0833
+Saratoga, 37.2639, -122.0219
+Saratoga Springs, 39.1753, -122.9797
+Sargent, 36.9194, -121.5469
+Sather Gate, 37.8667, -122.2667
+Saticoy, 34.2831, -119.1489
+Sattley, 39.6161, -120.4261
+Saugus, 34.4114, -118.5392
+Saunders Landing, 38.8511, -123.6481
+Sausalito, 37.8592, -122.4842
+Savercool Place, 40.1897, -121.6919
+Saviers, 34.2000, -119.1667
+Savoy, 34.1000, -117.8833
+Sawmill Flat, 36.9694, -119.0164
+Sawyers Bar, 41.3000, -123.1167
+Saxon, 38.4667, -121.6553
+Scales, 39.5983, -120.9914
+Scarface, 41.4117, -121.2939
+Scenic Brook Estates, 37.9833, -120.3833
+Scenic Center, 37.6333, -120.9833
+Scheelite, 37.3781, -118.6758
+Scheideck, 35.0667, -119.4000
+Schellville, 38.2461, -122.4386
+Schilling, 36.4089, -119.9128
+Schooner Landing(Site), 38.0642, -122.9292
+Sciots Camp, 38.7861, -120.1525
+Scissors Crossing, 33.0964, -116.4744
+Scotia, 40.4825, -124.0997
+Scotland, 34.2422, -117.4972
+Scott Bar, 41.7500, -123.0000
+Scott Place, 40.2067, -124.0322
+Scotts, 39.8464, -120.0914
+Scotts Corner, 37.5889, -121.8700
+Scotts Valley, 37.0511, -122.0136
+Scotts Valley Center, 36.9833, -122.0000
+Scottsville, 38.3347, -120.7547
+Scotty Place, 41.1242, -120.8728
+Scranton, 36.4519, -116.5028
+Scripps Memorial Hospital, 32.8850, -117.2247
+Scripps Ranch, 32.9167, -117.1000
+Sea Cliff, 34.3444, -119.4172
+Seacliff, 36.9833, -121.9000
+Seahaven, 38.1000, -122.8500
+Seal Beach, 33.7414, -118.1039
+Seal Beach Naval Weapons Station, 33.7667, -118.0833
+Seal Cove, 37.5192, -122.5117
+Searles, 35.4839, -117.6344
+Searles Valley, 35.7667, -117.3833
+Sears Point, 38.1511, -122.4467
+Seaside, 36.6111, -121.8506
+Seaside Memorial Hospital, 33.7842, -118.1967
+Sebastiani, 38.2833, -122.4667
+Sebastopol(Sonoma), 38.4022, -122.8228
+Sebastopol(Nevada), 39.3628, -121.1200
+Second Crossing, 37.5336, -119.0117
+Second Garrotte, 37.8250, -120.1964
+Secret Town, 39.1572, -120.8767
+Sedco Hills, 33.6417, -117.2900
+Seeley, 32.7931, -115.6903
+Seguro, 35.4197, -119.0203
+Seiad Valley, 41.8406, -123.1914
+Seigler Springs, 38.8744, -122.6897
+Selby, 38.0567, -122.2428
+Selma, 36.5708, -119.6111
+Seminole Hot Springs, 34.1072, -118.7897
+Semitropic, 35.6019, -119.5075
+Seneca, 40.1106, -121.0836
+Sentous, 34.0264, -118.3711
+Sepulveda, 34.1617, -118.2819
+Sequoia, 36.4275, -119.1161
+Sequoia Crest, 36.1333, -118.8167
+Sequoia Hospital, 37.4797, -122.2536
+Sequoia National Park, 36.5642, -118.7728
+Serena, 34.4125, -119.5553
+Serena Park, 34.4186, -119.5717
+Serra Mesa, 32.8028, -117.1375
+Serra Relrea, 34.0453, -118.6811
+Serramonte, 37.6833, -122.4833
+Serrano, 35.3350, -120.6536
+Serrano Place, 33.6469, -117.6889
+Sespe, 34.4000, -118.9494
+Sespe Village, 34.3864, -118.9547
+Seven Oaks, 34.1864, -116.9133
+Seven Pines, 36.7856, -118.2931
+Seville, 36.4858, -119.2222
+Shady Dell, 32.9728, -116.9161
+Shady Glen, 39.1181, -120.9486
+Shafter(Marin), 38.0044, -122.7075
+Shafter(Kern), 35.5006, -119.2708
+Shake City, 39.4311, -123.4661
+Shandon, 35.6553, -120.3744
+Shannon Place, 40.1547, -123.3611
+Sharon, 37.0981, -120.1289
+Sharon Valley, 39.4822, -121.2458
+Sharp Park, 37.6361, -122.4869
+Sharpe Army Depot, 37.8167, -121.2833
+Shasta, 40.5994, -122.4908
+Shasta Dam, 40.6667, -122.3833
+Shasta Retreat, 41.2356, -122.2714
+Shasta Springs, 41.2469, -122.2600
+Shaver Lake, 37.1500, -119.3000
+Shaver Lake Heights, 37.1072, -119.3189
+Shaver Lake Point, 37.1500, -119.3000
+Shaws Flat, 38.0078, -120.4083
+Sheep Crossing, 37.5614, -119.2083
+Sheep Ranch, 38.2094, -120.4631
+Sheepshead, 40.8556, -120.8233
+Sheldon, 38.4308, -121.2992
+Shell, 36.3289, -119.6222
+Shell Beach, 35.1553, -120.6714
+Shelter Cove(Humboldt), 40.0306, -124.0719
+Shelter Cove(San Mateo), 37.5964, -122.5117
+Sher-Wood Hospital, 34.2006, -118.4275
+Sheridan, 38.9797, -121.3744
+Sheridan, 38.4656, -123.0350
+Sherman Acres, 38.4469, -120.0731
+Sherman Island, 38.1667, -121.7000
+Sherman Oaks, 34.1511, -118.4483
+Sherwin Plaza, 37.6333, -118.9667
+Sherwood Forest, 37.9667, -122.3000
+Shiloh, 38.5236, -122.7947
+Shingle Springs, 38.6658, -120.9250
+Shingletown, 40.4925, -121.8881
+Shinn, 37.5667, -121.9822
+Shippee, 39.5400, -121.6869
+Shipyard Acres, 38.2600, -122.2700
+Shirley(Orange), 33.8167, -118.0333
+Shirley(Kings), 36.3986, -119.6633
+Shirley Meadows, 35.7108, -118.5556
+Shively, 40.4308, -123.9686
+Shore Acres, 38.0358, -121.9644
+Short Acres, 36.3333, -119.6500
+Short Place, 38.7800, -120.4731
+Shoshone, 35.9731, -116.2703
+Shriners Hospital, 34.0669, -118.2850
+Shrub, 38.5925, -120.9536
+Shuman, 34.8669, -120.5217
+Shumway, 40.6969, -120.4900
+Siberia, 34.6267, -115.9850
+Sicard Flat, 39.2311, -121.3450
+Sidds Landing, 39.5575, -122.0031
+Sierra, 36.9833, -119.3333
+Sierra City, 39.5658, -120.6328
+Sierra Glen, 36.6394, -118.9992
+Sierra Heights, 36.1872, -119.0611
+Sierra Hospital, 36.7878, -119.7853
+Sierra Kings Hospital, 36.6083, -119.4508
+Sierra Madre, 34.1617, -118.0519
+Sierra Madre Community Hospital, 34.1622, -118.0567
+Sierra Sky Park, 36.8422, -119.8647
+Sierra Village No 1, 38.0833, -120.2167
+Sierra Vista Hospital, 35.2925, -120.6644
+Sierraville, 39.5897, -120.3664
+Signal Butte, 41.2803, -122.1875
+Signal Hill, 33.7997, -118.1625
+Signal Hill Hospital, 33.7872, -118.1756
+Silt, 34.9997, -117.7486
+Silver Canyon Landing, 33.3194, -118.3928
+Silver City, 36.4661, -118.6450
+Silver Creek Church, 36.7353, -120.5675
+Silver Fork, 38.7833, -120.3000
+Silver Lake, 38.3500, -120.7667
+Silver Strand, 34.1528, -119.2175
+Silverado, 33.7461, -117.6361
+Silverthorn, 40.6478, -122.3906
+Simi(Sonoma), 38.6400, -122.8733
+Simi(Ventura), 34.2694, -118.7800
+Simi Valley, 34.2667, -118.7500
+Simmler, 35.3514, -119.9861
+Simms, 37.7981, -121.0942
+Sims, 41.0719, -122.3539
+Singing Springs, 34.3211, -118.1278
+Sisquoc, 34.8647, -120.2906
+Sites, 39.3089, -122.3375
+Six-Bit Crossing, 40.0981, -121.8142
+Skidoo, 36.4356, -117.1467
+Skinner Mill Place, 40.1567, -122.7019
+Skinners, 38.6992, -120.9942
+Sky Londa, 37.3836, -122.2617
+Sky Valley, 33.9667, -116.5000
+Skyforest, 34.2353, -117.1783
+Skyhigh, 38.4267, -120.0986
+Skyland, 34.2333, -117.2853
+Skytop, 35.7014, -117.4981
+Slagger, 41.3258, -121.7219
+Slater, 35.5494, -119.1964
+Sleepy Hollow(San Bernerdino), 33.9478, -117.7778
+Sleepy Hollow(Marin), 37.9833, -122.5833
+Sleepy Valley, 34.5092, -118.3644
+Sloat, 39.8667, -120.7264
+Sloughhouse, 38.5167, -121.1000
+Smartville, 39.2075, -121.2975
+Smeltzer, 33.7303, -117.9936
+Smiley Heights, 34.0667, -117.2000
+Smiley Park, 34.1983, -117.1267
+Smith Corner, 35.4783, -119.2778
+Smith Mill, 36.0903, -118.6575
+Smith River, 41.9286, -124.1453
+Smithflat, 38.7367, -120.7542
+Smoke Tree(San Bernardino), 35.1353, -116.0894
+Smoke Tree(Riverside), 33.8167, -116.5333
+Snelling, 37.5192, -120.4364
+Snoboy, 37.5114, -121.9453
+Snow Bend, 37.2672, -119.1253
+Snow Creek, 33.8900, -116.6833
+Snowden, 41.3547, -123.0358
+Snowdon, 41.7933, -122.4758
+Snowline Camp, 38.7333, -120.6833
+Soapweed, 38.8419, -120.6769
+Soboba Hot Springs, 33.7997, -116.9283
+Sobrante, 38.0022, -122.3483
+Soda Bay, 39.0011, -122.7881
+Soda Springs(Butte), 40.0881, -121.5867
+Soda Springs(Mendocino), 39.4228, -123.4331
+Soda Springs(Nevada), 39.3233, -120.3789
+Soda Springs(Tulare), 36.0392, -118.7572
+Solana Beach, 32.9911, -117.2703
+Solano Race Track, 38.1333, -122.2333
+Soledad, 36.4247, -121.3253
+Solemint, 34.4164, -118.4514
+Solinsky Crossing, 38.3883, -120.3092
+Solromar, 34.0500, -118.9528
+Solvang, 34.5958, -120.1367
+Solyo, 37.6094, -121.2633
+Somerset(Siskiyou), 41.8525, -121.9900
+Somerset(El Dorado), 38.6478, -120.6847
+Somersville, 37.9569, -121.8633
+Somes Bar, 41.3833, -123.4833
+Somis, 34.2572, -118.9953
+Sonoma, 38.2919, -122.4569
+Sonoma Valley Hospital, 38.3017, -122.4239
+Sonoma Vista, 38.2833, -122.4667
+Sonora, 37.9842, -120.3811
+Sonora Junction, 38.3486, -119.4508
+Soquel, 36.9881, -121.9556
+Sorensens, 38.7744, -119.9019
+Sorrento, 32.9008, -117.2222
+Sorroca, 38.3422, -121.6089
+Soto, 33.9667, -118.2167
+Soto Saint Junction, 34.0189, -118.2183
+Souas Corner, 38.4464, -122.8603
+Soulsbyville, 37.9847, -120.2628
+South Alhambra, 34.0667, -118.1333
+South Anaheim, 33.8089, -117.9003
+South Antelope Valley, 34.5167, -118.1167
+South Bay Cities, 33.8500, -118.3833
+South Bay Hospital, 33.8536, -118.3781
+South Belridge, 35.3000, -119.6167
+South Berkeley, 37.8667, -122.2667
+South Coast, 33.5667, -117.7333
+South Coastside, 37.4167, -122.3667
+South Corona, 33.8833, -117.5500
+South Coyote, 37.1989, -121.7206
+South Dos Palos(Dos Palos Station), 36.9644, -120.6522
+South Downey, 33.9167, -118.1500
+South El Dorado, 38.6500, -120.8500
+South El Monte, 34.0519, -118.0458
+South Fontana, 34.0628, -117.4881
+South Fork(Humboldt), 40.3500, -123.9167
+South Fork(Madera), 37.2311, -119.4933
+South Fork(Mendocino), 39.4261, -123.7261
+South Fresno, 36.6833, -119.8000
+South Gardena, 33.8833, -118.2833
+South Gate, 33.9547, -118.2111
+South Laguna, 33.5006, -117.7422
+South Lake, 35.6369, -118.3661
+South Lake Tahoe, 38.9458, -119.9703
+South Landing, 37.5819, -118.7328
+South Leggett, 39.8486, -123.7064
+South Los Angeles, 33.9275, -118.2772
+South Main, 33.7167, -117.8667
+South Modesto, 37.6000, -120.9833
+South Oceanside, 33.1772, -117.3556
+South Oroville, 39.4967, -121.5511
+South Park(Sonoma), 38.4333, -122.7167
+South Park(San Diego), 32.7200, -117.1283
+South Pasadena, 34.1161, -118.1494
+South San Diego, 32.5836, -117.0961
+South San Francisco, 37.6547, -122.4067
+South San Gabriel, 34.0625, -118.0894
+South San Jose Hills, 34.0167, -117.9000
+South San Leandro, 37.7000, -122.1333
+South Santa Ana, 33.7114, -117.8672
+South Shafter, 35.5000, -119.2667
+South Shores Shopping Center, 37.7833, -122.2667
+South Sutter, 38.8667, -121.5333
+South Taft, 35.1347, -119.4553
+South Trona, 35.7156, -117.3964
+South Turlock, 37.4833, -120.8333
+South Vista, 33.1833, -117.2500
+South Wawona, 37.5414, -119.6408
+South Whittier, 33.9608, -118.0408
+South Whittier Heights, 33.9333, -118.0333
+South Yuba, 39.1256, -121.5844
+Southeast, 34.0000, -118.2333
+Southeastern, 32.7000, -117.1167
+Southern Pacific Hospital, 37.7739, -122.4411
+Southland, 37.6333, -122.1167
+Southport, 38.5667, -121.5333
+Southport Landing, 40.6950, -124.2478
+Southwest Village, 33.8467, -118.3094
+Spadra, 34.0522, -117.7992
+Spalding Corner, 41.1319, -121.5767
+Spangler, 35.5489, -117.4506
+Spanish Creek, 39.9333, -120.9167
+Spanish Flat(El Dorado), 38.8233, -120.8083
+Spanish Flat(Napa), 38.3000, -122.3000
+Spanish Ranch, 39.9508, -121.0561
+Sparkle, 37.9283, -122.0556
+Spaulding, 40.4167, -120.6500
+Spaulding Tract, 40.6531, -120.7708
+Spear Creek, 35.8200, -118.5933
+Spellacy, 35.1131, -119.4706
+Spence, 36.6128, -121.5656
+Sperry, 35.7417, -116.2214
+Spicer City, 35.5011, -119.6036
+Spinks Corner, 36.2119, -119.2322
+Spoonbill, 38.0606, -121.9028
+Spreckels, 36.6219, -121.6458
+Spreckels Junction, 36.6583, -121.6297
+Spring Gap, 38.1686, -120.1011
+Spring Garden, 39.8950, -120.7850
+Spring Hill, 39.2325, -121.0431
+Spring Valley(San Diego), 32.7447, -116.9981
+Spring Valley(El Dorado), 38.7794, -120.5267
+Springfield, 38.0208, -120.4114
+Springtowne, 38.1167, -122.2333
+Springville(Tulare), 36.1303, -118.8172
+Springville(Ventura), 34.2206, -119.0950
+Spruce Point, 40.7433, -124.1967
+Spurgeon, 33.7500, -117.8833
+Spyrock, 39.8767, -123.4428
+Squab, 38.1972, -122.2764
+Squabbletown, 38.0147, -120.3853
+Squaw Hill, 39.9081, -122.0919
+Squaw Valley, 36.7408, -119.2456
+Squirrel Mountain Valley, 35.6233, -118.4089
+Squirrel Valley, 35.6500, -118.4667
+St Agnes Hospital, 36.7619, -119.8175
+St Annes Hospital, 34.0719, -118.2786
+St Bernard, 40.2600, -121.3708
+St Bernardine Hospital, 34.1344, -117.2767
+St Francis Heights, 37.6833, -122.4833
+St Francis Hospital, 34.4336, -119.7003
+St Helena, 38.5053, -122.4692
+St Helena Sanitarium, 38.5428, -122.4736
+St Helens Hospital, 33.8744, -118.1294
+St James Park, 37.3333, -121.8833
+St Johns, 36.3847, -119.0975
+St Johns Hospital(Los Angeles), 34.0303, -118.4783
+St Johns Hospital(Ventura), 34.2056, -119.1844
+St Joseph Hospital, 34.1564, -118.3283
+St Josephs Hospital(Orange), 33.7817, -117.8619
+St Josephs Hospital(San Joaquin), 37.9711, -121.2872
+St Jude Hospital, 33.8944, -117.9253
+St Lawrence Terrace, 35.7500, -120.7000
+St Louis, 39.6986, -120.9239
+St Lukes Hospital, 34.1683, -118.0950
+St Marys College, 37.8500, -122.1000
+St Marys Hospital, 33.7797, -118.1853
+St Matthew, 37.5667, -122.3167
+St Rose Hospital, 37.6322, -122.0881
+Stacy, 40.2300, -120.0203
+Stadium Hospital, 36.2211, -119.3375
+Stafford, 40.4542, -124.0525
+Standard, 37.9667, -120.3108
+Standish, 40.3653, -120.4211
+Stanfield Hill, 39.3425, -121.3319
+Stanford, 37.4167, -122.1667
+Stanislaus, 38.1383, -120.3692
+Stanislaus Memorial Hospital, 37.6686, -120.9733
+Stanley, 38.2447, -122.2928
+Stanton, 33.8025, -117.9922
+State Capitol, 38.5667, -121.4833
+Stateline, 38.9583, -119.9428
+Stauffer, 34.7544, -119.0658
+Steamboat Landing, 38.3056, -121.5731
+Stedman, 34.6300, -116.1672
+Steele Park, 38.3000, -122.3000
+Steelhead(Humboldt), 40.1703, -123.6442
+Steelhead(Siskiyou), 41.7769, -123.0381
+Steens Landing, 38.8283, -123.6178
+Steeplehollow Crossing, 39.1961, -120.8853
+Stege, 37.9167, -122.3261
+Stegeman, 39.3578, -122.0275
+Stent, 37.9178, -120.4122
+Stephens, 33.9333, -118.0667
+Sterling Park, 37.7000, -122.4667
+Steuben Place, 39.9644, -122.7436
+Stevens, 35.3142, -119.1897
+Stevenson Hospital, 32.7764, -117.0247
+Stevinson, 37.3278, -120.8506
+Stewarts Point, 38.6519, -123.3981
+Stewartville, 37.9464, -121.8475
+Stills Landing(Ruins), 34.0283, -116.7147
+Stinson Beach, 37.9006, -122.6433
+Stirling City, 39.9078, -121.5269
+Stirling Junction, 39.7142, -121.8122
+Stockton, 37.9578, -121.2897
+Stoil, 35.9181, -119.4244
+Stokdale, 35.3500, -119.0500
+Stomar, 37.3619, -121.0447
+Stone, 40.5122, -124.1131
+Stone Lagoon, 41.0667, -124.1333
+Stone Place(Ruins), 35.9025, -118.7333
+Stonebreaker Crossing, 41.0681, -120.9742
+Stonegate, 37.4500, -122.1833
+Stonehurst, 34.2511, -118.3694
+Stoneman, 34.0886, -118.1214
+Stonestown, 37.7428, -122.5439
+Stony Point, 38.3108, -122.7339
+Stonyford, 39.3753, -122.5431
+Storey, 36.9742, -120.0181
+Storrie, 39.9175, -121.3222
+Stout, 36.1828, -119.0794
+Stout Grove, 41.7906, -124.0817
+Stove Pipe Wells, 36.3000, -116.7500
+Stratford, 36.1894, -119.8222
+Strathearn, 34.2811, -118.7983
+Strathmore, 36.1456, -119.0597
+Strawberry(El Dorado), 38.7969, -120.1442
+Strawberry(Tuolumne), 38.1983, -120.0083
+Strawberry Manor, 37.9000, -122.5333
+Strawberry Point, 37.9000, -122.5167
+Strawberry Valley, 39.5642, -121.1058
+Stronghold, 41.9056, -121.4086
+Stuart, 33.2511, -117.4200
+Studebaker, 33.9197, -118.0953
+Studebaker Hospital, 33.9125, -118.0975
+Studio City, 34.1486, -118.3956
+Studio Village, 34.0000, -118.4000
+Styx, 33.8781, -114.7944
+Subaco, 38.9286, -121.7383
+Subeet, 38.2283, -122.0800
+Success, 36.0667, -119.0667
+Sucker Flat, 39.2119, -121.2961
+Sucro, 38.2492, -121.8022
+Sugar Pine, 37.4411, -119.6333
+Sugarfield, 38.7139, -121.7525
+Sugarloaf(Shasta), 40.8567, -122.3967
+Sugarloaf(San Bernardino), 34.2433, -116.8281
+Sugarloaf Mountain Park, 35.8389, -118.6036
+Sugarpine, 38.0583, -120.2006
+Suisun, 38.2383, -122.0392
+Suisun City, 38.2383, -122.0392
+Sullivan, 39.2033, -121.6344
+Sulphur Springs(Ventura), 34.4269, -119.0936
+Sulphur Springs(Los Angeles), 34.4794, -118.6133
+Sulphur Springs(San Benito), 36.2931, -120.9836
+Sultana, 36.5456, -119.3392
+Summer Home, 37.8475, -121.1847
+Summerhome, 38.4978, -122.9400
+Summerhome Park, 38.4667, -122.8833
+Summerland, 34.4214, -119.5956
+Summertown, 40.5444, -121.5664
+Summerville, 41.0989, -123.0667
+Summit(Kern), 35.1278, -118.4131
+Summit(San Bernardino), 34.3333, -117.4167
+Summit City(Nevada), 39.4089, -120.5014
+Summit City(Shasta), 40.6861, -122.4006
+Summit Inn, 37.4833, -119.9667
+Sun City, 33.7092, -117.1964
+Sun Valley, 34.2175, -118.3694
+Sun Valley Hospital, 34.2403, -118.3958
+Sun Village, 34.5833, -118.1000
+Suncrest, 32.8042, -116.8636
+Sunfair, 34.1639, -116.2464
+Sunfair Heights, 34.2403, -116.2181
+Sunkist(Orange), 33.8333, -117.8667
+Sunkist(San Bernardino), 34.0772, -117.1900
+Sunland(Tulare), 36.0225, -118.9814
+Sunland(Los Angeles), 34.2669, -118.3014
+Sunny Brae, 40.8583, -124.0653
+Sunny Hills, 33.9011, -117.9356
+Sunny Vista, 32.6447, -117.0672
+Sunnybrook, 38.3431, -120.8758
+Sunnymead, 33.9400, -117.2428
+Sunnyside(San Diego), 32.6742, -117.0156
+Sunnyside(Tehama), 39.8442, -122.8642
+Sunnyside(Fresno), 36.7492, -119.6983
+Sunnyside(Placer), 39.1433, -120.1525
+Sunnyslope(Butte), 39.3675, -121.4308
+Sunnyslope(Riverside), 34.0119, -117.4325
+Sunnyvale, 37.3689, -122.0353
+Sunnyvale Plaza, 37.3833, -122.0167
+Sunol, 37.6000, -121.8833
+Sunrise, 34.6731, -118.1308
+Sunrise Oasis, 33.8167, -116.5333
+Sunrise Vista, 38.8800, -122.7331
+Sunset(SUtter), 39.2506, -121.6508
+Sunset(Humboldt), 40.8667, -124.0833
+Sunset(San Francisco), 37.7667, -122.4667
+Sunset Beach(Orange), 33.7164, -118.0681
+Sunset Beac(Santa Cruz), 36.9167, -121.7833
+Sunset Cliffs, 32.7289, -117.2608
+Sunset District, 37.7536, -122.4942
+Sunset Hills, 34.0000, -117.9500
+Sunset Terrace, 35.3000, -120.7500
+Sunset Tract, 34.4000, -119.3000
+Sunset View, 39.2294, -121.0953
+Sunset-Whitney Ranch, 38.8000, -121.2333
+Sunshine Camp, 37.9878, -120.2817
+Sunshine Homes, 34.4167, -118.5333
+Sunsweet, 34.0600, -117.6839
+Surf, 34.6844, -120.6025
+Surfside, 33.7278, -118.0814
+Surprise, 41.5739, -120.4353
+Surprise Valley, 41.5500, -120.1500
+Susana Knolls, 34.2667, -118.7500
+Susanville, 40.4164, -120.6519
+Suscol, 38.2439, -122.2839
+Sutter, 39.1597, -121.7478
+Sutter County Hospital, 39.1547, -121.6186
+Sutter Creek, 38.3931, -120.8014
+Sutter Hill, 38.3783, -120.8006
+Sutter Hospital, 38.5711, -121.4683
+Sutter Island, 38.3333, -121.5667
+Sutter Memorial Hospital, 38.5711, -121.4372
+Suval, 38.2467, -122.0767
+Sveadal, 37.0836, -121.7881
+Swall, 36.2408, -119.2861
+Swansea, 36.5247, -117.9031
+Swanston, 38.6050, -121.4358
+Swanton, 37.0642, -122.2264
+Sweeneys Crossing, 38.6528, -120.6239
+Sweet Brier, 41.1500, -122.3167
+Sweetbriar, 41.1300, -122.3192
+Sweetland, 39.3431, -121.1192
+Swingle, 38.5583, -121.6744
+Swobe, 41.2769, -121.9133
+Sycamore(Colusa) 39.1339, -121.9408
+Sycamore(Contra Costa), 37.8333, -122.0000
+Sycamore Flat, 36.2667, -121.3925
+Sycamore Springs, 35.1864, -120.7133
+Sycuan Indian Reservation, 32.7667, -116.8333
+Sykes, 36.0367, -117.9594
+Sylmar, 34.3078, -118.4483
+Sylvan Lodge, 38.0842, -120.1561
+Sylvia Park, 34.1150, -118.5808
+Syndicate Mill, 38.2233, -118.9936

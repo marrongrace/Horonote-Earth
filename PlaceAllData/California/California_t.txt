@@ -1,0 +1,236 @@
+T V Bell, 37.3000, -120.4833
+Taft, 35.1425, -119.4556
+Taft Heights, 35.1347, -119.4717
+Tagus, 36.2714, -119.3672
+Tahoe City, 39.1722, -120.1378
+Tahoe Keys, 38.9333, -119.9833
+Tahoe Paradise, 38.9333, -119.9833
+Tahoe Pines, 39.1047, -120.1592
+Tahoe Valley, 38.9136, -120.0033
+Tahoe Vista, 39.2400, -120.0500
+Tahoma, 39.0675, -120.1272
+Tajiguas, 34.4667, -120.1075
+Talica, 33.2000, -117.3333
+Talich, 33.2000, -117.3167
+Tall Timber Camp, 38.0736, -120.1714
+Tallac Village, 38.9219, -120.0208
+Talmage, 39.1308, -123.1650
+Talus, 36.0869, -117.9719
+Tamalpais Convalescent Hospital, 38.0025, -122.5194
+Tamalpais Valley, 37.8797, -122.5447
+Tamalpais Valley Junction, 37.8819, -122.5236
+Tamarack, 38.4389, -120.0750
+Tambo, 39.2394, -121.5761
+Tambs Station, 37.9833, -120.3833
+Tan Oak Park, 39.8278, -123.6031
+Tancred, 38.7653, -122.1625
+Tanforan, 37.6500, -122.4333
+Tangair, 34.7544, -120.6100
+Tanglewood, 37.0500, -122.0667
+Tara Hills, 37.9667, -122.3333
+Tarke, 39.1453, -121.8481
+Tarpey, 36.7878, -119.6997
+Tarpey Village, 36.7931, -119.7000
+Tarzana, 34.1733, -118.5531
+Tassajara, 37.7967, -121.8631
+Tassajara Hot Springs, 36.2342, -121.5478
+Tatu, 39.6583, -123.3436
+Taurusa, 36.4178, -119.2525
+Taylor, 33.5983, -116.4175
+Taylor Crossing, 39.1103, -120.9836
+Taylor Junction, 34.0631, -118.2222
+Taylorsville, 40.0756, -120.8386
+Teakettle Junction, 36.7603, -117.5417
+Teal, 38.1733, -122.0778
+Tecate, 32.5772, -116.6267
+Tecnor, 41.7833, -122.0000
+Tecopa, 35.8483, -116.2256
+Tecopa Hot Springs, 35.8500, -116.2167
+Tehachapi, 35.1322, -118.4481
+Tehama, 40.0272, -122.1222
+Telegraph City, 37.9344, -120.7389
+Temecula, 33.4936, -117.1475
+Temescal, 37.8333, -122.2667
+Temple City, 34.1072, -118.0569
+Temple Hospital, 34.0756, -118.2831
+Templeton, 35.5497, -120.7050
+Tennant, 41.5839, -121.9122
+Tent City, 32.6833, -117.1833
+Terminal Island, 33.7333, -118.3000
+Terminous, 38.1133, -121.4944
+Termo, 40.8658, -120.4592
+Terra Bella, 35.9625, -119.0433
+Terra Cotta, 33.7031, -117.3739
+Terra Linda, 38.0167, -122.5500
+Terra Loma, 37.6833, -122.4833
+Tewksbury Heights, 37.9500, -122.3167
+Textile, 34.0333, -118.3000
+The Cedars, 39.2531, -120.3522
+The Crossing, 40.4864, -120.4731
+The Forks, 39.1911, -123.2067
+The Geysers, 38.8000, -123.0167
+The Grove, 37.4039, -120.5939
+The Homestead, 37.9389, -121.2847
+The Oaks(Los Angeles), 34.5106, -118.3544
+The Oaks(Mendocino), 38.9047, -123.2250
+The Oaks(Nevada), 39.2194, -121.0800
+The Pines, 37.3189, -119.5522
+The Plaza, 35.1503, -116.0533
+The Sea Ranch, 40.2000, -123.5000
+The Willows(San Diego), 32.8347, -116.7217
+The Willows(Santa Cruz), 37.1028, -121.9236
+Thenard, 33.7867, -118.2417
+Thermal, 33.6403, -116.1386
+Thermalito, 39.4983, -121.6008
+Thoman, 38.4911, -122.4508
+Thomas Lane, 35.4875, -119.2839
+Thomas Mountain, 33.6125, -116.6261
+Thomasson, 38.2172, -122.1064
+Thompson, 38.2392, -122.2806
+Thompson Place, 40.1603, -121.9728
+Thorn, 34.4758, -117.2800
+Thorn Junction, 40.0636, -123.9625
+Thornton, 38.2261, -121.4236
+Thousand Oaks, 34.1706, -118.8367
+Thousand Palms, 33.8200, -116.3894
+Three Arch Bay, 33.4908, -117.7314
+Three Crossing, 39.3167, -122.9203
+Three Point, 34.6667, -118.4333
+Three Points, 34.7361, -118.5978
+Three Rivers, 36.4389, -118.9036
+Three Rocks, 36.5000, -120.3167
+Thyle, 35.3411, -120.6325
+Tiber, 35.1783, -120.6175
+Tiburon, 37.8736, -122.4556
+Tierra Buena, 39.1489, -121.6658
+Tierra del School, 32.6231, -116.3208
+Tierra del Sol, 32.6667, -116.2667
+Tierra Santa, 32.7833, -117.1000
+Tiger Lily, 38.6811, -120.7739
+Timba, 37.3428, -121.0300
+Timber Lodge, 37.5500, -119.9333
+Timbuctoo, 39.2169, -121.3175
+Tionesta, 41.6461, -121.3269
+Tipton, 36.0594, -119.3111
+Tisdale, 39.0406, -121.7850
+Titus, 32.6325, -116.1789
+Tivy Valley, 36.7000, -119.5500
+Toadtown, 39.8881, -121.5894
+Tobin, 39.9381, -121.3075
+Tocaloma, 38.0503, -122.7583
+Todd Place, 35.2742, -120.1625
+Todd Valley, 38.9981, -120.8506
+Todos Santos, 37.9667, -122.0167
+Tokay, 36.5519, -119.3581
+Toland Landing, 38.0883, -121.7503
+Tolenas, 38.2653, -122.0044
+Tollhouse, 37.0189, -119.3983
+Toluca Lake, 34.1500, -118.3667
+Tomales, 38.2464, -122.9044
+Toms Place, 37.5614, -118.6803
+Tomspur, 38.0572, -121.2758
+Tonyville, 36.2486, -119.0897
+Toolville, 36.2875, -119.1167
+Toomey, 34.9208, -116.7444
+Top of the World, 33.5483, -117.7533
+Topa Topa, 34.3500, -119.0667
+Topanga, 34.0936, -118.6006
+Topanga Beach, 34.0400, -118.5786
+Topanga Oaks, 34.0833, -118.6167
+Topanga Park, 34.1075, -118.6283
+Topaz, 38.6111, -119.5178
+Tormey, 38.0506, -122.2481
+Toro, 36.5667, -121.6667
+Torrance, 33.8358, -118.3397
+Torres Martinez Indian Reservation, 33.4667, -116.0333
+Torrey Crossing, 40.6092, -123.5967
+Torrey Pines Homes, 32.8333, -117.2333
+Tortuga, 33.1678, -115.3419
+Tower, 36.7667, -119.7833
+Towle, 39.2042, -120.7981
+Town and Country, 37.8333, -122.0000
+Town and Country Trailer Park, 33.9333, -117.2333
+Town and Country Village, 38.6181, -121.3997
+Town Center, 36.3333, -119.3000
+Town Talk, 39.2433, -121.0297
+Toyon(Calaveras), 38.2050, -120.7644
+Toyon(Shasta), 40.5500, -122.3667
+Trabuco, 33.6833, -117.6000
+Trabuco Canyon, 33.6639, -117.5894
+Tracy, 37.7397, -121.4242
+Trancas, 34.0311, -118.8422
+Tranquillity, 36.6489, -120.2517
+Traver, 36.4553, -119.4839
+Travis Air Force Base, 38.2667, -121.9167
+Travis Field, 38.2722, -121.9317
+Treasure Island, 37.7667, -122.4500
+Trent, 37.0775, -120.8797
+Trenton, 38.4853, -122.8508
+Tres Pinos, 36.7900, -121.3200
+Trevarno, 37.6906, -121.7464
+Tri-City Hospital, 33.1856, -117.2894
+Trigo, 36.9131, -119.9594
+Trimmer, 36.9050, -119.2953
+Trinidad, 41.0594, -124.1419
+Trinity Alps, 40.8575, -122.8892
+Trinity Center, 41.0000, -122.6833
+Trinity Hospital, 40.8717, -124.0783
+Trinity Village, 40.8756, -123.5272
+Triple R Estates, 36.0667, -119.0667
+Triunfo Corner, 34.1575, -118.8239
+Trocha, 35.7981, -119.1461
+Trona, 35.7628, -117.3719
+Tropico, 34.1333, -118.2667
+Tropico Village, 34.8667, -118.1667
+Trowbridge, 38.9108, -121.5242
+Troy, 39.3117, -120.4619
+Truckee, 39.3281, -120.1822
+Truckhaven, 33.2969, -115.9764
+Trull, 37.9386, -121.5006
+Tryon Corner, 41.8775, -124.1453
+Tuber, 41.9369, -121.4503
+Tudor, 39.0050, -121.6225
+Tujunga, 34.2522, -118.2875
+Tulare, 36.2078, -119.3464
+Tule River Indian Reservation, 36.0333, -118.7167
+Tulelake, 41.9561, -121.4764
+Tunitas, 37.3833, -122.3833
+Tunnel Inn, 40.7264, -122.3236
+Tuolumne, 37.9608, -120.2364
+Tuolumne Meadows, 37.7500, -119.5833
+Tupman, 35.2981, -119.3503
+Turk, 36.1711, -120.2211
+Turlock, 37.4947, -120.8456
+Turner(San Joaquin), 37.8600, -121.2172
+Turner(Sonoma), 38.3411, -122.7764
+Turner Station, 37.8000, -121.1833
+Tustin, 33.7458, -117.8253
+Tustin-Foothills, 33.7667, -117.8000
+Tuttle, 37.2961, -120.3778
+Tuttletown, 37.9917, -120.4586
+Tuxedo Country Club Estates, 37.9667, -121.3167
+Tuxedo Park, 37.9667, -121.3167
+Twain, 40.0189, -121.0328
+Twain Harte, 38.0397, -120.2317
+Tweedy, 33.9333, -118.1833
+Twentymile Crossing, 40.1139, -121.8164
+Twentynine Palms, 34.1356, -116.0533
+Twentynine Palms Base, 34.2333, -116.0667
+Twentynine Palms Indian Reservation, 34.1167, -116.0333
+Twin Bridges, 38.8114, -120.1231
+Twin Buttes, 36.4667, -119.2056
+Twin Cities, 38.2911, -121.3100
+Twin Creeks, 37.1561, -121.8431
+Twin Lakes(Los Angeles), 34.2781, -118.6006
+Twin Lakes(Kern), 34.9872, -118.5136
+Twin Lakes(Santa Cruz), 36.9675, -121.9969
+Twin Oaks(Kern), 35.3125, -118.4089
+Twin Oaks(San Diego), 33.1853, -117.1539
+Twin Peaks, 34.2389, -117.2328
+Twin Pines, 39.0256, -120.9783
+Two Rivers, 39.8231, -120.6692
+Two Rock, 38.2664, -122.7911
+Tyee City, 40.9225, -124.1256
+Tylers Corner, 38.5283, -120.6853
+Tyndall Landing, 38.8831, -121.8169
+Tyrone, 38.4492, -122.9994

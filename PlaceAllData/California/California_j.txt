@@ -1,0 +1,78 @@
+Jacinto, 39.5811, -122.0056
+Jacinto Grange, 39.5167, -122.0167
+Jacksnipe, 38.1928, -122.0669
+Jackson, 38.3489, -120.7731
+Jackson Gate, 38.3500, -120.7667
+Jacksonville, 37.8667, -120.4333
+Jacobs Corner, 38.6717, -121.8933
+Jacumba, 32.6175, -116.1889
+Jalama, 34.4981, -120.4936
+Jamacha, 32.7417, -116.9106
+Jamacha Junction, 32.7397, -116.9425
+James, 39.6533, -121.5486
+Jamesan, 36.7200, -120.2089
+Jamesburg, 36.3697, -121.5892
+Jameson Beach, 38.9167, -120.0000
+Jamestown, 37.9533, -120.4217
+Jamul, 32.7169, -116.8753
+Janes Place, 40.7894, -123.7156
+Janesville, 40.2967, -120.5231
+Jarbo, 39.5000, -121.5500
+Jarvis Landing, 37.5294, -122.0625
+Jasmin, 35.7428, -119.1439
+Jastro, 35.3767, -119.0714
+Java, 34.8875, -114.7264
+Jefferson, 34.0183, -118.2711
+Jellico, 40.8450, -121.2917
+Jelly, 40.1833, -122.2667
+Jenks Place, 39.7086, -122.8472
+Jenner, 38.4497, -123.1144
+Jenny Lind, 38.0950, -120.8689
+Jerome, 41.7317, -121.9992
+Jerseydale, 37.5636, -119.8564
+Jesmond Dene, 33.1803, -117.1083
+Jesus Maria, 38.2856, -120.6464
+Jet, 37.4328, -121.0989
+Jewell, 38.0367, -122.7447
+Jim Leggett Place, 39.8628, -123.4194
+Jimgrey, 34.9769, -117.4667
+Jimtown, 38.6667, -122.8186
+Joes Landing, 38.7800, -121.6025
+Joesphine, 39.0942, -121.8000
+Jofegan, 33.3150, -117.3314
+Johannesburg, 35.3728, -117.6339
+John Adams P O, 32.7667, -117.1167
+Johnson Landing, 37.6292, -122.1522
+Johnson Park, 40.8833, -121.6667
+Johnson Tract, 36.3333, -119.3000
+Johnsondale, 35.9747, -118.5400
+Johnsons, 41.3506, -123.8708
+Johnston Corner, 36.9286, -121.7042
+Johnstons Corner, 34.8303, -117.1794
+Johnstonville, 40.3844, -120.5864
+Johnstown, 32.8381, -116.8958
+Johnsville, 39.7608, -120.6944
+Joint Union High School, 36.9847, -120.6222
+Jolon, 35.9667, -121.1833
+Jones Corner, 36.0658, -119.1061
+Jones Place, 38.8497, -120.3694
+Jonesville, 40.1125, -121.4661
+Joshua, 35.2711, -115.4486
+Joshua Tree, 34.1347, -116.3122
+Jovista, 35.7975, -119.1819
+Juan, 35.3664, -115.0872
+Julian, 33.0786, -116.6011
+Junction Camp(Contra Costa), 37.8661, -121.9314
+Junction Camp(Santa Barbara), 34.7317, -119.9792
+Junction City, 40.7333, -123.0525
+Junction House(), 39.3167, -120.8100
+Junction House(Site), 39.7406, -121.2908
+Junction Ranch, 36.0739, -117.5119
+June Lake, 37.7797, -119.0744
+June Lake Junction, 37.8125, -119.0533
+Juniper, 41.4800, -120.5717
+Juniper Hills, 34.4442, -117.9344
+Juniper Lake Resort, 40.3000, -121.2333
+Juniper Springs, 33.7661, -117.0833
+Jupiter, 38.1225, -120.2817
+Jurupa, 33.9833, -117.4833

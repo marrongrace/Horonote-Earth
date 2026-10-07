@@ -1,0 +1,301 @@
+Waddington, 40.5672, -124.2006
+Wade Place, 40.2961, -121.9142
+Wadstrom, 34.3161, -119.2906
+Wagner(Los Angeles), 33.9500, -118.3000
+Wagner(San Joaquin), 37.7981, -121.0803
+Wagner(Tuolumne), 38.3586, -119.8769
+Wagy Flats, 35.6500, -118.4667
+Wahtoke, 36.6769, -119.4569
+Waldo, 37.8711, -122.5025
+Waldo Junction, 39.1111, -121.3081
+Waldorf, 34.9111, -120.5542
+Waldorf Crossing, 40.8347, -123.1597
+Waldrue Heights, 38.3644, -122.5600
+Walerga, 38.6750, -121.3647
+Walker(Mono), 38.5500, -119.5000
+Walker(Los Angeles), 33.9667, -118.1667
+Walker(Siskiyou), 41.8667, -122.7333
+Walker Landing, 38.2153, -121.6042
+Wallace, 38.1942, -120.9769
+Wallace Center, 35.1697, -119.4647
+Walltown, 38.5742, -121.1028
+Walmort, 38.3806, -121.2431
+Walnut, 34.0203, -117.8644
+Walnut Creek, 37.9064, -122.0639
+Walnut Grove, 38.2422, -121.5106
+Walnut Heights, 37.8833, -122.0500
+Walnut Park, 33.9681, -118.2242
+Walong, 35.1975, -118.5369
+Walsh Landing, 38.5556, -123.2994
+Walsh Station, 38.5289, -121.3336
+Walter Springs, 38.6536, -122.3569
+Walteria, 33.8050, -118.3503
+Walthal, 37.9786, -121.1453
+Warm Springs, 37.5667, -121.9833
+Warm Springs District, 37.4872, -121.9281
+Warner, 34.0608, -117.1456
+Warner Ranch, 33.9333, -117.2333
+Warner Springs, 33.2822, -116.6328
+Warnerville, 37.7325, -120.5956
+Wasco, 35.5942, -119.3400
+Waseck, 41.2169, -123.7542
+Washington(Nevda), 39.3594, -120.7981
+Washington(Los Angeles), 34.0167, -118.2667
+Washington Hospital, 33.9978, -118.4247
+Washington Manor, 37.7000, -122.1333
+Washington Township Hospital, 37.5575, -121.9786
+Waterford, 37.6414, -120.7594
+Waterloo, 38.0347, -121.1858
+Watermans Corner, 32.7811, -115.4469
+Wathier Landing, 34.0439, -116.7125
+Watson, 33.8083, -118.2339
+Watson Junction, 33.7994, -118.2531
+Watsonville, 36.9103, -121.7558
+Watsonville Junction, 36.8950, -121.7447
+Watts, 33.9406, -118.2419
+Watts Valley, 37.0167, -119.4000
+Waukena, 36.1386, -119.5086
+Waverly Park, 34.2000, -118.8833
+Wawona, 37.5369, -119.6553
+Wayne, 37.3858, -121.8978
+Weaverville, 40.7311, -122.9408
+Weber Grove, 41.8064, -124.1306
+Webster, 38.5622, -121.6542
+Webster Street, 37.7833, -122.2667
+Weed, 41.4228, -122.3850
+Weed Patch, 35.2381, -118.9142
+Weeds Point, 39.4775, -121.0486
+Weimar, 39.0375, -120.9714
+Weisel, 33.8100, -117.4989
+Weitchpec, 41.1883, -123.7072
+Welby, 36.1886, -121.0686
+Weldon, 35.6658, -118.2894
+Weldons, 34.3450, -119.2961
+Wellington Heights, 34.0361, -118.1847
+Wells Place(Site), 40.1981, -121.9311
+Wellsona, 35.6972, -120.6925
+Wendel, 40.3483, -120.2325
+Wengler, 40.9142, -121.9075
+Weott, 40.3219, -123.9206
+Werner, 37.9406, -121.6081
+West, 37.9833, -122.7500
+West Adams, 34.0333, -118.3167
+West Anaheim, 33.8322, -117.9417
+West Arcadia, 34.1261, -118.0539
+West Athens, 33.9167, -118.3000
+West Butte, 39.1872, -121.8869
+West Carson, 33.8333, -118.3000
+West Colton, 34.0669, -117.3519
+West Colusa, 39.2000, -122.4167
+West Compton, 33.9000, -118.2667
+West Covina, 34.0686, -117.9381
+West Fresno, 36.7500, -119.8333
+West Garden Grove, 33.7833, -117.9833
+West Glendale, 34.1483, -118.2725
+West Guernewood, 38.5000, -123.0000
+West Hartley, 37.9406, -121.8117
+West Highlands, 34.1394, -117.2306
+West Hills, 34.4500, -119.2667
+West Hollywood, 34.0900, -118.3608
+West Imperial, 32.8333, -115.7500
+West Los Angeles, 34.0464, -118.4472
+West Manteca, 37.7972, -121.2508
+West March, 33.9033, -117.2769
+West Menlo Park, 37.4500, -122.1833
+West Modesto, 37.6167, -121.0167
+West Napa, 38.3000, -122.3000
+West Orange, 33.7833, -117.8833
+West Palm Springs, 33.9333, -116.6333
+West Park, 36.7103, -119.8503
+West Pittsburg, 38.0269, -121.9361
+West Point, 38.3992, -120.5264
+West Portal, 37.7333, -122.4500
+West Puente Valley, 34.0500, -117.9667
+West Sacramento, 38.5806, -121.5292
+West Saticoy, 34.2853, -119.1594
+West Side Hospital, 37.2858, -121.0097
+West Sierra, 39.5833, -120.7500
+West Tehama, 40.0500, -122.5000
+West Valley, 38.9167, -121.3167
+West Venida, 36.3411, -119.1289
+West Whittier, 33.9886, -118.0561
+Westchester, 33.9597, -118.3997
+Westend, 35.7069, -117.3914
+Western Addition, 37.7853, -122.4458
+Western Avenue, 33.7500, -118.3167
+Western Village, 35.1333, -117.9833
+Westfield, 33.7667, -118.3500
+Westgate(Santa Clara), 37.3167, -121.9667
+Westgate(Ventura), 34.2000, -118.8833
+Westhaven(Fresno), 36.2267, -119.9939
+Westhaven(Humboldt), 41.0361, -124.1100
+Westlake, 37.7122, -122.5450
+Westlake Village, 34.2000, -118.8833
+Westley, 37.5494, -121.1981
+Westlund Place, 40.2339, -124.0161
+Westminster, 33.7592, -118.0058
+Westminster Hospital, 33.7628, -117.9944
+Westmont, 33.9500, -118.3000
+Westmorland, 33.0372, -115.6206
+Westport, 39.6358, -123.7819
+Westridge, 37.6833, -122.4833
+Westside(Fresno), 36.4006, -120.1381
+Westside(Kern), 35.1500, -119.3833
+Westside(Stanislaus), 37.6333, -120.9833
+Westside Hospital, 34.0594, -118.3617
+Westvern, 34.0000, -118.3167
+Westville, 39.1750, -120.6469
+Westwood(Lassen), 40.3061, -121.0047
+Westwood(Los Angeles), 34.0561, -118.4297
+Westwood Acres, 37.0167, -121.5833
+Westwood Junction, 40.4319, -120.9456
+Westwood Village(Humboldt), 40.8667, -124.0833
+Westwood Village(Los Angeles), 34.0594, -118.4433
+Wheatland, 39.0100, -121.4219
+Wheaton Springs, 35.4622, -115.4753
+Wheeler, 39.8856, -123.9100
+Wheeler Ridge, 35.0044, -118.9486
+Wheeler Springs, 34.5081, -119.2906
+Whiskey Springs, 39.3633, -123.6656
+Whiskeytown, 40.6389, -122.5586
+Whisky Falls, 37.2869, -119.4383
+Whispering Pines(Lake), 38.8136, -122.7114
+Whispering Pines(San Diego), 33.0861, -116.5850
+White Hall, 38.7753, -120.4042
+White Heather, 34.5203, -118.3058
+White Memorial Hospital, 34.0500, -118.2167
+White Pines, 38.2661, -120.3397
+White River, 35.8111, -118.8419
+White River Summer Home Tract, 35.8494, -118.6261
+White Rock, 38.6272, -121.0911
+White Spot, 39.2814, -121.0097
+White Water(P O), 33.9250, -116.6358
+White Wolf, 37.8692, -119.6478
+Whitehorse, 41.3119, -121.3994
+Whites Landing, 33.3944, -118.3689
+Whitesboro, 39.2147, -123.7633
+Whitethorn, 40.0239, -123.9419
+Whitley Gardens, 35.6592, -120.5067
+Whitlock Place, 39.8353, -122.6986
+Whitlow, 40.3153, -123.7961
+Whitmore, 40.6294, -121.9156
+Whitmore Hot Springs, 37.6325, -118.8114
+Whitner Heights, 36.6167, -119.5167
+Whitney, 38.8336, -121.3058
+Whitney Portal, 36.5892, -118.2250
+Whittier, 33.9792, -118.0319
+Whittier Downs, 33.9833, -118.0667
+Whittier Hospital, 33.9497, -118.0025
+Whittier Junction, 34.0050, -118.0642
+Whittington Place(Site), 40.7089, -121.6806
+Wible Orchard, 35.3178, -119.0203
+Wicks Corner, 39.5822, -121.6197
+Wiest, 33.0586, -115.4475
+Wilbur Springs, 39.0394, -122.4186
+Wilcox, 34.0833, -118.3333
+Wild Bill Place, 39.2308, -122.7806
+Wild Crossing, 34.7800, -117.2742
+Wildasin, 33.9889, -118.2992
+Wilder Place, 39.8261, -122.6306
+Wildflower, 36.5039, -119.6822
+Wildomar, 33.5978, -117.2778
+Wildrose, 35.7667, -117.3833
+Wildwood(Los Angeles), 34.2956, -118.2411
+Wildwood(Santa Cruz), 37.1514, -122.1350
+Wildwood(Trinity), 40.4003, -123.0531
+Wildwood(Humboldt), 40.5000, -124.1000
+Wilfred, 38.3672, -122.7131
+Will Rogers, 34.0167, -118.4833
+Willaura Estates, 39.2167, -121.0667
+William H Taft, 32.8000, -117.1833
+Williams, 39.1547, -122.1483
+Willie Hoaglin Place, 40.1142, -123.3353
+Willis Palms, 33.8272, -116.3286
+Willits, 39.4097, -123.3544
+Willota, 38.2444, -122.1058
+Willow Brook, 33.9161, -118.2306
+Willow Creek, 40.9397, -123.6303
+Willow Creek Crossing, 33.7833, -116.6542
+Willow Glen, 37.3086, -121.8886
+Willow Ranch, 41.9025, -120.3572
+Willow Springs(Lassen), 40.8789, -121.2467
+Willow Springs(Kern), 34.8783, -118.2958
+Willow Springs(Mono), 38.1886, -119.2036
+Willow Springs(Tuolumne), 37.9833, -120.2667
+Willow Valley, 39.2667, -121.0167
+Willows, 39.5244, -122.1925
+Wilmar, 34.0667, -118.0833
+Wilmington, 33.7800, -118.2617
+Wilseyville, 38.3792, -120.5136
+Wilshire-La Brea, 34.0667, -118.3500
+Wilsie, 32.8000, -115.6022
+Wilson, 38.9783, -121.6247
+Wilson Corner, 35.4686, -120.3781
+Wilson Grove, 38.5167, -122.8536
+Wilson Landing(Site), 39.7969, -122.0211
+Wilson Place, 39.6733, -122.4017
+Wilsona, 34.6667, -118.1833
+Wilsona Gardens, 34.6678, -117.8247
+Wilsonia, 36.7350, -118.9556
+Wilton, 38.4119, -121.2711
+Wimp, 36.5006, -119.2431
+Winchester, 33.7069, -117.0836
+Windsor, 38.5472, -122.8153
+Windsor Hills, 33.9889, -118.3531
+Wineland, 36.5417, -119.5828
+Wingfoot, 33.9892, -118.2517
+Wingo, 38.2092, -122.4256
+Winnetka, 34.2133, -118.5711
+Winter Gardens, 32.8311, -116.9325
+Winterhaven, 32.7394, -114.6339
+Winters, 38.5250, -121.9697
+Wintersburg, 33.7158, -117.9969
+Winterwarm, 33.3408, -117.2214
+Winton, 37.3894, -120.6122
+Wise, 33.9167, -118.4167
+Wiseburn, 33.9167, -118.3500
+Wish-I-Ah Sanatorium, 37.1094, -119.4967
+Wishon, 37.3000, -119.5333
+Wister, 33.3153, -115.6025
+Witch Creek, 33.0500, -116.9000
+Witter Springs(P O), 39.1800, -122.9622
+Wofford Heights, 35.7069, -118.4553
+Wolf, 36.6953, -119.6369
+Wolf, 39.0586, -121.1372
+Wonderland, 40.5500, -122.3667
+Wood Ranch, 36.7494, -120.6381
+Woodacre, 38.0128, -122.6442
+Woodbridge, 38.1542, -121.3003
+Woodcrest, 33.8822, -117.3564
+Woodford, 35.2128, -118.5517
+Woodfords, 38.7778, -119.8208
+Woodlake, 38.1522, -121.2422
+Woodlake Junction, 36.4136, -119.1144
+Woodland(Yolo), 38.6786, -121.7722
+Woodland(Tulare), 36.4136, -119.0978
+Woodland Acres, 34.4500, -119.2667
+Woodland Hills, 34.1683, -118.6050
+Woodlands, 34.2450, -116.8006
+Woodleaf, 39.5175, -121.1906
+Woodman, 39.7711, -123.3889
+Woodruff Avenue, 33.8833, -118.1333
+Woodside, 37.4300, -122.2528
+Woodside Glens, 37.4406, -122.2556
+Woodside Highlands, 37.4667, -122.2500
+Woodville(Marin), 37.9447, -122.7053
+Woodville(Tulare), 36.0936, -119.1981
+Woody, 35.7042, -118.8333
+Woolsey Flat, 39.4114, -120.8669
+Workfield, 36.6167, -121.8333
+Workman, 33.9297, -118.1672
+Worldway Postal Center, 34.0833, -118.3167
+Worswick, 40.6119, -124.1906
+Worth, 36.0525, -118.9361
+Wright Place(Site), 41.2778, -123.6772
+Wrightwood, 34.3608, -117.6325
+Wunpost, 35.9311, -120.8622
+Wyandotte, 39.4581, -121.4667
+Wyeth, 36.5194, -119.2658
+Wynola, 33.0975, -116.6447
+Wyntoon, 41.1917, -122.0633
+Wyo, 39.7706, -122.1903

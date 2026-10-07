@@ -1,0 +1,298 @@
+Hacienda, 38.5114, -122.9267
+Hacienda Del Florasol, 32.6172, -116.4994
+Hacienda Heights, 34.0069, -117.9636
+Hackamore, 41.5519, -121.1225
+Hacketsville, 40.4875, -124.1703
+Hagginwood, 38.6275, -121.4314
+Haight, 38.0928, -121.2419
+Haines, 34.3247, -119.1019
+Haiwee, 36.1500, -117.9833
+Halcyon, 35.1033, -120.5947
+Hale Place, 38.5083, -123.0356
+Hales Grove, 39.8178, -123.7811
+Half Moon Bay, 37.4636, -122.4275
+Halfway House, 35.5897, -118.9594
+Hall(Alameda), 37.6000, -122.0167
+Hall(Monterey), 36.8653, -121.7339
+Hall Station, 37.5867, -122.0642
+Hallelujah Junction, 39.7756, -120.0383
+Halloran Springs, 35.2667, -116.0667
+Halls Corner, 36.3425, -119.8056
+Halls Flat, 40.7561, -121.2581
+Hallwood, 39.1500, -121.5333
+Halsted Flat, 40.0203, -121.0708
+Hamblin, 36.3297, -119.6089
+Hambone, 41.3350, -121.6967
+Hamburg, 41.7831, -123.0592
+Hamburg Farms, 36.8794, -120.7628
+Hamilton Air Force Base, 38.0500, -122.5167
+Hamilton City, 39.7428, -122.0125
+Hamlet, 38.2078, -122.9244
+Hammer Place, 40.1197, -122.7161
+Hammil, 37.6786, -118.4028
+Hammond(Tulare), 36.4656, -118.8603
+Hammond(Fresno), 36.7597, -119.7861
+Hammond Crossing, 41.1847, -121.5906
+Hammonton, 39.1931, -121.4197
+Hancock, 33.9500, -118.2833
+Hanford, 36.3275, -119.6447
+Hansen, 33.8172, -118.0097
+Happy Camp, 41.7933, -123.3783
+Happy Valley(El Dorado), 38.6819, -120.5622
+Happy Valley(Los Angeles), 34.0836, -118.1994
+Happyland Sanitarium, 33.2536, -116.9856
+Harbin Springs, 38.7878, -122.6544
+Harbin Springs Annex, 38.7922, -122.6603
+Harbison Canyon, 32.8203, -116.8292
+Harbor, 34.2000, -119.1667
+Harbor City, 33.7900, -118.2969
+Harbor Hills, 33.7803, -118.3139
+Harbor Side, 32.6100, -117.0806
+Harden Flat, 37.8111, -119.9464
+Hardman Center, 33.9500, -117.4000
+Hardwick, 36.4014, -119.7178
+Hardy, 39.7125, -123.8019
+Hardy Place, 39.8011, -122.9497
+Harlem, 36.3992, -121.2525
+Harlem Springs, 34.1214, -117.2253
+Harlow Place, 41.1453, -121.6758
+Harmony, 35.5086, -121.0217
+Harmony Acres, 35.1436, -116.1086
+Harmony Grove, 33.0961, -117.1344
+Harold, 34.5450, -118.1086
+Harp, 37.5806, -120.9839
+Harpertown, 35.2947, -118.9225
+Harriman Hospital, 33.7669, -118.1675
+Harrington, 38.9589, -122.0164
+Harris, 40.0842, -123.6575
+Harrisburg, 36.3639, -117.1106
+Harrison Park, 33.0261, -116.5683
+Harry Floyd Terrace, 38.1292, -122.2369
+Hart, 35.2889, -115.1025
+Hartland, 36.6544, -118.9567
+Hartley, 38.4172, -121.9458
+Harts Place, 35.5008, -117.9478
+Harvard, 34.9511, -116.6639
+Haskell Creek Homesites, 39.6347, -120.5517
+Hat Creek(P O), 40.7911, -121.5047
+Hatch, 37.4897, -120.9544
+Hatfield, 41.9981, -121.5183
+Hathaway Pines, 38.1919, -120.3644
+Hathaway Place, 35.1669, -120.2983
+Hatton Fields, 36.5500, -121.8833
+Havasu Lake, 34.4822, -114.4131
+Havasu Palms, 34.3989, -114.2797
+Haven Place, 40.1825, -122.6747
+Havilah, 35.5178, -118.5178
+Hawaiian Gardens, 33.8314, -118.0719
+Hawkins Bar, 40.8703, -123.5217
+Hawkinsville, 41.7608, -122.6208
+Hawley, 39.8108, -120.3539
+Hawthorne, 33.9164, -118.3517
+Hayden, 35.0447, -115.6103
+Hayden Hill, 40.9956, -120.8861
+Hayfield, 33.7047, -115.6336
+Hayfork, 40.5544, -123.1819
+Hays Place, 39.6772, -122.9100
+Haystack, 38.2233, -122.6089
+Hayward(Alameda), 37.6689, -122.0797
+Hayward(Mariposa), 37.6428, -120.3703
+Hayward Highlands, 37.6667, -122.0500
+Hayward Landing, 37.6447, -122.1550
+Hayward Park, 37.5544, -122.3122
+Hazard, 34.0500, -118.1833
+Hazelton, 35.0422, -119.3836
+Healdsburg, 38.6106, -122.8681
+Hearst, 39.4917, -123.2136
+Heart Bar Campground, 34.1586, -116.7858
+Heath Place, 39.8242, -123.3800
+Heather Glen, 39.0183, -120.9808
+Heber, 32.7308, -115.5289
+Hector, 34.8039, -116.4517
+Helena, 40.7736, -123.1272
+Helendale, 34.7439, -117.3236
+Hellhole Palms, 33.2367, -116.4394
+Helltown, 39.8117, -121.6586
+Helm, 36.5317, -120.0972
+Helm Corner, 36.0981, -119.6428
+Hemet, 33.7475, -116.9711
+Hemlock Crossing, 37.6383, -119.2231
+Henderson, 37.4794, -122.1644
+Henderson Center, 40.7833, -124.1667
+Henderson Village, 38.1008, -121.3044
+Henley, 41.9022, -122.5622
+Henleyville, 39.9619, -122.3256
+Henry, 35.4897, -120.6469
+Herald, 38.2958, -121.2433
+Hercules, 38.0172, -122.2875
+Herlong, 40.1436, -120.1336
+Herlong Junction, 40.1247, -120.2456
+Hermosa Beach, 33.8622, -118.3986
+Hernandez, 36.8500, -121.4000
+Herndon, 36.8367, -119.9164
+Herpoco, 38.0117, -122.2700
+Hershey, 38.9256, -121.9956
+Hesperia, 34.4264, -117.3000
+Hess Mill, 38.1025, -120.2367
+Hessel, 38.3483, -122.7761
+Hetch Hetchy Junction, 37.8011, -120.4867
+Hewitt, 34.1997, -118.3892
+Heyer, 37.6500, -122.0667
+Hi Vista, 34.7350, -117.7764
+Hickman, 37.6236, -120.7528
+Hidden Hills, 34.1603, -118.6514
+Hidden Meadows, 33.0667, -117.0500
+Hidden Palms, 33.8203, -116.3006
+Hidden River, 34.1783, -116.3072
+Hidden Springs, 34.3183, -118.1303
+Hidden Valley, 38.7642, -121.1622
+Higby, 36.2850, -119.2869
+Higgins Corner, 39.0428, -121.0939
+Highcroft, 38.5019, -122.9425
+Highgrove, 34.0158, -117.3325
+Highland, 34.1283, -117.2078
+Highland General Hospital, 38.8978, -121.0611
+Highland Manor, 35.4000, -119.0333
+Highland Park(Kem), 35.4000, -119.0333
+Highland Park(Los Angeles), 34.1119, -118.1981
+Highland Sanitarium, 34.3047, -118.4117
+Highland Springs(Lake), 38.9372, -122.9058
+Highland Springs(Riverside), 33.9694, -116.9414
+Hights Corner, 35.4433, -119.2014
+Highway City, 36.8108, -119.8839
+Hilarita, 37.8842, -122.4708
+Hildreth, 37.1089, -119.6319
+Hillcrest(Kern), 35.3833, -118.9500
+Hillcrest(San Diego), 32.7478, -117.1567
+Hillcrest(Shasta), 40.8639, -121.9075
+Hillcrest Center, 35.3833, -118.9500
+Hillcrest Hospital, 36.7847, -119.7711
+Hillcrest Park, 38.1167, -122.2333
+Hillgrove, 34.0167, -117.9792
+Hillmaid, 36.4139, -119.1339
+Hills Ferry, 37.3489, -120.9786
+Hills Flat, 39.2242, -121.0522
+Hillsborough, 37.5742, -122.3783
+Hillsborough Park, 37.5550, -122.3578
+Hillsdale, 32.7792, -116.9272
+Hillsdale, 37.5364, -122.3044
+Hillside Community Hospital, 39.1278, -123.2106
+Hilltop, 35.3833, -119.0167
+Hilmar, 37.4086, -120.8492
+Hilt, 41.9950, -122.6222
+Hilton, 38.5047, -122.9392
+Hinda, 33.9528, -117.0572
+Hinkley, 34.9347, -117.1983
+Hinsdale, 39.0153, -121.7778
+Hinton, 39.3753, -120.0728
+Hiouchi, 41.7928, -124.0708
+Hiouchi Valley, 41.7667, -124.2000
+Hirschdale, 39.3686, -120.0750
+Hite Cove, 37.6408, -119.8481
+Hoag Memorial Hospital, 33.6236, -117.9286
+Hoaglin, 40.2000, -123.5000
+Hobart, 34.0122, -118.2039
+Hobart Mills, 39.4006, -120.1828
+Hobergs, 38.8436, -122.7233
+Hoboken, 40.8831, -123.4336
+Hodge, 34.8156, -117.1925
+Hoffman Point, 36.6922, -119.1972
+Holcomb Village, 33.3508, -116.7367
+Holderman Sanitarium, 37.3258, -121.9503
+Holiday Forest, 34.2500, -116.8833
+Hollenbeck, 41.4619, -121.2822
+Hollis, 35.6675, -119.1903
+Hollister, 36.8525, -121.4006
+Hollydale(Los Angeles), 33.9147, -118.1608
+Hollydale(Sonoma), 38.5053, -122.9189
+Hollywood, 34.0983, -118.3258
+Hollywood Beach, 34.1672, -119.2297
+Hollywood by the Sea, 34.1606, -119.2250
+Hollywood Park Race Track, 33.9500, -118.3333
+Hollywood Riviera, 33.8142, -118.3822
+Holmes, 40.4186, -123.9394
+Holt, 37.9344, -121.4261
+Holtville, 32.8111, -115.3794
+Holy City, 37.1569, -121.9778
+Holy Cross Hospital, 34.2806, -118.4581
+Home Acres, 38.0000, -121.8500
+Home Gardens(Riverside), 33.8781, -117.5200
+Home Gardens(Los Angeles), 33.9333, -118.1833
+Home Junc, 34.0358, -118.4339
+Homeland, 33.7431, -117.1083
+Homelands, 32.7417, -116.9717
+Homer, 34.9200, -114.9361
+Homestead(San Joaquin), 37.9333, -121.2667
+Homestead(Modoc), 41.9136, -121.4219
+Homestead(Riverside), 33.5500, -116.7167
+Homestead Valley, 37.9000, -122.5333
+Homewood, 39.0869, -120.1592
+Honby, 34.4211, -118.4914
+Honcut, 39.3292, -121.5328
+Honda, 34.6156, -120.6325
+Honey Lake, 40.0833, -120.1000
+Honeydew, 40.2444, -124.1217
+Hood, 38.3683, -121.5164
+Hood Junction, 38.3636, -121.5086
+Hooker, 40.3008, -122.3258
+Hookston, 37.9414, -122.0517
+Hookton, 40.6733, -124.2172
+Hoopa, 41.0506, -123.6733
+Hoopa Valley Indian Reservation, 41.0500, -123.6667
+Hooper, 41.2681, -122.1606
+Hooperville, 41.6789, -122.8478
+Hope Ranch, 34.4219, -119.7700
+Hope Valley, 41.9000, -120.3500
+Hopeton, 37.4917, -120.5300
+Hopland, 38.9731, -123.1153
+Hoppaw, 41.5244, -124.0289
+Horizon Hills, 34.2000, -118.8833
+Hornbrook, 41.9103, -122.5547
+Hornitos, 37.5022, -120.2372
+Horse Creek, 41.8242, -122.9958
+Horse Flat, 41.9006, -123.7692
+Horse Lake, 40.6742, -120.4031
+Horstville, 39.0281, -121.3906
+Hotlum, 41.4742, -122.3133
+Hough Springs, 39.1625, -122.6111
+Houghton Place, 39.8050, -122.6772
+Houze Place, 34.7686, -117.6250
+Hovley, 33.0025, -115.5208
+Howard, 41.3131, -122.2758
+Howard Landing, 38.2289, -121.6000
+Howard Landing Ferry, 38.2367, -121.6025
+Howard Springs, 38.8583, -122.6736
+Howell Place, 34.4692, -119.1189
+Howells Landing, 38.9308, -121.8356
+Howest, 37.5833, -122.3667
+Howland Flat, 39.7150, -120.8856
+Hoxie Crossing, 40.0178, -123.1122
+Hoyt Crossing, 39.3044, -121.0775
+Huasna, 35.1228, -120.3925
+Hub, 36.4022, -119.8081
+Hub City, 33.8833, -118.2500
+Hubert Place, 35.1689, -120.2664
+Hudner, 36.9000, -121.4503
+Hudson, 37.6333, -120.9833
+Hughes Mill, 39.0911, -120.7786
+Hughes Place, 39.7278, -121.4011
+Hughson, 37.5969, -120.8650
+Hulburd Grove, 32.8619, -116.6222
+Hume, 36.7850, -118.9128
+Humphreys, 34.4103, -118.4397
+Humphreys Station, 36.8167, -119.7167
+Hunter Place, 40.1794, -124.0142
+Hunters Valley, 37.5000, -120.2333
+Huntington Beach, 33.6603, -117.9983
+Huntington Lake, 37.2317, -119.2350
+Huntington Memorial Hospital, 34.1333, -118.1517
+Huntington Park, 33.9817, -118.2242
+Huntley, 37.7586, -120.9461
+Hurleton, 39.4975, -121.3864
+Huron, 36.2028, -120.1019
+Hutt, 34.9078, -117.0744
+Hy-Pana Hospital, 36.7794, -119.7644
+Hyampom, 40.6175, -123.4514
+Hyde Park, 33.9806, -118.3297
+Hydesville, 40.5478, -124.0961
+Hydril, 36.0128, -120.0975

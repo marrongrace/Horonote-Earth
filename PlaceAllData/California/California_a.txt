@@ -1,0 +1,254 @@
+Abalone Cove, 33.7667, -118.3500
+Abbott, 39.0206, -121.6244
+Aberdeen, 36.9781, -118.2525
+Academy, 36.8167, -119.7167
+Acampo, 38.1747, -121.2775
+Acolita, 33.0711, -115.1839
+Actis, 34.9586, -118.1478
+Actis Gardens, 35.1333, -117.9833
+Acton, 34.4700, -118.1958
+Adams, 38.8564, -122.7186
+Adams Square, 34.1336, -118.2403
+Adela, 37.7886, -120.8622
+Adelaida, 35.6456, -120.8725
+Adelanto, 34.5828, -117.4083
+Adin, 41.1939, -120.9442
+Adobe Corner, 37.4261, -122.2653
+Advance, 36.5158, -118.9017
+Aerial Acres, 35.0878, -117.7911
+Aetna Springs, 38.6536, -122.4817
+Afton(Glenn), 39.4200, -121.9653
+Afton(San Bernardino), 35.0364, -116.3789
+Ager, 41.8664, -122.4594
+Agnew, 37.3947, -121.9581
+Agnews State Hospital East Area, 37.4089, -121.9306
+Agnews State Hospital West Area, 37.3942, -121.9500
+Agoura, 34.1431, -118.7369
+Agoura Hills, 34.1431, -118.7369
+Agra, 33.3333, -117.4992
+Agua Caliente, 38.3242, -122.4869
+Agua Caliente Indian Reservation, 33.8167, -116.5333
+Agua Caliente Springs, 33.0833, -116.6000
+Agua Dulce, 34.4964, -118.3247
+Agua Fria, 37.4850, -120.0192
+Aguanga, 33.4428, -116.8642
+Ahwahnee, 37.3656, -119.7253
+Ahwahnee Sanatorium, 37.3817, -119.7308
+Ainsworth Corner, 41.9986, -121.5586
+Akers, 37.9983, -121.2825
+Al Tahoe, 38.9419, -119.9825
+Alabama Hill, 38.3550, -120.5908
+Alameda(Kern), 35.2378, -119.0022
+Alameda(Alameda), 37.7653, -122.2406
+Alamitos, 37.2506, -121.8661
+Alamo, 37.8503, -122.0311
+Alamo Oaks, 37.8394, -121.9919
+Alamorio, 32.9792, -115.4606
+Alba, 37.7981, -121.0386
+Albany, 37.8869, -122.2967
+Alberhill, 33.7272, -117.3989
+Albion, 39.2236, -123.7675
+Albrae, 37.4956, -121.9883
+Alder Creek, 38.6347, -121.2006
+Alder Springs(Fresno), 37.0661, -119.4011
+Alder Springs(Glenn), 39.6511, -122.7244
+Alderbrook Tract, 37.3167, -122.0333
+Aldercroft Heights, 37.1608, -121.9678
+Alderglen Springs, 38.8353, -123.0517
+Alderpoint, 40.1764, -123.6106
+Alemandra, 39.1489, -121.6869
+Alessandro, 33.8861, -117.2694
+Alexander Sanitarium, 37.5158, -122.2808
+Alexander Valley, 38.7000, -122.9000
+Alford Place, 40.2183, -122.6656
+Algerine, 37.9111, -120.3822
+Algoma, 41.2567, -121.8822
+Algoso, 35.3597, -118.9242
+Alhambra, 34.0953, -118.1261
+Alhambra Valley, 37.9833, -122.1167
+Alicia, 39.1028, -121.5806
+Alico, 36.5697, -117.9622
+Alisal, 36.6833, -121.6500
+All American, 37.3167, -122.0333
+Alla, 33.9811, -118.4289
+Alleghany, 39.4697, -120.8422
+Allen, 38.6172, -120.1097
+Allendale, 38.4447, -121.9419
+Allensworth, 35.8636, -119.3881
+Alliance, 40.8886, -124.0867
+Alliance Redwood, 38.4339, -122.9719
+Almanor, 40.2175, -121.1731
+Almondale, 34.5000, -117.9167
+Almonte, 37.8900, -122.5239
+Alondra, 33.9000, -118.3167
+Alondra Park, 33.9000, -118.3333
+Alpaugh, 35.8878, -119.4864
+Alpine(Mendocino), 39.4364, -123.5822
+Alpine(San Diego), 32.8350, -116.7656
+Alpine Heights, 32.8181, -116.7800
+Alpine Hills, 37.4500, -122.1833
+Alpine Village, 36.1333, -118.8167
+Alray, 34.3283, -117.4819
+Alsace, 33.9786, -118.4147
+Alta, 39.2067, -120.8103
+Alta Hill, 39.2300, -121.0756
+Alta Hospital, 36.5483, -119.3889
+Alta Loma, 34.1222, -117.5972
+Alta Mesa, 37.3989, -122.1336
+Alta Sierra, 35.7292, -118.5486
+Alta Sierra Estates, 39.2167, -121.0667
+Altadena, 34.1897, -118.1303
+Altadena Hospital, 34.1808, -118.1300
+Altamont, 37.7439, -121.6617
+Altaville, 38.0925, -120.5739
+Alto, 37.9044, -122.5244
+Alton, 40.5475, -124.1397
+Alturas, 41.4872, -120.5414
+Alum Rock, 37.3661, -121.8261
+Alvarado, 37.6000, -122.0167
+Alviso, 37.4261, -121.9742
+Amador City, 38.4194, -120.8231
+Ambassador, 34.0667, -118.3000
+Ambler, 36.3081, -119.2814
+Ambler Park, 36.6833, -121.6500
+Amboy, 34.5578, -115.7436
+Ambrose(Contra Costa), 38.0333, -121.9667
+Ambrose(Modoc), 41.5019, -120.9803
+American Canyon, 38.1167, -122.2333
+American River Hospital, 38.6344, -121.3522
+Amos, 33.1181, -115.2550
+Ampere, 38.1025, -121.2422
+Amphibious Base, 32.6667, -117.1667
+Amsterdam, 37.4303, -120.5411
+Anaheim, 33.8353, -117.9136
+Anchor Bay, 38.8028, -123.5767
+Anderson, 40.4483, -122.2967
+Anderson Landing(Abandoned), 36.1450, -121.6572
+Anderson Springs, 38.7500, -122.6167
+Andersonia, 39.9781, -123.8061
+Andesite, 41.5325, -122.2036
+Andover, 39.3106, -120.2461
+Andrade, 32.7167, -114.7167
+Andrade Corner, 34.6486, -118.3761
+Andrew Jackson P O, 32.7500, -117.0667
+Angels Camp, 38.0769, -120.5522
+Angelus Oaks, 34.1500, -116.9833
+Angiola, 35.9892, -119.4750
+Angwin, 38.5758, -122.4489
+Anita, 39.8108, -121.9772
+Annapolis, 38.7219, -123.3686
+Annette, 35.6508, -120.1781
+Ansel, 34.9050, -118.1533
+Antelope, 38.7083, -121.3289
+Antelope Acres, 34.7544, -118.2886
+Antelope Center, 34.5800, -117.9683
+Antes, 36.3086, -119.1297
+Antioch, 38.0050, -121.8047
+Antlers, 40.8956, -122.3700
+Antonio, 34.8353, -120.5689
+Anza(Imperial), 32.8003, -115.4975
+Anza(Riverside), 33.5550, -116.6728
+Apex, 38.7269, -120.8222
+Apple Valley, 34.5008, -117.1850
+Applegate, 39.0008, -120.9914
+Aptos, 36.9772, -121.8983
+Arastraville, 37.9981, -120.2258
+Araz Junction, 32.7472, -114.7136
+Arbee, 39.2111, -121.9947
+Arbios, 36.7767, -120.3969
+Arboga, 39.0514, -121.5547
+Arbolada, 34.4497, -119.2572
+Arbuckle, 39.0175, -122.0567
+Arcade(Los Angeles), 34.0833, -118.3667
+Arcade(Yolo), 38.4758, -121.5786
+Arcade Hospital, 38.6267, -121.4250
+Arcadia, 34.1397, -118.0344
+Arcata, 40.8667, -124.0817
+Arch Beach Heights, 33.5333, -117.7833
+Archer, 34.4206, -115.3647
+Arcilla, 33.7833, -117.4786
+Arden, 38.6000, -121.3833
+Arden Town, 38.5742, -121.3819
+Ardmore, 33.9333, -118.1833
+Arena, 37.3708, -120.6753
+Arequipa Sanatorium, 38.0011, -122.6106
+Argos, 34.7258, -116.2500
+Arguello, 34.5783, -120.6419
+Argus, 35.7472, -117.3944
+Arlanza, 33.9428, -117.4647
+Arlanza Village, 33.9333, -117.4833
+Arleta, 34.2500, -118.4167
+Arlight, 34.5778, -120.6383
+Arlington, 33.9203, -117.4456
+Arlington Station, 33.9142, -117.4403
+Arlynda Corners, 40.5950, -124.2539
+Armistead, 35.5478, -117.9267
+Armona, 36.3158, -119.7075
+Armstrong, 38.0892, -121.2736
+Army Point, 38.0500, -122.1500
+Army Terminal, 37.8000, -122.2167
+Arnold(Calaveras), 38.2556, -120.3500
+Arnold(Mendocino), 39.5189, -123.3925
+Arnold Heights, 33.8936, -117.2781
+Aromas, 36.8886, -121.6419
+Arrow Mall, 34.1000, -117.8833
+Arrowbear Lake, 34.2108, -117.0825
+Arrowhead, 34.2833, -117.2333
+Arrowhead Highlands, 34.2300, -117.2619
+Arrowhead Junction, 34.9428, -114.8236
+Arrowhead Springs, 34.1867, -117.2608
+Arroyo Grande, 35.1186, -120.5897
+Arroz, 38.6208, -121.9700
+Artesia, 33.8658, -118.0822
+Artois, 39.6197, -122.1928
+Arvin, 35.2092, -118.8275
+Arvin Farm Labor Center, 35.4000, -119.0333
+Asco, 37.6831, -121.8717
+Ash Creek Junction, 41.2675, -122.0767
+Ash Hill, 34.7069, -116.0542
+Ashford Junction, 35.9097, -116.6725
+Ashford Mill, 35.9189, -116.6839
+Ashlan Park, 36.8000, -119.7667
+Ashland, 37.6947, -122.1128
+Ashrama, 37.3072, -121.4686
+Asilomar, 36.6167, -121.9333
+Aspen Valley, 37.8275, -119.7703
+Aspendell, 37.3667, -118.4000
+Asti, 38.7631, -122.9719
+Asuncion, 35.5150, -120.6783
+Asylum, 39.1336, -123.1994
+Atascadero, 35.4894, -120.6697
+Atascadero State Hospital, 35.4639, -120.6344
+Athens, 33.9200, -118.2803
+Atherton, 37.4614, -122.1967
+Athlone, 37.2081, -120.3569
+Atlanta, 37.8131, -121.1197
+Atlas, 38.4292, -122.2469
+Atolia, 35.3147, -117.6083
+Atwater(Las Angeles), 34.1164, -118.2556
+Atwater(Merced), 37.3469, -120.6111
+Atwood, 33.8656, -117.8300
+Auberry, 37.0808, -119.4844
+Auburn, 38.8967, -121.0758
+Auckland, 36.5881, -119.1058
+August School Area, 37.9833, -121.2667
+Aukum, 38.5572, -120.7256
+Aurant, 34.0781, -118.1633
+Aurora, 37.6600, -121.0017
+Avalon, 33.3428, -118.3269
+Avalon Memorial Hospital, 33.9875, -118.2639
+Avalon Village, 33.8128, -118.2631
+Avena, 37.8431, -121.0653
+Avenal, 36.0042, -120.1281
+Avery, 38.2044, -120.3689
+Avery Place, 40.1819, -121.7794
+Avila Beach, 35.1800, -120.7308
+Avila Place, 41.0431, -120.8667
+Avinsino Corner, 38.6936, -120.6756
+Avocado, 36.7894, -119.4031
+Avocado Heights, 34.0333, -118.0000
+Avon(Associated P O), 38.0328, -122.0742
+Azalea, 41.2783, -122.3011
+Azure Vista, 32.7194, -117.2622
+Azusa, 34.1336, -117.9067
+Azusa-Valley Sanitarium, 34.1094, -117.9278

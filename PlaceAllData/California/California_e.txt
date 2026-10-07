@@ -1,0 +1,227 @@
+Eagle Lake Resort, 40.4167, -120.6500
+Eagle Mountain, 33.8575, -115.4864
+Eagle Rock, 34.1389, -118.2131
+Eagle Tree, 38.2500, -121.5167
+Eagles Nest, 33.2881, -116.5933
+Eagleville(Modoc), 41.3164, -120.1147
+Eagleville(Yuba), 39.5794, -121.0953
+Earlimart, 35.8842, -119.2714
+Earp, 34.1647, -114.3003
+East Acres, 36.8500, -120.4500
+East Antioch, 38.0103, -121.7714
+East Applegate, 39.1000, -120.9833
+East Arboga, 39.0569, -121.5506
+East Biggs, 39.4153, -121.6528
+East Blythe, 33.6106, -114.5731
+East Colusa, 39.2333, -121.9833
+East Compton, 33.9000, -118.2000
+East Farmersville, 36.3017, -119.1939
+East Firebaugh, 36.9667, -120.0667
+East Fresno, 36.7667, -119.7167
+East Garrison, 36.6531, -121.7314
+East Gate, 33.9333, -117.2333
+East Gridley, 39.3633, -121.6608
+East Guernewood, 38.5000, -123.0000
+East Highlands, 34.1097, -117.1697
+East Hopland, 38.9667, -123.1167
+East Imperial, 32.9167, -114.8167
+East Irvine, 33.6758, -117.7589
+East Kern, 35.2167, -117.9333
+East La Mirada, 33.9167, -117.9833
+East Long Beach, 33.7833, -118.1500
+East Los Angeles, 34.0239, -118.1711
+East Lynwood, 33.9167, -118.2000
+East Modesto, 37.6333, -120.9833
+East Nicolaus, 38.9103, -121.5439
+East Orosi, 36.5481, -119.2597
+East Palo Alto, 37.4689, -122.1400
+East Pasadena, 34.1461, -118.0933
+East Pleasanton, 37.6736, -121.8289
+East Porterville, 36.0500, -118.9833
+East Quincy, 39.9342, -120.8969
+East Richmond, 37.9500, -122.3167
+East San Diego, 32.7494, -117.1092
+East San Gabriel Valley, 34.1000, -117.8833
+East Santa Cruz, 36.9833, -122.0000
+East Shasta, 41.0000, -121.5000
+East Side, 38.1353, -121.2422
+East Sierra, 39.6000, -120.2000
+East Stockton, 37.9667, -121.2500
+East Tehama, 40.3500, -121.8167
+East Tulare, 36.2167, -119.3333
+East Tustin, 33.7500, -117.8167
+East Vallejo, 38.1167, -122.2333
+East Ventura, 34.2667, -119.2167
+East View, 33.7500, -118.3167
+East Whittier, 33.9633, -118.0172
+East Windsor, 38.5442, -122.8008
+East Yolo, 38.5500, -121.5500
+Easter Cross, 32.8397, -117.2436
+Eastgate, 34.0667, -118.3833
+Eastland, 34.0667, -117.9333
+Eastman Place, 40.5114, -121.7314
+Eastmont, 37.7667, -122.1833
+Easton, 36.6503, -119.7897
+Eastport, 37.8397, -122.1794
+Eastside Acres, 36.8500, -120.4500
+Eastside Ranch, 36.8500, -120.4500
+Eastwood Village, 34.0333, -117.9333
+Eberly, 37.5725, -121.9922
+Echo Lake, 38.8339, -120.0406
+Echo Park, 34.0833, -118.2667
+Eckley, 38.0539, -122.2017
+Eden Gardens, 32.9872, -117.2572
+Eden Hospital, 37.6975, -122.0875
+Eden Hot Springs, 33.8956, -117.0544
+Edendale(Los Angeles), 34.0833, -118.2667
+Edendale(Sonoma), 38.4850, -123.0017
+Edenvale, 37.2650, -121.8169
+Eder, 39.2997, -120.2914
+Edgar, 32.7889, -115.7325
+Edgemar, 37.6539, -122.4897
+Edgemont(Riverside), 33.9203, -117.2778
+Edgemont(Lassen), 40.3000, -120.5333
+Edgemont Acres, 34.9333, -117.9500
+Edgemoor Hospital, 32.8425, -116.9711
+Edgewood, 41.4583, -122.4306
+Edison, 35.3475, -118.8708
+Edmiston, 36.7789, -119.5394
+Edmundson Acres, 35.2289, -118.8222
+Edna, 35.2039, -120.6119
+Edom, 33.8069, -116.3903
+Edwards, 34.9261, -117.9342
+Edwards Air Force Base, 34.9000, -117.8667
+Edwards Crossing, 39.3303, -120.9831
+Edwards Estates, 34.9333, -117.9500
+Edwards Palisades, 34.9333, -117.9500
+Edwin, 38.3786, -120.9867
+Eel Rock, 40.2667, -123.8833
+Egan, 33.7322, -117.0111
+Eight Mile House, 38.7333, -120.6833
+Eisenhower Medical Center, 33.7622, -116.4058
+El Bonita, 38.5122, -122.9828
+El Cajon, 32.7947, -116.9617
+El Camino, 40.0411, -122.1694
+El Campo, 37.8975, -122.4642
+El Casco, 33.9811, -117.1175
+El Centro, 32.7919, -115.5622
+El Cerrito(Riverside), 33.8406, -117.5219
+El Cerrito(Contra Costa), 37.9158, -122.3106
+El Dorado, 38.6828, -120.8467
+El Dorado Hills, 38.6833, -121.1833
+El Encanto Heights, 34.4333, -119.8833
+El Encanto Sanitarium, 34.0197, -117.9644
+El Granada, 37.5028, -122.4683
+El Macero, 38.5469, -121.6931
+El Mirador, 36.1778, -119.0175
+El Mirage, 34.6022, -117.6303
+El Modena, 33.7878, -117.8086
+El Monte(Contra Costa), 37.9667, -121.9833
+El Monte(Los Angeles), 34.0686, -118.0267
+El Nido(Los Angeles), 33.8656, -118.3606
+El Nido(Merced), 37.1350, -120.4911
+El Paso De Robles, 35.6333, -120.6833
+El Pinal, 37.9806, -121.2811
+El Portal, 37.6747, -119.7831
+El Porto Beach, 33.8833, -118.4000
+El Pueblo, 38.0000, -121.8500
+El Rio, 34.2322, -119.1717
+El Rio Villa, 38.5347, -121.9431
+El Roble, 39.0897, -123.1797
+El Segundo, 33.9192, -118.4156
+El Sereno, 34.0811, -118.1769
+El Sobrante, 37.9772, -122.2942
+El Sueno, 34.4436, -119.7703
+El Toro, 33.6258, -117.6928
+El Toro Marine Corps Air Station, 33.6833, -117.7000
+El Verano, 38.2978, -122.4906
+El Viejo, 37.6667, -121.0000
+Elders Corner, 38.9567, -121.1000
+Elderwood, 36.4717, -119.1214
+Eldridge, 38.3500, -122.5167
+Electra, 38.3322, -120.6703
+Elftman, 33.8403, -118.2222
+Elizabeth Lake, 34.6667, -118.3500
+Elk(Fresno), 36.7503, -119.4919
+Elk(Mendocino), 39.1303, -123.7167
+Elk Creek, 39.6053, -122.5381
+Elk Grove, 38.4089, -121.3706
+Elk Grove Convalescent Hospital, 38.4131, -121.3592
+Elk River, 40.7364, -124.1731
+Elkhorn, 36.8244, -121.7394
+Elkhorn Village, 38.6000, -121.5333
+Ellicott, 36.9217, -121.8358
+Elliott Corner, 37.4628, -119.7736
+Ellis, 33.7719, -117.2183
+Ellis Place, 36.5211, -119.0181
+Ellwood, 34.4317, -119.8869
+Elm View, 36.5475, -119.7903
+Elmco, 35.9925, -119.0419
+Elmhurst, 37.7333, -122.1667
+Elmira, 38.3483, -121.9089
+Elmo, 35.6794, -119.3294
+Elmore Desert Ranch, 33.1036, -115.7997
+Elmwood, 37.8667, -122.2500
+Elmwood Rehabilitation Center, 37.4172, -121.9075
+Elora, 35.1381, -115.5281
+Elsa, 36.2508, -121.1378
+Elsey, 39.6075, -121.5933
+Elsinore, 33.6681, -117.3264
+Elsinore Valley, 33.7333, -117.4333
+Elvas, 38.5833, -121.4475
+Elverta, 38.7139, -121.4617
+Elvira, 32.8375, -117.2325
+Emandal, 39.4167, -123.3500
+Emanuel Hospital, 37.5114, -120.8383
+Emerald Bay(El Dorado), 38.9600, -120.0969
+Emerald Bay(Orange), 33.5525, -117.8083
+Emerald Lake, 37.4667, -122.2333
+Emeryville, 37.8314, -122.2842
+Emigrant Gap, 39.2969, -120.6717
+Emmaton, 38.0803, -121.7311
+Empire, 37.6383, -120.9011
+Encanto, 32.7119, -117.0494
+Enchanted Hills, 38.3831, -122.4250
+Encinal(Santa Clara), 37.3500, -122.0333
+Encinal(Sutter), 39.2156, -121.6606
+Encinitas, 33.0369, -117.2911
+Encino, 34.1592, -118.5003
+Engineer Springs, 32.6281, -116.7642
+Englewood, 40.3967, -123.9378
+English Town, 37.1794, -121.8381
+Enloe Hospital, 39.7425, -121.8483
+Ennis, 34.0094, -117.4286
+Ensley, 38.8075, -121.6717
+Enson, 36.5592, -119.3742
+Enterprise(Lake), 39.3633, -122.9494
+Enterprise(Shasta), 40.5639, -122.3417
+Enterprise(Amador), 38.5403, -120.8461
+Epworth, 34.3150, -118.8911
+Erickson, 41.6503, -122.1133
+Escalon, 37.7975, -120.9956
+Escondido, 33.1192, -117.0856
+Escondido Junction, 33.1817, -117.3678
+Escondido Village Mall, 33.0667, -117.0500
+Esex, 34.7336, -115.2442
+Esparto, 38.6922, -122.0161
+Esperanza, 33.8756, -117.7558
+Esquon, 39.6058, -121.7658
+Essex(Humboldt), 40.9061, -124.0342
+Essex(San Bernardino), 34.7333, -115.2500
+Estelle, 33.1764, -115.5078
+Estrella, 35.7056, -120.6092
+Estudillo, 37.7167, -122.1500
+Etheda Springs, 36.6942, -119.0064
+Etiwanda, 34.1261, -117.5228
+Etna, 41.4569, -122.8936
+Ettawa Springs, 38.8511, -122.6950
+Ettersburg, 40.1386, -123.9961
+Eucalyptus Hills, 32.8797, -116.9458
+Eugene, 37.8931, -120.8458
+Eureka, 40.8022, -124.1625
+Evans Place, 41.0600, -120.2286
+Evelyn, 36.1467, -116.3153
+Everglade, 38.9825, -121.7664
+Evergreen, 37.3097, -121.7825
+Evergreen Acres, 34.9000, -120.4333
+Exeter, 36.2961, -119.1411

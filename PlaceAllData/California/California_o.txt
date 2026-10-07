@@ -1,0 +1,162 @@
+O'Brien, 40.8122, -122.3231
+O'Connor Hospital, 37.3281, -121.9375
+O'Neals, 37.1283, -119.6933
+O'Neil Place, 39.6989, -122.9592
+Oak Bottom, 40.6333, -122.5500
+Oak Glen, 34.0494, -116.9469
+Oak Glen, 40.2825, -123.7400
+Oak Grove(San Diego), 33.3850, -116.7883
+Oak Grove(Tulare), 36.4506, -118.7911
+Oak Grove(Calaveras), 38.1169, -120.8858
+Oak Grove(Butte), 39.4272, -121.6042
+Oak Knoll(Napa), 38.3583, -122.3339
+Oak Knoll(Los Angeles), 34.1244, -118.1350
+Oak Knoll Hills, 37.3167, -122.0333
+Oak Knoll Naval Hospital, 37.7653, -122.1461
+Oak Knolls, 34.9000, -120.4333
+Oak Park(Sacramento), 38.5514, -121.4700
+Oak Park(San Luis Obispo), 35.6478, -120.6897
+Oak Park Community Hospital, 37.9767, -121.2894
+Oak Park Hospital, 33.9600, -118.2789
+Oak Run, 40.6853, -122.0236
+Oak Valley(Yuba), 34.1500, -118.8000
+Oak Valley(Ventura), 39.4986, -121.0369
+Oak View, 34.4000, -119.2992
+Oak Village, 34.3922, -118.9625
+Oakdale, 37.7667, -120.8461
+Oakhurst, 37.3281, -119.6483
+Oakland, 37.8044, -122.2697
+Oakland Hospital, 37.7811, -122.2303
+Oakland Recreational Camp, 37.8333, -120.2333
+Oakley, 37.9975, -121.7114
+Oakmont, 38.4408, -122.6033
+Oaks, 35.1189, -120.5939
+Oakville, 38.4369, -122.4011
+Oakwood, 34.0833, -118.3000
+Oasis, 33.4658, -116.0981
+Oban, 34.7744, -118.1472
+Obie, 41.1697, -121.7136
+Obregon, 32.8581, -114.7883
+Occidental, 38.4075, -122.9472
+Ocean Beach, 32.7453, -117.2544
+Ocean Park, 34.0022, -118.4828
+Ocean Roar, 38.2161, -122.9239
+Ocean View(Orange), 33.7156, -117.9878
+Ocean View(Sonoma), 38.3333, -123.0500
+Oceano, 35.0989, -120.6114
+Oceanside, 33.1958, -117.3786
+Ockenden, 37.0889, -119.3167
+Ocotillo, 32.7386, -115.9933
+Ocotillo Wells, 33.1439, -116.1319
+Octol, 36.1239, -119.3275
+Odd Fellows Park, 38.5022, -122.9461
+Ogilby, 32.8169, -114.8381
+Ohm, 37.6267, -121.2831
+Oil City, 35.4264, -118.9594
+Oil Junction, 35.4197, -119.0561
+Oildale, 35.4197, -119.0203
+Ojai, 34.4481, -119.2419
+Ojala, 34.4844, -119.2983
+Olancha, 36.2819, -118.0056
+Olcott, 38.2772, -121.8231
+Old Adobe, 35.7378, -120.6989
+Old Bailey Place, 39.1681, -123.4814
+Old Bretz Mill, 37.0817, -119.2978
+Old Dale, 34.1225, -115.7944
+Old Fellows Park, 38.5000, -123.0000
+Old Forbestown, 39.5281, -121.2797
+Old Fort Jim, 38.7106, -120.7178
+Old Fort Tejon, 34.8736, -118.8933
+Old Gilroy, 36.9997, -121.5253
+Old Hilltown, 36.6314, -121.6683
+Old Hopland, 38.9758, -123.0997
+Old Hulbert Place, 41.4383, -121.0517
+Old Mammoth, 37.6333, -118.9667
+Old Pino, 38.8181, -120.6461
+Old Point Comfort, 34.4153, -117.8328
+Old Red Rock Place, 38.7931, -123.4408
+Old River, 35.2672, -119.1081
+Old San Diego, 32.7667, -117.1833
+Old Station, 40.6753, -121.4297
+Old Town(Kern), 35.1428, -118.4939
+Old Town(Santa Barbara), 34.4044, -119.5292
+Old Town San Diego, 32.7542, -117.1961
+Oleander, 36.6344, -119.7539
+Olema, 38.0408, -122.7869
+Oleum, 38.0447, -122.2472
+Olga, 34.1125, -118.1647
+Olinda(Shasta), 40.4439, -122.4064
+Olinda(Orange), 33.9167, -117.8833
+Olive, 33.8361, -117.8453
+Olive Hill, 39.2883, -121.4692
+Olive View, 34.3244, -118.4428
+Olive View Hospital, 34.3258, -118.4511
+Olivehurst, 39.0956, -121.5511
+Olivenhain, 33.0461, -117.2339
+Olsen Crossing, 40.5825, -123.6614
+Olympia, 37.0697, -122.0575
+Olympic, 34.0667, -118.4000
+Olympic Valley, 39.1500, -120.1500
+Omega, 39.3333, -120.7483
+Omira, 39.9669, -120.0764
+Omo Ranch, 38.5814, -120.5722
+Omus, 38.7197, -122.9186
+Onehundred Palms, 33.5619, -116.1717
+Ono, 40.4753, -122.6169
+Ontario, 34.0633, -117.6500
+Ontario Hospital, 34.0692, -117.6411
+Ontario Intl Airport, 34.0667, -117.5833
+Onyx, 35.6903, -118.2197
+Opal Cliffs, 36.9608, -121.9631
+Ophir, 38.8911, -121.1225
+Ora, 36.1514, -120.3256
+Orange, 33.7878, -117.8522
+Orange Avenue Junction, 34.0925, -117.9422
+Orange Cove, 36.6244, -119.3128
+Orange Heights, 34.1000, -117.6333
+Orange Park Acres, 33.8019, -117.7814
+Orangehurst, 33.8667, -117.9667
+Orangevale, 38.6786, -121.2247
+Orcutt, 34.8653, -120.4350
+Ordbend, 39.6297, -122.0044
+Ordway, 34.0042, -117.1669
+Oregon City, 39.5939, -121.5283
+Oregon House, 39.3564, -121.2781
+Orford, 37.9772, -121.1883
+Orick, 41.2869, -124.0586
+Orinda, 37.8772, -122.1786
+Orinda Village, 37.8875, -122.1944
+Orita, 32.9772, -115.4044
+Orland, 39.7475, -122.1953
+Orleans, 41.3017, -123.5400
+Orleans Flat, 39.4289, -120.8339
+Ormand, 34.0111, -117.4175
+Oro Fino, 41.5806, -122.9203
+Oro Grande, 34.5989, -117.3333
+Oro Loma, 36.8908, -120.6894
+Oroleve, 39.5267, -121.1783
+Orosi, 36.5450, -119.2864
+Oroville, 39.5139, -121.5553
+Oroville Jct(Tres Vias), 39.5097, -121.6494
+Orris, 35.8539, -119.0603
+Orrs Springs, 39.2294, -123.3636
+Ortega, 37.9047, -121.2711
+Ortega, 34.4164, -119.5847
+Ortonville, 34.3214, -119.2906
+Orwood, 37.9400, -121.5678
+Osbourne, 34.1000, -118.3333
+Ostrom, 39.0694, -121.5106
+Oswald, 39.0692, -121.6250
+Otay, 32.5947, -117.0636
+Oteys Sierra Village, 37.3586, -118.4583
+Otterbein, 33.9875, -117.8839
+Outingdale, 38.6167, -120.7289
+Oval, 36.3333, -119.3000
+Owenyo, 36.6783, -118.0433
+Owl, 33.9278, -116.8167
+Oxalis, 36.9119, -120.5489
+Oxford, 38.3072, -121.6197
+Oxford Mill, 39.5719, -120.8244
+Oxnard, 34.1975, -119.1761
+Oxnard Beach, 34.1633, -119.2269
+Ozol, 38.0267, -122.1619
