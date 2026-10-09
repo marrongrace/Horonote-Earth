@@ -1,0 +1,96 @@
+Batdâmbâng, 13.1000, 103.2000
+Battambang > Batdâmbâng, 13.1000, 103.2000
+Bâ Kêv, 13.7000, 107.2000
+Bœng Lvéa, 12.6000, 105.5667
+Chhêb Kândal, 13.7500, 105.4000
+Chong Kal, 13.9500, 103.5833
+Choâm Khsant, 14.2167, 104.9333
+Kbal Dâmrei, 14.1167, 105.3500
+Khum Bathéay, 11.9833, 104.9500
+Krong Kaôh Kong, 11.6167, 102.9833
+Krong Kêb, 10.4833, 104.3167
+Krâchéh, 12.4833, 106.0167
+Krâkôr, 12.5333, 104.2000
+Kâmchay Méa, 11.5833, 105.6667
+Kâmpóng Cham, 12.0000, 105.4500
+Kâmpóng Chhnang, 12.2500, 104.6667
+Kâmpóng Kântuot, 11.4333, 104.8167
+Kâmpóng Saôm, 10.6333, 103.5000
+Kâmpóng Spœ, 11.4500, 104.5333
+Kâmpóng Thum, 12.7000, 104.9000
+Kâmpóng Trâlach, 11.9000, 104.7833
+Kâmpôt, 10.6167, 104.1833
+Lumphat, 13.5000, 106.9833
+Léach, 12.3500, 103.7667
+Moung Rœssei, 12.7667, 103.4500
+Mémót, 11.8167, 106.1833
+Odongk, 11.8000, 104.7500
+Pailin, 12.8500, 102.6000
+Paôy Pêt, 13.6500, 102.5500
+Phnom Penh > Phnum Pénh, 11.5500, 104.9167
+Phnum Pénh, 11.5500, 104.9167
+Phnum Tbêng Méanchey, 13.8167, 104.9667
+Phsar Réam, 10.5000, 103.6167
+Phumi Banam, 11.3167, 105.3000
+Phumi Bâ Kham, 13.8500, 107.3667
+Phumi Béng, 13.0833, 104.3000
+Phumi Chhuk, 10.8333, 104.4667
+Phumi Chruoy Slêng, 13.2333, 105.9500
+Phumi Châmbák, 11.2333, 104.8167
+Phumi Chângho Ândêng, 12.6500, 104.5833
+Phumi Dak Dam, 12.3333, 107.3500
+Phumi Kaôh Kong, 11.4333, 103.1833
+Phumi Kaôh Kért, 13.7833, 104.5333
+Phumi Khpôb, 11.0333, 105.2000
+Phumi Krêk, 11.7667, 105.9333
+Phumi Kâmpóng Srâlau, 14.0833, 105.7667
+Phumi Kâmpóng Trâbâk, 13.1000, 105.2333
+Phumi Kântuot Sâmraông, 14.2000, 104.6167
+Phumi Lvéa Kraôm, 13.3500, 102.9000
+Phumi Moung, 13.7500, 103.5500
+Phumi Narung, 13.8833, 105.5667
+Phumi Phnum Srâlau, 11.0500, 103.7000
+Phumi Prey Toch, 12.9000, 103.3833
+Phumi Prêk Kák, 12.2500, 105.5333
+Phumi Prêk Sândêk, 11.8500, 105.3667
+Phumi Puok Chas, 13.4333, 103.7333
+Phumi Rôluos Chas, 13.3167, 104.0000
+Phumi Spœ Tbong, 12.3333, 105.3167
+Phumi Srê Kôkir, 13.1333, 106.0667
+Phumi Srê Rônéam, 12.2667, 106.4167
+Phumi Sâmraông, 14.1833, 103.5167
+Phumi Tbêng, 13.5833, 104.9167
+Phumi Thalabârivat, 13.5500, 105.9500
+Phumi Thmâ Pôk, 13.9500, 103.0667
+Phumi Tnaôt, 12.9333, 104.5667
+Phumi Tœk Chou, 13.6000, 103.4000
+Pouthisat, 12.5333, 103.9167
+Prey Lvéa, 11.1667, 104.9500
+Prey Nób, 10.6333, 103.7833
+Prey Vêng, 11.4833, 105.3167
+Prêk Pouthi, 11.8500, 105.1167
+Pursat > Pouthisat, 12.5333, 103.9167
+Senmonorom, 12.4500, 107.2000
+Siempang, 14.1167, 106.3833
+Siemréab, 13.3667, 103.8500
+Sihanoukville > Kâmpóng Saôm, 10.6333, 103.5000
+Sisophon, 13.5833, 102.9833
+Skón, 12.0667, 105.0667
+Snay Pôl, 11.6667, 105.2167
+Snuol, 12.0667, 106.4333
+Spóng, 13.4500, 105.5667
+Srê Khtum, 12.1667, 106.8667
+Srê Moat, 13.3000, 107.1667
+Srê Âmbel, 11.1167, 103.7667
+Stœng Trêng, 13.5167, 105.9667
+Svay Chék, 13.8000, 102.9667
+Svay Rieng, 11.0833, 105.8000
+Sâmbor, 12.7667, 105.9667
+Sândan, 12.7000, 106.0167
+Takêv, 10.9833, 104.7833
+Trêng, 12.8167, 102.9000
+Tuk Méas, 10.6667, 104.5667
+Udon(Udonp), 11.8000, 104.7833
+Virôchey, 13.9833, 106.8167
+Ângk Tasaôm, 11.0167, 104.6833
+Ânlóng Vêng, 14.2333, 104.0833
