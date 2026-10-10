@@ -127,7 +127,8 @@ t = {
 col1, col2 = st.columns([0.7, 7]) 
 
 with col1:
-    st.image("HoroEarth_logo2.jpg", width=50) 
+    # st.image("HoroEarth_logo2.jpg", width=50)
+    st.image("https://raw.githubusercontent.com/marrongrace/Horonote-Earth/main/Logo/HoroEarth_logo2.jpg", width=50)
 
 with col2:
     st.markdown(f"""
