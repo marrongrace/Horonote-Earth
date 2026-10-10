@@ -1,0 +1,121 @@
+Oficina Alemania, -25.1667, -69.9167
+Oficina Alianza, -20.7667, -69.7000
+Oficina Chile, -25.1500, -69.9000
+Oficina Pedro de Valdivia, -22.6000, -69.6667
+Oficina Victoria, -20.7333, -69.7000
+Ollagüe, -21.2333, -68.2667
+Osorno, -40.5667, -73.1500
+Ovalle, -30.6000, -71.2000
+Paiguano, -30.0167, -70.5333
+Paposo, -25.0167, -70.4667
+Papudo, -32.5167, -71.4500
+Parral, -36.1500, -71.8333
+Pascua, Isla de, -27.1167, -109.3667
+Pemuco, -36.9667, -72.1000
+Pencahue, -35.4000, -71.8167
+Peralillo, -34.4833, -71.4833
+Petorca, -32.2500, -70.9333
+Petrohué, -41.1333, -72.4167
+Peñalolén, -33.4833, -70.5333
+Pica, -20.5000, -69.3500
+Pichilemu, -34.3833, -72.0000
+Pintados, -20.6167, -69.6333
+Pisagua, -19.6000, -70.2167
+Pitrufquén, -38.9833, -72.6500
+Polcura, -37.2833, -71.7167
+Porvenir, -53.3000, -70.3667
+Potrerillos, -26.4333, -69.4833
+Pozo Almonte, -20.2667, -69.8000
+Providencia, -33.4333, -70.6167
+Pueblo Hundido, -26.3833, -70.0500
+Puente Alto, -33.6167, -70.5833
+Puerto Aisén, -45.4000, -72.7000
+Puerto Ingeniero Ibáñez, -46.3000, -71.9333
+Puerto Montt, -41.4667, -72.9500
+Puerto Natales, -51.7333, -72.5167
+Puerto Octay, -40.9667, -72.9000
+Puerto Saavedra, -38.7833, -73.4000
+Puerto Varas, -41.3167, -72.9833
+Punitaqui, -30.8333, -71.2667
+Punta Arenas, -53.1500, -70.9167
+Punta de Díaz, -28.0500, -70.6167
+Punta del Cobre, -27.5000, -70.2667
+Purranque, -40.9167, -73.1667
+Putaendo, -32.6333, -70.7333
+Putre, -18.2000, -69.5833
+Putú, -35.2167, -72.2833
+Puyehue, -40.6667, -72.6167
+Quemchi, -42.1500, -73.4833
+Quilicura, -33.3667, -70.7500
+Quilimarí, -32.1167, -71.5000
+Quillagua, -21.6500, -69.5500
+Quillota, -32.8833, -71.2667
+Quilpué, -33.0500, -71.4500
+Quinta Normal, -33.4500, -70.7000
+Quintero, -32.7833, -71.5333
+Quirihue, -36.2833, -72.5333
+Rancagua, -34.1667, -70.7500
+Recinto, -36.8000, -71.7333
+Renca, -33.4000, -70.7333
+Rengo, -34.4167, -70.8667
+Riachuelo, -40.8167, -73.3500
+Rivadavia, -29.9667, -70.5667
+Riñihue, -39.8167, -72.4500
+Rupanco, -40.7667, -72.7000
+Río Blanco, -32.9167, -70.3167
+Río Bueno, -40.3167, -72.9667
+Río Negro, -40.7833, -73.2333
+Salala, -30.6833, -71.5333
+Salamanca, -31.7833, -70.9667
+Samo Alto, -30.4167, -70.9667
+San Antonio(Valparaiso), -33.5833, -71.6333
+San Antonio(Atacama), -27.8833, -70.0500
+San Bernardo, -33.6000, -70.7167
+San Carlos(Biobío), -36.4167, -71.9667
+San Carlos(Region Metropolitana), -33.6000, -70.5833
+San Carlos de Chena, -33.5833, -70.7333
+San Felipe, -32.7500, -70.7333
+San Fernando, -34.5833, -71.0000
+San Francisco de Mostazal, -33.9833, -70.7167
+San Javier de Loncomilla, -35.5833, -71.7500
+San Juan de Pirque, -33.6333, -70.5000
+San Marco, -33.6167, -70.6333
+San Marcos, -30.9333, -71.0500
+San Miguel, -33.5000, -70.6667
+San Pablo(Los Lagos), -40.4000, -73.0167
+San Pedro(Antofagasta), -21.9500, -68.5667
+San Pedro(Region Metropolitana), -33.9000, -71.4667
+San Pedro de Atacama, -22.9167, -68.2167
+San Rafael, -35.3167, -71.5333
+San Rosendo, -37.2667, -72.7167
+San Vicente de Tagua-Tagua, -34.4333, -71.0833
+Santa Ana de Chena, -33.5667, -70.7833
+Santa Bárbara, -37.6667, -72.0167
+Santa Cruz, -34.6333, -71.3667
+Santa Eduviges, -33.5500, -70.6500
+Santa Elena del Gomero, -33.4833, -70.7667
+Santa Emilia, -33.3833, -70.6500
+Santa Julia, -33.5000, -70.6333
+Santa Rosa de Huechuraba, -33.3500, -70.6833
+Santa Rosa de Locobe, -33.4333, -70.5500
+Santa Teresa de lo Ovalle, -33.3833, -70.7833
+Santiago, -33.4500, -70.6667
+Sewell, -34.0833, -70.3833
+Sierra Gorda, -22.9000, -69.3167
+Socaire, -23.6000, -67.8500
+Talagante, -33.6667, -70.9333
+Talca, -35.4333, -71.6667
+Talcahuano, -36.7167, -73.1167
+Taltal, -25.4000, -70.4833
+Tana, -19.4500, -69.9500
+Tegualda, -41.0333, -73.4333
+Temuco, -38.7333, -72.6000
+Teno, -34.8667, -71.1833
+Tierra Amarilla, -27.4833, -70.2833
+Toco, -22.0833, -69.5833
+Toconao, -23.1833, -68.0167
+Tocopilla, -22.0833, -70.2000
+Toltén, -39.2167, -73.2333
+Tomé, -36.6167, -72.9500
+Tongoy, -30.2500, -71.5000
+Traiguén, -38.2500, -72.6833

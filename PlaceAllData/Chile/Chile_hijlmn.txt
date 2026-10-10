@@ -1,0 +1,89 @@
+Hanga Roa, -27.1500, -109.4333
+Hualañé, -34.9833, -71.8167
+Huara, -19.9833, -69.7833
+Huasco, -28.4667, -71.2333
+Huentelauquén, -31.5833, -71.5333
+Illapel, -31.6333, -71.1667
+Imilac, -24.2333, -68.8833
+Inca de Oro, -26.7500, -69.9000
+Incaguasi, -29.2167, -71.0500
+Iquique, -20.2167, -70.1667
+Isla de Maipo, -33.7500, -70.9000
+Isla de Pascua, -27.1167, -109.3667
+Islón, -29.9000, -71.2000
+José Francisco Vergara, -22.4667, -69.6333
+La Aurora, -33.6000, -70.6333
+La Bandera, -33.5667, -70.6500
+La Blanca, -33.5167, -70.6833
+La Calera, -32.7833, -71.2000
+La Cisterna, -33.5500, -70.6833
+La Dehesa, -33.3667, -70.5500
+La Florida, -33.5500, -70.5667
+La Granja, -33.5333, -70.6500
+La Higuera, -29.5000, -71.2833
+La Ligua, -32.4500, -71.2333
+La Negra, -23.7500, -70.3167
+La Obra, -33.6000, -70.5000
+La Purísima, -33.5667, -70.6500
+La Reina, -33.4500, -70.5500
+La Serena, -29.9000, -71.2667
+La Uníón, -40.2833, -73.0833
+Lanco, -39.4000, -72.7667
+Las Cabras, -34.3000, -71.3167
+Las Condes, -33.3667, -70.5167
+Las Rejas, -33.4667, -70.7333
+Las Rosas, -33.5833, -70.6167
+Las Vizcachas, -33.6000, -70.5333
+Lautaro, -38.5167, -72.4500
+Lebu, -37.6167, -73.6500
+Lepihué, -41.6167, -73.6000
+Licantén, -34.9833, -72.0000
+Limache, -33.0167, -71.2667
+Linares, -35.8500, -71.6000
+Liucura, -38.6500, -71.0833
+Llanquihue, -41.2500, -73.0167
+Llanta, -26.3333, -69.8167
+Llico, -34.7667, -72.0833
+Lo Aranguiz, -33.3833, -70.6667
+Lo Barnechea, -33.3500, -70.5167
+Lo Benitez, -33.5667, -70.7000
+Lo Bernales, -33.5667, -70.5667
+Lo Boza, -33.3833, -70.7667
+Lo Espejo, -33.5333, -70.7167
+Lo Hermida, -33.4833, -70.5500
+Lo Miranda, -34.1833, -70.9000
+Lo Ortuzar, -33.4667, -70.7500
+Lo Prado Arriba, -33.4333, -70.7500
+Loma Blanca, -33.5000, -70.7833
+Loncoche, -39.3667, -72.6333
+Longaví, -35.9667, -71.6833
+Los Andes, -32.8333, -70.6167
+Los Cuatro Álamos, -33.5333, -70.7333
+Los Lagos, -39.8500, -72.8333
+Los Muermos, -41.4000, -73.4833
+Los Quillayes, -33.5667, -70.6167
+Los Sauces, -37.9667, -72.8333
+Los Vilos, -31.9167, -71.5167
+Los Ángeles, -37.4667, -72.3500
+Lota, -37.0833, -73.1667
+Machalí, -34.1833, -70.6667
+Macul, -33.5000, -70.5667
+Magallanes > Punta Arenas, -53.1500, -70.9167
+Maipú, -33.5167, -70.7667
+Mamiña, -20.0833, -69.2333
+Mantos Blancos, -23.4167, -70.0833
+María Elena, -22.3500, -69.6667
+Mataveri, -27.1667, -109.4500
+Maullín, -41.6333, -73.6167
+Mejillones, -23.1000, -70.4500
+Melipilla, -33.7000, -71.2167
+Molina, -35.1167, -71.2833
+Monte Grande, -30.1000, -70.5167
+Monte Patria, -30.7000, -70.9667
+Mulchén, -37.7167, -72.2333
+Nacimiento, -37.5000, -72.6667
+Navidad, -33.9500, -71.8333
+Neurara, -24.1667, -68.4833
+Ninhue, -36.4000, -72.4000
+Nogales, -32.7333, -71.2500
+Nueva Imperial, -38.7333, -72.9500
