@@ -217,10 +217,10 @@ if "chart_data" not in st.session_state:
     st.markdown("")
 
     # st.info(f"ℹ️ **Note for U.S. Territories:** {t['us_territory_note']}")
-    # st.markdown("")
-    # st.markdown("")
-    # st.markdown("")
-    # st.markdown("")
+    st.markdown("")
+    st.markdown("")
+    st.markdown("")
+    st.markdown("")
     
     st.markdown(t["guide_link_text"], unsafe_allow_html=True)
 
