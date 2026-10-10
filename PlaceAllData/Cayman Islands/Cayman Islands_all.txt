@@ -1,0 +1,5 @@
+Cayman Brac, 19.7167, -79.8167
+George Town, 19.3000, -81.3833
+Grand Cayman, 19.3333, -81.2500
+Little Cayman, 19.6833, -80.0500
+West Bay, 19.3667, -81.4167
