@@ -20,7 +20,7 @@ icon_url = "https://github.com/marrongrace/Horonote-Earth/blob/main/Logo/HoroEar
 
 st.set_page_config(
     page_title="HoroNote Earth- Horoscope Information Export System",
-    page_icon="HoroEarth_logo2.jpg",
+    page_icon="https://github.com/marrongrace/Horonote-Earth/blob/main/Logo/HoroEarth_logo2.jpg",
     layout="centered",
 )
 
