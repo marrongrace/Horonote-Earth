@@ -16,11 +16,11 @@ try:
 except ImportError:
     get_synastry_data = None
 
-icon_url = "https://github.com/marrongrace/Horonote-Earth/blob/main/Logo/HoroEarth_logo2.jpg"
+icon_url = "https://github.com/marrongrace/Horonote-Earth/blob/main/Logo/HoroEarth_logo.jpg"
 
 st.set_page_config(
     page_title="HoroNote Earth- Horoscope Information Export System",
-    page_icon="https://github.com/marrongrace/Horonote-Earth/blob/main/Logo/HoroEarth_logo2.jpg",
+    page_icon="https://github.com/marrongrace/Horonote-Earth/blob/main/Logo/HoroEarth_logo.jpg",
     layout="centered",
 )
 
@@ -128,7 +128,7 @@ col1, col2 = st.columns([0.7, 7])
 
 with col1:
     # st.image("HoroEarth_logo2.jpg", width=50)
-    st.image("https://raw.githubusercontent.com/marrongrace/Horonote-Earth/main/Logo/HoroEarth_logo2.jpg", width=50)
+    st.image("https://raw.githubusercontent.com/marrongrace/Horonote-Earth/main/Logo/HoroEarth_logo.jpg", width=50)
 
 with col2:
     st.markdown(f"""
