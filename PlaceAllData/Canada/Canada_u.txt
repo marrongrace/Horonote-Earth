@@ -1,0 +1,77 @@
+Uchi Lake, 51.0833, -92.5833
+Ucluelet, 48.9500, -125.5500
+Udora, 44.2500, -79.1833
+Umingmaktok, 67.7000, -107.9500
+Umpherville, 53.8333, -101.2167
+Underwood, 44.3000, -81.4833
+Union, 42.7000, -81.2000
+Union Bay, 49.5833, -124.8833
+Union Centre, 45.5333, -62.7500
+Union Corner, 45.0167, -64.0167
+Union Road, 46.3333, -63.1333
+Unionvale, 46.7167, -64.1833
+Unionville, 43.8667, -79.3000
+Unipouheos, 53.8667, -110.3500
+Unity, 52.4500, -109.1667
+University Hill, 49.2667, -123.2500
+Uplands, 43.0333, -81.2833
+Uplands Park, 44.7333, -63.7333
+Upper Blackville, 46.6500, -65.8667
+Upper Blandford, 44.5167, -64.1167
+Upper Branch, 44.4500, -64.6833
+Upper Brighton, 46.3167, -67.5500
+Upper Buctouche, 46.4000, -64.8333
+Upper Burlington, 45.0500, -64.0500
+Upper Canard, 45.1167, -64.4667
+Upper Clements, 44.7000, -65.5833
+Upper Coverdale, 46.0500, -64.9667
+Upper Dyke Village, 45.1167, -64.5000
+Upper Ferry, 47.8500, -59.2500
+Upper Fraser, 54.1167, -121.9333
+Upper Gagetown, 45.8500, -66.2333
+Upper Granville, 44.8333, -65.3333
+Upper Hainesville, 46.0833, -67.1500
+Upper Hammonds Plains, 44.7500, -63.8333
+Upper Hat Creek, 50.6333, -121.5833
+Upper Island Cove, 47.6500, -53.2000
+Upper Kennetcook, 45.2000, -63.6500
+Upper Kent, 46.5667, -67.7167
+Upper Keswick, 46.0500, -66.9000
+Upper LaHave, 44.3667, -64.4500
+Upper Lakeville, 44.7833, -62.9667
+Upper Lawrencetown, 44.6833, -63.4500
+Upper Leitches Creek, 46.1333, -60.3833
+Upper Liard, 60.0333, -128.9167
+Upper Maugerville, 45.9000, -66.5333
+Upper Melbourne, 45.6500, -72.1500
+Upper Mills, 45.1333, -67.3167
+Upper Musquodoboit, 45.1333, -62.9500
+Upper Napan, 47.0000, -65.4333
+Upper Nappan, 45.7833, -64.2000
+Upper Nine Mile River, 45.0833, -63.6333
+Upper North River, 45.4833, -63.2167
+Upper Northfield, 44.5000, -64.6167
+Upper Onslow, 45.3833, -63.2833
+Upper Pokemouche, 47.6833, -64.8833
+Upper Port La Tour, 43.5167, -65.4667
+Upper Queensbury, 45.9833, -67.2000
+Upper Rawdon, 45.0667, -63.7167
+Upper Sackville, 44.8000, -63.7333
+Upper Sheila, 47.4667, -64.9333
+Upper Stewiacke, 45.2167, -63.0000
+Upper Stoneridge, 46.1000, -66.9500
+Upper Sumas, 49.0167, -122.2000
+Upper Tantallon, 44.6833, -63.8833
+Upper Tilley Road, 47.5167, -65.1167
+Upper Tracy, 45.6667, -66.7167
+Upper Wedgeport, 43.7500, -65.9833
+Upper Woods Harbour, 43.5833, -65.7500
+Upper Woodstock, 46.1833, -67.5667
+Upsalquitch, 47.8333, -66.8833
+Upton, 45.6500, -72.6833
+Uranium City, 59.5667, -108.6000
+Urbainville, 46.4667, -64.0333
+Usk, 54.6333, -128.4167
+Utikoomak Lake, 55.9167, -115.5833
+Utopia, 45.1500, -66.7667
+Uxbridge, 44.1000, -79.1167

@@ -1,0 +1,234 @@
+Taber, 49.7833, -112.1333
+Tabusintac, 47.3333, -65.0167
+Tache, 54.6667, -124.7500
+Tacla Lake, 55.3167, -126.0167
+Tadoule Lake, 58.6000, -98.3333
+Tadoussac, 48.1500, -69.7167
+Taghum Hill, 49.4833, -117.3667
+Tahsis, 49.9167, -126.6500
+Takla Landing, 55.4833, -125.9667
+Takysie Lake, 53.9000, -125.8833
+Talbotville Royal, 42.8000, -81.2500
+Taloyoak(Spence Bay), 69.5333, -93.5167
+Tamworth, 44.4833, -77.0000
+Tancook Island, 44.4667, -64.1667
+Tangier, 44.8000, -62.7000
+Tantallon(Nova Scotia), 44.6667, -63.9000
+Tantallon(Saskatchewan), 50.5333, -101.8333
+Tara, 44.4667, -81.1500
+Tarrys, 49.3833, -117.5500
+Taschereau, 48.6667, -78.6833
+Tasiujaq, 58.7000, -69.9333
+Tasu, 52.7667, -132.0333
+Tatamagouche, 45.7167, -63.3000
+Tatla Lake, 51.9167, -124.6000
+Tatlayoko Lake, 51.6500, -124.4000
+Tavistock, 43.3167, -80.8333
+Taxis River, 46.4500, -66.4667
+Tay Creek, 46.2333, -66.8167
+Taylor, 56.1667, -120.6833
+Taymouth, 46.1833, -66.6167
+Tecumseh, 42.3167, -82.9000
+Teeswater, 44.0000, -81.2833
+Teeterville, 42.9333, -80.4333
+Telegraph Cove, 50.5500, -126.8333
+Telegraph Creek, 57.9167, -131.1667
+Telford, 45.5667, -62.4667
+Telkwa, 54.7000, -127.0500
+Temagami, 47.0667, -79.7833
+Temagami North, 47.1000, -79.7833
+Temperance Vale, 46.0667, -67.2500
+Templeton, 45.4833, -75.6000
+Tennessee, 46.7500, -79.0500
+Tennycape, 45.2667, -63.8833
+Terence Bay, 44.4667, -63.7167
+Terra Nova, 48.5000, -54.2167
+Terra View Heights, 44.3500, -78.3167
+Terrace, 54.5167, -128.5833
+Terrace Bay, 48.7833, -87.1500
+Terrasse Vaudreuil, 45.4000, -73.9833
+Terrebonne, 45.7000, -73.6333
+Terrenceville, 47.6667, -54.7333
+Teslin, 60.1500, -132.7500
+Teston, 43.8667, -79.5333
+Teulon, 50.3833, -97.2667
+Texas Creek, 50.5500, -121.8167
+Thamesford, 43.0667, -81.0000
+Thamesville, 42.5500, -81.9833
+The Beaches, 49.5833, -56.8333
+The Dock, 47.5667, -53.2500
+The Glades, 45.9500, -65.0833
+The Hawk, 43.4167, -65.6167
+The Key, 51.7500, -102.1333
+The Narrows, 51.7333, -98.4500
+The Pas, 53.8333, -101.2500
+The Pas Indian Reserve, 53.8833, -101.2833
+The Willows, 47.1167, -65.2667
+Thedford, 43.1500, -81.8500
+Theodore, 51.4167, -102.9000
+Thessalon, 46.2500, -83.5667
+Thetford Mines, 46.0833, -71.3000
+Thetis Island, 48.8167, -123.6833
+Thibaudeau, 57.0833, -94.1333
+Thibault, 47.6000, -67.3500
+Thicket Portage, 55.3167, -97.7000
+Thistle Creek, 63.0667, -139.4833
+Thivierge, 48.0833, -65.4833
+Thomasburg, 44.3833, -77.3500
+Thompson, 55.7500, -97.7500
+Thorburn, 45.5667, -62.5500
+Thorhild, 54.1667, -113.1167
+Thornbury, 44.5667, -80.4333
+Thorndale, 43.1000, -81.1333
+Thorne, 46.6500, -79.0833
+Thornhill, 54.5167, -128.5333
+Thornlea, 47.6000, -53.7167
+Thornloe, 45.6667, -79.7500
+Thornton, 44.2667, -79.7167
+Thorold, 43.1167, -79.2000
+Thorold South, 43.1000, -79.2000
+Thorsby, 53.2333, -114.0500
+Three Brooks, 45.7167, -62.7833
+Three Fathom Harbour, 44.6500, -63.2833
+Three Hills, 51.7000, -113.2667
+Three Mile Plains, 44.9667, -64.1167
+Three Mile Rock, 50.0167, -57.7333
+Three Rivers > Trois Riviéres, 46.3500, -72.5500
+Three Rock Cove, 48.6167, -59.0833
+Thrums, 49.3167, -117.5000
+Thunder Bay, 48.3833, -89.2500
+Thurso, 45.6000, -75.2500
+Tichborne, 44.6667, -76.6833
+Tidehead, 47.9833, -66.7833
+Tidnish, 45.9833, -64.0167
+Tidnish Bridge, 45.9833, -64.0333
+Tignish, 46.9500, -64.0333
+Tignish Shore, 46.9500, -64.0000
+Tilbury, 42.2667, -82.4333
+Tilley, 50.4500, -111.6500
+Tilley Road, 47.5333, -65.0500
+Tillsonburg, 42.8500, -80.7333
+Tilting, 49.7000, -54.0667
+Tilton, 47.6333, -53.3000
+Timber Bay, 54.1167, -105.7000
+Timberlea, 44.6667, -63.7500
+Timiskaming, 47.5833, -79.5000
+Timmins, 48.4667, -81.3333
+Tincap, 44.6167, -75.7500
+Tingwick, 45.8333, -71.9667
+Tintagel, 54.2000, -125.5833
+Tisdale, 52.8500, -104.0667
+Tittle Road, 45.3333, -61.0333
+Tiverton(Ontario), 44.2667, -81.5333
+Tiverton(Nova Scotia), 44.3833, -66.2167
+Tizzard's Harbour, 49.6000, -54.8000
+Tobermory, 45.2500, -81.6667
+Tobique, 46.8000, -67.6833
+Tobique Narrows, 46.7833, -67.6833
+Tofield, 53.3667, -112.6667
+Tofino, 49.1500, -125.9000
+Togo, 51.4000, -101.5833
+Toledo, 44.7500, -76.0000
+Tompkins, 47.8000, -59.2167
+Tompkins, 50.0667, -108.7833
+Toogood Arm, 49.6333, -54.6000
+Toosey, 51.9333, -122.4833
+Topley, 54.8167, -126.3000
+Topley Landing, 54.8000, -126.1667
+Topsail Pond, 47.5333, -52.9000
+Torbay, 47.6667, -52.7333
+Torbrook, 44.9167, -64.9833
+Torbrook Mines, 44.9333, -64.9667
+Toronto, 43.6500, -79.3833
+Torquay, 49.1333, -103.5167
+Torrance, 45.0000, -79.5667
+Torrington, 51.8000, -113.5833
+Tors Cove, 47.2167, -52.8500
+Tottenham, 44.0167, -79.8167
+Touraine, 45.5667, -75.7833
+Tourelle, 49.1500, -66.4167
+Tourville, 47.1000, -69.9833
+Tracadie, 45.6167, -61.6667
+Tracadie-Sheila, 47.4833, -64.9167
+Tracey Mills, 46.4333, -67.7500
+Tracy(New Brunswick), 45.6833, -66.6833
+Tracy(Quebec), 46.0167, -73.1500
+Tracyville, 45.7333, -66.6667
+Trafalgar, 43.4833, -79.7167
+Trail, 49.1000, -117.7000
+Tramping Lake, 52.1333, -108.9500
+Transcona, 53.7833, -97.0000
+Travellers Rest, 46.4167, -63.7333
+Traytown, 48.6667, -53.9667
+Treherne, 49.6333, -98.6833
+Tremblay, 47.7500, -65.7500
+Tremont, 44.9500, -64.9333
+Trent River, 44.4000, -77.8667
+Trenton(Ontario), 44.1000, -77.5833
+Trenton(Nova Scotia), 45.6167, -62.6333
+Trenton Military Reserve, 44.1167, -77.5500
+Trepassey, 46.7333, -53.3667
+Tribune, 49.2500, -103.8333
+Tring Jonction, 46.2667, -70.9833
+Trinity(Trinity Bay), 48.3667, -53.3667
+Trinity(Bonavista Bay), 48.9833, -53.9167
+Trinity East, 48.3833, -53.3333
+Trinité des Monts, 48.1333, -68.4667
+Triton, 49.5167, -55.6167
+Trochu, 51.8333, -113.2167
+Trois Lacs, 45.8000, -71.9000
+Trois Pistoles, 48.1167, -69.1667
+Trois Rivières, 46.3500, -72.5500
+Trois Rivières Ouest, 46.3333, -72.6000
+Trois Ruisseaux, 46.2167, -64.2167
+Trout Brook(Nova Scotia), 45.9833, -60.1667
+Trout Brook(New Brunswick), 47.1167, -65.8000
+Trout Creek, 45.9833, -79.3667
+Trout Lake, 56.5000, -114.5333
+Trout River, 49.4833, -58.1333
+Trouty, 48.3333, -53.4000
+Troy(Nova Scotia), 45.7000, -61.4333
+Troy(Ontario), 43.2667, -80.1833
+Truax, 49.9167, -104.9667
+Trudel, 47.6833, -65.1333
+Truemanville, 45.8667, -64.0667
+Truro, 45.3667, -63.2667
+Truro Heights, 45.3500, -63.3167
+Tsahaheh, 49.2667, -124.8667
+Tsawwassen, 49.0167, -123.1000
+Tsinstikeptum, 59.8500, -119.6000
+Tsulquate, 50.7333, -127.5000
+Tugaske, 50.8833, -106.2667
+Tuktoyaktuk, 69.4500, -133.0333
+Tulameen, 49.5500, -120.7500
+Tullamore, 43.7833, -79.7667
+Tulsequah, 58.5833, -133.5833
+Tungsten, 61.9500, -128.2667
+Tunungayualok Island, 56.0833, -61.0833
+Tupper, 55.5167, -120.0333
+Tupperville(Nova Scotia), 44.8000, -65.3667
+Tupperville(Ontario), 42.6000, -82.2667
+Turin, 49.9667, -112.5167
+Turkey Point, 42.7000, -80.3167
+Turner Valley, 50.6667, -114.2833
+Turnor Lake, 56.4667, -108.6833
+Turtle Creek, 45.9667, -64.8833
+Turtleford, 53.3833, -108.9333
+Tusket, 43.8667, -65.9667
+Tutela Heights, 43.1000, -80.2667
+Tuxford, 50.5833, -105.5833
+Tweed, 44.4833, -77.3167
+Twelve O'Clock Point, 44.0500, -77.5833
+Twilite Trailer Court, 53.1667, -105.7500
+Twillingate, 49.6500, -54.7667
+Two Hills, 53.7167, -111.7500
+Two Mile, 55.2667, -127.6167
+Tyendinaga, 44.2000, -77.1667
+Tyndal Road, 45.8500, -64.1500
+Tyndall, 50.0833, -96.6667
+Tyne Valley, 46.5833, -63.9333
+Tyotown, 45.0500, -74.6500
+Tzeachten, 49.1167, -121.9333
+Témiscaming, 46.7167, -79.1000
+Tête Jaune Cache, 52.9500, -119.4333
+Tête à la Baleine, 50.6833, -59.3333

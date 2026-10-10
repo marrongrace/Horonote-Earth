@@ -1,0 +1,331 @@
+Gabarus, 45.8333, -60.1500
+Gabarus Lake, 45.8167, -60.2333
+Gabriola, 49.2000, -123.8333
+Gads Hill, 43.4333, -80.9167
+Gaetz Brook, 44.7667, -63.2167
+Gagetown, 45.7833, -66.1500
+Gagnon, 51.8833, -68.1667
+Gainsborough, 49.1667, -101.4333
+Galahad, 52.5167, -111.9333
+Galetta, 45.4167, -76.2500
+Galiano, 48.8667, -123.3500
+Gallants, 48.7000, -58.2333
+Galt > Cambridge(Kings County), 45.0667, -64.6333
+Gambo, 48.7667, -54.2333
+Gamebridge, 44.5000, -79.1500
+Gananoque, 44.3333, -76.1667
+Gander, 48.9500, -54.6167
+Gander Bay, 49.3000, -54.4833
+Gander Bay South, 49.2833, -54.4833
+Gang Ranch, 51.5500, -122.3333
+Ganges, 48.8500, -123.5000
+Gannon Road, 46.2333, -60.2500
+Garden Bay, 49.6333, -124.0333
+Garden Cove, 47.8500, -54.1667
+Garden Creek, 58.7000, -113.8833
+Garden Lots, 44.3667, -64.3000
+Garden River, 46.5500, -84.0833
+Garden Village, 46.3167, -79.8667
+Gardenton, 49.0833, -96.6667
+Gardiner Mines, 46.2167, -60.0500
+Garibaldi, 49.9667, -123.1500
+Garlands Crossing, 44.9667, -64.1000
+Garnett Settlement, 45.3000, -65.8500
+Garnish, 47.2333, -55.3667
+Garson(Ontario), 46.5667, -80.8667
+Garson(Manitoba), 50.0833, -96.7000
+Garthby, 45.8333, -71.3833
+Gascons, 48.2000, -64.8500
+Gascons Est, 48.2167, -64.8000
+Gascons Ouest, 48.1833, -64.9000
+Gaskiers, 46.8833, -53.6000
+Gasline, 42.8833, -79.1833
+Gaspereau(Nova Scotia), 45.0667, -64.3500
+Gaspereau(New Brunswick), 47.6000, -64.9667
+Gaspereaux, 46.1000, -62.4667
+Gaspé, 48.8333, -64.4833
+Gateway, 51.6667, -121.2167
+Gatineau, 45.5000, -75.6500
+Gaultois, 47.6000, -55.9000
+Gauthier, 48.3833, -64.6500
+Gauvreau, 47.5333, -64.8167
+Gayside, 49.3333, -54.7667
+Gazer Subdivision, 43.5833, -80.2333
+Geary, 45.7667, -66.4833
+Genelle, 49.2000, -117.7000
+Georges Brook, 48.2333, -53.9667
+Georges River, 46.2000, -60.3333
+Georgetown(Newfoundland and Labrador), 47.5000, -53.2333
+Georgetown(Ontario), 43.6500, -79.9167
+Georgetown(Prince Edward Island), 46.1833, -62.5333
+Gerald, 50.6667, -101.8000
+Geraldton, 49.7333, -86.9500
+Germansen Landing, 55.7833, -124.7167
+Gesto, 42.1333, -82.8833
+Gethsémani, 50.2167, -60.6667
+Gibbons(Alberta), 53.8333, -113.3333
+Gibsons(British Columbia), 49.4000, -123.5000
+Gift Lake, 55.8833, -115.8167
+Gilbert Plains, 51.1500, -100.4833
+Gilberts Cove, 44.4833, -65.9500
+Gilbertville, 42.8333, -80.4833
+Gilchrist, 44.4500, -79.5833
+Gilford, 44.2167, -79.5500
+Gilford Beach, 44.2333, -79.5333
+Gillam, 56.3500, -94.7167
+Gillams, 49.0167, -58.0667
+Gillard's Cove, 49.6167, -54.7500
+Gillies Bay, 49.6833, -124.4833
+Gimli, 50.6333, -96.9833
+Girardville, 49.0000, -72.5500
+Girouxville, 55.7500, -117.3333
+Giscome, 54.0667, -122.3667
+Gjoa Haven, 68.6333, -95.9500
+Glace Bay, 46.2000, -59.9500
+Glacier, 51.2667, -117.5167
+Glade, 49.4000, -117.5333
+Gladstone, 50.2167, -98.9500
+Glanworth, 42.8667, -81.2000
+Glaslyn, 53.3500, -108.3667
+Glassville, 46.4833, -67.4167
+Gleichen, 50.8667, -113.0500
+Glen Cairn, 45.3000, -75.8833
+Glen Ewen, 49.2000, -102.0167
+Glen Haven, 44.6333, -63.9167
+Glen Lake, 48.4333, -123.5167
+Glen Levit, 47.9667, -66.8500
+Glen Margaret, 44.5833, -63.9167
+Glen Miller, 44.1333, -77.5833
+Glen Morris, 43.2667, -80.3500
+Glen Robertson, 45.3500, -74.5000
+Glen Ross, 44.2667, -77.6000
+Glen Tay, 44.8833, -76.3000
+Glen Walter, 45.0333, -74.6167
+Glen Williams, 43.6667, -79.9167
+Glenarchy, 43.4833, -79.7667
+Glenavon, 50.1667, -103.1667
+Glenbank, 50.2500, -117.8000
+Glenboro, 49.5333, -99.2500
+Glenburnie, 49.4333, -57.9000
+Glencairn, 44.3000, -80.0167
+Glencoe(Ontario), 42.7500, -81.7167
+Glencoe(New Brunswick), 47.9500, -66.8000
+Glendale(British Columbia), 52.1500, -122.1667
+Glendale(Nova Scotia), 45.8167, -61.3000
+Glendale Subdivision, 45.0833, -74.6500
+Glendon, 54.2500, -111.1667
+Glenella, 50.5500, -99.1833
+Glenholme, 45.4000, -63.5333
+Glenmont, 45.1833, -64.5000
+Glenora, 48.7333, -123.7667
+Glenrosa, 49.8500, -119.7000
+Glenvilla Court, 47.6000, -52.6833
+Glenwood(Newfoundland and Labrador), 48.9833, -54.8667
+Glenwood(New Brunswick), 45.4833, -66.1167
+Glenwood(Cardston County), 53.5833, -116.4667
+Glenwood(Central Alberta), 49.3667, -113.5167
+Glenwood Beach, 44.2167, -79.4667
+Glenwood Heights, 43.2667, -79.9833
+Glenwoodville, 49.3667, -113.3500
+Gloucester Glen, 45.2833, -75.7000
+Glovers Harbour, 49.4500, -55.5000
+Glovertown, 48.6833, -54.0333
+Gnadenthal, 49.1000, -97.8000
+God's Lake, 54.5500, -94.4500
+Godbout, 49.3167, -67.6167
+Goderich, 43.7500, -81.7167
+Gods River, 54.8333, -94.0833
+Goffs, 44.8833, -63.4833
+Gogama, 47.6667, -81.7167
+Gold Bridge, 50.8500, -122.8333
+Gold River, 49.6833, -126.1333
+Gold Rock, 49.4500, -92.7167
+Goldboro, 45.1833, -61.6500
+Golden, 51.3000, -116.9667
+Golden Lake, 45.5833, -77.2333
+Golden Prairie, 50.2333, -109.6333
+Gondola Point, 45.4333, -65.9833
+Goobies, 47.9333, -53.9667
+Gooderham, 44.9000, -78.3833
+Goodeve, 51.0667, -103.1667
+Goodlands, 49.0833, -100.5833
+Goodlow, 56.3333, -120.1333
+Goodsoil, 54.4000, -109.2167
+Goodwin Mill, 47.5500, -65.5500
+Goodwood(Nova Scotia), 44.6167, -63.6667
+Goodwood(Ontario), 44.0333, -79.2000
+Goose Bay, 53.3333, -60.4167
+Goose Cove, 47.8667, -54.1000
+Goose Cove East, 51.3000, -55.6333
+Goose Creek, 49.4167, -117.5333
+Gooseberry Cove, 48.0333, -53.6333
+Gordon, 51.2500, -104.2500
+Gordon River, 48.7833, -124.3500
+Gordonsville, 46.4833, -67.5167
+Gore, 45.1167, -63.7167
+Gore Bay, 45.9167, -82.4667
+Gormanville, 45.2500, -63.7500
+Gorrie, 43.8667, -81.1000
+Goshen, 45.3833, -61.9833
+Gossen Creek, 54.5667, -128.4333
+Goulais Bay, 46.7167, -84.4167
+Goulds, 47.4833, -52.7667
+Goulds Road, 47.5000, -53.3167
+Govan, 51.3000, -105.0000
+Govenlock, 49.2500, -109.8000
+Gower Point, 49.3833, -123.5167
+Gowganda, 47.6500, -80.7667
+Gracefield, 46.1000, -76.0500
+Grafton(Alberta), 49.6333, -114.5000
+Grafton(New Brunswick), 46.1500, -67.5667
+Grafton(Nova Scotia), 45.1000, -64.7000
+Grafton(Ontario), 44.0000, -78.0167
+Grahams Road, 46.4333, -63.5333
+Grainfield, 46.8167, -65.8833
+Granada, 48.2000, -79.0500
+Granby, 45.4000, -72.7333
+Granby Ouest, 45.4167, -72.7667
+Grand Bank, 47.1000, -55.7667
+Grand Bay, 45.3000, -66.2000
+Grand Beach, 50.5833, -96.6667
+Grand Bend, 43.2500, -81.7500
+Grand Bruit, 47.6833, -58.2167
+Grand Centre, 54.4167, -110.2167
+Grand Coulee, 50.4333, -104.8167
+Grand Desert, 44.6833, -63.2667
+Grand Détour, 48.8000, -67.5333
+Grand Falls, 47.0500, -67.7333
+Grand Falls-Windsor, 48.9333, -55.6667
+Grand Fonds, 47.7500, -70.1167
+Grand Forks, 49.0333, -118.4500
+Grand Harbour, 44.6833, -66.7667
+Grand Lac Victoria, 47.5333, -77.4500
+Grand Lake Road(New Brunswick), 46.5333, -66.1000
+Grand Lake Road(Nova Scotia), 46.1500, -60.1333
+Grand Lake Station, 44.8833, -63.6000
+Grand Le Pierre, 47.6833, -54.7833
+Grand Marais, 50.5333, -96.6167
+Grand Mira South, 45.8833, -60.2833
+Grand Pabos, 48.3500, -64.6333
+Grand Prairie Trail, 53.6000, -116.4500
+Grand Pré, 45.1000, -64.3000
+Grand Rapids, 53.1333, -99.3333
+Grand Remous, 46.6167, -75.9167
+Grand River, 45.6500, -60.6667
+Grand Ruisseau, 47.4000, -61.8833
+Grand St Esprit, 46.1833, -72.5000
+Grand Tracadie, 46.4000, -63.0500
+Grand Valley, 43.9000, -80.3167
+Grand Étang, 46.5500, -61.0333
+Grand'Mère, 46.6167, -72.6833
+Grande Aldouane, 46.7000, -64.9333
+Grande Anse(Nova Scotia), 45.6167, -61.0667
+Grande Anse(New Brunswick), 47.8000, -65.1833
+Grande Cache, 53.8833, -119.1333
+Grande Digue, 46.3000, -64.5667
+Grande Entrée, 47.5500, -61.5667
+Grande Greve, 45.6333, -60.8500
+Grande Pointe, 49.7667, -97.0500
+Grande Prairie, 55.1667, -118.8000
+Grande Rivière, 48.4000, -64.5000
+Grande Vallée, 49.2167, -65.1333
+Grandes Bergeronnes, 48.2500, -69.5333
+Grandes Piles, 46.6833, -72.7333
+Grandview, 51.1667, -100.7500
+Granisle, 54.8833, -126.2167
+Grantham, 49.7333, -124.9667
+Granthams Landing, 49.4167, -123.4833
+Granton(Nova Scotia), 45.6167, -62.7333
+Granton(Ontario), 43.2167, -81.3000
+Grantville, 51.7667, -113.2167
+Granum, 49.8667, -113.5000
+Granville Centre, 44.7833, -65.4500
+Granville Ferry, 44.7500, -65.5167
+Grassy Lake, 49.8167, -111.7167
+Grassy Plains, 53.9500, -125.9000
+Grates Cove, 48.1667, -52.9333
+Gravel Hill, 47.9167, -66.1333
+Gravelbourg, 49.8833, -106.5667
+Gravenhurst, 44.9167, -79.3667
+Gray Rapids, 46.7833, -65.7500
+Grayson, 50.7333, -102.6667
+Great Codroy, 47.8500, -59.2667
+Great Falls, 50.4500, -96.0333
+Great Harbour Deep, 50.3667, -56.5167
+Great Village, 45.4167, -63.6000
+Greece's Point, 45.6000, -74.5000
+Greely, 45.2667, -75.5500
+Green Acres(Ontario), 45.2667, -75.5833
+Green Acres(Saskatchewan), 53.2500, -105.7500
+Green Bay, 49.8667, -119.6333
+Green Haven Trailer Park, 42.9833, -82.3167
+Green Hill, 45.0167, -63.8667
+Green Island Brook, 51.4000, -56.5333
+Green Island Cove, 51.3833, -56.5833
+Green Lake, 54.2833, -107.7833
+Green Lane, 45.5667, -74.6333
+Green Meadows, 46.9000, -64.0500
+Green Valley, 45.2667, -74.6000
+Green's Harbour, 47.6500, -53.5000
+Greenbank, 44.1500, -79.0167
+Greenfield(Queens County), 44.2667, -64.8333
+Greenfield(Colchester County), 45.0167, -64.3333
+Greenfield Park, 45.4833, -73.4833
+Greenhill, 45.5667, -62.8000
+Greenland, 44.5833, -65.5833
+Greenlay > St Grégoire de Greenlay, 45.5667, -72.0167
+Greens Corner, 42.8000, -80.4167
+Greenspond, 49.0667, -53.5667
+Greensville, 43.2833, -80.0000
+Greenvale, 46.3333, -63.3167
+Greenville, 43.8500, -66.0333
+Greenwich, 45.0833, -64.4000
+Greenwich Hill, 45.4500, -66.1667
+Greenwood(British Columbia), 49.0833, -118.6833
+Greenwood(Nova Scotia), 44.9667, -64.9333
+Greenwood(Alberta), 51.0333, -114.9167
+Grenfell, 50.4167, -102.9333
+Grenfell Heights, 48.9667, -55.6000
+Grenville, 45.6167, -74.6000
+Grenville Bay, 45.6333, -74.6000
+Gretna, 49.0333, -97.5833
+Grey River, 47.5833, -57.1000
+Griffin, 49.6667, -103.4333
+Griffith, 45.2500, -77.1667
+Grimsby, 43.2000, -79.5667
+Grimshaw, 56.1833, -117.6000
+Grindrod, 50.6333, -119.1167
+Grindstone Island > Cap aux Meules, 47.3833, -61.8667
+Griquet, 51.5333, -55.4667
+Grise Fiord, 76.4167, -82.9500
+Griswold, 49.7500, -100.4167
+Grondines, 46.6000, -72.0500
+Gronlid, 53.1000, -104.4667
+Gros Cap, 47.3500, -61.8833
+Gros Morne, 49.2500, -65.5500
+Grosse Isle, 50.0667, -97.4500
+Grosse Île, 47.6167, -61.5167
+Grosses Coques, 44.3500, -66.1000
+Grosses Roches, 48.9333, -67.1667
+Grouard Mission, 55.5167, -116.1500
+Groundbirch, 55.7833, -120.9167
+Grunthal, 49.4167, -96.8667
+Guelph, 43.5500, -80.2500
+Guernsey, 51.8833, -105.1833
+Guigues, 47.4667, -79.4333
+Guité, 48.1833, -66.0167
+Gull Island, 47.9500, -53.0500
+Gull Lake, 50.1333, -108.4500
+Gull River, 49.8167, -89.1333
+Gullies, 47.5333, -53.2333
+Gunn, 53.7333, -114.3333
+Gunnar, 59.3833, -108.8833
+Gunning Cove, 43.6833, -65.3500
+Gunton, 50.3167, -97.2667
+Guyenne, 48.7833, -78.4667
+Guysborough, 45.3833, -61.5000
+Guérin, 47.6667, -79.3167
+Gypsum Mines, 44.9833, -64.0667
+Gypsumville, 51.7500, -98.5833
+Gypsumville Military Reserve, 51.6667, -98.7333
+Gérin, 46.2667, -73.1167

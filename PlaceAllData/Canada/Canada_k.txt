@@ -1,0 +1,186 @@
+Kagawong, 45.9000, -82.2500
+Kahkewistahaw, 50.5000, -102.5333
+Kakabeka Falls, 48.4000, -89.6167
+Kaladar, 44.6500, -77.1167
+Kalandar, 44.6500, -77.1167
+Kaleden, 49.3833, -119.5833
+Kalenden, 49.3833, -119.6000
+Kaministiquia, 48.5333, -89.5667
+Kamloops, 50.6667, -120.3333
+Kamloops Indian Reserve, 50.7167, -120.2667
+Kamouraska, 47.5667, -69.8667
+Kamsack, 51.5667, -101.9000
+Kanata, 45.3333, -75.9000
+Kandahar, 51.7667, -104.3500
+Kapuskasing, 49.4167, -82.4333
+Kars, 45.1500, -75.6500
+Karsdale, 44.7000, -65.6500
+Kasabonika, 53.5333, -88.6167
+Kaslo, 49.9167, -116.9167
+Katepwa Beach, 50.7000, -103.6333
+Katrine, 45.5667, -79.3500
+Kawartha Park, 44.5333, -78.2000
+Kawkawa Lake, 49.3833, -121.3833
+Kazabazua, 45.9500, -76.0167
+Kearney, 45.5500, -79.2167
+Kearns, 48.1500, -79.5667
+Kebaowek, 46.9167, -79.0000
+Kedgwick, 47.6500, -67.3500
+Keefers, 50.0333, -121.5500
+Keels, 48.6000, -53.4000
+Keene, 44.2500, -78.1667
+Keeseekoose, 51.7167, -101.9500
+Keeseekoowenin, 50.5500, -100.3000
+Keewatin, 49.7667, -94.5667
+Keg River, 57.8000, -117.8667
+Kegaska, 50.2000, -61.2833
+Kehiwin, 54.1000, -110.8333
+Keithley Creek, 52.7500, -121.4000
+Kelleys Cove, 43.7833, -66.1167
+Kelliher, 51.2500, -103.7333
+Kelly, 48.1167, -65.1333
+Kelly Lake, 55.2500, -120.0167
+Kellys Cross, 46.2667, -63.4500
+Kelowna, 49.8833, -119.4833
+Kelsey Bay, 50.4000, -125.9500
+Kelvin Grove, 46.4167, -63.6500
+Kelvington, 52.1667, -103.5000
+Kelwood, 50.6167, -99.4667
+Kemano, 53.5667, -127.9333
+Kempark, 45.3333, -75.6000
+Kempt, 44.4333, -65.1167
+Kempt Road, 45.6500, -61.1667
+Kempt Shore, 45.1167, -64.2000
+Kemptown, 45.4667, -63.0833
+Kemptville, 45.0167, -75.6333
+Kenaston, 51.5000, -106.3000
+Kendal, 50.2500, -103.6167
+Kenilworth, 43.8833, -80.6333
+Kenmore, 45.2333, -75.4167
+Kennedy, 50.0167, -102.3500
+Kennetcook, 45.1833, -63.7333
+Keno Hill, 63.9167, -135.3000
+Kenogami Lake, 48.1000, -80.2000
+Kenora, 49.7833, -94.4833
+Kenora Indian Reserve, 49.7500, -94.4167
+Kenosee Park, 49.8333, -102.3000
+Kensington, 46.4333, -63.6333
+Kent, 49.2333, -121.7833
+Kent Bridge, 42.5167, -82.0667
+Kent Junction, 46.5833, -65.3333
+Kenton, 49.9833, -100.6167
+Kentville, 45.0833, -64.5000
+Kenville, 52.0000, -101.3333
+Keremeos, 49.2000, -119.8333
+Kerrobert, 51.9167, -109.1333
+Kersley, 52.8167, -122.4167
+Kerwood, 42.9333, -81.7500
+Keswick(New Brunswick), 46.0000, -66.8333
+Keswick(Ontario), 44.2500, -79.4667
+Ketch Harbour, 44.4833, -63.5500
+Kettle Point, 43.1833, -82.0000
+Kiamika, 46.4167, -75.3833
+Kikino, 54.4500, -112.1333
+Kilbride, 47.5333, -52.7500
+Kilburn, 46.6333, -67.7000
+Kildare(St Ambroise de Kildare), 46.0833, -73.5333
+Kildonan, 49.0000, -125.0000
+Kilgard, 49.0500, -122.2000
+Killaloe Station, 45.5500, -77.4167
+Killaly, 50.7500, -102.8333
+Killam, 52.7833, -111.8500
+Killarney(Nova Scotia), 44.7333, -63.6833
+Killarney(Manitoba), 49.2000, -99.7000
+Killarney(Ontario), 45.9667, -81.5167
+Kilmar, 45.7667, -74.6167
+Kilmuir, 46.1167, -62.6667
+Kimberley, 49.6833, -115.9833
+Kimmirut(Lake Harbour), 62.8500, -69.8833
+Kimsquit, 52.8167, -126.9667
+Kinburn, 45.3833, -76.1833
+Kincaid, 49.6500, -107.0000
+Kincardine, 44.1833, -81.6333
+Kincolith, 55.0000, -129.9500
+Kindersley, 51.4500, -109.1667
+King City, 43.9333, -79.5333
+King Kirkland, 48.1667, -79.9500
+King's Cove, 48.5667, -53.3333
+King's Point, 49.5833, -56.1833
+Kingsboro, 46.4000, -62.1167
+Kingsbury, 45.5833, -72.1500
+Kingsclear, 45.8833, -66.9167
+Kingsclear Indian Reserve, 45.9333, -66.8167
+Kingscross Estates, 43.9333, -79.5333
+Kingsey, 45.8333, -72.0000
+Kingsey Falls, 45.8500, -72.0667
+Kingsgate, 49.0000, -116.1833
+Kingsley, 46.0500, -66.7500
+Kingsmere, 45.4833, -75.8333
+Kingsport, 45.1667, -64.3667
+Kingston(Newfoundland and Labrador), 47.8167, -53.1167
+Kingston(Prince Edward Island), 46.2667, -63.2833
+Kingston(Nova Scotia), 44.9833, -64.9500
+Kingston(Ontario), 44.2333, -76.5000
+Kingston Military Reserve, 44.2333, -76.5000
+Kingston Mills, 44.2833, -76.4500
+Kingston Village, 44.9667, -64.9333
+Kingsville, 42.0333, -82.7500
+Kinistino, 52.9500, -105.0000
+Kinistino Indian Reserve, 52.6167, -104.2167
+Kinkora, 46.3167, -63.6000
+Kinmount, 44.7833, -78.6500
+Kinnaird, 49.2833, -117.6500
+Kinnear Settlement, 45.9667, -65.2667
+Kinnears Mills, 46.2167, -71.3833
+Kinsac, 44.8333, -63.6667
+Kintore, 43.1333, -81.0333
+Kinuso, 55.3333, -115.4167
+Kiosk, 46.0833, -78.8833
+Kipawa, 46.7833, -78.9833
+Kipling, 50.1667, -102.6333
+Kippens, 48.5500, -58.6333
+Kirkfield, 44.5667, -78.9833
+Kirkland, 45.4500, -73.8667
+Kirkland Lake, 48.1500, -80.0333
+Kirkton, 43.3333, -81.3167
+Kisbey, 49.6333, -102.6833
+Kispiox, 55.3500, -127.6833
+Kispiox Indian Reserve, 55.3667, -127.6833
+Kississing, 55.1167, -101.1167
+Kitasoo, 52.5833, -128.5333
+Kitchener, 43.4500, -80.4833
+Kitchener, 49.1667, -116.3333
+Kitimat, 54.0500, -128.5500
+Kitimat Indian Reserve, 53.9833, -128.6500
+Kitsakie, 55.0833, -105.3167
+Kitscoty, 53.3333, -110.3333
+Kitseguecla, 55.0833, -127.8167
+Kitwancool, 55.2667, -128.0667
+Kitwanga, 55.1000, -128.0500
+Kitwangar, 55.1000, -128.0667
+Kleefeld, 49.5000, -96.8667
+Kleena Kleene, 51.9667, -124.9833
+Kleinburg, 43.8333, -79.6333
+Klemtu, 52.6000, -128.5167
+Klickkumcheen, 50.2333, -121.5833
+Klondike, 45.3333, -72.8000
+Knights Cove, 48.5333, -53.3167
+Knutsford, 46.7000, -64.2833
+Koartac, 61.0333, -69.6167
+Koidern, 61.9667, -140.4167
+Kokish, 50.5000, -126.8333
+Koksilah, 48.6667, -123.6333
+Komoka, 42.9500, -81.4333
+Kormak, 47.6333, -82.9833
+Kramer, 45.8667, -77.2333
+Krestova, 49.4500, -117.5833
+Krydor, 52.7833, -107.0500
+Kugaaruk(Pelly Bay), 68.5333, -89.8333
+Kugluktuk(Coppermine), 67.8333, -115.0833
+Kulkayu, 53.4333, -129.2667
+Kuper Island, 48.9667, -123.6333
+Kuroki, 51.8667, -103.4833
+Kyle, 50.8333, -108.0333
+Kyuquot, 50.0333, -127.3833
+Kégashka, 50.2000, -61.2833
+Kénogami, 48.4333, -71.2333

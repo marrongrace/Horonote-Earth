@@ -1,0 +1,269 @@
+D'Alembert, 48.3667, -79.0167
+D'Arcy, 50.5500, -122.4833
+D'Artagnan, 46.6833, -71.0500
+D'Escousse, 45.5833, -60.9667
+Daaquam, 45.5833, -70.0667
+Dafoe, 51.7667, -104.5333
+Dalesville, 45.7000, -74.4000
+Dalhousie, 48.0667, -66.3833
+Dalhousie Junction, 48.0500, -66.5000
+Dalhousie Station, 45.3000, -74.4500
+Dalkeith, 45.4500, -74.5833
+Dalmeny, 52.3333, -106.7667
+Dalquier, 48.6833, -78.1167
+Dalroy, 51.1167, -113.6500
+Dana, 52.2833, -105.7667
+Danesville, 44.2000, -64.6167
+Danford Lake, 45.9167, -76.1667
+Daniel's Harbour, 50.2333, -57.5833
+Danville, 45.7833, -72.0167
+Dark Cove, 48.7833, -54.2167
+Darlingford, 49.2000, -98.3667
+Darlington, 48.0500, -66.3833
+Darnley, 46.5333, -63.6333
+Dartmouth, 44.6667, -63.5667
+Dashwood(British Columbia), 49.3667, -124.5167
+Dashwood(Ontario), 43.3500, -81.6333
+Daulnay, 47.4167, -65.4667
+Dauphin, 51.1500, -100.0500
+Daveluyville, 46.2000, -72.1333
+Davidson(Quebec), 45.8667, -76.7667
+Davidson(Saskatcheman), 51.3000, -105.9833
+Davis Bay, 49.4167, -123.7167
+Davis Cove, 47.6667, -54.3000
+Davis Inlet, 55.9167, -60.9667
+Dawson, 64.0667, -139.4167
+Dawson Bay, 52.7500, -100.7333
+Dawson Creek, 55.7667, -120.2333
+Dawson Settlement, 45.9500, -64.7500
+Dawson's Cove, 47.5333, -55.9333
+Dawsonville, 47.9333, -66.9000
+Daysland, 52.8667, -112.2500
+Dayspring, 44.3667, -64.4833
+Dayton, 43.8667, -66.1000
+De Grasse, 50.2167, -66.2167
+De Grau, 48.5000, -59.1667
+Deadman's Bay, 49.3500, -53.7000
+Deadman's Creek, 50.8000, -120.9500
+Dealtown, 42.2500, -82.1000
+Dease Lake, 58.4667, -130.0333
+Deauville, 45.3333, -72.0333
+Debden, 53.5167, -106.8833
+Debec, 46.0667, -67.7000
+Debert, 45.4333, -63.4667
+Decker Lake, 54.2833, -125.8333
+Deep Bay, 49.6667, -54.3000
+Deep Birhg, 48.1000, -53.9500
+Deep Brook, 44.6333, -65.6500
+Deep Cove, 49.3667, -122.9333
+Deep River, 46.1000, -77.5000
+Deer Lake, 49.1667, -57.4333
+Deerbrook, 42.2833, -82.6167
+Deerfield, 43.9500, -65.9833
+Defoy, 46.1333, -72.1333
+Delaware, 42.9167, -81.4167
+Delburne, 52.2000, -113.2333
+Delhaven, 45.2000, -64.3833
+Delhi, 42.8500, -80.5000
+Delia, 51.6333, -112.3833
+Delisle, 51.9167, -107.1333
+Delmas, 52.9167, -108.6000
+Delmer, 42.8667, -80.8000
+Deloraine, 49.2000, -100.4833
+Deloro, 44.5167, -77.6167
+Delson, 45.3667, -73.5500
+Delta(British Columbia), 49.0833, -122.9500
+Delta(Ontario), 44.6167, -76.1333
+Delta Beach, 50.1833, -98.3167
+Deléage, 46.3833, -75.9167
+Demmitt, 55.4333, -119.9000
+Demorestville, 44.1000, -77.2000
+Denare Beach, 54.6667, -102.0833
+Denbigh, 45.1333, -77.2667
+Deniau, 47.0833, -69.9333
+Densmores Mills, 45.3000, -63.7000
+Denver Siding, 50.0000, -117.3667
+Denzil, 52.2333, -109.6500
+Departure Bay, 49.2000, -123.9667
+Dequen Nord, 48.3333, -72.1333
+Derby Junction, 46.9667, -65.6000
+Deroche, 49.1833, -122.0667
+Derry West, 43.6500, -79.7000
+Derwent, 53.6500, -110.9667
+DeSable, 46.2000, -63.4167
+Desbarats, 46.3333, -83.9333
+Desbiens, 48.4167, -71.9500
+Desboro, 44.4000, -81.0000
+Deschaillons, 46.5333, -72.1167
+Deschaillons sur St Laurent, 46.5500, -72.1167
+Deschambault, 46.6500, -71.9333
+Deschambault Lake, 54.9167, -103.3667
+Deschênes, 45.3833, -75.8000
+Deseronto, 44.2000, -77.0500
+Desjardinsville, 45.8500, -77.1167
+Desmarais, 55.9333, -113.8167
+Desméloizes, 48.9500, -79.4667
+Destruction Bay, 61.2500, -138.8000
+Deux Montagnes, 45.5333, -73.8833
+Deux Rivières, 46.2500, -78.2833
+Devine, 50.5333, -122.5000
+Devon, 53.3667, -113.7333
+Dewberry, 53.5833, -110.5333
+Dewdney, 49.1667, -122.2000
+Dewittville, 45.1167, -74.0833
+Diamond Cove, 47.6167, -58.7000
+Didsbury, 51.6667, -114.1333
+Didyme, 48.9000, -72.6667
+Dieppe, 46.1000, -64.7500
+Digby, 44.6167, -65.7833
+Dignard Settlement, 47.5333, -64.9167
+Dildo, 47.5667, -53.5500
+Diligent River, 45.4167, -64.4500
+Dilke, 50.8667, -105.2500
+Dingwall, 46.9000, -60.4667
+Dinorwic, 49.6833, -92.5000
+Dinsmore, 51.3333, -107.4333
+Dipper Harbour West, 45.1000, -66.4333
+Disraëli, 45.9000, -71.3500
+Dixie, 43.6000, -79.6000
+Dixville, 45.0667, -71.7667
+Doaktown, 46.5500, -66.1333
+Dobie, 48.1333, -79.8167
+Dock Cove, 48.8667, -53.6333
+Doctors Cove, 43.5167, -65.6333
+Dalhousie, 48.0667, -66.3833
+Dalhousie Junction, 48.0500, -66.5000
+Dalhousie Station, 45.3000, -74.4500
+Dodsland, 51.8000, -108.8167
+Doe River, 56.0000, -120.0833
+Dog Creek(Manitoba), 50.9167, -98.5667
+Dog Creek(British Columbia), 51.5833, -122.2500
+Dokis, 46.0833, -80.0000
+Dolbeau, 48.8833, -72.2333
+Dollard des Ormeaux, 45.4833, -73.8167
+Dollarton, 49.3000, -122.9333
+Dolphin Island, 53.7833, -130.4333
+Domaine Beaudoin Papin, 45.8667, -73.4333
+Domaine Boulots, 46.5167, -72.9500
+Domaine Charbonneau, 45.9167, -73.7333
+Domaine Chez Bill, 48.1833, -79.0333
+Domaine des Saules, 45.2167, -73.2333
+Domaine Gérôme, 45.7500, -73.7000
+Domaine Joyeux, 45.2000, -73.1000
+Domaine Ouellet, 45.9000, -73.4167
+Domaine Préville, 46.0833, -73.5333
+Domaine Racine, 45.8500, -73.8833
+Domaine Villeroy, 46.2500, -73.5333
+Dome Creek, 53.7333, -121.0167
+Dominion, 46.2167, -60.0167
+Dominion City, 49.1500, -97.1500
+Domremy, 52.7833, -105.7333
+Donagh, 46.2667, -62.9500
+Donald, 51.4833, -117.1833
+Donalda, 52.5833, -112.5667
+Donaldston, 46.3500, -63.0000
+Donavon Subdivision, 51.6000, -121.2333
+Donkin, 46.1833, -59.8667
+Donnacona, 46.6667, -71.7833
+Donnelly, 55.7333, -117.1000
+Doon, 43.3833, -80.4333
+Dorchester(New Brunswick), 45.9000, -64.5167
+Dorchester(Ontario), 42.9833, -81.0667
+Dorchester Crossing, 46.1667, -64.5667
+Dorintosh, 54.3667, -108.6333
+Dorion, 45.3833, -74.0167
+Dorion Vaudreuil, 45.3833, -74.0167
+Dorland, 43.1167, -80.8000
+Dorval, 45.4500, -73.7333
+Doré Lake, 54.6333, -107.4000
+Dosquet, 46.4667, -71.5333
+Doting Cove, 49.4500, -53.9500
+Doucetteville, 44.4500, -65.8167
+Douglas(Manitoba), 49.8833, -99.7000
+Douglas(New Brunswick), 45.9833, -66.7333
+Douglas(Ontario), 45.5167, -76.9333
+Douglas Lake, 50.1667, -120.2000
+Douglas Station, 49.8833, -99.7667
+Douglasfield, 46.9833, -65.4833
+Douglastown, 47.0333, -65.5000
+Dover(Newfoundland and Labrador), 48.8667, -53.9667
+Dover(Nova Scotia), 45.2833, -61.0500
+Downsview, 43.7333, -79.5000
+Doyles, 47.8333, -59.2000
+Drake, 51.7500, -105.0167
+Drapeau, 48.1167, -66.2833
+Drayton, 43.7667, -80.6667
+Drayton Valley, 53.2167, -114.9833
+Dresden, 42.5833, -82.1833
+Drift Pile River, 55.3667, -115.7500
+Driftwood Trailer Court, 54.1667, -105.7500
+Drinkwater, 50.3000, -105.1333
+Drum Head, 45.1500, -61.6000
+Drumbo, 43.2333, -80.5500
+Drumheller, 51.4667, -112.7000
+Drummond, 47.0333, -67.6833
+Drummondville, 45.8833, -72.4833
+Drummondville Sud, 45.8667, -72.4833
+Dry Gulch Park, 50.6000, -116.0333
+Dryden, 49.7833, -92.8333
+Duart, 42.5000, -81.7500
+Dublin, 43.5167, -81.2833
+Dublin Shore, 44.2667, -64.3667
+Dubreuilville, 48.3500, -84.5333
+Dubuc, 50.6833, -102.4667
+Duchess, 50.7167, -111.9167
+Duck Bay, 52.1667, -100.1500
+Duck Lake(British Columbia), 50.0000, -119.4000
+Duck Lake(Saskatchewan), 52.7833, -106.2167
+Duclos, 45.6833, -76.1167
+Duclos Point, 44.3500, -79.2500
+Duffys Corner, 46.1833, -66.0333
+Dufourville, 46.2833, -64.7667
+Dugald, 49.8833, -96.8500
+Duguayville, 47.6000, -65.0500
+Duguesclin, 48.4333, -64.4333
+Duhamel, 46.0167, -75.0833
+Dunbarton, 43.8167, -79.1000
+Dunblane, 51.1833, -106.8667
+Duncan, 48.7833, -123.7000
+Dunchurch, 45.6500, -79.8500
+Dundalk, 44.1667, -80.4000
+Dundarave, 49.3833, -123.2333
+Dundas(Ontario), 43.2667, -79.9667
+Dundas(Prince Edward Island), 46.3167, -62.5167
+Dundee(New Brunswick), 48.0000, -66.4833
+Dundee(Nova Scotia), 45.7000, -61.1000
+Dundurn, 51.8167, -106.5000
+Dundurn Military Reserve, 51.8500, -106.5667
+Dunfield, 48.3500, -53.3833
+Dungannon, 43.8500, -81.6000
+Dunham, 45.1333, -72.8000
+Dunkley, 53.2833, -122.4667
+Dunmore, 45.5333, -61.9333
+Dunnottar, 50.4500, -96.9667
+Dunnville, 42.9000, -79.6000
+Dunrea, 49.4167, -99.7333
+Dunsford, 44.4500, -78.6500
+Dunstaffnage, 46.3333, -63.0333
+Dunster, 53.1333, -119.8333
+Duntara, 48.6000, -53.3667
+Duntroon, 44.3833, -80.1833
+Dunvegan, 46.3000, -61.2167
+Dunville, 47.2667, -53.9000
+Duparquet, 48.5000, -79.2333
+Duprat, 48.3167, -79.0500
+Dupuy, 48.8333, -79.3500
+Duret, 48.0500, -65.2667
+Durham(Nova Scotia), 45.6167, -62.8167
+Durham(Ontario), 44.1667, -80.8167
+Durham Sud, 45.6667, -72.3333
+Durrell, 49.6667, -54.7333
+Dutch Brook, 46.0667, -60.2000
+Dutch Settlement, 44.9833, -63.4500
+Dutch Valley, 45.7000, -65.4667
+Dutton, 42.6500, -81.5000
+Duval, 51.1500, -105.0000
+Duvar, 46.7500, -64.2333
+Dyment, 49.6167, -92.3167
+Dysart, 50.9333, -104.0333
+Dégelis, 47.5500, -68.6500

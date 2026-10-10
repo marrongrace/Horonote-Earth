@@ -1,0 +1,33 @@
+Yahk, 49.0833, -116.0833
+Yale, 49.5667, -121.4333
+Yamachiche, 46.2667, -72.8333
+Yamaska, 46.0000, -72.9167
+Yamaska Est, 46.0000, -72.9000
+Yankeetown, 44.7333, -63.8167
+Yarbo, 50.7000, -101.9333
+Yarker, 44.3833, -76.7667
+Yarmouth, 43.8333, -66.1167
+Yarrow, 49.0833, -122.0333
+Yellow Creek, 52.7500, -105.2500
+Yellow Grass, 49.8167, -104.1333
+Yellowknife, 62.4500, -114.3500
+Yennadon, 49.2333, -122.5667
+Ymir, 49.2833, -117.2167
+York(Hastings County), 44.0833, -77.5833
+York(Prince Edward Island), 46.3167, -63.1000
+York(Toronto), 43.6833, -79.4833
+York Factory, 57.0000, -92.3000
+York Harbour, 49.0667, -58.3833
+York Landing, 56.0833, -95.0833
+York Point, 46.2167, -63.1667
+York University, 43.7667, -79.5167
+Yorkton, 51.2167, -102.4667
+Yorkton Military Reserve, 51.2667, -102.6167
+Youbou, 48.8833, -124.2167
+Young, 51.7833, -105.7667
+Youngs Cove, 44.8667, -65.4333
+Youngs Harbour, 44.2000, -79.4833
+Youngs Point, 44.4833, -78.2333
+Youngstown, 44.4000, -78.4167
+Youngstown, 51.5333, -111.2167
+Yukon Crossing, 62.3500, -136.5000

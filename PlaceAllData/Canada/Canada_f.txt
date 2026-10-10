@@ -1,0 +1,245 @@
+Fabre, 47.2000, -79.3667
+Factorydale, 45.0000, -64.7833
+Fair Haven, 47.5333, -53.9000
+Fairbairn Meadows, 44.3167, -78.3500
+Fairbank, 49.5500, -54.7500
+Fairfield, 45.3333, -65.6833
+Fairford, 51.6167, -98.6333
+Fairhaven, 44.9667, -67.0000
+Fairisle, 47.2833, -65.1167
+Fairmont Hot Springs, 50.3167, -115.8833
+Fairport, 43.8167, -79.0833
+Fairport Beach, 43.8000, -79.1000
+Fairvale, 45.4167, -66.0000
+Fairview, 56.0667, -118.3833
+Fairview Subdivision(Alberta), 49.7000, -112.7667
+Fairview Subdivision(British Columbia), 49.2333, -117.6667
+Falcon Lake, 49.6833, -95.3167
+Falcon Park, 49.7167, -124.9333
+Falconbridge, 46.5833, -80.8000
+Falher, 55.7333, -117.2000
+Falkland, 50.5000, -119.5500
+Fall River, 44.8167, -63.6167
+Fallowfield, 45.2667, -75.8333
+Falmouth, 45.0000, -64.1667
+Fanny Bay, 49.5000, -124.8333
+Fannystelle, 49.7500, -97.7833
+Farm Point, 45.6000, -75.9000
+Farmington, 44.6167, -64.6667
+Farnham, 45.2833, -72.9833
+Faro, 62.2333, -133.3333
+Farrellton, 45.7500, -75.9167
+Fassett, 45.6500, -74.8667
+Fatima, 47.4000, -61.8833
+Fauquier(Ontario), 49.3167, -82.0333
+Fauquier(British Columbia), 49.8833, -118.0833
+Faust, 55.3167, -115.6333
+Fauxburg, 44.4333, -64.4000
+Fawcett, 54.5333, -114.0833
+Fawcettville, 44.0167, -77.1333
+Feltzen South, 44.3333, -64.2833
+Fenelon Falls, 44.5333, -78.7500
+Fenwick, 45.7667, -64.1833
+Fergus, 43.7000, -80.3667
+Fergus Hill Estate, 44.5667, -79.4667
+Ferguson, 50.6833, -117.4667
+Fergusons Cove, 44.6000, -63.5667
+Ferintosh, 52.7667, -112.9667
+Ferland, 48.1833, -70.8500
+Ferme Neuve, 46.7000, -75.4500
+Fermeuse, 46.9833, -52.9667
+Fermont, 52.7833, -67.0833
+Fernie, 49.5000, -115.0500
+Ferrier, 52.3833, -115.0667
+Ferry Road, 47.0333, -65.4833
+Ferryland, 47.0333, -52.8833
+Fesserton, 44.7333, -79.6833
+Feuille d'Érable, 46.3500, -70.6667
+Feversham, 44.3333, -80.3667
+Field(Ontario), 46.5167, -80.0167
+Field(British Columbia), 51.4000, -116.4833
+Fielding, 46.4667, -67.5500
+Fife Lake, 49.2000, -105.7167
+Fife's Bay, 44.3500, -78.3500
+Filion, 45.8167, -74.0500
+Fillmore, 49.8333, -103.4167
+Finch, 45.1833, -75.1167
+Fingal, 42.7167, -81.3167
+Finmoore, 53.9833, -123.6167
+Finnegan, 51.1167, -112.0833
+First Peninsula, 44.3833, -64.3167
+First South, 44.3667, -64.3500
+Fisher Branch, 51.0833, -97.6167
+Fisher River, 51.4333, -97.3500
+Fishers Grant, 45.6833, -62.6500
+Fisherville, 43.7833, -79.4667
+Fishing Lake, 51.8500, -103.6667
+Fitch Bay, 45.1167, -72.1833
+Fitzroy Harbour, 45.4667, -76.2167
+Five Fingers, 47.5167, -67.3667
+Five Islands, 45.4167, -64.0333
+Flanders, 48.7333, -92.0833
+Flat Bay, 48.4000, -58.6000
+Flat River, 46.0167, -62.8667
+Flat Rock, 47.7000, -52.7167
+Flatlands, 47.9833, -66.8833
+Flatrock, 47.7667, -53.1833
+Flaxcombe, 51.4833, -109.6000
+Fleming, 50.0667, -101.5167
+Fleming Park, 53.4167, -113.7167
+Flesherton, 44.2667, -80.5500
+Fletcher, 42.3000, -82.3000
+Fletchers Lake, 44.8333, -63.6000
+Fleur de Lys, 50.1167, -56.1333
+Flin Flon, 54.7667, -101.8833
+Flinton, 44.6833, -77.2167
+Floods, 49.3667, -121.5167
+Floradale, 43.6167, -80.5833
+Florence, 46.2667, -60.2667
+Florence, 42.6500, -82.0000
+Florenceville, 46.4500, -67.6333
+Flower's Cove, 51.3000, -56.7333
+Foam Lake, 51.6500, -103.5500
+Fogo, 49.7167, -54.2833
+Foldens, 43.0333, -80.8000
+Foleyet, 48.2667, -82.5000
+Fond du Lac, 59.3167, -107.1667
+Fond du Lac Indian Reserve, 59.3333, -107.0000
+Fontainebleau, 45.6833, -71.3833
+Fontenelle, 48.8667, -64.8667
+Foothills, 53.0667, -116.8000
+Forbes Subdivision, 45.9000, -66.6833
+Fordwich, 45.8667, -81.0333
+Foremost, 49.4833, -111.4167
+Forest, 43.1000, -82.0000
+Forest Estates, 43.1667, -80.6833
+Forest Glen, 44.0833, -65.9167
+Forest Grove, 51.7667, -121.1000
+Forest Hill, 45.0500, -64.3500
+Forest Home, 44.5667, -79.4500
+Forestburg, 52.5833, -112.0667
+Foresters Falls, 45.6833, -76.7833
+Forestville, 48.7500, -69.1000
+Formosa, 44.0333, -81.2667
+Forresters Point, 51.1833, -56.8000
+Fort Albany, 52.2500, -81.6167
+Fort Alexander, 50.6167, -96.2833
+Fort Assiniboine, 54.3333, -114.7667
+Fort Augustus, 46.3167, -62.9333
+Fort Chimo, 58.1000, -68.4167
+Fort Chipewyan, 58.7000, -111.1333
+Fort Churchill, 58.7500, -94.0833
+Fort Coulonge, 45.8500, -76.7333
+Fort Ellis, 45.1500, -63.3833
+Fort Erie, 42.9000, -78.9333
+Fort Fitzgerald, 59.8833, -111.6167
+Fort Frances, 48.6000, -93.4000
+Fort Franklin, 65.1833, -123.7667
+Fort Fraser, 54.0667, -124.5500
+Fort George, 53.8333, -79.0000
+Fort Good Hope, 66.2500, -128.6333
+Fort Hope, 51.6167, -87.9167
+Fort Kent, 54.3167, -110.6167
+Fort Langley, 49.1667, -122.5833
+Fort Lawrence, 45.8500, -64.2500
+Fort Liard, 60.2500, -123.4667
+Fort MacKay, 57.1833, -111.6167
+Fort Macleod, 49.7167, -113.4167
+Fort McMurray, 56.7333, -111.3833
+Fort McPherson, 67.4500, -134.8833
+Fort Nelson, 58.8167, -122.6500
+Fort Nelson Indian Reserve, 58.7500, -122.5833
+Fort Norman, 64.9000, -125.5667
+Fort Providence, 61.3500, -117.6500
+Fort Qu'Appelle, 50.9333, -103.1500
+Fort Reliance, 62.7000, -109.1333
+Fort Resolution, 61.1667, -113.6667
+Fort Ruper, 51.4833, -78.7500
+Fort Saskatchewan, 53.7167, -113.2167
+Fort Severn, 56.0000, -87.6333
+Fort Simpson, 61.8667, -121.3833
+Fort Smith, 60.0000, -111.8833
+Fort St James, 54.4333, -124.2500
+Fort St John, 56.2500, -120.8500
+Fort Steele, 49.6167, -115.6333
+Fort Vermilion, 58.4000, -116.0000
+Fort Ware, 57.4333, -125.6333
+Fort William > Thunder Bay, 48.3833, -89.2500
+Forteau, 51.4667, -56.9667
+Fortierville, 46.4833, -72.0333
+Forties, 44.7333, -64.5500
+Fortune, 47.0667, -55.8333
+Fortune Bridge, 46.3500, -62.3833
+Fortune Harbour, 49.5167, -55.2500
+Fortymile, 64.4333, -140.5500
+Fossambault sur le Lac, 46.8667, -71.6167
+Fountain Indian Reserve, 50.7333, -121.8500
+Four Roads, 47.6000, -64.8167
+Fourchu, 45.7167, -60.2500
+Fournier, 45.4333, -74.9000
+Fox Cove, 47.1000, -55.1000
+Fox Creek, 54.4000, -116.8000
+Fox Harbour(Avalon Peninsula), 47.3167, -53.9167
+Fox Harbour(Labrador), 52.3667, -55.6833
+Fox Lake, 58.4833, -114.5167
+Fox Point, 44.6167, -64.0667
+Fox River, 45.4167, -64.5333
+Fox Roost, 47.5667, -59.0500
+Fox Valley, 50.4833, -109.4667
+Foxboro, 44.2500, -77.4333
+Foxtrap, 47.5167, -52.9833
+Foxwarren, 50.5167, -101.1500
+Frampton, 46.4667, -70.8167
+Francis, 50.0833, -103.9167
+Francis Peninsula, 49.6167, -124.0500
+Frank, 49.6000, -114.4000
+Frankford, 44.2000, -77.6000
+Franklin Camp, 48.9667, -124.7333
+Franklin Centre, 45.0333, -73.9167
+Franklin River, 49.1000, -124.8167
+Franktown, 45.0333, -76.0667
+Frankville(Ontario), 44.7167, -75.9667
+Frankville(Nova Scotia), 45.6500, -61.5167
+Franquelin, 49.3000, -67.9000
+François, 47.5833, -56.7500
+François Lake, 54.0667, -125.7333
+Fraser Lake, 54.0667, -124.8500
+Fraser Mills, 49.2333, -122.8667
+Fraserdale, 49.8500, -81.6167
+Frasers Mills, 45.4833, -61.9333
+Frasers Mountain, 45.6000, -62.6167
+Fraserville, 44.2000, -78.3833
+Frederickson Trailer Court, 52.9667, -113.3500
+Frederickton, 49.4333, -54.3667
+Fredericton(Prince Edward Island), 46.3667, -63.4333
+Fredericton(New Brunswick), 45.9667, -66.6500
+Fredericton Junction, 45.6667, -66.6167
+Fredericton Road, 46.0667, -65.1833
+Freeland, 46.6833, -63.9667
+Freelton, 43.4000, -80.0333
+Freeport(Nova Scotia), 44.2833, -66.3167
+Freeport(Ontario), 43.4167, -80.4167
+Freetown, 46.3667, -63.6167
+Frelighsburg, 45.0500, -72.8333
+French River(Prince Edward Island), 46.5167, -63.5167
+French River(Nova Scotia), 45.8833, -63.3333
+Frenchman Butte, 53.5833, -109.6333
+Frenchman's Cove(Humber Arm), 49.0500, -58.1833
+Frenchman's Cove(Fortune Bay), 47.2167, -55.4000
+Frenchvale, 46.1000, -60.3833
+Freppel, 47.0167, -69.9333
+Freshwater(Placentia Bay), 47.2500, -53.9833
+Freshwater(Carbonear Area), 47.7500, -53.1833
+Freshwater(Bay Roberts Area), 47.6000, -53.0167
+Fringewood, 45.2667, -75.9333
+Frobisher, 49.2000, -102.4333
+Frobisher Bay > Iqaluit, 63.7500, -68.5500
+Frogmore, 42.6833, -80.6667
+Frontier, 49.2000, -108.5667
+Froomfield, 42.9000, -82.4500
+Frost Village, 45.3333, -72.4833
+Fruitvale, 49.1167, -117.5500
+Fugèreville, 47.4000, -79.2000
+Fulford Harbour, 48.7667, -123.4500
+Furdale, 52.1167, -106.6667
+Fusilier, 51.8500, -109.7667

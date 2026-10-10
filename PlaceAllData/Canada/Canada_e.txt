@@ -1,0 +1,221 @@
+Eagle, 42.5667, -81.5667
+Eagle Bay, 50.9333, -119.2000
+Eagle Head, 44.0667, -64.6167
+Eagle Heights, 48.7667, -123.7167
+Eagle Lake, 45.1333, -78.5167
+Eagle River, 49.7833, -93.2000
+Eaglesham, 55.7833, -117.8833
+Ear Falls, 50.6333, -93.2167
+Earl Grey, 50.9333, -104.7500
+Earlton, 47.7167, -79.8167
+East Amherst, 45.8500, -64.1667
+East Angus, 45.4833, -71.6667
+East Baccaro, 43.4667, -65.4667
+East Bay, 46.0167, -60.3667
+East Braintree, 49.6167, -95.6333
+East Broadway, 46.1833, -60.1833
+East Broughton, 46.2167, -71.0667
+East Broughton Station, 46.2333, -71.0833
+East Chester, 44.5667, -64.2167
+East Chezzetcok, 44.7167, -63.2333
+East Coleman, 49.6333, -114.5000
+East Coulee, 51.3333, -112.4833
+East Dover, 44.5000, -63.8500
+East Farnham, 45.2333, -72.7667
+East Ferry, 44.3833, -66.2000
+East Gore, 45.1167, -63.6833
+East Green Harbour, 43.7167, -65.1333
+East Halls Harbour Road, 45.1833, -64.5833
+East Havre Boucher, 45.6833, -61.5000
+East Hereford, 45.0833, -71.5000
+East Jeddore, 44.7333, -63.0000
+East Jordan, 43.7667, -65.2167
+East Kelowna, 49.8500, -119.4167
+East Kemptville, 44.0833, -65.7667
+East LaHave, 44.3167, -64.3667
+East Lake Ainslie, 46.1333, -61.1333
+East Leicester, 45.7833, -63.9667
+East Meadows, 47.6000, -52.6833
+East Moberly Lake, 55.8333, -121.6333
+East Mountain, 45.4167, -63.1833
+East Noel, 45.3000, -63.7000
+East Petpeswick, 44.7500, -63.1500
+East Pine, 55.7167, -121.2167
+East Pubnico, 43.6667, -65.7667
+East Quinan, 43.9333, -65.8167
+East River Point, 44.5667, -64.1667
+East River St Marys, 45.4000, -62.1667
+East Riverside Kingshurst, 45.3667, -66.0000
+East Royalty, 46.2833, -63.1000
+East Saanich, 48.5833, -123.3833
+East Selkirk, 50.1333, -96.8333
+East Ship Harbour, 44.7833, -62.8000
+East Sooke, 48.3667, -123.7167
+East Tracadie, 45.6333, -61.6167
+East Uniacke, 44.9167, -63.7667
+East Walton, 45.2500, -63.9500
+East York, 43.6833, -79.3333
+Eastend, 49.5167, -108.8000
+Easterville, 53.1167, -99.8167
+Eastmain, 52.2500, -78.5000
+Eastman, 45.3000, -72.3167
+Eastons Corners, 44.8333, -75.8833
+Eastport, 48.6500, -53.7500
+Eastview, 44.2667, -76.3833
+Eastwood, 43.1333, -80.6667
+Eatonia, 51.2167, -109.3833
+Ebb and Flow, 51.0500, -99.0000
+Ebenezer(Prince Edward Island), 46.3500, -63.2500
+Ebenezer(Saskatchewan), 51.3667, -102.4500
+Ebenezer(Ontario), 43.7667, -79.6667
+Echo Bay, 46.4833, -84.0667
+Eckville, 52.3500, -114.3667
+Economy, 45.3833, -63.9167
+Ecum Secum, 44.9667, -62.1333
+Edam, 53.2000, -108.7667
+Edberg, 52.7833, -112.7833
+Eddies Cove, 51.4167, -56.4500
+Eden, 50.3833, -99.4667
+Eden, 42.8000, -80.7500
+Eden Mills, 43.5833, -80.1500
+Eden Valley, 50.4667, -114.2333
+Edenwold, 50.6333, -104.2500
+Edgeley, 43.8000, -79.5167
+Edgerton, 52.7500, -110.4500
+Edgetts Landing, 45.9000, -64.6333
+Edgewater, 50.7000, -116.1333
+Edgewood, 49.7833, -118.1333
+Edgewood Park, 44.2667, -78.3500
+Edmonton, 53.5500, -113.4667
+Edmonton Beach, 53.5167, -114.1167
+Edmonton Military Reserve, 53.6667, -113.4667
+Edmundston, 47.3667, -68.3333
+Edson, 53.5833, -116.4333
+Edwards Project, 45.3000, -75.4667
+Edwardsville, 46.1667, -60.2333
+Eel Ground, 46.9833, -65.6333
+Eel River, 48.0333, -66.3833
+Eel River Bridge, 47.0333, -65.0167
+Eel River Cove, 48.0167, -66.3833
+Eel River Crossing, 48.0167, -66.4167
+Eganville, 45.5333, -77.1000
+Egerton, 45.6000, -62.4833
+Egmondville, 43.5333, -81.4000
+Egremont, 54.0333, -113.1333
+Elbow, 51.1167, -106.5833
+Eldee, 46.6333, -79.1500
+Elder Mills, 43.8167, -79.6333
+Elderbank, 44.9833, -63.2167
+Eldon, 46.1000, -62.8833
+Elfros, 51.7167, -103.8667
+Elgin, 49.4500, -100.2667
+Elgin(New Brunswick), 45.8000, -65.1167
+Elgin(Ontario), 44.6000, -76.2167
+Elginburg, 44.3167, -76.5333
+Elginfield, 43.1667, -81.3667
+Elie, 49.9000, -97.7500
+Elimrer Point, 44.7500, -79.8500
+Elizabeth, 54.2167, -110.1167
+Elizabeth Harbour, 70.5833, -92.8333
+Elk Lake, 47.7333, -80.3333
+Elk Point, 53.9000, -110.9000
+Elkford, 50.0167, -114.9167
+Elkhorn, 49.9667, -101.2333
+Elko, 49.3000, -115.1167
+Elkwater, 49.6667, -110.2833
+Ellershouse, 44.9500, -64.0000
+Ellerslie, 46.6000, -63.9500
+Elliot Lake, 46.3833, -82.6500
+Elliston, 48.6333, -53.0500
+Elm Creek, 49.6833, -98.0000
+Elma, 49.8667, -95.9167
+Elmira(Manitoba), 43.6000, -80.5500
+Elmira(Ontario), 46.4500, -62.0667
+Elmsdale(Nova Scotia), 44.9667, -63.5000
+Elmsdale(Prince Edward Island), 46.8167, -64.1333
+Elmsvale, 45.0833, -63.0667
+Elmvale, 44.5833, -79.8667
+Elmwood, 44.2333, -81.0500
+Elnora, 51.9833, -113.2000
+Elora, 43.6833, -80.4333
+Elphinstone, 50.5500, -100.3167
+Elrose, 51.2167, -108.0167
+Elsa, 63.9167, -135.4667
+Elstow, 51.9833, -106.0667
+Embree, 49.3000, -55.0333
+Embro, 43.1500, -80.9000
+Embrun, 45.2667, -75.2833
+Emerald Isle, 44.4500, -78.4167
+Emerald Junction, 46.3667, -63.5500
+Emerson, 49.0000, -97.2000
+Emeryville, 42.3000, -82.7500
+Emileville, 45.4833, -72.9000
+Emo, 48.6333, -93.8333
+Empress, 50.9500, -110.0000
+Emsdale, 45.5333, -79.3167
+Emyvale, 46.2833, -63.3667
+Endako, 54.0833, -125.0333
+Endeavour, 52.1333, -102.6667
+Enderby, 50.5500, -119.1333
+Enfield, 44.9333, -63.5333
+Englee, 50.7333, -56.1000
+Englefeld, 52.1667, -104.6500
+Englehart, 47.8167, -79.8667
+Englewood, 50.5500, -126.8833
+English Harbour East, 47.6333, -54.9000
+English Harbour West, 47.4667, -55.4833
+English River, 50.1833, -94.0333
+Englishtown, 46.2833, -60.5500
+Enilda, 55.4167, -116.3000
+Ennishone, 47.0833, -67.6833
+Enterprise, 44.4667, -76.8667
+Entrelacs, 46.1000, -74.0000
+Entwistle, 53.6000, -115.0000
+Epworth, 47.0333, -55.2000
+Erickson(Britich Columbia), 49.0833, -116.4667
+Erickson(Manitoba), 50.5000, -99.9167
+Erie Beach(Niagara Region), 42.8833, -78.9500
+Erie Beach(Chatham-Kent), 42.2667, -82.0000
+Erieau, 42.2667, -81.9333
+Eriksdale, 50.8667, -98.1000
+Erin, 43.7500, -80.1167
+Erindale, 43.5333, -79.6500
+Ermineskin, 52.8667, -113.5333
+Errington, 49.2833, -124.3667
+Errol, 43.0500, -82.2000
+Erskine, 52.3333, -112.8833
+Erwood, 52.8333, -102.1667
+Escoumains, 48.3333, -69.3833
+Escuminac, 47.0833, -64.9167
+Eskasoni, 45.9667, -60.6000
+Espanola, 46.2500, -81.7667
+Esprit St, 48.0667, -68.5667
+Esquimalt, 48.4333, -123.4000
+Essex, 42.1667, -82.8167
+Estaire, 46.3000, -80.8000
+Esterhazy, 50.6667, -102.1333
+Estevan, 49.1167, -103.0833
+Estevan Point, 49.3833, -126.5500
+Eston, 51.1667, -108.7667
+Estuary, 50.9333, -109.7667
+Ethal, 43.7167, -81.1333
+Ethel Park, 44.4333, -79.1667
+Ethelbert, 51.5167, -100.3667
+Etobicoke, 43.6500, -79.5667
+Euginia, 44.3167, -80.5167
+Eureka, 45.5000, -62.6833
+Eva Lake, 48.7333, -91.1833
+Evandale, 45.5833, -66.0333
+Evangeline(Gloucester County), 47.7000, -64.8500
+Evangeline(Westmorland County), 46.2167, -64.7000
+Evansburg, 53.6000, -115.0167
+Evanston, 45.6167, -61.2167
+Everett, 44.1833, -79.9500
+Evergreen Trailer Park, 53.6167, -113.3500
+Evergreen Village, 47.5333, -52.8333
+Everton, 43.6667, -80.1500
+Evesham, 52.4000, -109.8333
+Exeter, 43.3500, -81.4833
+Exshaw, 51.0500, -115.1500
+Extension, 49.1000, -123.9500
+Eyebrow, 50.7833, -106.1500

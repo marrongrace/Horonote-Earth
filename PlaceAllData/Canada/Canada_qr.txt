@@ -1,0 +1,343 @@
+Qikiqtarjuaq(Broughton Island), 67.5500, -64.0333
+Qu'Appelle, 50.5500, -103.8667
+Quaaout, 50.8833, -119.5833
+Quadeville, 45.3167, -77.3833
+Qualicum Beach, 49.3500, -124.4500
+Quarryville, 46.8333, -65.7833
+Quathiaski Cove, 50.0500, -125.2167
+Quatre Chemins(Les Etchemins), 46.2333, -70.5167
+Quatre Chemins(Beauce region), 46.5833, -71.0667
+Quatsino, 50.5333, -127.6500
+Queen Charlotte, 53.2667, -132.0833
+Queen's Cove, 48.0167, -53.9333
+Queensland, 44.6333, -64.0333
+Queensport, 45.3333, -61.2667
+Queensville, 44.1333, -79.4667
+Queenswood Heights, 45.4667, -75.5167
+Queenswood Village, 45.4833, -75.5167
+Quesnel, 52.9833, -122.5000
+Queylus, 47.0500, -70.8667
+Quill Lake, 52.0833, -104.2500
+Quinton, 51.3833, -104.4000
+Quirpon, 51.5833, -55.4333
+Quispamsis, 45.4167, -65.9667
+Quyon, 45.5167, -76.2333
+Québec, 46.8167, -71.2333
+Rabbit Lake, 53.1333, -107.7667
+Racine, 45.5000, -72.2500
+Radford, 63.7500, -139.1167
+Radisson(Saskatchewan), 52.4500, -107.3833
+Radisson(Quebec), 53.7833, -77.6167
+Radium Hot Springs, 50.6333, -116.0500
+Radville, 49.4500, -104.2833
+Radway, 54.0667, -112.9500
+Rae, 62.8333, -116.0500
+Rae Edzo, 62.8333, -116.0500
+Rae Lakes, 64.1167, -117.3500
+Ragged Point, 49.6167, -54.7667
+Rainbow Lake, 58.5000, -119.3833
+Rainy Lake, 48.8333, -93.6000
+Rainy River, 48.7167, -94.4833
+Raleigh, 51.5667, -55.7333
+Ralston, 50.2500, -111.1667
+Rama(Ontario), 44.7000, -79.3167
+Rama(Saskatchewan), 51.7667, -103.0000
+Ramea, 47.5167, -57.3833
+Ramore, 48.4333, -80.3333
+Ramsey, 47.4333, -82.3333
+Rancheria, 60.0833, -130.6667
+Ranfurly, 53.4167, -111.6833
+Rang des Bossé, 47.4667, -68.3333
+Rang des Couturier, 47.4500, -68.3333
+Rang St Georges, 47.6500, -65.1000
+Rankin Inlet, 62.7500, -92.1667
+Rankin Location, 46.5500, -84.2000
+Rapid City, 50.1333, -100.0333
+Rapid Lake, 47.2500, -76.7167
+Rapides des Joachims, 46.2000, -77.6833
+Raspberry, 49.3333, -117.6500
+Rathwell, 49.6667, -98.5333
+Rattling Brook, 49.6333, -56.1667
+Ravenscrag, 49.5000, -109.0833
+Rawdon, 46.0500, -73.7333
+Raymond, 49.4500, -112.6500
+Raymore, 51.4167, -104.5167
+Rayside Balfour, 46.6167, -81.2167
+Red Bank, 46.9333, -65.8167
+Red Bank Indian Reserve, 46.9167, -65.9000
+Red Bay, 51.7333, -56.4167
+Red Bluff, 52.9667, -122.4500
+Red Brook, 48.4833, -59.1833
+Red Deer, 52.2667, -113.8000
+Red Earth, 53.5167, -102.8667
+Red Harbour, 47.3000, -55.9833
+Red Head Cove, 48.1333, -52.9000
+Red Lake, 51.0500, -93.8167
+Red Lake Road, 49.9667, -93.3667
+Red Mill, 46.4167, -72.4667
+Red Pass, 52.9833, -118.9833
+Red Pheasant, 52.4833, -108.1333
+Red Rock(Ontario), 48.9667, -88.2500
+Red Rock(British Columbia), 53.6500, -122.6833
+Red Sucker Lake, 54.1500, -93.5667
+Red Wing Terrace, 53.2500, -105.7500
+Redcliff, 50.0833, -110.7833
+Rednersville, 44.1167, -77.4500
+Redstone, 52.1333, -123.7000
+Redstone Flat, 52.1333, -123.9667
+Redvers, 49.5500, -101.6500
+Redwater, 53.9500, -113.1000
+Reeces Corners, 42.9833, -82.1167
+Reefs Harbour, 51.0167, -57.0167
+Refuge Cove, 50.1167, -124.8333
+Regina, 50.4167, -104.6500
+Regina Beach, 50.7833, -105.0000
+Reidville, 49.2333, -57.3833
+Reindeer Station, 68.7000, -134.1000
+Reinfeld, 49.1833, -97.8833
+Reinland, 49.0333, -97.8667
+Remo, 54.4833, -128.7333
+Renata, 49.4333, -118.1000
+Rencontre East, 47.6333, -55.2000
+Renews, 46.9333, -52.9333
+Renews Cappahayden, 46.9167, -52.9500
+Renforth, 45.3667, -66.0167
+Renfrew, 45.4667, -76.6833
+Rennie, 49.8500, -95.5500
+Renous, 46.8167, -65.8000
+Repentigny, 45.7333, -73.4667
+Repulse Bay, 66.5333, -86.2500
+Reserve, 52.4667, -102.6500
+Reserve Mines, 46.1833, -60.0167
+Resolute, 74.6833, -94.9000
+Restigouche, 48.0500, -66.7500
+Reston, 49.5833, -101.0333
+Revelstoke, 50.9833, -118.2000
+Rexton, 46.6500, -64.8667
+Rhein, 51.3667, -102.1667
+Rhodes Corner, 44.3833, -64.4167
+Riceburg, 45.1333, -72.9333
+Richan, 49.9833, -92.8167
+Richard's Harbour, 47.6167, -56.4000
+Richards Landing, 46.2833, -84.0333
+Richardsville, 48.0000, -66.6333
+Richelieu, 45.4500, -73.2500
+Richer, 49.6500, -96.4667
+Richibucto, 46.6833, -64.8667
+Richibucto Indian Reserve, 46.5833, -65.0000
+Richibucto Village, 46.6500, -64.7500
+Richmond(Elgin County), 42.7667, -80.8500
+Richmond(Prince Edward Island), 46.5000, -63.9833
+Richmond(British Columbia), 49.1667, -123.1667
+Richmond(Ottawa/Carleton region), 45.1833, -75.8333
+Richmond(Quebec), 45.6667, -72.1500
+Richmond Hill, 43.8667, -79.4500
+Richmond Road, 43.9833, -66.1167
+Richmound, 50.4500, -109.7500
+Richvale, 43.8500, -79.4333
+Rideau Ferry, 44.8500, -76.1500
+Rideau Glen, 45.3000, -75.7000
+Ridgedale, 53.0667, -104.1500
+Ridgetown, 42.4333, -81.9000
+Ridgeville, 49.0667, -97.0167
+Ridgeway, 42.8833, -79.0500
+Ridgewood Road Subdivision, 49.5500, -117.2667
+Riding Mountain, 50.5333, -99.4667
+Rigaud, 45.4833, -74.3000
+Rigolet, 54.1833, -58.4333
+Riley Brook, 47.1667, -67.2167
+Rimbey, 52.6333, -114.2333
+Rimouski, 48.4333, -68.5500
+Rimouski Est, 48.4667, -68.5167
+Riondel, 49.7667, -116.8667
+Ripley, 44.0667, -81.5833
+Ripon, 45.7833, -75.1000
+Ripples, 46.0000, -66.2167
+Riske Creek, 51.9667, -122.5333
+River Bourgeois, 45.6333, -60.9500
+River Denys, 45.8333, -61.1667
+River Drive Park, 44.1333, -79.5167
+River Glade, 45.9833, -65.1167
+River Hills, 50.1000, -96.0167
+River Hébert, 45.7000, -64.3833
+River John, 45.7500, -63.0500
+River Jordan, 48.4167, -124.0500
+River of Ponds, 50.5333, -57.4000
+River Philip, 45.6833, -63.9000
+River Valley, 46.5833, -80.1833
+Riverbank, 46.4000, -67.6000
+Rivercrest, 50.0000, -97.0500
+Riverdale Subdivision, 50.5667, -119.1333
+Riverhead, 46.9667, -53.5167
+Riverhurst, 50.8833, -106.8667
+Riverport, 44.3000, -64.3333
+Rivers, 50.0333, -100.2000
+Rivers Inlet, 51.6833, -127.2500
+Riverside Albert, 45.7500, -64.7333
+Riverside Heights, 44.9333, -75.1333
+Riverside Trailer Park, 42.4167, -82.1500
+Riverton(Nova Scotia), 45.5167, -62.6667
+Riverton(Manitoba), 50.9833, -96.9833
+Rivervale, 49.1167, -117.7333
+Riverview, 46.0500, -64.8167
+Riverview Heights, 44.7000, -75.5833
+Rivière au Portage, 46.9333, -64.9167
+Rivière au Tonnerre, 50.2667, -64.7833
+Rivière Beaudette, 45.2333, -74.3333
+Rivière Bleue, 47.4333, -69.0500
+Rivière Bois Clair, 46.5667, -71.8333
+Rivière Bonaventure, 48.0667, -65.4500
+Rivière Caplan, 48.1167, -65.7333
+Rivière de la Chaloupe, 49.1333, -62.5333
+Rivière des Roches, 47.1333, -70.8333
+Rivière du Loup, 47.8333, -69.5333
+Rivière du Moulin Développement, 46.4500, -71.0333
+Rivière du Portage, 47.4167, -64.9333
+Rivière Héva, 48.2333, -78.2167
+Rivière la Madeleine, 49.2333, -65.3000
+Rivière Matane, 48.6500, -67.3333
+Rivière Mékinac, 46.7833, -72.8000
+Rivière Ouelle, 47.4333, -70.0167
+Rivière Paspébiac, 48.0500, -65.2667
+Rivière Pentecôte, 49.7833, -67.1667
+Rivière Port Daniel, 48.2000, -64.9667
+Rivière Portneuf, 48.6333, -69.1000
+Rivière St Jean, 50.3000, -64.3333
+Rivière St Paul, 51.4667, -57.7167
+Rivière Ste Marguerite, 48.2500, -69.8667
+Rivière Ste Marguerite en Bas, 50.1333, -66.6167
+Rivière Trois Pistoles, 48.1167, -69.1667
+Rivière Verte(Quebec), 47.7833, -69.4500
+Rivière Verte(New Brunswick), 47.3167, -68.1500
+Rivière à Claude, 49.2167, -65.9000
+Rivière à Pierre, 46.9833, -72.1833
+Rivière Éperlan, 48.5833, -69.2167
+Rivière Éternité, 48.2500, -70.4167
+Roaches Line, 47.4833, -53.3167
+Roachville, 45.7333, -65.5333
+Robb, 53.2167, -116.9667
+Robert's Arm, 49.4833, -55.8167
+Roberts Creek, 49.4167, -123.6333
+Robertsonville, 46.1500, -71.2167
+Robertville, 47.7000, -65.7667
+Roberval, 48.5167, -72.2167
+Robichaud, 46.2167, -64.3833
+Robinsons, 48.2500, -58.8000
+Robinsons Corner, 44.5500, -64.2500
+Robinsonville, 47.8667, -66.9500
+Robitaille, 48.1000, -66.2667
+Roblin, 51.2333, -101.3500
+Robson, 49.3333, -117.6833
+Roc d'Or, 48.1500, -78.1333
+Rocanville, 50.4000, -101.7167
+Roche Percée, 49.0500, -102.7500
+Roche Plate, 46.9500, -71.3667
+Roches Point, 44.2667, -79.5000
+Rocheville, 47.6667, -65.3000
+Rock Bay, 50.3333, -125.4833
+Rock Creek, 49.1000, -118.9667
+Rock Forest, 45.3333, -71.9833
+Rock Harbour, 47.1833, -55.0500
+Rock Island, 45.0167, -72.1000
+Rockcliffe Park, 45.4500, -75.6833
+Rockcliffe Survey, 43.3167, -79.9000
+Rockdale, 45.6167, -60.8000
+Rockglen, 49.1667, -105.9500
+Rockland, 45.5500, -75.3000
+Rockton, 43.2833, -80.1167
+Rockville, 43.7833, -66.1167
+Rockwood, 43.6167, -80.1333
+Rocky Bay, 45.5500, -60.9500
+Rocky Harbour, 49.6000, -57.9167
+Rocky Mountain House, 52.3667, -114.9167
+Rocky Rapids, 53.2833, -114.9500
+Rockyford, 51.2167, -113.1333
+Roddickton, 50.8667, -56.1333
+Rodgers Cove, 49.3667, -54.5167
+Rodney(Ontario), 42.5667, -81.6833
+Rodney(Nova Scotia), 45.6000, -64.0333
+Rogersville, 46.7333, -65.4333
+Roland, 49.4167, -97.9167
+Rolla, 55.9000, -120.1500
+Rollet, 47.9167, -79.2500
+Rolling Hills, 50.2167, -111.7667
+Rolling River, 50.4667, -100.0000
+Rollo Bay, 46.3667, -62.3333
+Rolphton, 46.1667, -77.7000
+Romaine, 50.2000, -60.6667
+Romaines, 48.5500, -58.6833
+Roquemaure, 48.6000, -79.4167
+Rorketon, 51.4333, -99.5333
+Rosalind, 52.7833, -112.4500
+Rose Bay, 44.3000, -64.3000
+Rose Blanche, 47.6167, -58.6833
+Rose Lake, 54.4000, -126.0333
+Rose Valley, 52.3000, -103.8333
+Roseau River, 49.1667, -97.2667
+Rosebank, 46.8000, -64.1500
+Rosebank Station, 43.7833, -79.1167
+Rosedale(British Columbia), 49.1833, -121.8000
+Rosedale(Alberta), 52.4833, -113.7500
+Rosedale Terrace, 45.0667, -74.7833
+Rosemary, 50.7667, -112.0833
+Rosemont, 44.1167, -80.0000
+Rosemère, 45.6333, -73.8000
+Roseneath(Prince Edward Island), 46.2167, -62.6167
+Roseneath(Ontario), 44.2000, -78.0500
+Rosenfeld, 49.2000, -97.5500
+Rosenort, 49.4667, -97.4333
+Rosetown, 51.5500, -108.0000
+Roseville, 43.3500, -80.4833
+Roslin, 44.3500, -77.3333
+Ross River, 61.9833, -132.4500
+Rossburn, 50.6667, -100.8667
+Rosseau, 45.2667, -79.6500
+Rossland, 49.0833, -117.8000
+Rosslyn Village, 48.3667, -89.4500
+Rossmore, 44.1333, -77.3833
+Rossville, 46.0167, -67.2667
+Rossway, 44.5833, -65.9167
+Rosthern, 52.6667, -106.2833
+Rostock, 43.4833, -81.0167
+Rothesay, 45.3833, -66.0000
+Rothwell, 46.0667, -66.0667
+Rougemont, 45.4333, -73.0500
+Rougemont Station, 45.4167, -73.0333
+Rough Water Road, 47.5833, -65.6500
+Rouleau, 50.1833, -104.9167
+Round Harbour, 47.6167, -56.0000
+Round Hill(Alberta), 53.1667, -112.6333
+Round Hill(Nova Scotia), 44.7667, -65.4000
+Round Lake Centre, 45.6167, -77.5333
+Roussillon, 45.6833, -74.4333
+Route 23 Trailer Park, 45.4833, -75.4833
+Routhierville, 48.1833, -67.1500
+Rouyn, 48.2500, -79.0167
+Roxboro, 45.5167, -73.8000
+Roxton Falls, 45.5667, -72.5167
+Roxton Pond(Ste Pudentienne), 45.4833, -72.6667
+Roy, 46.4167, -64.7833
+Royal Beach, 44.3333, -79.2833
+Royal Oak, 48.5000, -123.3833
+Royston, 49.6500, -124.9500
+Ruisseau des Olives, 49.2500, -65.6667
+Ruisseau Gagnon, 48.7167, -67.4167
+Ruisseau Leblanc, 58.0833, -65.6333
+Ruisseau Vert, 49.0667, -68.4667
+Ruisseau à Rebours, 49.2333, -65.9333
+Rupert Acres Trailer Park, 46.6667, -84.2833
+Rupert House, 51.5000, -78.7500
+Rusagonis, 45.8000, -66.6167
+Ruscom Station, 42.2167, -82.6500
+Rush Lake, 50.4000, -107.4000
+Rushoon, 47.3500, -54.9167
+Ruskin, 49.2000, -122.4667
+Russell(Manitoba), 50.7833, -101.2500
+Russell(Ontario), 45.2833, -75.2833
+Ruthven, 42.0500, -82.6667
+Rutland, 49.8833, -119.4000
+Rutter, 46.1000, -80.6667
+Rycroft, 55.7500, -118.7167
+Rykerts, 49.0000, -116.5833
+Ryley, 53.2833, -112.4333
+Rémigny, 47.7667, -79.2000

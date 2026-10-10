@@ -1,0 +1,305 @@
+Nachvak, 59.0500, -63.8833
+Nackawic, 46.0000, -67.2500
+Nacmine, 51.4667, -112.7833
+Naicam, 52.4167, -104.5000
+Nail Pond, 46.9833, -64.0667
+Nain, 56.5333, -61.6833
+Nairn(Sudbury District), 46.3333, -81.5833
+Nairn(Middlesex County), 43.1167, -81.5667
+Nakina, 50.1667, -86.7000
+Nakusp, 50.2500, -117.8000
+Nameless Cove, 51.3167, -56.7333
+Nampa, 56.0333, -117.1333
+Namu, 51.8167, -127.8667
+Namur, 45.9000, -74.9333
+Nanaimo, 49.1667, -123.9333
+Nanaimo Town, 49.1500, -123.9167
+Nanisivik, 73.0333, -84.5500
+Nanoose Bay, 49.2667, -124.2000
+Nantes, 45.6333, -71.0333
+Nanticoke, 42.9000, -80.0500
+Nanton, 50.3500, -113.7667
+Nantyr Park, 44.3000, -79.5333
+Napadogan, 46.4167, -66.9333
+Napanee, 44.2500, -76.9500
+Napierville, 45.1833, -73.4167
+Napinka, 49.2833, -100.8333
+Nappan, 45.7667, -64.2333
+Naramata, 49.6000, -119.5833
+Nash Creek, 47.9167, -66.0833
+Nashville, 43.8333, -79.6667
+Nashwaak Bridge, 46.2333, -66.6167
+Nashwaak Village, 46.1000, -66.6167
+Nashwaaksis, 45.9833, -66.6500
+Nasonworth, 45.8333, -66.6833
+Nass Camp, 55.2833, -129.0000
+Natal, 49.7333, -114.8333
+Natashquan, 50.2000, -61.8167
+Natashquan Indian Reserve, 50.1833, -61.7333
+Naughton, 46.4000, -81.2000
+Nautley, 54.0667, -124.6000
+Nauwigewauk, 45.4667, -65.9000
+Navan, 45.4167, -75.4333
+Nazco, 52.9500, -123.5667
+Necoslie, 54.4333, -124.2333
+Neepawa, 50.2167, -99.4833
+Negauguon Lake, 48.3833, -92.0833
+Neguac, 47.2500, -65.0833
+Neidpath, 50.1333, -107.2500
+Neilburg, 52.8333, -109.6333
+Neils Harbour, 46.8167, -60.3167
+Nekaneet, 49.7500, -109.2833
+Nelson, 49.4833, -117.2833
+Nelson House, 55.7833, -98.8500
+Nelson Miramichi, 46.9667, -65.5500
+Nestleton Station, 44.1333, -78.8000
+Neubois, 46.4833, -71.2333
+Neudorf, 50.7333, -102.9833
+Neuhorst, 52.4000, -106.5833
+Neustadt, 44.0833, -81.0000
+Neuville, 46.7000, -71.5833
+Neville, 49.9667, -107.6333
+New Acadia, 46.4000, -62.4000
+New Albany, 44.8167, -65.0667
+New Annan, 46.4167, -63.7167
+New Bandon(Gloucester County), 47.7500, -65.3167
+New Bandon(Northumberland County), 46.5000, -66.2667
+New Bercthal, 49.0833, -97.4833
+New Bonaventure, 48.2833, -53.4500
+New Bothwell, 49.5833, -96.8833
+New Burnt Cove, 48.1833, -53.7167
+New Carlisle, 48.0167, -65.3333
+New Carlisle East, 48.0167, -65.3000
+New Carlisle West, 48.0000, -65.4000
+New Chelsea, 48.0333, -53.2167
+New Credit, 43.0000, -80.0833
+New Cumberland, 44.2833, -64.4500
+New Dayton, 49.4167, -112.3833
+New Denmark, 46.9833, -67.6000
+New Denmark Station, 47.0000, -67.5833
+New Denver, 49.9833, -117.3667
+New Dominion, 46.1833, -63.2333
+New Dundee, 43.3500, -80.5167
+New Edinburgh, 44.4333, -66.0167
+New England Settlement, 46.0833, -66.1000
+New Ferolle, 51.0167, -57.0667
+New Germany, 44.5500, -64.7167
+New Glasgow(Quebec), 45.8333, -73.8833
+New Glasgow(Nova Scotia), 45.5833, -62.6500
+New Glasgow(Prince Edward Island), 46.4167, -63.3500
+New Hamburg, 43.3833, -80.7000
+New Harbour, 47.5833, -53.5333
+New Harbour, 45.1667, -61.4667
+New Haven(Nova Scotia), 46.8167, -60.3333
+New Haven(Prince Edward Island), 46.2167, -63.3000
+New Hazelton, 55.2500, -127.5833
+New Liskeard, 47.5000, -79.6667
+New London, 46.4667, -63.5167
+New Lowell, 44.3667, -79.9500
+New Maryland, 45.8833, -66.6833
+New Melbourne, 48.0500, -53.1500
+New Mills, 47.9667, -66.1833
+New Minas, 45.0667, -64.4500
+New Norway, 52.8833, -112.9667
+New Perlican, 47.9000, -53.3500
+New Perth, 46.2167, -62.7000
+New Richmond, 48.1667, -65.8667
+New Road, 44.7500, -63.4667
+New Ross, 44.7333, -64.4500
+New Sarepta, 53.2667, -113.1333
+New Songhees, 48.4500, -123.4167
+New Thunderchild, 53.5000, -108.8333
+New Victoria, 46.2500, -60.1333
+New Waterford, 46.2500, -60.0833
+New Westminster, 49.2000, -122.9000
+New Zealand, 46.4167, -62.3167
+New Zion, 46.0500, -66.1000
+Newboro, 44.6500, -76.3167
+Newbrook, 54.3167, -112.9500
+Newburgh, 44.3167, -76.8667
+Newburne, 44.6000, -64.6000
+Newbury, 42.6833, -81.8000
+Newcastle(New Brunswick), 47.0000, -65.5667
+Newcastle(Ontario), 43.9167, -78.5833
+Newcastle Creek, 46.0667, -66.0167
+Newcastle Mine, 51.4667, -112.7667
+Newcombville, 44.3833, -64.6167
+Newdale, 50.3500, -100.2000
+Newellton, 43.4667, -65.6333
+Newgate, 49.0000, -115.1667
+Newington, 45.1167, -75.0167
+Newmans Cove, 48.5833, -53.2000
+Newmarket(Ontario), 44.0500, -79.4667
+Newmarket(New Brunswick), 45.8333, -66.9333
+Newport(Quebec), 48.2667, -64.7500
+Newport(Prince Edward Island), 46.2167, -62.5333
+Newport Centre, 48.2667, -64.7500
+Newport Corner, 44.9667, -64.9667
+Newport Ouest, 48.2333, -64.7667
+Newport Point, 48.2833, -64.7167
+Newport Station, 44.9667, -64.0667
+Newstead, 49.4000, -54.8500
+Newton(Ontario), 43.5833, -80.8833
+Newton(Prince Edward Island), 46.3333, -63.5833
+Newton Mills, 45.2333, -62.9167
+Newtonville, 43.9333, -78.5000
+Newtown(Newfoundland and Labrador), 49.2000, -53.5167
+Newtown(New Brunswick), 45.8333, -65.4500
+Newville, 49.5833, -54.6833
+Niagara Falls, 43.1000, -79.0667
+Niagara on the Lake, 43.2500, -79.0667
+Nicholas Denys, 47.7000, -66.8833
+Nicholson, 51.2500, -116.9167
+Nicholsons Point, 44.2167, -76.6833
+Nicholsville(Newfoundland and Labrador), 49.1833, -57.4500
+Nicholsville(Nova Scotia), 44.9833, -64.8000
+Nickel Centre, 46.5667, -80.8167
+Nicola, 50.1667, -120.6667
+Nicola Lake, 50.2167, -120.4500
+Nicola Mameet, 50.1667, -120.8333
+Nicolet, 46.2167, -72.6167
+Nicomen Island, 49.1667, -122.1000
+Nictaux, 44.9333, -65.0500
+Nictaux Falls, 44.9167, -65.0333
+Nictaux West, 44.9167, -65.0667
+Nigadoo, 47.7333, -65.7333
+Nigadoo North, 47.7500, -65.7167
+Nilestown, 42.9667, -81.1000
+Nimpkish, 50.3333, -126.9167
+Nine Mile Creek, 46.1500, -63.2333
+Nine Mile Narrows, 49.6000, -117.1667
+Nine Mile River, 45.0333, -63.5833
+Ninette, 49.3667, -99.7167
+Nineveh, 44.4833, -64.8000
+Ninga, 49.2167, -99.8500
+Nipawin, 53.3667, -104.0000
+Nipigon, 49.0167, -88.2667
+Nipissing, 46.3333, -79.7500
+Nippers Harbour, 49.8000, -55.8667
+Nithi River, 54.0167, -125.0167
+Nitinat, 48.9167, -124.4833
+Nitro, 45.2833, -74.0833
+Niverville, 49.6167, -97.0167
+Nobel, 45.4167, -80.1000
+Nobleford, 49.8833, -113.0500
+Nobleton, 43.9000, -79.6667
+Noel, 45.3000, -63.7500
+Noel Road, 45.2000, -63.7500
+Noel Shore, 45.3167, -63.6500
+Noels Pond, 48.5667, -58.5167
+Noelville, 46.1333, -80.4333
+Noggin Cove, 49.4167, -54.3167
+Nokomis, 51.5000, -105.0000
+Nominingue, 46.4000, -75.0333
+Noralee, 53.9833, -126.4333
+Noranda, 48.2500, -79.0333
+Norbertville, 46.1000, -71.8167
+Nordegg, 52.4667, -116.0667
+Nordin, 47.0167, -65.5333
+Norland, 44.7167, -78.8167
+Norman, 42.7333, -81.2000
+Norman Wells, 65.2833, -126.8500
+Norman's Cove, 47.5500, -53.6667
+Normandale, 42.7167, -80.3167
+Normandin, 48.8333, -72.5833
+Normétal, 49.0000, -79.3667
+Norquay, 51.8833, -102.0833
+Norris Arm, 49.0833, -55.2500
+Norris Point, 49.5167, -57.8833
+North Alton, 45.0500, -64.5167
+North Augusta, 44.7667, -75.7333
+North Aulatsivik Island, 59.8333, -64.0000
+North Battleford, 52.7833, -108.2833
+North Bay, 46.3167, -79.4667
+North Bedeque, 46.3667, -63.7167
+North Bend, 49.8833, -121.4500
+North Brookfield, 44.4000, -64.9500
+North Buxton, 42.3000, -82.2333
+North Carleton, 46.2833, -63.7000
+North Cowichan, 48.8333, -123.6500
+North East Margaree, 46.3333, -61.0000
+North East Point, 43.5167, -65.6000
+North Glanford, 43.1833, -79.9000
+North Gower, 45.1333, -75.7167
+North Grant, 45.6667, -62.0333
+North Harbour(Placentia Bay), 47.8500, -54.1000
+North Harbour(St. Mary's Bay), 47.1500, -53.6667
+North Hatley, 45.2833, -71.9667
+North Head, 44.7667, -66.7500
+North Kingston, 45.0167, -64.9667
+North Lake, 46.4667, -62.0667
+North Lakeside, 52.1167, -122.1000
+North Lancaster, 45.2500, -74.5000
+North Noel Road, 45.2333, -63.7500
+North Portal, 49.0000, -102.5500
+North Preston, 44.7500, -63.4667
+North Renous, 46.8000, -65.8500
+North Ridge, 42.1500, -82.7667
+North River(Colchester County), 45.4167, -63.2500
+North River(Prince Edward Island), 46.2500, -63.2000
+North River(Newfoundland and Labrador), 47.5500, -53.3167
+North River(Lunenburg County), 44.6167, -64.7667
+North Road, 44.9167, -66.9500
+North Rustico, 46.4500, -63.3167
+North Saanich, 48.6333, -123.4167
+North Spirit Lake, 52.5167, -93.0167
+North Sydney, 46.2167, -60.2500
+North Thompson, 51.2833, -120.1667
+North Tilley, 46.8500, -67.6667
+North Tryon, 46.2500, -63.5667
+North Vancouver, 49.3167, -123.0667
+North Wallace, 45.8333, -63.4833
+North West Brook, 48.0167, -53.9667
+North West River, 53.5333, -60.1333
+North Wiltshire, 46.3000, -63.3333
+North Woodslee, 42.2167, -82.7167
+North York, 43.7667, -79.4167
+Northbrook, 44.7333, -77.1667
+Northern Arm, 49.1667, -55.3833
+Northern Bay, 47.9500, -53.0667
+Northfield, 49.1833, -123.9833
+Northport, 45.9333, -63.8667
+Northside East Bay, 46.0000, -60.4500
+Northwest, 44.4000, -64.3500
+Norton, 45.6333, -65.7000
+Nortonville, 43.7167, -79.7333
+Norval, 43.6500, -79.8500
+Norway Bay, 45.5167, -76.4167
+Norway House, 53.9833, -97.8333
+Norwich, 42.9833, -80.6000
+Norwood, 44.3833, -77.9833
+Notch Hill, 50.8500, -119.4333
+Notre Dame, 46.3167, -64.7167
+Notre Dame, 45.4667, -73.4667
+Notre Dame de Ham, 45.9000, -71.7333
+Notre Dame de la Doré, 48.7167, -72.6500
+Notre Dame de la Paix, 45.8167, -74.9667
+Notre Dame de Lourdes(Manitoba), 49.5333, -98.5500
+Notre Dame de Lourdes(New Brunswick), 47.2500, -67.9333
+Notre Dame de Montauban, 46.8500, -72.3333
+Notre Dame de Pierreville, 46.1000, -72.8833
+Notre Dame de Pontmain, 46.2833, -75.6333
+Notre Dame de Stanbridge, 45.1667, -73.0167
+Notre Dame des Bois, 45.4000, -71.0667
+Notre Dame des Champs, 45.4167, -75.4833
+Notre Dame des Monts, 47.6667, -70.3833
+Notre Dame des Pins, 46.1833, -70.7167
+Notre Dame des Prairies, 46.0167, -73.4500
+Notre Dame des Érables, 47.6333, -65.2333
+Notre Dame du Bon Conseil, 46.0000, -72.3500
+Notre Dame du Lac, 47.6000, -68.8000
+Notre Dame du Laus, 46.0833, -75.6167
+Notre Dame du Nord, 47.6000, -79.5000
+Notre Dame du Portage, 47.7667, -69.6167
+Notre Dame du Rosaire, 46.8333, -70.4000
+Notre Dame du Rosaire, 48.8000, -71.4333
+Notre Dame du Sourire, 45.2667, -74.0667
+Nottawa, 44.4500, -80.2167
+Nouveau Comptoir, 53.0000, -78.8167
+Nouvelle, 48.1333, -66.3167
+Nouvelle Ouest, 48.1500, -66.3667
+Novar, 45.4500, -79.2500
+Nut Lake, 52.3667, -103.6500
+Nutak, 57.5000, -62.0833
+Nuttby, 45.5333, -63.2000
+Nédelec, 47.6833, -79.4333

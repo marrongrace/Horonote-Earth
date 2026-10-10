@@ -1,0 +1,668 @@
+Cabano, 47.6833, -68.8833
+Cabri, 50.6167, -108.4667
+Cache Bay, 46.3667, -79.9833
+Cache Creek, 50.8000, -121.3167
+Cadillac(Quebec), 48.2333, -78.3833
+Cadillac(Saskatchewan), 49.7333, -107.7167
+Cadomin, 53.0333, -117.3333
+Cadotte Lake, 56.4667, -116.3667
+Caesarea, 44.1500, -78.8333
+Caithness, 49.3667, -115.1833
+Calabogie, 45.3000, -76.7167
+Calahoo, 53.7167, -113.9667
+Calder, 51.1667, -101.7500
+Caledon, 43.8667, -80.0000
+Caledon East, 43.8667, -79.8667
+Caledonia(Ontario), 43.0667, -79.9333
+Caledonia(Nova Scotia), 45.2833, -62.3833
+Calgary, 51.0500, -114.0833
+Calhoun, 46.0667, -64.5833
+Calixa Lavallée, 45.7500, -73.2833
+Callander, 46.2167, -79.3833
+Calling Lake, 55.2500, -113.2000
+Calmar, 53.2667, -113.8167
+Calumet, 45.6500, -74.6500
+Calvert, 47.0500, -52.9167
+Cambray, 44.4167, -78.8333
+Cambridge(Kings County), 45.0667, -64.6333
+Cambridge(Hants County), 45.2000, -64.1167
+Cambridge(Galt), 43.3667, -80.3167
+Cambridge Bay, 69.0500, -105.0833
+Cambridge Narrows, 45.8333, -65.9500
+Camden East, 44.3333, -76.8333
+Cameron, 44.4333, -78.7667
+Camlachie, 43.0333, -82.1500
+Camp Robinson, 50.1333, -93.2000
+Campbell Island, 52.1667, -128.1500
+Campbell River, 50.0167, -125.2500
+Campbellford, 44.3000, -77.8000
+Campbells Bay, 45.7333, -76.6000
+Campbells Creek, 48.5167, -58.8667
+Campbellton(New Brunswick), 48.0000, -66.6667
+Campbellton(Newfoundland and Labrador), 49.2833, -54.9333
+Campbellton(Prince Edward Island), 46.7833, -64.3000
+Campbellvale, 42.9000, -81.4500
+Campbellville, 43.4833, -79.9833
+Camperdown, 44.2667, -64.6000
+Camperville, 51.9833, -100.1500
+Camrose, 53.0167, -112.8333
+Canaan, 45.0333, -64.4833
+Canal Flats, 50.1500, -115.8000
+Candiac, 45.3833, -73.5167
+Cando, 52.3833, -108.2333
+Canim Lake, 51.7667, -120.9000
+Canmore, 51.0833, -115.3500
+Cannifton, 44.2000, -77.3833
+Canning, 45.1500, -64.4167
+Cannings Cove, 48.4500, -53.8500
+Cannington, 44.3500, -79.0333
+Canobie, 47.6833, -65.3667
+Canoe, 50.7500, -119.2167
+Canoe Cove, 46.1500, -63.3000
+Canoe Creek, 51.5333, -122.2500
+Canoe Lake, 55.1000, -108.3333
+Canoe Lake Indian Reserve, 55.1167, -108.1667
+Canol, 65.2333, -126.9333
+Canora, 51.6167, -102.4333
+Canso, 45.3333, -61.0000
+Canterbury, 45.8833, -67.4833
+Cantic, 45.0667, -73.3500
+Canwood, 53.3667, -106.6000
+Canyon(British Columbia), 49.0833, -116.4500
+Canyon(Yukon), 60.8667, -137.0333
+Canyon Creek, 55.3667, -115.0833
+Cap au Renard, 49.2000, -66.2333
+Cap aux Meules, 47.3833, -61.8667
+Cap Bateau, 47.8167, -64.5333
+Cap Chat, 49.1000, -66.7000
+Cap de Cocagne, 46.3500, -64.3833
+Cap de la Madeleine, 46.3667, -72.5167
+Cap Lumière, 46.6667, -64.7167
+Cap Pelé, 46.2167, -64.3000
+Cap Santé, 46.6667, -71.7833
+Cap Seize, 49.0167, -66.4000
+Cap St Ignace, 47.0333, -70.4667
+Cap Tourmente, 47.0667, -70.8000
+Cap Vert, 47.4000, -61.8833
+Cap à l'Aigle, 47.6667, -70.1167
+Cap à la Baleine, 48.9000, -67.2500
+Cap à la Branche, 47.3833, -70.4333
+Cape Anguille, 47.9000, -59.4167
+Cape Broyle, 47.1000, -52.9500
+Cape Chidley, 60.3833, -64.4333
+Cape Croker, 44.9167, -81.0333
+Cape Dorset, 64.2333, -76.5333
+Cape Egmont, 46.4000, -64.1000
+Cape George, 45.8333, -61.9167
+Cape Harrison, 54.9167, -57.9167
+Cape Jack, 45.6833, -61.5667
+Cape la Hune, 47.5500, -56.8667
+Cape Lazo, 49.7167, -124.8667
+Cape Mudge, 50.0000, -125.1833
+Cape North, 46.8833, -60.5167
+Cape Ray, 47.6333, -59.2833
+Cape St George, 48.5000, -59.1000
+Cape St Marys, 44.0833, -66.2000
+Cape Tormentine, 46.1333, -63.7833
+Cape Traverse, 46.2333, -63.6333
+Cape Wolfe, 46.7167, -64.4000
+Capilano, 49.3833, -123.1500
+Caplan, 48.1000, -65.6833
+Caplin Cove(Trinity Bay South), 48.0167, -53.7333
+Caplin Cove(Bay de Verde Peninsula), 48.0333, -52.9833
+Capreol, 46.7167, -80.9333
+Capstan Island, 51.5667, -56.7333
+Caradoc, 42.8333, -81.5000
+Caramat, 49.6167, -86.1500
+Caraquet, 47.8000, -64.9500
+Carberry, 49.8667, -99.3333
+Carbon, 51.4833, -113.1500
+Carbondale, 49.6333, -114.5333
+Carbonear, 47.7500, -53.2167
+Carcross, 60.1667, -134.7000
+Cardiff, 45.0167, -78.0167
+Cardigan, 46.2333, -62.6167
+Cardinal, 44.7833, -75.3833
+Cardinal Creek Project, 45.4833, -74.4667
+Cardinal Heights, 45.4500, -75.6167
+Cardston, 49.2000, -113.3000
+Cargill, 44.2000, -81.2500
+Carievale, 49.1667, -101.6333
+Carignan(Greater Montreal Area), 45.4500, -73.3167
+Carignan(Mauricie), 47.3333, -72.7833
+Carillon, 45.5667, -74.3833
+Carillon Gardens, 45.5833, -74.5833
+Carleton(Nova Scotia), 44.0000, -65.9333
+Carleton(Queens County), 46.2500, -63.6667
+Carleton(Prince County), 46.7000, -64.1500
+Carleton(Quebec), 48.1000, -66.1333
+Carleton Corner, 44.8167, -65.2833
+Carleton Place, 45.1333, -76.1500
+Carlingford, 47.7500, -67.7500
+Carlisle, 43.3833, -79.9833
+Carlsbad Springs, 45.3667, -75.4667
+Carlyle, 49.6333, -102.2667
+Carmacks, 62.0833, -136.3000
+Carman, 49.5333, -98.0000
+Carmangay, 50.1333, -113.1167
+Carmanville, 49.4000, -54.2833
+Carnduff, 49.1667, -101.8333
+Caroline, 52.0833, -114.7500
+Caron, 50.4667, -105.8667
+Caron Brook, 47.2833, -68.5833
+Caronport, 50.4500, -105.8167
+Carp, 45.3500, -76.0333
+Carragana, 52.5833, -103.1000
+Carrolls Corner, 45.0167, -63.3833
+Carrolls Crossing, 46.5167, -66.2500
+Carrot River, 53.2833, -103.5833
+Carrying Place, 44.0500, -77.5833
+Carseland, 50.8500, -113.4667
+Carsonville, 45.8500, -65.5167
+Carstairs, 51.5667, -114.1000
+Carter's Cove, 49.5333, -54.8000
+Cartier, 46.7000, -81.5500
+Cartwright(Manitoba), 49.1000, -99.3333
+Cartwright(Newfoundland and Labrador), 53.7000, -57.0167
+Cartwright Point Settlement, 44.2333, -76.4500
+Cascade, 49.0167, -118.2167
+Cascades, 45.5833, -75.8667
+Cascumpec, 46.7500, -64.0833
+Casselman, 45.3167, -75.0833
+Cassiar, 59.2833, -129.8333
+Cassidy, 49.0667, -123.8833
+Cassidy Mobile Home Park, 49.0500, -123.8667
+Cassilis, 46.9500, -65.7667
+Castalia, 44.7333, -66.7500
+Castlegar, 49.3167, -117.6667
+Castlemore, 43.7833, -79.6833
+Castleton, 44.0833, -77.9333
+Castor, 52.2167, -111.8833
+Castors River, 50.9167, -56.9500
+Casummit Lake, 51.4667, -92.4000
+Caswellem, 53.5167, -113.0333
+Cat Lake, 51.7167, -91.8333
+Catalina, 48.5167, -53.0833
+Catalone, 45.9833, -59.9833
+Cataraqui, 44.2667, -76.5333
+Cathcart, 43.1000, -80.5167
+Caughnawaga, 45.4167, -73.6833
+Causapscal, 48.3667, -67.2333
+Cavan, 44.2000, -78.4667
+Cavendish(Newfoundland and Labrador), 47.7167, -53.4833
+Cavendish(Prince Edward Island), 46.4833, -63.3833
+Cawston, 49.1833, -119.7500
+Caycuse, 48.8833, -124.3667
+Cayley, 50.4500, -113.8500
+Cayuga, 42.9333, -79.8500
+Cazaville, 45.0833, -74.3667
+Cedar Acres, 45.2500, -75.6167
+Cedar Beach, 42.0000, -82.7833
+Cedar Creek Mobile Home Park, 48.5833, -123.5333
+Cedar Grove, 43.8667, -79.2000
+Cedar Springs, 42.2833, -82.0333
+Cedar Valley, 44.1833, -78.4167
+Cedardale, 45.3167, -75.7000
+Cedarhurst Park, 42.0167, -82.7833
+Cedarvale, 55.0167, -128.3333
+Ceepeecee, 49.8667, -126.7167
+Celista, 50.9500, -119.3500
+Centennial Heights, 45.8833, -66.6833
+Central Argyle, 43.7667, -65.8333
+Central Bedeque, 46.3333, -63.7000
+Central Blissville, 45.6333, -66.5833
+Central Butte, 50.7833, -106.5000
+Central Caribou, 45.7167, -62.7000
+Central Chebogue, 43.7833, -66.0833
+Central Lot Sixteen, 46.4833, -63.8667
+Central North River, 45.4667, -63.2167
+Central Norton, 45.5667, -65.8000
+Central Onslow, 45.3833, -63.3667
+Central Park, 52.3333, -113.7833
+Central Patricia, 51.5000, -90.1500
+Central Port Mouton, 43.9167, -64.8500
+Central Saanich, 48.5667, -123.4333
+Central West Rier, 45.5833, -62.8333
+Central Woods Harbour, 43.5500, -65.7333
+Centralia, 43.2833, -81.4667
+Centre, 44.3833, -64.3667
+Centre Burlington, 45.0667, -64.1000
+Centre Musquodoboit, 45.1000, -63.0333
+Centre Napan, 47.0167, -65.4000
+Centre Rawdon, 45.0500, -63.8333
+Centre St Simon, 47.7333, -64.8333
+Centrelea, 44.8167, -65.3167
+Centreton, 44.0833, -78.0333
+Centreville(New Brunswick), 46.4333, -67.7167
+Centreville(Newfoundland and Labrador), 49.0167, -53.8833
+Centreville(Kings County), 45.1333, -64.5333
+Centreville(Digby County), 44.5500, -66.0167
+Centreville(Shelburne County), 43.4833, -65.6000
+Centreville(Ontario), 43.0500, -80.8500
+Cereal, 51.4167, -110.8000
+Ceylon, 49.4667, -104.6000
+Chalk River, 46.0167, -77.4500
+Chamberlain, 50.8333, -105.5667
+Chamberlain Settlement, 47.5667, -65.6333
+Chambly, 45.4500, -73.2833
+Chambord, 48.4333, -72.0667
+Champagne, 60.7833, -136.4833
+Champion, 50.2333, -113.1500
+Champlain, 46.4500, -72.3500
+Champney's West, 48.3833, -53.3000
+Chance Cove, 47.6833, -53.8333
+Chandler, 48.3500, -64.6833
+Chandler Ouest, 48.3333, -64.7167
+Change Islands, 49.6667, -54.4167
+Channel Port aux Basques, 47.5667, -59.1500
+Chapais, 49.7833, -74.8500
+Chapeau, 45.9167, -77.0667
+Chapel Arm, 47.5167, -53.6667
+Chapel Cove, 47.4333, -53.1333
+Chapel Island, 45.7000, -60.7667
+Chapleau, 47.8333, -83.4000
+Chaplin(Nova Scotia), 45.2000, -62.8500
+Chaplin(Saskatcheman), 50.4667, -106.6667
+Charette, 46.4500, -72.9333
+Charing Cross, 42.3333, -82.1000
+Charlemagne, 45.7167, -73.4833
+Charlesbourg, 46.8500, -71.2667
+Charleston(Nova Scotia), 48.3833, -53.6667
+Charleston(Ontario), 44.1667, -64.6667
+Charleston(British Columbia), 44.5667, -76.0000
+Charlie Lake, 56.2667, -120.9500
+Charlo, 48.0000, -66.3167
+Charlos Cove, 45.2500, -61.3333
+Charlottetown(Prince Edward Island), 46.2333, -63.1333
+Charlottetown(Southern Labrador), 52.7667, -56.1167
+Charlottetown(Bonavista Bay Area), 48.4333, -54.0167
+Charlton, 47.8000, -79.9833
+Charny, 46.7167, -71.2667
+Charters Settlement, 45.8500, -66.7500
+Chartierville, 45.3000, -71.2000
+Chase, 50.8167, -119.6833
+Chase River, 49.1333, -123.9167
+Chaswood, 45.0500, -63.2167
+Chatham(New Brunswick), 47.0333, -65.4667
+Chatham(Ontario), 42.4000, -82.1833
+Chatham Head, 47.0000, -65.5500
+Chatsworth, 44.4500, -80.9000
+Chauvin, 52.7000, -110.1167
+Cheam View, 49.2500, -121.6833
+Chehalis, 49.3000, -121.9000
+Chelmsford, 46.5833, -81.2000
+Chelsea(Nova Scotia), 44.3667, -64.7500
+Chelsea(Quebec), 45.5000, -75.7833
+Chemainus, 48.9167, -123.7167
+Chemin des Buttes, 47.4000, -61.7833
+Chepstow(Prince Edward Island), 46.3500, -62.2167
+Chepstow(Ontario), 44.1500, -81.2667
+Cherry Creek, 49.2833, -124.7833
+Cherry Hill, 44.1500, -64.5000
+Cherry Point, 48.7167, -123.5500
+Cherry River, 45.3167, -72.1667
+Cherry Valley(Prince Edward Island), 46.1667, -62.9167
+Cherry Valley(Ontario), 43.9333, -77.1500
+Cherrywood, 43.8667, -79.1333
+Chesley, 44.2833, -81.0833
+Chester(Nova Scotia), 44.5500, -64.2500
+Chester(New Brunswick), 45.7833, -64.7333
+Chester Basin, 44.5667, -64.3167
+Chester Grant, 44.6167, -64.3167
+Chesterfield Inlet, 63.3500, -90.7000
+Chestermere Lake, 51.0333, -113.8167
+Chesterville(Quebec), 45.9667, -71.8167
+Chesterville(Ontario), 45.1000, -75.2333
+Chetwynd, 55.7000, -121.6667
+Chevery, 50.4667, -59.6000
+Chiasson, 47.7333, -64.6333
+Chibougamau, 49.9167, -74.3667
+Chichester, 45.9167, -77.1167
+Chickin, 59.2500, -105.8333
+Chicoutimi, 48.4333, -71.0667
+Chilanko Forks, 52.1000, -124.1667
+Child Lake, 58.4667, -116.5833
+Chilliwack, 49.1667, -121.9500
+Chinook, 51.4500, -110.9333
+Chinook Cove, 51.2333, -120.1667
+Chipewyan, 58.7000, -111.1333
+Chipewyan Lake, 56.9333, -113.4500
+Chipman(Alberta), 53.7000, -112.6333
+Chipman(New Brunswick), 46.1833, -65.8833
+Chisholm Mills, 54.9167, -114.1333
+Chitek Lake, 53.7500, -107.7167
+Chitek Lake Indian Reserve, 53.7000, -107.7833
+Choiceland, 53.4500, -104.4167
+Chortitz, 49.1333, -97.9833
+Christian Island, 44.8333, -80.2000
+Christieville, 45.9000, -74.2167
+Christina, 49.0333, -118.2167
+Christopher Cross, 46.9833, -64.0500
+Christopher Lake, 52.5333, -105.8000
+Chu Chua, 51.3500, -120.1667
+Chum Creek, 50.8667, -119.5833
+Church Point, 44.3333, -66.1167
+Church Street, 45.1167, -64.4333
+Churchbridge, 50.9000, -101.9000
+Churchill(Ontario), 44.2500, -79.5833
+Churchill(Manitoba), 58.7667, -94.1667
+Churchill Falls, 53.5500, -64.0167
+Churchville, 43.6333, -79.7500
+Chute aux Outardes, 49.1167, -68.4000
+Chute Panet, 46.8500, -71.8500
+Chute St Philippe, 46.6500, -75.2333
+Chute à Blondeau, 45.5833, -74.4833
+Château Richer, 46.9667, -71.0167
+Châteauguay, 45.3833, -73.7500
+Châteauguay Centre, 45.3500, -73.7500
+Châteauguay Heights, 45.3833, -73.7333
+Chèverie, 45.1500, -64.1667
+Chénéville, 45.8833, -75.0500
+Chéticamp, 46.6333, -61.0167
+Cinema, 53.1833, -122.5000
+Ciné Parc, 47.7667, -69.5500
+Clair, 47.2500, -68.6000
+Claireville, 43.7500, -79.6333
+Clairmont, 55.2667, -118.7833
+Clam Point, 43.4833, -65.5667
+Clandeboye(Manitoba), 50.2333, -96.9833
+Clandeboye(Ontario), 43.2000, -81.4500
+Clandonald, 53.5667, -110.7333
+Clanwilliam, 50.3667, -99.8167
+Clapperton, 48.1500, -66.0167
+Claremont, 43.9667, -79.1167
+Clarence, 44.9000, -65.2333
+Clarence Creek, 45.5000, -75.2167
+Clarence West, 44.8667, -65.2833
+Clarenceville, 45.0667, -73.2500
+Clarenville, 48.1667, -53.9667
+Claresholm, 50.0333, -113.5833
+Claresholm Airport, 50.0167, -113.6500
+Clark Point, 44.0667, -81.7500
+Clark's Harbour, 43.4333, -65.6333
+Clarke City, 50.2000, -66.6333
+Clarke's Beach, 47.5500, -53.2833
+Clarke's Head, 49.3000, -54.5000
+Clarksburg, 44.7167, -80.4500
+Clarkson, 43.5167, -79.6167
+Clavet, 52.0000, -106.3833
+Clayhurst, 56.2500, -120.0167
+Clayton, 45.1833, -76.3333
+Clearbrook, 49.1333, -122.4333
+Clearland, 44.4833, -64.4167
+Clearwater(Manitoba), 49.1333, -99.0167
+Clearwater(British Columbia), 51.6333, -120.0333
+Clementsport, 44.6667, -65.6167
+Clementsvale, 44.6167, -65.5667
+Clemville, 48.1833, -65.0167
+Clermont, 47.6833, -70.2333
+Clifford, 43.9667, -80.9667
+Cliffside Beach, 42.0333, -82.7167
+Clifton, 47.7333, -65.3833
+Climax, 49.2167, -108.3833
+Clinton(Prince Edward Island), 46.4500, -63.5500
+Clinton(British Columbia), 51.0833, -121.5833
+Clinton(Onario), 43.6167, -81.5333
+Clinton Creek, 64.4000, -140.6000
+Clive, 52.4667, -113.4500
+Clo Oose, 48.6667, -124.8167
+Cloridorme, 49.1833, -64.8333
+Clova, 48.1167, -75.3667
+Cloverdale, 49.1000, -122.7333
+Cloverville Road, 45.6500, -62.0000
+Cloyne, 44.8167, -77.1833
+Clyde(Alberta), 54.1500, -113.6500
+Clyde(Northwest Territories), 70.4167, -68.5000
+Clyde River(Prince Edward Island), 46.2167, -63.2500
+Clyde River(Nunavut), 70.4500, -68.5500
+Clyde River(Nova Scotia), 43.6333, -65.4833
+Clydesdale, 45.6500, -62.0500
+Cléricy, 48.3667, -78.8667
+Coachman's Cove, 50.0667, -56.1167
+Coal Harbour, 50.6000, -127.5833
+Coal River, 59.7500, -126.9167
+Coalburn, 45.5667, -62.5833
+Coaldale, 49.7167, -112.6167
+Coalhurst, 49.7500, -112.9333
+Coalmont, 49.5167, -120.6833
+Coalspur, 53.1833, -117.0167
+Coaticook, 45.1333, -71.8000
+Cobalt, 47.4000, -79.6833
+Cobb's Arm, 49.6167, -54.5667
+Cobble Hill, 48.6833, -123.6000
+Cobden, 45.6333, -76.8833
+Coboconk, 44.6500, -78.8000
+Cobourg, 43.9667, -78.1667
+Coburn, 45.6833, -67.0500
+Cocagne, 46.3333, -64.6167
+Cocagne Nord, 46.3333, -64.6833
+Cochenour, 51.0833, -93.8000
+Cochin, 53.0833, -108.3333
+Cochrane(Alberta), 51.1833, -114.4667
+Cochrane(Ontario), 49.0667, -81.0167
+Cod Island, 57.7500, -61.8333
+Coderre, 50.1667, -106.3833
+Codes Corner, 44.3000, -76.4167
+Codesa, 55.7500, -118.0667
+Codette, 53.2667, -104.1000
+Codner, 47.5167, -53.0000
+Codroy, 47.8833, -59.4000
+Codroy Pond, 48.0667, -58.8667
+Codys, 45.8667, -65.8333
+Coe Hill, 44.8667, -77.8333
+Cogmagun River, 45.1000, -64.0500
+Colborne, 44.0000, -77.8833
+Colchester, 41.9833, -82.9333
+Cold Brook, 48.6000, -58.5333
+Cold Lake, 54.4500, -110.1667
+Cold Lake Indian Reserve, 54.3000, -110.2500
+Cold Lake Military Reserve, 54.4167, -110.2833
+Coldbrook, 45.0667, -64.5833
+Coldsprings, 44.2833, -78.3000
+Coldstream(British Columbia), 50.2167, -119.1833
+Coldstream(New Brunswick), 46.3500, -67.4667
+Coldstream(Nova Scotia), 45.0667, -63.3167
+Coldstream(Ontario), 43.0167, -81.5000
+Coldwater(Ontario), 44.7000, -79.6667
+Coldwater(British Columbia), 50.0333, -120.8333
+Cole Bay, 48.6167, -123.4500
+Colebrook, 44.3833, -76.7667
+Coleman(Prince Edward Island), 46.6833, -64.1667
+Coleman(Alberta), 49.6333, -114.5000
+Coleraine, 45.9667, -71.3667
+Coles Island, 45.9167, -65.7833
+Coleville, 51.7167, -109.2667
+Colgan, 44.0333, -79.8500
+Colinet, 47.2167, -53.5500
+Colinton, 54.6167, -113.2500
+Collacott Subdivision, 51.1833, -102.5000
+College Bridge, 45.9833, -64.5500
+College Heights, 52.4833, -113.7333
+Collette, 46.7833, -65.4500
+Collettville, 50.1167, -120.8000
+Colleymount, 54.0167, -126.1500
+Colliers, 47.4667, -53.2167
+Collingwood, 44.4833, -80.2167
+Collingwood Corner, 45.6167, -63.9333
+Collins, 50.2833, -89.4500
+Collins Bay, 44.2500, -76.6000
+Colombier, 48.8667, -68.8500
+Colonial Acres, 44.1500, -77.6833
+Colonsay, 51.9833, -105.8833
+Colpitts Settlement, 45.9833, -64.9667
+Colpoys Bay, 44.7833, -81.1333
+Colwell, 44.3333, -79.7833
+Colwood, 48.4333, -123.4833
+Comber, 42.2333, -82.5500
+Combermere, 45.3667, -77.6167
+Come by Chance, 47.8500, -53.9667
+Comeaus Hill, 43.7000, -66.0167
+Comeauville, 44.2833, -66.1333
+Comer, 52.1667, -122.2167
+Comfort Cove, 49.4000, -54.8667
+Commodore Heights, 52.1667, -122.1333
+Commons, 44.5500, -64.2333
+Comox, 49.6667, -124.9167
+Compton, 45.2333, -71.8167
+Conception Bay South, 47.5000, -53.0000
+Conception Harbour, 47.4333, -53.2167
+Concession, 44.2833, -66.0667
+Conche, 50.8833, -55.9000
+Concord, 43.8000, -79.4833
+Conestogo, 43.5333, -80.5000
+Congress, 49.7667, -106.0000
+Coniston, 46.4833, -80.8500
+Conklin, 55.6333, -111.0833
+Connaught Heights, 52.8833, -104.5667
+Conne River, 47.8667, -55.7500
+Conquerall Bank, 44.3667, -64.4667
+Conquerall Mills, 44.3000, -64.5333
+Conquest, 51.5333, -107.2833
+Conrad, 60.0667, -134.5500
+Conrod Settlement, 44.7667, -63.2333
+Consecon, 44.0000, -77.5167
+Consort, 52.0167, -110.7667
+Constance Bay, 45.4833, -76.0833
+Constance Lake, 49.8333, -84.1167
+Consul, 49.3500, -109.5000
+Contrecoeur, 45.8500, -73.2333
+Conway(Prince Edward Island), 46.6667, -63.9833
+Conway(Nova Scotia), 44.6000, -65.7667
+Cook's Harbour, 51.6000, -55.8667
+Cooking Lake, 53.4167, -113.1333
+Cooks Cove, 45.3667, -61.4833
+Cooks Mills, 43.0000, -79.1833
+Cookshire, 45.4167, -71.6333
+Cookstown, 44.1833, -79.7000
+Cookville, 44.4167, -64.5500
+Coomb's Cove, 47.4500, -55.6167
+Coombs, 49.3000, -124.4167
+Cooper Creek, 50.2000, -116.9667
+Cooper's Trailer Park, 44.3167, -78.2000
+Copetown, 43.2333, -80.0667
+Copper Cliff, 46.4667, -81.0667
+Copper Mountain, 49.3333, -120.5500
+Coppermine > Kugluktuk, 67.8333, -115.0833
+Copperside Estates, 54.5500, -128.4667
+Coquitlam, 49.2833, -122.7833
+Coral Harbour, 64.1333, -83.1667
+Cordova Mines, 44.5333, -77.7833
+Corinth, 42.8167, -80.8333
+Cormack, 49.3000, -57.3833
+Cormier Cove, 45.9500, -64.5667
+Cormier Village, 46.1667, -64.3500
+Cormierville, 46.4000, -64.6167
+Cormorant, 54.2333, -100.5833
+Corner Brook, 48.9500, -57.9500
+Cornhill, 45.9167, -65.3500
+Cornwall(Prince Edward Island), 46.2333, -63.2167
+Cornwall(Ontario), 45.0333, -74.7333
+Cornwallis, 44.6500, -65.6333
+Coronach, 49.1167, -105.5167
+Coronation, 52.0833, -111.4500
+Corriveau, 46.1333, -71.0333
+Corunna, 42.8833, -82.4333
+Coryatsaqua, 55.0333, -127.3333
+Cote, 51.6167, -101.9167
+Coteau du Lac, 45.3000, -74.1833
+Coteau Landing, 45.2500, -74.2167
+Coteau Road, 47.8333, -64.5667
+Coteau Station, 45.2833, -74.2333
+Cottam, 42.1333, -82.7500
+Cottle's Island, 49.5167, -54.8667
+Cottrell's Cove, 49.4833, -55.2833
+Couchiching, 48.7000, -93.4167
+Coughlan, 46.7667, -65.7667
+Country Harbour Mines, 45.2500, -61.8000
+Courcelles, 45.8667, -70.9833
+Courtenay, 49.6833, -125.0000
+Courtice, 43.9167, -78.7667
+Courtland, 42.8500, -80.6333
+Courtlea Mobile Acres, 42.8500, -80.6000
+Courtright, 42.8167, -82.4667
+Coutts, 49.0000, -111.9500
+Couturier Siding, 47.3000, -68.4833
+Covedell, 47.3167, -65.0167
+Coverdale, 43.9667, -78.1500
+Cow Head, 49.9167, -57.8000
+Cowansville, 45.2000, -72.7500
+Cowessess, 50.5333, -102.7000
+Cowichan, 48.7500, -123.5000
+Cowichan Bay, 48.7333, -123.6667
+Cowley, 49.5667, -114.0833
+Cox's Cove, 49.1167, -58.0833
+Coxheath, 46.1167, -60.2333
+Coyle, 50.1500, -120.8833
+Crabtree, 45.9667, -73.4667
+Crabtree Mills, 45.9667, -73.4667
+Craig, 49.3000, -124.2500
+Craigellachie, 50.9833, -118.7167
+Craigleith, 44.5333, -80.3167
+Craigmawr Beach, 44.2333, -79.4667
+Craigmyle, 51.6667, -112.2500
+Craik, 51.0500, -105.8167
+Cranberry Portage, 54.5833, -101.3833
+Cranbrook, 49.5167, -115.7667
+Crane River, 51.5333, -99.2833
+Crapaud, 46.2333, -63.5000
+Craven, 50.6500, -104.8333
+Crawford Bay, 49.7000, -116.8000
+Crediton, 43.2833, -81.5500
+Creelman, 49.8167, -103.3000
+Creemore, 44.3167, -80.1000
+Creighton, 54.7500, -101.9000
+Creighton Mine, 46.4667, -81.1833
+Creignish, 45.7333, -61.4500
+Cremona, 51.5500, -114.4833
+Crescent Beach, 49.0667, -122.8833
+Crescent Spur, 53.5833, -120.6833
+Creston(British Columbia), 49.1000, -116.5167
+Creston(Newfoundland and Labrador), 47.1500, -55.1833
+Criss Creek, 51.0500, -120.7333
+Crockets Corner, 45.7833, -65.3500
+Crockett, 47.2500, -68.6500
+Crofton, 48.8667, -123.6333
+Crooked River, 52.8500, -103.7333
+Croque, 51.0333, -55.8000
+Cross Lake, 54.6000, -97.8333
+Cross Point, 48.0167, -66.6833
+Cross Roads Country Harbour, 45.2833, -61.8833
+Cross Roads Ohio, 45.4833, -62.0500
+Crossfield, 51.4333, -114.0333
+Crossroads, 46.2167, -63.0833
+Crousetown, 44.2500, -64.4833
+Crow Head, 49.6833, -54.8000
+Crow Lake, 49.2000, -93.9500
+Crowes Mills, 45.4000, -63.3667
+Crown Hill, 44.4333, -79.6500
+Crowsnest, 49.6333, -114.6833
+Croydon Station, 53.0833, -119.7333
+Cruickshank, 44.6000, -81.0500
+Crumlin, 43.0167, -81.1500
+Crysler, 45.2167, -75.1500
+Crystal Beach, 42.0167, -83.0000
+Crystal City, 49.1500, -98.9333
+Crystal Springs, 44.2167, -78.3167
+Cudworth, 52.5000, -105.7500
+Cultus, 42.6333, -80.6167
+Cultus Lake, 49.0667, -121.9667
+Cumberland(Ontario), 45.5167, -75.4000
+Cumberland(Saskatchewan), 53.0500, -104.8333
+Cumberland(British Columbia), 49.6167, -125.0167
+Cumberland Bay, 46.0333, -65.8667
+Cumberland Beach, 44.6833, -79.3833
+Cumberland House, 53.9667, -102.2667
+Cupar, 50.9500, -104.2000
+Cupids, 47.5500, -53.2333
+Curran, 45.5000, -75.0000
+Currys Corner, 44.9833, -64.1333
+Curve Lake, 44.4833, -78.3500
+Curzon, 49.5167, -57.9167
+Cuslett, 46.9667, -54.1667
+Cut Knife, 52.7333, -109.0167
+Cypress River, 49.5667, -99.0833
+Czar, 52.4500, -110.8333
+Côte d'Or, 46.3500, -64.6167
+Côte St Luc, 45.4667, -73.6667
+Côte St Michel, 45.5667, -73.6000
+Côte St Paul, 45.7333, -74.1500

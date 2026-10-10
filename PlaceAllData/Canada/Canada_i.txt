@@ -1,0 +1,84 @@
+Iberville, 45.3000, -73.2333
+Iberville Junction, 45.3167, -73.2333
+Igloolik, 69.4000, -81.8167
+Ignace, 49.4167, -91.6667
+Ilderton, 43.0667, -81.4000
+Ilford, 56.0667, -95.5833
+Imperial, 51.3667, -105.4500
+Imperial Mills, 55.0000, -111.7333
+Indian Bay, 49.0333, -53.8500
+Indian Brook, 46.3833, -60.5333
+Indian Harbour, 44.5167, -63.9333
+Indian Head, 50.5333, -103.5167
+Indian Mountain, 46.1667, -64.9333
+Indian Point, 44.4500, -64.3167
+Indianola Beach, 44.2333, -79.4667
+Ingersoll, 43.0333, -80.8833
+Ingleside, 45.0000, -75.0000
+Inglewood, 43.7833, -79.9333
+Inglis, 50.9500, -101.2500
+Inglisville, 44.8500, -65.1167
+Ingomar, 43.5667, -65.3667
+Ingonish, 46.7000, -60.3667
+Ingonish Beach, 46.6333, -60.4167
+Ingonish Centre, 46.6667, -60.4000
+Ingramport, 44.6667, -63.9500
+Inkerman(Ontario), 45.0333, -75.4000
+Inkerman(New Brunswick), 47.6667, -64.8333
+Inkerman Ferry, 47.6833, -64.8167
+Innerkip, 43.2167, -80.7000
+Innisfail, 52.0333, -113.9500
+Innisfil Heights, 44.2833, -79.6500
+Innisfree, 53.3667, -111.5333
+Innisville, 45.0500, -76.2500
+Inoucdjouac, 58.4500, -78.1000
+Instow, 49.7333, -108.2667
+Inuvik, 68.3500, -133.7167
+Inverary, 44.3833, -76.4667
+Inverhuron, 44.2833, -81.5833
+Invermay(Ontario), 44.4667, -81.1500
+Invermay(Saskatchewan), 51.8000, -103.1500
+Invermere, 50.5000, -116.0333
+Inverness(Prince Edward Island), 46.6500, -64.0333
+Inverness(Nova Scotia), 46.2333, -61.3000
+Inverness(Quebec), 46.2500, -71.5167
+Inwood, 42.8167, -81.9833
+Inwood, 50.5667, -97.5333
+Ioco, 49.3000, -122.8667
+Iona(Ontario), 42.6833, -81.4000
+Iona(Nova Scotia), 45.9667, -60.8000
+Iosegun Lake, 54.4833, -116.8333
+Ipperwash Beach, 43.2167, -81.9667
+Iqaluit(Frobisher Bay), 63.7500, -68.5500
+Irishtown(Newfoundland and Labrador), 48.9833, -57.9500
+Irishtown(New Brunswick), 46.2000, -64.8000
+Irma, 52.9167, -111.2333
+Iron Bridge, 46.2833, -83.2333
+Iroquois, 44.8500, -75.3167
+Iroquois Falls, 48.7667, -80.6833
+Irricana, 51.3167, -113.6167
+Irvine, 49.9500, -110.2667
+Irvines Landing, 49.6333, -124.0500
+Isaacs Harbour North, 45.2000, -61.6667
+Island East River, 45.4667, -62.6667
+Island Falls, 55.5333, -102.3500
+Island Grove, 44.3000, -79.4667
+Island Harbour, 49.6167, -54.3167
+Island Lake(Western Sector), 53.8667, -94.9500
+Island Lake(Eastern Sector), 53.8833, -94.6333
+Island Lake(Algoma-Northern Area), 47.7000, -83.5667
+Island Lake(Algoma-Southern Area), 46.6667, -84.2667
+Island View, 45.9667, -66.8000
+Islay, 53.4000, -110.5500
+Isle aux Coudres, 47.3667, -70.4167
+Isle aux Grues, 47.0667, -70.5500
+Isle aux Morts, 47.5833, -58.9833
+Isle Dupas, 46.0833, -73.1500
+Islets Caribou, 49.5000, -67.2333
+Islington(Newfoundland and Labrador), 47.7667, -53.4833
+Islington(Ontario), 50.1667, -94.8667
+Issoudun, 46.5833, -71.6167
+Italy Cross, 44.2667, -64.5500
+Ittatsoo, 48.9333, -125.5333
+Ituna, 51.1667, -103.5000
+Ivujivik, 62.4000, -77.9167

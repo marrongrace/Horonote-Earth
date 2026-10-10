@@ -1,0 +1,272 @@
+Abbey, 50.7167, -108.7500
+Abbotsford, 49.0500, -122.2833
+Abercorn, 45.0333, -72.6667
+Abercrombie, 45.6333, -62.6833
+Aberdeen, 52.3167, -106.2833
+Aberfoyle, 43.4667, -80.1500
+Abernethy, 50.7500, -103.4167
+Abney, 45.9833, -62.5667
+Abrahams Cove, 48.5333, -58.9167
+Abrams, 46.4500, -64.0833
+Abrams River, 43.8333, -65.9500
+Abénakis, 46.5833, -70.8167
+Acaciaville, 44.5833, -65.7667
+Acadia Valley, 51.1333, -110.2167
+Acadieville, 46.7333, -65.2667
+Achigan Ouest, 45.8500, -73.9000
+Acme, 51.5000, -113.5000
+Acton(Alberta), 43.6167, -80.0333
+Acton(Ontario), 45.7333, -66.9500
+Acton Vale, 45.6500, -72.5667
+Adams Cove, 47.8667, -53.0833
+Adams Lake, 50.9667, -119.6833
+Adamsville(Quebec), 45.2833, -72.7833
+Adamsville(New Brunswick), 46.4000, -65.1833
+Admaston, 45.4833, -76.8167
+Admiral, 49.7167, -108.0167
+Admiral Rock, 45.1667, -63.4000
+Admiral's Cove, 47.1000, -52.9167
+Admirals Beach, 47.0000, -53.6500
+Advocate Harbour, 45.3333, -64.7833
+Aetna, 49.1333, -113.2500
+Agassiz, 49.2333, -121.7667
+Aguanish, 50.2167, -62.0833
+Ailsa Craig, 43.1333, -81.5500
+Air Ronge, 55.0833, -105.3167
+Aird Subdivision, 53.0000, -122.5000
+Airdrie, 51.3000, -114.0333
+Aishihik, 61.5833, -137.5000
+Aiyansh, 55.2833, -129.0500
+Ajax, 43.8500, -79.0333
+Aklavik, 68.2000, -135.0000
+Akulivik, 60.8000, -78.2000
+Alameda, 49.2667, -102.2833
+Alban, 46.1000, -80.6167
+Albanel, 48.8833, -72.4500
+Albany, 46.2833, -63.6500
+Albert Bridge, 46.0167, -60.0667
+Albert Canyon, 51.1333, -117.8667
+Albert Harbour, 72.7833, -77.6667
+Albert Head, 48.3833, -123.5000
+Albert Mines, 45.8667, -64.6667
+Alberta Beach, 53.6667, -114.3500
+Alberton, 46.8167, -64.0667
+Albertville, 48.3333, -67.3667
+Albion, 49.1833, -122.5500
+Albreda, 52.6333, -119.1500
+Albury, 44.0833, -77.5167
+Alcan Trailer Court, 56.2167, -120.7167
+Alcida, 47.7667, -65.8333
+Alcona, 44.3167, -79.5333
+Alcove, 45.6833, -75.9333
+Alder Point, 46.3000, -60.2833
+Alderburn, 49.1167, -55.2500
+Aldercrest Survey, 43.2000, -79.9000
+Aldergrove, 49.0667, -122.4667
+Aldershot, 45.1000, -64.5167
+Alderville, 44.1667, -78.0833
+Alderwood, 47.5167, -65.0000
+Alençon, 46.0667, -73.1333
+Alert Bay, 50.5833, -126.9167
+Alexander(Alberta), 53.8167, -113.9667
+Alexander(Manitoba), 49.8333, -100.2833
+Alexandra, 46.2000, -63.0333
+Alexandria(Ontario), 45.3167, -74.6333
+Alexandria(British Columbia), 52.6333, -122.4500
+Alexis, 53.7500, -114.5000
+Alexis Creek, 52.0833, -123.2833
+Alfred, 45.5667, -74.8833
+Algoma Mills, 46.1667, -82.8333
+Algonquin, 44.7000, -75.6667
+Alice Arm, 55.4833, -129.4833
+Alida, 49.3833, -101.8667
+Alix, 52.4000, -113.1833
+Alkali Lake, 51.7833, -122.2333
+Allan, 51.8833, -106.0667
+Allard, 48.1667, -66.3833
+Allardville, 47.4667, -65.4833
+Allardville East, 47.5000, -65.3833
+Allenford, 44.5500, -81.1667
+Allens Addition, 49.9167, -116.9333
+Allens Mills, 46.9167, -71.9667
+Alliance, 52.4333, -111.7833
+Allison, 46.0667, -64.9167
+Allison Harbour, 51.0500, -127.5000
+Alliston(Prince Edward Island), 46.0667, -62.6000
+Alliston(Ontario), 44.1500, -79.8667
+Alma(New Brunswick), 45.6000, -64.9500
+Alma(Nova Scotia), 45.5833, -62.7667
+Alma(Ontario), 43.7333, -80.5000
+Alma(Prince Edward Island), 46.8667, -64.1167
+Alma(Quebec), 48.5500, -71.6500
+Almond Gardens, 49.0000, -118.5000
+Almonte, 45.2333, -76.2000
+Alonsa, 50.8000, -98.9667
+Alsask, 51.3833, -109.9833
+Altamont, 49.4000, -98.5000
+Altario, 51.9167, -110.1500
+Alton(Nova Scotia), 45.1833, -63.3000
+Alton(Ontario), 43.8667, -80.0667
+Altona, 49.1000, -97.5500
+Alvena, 52.5167, -106.0167
+Alvinston, 42.8167, -81.8667
+Amaranth, 50.6000, -98.7167
+Ameliasburg, 44.0667, -77.4333
+Amery, 56.5667, -94.0500
+Amherst, 45.8167, -64.2333
+Amherst Head, 45.8833, -63.9833
+Amherst Pointe, 42.0500, -83.1167
+Amherstburg, 42.1000, -83.1000
+Amherstview, 44.2167, -76.6333
+Amiraults Hill, 43.8167, -65.9833
+Amisk, 52.5500, -111.0667
+Amos, 48.5833, -78.1167
+Amqui, 48.4667, -67.4333
+Anagance, 45.8667, -65.2500
+Anahim Lake, 52.4667, -125.3000
+Anahim's Flat, 52.0333, -123.1667
+Anama Bay, 51.9333, -98.0833
+Ancaster, 43.2000, -80.0000
+Anchor Point, 51.2333, -56.8000
+Ancienne Lorette, 46.8000, -71.3500
+Anderson Road, 46.8667, -67.5000
+Andrew, 53.8833, -112.3500
+Andréville, 47.6833, -69.7333
+Aneroid, 49.7167, -107.3333
+Ange Gardien, 45.3500, -72.9333
+Anglemont, 50.9667, -119.1667
+Angliers, 47.5500, -79.2333
+Anglo Tignish, 46.9833, -64.0000
+Angus, 44.3167, -79.8833
+Angusville, 50.7333, -101.0167
+Angéline, 45.3333, -72.8667
+Anjou, 45.6000, -73.5500
+Anmore, 49.3167, -122.8500
+Annaheim, 52.3167, -104.8167
+Annapolis Royal, 44.7500, -65.5167
+Annaville(St Célestin), 46.2167, -72.4333
+Anola, 49.8833, -96.6333
+Anse aux Gascons, 48.1833, -64.8500
+Anse Bleue, 47.8333, -65.0833
+Anse à Mercier, 49.2333, -65.1000
+Ansnorveldt, 44.0833, -79.5500
+Anten Mills, 44.4833, -79.8333
+Antigonish, 45.5833, -61.9167
+Antler, 49.5667, -101.4500
+Antler Lake, 53.5000, -112.9667
+Anzac, 56.4500, -111.0333
+Apenes, 49.2667, -124.6833
+Apohaqui, 45.7000, -65.6000
+Appin, 42.8000, -81.6500
+Apple Hill, 45.2167, -74.7667
+Appledale, 49.6333, -117.5333
+Appleton(Newfoundland and Labrador), 48.9833, -54.8667
+Appleton(Ontario), 45.1833, -76.1333
+Apsley, 44.7500, -78.1000
+Aquaforte, 47.0000, -52.9667
+Arbeau Settlement, 46.6333, -65.8500
+Arborfield, 53.1000, -103.6500
+Arborg, 50.9167, -97.2500
+Arcadia, 43.8333, -66.0667
+Archerwill, 52.4333, -103.8500
+Archibald Settlement, 47.8833, -66.0500
+Arcola, 49.6167, -102.5000
+Arctic Bay, 73.0333, -85.1833
+Arctic Red River, 67.4500, -133.7667
+Arden(Manitoba), 50.2833, -99.2333
+Arden(Ontario), 44.7167, -76.9333
+Ardill, 49.8833, -105.8167
+Ardmore, 54.3333, -110.4833
+Ardoise, 44.9500, -63.9333
+Ardrossan, 53.5500, -113.1333
+Argenta, 50.1667, -116.9167
+Argentia, 47.3000, -53.9833
+Argyle Shore, 46.1667, -63.3500
+Argyle Sound, 43.6833, -65.8167
+Arichat, 45.5167, -61.0167
+Arkell, 43.5333, -80.1667
+Arkona, 43.0667, -81.8333
+Armadale, 43.8333, -79.2500
+Armagh, 46.7500, -70.5833
+Armstrong(Ontario), 50.3000, -89.0333
+Armstrong(British Columbia), 50.4500, -119.2000
+Armstrong Brook, 47.9167, -65.9667
+Armstrong Station, 50.3000, -89.0333
+Arnold, 49.1333, -122.0500
+Arnold's Cove, 47.7500, -54.0000
+Arnprior, 45.4333, -76.3500
+Arntfield, 48.2000, -79.2500
+Aroland, 50.2167, -87.0000
+Aroostook, 46.8000, -67.7167
+Aroostook Portage, 46.8667, -67.7333
+Arran, 51.8833, -101.7167
+Arrow Creek, 49.1333, -116.4667
+Arrowwood, 50.7333, -113.1500
+Arthabaska, 46.0333, -71.9167
+Arthur, 43.8333, -80.5333
+Arthurette, 46.7833, -67.4833
+Arundel, 45.9667, -74.6167
+Arva, 43.0500, -81.2833
+Arviat, 61.1167, -94.0500
+Arvida, 48.4167, -71.1833
+Asbestos, 45.7667, -71.9500
+Ascot Corner, 45.4500, -71.7667
+Ashcroft, 50.7167, -121.2833
+Ashdale(Antigonish,Nova Scotia), 45.5167, -62.0333
+Ashdale(Hants,Nova Scotia), 45.0000, -63.9333
+Ashern, 51.1833, -98.3500
+Ashmont, 54.1333, -111.5667
+Ashmore, 44.4667, -65.9667
+Ashton, 45.1500, -76.0333
+Ashton Creek, 50.5500, -119.0167
+Aspen, 45.3000, -62.0500
+Aspen Cove, 49.4667, -54.1167
+Aspen Park, 50.6333, -97.0333
+Asquith, 52.1333, -107.2167
+Assiniboia, 49.6333, -105.9833
+Assiniboine, 50.3333, -103.4667
+Astle, 46.4167, -66.4667
+Aston-Jonction, 46.1667, -72.2333
+Astorville, 46.1833, -79.2833
+Atakakup, 53.3667, -106.8667
+Athabasca, 54.7167, -113.2833
+Athalmer, 50.5333, -116.0333
+Athelstan, 45.0333, -74.1833
+Athens, 44.6333, -75.9500
+Atherley, 44.6000, -79.3667
+Atholville, 47.9833, -66.7167
+Atikokan, 48.7500, -91.6167
+Atironto, 44.9000, -76.0000
+Atlin, 59.5833, -133.7000
+Attawapiskat, 52.9167, -82.4333
+Atwater, 50.7833, -102.1667
+Atwood, 43.6667, -81.0167
+Auburn(Nova Scotia), 45.0167, -64.8667
+Auburn(Ontario), 53.7667, -81.5333
+Auburndale, 44.4000, -64.6000
+Auclair, 47.7333, -68.6500
+Audet, 45.6500, -70.7333
+Augustine Cove, 46.2333, -63.6167
+Aulac, 45.8667, -64.2833
+Aulds Cove, 45.6500, -61.4500
+Aurigny, 47.2167, -61.9500
+Aurora, 44.0000, -79.4667
+Austin, 49.9500, -98.9333
+Australian, 52.7333, -122.4500
+Authier Nord, 48.8333, -78.8667
+Avola, 51.7833, -119.3167
+Avondale(Nova Scotia), 45.0167, -64.1167
+Avondale(Newfoundland and Labrador), 47.4167, -53.2000
+Avonlea, 50.0000, -105.0667
+Avonmore, 45.1667, -74.9667
+Avonport, 45.1000, -64.2500
+Ayers Cliff, 45.1667, -72.0500
+Aylesford, 45.0333, -64.8333
+Aylmer(Ontario), 42.7667, -80.9833
+Aylmer(Quebec), 45.4333, -75.8333
+Aylmer East, 45.4000, -75.8500
+Aylmer Sound, 50.6167, -59.4500
+Aylmer West, 42.7667, -80.9833
+Aylsham, 53.1833, -103.8167
+Ayr, 43.2833, -80.4500
+Ayton, 44.0500, -80.9333

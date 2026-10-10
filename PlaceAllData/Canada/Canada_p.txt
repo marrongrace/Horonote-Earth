@@ -1,0 +1,500 @@
+Pabos Mills, 48.3000, -64.7000
+Pacific, 54.7667, -128.2833
+Pacific Shore Trailer Court, 49.2833, -124.2333
+Packington, 47.4833, -68.7833
+Pacquet, 49.9833, -55.8833
+Paddle Prairie, 57.9500, -117.4833
+Paddockwood, 53.5167, -105.5667
+Padoue, 48.5833, -67.9833
+Pain Sec, 46.6000, -70.5500
+Painchaud, 47.3333, -70.0167
+Paincourt, 42.3833, -82.2833
+Painsec, 46.1000, -64.6333
+Painswick, 44.3500, -79.6667
+Paisley, 44.3000, -81.2667
+Pakenham, 45.3333, -76.2833
+Paldi, 48.8000, -123.8500
+Palling, 54.3500, -125.9167
+Palmarolle, 48.6667, -79.2000
+Palmer Rapids, 45.3167, -77.5167
+Palmer Road, 46.9167, -64.1500
+Palmerston, 43.8333, -80.8500
+Panet, 46.6500, -70.1500
+Pangman, 49.6500, -104.6333
+Pangnirtung, 66.1333, -65.7333
+Panorama Trailer Court, 52.1167, -122.2167
+Papineauville, 45.6167, -75.0167
+Paquetville, 47.6667, -65.1000
+Paradise, 47.5333, -52.8667
+Paradise, 44.8667, -65.2167
+Paradise Hill, 53.5333, -109.4667
+Paradise River, 53.4500, -57.2833
+Paradise Valley(Alberta), 53.0333, -110.2833
+Paradise Valley(British Columbia), 49.8333, -124.4833
+Parc de l'Amitié, 47.8000, -69.6000
+Parc Rémillard, 45.3167, -73.3333
+Parc St Philippe, 45.3500, -73.4667
+Parent, 47.9167, -74.6167
+Parham, 44.6500, -76.7167
+Paris, 43.2000, -80.3833
+Parisville, 46.5167, -72.0667
+Park Lane, 48.4667, -80.5000
+Parkdale(Nova Scotia), 44.6500, -64.6333
+Parkdale(Prince Edward Island), 46.2500, -63.1167
+Parkers Cove(Newfoundland and Labrador), 47.4000, -54.8667
+Parkers Cove(Nova Scotia), 44.8167, -65.5167
+Parkhill, 43.1500, -81.6833
+Parkside, 53.1667, -106.5500
+Parksville, 49.3167, -124.3167
+Parkville Trailer Park, 49.3000, -124.2500
+Parkwood Estates, 46.2667, -63.1000
+Parrsboro, 45.4000, -64.3333
+Parry Island, 45.3000, -80.1333
+Parry Sound, 45.3500, -80.0333
+Parson's Pond, 50.0333, -57.7167
+Parsons Point, 49.0333, -53.8833
+Pasadena, 49.0167, -57.6000
+Paspébiac, 48.0333, -65.2500
+Paspébiac Est, 48.0333, -65.2000
+Paspébiac Ouest, 48.0167, -65.2667
+Pasqua, 50.7500, -104.0000
+Pass Creek Park, 49.3333, -117.6667
+Pass Island, 47.4833, -56.1833
+Passmore, 49.5333, -117.6333
+Patrick's Cove, 47.0500, -54.1167
+Patrickton, 48.2333, -65.9500
+Patterson, 45.5500, -66.5333
+Paul Lake, 50.7333, -120.1667
+Paulatuk, 69.8167, -123.9833
+Paungassi, 52.1667, -95.3667
+Pavilion, 50.8667, -121.8333
+Paynton, 53.0167, -108.9333
+Peace River, 56.2333, -117.2833
+Peachland, 49.7667, -119.7333
+Peachytown, 47.5000, -52.9833
+Pebble Beach, 49.8000, -124.5000
+Peepeekisis, 50.8667, -103.3833
+Peerless Lake, 56.6667, -114.5833
+Peers, 53.6667, -116.0000
+Peesane, 52.8667, -103.6000
+Pefferlaw, 44.3167, -79.2000
+Peguis, 51.3000, -97.5833
+Peigan, 49.5833, -113.6667
+Pelham, 43.0333, -79.2833
+Pelican Narrows, 55.1667, -102.9333
+Pelican Rapids, 52.7500, -100.7000
+Pelly, 51.8667, -101.9167
+Pelly Bay > Kugaaruk, 68.5333, -89.8333
+Pelly Crossing, 62.8333, -136.5833
+Pemberton, 50.3333, -122.8000
+Pembroke, 43.8667, -66.1667
+Pembroke, 45.8167, -77.1167
+Pemmican Portage, 53.9333, -102.2833
+Pender Island, 48.8000, -123.2833
+Penetang, 44.7833, -79.9167
+Penetanguishene, 44.7833, -79.9167
+Penhold, 52.1333, -113.8667
+Pennant(Nova Scotia), 44.4667, -63.6333
+Pennant(Saskatchewan), 50.5333, -108.2333
+Pennant Station, 50.5500, -108.2000
+Penniac, 46.0333, -66.5667
+Penny, 53.8333, -121.2833
+Penobsquis, 45.7833, -65.3833
+Pense, 50.4167, -105.0000
+Penticton, 49.5000, -119.5833
+Penticton Indian Reserve, 49.5000, -119.6667
+Percé, 48.5167, -64.2167
+Perdue, 52.0667, -107.5333
+Pereaux, 45.1667, -64.4000
+Perkins, 45.5833, -75.6167
+Perkinsfield, 44.7000, -79.9500
+Perow, 54.5167, -126.4333
+Perrault Falls, 50.3167, -93.1833
+Perry's Cove, 47.8000, -53.1500
+Perrys, 49.6667, -117.5000
+Perth, 44.9000, -76.2500
+Perth Road, 44.4667, -76.4833
+Perth-Andover, 46.7500, -67.7000
+Petawawa, 45.9000, -77.2833
+Peter Pond Lake, 55.9167, -109.0000
+Peterborough, 44.3000, -78.3167
+Peters Road, 46.0667, -62.5667
+Petersburg, 43.4167, -80.5833
+Petersfield, 50.3000, -96.9667
+Peterview, 49.1167, -55.3500
+Petit Cap, 46.2000, -64.1667
+Petit de Grat, 45.5000, -60.9667
+Petit Nicolet, 45.8000, -71.9833
+Petit Paquetville, 47.7000, -65.0833
+Petit Pokemouche, 47.7167, -64.7500
+Petit Rocher, 47.7833, -65.7167
+Petit Rocher Station, 47.7667, -65.7333
+Petit Rocher Sud, 46.7667, -65.7167
+Petit Saguenay, 48.2167, -70.0667
+Petit Étang, 46.6500, -60.9667
+Petitcodiac, 45.9333, -65.1667
+Petite Aldouane, 46.7167, -64.9000
+Petite Anse, 49.1833, -64.8833
+Petite Lamèque, 47.8167, -64.7000
+Petite Matane, 48.8500, -67.4333
+Petite Rivière(Nova Scotia), 44.2333, -64.4500
+Petite Rivière(Quebec), 47.3000, -70.5667
+Petite Rivière de l'Île, 47.8667, -64.6333
+Petite Rivière Pabos, 48.3833, -64.6000
+Petite Tourelle, 49.1667, -66.3667
+Petite Vallée, 49.2167, -65.0333
+Petites, 47.6167, -58.6333
+Petits Méchins, 49.0167, -66.9167
+Petley, 48.1500, -53.7500
+Petrolia, 42.8667, -82.1500
+Petty Harbour, 47.4667, -52.7167
+Phelpston, 44.5167, -79.8500
+Phil's Trailer Court, 45.5167, -75.3833
+Philipsburg, 45.0333, -73.0833
+Philipsville, 44.6333, -76.1500
+Phillips Head, 49.2333, -55.3000
+Phillipsburg, 43.4167, -80.7333
+Piapot, 50.0000, -109.1833
+Piapot Indian Reserve, 50.7500, -104.4333
+Pibroch, 54.2667, -113.8667
+Pic River, 48.6167, -86.2500
+Piccadilly, 48.5667, -58.9167
+Pickardville, 54.0500, -113.8833
+Pickering, 43.8667, -79.0333
+Pickering Beach, 43.8333, -78.9833
+Pickle Crow, 51.5000, -90.0667
+Pickle Lake, 51.4667, -90.2000
+Picton, 44.0000, -77.1333
+Pictou, 45.6833, -62.7167
+Pictou Landing, 45.6667, -62.6833
+Picture Butte, 49.8833, -112.7833
+Pied du Lac, 47.4667, -69.0000
+Piedmont, 45.9000, -74.1333
+Pierceland, 54.3333, -109.7667
+Pierrefonds, 45.4833, -73.8667
+Pierreville, 46.0667, -72.8167
+Pierson, 49.1833, -101.2500
+Pigeon Hill, 47.8500, -64.5167
+Pigeon Lake, 52.9833, -113.9667
+Pikangikum, 51.8167, -94.0000
+Pikes Arm, 49.6500, -54.5833
+Pikwitonei, 55.5833, -97.1500
+Pilger, 52.4167, -105.2667
+Pilley's Island, 49.5167, -55.7333
+Pilot Butte, 50.4667, -104.4167
+Pilot Mound, 49.2667, -98.9167
+Pinantan, 50.7333, -119.9667
+Pinawa, 50.1500, -95.8833
+Pincher Creek, 49.4833, -113.9500
+Pincourt, 45.3833, -74.0000
+Pine Beach, 45.5333, -73.9500
+Pine Creek, 52.0500, -100.2000
+Pine Falls, 50.5833, -96.2500
+Pine Glen(New Brunswick), 46.0333, -64.7667
+Pine Glen(Ontario), 45.3167, -75.7167
+Pine Grove, 42.7667, -80.4667
+Pine Hill, 45.7333, -74.4833
+Pine Point, 61.0167, -114.2500
+Pine Ridge Valley Trailer Park, 50.0167, -96.8667
+Pine River, 51.7833, -100.5333
+Pine Tree, 45.6000, -62.5500
+Pine Valley, 52.1667, -122.0833
+Pinehouse Lake, 55.5167, -106.6000
+Pinehurst, 44.5000, -64.6500
+Pinette, 46.0500, -62.9000
+Pineville, 46.8167, -65.9000
+Piney, 49.0667, -95.9833
+Pinkneys Point, 43.7167, -66.0667
+Pintendre, 46.7500, -71.1333
+Pinware, 51.6167, -56.7000
+Pioneer Mine, 50.7667, -122.7667
+Pioneer Trailer Park, 46.6333, -84.2833
+Piopolis, 45.4833, -70.9000
+Pipestone, 49.5500, -100.9500
+Pitt Meadows, 49.2167, -122.6833
+Placentia, 47.2333, -53.9667
+Plage St Blaise, 45.2000, -73.2667
+Plainfield, 45.6500, -62.9167
+Plaisance, 45.6167, -75.0833
+Plamondon, 54.8500, -112.3167
+Plantagenet, 45.5333, -75.0000
+Plaster Rock, 46.9000, -67.4000
+Plate Cove East, 48.5167, -53.4833
+Plate Cove West, 48.5000, -53.5000
+Plateau, 46.6000, -61.0000
+Plattsville, 43.3000, -80.6167
+Pleasant, 43.6833, -79.8167
+Pleasant Bay, 46.8167, -60.8000
+Pleasant Grove, 46.3667, -63.0667
+Pleasant Harbour, 44.7833, -62.7333
+Pleasant Heights, 51.2500, -102.4833
+Pleasant Lake, 43.8500, -66.0167
+Pleasant Ridge, 46.7333, -65.4667
+Pleasant River, 44.4333, -64.8833
+Pleasant Valley(Prince Edward Island), 46.3667, -63.4833
+Pleasant Valley(Colchester County), 45.2500, -63.3333
+Pleasant Valley(Yarmouth County), 43.9833, -65.9667
+Pleasant View, 46.9167, -64.2000
+Pleasantdale, 52.5833, -104.5000
+Pleasantview Acreages, 53.6000, -113.1000
+Pleasantville, 44.3333, -64.4333
+Plenty, 51.7833, -108.6000
+Plessisville, 46.2333, -71.7833
+Plevna, 44.9667, -76.9833
+Plum Coulee, 49.1833, -97.7500
+Plum Point, 51.0667, -56.8833
+Plumas, 50.4167, -99.0333
+Plunkett, 51.9167, -105.4500
+Plymouth(Yarmouth County), 43.8000, -66.0167
+Plymouth(Pictou County), 45.5500, -62.6500
+Plymouth Park, 45.5500, -62.6500
+Plympton, 44.5000, -65.9167
+Plympton Station, 44.4833, -65.9000
+Pohénégamook, 47.5167, -69.2667
+Point Aconi, 46.3333, -60.3000
+Point Anne, 44.1500, -77.3000
+Point au Gaul, 46.8667, -55.7500
+Point au Mal, 48.6500, -58.6500
+Point Cross, 46.5833, -61.0167
+Point de Bute, 45.9000, -64.2500
+Point Edward(Nova Scotia), 46.1667, -60.2667
+Point Edward(Ontario), 43.0000, -82.4000
+Point La Haye, 46.9000, -53.6000
+Point La Nim, 48.0667, -66.4500
+Point Lance, 46.8167, -54.0833
+Point Leamington, 49.3333, -55.4000
+Point May, 46.9000, -55.9333
+Point of Bay, 49.2500, -55.2500
+Point Sapin, 46.9667, -64.8333
+Point Tupper, 45.6000, -61.3667
+Point Verde, 47.2333, -54.0000
+Pointe Alexandre, 47.8000, -64.6667
+Pointe au Baril Station, 45.6000, -80.3667
+Pointe au Boisvert, 48.5667, -69.1833
+Pointe au Bouleau, 48.0833, -69.7333
+Pointe au Chêne, 45.6333, -74.7500
+Pointe au Pic, 47.6333, -70.1500
+Pointe au Père, 48.5167, -68.4667
+Pointe au Sable, 45.5167, -74.3000
+Pointe aux Anglais, 49.6833, -67.1667
+Pointe aux Loups, 47.5333, -61.7167
+Pointe aux Outardes, 49.0500, -68.4333
+Pointe aux Trembles, 45.6500, -73.5000
+Pointe aux Trembles Ouest, 46.6833, -71.6667
+Pointe Basse, 47.3833, -61.7833
+Pointe Calumet, 45.5000, -73.9667
+Pointe Canot, 47.8333, -64.7000
+Pointe Claire, 45.4333, -73.8333
+Pointe des Cascades, 45.3333, -73.9667
+Pointe du Bois, 50.3000, -95.5500
+Pointe du Chêne, 46.2333, -64.5333
+Pointe du Hameau, 46.2333, -72.6000
+Pointe du Lac, 46.2833, -72.7000
+Pointe du Moulin, 45.3667, -73.8667
+Pointe Fortune, 45.5667, -74.3833
+Pointe Gatineau, 45.4667, -75.7000
+Pointe LeBel, 49.1667, -68.2000
+Pointe Parent, 50.1333, -61.7833
+Pointe Sapin, 46.9667, -64.8333
+Pointe Sauvage, 47.7333, -64.6833
+Pointe Verte, 47.8500, -65.7667
+Pointe à la Frégate, 49.2000, -64.9167
+Pointe à la Garde, 48.0833, -66.5333
+Pointe à Maurier, 50.3333, -59.8000
+Poirierville, 45.5833, -60.9333
+Pokeshaw, 47.7833, -65.2500
+Pokesudie, 47.8000, -64.7667
+Pokiok, 45.9500, -67.2500
+Pollards Point, 49.7500, -56.9000
+Poltimore, 45.7833, -75.7167
+Pomquet, 45.6333, -61.8500
+Pomquet and Afton, 45.6000, -61.7333
+Pomquet Station, 45.6167, -61.8167
+Poncheville, 48.8500, -67.5000
+Pond Inlet, 72.6833, -78.0000
+Ponds, 45.6833, -62.3000
+Pondville, 45.5333, -60.9833
+Ponoka, 52.7000, -113.5833
+Pont Lafrance, 47.4500, -64.9833
+Pont Landry, 47.5833, -64.9500
+Pont Rouge, 46.7500, -71.7000
+Pontbriand, 46.1500, -71.2500
+Ponteix, 49.8167, -107.5000
+Pontgravé, 47.4167, -64.7833
+Pontypool, 44.1000, -78.6333
+Pool's Cove, 47.6833, -55.4333
+Pool's Island, 49.1167, -53.6000
+Poor Man, 51.5000, -104.4000
+Popes Harbour, 44.8167, -62.6500
+Popkum, 49.2000, -121.7333
+Poplar Grove(Prince Edward Island), 46.6500, -63.9333
+Poplar Grove(Nova Scotia), 45.0167, -64.0833
+Poplar Hill(Middlesex County), 43.0000, -81.5167
+Poplar Hill(Kenora District), 52.0833, -94.3000
+Poplar Hills Survey, 43.1167, -80.3333
+Poplar Point, 50.0667, -97.9500
+Poplar Ridge, 53.2000, -115.0167
+Poplar River, 53.0000, -97.2833
+Porcupine Plain, 52.6000, -103.2500
+Porpoise Bay, 49.5000, -123.7500
+Port Alberni, 49.2333, -124.8000
+Port Albert, 49.5500, -54.5333
+Port Alice, 50.3833, -127.4500
+Port Alma, 42.1833, -82.2500
+Port Anson, 49.5333, -55.8333
+Port Arthur > Thunder Bay, 48.3833, -89.2500
+Port au Bras, 47.0500, -55.1333
+Port au Choix, 50.7167, -57.3667
+Port au Port, 48.5500, -58.7333
+Port aux Basques > Channel Port aux Basques, 47.5667, -59.1500
+Port Bickerton, 45.1000, -61.7167
+Port Blandford, 48.3500, -54.1667
+Port Bolster, 44.3500, -79.2000
+Port Borden, 46.2500, -63.7000
+Port Bruce, 42.6500, -81.0167
+Port Burwell, 42.6500, -80.8167
+Port Carling, 45.1167, -79.5833
+Port Cartier, 50.0167, -66.8833
+Port Cartier Ouest, 50.0167, -66.8667
+Port Clements, 53.7000, -132.1833
+Port Clyde, 43.6000, -65.4667
+Port Colborne, 42.8833, -79.2333
+Port Coquitlam, 49.2667, -122.7667
+Port Credit, 43.5500, -79.5833
+Port Daniel, 48.1833, -64.9667
+Port Daniel Centre, 48.1500, -64.9833
+Port Daniel Est, 48.1833, -64.9667
+Port Daniel Ouest, 48.1167, -65.0167
+Port de Grave, 47.5833, -53.2167
+Port Dover, 42.7833, -80.2000
+Port Dufferin, 44.9167, -62.3833
+Port Edward, 54.2333, -130.3000
+Port Elgin(Ontario), 44.4333, -81.4000
+Port Elgin(New Brunswick), 46.0500, -64.0833
+Port Essington, 54.1500, -129.9500
+Port Felix, 45.2500, -61.2167
+Port Franks, 43.2167, -81.9000
+Port Greville, 45.4000, -64.5500
+Port Hammond, 49.2167, -122.6500
+Port Hardy, 50.7167, -127.4833
+Port Hastings, 45.6500, -61.4000
+Port Hawkesbury, 45.6167, -61.3500
+Port Hill, 46.5833, -63.8833
+Port Hood, 46.0167, -61.5333
+Port Hope, 43.9500, -78.3000
+Port Hope Simpson, 52.5500, -56.3000
+Port Howe, 45.8500, -63.7500
+Port Kells, 49.1500, -122.6833
+Port Kirwan, 46.9667, -52.9167
+Port La Tour, 43.5000, -65.4833
+Port Lambton, 42.6500, -82.5000
+Port Lewis, 45.1667, -74.2833
+Port Loring, 45.9167, -79.9833
+Port Lorne, 44.9500, -65.2667
+Port Maitland(Ontario), 42.8667, -79.5667
+Port Maitland(Nova Scotia), 43.9833, -66.1500
+Port Mann, 49.2167, -122.8000
+Port McNeill, 50.5833, -127.1000
+Port McNicoll, 44.7500, -79.8167
+Port Medway, 44.1333, -64.5833
+Port Mellon, 49.5333, -123.4833
+Port Menier, 49.8000, -64.3333
+Port Moody, 49.2833, -122.8500
+Port Morien, 46.1333, -59.8667
+Port Mouton, 43.9333, -64.8500
+Port Nelson, 57.0500, -92.6000
+Port Neville, 50.4833, -126.0833
+Port Nouveau Québec, 58.5333, -65.9000
+Port Perry, 44.1000, -78.9500
+Port Radium, 66.0833, -118.0333
+Port Renfrew, 48.5500, -124.4167
+Port Rexton, 48.3833, -53.3333
+Port Rowan, 42.6167, -80.4667
+Port Royal(Annapolis County), 44.7167, -65.6000
+Port Royal(Richmond County), 45.5333, -61.1000
+Port Saunders, 50.6500, -57.3000
+Port Severn, 44.8000, -79.7167
+Port Simpson, 54.5500, -130.4167
+Port St François, 46.2667, -72.6167
+Port St Servan, 51.3167, -58.0333
+Port Stanley, 42.6667, -81.2167
+Port Union(Ontario), 43.7833, -79.1333
+Port Union(Newfoundland and Labrador), 48.5000, -53.0833
+Port Wade, 44.6833, -65.7167
+Port Washington, 48.8167, -123.3167
+Port Williams, 45.1000, -64.4167
+Portage, 46.0333, -60.3333
+Portage du Cap, 47.2333, -61.9000
+Portage du Fort, 45.6000, -76.6667
+Portage la Prairie, 49.9833, -98.3000
+Porter Cove, 46.4833, -66.3667
+Porters Lake, 44.7333, -63.3167
+Porterville, 49.2500, -55.1833
+Portland(Newfoundland and Labrador), 48.4167, -53.8167
+Portland(Ontario), 44.7000, -76.2000
+Portneuf, 46.7000, -71.8833
+Portneuf Station, 46.7167, -71.9000
+Portneuf Sur Mer, 48.6167, -69.1000
+Portugal Cove, 47.6333, -52.8500
+Portugal Cove South, 46.7000, -53.2500
+Portuguese Cove, 44.5167, -63.5333
+Poste de la Baleine, 55.2833, -77.7500
+Poste Mistassini, 50.4167, -73.8667
+Postville, 54.9000, -59.7833
+Pottageville, 43.9833, -79.6167
+Pouce Coupé, 55.7167, -120.1333
+Pouch Cove, 47.7667, -52.7667
+Poulamon, 45.5833, -61.0167
+Poularies, 48.6667, -78.9833
+Poundmaker, 52.8500, -108.9333
+Povungnituk, 60.0333, -77.1667
+Powassan, 46.0833, -79.3667
+Powell River, 49.8667, -124.5500
+Powerview, 50.5667, -96.2000
+Pownal, 46.2000, -62.9833
+Pradine Subdivision, 52.9667, -122.4667
+Prairie River, 52.8667, -103.0000
+Precious Corners, 44.0167, -78.2000
+Preeceville, 51.9667, -102.6667
+Preissac, 48.4000, -78.3667
+Prelate, 50.8500, -109.3833
+Prescott, 44.7167, -75.5167
+Preston, 44.7167, -63.4333
+Prestville, 55.7500, -118.1000
+Price, 48.6000, -68.1167
+Priceville(New Brunswick), 46.5167, -66.2833
+Priceville(Ontario), 44.2000, -80.6333
+Priestville, 45.5667, -62.6333
+Prime Brook, 46.1167, -60.2000
+Prince Albert(Saskatchewan), 53.2000, -105.7667
+Prince Albert(Ontario), 44.0833, -78.9667
+Prince George, 53.9167, -122.7500
+Prince Rupert, 54.3167, -130.3167
+Prince William, 45.9167, -67.0500
+Princeton(British Columbia), 49.4500, -120.5167
+Princeton(Newfoundland and Labrador), 48.4167, -53.6000
+Princeton(Ontario), 43.1667, -80.5333
+Princeville, 46.1667, -71.8833
+Pritchard Mobile Subdivision, 50.6833, -119.8500
+Pritzler Harbour, 62.1167, -67.3333
+Procter, 49.6167, -116.9500
+Projet Saddlebrook, 45.4167, -74.1500
+Pronto Mine Townsite, 46.2000, -82.7000
+Prospect, 44.4667, -63.7833
+Proulxville, 46.6667, -72.5000
+Providence Bay, 45.6667, -82.2667
+Provost, 52.3500, -110.2667
+Prud'homme, 52.3333, -105.9000
+Pré d'en Haut, 45.9667, -64.9667
+Prémont, 46.3667, -73.0500
+Public Landing, 45.4167, -66.2000
+Pubnico, 43.7000, -65.7833
+Puce, 42.3000, -82.7833
+Pughs Crossing, 46.0500, -66.8500
+Pugwash, 45.8500, -63.6667
+Pukatawagan, 55.7333, -101.3000
+Punchaw, 53.4667, -123.2167
+Punnichy, 51.3833, -104.3000
+Purple Hill, 43.9167, -80.0833
+Pushthrough, 47.6500, -56.1667
+Péribonka, 48.7667, -72.0500

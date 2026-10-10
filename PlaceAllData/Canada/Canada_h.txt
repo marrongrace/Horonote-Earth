@@ -1,0 +1,327 @@
+Habitant, 45.1500, -64.4000
+Hacheyville, 47.5833, -65.0500
+Hacketts Cove, 44.5667, -63.9167
+Hafford, 52.8000, -107.3333
+Hagar, 46.4500, -80.4167
+Hagensborg, 52.3833, -126.5500
+Hagerman Corners, 43.8333, -79.3000
+Hagersville, 42.9667, -80.0500
+Haggertys Cove, 45.1333, -66.5167
+Hague, 52.5000, -106.4167
+Hagwilget, 55.2667, -127.6000
+Haileybury, 47.4500, -79.6333
+Haines Junction, 60.7500, -137.5000
+Halbrite, 49.3333, -103.5333
+Halcomb, 46.9333, -65.9500
+Haldimand, 43.0000, -79.8333
+Haley, 45.6000, -76.7667
+Haley Station, 45.5667, -76.7833
+Half Island Cove, 45.3500, -61.2000
+Halfmoon Bay, 49.5167, -123.9000
+Halfway Point, 48.9833, -58.1000
+Halfway River, 56.4500, -121.8333
+Haliburton(Nova Scotia), 45.6833, -62.7500
+Haliburton(Ontario), 45.0500, -78.5167
+Halifax, 44.6500, -63.6000
+Halkirk, 52.2833, -112.1500
+Hall Beach, 68.7667, -81.2000
+Hallebourg, 49.6667, -83.5167
+Halls Town, 47.5333, -53.3167
+Halton Hills, 43.6167, -79.9333
+Ham Nord, 45.9000, -71.6500
+Ham Sud, 45.7667, -71.6000
+Hamilton(Ontario), 43.2500, -79.8500
+Hamilton(Prince Edward Island), 46.5000, -63.7000
+Hamilton Subdivision, 43.5833, -80.2833
+Hamiota, 50.1833, -100.6000
+Hammond, 45.4333, -75.2333
+Hammonds Plains, 44.7333, -63.7833
+Hammonds Plains Road, 44.7167, -63.7333
+Hampden, 49.5500, -56.8500
+Hampstead(Quebec), 45.4833, -73.6333
+Hampstead(New Brunswick), 45.6167, -66.0833
+Hampton(Nova Scotia), 44.9000, -65.3500
+Hampton(Prince Edward Island), 46.2167, -63.4667
+Hampton(New Brunswick), 45.5333, -65.8500
+Hampton(Ontario), 43.9667, -78.7500
+Hanceville, 51.9167, -123.0500
+Handsworth, 49.8000, -103.0000
+Haney, 49.2167, -122.6000
+Haneytown, 45.8000, -66.4667
+Hanley, 51.6167, -106.4500
+Hanmer, 46.5000, -80.9333
+Hanna, 51.6333, -111.9000
+Hanover, 44.1500, -81.0333
+Hansard, 54.0833, -121.8667
+Hant's Harbour, 48.0167, -53.2667
+Hants Border, 45.0667, -64.1833
+Hantsport, 45.0667, -64.1833
+Happy Adventure, 48.6333, -53.7667
+Happy Valley, 53.3000, -60.3667
+Harbour Breton, 47.4833, -55.8000
+Harbour Buffett, 47.5167, -54.0833
+Harbour Deep, 50.3667, -56.5167
+Harbour Grace, 47.7000, -53.2167
+Harbour Grace South, 47.6667, -53.2000
+Harbour Le Cou, 47.6167, -58.6833
+Harbour Main, 47.4333, -53.1667
+Harbour Mille, 47.5833, -54.7167
+Harbour Round, 49.9167, -55.7333
+Harbourview, 45.9833, -61.5167
+Harbourville, 45.1500, -64.8167
+Harcourt(Ontario), 45.0833, -78.1500
+Harcourt(Newfoundland and Labrador), 48.2000, -53.8667
+Harcourt(New Brunswick), 46.4667, -65.2500
+Hardieville, 49.7500, -112.8500
+Hardings Point, 45.3500, -66.2167
+Hardisty, 52.6667, -111.3000
+Hardwood Lands, 45.0333, -63.5167
+Hardwood Ridge, 46.1500, -66.0333
+Hare Bay, 48.8500, -54.0167
+Harmony(Kings County), 44.9500, -64.8667
+Harmony(Colchester County), 45.3333, -63.2167
+Harmony Mills, 44.4000, -65.0667
+Harpurhey, 43.5500, -81.4167
+Harrietsfield, 44.5667, -63.6333
+Harrietsville, 42.9167, -81.0000
+Harrington(Prince Edward Island), 46.3500, -63.1667
+Harrington(QUebec), 45.8333, -74.6667
+Harrington Harbour, 50.5000, -59.4833
+Harris, 51.7333, -107.5833
+Harrisburg, 43.2333, -80.2167
+Harrison Hot Springs, 49.3000, -121.7833
+Harrison Mills, 49.2333, -121.9500
+Harrison, Cape, 54.9167, -57.9167
+Harriston, 43.9000, -80.8833
+Harrow, 42.0333, -82.9167
+Harrowsmith, 44.4000, -76.6667
+Harry's Harbour, 49.7000, -55.9167
+Hartington, 44.4333, -76.6667
+Hartland, 46.3000, -67.5333
+Hartley Bay, 53.4167, -129.2500
+Hartney, 49.4667, -100.5000
+Hartville, 44.9500, -64.0333
+Harty, 49.4833, -82.6833
+Harvey(York County), 45.7333, -67.0000
+Harvey(Albert County), 45.7167, -64.7167
+Harvie Heights, 51.1167, -115.3833
+Harwood, 44.1333, -78.1833
+Hassett, 44.3500, -65.9333
+Hastings, 44.3000, -77.9500
+Hatchet Cove, 48.0333, -53.8000
+Hatchet Lake, 44.5833, -63.6667
+Hatfield Point, 45.6500, -65.8667
+Hatley, 45.1833, -71.9333
+Hatzic, 49.1500, -122.2500
+Hatzic Island, 49.1667, -122.2500
+Hatzic Prairie, 49.1667, -122.2500
+Haut Lamèque, 47.7833, -64.6167
+Haut Paquetville, 47.6667, -65.1500
+Haut Shippegan, 47.7500, -64.7667
+Haut St Antoine, 46.3667, -64.7833
+Haut Ste Rose, 47.6167, -64.9833
+Haute Aboujagane, 46.1500, -64.4000
+Hauterive, 49.2000, -68.2667
+Havelock(Ontario), 44.4333, -77.8833
+Havelock(New Brunswick), 46.0000, -65.3167
+Havre Aubert, 47.2333, -61.8500
+Havre aux Maisons, 47.4000, -61.8000
+Havre Boucher, 45.6833, -61.5333
+Havre St Pierre, 50.2333, -63.6000
+Hawarden, 51.3833, -106.6000
+Hawk Junction, 48.0833, -84.5667
+Hawk Lake, 49.8000, -93.9833
+Hawke's Bay, 50.6000, -57.1500
+Hawkesbury, 45.6000, -74.6167
+Hawkestone, 44.5000, -79.4667
+Hawkesville, 43.5500, -80.6333
+Hay Lake, 58.7500, -118.7000
+Hay Lakes, 53.2167, -113.0500
+Hay River, 60.8500, -115.6667
+Hayesville, 46.5167, -66.5167
+Hays, 50.1000, -111.8000
+Haywood, 49.6667, -98.2000
+Hazel Hill, 45.3333, -61.0333
+Hazelbrook, 46.2167, -63.0000
+Hazeldean, 46.9500, -67.5333
+Hazelton, 55.2500, -127.6667
+Hazenmore, 49.7000, -107.1333
+Hazlet, 50.4167, -108.6000
+Head of Bay d'Espoir, 47.9333, -55.7500
+Head of Chezzetcook, 44.7500, -63.2500
+Head of Jeddore, 44.7833, -63.0667
+Head of St Margarets Bay, 44.6833, -63.9167
+Headwaters Ranch, 57.0000, -122.6333
+Hearst, 49.6833, -83.6667
+Heart's Content, 47.8833, -53.3667
+Heart's Delight, 47.7667, -53.4667
+Heart's Desire, 47.8167, -53.4500
+Hearts Desire, 45.2667, -75.7167
+Heathcote, 44.5000, -80.4833
+Heatherton(Nova Scotia), 45.5833, -61.7833
+Heatherton(Newfoundland and Labrador), 48.2833, -58.7500
+Hebbs Cross, 44.3000, -64.5667
+Hebbville, 44.3500, -64.5333
+Hebron(Nova Scotia), 43.8833, -66.0833
+Hebron(Newfoundland and Labrador), 58.3333, -62.7500
+Hectanooga, 44.1000, -66.0333
+Hedley, 49.3500, -120.0667
+Heidelberg, 43.5167, -80.6167
+Heisler, 52.6833, -112.2167
+Hemford, 44.5000, -64.7833
+Hemmingford, 45.0500, -73.5833
+Hendrix Lake, 52.1000, -120.8000
+Henryville, 45.1333, -73.1833
+Hensall, 43.4333, -81.5000
+Hepburn, 52.5167, -106.7167
+Hepworth, 44.6167, -81.1500
+Herb Lake, 54.7833, -99.7833
+Herbert, 50.4333, -107.2000
+Herman Brothers Trailer Court, 50.3500, -104.7167
+Hermitage, 47.5500, -55.9333
+Heron Bay, 48.6667, -86.2833
+Herring Cove, 44.5667, -63.5667
+Herschel, 51.6333, -108.3500
+Hervey Jonction, 46.8500, -72.4667
+Hespeler, 43.4333, -80.3000
+Hesson, 43.6333, -80.8000
+Heyden, 46.6500, -84.3000
+Hiawatha, 44.1833, -78.2167
+Hiawatha Park, 45.4667, -75.5333
+Hibbs Cove, 47.6000, -53.1833
+Hickman's Harbour, 48.1000, -53.7333
+Hickson, 43.2333, -80.8000
+Hideway Trailer Court, 50.9833, -118.1833
+High Bluff, 50.0167, -98.1333
+High Level, 58.5167, -117.1333
+High Prairie, 55.4333, -116.4833
+High River, 50.5833, -113.8667
+Highfield, 46.2833, -63.1667
+Highgate, 42.5000, -81.8167
+Highland Acres, 45.8833, -66.6833
+Highland Park Subdivision, 44.3667, -79.6667
+Highland Point, 44.7833, -79.9333
+Highlands, 48.1667, -58.9333
+Highwater, 45.0167, -72.4333
+Hilda, 50.4667, -110.0500
+Hilden, 45.3000, -63.3000
+Hill Spring, 49.2833, -113.6333
+Hillandale, 46.7167, -67.7333
+Hillcrest, 42.8333, -80.3333
+Hillcrest Mines, 49.5667, -114.3833
+Hillgrade, 49.5667, -54.7000
+Hillgrove, 44.5500, -65.7833
+Hills, 50.1000, -117.4833
+Hillsborough, 45.9333, -64.6500
+Hillsborough Park, 46.2667, -63.1000
+Hillsburgh, 43.7833, -80.1500
+Hillsburn, 44.8000, -65.5667
+Hillsdale(New Brunswick), 45.5333, -65.5667
+Hillsdale(Ontario), 44.5833, -79.7500
+Hillside, 45.6167, -62.6333
+Hillside Boularderie, 46.2333, -60.3833
+Hillside Gardens, 45.2333, -75.7167
+Hillsport, 49.4500, -85.5500
+Hillsvale, 50.4667, -99.8167
+Hilltown, 44.3167, -65.9000
+Hillview, 48.0333, -53.9167
+Hilton Beach, 46.2500, -83.8833
+Hines Creek, 56.2500, -118.6000
+Hinton, 53.4167, -117.5667
+Hixon, 53.4500, -122.6000
+Hochfeld, 49.0833, -97.9333
+Hockley, 44.0167, -79.9667
+Hodge's Cove, 48.0167, -53.7500
+Hodgeville, 50.1333, -106.9667
+Hodgson, 51.2167, -97.5667
+Hoffman, 45.8833, -77.2500
+Hogan's Pond, 47.5833, -52.8500
+Holberg, 50.6500, -128.0000
+Holberg Military Reserve, 50.6333, -128.0667
+Holden, 53.2333, -112.2333
+Holdfast, 50.9667, -105.4167
+Hole or Hollow Water, 51.1667, -96.2667
+Holland, 49.5333, -98.9167
+Holland Centre, 44.4000, -80.8000
+Holland Landing, 44.1000, -79.4833
+Holleford, 44.4500, -76.6167
+Holman, 70.7333, -117.7333
+Holman Island, 70.7167, -117.7167
+Holmesville, 46.5833, -67.6167
+Holstein, 44.0500, -80.7500
+Holton, 54.6667, -57.4167
+Holtville, 46.5167, -66.4833
+Holtyre, 48.4667, -80.2833
+Holyrood, 47.3833, -53.1333
+Hondo, 55.0667, -114.0333
+Honey Harbour, 44.8667, -79.8167
+Honeygables, 45.2833, -75.7000
+Honeymoon Bay, 48.8167, -124.1667
+Honeywell Corners, 44.2333, -77.3667
+Honeywood, 44.2167, -80.1833
+Honfleur, 46.6500, -70.8833
+Hooping Harbour, 50.6167, -56.2833
+Hope, 49.3833, -121.4333
+Hope Town, 48.0500, -65.1667
+Hopeall, 47.6167, -53.5167
+Hopedale, 55.4667, -60.2167
+Hopewell, 45.4833, -62.7000
+Hopewell Cape, 45.8500, -64.5833
+Hopewell Hill, 45.7667, -64.6833
+Hopkins Landing, 49.4333, -123.4833
+Hornby, 43.5667, -79.8333
+Hornby Island, 49.5167, -124.7000
+Horne Settlement, 44.9500, -63.5667
+Hornepayne, 49.2167, -84.7833
+Hornes Road, 46.0500, -60.0333
+Horning's Mills, 44.1500, -80.2000
+Horsefly, 52.3333, -121.4000
+Hortonville, 45.1167, -64.2833
+Horwood, 49.4500, -54.5333
+Horwood North, 49.4667, -54.5333
+Hosmer, 49.5833, -114.9500
+Hosmer Trailer Park, 49.6000, -114.9167
+Houston, 54.4000, -126.6333
+Howard, 46.6667, -65.7833
+Howick, 45.1833, -73.8500
+Howie Centre, 46.0833, -60.2500
+Howlan, 46.7333, -64.2167
+Howley, 49.1667, -57.1167
+Howser, 50.3000, -116.9500
+Hubbards, 44.6333, -64.0667
+Hubbards Point, 43.8333, -65.9833
+Hubble Lake Subdivision, 53.5500, -114.0667
+Huberdeau, 45.9667, -74.6333
+Hubley Station, 44.6667, -63.8167
+Hudson(Ontario), 50.0833, -92.1667
+Hudson(Quebec), 45.4500, -74.1500
+Hudson Bay, 52.8667, -102.4167
+Hudson Hope, 56.0333, -121.9167
+Hudson's Hope, 56.0167, -121.9000
+Hughenden, 52.5167, -110.9833
+Hughes Brook, 49.0500, -57.8667
+Hull, 45.4333, -75.7167
+Humboldt, 52.2000, -105.1167
+Humphrey Corner, 46.1833, -65.9833
+Hunter River, 46.3500, -63.3500
+Hunterstown, 46.4500, -73.0167
+Huntingdon, 49.0000, -122.2667
+Huntingdon, 45.0833, -74.1667
+Huntingford, 43.2000, -80.7833
+Huntingville, 45.3333, -71.8500
+Huntley, 46.8500, -64.0833
+Hunts Point, 43.9500, -64.7833
+Huntsville, 45.3333, -79.2167
+Huron Park, 43.2833, -81.4833
+Hussar, 51.0500, -112.6833
+Huttonsville, 43.6333, -79.8000
+Huxley, 51.9333, -113.2333
+Hyas, 51.9000, -102.2667
+Hybord, 53.1667, -99.2833
+Hyde Park, 43.0000, -81.3333
+Hydraulic, 52.6000, -121.7000
+Hyndford, 45.4833, -76.9833
+Hythe, 55.3333, -119.5500
+Hébertville, 48.4000, -71.6833
+Hébertville Station, 48.4500, -71.6667
+Hérouxville, 46.6667, -72.6167

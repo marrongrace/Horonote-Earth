@@ -1,0 +1,618 @@
+Babine, 55.3167, -126.6167
+Back Bay, 45.0500, -66.8667
+Back Centre, 44.3667, -64.3667
+Bacon Ridge, 51.0000, -99.0167
+Baddeck, 46.1167, -60.7500
+Baddeck Bay, 46.1333, -60.7000
+Baden, 43.4000, -80.6500
+Badger, 48.9833, -56.0333
+Badger's Quay, 49.1167, -53.6000
+Bagotville, 48.3500, -70.8833
+Baie Comeau, 49.2167, -68.1667
+Baie d'Urfé, 45.4167, -73.9167
+Baie de Shawinigan, 46.5667, -72.7500
+Baie des Bacon, 48.5167, -69.2667
+Baie des Ha! Ha!, 50.9333, -58.9333
+Baie des Homards, 49.8000, -67.1500
+Baie des Moutons > Mutton Bay, 50.7833, -59.0333
+Baie des Sables, 48.7167, -67.8500
+Baie du Renard, 49.2833, -61.8333
+Baie Johan Beetz, 50.2833, -62.8000
+Baie St Claire, 49.9000, -64.5000
+Baie St Paul, 47.4500, -70.5000
+Baie Ste Anne, 47.0500, -64.9500
+Baie Ste Catherine, 48.1000, -69.7333
+Baie Trinité, 49.4167, -67.3000
+Baie Verte(New Brunswick), 46.0167, -64.1000
+Baie Verte(Newfoundland and Labrador), 49.9333, -56.1833
+Baieville, 46.1333, -72.7167
+Bailieboro, 44.1333, -78.3500
+Baine Harbour, 47.3667, -54.9000
+Baker Brook, 47.3000, -68.5167
+Baker Lake, 64.2500, -96.0000
+Bakers Settlement, 44.4000, -64.6833
+Bala, 45.0167, -79.6167
+Balcarres, 50.8000, -103.5500
+Baldur, 49.3833, -99.2500
+Baldwin, 44.2667, -79.3500
+Baldy Hughes, 53.6333, -123.0000
+Balfour, 49.6167, -116.9667
+Balfron, 45.6667, -63.2333
+Balgonie, 50.4833, -104.2667
+Ballydown Beach, 44.2500, -79.5333
+Balm Beach, 44.7000, -80.0000
+Balmertown, 51.0667, -93.7333
+Balmoral(Manitoba), 50.2500, -97.3167
+Balmoral(New Brunswick), 47.9667, -66.4500
+Balsam Creek, 46.4167, -79.2000
+Baltimore, 44.0333, -78.1500
+Balzac, 51.1667, -114.0167
+Bamberton, 48.5833, -123.5167
+Bamfield, 48.8333, -125.1333
+Bancroft, 45.0500, -77.8500
+Banff, 51.1667, -115.5667
+Bangor, 46.3667, -62.6833
+Bannockburn, 44.6500, -77.5500
+Bar de Cocagne, 46.4167, -64.6167
+Barachois, 46.2167, -64.4333
+Barachois Brook, 48.4500, -58.4333
+Barber's Beach, 43.4167, -80.2667
+Bareneed, 47.5833, -53.2500
+Barkerville, 53.0667, -121.5167
+Barlow, 53.0500, -122.4000
+Barnesville, 45.4500, -65.7333
+Barnettville, 46.7667, -65.8000
+Barnston, 45.1000, -71.8833
+Barnston Island, 49.2000, -122.7167
+Barnwell, 49.7667, -112.2500
+Barons, 50.0000, -113.0833
+Barr Haven, 45.2833, -75.7500
+Barr'd Islands, 49.7333, -54.1833
+Barraute, 48.4333, -77.6333
+Barrhead, 54.1333, -114.4000
+Barrie, 44.4000, -79.6667
+Barriefield, 44.2333, -76.4667
+Barrington, 43.5667, -65.5667
+Barrington Passage, 43.5333, -65.6167
+Barrière, 51.1833, -120.1167
+Barrows, 52.8167, -101.4500
+Barry Heights, 44.1167, -77.6167
+Barrys Bay, 45.4833, -77.6833
+Barryville, 47.1500, -65.2500
+Barsa Subdivision, 45.3667, -65.9667
+Barss Corner, 44.5667, -64.6833
+Bartibog Bridge, 47.1000, -65.3500
+Bartletts Harbour, 50.9500, -57.0000
+Barton, 44.5333, -65.8667
+Bas Caraquet, 47.8000, -64.8333
+Bas de la Baie, 47.4167, -70.5167
+Bashaw, 52.5833, -112.9667
+Bass Lake Estates, 44.6167, -79.5000
+Bass River, 45.4167, -63.7833
+Bassano, 50.7833, -112.4667
+Basse Aboujagane, 46.1500, -64.4167
+Bassin, 47.2167, -61.9333
+Batawa, 44.1667, -77.6000
+Batchawana Bay, 46.9333, -84.6000
+Bates Beach, 49.7667, -124.9667
+Bateston, 46.0000, -59.9000
+Bath(New Brunswick), 46.5167, -67.6000
+Bath(Ontario), 44.1833, -76.7833
+Bathurst, 47.6000, -65.6500
+Bathurst Inlet, 66.8333, -108.0167
+Batiscan, 46.5000, -72.2500
+Battersea, 44.4333, -76.3833
+Battle Harbour, 52.2667, -55.5833
+Battleford, 52.7333, -108.3167
+Bauline, 47.7167, -52.8333
+Bawlf, 52.9167, -112.4667
+Baxter, 44.2500, -79.8333
+Baxters Corner, 45.3833, -65.8167
+Baxters Harbour, 45.2167, -64.5167
+Bay Bulls, 47.3167, -52.8167
+Bay de Verde, 48.0833, -52.9000
+Bay L'Argent, 47.5500, -54.9000
+Bay Roberts, 47.6000, -53.2667
+Bay St Lawrence, 47.0000, -60.4667
+Bay View, 45.7167, -62.6667
+Bayfield(Ontario), 43.5667, -81.7000
+Bayfield(Nova Scotia), 45.6333, -61.7500
+Bayfield(New Brunswick), 46.1333, -63.8167
+Bayhead, 45.7333, -63.3667
+Baynes Lake, 49.2333, -115.2167
+Bayport, 44.3167, -64.3167
+Bayshore Estates, 44.3500, -79.6167
+Bayside(Nova Scotia), 44.5333, -63.8000
+Bayside(New Brunswick), 45.1333, -67.1167
+Bayside(Ontario), 44.1167, -77.5000
+Baysville, 45.1500, -79.1167
+Beach Meadows, 44.0667, -64.6333
+Beach Point, 46.0167, -62.4833
+Beachburg, 45.7333, -76.8500
+Beachcomber, 49.3167, -124.1833
+Beachville, 43.0833, -80.8167
+Beaconsfield(Nova Scotia), 44.8500, -65.3333
+Beaconsfield(Quebec), 45.4333, -73.8333
+Bear Cove(White Bay), 49.6000, -57.9333
+Bear Cove(Northern Peninsula), 51.2667, -56.7667
+Bear Island, 46.9833, -80.0500
+Bear Lake(Prince George), 54.4667, -122.6667
+Bear Lake(North Central), 56.1833, -126.8500
+Bear Point, 43.4833, -65.6667
+Bear River(Prince Edward Island), 46.4000, -62.3500
+Bear River(Nova Scotia), 44.5667, -65.6500
+Bear River East, 44.6000, -65.6000
+Beardmore, 49.6000, -87.9500
+Beardy and Okemasis, 52.8167, -106.3333
+Bearskin Lake, 53.9167, -90.9000
+Beaton, 50.7333, -117.7333
+Beattyville, 48.8833, -77.1333
+Beaubois, 47.5167, -65.3000
+Beaucanton, 49.0333, -79.2500
+Beauceville, 46.2000, -70.7833
+Beauceville Est, 46.2000, -70.7667
+Beaudry, 48.1167, -79.1500
+Beauharnois, 45.3167, -73.8667
+Beaulac, 45.8333, -71.3833
+Beaulieu, 46.8500, -71.1333
+Beaumont(Alberta), 53.3500, -113.4167
+Beaumont(Quebec), 46.8333, -71.0167
+Beaumont(Newfoundland and Labrador), 49.5667, -55.6000
+Beauport, 46.8667, -71.1833
+Beaupré, 47.0500, -70.9000
+Beaurivage, 46.4167, -71.2333
+Beauséjour, 50.0667, -96.5500
+Beauval, 55.1500, -107.6167
+Beaver Brook, 45.3167, -63.4167
+Beaver Brook Station, 47.1333, -65.6000
+Beaver Creek(Yukon), 62.3667, -140.8667
+Beaver Creek(British Columbia), 49.5000, -124.9000
+Beaver Falls, 49.0833, -117.5833
+Beaver Harbour, 45.0667, -66.7500
+Beaver Lake, 54.6667, -111.8667
+Beaver River, 44.0167, -66.1500
+Beaverbank, 44.8000, -63.6833
+Beaverbank Villa, 44.9000, -63.7167
+Beaverdell, 49.4333, -119.0833
+Beaverlodge, 55.2167, -119.4333
+Beaverton, 44.4333, -79.1500
+Becketville, 47.9000, -66.0000
+Bedeque, 46.3333, -63.7333
+Bedford, 45.1167, -72.9833
+Bedford Station, 46.3333, -63.0167
+Beebe, 45.0167, -72.1500
+Beebe Plain, 45.0167, -72.1500
+Beechville, 44.6333, -63.6833
+Beechwood, 46.5500, -67.6667
+Beechy, 50.8500, -107.4167
+Beeton, 44.0833, -79.7833
+Beiseker, 51.3833, -113.5333
+Belcourt, 48.4000, -77.3500
+Belgrave, 43.8167, -81.3667
+Bell Ewart, 44.2667, -79.5500
+Bella Bella, 52.1500, -128.1167
+Bella Coola, 52.3667, -126.7667
+Bellarmin, 45.7500, -70.5833
+Bellburns, 50.3333, -57.5333
+Bellcreft, 42.0167, -82.9667
+Belle Air Beach, 44.2833, -79.5333
+Belle Côte, 46.4500, -61.1000
+Belle Island, 51.9167, -55.3333
+Belle Isle, 51.9167, -55.3333
+Belle Marche, 46.6167, -60.9833
+Belle Plaine, 50.4000, -105.1500
+Belle River(Prince Edward Island), 45.9833, -62.8333
+Belle River(Ontario), 42.3000, -82.7167
+Belle Vallée, 47.6500, -79.5833
+Belledune, 47.9000, -65.8667
+Bellefeuille, 45.7833, -74.0833
+Bellefond, 47.1167, -65.6500
+Belleisle, 44.8000, -65.4000
+Belleisle Creek, 45.7167, -65.7500
+Belleoram, 47.5167, -55.4167
+Belleterre, 47.3833, -78.7000
+Belleville(Nova Scotia), 43.8667, -65.9333
+Belleville(Ontario), 44.1667, -77.3833
+Bellevue(Alberta), 49.5833, -114.3667
+Bellevue(Quebec), 48.6667, -72.4500
+Bellevue(Ontario), 46.7000, -84.2167
+Bellevue(Newfoundland and Labrador), 47.6333, -53.7333
+Bellin, 60.0167, -70.0167
+Belliveaus Cove, 44.3833, -66.0500
+Bells Corners, 45.3167, -75.8333
+Belmont(Ontario), 42.8833, -81.0833
+Belmont(Manitoba), 49.4000, -99.4500
+Belmont(Colchester,Nova Scotia), 45.0167, -64.0333
+Belmont((Hants,Nova Scotia), 45.4167, -63.3833
+Belmont Lot Sixteen, 46.4833, -63.8167
+Belmont Park, 48.4333, -123.4667
+Beloeil, 45.5667, -73.2000
+Belvedere Heights, 45.3500, -71.8833
+Belwood, 43.7833, -80.3167
+Ben Eoin, 45.9667, -60.4333
+Bengough, 49.4000, -105.1333
+Benito, 51.9167, -101.5167
+Benjamin River, 47.9667, -66.1667
+Benoit's Cove, 49.0167, -58.1333
+Bentley, 52.4667, -114.0667
+Benton(New Brunswick), 45.9833, -67.6000
+Benton(Newfoundland and Labrador), 48.9000, -54.4167
+Berens River, 52.3667, -97.0333
+Beresford, 47.7000, -65.7000
+Berkeley, 44.3667, -80.7167
+Bernierville(St Ferdinand), 46.1000, -71.5667
+Berry Head, 48.5500, -58.7167
+Berry Mills, 46.1167, -64.9500
+Bersimis, 48.9333, -68.6667
+Berthier sur Mer, 46.9167, -70.7333
+Berthierville, 46.0833, -73.1667
+Bertrand, 47.7500, -65.0667
+Berwick(Nova Scotia), 45.0500, -64.7333
+Berwick(Onario), 45.1833, -75.1167
+Berwick(New Brunswick), 45.7833, -65.6000
+Berwyn, 56.1500, -117.7333
+Bethany, 44.1833, -78.5667
+Bethune, 50.7167, -105.1333
+Betsiamites, 48.9333, -68.6333
+Beverley Hills, 44.2000, -79.4833
+Beverley Isles, 44.2000, -79.4667
+Bewdley, 44.0833, -78.3167
+Bible Hill, 45.3667, -63.2833
+Bic, 48.3667, -68.7000
+Bickerton West, 45.1000, -61.7333
+Bide Arm, 50.8167, -56.1000
+Bideford, 46.6000, -63.9167
+Biencourt, 47.9333, -68.6000
+Bienfait, 49.1333, -102.7833
+Bienvenu, 48.8000, -79.2333
+Big Bar Creek, 51.2000, -122.1000
+Big Beaver, 49.1333, -105.1667
+Big Bras d'Or, 46.2667, -60.4333
+Big Creek, 51.7333, -123.0500
+Big Eddy, 50.9833, -118.2333
+Big Grassy River, 49.0500, -94.3333
+Big Island, 44.1167, -77.2333
+Big Pond(Newfoundland and Labrador), 47.4167, -52.7667
+Big Pond(Nova Scotia), 45.9000, -60.5333
+Big Prairie, 55.7667, -116.3000
+Big Ridge, 45.9500, -60.2167
+Big River, 53.8333, -107.0167
+Big River Indian Reserve, 53.5667, -107.1667
+Big Trout Lake, 53.8167, -89.8333
+Big Valley, 52.0333, -112.7667
+Biggar, 52.0667, -108.0000
+Bighead, 54.4167, -109.5833
+Billtown, 45.1167, -64.5667
+Binbrook, 43.1167, -79.8000
+Bindloss, 50.8667, -110.2667
+Bingham, 45.4333, -74.2833
+Binscarth, 50.6167, -101.2667
+Birch Grove, 46.1167, -59.9500
+Birch Hills, 52.9833, -105.4167
+Birch Island, 51.6000, -119.9167
+Birch River, 52.3833, -101.1000
+Birchtown, 43.7500, -65.3833
+Birchy Bay, 49.3500, -54.7333
+Birchy Head, 49.4500, -57.9000
+Bird Cove, 51.0500, -56.9333
+Birds Hill, 49.9833, -97.0000
+Birdtail Creek, 50.2833, -101.1500
+Birken, 50.4833, -122.6000
+Birr, 43.1167, -81.3333
+Birsay, 51.1000, -106.9833
+Birtle, 50.4167, -101.0500
+Bishop's Cove, 47.6333, -53.2167
+Bishop's Falls, 49.0167, -55.5000
+Bishopton, 45.5833, -71.5833
+Bissett, 51.0333, -95.6667
+Bjorkdale, 52.7167, -103.6500
+Black Creek(Niagara,Ontario), 43.0000, -79.0167
+Black Creek(British Columbia), 49.8333, -125.1333
+Black Creek(Northumberland,Ontario), 43.9667, -77.0333
+Black Diamond, 50.7000, -114.2333
+Black Duck, 48.5833, -58.3833
+Black Duck Brook, 48.7000, -58.9000
+Black Duck Cove, 51.2000, -56.8000
+Black Hawk, 48.8000, -93.9833
+Black Hills, 63.4833, -138.8667
+Black Lake, 46.0500, -71.3500
+Black Point(Nova Scotia), 44.6500, -63.9833
+Black Point(New Brunswick), 47.9333, -66.1000
+Black River(Manitoba), 50.8333, -96.3167
+Black River(Nova Scotia), 45.0167, -64.4167
+Black Tickle, 53.4667, -55.7500
+Blackburn, 45.4333, -75.5500
+Blackburn Hamlet, 45.4333, -75.5667
+Blacketts Lake, 46.0667, -60.3333
+Blackfalds, 52.3833, -113.7833
+Blackfoot, 53.2833, -110.1667
+Blackfoot Indian Reserve, 50.7500, -112.9167
+Blackie, 50.6000, -113.6167
+Blacks Harbour, 45.0500, -66.7833
+Blackstock, 44.1000, -78.8167
+Blackstock Subdivision, 51.6333, -121.2000
+Blackville, 46.7333, -65.8333
+Blackwell, 43.0167, -82.3167
+Bladworth, 51.3000, -106.1500
+Blaine Lake, 52.8333, -106.9000
+Blaineys, 48.8833, -123.7833
+Blainville, 45.6667, -73.8833
+Blair, 43.3833, -80.3833
+Blairmore, 49.6000, -114.4333
+Blaketown, 47.4833, -53.5667
+Blanc Sablon, 51.4167, -57.1167
+Blanchard Settlement, 47.7333, -64.9000
+Blandford(Quebec), 46.2500, -72.0000
+Blandford(Nova Scotia), 44.4833, -64.1167
+Blenheim, 42.3333, -82.0000
+Blewett, 49.4667, -117.4167
+Blind Bay, 50.8833, -119.3833
+Blind River, 46.1667, -82.9667
+Blissfield, 46.5833, -66.0500
+Blockhouse, 44.4500, -64.4167
+Bloedel, 50.1167, -125.3833
+Blood Indian Reserve, 49.4167, -113.1667
+Bloodvein River, 51.7500, -96.7000
+Bloomfield(Newfoundland and Larador), 48.3833, -53.9000
+Bloomfield(Ontario), 43.9833, -77.2333
+Bloomfield Corner, 46.7667, -64.1833
+Bloomfield Ridge, 46.4833, -66.4833
+Bloomingdale, 43.5167, -80.4500
+Blow Me Down, 47.6000, -53.1833
+Blue Jay Subdivision, 50.2833, -119.2667
+Blue Mountain, 45.4833, -62.4333
+Blue Ridge, 54.1333, -115.3667
+Blue River, 52.0833, -119.2833
+Blue Rocks, 44.3500, -64.2500
+Blue Sea Lake, 46.1833, -76.0667
+Blueberry Creek, 49.2500, -117.6500
+Blues Mills, 45.9333, -61.1833
+Bluesky, 56.0667, -118.2333
+Bluevale, 43.8500, -81.2500
+Bluff Head Cove, 49.6333, -54.7667
+Bluffton, 52.7000, -114.3000
+Blumenfeld, 49.0500, -97.9667
+Blumenhof, 50.0167, -107.6833
+Blumenort(Hanover,Manitoba), 49.6000, -96.7000
+Blumenort(Division No.2,Manitoba), 49.0000, -97.6500
+Blyth, 43.7333, -81.4333
+Blytheswood, 42.1167, -82.6000
+Boat Basin, 49.4833, -126.4167
+Boat Harbour West, 47.4333, -54.8333
+Bobcaygeon, 44.5500, -78.5500
+Boiestown, 46.4500, -66.4167
+Boiler Beach, 44.1500, -81.6667
+Bois Blanc, 47.6167, -65.0833
+Bois des Filion, 45.6667, -73.7500
+Bois Franc, 46.5000, -75.9833
+Bois Gagnon, 47.5167, -65.1667
+Boisbriand, 45.6167, -73.8333
+Boischâtel, 46.9000, -71.1333
+Boisdale, 46.1000, -60.5000
+Boissevain, 49.2333, -100.0500
+Bolduc, 45.9667, -70.6500
+Bolton, 43.8833, -79.7333
+Bolton Centre, 45.2000, -72.3500
+Bon Accord, 53.8333, -113.4167
+Bon Secours Beach, 44.3333, -79.5333
+Bonanza, 63.9167, -139.3167
+Bonaventure, 48.0500, -65.4833
+Bonaventure Est, 48.0333, -65.4667
+Bonaventure Ouest, 48.0500, -65.4667
+Bonavista, 48.6500, -53.1167
+Bond Head, 44.0833, -79.6833
+Bonfield, 46.2333, -79.1500
+Bonne Bay > Woody Point, 49.5000, -57.9333
+Bonnyville, 54.2667, -110.7333
+Bonsecours, 45.4167, -72.2833
+Bonshaw, 46.2000, -63.3500
+Bonville, 45.1333, -74.8167
+Boom Road, 46.9500, -65.7833
+Borden(Prince Edward Island), 46.2500, -63.7000
+Borden(Saskatchewan), 52.4167, -107.2167
+Borden Military Reserve, 44.2667, -79.8833
+Boston Bar, 49.8667, -121.4333
+Boswarlos, 48.5667, -58.8167
+Botha, 52.3000, -112.5333
+Bothwell, 42.6333, -81.8667
+Botsford Portage, 46.1833, -64.2500
+Botwood, 49.1500, -55.3500
+Bouchard, 47.4833, -70.3833
+Boucher Office, 47.4333, -68.3833
+Boucherville, 45.6000, -73.4500
+Bouchette, 46.2167, -75.9667
+Boudreau, 46.2167, -64.4833
+Boundary Creek, 46.0500, -65.0000
+Bourgault, 47.2000, -70.2833
+Bourgeois, 46.3500, -64.5333
+Bourgeois Mills, 46.1667, -64.4167
+Bourget, 45.4333, -75.1500
+Boutiliers Point, 44.6500, -63.9500
+Bow Island, 49.8667, -111.3667
+Bowden, 51.9167, -114.0333
+Bowen Island, 49.3667, -123.3333
+Bowers Beach, 44.4667, -80.1500
+Bowmanville, 43.9167, -78.6833
+Bowsman, 52.2333, -101.2333
+Box Grove, 43.8500, -79.2333
+Boxey, 47.4167, -55.5667
+Boyd's Cove, 49.4500, -54.6500
+Boyle(Alberta), 54.5833, -112.8167
+Boyle(Ontario), 43.0167, -79.4167
+Boylston, 45.4333, -61.5000
+Boyne, 43.4833, -79.8333
+Bracebridge, 45.0500, -79.1667
+Brackendale, 49.7667, -123.1500
+Brackley, 46.3000, -63.1500
+Brackley Beach, 46.4167, -63.1833
+Bradford, 44.1167, -79.5667
+Bradford Marsh, 44.0833, -79.5500
+Bradner, 49.1000, -122.4167
+Brador, 51.4667, -57.2500
+Bradore Bay, 51.4667, -57.2333
+Bradwell, 51.9500, -106.2333
+Braeshore, 45.7000, -62.6500
+Braeside, 45.4667, -76.4000
+Bragg Creek, 50.9500, -114.5833
+Bralorne, 50.7833, -122.8167
+Bramalea, 43.7333, -79.7167
+Bramber, 45.1667, -64.1500
+Brampton, 43.6833, -79.7667
+Branch, 46.8833, -53.9500
+Branch LaHave, 44.4500, -64.6333
+Branchton, 43.3000, -80.2500
+Brandon, 49.8333, -99.9500
+Brantford, 43.1333, -80.2667
+Brantville, 47.3667, -64.9667
+Bras d'Or, 46.2500, -60.2833
+Brauns Island, 54.5000, -128.6333
+Breadalbane, 46.3667, -63.5000
+Breakeyville, 46.6667, -71.2333
+Breau Village, 46.3667, -64.6333
+Breault, 47.5333, -79.6667
+Brechin, 44.5333, -79.1667
+Bredenbury, 50.9500, -102.0500
+Brem River, 50.4333, -124.6500
+Bren's Cove, 49.9333, -55.7167
+Brentwood, 45.2167, -63.2833
+Brentwood Bay, 48.5833, -123.4667
+Breslau, 43.4667, -80.4167
+Brest, 46.4667, -65.0000
+Breton, 53.1167, -114.4667
+Brewers Mills, 46.0667, -67.0167
+Brickton, 44.9167, -65.1333
+Brideau Settlement, 47.3833, -64.9333
+Bridge Lake, 51.4833, -120.7167
+Bridgenorth, 44.3833, -78.3833
+Bridgeport(Newfoundland and Labrador), 49.5500, -54.8667
+Bridgeport(Ontario), 43.4833, -80.4833
+Bridgetown(Prince Edward Island), 46.3000, -62.5333
+Bridgetown(Nova Scotia), 44.8500, -65.3000
+Bridgeville, 45.4333, -62.6000
+Bridgewater, 44.3833, -64.5167
+Briercrest, 50.1667, -105.2667
+Brierly Brook, 45.6000, -62.0667
+Brig Bay, 51.0667, -56.9167
+Brigden, 42.8167, -82.2833
+Brigham, 45.2500, -72.8500
+Bright, 43.2667, -80.6500
+Brighton(Ontario), 44.0333, -77.7333
+Brighton(Nova Scotia), 44.5500, -65.8500
+Brighton(Newfoundland and Labrador), 49.5500, -55.6333
+Brights Grove, 43.0333, -82.2500
+Brigus, 47.5333, -53.2167
+Brilliant, 49.3167, -117.6333
+Brinston, 44.9333, -75.3500
+Bristol, 46.4667, -67.5833
+Bristol les Mines, 45.5000, -76.3500
+Bristol's Hope, 47.7167, -53.2000
+Britannia(Ontario), 43.6167, -79.6833
+Britannia(Newfoundland and Labrador), 48.1500, -53.7167
+Britannia Beach, 49.6333, -123.2000
+British Settlement, 45.8667, -64.4000
+Britt, 45.7667, -80.5500
+Broad Cove(Conception Bay), 47.5500, -53.5500
+Broad Cove(Trinity Bay), 47.8333, -53.1000
+Broad Cove(Nova Scotia), 44.1833, -64.4833
+Broadview, 50.3333, -102.5000
+Brochet, 57.8833, -101.6667
+Brock, 51.4500, -108.7000
+Brock Gardens, 43.2833, -80.0000
+Brocket, 49.5667, -113.7333
+Brocks Beach, 44.4500, -80.1000
+Brockville, 44.5833, -75.6833
+Broderick, 51.5000, -106.9167
+Brodhagen, 43.5500, -81.2000
+Brokenhead, 50.3500, -96.6000
+Brome, 45.2000, -72.5667
+Bromont, 45.3000, -72.6833
+Bromptonville, 45.4667, -71.9500
+Brookdale, 45.8000, -64.1667
+Brooke, 44.5833, -80.9667
+Brookfield, 45.2500, -63.2833
+Brooklin, 43.9500, -78.9500
+Brooklyn(Queens County), 44.0500, -64.7000
+Brooklyn(Yarmouth County), 43.8667, -66.0833
+Brooklyn(Annapolis County), 44.9333, -65.1333
+Brooklyn(Hants County), 45.0167, -64.0167
+Brooklyn(Newfoundand and Labrador), 48.3833, -53.8667
+Brooklyn Corner, 45.0833, -64.5833
+Brookmere, 49.8167, -120.8833
+Brooks, 50.5833, -111.8833
+Brookside, 44.5500, -63.7167
+Brossard, 45.4333, -73.4833
+Brougham, 43.9167, -79.1000
+Broughton Island > Qikiqtarjuaq, 67.5500, -64.0333
+Brouse, 50.2167, -117.7500
+Brown's Arm, 49.2500, -55.1667
+Browns Flat, 45.4667, -66.1333
+Brownsburg, 45.6833, -74.4167
+Brownsdale, 48.0333, -53.1167
+Brownsville, 42.8667, -80.8333
+Brownvale, 56.1333, -117.8833
+Bruce Mines, 46.3000, -83.8000
+Brucefield, 43.5167, -81.5167
+Brudenell, 46.1833, -62.6500
+Bruderheim, 53.7833, -112.9333
+Brule, 45.7500, -63.1667
+Brunkild, 49.6000, -97.5833
+Bruno, 52.2500, -105.5000
+Brussels, 43.7333, -81.2500
+Bryanston, 43.1167, -81.2667
+Bryants Cove, 47.6667, -53.1833
+Bryson, 45.6833, -76.6167
+Brèche à Manon, 48.4000, -64.4333
+Brébeuf, 46.0667, -74.6667
+Buchanan, 51.7167, -102.7500
+Buchans, 48.8167, -56.8667
+Buchans Junction, 48.8500, -56.4667
+Buck Lake, 52.9500, -114.7833
+Buckhorn, 44.5500, -78.3500
+Buckingham, 45.5833, -75.4167
+Buckland, 46.6167, -70.5500
+Buctouche, 46.4667, -64.7167
+Buctouche Baie, 46.5000, -64.6833
+Buffalo Narrows, 55.8500, -108.5000
+Bugeaud, 48.0500, -65.2333
+Bull Harbour, 50.9000, -127.9167
+Bullocks Corners, 43.2833, -79.9833
+Bunbury, 46.2333, -63.0833
+Bunyan's Cove, 48.4000, -54.0167
+Burdett, 49.8333, -111.5333
+Burdtt, 49.8333, -111.5333
+Burford, 43.1000, -80.4333
+Burgeo, 47.6167, -57.6167
+Burgess Subdivision, 48.1333, -80.7833
+Burgessville, 43.0167, -80.6500
+Burin, 47.0333, -55.1667
+Burk's Falls, 45.6167, -79.4000
+Burleigh Falls, 44.5667, -78.2167
+Burlington, 49.7500, -56.0333
+Burlington, 43.3167, -79.7833
+Burnaby, 49.2500, -122.9500
+Burnhamthorpe, 43.6167, -79.6000
+Burns Lake, 54.2333, -125.7667
+Burnside, 48.7167, -53.8000
+Burnsville, 47.7000, -65.1500
+Burnt Church, 47.2333, -65.1333
+Burnt Cove, 47.2000, -52.8500
+Burnt Islands, 47.6000, -58.8833
+Burnt Point, 47.9667, -53.0333
+Burnt River, 44.6833, -78.7000
+Burrard Inlet, 49.3167, -122.9833
+Burritts Rapids, 44.9833, -75.8000
+Burstall, 50.6667, -109.9000
+Burton(New Brunswick), 45.8667, -66.4500
+Burton(Prince Edward Island), 46.7667, -64.3333
+Burton(British Columbia), 49.9833, -117.9000
+Burtts Corner, 46.0500, -66.8667
+Burwash, 46.3167, -80.8000
+Burwash Landing, 61.3500, -139.0000
+Bury, 45.4667, -71.5000
+Butlerville, 47.5833, -53.3333
+Buttonville, 43.8667, -79.3667
+Byng Inlet, 45.7667, -80.5500
+Béarn, 47.2833, -79.3333
+Bécancour, 46.3333, -72.4333
+Bégin, 48.6667, -71.3333
+Bérubé, 47.0833, -70.8833
