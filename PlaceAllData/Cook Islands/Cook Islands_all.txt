@@ -1,0 +1,22 @@
+Aitutaki Island, -18.8667, -159.7500
+Arorangi, -21.2167, -159.8167
+Arutunga, -18.8833, -159.7667
+Atiu Island, -20.0167, -158.1500
+Avarua, -21.2000, -159.7667
+Avatiu, -21.2000, -159.7833
+Mangaia Island, -21.9167, -157.9167
+Manuae Island, -19.3500, -158.9333
+Matavera, -21.2167, -159.7333
+Mauke Island, -20.1500, -157.3833
+Mitiaro Island, -19.8167, -157.7167
+Muri, -21.2333, -159.7167
+Ngatangiia, -21.2333, -159.7167
+Nukuoa, -20.1333, -157.3833
+Oneroa, -21.9000, -157.9667
+Palmerston Island, -18.0667, -163.1667
+Pokoinu, -21.2000, -159.8167
+Rarotonga Island, -21.2333, -159.7667
+Suwarrow Island, -13.2500, -163.0833
+Tatutea Island, -13.2500, -163.0833
+Taunganui, -20.0167, -158.1500
+Titikaveka, -21.2500, -159.7500
