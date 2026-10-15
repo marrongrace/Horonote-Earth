@@ -1,0 +1,82 @@
+Tabernash, 39.9936, -105.8425
+Table Land, 40.8333, -102.2833
+Tabor, 40.0514, -105.0736
+Tacoma, 37.5236, -107.7814
+Tamarron, 37.2833, -107.8667
+Tampa, 40.1500, -104.4550
+Tanglewood Acres, 38.0939, -105.5611
+Tarryall, 39.1219, -105.4750
+Taylor Park, 38.6667, -106.8500
+Teds Place, 40.6639, -105.1889
+Teller County Hospital, 38.7533, -105.1817
+Telluride, 37.9375, -107.8117
+Tennyson Heights, 40.5833, -105.1000
+Tercio, 37.0519, -104.9961
+Terminal Annex, 39.7167, -104.9833
+Texas Creek, 38.4131, -105.5800
+Texas Oil Camp, 40.0833, -108.7833
+Thatcher, 37.5458, -104.1083
+The Mesa, 38.8500, -104.8667
+The Pinery, 39.5167, -104.7667
+Thistledown, 37.9936, -107.6992
+Thomasville, 39.3603, -106.7019
+Thornburgh, 40.2069, -107.6953
+Thornton, 39.8681, -104.9714
+Three Forks, 37.2767, -106.6211
+Thurman, 39.3000, -103.0667
+Tiffany, 37.0328, -107.5375
+Tijeras, 37.1258, -104.6625
+Timbers, 39.6500, -104.8500
+Timnath, 40.5292, -104.9847
+Timpas, 37.8181, -103.7736
+Tincup, 38.7544, -106.4778
+Tiny Town, 39.6042, -105.2225
+Tioga, 37.6989, -104.9269
+Tisdels Place, 40.5947, -108.7761
+Tobe, 37.2192, -103.6111
+Tobin, 40.8342, -102.8722
+Tolan Place, 39.1522, -107.4669
+Tolland, 39.9050, -105.5886
+Toltec, 37.6167, -104.7833
+Tomah, 39.3019, -104.8894
+Tomboy, 37.9367, -107.7539
+Tonnerville, 38.0667, -103.2167
+Tonville, 40.0092, -104.7033
+Toonerville, 37.7750, -103.1636
+Toponas, 40.0603, -106.8075
+Torres(Las Animas), 37.0694, -105.0556
+Torres(Rio Grande), 37.6067, -106.2039
+Towaoc, 37.2044, -108.7289
+Towner, 38.4708, -102.0792
+Trail Junction Picnic Gr, 38.9028, -104.9133
+Tranquil Acres, 39.0000, -105.0667
+Trapper, 40.1039, -106.8792
+Trilby Corner, 40.4947, -105.0769
+Trimble, 37.3903, -107.8458
+Trinchera, 37.0422, -104.0469
+Trinidad, 37.1694, -104.5000
+Troublesome, 40.0608, -106.2911
+Trout Haven, 38.9333, -105.1500
+Trout Lake, 37.8667, -107.8667
+Troutdale, 39.6369, -105.3475
+Troy, 37.2500, -103.3500
+Truckton, 38.7381, -104.1817
+Trujillo, 37.1006, -107.0464
+Trumbull, 39.2631, -105.2189
+Trump, 38.8492, -105.7878
+Tuber, 40.5311, -104.7742
+Tuckerville, 37.4925, -107.4847
+Tungsten, 39.9719, -105.4756
+Turkey Creek, 38.3833, -104.7667
+Turret, 38.6403, -105.9883
+Twelvemile Corner, 40.0733, -103.7922
+Twin Cedars, 39.3597, -105.1667
+Twin Crossing, 37.0297, -107.8778
+Twin Forks, 39.5928, -105.2192
+Twin Lakes, 39.0828, -106.3814
+Twin Mills, 40.5736, -103.1258
+Twin Rock, 38.9500, -105.2833
+Twin Spruce, 39.8892, -105.3581
+Two Butte Creek, 37.8667, -102.3167
+Two Buttes, 37.5611, -102.3972
+Tyrone, 37.4542, -104.2078

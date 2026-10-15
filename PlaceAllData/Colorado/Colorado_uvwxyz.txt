@@ -1,0 +1,166 @@
+U S Air Force Academy, 38.9833, -104.8667
+Una, 39.3997, -108.1081
+Unaweep, 38.9833, -108.4500
+Uncompahgre, 38.3781, -107.8181
+Union, 40.3767, -103.5006
+United States Army Fitzsimons General Hospital, 39.7453, -104.8367
+University Park, 39.6833, -104.9667
+Upper Saint Vrain, 40.2000, -105.5000
+Uravan, 38.3683, -108.7358
+Utah Junction, 39.8006, -104.9975
+Utaline, 39.1269, -109.0417
+Ute, 38.2556, -108.2706
+Ute Heights, 38.5333, -106.0000
+Ute Mountain, 37.1667, -108.6667
+Ute Mountain Indian Reservation, 37.2000, -108.7333
+Utleyville, 37.2711, -103.0308
+Vail, 39.6403, -106.3736
+Valdez, 37.1222, -104.7014
+Vallecito, 37.3833, -107.5833
+Valley Hi Mountain Estat, 38.9500, -105.2833
+Valley View, 38.0683, -104.9764
+Valley View Community Hospital, 39.8506, -104.9797
+Valley View Hospital, 39.5325, -107.3219
+Vallie, 38.3942, -105.7719
+Vallorso, 37.2828, -104.6444
+Valmont, 40.0319, -105.2139
+Vanadium, 37.9669, -107.9711
+Vance Junction, 37.9356, -107.8981
+Vance Place, 38.0600, -107.8408
+Vancorum, 38.2333, -108.6000
+Vastine, 37.6344, -106.1028
+Velasquez Plaza, 37.1236, -104.7819
+Venetian Village, 38.8833, -104.8000
+Vernal, 38.3897, -107.8286
+Vernon, 39.9464, -102.3150
+Veterans Hospital, 39.7325, -104.9347
+Vicksburg, 38.9992, -106.3772
+Victor, 38.7100, -105.1394
+Viejo San Acacio, 37.2028, -105.5078
+Vigil, 37.1611, -107.9411
+Vilas, 37.3736, -102.4458
+Villa Grove, 38.2486, -105.9486
+Villa Italia, 39.7000, -105.0833
+Village East, 39.7167, -104.8500
+Villegreen, 37.3058, -103.5197
+Vineland, 38.2456, -104.4589
+Viola, 37.1333, -104.6000
+Virginia Dale, 40.9547, -105.3486
+Vista Verde, 39.6167, -105.0000
+Vollmar, 40.1350, -104.8383
+Vona, 39.3036, -102.7425
+Vroman, 38.0897, -103.8097
+Vulcan, 38.3456, -107.0008
+Wagner Manor, 40.0000, -105.2667
+Wagon Wheel Gap, 37.7667, -106.8167
+Wah Keeney Park, 39.6603, -105.3400
+Wahatoya, 37.5000, -105.0000
+Wahketa Village, 40.2667, -103.8167
+Walden, 40.7317, -106.2831
+Walker, 40.2644, -104.9517
+Wallace Village, 39.8833, -105.0922
+Wallstreet, 40.0389, -105.3903
+Walnut Hills, 39.6333, -104.9833
+Walsenburg, 37.6242, -104.7797
+Walsh, 37.3861, -102.2778
+Waltonia, 40.4139, -105.3625
+Walts Corner, 37.1689, -103.8794
+Wamblee Park, 39.5000, -105.3333
+Wamblee Valley, 39.5000, -105.3333
+Wandcrest Park, 39.4356, -105.3933
+Ward, 40.0722, -105.5078
+Wareland, 39.0925, -103.2153
+Warren, 40.9597, -104.8917
+Warwick, 38.1239, -102.2736
+Waterton, 39.4936, -105.0881
+Watkins, 39.7453, -104.6069
+Watson Place, 40.8008, -108.9167
+Wattenberg, 40.0278, -104.8361
+Wauneta, 40.2931, -102.2542
+Waunita Hot Springs, 38.5142, -106.5078
+Waverly(Alamosa), 37.4297, -106.0056
+Waverly(Larimer), 40.7364, -105.0761
+Weaver, 37.8833, -106.9250
+Webster, 39.4575, -105.7197
+Weir Place, 40.2861, -108.6103
+Welby, 39.8367, -104.9586
+Weld County Public Hospital, 40.4150, -104.7081
+Weldona, 40.3461, -103.9686
+Weller, 39.4475, -105.6200
+Wellington, 40.7039, -105.0081
+Wellshire, 39.6833, -104.9333
+Wellsville, 38.4867, -105.9094
+Welty, 40.3278, -105.0172
+West Burlington, 39.3033, -102.3092
+West Creek, 39.1525, -105.1631
+West End, 38.8500, -104.8667
+West Farm, 38.0928, -102.5581
+West Vail, 39.6303, -106.4142
+West Vancorum, 38.2278, -108.6000
+West Village, 39.2000, -106.8333
+Westcliffe, 38.1347, -105.4653
+Western Hills, 39.8322, -104.9967
+Westland, 39.7500, -105.1000
+Westminster, 39.8367, -105.0367
+Westminster Plaza, 39.8333, -105.0167
+Weston, 37.1328, -104.8483
+Westplains, 40.8647, -103.4972
+Westwood, 39.7000, -105.0333
+Westwood Lake, 39.0000, -105.0667
+Wetmore, 38.2381, -105.0842
+Wezel, 38.7983, -103.4542
+Wheat Ridge, 39.7661, -105.0767
+Wheeler, 39.7500, -105.1833
+Wheeler Junction, 39.5061, -106.1417
+Wheelman, 40.0036, -105.3733
+White River City, 40.0908, -108.2236
+Whitehorn, 38.6439, -105.8778
+Whitepine, 38.5417, -106.3931
+Whiterock, 37.8658, -104.1139
+Whitewater, 38.9911, -108.4528
+Wideawake, 39.8500, -105.5211
+Widefield, 38.7333, -104.7194
+Wiggins, 40.2306, -104.0722
+Wigwam, 38.5394, -104.6350
+Wiladel, 39.7431, -103.0094
+Wild Horse(Pueblo), 38.3292, -104.6681
+Wild Horse(Cheyenne), 38.8258, -103.0111
+Wildcat, 40.2592, -104.8842
+Wiley, 38.1542, -102.7192
+Will-o-the-Wisp, 39.4614, -105.4097
+Willard, 40.5544, -103.4858
+Willey Lumber Camp, 40.5028, -105.8986
+Williamsburg, 38.3819, -105.1514
+Willow Creek, 39.6333, -104.9833
+Willow Gulch, 38.1333, -108.2833
+Willowbrook, 39.6667, -105.1167
+Wilmor, 39.6553, -106.6292
+Wilson Crossing, 37.8478, -104.5692
+Wilson Lake Estates, 38.9500, -105.2833
+Wilson Place, 40.7619, -108.8931
+Windsor, 40.4775, -104.9008
+Winfield, 38.9847, -106.4403
+Wingo, 39.3458, -107.0097
+Winter Park, 39.8833, -105.7667
+Wolcott, 39.7028, -106.6781
+Wolhurst, 39.5706, -105.0328
+Wondervu, 39.9256, -105.3944
+Woodglen, 39.8833, -104.9667
+Woodland Acres, 37.9167, -104.9333
+Woodland Park, 38.9939, -105.0564
+Woodrow, 39.9883, -103.5911
+Woody Creek, 39.2703, -106.8856
+Wootton, 36.9992, -104.4872
+Wray, 40.0758, -102.2228
+Xenia, 40.1611, -103.3444
+Yampa, 40.1525, -106.9081
+Yankee, 39.8264, -105.6233
+Yarmony, 39.8894, -106.6192
+Yellow Jacket, 37.5344, -108.7167
+Yoder, 38.8394, -104.2214
+Yorkborough, 39.8333, -104.9500
+Yorkville, 38.2922, -105.2922
+Yuma, 40.1222, -102.7247
+Zamara, 37.1539, -104.9200
+Zinzer, 37.5603, -106.0939
+Zuni, 39.8033, -105.0211

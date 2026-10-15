@@ -1,0 +1,44 @@
+Oak Creek, 40.2750, -106.9578
+Oak Grove, 38.4600, -107.9275
+Occidental, 37.5150, -105.1064
+Oehlmann Park, 39.5189, -105.2586
+Offield Place, 40.9858, -108.6625
+Ohio, 38.5667, -106.6111
+Olathe, 38.6050, -107.9817
+Old Fort Bent, 38.0406, -103.4289
+Old Fort Lyon, 38.1006, -103.1236
+Old Fort Lyons, 38.0958, -102.7722
+Old Fort Vasquez, 40.1944, -104.8206
+Old Haines Place, 38.4008, -107.1650
+Old Homestead, 40.4403, -106.1431
+Old Roach, 40.9244, -106.1167
+Old Wells, 38.9000, -102.3258
+Olinger Gardens, 39.7500, -105.0500
+Oliver, 38.9333, -107.2667
+Olney Springs, 38.1661, -103.9442
+Olson Place, 39.1458, -107.4258
+Olympus Heights, 40.3778, -105.4833
+Omega, 40.5397, -105.0800
+Ophir, 37.8569, -107.8319
+Ophir Loop, 37.8597, -107.8678
+Orchard, 40.3311, -104.1178
+Orchard City, 38.8283, -107.9703
+Orchard Corner, 38.5083, -107.7294
+Orchard Mesa, 39.0431, -108.5517
+Orchard Park, 38.4722, -105.2278
+Ordway, 38.2181, -103.7556
+Orestod, 39.8681, -106.6836
+Ormandale, 38.2500, -104.6500
+Ormega, 37.9608, -103.5858
+Oro, 39.2353, -106.2517
+Orodell, 40.0150, -105.3247
+Orr, 38.1075, -103.5347
+Orsa, 39.4222, -104.9133
+Ortiz, 37.0042, -106.0436
+Osier, 37.0133, -106.3358
+Otis, 40.1489, -102.9625
+Ouray, 38.0228, -107.6708
+Ovid, 40.9606, -102.3875
+Owl Canyon, 40.7625, -105.1750
+Oxford, 37.1689, -107.7136
+Oxyoke, 39.3031, -105.1978

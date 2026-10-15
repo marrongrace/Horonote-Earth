@@ -1,0 +1,47 @@
+Idaho Creek, 40.1222, -105.0125
+Idaho Springs, 39.7425, -105.5131
+Idalia, 39.7039, -102.2933
+Idledale, 39.6661, -105.2436
+Idylwilde, 40.7008, -105.6542
+Ignacio, 37.1150, -107.6325
+Iles Grove, 40.3353, -107.6867
+Iliff, 40.7592, -103.0661
+Ilium, 37.9297, -107.8972
+Ilse, 38.4333, -105.2167
+Independence(Pitkin), 39.1072, -106.6053
+Independence(Teller), 38.7322, -105.1361
+Indian Agency, 37.1167, -107.6333
+Indian Creek, 38.9500, -105.2833
+Indian Hills, 39.6167, -105.2333
+Indian Meadows, 40.7006, -105.5514
+Indian Springs Village, 39.4319, -105.3200
+Indians Hills, 39.6328, -105.2592
+Insmont, 39.3919, -105.4525
+Iola, 38.4833, -107.1000
+Ione, 40.1489, -104.8103
+Iris, 38.4161, -106.8283
+Iron City, 38.7086, -106.3375
+Irondale, 39.8494, -104.8967
+Ironton, 37.9328, -107.6797
+Irwin, 38.8736, -107.0964
+Ivywild, 38.8106, -104.8347
+Jack Springs, 40.3511, -108.7025
+Jackson Field, 40.4069, -104.6858
+Jamestown, 40.1156, -105.3881
+Jansen, 37.1494, -104.5383
+Jaroso, 37.0028, -105.6236
+Jasper, 37.4178, -106.4619
+Jefferson, 39.3772, -105.8000
+Jefferson Heights, 39.3833, -105.8000
+Jessica, 40.7606, -103.1714
+Jessum, 40.1389, -105.0244
+Joes, 39.6564, -102.6783
+John Held Corner, 39.1367, -108.1356
+Johnson, 40.0875, -104.4422
+Johnson Village, 38.8333, -106.1333
+Johnsons Corner, 39.0919, -108.4961
+Johnstown, 40.3369, -104.9117
+Juanita, 37.0272, -107.1500
+Juanita Junction, 38.9247, -107.5275
+Julesburg, 40.9883, -102.2639
+Juniper Hot Springs, 40.4672, -107.9531

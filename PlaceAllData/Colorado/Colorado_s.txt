@@ -1,0 +1,228 @@
+S Crossing, 37.5219, -102.9650
+Sable, 39.7664, -104.8306
+Sacramento, 39.2214, -106.1069
+Saguache, 38.0875, -106.0944
+Saints John, 39.5717, -105.8811
+Salida, 38.5347, -105.9983
+Salina, 40.0506, -105.3719
+Salt Creek, 38.2417, -104.5750
+Sample, 38.4722, -105.3550
+Sams, 38.1039, -107.9569
+San Acacio, 37.2139, -105.5639
+San Antonio, 37.0208, -106.0275
+San Francisco, 37.1500, -105.4000
+San Isabel, 37.9875, -105.0539
+San Juan, 37.1167, -104.7500
+San Luis, 37.2008, -105.4233
+San Miguel(San Miguel), 37.9469, -107.8353
+San Miguel(Las Animas), 37.0994, -104.3950
+San Pablo, 37.1492, -105.3964
+San Pedro, 37.1597, -105.4019
+Sand Park, 38.5333, -106.0000
+Sandown, 39.7725, -104.9008
+Sanford, 37.2583, -105.9042
+Sangre De Cristo Ranches, 37.4333, -105.4333
+Santa Clara, 37.4389, -104.7872
+Santa Fe Drive, 39.7333, -105.0167
+Santa Maria, 39.4497, -105.6328
+Sapinero, 38.4594, -107.3017
+Sarcillo, 37.1256, -104.7589
+Sarcillo Canon, 37.1333, -104.8000
+Sargent, 37.6833, -106.1333
+Sargents, 38.4042, -106.4144
+Sargents School, 37.5667, -106.1500
+Satank, 39.4139, -107.2278
+Saunders, 38.7603, -108.0094
+Sawpit, 37.9953, -108.0011
+Saxton, 38.7683, -107.9708
+Schofield, 39.0411, -107.0544
+Schramm, 40.1139, -102.6056
+Security, 38.7583, -104.7425
+Sedalia, 39.4369, -102.9619
+Sedgewick, 38.2792, -106.1472
+Sedgwick, 40.9364, -102.5250
+Segundo, 37.1333, -104.7500
+Seibert, 39.2992, -102.8686
+Selma, 40.7714, -103.0306
+Semper, 39.8561, -105.0642
+Sequndo, 37.1208, -104.7217
+Seven Lakes, 38.7817, -105.0081
+Sevenmile Plaza, 37.6481, -106.2369
+Severance, 40.5242, -104.8506
+Shadow Mountain, 40.2500, -105.8333
+Shaffers Crossing, 39.4786, -105.3678
+Shamballah-Ashrama, 39.3431, -105.0328
+Shamrock, 39.8853, -103.8158
+Sharpsdale, 37.7194, -105.3611
+Shauano Vista, 38.5333, -106.0000
+Shavano, 38.6028, -106.2897
+Shaw, 39.5506, -103.3603
+Shaw Heights, 39.8333, -105.0167
+Shaw Heights Mesa, 39.8333, -105.0167
+Shawnee, 39.4211, -105.5536
+Sheehan, 40.0583, -104.4417
+Sheephorn, 39.8922, -106.4664
+Shelton, 38.0833, -103.6058
+Sheridan, 39.6469, -105.0247
+Sheridan Lake, 38.4667, -102.2917
+Sherman, 37.9028, -107.4222
+Sherrelwood, 39.8333, -105.0000
+Sherrelwood Estates, 39.8333, -105.0167
+Shirley(El Paso), 38.9011, -104.6528
+Shirley(Chaffee), 38.4244, -106.1278
+Shoshone, 39.5906, -107.1858
+Sidney, 40.3869, -106.8486
+Sierra, 37.5225, -105.2689
+Sierra Vista, 37.9167, -104.9333
+Sikes, 38.2583, -105.0742
+Sillsville, 38.4467, -106.7606
+Siloam, 38.2514, -104.9753
+Silt, 39.5486, -107.6556
+Silver Cliff, 38.1353, -105.4458
+Silver Heights, 39.4181, -104.8653
+Silver Plume, 39.6961, -105.7253
+Silver Springs, 39.4592, -105.3956
+Silver Spruce, 40.0047, -105.3472
+Silverdale, 39.6917, -105.6956
+Silverthorne, 39.6375, -106.0614
+Silverton, 37.8119, -107.6639
+Simla, 39.1417, -104.0833
+Simpson(Admas), 39.5833, -104.0500
+Simpson(Las Animas), 37.4978, -104.1667
+Singleton, 39.4431, -105.6014
+Sinnard, 40.5883, -105.0028
+Skinners, 38.7689, -104.7608
+Sky Village, 39.5506, -105.2467
+Skyland Village, 39.8333, -105.0167
+Skyline, 39.6833, -104.9333
+Skyway(Mesa), 39.0500, -108.0917
+Skyway(El Paso), 38.8000, -104.8167
+Skyway Estates, 38.8000, -104.8167
+Skyway Park, 38.8000, -104.8167
+Slater, 41.0000, -107.3833
+Slick Rock, 38.0500, -108.9000
+Sloan, 40.0517, -104.4875
+Smelter Place, 40.5706, -108.6678
+Smeltertown, 38.5475, -106.0139
+Smith Hill, 39.7783, -105.4581
+Smith Place, 38.2017, -107.0592
+Sneffels, 37.9753, -107.7492
+Snow Water Springs, 39.2647, -105.2164
+Snowmass, 39.3317, -106.9856
+Snyder, 40.3292, -103.5958
+Somerset, 38.9264, -107.4697
+Sopris, 37.1347, -104.5639
+Sopris Plaza, 37.1406, -104.5750
+Sorrento, 38.7806, -102.9056
+South, 39.6667, -102.4167
+South Aurora, 39.6667, -104.8833
+South Boulder, 40.0000, -105.2667
+South Canon, 38.3667, -105.2833
+South Denver, 39.7167, -104.9667
+South Fork, 37.6700, -106.6392
+South Forty, 39.6333, -106.0667
+South Jefferson, 39.5833, -105.2000
+South Park City, 39.2333, -106.0000
+South Platte, 39.4075, -105.1708
+South Roggen, 40.1022, -104.3381
+Southern Ute Indian Reservation, 37.1167, -107.6333
+Southglenn, 39.6167, -105.0000
+Southwind, 39.6167, -105.0000
+Southwood, 39.6167, -105.0000
+Spanish Colony, 40.4000, -104.7000
+Spanish Village, 40.3844, -104.5458
+Spar City, 37.7072, -106.9678
+Sparks, 40.9181, -108.8164
+Spears Hospital, 39.7314, -104.9203
+Spencer, 38.3547, -107.1117
+Spencer Heights, 40.6742, -105.7839
+Sphinx Park, 39.4244, -105.3144
+Spicer, 40.4667, -106.4556
+Spike Buck, 38.4589, -105.4667
+Spitzie Place, 40.8694, -108.9492
+Spivak, 39.7447, -105.0675
+Spook City, 38.2300, -106.1967
+Spring Valley, 38.9333, -105.1500
+Springdale, 40.1097, -105.3578
+Springfield, 37.4083, -102.6139
+Spruce, 39.1567, -104.8778
+Sprucedale, 39.5889, -105.3517
+Sprucewood, 39.3489, -105.1203
+Squaw Point, 37.7667, -108.9000
+St Anthony Hospital, 39.7428, -105.0411
+St Anthony North Hospital, 39.8500, -105.0169
+St Charles Mesa, 38.2333, -104.5500
+St Elmo, 38.7047, -106.3475
+St Francis Hospital, 38.8325, -104.8086
+St Joseph Hospital, 39.7456, -104.9686
+St Luke Hospital, 39.7467, -104.9797
+St Mary Corwin Hospital, 38.2344, -104.6217
+St Mary Hospital, 38.2575, -104.6269
+St Marys Hospital, 39.0908, -108.5625
+St Peters, 40.6833, -102.8333
+St Petersburg, 40.5556, -102.8167
+St Thomas, 37.1344, -104.5569
+St Vrains, 40.0369, -104.9542
+Stage, 40.6117, -104.7422
+Stanley Park, 39.6183, -105.2922
+Stapleton, 37.4989, -108.4042
+Starkville, 37.1153, -104.5236
+State Bridge, 39.8578, -106.6492
+State Coal Mine Junction, 40.0583, -104.9922
+Steamboat Springs, 40.4850, -106.8311
+Steamboat Village, 40.1500, -106.9000
+Stelbars Lindland, 40.5744, -106.0642
+Stem Beach, 38.1639, -104.6431
+Sterling, 40.6256, -103.2072
+Sterling Place, 40.8206, -108.8914
+Stockyards, 39.8000, -104.9500
+Stollsteimer, 37.1417, -107.3542
+Stone City, 38.4486, -104.8606
+Stoneham, 40.6056, -103.6661
+Stoner, 37.5894, -108.3194
+Stonewall, 37.1522, -105.0167
+Stonewall Gap, 37.1514, -105.0381
+Stonington, 37.2936, -102.1869
+Stove Prairie Landing, 40.6825, -105.3886
+Strasburg, 39.7383, -104.3228
+Stratmoor Hills, 38.7831, -104.7939
+Stratton(Kit Carson), 39.3033, -102.6042
+Stratton(Teller), 38.7478, -105.1494
+Stratton Meadows, 38.8033, -104.8111
+Stratton Park, 38.8833, -104.8000
+Stringtown, 39.2336, -106.3186
+Strong, 37.7125, -104.9017
+Stuart, 38.4714, -102.1942
+Sublette, 40.3078, -104.1800
+Sugar, 38.1503, -102.6681
+Sugar City, 38.2319, -103.6625
+Sugar Junction, 37.5678, -106.1119
+Sugarloaf, 40.0169, -105.4067
+Sullivan, 39.6714, -104.8975
+Summerville, 40.0569, -105.3939
+Summit Cove, 39.6333, -106.0667
+Summitville, 37.4306, -106.5917
+Sunbeam, 40.5508, -108.1953
+Sunnyside(Mineral), 37.8461, -106.9597
+Sunnyside(Boulder), 40.0036, -105.3811
+Sunnyside(La Plata), 37.2833, -107.8667
+Sunnyslopes, 39.9167, -105.1000
+Sunset, 40.0358, -105.4683
+Sunset City, 38.4125, -105.4167
+Sunshine, 40.0658, -105.3661
+Superior, 39.9528, -105.1681
+Surrey Ridge, 39.3667, -104.8667
+Sutank, 39.4000, -107.2167
+Swallows, 38.3022, -104.8597
+Swallows Nest, 37.1572, -108.4672
+Swan, 38.6800, -106.0414
+Swandyke, 39.5083, -105.8917
+Swede Corners, 38.0833, -106.1500
+Swedish Hospital, 39.6542, -104.9797
+Sweet Place, 40.5361, -108.6789
+Sweetwater, 39.6500, -106.9500
+Swink, 38.0144, -103.6278
+Swissvale, 38.4839, -105.9000
+Switzerland Park, 40.0014, -105.4342
+Switzerland Village, 39.4167, -105.3333
+Sylvan, 37.5833, -108.7667

@@ -1,0 +1,156 @@
+Bachelor, 37.8778, -106.9408
+Badito, 37.7272, -105.0136
+Bailey, 39.4056, -105.4728
+Bailey Place, 40.3022, -108.6061
+Balarat, 40.1592, -105.3958
+Bald Mountain, 40.0333, -105.4167
+Baldwin, 38.7639, -107.0472
+Balfour, 38.9072, -105.7239
+Balltown, 39.0778, -106.2806
+Baltimore, 39.9033, -105.5739
+Balzac, 40.4069, -103.4708
+Barela, 37.1156, -104.2611
+Barnesville, 40.4792, -104.4792
+Barr, 39.9500, -104.9667
+Barr Lake, 39.9444, -104.7747
+Bartlett, 37.4333, -102.1436
+Barton, 38.0667, -102.3000
+Basalt, 39.3689, -107.0322
+Basin, 38.0658, -108.5361
+Battle Creek, 41.0014, -107.2444
+Baxter, 38.2758, -104.4911
+Baxterville, 37.6742, -106.6572
+Bayfield, 37.2256, -107.5975
+Beacon Hill, 38.7225, -105.1644
+Bear Mine, 38.9333, -107.2667
+Bear River, 40.4839, -107.1167
+Beards Corner, 38.0658, -108.6114
+Beartown, 37.7228, -107.5033
+Beaver Point, 40.3644, -105.5439
+Beaver Ridge, 39.2333, -106.0000
+Beck Sand Draw Crossing, 39.0269, -104.0528
+Bedrock, 38.3150, -108.8903
+Beecher Island, 39.8722, -102.1839
+Belden, 39.5256, -106.3856
+Belle Plain, 38.2833, -104.5833
+Belleview, 38.5692, -106.0367
+Bellvue, 40.6264, -105.1711
+Belmar(P O), 39.6969, -105.0853
+Belmont, 38.2833, -104.5833
+Bendemeer Valley, 39.6333, -105.3333
+Bennett, 39.7589, -104.4269
+Benton, 37.9050, -103.6567
+Bergen Park, 39.6914, -105.3611
+Berthoud, 40.3083, -105.0806
+Berthoud Falls, 39.7667, -105.7000
+Berthoud Pass, 39.7500, -105.5333
+Berts Corner, 40.3078, -105.1022
+Beshoar, 37.2181, -104.4061
+Beta(Logan), 40.4661, -103.3783
+Beta(Prowers), 38.0861, -102.6900
+Beth Israel Hospital, 39.7433, -105.0350
+Bethesda Hospital, 39.6714, -104.9344
+Bethune, 39.3042, -102.4242
+Beulah, 38.0750, -104.9861
+Beverly Grove, 39.9147, -102.6953
+Beverly Hills, 39.4750, -104.8792
+Big Bend, 38.2014, -102.7503
+Big Elk Meadows, 40.2619, -105.4297
+Bighorn, 39.6367, -106.2967
+Bijou(Morgan), 40.2439, -103.8864
+Bijou(Elbert), 39.4225, -104.1978
+Binco Place, 40.2800, -106.5250
+Birdseye, 39.3111, -106.2269
+Bisonte, 37.2522, -102.5911
+Black Eagle Mill, 39.7264, -105.5469
+Black Forest, 39.0131, -104.7003
+Black Hawk, 39.7969, -105.4933
+Black Hollow Junction, 40.5961, -105.0289
+Blakeland, 39.5597, -105.0361
+Blanca, 37.4381, -105.5153
+Blende, 38.2458, -104.5681
+Bloom, 37.6875, -103.9561
+Blue Mountain, 40.2483, -108.8611
+Blue Mountain Estates, 39.7500, -105.1833
+Blue River, 39.4297, -106.0433
+Blue Valley, 39.6997, -105.4886
+Blue Valley Acres, 39.7500, -105.5333
+Bockman Lumber Camp, 40.5583, -105.9653
+Boettcher, 40.6628, -105.1078
+Boggsville, 38.0417, -103.2122
+Bonanza, 38.2947, -106.1417
+Boncarbo, 37.2167, -104.6944
+Bond, 39.8744, -106.6867
+Bondad, 37.0458, -107.8756
+Bonita, 38.2328, -106.2144
+Boone, 38.2486, -104.2564
+Booth Memorial Hospital, 39.7319, -104.9186
+Bordenville, 39.2761, -105.6831
+Boulder, 40.0150, -105.2700
+Boulder Junction, 40.0167, -105.2083
+Bountiful, 37.2292, -105.9764
+Bovina, 39.2803, -103.3847
+Bow Mar, 39.6283, -105.0494
+Bower Place, 40.5861, -108.6881
+Bowie, 38.9214, -107.5394
+Box Prairie, 40.5814, -105.4683
+Boxelder Estates, 40.5833, -105.1000
+Boyero, 38.9428, -103.2708
+Bracewell, 40.4594, -104.8167
+Bradford, 37.8814, -105.3325
+Bragdon, 38.4019, -104.6111
+Brandon, 38.4464, -102.4392
+Branson, 37.0175, -103.8839
+Breckenridge, 39.4817, -106.0378
+Breen, 37.1925, -108.0772
+Brewster, 38.3833, -105.1333
+Bridgeport, 38.8367, -108.3800
+Bridges Switch, 39.0986, -108.4033
+Briggsdale, 40.6347, -104.3264
+Brighton, 39.9853, -104.8200
+Brimstone Corner, 38.9381, -107.9747
+Bristol, 38.1222, -102.3111
+Broadmoor, 38.7956, -104.8408
+Broadway Estates, 39.6167, -105.0000
+Brocker Place, 40.4706, -106.1242
+Broken Arrow Acres, 39.5028, -105.3261
+Bronquist, 38.2019, -104.8911
+Brook Forest, 39.5794, -105.3814
+Brook Forest Estates, 39.6333, -105.3333
+Brookfield, 37.5939, -102.8417
+Brookridge, 39.6167, -105.0000
+Brookside, 38.4153, -105.1914
+Brookvale, 39.6297, -105.4186
+Brookwood, 38.8833, -104.8000
+Broomfield, 39.9206, -105.0861
+Broughton, 38.8133, -108.3264
+Brown, 38.0653, -108.0222
+Brownlee, 40.7847, -106.2861
+Browns Canyon, 38.6119, -106.0594
+Browns Corner, 40.4075, -105.0583
+Bruce, 40.4958, -104.8639
+Brumley, 39.0894, -106.5422
+Brush, 40.2589, -103.6233
+Buchanan, 40.8319, -103.1681
+Buckeye, 40.8272, -105.0944
+Buckeye Crossroads, 37.5575, -102.1283
+Buckingham(Larimer), 40.5906, -105.0656
+Buckingham(Weld), 40.6214, -103.9772
+Buckingham Square, 39.7167, -104.8500
+Buckskin Joe, 38.4764, -105.3264
+Buda, 40.3286, -104.9772
+Buena Vista, 38.8422, -106.1306
+Buffalo Creek, 39.3867, -105.2697
+Buffham Place, 40.7553, -108.8950
+Buford, 39.9872, -107.6161
+Bulger, 40.7936, -104.9819
+Bulkley Mine, 38.8439, -106.9694
+Bunyan, 40.2903, -104.9147
+Burdett, 40.3656, -102.9506
+Burland Ranchettes, 39.4167, -105.3333
+Burlington, 39.3061, -102.2689
+Burlington Square, 40.1833, -105.1167
+Burns, 39.8739, -106.8850
+Burnt Mill, 38.0517, -104.7958
+Buttes, 38.5872, -104.6667
+Byers, 39.7114, -104.2272

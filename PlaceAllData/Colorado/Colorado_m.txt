@@ -1,0 +1,143 @@
+Mack, 39.2239, -108.8644
+Maddux, 40.1922, -104.8192
+Madison Hill, 39.8333, -105.0167
+Madrid, 37.1269, -106.6417
+Magee, 39.7556, -104.7808
+Magnolia, 39.9939, -105.3647
+Maher, 38.6450, -107.5842
+Malachite, 37.7544, -105.2603
+Maloy, 40.2444, -104.9694
+Malta, 39.2294, -106.3503
+Manassa, 37.1742, -105.9369
+Mancos, 37.3450, -108.2886
+Mancos Creek, 37.3500, -108.5667
+Mandalay Gardens, 39.9167, -105.1000
+Manhattan, 40.7322, -105.5994
+Manila, 39.7564, -104.5219
+Manitou Springs, 38.8597, -104.9167
+Manzanola, 38.1094, -103.8656
+Marble, 39.0722, -107.1883
+Marcott, 40.8786, -102.7236
+Mariano, 37.1794, -108.8728
+Marlman, 38.0936, -103.3486
+Marnel, 38.0556, -104.6286
+Marnett, 40.1683, -105.1333
+Marshall, 39.9556, -105.2292
+Marshdale, 39.5925, -105.3117
+Marshdale Park, 39.6333, -105.3333
+Marvel, 37.1125, -108.1261
+Maryvale, 39.9331, -105.7867
+Mason Corner, 40.4669, -104.7014
+Masonic Park, 37.6667, -106.6167
+Masontown, 39.5664, -106.0997
+Masonville, 40.4875, -105.2103
+Massadona, 40.2528, -108.6397
+Masters, 40.3094, -104.2444
+Matheson, 39.1717, -103.9750
+Matthews, 40.4797, -104.4972
+Maxeyville, 37.6181, -106.1489
+May Valley, 38.2017, -102.6133
+Maybell, 40.5178, -108.0864
+Mayday, 37.3506, -108.0761
+Mayne, 37.5517, -104.7186
+Maysville, 38.5386, -106.1897
+Mc Clellands, 40.5281, -105.0803
+Mc Clintock, 37.4278, -105.5258
+Mc Coy, 39.9161, -106.7250
+Mc Gregor, 40.4794, -107.0344
+Mc Kenzie Junction, 38.1642, -105.1903
+McClave, 38.1375, -102.8500
+McCoy Hills, 39.8333, -104.9500
+McCoy Subdivision, 38.5333, -106.0000
+McElmo, 37.3500, -108.5667
+Mead, 40.2333, -104.9981
+Meadow Brook Heights, 39.6167, -105.0000
+Mears Junction, 38.4472, -106.1083
+Medina Plaza, 37.1278, -104.7917
+Meeker, 40.0375, -107.9125
+Meeker Park, 40.2339, -105.5303
+Melina, 38.0994, -103.1861
+Memorial Hospital(Boulder), 40.0211, -105.2928
+Memorial Hospital(Moffat), 40.5192, -107.5364
+Memorial Hospital(Larimer), 40.3972, -105.0897
+Mercy Hospital, 37.2839, -107.8733
+Meredith, 39.3631, -106.7294
+Merino, 40.4825, -103.3508
+Mesa(Mesa), 39.1664, -108.1383
+Mesa(Pueblo), 38.2500, -104.6500
+Mesa Verde National Park, 37.1833, -108.4833
+Mesita, 37.0983, -105.6014
+Messex, 40.4294, -103.4361
+Meyers Corner, 40.6681, -105.0189
+Mid Vail, 39.6150, -106.3672
+Middleton, 37.8550, -107.5717
+Midland, 38.8583, -105.1611
+Midway(El Paso), 38.8425, -104.9733
+Midway(Gunnison), 38.3439, -107.0533
+Midway(Larimer), 40.4303, -105.3222
+Midway(Teller), 38.7400, -105.1422
+Midway(Wasington), 40.2264, -103.3972
+Midway(Baca), 37.1492, -102.1856
+Miles Place, 40.6658, -108.9919
+Milliken, 40.3294, -104.8547
+Millwood, 37.4217, -108.3331
+Milner, 40.4847, -107.0189
+Mindeman, 37.7069, -103.9161
+Mineral Hot Springs, 38.1689, -105.9253
+Minnehaha, 38.8494, -104.9589
+Minturn, 39.5864, -106.4303
+Mirage, 38.1028, -105.8639
+Miramonte, 39.9306, -105.3722
+Mishawaka, 40.6872, -105.3653
+Missouri Park, 38.5333, -106.0000
+Mitchel Place, 39.7881, -108.6467
+Mitchell, 39.3917, -106.3186
+Mobley Place, 40.2756, -108.6036
+Model, 37.3722, -104.2444
+Moffat(Moffat), 40.3333, -107.6000
+Moffat(Saguache), 37.9989, -105.9094
+Mogote, 37.0594, -106.0917
+Molina, 39.1892, -108.0597
+Monarch, 38.5406, -106.3136
+Monson, 37.5161, -104.7036
+Montbello, 39.7936, -104.8331
+Montclair, 39.7333, -104.9000
+Monte Vista, 37.5792, -106.1475
+Monte Vista Estates, 39.3653, -104.9208
+Montezuma, 39.5811, -105.8667
+Montrose, 38.4783, -107.8756
+Monument, 39.0917, -104.8722
+Monument Lake Park, 37.1333, -104.8000
+Monument Park, 37.2069, -105.0458
+Moonridge, 39.3653, -105.1169
+Moore, 40.1894, -104.8467
+Moore Dale, 39.4167, -105.4833
+Morey, 40.2175, -105.0922
+Morgan, 37.3278, -106.0194
+Morley, 37.0319, -104.5042
+Morning Glory, 37.6700, -104.8456
+Morrison, 39.6536, -105.1906
+Mortimer, 37.4644, -105.3406
+Mosca, 37.6500, -105.8667
+Moseley, 40.2489, -103.7536
+Mount Crested Butte, 38.8667, -106.9833
+Mount Harris, 40.4836, -107.1442
+Mount Lincoln, 39.1061, -108.3828
+Mount Massive Lakes, 39.1522, -106.3000
+Mount Olivet, 39.7875, -105.1417
+Mount Pearl, 38.9625, -102.7889
+Mount Princeton, 38.7500, -106.0833
+Mount San Rafael Hospital, 37.1733, -104.4867
+Mount Vernon Club Place, 39.7228, -105.2933
+Mountain Park, 39.7500, -105.1833
+Mountain View(Jefferson), 39.7744, -105.0550
+Mountain View(Larimer), 40.5925, -105.1286
+Mountain View(Montrose), 38.3053, -108.4833
+Mountain View Acres, 37.4667, -105.8500
+Mountain View Lakes, 39.4167, -105.3333
+Muleshoe, 37.5897, -105.1819
+Mulford, 39.4000, -107.1514
+Mumper Corner, 40.4519, -104.6967
+Murray Place, 37.5161, -102.9967
+Mutual, 37.6167, -104.7833
+Mystic, 40.5700, -106.9953

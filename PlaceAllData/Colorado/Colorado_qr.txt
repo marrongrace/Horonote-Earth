@@ -1,0 +1,92 @@
+Quartzville, 39.3450, -106.0767
+Querida, 38.1261, -105.3339
+Quimby, 39.8733, -104.9433
+Radium, 39.9528, -106.5581
+Ragged Mountain, 38.9333, -107.2667
+Rago, 40.0019, -103.4150
+Rainbow Valley, 38.9333, -105.1500
+Ramah, 39.1217, -104.1653
+Rand, 40.4539, -106.1808
+Randall, 38.0956, -103.5792
+Range View Estates, 40.4000, -104.7000
+Rangely, 40.0878, -108.8033
+Rattlesnake Buttes, 37.6167, -104.7833
+Raymer, 40.6081, -103.8419
+Raymond, 40.1550, -105.4639
+Read, 38.7661, -107.9756
+Red Feather Lakes, 40.8025, -105.5911
+Red Lion, 40.8917, -102.6764
+Red Mountain, 37.9036, -107.7019
+Red Wing, 37.7361, -105.2894
+Redcliff, 39.5122, -106.3675
+Redlands, 39.0789, -108.6350
+Redmesa, 37.0944, -108.1697
+Redmond, 40.4789, -105.0403
+Reds Place, 40.7306, -105.8711
+Redstone, 39.1808, -107.2392
+Redvale, 38.1750, -108.4167
+Reilly Canyon, 37.2544, -104.7094
+Rembrandt Place, 39.5833, -104.9333
+Resurrection Mill, 39.2353, -106.2764
+Rex, 40.7889, -105.1778
+Rezago, 37.1667, -104.5000
+Rhone, 39.1267, -108.6778
+Richfield, 37.2778, -105.9444
+Rico, 37.6928, -108.0297
+Ridgeway, 38.1528, -107.7500
+Rifle, 39.5347, -107.7825
+Rinn, 40.1389, -104.9983
+Rio Blanco, 39.7378, -107.9447
+Riverdale, 38.0586, -103.3161
+Riverside(Boulder), 40.1756, -105.4367
+Riverside(Chaffee), 38.9383, -106.1833
+Riverview, 39.3975, -105.2675
+Robb, 40.1025, -102.3714
+Roberta, 37.9964, -103.6753
+Robinson Place, 40.4058, -108.9853
+Rock Creek Park, 38.7025, -104.8386
+Rock Crossing(Las Animas), 37.4314, -103.9456
+Rock Crossing(Pueblo), 37.7700, -104.1236
+Rockdale, 38.9914, -106.4111
+Rockland, 40.5106, -102.7194
+Rockport, 40.8986, -104.7961
+Rockvale, 38.1194, -105.1639
+Rockwood, 37.4908, -107.8014
+Rocky, 39.8608, -105.2469
+Rocky Ford, 38.0525, -103.7197
+Rocky Mountain Arsenal, 39.7500, -104.8000
+Roe, 38.5378, -107.9442
+Rogers Mesa, 38.7792, -107.7925
+Roggen, 40.1675, -104.3717
+Roland Valley, 39.4167, -105.3333
+Rolla, 39.8692, -104.8908
+Rolling Hills, 40.0000, -105.2667
+Rollinsville, 39.9172, -105.5006
+Romeo, 37.1722, -105.9847
+Romley, 38.6750, -106.3694
+Rosedale(Jefferson), 39.6400, -105.3825
+Rosedale(Weld), 40.3853, -104.6981
+Rosemont, 38.7422, -104.9564
+Rosevale, 39.0600, -108.5797
+Rosita, 38.0972, -105.3356
+Roswell, 38.8736, -104.8189
+Roubideau, 38.7356, -108.1500
+Roundup Junction, 37.4828, -108.1617
+Rouse, 37.4908, -104.7111
+Rowena, 40.0769, -105.3889
+Roy, 40.1097, -104.5650
+Royal Gorge, 38.4667, -105.3167
+Royal Ranch, 39.4167, -105.3333
+Roydale, 39.7700, -104.8728
+Ruby(Mesa), 39.2028, -108.9331
+Ruby(Pitkin), 39.0208, -106.6086
+Ruby(Gunnison), 38.8661, -107.0950
+Ruedi, 39.3664, -106.7975
+Rugby, 37.4700, -104.6644
+Rulison, 39.4972, -107.9400
+Rush, 38.8400, -104.0917
+Russell, 37.5553, -105.2872
+Russell Gulch, 39.7786, -105.5364
+Rustic, 40.5803, -105.6994
+Ruxton, 37.7481, -103.1461
+Rye, 37.9236, -104.9297

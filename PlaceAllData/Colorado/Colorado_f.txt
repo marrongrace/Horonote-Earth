@@ -1,0 +1,73 @@
+Fairplay, 39.2247, -106.0014
+Fairview(Montrose), 38.4889, -107.8025
+Fairview(Teller), 38.7439, -105.1578
+Fairview(Custer), 38.0678, -105.0986
+Fairview(Garfield), 39.5500, -107.6500
+Fairway Estates, 40.5833, -105.1000
+Falcon, 38.9331, -104.6081
+Falcon Estates, 38.8500, -104.8000
+Falfa, 37.2131, -107.7903
+Fall Creek, 38.0000, -108.0000
+Farisita, 37.7447, -105.0708
+Farmers, 40.4519, -104.7786
+Fayette, 38.0728, -103.7689
+Fearnowville, 38.2792, -104.5597
+Federal Heights, 39.8514, -104.9981
+Fenders, 39.5739, -105.2164
+Ferncliff, 40.1908, -105.5125
+Ferndale, 39.4061, -105.2550
+Fink, 38.4889, -105.3806
+Fir, 37.4853, -105.1789
+Fire Clay, 39.8519, -105.2569
+Firestone, 40.1125, -104.9361
+First View, 38.8167, -102.3500
+Fishers Crossing, 37.2519, -104.2411
+Fitzsimons, 39.7500, -104.8000
+Flagler, 39.2931, -103.0667
+Fleming, 40.6800, -102.8389
+Flintwood Hills, 39.3833, -104.7500
+Florence, 38.3903, -105.1181
+Floresta, 38.8419, -107.1222
+Florida, 37.2150, -107.7519
+Florissant, 38.9458, -105.2889
+Florissant Heights, 38.9500, -105.2833
+Fondis, 39.2158, -104.3467
+Forder, 38.6808, -103.7053
+Forest Hills, 39.7500, -105.1833
+Fort Big Spring, 38.9333, -102.8292
+Fort Boettcher, 40.8044, -106.5433
+Fort Carson, 38.7500, -104.7833
+Fort Collins, 40.5853, -105.0839
+Fort Garland, 37.4289, -105.4333
+Fort Julesburg, 40.9431, -102.3578
+Fort Logan, 39.6500, -105.0333
+Fort Lupton, 40.0847, -104.8125
+Fort Lyon, 39.1000, -103.1500
+Fort Lyon Veterans Hospital, 38.0764, -103.1319
+Fort Morgan, 40.2503, -103.7994
+Fort Reynolds, 38.2306, -104.3028
+Fort Saint Vrain, 40.2789, -104.8544
+Fort Sedgwick, 40.9431, -102.3800
+Fosston, 40.5686, -104.3594
+Fountain, 38.6822, -104.7003
+Four Corners Crossing, 38.0267, -102.7775
+Fowler, 38.1292, -104.0228
+Fox Creek, 37.0656, -106.2008
+Foxborough, 39.9167, -105.1000
+Foxton, 39.4244, -105.2356
+Franktown, 39.3914, -104.7522
+Fraser, 39.9450, -105.8167
+Fred Wall Place, 40.4381, -108.9761
+Frederick, 40.0992, -104.9367
+Freeland, 39.7442, -105.5950
+Freeman, 37.5333, -106.3500
+Freshwater, 38.7667, -105.5333
+Frick, 37.5853, -102.9550
+Friendship Ranch, 39.4167, -105.3333
+Frisco, 39.5744, -106.0969
+Frost, 38.5672, -107.9694
+Fruita, 39.1589, -108.7283
+Fruitvale, 39.0817, -108.4961
+Fulford, 39.5150, -106.6558
+Funston, 39.5606, -107.3486
+Futurity, 38.7364, -105.9533

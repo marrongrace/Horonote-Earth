@@ -1,0 +1,112 @@
+La Boca, 37.0111, -107.6014
+La Foret, 39.0094, -104.7139
+La Fruto, 37.4147, -105.8981
+La Garita, 37.8408, -106.2461
+La Jara, 37.2750, -105.9597
+La Junta, 37.9850, -103.5433
+La Junta Gardens, 37.9994, -103.5531
+La Junta Village, 38.0375, -103.5306
+La Montana Mesa, 38.9500, -105.2833
+La Plata, 37.3972, -108.0625
+La Posta, 37.1253, -107.8944
+La Salle, 40.3489, -104.7014
+La Valley, 37.1019, -105.3472
+La Veta, 37.5050, -105.0072
+La Veta Pass, 37.5931, -105.2028
+Lacy, 39.5092, -107.8689
+Lafayette, 39.9936, -105.0892
+Laird, 40.0825, -102.1031
+Lake City, 38.0300, -107.3147
+Lake George, 38.9797, -105.3569
+Lake View, 39.7500, -105.1833
+Lakeborough, 39.6333, -105.0667
+Lakeside, 39.7783, -105.0589
+Lakewood, 39.7047, -105.0808
+Lamar, 38.0872, -102.6203
+Lamartine, 39.7294, -105.6161
+Lamb, 40.2450, -103.8472
+Lambert Place, 39.3289, -107.3461
+Laporte, 40.6264, -105.1372
+Larand, 40.6225, -106.2922
+Lariat, 37.5667, -106.1500
+Larkspur, 39.2286, -104.8867
+Las Animas, 38.0667, -103.2222
+Las Animas Junction, 38.0625, -103.1736
+Las Mesitas, 37.0644, -106.1100
+Lasauses, 37.2667, -105.7458
+Lascar, 37.8250, -104.7481
+Last Chance, 39.7408, -103.5911
+Lawson, 39.7658, -105.6269
+Lay, 40.5267, -107.8814
+Lazear, 38.7800, -107.7811
+Leader, 39.8994, -104.0558
+Leadville, 39.2508, -106.2919
+Leadville Junction, 39.2586, -106.3392
+Leal, 39.8103, -106.0439
+Leavick, 39.1950, -106.1369
+Lebanon, 37.4572, -108.5908
+Leisure Living, 40.0500, -105.0667
+Lenado, 39.2425, -106.7619
+Leon, 39.3847, -107.0986
+Leonard, 38.0639, -108.0264
+Leroy, 40.5261, -102.9136
+Lester, 37.5017, -104.7128
+Lewis, 37.4997, -108.6686
+Leyden, 39.8447, -105.1836
+Leyden Junction, 39.8461, -105.1478
+Leyner, 40.0497, -105.1019
+Liberty(Baca), 37.3081, -102.7233
+Liberty(Saguache), 37.8603, -105.5953
+Liberty(Weld), 40.2061, -105.0086
+Liberty Bell, 37.9353, -107.7950
+Liggett, 40.0450, -105.1333
+Lime(Pueblo), 38.1486, -104.6242
+Lime(San Miguel), 37.9550, -107.9303
+Limon, 39.2639, -103.6917
+Lincoln, 39.4875, -105.9850
+Lincoln Hills, 39.9225, -105.4578
+Lincoln Park, 38.4292, -105.2194
+Lindon, 39.7394, -103.4133
+Little Dam, 40.4222, -105.2222
+Littleton, 39.6133, -105.0161
+Livengood Hills, 39.5167, -104.7667
+Livermore, 40.7944, -105.2167
+Living Springs, 39.8914, -104.3000
+Lobatos, 37.0794, -105.9483
+Lochbuie, 39.9500, -104.9667
+Lochwood, 39.6833, -105.0000
+Lodi, 40.2511, -103.7033
+Log Lane Village, 40.2667, -103.8333
+Logan, 40.5786, -103.3578
+Logtown, 37.5517, -107.5908
+Loma, 39.1958, -108.8125
+Loma Linda, 37.2242, -107.7953
+Lombard Village, 38.2250, -104.5444
+Lone Oak, 37.0550, -103.6328
+Lone Pine Estates, 39.5950, -105.2447
+Lone Star, 40.3519, -102.8508
+Lonetree, 37.1681, -107.1722
+Longmont, 40.1672, -105.1014
+Longview, 39.4175, -105.1933
+Lookout Mountain, 39.7500, -105.1833
+Loretto Heights, 39.6500, -105.0333
+Lory, 40.4214, -104.9097
+Los Cerritos, 37.1483, -105.9103
+Los Fuertes, 37.1344, -105.3792
+Louisville, 39.9778, -105.1314
+Louviers, 39.4778, -105.0067
+Loveland, 40.3978, -105.0744
+Loveland Heights, 40.3897, -105.4636
+Lowe, 40.4925, -104.5950
+Lowery Air Force Base, 39.7167, -104.8833
+Loyd, 40.3036, -107.7042
+Lubers, 38.1289, -102.9239
+Lucerne, 40.4819, -104.6992
+Ludlow, 37.3333, -104.5828
+Lujane, 38.4872, -107.7331
+Lulu City, 40.4456, -105.8475
+Lutheran Hospital, 39.7689, -105.0892
+Lycan, 37.6153, -102.2003
+Lynn, 37.4272, -104.6406
+Lyons, 40.2247, -105.2708
+Lyons Park Estates, 40.2333, -105.2833

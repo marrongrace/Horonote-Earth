@@ -1,0 +1,110 @@
+Hadley, 38.0383, -103.4028
+Hahns Peak, 40.7167, -106.9167
+Hale, 39.6297, -102.1422
+Hallcraft Town Houses, 39.6833, -105.1333
+Hambert, 40.3150, -104.7375
+Hamilton(Chaffee), 38.9244, -106.4583
+Hamilton(Moffat), 40.3672, -107.6125
+Hamlet, 38.1547, -104.0933
+Hancock, 38.6403, -106.3653
+Hanna, 37.6794, -106.4583
+Hanover, 38.8500, -104.7833
+Happy Canyon, 39.4350, -104.8700
+Harboro, 37.4975, -102.8144
+Hardin, 40.3511, -104.4250
+Hardman, 40.3658, -104.9147
+Harmony, 40.5233, -105.0431
+Harney, 40.1514, -104.9403
+Harris Park, 39.5117, -105.4906
+Harry Parker Place, 39.0522, -107.4686
+Hartman, 38.1203, -102.2194
+Hartner, 37.3925, -105.9094
+Hartsel, 39.0217, -105.7953
+Hasty, 38.1125, -102.9569
+Haswell, 38.4522, -103.1625
+Haver, 38.9650, -105.9269
+Hawkins, 38.4939, -102.9319
+Hawley, 37.9828, -103.7106
+Haxtun, 40.6411, -102.6264
+Haybro, 40.3322, -106.9589
+Hayden, 40.4919, -107.2569
+Hayford, 40.6783, -103.1639
+Hays, 38.0731, -103.6186
+Hazeltine, 39.8967, -104.8825
+Hazeltine Heights, 39.8856, -104.8892
+Heartstrong, 39.9475, -102.5764
+Heath, 38.2722, -103.4694
+Heatherwood, 40.0000, -105.2667
+Hebron, 40.5961, -106.4064
+Heeney, 40.0667, -106.4000
+Heiberger, 39.2689, -107.8017
+Heliport Hospital, 38.9917, -104.8847
+Henderson, 39.9206, -104.8653
+Henery, 37.3983, -105.9064
+Henkel, 38.5200, -104.6258
+Henson, 38.0208, -107.3764
+Hereford, 40.9750, -104.3053
+Hermosa, 37.4153, -107.8347
+Herzman Mesa, 39.6106, -105.3097
+Hesperus, 37.2861, -108.0389
+Hessie, 39.9550, -105.5994
+Hi-Land Acres, 39.9883, -104.8769
+Hiawatha, 40.9883, -108.6197
+Hidden Valley, 39.6947, -105.3386
+Hideaway Park, 39.9181, -105.7850
+Hierro, 38.4947, -107.0308
+Higbee, 37.7764, -103.4589
+Higby, 39.5697, -107.2256
+High Chateau Ranches, 38.9500, -105.2833
+High-mar, 40.0000, -105.2667
+Highland, 40.2389, -105.0828
+Highland Acres, 40.4000, -104.7000
+Highland Lake, 40.2478, -105.0139
+Highland Lakes, 38.9333, -105.1500
+Highland Park(Mesa), 39.0919, -108.4808
+Highland Park(Park), 39.4989, -105.5286
+Highlands, 39.7667, -105.0167
+Hill and Park, 40.4000, -104.7000
+Hillrose, 40.3258, -103.5214
+Hillsboro, 40.3328, -104.8639
+Hillside, 38.2653, -105.6111
+Hilltop, 39.4517, -104.6808
+Hilton, 38.0703, -103.0606
+Hitchens, 40.5000, -106.8333
+Hiwan Hills, 39.6403, -105.3294
+Hobson, 38.3408, -104.9339
+Hoehne, 37.2811, -104.3806
+Hoffman Heights, 39.7167, -104.8500
+Holiday Hills, 39.0000, -105.0667
+Hollowell Corner, 40.3783, -105.0586
+Holly, 38.0522, -102.1222
+Hollywood, 38.7094, -105.1328
+Holy Cross City, 39.4150, -106.4775
+Holyoke, 40.5844, -102.3019
+Homelake, 37.5756, -106.0964
+Homewood Park, 39.5428, -105.1972
+Hooks, 39.3742, -107.0881
+Hooper, 37.7428, -105.8747
+Hoopup, 37.2500, -103.3500
+Hoovers Corner, 38.6069, -108.0583
+Horseshoe, 39.2039, -106.0847
+Horsetooth Heights, 40.5044, -105.1536
+Hot Creek, 37.2667, -106.2500
+Hot Sulphur Springs, 40.0731, -106.1022
+Hotchkiss, 38.7997, -107.7189
+Houghton, 37.5894, -104.0428
+Houston, 40.2547, -104.8064
+Howard, 38.4486, -105.8347
+Howard Place, 40.4878, -106.2164
+Howardsville, 37.8356, -107.5936
+Hoyt, 40.0156, -104.0744
+Hudson, 40.0736, -104.6425
+Huerfano Valley, 38.0333, -104.2833
+Huff, 38.7569, -108.2556
+Hugo, 39.1361, -103.4694
+Hurley, 40.2742, -103.7611
+Hurrich, 40.5311, -104.7933
+Husted, 38.9833, -104.8667
+Hyde, 40.1358, -102.8322
+Hygiene, 40.1886, -105.1803
+Hyland Hills, 39.6333, -105.3333

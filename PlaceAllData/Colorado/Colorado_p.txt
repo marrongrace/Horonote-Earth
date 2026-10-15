@@ -1,0 +1,126 @@
+Pactolus, 39.9178, -105.4639
+Padroni, 40.7778, -103.1722
+Pagoda, 40.3369, -107.4153
+Pagosa, 37.2667, -107.0000
+Pagosa Junction, 37.0381, -107.1986
+Pagosa Springs, 37.2694, -107.0092
+Paisaje, 37.0678, -106.0600
+Palisade, 39.1103, -108.3503
+Palmer Lake, 39.1222, -104.9167
+Pando, 39.4572, -106.3331
+Pandora, 37.9333, -107.7850
+Paoli, 40.6122, -102.4722
+Paonia, 38.8683, -107.5914
+Papeton, 38.8764, -104.8014
+Paradise Hills, 39.7125, -105.2511
+Paradox, 38.3683, -108.9617
+Paragon Estates, 39.9819, -105.1742
+Park Avenue Hospital, 39.7411, -104.9689
+Park Center, 38.4778, -105.2056
+Park City, 39.2783, -106.0925
+Park Hill, 39.7500, -104.9167
+Parkdale, 38.4861, -105.3722
+Parker, 39.5186, -104.7608
+Parkview Hospital, 38.2814, -104.6136
+Parkville(Summit), 39.4989, -106.9494
+Parkville(Saguace), 38.2272, -106.1000
+Parlin, 38.5028, -106.7278
+Parma, 37.5372, -106.0381
+Parras Plaza, 37.1772, -104.9558
+Parrish, 38.1217, -102.3842
+Parshall, 40.0569, -106.1747
+Patt, 37.2500, -103.3500
+Patterson Crossing, 37.2175, -104.2078
+Patterson Place, 39.1139, -107.4169
+Payne, 38.8017, -107.9014
+Pea Green Corner, 38.6500, -108.0944
+Peabodys, 39.3481, -105.9267
+Peaceful Valley, 40.1314, -105.4972
+Pear Park, 39.0703, -108.4714
+Pearl, 40.9853, -106.5464
+Peckham, 40.3039, -104.7506
+Peconic, 39.3208, -102.1483
+Peeples, 38.8219, -108.3411
+Peetz, 40.9628, -103.1119
+Penitentiary, 38.4333, -105.2167
+Penrose, 38.4250, -105.0222
+Peoples, 39.7167, -104.8500
+Peoria, 39.6797, -104.1136
+Perigo, 39.8792, -105.5303
+Perl-Mack, 39.8333, -105.0167
+Peterson Field, 38.8167, -104.7167
+Petes Place, 40.5542, -108.7111
+Peyton, 39.0289, -104.4825
+Pheasant Run, 39.7167, -104.8500
+Phillipsburg, 39.5383, -105.1864
+Phippsburg, 40.2322, -106.9431
+Phoenix, 39.9286, -105.5350
+Pictou, 37.6386, -104.8131
+Piedmont(Las Animas), 37.1378, -104.5514
+Piedmont(Ouray), 38.1500, -107.7500
+Piedra, 37.2236, -107.3403
+Pieplant Mill, 38.9381, -106.5589
+Pierce, 40.6356, -104.7547
+Pike-San Isabel Village, 39.0519, -105.7200
+Pikes Peak, 38.9000, -104.9667
+Pikeview, 38.9153, -104.8217
+Pine, 39.4100, -105.3233
+Pine Crest, 39.1125, -104.9078
+Pine Nook, 39.3842, -105.0708
+Pine Park Estates, 39.6667, -105.1167
+Pinecliff, 39.9333, -105.4333
+Pinecliffe, 39.9319, -105.4278
+Pinewood Springs, 40.2733, -105.3561
+Piney Crossing Campground, 39.7103, -106.4200
+Pinnacle Park, 40.4000, -104.7000
+Pinneo, 40.2094, -103.4381
+Pinon(Pueblo), 38.4333, -104.6069
+Pinon(Montrose), 38.2667, -108.4000
+Pinon Acres, 37.2278, -107.8167
+Pinon Canyon, 37.1667, -104.5000
+Pioneer Memorial Hospital, 38.0444, -103.7192
+Pitkin, 38.6092, -106.5161
+Pittsburg, 38.9522, -107.0619
+Placerville, 38.0167, -108.0528
+Placita, 39.1322, -107.2622
+Plainview, 39.8936, -105.2758
+Plastic, 39.8608, -105.2281
+Plateau City, 39.2372, -107.9811
+Platner, 40.1553, -103.0669
+Platoro, 37.3519, -106.5322
+Platte Springs, 39.0636, -105.3581
+Platteville, 40.2150, -104.8222
+Plaza, 37.5333, -106.3500
+Pleasant View(Montezuma), 37.5894, -108.7644
+Pleasant View(Jefferson), 39.7342, -105.1711
+Pleasant View Ridge, 40.1167, -105.0550
+Pleasanton, 38.3650, -105.7472
+Plumbs, 40.0878, -105.0433
+Poncha Springs, 38.5128, -106.0767
+Ponderosa Park, 39.4083, -104.6506
+Porter Memorial Hospital, 39.6703, -104.9747
+Portland(Fremont), 38.3911, -105.0244
+Portland(Ouray), 38.0814, -107.7008
+Poudre Park, 40.6861, -105.3042
+Powars, 40.0408, -104.8075
+Powder Wash, 40.9458, -108.3108
+Powderhorn(P O), 38.2828, -107.1161
+Powell, 40.7889, -102.9894
+Presbyterian Medical Center, 39.7472, -104.9661
+Price Creek, 40.2772, -108.0961
+Primero, 37.1425, -104.7411
+Princeton, 38.9933, -106.2194
+Pritchett, 37.3703, -102.8592
+Proctor, 40.8069, -102.9511
+Prospect, 40.1167, -104.5167
+Prospect Heights, 38.4264, -105.2369
+Prospect Valley, 40.0736, -104.4144
+Prowers, 38.0819, -102.7672
+Pryor, 37.5081, -104.7136
+Pueblo, 38.2544, -104.6086
+Pueblo Army Depot, 38.2833, -104.5833
+Pulliam, 40.3206, -104.9433
+Pultney, 38.1622, -104.0472
+Purcell, 40.6383, -104.6011
+Purgatoire Valley, 37.8667, -103.1000
+Puritan, 40.0850, -104.9986

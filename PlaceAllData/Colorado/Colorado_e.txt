@@ -1,0 +1,82 @@
+Eads, 38.4806, -102.7814
+Eagle, 39.6553, -106.8281
+Eagles Nest, 39.6183, -106.3856
+Earl, 37.3333, -104.2778
+East Adams, 39.8833, -104.1833
+East Alamosa, 37.4667, -105.8500
+East Arapahoe, 39.6833, -104.2833
+East Canon, 38.4528, -105.2125
+East La Salle, 40.3547, -104.6819
+East Portal, 39.9033, -105.6439
+East Vancorum, 38.2278, -108.5944
+East Weston, 37.1333, -104.8000
+Eastdale, 37.0286, -105.6503
+Eastlake(Pueblo), 38.2333, -104.6333
+Eastlake(Adams), 39.9239, -104.9608
+Eastonville, 39.0611, -104.5617
+Eastridge, 39.6500, -104.8500
+Eaton, 40.5303, -104.7108
+Eben-Ezer Hospital, 40.2547, -103.6431
+Echo, 38.4428, -105.5383
+Echo House, 37.1678, -108.4994
+Echo Lake, 39.7500, -105.5333
+Eckert, 38.8428, -107.9622
+Eckley, 40.1139, -102.4903
+Eden, 38.3164, -104.6158
+Edgemont, 39.7311, -105.1303
+Edgewater, 39.7531, -105.0636
+Edison, 38.8333, -104.2167
+Edith, 37.0056, -106.9097
+Edler, 37.1833, -102.7833
+Edwards, 39.6450, -106.5936
+Egeria, 40.0311, -106.7722
+Eggers, 40.6908, -105.4869
+Egnar, 37.9164, -108.9394
+El Jebel, 39.3950, -107.0897
+El Moro, 37.2244, -104.4661
+El Rancho, 39.6986, -105.3331
+El Vado, 40.0058, -105.3458
+Elba, 39.9483, -103.2178
+Elbert, 39.2194, -104.5367
+Elder(Otero), 38.1233, -103.9667
+Elder(Baca), 37.1764, -102.7778
+Eldora, 39.9486, -105.5633
+Eldorado Springs, 39.9325, -105.2764
+Eldredge, 38.2878, -107.7667
+Elephant Park, 39.6289, -105.3622
+Elesmere, 38.8647, -104.7100
+Eleven Mile Village, 38.9833, -105.3667
+Elizabeth, 39.3603, -104.5964
+Elk Creek Acres, 39.4167, -105.3333
+Elk Creek Highlands, 39.4167, -105.3333
+Elk River, 40.5000, -106.8333
+Elk Springs, 40.3556, -108.4478
+Elkdale, 40.0403, -105.8806
+Elkhead, 40.6486, -107.2069
+Elkhorn Acres, 39.4167, -105.3333
+Elkton(Teller), 38.7222, -105.1500
+Elkton(Gunnison), 38.9636, -107.0328
+Ellicott, 38.8383, -104.3864
+Elm, 40.3536, -104.7833
+Elsmere, 38.8833, -104.7000
+Elwell, 40.3361, -104.9414
+Emma, 39.3650, -107.0611
+Empire, 39.7614, -105.6839
+Engleville, 37.1494, -104.4747
+Englewood, 39.6478, -104.9872
+Eno, 39.8872, -104.8436
+Erie, 40.0503, -105.0494
+Escalante, 38.7578, -108.2611
+Escalante Forks, 38.7333, -108.0667
+Espinosa, 37.1306, -105.9456
+Estabrook, 39.3831, -105.4289
+Estes Park, 40.3772, -105.5211
+Estrella, 37.3661, -105.9239
+Eureka, 37.8797, -107.5644
+Evans, 40.3764, -104.6917
+Evanston, 40.1069, -104.9381
+Evansville, 37.6711, -106.3183
+Ever Green Hills, 39.6333, -105.3333
+Everett, 39.0678, -106.5014
+Evergreen, 39.6333, -105.3167
+Evergreen West, 39.6333, -105.3333

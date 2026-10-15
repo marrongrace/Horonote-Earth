@@ -1,0 +1,190 @@
+Cabin Creek, 39.7406, -104.0300
+Caddoa, 38.0614, -102.9267
+Cahone, 37.6589, -108.8072
+Calcite, 38.4361, -105.8867
+Caldwell Place, 40.4353, -108.9753
+Calhan, 39.0356, -104.2967
+Calhoun, 40.1425, -102.8900
+California Oil Camp, 40.0833, -108.7833
+Calloway Place, 40.8553, -108.9325
+Calumet, 37.6928, -104.8592
+Camden, 40.3042, -103.5486
+Cameltown, 38.6128, -106.5650
+Cameo, 39.1486, -108.3203
+Camp Bird, 37.9728, -107.7258
+Camp George West, 39.7500, -105.1833
+Campion, 40.3494, -105.0772
+Campo, 37.1050, -102.5792
+Canfield, 40.0536, -105.0742
+Canon, 37.0433, -106.1453
+Canon City, 38.4000, -105.2167
+Canton, 40.3158, -104.3456
+Capitol City, 38.0072, -107.4661
+Capitol Hill, 39.7333, -104.9667
+Capulin, 37.2839, -106.1108
+Carbon Junction, 37.2375, -107.8661
+Carbonate, 39.7431, -107.3461
+Carbondale, 39.4022, -107.2106
+Carbonera, 39.4589, -108.9583
+Cardiff, 39.5061, -107.3103
+Cardinal, 39.9697, -105.5472
+Caribou, 39.9808, -105.5781
+Carlton(P O), 38.0858, -102.4181
+Carr, 40.8961, -104.8744
+Carr Place, 40.7569, -108.9017
+Carracas, 37.0050, -107.2581
+Carrizo Springs, 37.1636, -103.0344
+Carson, 37.8692, -107.3617
+Carterville, 39.6308, -106.6456
+Casa, 38.0092, -103.4717
+Cascade(El Paso), 38.8967, -104.9717
+Cascade(La Plata), 37.6033, -107.7619
+Castiel, 38.1072, -103.4625
+Castle Oaks, 39.3667, -104.8667
+Castle Rock, 39.3722, -104.8556
+Cathedral, 38.0958, -107.0333
+Catherine, 39.4072, -107.1522
+Cattle Creek, 39.4583, -107.2619
+Cedar, 38.1667, -108.4167
+Cedar Cove, 40.4158, -105.2650
+Cedar Creek, 38.4789, -107.7139
+Cedar Crest, 37.8069, -104.2981
+Cedar Grove, 38.0750, -104.9383
+Cedar Point, 39.3453, -103.8700
+Cedaredge, 38.9017, -107.9258
+Cedarwood, 37.9417, -104.6169
+Centennial, 39.6333, -104.9833
+Center, 37.7531, -106.1081
+Centerville, 38.7089, -106.0911
+Central City, 39.8019, -105.5136
+Centro, 37.2839, -106.1469
+Chacra, 39.5753, -107.4461
+Chaddsford, 39.7167, -104.8500
+Chama(Costilla), 37.1619, -105.3778
+Chama(Huerfano), 37.7189, -105.2983
+Champion Mill, 39.1375, -106.5039
+Chance, 38.4372, -106.8492
+Channing, 38.1436, -102.5489
+Chapel Hills, 38.8833, -104.8000
+Chattanooga, 37.8736, -107.7247
+Chautauqua, 40.0000, -105.2667
+Cheraw, 38.1069, -103.5097
+Cherrelyn, 39.6333, -104.9833
+Cherry, 39.3667, -104.8667
+Cherry Creek, 39.6000, -104.8833
+Cherry Hills Crest, 39.6167, -105.0000
+Cherry Hills Manor, 39.6167, -105.0000
+Cherry Hills Village, 39.6417, -104.9589
+Cherry Knolls, 39.6167, -105.0000
+Cherry Ridge, 39.6333, -104.9833
+Cherry Valley, 39.3833, -104.7500
+Cherrywood Village, 39.6167, -105.0000
+Chester, 38.3736, -106.3011
+Cheyenne Canon, 38.8833, -104.8000
+Cheyenne Wells, 38.8214, -102.3528
+Childrens Hospital, 39.7458, -104.9736
+Chimney Rock(P O), 37.2286, -107.3458
+Chipeta, 38.6811, -108.0083
+Chipita Park, 38.9244, -105.0061
+Chivington, 38.4364, -102.5431
+Chromo, 37.0364, -106.8428
+Chula Vista, 39.7500, -105.1833
+Cimarron, 38.4425, -107.5561
+Cinderella City, 39.6333, -104.9833
+Circle East Mall, 38.8500, -104.7833
+Citadel, 38.8500, -104.7833
+Clark(Routt), 40.7061, -106.9186
+Clark(Weld), 40.3278, -104.9250
+Clarkville, 40.3950, -102.6256
+Clay, 39.8586, -105.2633
+Cleora, 38.5133, -105.9694
+Cliffdale, 39.4086, -105.3758
+Clifford, 39.0439, -103.3508
+Clifton, 39.0919, -108.4483
+Climax, 39.3781, -106.1831
+Cloverly, 40.4567, -104.6258
+Coal Creek, 38.3611, -105.1478
+Coaldale, 38.3656, -105.7572
+Coalmont, 40.5625, -106.4439
+Coburn, 38.8467, -107.6353
+Cochetopa, 38.2167, -106.7500
+Codo, 37.5022, -105.1467
+Cody Park, 39.7158, -105.2697
+Cokedale, 37.1453, -104.6206
+Colby, 38.9317, -107.9747
+Cold Spring, 38.1494, -105.2419
+Collbran, 39.2406, -107.9606
+College, 40.4000, -104.7000
+College Heights, 37.2833, -107.8667
+College View, 39.6631, -105.0211
+Colona, 38.3250, -107.7792
+Colorado City, 37.9453, -104.8347
+Colorado General Hospital, 39.7306, -104.9386
+Colorado Mountain Estates, 38.9500, -105.2833
+Colorado Springs, 38.8339, -104.8208
+Colorado Springs Hospital, 38.8019, -104.8161
+Columbine(Arapahoe), 39.6167, -105.0000
+Columbine(Routt), 40.8542, -106.9653
+Columbine Hills, 39.6167, -105.0000
+Columbine Knolls, 39.6167, -105.0000
+Columbine Manor, 39.6167, -105.0000
+Columbine Valley, 39.6011, -105.0317
+Columbus, 37.3278, -107.6294
+Comanche, 39.9856, -104.3000
+Comer, 40.4678, -104.8539
+Commerce City, 39.8000, -104.9333
+Como, 39.3161, -105.8922
+Concrete, 38.3833, -104.9972
+Conejos, 37.0883, -106.0192
+Conifer, 39.5211, -105.3047
+Conifer Mountain, 39.5000, -105.3333
+Conifer Park, 39.5000, -105.3333
+Cooper, 40.3606, -103.5286
+Cope, 39.6639, -102.8506
+Copper Spur, 39.9106, -106.6878
+Copperdale, 39.9142, -105.3489
+Cordova Plaza, 37.1333, -104.8292
+Cornelia, 38.0928, -103.2878
+Corner Windmill, 37.5569, -104.1144
+Cornish, 40.5231, -104.4128
+Corona, 39.9344, -105.6847
+Coronado, 39.8333, -104.9500
+Corson Place, 38.3242, -106.7811
+Cortez, 37.3489, -108.5853
+Cory, 38.7881, -107.9867
+Cotopaxi, 38.3703, -105.6875
+Cottonwood(Gilpin), 39.7633, -105.4242
+Cottonwood(Saguache), 37.9344, -105.6436
+Cottonwood Crossing, 37.6208, -103.4347
+Country Club Estates, 40.5833, -105.1000
+Country Club Park, 40.0000, -105.2667
+Coventry, 38.1600, -108.3742
+Cowdrey, 40.8597, -106.3125
+Cozy Corner, 39.9139, -105.0253
+Cragmor, 38.8833, -104.8000
+Cragmor Sanatorium, 38.8906, -104.7944
+Craig, 40.5153, -107.5458
+Craig Place, 40.7203, -108.9536
+Craig Rehabilitation Hospital, 39.7417, -105.0639
+Craig South Highlands, 40.4850, -107.5625
+Crawford, 38.7039, -107.6083
+Creede, 37.8492, -106.9258
+Crescent, 39.9283, -105.3422
+Crescent Village, 39.9197, -105.3606
+Cresta Vista, 38.8000, -104.8167
+Crested Butte, 38.8697, -106.9872
+Crestmoor, 39.6833, -104.9333
+Crestone, 37.9964, -105.6992
+Cripple Creek, 38.7467, -105.1778
+Crisman, 40.0408, -105.3608
+Critchell, 39.4950, -105.2061
+Crook, 40.8589, -102.8006
+Crossons, 39.3992, -105.3858
+Crowley, 38.1931, -103.8556
+Crystal, 39.0592, -107.1006
+Crystola, 38.9558, -105.0267
+Cuchara, 37.3792, -105.0997
+Cuchara Junction, 37.6669, -104.6856
+Cuerna Verde Park, 37.9219, -104.9708
+Culp, 38.1358, -102.6089
+Cumbres, 37.0197, -106.4472

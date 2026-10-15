@@ -1,0 +1,106 @@
+Galatea, 38.5044, -103.0242
+Galena, 38.2619, -105.2772
+Galeton, 40.5208, -104.5853
+Galien, 40.6878, -103.0078
+Garcia, 37.0042, -105.5367
+Garden City, 40.3939, -104.6889
+Gardner, 37.7833, -105.1650
+Garfield, 38.5517, -106.2917
+Garland City, 37.4525, -105.3417
+Garo, 39.1078, -105.8897
+Gary, 40.0739, -103.5844
+Gaskil, 40.3306, -105.8617
+Gates, 40.5314, -104.7547
+Gateview, 38.2936, -107.2181
+Gateway, 38.6833, -108.9833
+Gato, 37.0500, -107.2000
+Gem Village, 37.2192, -107.6367
+Genesee, 39.7500, -105.1833
+Genoa, 39.2783, -103.4997
+Georgetown, 39.7061, -105.6969
+Gerrard, 37.6772, -106.5925
+Giddings, 40.6214, -105.0100
+Gilcrest, 40.2819, -104.7772
+Gill, 40.4542, -104.5417
+Gillet, 38.7819, -105.1222
+Gilman, 39.5328, -106.3933
+Gilpin(Bent), 37.9461, -103.1842
+Gilpin(Gilpin), 39.8908, -105.5075
+Gilson Gulch, 39.7617, -105.5075
+Gilsonite, 39.1769, -108.7781
+Glacier Gorge Junction, 40.3078, -105.6428
+Glade Park, 39.0000, -108.7333
+Gladel, 38.0167, -108.7833
+Gladstone, 37.8903, -107.6497
+Glen Comfort, 40.3936, -105.4397
+Glen Cove, 38.8758, -105.0722
+Glen Echo, 40.6986, -105.5847
+Glen Eden, 40.7172, -106.9144
+Glen Eyie, 38.8917, -104.8839
+Glen Haven, 40.4539, -105.4486
+Glen Park, 39.1144, -104.9197
+Glendale(Arapahoe), 39.7050, -104.9331
+Glendale(Boulder), 40.0819, -105.3658
+Glendevey, 40.8103, -105.9344
+Glenelk, 39.4633, -105.3542
+Glenisle, 39.4089, -105.5092
+Glentivar, 39.2333, -106.0000
+Glenwood Springs, 39.5506, -107.3242
+Golconda, 37.4575, -108.1517
+Gold Hill, 40.0631, -105.4036
+Golden, 39.7556, -105.2206
+Goldfield, 38.7178, -105.1256
+Goodale, 38.1181, -102.4347
+Goodell Corner, 40.7353, -105.5806
+Gooding, 40.0736, -105.0825
+Goodnight, 38.2611, -104.6694
+Goodpasture, 38.0833, -104.9194
+Goodrich, 40.3511, -104.0611
+Gordon, 37.6817, -104.8544
+Gothic, 38.9592, -106.9892
+Gould, 40.5264, -106.0261
+Gove, 40.4106, -104.9267
+Gowanda, 40.2047, -104.9000
+Graft, 37.4478, -102.8919
+Granada, 38.0639, -102.3100
+Granby, 40.0861, -105.9389
+Grand Island, 39.9708, -105.6028
+Grand Junction, 39.0639, -108.5500
+Grand Lake, 40.2522, -105.8225
+Grand Mesa, 39.0403, -107.9492
+Grand Valley, 39.4519, -108.0522
+Grandview, 37.2275, -107.8264
+Grandview Estates, 39.5436, -104.8206
+Granite, 39.0436, -106.2628
+Grant, 39.4597, -105.6611
+Grate, 38.0872, -102.4153
+Graymont, 39.6944, -105.8000
+Greeley, 40.4233, -104.7086
+Greeley Junction, 40.4556, -104.6939
+Greeley Mall, 40.4000, -104.7000
+Green Mountain, 39.6833, -105.1333
+Green Mountain Camp, 40.0667, -106.4000
+Green Mountain Estates, 39.6833, -105.1333
+Green Mountain Falls, 38.9350, -105.0164
+Green Mountain Village, 39.6981, -105.1319
+Green Towers, 37.9167, -104.9333
+Green Valley Acres, 39.5022, -105.3114
+Greenhorn, 37.9069, -104.8528
+Greenland, 39.1825, -104.8547
+Greenway Park, 39.9167, -105.1000
+Greenwood, 38.2050, -105.0964
+Greenwood Village, 39.6172, -104.9503
+Gresham, 40.1403, -105.4317
+Greystone, 40.6094, -108.6733
+Griff, 40.7822, -103.0067
+Griffin, 40.2425, -103.9450
+Grizzly, 39.5578, -107.2472
+Grover, 40.8714, -104.2247
+Guadalupe, 37.0953, -106.0250
+Guffey, 38.7511, -105.5208
+Gulnare, 37.3172, -104.7514
+Gunbarrel Estates, 40.1833, -105.1167
+Gunbarrel Meadows, 40.0000, -105.2667
+Gunnison, 38.5458, -106.9247
+Guston, 37.9164, -107.6897
+Gypsum, 39.6469, -106.9511
