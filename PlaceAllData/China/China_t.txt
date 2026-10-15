@@ -1,0 +1,518 @@
+T'a-t'e-lang, 38.4667, 85.5833
+T'ai-p'ing, 30.3000, 118.2000
+T'aichou > Taizhou, 32.5000, 119.9667
+T'aichung, 24.1500, 120.6833
+T'aihsi, 23.7000, 120.1833
+T'aihsien > Taizhou, 32.5000, 119.9667
+T'aima, 22.6167, 120.9833
+T'ainan, 23.0000, 120.2000
+T'ainanhsien, 23.3000, 120.3167
+T'aipei, 25.0500, 121.5000
+T'aipeihsien, 25.0167, 121.4500
+T'aitung, 22.7500, 121.1500
+T'ang-shan, 40.1667, 116.3667
+T'ao-hua, 31.3833, 120.0667
+T'aonan > Tao'an, 45.3667, 122.7833
+T'ieh-ling > Tieling, 42.3000, 123.8167
+T'ien-ching > Tianjin, 39.1333, 117.2000
+T'ienchung, 23.8667, 120.5833
+T'ienshui > Tianshui, 34.5000, 105.9667
+T'ouch'eng, 24.8667, 121.8167
+T'sangwu > Wuzhou, 23.5000, 111.4500
+T'u-lu-fan, 42.9333, 89.1667
+T'uch'ang, 24.5833, 121.4833
+T'uch'eng, 24.9833, 121.4333
+T'ung-ch'i > Tunxi, 29.7333, 118.3000
+T'ung-hua > Tonghua, 41.6833, 125.9167
+T'ung-liao > Tongliao, 43.6500, 122.2333
+T'ungch'uan > Tongchuan, 35.0167, 109.0167
+T'ungchou > Tongxian, 39.9167, 116.6500
+T'unghsien > Tongxian, 39.9167, 116.6500
+T'ungshan, 34.3000, 117.2667
+Ta'erwan, 31.8167, 113.4167
+Tai-lien > Lüda, 38.8833, 121.5833
+Ta-t'ung > Datong, 40.0833, 113.3000
+Tabei, 39.7333, 122.4833
+Tacheng, 46.7500, 82.9500
+Tachia, 24.3500, 120.6167
+Tachoshui, 24.3333, 121.7333
+Taer, 34.1500, 98.8333
+Tafanlieh, 21.9667, 120.7667
+Taguke, 32.1167, 84.5833
+Taha, 47.5500, 124.2333
+Tahsi, 24.9500, 121.8833
+Tahu, 24.4333, 120.8667
+Tai Hang, 22.2833, 114.1833
+Tai Lam Chung, 22.3667, 114.0167
+Tai Long, 22.2167, 113.9833
+Tai Mong Tsai, 22.4000, 114.3000
+Tai O, 22.2500, 113.8500
+Tai Po Tsai, 22.3500, 114.2500
+Tai Shui Hang, 22.4167, 114.2167
+Tai Tong, 22.4167, 114.0167
+Tai Wan, 22.1667, 114.2500
+Tai Wan Tau, 22.3000, 114.2833
+Tai'an(Shandong), 36.2000, 117.1167
+Tai'an(Liaoning), 41.3833, 122.4500
+Tai'an(Sichuan), 30.0833, 105.7833
+Tai'angang, 31.7167, 121.6667
+Taibai, 34.0000, 107.3000
+Taibus Qi(Baochang), 41.9333, 115.3667
+Taicang, 31.4333, 121.1167
+Taichu > T'aichung, 24.1500, 120.6833
+Taicunzhen, 31.4500, 119.0500
+Taigu, 37.4667, 112.5000
+Taihe(Jiangxi), 26.8167, 114.9167
+Taihe(Sichuan), 30.1667, 105.9333
+Taihe(Anhui), 33.1833, 115.6000
+Taihezhen(Jilin), 44.7833, 123.4833
+Taihezhen(Suining,Sichuan), 30.1000, 106.0500
+Taihezhen(Meishan,Sichuan), 30.1167, 103.8333
+Taihoku > T'aipei, 25.0500, 121.5000
+Taihu, 30.4333, 116.2667
+Taijiang, 26.5333, 108.3667
+Taijimiao, 40.9167, 113.7667
+Taijüan > Taiyuan, 37.9167, 112.5000
+Taikang, 34.0667, 114.8333
+Taikou, 31.8833, 111.1167
+Tailai, 46.3833, 123.4500
+Taimei, 23.3167, 114.4833
+Taining, 26.9000, 117.1500
+Taiping(Guangdong), 22.8167, 113.6833
+Taiping(Sichuan), 30.4000, 103.6167
+Taiping(Guangxi), 22.6667, 107.0833
+Taipingchang(Nanchong,Sichuan), 30.6500, 105.9000
+Taipingchang(Meishan,Sichuan), 29.9167, 103.8167
+Taipingchang(Hechuan,Chongqing), 29.8833, 106.0667
+Taipingchang(Leshan,Sichuan), 29.5500, 103.5500
+Taipingchang(Yunnan), 27.4167, 103.0667
+Taipingchang(Guang'an,Sichuan), 30.1667, 106.3500
+Taipingchang(Chengdu,Sichuan), 30.4167, 103.7667
+Taipingchuan(Baicheng,Jilin), 44.3833, 123.1833
+Taipingchuan(Jilin City,Jilin), 42.6000, 127.3333
+Taipingdian, 32.1333, 111.7500
+Taipingkou, 29.8333, 113.5833
+Taipingling, 43.4333, 128.1500
+Taipingshan(Benxi,Liaoning), 41.6000, 123.6833
+Taipingshan(Yingkou,Liaoning), 40.5667, 122.4167
+Taipingshao, 40.9000, 125.1333
+Taipingsi, 29.4000, 103.5667
+Taipingxigou, 42.6000, 121.2167
+Taipingzhai, 42.2333, 124.1167
+Taipingzhen(Luzhou,Sichuan), 29.4000, 105.7833
+Taipingzhen(Gansu), 35.7000, 107.6167
+Taipingzhen(Chengdu,Sichuan), 30.4333, 104.2000
+Taipingzhen(Heilongjiang), 46.7333, 130.7333
+Taipingzhuang(Taijing), 40.1333, 117.6000
+Taipingzhuang(Liaoning), 42.6333, 123.7500
+Taipingzhuang(Beijing), 40.0500, 116.4000
+Tairiqiao, 30.9833, 121.5500
+Taishan(Guangdong), 22.2667, 112.7333
+Taishan(Shanxi), 39.0167, 113.6000
+Taishanchang, 30.5333, 106.7000
+Taishun, 27.5500, 119.7167
+Taitouying, 40.0333, 119.2000
+Taixi, 24.7000, 116.9333
+Taixian, 32.5167, 120.1500
+Taixing, 32.1833, 120.0167
+Taixizhen, 31.0500, 119.8167
+Taiyang, 30.2000, 119.3167
+Taiyanggong, 39.9667, 116.4167
+Taiyuan, 37.9167, 112.5000
+Taizhao, 30.0167, 93.1333
+Taizhou, 32.5000, 119.9667
+Takao > Kaohsiung, 22.6333, 120.2833
+Takela, 37.9000, 76.7333
+Takenake, 34.1833, 81.3333
+Takow > Kaohsiung, 22.6333, 120.2833
+Talagou, 41.6167, 120.5333
+Talimuashili, 39.1333, 77.0500
+Tamusuke, 38.0500, 76.8833
+Tanbu(Jiangxi), 28.1333, 114.2000
+Tanbu(Shandong), 35.8500, 118.2833
+Tancheng, 34.6167, 118.3833
+Tandian, 40.6500, 124.7667
+Tang'erli, 39.1500, 116.7167
+Tangba, 30.0000, 105.7667
+Tangchi, 47.0000, 123.7667
+Tangchigou, 41.0667, 124.1833
+Tangcun(Zhejiang), 29.8333, 118.9000
+Tangcun(Guangdong), 25.4333, 113.1667
+Tangdaohe, 40.6333, 118.9667
+Tangfang(Hebei), 39.4833, 118.0167
+Tangfang(Liaoning), 41.3333, 120.5667
+Tangfang(Yunnan), 27.0000, 101.1333
+Tangfangqiao, 31.7500, 120.8333
+Tangfeng, 38.1167, 115.5000
+Tanggangzi, 41.0167, 122.9000
+Tanggengtou, 30.9167, 119.0500
+Tanggou, 33.9833, 118.9500
+Tanggu, 39.0167, 117.6667
+Tangguantun, 38.7167, 116.9167
+Tanggulashan(Tuotuoheyan), 34.0833, 92.7500
+Tanggushiluke, 38.7500, 80.9167
+Tanghe, 32.7167, 112.8000
+Tanghekou, 40.7333, 116.6333
+Tanghu, 39.1833, 115.4000
+Tanghuang, 31.6833, 119.4167
+Tangijatuo, 29.6000, 106.6500
+Tangjia, 22.3833, 113.6000
+Tangjiagou, 30.8000, 117.4667
+Tangjiang, 25.8500, 114.7333
+Tangjiapao, 41.9833, 122.2333
+Tangjiaqiao, 31.4000, 119.2000
+Tangjiqiaozhen, 31.2167, 121.5167
+Tangkou, 30.1000, 118.1833
+Tangling, 26.2333, 119.4000
+Tanglitun, 41.7500, 123.9500
+Tangmai, 30.1333, 95.1833
+Tangmazhai, 41.1667, 122.7333
+Tangpu(Yichun,Jiangxi), 28.4667, 114.9667
+Tangpu(Shaoxing,Zhejiang), 29.8500, 120.7833
+Tangqi, 30.4833, 120.1833
+Tangqiao, 31.2167, 119.2500
+Tangsanying, 41.6333, 117.6667
+Tangschan > Tangshan, 39.6333, 118.1833
+Tangshan(Jiangsu), 32.0833, 119.0500
+Tangshan(Hebei), 39.6333, 118.1833
+Tangshi, 31.5500, 120.8500
+Tangtou(Guizhou), 27.7000, 108.2833
+Tangtou(Shandong), 35.2667, 118.5833
+Tangtou(Jiangsu), 31.6333, 120.3167
+Tangtouxia, 22.8333, 114.1000
+Tangxi, 29.0667, 119.3833
+Tangxian, 38.7500, 114.9667
+Tangxianzhen, 31.9833, 113.1167
+Tangyi, 36.5333, 115.7833
+Tangyin(Henan), 35.9167, 114.3500
+Tangyin(Jiangxi), 27.5333, 116.2667
+Tangyuan, 46.7000, 129.9167
+Tangzha, 32.0833, 120.8167
+Tanjiafang, 36.6833, 118.6000
+Tanjiahe, 31.9667, 113.9333
+Tanjiang, 24.1167, 116.5333
+Tanjiaqiao, 30.1833, 118.2500
+Tankou, 25.8000, 114.8333
+Tanshui, 25.1667, 121.4333
+Tantou(Jiangxi), 26.8833, 115.4333
+Tantou(Zhejiang), 29.1167, 121.1500
+Tantou(Fujian), 26.0500, 119.5833
+Tatung > Datong, 37.0500, 101.7500
+Tanxi, 28.9667, 115.6333
+Tanxia, 23.9667, 115.5667
+Tanyi, 35.2333, 118.1500
+Tao'an, 45.3667, 122.7833
+Taochong, 31.0667, 118.1000
+Taocun, 37.1667, 121.0833
+Taodigou, 40.8667, 116.2333
+Taoerdeng, 40.7333, 119.0333
+Taohe, 39.2000, 116.8333
+Taohuachiyingzi, 42.3000, 121.1000
+Taohuanbuligai, 42.2167, 122.2333
+Taohuatu, 41.6667, 120.6667
+Taohuayuan, 30.5667, 118.7000
+Taohuazhen, 40.0667, 114.9833
+Taojiagou, 29.8000, 104.8000
+Taojiahe, 30.9167, 115.9333
+Taojialiang, 42.6000, 121.4167
+Taolahusu, 42.5667, 116.8000
+Taolaizhao, 44.8500, 125.9500
+Taolakepa, 32.0833, 85.3667
+Taole, 38.7667, 106.6667
+Taolin, 34.5000, 118.5000
+Taoling, 30.3500, 118.2667
+Taoluo, 35.2833, 119.4000
+Taowu, 31.7833, 118.7667
+Taoxi(Anhui), 31.5500, 117.0000
+Taoxi(Zhejiang), 28.7333, 119.6000
+Taoxi(Fujian), 25.3000, 116.0833
+Taoxiantun, 41.6500, 123.4500
+Taoyuan(Fujian), 25.8000, 117.5333
+Taoyuan(Hunan), 28.7667, 111.3333
+Taozhu, 28.8333, 121.5167
+Taozhuang, 30.9667, 120.8000
+Taqian, 29.0500, 117.0500
+Taqiao(Anhui), 31.4667, 118.4167
+Taqiao(Jiangxi), 28.4000, 117.0333
+Taqin, 30.9500, 81.3333
+Tarhu, 41.1500, 107.9667
+Tashan(Huludao,Liaoning), 40.8500, 120.9333
+Tashan(Anshan,Liaoning), 40.8000, 122.6500
+Tashikuergan, 37.8167, 75.2333
+Tashimalike, 39.1000, 75.6833
+Tashiyi, 29.7167, 112.8000
+Tashuik'u, 25.2167, 121.5000
+Tasitan, 39.2833, 76.1167
+Tatsienlu, 30.0500, 102.0333
+Tawu, 22.3667, 120.9000
+Taxi, 49.4333, 126.1333
+Taxusi, 32.9667, 98.1667
+Tayayi, 39.4167, 115.0500
+Tayuan, 51.4500, 124.2667
+Tayüan, 25.0667, 121.1833
+Tazhuang, 39.9167, 117.2167
+Tazicheng, 46.5833, 123.1000
+Tazishan, 29.4667, 104.2333
+Tch'ang-Cha > Changsha, 28.2000, 112.9667
+Tcheng-Tcheou > Zhengzhou, 34.8000, 113.6500
+Tchong-K'ing > Chongqing, 30.6500, 103.6833
+Tekes, 43.1667, 81.7167
+Tekesi, 43.1667, 81.7167
+Teladuomu, 29.6333, 84.2167
+Teng'aopu, 41.0833, 122.8167
+Tengchong, 25.0667, 98.4833
+Tengjiabao, 31.1667, 115.4833
+Tengqiao, 18.3667, 109.7667
+Tengtian(Jiangxi), 27.0667, 115.6667
+Tengxian(Guangxi), 23.3500, 110.8833
+Tengxian(Shandong), 35.1333, 117.1667
+Ti-hua > Wulumuqi, 43.8000, 87.5833
+Tian'e, 25.0167, 107.3333
+Tianbao, 24.6000, 117.5833
+Tianchang, 32.6833, 119.0167
+Tiancunpu, 39.1000, 115.6833
+Tiandeng, 23.1500, 107.1667
+Tiandong, 23.6000, 107.1333
+Tianfanjie, 29.3333, 116.8333
+Tiangang(Jilin City,Jilin), 43.9167, 127.0000
+Tiangang(Changchun,Jilin), 43.4000, 125.9000
+Tiangongsi, 39.2333, 115.8833
+Tianhe, 27.0167, 114.5000
+Tianhekou, 32.1333, 113.4167
+Tianhelong, 43.9333, 120.6500
+Tianhuang, 35.4833, 117.3000
+Tianjia(Liaoning), 41.1167, 122.0500
+Tianjia(Sichuan), 29.6667, 105.1333
+Tianjiaba, 32.1333, 110.0500
+Tianjiatun, 41.6500, 123.7333
+Tianjiawopu, 42.4667, 122.6333
+Tianjiazhen, 29.9333, 115.4333
+Tianjin(Tientsin), 39.1333, 117.2000
+Tianjing, 31.4500, 120.7667
+Tianjun, 37.4167, 98.9667
+Tiankai, 39.6333, 115.8500
+Tianlin(Guangxi), 24.2333, 106.0500
+Tianlin(Sichuan), 29.8167, 105.3167
+Tianmashan, 31.0667, 121.1333
+Tianmen, 30.6667, 113.1333
+Tianpu, 31.9333, 121.1167
+Tianqiaochang, 40.8667, 121.0333
+Tianqiaoling, 43.4333, 129.6333
+Tianquan, 30.1667, 102.8000
+Tianshenggang, 32.0500, 120.7500
+Tianshifu, 41.2833, 124.3500
+Tianshui, 34.5000, 105.9667
+Tianshuijing(Liaoning), 41.3167, 121.8000
+Tianshuijing(Gansu), 40.2833, 95.3500
+Tianshuituo, 39.3333, 118.2000
+Tianshuizhan, 41.0000, 123.5667
+Tiantai, 29.1500, 121.0333
+Tiantang, 22.5333, 111.9167
+Tiantou(Zhejiang), 28.8000, 120.6500
+Tiantou(Jiangxi), 26.3167, 115.9500
+Tianwangsi, 31.7500, 119.2000
+Tianxin(Zhuzhou,Hunan), 27.8833, 113.1000
+Tianxin(Huaihua,Hunan), 27.3500, 111.0000
+Tianxin(Jiangxi), 28.1833, 114.5833
+Tianxingqiao, 32.0833, 119.9500
+Tianxiyang, 26.5167, 118.5500
+Tianyang, 23.8500, 106.5667
+Tianyangping, 29.1833, 105.2667
+Tianzhen, 40.4667, 114.1000
+Tianzhongying, 33.2167, 115.3667
+Tianzhu(Gansu), 37.2333, 102.9833
+Tianzhu(Guizhou), 26.8333, 109.0000
+Tianzhuang(Hunan), 25.7167, 113.6667
+Tianzhuang(Hebei), 39.4167, 117.9000
+Tianzhuangtai, 40.8333, 122.1333
+Tiaodengchang, 30.7833, 106.3667
+Tiechang(Hebei), 40.0667, 118.2000
+Tiechang(Guizhou), 26.5667, 103.9667
+Tiechang(Guangdong), 24.1667, 115.5000
+Tiechang(Jilin), 41.7333, 126.1833
+Tiechangpu, 29.4833, 104.3333
+Tiefo, 29.7500, 104.5500
+Tiekou, 37.2667, 121.2167
+Tieli, 46.9833, 128.0333
+Tieling, 42.3000, 123.8167
+Tielutou, 27.8167, 115.8000
+Tientsin > Tianjin, 39.1333, 117.2000
+Tieshan, 30.2333, 114.8667
+Tieshanguan, 23.5000, 113.9000
+Tin Sam, 22.3667, 114.1833
+Ting Kau, 22.3667, 114.0833
+Ting-hsien > Dingxian, 38.5333, 114.9833
+Tingkou, 36.5667, 119.7667
+Tinglin, 30.8833, 121.2833
+Tingliuhe, 39.5667, 118.8167
+Tingqian, 30.1667, 115.9000
+Tingsiqiao, 29.8333, 114.2000
+Tingzitou, 30.2000, 119.7667
+Titou, 29.8667, 112.7000
+Toba, 31.3000, 97.6667
+Togtoh, 40.3667, 111.1833
+Toli, 45.9500, 83.6167
+Tong'an, 24.7667, 118.1333
+Tong'anqiao, 31.3667, 120.4500
+Tongbai(Hebei), 39.5833, 116.7333
+Tongbai(Henan), 32.3667, 113.4000
+Tongbei, 47.7500, 126.7667
+Tongcheng(Hubei), 29.1833, 113.8167
+Tongcheng(Anhui), 31.0500, 116.9667
+Tongchengzha, 31.5000, 118.1167
+Tongchengzhuang, 39.3667, 117.6000
+Tongchuan, 35.0167, 109.0167
+Tongdao, 26.3833, 109.3833
+Tongde, 35.2833, 100.7000
+Tongerbao, 41.4333, 123.0333
+Tonggou, 41.8833, 125.7667
+Tonggu(Jiangxi), 28.5500, 114.3500
+Tonggu(Guangdong), 21.8833, 112.9167
+Tongguan(Shaanxi), 34.6333, 110.3333
+Tongguan(Yunnan), 23.3000, 101.3833
+Tongguan(Hunan), 28.4833, 112.8000
+Tongguanyi, 29.3333, 106.3833
+Tongguye, 37.3667, 78.8000
+Tonghai, 24.1167, 102.8167
+Tonghaikou, 30.2333, 113.1333
+Tonghe(Heilongjiang), 45.9833, 128.7500
+Tonghe(Henan), 32.9333, 112.7500
+Tonghua(Kuaidamao), 41.6833, 125.9167
+Tongjiang(Sichuan), 31.9667, 107.2333
+Tongjiang(Heilongjiang), 47.6667, 132.5000
+Tongjiangchang, 29.6167, 103.7167
+Tongjiangkou, 42.6167, 123.6833
+Tongjing, 31.7833, 118.5500
+Tongjuzhen, 38.6000, 117.1833
+Tongli, 31.1667, 120.7167
+Tongliang, 29.8500, 106.0500
+Tongliao, 43.6500, 122.2333
+Tongling(Anhui), 30.8833, 117.7667
+Tongling(Guangxi), 23.4667, 109.6667
+Tonglu, 29.8000, 119.6667
+Tongmu(Jiangxi), 27.9500, 113.9167
+Tongmu(Guangxi), 24.1500, 110.0667
+Tongnan, 30.1833, 105.8000
+Tongqin, 28.8667, 119.9333
+Tongquansi, 30.3833, 104.8333
+Tongren(Qinghai), 35.5333, 101.9000
+Tongren(Guizhou), 27.6333, 109.0500
+Tongrengchang, 30.0333, 106.7000
+Tongshan, 29.6333, 114.4833
+Tongshi, 35.4333, 117.7167
+Tongshuping, 27.2833, 114.9000
+Tongtai, 32.6333, 120.7833
+Tongtan, 28.9333, 105.2833
+Tongtianheyan, 33.8333, 92.4667
+Tongwei, 35.1167, 105.4500T
+Tongxi, 29.9833, 106.1333
+Tongxian, 39.9167, 116.6500
+Tongxianchang, 30.2333, 105.4000
+Tongxiang, 30.6333, 120.5333
+Tongxin, 37.0333, 106.1500
+Tongxinchang, 29.7000, 106.4333
+Tongxing, 30.5833, 106.2000
+Tongxu, 34.4833, 114.4667
+Tongyu, 44.8000, 123.0833
+Tongyuan(Zhejiang), 30.4667, 120.8667
+Tongyuan(Jiangxi), 28.0667, 116.1333
+Tongyuanpu, 40.8167, 123.9000
+Tongzhaipu, 32.8000, 112.7333
+Tongzi, 28.1333, 106.8167
+Tongzidixia, 41.1333, 120.5667
+Toubei, 26.7333, 116.0833
+Toudaogou(Jilin), 42.7667, 129.2000
+Toudaogou(Liaoning), 41.6167, 121.6667
+Toudaogou(Hebei), 40.9667, 117.9833
+Toukansi, 29.3667, 119.1000
+Touliu, 23.7167, 120.5333
+Tounan, 23.6833, 120.4667
+Toupeng, 30.3167, 120.5167
+Toutai(Liaoning), 41.6833, 121.1833
+Toutai(Heilongjiang), 45.6667, 124.8333
+Toutaizi, 42.3167, 122.8167
+Toutuohe, 31.1000, 116.4167
+Touzhan, 49.4500, 119.6833
+Ts'ang-hsien > Cangzhou, 38.3167, 116.8500
+Ts'aot'un, 23.9833, 120.6833
+Tsamkong > Zhanjiang, 21.2000, 110.3833
+Tschangscha > Changsha, 28.2000, 112.9667
+Tschangtschun > Changchun, 43.8833, 125.3167
+Tschengtu > Chengdu, 30.6500, 104.0667
+Tschingtau > Qingdao, 36.1000, 120.3167
+Tschungking > Chongqing, 30.6500, 103.6833
+Tsethang > Zedang, 29.2667, 91.7667
+Tsining > Jining, 35.4167, 116.6000
+Tsingkiang > Qingjiang, 28.0833, 115.4833
+Tsingtao > Qingdao, 36.1000, 120.3167
+Tsingyuan > Jining, 35.4167, 116.6000
+Tsitsihar > Qiqihar, 47.3167, 123.9167
+Tsoying, 22.6833, 120.2833
+Tsuen Wan(Quanwan), 22.3667, 114.1167
+Tsun-i > Zunyi, 27.6500, 106.9500
+Tuanfeng, 30.6333, 114.8500
+Tuannian, 29.9167, 106.0500
+Tuanpi, 30.7333, 115.2167
+Tuanshan, 40.0333, 123.5667
+Tuanwang, 36.7500, 120.6333
+Tuanxi, 27.4667, 107.1333
+Tucheng(Guizhou), 28.2000, 105.9667
+Tucheng(Liaoning), 38.8833, 121.2500
+Tuchengzi(Dandong,Liaoning), 40.4833, 124.4000
+Tuchengzi(Shenyang,Liaoning), 42.4500, 122.7333
+Tuchengzi(Hebei), 41.3333, 116.4833
+Tuchengzicun, 41.8667, 120.6833
+Tuchengziwuhao, 40.9333, 113.9667
+Tudian, 30.5833, 120.6167
+Tudichang, 30.1000, 103.9333
+Tuditang, 30.2000, 114.3000
+Tuen Mun, 22.4000, 113.9667
+Tuergate, 40.4667, 75.3500
+Tuhepu, 40.9000, 122.8167
+Tuhuangba, 31.6667, 108.3500
+Tuibo, 44.0167, 127.7833
+Tulaodian, 41.2167, 121.4500
+Tuling, 25.1833, 118.8333
+Tumen, 42.9667, 129.8167
+Tumenpu, 29.8167, 103.6500
+Tumenzi, 37.7167, 103.1500
+Tumoteqi, 40.8667, 111.4667
+Tumu, 40.3833, 115.6000
+Tunchang, 19.4667, 110.1333
+Tung O, 22.2000, 114.1333
+Tungho, 22.9667, 121.3000
+Tunghwa > Tonghua, 41.6833, 125.9167
+Tungkang, 22.4667, 120.4333
+Tungshih, 24.2500, 120.8167
+Tunliu, 36.3167, 112.9000
+Tunxi, 29.7333, 118.3000
+Tuobalage, 31.6167, 88.1667
+Tuocheng, 24.0833, 115.2167
+Tuoheji, 33.4333, 117.4333
+Tuokedingling, 32.7500, 84.9167
+Tuokexun, 42.7833, 88.6333
+Tuoli(Beijing), 39.7667, 116.0167
+Tuoli(Xinjiang), 45.9500, 83.6167
+Tuolunduo, 50.5833, 120.0833
+Tuowu, 28.9667, 102.2167
+Tuqiao(Wuxi,Jiangsu), 31.6500, 120.4000
+Tuqiao(Sichuan), 30.4000, 105.4667
+Tuqiao(Nanjing,Jiangsu), 31.9333, 119.0500
+Tuqiaozhen, 30.5333, 104.8333
+Tuquan, 45.4333, 121.8333
+Tuquiaochang, 29.7833, 106.0167
+Turfan > T'u-lu-fan, 42.9333, 89.1667
+Turpan > T'u-lu-fan, 42.9333, 89.1667
+Tushan, 34.2333, 117.8500
+Tutaizi, 41.0167, 122.6333
+Tutang, 29.3500, 116.4000
+Tuwang, 29.1000, 105.8000
+Tuxiaqiao, 28.7833, 121.4833
+Tuxsun, 42.7833, 88.6333
+Tuyün > Duyun, 26.2000, 107.5167
+Tzekung > Zigong, 29.4000, 104.7833
+Tzeliutsing > Zigong, 29.4000, 104.7833
+Tzu-kung > Zigong, 29.4000, 104.7833
+Tzu-po(South Shandong) > Boshan, 36.4833, 117.8333
+Tzu-po(Shandong) > Zibo, 36.7833, 118.0167
+Têwo, 34.0333, 103.0833

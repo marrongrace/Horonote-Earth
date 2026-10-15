@@ -1,0 +1,57 @@
+Ebian, 29.1667, 103.3333
+Echeng, 30.4000, 114.8500
+Ejin Horo Qi, 39.4500, 109.6667
+Ejin Qi, 41.8333, 100.8333
+Emei, 29.6000, 103.5167
+Emin, 46.5333, 83.6500
+Emu, 43.7500, 128.1667
+Encha, 37.4167, 115.7000
+Enle, 24.0000, 101.1167
+Enping, 22.1833, 112.2833
+Enshi, 30.2833, 109.3167
+Enyang, 31.8000, 106.5167
+Erdaobaihe, 42.3667, 128.1167
+Erdaofang(Anshan,Liaoning), 41.6167, 122.5667
+Erdaofang(Fushun,Liaoning), 41.9000, 123.9500
+Erdaofangshen, 42.1500, 123.2833
+Erdaogangzi(Jinzhou,Liaoning), 41.9500, 122.1500
+Erdaogangzi(Mudanjiang,Heilongjiang), 42.0667, 123.1000
+Erdaohe, 43.6167, 127.5833
+Erdaohezi(Harbin,Heilongjiang), 45.1167, 127.2667
+Erdaohezi(Mudanjiang,Heilongjiang), 45.1333, 129.6500
+Erdaojingzi, 41.8167, 122.3333
+Erdaoliangzi(Hebei), 40.5167, 118.0500
+Erdaoliangzi(Liaoning), 40.8333, 119.0667
+Erdaowan, 47.9667, 124.5500
+Erdiao, 32.2000, 121.2000
+Erenhot, 43.7667, 112.0833
+Ergun Youqi, 50.2333, 120.1667
+Ergun Zuoqi, 50.7833, 121.5167
+Erhlin, 23.9000, 120.3667
+Erhshui, 23.8167, 120.6000
+Erhulai, 41.3833, 125.1333
+Erjiazhen, 32.0333, 121.2167
+Erlanghe, 30.3167, 116.0667
+Erlangmiao, 33.7667, 112.3833
+Erling, 31.8833, 119.6000
+Erlongshan(Jiamusi,Heilongjiang), 47.3333, 132.4667
+Erlongshan(Heihe,Heilongjiang), 50.0667, 126.7833
+Erlongshantun, 48.4667, 126.5167
+Ermendegou, 42.0333, 121.9333
+Erpuzi, 40.4833, 115.5500
+Ershijiazi, 41.2833, 120.5333
+Ershilipu, 40.1167, 117.4000
+Ershiqizhan, 53.3833, 123.2667
+Ershiwuzhan, 53.3667, 123.9167
+Ertai(Altay,Xinjiang), 46.1167, 90.1000
+Ertai(Ili,Xinjiang), 44.2333, 80.8667
+Ertaizi(henyang,Liaoning), 42.0833, 123.5833
+Ertaizi(Jinzhou,Liaoning), 41.8667, 121.9333
+Ertaizi(Huludao,Liaoning), 40.7833, 120.9000
+Ertaizi(Tieling,Liaoning), 42.5833, 124.0000
+Eryuan, 26.1000, 99.9167
+Erzaohang, 31.0833, 121.8167
+Erzhan, 43.9667, 128.7333
+Erzhuang, 39.4000, 117.3667
+Eshan, 24.1833, 102.3667
+Ewenkiku Zizhiqi, 49.1167, 119.6667

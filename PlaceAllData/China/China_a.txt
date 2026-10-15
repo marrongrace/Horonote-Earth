@@ -1,0 +1,141 @@
+A-le-t'ai, 47.8667, 88.1167
+Aba, 33.1000, 101.9833
+Abag Qi, 43.8833, 114.5500
+Abagnar Qi, 43.9667, 116.0667
+Abate, 39.0500, 77.6000
+Aberdeen(Xianggangzi), 22.2500, 114.1500
+Acheng, 45.5333, 126.9833
+Aerhuola, 51.0167, 120.1667
+Aershatu, 44.1833, 113.6000
+Aguit, 41.8667, 112.9333
+Aheqi, 40.8667, 77.9667
+Ahu, 34.4500, 118.6500
+Aidong, 24.7667, 107.3500
+Aigenmiao, 43.6000, 120.8333
+Aihui > Heihe, 50.2667, 127.4667
+Ailinzhuang, 39.4500, 117.6000
+Airgin Sum, 42.9667, 111.1333
+Aisike, 39.7167, 76.1333
+Aisinaike, 39.7833, 75.7833
+Aizhaipuzi, 40.9500, 124.0167
+Ajipuzicun, 42.2667, 123.5500
+Aketao, 39.1333, 75.9500
+Aketilepa, 39.9500, 74.0500
+Akqi, 40.8667, 77.9667
+Aksay, 39.4667, 94.2500
+Aksu, 41.1667, 80.3333
+Akto, 39.1333, 75.9500
+Alashanyouqi, 40.0333, 103.5500
+Alasitan, 37.0167, 76.9833
+Alatan'aola > Xin Barag Youqi, 48.6833, 116.8833
+Alitanguo, 35.1667, 83.5000
+Altay, 47.8667, 88.1167
+Alxa Zuoqi, 38.8333, 105.5333
+Ameng, 23.8333, 104.5333
+Amili, 28.4167, 95.8667
+Amoy > Xiamen, 24.4667, 118.1167
+Alatan'aola > Xin Barag Youqi, 48.6833, 116.8833
+Amugulang > Xin Barag, 48.6833, 116.8833
+Amuyimusu, 42.4167, 113.3500
+Amuzhong, 30.5500, 84.4667
+An'ganka, 52.3000, 126.2833
+An-ch'ing > Anqing, 30.5167, 117.0333
+Anbanjing, 23.9500, 100.9167
+Anbei, 40.7500, 96.1000
+Anbei, 40.8167, 108.9333
+Anbianbu, 37.6500, 108.1833
+Anbo, 39.8500, 122.3167
+Anbu, 23.4667, 116.7333
+Anchang, 30.1500, 120.5000
+Anci(Langfang), 39.5167, 116.6833
+Anda, 46.4000, 125.3167
+Andilangan, 37.6000, 83.8333
+Anding Zhan, 39.6333, 116.4833
+Andingpu, 37.9667, 107.0333
+Andong, 30.2667, 121.2167
+Anduo, 32.3000, 91.0667
+Anfeng(Dongtai,Jiangsu), 32.7333, 120.4000
+Anfeng(Funing/Northern Jiangsu), 33.1000, 120.1333
+Anfengqiao, 26.6833, 118.1333
+Anfu, 27.3833, 114.6167
+Anfuzhen(Neijiang/Sichuan), 29.3500, 105.4667
+Anfuzhen(Yibin/Sichuan), 28.7833, 104.6833
+Ang'angxi, 47.1500, 123.8000
+Angao, 33.1333, 112.3667
+Angduo, 32.3333, 98.9167
+Angren, 29.4167, 86.6667
+Anguang, 45.5167, 123.7500
+Anguchang, 29.5000, 103.6500
+Anguo, 38.4167, 115.3167
+Anguozhuang, 39.7333, 117.9833
+Anhai, 24.7500, 118.4500
+Anhua, 28.3000, 111.2333
+Anhuai, 33.0667, 117.8333
+Anji, 30.7167, 119.6833
+Anjiang, 40.7500, 117.6333
+Anju(Hubei), 31.7500, 113.1833
+Anju(Sichuan), 30.3500, 105.4500
+Anjuzhen, 29.9833, 106.0333
+Ankang, 32.7000, 109.0833
+Anking > Anqing, 30.5167, 117.0333
+Ankou, 25.0500, 113.4000
+Anlinnuoer, 41.1833, 114.5167
+Anliu, 23.7000, 115.7000
+Anlong, 25.0333, 105.5167
+Anlu, 31.2833, 113.6667
+Anniangniang, 51.5500, 125.8167
+Anning, 24.9833, 102.3000
+Anningdu, 36.9333, 104.5167
+Anping(Hunan), 26.5500, 113.3667
+Anping(Hengshui/Hebei), 38.2667, 115.5000
+Anping(Henan), 34.0167, 115.1167
+Anping(Xianghe/Langfang/Hebei), 39.7167, 116.8833
+Anping(Liaoning), 41.1833, 123.4333
+Anpu, 21.4500, 110.0000
+Anqing, 30.5167, 117.0333
+Anqiu, 36.4167, 119.1667
+Anren(Zhejiang), 28.0667, 119.3333
+Anren(Hunan), 26.7000, 113.2667
+Anrenzhen, 30.5167, 103.6333
+Ansai, 36.9000, 109.1667
+Anschan > Anshan, 41.1333, 122.9833
+Anshan, 41.1333, 122.9833
+Anshun, 26.2500, 105.9333
+Anting, 31.3000, 121.1500
+Antou, 26.1167, 118.1833
+Antu(Songjiang), 42.5333, 128.3000
+Antung > Dandong, 40.1333, 124.3333
+Anxi(Zhejiang), 30.4167, 120.0167
+Anxi(Fujian), 25.1000, 118.2000
+Anxi(Gansu), 40.5333, 95.8500
+Anxi(Jiangxi), 25.2500, 115.1000
+Anxian, 31.6667, 104.5333
+Anxiang, 29.3833, 112.1500
+Anxin, 38.9167, 115.9167
+Anxing, 31.4000, 119.1000
+Anyang, 36.1000, 114.3500
+Anyi, 28.8333, 115.5167
+Anyuan(Ganzhou/Jiangxi), 25.1333, 115.4667
+Anyuan(Fujian), 26.6000, 116.6333
+Anyuan(Pingxiang/Jiangxi), 27.6167, 113.9000
+Anyuanyi > Tianzhu, 37.2333, 102.9833
+Anyue, 30.1000, 105.3500
+Anze, 36.1833, 112.2667
+Anzhen, 31.6000, 120.4667
+Anzhou, 38.8667, 115.8167
+Anzhuang, 31.0667, 121.0167
+Anzicun, 39.7667, 115.8333
+Aohaibolihu, 42.0167, 121.5333
+Aohan Qi(Xinhui), 42.3167, 119.9833
+Aohandaba, 42.0833, 121.9833
+Aojiang, 27.6167, 120.5500
+Aojiao, 23.6167, 117.4333
+Aoliyingzi, 42.2333, 121.9667
+Aomen > Macau, 22.2333, 113.5833
+Aoshang, 25.7000, 113.0000
+Aotou, 22.7333, 114.5500
+Arun Qi, 48.1167, 123.4667
+Arxan, 47.1833, 119.9500
+Asar, 47.9333, 117.6333
+Atushi, 39.7000, 75.8000
+Ayulhai, 44.6000, 115.6000

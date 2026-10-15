@@ -1,0 +1,222 @@
+P'an-an, 29.1000, 120.4500
+P'ing-an, 41.1833, 123.4333
+P'ing-lan, 22.3667, 113.4500
+P'inghsing >Pingxiang, 22.1500, 106.7167
+P'ingtung, 22.6667, 120.4833
+P'otzu, 23.4667, 120.2333
+Padingge, 32.8667, 88.6500
+Pahsien, 30.6333, 103.6667
+Paifangchang, 30.5167, 106.6333
+Paiho, 23.3500, 120.4167
+Pailoutou, 30.9333, 121.2667
+Pailoutun, 40.7333, 122.8167
+Paisha, 23.6667, 119.5833
+Paitan, 23.5167, 113.7667
+Paizhou, 30.2167, 113.9333
+Pajiangkou, 23.7667, 113.2333
+Pak Kong, 22.3833, 114.2500
+Pakhoi >Beihai, 21.4833, 109.0833
+Pan'ao, 30.1500, 103.6167
+Panch'iao, 25.0167, 121.4500
+Pandian, 36.6333, 116.4500
+Panfang, 27.9000, 115.9500
+Pang-fou > Bangbu, 32.9667, 117.4000
+Pang-pu > Bangbu, 32.9667, 117.4000
+Panggezhuang(Beijing), 39.6333, 116.3167
+Panggezhuang(Hebei), 39.2667, 115.8167
+Pangjiabu, 40.6000, 115.4500
+Pangzidian, 30.6333, 105.0667
+Panjiapie, 32.9000, 120.7000
+Panjiatun, 41.0667, 121.6333
+Panlong(Jiangsu), 31.9667, 121.5833
+Panlong(Shanghai), 31.1833, 121.2667
+Panlong(Jiangxi), 25.8667, 114.8667
+Panlongzhen, 29.5167, 105.2833
+Panshan, 41.2000, 122.0667
+Panxi, 30.5833, 119.3333
+Panxian, 25.8333, 104.6000
+Panxidu, 35.6500, 115.8667
+Panyu, 22.9500, 113.3333
+Panzhuang, 39.3333, 117.4667
+Pao-ting > Baoding, 38.8667, 115.4833
+Pao-ying > Baoying, 33.2667, 119.3333
+Paochi > Baoji, 34.3833, 107.1500
+Paoki > Baoji, 34.3833, 107.1500
+Paotow > Baotou, 40.6667, 109.9833
+Pei-ching > Beijing, 39.9167, 116.4167
+Pei-hai > Beihai, 21.4833, 109.0833
+Pei-p'ing > Beijing, 39.9167, 116.4167
+Peijiatun, 39.3167, 121.6833
+Peikang, 23.5667, 120.3000
+Peinan, 22.7833, 121.1167
+Peixian(Jiangsu), 34.7333, 116.9833
+Peixian(Yunhe,Jiangsu), 34.3500, 117.9833
+Peiziyan, 35.1167, 115.0167
+Peking > Beijing, 39.9167, 116.4167
+Pen-hsi > Benxi(Penhsi), 41.3000, 123.7500
+Peng-pu > Bangbu, 32.9667, 117.4000
+Penggong, 30.4500, 119.9500
+Penggongmiao, 26.1167, 113.5667
+Penghu, 25.4000, 118.1833
+Pengjiachang, 30.6000, 103.8833
+Pengjialouzi, 41.9333, 123.6667
+Pengjiawan, 32.2667, 114.0667
+Pengjiawu, 39.6833, 117.1667
+Pengkou, 25.5333, 116.7000
+Penglai(Dengzhou), 37.8000, 120.7000
+Penglaizhen, 30.6000, 105.2333
+Penglang, 31.3833, 121.0833
+Pengnan, 30.4167, 105.8833
+Pengshan, 30.2167, 103.8667
+Pengshi, 30.4667, 113.1667
+Pengshui, 29.3000, 108.1500
+Pengxi, 30.8167, 105.6667
+Pengxian, 31.0000, 103.8333
+Pengze, 29.8833, 116.5500
+Pengzhai, 24.3833, 115.1000
+Pengzhuangzi, 40.1000, 114.8500
+Penki > Benxi(Penhsi), 41.3000, 123.7500
+Pianguan, 39.4000, 111.5000
+Pianjiaojie, 26.0167, 100.5333
+Pianling, 41.4000, 123.9667
+Picheng, 32.1167, 119.7000
+Pigezhuang, 39.6500, 116.2500
+Pikou, 39.4000, 122.3333
+Piluchang, 29.2167, 105.6167
+Pilusi, 32.0833, 120.0833
+Ping Shan, 22.4500, 114.0000
+Ping'an(Jilin), 45.3333, 123.7000
+Ping'an(Sichuan), 30.6000, 104.7000
+Ping'anbu, 41.7500, 116.2167
+Ping'ancheng, 40.0500, 117.8000
+Ping'andi, 42.5667, 121.8667
+Pingba(Guzhou), 26.3667, 106.1500
+Pingba(Hubei), 31.3167, 113.3000
+Pingchang, 31.5833, 107.0500
+Pingchao, 32.1167, 120.7500
+Pingding, 37.8000, 113.6167
+Pingdingpu, 42.3667, 123.9167
+Pingdingshan(Liaoning), 41.4333, 124.7500
+Pingdingshan(Henan), 33.7500, 113.2833
+Pingdu, 36.7833, 119.9000
+Pingfang(Chaoyang-South,Liaoning), 41.2833, 120.6667
+Pingfang(Chifeng-South,Nei Mongol), 42.2333, 120.6333
+Pingfang(Hubei), 30.1167, 113.8000
+Pingfang(Chaoyang-North,Liaoning), 41.4667, 120.8000
+Pingfang(Chifeng-North,Nei Mongol), 42.4500, 120.6333
+Pingfang(Beijing), 39.9333, 116.5500
+Pingfangdu, 41.7500, 121.2000
+Pingfangzi, 41.5167, 121.3500
+Pinggu, 40.1500, 117.1167
+Pingguo, 23.3167, 107.6500
+Pinghai(Guangdong), 22.6500, 114.8833
+Pinghai(Fujian), 25.2333, 119.2500
+Pinghe(Yunnan), 22.8500, 102.5000
+Pinghe(Fujian), 24.4167, 117.3667
+Pinghu(Fujian), 26.7667, 118.8000
+Pinghu(Guangdong), 22.7000, 114.1333
+Pinghu(Hubei), 30.9333, 115.3667
+Pinghu(Zhejiang), 30.7000, 121.0167
+Pingjiang, 28.7333, 113.5667
+Pingjing, 39.3333, 116.1000
+Pingle(Guilin,Guangxi), 24.6167, 110.6667
+Pingle(Baise,Guangxi), 24.5167, 106.9833
+Pingli, 32.3167, 109.3500
+Pingliang, 35.4500, 107.1667
+Pinglidian, 37.2833, 119.9833
+Pingling, 23.6500, 114.3833
+Pinglucheng, 39.8333, 112.3167
+Pingluo, 38.9500, 106.5833
+Pingluopu, 41.9333, 123.3333
+Pingnan(Guangxi), 23.5000, 110.5000
+Pingnan(Fujian), 26.9333, 119.0333
+Pingqiao, 33.4000, 119.2167
+Pingquan, 40.9833, 118.5667
+Pingshan(Fujian), 25.6000, 117.8667
+Pingshan(Hebei), 38.2500, 114.1667
+Pingshan(Shenzhen,Guangdong), 22.7167, 114.3667
+Pingshan(Guangzhou,Guangdong), 23.4333, 113.2500
+Pingshang, 35.1833, 119.1167
+Pingshi(Henan), 32.5333, 113.0500
+Pingshi(Guangdong), 25.3333, 113.0333
+Pingshui, 29.8833, 120.6333
+Pingtaizi, 40.7333, 116.4167
+Pingtan(Guangdong), 23.0667, 114.6333
+Pingtan(Fujian), 25.5167, 119.7833
+Pingtan(Neijiang,Sichuan), 29.6333, 105.2667
+Pingtan(Suining,Sichuan), 29.8333, 105.9333
+Pingtang, 25.8333, 107.3167
+Pingtian, 25.3167, 113.5167
+Pingwang, 30.9833, 120.6333
+Pingwu, 32.4833, 104.6167
+Pingxiang(Jiangxi), 27.6333, 113.8333
+Pingxiang(Guangxi), 22.1500, 106.7167
+Pingyang(Zhejiang), 27.6833, 120.5500
+Pingyang(Heilongjiang), 48.2167, 124.3833
+Pingyao(Zhejiang), 30.4000, 119.9667
+Pingyao(Shanxi), 37.2667, 112.1500
+Pingyi, 35.5667, 117.6167
+Pingyin, 36.3167, 116.3667
+Pingyu, 32.9500, 114.6833
+Pingyuan(Shandong), 37.1833, 116.4167
+Pingyuan(Guangdong), 24.6000, 115.9000
+Pingzhai, 24.1167, 104.3667
+Pingzhuang, 42.0500, 119.3667
+Pinkiang > Ha-erh-pin, 45.7500, 126.6833
+Pipa, 29.1167, 105.0833
+Piqiang, 40.3333, 77.6333
+Piqiao, 31.5667, 119.4500
+Pishan, 37.6167, 78.3000
+Pitou(Jieyang,Guangdong), 23.5667, 116.0833
+Pitou(Heyuan,Guangdong), 24.4333, 114.3667
+Pitou(Jiangxi), 25.0167, 114.5833
+Pixian, 30.8167, 103.8167
+Po-hsien > Boxian, 33.8833, 115.7500
+Po-shen > Boshan, 36.4833, 117.8333
+Pogan(Fuzhou,Jiangxi), 27.6667, 116.7667
+Pogan(Yingtan,Jiangxi), 28.3000, 116.7667
+Poli(Qingdao,Shandong), 35.7167, 119.7833
+Poli(Linyi,Shandong), 35.9500, 118.2833
+Port Arthur > Lüshun, 38.8000, 121.2667
+Port Edward > Weihai, 37.4667, 122.1167
+Poshiwu, 30.3667, 119.6000
+Potaizi, 41.5667, 121.1333
+Pu'er, 23.1167, 101.0000
+Pu'erdu, 28.1333, 104.4000
+Pucheng, 27.9167, 118.5167
+Pucheng, 34.9833, 109.4833
+Pudi, 27.9667, 99.0833
+Puding, 26.3500, 105.6667
+Puduhe, 25.6500, 102.6500
+Puge, 27.4667, 102.5167
+Puhe, 41.9500, 123.6000
+Puji(Hunan), 27.9833, 113.4167
+Puji(Hubei), 29.9667, 112.5333
+Pujiang(Zhejiang), 29.4667, 119.8833
+Pujiang(Sichuan), 30.2000, 103.5000
+Pukou(Jiangsu), 32.1167, 118.7167
+Pukou(Fujian), 26.2667, 119.5833
+Pulan, 30.2667, 81.2333
+Puli, 23.9667, 120.9500
+Puluo, 36.1833, 81.5000
+Pulü, 29.8333, 106.1833
+Pumei, 23.4667, 105.2500
+Punan, 24.6500, 117.6833
+Puning, 23.3000, 116.2000
+Puqi(Hubei), 29.7167, 113.8833
+Puqi(Zhejiang), 28.1833, 121.0167
+Puqian(Heyuan,Guangdong), 23.5667, 114.6333
+Puqian(Wenchang,Hainan), 20.0500, 110.6000
+Pushang, 36.1333, 119.7000
+Putai, 23.3833, 120.1500
+Putangqiao, 31.5667, 118.9833
+Putian, 25.4667, 119.0333
+Putian, 29.2667, 114.9667
+Putuo, 29.9667, 122.2833
+Puxi, 25.1667, 119.1333
+Puxian, 36.5000, 111.0333
+Puxingchang, 30.6833, 105.1000
+Puyang, 35.7000, 114.9833
+Puyuan, 30.6833, 120.6333
+Puzhen, 32.1500, 118.6833
+Pékin > Beijing, 39.9167, 116.4167

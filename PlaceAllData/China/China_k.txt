@@ -1,0 +1,171 @@
+K'a-la, 28.2667, 89.3833
+K'ai-yüan-ch'eng, 42.6167, 124.0667
+K'ouhu, 23.5833, 120.1833
+K'u-erh-lo > Korla, 41.7333, 86.1500
+Kagelike, 37.3333, 87.0333
+Kaichengqiao, 31.3000, 117.7333
+Kaifeng, 34.8500, 114.3500
+Kaihe, 35.7000, 116.3333
+Kaihua, 29.1500, 118.3833
+Kaijian, 23.7000, 111.8000
+Kaijiang, 31.0833, 107.9167
+Kaikukang, 53.1167, 124.7667
+Kaili, 26.5833, 107.9167
+Kailu, 43.6000, 121.2333
+Kaimenshan, 41.0500, 123.1333
+Kaiping(Guangdong), 22.3833, 112.5833
+Kaiping(Hubei), 39.6833, 118.2667
+Kaishantun, 42.7167, 129.7167
+Kaixian, 31.2167, 108.4167
+Kaiyang, 26.9667, 106.6667
+Kaiyuan(Liaoning), 42.5333, 124.0167
+Kaiyuan(Yunnan), 23.7333, 103.1833
+Kaizhou, 41.3667, 121.3167
+Kala, 36.7833, 83.8000
+Kalabula, 43.4000, 83.1000
+Kalagan, 50.5000, 119.9167
+Kalashankou, 35.1000, 91.8500
+Kalasi, 48.7167, 86.9833
+Kalgan > Zhangjiakou, 40.8333, 114.8833
+Kalima, 41.5333, 122.6667
+Kam Tin, 22.4500, 114.0500
+Kamba, 28.2833, 88.5333
+Kan-hsien > Ganzhou, 25.9000, 114.9167
+Kanchow > Ganzhou, 25.9000, 114.9167
+Kangbao, 41.8833, 114.6667
+Kangding, 30.0500, 102.0333
+Kangdu, 27.0000, 116.6000
+Kanggezhuang, 40.4333, 116.7333
+Kangjinjing, 46.2000, 126.8000
+Kangma, 28.5667, 89.8500
+Kangmaer, 30.7500, 85.5667
+Kangnichumike, 33.1667, 80.9833
+Kangping, 42.7333, 123.3500
+Kangpu, 27.7167, 99.0000
+Kangshan, 22.8000, 120.2833
+Kangsu, 39.7500, 75.0333
+Kangtuyingzi, 41.7833, 121.5167
+Kangxianzhuang, 39.1000, 116.4500
+Kangzhuang, 40.3833, 115.8833
+Kanmen, 28.1000, 121.2667
+Kanshan, 30.2000, 120.4167
+Kanshi, 24.9333, 116.9000
+Kansu, 39.7500, 75.0333
+Kanton > Guangzhou, 23.1000, 113.2667
+Kantuanji, 32.9833, 116.3167
+Kanzi, 39.5667, 122.6500
+Kao-yu, 32.7833, 119.4500
+Kaohiung > Kaohsiung, 22.6333, 120.2833
+Kaohsiung, 22.6333, 120.2833
+Kaohsiunghsien, 22.6333, 120.3500
+Kaolun > Kowloon, 22.3000, 114.1667
+Kaoping > Changzhi, 36.1833, 113.1333
+Kaoshanji, 40.1833, 117.2833
+Kaoshanpu, 30.9000, 114.5333
+Karamai > Kelamayi, 45.5000, 84.9167
+Karamay > Kalamayi, 45.5000, 84.9167
+Kareke, 38.3833, 76.9667
+Kashgar > Kashi, 39.4833, 75.9833
+Kashi(Shufu)(Kashgar), 39.4833, 75.9833
+Kashing > Jiaxing, 30.7667, 120.7500
+Kebeiti, 36.7833, 79.4833
+Kedian, 31.3833, 112.8500
+Kedong, 48.0333, 126.2500
+Kedu, 26.5500, 104.3500
+Keelung > Chilung, 25.1333, 121.7333
+Keerzong, 32.1833, 79.9833
+Kegonzhake, 33.0000, 87.8833
+Kekexili, 35.1833, 93.5833
+Kekeyaer, 38.0333, 75.0833
+Kelamayi, 45.5000, 84.9167
+Kelan, 38.7167, 111.5333
+Kelegou, 41.9500, 118.1833
+Keluotun, 49.2667, 125.7333
+Kengkou(Zhejiang), 28.4500, 120.4333
+Kengkou(Anhui), 29.8000, 117.3667
+Kengtian, 25.9000, 119.4333
+Kenli(Xishuanghe), 37.6667, 118.5833
+Kequan, 36.0667, 114.0000
+Keshan, 48.0333, 125.8500
+Keshitage, 37.3833, 78.0833
+Ketang, 22.9667, 115.4667
+Keyihe, 50.6667, 122.4500
+Kharbine > Ha-erh-pin, 45.7500, 126.6833
+Kiamusze > Jiamusi, 46.8333, 130.3500
+Kian > Ji'an, 27.1167, 114.9667
+Kiangpeih, 29.6000, 106.5833
+Kiangtu > Yangzhou, 32.4000, 119.4333
+Kiangyin > Jiangyin, 31.9167, 120.2667
+Kiahsien > Jiaxian, 33.9667, 113.2167
+Kienli > Jianli, 29.8167, 112.8833
+Kiirun > Chilung, 25.1333, 121.7333
+Kingtechen > Jingdezhen, 29.2667, 117.1833
+Kinhwa > Jinhua, 29.1167, 119.6500
+Kilin > Jilin, 43.8500, 126.5500
+Kityang > Jieyang, 23.5833, 116.3500
+Kiukiang > Jiujiang, 29.6000, 115.8667
+Kokiu > Gejiu, 23.3667, 103.1000
+Kongcheng, 31.0333, 117.0833
+Kongfang, 27.9667, 116.8833
+Kongjiamatou, 39.1167, 116.1667
+Kongjiatun, 40.7000, 124.0667
+Kongjiawopeng, 43.9667, 122.6833
+Kongjiazhuang, 40.7833, 114.8000
+Konglong, 29.9333, 115.9000
+Konglongshan, 40.5500, 117.2833
+Kongmoon > Jiangmen, 22.5833, 113.0833
+Kongtan, 29.1667, 104.7000
+Kongyangcun, 31.3833, 118.9000
+Kongzhen, 31.4833, 119.0000
+Korla, 41.7333, 86.1500
+Kou'an, 32.3167, 119.8667
+Koutou, 38.5833, 114.4000
+Kowloon(Jiulong), 22.3000, 114.1667
+Kowloon City, 22.3167, 114.1833
+Kuan-yün > Guanyun, 34.3333, 119.2833
+Kuanbang, 40.4833, 120.0667
+Kuancheng(Chengde,Hebei), 40.6167, 118.5167
+Kuancheng(Chengde West,Hebei), 40.6333, 118.4500
+Kuandian, 40.7167, 124.7333
+Kuanhsi, 24.8000, 121.1667
+Kuanmiao, 22.9667, 120.3167
+Kuanshan, 23.0500, 121.1500
+Kuanyin, 25.0333, 121.0667
+Kudanggou, 41.1000, 124.0000
+Kuei-sui > Hohhot, 40.8500, 111.6667
+Kui-yang > Guiyang, 26.5833, 106.7167
+Kuerbin, 49.4167, 128.9833
+Kuga, 41.7167, 82.9000
+Kuidesu, 41.7667, 119.4833
+Kuidou, 25.1667, 118.1833
+Kuitan, 23.0833, 115.9667
+Kuitun, 44.4000, 85.1667
+Kuldja > Yining, 43.9000, 81.3500
+Kuliushucun, 40.1167, 116.5667
+Kulongshan, 41.7167, 116.9000
+Kulongshanpuzi, 41.2667, 123.9833
+Kuluqi, 50.3833, 124.2167
+Kumukuli, 37.5500, 88.8333
+Kumushi, 42.2333, 88.1833
+Kung-chu-ling > Huaide, 43.5333, 124.8333
+Kung-Pei-Tien, 25.1000, 121.6333
+Kunghsi, 24.6167, 121.2667
+Kunming, 25.0833, 102.6667
+Kunshan, 31.3833, 120.9500
+Kunting, 29.8000, 121.9333
+Kuntuolun, 45.2167, 115.3500
+Kuohsing, 24.0333, 120.8500
+Kuokegan, 37.5000, 89.9167
+Kuruqi, 48.9667, 123.8333
+Kushui, 42.1833, 94.4167
+Kwangchow > Guangzhou, 23.1000, 113.2667
+Kweihwa > Hohhot, 40.8500, 111.6667
+Kweijang > Guiyang, 26.5833, 106.7167
+Kweilin > Guilin, 25.2833, 110.2833
+Kweisui > Hohhot, 40.8500, 111.6667
+Kweisui Sui, 40.2833, 111.6167
+Kweiyang > Guiyang, 26.5833, 106.7167
+Kweiyer, 26.5833, 106.2167
+Kwun Tong, 22.3167, 114.2000
+Kükong > Shaoguan, 24.8333, 113.6167
+Kümüx, 42.2333, 88.1833
