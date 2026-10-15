@@ -1,0 +1,156 @@
+Abejorral, 5.7833, -75.4333
+Acacías, 3.9833, -73.7667
+Acandí, 8.5333, -77.2333
+Achí, 8.5667, -74.5500
+Agrado, 2.2500, -75.7667
+Agua de Dios, 4.3833, -74.6667
+Aguachica, 8.3167, -73.6333
+Aguadas, 5.6167, -75.4500
+Agustín Codazzi, 10.0333, -73.2333
+Aipe, 3.2167, -75.2500
+Algeciras, 2.5833, -75.3000
+Amalfi, 6.9167, -75.0667
+Ambalema, 4.7833, -74.7667
+Andes, 5.6667, -75.8833
+Anorí, 7.0833, -75.1333
+Anserma, 5.2167, -75.8000
+Antioquia, 6.5500, -75.8333
+Apía, 5.0833, -75.9667
+Aracataca, 10.6000, -74.2000
+Arambaza, 2.0667, -73.1000
+Arauca, 7.0833, -70.7500
+Arauquita, 7.0333, -71.4167
+Arboletes, 8.8500, -76.4333
+Arica, -2.1333, -71.7833
+Arjona, 10.2500, -75.3500
+Armenia, 4.5167, -75.6833
+Armero, 4.9667, -74.9000
+Ataco, 3.5833, -75.3833
+Ayapel, 8.3167, -75.1500
+Baranoa, 10.8000, -74.9167
+Baraya, 3.1667, -75.0667
+Barbacoas, 1.6833, -78.1500
+Barbosa(Santander), 5.9500, -73.6167
+Barbosa(Antioquia), 6.4333, -75.3333
+Barichara, 6.6333, -73.2333
+Barrancabermeja, 7.0500, -73.8667
+Barrancas, 10.9500, -72.8333
+Barranquilla, 10.9833, -74.8000
+Bello, 6.3333, -75.5500
+Belén(Boyacá), 6.0000, -72.9167
+Belén(Caquetá), 1.4333, -75.9333
+Boavita, 6.3333, -72.5833
+Bogotá, 4.6000, -74.0833
+Bolívar(Antioquia), 5.8333, -76.0167
+Bolívar(Canca), 1.8333, -76.9667
+Bolívar(Valle del Cauca), 4.3500, -76.1667
+Bucaramanga, 7.1333, -73.1500
+Buenaventura, 3.8833, -77.0667
+Buenos Aires, 3.0333, -76.6333
+Buesaco, 1.3833, -77.1500
+Buga, 3.9000, -76.2833
+Bugalagrande, 4.1833, -76.1500
+Bárbara, -0.8833, -72.5000
+Cabuyaro, 4.3000, -72.8167
+Caicedonia, 4.3333, -75.8333
+Calamar(Guaviare), 1.9667, -72.6833
+Calamar(Bolivar), 10.2500, -74.9167
+Calarcá, 4.5167, -75.6333
+Caldas, 6.0833, -75.6333
+Cali, 3.4500, -76.5167
+Campo de la Cruz, 10.3833, -74.8833
+Campoalegre, 2.6833, -75.3333
+Cananguchal, 0.8500, -75.7833
+Candelaria, 3.4167, -76.3333
+Carmen de Apicalá, 4.1500, -74.7333
+Carolina, 6.7167, -75.2833
+Cartagena, 10.4167, -75.5333
+Cartago, 4.7500, -75.9167
+Caucasia, 8.0000, -75.2000
+Cañasgordas, 6.7500, -76.0167
+Cereté, 8.8833, -75.8000
+Chafurray, 3.1667, -73.2333
+Chaparral, 3.7167, -75.4667
+Charalá, 6.2833, -73.1667
+Chigorodó, 7.6833, -76.7000
+Chimichagua, 9.2500, -73.8167
+Chinchiná, 4.9667, -75.6000
+Chinácota, 7.6167, -72.6000
+Chinú, 9.1000, -75.4000
+Chiquinquirá, 5.6167, -73.8333
+Chiriguaná, 9.3667, -73.6000
+Chiscas, 6.5500, -72.4833
+Chita, 6.1833, -72.4667
+Chitagá, 7.1500, -72.6667
+Chocontá, 5.1500, -73.6833
+Cháviva, 4.3667, -72.3333
+Chía, 4.8667, -74.0667
+Cisneros, 6.5500, -75.0667
+Ciénaga, 11.0167, -74.2500
+Ciénaga de Oro, 8.8833, -75.6167
+Colombia, 3.4000, -74.8167
+Concepción, 6.7667, -72.7000
+Condoto, 5.1000, -76.6167
+Contratación, 6.3000, -73.4833
+Convención, 8.4667, -73.3500
+Corozal, 9.3167, -75.3000
+Cravo Norte, 6.3000, -70.2000
+Cumbal, 0.9000, -77.7833
+Cáceres, 7.5833, -75.3333
+Cáqueza, 4.4167, -73.9167
+Cúcuta, 7.9000, -72.5167
+Dabeiba, 7.0167, -76.2667
+Dagua, 3.6667, -76.6833
+Darién, 3.9333, -76.5167
+Dolores, 3.5500, -74.9000
+Don Matías, 6.5000, -75.3667
+Duitama, 5.8333, -73.0333
+El Banco, 9.0000, -73.9667
+El Bordo, 2.1000, -76.9667
+El Calvario, 4.3667, -73.6667
+El Carmen, 8.5000, -73.4500
+El Carmen de Bolívar, 9.7167, -75.1333
+El Cerrito, 3.7000, -76.3167
+El Cocuy, 6.4167, -72.4500
+El Diviso, 1.3667, -78.2333
+El Encanto, -1.6167, -73.2333
+El Guamo, 10.0333, -74.9833
+El Pato, 2.8333, -74.8000
+El Piñón, 10.4000, -74.8333
+El Tambo, 1.4333, -77.3833
+El Tigre, 2.4667, -68.2500
+El Trapiche, 3.0500, -77.5500
+El Yopal, 5.3500, -72.3833
+Envigado, 6.1667, -75.5833
+Espinal, 4.1500, -74.8833
+Facatativá, 4.8167, -74.3667
+Firavitoba, 5.6667, -73.0000
+Flandes, 4.3000, -74.8167
+Florencia, 1.6000, -75.6000
+Florida, 3.3500, -76.2500
+Floridablanca, 7.0667, -73.1000
+Fonseca, 10.9000, -72.8500
+Fontibón, 4.6667, -74.1500
+Fredonia, 5.9167, -75.6833
+Fresno, 5.1500, -75.0167
+Frontino, 6.7667, -76.1333
+Fuente de Oro, 3.4667, -73.6167
+Fundación, 10.5167, -74.1833
+Fusagasugá, 4.3500, -74.3667
+Gachetá, 4.8167, -73.6000
+Gamarra, 8.3333, -73.7500
+Garagoa, 5.0833, -73.3500
+Garzón, 2.2000, -75.6333
+Gigante, 2.3833, -75.5500
+Girardot, 4.3000, -74.8000
+Gramalote, 7.8833, -72.8000
+Granada, 3.5667, -73.7500
+Guacarí, 3.7667, -76.3333
+Guadalupe, 2.0167, -75.7500
+Guamal(Magdalena), 9.1500, -74.2333
+Guamal(Meta), 3.8667, -73.7333
+Guamo, 4.0333, -74.9667
+Guapí, 2.6000, -77.9000
+Guateque, 5.0000, -73.4667
+Gómez Plata, 6.6833, -75.2000
+Güicán, 6.4667, -72.4167

@@ -1,0 +1,162 @@
+Ocaña, 8.2500, -73.3333
+Orocué, 4.8000, -71.3333
+Ortega, 3.9333, -75.2167
+Ovejas, 9.5333, -75.2333
+Pacho, 5.1333, -74.1667
+Pailitas, 8.9667, -73.6333
+Palermo, 2.9000, -75.4333
+Palmar de Varela, 10.7500, -74.7500
+Palmira, 3.5333, -76.2667
+Pamplona, 7.3833, -72.6500
+Pasto, 1.2167, -77.2833
+Patía, 2.0667, -77.0667
+Pavón, 3.6167, -72.2500
+Payan, 1.8167, -78.1333
+Paz de Ariporo, 5.8833, -71.9000
+Paz de Río, 5.9833, -72.7833
+Pedraza, 10.1833, -74.9167
+Pensilvania, 5.5167, -75.0833
+Pereira, 4.8167, -75.7167
+Pesca, 5.5500, -73.0500
+Petrólea, 8.5000, -72.5833
+Pichimá, 4.4000, -77.3500
+Piedecuesta, 6.9833, -73.0500
+Piendamó, 2.6333, -76.5000
+Pinillos, 8.9167, -74.4667
+Pital, 2.2667, -75.8167
+Pitalito, 1.8500, -76.0333
+Pivijay, 10.4667, -74.6167
+Pizarro, 4.9667, -77.3667
+Planeta Rica, 8.4167, -75.6000
+Plato, 9.7833, -74.7833
+Popayán, 2.4500, -76.6000
+Pradera, 3.4167, -76.2500
+Pueblonuevo, 8.5167, -75.2500
+Puerto Alfonso, -2.1833, -71.0167
+Puerto Asís, 0.5000, -76.5167
+Puerto Berrío, 6.4833, -74.4000
+Puerto Boyacá, 5.7500, -74.6500
+Puerto Carreño, 6.2000, -67.3667
+Puerto Colombia, 10.9833, -74.9667
+Puerto Leguízamo, -0.2000, -74.7667
+Puerto Limón, 3.3833, -73.5000
+Puerto López, 4.0833, -72.9667
+Puerto Nariño, 4.9333, -67.8000
+Puerto Reyes, -0.9833, -73.2833
+Puerto Rico, 1.9000, -75.1667
+Puerto Rondón, 6.2833, -71.1000
+Puerto Salgar, 5.4667, -74.6500
+Puerto Tejada, 3.2333, -76.4000
+Puerto Toledo, -0.9833, -74.1500
+Puerto Umbría, 0.8667, -76.5500
+Puerto Villamizar, 8.3167, -72.4333
+Puerto Wilches, 7.3500, -73.9000
+Purificación, 3.8500, -74.9167
+Pácora, 5.5167, -75.4500
+Quibdó, 5.7000, -76.6667
+Quimbaya, 4.6333, -75.7833
+Ramiriquí, 5.4000, -73.3333
+Remedios, 7.0333, -74.6833
+Restrepo(Valle del Cauca), 4.2500, -73.5500
+Restrepo(Neriño), 3.8000, -76.5167
+Ricaurte, 1.2167, -77.9833
+Rivera, 2.7833, -75.2500
+Roldanillo, 4.4000, -76.1500
+Rovira, 4.2333, -75.2333
+Río de Oro, 8.2833, -73.3833
+Río Hacha, 11.5500, -72.9167
+Río Negro, 7.2667, -73.1500
+Río Sucio, 5.4167, -75.7000
+Ríonegro, 6.1500, -75.3667
+Ríosucio, 7.4500, -77.1167
+Sabanalarga, 10.6333, -74.9167
+Sahagún, 8.9500, -75.4500
+Salamina, 5.4167, -75.4833
+Salaquí, 7.3000, -77.5500
+Salgar, 5.9667, -75.9833
+Samacá, 5.4833, -73.4833
+Samaniego, 1.3333, -77.5833
+Sampués, 9.1833, -75.3833
+San Agustín, 1.8833, -76.2667
+San Andrés(Santander), 6.8167, -72.8667
+San Andrés(San Andrés y Providencia), 12.5847, -81.7006
+San Antero, 9.3833, -75.7667
+San Antonio, 3.9167, -75.4667
+San Bernardo del Viento, 9.3500, -75.9500
+San Carlos de Guaroa, 3.7333, -73.2333
+San Estanislao, 10.4000, -75.1500
+San Felipe, 1.9167, -67.1000
+San Francisco, 1.1833, -76.8833
+San Gil, 6.5500, -73.1333
+San Jacinto, 9.8333, -75.1333
+San José de Ocuné, 4.2500, -70.3333
+San José del Guaviare, 2.5833, -72.6333
+San Juan del César, 10.7667, -73.0167
+San Juan Nepomuceno, 9.9500, -75.0833
+San Lope, 6.2000, -71.9333
+San Marcos, 8.6500, -75.1333
+San Martín, 3.7000, -73.7000
+San Onofre, 9.7333, -75.5333
+San Pablo, 1.6667, -77.0000
+San Pedro, 9.4000, -75.0667
+San Pelayo, 8.9667, -75.8500
+San Vicente de Chucurí, 6.9000, -73.4167
+San Vicente del Caguán, 2.1167, -74.7667
+Sandoná, 1.2833, -77.4667
+Santa Ana, 9.3167, -74.5833
+Santa Bárbara, 5.8833, -75.5833
+Santa Clara, -2.7167, -69.7167
+Santa Marta, 11.2500, -74.2167
+Santa Rita, 1.0667, -73.9667
+Santa Rosa, 2.5167, -68.2167
+Santa Rosa de Cabal, 4.8667, -75.6333
+Santa Rosa de Osos, 6.6500, -75.4667
+Santa Rosa de Viterbo, 5.8833, -72.9833
+Santander, 3.0167, -76.4667
+Santo Tomás, 10.7667, -74.7500
+Sardina, 2.0333, -67.1167
+Sardinata, 8.0833, -72.8000
+Segovia, 7.1167, -74.7000
+Sevilla, 4.2667, -75.9500
+Silvia, 2.6167, -76.3500
+Simití, 7.9667, -73.9500
+Sincelejo, 9.3000, -75.4000
+Sincé, 9.2500, -75.1500
+Sitionuevo, 10.7833, -74.7167
+Soacha, 4.5833, -74.2167
+Soatá, 6.3333, -72.6833
+Socorro, 6.4833, -73.2667
+Sogamoso, 5.7167, -72.9333
+Soledad, 10.9167, -74.7667
+Sonsón, 5.7000, -75.3000
+Sopetrán, 6.5000, -75.7667
+Suaita, 6.1167, -73.4500
+Sucre, 8.8167, -74.7333
+Sucuaro, 4.5667, -68.8333
+Tamalameque, 8.8667, -73.8167
+Tame, 6.4667, -71.7333
+Tarapacá, -2.8667, -69.7333
+Tello, 3.0667, -75.1333
+Teruel, 2.7333, -75.5500
+Tesalia, 2.4833, -75.7333
+Tierralta, 8.1833, -76.0667
+Timaná, 1.9667, -75.9333
+Timbío, 2.3333, -76.6667
+Tocaima, 4.4667, -74.6333
+Toledo, 7.3167, -72.4667
+Tolú, 9.5167, -75.5833
+Tres Esquinas, 0.7167, -75.2667
+Trinidad, 5.4167, -71.6667
+Trujillo, 4.1667, -76.3167
+Tuluá, 4.1000, -76.1833
+Tumaco, 1.8167, -78.7667
+Tunja, 5.5167, -73.3667
+Turbaco, 10.3333, -75.4167
+Turbo, 8.1000, -76.7167
+Támara, 5.8333, -72.1667
+Túquerres, 1.0833, -77.6167
+Ubaté, 5.3167, -73.8167
+Uribe, 3.2167, -74.4000
+Uribia, 11.7167, -72.2667
+Urrao, 6.3333, -76.1833
+Uré, 7.7667, -75.5167
