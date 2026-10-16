@@ -1,0 +1,66 @@
+Abington, 41.8606, -72.0072
+Aguacate, 22.9833, -81.8167
+Aguada de Pasajeros, 22.3833, -80.8500
+Alacranes, 22.7667, -81.5667
+Alquízar, 22.8000, -82.5833
+Alto Cedro, 20.5167, -75.9667
+Antilla, 20.8333, -75.7500
+Artemisa, 22.8167, -82.7667
+Bahía Honda, 22.9000, -83.1667
+Baire, 20.3167, -76.3333
+Banes, 20.9667, -75.7167
+Baracoa, 20.3500, -74.5000
+Baraguá, 21.6833, -78.6333
+Batabanó, 22.7167, -82.2833
+Bauta, 22.9833, -82.5500
+Bayamo, 20.3833, -76.6500
+Bejucal, 22.9333, -82.3833
+Bello, 23.1167, -82.4000
+Bolondrón, 22.7667, -81.4500
+Báez, 22.2167, -79.7500
+Cabaiguán, 22.0833, -79.5000
+Cabañas, 22.9667, -82.9167
+Cacocum, 20.7333, -76.3833
+Caibarién, 22.5167, -79.4667
+Caimanera, 19.9833, -75.1500
+Camagüey, 21.3833, -77.9167
+Camajuaní, 22.4667, -79.7333
+Campechuela, 20.2333, -77.2833
+Candelaria, 22.7333, -82.9667
+Casilda, 21.7667, -79.9833
+Chambas, 22.2000, -78.9167
+Chaparra, 21.1667, -76.4833
+Cidra, 22.9333, -81.5333
+Ciego de Ávila, 21.8500, -78.7667
+Cienfuegos, 22.1500, -80.4500
+Cifuentes, 22.6500, -80.0500
+Colón, 22.7167, -80.9000
+Consolación del Norte, 22.7500, -83.5500
+Consolación del Sur, 22.5000, -83.5167
+Contramaestre, 20.3000, -76.2500
+Corralillo, 22.9833, -80.5833
+Cruces, 22.3500, -80.2667
+Cuatro Caminos, 22.9000, -82.3833
+Cueto, 20.6500, -75.9333
+Cumanayagua, 22.1500, -80.2000
+Cárdenas, 23.0333, -81.2000
+Céspedes, 21.5833, -78.2833
+Delicias, 21.1833, -76.5667
+El Cobre, 20.0500, -75.9500
+El Cristo, 20.1167, -75.7500
+El Santo, 22.7000, -79.6833
+Encrucijada, 22.6167, -79.8667
+Esmeralda, 21.8500, -78.1167
+Florida, 21.5333, -78.2333
+Fomento, 22.1000, -79.7167
+Gibara, 21.1167, -76.1333
+Guamo Embarcadero, 20.6167, -76.9667
+Guanabacoa, 23.1333, -82.3000
+Guanajay, 22.9167, -82.7000
+Guane, 22.2000, -84.0833
+Guantánamo, 20.1333, -75.2000
+Guantánamo Bay, 19.9167, -75.1500
+Guayabal, 20.7000, -77.6000
+Guáimaro, 21.0500, -77.3500
+Güines, 22.8333, -82.0333
+Güira de Melena, 22.8000, -82.5000

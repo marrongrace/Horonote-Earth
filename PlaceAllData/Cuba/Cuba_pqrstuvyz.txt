@@ -1,0 +1,57 @@
+Palma Soriano, 20.2167, -76.0000
+Palmira, 22.2333, -80.3833
+Palos, 22.8000, -81.7333
+Pedro Betancourt, 22.7333, -81.2833
+Perico, 22.7667, -81.0167
+Pina, 22.0167, -78.7167
+Pinar del Río, 22.4167, -83.7000
+Placetas, 22.3167, -79.6667
+Playa Baracoa, 23.0500, -82.5667
+Portillo, 19.9167, -77.1833
+Preston, 20.7667, -75.6500
+Puerto Manatí, 21.3667, -76.8333
+Puerto Padre, 21.2000, -76.6000
+Punta Alegre, 22.3833, -78.8167
+Quemado de Güines, 22.8000, -80.2500
+Rancho Veloz, 22.8833, -80.3833
+Ranchuelo, 22.3833, -80.1500
+Remedios, 22.5000, -79.5500
+Rodas, 22.3333, -80.5500
+Río Cauto, 20.5500, -76.9167
+Sagua de Tánamo, 20.5833, -75.2333
+Sagua la Grande, 22.8167, -80.0833
+San Antonio de los Baños, 22.8833, -82.5000
+San Cristóbal, 22.7167, -83.0500
+San Germán, 20.6000, -76.1333
+San José de las Lajas, 22.9667, -82.1500
+San Juan y Martínez, 22.2667, -83.8333
+San Luis(Santiago de Cuba), 20.2000, -75.8500
+San Luis(Pinar del Río), 22.2833, -83.7667
+San Nicolás de Bari, 22.7833, -81.9167
+Sancti Spíritus, 21.9333, -79.4500
+Santa Clara, 22.4000, -79.9667
+Santa Cruz del Norte, 23.1500, -81.9167
+Santa Cruz del Sur, 20.7167, -78.0000
+Santa Fé, 21.7500, -82.7500
+Santa Isabel de las Lajas, 22.4167, -80.3000
+Santa Lucía(Las Tunan), 20.9833, -77.4167
+Santa Lucía(Holguín), 21.0333, -76.0000
+Santa Lucía(Pinar del Río), 22.6667, -83.9667
+Santiago, 20.0167, -75.8167
+Santiago de Cuba, 20.0167, -75.8167
+Santo Domingo, 22.5833, -80.2500
+Sibanicú, 21.2333, -77.5167
+Sierra Morena, 22.9500, -80.5333
+Surgidero, 22.6833, -82.3000
+Tiguabos, 20.2333, -75.3500
+Trinidad, 21.8000, -79.9833
+Tunas de Zata, 21.6333, -79.5500
+Unión de Reyes, 22.8000, -81.5333
+Varadero, 23.1500, -81.2667
+Vertientes, 21.2667, -78.1500
+Victoria de las Tunas, 20.9667, -76.9500
+Viñales, 22.6167, -83.7167
+Yaguajay, 22.3167, -79.2333
+Yara, 20.2667, -76.9500
+Zaza del Medio, 22.0000, -79.3833
+Zulueta, 22.3667, -79.5667

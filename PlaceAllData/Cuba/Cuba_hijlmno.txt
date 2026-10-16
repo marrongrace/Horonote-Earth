@@ -1,0 +1,54 @@
+Havana > La Habana, 23.1333, -82.3667
+Havane, La > La Habana, 23.1333, -82.3667
+Holguín, 20.8833, -76.2500
+Imías, 20.0667, -74.6333
+Isabela de Sagua, 22.9500, -80.0167
+Jagüey Grande, 22.5333, -81.1333
+Jamaica, 20.2000, -75.1500
+Jatibonico, 21.9333, -79.1667
+Jiguaní, 20.3667, -76.4333
+Jobabo, 20.9000, -77.2833
+Jovellanos, 22.8000, -81.2000
+Juan Gualberto Gómez, 22.8667, -81.5500
+Júcaro, 21.6167, -78.8500
+La Coloma, 22.2500, -83.5667
+La Esperanza, 22.7667, -83.7333
+La Esperanza, 22.4500, -80.1000
+La Habana, 23.1333, -82.3667
+La Havane > La Habana, 23.1333, -82.3667
+La Maya, 20.1667, -75.6500
+La Rioja, 20.7667, -76.6000
+Laguna Blanca, 20.4500, -76.1167
+Las Villas, 22.2500, -80.0000
+Limonar, 22.9500, -81.4000
+Los Arabos, 22.7333, -80.7167
+Los Palacios, 22.5833, -83.2500
+Lugareño, 21.5500, -77.4667
+Mabay, 20.2667, -76.6667
+Madruga, 22.9167, -81.8500
+Majagua, 21.9167, -79.0000
+Manacas, 22.6000, -80.3167
+Manatí, 21.3167, -76.9333
+Manguito, 22.5833, -80.9167
+Manicaragua, 22.1500, -79.9667
+Mantua, 22.2833, -84.2833
+Manzanillo, 20.3500, -77.1167
+Marianao, 23.0833, -82.4333
+Mariel, 22.9833, -82.7500
+Martí(Matanzas), 22.9500, -80.9167
+Martí(Camagüey), 21.1500, -77.4500
+Matanzas, 23.0500, -81.5833
+Mayajigua, 22.2333, -79.0667
+Mayarí, 20.6667, -75.6833
+Mayarí Arriba, 20.4167, -75.5333
+Melena del Sur, 22.7833, -82.1500
+Minas, 21.4833, -77.6167
+Minas de Matahambre, 22.5833, -83.9500
+Morón, 22.1000, -78.6333
+Máximo Gómez, 22.9167, -81.0333
+Nicaro, 20.7000, -75.5500
+Niquero, 20.0500, -77.5833
+Nueva Gerona, 21.8833, -82.8000
+Nueva Paz, 22.7667, -81.7500
+Nuevitas, 21.5500, -77.2667
+Oriente, 20.3000, -76.0833
