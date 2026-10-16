@@ -1,0 +1,99 @@
+Cains Landing, 38.9578, -75.3603
+Calhoun Landing, 38.5925, -75.1208
+Camden, 39.1133, -75.5422
+Canby Park Estates, 39.7389, -75.5819
+Cannon, 38.6994, -75.6153
+Canterbury, 39.0425, -75.5558
+Canterbury Hills, 39.7625, -75.6542
+Capitol Green, 39.1550, -75.5172
+Capitol Park, 39.1414, -75.5044
+Caravel Farms, 39.5958, -75.7208
+Cardiff, 39.7500, -75.5500
+Carlisle Village, 39.1875, -75.5792
+Carpenter, 39.8183, -75.4647
+Carpenters Corner, 38.7425, -75.1506
+Carrcroft, 39.7875, -75.5064
+Carrcroft Crest, 39.7917, -75.5042
+Carter, 39.1500, -75.5167
+Carter Development, 39.1197, -75.5303
+Casson Corner, 39.1606, -75.6086
+Castle Hills, 39.6864, -75.5650
+Catalina Gardens, 39.6514, -75.7458
+Cave Colony, 38.7639, -75.2903
+Cedar Heights, 39.7208, -75.6167
+Cedarbrook Acres, 39.2792, -75.6097
+Cedars, 39.7417, -75.6375
+Centennial Village, 39.6397, -75.6597
+Center Green, 39.8000, -75.4667
+Centerville, 39.8214, -75.6169
+Central Kent, 39.0667, -75.5500
+Central Pencader, 39.5833, -75.7333
+Centreville, 39.7667, -75.5833
+Chalfonte, 39.7500, -75.5500
+Chambersville, 39.3636, -75.5792
+Channin, 39.8000, -75.5167
+Chapel Hill, 39.7014, -75.7314
+Chapeltown, 39.0997, -75.6972
+Chaplecroft, 39.1208, -75.5389
+Chatham, 39.8042, -75.5167
+Chelsea Estates, 39.6917, -75.5958
+Cherokee Woods, 39.6750, -75.7097
+Cherry Hill, 39.6819, -75.7731
+Cherrytree Landing, 38.6431, -75.5914
+Chestnut Grove, 39.1694, -75.5719
+Chestnut Hill Estates, 39.6792, -75.7069
+Chestnut Knoll, 38.9575, -75.4528
+Cheswold, 39.2192, -75.5861
+Choate, 39.7022, -75.6958
+Choptank Mills, 39.0669, -75.7356
+Christiana, 39.6650, -75.6603
+Christiana Acres, 39.6889, -75.6194
+Christine Manor, 39.6833, -75.7167
+Church Hill, 39.7722, -75.6736
+Church Hill Village, 38.9344, -75.4761
+Clarksons Crossroads, 38.7144, -75.6528
+Clarksville, 38.5489, -75.1481
+Claymont, 39.8006, -75.4600
+Claymont Addition, 39.7986, -75.4708
+Claymont Heights, 39.7958, -75.4708
+Clayton, 39.2906, -75.6347
+Clearfield, 39.8000, -75.4667
+Clearview Manor, 39.7056, -75.5681
+Cleland Heights, 39.7347, -75.5750
+Clifton Park Manor, 39.7583, -75.5125
+Club House Landing, 38.5625, -75.0911
+Cocked Hat, 38.7667, -75.6111
+College Park, 39.6736, -75.7694
+Collins Beach, 39.3853, -75.5222
+Collins Park, 39.6861, -75.5567
+Collins Pond Acres, 38.7106, -75.5139
+Colmar Manor, 39.2833, -75.6097
+Colonial Heights, 39.7472, -75.0847
+Colonial Park, 39.7500, -75.5833
+Colony Hills, 39.7111, -75.6097
+Columbia, 38.4978, -75.6781
+Concord(New Castle), 39.7642, -75.5431
+Concord(Sussex), 38.6419, -75.5556
+Concord Hills, 39.8339, -75.5458
+Concord Manor, 39.8056, -75.5417
+Cool Spring, 38.7319, -75.2486
+Cool Spring Farms, 38.7258, -75.2528
+Cooper Farm, 39.7403, -75.6417
+Coopers Corner, 39.1389, -75.5222
+Corbit, 39.5881, -75.6597
+Corner Ketch, 39.7492, -75.7414
+Cornish Hills, 39.7708, -75.7083
+Cottage Mill, 39.6533, -75.7550
+Cottonpatch Hill, 38.5333, -75.0667
+Country Club Estates, 38.9022, -75.4097
+Coventry, 39.6722, -75.6361
+Coverdale Crossroads, 38.7103, -75.5314
+Covered Bridge Farms, 39.7000, -75.7833
+Cowgills Corner, 39.1958, -75.4806
+Cragmere, 39.7667, -75.5000
+Cragmere Woods, 39.7667, -75.5000
+Craigs Mill, 38.6267, -75.6483
+Cranston Heights, 39.7333, -75.6308
+Cristine Manor, 39.6889, -75.7833
+Cross Keys, 38.5658, -75.3683
+Crossgates, 39.1389, -75.5361

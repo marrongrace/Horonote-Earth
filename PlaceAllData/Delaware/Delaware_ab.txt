@@ -1,0 +1,138 @@
+Abbotts Mill, 38.8864, -75.4769
+Adams Crossroads, 38.7972, -75.7017
+Adamsville, 38.8314, -75.6894
+Addick Estates, 39.8028, -75.4500
+Afton, 39.8269, -75.4811
+Airport Villa, 39.6833, -75.5667
+Alapocas, 39.7708, -75.5597
+Alban Park, 39.7292, -75.5750
+Albertson, 39.7403, -75.6278
+Albertson Park, 39.7333, -75.6500
+Albion, 39.7139, -75.6625
+Analine Village, 39.8000, -75.4667
+Anderson Crossroads, 38.8586, -75.3703
+Andersons Corner, 38.6986, -75.2597
+Andrewsville, 38.8614, -75.6353
+Anglesey, 39.7589, -75.6164
+Angola Beach, 38.7167, -75.2833
+Angola by the Bay, 38.6708, -75.1750
+Angola Landing, 38.6439, -75.1272
+Anna Acres, 38.7167, -75.0833
+Anneville, 39.1292, -75.5194
+Arbour Park, 39.6542, -75.7653
+Arc Corner, 39.7219, -75.7739
+Arden, 39.8092, -75.4869
+Ardencroft, 39.8042, -75.4917
+Ardentown, 39.8083, -75.4833
+Argo Corners, 38.8714, -75.3458
+Armstrong, 39.4806, -75.7169
+Arundel, 39.7361, -75.6681
+Ashbourne Hills, 39.8097, -75.4681
+Ashland, 39.7997, -75.6575
+Ashley, 39.7292, -75.5833
+Atlanta, 38.7086, -75.6783
+Atlanta Estates, 38.6639, -75.6333
+Auburn Hills, 39.8042, -75.6931
+Augustine, 39.7639, -75.5542
+Augustine Beach, 39.5167, -75.5833
+Avalon, 39.7306, -75.6222
+Bacon, 38.4500, -75.5833
+Bacons, 39.0864, -75.5700
+Baileys Landing, 38.5722, -75.6439
+Baldton, 39.6833, -75.5667
+Barkers Landing, 39.0850, -75.4575
+Barkley, 39.8319, -75.5189
+Basin Corner, 39.6806, -75.5903
+Bay View Park, 38.5075, -75.0597
+Bay Vista, 38.6972, -75.0981
+Bayard, 38.5003, -75.1319
+Bayview Manor, 39.6389, -75.6125
+Bayville, 38.4683, -75.0892
+Bear, 39.6292, -75.6586
+Beaver Brook, 39.6833, -75.5667
+Beaver Dam Heights, 38.6542, -75.5889
+Beaver Valley, 39.8392, -75.5644
+Beech Haven, 39.1958, -75.5958
+Bellefonte, 39.7661, -75.5097
+Bellevue, 39.7708, -75.4839
+Bellevue Manor, 39.7667, -75.5000
+Belltown, 38.7469, -75.1783
+Belmoor, 39.7250, -75.5931
+Belvidere, 39.7219, -75.6158
+Ben Robins Landing, 38.6581, -75.1569
+Bennum, 38.7111, -75.3144
+Berrytown, 39.0125, -75.5944
+Bestfield, 39.7194, -75.6083
+Bethany Beach, 38.5394, -75.0556
+Bethel(Kent), 39.2342, -75.5819
+Bethel(Sussex), 38.5706, -75.6197
+Bethesda, 39.1375, -75.6931
+Bicentennial Village, 39.1653, -75.5542
+Biddles Corner, 39.5250, -75.6494
+Big Oak Corners, 39.2694, -75.5889
+Big Pine, 38.8506, -75.6947
+Big Stone Beach, 38.9167, -75.3667
+Binns Village, 39.6833, -75.7167
+Birchwood Park, 39.6764, -75.6903
+Birds Corner, 39.5633, -75.6406
+Bishops Corner, 39.2236, -75.5761
+Bissell Sanitorium, 39.7497, -75.6531
+Black Hog Landing, 38.7739, -75.1908
+Blackbird, 39.3708, -75.6594
+Blackbird Landing, 39.3889, -75.6361
+Blackiston, 39.2706, -75.7008
+Blackwater, 38.5458, -75.1625
+Blackwater Beach, 38.5800, -75.1581
+Blades, 38.6356, -75.6103
+Blanchard, 38.8206, -75.6525
+Blue Ball, 39.7772, -75.5450
+Blue Hen Mall, 39.1500, -75.5167
+Blue Rock Manor, 39.7958, -75.5431
+Bookhammer Landing, 38.6778, -75.1364
+Bottom Hills, 38.6172, -75.0714
+Bowen Landing, 38.9203, -75.4094
+Bowers, 39.0667, -75.4000
+Bowers Beach, 39.0597, -75.4017
+Boxwood, 39.7264, -75.5972
+Boyds Corner, 39.5000, -75.6494
+Brack-Ex, 39.7500, -75.5833
+Brackenville, 39.7806, -75.6833
+Brackenville Woods, 39.7903, -75.6617
+Branchview, 38.6397, -75.6700
+Brandon, 39.8258, -75.5244
+Brandywine, 39.8294, -75.5347
+Brandywine Estates, 39.7889, -75.4833
+Brandywine Hills, 39.7681, -75.5250
+Brandywine Springs, 39.7444, -75.6444
+Brandywine Springs Manor, 39.7486, -75.6375
+Brandywood, 39.8208, -75.5083
+Breezewood(Kent), 39.0561, -75.5553
+Breezewood(New Castle), 39.6833, -75.7167
+Brenford, 39.2564, -75.6111
+Briar Park, 39.1061, -75.5444
+Brick Store, 39.3219, -75.5731
+Bridgeville, 38.7425, -75.6047
+Bridgeville Manor, 38.7333, -75.5958
+Broad Acres, 38.6397, -75.5761
+Broad Creek, 38.5856, -75.5842
+Broadkill Beach, 38.8281, -75.2122
+Brookbend, 39.6833, -75.7167
+Brookdale Heights, 39.0839, -75.4928
+Brookfield, 39.0961, -75.5389
+Brookhaven, 39.6833, -75.7167
+Brookhill Farms, 39.7758, -75.6861
+Brookland Terrace, 39.7433, -75.6239
+Brookside, 39.6669, -75.7272
+Brookside Park, 39.6667, -75.7167
+Brookview Apartments, 39.8000, -75.4667
+Browns Corner, 39.0911, -75.5192
+Brownsville, 38.9136, -75.6800
+Bryan Park, 38.6897, -75.5875
+Bryans Store, 38.5925, -75.4097
+Buck Hill Landing, 38.5597, -75.2222
+Buckingham Heights, 39.8064, -75.4972
+Bullseye, 38.5917, -75.2236
+Bunting, 38.4633, -75.1544
+Burwood, 39.0928, -75.5622
+Bush Manor, 39.2078, -75.5636
+Buttonwood, 39.6833, -75.5569

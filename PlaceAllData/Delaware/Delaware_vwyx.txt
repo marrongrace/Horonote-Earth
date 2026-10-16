@@ -1,0 +1,108 @@
+Vagabond Trailer Park, 39.8000, -75.4667
+Valley Run, 39.7500, -75.5500
+Van Dyke Village, 39.6833, -75.5667
+Vandyke, 39.3572, -75.7453
+Varlano, 39.6592, -75.6736
+Vaughn Landing, 38.7786, -75.2825
+Vernon, 38.8933, -75.6531
+Villa Monterey, 39.7667, -75.5000
+Village of Drummond Hill, 39.6833, -75.7167
+Viola, 39.0428, -75.5722
+Voshell Cove, 39.1689, -75.6050
+Voshell Mill, 39.0981, -75.5289
+Voshels Cove, 39.1500, -75.5167
+Walker, 39.3417, -75.6031
+Walnut Ridge, 39.8028, -75.6314
+Waples, 38.8258, -75.3078
+Ward, 38.4853, -75.4781
+Warren Landing, 39.0631, -75.4258
+Warwick, 38.6031, -75.2308
+Washington Heights(Sussex), 38.7125, -75.0958
+Washington Heights(New Castle), 39.7264, -75.6389
+Washington Park, 39.6611, -75.5811
+Waterview Acres, 38.6408, -75.5458
+Wawaset Park, 39.7556, -75.5750
+Waynes Corner, 39.8247, -75.5014
+Webb Landing(Sussex), 38.7114, -75.1806
+Webb Landing(Kent), 39.0461, -75.3936
+Webb Manor, 38.9022, -75.4467
+Webster Farms, 39.7944, -75.5111
+Wedgewood(Kent), 39.1333, -75.5431
+Wedgewood(New Castle), 39.6458, -75.6417
+Wedgewood Acres, 39.6833, -75.5667
+Weisman Acres, 38.9167, -75.3667
+Wellington Hills, 39.7897, -75.7083
+Welshire, 39.7847, -75.5167
+Wescoats Corner, 38.7517, -75.1647
+West Beach, 38.5742, -75.1708
+West Farm, 39.7875, -75.6028
+West Haven, 39.7597, -75.5917
+West Meadow, 39.7056, -75.7333
+West Minquadale, 39.7125, -75.5675
+West Park, 39.7556, -75.5992
+Westfield, 39.7181, -75.6417
+Westgate Farms, 39.7667, -75.6611
+Westminster, 39.7569, -75.6472
+Westover Hills, 39.7633, -75.5911
+Westview, 39.7167, -75.6167
+Westwood Manor, 39.8000, -75.5014
+Westwoods, 38.4950, -75.3719
+Whaleys Corners, 38.6522, -75.4306
+Whaleys Crossroads, 38.5319, -75.4506
+Whigville, 39.2222, -75.6722
+White Briar, 39.7883, -75.6861
+White Hall, 39.0408, -75.5958
+White House Landing, 39.0875, -75.4667
+White Oak Farms, 39.1750, -75.5097
+White River Estates, 38.5639, -75.6556
+Whitehall Crossroads, 39.2683, -75.5217
+Whitehall Landing, 39.2506, -75.4769
+Whiteleysburg, 38.9575, -75.7319
+Whitesville, 38.4586, -75.4272
+Wiggins Mill, 39.4033, -75.7053
+Williamsburg, 39.5853, -75.6847
+Williamsville(Sussex), 38.4600, -75.1336
+Williamsville(Kent), 38.8956, -75.5103
+Willow Grove, 39.0708, -75.6286
+Willow Run, 39.7444, -75.6097
+Wilmington, 39.7458, -75.5469
+Wilmington Manor, 39.6867, -75.5847
+Wilmington Manor Gardens, 39.6728, -75.5817
+Wilmont, 39.8069, -75.5375
+Wilson, 39.6608, -75.7383
+Wiltbank Landing, 38.8086, -75.2406
+Windermer, 39.7167, -75.6167
+Windsor Hills, 39.8000, -75.5292
+Windy Bush, 39.8000, -75.4917
+Windy Hills, 39.6889, -75.7167
+Winterbury, 39.7611, -75.6583
+Winterthur, 39.8028, -75.5919
+Wisseman Acres, 38.9056, -75.4556
+Wood Branch, 38.6669, -75.3611
+Woodbine, 39.8125, -75.5292
+Woodbrook(New Castle), 39.7939, -75.5583
+Woodbrook(Kent), 39.1500, -75.5167
+Woodcrest(Kent), 39.1736, -75.5417
+Woodcrest(New Castle), 39.7208, -75.6028
+Wooddale, 39.7661, -75.6372
+Woodenhawk, 38.7917, -75.6906
+Woodland(New Castle), 39.7458, -75.6167
+Woodland(Sussex), 38.6000, -75.6583
+Woodland Beach, 39.3333, -75.4750
+Woodland Heights, 38.5633, -75.5750
+Woodland Homes, 39.7167, -75.6167
+Woods Haven, 38.9306, -75.4139
+Woods Manor, 39.1500, -75.5167
+Woods Manor East, 39.1308, -75.5089
+Woodshade, 39.6542, -75.6833
+Woodside, 39.0714, -75.5686
+Woodside Hills, 39.7875, -75.4903
+Woodside Manor, 39.5889, -75.7250
+Worthland, 39.8083, -75.4500
+Wrange Hill Estates, 39.5917, -75.7000
+Wrangle Hill, 39.5792, -75.6578
+Wrights Crossroads, 39.1517, -75.7306
+Wyoming, 39.1181, -75.5592
+York Beach, 38.5094, -75.0533
+Yorklyn, 39.8081, -75.6758
+Zoar, 38.6469, -75.2975

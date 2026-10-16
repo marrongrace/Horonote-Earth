@@ -1,0 +1,122 @@
+Dagsboro, 38.5492, -75.2461
+Darley Woods, 39.8167, -75.4736
+Dartmouth Woods, 39.8333, -75.5111
+Davis Corner, 39.1653, -75.6819
+Davis Landing, 38.9006, -75.3364
+Deakyneville, 39.3692, -75.5447
+Deerhurst, 39.7833, -75.5417
+Del Haven Estates, 39.0558, -75.5011
+Del Shire, 39.2092, -75.5653
+Delaire, 39.7750, -75.4875
+Delaneys Corner, 39.2992, -75.7475
+Delaplane Manor, 39.6961, -75.7092
+Delaware City, 39.5778, -75.5892
+Delaware Heights, 39.8250, -75.6208
+Delaware Hospital, 39.7517, -75.5500
+Delaware Junction, 39.7231, -75.5769
+Delaware State Hospital, 39.7086, -75.5775
+Delmar, 38.4564, -75.5775
+Delpark Manor, 39.7167, -75.6583
+Derby Shores, 39.0864, -75.5700
+Devon, 39.8278, -75.5403
+Devonshire, 39.8250, -75.5403
+Dewey Beach, 38.6928, -75.0750
+Dexter Corners, 39.3344, -75.7000
+Dinahs Corner, 39.1858, -75.6450
+Dobbinsville, 39.6564, -75.5794
+Donas Landing, 39.2125, -75.4314
+Douglas Forge, 38.6458, -75.5778
+Dover, 39.1581, -75.5247
+Dover Air Force Base, 39.1167, -75.4833
+Doverbrook Gardens, 39.1500, -75.5167
+Downs Chapel, 39.2119, -75.7197
+Drawbridge, 38.7908, -75.2522
+Drummond North, 39.6833, -75.7167
+Dublin Hill, 38.7531, -75.6539
+Dunleith, 39.7086, -75.5558
+Dunlinden Acres, 39.7361, -75.6458
+Dupont, 39.1944, -75.5639
+Dupont Manor, 39.1964, -75.5492
+Duponts Landing, 39.7514, -75.4944
+Duross Heights, 39.6806, -75.6228
+Dutch Neck Crossroads, 39.2861, -75.5161
+Eagles Nest Landing, 39.3453, -75.5636
+East Lake Gardens, 39.1736, -75.5250
+East Minquadale, 39.7042, -75.5644
+East Side Village, 38.7742, -75.3019
+Eastburn Acres, 39.7056, -75.6833
+Eastburn Heights, 39.7092, -75.6811
+Eastman Heights, 38.8897, -75.4167
+Eastover Hills, 39.1500, -75.5167
+Eberton, 39.2208, -75.5722
+Eden Park, 39.6833, -75.5667
+Eden Park Gardens, 39.7200, -75.5439
+Eden Roc, 39.2000, -75.5969
+Edenridge, 39.7986, -75.5625
+Edge Hill, 39.1681, -75.5172
+Edgebrooke, 39.6694, -75.6631
+Edgehill Acres, 39.1500, -75.5167
+Edgemoor, 39.7500, -75.5000
+Edgemoor Gardens, 39.7583, -75.4972
+Edgemoor Terrace, 39.7556, -75.5042
+Edgewater Acres, 38.4667, -75.2167
+Edgewood Hills, 39.7583, -75.5042
+Edwardsville, 38.9964, -75.7142
+Ellendale, 38.8069, -75.4231
+Elliott Heights, 39.6833, -75.7167
+Elmhurst, 39.7306, -75.5903
+Elsmere, 39.7392, -75.5983
+English Village, 39.6833, -75.7167
+Everetts Corner, 39.2006, -75.7464
+Evergreen Acres, 38.9056, -75.4481
+Fairfax, 39.7864, -75.5436
+Fairfield, 39.6958, -75.7708
+Fairfield Crest, 39.6958, -75.7625
+Fairfield Farms, 39.1231, -75.5264
+Fairmount, 38.6664, -75.2217
+Fairview, 39.1694, -75.5361
+Fairwinds, 39.6436, -75.6433
+Farmington, 38.8692, -75.5789
+Farnhurst, 39.6931, -75.5778
+Faulkland, 39.7475, -75.6358
+Faulkland Heights, 39.7431, -75.6306
+Faulkwoods, 39.7500, -75.5500
+Federal, 39.6833, -75.7167
+Federalsburg, 38.8281, -75.4297
+Felton, 39.0167, -75.5833
+Felton Manor, 39.0069, -75.5681
+Felton Station, 39.0081, -75.5750
+Fennimore Landing, 39.4450, -75.5928
+Fenwick Island, 38.4622, -75.0517
+Fern Hook, 39.7028, -75.5722
+Fernwood, 38.6533, -75.5722
+Ferry Landing, 38.5922, -75.2444
+Fieldsboro, 39.4172, -75.6589
+Fireside Park, 39.6833, -75.7167
+Fisher Landing, 38.7125, -75.1756
+Five Points, 38.7486, -75.1736
+Flea Hill, 38.6622, -75.4361
+Fleming Corners, 38.9183, -75.5983
+Flemings Corner, 38.9167, -75.5833
+Flemings Landing, 39.3539, -75.5489
+Flemings Landings, 39.4000, -75.6833
+Florence, 39.0833, -75.4639
+Foord Landing, 38.8350, -75.2581
+Fords Corner, 39.1925, -75.7000
+Forest, 39.3667, -75.6778
+Forest Brook Glen, 39.7167, -75.6000
+Forest Hills Park, 39.7875, -75.5250
+Forest Landing, 39.1175, -75.5036
+Forest Park, 39.7375, -75.6083
+Fort Delaware, 39.5894, -75.5667
+Fort Saulsbury, 38.9339, -75.3319
+Foulk Woods, 39.8125, -75.5208
+Four Seasons, 39.6833, -75.7167
+Fox Chase Park, 39.6750, -75.6833
+Fox Hall, 39.1736, -75.5597
+Fox Meadow Farm, 39.8028, -75.6986
+Foxfield, 39.6764, -75.7778
+Foxhall Courtside, 39.1767, -75.5881
+Frankford, 38.5172, -75.2353
+Frasers Corner, 39.5797, -75.7667
+Frederica, 39.0089, -75.4661

@@ -1,0 +1,157 @@
+Galewood, 39.8000, -75.5167
+Gams Crest, 39.5500, -75.6472
+Garfield Park, 39.7019, -75.5561
+Garton Development, 39.1125, -75.5597
+Gateway Farms, 39.7769, -75.6900
+General Hospital, 39.7425, -75.5686
+Generals Greene, 39.1258, -75.2500
+George Read Village, 39.6833, -75.7167
+Georgetown, 38.6900, -75.3858
+Ginns Corner, 39.4000, -75.6833
+Glasgow, 39.6047, -75.7456
+Glasgow Pines, 39.6167, -75.7111
+Glen Burne Estate, 39.7167, -75.6333
+Glendale, 39.6269, -75.6689
+Glenville, 39.7125, -75.6403
+Goose Point, 39.5425, -75.7742
+Gordon Heights, 39.7597, -75.5097
+Gordy Estates, 39.7250, -75.6125
+Goslee Mill, 39.7183, -75.1892
+Governor Bacon Health Center, 39.5725, -75.5842
+Granogue, 39.8317, -75.5867
+Gravel Hill, 38.7142, -75.3161
+Graylyn Crest, 39.7958, -75.5167
+Greater Newark, 39.6833, -75.7333
+Green Acres, 39.7903, -75.4972
+Green Briar, 39.1467, -75.6750
+Green Hill, 38.7911, -75.1675
+Green Meadow, 39.7903, -75.5181
+Green Spring, 39.3175, -75.6492
+Greenbank, 39.7389, -75.6361
+Greenbriar, 39.6833, -75.5667
+Greenbridge, 39.6750, -75.7231
+Greenleaf Manor, 39.6811, -75.7042
+Greens Corner, 38.9903, -75.6819
+Greens Landing, 38.6553, -75.1628
+Greentop, 38.8533, -75.4189
+Greentree, 39.8000, -75.4667
+Greenview, 39.1181, -75.5250
+Greenville(Kent), 38.8861, -75.6622
+Greenville(New Castle), 39.7789, -75.5986
+Greenville Manor, 39.7814, -75.5958
+Greenwood, 38.8069, -75.5917
+Grendon Farms, 39.7250, -75.6778
+Greylag, 39.4842, -75.6681
+Grubbs Corner, 39.8292, -75.4908
+Grubbs Landing, 39.7861, -75.4694
+Gum Crossroads, 38.6539, -75.4733
+Gumboro, 38.4775, -75.3656
+Gumwood, 39.8000, -75.5167
+Guyencourt, 39.8136, -75.5867
+Gwinhurst, 39.7917, -75.4792
+Hall Estates, 38.9397, -75.4625
+Hambys Corner, 39.8225, -75.4875
+Hamilton Park, 39.7172, -75.5461
+Hammville, 39.2272, -75.5783
+Harbeson, 38.7247, -75.2853
+Hardscrabble, 38.6147, -75.4789
+Hares Corner, 39.6653, -75.6044
+Harmony, 39.6953, -75.6931
+Harmony Hills, 39.6931, -75.6833
+Harrington, 38.9236, -75.5781
+Hartly, 39.1686, -75.7136
+Haverford, 39.7833, -75.6944
+Hay Point Landing, 39.3514, -75.5486
+Hayden Park, 39.7167, -75.6167
+Hazeldell, 39.7125, -75.5472
+Hazelwood, 39.2183, -75.5264
+Hazlettville, 39.1164, -75.6425
+Hazzard Landing, 38.8103, -75.2139
+Hearns Crossroads, 38.5331, -75.5506
+Hearns Mill, 38.6783, -75.5944
+Heather Valley, 39.7611, -75.6800
+Henlopen Acres, 38.7297, -75.0867
+Henry Clay, 39.7703, -75.5806
+Heritage, 39.7208, -75.6778
+Heritage Village, 38.6575, -75.6319
+Herring Landing, 38.6500, -75.1356
+Hickman, 38.8331, -75.7231
+Hickory Dale Acres, 39.2117, -75.5625
+Hickory Hill(New Castle), 39.7800, -75.6931
+Hickory Hill(Sussex), 38.5386, -75.3069
+Hickory Ridge, 39.3000, -75.6000
+Hideaway Acres, 39.0867, -75.4967
+High Point, 39.7708, -75.5083
+Highland Acres(Kent), 39.1208, -75.5222
+Highland Acres(Sussex), 38.7653, -75.1556
+Highland Meadows, 39.7861, -75.6722
+Highland West, 39.7333, -75.6500
+Highland Woods, 39.8167, -75.4806
+Hillcrest, 39.7628, -75.5069
+Hilldale, 39.1958, -75.4819
+Hillendale, 39.7958, -75.4861
+Hillside Heights, 39.6806, -75.6875
+Hilltop Manor, 39.7792, -75.4833
+Hitchens Crossroads, 38.5769, -75.4622
+Hoars Addition, 39.2139, -75.5833
+Hockessin, 39.7875, -75.6969
+Holiday Acres, 38.5722, -75.2658
+Holiday Hills, 39.8167, -75.5042
+Holiday Pines, 38.6342, -75.2097
+Hollandsville, 38.9853, -75.6664
+Holletts Corners, 39.2894, -75.7331
+Holloway Terrace, 39.7017, -75.5467
+Holly Knoll, 39.7883, -75.7042
+Holly Oak(New Castle), 39.7883, -75.4792
+Holly Oak(Sussex), 38.6167, -75.6500
+Holly Oak Terrace, 39.7833, -75.4889
+Hollymount, 38.6753, -75.2219
+Hollyville, 38.6717, -75.2425
+Holts Landing, 38.5914, -75.1272
+Hopkins Corners, 38.9550, -75.6769
+Hospital For Mentally Retarded, 38.6269, -75.3200
+Hourglass, 39.1269, -75.6825
+Houston(Kent), 38.9175, -75.5056
+Houston(Sussex), 38.7875, -75.2408
+Hudson Pond Acres, 38.8417, -75.4403
+Hughes Crossing, 39.2022, -75.5714
+Hughes Crossroads, 38.9711, -75.6972
+Hunting Hills, 39.6778, -75.7847
+Huntley, 39.1369, -75.5203
+Hyde Park, 39.7458, -75.6500
+Idela, 39.7250, -75.5903
+Indian Beach, 38.6856, -75.0736
+Indian Field, 39.8125, -75.4764
+Indian Mission, 38.6733, -75.2356
+Indian River Acres, 38.5500, -75.2500
+Iron Hill, 39.6333, -75.7542
+Irons Lane Landing, 38.5867, -75.1444
+Israel Haul, 38.5781, -75.1872
+Ivy Ridge, 39.6750, -75.6333
+Jacobs Crossroads, 38.7431, -75.6864
+Jamisons Corner, 39.5036, -75.6847
+Jefferson Crossroads, 38.8342, -75.3456
+Jefferson Farms, 39.6789, -75.5714
+Jimtown, 38.7319, -75.1869
+John Marsh Landing, 38.6586, -75.1650
+Johnson, 38.4753, -75.1389
+Johnson Corner, 38.4667, -75.2167
+Johnstown, 38.8050, -75.5758
+Jones Crossroads, 38.6044, -75.4472
+Keen-Wik, 38.4606, -75.0906
+Keeney, 39.6189, -75.7036
+Kenilworth, 39.8000, -75.4667
+Kenmore Park, 38.6583, -75.5778
+Kent Acres, 39.1317, -75.5253
+Kentmere, 39.7667, -75.5617
+Kenton, 39.2275, -75.6633
+Keystone, 39.7264, -75.6056
+Kiamensi, 39.7236, -75.6403
+Killens Addition, 38.7167, -75.0833
+Kings Crossroads, 38.7461, -75.4533
+Kirkwood, 39.5717, -75.6967
+Kirkwood Gardens, 39.7486, -75.6542
+Kitts Hummock, 39.1025, -75.4025
+Klair Estates, 39.7208, -75.6542
+Knowles Crossroads, 38.6536, -75.4522
+Kynlyn Apartments, 39.7667, -75.5000

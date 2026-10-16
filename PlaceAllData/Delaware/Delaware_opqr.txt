@@ -1,0 +1,138 @@
+Oak Grove(New Castle), 39.7500, -75.5833
+Oak Grove(sussex), 38.6608, -75.7067
+Oak Grove(Kent), 39.1564, -75.4897
+Oak Hill, 39.7500, -75.5833
+Oak Lane Manor, 39.7931, -75.5306
+Oak Orchard, 38.5961, -75.1731
+Oakdale, 39.6658, -75.6981
+Oakland, 39.6806, -75.7653
+Oakley, 38.8064, -75.4892
+Oakmont, 39.6833, -75.5667
+Oakwood Hills, 39.7625, -75.6681
+Ocean View, 38.5450, -75.0894
+Ocean Village, 38.5569, -75.0597
+Odessa, 39.4572, -75.6617
+Odessa Heights, 39.4522, -75.6625
+Ogletown, 39.6781, -75.6978
+Old Furnace, 38.6667, -75.5167
+Old Landing, 38.6869, -75.1283
+Old Mill Manor, 39.6917, -75.7042
+Omar, 38.5272, -75.2000
+Overbrook, 38.7675, -75.2153
+Overlook, 39.8000, -75.4667
+Overlook Colony, 39.8042, -75.4694
+Overview Gardens, 39.6833, -75.5667
+Owens, 38.8056, -75.5264
+Owls Nest Estates, 39.7667, -75.5833
+Oyster Rocks, 38.8019, -75.2031
+Packing House Corner, 38.4658, -75.6736
+Paden Corner, 39.1556, -75.6128
+Palm Spring Manor, 39.6833, -75.7167
+Palmer Park, 39.1028, -75.5403
+Paris Villa, 39.0647, -75.5292
+Parkside, 39.5564, -75.7042
+Pearson Grove, 39.2289, -75.7536
+Pearsons Corner, 39.1539, -75.6500
+Pembrey, 39.8056, -75.5264
+Penarth, 39.8069, -75.5181
+Pencader, 39.6731, -75.7425
+Pendrew Manor, 39.7181, -75.6653
+Penn Acres, 39.6800, -75.5825
+Penn Rose, 39.7583, -75.5222
+Pennrock, 39.7144, -75.6875
+Pennwood, 39.1272, -75.5133
+Pennyhill, 39.7686, -75.5147
+Pennyhill Terrace, 39.7639, -75.5083
+Penrock, 39.7917, -75.4875
+Pepper, 38.5417, -75.4775
+Pepperbox, 38.4986, -75.4400
+Peppers Landing, 38.4764, -75.0783
+Perry Park, 39.7500, -75.5500
+Perth, 39.8000, -75.5167
+Petersburg, 39.0492, -75.6486
+Phillips Heights, 39.7667, -75.5083
+Phillips Hill, 38.5689, -75.3333
+Pickering Beach, 39.1500, -75.5167
+Piedmont, 39.7833, -75.6500
+Piermont Woods, 39.6458, -75.7069
+Pilottown, 38.7797, -75.1528
+Pine Swamp Corner, 39.6753, -75.6803
+Pine Tree Corners, 39.4072, -75.6617
+Pine Water Landing, 38.6564, -75.1717
+Pinecrest, 39.7147, -75.6708
+Pinetown, 38.7453, -75.2242
+Piney Grove, 38.6311, -75.3872
+Piney Grove Manor, 38.6431, -75.3708
+Pleasant Hill, 39.7406, -75.7278
+Pleasant Hills, 39.7111, -75.6236
+Pleasanton Acres, 39.2000, -75.5042
+Pleasantville, 39.6639, -75.6264
+Plymouth, 39.0311, -75.5619
+Point Breeze, 39.3769, -75.6653
+Polly Drummond, 39.6833, -75.7167
+Port Mahon, 39.1853, -75.4014
+Port Penn, 39.5167, -75.5769
+Porter, 39.6003, -75.6903
+Portsville, 38.5619, -75.6303
+Postles Corner, 39.1347, -75.4483
+Powelton, 38.8869, -75.5756
+Prices Corner, 39.7369, -75.6225
+Prices Corner Center, 39.7356, -75.6253
+Primehook Beach, 38.8556, -75.2431
+Pusey Crossroads, 38.5581, -75.4097
+Quaker Hill, 39.7972, -75.6931
+Quakertown, 38.7553, -75.1597
+Quarryville, 39.7792, -75.4875
+Radnor Green, 39.8083, -75.4731
+Radnor Woods, 39.8000, -75.4667
+Ralphs, 38.5008, -75.6367
+Rambleton Acres, 39.6833, -75.5667
+Ramblewood, 39.7500, -75.5500
+Red Lion, 39.6083, -75.6642
+Redden, 38.7414, -75.4175
+Redden Crossroads, 38.7392, -75.4233
+Reeves Crossing, 38.9833, -75.5783
+Rehoboth Beach, 38.7208, -75.0764
+Rehoboth Manor, 38.7167, -75.0833
+Reliance, 38.6353, -75.7067
+Revills Landing, 38.9467, -75.3514
+Reybold, 39.5922, -75.6306
+Reynolds Mill, 38.8131, -75.3444
+Richard Heights, 38.6750, -75.6389
+Richardson Estates, 39.1139, -75.5167
+Richardson Park, 39.7319, -75.5861
+Ridgewood, 39.7667, -75.5167
+Rising Sun, 39.1003, -75.5158
+Riverdale, 38.5939, -75.1917
+Riverside, 39.7958, -75.4667
+Riverside Gardens, 39.8000, -75.4667
+Riverside Hospital, 39.7558, -75.5128
+Riverview, 38.5825, -75.2750
+Robbins, 38.7619, -75.4219
+Robertson Landing, 38.8053, -75.2433
+Robinson Landing, 38.6931, -75.1419
+Robinsonville, 38.7136, -75.1925
+Robscott Manor, 39.6569, -75.7472
+Rock Manor, 39.7694, -75.5458
+Rockland, 39.7961, -75.5725
+Rodney Village, 39.1319, -75.5328
+Rodric Village, 39.1314, -75.5181
+Roesville, 38.9978, -75.5286
+Rogers Corners, 39.7111, -75.5472
+Rogers Haven, 38.5597, -75.0944
+Rogers Manor, 39.6736, -75.5614
+Rolling Hills, 39.7181, -75.6500
+Rolling Park, 39.7875, -75.4708
+Rose Hill, 39.6833, -75.5667
+Rose Hill Gardens, 39.6833, -75.5667
+Rosedale Beach, 38.5833, -75.2833
+Rosegate, 39.7097, -75.5472
+Roselle, 39.7500, -75.5833
+Roselle Terrace, 39.7389, -75.6139
+Roseville Park, 39.6994, -75.7133
+Ross, 38.6567, -75.6214
+Roxana, 38.4964, -75.1700
+Royal Grant, 39.1122, -75.5261
+Runnymeade, 39.7717, -75.6917
+Ruthby, 39.6856, -75.7025
+Rutherford, 39.6889, -75.6806

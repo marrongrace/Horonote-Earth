@@ -1,0 +1,141 @@
+Sabarto East, 39.2106, -75.5692
+Sand Hill, 38.7319, -75.3606
+Sandtown, 39.0333, -75.7192
+Sandy Brae, 38.7375, -75.1486
+Sandy Fork, 38.5539, -75.5325
+Sandy Landing, 38.5708, -75.1792
+Sassafras Landing, 38.4989, -75.0831
+Saulsbury Switch, 38.7017, -75.3436
+Schoolview, 39.1542, -75.5028
+Schultie Crossroads, 38.9953, -75.7353
+Scottfield, 39.6833, -75.7167
+Scotts Corner, 38.7808, -75.6675
+Scrap Tavern Crossroads, 39.0061, -75.5281
+Seabreeze, 38.6958, -75.0819
+Seaford, 38.6411, -75.6114
+Seaford Heights, 38.6500, -75.6083
+Sedgley Farms, 39.7650, -75.6239
+Seeneytown, 39.1997, -75.6661
+Selbyville, 38.4603, -75.2211
+Seven Hickories, 39.2161, -75.6297
+Shady Lane, 39.1189, -75.5181
+Shaft Ox Corner, 38.5247, -75.3572
+Sharpley, 39.8000, -75.5556
+Shawnee, 38.8897, -75.4569
+Shawnee Acres, 38.8944, -75.4028
+Shaws Corner, 39.2031, -75.6492
+Shawtown, 39.6833, -75.5667
+Sheep Pen Landing, 38.6428, -75.1481
+Sheffield Manor, 39.6981, -75.6900
+Shellburne, 39.7806, -75.5125
+Sherwood, 39.1431, -75.5347
+Sherwood Acres, 38.5361, -75.1458
+Sherwood Forest, 39.6708, -75.6903
+Sherwood Park, 39.7361, -75.6583
+Shingle Landing, 39.5433, -75.5942
+Shipley Heights, 39.7833, -75.5250
+Shockley Manor, 38.7167, -75.1008
+Shortly, 38.6072, -75.3950
+Shorts Corner, 39.2064, -75.6728
+Shorts Landing, 39.3497, -75.5358
+Silver Brook, 39.6564, -75.7542
+Silver Lake Shores, 38.7167, -75.0833
+Silverbrook Gardens, 39.7417, -75.5833
+Silverside, 39.7931, -75.4906
+Silverside Heights, 39.7847, -75.4806
+Silview, 39.7128, -75.6222
+Simonds Gardens, 39.7056, -75.5439
+Six Forks, 38.8883, -75.5300
+Skyline Crest, 39.7250, -75.6847
+Slaughter, 39.1594, -75.7153
+Slaughter Beach, 38.9128, -75.3044
+Slaytonville, 38.9167, -75.5833
+Sloan Landing, 38.6550, -75.1328
+Smith Crossroads, 39.0950, -75.7161
+Smith Hill, 38.4950, -75.5133
+Smyrna, 39.2997, -75.6050
+Smyrna Landing, 39.3081, -75.5939
+Snug Harbor, 38.6583, -75.5736
+South Bethany, 38.5164, -75.0533
+South Bowers, 39.0572, -75.3978
+South Dover Acres, 39.1500, -75.5167
+South Wilmington, 39.7292, -75.5444
+Southwood, 39.7847, -75.7242
+Spring Hill, 38.9667, -75.4319
+Spring Valley, 39.7708, -75.6472
+Springfield Crossroads, 38.6825, -75.3081
+Spruance City, 39.2944, -75.6167
+St Francis Hospital, 39.7503, -75.5675
+St George, 38.4989, -75.5850
+St Georges, 39.5550, -75.6506
+St Georges Heights, 39.5639, -75.6522
+Stanley Manor, 38.9028, -75.4597
+Stanton, 39.7156, -75.6411
+Stanton Estates, 39.7133, -75.6472
+Star Hill, 39.1053, -75.5408
+Star Hill Village, 39.1000, -75.5375
+Star Landing, 38.7608, -75.2028
+Stave Landing, 39.4314, -75.6014
+Staytonville, 38.8494, -75.5192
+Stockdale, 39.8000, -75.4583
+Stockley, 38.6408, -75.3403
+Stockley Center, 38.6269, -75.3200
+Stockly, 38.6833, -75.3833
+Stockton, 39.6833, -75.5667
+Stonehaven, 39.7653, -75.5125
+Stratford, 39.6681, -75.6319
+Strawberry Landing, 38.5008, -75.0717
+Summit Bridge, 39.5353, -75.7264
+Surrey Park, 39.8042, -75.5306
+Susan Beach Corner, 38.4681, -75.6528
+Sussex Shores, 38.5500, -75.0575
+Swain Acres, 38.6917, -75.4000
+Swallow Hill, 39.7939, -75.6356
+Swann Keys, 38.4800, -75.0867
+Swanwyck, 39.6936, -75.5608
+Swanwyck Estates, 39.6833, -75.5667
+Swanwyck Gardens, 39.6833, -75.5667
+Sycamore, 38.5958, -75.4908
+Sycamore Gardens, 39.6958, -75.7069
+Talleys Corner, 39.8081, -75.5158
+Talleyville, 39.8089, -75.5492
+Tanglewood, 39.6833, -75.7167
+Tarleton, 39.8000, -75.5167
+Tavistock, 39.8056, -75.5583
+Taylor Estates, 39.1278, -75.5300
+Taylors Bridge, 39.4000, -75.6833
+Taylors Corner, 39.3875, -75.7161
+Taylors Gut Landing, 39.3275, -75.5153
+Taylortown, 39.6472, -75.6717
+Tent, 39.3572, -75.6064
+Thatchers Landing, 38.5564, -75.2022
+The Beeches, 39.1500, -75.5167
+The Blades, 39.1167, -75.5292
+The Cedars, 39.7333, -75.6500
+The Hamlet, 39.1694, -75.5486
+The Heath, 38.9069, -75.4583
+The Highlands, 39.7208, -75.6833
+The Island, 38.6167, -75.6500
+The Landing, 38.5928, -75.2142
+The Oaks, 38.6639, -75.5986
+The Timbers, 39.8000, -75.5167
+Thomas Landing, 39.4481, -75.6133
+Thompsonville, 38.9994, -75.3900
+Thowrntown, 39.5178, -75.6031
+Tidbury Manor, 39.1161, -75.5147
+Todd Estates, 39.6708, -75.7125
+Tower Trailer Park, 39.8000, -75.4667
+Towne Point, 39.1778, -75.5167
+Townsend, 39.3950, -75.6919
+Trepagnier, 39.7792, -75.6689
+Trinity, 38.6244, -75.1869
+Truitts Park, 38.7056, -75.0917
+Turnkey, 39.0881, -75.5478
+Tuxedo Park, 39.7181, -75.6208
+Twin Eagle Farms, 39.2806, -75.7125
+Twin Oaks, 39.7847, -75.5361
+Tybouts Corner, 39.6200, -75.6425
+Tybrook, 39.7486, -75.6319
+Underwood Corner, 39.2444, -75.6806
+Union Street, 39.7500, -75.5833
+Upper Christiana, 39.6833, -75.6833
