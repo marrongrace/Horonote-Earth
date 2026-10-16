@@ -1,0 +1,44 @@
+Aiyialoúsa, 35.5333, 34.1833
+Akrotíri, 34.6000, 32.9500
+Akáki, 35.1333, 33.1333
+Ammókhostos(Famagusta), 35.1167, 33.9500
+Aradhíppou, 34.9500, 33.5833
+Athiaínou, 35.0667, 33.5333
+Dherínia, 35.0500, 33.9500
+Dháli, 35.0167, 33.4167
+Episkopí, 34.6667, 32.9000
+Famagusta > Ammókhostos, 35.1167, 33.9500
+Kirínia(Kyrenia), 35.3333, 33.3167
+Kithraía, 35.2500, 33.4833
+Koúklia, 34.7000, 32.5667
+Kyrenia > Kirínia, 35.3333, 33.3167
+Larnaca > Lárnax, 34.9167, 33.6333
+Lemesós(Limassol), 34.6667, 33.0333
+Leonárison, 35.4667, 34.1333
+Levkosía(Nicosia), 35.1667, 33.3667
+Levkónoikon, 35.2500, 33.7500
+Limassol > Lemesós, 34.6667, 33.0333
+Lápithos, 35.3333, 33.1667
+Lárnax(Larnaca), 34.9167, 33.6333
+Lévka, 35.1167, 32.8500
+Lísi, 35.1000, 33.6833
+Marathóvounon, 35.2167, 33.6167
+Mórfou, 35.2000, 32.9833
+Nicosia > Levkosía, 35.1667, 33.3667
+Néa Páfos(Paophos), 34.7500, 32.4167
+Palaikhóri, 34.9167, 33.0833
+Paphos > Néa Páfos, 34.7500, 32.4167
+Paralímni, 35.0333, 33.9833
+Pákhna, 34.7667, 32.8000
+Páno Panayiá, 34.9167, 32.6333
+Páno Plátres, 34.8833, 32.8667
+Péyia, 34.8833, 32.3833
+Pólis, 35.0333, 32.4167
+Rizokárpason, 35.6000, 34.3833
+Troödos, 34.9167, 32.8833
+Tríkomon, 35.2833, 33.8667
+Yermasóyia, 34.7167, 33.0833
+Yialoúsa > Aiyialoúsa, 35.5333, 34.1833
+Zódhia, 35.1667, 33.0000
+Ársos, 34.8333, 32.7667
+Ássia, 35.1500, 33.6000
