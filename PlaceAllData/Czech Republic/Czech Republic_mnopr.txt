@@ -1,0 +1,139 @@
+Manetín, 49.9833, 13.2333
+Marienbad > Mariánské Lázne, 49.9833, 12.7167
+Mariánské Lázne, 49.9833, 12.7167
+Meclov, 49.5167, 12.8667
+Mecín, 49.4833, 13.4167
+Medenec, 50.4167, 13.0833
+Melník, 50.3333, 14.4833
+Merklin, 49.5667, 13.1167
+Mestecko, 50.0500, 13.8667
+Mesto Touškov, 49.7667, 13.2500
+Michalovy Hory, 49.9167, 12.7833
+Mikulov, 48.8167, 16.6500
+Mikulášovice, 50.9667, 14.3333
+Milevsko, 49.4500, 14.3667
+Mimon, 50.6667, 14.7333
+Miroslav, 48.9500, 16.3000
+Mirošov, 49.6833, 13.6667
+Mladotice, 49.9667, 13.3000
+Mladá Boleslav, 50.3833, 14.9833
+Mnichov, 50.0500, 12.8167
+Mníšek pod Brdy, 49.8667, 14.2667
+Mochov, 50.1333, 14.8333
+Mochtín, 49.3667, 13.3500
+Modrice, 49.1167, 16.6167
+Mohelnice, 49.7667, 16.9167
+Moravská Ostrava > Ostrava, 49.8333, 18.2833
+Moravská Trebová, 49.7500, 16.6667
+Moravské Budejovice, 49.0500, 15.8167
+Moravský Krumlov, 49.0500, 16.3167
+Most, 50.5333, 13.6500
+Moutnice, 49.0333, 16.7667
+Mutejovice, 50.1500, 13.6833
+Mýto, 49.7833, 13.7333
+Mšec, 50.1667, 13.9000
+Mšeno, 50.4500, 14.6333
+Nalzovské Hory, 49.3333, 13.5500
+Napajedla, 49.1667, 17.5167
+Nejdek, 50.2833, 12.7000
+Nemcice, 49.4333, 13.0833
+Nepomuk, 49.4833, 13.6000
+Neratovice, 50.2333, 14.5167
+Netolice, 49.0500, 14.2000
+Nezvestice, 49.6500, 13.5333
+Neštemice, 50.6667, 14.1167
+Nová Bystrice, 49.0167, 15.1000
+Nová Paka, 50.4833, 15.5167
+Nová Role, 50.2500, 12.7833
+Nové Hrady, 48.7833, 14.6167
+Nové Mesto, 50.3500, 16.1500
+Nové Mesto na Morave, 49.5667, 16.0667
+Nové Sedlo, 50.1667, 12.7000
+Nové Strašecí, 50.1167, 13.8833
+Nové Údoli, 48.8000, 13.8000
+Nový Bohumín, 49.9333, 18.3333
+Nový Bor, 50.7500, 14.5500
+Nový Jicín, 49.6000, 18.0000
+Nymburk, 50.1833, 15.0500
+Náchod, 50.4167, 16.1667
+Nýrany, 49.7167, 13.2000
+Nýrsko, 49.3000, 13.1500
+Odry, 49.6500, 17.8333
+Olešná, 49.7667, 13.8000
+Olmütz > Olomouc, 49.6000, 17.2667
+Olomouc, 49.6000, 17.2667
+Oloví, 50.1833, 12.5500
+Olšany, 49.4000, 13.6333
+Opava, 49.9333, 17.9000
+Orlová, 49.8333, 18.4000
+Osek, 50.6167, 13.6667
+Oselce, 49.4333, 13.6667
+Ostrau > Ostrava, 49.8333, 18.2833
+Ostrava, 49.8333, 18.2833
+Ostromec, 49.6167, 12.9667
+Ostrov, 50.2833, 12.9500
+Otešice, 49.5500, 13.1167
+Otrokovice, 49.2167, 17.5167
+Pacov, 49.4667, 15.0000
+Padrt', 49.6667, 13.7667
+Pardubice, 50.0333, 15.7833
+Pavlice, 48.9833, 15.8833
+Pchery, 50.1667, 14.1333
+Pelhrimov, 49.4333, 15.2167
+Pernink, 50.3333, 12.7500
+Peruc, 50.3167, 13.9833
+Perštejn, 50.3833, 13.1333
+Pilsen > Plzen, 49.7500, 13.3833
+Planá, 49.8667, 12.7333
+Plasy, 49.9333, 13.4000
+Plzen, 49.7500, 13.3833
+Plánice, 49.4000, 13.4833
+Pobezovice, 49.5167, 12.8000
+Podborany, 50.1833, 13.4167
+Podebrady, 50.1333, 15.1167
+Podhurí, 49.4667, 13.6667
+Podmokly, 50.7667, 14.2167
+Podvousy, 49.5333, 13.1333
+Pohorelice, 48.9833, 16.5333
+Policka, 49.7167, 16.2667
+Polná, 49.4833, 15.7167
+Postoloprty, 50.3333, 13.6667
+Povrly, 50.6667, 14.1667
+Prachatice, 49.0167, 14.0000
+Prag > Praha, 50.0833, 14.4333
+Praga > Praha, 50.0833, 14.4333
+Prague > Praha, 50.0833, 14.4333
+Praha(Prague), 50.0833, 14.4333
+Prameny, 50.0500, 12.7667
+Prelouc, 50.0333, 15.5667
+Prerov, 49.4500, 17.4500
+Preštice, 49.5667, 13.3333
+Primda, 49.6833, 12.6833
+Proboštov, 50.6500, 13.8333
+Prostejov, 49.4833, 17.1167
+Prostibor, 49.6667, 12.9000
+Prunérov, 50.4167, 13.2667
+Príbor, 49.6500, 18.1667
+Príbram, 49.7000, 14.0167
+Prísecnice, 50.4500, 13.1000
+Písek, 49.3167, 14.1667
+Pšov, 50.1667, 13.4833
+Radnice, 49.8500, 13.6167
+Radotín, 50.0000, 14.3667
+Radošice, 49.5500, 13.6500
+Rajhrad, 49.0833, 16.6167
+Rakovník, 50.0833, 13.7167
+Reichenberg > Liberec, 50.7667, 15.0500
+Rejštejn, 49.1500, 13.5167
+Retenice, 50.6333, 13.7667
+Revnicov, 50.1333, 13.7500
+Rokycany, 49.7500, 13.6000
+Rosice, 49.1833, 16.3833
+Roudnice nad Labem, 50.3667, 14.2667
+Rozelov, 49.5500, 13.8000
+Rozmitál pod Tremšínem, 49.6000, 13.8667
+Roznov pod Radhoštem, 49.4667, 18.1667
+Roztoky, 50.1500, 14.3667
+Rumburk, 50.9500, 14.5333
+Rychnov nad Kneznou, 50.1667, 16.2833
+Rýmarov, 49.9333, 17.2667

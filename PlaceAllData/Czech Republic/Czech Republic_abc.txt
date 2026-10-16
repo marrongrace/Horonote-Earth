@@ -1,0 +1,95 @@
+Aussig > Ústí nad Labem, 50.6667, 14.0333
+Austerlitz > Slavkov u Brna, 49.1500, 16.8667
+Aš, 50.1667, 12.1667Bechyne, 49.3000, 14.4833
+Becov nad Teplou, 50.0333, 12.3167
+Belcice, 49.5000, 13.8833
+Belá nad Radbuzou, 49.6000, 12.7333
+Belá pod Bezdezem, 50.5000, 14.8333
+Benešov, 49.7833, 14.6833
+Benešov nad Ploucnicí, 50.7500, 14.3667
+Benátky nad Jizerou, 50.2833, 14.8500
+Beroun, 49.9667, 14.0667
+Bezdruzice, 49.9167, 12.9833
+Blansko, 49.3667, 16.6500
+Blatná, 49.4333, 13.8833
+Blovice, 49.5833, 13.5500
+Blšany, 50.1667, 13.4833
+Bochov, 50.1000, 13.0333
+Bohutín, 49.6667, 13.9167
+Bohušovice nad Ohrí, 50.4833, 14.1167
+Boletice nad Labem, 50.7500, 14.2167
+Bolíkov, 49.0333, 15.3667
+Bonetice, 49.6833, 12.8167
+Bor, 49.7167, 12.7833
+Borovany, 48.9000, 14.6500
+Borovy, 49.5500, 13.3000
+Borová Lada, 48.9833, 13.6667
+Boskovice, 49.4833, 16.6667
+Bozí Dar, 50.4000, 12.9167
+Brandýs nad Labem, 50.1667, 14.6833
+Brandýsek, 50.1667, 14.1667
+Branka, 49.8333, 12.5500
+Brasy, 49.8333, 13.5833
+Breclav, 48.7667, 16.8833
+Breznice, 49.5500, 13.9500
+Brezno, 50.4000, 13.4333
+Brezová, 50.1000, 12.6500
+Brezové Hory, 49.6833, 13.9667
+Brno, 49.2000, 16.6167
+Brod, 49.8500, 12.7500
+Brodeslavy, 49.9333, 13.5667
+Broumov(Plzensky Kraj), 49.9000, 12.6167
+Broumov(Kralovehradecky Kraj), 50.5833, 16.3333
+Bruntál, 49.9833, 17.4667
+Brünn > Brno, 49.2000, 16.6167
+Brüx > Most, 50.5333, 13.6500
+Bucina, 48.9667, 13.6000
+Budišov nad Budišovkou, 49.7833, 17.6333
+Budweis > Ceské Budejovice, 48.9833, 14.4667
+Budyne nad Ohrí, 50.3667, 14.1500
+Buštehrad, 50.1500, 14.1667
+Bylnice, 49.0667, 18.0167
+Bystrany, 50.6333, 13.8500
+Bystrice, 49.7500, 14.6833
+Bystrice pod Hostýnem, 49.4000, 17.6667
+Byšice-Liblice, 50.3167, 14.6333
+Bílina, 50.5833, 13.7500
+Cachrov, 49.2667, 13.3000
+Carlsbad > Kalovy Vary, 50.1833, 12.8667
+Cechtice, 49.6167, 15.0500
+Celákovice, 50.1667, 14.7667
+Ceprovice, 49.1667, 13.9833
+Cercany, 49.8500, 14.7167
+Cernovice, 49.8167, 13.1000
+Cernošín, 49.8167, 12.8833
+Cerná v Pošumaví, 48.7333, 14.1167
+Cervený Kostelec, 50.4833, 16.1000
+Ceská Kamenice, 50.7833, 14.4333
+Ceská Kublice, 49.3667, 12.8667
+Ceská Lípa, 50.7000, 14.5333
+Ceská Trebová, 49.9000, 16.4500
+Ceské Budejovice, 48.9833, 14.4667
+Ceský Brod, 50.0333, 14.9667
+Ceský Krumlov, 48.8167, 14.3167
+Ceský Tešín, 49.7500, 18.6167
+Chabarovice, 50.6667, 13.9333
+Cheb, 50.0167, 12.4167
+Chlum, 48.8667, 13.9167
+Chocen, 50.0000, 16.2167
+Chocenice, 49.5500, 13.5167
+Chodov, 50.1833, 12.7167
+Chomutov, 50.4667, 13.4333
+Chotebor, 49.7167, 15.6667
+Chotešov, 49.6500, 13.2000
+Chribská, 50.8333, 14.4833
+Chrudim, 49.9500, 15.8000
+Chrást, 49.8000, 13.4833
+Chríc, 49.9500, 13.6500
+Chudec, 49.9667, 13.0833
+Chudenín, 49.3000, 13.1000
+Chyše, 50.0833, 13.2500
+Cistá, 50.0500, 12.7000
+Ckyne, 49.1167, 13.8167
+Cvikov, 50.8000, 14.6667
+Cáslav, 49.9000, 15.3833
+Cínovec, 50.7167, 13.7500

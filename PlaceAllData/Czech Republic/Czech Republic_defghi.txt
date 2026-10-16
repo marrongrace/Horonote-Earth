@@ -1,0 +1,79 @@
+Dacice, 49.0833, 15.4333
+Dalovice, 50.1833, 12.9167
+Decín, 50.8000, 14.2167
+Defurovy Lazany, 49.4500, 13.6667
+Dlouhá Ves, 49.2000, 13.5167
+Dobrany, 49.6667, 13.3000
+Dobromerice, 50.3833, 13.7667
+Dobruška, 50.2833, 16.1667
+Dobríš, 49.7833, 14.1833
+Doksy, 50.5833, 14.6333
+Dolany, 49.4500, 13.2500
+Dolní Jiretín, 50.5833, 13.5500
+Dolní Zandov, 50.0333, 12.5667
+Domazlice, 49.4500, 12.9333
+Doupov, 50.1667, 13.1333
+Drazen, 49.9000, 13.3000
+Drazenov, 49.4667, 12.8667
+Drnholec, 48.8667, 16.4833
+Dubnany, 48.9167, 17.1000
+Dubá, 50.5667, 14.5500
+Dubí, 50.7000, 13.7500
+Duchcov, 50.6167, 13.7500
+Dvur Králové, 50.4333, 15.8000
+Dívcice, 49.1000, 14.3167
+Dýšina, 49.7667, 13.4833
+Eger > Cheb, 50.0167, 12.4167
+Františkovy Lázne, 50.0667, 12.3500
+Frenštát pod Radhoštem, 49.5500, 18.2333
+Frýdek-Místek, 49.6833, 18.3667
+Frýdlant, 50.9333, 15.0833
+Gablonz > Jablonec nad Nisou, 50.7333, 15.1667
+Gerlova Hut', 49.1667, 13.2833
+Gottwaldov, 49.2167, 17.6833
+Habartov, 50.1333, 12.5500
+Halenkov, 49.3167, 18.1333
+Hamr, 50.5833, 13.5833
+Hanušovice, 50.0833, 16.9167
+Hartmanice, 49.1667, 13.4500
+Havlíckuv Brod, 49.6000, 15.5833
+Havírov, 49.7833, 18.4500
+Hermanova Hut', 49.7333, 13.0667
+Hlinsko, 49.7500, 15.9167
+Hlohovice, 49.8833, 13.6333
+Hluboká nad Vltavou, 49.0500, 14.4500
+Hlucín, 49.9000, 18.2000
+Hodonín, 48.8500, 17.1333
+Holešov, 49.3333, 17.5833
+Holice, 50.0667, 15.9833
+Holýšov, 49.6000, 13.0833
+Horazd'ovice, 49.3333, 13.7167
+Horice, 50.3667, 15.6333
+Horní Jiretín, 50.5833, 13.5333
+Horní Pocernice, 50.1000, 14.6333
+Horní Slavkov, 50.1167, 12.7667
+Horní Vltavice, 48.9500, 13.7667
+Horovice, 49.8333, 13.9000
+Hory Matky Bozí, 49.2667, 13.4500
+Horšovský Týn, 49.5333, 12.9333
+Hosteradice, 48.9500, 16.2500
+Hostivice, 50.0667, 14.2500
+Hostomice, 50.5833, 13.7667
+Hostoun, 49.5667, 12.7667
+Hošt'ka, 50.5000, 14.3333
+Hradec Králové, 50.2000, 15.8333
+Hranice(Karlovarsky Kraj), 50.2500, 12.1667
+Hranice(Olomoucky Kraj), 49.5500, 17.7333
+Hrdlovka, 50.6000, 13.6667
+Hrensko, 50.8333, 14.2333
+Hrob, 50.6500, 13.7333
+Hronov, 50.4833, 16.2000
+Hrotovice, 49.1000, 16.1167
+Hrušovany, 48.8333, 16.3833
+Hrádek nad Nisou, 50.8000, 14.8500
+Hulín, 49.3167, 17.4667
+Humpolec, 49.5333, 15.3667
+Husinec, 49.0500, 13.9667
+Hustopece, 48.9500, 16.7333
+Iglau > Jihlava, 49.4000, 15.6000
+Ivancice, 49.1000, 16.3833

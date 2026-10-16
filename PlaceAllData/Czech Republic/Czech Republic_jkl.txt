@@ -1,0 +1,112 @@
+Jablonec nad Nisou, 50.7333, 15.1667
+Jablonné v Podještedí, 50.8000, 14.7833
+Jablunkov, 49.5833, 18.7833
+Janovice nad Úhlava, 49.3500, 13.2333
+Jaromer, 50.3500, 15.9167
+Jaromerice, 49.0833, 15.8833
+Javorná, 49.2167, 13.3000
+Javorník, 50.3833, 17.0000
+Jemnice, 49.0167, 15.5833
+Jesenice, 50.0667, 13.4833
+Jeseník, 50.2333, 17.2167
+Jestrebí, 50.6333, 14.6000
+Jetrichovice, 50.8167, 14.4167
+Jevícko, 49.6333, 16.7167
+Jicín, 50.4333, 15.3500
+Jihlava, 49.4000, 15.6000
+Jince, 49.7833, 13.9833
+Jindrichovice, 50.2500, 12.6167
+Jindrichuv Hradec, 49.1500, 15.0000
+Jinín, 49.2167, 13.9667
+Jiretín, 50.8333, 14.5833
+Jirkov, 50.5000, 13.4500
+Jiríkov, 50.9833, 14.5833
+Joachimsthal > Jáchymov, 50.3333, 12.9167
+Jáchymov, 50.3333, 12.9167
+Jägerndorf > Krnov, 50.0833, 17.6833
+Jílové, 50.7667, 14.1167
+Kadan, 50.3333, 13.2500
+Kadov, 49.4000, 13.7833
+Kamenický Šenov, 50.7500, 14.4833
+Kaplice, 48.7500, 14.5000
+Karlovy Vary(Carlsbad), 50.1833, 12.8667
+Karlsbad > Karlovy Vary, 50.1833, 12.8667
+Karviná, 49.8333, 18.5000
+Katovice, 49.2667, 13.8167
+Katusice, 50.4333, 14.8333
+Kašperské Hory, 49.1500, 13.5500
+Kbelnice, 49.3000, 13.9833
+Kdyne, 49.3833, 13.0333
+Kladno, 50.1333, 14.0833
+Kladruby, 49.7167, 12.9833
+Klatovy, 49.4000, 13.3000
+Klášterec, 50.4000, 13.1667
+Kocov, 49.8167, 12.7333
+Kojetín, 49.3500, 17.3000
+Kokašice, 49.8833, 12.9500
+Kolín, 50.0167, 15.2167
+Komotau > Chomutov, 50.4667, 13.4333
+Konice, 49.5833, 16.8833
+Kopisty, 50.5667, 13.5833
+Koryta, 49.4000, 13.2167
+Kosmonosy, 50.4333, 15.0000
+Kostelec nad Labem, 50.1833, 14.5833
+Košt'ahy, 50.6500, 13.7500
+Koštice, 50.4000, 13.9167
+Kralovice, 49.9833, 13.4833
+Kralupy nad Vltavou, 50.1833, 14.3000
+Kralupy u Chomutova, 50.4167, 13.3333
+Kraslice, 50.3000, 12.5167
+Kravare, 50.6333, 14.3833
+Krimice, 49.7667, 13.2500
+Krivoklát, 50.0333, 13.9000
+Krnov, 50.0833, 17.6833
+Kromeríz, 49.3000, 17.4000
+Krsy, 49.9000, 13.0500
+Krupka, 50.7167, 13.7667
+Krupá, 50.1333, 13.6833
+Krásná Lípa, 50.9000, 14.5167
+Krásný Dvur, 50.1667, 13.4000
+Kunovice, 49.0500, 17.4833
+Kunzak, 49.1167, 15.1833
+Kurim, 49.3000, 16.5333
+Kutná Hora, 49.9500, 15.2667
+Kvilda, 49.0167, 13.5833
+Kyjov, 49.0167, 17.1333
+Kynšperk nad Ohrí, 50.0667, 12.5333
+Königgrätz > Hradec Králové, 50.2000, 15.8333
+Lanškroun, 49.9167, 16.6167
+Ledce, 49.8167, 13.3333
+Lenora, 48.9167, 13.9000
+Lestkov, 49.9000, 12.8667
+Libceves, 50.4333, 13.8333
+Libcice nad Vltavou, 50.1667, 14.3333
+Libechov, 50.3333, 14.4667
+Liberec, 50.7667, 15.0500
+Liblín, 49.9167, 13.5333
+Libochovice, 50.3667, 14.0500
+Libušín, 50.1500, 14.0667
+Lipník nad Becvou, 49.5167, 17.5833
+Litomerice, 50.5833, 14.1500
+Litomyšl, 49.8667, 16.3167
+Litovel, 49.7000, 17.0833
+Litvínov, 50.6167, 13.6000
+Lišov, 49.0167, 14.6167
+Lnáre, 49.4667, 13.7833
+Lochovice, 49.8500, 13.9833
+Loket, 50.1500, 12.7167
+Lom, 50.6167, 13.6667
+Lomnice nad Popelkou, 50.5333, 15.3667
+Loucim, 49.3667, 13.1167
+Louny, 50.3167, 13.7667
+Lovosice, 50.5167, 14.0500
+Loza, 49.8833, 13.3000
+Lubenec, 50.1000, 13.3333
+Lubná, 50.0667, 13.7000
+Luby, 50.2000, 12.4167
+Luzná, 50.1000, 13.7500
+Lány, 50.1000, 13.9667
+Lázne Kynzvart, 50.0167, 12.6333
+Líbeznice, 50.1667, 14.5000
+Lísková, 49.4167, 12.7167
+Líšina, 49.6167, 13.1667
