@@ -1,0 +1,161 @@
+Agram > Zagreb, 45.8000, 15.9667
+Babina Greda, 45.1167, 18.5500
+Baderna, 45.2000, 13.7667
+Bale, 45.0333, 13.8000
+Batina, 45.8500, 18.8500
+Baška, 44.9667, 14.7667
+Beli Manastir, 45.7667, 18.6000
+Benkovac, 44.0333, 15.6167
+Biograd, 43.9333, 15.4500
+Bjelovar, 45.9000, 16.8500
+Bol, 43.2667, 16.6667
+Bosanska Dubica, 45.1833, 16.8167
+Brinje, 45.0000, 15.1333
+Brioni, 44.9167, 13.7667
+Buje, 45.4000, 13.6667
+Cakovec, 46.3833, 16.4333
+Cavtat, 42.5833, 18.2167
+Cazma, 45.7500, 16.6167
+Cerna, 45.1833, 18.7000
+Cres, 44.9667, 14.4167
+Crikvenica, 45.1833, 14.7000
+Dalj, 45.4833, 18.9833
+Darda, 45.6167, 18.6833
+Daruvar, 45.6000, 17.2167
+Delnice, 45.4000, 14.8000
+Donja Stubica, 45.9833, 15.9667
+Drniš, 43.8500, 16.1500
+Dubrovnik, 42.6333, 18.1167
+Duga Resa, 45.4500, 15.5000
+Esseg > Osijek, 45.5500, 18.6833
+Eszék > Osijek, 45.5500, 18.6833
+Fazana, 44.9167, 13.8167
+Fiume > Rijeka, 45.3333, 14.4500
+Gaj, 45.4833, 17.0333
+Galizana, 44.9333, 13.8667
+Garešnica, 45.5833, 16.9333
+Glina, 45.3333, 16.1000
+Gorjani, 45.4000, 18.3500
+Gospic, 44.5500, 15.3833
+Gracac, 44.3000, 15.8500
+Grubišno Polje, 45.7000, 17.1667
+Hvar, 43.1667, 16.4500
+Imotski, 43.4500, 17.2167
+Ivanec, 46.2167, 16.1333
+Ivanic Grad, 45.7000, 16.4000
+Jablanac, 44.7000, 14.9000
+Janjina, 42.9333, 17.4333
+Jestrebarsko, 45.6667, 15.6500
+Kanfanar, 45.1167, 13.8500
+Kaptol, 45.4333, 17.7333
+Karlobag, 44.5333, 15.0833
+Karlovac, 45.4833, 15.5667
+Kistanje, 43.9833, 15.9667
+Knin, 44.0333, 16.2000
+Koprivnica, 46.1667, 16.8333
+Korcula, 42.9667, 17.1333
+Kostajnica, 45.2333, 16.5500
+Kotoriba, 46.3500, 16.8167
+Kraljevica, 45.2667, 14.5667
+Krapina, 46.1667, 15.8667
+Krizevci, 46.0333, 16.5500
+Kutina, 45.4833, 16.7667
+Labin, 45.0833, 14.1167
+Ludbreg, 46.2500, 16.6167
+Makarska, 43.3000, 17.0333
+Metkovic, 43.0500, 17.6500
+Mrkopalj, 45.3167, 14.8500
+Mursko Središce, 46.5167, 16.4500
+Našice, 45.4833, 18.1000
+Nova Gradiška, 45.2667, 17.3833
+Novi Vinodolski, 45.1333, 14.8000
+Novigrad(Zadar-Knin), 44.1833, 15.5500
+Novigrad(Istria), 45.3167, 13.5667
+Novska, 45.3500, 16.9833
+Obrovac, 44.2000, 15.6833
+Ogulin, 45.2667, 15.2333
+Omišalj, 45.2167, 14.5667
+Opatija, 45.3500, 14.3167
+Orahovica, 45.5167, 17.8833
+Osijek, 45.5500, 18.6833
+Otocac, 44.8667, 15.2333
+Otok Zirje, 43.6667, 15.6500
+Pag, 44.4500, 15.0667
+Pakrac, 45.4333, 17.2000
+Pazin, 45.2333, 13.9333
+Perušic, 44.6500, 15.3833
+Petrinja, 45.4333, 16.2833
+Pitomaca, 45.9500, 17.2333
+Plaški, 45.0833, 15.3667
+Pleternica, 45.2833, 17.8000
+Ploce, 43.0667, 17.4333
+Podravska Slatina, 45.7000, 17.7000
+Pola > Pula, 44.8667, 13.8333
+Porec, 45.2167, 13.6167
+Preko, 44.0833, 15.1833
+Pucišca, 43.3500, 16.7333
+Pula, 44.8667, 13.8333
+Puji > Pula, 44.8667, 13.8333
+Rab, 44.7667, 14.7667
+Ragusa > Dubrovnik, 42.6333, 18.1167
+Ravna Gora, 45.3833, 14.9500
+Rijeka, 45.3333, 14.4500
+Rieka > Rijeka, 45.3333, 14.4500
+Rovinj, 45.0833, 13.6333
+Sali, 43.9333, 15.1667
+Samobor, 45.8000, 15.7167
+Sebenico > Šibenik, 43.7333, 15.9000
+Senj, 44.9833, 14.9000
+Silba, 44.3833, 14.7000
+Sinj, 43.7000, 16.6333
+Sisak, 45.4833, 16.3833
+Skradin, 43.8167, 15.9333
+Slano, 42.7833, 17.9000
+Slavonska Pozega, 45.3333, 17.6833
+Slavonski Brod, 45.1667, 18.0167
+Slunj, 45.1167, 15.5833
+Spalato > Split, 43.5167, 16.4500
+Split, 43.5167, 16.4500
+Stari Grad, 43.1833, 16.6000
+Ston, 42.8333, 17.7000
+Suhopolje, 45.8000, 17.5000
+Supetar, 43.3833, 16.5500
+Sveti Petar u Šumi, 45.1833, 13.8667
+Tijesno, 43.8000, 15.6500
+Titova Korenica, 44.7500, 15.7167
+Trogir, 43.5167, 16.2500
+Trpanj, 43.0000, 17.2833
+Udbina, 44.5333, 15.7667
+Umag, 45.4167, 13.5333
+Valpovo, 45.6500, 18.4333
+Varazdin, 46.3167, 16.3333
+Vela Luka, 42.9667, 16.7167
+Veli Lošinj, 44.5167, 14.5000
+Velika Gorica, 45.7167, 16.0833
+Vinkovci, 45.2833, 18.8167
+Virje, 46.0667, 16.9833
+Virovitica, 45.8333, 17.3833
+Vis, 43.0500, 16.2000
+Vizinada, 45.3333, 13.7667
+Vocin, 45.6167, 17.5333
+Vodnjan, 44.9500, 13.8500
+Vojnic, 45.3167, 15.7000
+Vrbovec, 45.8833, 16.4167
+Vrbovsko, 45.3833, 15.0833
+Vrginmost, 45.3500, 15.8667
+Vrlika, 43.9167, 16.4000
+Vrsar, 45.1333, 13.6167
+Vukovar, 45.3500, 19.0000
+Zadar, 44.1167, 15.2333
+Zagabria > Zagreb, 45.8000, 15.9667
+Zagreb, 45.8000, 15.9667
+Zara > Zadar, 44.1167, 15.2333
+Zelina, 45.9667, 16.2500
+Zirje Island, 43.6667, 15.6500
+Zlarin, 43.7000, 15.8333
+Zlatar, 46.1000, 16.0833
+Zminj, 45.1500, 13.9167
+Zupanja, 45.0667, 18.7000
+Đakovo, 45.3167, 18.4167
+Đurdevac, 46.0500, 17.0667
+Šibenik, 43.7333, 15.9000
