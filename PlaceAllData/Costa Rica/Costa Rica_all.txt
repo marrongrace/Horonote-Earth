@@ -1,0 +1,93 @@
+Alajuela, 10.0167, -84.2167
+Altamira, 10.5000, -84.3833
+Amubri, 9.5167, -82.9333
+Arenal, 10.4833, -84.8833
+Atenas, 9.9667, -84.3833
+Bagaces, 10.5167, -85.2500
+Boruca, 9.0000, -83.3333
+Buenos Aires, 9.1667, -83.3333
+Cabuya, 9.6000, -85.1000
+Cabuyal, 10.6667, -85.6667
+Carrillo, 9.8667, -85.5000
+Cartago, 9.8667, -83.9167
+Cañas, 10.4167, -85.1167
+Caño Negro, 10.9000, -84.7333
+Colorado, 10.7667, -83.5833
+Convento, 9.3500, -83.5000
+Curubandé, 10.7167, -85.4333
+Dominical, 9.2167, -83.8500
+Esparta, 9.9833, -84.6667
+Filadelfia, 10.4333, -85.5667
+Golfito, 8.6333, -83.1833
+Grecia, 10.0833, -84.3000
+Guadalupe, 9.9500, -84.0500
+Guápiles, 10.2167, -83.7667
+Hacienda Miravalles, 10.6833, -85.2333
+Heredia, 10.0000, -84.1167
+Juan Viñas, 9.9000, -83.7500
+La Cruz, 11.0667, -85.6500
+La Cuesta, 8.5000, -82.8333
+La Fortuna, 10.5000, -84.5833
+La Mansión, 10.1000, -85.3667
+La Piedra, 9.4833, -83.6667
+La Unión de Coto, 8.6000, -83.0500
+Lagarto, 10.1167, -84.9333
+Las Juntas, 10.2667, -85.0000
+Lepanto, 9.9500, -85.0333
+Liberia, 10.6333, -85.4500
+Limón, 10.0000, -83.0333
+Los Chiles, 11.0333, -84.7167
+Miramar, 10.1000, -84.7333
+Moravia, 9.8500, -83.4333
+Murciélago, 10.9167, -85.7333
+Naranjo, 10.1000, -84.3667
+Nicoya, 10.1500, -85.4500
+Orotina, 9.9000, -84.5167
+Palmar Sur, 8.9667, -83.4833
+Palmares(Alajuela), 10.0500, -84.4333
+Palmares(San José), 9.3500, -83.6667
+Paquera, 9.8333, -84.9333
+Paraíso, 9.8333, -83.8500
+Parismina, 10.2000, -83.6333
+Parrita, 9.5000, -84.3167
+Playa Bonita, 9.6500, -84.4500
+Portegolpe, 10.3333, -85.7667
+Potrero Grande, 9.0000, -83.1833
+Puerto Cortés, 8.9667, -83.5333
+Puerto Jiménez, 8.5500, -83.3167
+Puerto Limón > Limón, 10.0000, -83.0333
+Puerto Potrero, 10.4667, -85.7833
+Puerto Viejo(Heredia), 10.4333, -83.9833
+Puerto Viejo(Limón), 9.6500, -82.7500
+Puntarenas, 9.9667, -84.8333
+Quepos, 9.4500, -84.1500
+Quesada, 10.3167, -84.4333
+Rincón, 8.7000, -83.4833
+San Antonio, 10.2000, -85.4333
+San Francisco, 9.8167, -85.2500
+San Ignacio, 9.8000, -84.1500
+San Isidro del General, 9.3667, -83.7000
+San José, 9.9333, -84.0833
+San Juanillo, 10.0333, -85.7333
+San Marcos, 9.6667, -84.0167
+San Pablo, 9.9000, -84.4333
+San Pedro, 9.9333, -84.0500
+San Ramón, 10.1000, -84.4667
+San Vito, 8.8333, -82.9667
+Santa Cruz, 10.2667, -85.6000
+Santa María, 9.6500, -83.9500
+Santa Rosa, 10.8500, -85.6333
+Santiago, 9.8500, -84.3000
+Santo Domingo, 9.9833, -84.0833
+Sardinal, 10.5167, -85.6500
+Siquirres, 10.1000, -83.5000
+Suretka, 9.5667, -82.9333
+Tambor, 9.7167, -85.0167
+Tilarán, 10.4667, -84.9833
+Tres Ríos, 9.9000, -83.9667
+Turrialba, 9.9000, -83.6833
+Upala, 10.7833, -85.0333
+Veintisiete de Abril, 10.2500, -85.7500
+Venecia, 10.3667, -84.2833
+Vesta, 9.7167, -83.0500
+Zarcero, 10.1833, -84.3833
