@@ -1,0 +1,47 @@
+Azua, 18.4500, -70.7333Bajos de Haina, 18.4167, -70.0333
+Baní, 18.2833, -70.3333
+Barahona, 18.2000, -71.1000
+Benemérita de San Cristóbal, 18.4167, -70.1000
+Bonao, 18.9333, -70.4167
+Bánica, 19.1000, -71.6833
+Cabral, 18.2500, -71.2167
+Ciudad Trujillo > Santo Domingo, 18.4667, -69.9000
+Concepción de la Vega, 19.2167, -70.5167
+Cotuí, 19.0500, -70.1500
+Dajabón, 19.5500, -71.7000
+Duarte, 18.4833, -69.8667
+El Seibo, 18.7667, -69.0333
+Elías Piña, 18.8833, -71.7000
+Enriquillo, 17.9000, -71.2333
+Hato Mayor del Rey, 18.7667, -69.2500
+Jimaní, 18.4908, -71.8508
+La Romana, 18.4167, -68.9667
+La Vega, 19.2333, -70.5167
+Mao, 19.5667, -71.0833
+Miches, 18.9833, -69.0500
+Moca, 19.4000, -70.5167
+Monte Cristi, 19.8500, -71.6500
+Monte Plata, 18.8000, -69.7833
+Nagua, 19.3833, -69.8333
+Neiba, 18.4667, -71.4167
+Pedernales, 18.0333, -71.7500
+Puerto Plata, 19.8000, -70.6833
+Sabana de la Mar, 19.0667, -69.3833
+Sabaneta, 19.5000, -71.3500
+Salcedo, 19.3833, -70.4167
+Salvaleón de Higüey, 18.6167, -68.7000
+Samaná, 19.2167, -69.3167
+San Cristóbal, 18.4000, -70.1167
+San Felipe de Puerto Plata, 19.8000, -70.6833
+San Francisco de Macorís, 19.3000, -70.2500
+San José de Ocoa, 18.5500, -70.5000
+San Juan de la Maguana, 18.8000, -71.2333
+San Pedro de Macorís, 18.4500, -69.3000
+Santa Bárbara de Samaná, 19.2167, -69.3167
+Santa Cruz del Seibo, 18.7667, -69.0333
+Santiago de los Caballeros, 19.4500, -70.7000
+Santo Domingo, 18.4667, -69.9000
+Seibo, 18.7667, -69.0333
+Sánchez, 19.2333, -69.6000
+Vicente Noble, 18.3833, -71.1833
+Villa Vázquez, 19.7500, -71.4500
