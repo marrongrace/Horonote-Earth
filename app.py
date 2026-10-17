@@ -32,7 +32,7 @@ GLOBAL_COUNTRIES = [
     "Bolivia", "Bosnia and Herzegovina", "Botswana", "Brazil", "Brunei", "Bulgaria", "Burkina Faso", "Burundi", "California", "Cambodia",
     "Cameroon", "Canada", "Cape Verde", "Cayman Islands", "Central African Republic", "Chad","Chile", "China", "Colombia", "Colorado",
     "Comoros", "Congo", "Connecticut","Cook Islands", "Costa Rica", "Croatia", "Cuba", "Cyprus", "Czech Republic",
-    "Delaware","Denmark", "District of Columbia", "Djibouti", "Dominica", "Dominican Republic","Democratic Republic of the Congo", "East Timor","Ecuador", "Egypt",
+    "Delaware", "Denmark", "Djibouti", "Dominica", "Dominican Republic","Democratic Republic of the Congo", "East Timor","Ecuador", "Egypt",
     "El Salvador", "Equatorial Guinea", "Eritrea", "Estonia", "Eswatini", "Ethiopia", "Faeroe Islands", "Falkland Islands", "Fiji", "Finland", "Florida",
     "France", "French Guiana", "French Polynesia", "Gabon", "Gambia", "Georgia", "Germany", "Ghana", "Gibraltar", "Greece",
     "Greenland", "Grenada", "Guadeloupe", "Guam", "Guatemala", "Guernsey", "Guinea", "Guinea-Bissau", "Guyana", "Haiti",
@@ -53,7 +53,7 @@ GLOBAL_COUNTRIES = [
     "Sweden", "Switzerland", "Syria", "Taiwan", "Tajikistan", "Tanzania", "Tennessee", "Texas", "Thailand", "Togo",
     "Tokelau Islands", "Tonga", "Trinidad and Tobago", "Tunisia", "Turkey", "Turkmenistan", "Turks and Caicos", "Tuvalu", "Uganda", "Ukraine",
     "United Arab Emirates", "United Kingdom", "Uruguay", "Utah", "Uzbekistan", "Vanuatu", "Vatican City State", "Venezuela", "Vermont", "Vietnam", "Virgin Islands",
-    "Virginia", "Wake Island", "Wallis and Futuna", "Washington", "West Virginia", "Western Sahara", "Wisconsin", "Wyoming", "Yemen", "Yugoslavia", "Zambia",
+    "Virginia", "Wake Island", "Wallis and Futuna", "Washington", "Wasington D.C.(Dist of Columbia)","West Virginia", "Western Sahara", "Wisconsin", "Wyoming", "Yemen", "Yugoslavia", "Zambia",
     "Zimbabwe"
     ]
 
