@@ -1,0 +1,128 @@
+Babil, 30.6833, 31.0000
+Badahl, 28.9333, 30.9000
+Badr, 30.5500, 30.7167
+Bahij, 30.9333, 29.5833
+Bahnay, 30.3833, 31.0667
+Bahnaya, 30.6833, 31.3833
+Bahtim, 30.1333, 31.2833
+Bahtit, 30.4833, 31.6333
+Bahut, 31.1667, 31.3167
+Balansurah, 27.9167, 30.6833
+Balaqs, 30.1667, 31.2833
+Balaqtar, 31.0833, 30.2167
+Balat, 25.5500, 29.2667
+Baltim, 31.5500, 31.0833
+Bamha, 29.5833, 31.2333
+Banha, 30.4667, 31.1833
+Bani Ahmad, 28.0500, 30.7667
+Bani Hasan ash-Shuruq, 27.9000, 30.8500
+Bani Khalid, 27.8333, 30.7333
+Bani Majdul, 30.0333, 31.1167
+Bani Mazar, 28.5000, 30.8000
+Bani Muhammadiyat, 27.2833, 31.0833
+Bani Musá, 29.1333, 31.0500
+Bani Rafi‘, 27.3667, 30.8833
+Bani Salamah, 30.3167, 30.8500
+Bani Sha‘ran, 27.3167, 30.8500
+Bani Shuqayr, 27.3833, 30.9833
+Bani Suwayf, 29.0833, 31.0833
+Bani Zayd, 27.2167, 31.1500
+Bani ‘Adi al-Bahriyah, 27.2500, 30.9167
+Bani ‘Adi al-Qibliyah, 27.2500, 30.9333
+Bani ‘Ali, 28.4833, 30.7167
+Bani ‘Ubayd, 31.0167, 31.6500
+Bani ‘Ubayd, 27.9500, 30.7667
+Baris, 24.6667, 30.6000
+Barnasht, 29.6833, 31.2500
+Barq al-‘Izz, 31.0167, 31.4333
+Barriyat al-Usayfir, 31.3000, 30.6667
+Basandilah, 31.2000, 31.4333
+Bashtil, 30.0833, 31.1833
+Basus, 30.1333, 31.2167
+Basyun, 30.9500, 30.8167
+Batrah, 31.1667, 31.4500
+Bayad an-Nasará, 29.0667, 31.1333
+Benha > Banha, 30.4667, 31.1833
+Beni Suef > Bani Suwayf, 29.0833, 31.0833
+Biba, 28.9167, 30.9833
+Biban, 30.7833, 30.6667
+Bilbays, 30.4167, 31.5667
+Bilifya, 29.1167, 31.0500
+Bilqas Qism Awwal, 31.2167, 31.3500
+Biltaj, 31.0000, 30.9833
+Biltan, 30.3833, 31.1667
+Bimban, 24.4333, 32.8833
+Birimbal, 31.3500, 30.5000
+Birimbal al-Qadimah, 31.1667, 31.7333
+Birkat as-Sab‘, 30.6333, 31.0833
+Birkat Ghitas, 31.1167, 30.2667
+Birma, 30.8500, 30.9000
+Birqash, 30.1667, 31.0333
+Bishat Qa‘id, 30.6333, 31.5333
+Biyala, 31.1667, 31.2167
+Bulaq, 25.2000, 30.5333
+Bulaq ad-Dakrur, 30.0333, 31.1833
+Bur Ibrahim, 29.9500, 32.5667
+Bur Safajah, 26.7333, 33.9333
+Bur Sa‘id, 31.2667, 32.3000
+Bur Tawfiq, 29.9500, 32.5667
+Burj al-‘Arab, 30.9167, 29.5333
+Burj Mughayzil, 31.4500, 30.3833
+Burtus, 30.1500, 31.1333
+Bush, 29.1500, 31.1333
+Caire, Le > Al-Qahirah, 30.0500, 31.2500
+Cairo > Al-Qahirah, 30.0500, 31.2500
+Coptos > Qift, 26.0000, 32.8167
+Dahmaru, 28.6833, 30.8167
+Dahshur, 29.7500, 31.2333
+Dalja', 27.6500, 30.7000
+Damanhur, 31.0333, 30.4667
+Damanhur Shubra, 30.1167, 31.2333
+Damas, 30.8000, 31.3333
+Damat, 30.9500, 30.9500
+Damietta > Dumyat, 31.4167, 31.8000
+Dandil, 29.1667, 31.0333
+Daquf, 28.4000, 30.6333
+Dar as-Salam, 29.9833, 31.2167
+Darajil, 30.6500, 30.8667
+Daraw, 24.4167, 32.9333
+Darawah, 30.2167, 31.1000
+Darb al-Hajj, 30.1667, 31.5500
+Dashlut, 27.5667, 30.7000
+Dayr Jabal at-Tayr, 28.2833, 30.7500
+Dayr Mawas, 27.6333, 30.8500
+Dayrut(Asyut), 27.5500, 30.8167
+Dayrut(Al-Buhayrah), 31.2167, 30.5000
+Dayrut ash-Sharif, 27.5833, 30.8167
+Dhahab, 28.4833, 34.5333
+Dikirnis, 31.0833, 31.5833
+Dishashah, 28.9833, 30.8500
+Dishna, 26.1167, 32.4667
+Disuq, 31.1333, 30.6500
+Diya al-Kawm, 30.6333, 31.0833
+Diyarb Najm, 30.7500, 31.4333
+Diyu el-Wusta, 30.9000, 31.5000
+Dukhmays, 31.1167, 31.0667
+Dumayrah, 31.1333, 31.3667
+Dumyat, 31.4167, 31.8000
+Dundit, 30.6833, 31.3000
+Durunkah, 27.1333, 31.1667
+Edfu > Idfu, 24.9667, 32.8667
+El‘Alamein > Al-‘Alamayn, 30.8167, 28.9500
+El-Kubri, 30.0333, 32.5500
+Fa'id, 30.3167, 32.3167
+Faiyum > Al-Fayyum, 29.3167, 30.8333
+Fanarah, 30.2833, 32.3500
+Faqus, 30.7333, 31.8000
+Fariskur, 31.3333, 31.7167
+Farnawá, 30.9833, 30.6500
+Farsis, 30.6667, 31.2333
+Fayyum > Al-Fayyum, 29.3167, 30.8333
+Fidimin, 29.3833, 30.7667
+Fuwah, 31.2000, 30.5500
+Gerza, 29.4333, 31.1833
+Ghammazah al-Kubrá, 29.7167, 31.3000
+Ghamrin, 30.5000, 30.9167
+Ghazalat al-Khis, 30.5667, 31.5667
+Girga, 26.3333, 31.9000
+Giza > Al-Jizah, 30.0167, 31.2167

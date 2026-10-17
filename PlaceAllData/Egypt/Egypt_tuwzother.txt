@@ -1,0 +1,65 @@
+Tafahna al-‘Azab, 30.6000, 31.2500
+Tahma wa Minshat ‘Abd as-Sayyid, 29.6333, 31.2333
+Tahta, 26.7667, 31.5000
+Tahway, 30.3667, 30.8667
+Taj al-‘Izz, 30.9500, 31.5833
+Tala, 30.6833, 30.9333
+Talkha, 31.0500, 31.3667
+Tall Bani ‘Umran, 27.6667, 30.9000
+Tall Rak, 30.9000, 31.7167
+Tallah, 28.0833, 30.7333
+Talya, 30.2667, 31.0000
+Tamalay, 30.5000, 30.8500
+Tamiyah, 29.4833, 30.9667
+Tammuh, 29.9333, 31.2667
+Tanan, 30.2500, 31.2333
+Tanbidi, 28.6333, 30.7833
+Tandah, 27.6833, 30.7667
+Tanta, 30.7833, 31.0000
+Tarut, 30.5333, 31.4667
+Tidah, 31.2500, 30.8333
+Tilbanah, 30.9833, 31.4500
+Tima, 26.9000, 31.4333
+Timay al-Amdid, 30.9500, 31.5333
+Tirah, 31.0833, 31.2333
+Tirsa(Al-Hayyum), 29.4167, 30.8167
+Tirsa(Al-Jizah), 29.9667, 31.2000
+Tizmant ash-Sharqiyah, 29.0500, 31.0500
+Tubhar, 29.3167, 30.7000
+Tukh(Al-Qalyubiyah), 30.3500, 31.2000
+Tukh(Al-Minya), 27.6833, 30.8167
+Tukh al-Aqlam, 30.8667, 31.4333
+Tukh al-Khayl, 28.1000, 30.6667
+Tukh Dalakah, 30.6500, 30.9167
+Tunat al-Jabal, 27.7667, 30.7333
+Tunaydah, 25.5167, 29.3500
+Turá, 29.9333, 31.2667
+Tur‘at Ghunaym, 31.2667, 31.4833
+Tutun, 29.1500, 30.7667
+Tuwah Bani Ibrahim, 28.0833, 30.6833
+Umm al-Qusur, 27.3833, 30.9000
+Umm Dinar, 30.2000, 31.0667
+Umm Khunan, 29.9167, 31.2500
+Waqid, 30.7000, 30.7333
+Warraq al-Hadar wa Ambubah wa Mit an-Nasara, 30.1000, 31.2167
+Warraq al-‘Arab, 30.1000, 31.2000
+Zafar al-Qadimah, 30.9667, 31.6167
+Zagazig > Az-Zaqaziq, 30.5833, 31.5167
+Zarqun, 31.1167, 30.4667
+Zawiyat Abu Musallam, 29.9333, 31.1667
+Zawiyat al-Amwat, 28.0667, 30.8333
+Zawiyat al-Judhami, 28.7000, 30.9000
+Zawiyat an-Najjar, 30.1833, 31.2833
+Zawiyat Nabit, 30.1167, 31.1500
+Zawiyat Razin, 30.4167, 30.8500
+Zawiyat Saqr, 30.9333, 30.2000
+Zawiyat Shammas, 31.5167, 26.4000
+Zawiyat Sidi Ghazi, 31.0500, 30.0833
+Zawiyat ‘Abd al-Qadir, 31.0333, 29.8167
+Zifta, 30.7167, 31.2500
+Zufaytat Mashtul, 30.3333, 31.3500
+Ûrein, 30.9667, 30.7000
+‘Abd al-Shahid, 29.9167, 31.2167
+‘Arab Mutayr, 27.2667, 31.2333
+‘Izab al-Basaritah, 31.3833, 31.7833
+‘Izbat Abu Suql, 31.1500, 33.8167

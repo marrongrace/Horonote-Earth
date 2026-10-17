@@ -1,0 +1,108 @@
+Qafilah, 31.0667, 30.2667
+Qaha, 30.2833, 31.2000
+Qahbûna, 30.8000, 31.9000
+Qalabshu, 31.4333, 31.3167
+Qalamshah, 29.1667, 30.8333
+Qalandul, 27.8167, 30.8333
+Qallin, 31.0500, 30.8500
+Qalyub, 30.1833, 31.2000
+Qasr al-Farafirah, 27.0500, 27.9667
+Qasr al-Jibali, 29.3333, 30.6333
+Qasr Baghdad, 30.7333, 30.8833
+Qasr Qarun, 29.4167, 30.4167
+Qay, 29.1500, 30.9500
+Qena > Qina, 26.1667, 32.7167
+Qift(Coptos), 26.0000, 32.8167
+Qiman al-‘Arus, 29.3000, 31.1667
+Qina, 26.1667, 32.7167
+Qulubba, 27.7500, 30.8333
+Qulusana, 28.3500, 30.7333
+Qunbush al-Hamra', 29.0000, 30.9833
+Qus, 25.9167, 32.7500
+Qutur, 30.9833, 30.9500
+Quwaysina, 30.5667, 31.1500
+Ra's al-Barr, 31.5167, 31.8333
+Ra's al-Khalij, 31.2500, 31.6500
+Ra's an-Naqb, 29.6000, 34.8500
+Rashid(Rosetta), 31.4000, 30.4167
+Rosetta > Rashid, 31.4000, 30.4167
+Rummanah, 31.0167, 32.6667
+Sa al-Hajar, 30.9667, 30.7667
+Safaniyah, 28.8167, 30.8000
+Saft al-Khammar, 28.0333, 30.7000
+Saft al-Laban, 30.0333, 31.1667
+Saft al-Muluk, 30.8167, 30.6833
+Saft al-‘Inab, 30.8167, 30.6833
+Saft Rashin, 28.9667, 30.9167
+Saft Turab, 30.9000, 31.1167
+Sahrajat al-Kubrá wa Kafr Jirjis Yusuf, 30.6333, 31.2833
+Sakha, 31.0833, 30.9500
+Sakkara > Saqqarah, 29.8500, 31.2167
+Salamun, 31.0667, 31.4667
+Salaqus, 28.7333, 30.8333
+Salum > As-Sallum, 31.5667, 25.1500
+Salwá Bahri, 24.7333, 32.9333
+Samadun, 30.3333, 30.9500
+Samalut, 28.3000, 30.7000
+Samannud, 30.9667, 31.2500
+San al-Hajar al-Qibliyah, 30.9667, 31.8667
+Sanabu, 27.5000, 30.7833
+Sanafa, 30.7833, 31.3500
+Sandafa al-Fa'r, 28.5333, 30.6667
+Sandub, 31.0167, 31.3833
+Sanhur, 29.4167, 30.7667
+Sanhur al-Madinah, 31.1167, 30.7333
+Sanjaha, 30.8333, 31.6333
+Saqiyat Makki, 30.0000, 31.2167
+Saqqarah, 29.8500, 31.2167
+Sarabiyum, 30.3833, 32.2833
+Sawhaj, 26.5500, 31.7000
+Sawl, 29.3500, 31.2333
+Saylah, 29.3500, 30.9667
+Shabah, 31.1833, 30.7667
+Shabas al-Milh, 31.2000, 30.6500
+Shabas ash-Shuhada‘, 31.0833, 30.7500
+Shabas ‘Umayr, 31.1000, 30.8000
+Shabramant, 29.9333, 31.2000
+Shabshir al-Hissah, 30.8667, 31.0667
+Shakshuk, 29.4667, 30.7000
+Shalimah, 31.2333, 30.8667
+Shandid, 30.9167, 30.6667
+Shanshur, 30.3500, 31.0000
+Sharnub, 31.0167, 30.5833
+Sharunah, 28.6000, 30.8500
+Shatanuf, 30.2333, 31.0667
+Shawni, 30.7500, 30.9167
+Shibin al-Kawm, 30.5500, 31.0167
+Shibin al-Qanatir, 30.3167, 31.3167
+Shiblanjah, 30.4667, 31.2667
+Shinará, 28.7833, 30.7667
+Shinbari, 30.1167, 31.1500
+Shirbin, 31.1833, 31.5333
+Shirshabah, 30.7833, 31.1667
+Shisht al-An‘am, 30.8667, 30.7333
+Shubra al-Khaymah, 30.1000, 31.2500
+Shubra Babil, 30.9000, 31.1833
+Shubra Khalfun, 30.4833, 31.0833
+Shubra Khit, 31.0333, 30.7167
+Shutab, 27.1333, 31.2333
+Sibirbay, 30.8167, 31.0167
+Sidi Barrani, 31.6000, 25.9167
+Sidi Ghazi, 31.2000, 31.0500
+Sidi Hunaysh, 31.1667, 27.6167
+Sidi Salim, 31.2833, 30.8000
+Sidi ‘Abd el-Rahman, 30.9667, 28.8000
+Sinaru, 29.3667, 30.7500
+Sindiyun, 30.2500, 31.2000
+Sinnahwa, 30.4167, 31.3500
+Sinnuris, 29.4167, 30.8667
+Sirs al-Layyanah, 30.4333, 30.9667
+Sirsina, 29.4000, 30.9667
+Sirsina, 30.6000, 30.9000
+Siryaqus, 30.2000, 31.3167
+Siwah, 29.2000, 25.5167
+Sohag > Sawhaj, 26.5500, 31.7000
+Suez > As-Suways, 29.9667, 32.5500
+Sumusta al-Waqf, 28.9167, 30.8500
+Sunbat, 30.8000, 31.2000
+Surad, 30.9833, 30.9000

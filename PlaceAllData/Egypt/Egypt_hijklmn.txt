@@ -1,0 +1,173 @@
+Hawr, 27.8667, 30.7333
+Hawsh ‘Isá, 30.9167, 30.2833
+Hawwarat al-Maqta‘, 29.2500, 30.9000
+Hawwarat ‘Adlan, 29.2000, 30.9667
+Heliopolis, 30.1000, 31.3167
+Hihya, 30.6667, 31.6000
+Hulwan, 29.8500, 31.3333
+Hurayn, 30.6500, 31.1333
+Ibnahs, 30.5667, 31.1167
+Ibshan, 31.1667, 31.1667
+Ibshaway, 29.3667, 30.6833
+Idfina, 31.3000, 30.5167
+Idfu, 24.9667, 32.8667
+Idku, 31.3000, 30.3000
+Idmu, 28.1500, 30.6833
+Ihnasiyat al-Madinah, 29.0833, 30.9333
+Ihwah, 29.0500, 31.0000
+Ikinji Maryut, 31.0000, 29.7500
+Ikrash, 30.7500, 31.5000
+Ikwah, 30.6833, 31.4667
+Imbabah, 30.0667, 31.2167
+Inshas ar-Raml, 30.3833, 31.4500
+Iqfahs, 28.7833, 30.8167
+Ishmant, 29.2000, 31.1833
+Ismailia > Al-Isma‘iliyah, 30.5833, 32.2667
+Isna, 25.3000, 32.5500
+Istanha, 30.4667, 31.1167
+Ithnayn, 30.6833, 32.3500
+Itlidim, 27.8667, 30.8000
+Itmidah, 30.7667, 31.3333
+Itsa, 29.2500, 30.8000
+Ityay al-Barud, 30.8833, 30.6667
+Jabal an-Nur, 28.9500, 31.0333
+Jabal at-Tayr, 28.2333, 30.7500
+Jabal ‘Uwaybid, 30.1500, 32.2000
+Jamsah, 27.6333, 33.5833
+Janaj, 31.0000, 30.7667
+Janzur, 30.6833, 31.0333
+Jaradu, 29.3000, 30.7000
+Jarris, 27.9167, 30.7667
+Jazirat Muhammad, 30.1167, 31.2000
+Jinah, 25.3333, 30.5167
+Jirja, 26.3333, 31.8833
+Jizayy, 30.4667, 30.8500
+Jummayzat Bani ‘Amr, 30.8000, 31.5333
+Junayfah, 30.2000, 32.4167
+Jurays wa ‘Izbatuha, 30.3167, 30.9167
+Kafr ad-Dawwar, 31.1333, 30.1167
+Kafr ad-Difrawi, 31.0500, 30.6667
+Kafr al-Battikh, 31.4000, 31.7333
+Kafr al-Jara'idah, 31.2167, 31.2667
+Kafr al-‘A'id, 30.4500, 31.5833
+Kafr ash-Shaykh, 31.1167, 30.9333
+Kafr at-Tamimi, 30.6167, 31.3500
+Kafr az-Zayyat, 30.8167, 30.8167
+Kafr Diyama, 30.8000, 30.8667
+Kafr el-Zaiyat > Kafr az-Zayyat, 30.8167, 30.8167
+Kafr Hakim, 30.0833, 31.1167
+Kafr Kila al-Bab, 30.6833, 31.1500
+Kafr Rabi`, 30.7000, 30.8333
+Kafr Sa`d, 31.3167, 31.6500
+Kafr Salim, 31.1500, 30.1000
+Kafr Saqr, 30.8000, 31.6167
+Kafr Shanawan, 30.5000, 31.0167
+Kafr Shibin, 30.3000, 31.3000
+Kafr Shukr, 30.5500, 31.2667
+Kafr Tarkhan al-Gharbi, 29.4833, 31.2167
+Kafr Ya‘qub, 30.7667, 30.7667
+Kafrat Ta'il Musá, 30.8833, 29.7333
+Kahk, 29.4167, 30.6333
+Kairo > Al-Qahirah, 30.0500, 31.2500
+Karnak > Al-Karnak, 25.7167, 32.6500
+Kawm ar-Rahib, 28.3333, 30.6167
+Kawm Birah, 30.0833, 31.1333
+Kawm Hamadah, 30.7667, 30.7000
+Kawm Ishfin, 30.1833, 31.2500
+Kawm Ishu, 31.1167, 30.0000
+Kawm Umbu, 24.4667, 32.9500
+Khamsah, 30.4167, 32.3833
+Khirbita, 30.7500, 30.6667
+Kirdasah, 30.0333, 31.1167
+Kudyat al-Islam, 27.5333, 30.7500
+Kufur Bilshay, 30.8500, 30.8000
+Kufur Najm, 30.7333, 31.5833
+Kutamat al-Ghabah, 30.9167, 30.9000
+Le Caire > Al-Qahirah, 30.0500, 31.2500
+Luxor > Al-Uqsur, 25.6833, 32.6500
+Maghaghah, 28.6500, 30.8333
+Mahalla el-Kubra > Al-Mahallah al-Kubrá, 30.9667, 31.1667
+Mahallat Kayl, 31.0167, 30.2833
+Mahallat Marhum, 30.8000, 30.9500
+Mahallat Minuf, 30.8833, 30.9667
+Mahallat Zayyad, 31.0333, 31.2333
+Mallawi, 27.7333, 30.8333
+Malåtiyah, 28.7000, 30.8500
+Manfalut, 27.3167, 30.9667
+Manqabad, 27.2000, 31.1167
+Manqatin, 28.3333, 30.6667
+Mansafis, 28.0000, 30.8167
+Mansura > Al-Mansurah, 31.0500, 31.3833
+Manyal Shihah, 29.9500, 31.2333
+Marsafa wa Kafr Ahmad Hashish, 30.4167, 31.2500
+Marsá Matruh, 31.3500, 27.2333
+Masarah, 27.4833, 30.8333
+Mashalah, 30.7333, 31.1333
+Mashtul as-Suq, 30.3667, 31.3667
+Masir, 31.0500, 31.0000
+Masra‘, 27.2333, 31.0333
+Matay, 28.4167, 30.7667
+Matbul, 31.0833, 31.0333
+Matir Taris, 29.3667, 30.9000
+Matruh > Marsá Matruh, 31.3500, 27.2333
+Maydum, 29.3667, 31.1667
+Ma‘niya, 30.8333, 30.6500
+Ma‘sarat Samalut, 28.3167, 30.7167
+Medinat al-Faiyum > Al-Fayyum, 29.3167, 30.8333
+Mersa Matruh > Marsá Matruh, 31.3500, 27.2333
+Milij, 30.6000, 31.0500
+Minbal, 28.4000, 30.6833
+Minshat adh-Dhahab, 28.0000, 30.7000
+Minshat al-Amir Muhammad ‘Ali, 29.1667, 30.6333
+Minshat al-Bakkari, 30.0167, 31.1333
+Minshat al-Ikhwah, 30.9333, 31.3500
+Minshat al-Mughalaqah, 27.7333, 30.7833
+Minshat Bulin, 31.1833, 30.1667
+Minshat Sultan, 30.5333, 30.9167
+Minuf, 30.4667, 30.9333
+Minya > Al-Minya, 28.1000, 30.7500
+Minya al-Qamh, 30.5167, 31.3500
+Minyat an-Nasr, 31.1167, 31.6500
+Minyat Sandub, 31.0000, 31.3833
+Mir, 27.4500, 30.7333
+Mit Abu Ghalib, 31.2833, 31.6667
+Mit al-‘Amil, 30.9000, 31.3500
+Mit Badr Halawah, 30.8500, 31.2333
+Mit Bashshar, 30.5167, 31.4000
+Mit Faris, 31.0333, 31.6000
+Mit Ghamr, 30.7167, 31.2667
+Mit Halfah, 30.1667, 31.2333
+Mit Hamal, 30.4333, 31.5333
+Mit Kinanah, 30.3833, 31.2667
+Mit Ruhaynah, 29.8500, 31.2500
+Mit Yazid, 30.5000, 31.3333
+Muna al-Amir, 29.9000, 31.2500
+Musha, 27.1333, 31.3000
+Mustay, 30.6167, 31.1500
+Musturud, 30.1333, 31.2833
+Mut, 25.4833, 28.9833
+Mutubis, 31.3000, 30.5167
+Muzurah, 28.8833, 30.8000
+Nabaruh, 31.1000, 31.3000
+Nabq, 28.0667, 34.4167
+Nadir, 30.5500, 30.8500
+Nafishah, 30.5667, 32.2500
+Nahya, 30.0500, 31.1167
+Naj' Hammadi, 26.0500, 32.2500
+Naqadah, 25.9000, 32.7167
+Nashwah, 30.5000, 31.4833
+Nasr, 30.6000, 30.3833
+Nawasa al-Ghayt, 30.9667, 31.3167
+Naway, 27.7833, 30.7667
+Nazali Taha', 28.1833, 30.7000
+Nazlat al-Badraman, 27.6667, 30.7333
+Nazlat al-‘Amudayn, 28.2333, 30.7000
+Nazlat as-Samman, 29.9833, 31.1333
+Nazlat Khalifah, 30.0167, 31.1667
+Nazlat Quftan Basha, 28.9500, 30.8167
+Nazlat Thabit, 28.4167, 30.7833
+Niklá al-‘Inab, 30.9167, 30.7667
+Nisf Thani Bashbish, 31.1167, 31.1833
+Nubah, 30.4833, 31.5500
+Nudaybah, 30.9833, 30.3667
+Nuwaybi‘ al-Muzayyinah, 28.9667, 34.6500

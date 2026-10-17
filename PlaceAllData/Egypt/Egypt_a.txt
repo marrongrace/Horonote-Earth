@@ -1,0 +1,246 @@
+Aba al Waqf, 28.5833, 30.7667
+Abnub, 27.2667, 31.1500
+Abu al-Ghayt, 30.1500, 31.1833
+Abu al-Matamir, 30.9167, 30.1833
+Abu an-Numrus, 29.9500, 31.2000
+Abu Da'ud as-Sibakh, 30.9167, 31.5667
+Abu Ghalib, 30.2667, 30.9333
+Abu Hammad al-Mahattah, 30.5333, 31.6667
+Abu Hummus, 31.1000, 30.3167
+Abu Jandir, 29.2333, 30.6833
+Abu Jirj, 28.5333, 30.7833
+Abu Kabir, 30.7333, 31.6667
+Abu Ksah, 29.3833, 30.7000
+Abu Qir, 31.3167, 30.0667
+Abu Qurqas, 27.9333, 30.8333
+Abu Sir, 29.8833, 31.2167
+Abu Sir al-Malaq, 29.2500, 31.0833
+Abu Sir Bana, 30.9167, 31.2500
+Abu Sultan, 30.4167, 32.3167
+Abu Suwayr al-Mahattah, 30.5667, 32.1167
+Abu Tij, 27.0333, 31.3167
+Abu Zanimah, 29.0500, 33.1000
+Abu Za‘bal, 30.2500, 31.3500
+Abyar, 30.8333, 30.8667
+Ad-Dab‘ah, 31.0333, 28.4333
+Ad-Daljamun, 30.8000, 30.8333
+Ad-Dayr(Qina), 25.3333, 32.5833
+Ad-Dayr(Al-Qalyubiyah), 30.3333, 31.2667
+Ad-Dilinjat, 30.8333, 30.5000
+Ad-Duhayr, 31.1667, 32.0000
+Ad-Duqqi, 30.0667, 31.2500
+Aja, 30.9500, 31.2833
+Ajhur al-Kubra, 30.3000, 31.1500
+Akhmim, 26.5667, 31.7333
+Al-Ab‘adiyah, 31.3667, 31.1167
+Al-Ashmunayn, 27.7833, 30.8167
+Al-Atawilah, 27.2333, 31.2167
+Al-Badari, 26.9833, 31.4167
+Al-Badrashayn, 29.8500, 31.2667
+Al-Bahnasa, 28.5333, 30.6500
+Al-Bajalat, 31.1667, 31.6167
+Al-Bajur, 30.4333, 31.0333
+Al-Bakatush, 31.0500, 30.8000
+Al-Balamun, 30.8167, 31.4333
+Al-Balashun, 30.4333, 31.4333
+Al-Ballah, 30.7667, 32.3167
+Al-Ballas, 26.0167, 32.7667
+Al-Balyana, 26.2333, 32.0000
+Al-Barajil, 30.0667, 31.1500
+Al-Baramun, 31.1167, 31.4333
+Al-Barnuji, 30.9333, 30.3833
+Al-Barsha, 27.7167, 30.9000
+Al-Baslaqun, 31.1000, 30.1333
+Al-Basqalun, 28.7000, 30.7333
+Al-Batanun, 30.6167, 30.9833
+Al-Bawiti, 28.3500, 28.8667
+Al-Bayahu, 28.2667, 30.7333
+Al-Bayda', 31.1667, 30.0833
+Al-Birigat, 30.5000, 30.8167
+Al-Burj, 31.5833, 30.9833
+Al-Burjayah, 28.1500, 30.7333
+Al-Burumbul, 29.3167, 31.2333
+Al-Busayli, 31.3333, 30.4000
+Al-Fahmiyin, 29.6000, 31.2833
+Al-Fant, 28.7667, 30.8833
+Al-Fashn, 28.8167, 30.9000
+Al-Fayyum, 29.3167, 30.8333
+Al-Firdan, 30.6833, 32.3333
+Al-Gharaq as-Sultani, 29.1333, 30.7000
+Al-Ghardaqah, 27.2333, 33.8333
+Al-Ghayatah, 30.9500, 30.1000
+Al-Ghazali, 30.8167, 31.8167
+Al-Haddadi, 31.3333, 30.7833
+Al-Haddayn, 30.7333, 30.6333
+Al-Hajir, 30.6833, 31.8167
+Al-Hammam, 30.8333, 29.3833
+Al-Hamrah, 31.1667, 30.8667
+Al-Hamul, 31.3167, 31.1667
+Al-Harraniyah, 29.9667, 31.1667
+Al-Hawamidiyah, 29.9000, 31.2500
+Al-Hawariyah, 30.9667, 29.6833
+Al-Hawatikah, 27.2667, 31.0167
+Al-Hayy, 29.6500, 31.3000
+Al-Hayz, 28.0333, 28.6500
+Al-Hibah, 28.7500, 30.9167
+Al-Husayniyah, 30.8667, 31.9167
+Al-Ibrahimiyah(Ash-Sharqiyah), 30.7167, 31.5333
+Al-Ibrahimiyah(Al-Buhayrah), 30.9500, 30.5833
+Al-Ikhsas al-Qibliyah, 29.7000, 31.2833
+Al-Iskandariyah(Alexandria), 31.2000, 29.9000
+Al-Isma‘iliyah(Ismailia), 30.5833, 32.2667
+Al-Jadidah, 25.5667, 28.8500
+Al-Jafadun, 28.8333, 30.8000
+Al-Jamaliyah, 31.1833, 31.8500
+Al-Jarnus, 28.6000, 30.7167
+Al-Jizah(Giza), 30.0167, 31.2167
+Al-Junaynah, 31.1000, 31.6833
+Al-Jundiyah, 28.5667, 30.8333
+Al-Kab, 30.9500, 32.3000
+Al-Kafr ash-Sharqi, 31.2833, 31.1667
+Al-Karnak, 25.7167, 32.6500
+Al-Kawm al-Akhdar, 30.9667, 30.2833
+Al-Kawm at-Tawil, 31.2000, 31.0833
+Al-Khankah, 30.2167, 31.3500
+Al-Kharaqaniyah, 30.1667, 31.1667
+Al-Kharijah, 25.4333, 30.5500
+Al-Khusus, 30.1500, 31.3167
+Al-Kunayyisah, 29.9833, 31.1833
+Al-Kuntillah, 30.0000, 34.6833
+Al-Kurdi, 31.0833, 30.8167
+Al-Lahun, 29.2167, 30.9833
+Al-Lisht, 29.5667, 31.2333
+Al-Madinah al-Fikriyah, 27.9333, 30.8167
+Al-Mahallah al-Kubrá, 30.9667, 31.1667
+Al-Mahariq, 25.6167, 30.6500
+Al-Mahmudiyah, 31.1833, 30.5333
+Al-Mahras, 27.8167, 30.8000
+Al-Mahsamah, 30.5667, 32.0167
+Al-Maks, 31.1500, 29.8500
+Al-Manawat, 29.9167, 31.2333
+Al-Manshah, 26.4667, 31.8000
+Al-Mansurah, 31.0500, 31.3833
+Al-Mansuriyah, 30.1333, 31.0833
+Al-Manzilah, 31.1500, 31.9333
+Al-Maraghah, 26.7000, 31.6000
+Al-Maraziq, 29.8167, 31.2667
+Al-Matariyah, 31.1833, 32.0333
+Al-Maymun, 29.2333, 31.2000
+Al-Ma‘abidah, 27.3333, 31.0167
+Al-Ma‘murah, 31.3000, 30.0500
+Al-Ma‘sarah(Kafr ash Shaykh), 31.2167, 31.3167
+Al-Ma‘sarah(Al-Minya), 27.7000, 30.8667
+Al-Ma‘sarah(Al-Qahirah), 29.9000, 31.2833
+Al-Minshat al-Kubrá, 31.0500, 30.9000
+Al-Minya(Al-Minya), 28.1000, 30.7500
+Al-Minya(Al-Zizah), 29.7500, 31.3000
+Al-Minya(Al-Fayyum), 29.2333, 30.7500
+Al-Munajat al-Kubrá, 30.8333, 32.0167
+Al-Muntazah, 31.2833, 30.0167
+Al-Musharrak Qibli, 29.3833, 30.5667
+Al-Muti‘ah, 27.1333, 31.3000
+Al-Mu‘tamadiyah, 31.0333, 31.0833
+Al-Nasser, 24.5333, 32.9167
+Al-Qahirah(Cairo), 30.0500, 31.2500
+Al-Qaiyat, 28.6667, 30.6833
+Al-Qalaj, 30.1833, 31.3500
+Al-Qanatir al-Khayriyah, 30.2000, 31.1333
+Al-Qanayat, 30.6167, 31.4667
+Al-Qantarah, 30.8667, 32.3167
+Al-Qasabi, 31.2667, 30.6833
+Al-Qasr, 25.7000, 28.8833
+Al-Qassasin, 30.5667, 31.9333
+Al-Qatta, 30.2167, 30.9667
+Al-Qattawiyah, 30.5500, 31.6667
+Al-Qays, 28.4833, 30.7833
+Al-Qurayn, 30.6167, 31.7333
+Al-Qusaymah, 30.6667, 34.3667
+Al-Qusayr(Al-Bahr al-Ahmar), 26.1000, 34.2833
+Al-Qusayr(Asyut), 27.4500, 30.8667
+Al-Qusiyah, 27.4333, 30.8167
+Al-Uqsur(Luxor), 25.6833, 32.6500
+Al-Wafa'iyah, 30.7667, 30.6000
+Al-Walidiyah, 27.2000, 31.1667
+Al-Wasifiyah, 30.5833, 32.1667
+Al-Wasitah, 29.3333, 31.2000
+Al-Waziriyah, 31.1833, 30.9500
+Al-Widy, 29.5167, 31.2667
+Al-Zarqa, 31.2167, 31.6333
+Al-‘Abbasah ash-Sharqiyah, 30.5333, 31.7167
+Al-‘Ajamiyin, 29.3333, 30.7167
+Al-‘Akrishah, 31.1333, 30.1500
+Al-‘Alamayn, 30.8167, 28.9500
+Al-‘Alaqimah, 30.6167, 31.6333
+Al-‘Amar al-Kubrá, 30.3500, 31.1333
+Al-‘Amiriyah, 31.0167, 29.8000
+Al-‘Arish, 31.1333, 33.8000
+Al-‘Ataminah, 27.3333, 30.8333
+Al-‘Atf, 29.6500, 31.2667
+Al-‘Awja', 30.9667, 30.5333
+Al-‘Ayyash ash-Sharqi, 31.5500, 31.2167
+Al-‘Ayyat, 29.6167, 31.2500
+Al-‘Azizah, 31.1833, 31.9500
+Al-‘Aziziyah(Ash-Sharqiyah), 30.4833, 31.3000
+Al-‘Aziziyah(Al-Jizah), 29.8667, 31.2500
+Al-‘Idwah, 29.3500, 30.9167
+Al-‘Imariyah, 27.6167, 30.8833
+Al-‘Izziyah, 27.2167, 30.9833
+Al-‘Udaysat, 25.5833, 32.4833
+Alamein > Al-‘Alamayn, 30.8167, 28.9500
+Alejandría > Al-Iskandariyah, 31.2000, 29.9000
+Alexandria > Al-Iskandariyah, 31.2000, 29.9000
+Alexandrie > Al-Iskandariyah, 31.2000, 29.9000
+An-Nakhl, 29.9167, 33.7500
+An-Nazlat, 29.3167, 30.6500
+An-Nubayrah, 30.9000, 30.5833
+An-Nuwayrah, 29.1000, 30.9833
+Ar-Radisiyah Bahri, 24.9500, 32.8833
+Ar-Rahaminah, 31.3000, 31.7500
+Ar-Rahmaniyah, 31.1000, 30.6333
+Ar-Rashidah, 25.5833, 28.9333
+Ar-Rawdah(Al-Fayyum), 29.4500, 31.0000
+Ar-Rawdah(Al-Minya), 27.8000, 30.8667
+Ar-Rayramun, 27.7500, 30.8667
+Ar-Ru'us, 29.3500, 31.0667
+Ar-Rubayqi, 30.1667, 31.7667
+Armant, 25.6167, 32.5333
+Aryamun, 31.1833, 30.9000
+As-Saff, 29.5667, 31.2833
+As-Salihiyah, 30.7833, 31.9833
+As-Sallum, 31.5667, 25.1500
+As-Sanafin al-Qibliyah, 30.4500, 31.3000
+As-Santah, 30.7500, 31.1333
+As-Saririyah, 28.3333, 30.7500
+As-Sinbillawayn, 30.8833, 31.4500
+As-Sufiyah, 30.9167, 31.7667
+As-Suways(Suez), 29.9667, 32.5500
+As-Su‘udiyah, 29.5500, 31.2333
+Asfun al-Mata‘inah, 25.3833, 32.5333
+Ash-Shallufah, 30.1167, 32.5667
+Ash-Shanawiyah, 29.1333, 31.1333
+Ash-Shawashinah, 29.3667, 30.6000
+Ash-Shaykh Fadl, 28.4833, 30.8333
+Ash-Shaykh Timay, 27.8833, 30.8500
+Ash-Shaykh ‘Ibadah, 27.8000, 30.8667
+Ash-Shin, 31.0167, 30.8833
+Ash-Shuhada', 30.6000, 30.9000
+Ashmun, 30.3000, 30.9667
+Aswan, 24.0833, 32.8833
+Asyut, 27.1833, 31.1833
+At-Tabbin, 29.7833, 31.3000
+At-Talibiyah, 30.0000, 31.1833
+At-Tall al-Kabir, 30.5667, 31.7833
+At-Tataliyah, 27.3333, 30.8333
+At-Tawd, 30.7833, 30.6167
+At-Tayriyah, 30.6500, 30.7667
+At-Tayyibah, 28.2667, 30.6500
+At-Tinah, 31.0500, 32.3000
+At-Tur, 28.2333, 33.6167
+Atfih, 29.4000, 31.2500
+Ath-Thamad, 29.6833, 34.3000
+Awish al-Hajar, 31.0167, 31.3167
+Awlad Musá, 30.8000, 31.7333
+Awsim, 30.1167, 31.1333
+Az-Zankalun, 30.5500, 31.4500
+Az-Zaqaziq, 30.5833, 31.5167
+Az-Zawamil, 30.3500, 31.4333
