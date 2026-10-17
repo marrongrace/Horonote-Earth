@@ -1,0 +1,109 @@
+Alamor, -4.0333, -80.0333
+Alausí, -2.2000, -78.8333
+Alfaro, -2.2000, -79.8333
+Ambato, -1.2500, -78.6167
+Archipiélago de Colón, -0.5000, -90.5000
+Arenillas, -3.5500, -80.0667
+Atuntaqui, 0.3333, -78.2167
+Azogues, -2.7333, -78.8333
+Baba, -1.7833, -79.6667
+Babahoyo, -1.8167, -79.5167
+Baeza, -0.4500, -77.8833
+Bahía de Caráquez, -0.6000, -80.4167
+Balzar, -1.3667, -79.9000
+Baños, -1.4000, -78.4167
+Biblián, -2.7000, -78.8667
+Cajabamba, -1.7000, -78.7500
+Calceta, -0.8500, -80.1667
+Cariamanga, -4.3333, -79.5833
+Catacocha, -4.0667, -79.6333
+Catamayo, -3.9833, -79.3500
+Catarama, -1.5833, -79.4667
+Cayambe, 0.0500, -78.1333
+Cañar, -2.5500, -78.9333
+Celica, -4.1167, -79.9833
+Chone, -0.6833, -80.1000
+Chunchi, -2.2833, -78.9167
+Corazón, -1.2000, -79.1000
+Cuenca, -2.8833, -78.9833
+Daule(Guayas), -1.8333, -79.9333
+Daule(Esmeraldas), 0.4000, -80.0000
+El Corazón, -1.2000, -79.1000
+El Progreso, -0.9000, -89.5500
+El Ángel, 0.6167, -77.9333
+Esmeraldas, 0.9833, -79.7000
+Galapagos Islands, -0.5000, -90.5000
+General Plaza, -2.9667, -78.4167
+Girón, -3.1667, -79.1333
+Gonzanamá, -4.2500, -79.4500
+Gualaceo, -2.9000, -78.7833
+Gualaquiza, -3.4000, -78.5500
+Guamote, -1.9333, -78.7167
+Guano, -1.5833, -78.6333
+Guaranda, -1.6000, -79.0000
+Guayaquil, -2.1667, -79.8333
+Ibarra, 0.3500, -78.1167
+Isabela Island, -0.5000, -91.1000
+Isla San Cristóbal, -0.8333, -89.4333
+Isla Santa Cruz, -0.6333, -90.3833
+Jipijapa, -1.3333, -80.5833
+Junín, -0.9333, -80.2167
+Las Ramas, -1.8333, -79.8000
+Latacunga, -0.9333, -78.6167
+Limón > General Plaza, -2.9667, -78.4167
+Loja, -4.0000, -79.2167
+Macará, -4.3833, -79.9500
+Macas, -2.3167, -78.1167
+Machachi, -0.5000, -78.5667
+Machala, -3.2667, -79.9667
+Manta, -0.9500, -80.7333
+Milagro, -2.1167, -79.6000
+Montecristi, -1.0500, -80.6667
+Morro, -2.6500, -80.3167
+Muisne, 0.6000, -80.0333
+Méndez, -2.7167, -78.3167
+Naranjal, -2.7000, -79.6167
+Nueva Loja, 0.1000, -76.8500
+Nuevo Rocafuerte, -0.9333, -75.4000
+Otavalo, 0.2333, -78.2667
+Quevedo, -1.0333, -79.4833
+Quito, -0.2167, -78.5000
+Riobamba, -1.6667, -78.6333
+Rocafuerte, -0.9167, -80.4667
+Salinas, -2.2167, -80.9667
+Samborondón, -1.9500, -79.7333
+San Cristóbal Island, -0.8333, -89.4333
+San Gabriel, 0.6000, -77.8167
+San José, -1.7000, -79.0167
+San Lorenzo, 1.2833, -78.8333
+San Lucas, -3.7500, -79.2500
+San Miguel, -1.7333, -79.0167
+San Miguel de Salcedo, -1.0333, -78.5667
+Sangolquí, -0.3167, -78.4500
+Santa Ana, -1.2167, -80.3833
+Santa Cruz Island, -0.6333, -90.3833
+Santa Elena, -2.2333, -80.8500
+Santa Isabel, -3.3500, -79.3167
+Santa Rosa, -3.4500, -79.9667
+Santa Rosa de Sucumbíos, 0.3667, -77.1667
+Santo Domingo de los Colorados, -0.2500, -79.1500
+Saquisilí, -0.8500, -78.6667
+Saraguro, -3.6000, -79.2167
+Sigsig, -3.0167, -78.7500
+Sucre, -1.2667, -80.4333
+Sucúa, -2.4667, -78.1667
+Tabacundo, 0.0500, -78.2000
+Tena, -0.9833, -77.8167
+Tulcán, 0.8000, -77.7167
+Valdez, 1.2500, -79.0000
+Valladolid, -4.5500, -79.1333
+Veintiocho de Mayo, -3.8333, -78.8667
+Ventanas, -1.3833, -79.4167
+Villamil, -0.9333, -91.0167
+Vinces, -1.5333, -79.7500
+Yaguachi, -2.1167, -79.6833
+Yaupi, -2.9833, -77.8333
+Zamora, -4.0667, -78.9667
+Zapotillo, -4.4167, -80.5167
+Zaruma, -3.6833, -79.6167
+Zumba, -4.8667, -79.1500
