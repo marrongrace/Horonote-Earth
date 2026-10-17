@@ -1,0 +1,62 @@
+Acajutla, 13.6000, -89.8333
+Aguilares, 13.9667, -89.2000
+Ahuachapán, 13.9167, -89.8500
+Apopa, 13.8000, -89.1833
+Arcatao, 14.0833, -88.7500
+Atiquizaya, 13.9667, -89.7667
+Carolina, 13.8500, -88.3167
+Chalatenango, 14.0500, -88.9333
+Chalchuapa, 13.9833, -89.6833
+Chinameca, 13.5000, -88.3500
+Chirilagua, 13.2167, -88.1333
+Ciudad Barrios, 13.7667, -88.2667
+Cojutepeque, 13.7167, -88.9333
+Concepción de Ataco, 13.8667, -89.8500
+Concepción Quezaltepeque, 14.1000, -88.9667
+Conchagua, 13.3167, -87.8667
+Corinto, 13.8167, -87.9667
+El Congo, 13.9000, -89.5000
+El Cuco, 13.1667, -88.1167
+El Tamarindo, 13.1833, -87.9000
+El Tránsito, 13.3667, -88.3500
+Estanzuelas, 13.6333, -88.5000
+Garita Palmera, 13.7333, -90.0833
+Guatajiagua, 13.6667, -88.2167
+Ilobasco, 13.8500, -88.8500
+Intipucá, 13.2000, -88.0667
+Izalco, 13.7500, -89.6667
+Jiquilisco, 13.3167, -88.5833
+Jocoro, 13.6167, -88.0167
+Jucuapa, 13.5167, -88.4000
+La Libertad, 13.4833, -89.3167
+La Palma, 14.3167, -89.1833
+La Tasajera, 13.2667, -88.8667
+La Unión, 13.3333, -87.8500
+Lolotique, 13.5500, -88.3500
+Metapán, 14.3333, -89.4500
+Nahuizalco, 13.7667, -89.7500
+Nueva Concepción, 14.1333, -89.3000
+Nueva San Salvador, 13.6833, -89.2833
+Puerto El Triunfo, 13.2833, -88.5500
+Quezaltepeque, 13.8333, -89.2833
+San Alejo, 13.4333, -87.9667
+San Francisco Gotera, 13.7000, -88.1000
+San Jorge, 13.4167, -88.3500
+San Marcelino, 13.3667, -89.0500
+San Marcos, 13.6500, -89.1833
+San Miguel, 13.4833, -88.1833
+San Rafael Oriente, 13.3833, -88.3500
+San Salvador, 13.7000, -89.2000
+San Sebastián, 13.7333, -88.8333
+San Vicente, 13.6333, -88.8000
+Santa Ana, 13.9833, -89.5667
+Santa Elena, 13.3667, -88.4167
+Santa Rosa de Lima, 13.6167, -87.8833
+Santa Tecla > Nueva San Salvador, 13.6833, -89.2833
+Sensuntepeque, 13.8667, -88.6333
+Sonsonate, 13.7167, -89.7333
+Soyapango, 13.7000, -89.1500
+Suchitoto, 13.9333, -89.0333
+Usulután, 13.3500, -88.4500
+Villa Delgado, 13.7167, -89.1667
+Zacatecoluca, 13.5000, -88.8667
