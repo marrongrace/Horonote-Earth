@@ -1,0 +1,18 @@
+Aubá, -9.0333, 125.3667
+Baukau(Vila Salazar), -8.4500, 126.4500
+Betano, -9.1667, 125.7167
+Dili, -8.5500, 125.5833
+Fatu-Berlio(Nova Anadia), -8.9333, 125.8667
+Lautem(Vila Nova de Malaca), -8.4000, 126.9000
+Leça, -8.7500, 126.5667
+Manatuto, -8.5000, 126.0167
+Maubara, -8.6167, 125.2000
+Nova Anadia > Fatu-Berlio, -8.9333, 125.8667
+Nova Sagres > Tutuala, -8.4000, 127.2500
+Nítibe, -9.3167, 124.2000
+Ocussi, -9.2000, 124.3500
+Silvícola, -8.6500, 126.9833
+Tilomar, -9.3500, 125.1333
+Tutuala, -8.4000, 127.2500
+Vila General Carmona, -8.7167, 125.5667
+Viquique, -8.8667, 126.3667
