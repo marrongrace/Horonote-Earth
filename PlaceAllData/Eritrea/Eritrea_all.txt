@@ -1,0 +1,59 @@
+Abardeb, 16.1000, 37.0500
+Adailo, 14.4833, 40.8667
+Adayto, 14.4167, 40.8833
+Adi K'eyih, 14.8500, 39.3667
+Adi Kwala, 14.6333, 38.8333
+Adi Ugri > Mendefera, 14.8833, 38.8167
+Agordat > Ak'ordat, 15.5500, 37.8833
+Ak'ordat, 15.5500, 37.8833
+Algena, 17.3167, 38.5167
+Amarti, 14.2667, 41.1667
+Arafali, 15.0833, 39.7500
+Arotali, 15.0333, 39.7167
+Aruaddin, 16.2500, 38.7167
+Arwadin, 16.2500, 38.7167
+Aseb, 13.0000, 42.7500
+Asmara > Asmera, 15.3333, 38.8833
+Asmera, 15.3333, 38.8833
+Aseb, 13.0000, 42.7500
+Aykota, 15.2000, 37.0833
+Baden, 17.0000, 38.0000
+Barachit, 14.6500, 39.4500
+Barentu, 15.0667, 37.6167
+Berakit, 14.6500, 39.4500
+Beylul, 13.1667, 42.4333
+Bisha, 15.4667, 37.5667
+Cheren > Keren, 15.7667, 38.4667
+Dekemhare, 15.0833, 39.0333
+Dikumbiya, 14.7833, 37.4667
+Dukambiya, 14.7833, 37.4667
+Ed, 13.8667, 41.6667
+Erota, 16.2333, 37.9167
+Eroto, 16.2333, 37.9167
+Felhit, 16.7167, 38.0333
+Guluy, 14.7167, 36.7500
+Karkabet, 16.2167, 37.5000
+Kela Met, 16.0667, 38.7167
+Keren, 15.7667, 38.4667
+Mai Aini, 14.7833, 39.1000
+Mai Mefales, 14.9833, 38.2667
+Massaua > Massawa, 15.6333, 39.4667
+Massawa(Mitsiwa), 15.6333, 39.4667
+May Ayini, 14.7833, 39.1000
+May Nefalis, 14.9833, 38.2667
+Mendefera(Adi Ugri), 14.8833, 38.8167
+Mersa Fatma, 14.9167, 40.3333
+Mesawa > Massawa, 15.6333, 39.4667
+Mits'iwa > Massawa, 15.6333, 39.4667
+Nakfa, 16.7167, 38.5333
+Om Hajer, 14.4000, 36.7667
+Pertokar, 16.9833, 37.4667
+Renda, 14.5000, 39.8833
+Sala, 16.9667, 37.4500
+Sebderat, 15.4333, 36.6667
+Sitona, 14.4667, 37.4500
+Suwa, 14.2833, 41.1000
+Teseney, 15.1167, 36.6833
+Tio, 14.7000, 40.9667
+Tiyo, 14.7000, 40.9667
+Zula, 15.1833, 39.6833
