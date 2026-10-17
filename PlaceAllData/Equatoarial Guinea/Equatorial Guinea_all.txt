@@ -1,0 +1,37 @@
+Acalayong, 1.0833, 9.6667
+Aconibe, 1.3000, 10.9333
+Acurenam, 1.0333, 10.6667
+Akurenan > Acurenam, 1.0333, 10.6667
+Amvamg, 1.7500, 10.4833
+Asoc, 1.4333, 11.3000
+Ayamiken, 2.1167, 10.0167
+Añisoc, 1.8500, 10.7667
+Basacato del Este, 3.6167, 8.9000
+Bata, 1.8500, 9.7500
+Cogo, 1.0833, 9.7000
+Concepción > Riaba, 3.3833, 8.7667
+Ebebiyín, 2.1500, 11.3333
+Esong, 2.1500, 10.9667
+Etembue, 1.2833, 9.4167
+Evinayong, 1.4500, 10.5667
+Ipeia, 0.9000, 9.3333
+Isla de Corisco, 0.9000, 9.3333
+Kogo > Cogo, 1.0833, 9.7000
+La Concepción > Riaba, 3.3833, 8.7667
+Luba, 3.4500, 8.5500
+Malabo, 3.7500, 8.7833
+Mbini, 1.5833, 9.6167
+Midyobe, 1.3500, 10.3000
+Mikomeseng, 2.1333, 10.6167
+Mongomo, 1.6333, 11.3167
+Ncue, 2.0167, 10.4667
+Ndomayop > Midyobe, 1.3500, 10.3000
+Niefang, 1.8333, 10.2333
+Nsang, 2.0333, 10.9333
+Nsok, 1.1333, 11.2667
+Riaba, 3.3833, 8.7667
+Río Benito, 1.5833, 9.6167
+San Carlos > Luba, 3.4500, 8.5500
+Santa Isabel > Malabo, 3.7500, 8.7833
+Senye, 1.5667, 9.8333
+Utonde, 1.9333, 9.8167
