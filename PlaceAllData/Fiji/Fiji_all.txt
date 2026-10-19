@@ -1,0 +1,36 @@
+Kandavu Island, -19.0500, 178.2167
+Keiyasi, -17.9000, 177.7500
+Korolevu, -18.2167, 177.7333
+Korovou, -17.9500, 178.3500
+Lambasa, -16.4333, 179.4000
+Lau Group, -18.3333, -178.5000
+Lautoka, -17.6167, 177.4500
+Levuka, -17.6833, 178.8333
+Lomaloma, -17.2833, -178.9833
+Mba, -17.5500, 177.6833
+Mbua, -16.8000, 178.6167
+Mbutha, -16.6500, 179.8333
+Momi, -17.9167, 177.2833
+Nadi, -17.8000, 177.4167
+Nambouwalu, -16.9833, 178.7000
+Nandarivatu, -17.5667, 177.9667
+Nandi, -17.8000, 177.4167
+Nanduri, -16.4500, 179.1500
+Nausori, -18.0333, 175.5333
+Navua, -18.2333, 178.1667
+Ono-i-Lau Island, -20.6500, -178.7000
+Rotuma Island, -12.5000, 177.0833
+Savusavu, -16.2667, 179.3500
+Singatoka, -18.1333, 177.5000
+Somosomo, -16.7667, -179.9667
+Suva, -18.1333, 178.4167
+Taveuni Island, -16.8500, -179.9667
+Tavua, -17.4500, 177.8500
+Vaileka, -17.3833, 178.1500
+Vanua Levu Island, -16.5500, 179.2500
+Vanua Mbalavu Island, -17.6667, -178.9500
+Vatukoula, -17.5167, 177.8500
+Viti Levu Island, -18.0000, 178.0000
+Vunindawa, -17.8167, 178.3167
+Vunisea, -19.0500, 178.1500
+Vunisea Stastion, -19.0500, 178.1500
