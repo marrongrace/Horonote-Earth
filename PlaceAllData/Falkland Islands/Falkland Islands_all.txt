@@ -1,0 +1,7 @@
+Darwin, -51.8333, -58.9667
+Port Albemarle, -52.1833, -60.4333
+Port Edgar, -52.0000, -60.2333
+Port Louis, -51.5500, -58.1667
+Port Stanley > Stanley, -51.7000, -57.8500
+San Carlos, -51.5000, -58.9833
+Stanley, -51.7000, -57.8500
