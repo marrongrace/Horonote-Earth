@@ -1,0 +1,348 @@
+Cabbage Grove, 30.2094, -83.8739
+Cadillac, 29.7414, -82.5389
+Cairo, 30.3047, -85.4772
+Caldwell Landing, 29.2447, -81.9656
+Caleb, 30.2767, -81.8319
+Calhoun County Hospital, 30.4447, -85.0506
+Calhoun General Hospital, 30.4447, -85.0506
+Calhoun West, 30.4333, -85.2667
+Callahan, 30.5619, -81.8308
+Callaway, 30.1528, -85.5700
+Calphos, 28.9119, -82.3844
+Cambon, 30.3458, -81.8064
+Camellia Gardens, 28.4833, -81.3667
+Camelot Care Center, 27.7875, -82.6297
+Cameron City, 28.7567, -81.2189
+Camp Blanding, 29.9500, -82.1000
+Camp Echockotee, 30.1522, -81.7272
+Camp Ocala, 29.1075, -81.6311
+Camp Roosevelt, 29.1458, -82.1156
+Campbell, 28.2586, -81.4567
+Campbellton, 30.9492, -85.4022
+Campbellton-Graceville Hospital, 30.9633, -85.4986
+Camps, 28.5911, -82.4308
+Camps Mine, 28.5333, -82.4833
+Camps Still, 30.4322, -82.8672
+Campton, 30.8733, -86.5183
+Campville, 29.6661, -82.1186
+Cana, 27.2833, -80.4933
+Canaan, 28.7900, -81.2228
+Canal Point, 26.8589, -80.6339
+Candler, 29.0711, -81.9683
+Caney Creek, 30.8997, -86.2086
+Cannon Town, 30.8547, -86.6742
+Canova Beach, 28.1333, -80.5833
+Cantonment, 30.6083, -87.3400
+Cape Canaveral, 28.4056, -80.6050
+Cape Canaveral Hospital, 28.3600, -80.6233
+Cape Coral, 26.5625, -81.9497
+Cape Coral Hospital, 26.5619, -81.9517
+Cape Haze, 26.8500, -82.2944
+Cape Sable, 25.5500, -81.0167
+Cape Vista, 27.4667, -82.5833
+Capitola, 30.4508, -84.0881
+Capps, 30.4103, -83.9111
+Captiva, 26.5217, -82.1894
+Caraway Landing, 29.5475, -82.1417
+Carbur, 29.9181, -83.4281
+Cardwell, 26.7656, -80.6600
+Caribbean Key, 26.3997, -80.0725
+Carl Fisher, 25.8000, -80.1500
+Carleton, 29.6000, -82.0833
+Carlson, 28.8242, -82.1819
+Carlton, 28.0000, -82.7667
+Carlton Village, 28.9322, -81.8856
+Carnestown, 25.9106, -81.3644
+Carol City, 25.9403, -80.2458
+Carr, 30.5667, -85.1333
+Carr Landing, 30.6731, -86.6975
+Carrabelle, 29.8531, -84.6644
+Carrabelle Beach, 29.8319, -84.6842
+Carrabelle Lighthouse, 29.8272, -84.7011
+Carraway, 29.7089, -81.7867
+Carrollwood, 28.0667, -82.4833
+Carrolwood Community Hospital, 28.0564, -82.5033
+Carter Landing, 30.2922, -85.1481
+Carters, 28.0500, -81.9333
+Carters Bulkhead, 28.0303, -80.5453
+Carters Corner, 28.0439, -81.8586
+Carver(Duval), 30.3667, -81.6833
+Carver(Sumter), 28.6569, -82.1025
+Carver Heights, 26.3147, -80.1039
+Carver Manor, 30.3778, -81.7283
+Carver Ranch Estates, 25.9833, -80.2000
+Carver Ranches, 25.9881, -80.1925
+Carver Village, 26.2519, -80.1436
+Cary, 30.4625, -81.7844
+Caryville, 30.7731, -85.8142
+Casa Blanco, 30.5161, -83.8878
+Casa Cola, 29.9719, -81.3464
+Cassadaga, 28.9661, -81.2361
+Casselberry, 28.6775, -81.3281
+Cassia, 28.8892, -81.4656
+Castle Hill, 28.5456, -81.6844
+Catawba, 28.6883, -82.3767
+Cecil Field Naval Air Station, 30.3167, -81.6500
+Cedar Creek, 29.2736, -81.9019
+Cedar Creek Landing, 29.3028, -81.9031
+Cedar Grove, 30.1708, -85.6253
+Cedar Hammock, 27.4667, -82.5833
+Cedar Hills, 30.2628, -81.7475
+Cedar Hills Estates, 30.2772, -81.7456
+Cedar Key, 29.1383, -83.0353
+Cedar Landing(St Johns), 29.7239, -81.2539
+Cedar Landing(Marion), 29.5131, -81.8653
+Cedar Point, 30.4436, -81.4639
+Cedar Tree Landing, 30.4706, -85.8753
+Cedars Medical Center, 25.7861, -80.2100
+Cedars of Lebanon Hospital, 25.7861, -80.2100
+Center Fait Landing, 30.7103, -86.8392
+Center Hill, 28.6497, -81.9928
+Center Park, 30.2900, -81.5014
+Centerville, 30.5569, -84.1764
+Central City, 30.1881, -84.9258
+Central Florida Hospital, 28.5719, -81.4853
+Central Florida Regional Hospital, 28.8106, -81.2561
+Central Pasco, 28.3000, -82.4000
+Central Volusia, 29.1000, -81.1000
+Centro Asturiano Hospital, 27.9708, -82.4458
+Centro Espanol Memorial Hospital, 27.9786, -82.4283
+Century, 30.9731, -87.2639
+Century 21, 26.6000, -81.8667
+Century Corners, 26.7000, -80.0833
+Century Memorial Hospital, 30.9703, -87.2575
+Cerrogordo, 30.8317, -85.8875
+Chain O Lakes, 28.9836, -81.5119
+Chaires, 30.4361, -84.1175
+Chancey, 30.2403, -83.2606
+Channell, 28.8000, -81.6500
+Chantilly Acres, 29.7139, -82.4181
+Chapel Hill, 26.4978, -80.0744
+Charlotte Beach, 26.9333, -82.2333
+Charlotte Harbor, 26.9581, -82.0672
+Charlotte Park, 26.9097, -82.0542
+Charter Glade Hospital, 26.6411, -81.8411
+Charter Springs Hospital(East Marion), 29.1547, -82.1706
+Charter Springs Hospital(Route 27), 29.1514, -82.1231
+Chaseville, 30.3333, -81.5833
+Chason, 30.5350, -85.1919
+Chassahowitzka, 28.7128, -82.5744
+Chatham, 25.7139, -81.2442
+Chatmar, 29.0669, -82.4531
+Chattahoochee, 30.7050, -84.8431
+Cherry Lake(Madison), 30.5500, -83.4278
+Cherry Lake(Sumter), 28.9106, -81.9539
+Chester, 30.6828, -81.5403
+Chiefland, 29.5036, -82.8719
+Childs, 27.2094, -81.3450
+Chipley, 30.7817, -85.5386
+Chipola, 30.5050, -85.1183
+Chipola Park, 30.7833, -85.2333
+Chipola Terrace, 30.8272, -85.1658
+Choctaw, 30.3672, -86.1061
+Choctaw Beach, 30.4711, -86.3433
+Chokoloskee, 25.8125, -81.3622
+Chosen, 26.6667, -80.6833
+Chosen Labor Camp, 26.6667, -80.6833
+Christina, 28.0500, -81.9333
+Christmas, 28.5361, -81.0178
+Chuluota, 28.6417, -81.1236
+Chumuckla, 30.7764, -87.2372
+Chumuckla Springs, 30.8336, -87.2961
+Cinco Bayou, 30.4167, -86.6000
+Cisky Park, 28.7944, -81.8494
+Citra, 29.4117, -82.1100
+Citronelle, 28.9783, -82.5689
+Citrus Center, 26.8333, -81.1000
+Citrus Memorial Hospital, 28.8406, -82.3294
+Citrus Park, 28.0781, -82.5700
+Citrus Springs, 29.0500, -82.4500
+Citrus Tower, 28.5500, -81.7500
+City Point, 28.4058, -80.7556
+City View, 26.6000, -81.8667
+Clair-Mel City, 27.9500, -82.4000
+Clara, 29.7969, -83.3203
+Clarcona, 28.6125, -81.4989
+Clark, 29.7731, -82.6261
+Clarksville, 30.4367, -85.1861
+Clarkwild, 28.0508, -82.3197
+Clay Island, 28.6636, -81.6961
+Clay Landing(Duval), 30.5336, -81.7428
+Clay Landing(Putnam), 29.7744, -81.5619
+Clay Landing(Levy), 29.5233, -82.9686
+Clay Memorial Hospital, 29.9819, -81.6725
+Clay Sink, 28.4722, -82.0669
+Clayno, 29.9061, -82.2503
+Clear Lake, 29.6667, -82.3333
+Clear Springs(Okaloosa), 30.8736, -86.5700
+Clear Springs(Walton), 30.9797, -86.3453
+Clearview, 27.8167, -82.6833
+Clearwater, 27.9656, -82.8003
+Clearwater Beach, 27.9769, -82.8281
+Clermont, 28.5492, -81.7731
+Cleveland, 26.9614, -81.9842
+Cleveland Street, 27.9667, -82.7833
+Clewiston, 26.7539, -80.9339
+Clifton, 30.3333, -81.5833
+Cliftonville, 30.0444, -82.3922
+Clinton Heights, 28.3294, -82.1897
+Clio, 30.3192, -84.8261
+Cloud Lake, 26.6758, -80.0742
+Cluster Springs, 30.8383, -86.2053
+Coach Light Manor, 26.6000, -81.8667
+Coachman, 27.9775, -82.7381
+Cobb Creek, 30.9581, -87.0928
+Cobb Cross Roads, 30.9806, -85.5475
+Cobbtown, 30.8828, -87.1197
+Cockran Landing, 30.1003, -85.1817
+Cocoa, 28.3858, -80.7422
+Cocoa Beach, 28.3197, -80.6078
+Coconut, 26.3992, -81.8397
+Coconut Creek, 26.2500, -80.1833
+Coconut Creek Park, 26.2417, -80.1825
+Coconut Grove, 25.7122, -80.2572
+Cody, 30.3606, -84.0511
+Codys Corner, 29.3431, -81.3111
+Coes Landing, 30.4519, -84.4828
+Coker, 27.5650, -81.8150
+Coldwater, 30.6500, -87.0833
+Colee, 26.1333, -80.1833
+Coleman, 28.7994, -82.0703
+Coleman Landing, 28.7983, -82.1031
+College Park(Orange), 28.5833, -81.4000
+College Park(St Johns), 29.8831, -81.3531
+College Park(Broward), 26.3242, -80.1064
+College Park(Duval), 30.3447, -81.6781
+College Point, 30.1500, -85.6500
+Collier City, 26.2500, -80.1500
+Collier Manor, 26.2833, -80.1500
+Collier Park, 26.2339, -80.1594
+Collins Landing, 30.4181, -84.5536
+Collins Mill, 30.9658, -85.5311
+Collins Park Estates, 27.3717, -80.3192
+Colonial Hills, 28.2167, -82.7333
+Colonial Manor, 30.3167, -81.7167
+Colonialtown, 28.5500, -81.3500
+Columbia, 30.0736, -82.6958
+Combee Settlement, 28.0667, -81.9000
+Community Hospital of Bunnell, 29.4756, -81.2464
+Community Hospital of New Port Richey, 28.2547, -82.7192
+Compass Lake, 30.5925, -85.3928
+Conant, 28.9375, -81.9281
+Conch Key, 24.7900, -80.8897
+Concord(Gadsden), 30.6575, -84.3650
+Concord(Leon), 30.5636, -84.0456
+Conner, 29.2400, -81.9614
+Conner Landing, 29.2386, -81.9664
+Conners Ford, 30.3261, -84.8639
+Connersville(Polk), 27.9089, -81.7864
+Connersville(Volusia), 29.2753, -81.4761
+Conway, 28.5025, -81.3308
+Cooglers Beach, 28.5531, -82.6503
+Cook Landing, 30.0850, -81.3636
+Cooks Hammock, 29.9294, -83.2767
+Cooper City, 26.0569, -80.2719
+Coopertown, 25.7603, -80.5611
+Copeland, 25.9533, -81.3561
+Copeland Settlement, 29.6758, -82.2444
+Copelands Landing, 27.7269, -80.4167
+Coquina Gables, 29.8428, -81.2656
+Cora, 30.9500, -87.1500
+Coral Cove, 27.2500, -82.5167
+Coral Estates, 26.1603, -80.1278
+Coral Gables, 25.7211, -80.2686
+Coral Gables Hospital, 25.7425, -80.2550
+Coral Gardens, 27.1394, -80.2114
+Coral Heights, 26.1794, -80.1292
+Coral Hills, 26.1881, -80.1219
+Coral Manor, 26.3000, -80.1039
+Coral Point, 26.1500, -80.1833
+Coral Reef Hospital, 25.6275, -80.3433
+Coral Ridge, 26.1600, -80.1100
+Coral Ridge Isles, 26.1925, -80.1181
+Coral Ridge Psychiatric Hospital, 26.1561, -80.1169
+Coral Springs, 26.2667, -80.2500
+Coral Way Village, 25.7431, -80.3275
+Coral Woods, 26.1669, -80.1275
+Corkscrew, 26.4717, -81.5594
+Cornwell, 27.3783, -81.0969
+Coronado, 29.0333, -80.9167
+Coronet, 27.9872, -82.0808
+Corry Field, 30.0667, -87.2000
+Cortez, 27.4689, -82.6864
+Cosme, 28.1086, -82.5728
+Cosmo, 30.3644, -81.5156
+Cosson Mill, 30.7000, -86.1811
+Cottage Hill, 30.6325, -87.3200
+Cottage Hill Landing, 30.6239, -87.2642
+Cottage Point, 26.6000, -81.8667
+Cotton Landing, 30.0514, -85.0733
+Cottondale, 30.7969, -85.3767
+Cottonplant, 29.1833, -82.1500
+Council, 26.3756, -81.8039
+Country Club Acres, 26.4500, -80.0833
+Country Club Estates(Columbia), 30.2833, -81.4000
+Country Club Estates(Polk), 28.5333, -81.3667
+Country Club Isles, 26.2492, -80.0933
+Country Club Manor, 28.7906, -81.2839
+Country Estates, 28.1833, -82.7333
+County Club Acres, 26.4500, -80.1278
+County Line Landing, 30.3111, -85.9942
+Courtenay, 28.4567, -80.7097
+Cove, 30.1456, -85.6492
+Cow Creek, 28.8372, -81.0278
+Cox, 30.6014, -85.1392
+Cox Corner, 27.8789, -81.7611
+Coytown, 28.5500, -81.3500
+Cracker Landing, 29.4611, -81.9194
+Crackertown, 29.0361, -82.6867
+Craggs, 29.7786, -82.7411
+Crandall, 30.7208, -81.6222
+Crawford, 30.5086, -81.8811
+Crawfordville, 30.1758, -84.3753
+Creels, 29.8217, -84.9092
+Creighton, 28.8872, -80.9222
+Crescent Beach(St Johns), 29.7686, -81.2539
+Crescent Beach(Sarasota), 27.3167, -82.5167
+Crescent City, 29.4300, -81.5108
+Crescent City Station, 29.4150, -81.5333
+Cresthaven, 26.2833, -80.1500
+Cresthaven Villas, 26.6667, -80.1000
+Crestview(Dade), 25.9167, -80.2500
+Crestview(Okaloosa), 30.7619, -86.5706
+Crestview Community Hospital, 30.7625, -86.5708
+Crewsville, 27.4194, -81.5825
+Cromanton, 30.1161, -85.6350
+Crooked Lake Park, 27.8289, -81.5842
+Croom, 28.5875, -82.2278
+Cross Bayou, 27.8575, -82.7339
+Cross City, 29.6342, -83.1253
+Cross Creek, 29.4861, -82.1653
+Crossley, 29.5889, -81.9933
+Crown Point, 28.5881, -81.5672
+Crows Bluff, 29.0075, -81.3894
+Crystal Beach, 28.0911, -82.7800
+Crystal Lake(Polk), 28.0333, -81.9500
+Crystal Lake(Washington), 30.4439, -85.6886
+Crystal River, 28.9022, -82.5928
+Crystal Springs, 28.1811, -82.1578
+Cubitis, 27.2597, -81.8408
+Cudjoe, 24.7500, -81.3333
+Cumbee, 28.0500, -81.9333
+Cummings, 27.7972, -80.4622
+Cumpressco, 28.3586, -82.0394
+Cunningham Estates, 28.2639, -82.2072
+Curlew, 28.0528, -82.7431
+Curtis, 29.7500, -82.8667
+Curtis Mill, 30.0083, -84.5261
+Cutler, 25.6147, -80.3108
+Cutler Ridge, 25.5803, -80.3469
+Cutlers, 28.8625, -82.5831
+Cypress, 30.7131, -85.0739
+Cypress Creek, 30.5733, -82.7942
+Cypress Gardens, 27.9936, -81.6903
+Cypress Harbor, 26.2144, -80.1200
+Cypress Isles Estates, 26.2214, -80.1114
+Cypress Lake Estates, 29.0606, -81.2611
+Cypress Point, 29.6978, -81.5903
+Cypress Quarters, 27.2517, -80.8142

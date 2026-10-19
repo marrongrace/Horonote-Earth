@@ -1,0 +1,199 @@
+Tacoma, 29.5278, -82.3192
+Taft, 28.4294, -81.3653
+Tahitian Gardens, 28.2000, -82.7500
+Tall Palm Landing, 28.9814, -81.3658
+Tallahassee, 30.4381, -84.2808
+Tallahassee Community Hospital, 30.4639, -84.2406
+Tallahassee Memorial Regional Medical Center, 30.4569, -84.2619
+Tallevast, 27.4014, -82.5431
+Talleyrand, 30.4500, -81.5667
+Tallyrand, 30.3594, -81.6328
+Tamarac, 26.1833, -80.2167
+Tamiami, 25.7667, -80.3167
+Tampa, 27.9472, -82.4586
+Tampa Bay Community Hospital, 27.8672, -82.5183
+Tampa General Hospital, 27.9381, -82.4592
+Tampa Heights Hospital, 27.9819, -82.4736
+Tancrede, 27.9567, -81.9731
+Tang-o-Mar Beach, 30.4167, -86.5500
+Tangelo Park, 28.4556, -81.4461
+Tangerine, 28.7647, -81.6308
+Tarpon, 28.0394, -82.5667
+Tarpon Point, 27.0217, -82.2769
+Tarpon Springs, 28.1458, -82.7569
+Tarpon Springs General Hospital, 28.1344, -82.7578
+Tarrytown, 28.5547, -82.0547
+Tatum, 27.3181, -82.4261
+Tavares, 28.8039, -81.7258
+Tavernier, 25.0111, -80.5153
+Taylor, 30.4403, -82.2914
+Tee and Green Estates, 26.9447, -82.0025
+Telegraph Estates, 26.7317, -81.6883
+Telogia, 30.3506, -84.8192
+Temple Terrace, 28.0350, -82.3894
+Temple Terrace Junction, 28.0311, -82.3525
+Tendil Crossing, 30.9639, -85.5797
+Tenile, 30.7314, -87.4644
+Tenille, 29.7833, -83.3333
+Tenmile Corner, 25.6156, -80.8575
+Tennille, 29.7778, -83.3261
+Tensulate, 30.2333, -81.9500
+Tequesta, 26.9667, -80.1000
+Terra Ceia, 27.5792, -82.5806
+Terra Mana, 27.5244, -82.6089
+Terra Mar, 26.2158, -80.0956
+Terrytown, 26.3358, -80.5394
+The Beaches Hospital, 30.2731, -81.4000
+The Cove, 26.3111, -80.0850
+The Jungle, 27.7883, -82.7525
+The Pines, 25.7456, -80.2411
+The Watson Place, 25.7100, -81.2447
+Theressa, 29.8350, -82.0708
+Thomas City, 30.3550, -83.9731
+Thompson, 25.0419, -80.4928
+Thonotosassa, 28.0611, -82.3025
+Thunderbird, 26.6000, -81.8667
+Tibbits Park Palms, 29.7928, -82.0386
+Tice, 26.6744, -81.8153
+Tidewater, 29.1286, -82.5703
+Tierra Verda, 27.7167, -82.7000
+Tiger Bay, 27.7589, -81.8472
+Tildenville, 28.5594, -81.6086
+Tilton, 29.7389, -85.0822
+Tisonia, 30.5342, -81.6214
+Titusville, 28.6119, -80.8078
+Tobacco Patch Landing, 29.4303, -81.9253
+Tocoi, 29.8447, -81.5581
+Tocoi Junction, 29.7833, -81.4333
+Tommytown, 28.3758, -82.2039
+Tomoka Estates, 29.3147, -81.0992
+Tooke Lake Junction, 28.5317, -82.3872
+Torrey, 27.6106, -81.8264
+Towers, 28.6000, -81.3500
+Town and Country Plaza, 30.4333, -87.2500
+Town Park Estates, 25.7544, -80.3517
+Townsend, 30.1289, -83.3394
+Trail Center, 25.8044, -80.8761
+Trailer City, 30.4333, -84.2833
+Trailer Estates, 27.4242, -82.5803
+Trailer Haven, 28.0833, -80.6333
+Trailtown, 25.8556, -81.0233
+Tranquility Park, 28.0083, -81.7456
+Trapnell, 27.9667, -82.1047
+Traxler, 29.8706, -82.5403
+Treasure Hill Park, 30.3239, -87.4067
+Treasure Island(Dade), 25.8500, -80.1333
+Treasure Island(Pinellas), 27.7689, -82.7692
+Trenton, 29.6131, -82.8178
+Tri Par Estates, 27.3833, -82.5333
+Triangle, 28.8000, -81.6500
+Triangle Acres, 28.8000, -81.6500
+Trilby, 28.4622, -82.1950
+Trilcoochee, 28.4636, -82.1833
+Tropic, 28.1642, -80.6161
+Tropic Heights, 26.9500, -82.0000
+Tropic Isle, 26.4350, -80.0681
+Tropical Gulf Acres, 26.8417, -81.9911
+Tropical Shores Manor, 28.8000, -81.7333
+Tropicanna Mobile Manor, 26.6000, -81.8667
+Truck Corner, 28.6917, -81.1797
+Truckland, 26.4986, -81.9681
+Tuckers Corner, 26.8575, -81.7597
+Turkey Creek, 27.9778, -82.1850
+Turkey Foot, 26.0872, -81.0319
+Turkey Landing, 29.2356, -81.9708
+Turnbull, 28.7100, -80.8625
+Turner River, 25.9000, -81.2833
+Tuscanooga, 28.6197, -81.9464
+Twentymile, 30.1264, -81.4219
+Twentymile Bend, 26.6861, -80.3886
+Twin Cities Hospital, 30.5156, -86.4692
+Twin Lake, 28.0167, -82.4500
+Twin Palms, 26.6000, -81.8667
+Twin Pole, 30.1022, -84.8497
+Two Egg, 30.8525, -85.0764
+Tyler, 29.6508, -82.7642
+Tyndall, 30.0833, -85.6167
+Tyndall Air Force Base, 30.1500, -85.6500
+U S A F Hospital, 30.4667, -86.5333
+U S Navy Mine Defense Laboratory, 30.1500, -85.6500
+Uleta, 25.7833, -80.2167
+Umatilla, 28.9292, -81.6658
+Underwood Crossing, 30.9744, -85.5836
+Union Park, 28.5714, -81.2406
+University Community Hospital(Broward), 26.2119, -80.2544
+University Community Hospital(Hillsborough), 28.0697, -82.4233
+University General Hospital, 27.8664, -82.7889
+University Hospital, 30.4417, -87.2328
+University Hospital and Clinic, 30.4417, -87.2328
+University Hospital of Jacksonville, 30.3444, -81.6275
+University of Florida, 29.6667, -82.3333
+University of Miami, 25.7333, -80.2667
+University of Miami Hospital and Clinics, 25.7514, -80.2892
+University of South Florida, 28.0667, -82.4167
+University of Tampa, 27.9333, -82.4833
+University of West Florida, 30.4833, -87.2000
+University Park(Duval), 30.3333, -81.5833
+University Park(Palm Beach), 26.3833, -80.1250
+Upper Key Largo, 25.1333, -80.4167
+Upper Keys, 25.0167, -80.5333
+Upper Langston Landing, 30.2142, -84.6811
+Useppa Island, 26.7500, -82.2667
+Usher, 29.4072, -82.8169
+Usinas Beach, 29.9528, -81.3047
+Utopia, 27.2897, -82.3603
+Valdez, 28.8450, -81.3225
+Valkaria, 27.9633, -80.5439
+Valley Church, 30.7167, -86.1167
+Valley Springs Hospital, 30.7258, -86.1378
+Valparaiso, 30.5119, -86.4939
+Valrico, 27.9456, -82.2581
+Vamo, 27.2217, -82.4981
+Van Horn Landing, 29.8956, -85.0117
+Vanderbilt Beach, 26.2703, -81.7900
+Vanderbilt Park, 25.7986, -80.3586
+Vandolah, 27.5153, -81.9256
+Vaughn, 26.6322, -80.8692
+Vaughn Landing, 30.6281, -81.5733
+Vause Landing, 30.4383, -84.5297
+Venetia, 30.2472, -81.6939
+Venetia Terrace, 30.2361, -81.7181
+Venetian Gardens, 27.1333, -82.4500
+Venetian Islands, 25.8000, -80.1500
+Venice, 27.0994, -82.4544
+Venice Beach, 27.0997, -82.4578
+Venice Beach Park, 27.0667, -82.3333
+Venice East, 27.0567, -82.3786
+Venice Gardens, 27.0728, -82.4078
+Venice Groves, 27.0525, -82.4047
+Venice Hospital, 27.0903, -82.4450
+Venus, 27.0669, -81.3569
+Verdie, 30.4350, -81.9214
+Vereen, 30.2728, -84.2411
+Vermont Heights, 29.8100, -81.3972
+Verna, 27.3869, -82.2683
+Vernon, 30.6228, -85.7122
+Vero Beach, 27.6383, -80.3975
+Vero Beach Highlands, 27.6667, -80.4000
+Vero Beach South, 27.6667, -80.4000
+Vero Lake Estates, 27.7450, -80.5281
+Vero Shores, 27.6667, -80.4000
+Veterans Administration Hospital, 29.6369, -82.3450
+Vicksburg, 30.3256, -85.6647
+Victor, 28.1694, -82.7733
+Victoria Hospital, 25.7764, -80.2100
+Victory Gardens, 25.5667, -80.3667
+Viking, 27.5414, -80.3622
+Vilano Beach, 29.9186, -81.2931
+Vilas, 30.2189, -84.8858
+Villa Rica, 26.3833, -80.0833
+Villa Sabine, 30.3317, -87.1592
+Villa Tasso, 30.4600, -86.3881
+Village Green, 28.3333, -80.7333
+Village Green, 29.6667, -82.3333
+Vineland, 28.3950, -81.5033
+Vinzant Landing, 29.9208, -82.5658
+Virginia Gardens, 25.8100, -80.3025
+Vista, 29.3767, -83.0483
+Vitis, 28.2808, -82.1442
+Volusia, 29.1683, -81.5211

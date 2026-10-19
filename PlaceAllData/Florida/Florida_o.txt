@@ -1,0 +1,135 @@
+O'Brien, 30.0381, -82.9403
+O'Neil, 30.6172, -81.5144
+Oak, 29.2519, -82.1158
+Oak Crest, 29.6000, -82.0833
+Oak Grove(Gulf), 29.7903, -85.2969
+Oak Grove(Escambia), 30.9086, -87.4275
+Oak Grove(Sumter), 28.5997, -82.0436
+Oak Grove(Gadsden), 30.6917, -84.7333
+Oak Grove(Hardee), 27.4819, -81.8717
+Oak Grove(Okaloosa), 30.9247, -86.5675
+Oak Harbor, 30.3600, -81.4250
+Oak Haven, 30.2833, -81.5833
+Oak Hill(Volusia), 28.8642, -80.8547
+Oak Hill(Duval), 30.2461, -81.7514
+Oak Hill Community Hospital, 30.1569, -85.5903
+Oak Hill Park, 30.2447, -81.7781
+Oak Knoll, 27.5114, -82.2778
+Oak Knoll Estates, 30.5236, -84.2664
+Oak Landing, 30.2533, -81.4344
+Oak Park, 30.1022, -84.4958
+Oak Terrace, 27.8389, -81.9775
+Oakdale, 30.7103, -85.1853
+Oakhurst, 27.8833, -82.7667
+Oakland, 28.5547, -81.6333
+Oakland Hills, 28.6167, -81.4167
+Oakland Park(Broward), 26.1719, -80.1322
+Oakland Park(Lake), 28.8036, -81.6775
+Oakland Shores, 28.6333, -81.3667
+Oakwood Villa, 30.3178, -81.5792
+Ocala, 29.1869, -82.1403
+Ocala Ridge, 29.1931, -82.2139
+Ocean Beach, 28.3333, -80.6167
+Ocean Breeze, 27.2500, -80.2167
+Ocean Breeze Park, 27.2356, -80.2208
+Ocean City, 30.4408, -86.6136
+Ocean Ridge, 26.5267, -80.0486
+Ocean View, 25.8333, -80.1333
+Ocean View Heights, 25.7364, -80.2381
+Ocean Vue, 26.3178, -80.0772
+Oceanway, 30.4667, -81.6325
+Ocheesee, 30.5756, -85.0169
+Ocheesee Landing, 30.5819, -84.9661
+Ochlockonee, 30.4722, -84.4069
+Ochopee, 25.9011, -81.3036
+Ocoee, 28.5689, -81.5442
+Octahatchee, 30.5792, -83.1906
+Odena, 29.7400, -85.1864
+Odessa, 28.1936, -82.5919
+Ojus, 25.9481, -80.1508
+Okahumpka, 28.7475, -81.8961
+Okaloo, 30.9156, -86.4861
+Okeechobee, 27.2436, -80.8300
+Okeelanta, 26.6094, -80.7117
+Oklawaha, 29.0425, -81.9294
+Old Callaway, 30.1433, -85.5717
+Old Fernandina, 30.6894, -81.4525
+Old Grove, 25.9586, -81.6089
+Old Henley Place, 28.3978, -82.1422
+Old Land Place, 30.5536, -86.9389
+Old Landing, 29.6911, -84.7903
+Old Marco Junction, 26.0225, -81.7008
+Old Myakka, 27.3128, -82.2669
+Old Plantation Landing, 29.2211, -82.7392
+Old Town, 29.6011, -82.9819
+Old Warehouse Landing, 30.8903, -85.8814
+Oldsmar, 28.0339, -82.6653
+Olga, 26.7186, -81.7125
+Olive, 30.5086, -87.2553
+Olso, 27.5864, -80.3806
+Olustee, 30.2039, -82.4289
+Olympia Heights, 25.7264, -80.3556
+Ona, 27.4817, -81.9192
+Oneco, 27.4472, -82.5464
+Opa-Locka, 25.9019, -80.2506
+Open Air, 27.7833, -82.6667
+Open Sands, 30.2050, -85.8578
+Orange, 30.2275, -85.0250
+Orange Bend, 28.8608, -81.7989
+Orange Blossom, 28.6878, -81.7867
+Orange Blossom Hills, 28.9950, -82.0008
+Orange Blossom Hills South, 28.9281, -81.9483
+Orange City, 28.9486, -81.2989
+Orange City Hills, 28.9286, -81.2964
+Orange Grove Villas, 28.2864, -82.1886
+Orange Hammock, 29.4667, -81.2500
+Orange Heights, 29.7194, -82.1394
+Orange Hill, 30.7833, -85.5333
+Orange Home, 28.8292, -81.9958
+Orange Lake, 29.4167, -82.2167
+Orange Mills, 29.6847, -81.5733
+Orange Mountain, 28.5028, -81.7200
+Orange Park, 30.1658, -81.7067
+Orange Park Landing, 30.1683, -81.6958
+Orange Springs, 29.5058, -81.9456
+Orangedale(Polk), 28.1572, -81.9053
+Orangedale(St Johns), 30.0083, -81.6133
+Orchid, 27.7667, -80.4167
+Orient Park, 27.9722, -82.3731
+Orienta Gardens, 28.6572, -81.3822
+Oriole Beach, 30.3736, -87.0914
+Orlando, 28.5381, -81.3794
+Orlando General Hospital, 28.5392, -81.3261
+Orlando Naval Hospital, 28.5667, -81.3167
+Orlando Regional Medical Center, 28.5256, -81.3772
+Orlovista, 28.5381, -81.4606
+Ormond Beach, 29.2856, -81.0561
+Ormond Beach Memorial Hospital, 29.2922, -81.0447
+Ormond-by-the-Sea, 29.3489, -81.0667
+Orsino, 28.5275, -80.6656
+Ortega, 30.2703, -81.7083
+Ortega Farms, 30.2519, -81.7222
+Ortega Forest, 30.2614, -81.7108
+Ortega Hills, 30.3167, -81.6500
+Ortega Terrace, 30.2639, -81.7008
+Ortona(Volusia), 29.2522, -81.0258
+Ortona(Glades), 26.8128, -81.3158
+Osceola, 28.7928, -81.0594
+Osceola Forest, 30.3833, -81.6833
+Osceola Hospital, 28.2928, -81.4094
+Osceola Landing, 29.2653, -81.9428
+Oslo, 27.5833, -80.3833
+Osowaw Junction, 27.5792, -80.8350
+Osprey, 27.1958, -82.4906
+Osteen, 28.8458, -81.1628
+Otis, 30.3092, -81.8953
+Otter Creek, 29.3247, -82.7719
+Outer West, 25.7833, -80.4000
+Overbrook Gardens, 26.9333, -82.2667
+Overstreet, 29.9981, -85.3689
+Oviedo, 28.6697, -81.2083
+Owl Landing, 30.0181, -85.0161
+Oxford, 28.9272, -82.0375
+Oyster Bayou, 28.2333, -82.7333
+Ozello, 28.8256, -82.6572
+Ozona, 28.0692, -82.7758

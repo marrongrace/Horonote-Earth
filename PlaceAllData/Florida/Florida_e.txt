@@ -1,0 +1,127 @@
+Eagle Island, 27.4419, -80.8436
+Eagle Lake, 27.9781, -81.7567
+Earleton, 29.7500, -82.1000
+Early Bird, 29.2156, -82.3678
+East Alachua, 29.7833, -82.5000
+East Auburndale, 28.0667, -81.7667
+East Avenue, 27.3167, -82.5167
+East Flagler, 29.5333, -81.2333
+East Gate Park, 26.1564, -80.1969
+East Hill, 30.4333, -87.2500
+East Lake Park, 28.0000, -82.4167
+East Liberty, 30.3500, -84.8000
+East Mandarin, 30.1531, -81.6414
+East Marion, 29.2000, -81.8333
+East Milton, 30.6150, -87.0217
+East Mims, 28.6589, -80.8281
+East Mulberry, 27.8944, -81.9653
+East Naples, 26.1381, -81.7667
+East Okeechobee, 27.3000, -80.7500
+East Orange, 28.5500, -81.1833
+East Palatka, 29.6581, -81.5986
+East Pasco Medical Center, 28.2433, -82.1900
+East Pensacola Heights, 30.4286, -87.1800
+East Pointe Hospital, 26.6525, -81.8350
+East Rockland Key, 24.5667, -81.7333
+East Tampa, 27.8642, -82.3803
+East Venice, 27.0667, -82.3333
+East Williston, 29.3833, -82.4500
+East Winter Haven, 28.0333, -81.7000
+Eastbrook, 28.5667, -81.5833
+Eastern Shores, 25.9333, -80.1358
+Eastgate(Manatee), 27.4417, -82.5061
+Eastgate(Sarasota), 27.0972, -82.4214
+Eastgate(Orange), 28.6000, -81.3500
+Eastlake Weir, 29.0200, -81.9083
+Eastpoint, 29.7364, -84.8786
+Eastport, 30.4231, -81.5992
+Eastway Park, 26.2936, -80.0908
+Eastwood, 28.0239, -81.6706
+Eaton Park, 28.0083, -81.9078
+Eatonville, 28.6144, -81.3808
+Eau Gallie, 28.1289, -80.6306
+Ebb, 30.3533, -83.6519
+Ebro, 30.4478, -85.8742
+Econfina, 30.4119, -85.5358
+Econfina Landing, 30.0589, -83.9064
+Ed Fraser Memorial Hospital, 30.2853, -82.1192
+Eddy, 30.5433, -82.3389
+Eden, 27.2764, -80.2431
+Edgar, 29.5947, -81.9508
+Edgeville, 27.3142, -82.1083
+Edgewater, 28.9886, -80.9025
+Edgewater Gulf Beach, 30.1861, -85.8208
+Edgewater Junction, 28.9767, -80.9467
+Edgewood(Duval), 30.3000, -81.6333
+Edgewood(Orange), 28.4858, -81.3725
+Edison, 27.8650, -82.0667
+Edison Center, 25.8333, -80.2014
+Edward H White Memorial Hospital, 27.7847, -82.6622
+Edwards Hospital, 30.4600, -84.2444
+Eggleston Heights, 30.3406, -81.5983
+Eglin, 30.5333, -86.6000
+Eglin Air Force Base, 30.4833, -86.5000
+Eglin Village, 30.4628, -86.5394
+Egypt Lake, 28.0000, -82.5000
+Ehren, 28.2661, -82.4481
+El Destinado, 30.5053, -84.2775
+El Dorado Acres, 26.3333, -81.7833
+El Jobean, 26.9642, -82.2108
+El Portal, 25.8550, -80.1933
+El Rancho Village, 27.4667, -82.5833
+Elbow Landing, 30.8175, -81.9292
+Elder Springs, 28.7408, -81.2933
+Eldora, 28.9089, -80.8200
+Eldorado, 28.7958, -81.8250
+Eldridge, 29.2000, -81.4500
+Electra, 29.1269, -81.8878
+Eleven Mile, 29.7100, -85.1539
+Elfers, 28.2164, -82.7225
+Elkton, 29.7828, -81.4261
+Ellaville(Jackson), 30.9747, -85.3767
+Ellaville(Suwannee), 30.3811, -83.1728
+Ellenton, 27.5214, -82.5278
+Ellerslie, 28.3103, -82.1492
+Ellinor Village, 29.2797, -81.0411
+Ellison Acres, 29.0333, -80.9167
+Ellisville, 30.0036, -82.5975
+Ellsworth Junction, 28.7633, -81.7258
+Ellyson Field, 30.5167, -87.2000
+Ellzey, 29.3108, -82.7936
+Eloise, 27.9944, -81.7383
+Eloise Woods, 28.0028, -81.6967
+Elwood, 29.9986, -81.5433
+Elwood Park, 27.4689, -82.5061
+Emanuel Landing, 28.8786, -81.3619
+Empire Point, 30.3167, -81.6500
+Emporia, 29.1989, -81.4683
+Enchanted Park, 30.2456, -81.7703
+Englewood(Duval), 30.2872, -81.6264
+Englewood(Sarasota), 26.9617, -82.3528
+Englewood Beach, 26.9333, -82.2667
+Englewood Community Hospital, 26.9489, -82.3478
+Englewood Manor, 26.6000, -80.0833
+Enon, 30.7928, -87.5244
+Ensley, 30.5186, -87.2728
+Enterprise, 28.8689, -81.2669
+Eridu, 30.3017, -83.7472
+Errol Estates, 28.9667, -81.6500
+Escambia Farms, 30.9578, -86.6331
+Espanola, 29.5069, -81.3097
+Estero, 26.4378, -81.8069
+Estero River Heights, 26.4333, -81.8167
+Estiffanulga, 30.3081, -85.0325
+Esto, 30.9872, -85.6461
+Ethel, 28.8019, -81.4436
+Eucheeanna, 30.6456, -86.0450
+Euclid, 27.7833, -82.6667
+Eugene, 29.6114, -83.0881
+Eureka, 29.3719, -81.9047
+Eustis, 28.8525, -81.6856
+Eva, 28.3261, -81.8336
+Everglades, 25.8667, -81.3833
+Everglades City, 25.8597, -81.3806
+Everglades Memorial Hospital, 26.8217, -80.6606
+Evergreen, 30.7000, -81.7522
+Evinston, 29.4867, -82.2314
+Ewell, 27.8931, -81.9250

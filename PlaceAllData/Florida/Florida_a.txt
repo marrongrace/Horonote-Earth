@@ -1,0 +1,120 @@
+45th Street Mental Health Center, 26.7214, -80.0503
+A G Holley State Hospital, 26.6603, -80.0494
+A M I Kendall Regional Medical Center, 25.7339, -80.2672
+Abe Springs, 30.3656, -85.1475
+Achan, 27.8592, -81.9686
+Acline, 26.8847, -82.0153
+Acres of Diamond, 28.0833, -80.6333
+Adams, 30.4650, -83.0461
+Adamsville(Sumter), 28.7994, -82.0208
+Adamsville(Hillsborough), 27.8144, -82.3842
+Adare Medical Center, 28.3353, -80.7225
+Agricola, 27.7875, -81.8917
+Airport, 25.8000, -80.2500
+Airport Siding, 30.4500, -81.5667
+Alachua, 29.7956, -82.4944
+Alachua General Hospital, 29.6483, -82.3342
+Aladdin City, 25.5703, -80.4544
+Alafia, 28.0167, -82.1333
+Alamana, 28.9428, -81.1028
+Alameda, 25.7631, -80.2978
+Alaqua, 30.7167, -86.1167
+Alcoma, 27.8947, -81.4825
+Alderene Park, 28.8111, -81.3658
+Alderman Park, 30.3333, -81.5833
+Alexander Springs, 29.0800, -81.5783
+Alford, 30.6936, -85.3922
+All Childrens Hospital, 27.7617, -82.6422
+Allandale, 29.1214, -80.9767
+Allanton, 30.0314, -85.4578
+Allapattah, 25.8142, -80.2242
+Allen Landing, 30.1481, -84.6697
+Allenhurst, 28.7361, -80.7558
+Allentown, 30.7625, -87.0422
+Alliance, 30.6097, -85.1136
+Alligator Lake, 28.2500, -81.2833
+Alligator Point Marina, 30.1833, -84.3833
+Alma, 30.6108, -83.9064
+Alpine, 27.6319, -81.4764
+Alpine Heights, 30.7447, -86.2100
+Alta Vista, 26.9500, -82.0000
+Altamonte Springs, 28.6608, -81.3658
+Altha, 30.5703, -85.1272
+Alton, 30.0528, -83.1381
+Altoona, 28.9656, -81.6489
+Altschul, 30.6167, -84.4167
+Alturas, 27.8714, -81.7153
+Alva, 26.7153, -81.6103
+Amelia City, 30.5900, -81.4575
+American Beach, 30.5747, -81.4442
+Anastasia, 29.8875, -81.2897
+Anclote, 28.1758, -82.7808
+Anclote Acres, 28.2167, -82.7167
+Anclote Manor Hospital, 28.1667, -82.7897
+Andalusia, 29.4997, -81.4850
+Andover Golf Estates, 25.9639, -80.2086
+Andover Lake Estates, 25.9658, -80.2022
+Andrews, 30.7350, -81.9481
+Andytown, 26.1456, -80.4419
+Angel City, 28.3442, -80.6608
+Angler Park, 25.1333, -80.4167
+Anglers Park, 25.1397, -80.3975
+Ankona, 27.3403, -80.2753
+Anna Maria, 27.5308, -82.7336
+Anne Bates Leach Eye Hospital, 25.7908, -80.2431
+Anona, 27.8950, -82.8308
+Anthony, 29.2892, -82.1119
+Antioch, 28.0467, -82.2492
+Apalachicola, 29.7256, -84.9833
+Apollo Beach, 27.7667, -82.4000
+Apopka, 28.6803, -81.5097
+Aqui Esta, 26.9061, -82.0472
+Araquey, 29.9461, -81.3375
+Arcadia, 27.2156, -81.8586
+Arcadia West, 27.6333, -82.1333
+Archbold, 27.1811, -81.3522
+Archer, 29.5297, -82.5192
+Ards Crossroads, 30.9592, -85.6933
+Argyle, 30.7194, -86.0444
+Ariel, 28.9003, -80.8639
+Aripeka, 28.4319, -82.6644
+Arlington(Citrus), 28.8692, -82.3603
+Arlington(Duval), 30.3356, -81.6031
+Arlington Green, 30.3333, -81.5833
+Arlington Heights, 30.3333, -81.5833
+Arlington Park, 26.3067, -80.1072
+Arlingwood, 30.3333, -81.5833
+Armstrong, 29.7619, -81.4481
+Arran, 30.1903, -84.4161
+Arrant Settlement, 30.8592, -85.9742
+Arredondo, 29.6047, -82.4094
+Arundel, 27.0878, -80.2986
+Ashmore, 30.0853, -84.4703
+Ashton, 28.2461, -81.2442
+Ashville, 30.6164, -83.6467
+Aspalaga Landing, 30.6181, -84.9078
+Astatula, 28.7094, -81.7331
+Astor, 29.1622, -81.5256
+Astor Farms, 28.8292, -81.3633
+Astor Park, 29.1533, -81.5722
+Astronaut Trail, 28.6000, -80.8167
+Athena, 29.9878, -83.4944
+Atlantic Beach, 30.3342, -81.3989
+Atlantic Boulevard Estates, 30.3333, -81.5833
+Atlantic Heights, 25.8550, -80.1208
+Atlantis, 26.6167, -80.1000
+Auburn, 30.8200, -86.5378
+Auburndale, 28.0650, -81.7889
+Aucilla, 30.4797, -83.7544
+Audubon, 28.4369, -80.6600
+Aurantia, 28.7278, -80.8878
+Aurora, 28.1356, -80.6850
+Auxiliary Field No 9, 30.4333, -86.6167
+Avalon Beach, 30.5300, -87.1017
+Avoca, 30.5778, -83.0269
+Avon Park, 27.5956, -81.5064
+Avon Park Lakes, 27.6281, -81.5486
+Avondale, 30.3042, -81.7114
+Ayers, 28.4631, -82.4439
+Azalea Park, 28.5408, -81.3008
+Azalea Terrace, 30.2833, -81.5833

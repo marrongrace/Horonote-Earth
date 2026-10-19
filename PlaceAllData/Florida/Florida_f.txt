@@ -1,0 +1,182 @@
+Facil, 30.3656, -82.7917
+Fair Gate, 26.2281, -80.2103
+Fair Oaks Hospital at Boca/Delray, 26.4728, -80.0678
+Fairbanks, 29.7244, -82.2642
+Fairfield(Marion), 29.3667, -82.2514
+Fairfield(Duval), 30.3500, -81.6500
+Fairlane Estates, 28.7531, -81.2969
+Fairlawn, 26.2992, -80.1006
+Fairmont, 30.2833, -81.5833
+Fairview, 30.4511, -82.5189
+Fairview Shores, 28.5908, -81.3944
+Fairvilla, 28.5786, -81.4089
+Fairyland, 28.2333, -80.6667
+Fakahatchee, 25.8681, -81.4894
+Falmouth, 30.3628, -83.1314
+Fanlew, 30.2714, -84.0575
+Fannin, 29.6000, -82.9167
+Farm Hill, 30.6136, -87.3536
+Farmdale, 30.0178, -85.4697
+Farmton, 28.8467, -81.0608
+Fatio, 28.9808, -81.3322
+Faulks Ferry Landing, 30.5711, -86.9344
+Favoretta(Favorita Station), 29.3667, -81.1750
+Favorita, 29.3667, -81.1833
+Fawcett Memorial Hospital, 26.9869, -82.0994
+Fawn Ford, 30.3050, -84.9144
+Federal Point, 29.7478, -81.5444
+Fedhaven, 27.8569, -81.4128
+Felda, 26.5394, -81.4358
+Felicia, 28.9297, -82.3956
+Felkel, 30.5969, -84.1178
+Fellowship, 29.2469, -82.2922
+Fellowship Park, 30.0217, -81.7222
+Fellsmere, 27.7675, -80.6017
+Fenholloway, 30.0772, -83.4969
+Fern Crest Village, 26.0889, -80.2194
+Fern Park, 28.6489, -81.3514
+Fernandina Beach, 30.6694, -81.4628
+Ferndale, 28.6217, -81.7036
+Ferry Pass, 30.5100, -87.2125
+Festus, 30.6014, -83.9689
+Fidelis, 30.9361, -87.0242
+Fiftone, 30.2489, -81.9961
+Fig Tree Landing, 30.1497, -84.2136
+Fincher, 30.6600, -83.9661
+Fish Creek, 29.7861, -83.5722
+Fish Lake, 28.3000, -81.4167
+Fish Memorial Hospital at DeLand, 29.0289, -81.3003
+Fisher Corner, 30.3814, -85.2153
+Fisher Island, 25.8000, -80.1500
+Fishermans Hospital, 24.7100, -81.0944
+Fivay Junction, 28.3236, -82.5186
+Five Points(Washington), 30.7128, -85.7514
+Five Points(Brevard), 28.3667, -80.7500
+Five Points(Columbia), 30.2089, -82.6375
+Flagami, 25.7619, -80.3164
+Flagler(Monroe), 24.5667, -81.7333
+Flagler(Dade), 25.6000, -80.2167
+Flagler Beach, 29.4747, -81.1272
+Flagler Hospital, 29.8822, -81.3072
+Flagler Memorial Hospital, 29.8819, -81.3072
+Flamingo(Monroe), 25.1414, -80.9256
+Flamingo(Orange), 28.3817, -81.3739
+Flamingo Bay, 26.5717, -82.1042
+Flamingo Village, 26.1567, -80.1817
+Flat Landing, 30.8214, -81.9353
+Fleming Heights, 28.5667, -81.4500
+Flemington, 29.4075, -82.2978
+Fletcher, 29.7408, -82.9850
+Fletcher Landing, 29.3506, -83.0589
+Florahome, 29.7325, -81.8836
+Floral Bluff, 30.3428, -81.6081
+Floral City, 28.7500, -82.2969
+Floral Park, 26.6000, -80.0833
+Flordale, 30.3667, -81.6833
+Florence, 30.5936, -84.4828
+Florence Villa, 28.0433, -81.7169
+Floresta, 26.3536, -80.1025
+Floresta Estates, 26.2989, -80.0875
+Florida Alcoholism Treatment Center, 27.5889, -81.5156
+Florida Beach, 30.2008, -85.8514
+Florida City, 25.4475, -80.4794
+Florida Elks Harry-Anna Hospital, 28.9353, -81.6653
+Florida Gardens, 26.6000, -80.0833
+Florida Hills, 28.9464, -81.4256
+Florida Hospital, 28.5722, -81.4842
+Florida Keys Memorial Hospital, 24.5511, -81.7847
+Florida Medical Center Hospital, 26.1622, -80.2292
+Florida Ridge, 27.5833, -80.4167
+Florida Sanitarium, 28.5753, -81.3700
+Florida Southern College, 28.5500, -81.3833
+Floridale, 30.6814, -86.8369
+Floridana Beach, 27.9461, -80.4958
+Floridatown, 30.5811, -87.1547
+Floritan, 27.9031, -81.6247
+Florosa, 30.4167, -86.6500
+Flower Bluff, 29.4833, -82.8667
+Flowers Field Landing, 30.6089, -86.8369
+Flowersville, 30.9536, -86.3383
+Fluffy Landing, 30.4308, -86.1361
+Foley, 30.0692, -83.5308
+Footman, 28.3303, -80.6908
+Fordville, 27.3378, -82.4161
+Forest City, 28.6614, -81.4192
+Forest Grove, 29.7417, -82.5822
+Forest Highlands, 30.7069, -86.3839
+Forest Hills(Lake), 29.0028, -81.4261
+Forest Hills(Hillsborough), 28.0500, -82.4500
+Forest Ridge, 29.6667, -82.3333
+Forrest Hills, 29.3000, -81.0500
+Fort Barrancas, 30.3478, -87.2972
+Fort Basinger, 27.3619, -81.0572
+Fort Brook Landing, 29.5144, -81.9078
+Fort Caroline, 30.3867, -81.5006
+Fort Caroline Club Estates, 30.3333, -81.5833
+Fort Centre, 26.9544, -81.1619
+Fort De Soto, 27.6153, -82.7364
+Fort Drum, 27.5264, -80.8069
+Fort Gadsden, 29.9169, -84.9772
+Fort Gates, 29.4172, -81.6581
+Fort George Island, 30.4028, -81.4303
+Fort Green, 27.6122, -81.9436
+Fort Green Springs, 27.5914, -81.9394
+Fort Hamer, 27.5250, -82.4303
+Fort Jefferson, 24.6275, -82.8731
+Fort King Acres, 28.2617, -82.2000
+Fort Kissimmee, 27.5858, -81.1606
+Fort Lauderdale, 26.1219, -80.1436
+Fort Lauderdale Hospital, 26.1189, -80.1139
+Fort Lonesome, 27.7044, -82.1461
+Fort Mason, 28.8767, -81.7011
+Fort Matanzas, 29.7147, -81.2389
+Fort McCoy, 29.3647, -81.9672
+Fort McRee, 30.3250, -87.3150
+Fort Meade, 27.7519, -81.8019
+Fort Myers, 26.6403, -81.8725
+Fort Myers Beach, 26.4517, -81.9483
+Fort Myers Community Hospital, 26.6428, -81.8542
+Fort Myers Shores, 26.7089, -81.7461
+Fort Myers Villas, 26.5611, -81.8639
+Fort Ogden, 27.0869, -81.9525
+Fort Pierce, 27.4464, -80.3258
+Fort Pierce Beach, 27.3500, -80.3167
+Fort Pierce Shores, 27.3500, -80.3167
+Fort Redoubt, 30.3553, -87.2969
+Fort San Carlos, 30.3469, -87.2969
+Fort Taylor, 24.5475, -81.8100
+Fort Union, 30.4072, -83.0475
+Fort Walton Beach, 30.4056, -86.6189
+Fort Walton Beach Hospital Extended Care, 30.4144, -86.6019
+Fort White, 29.9231, -82.7139
+Fortymile Bend, 25.7611, -80.8272
+Fountain, 30.4786, -85.4197
+Fountain Heights, 27.9931, -81.9567
+Four Corners, 27.9158, -82.7297
+Four Mile Village, 30.3722, -86.3219
+Four Points(Palm Beach), 26.6667, -80.1000
+Four Points(Leon), 30.4000, -84.2808
+Fowler Bluff, 29.3964, -83.0244
+Fox Town, 28.1522, -81.9261
+Foxleigh, 27.4986, -82.4336
+Francis, 29.6342, -81.7081
+Franjo, 25.5792, -80.3364
+Franklin, 29.7481, -85.0281
+Franklintown, 30.5561, -81.4497
+Franwood Pines, 26.4633, -80.1172
+Freemont, 30.6125, -84.4506
+Freeport, 30.4981, -86.1361
+Frink, 30.3683, -85.2142
+Frog City, 25.7597, -80.5992
+Frontenac, 28.4614, -80.7636
+Frostproof, 27.7456, -81.5308
+Fruit Cove, 30.1108, -81.6419
+Fruitland, 29.4269, -81.6439
+Fruitland Park, 28.8611, -81.9067
+Fruitville, 27.3294, -82.4578
+Fuller Heights, 27.9089, -81.9983
+Fullers, 28.5992, -81.5539
+Fullerton, 28.8667, -80.8500
+Fullerville, 29.0086, -81.4544
+Fulton, 30.3000, -81.6333
+Fussells Corner, 28.0694, -81.8503

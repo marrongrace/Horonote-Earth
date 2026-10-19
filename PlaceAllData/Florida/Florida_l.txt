@@ -1,0 +1,264 @@
+L W Blake Memorial Hospital, 27.4842, -82.6239
+La Belle, 26.7614, -81.4386
+La Gorce Island, 25.8000, -80.1500
+La Grange, 28.6361, -80.8306
+LaBuena, 30.2422, -82.0994
+Lackawanna, 30.2947, -81.7614
+Lacoochee, 28.4656, -82.1722
+Lacota, 29.2331, -81.9261
+LaCrosse, 29.8431, -82.4050
+Lady Lake, 28.9172, -81.9231
+Lafayette, 30.4278, -84.2164
+Laguna Beach, 30.2394, -85.9242
+Laird, 30.3139, -85.9186
+Lake Alfred, 28.0917, -81.7236
+Lake Ashby Shores, 28.9392, -81.0944
+Lake Bird, 30.2333, -83.6167
+Lake Bradford, 30.4333, -84.2833
+Lake Brantley, 28.7000, -81.3333
+Lake Buena Vista, 28.5500, -81.3833
+Lake Butler, 30.0225, -82.3397
+Lake Butler Hospital and Hand Surgery, 30.0233, -82.3292
+Lake Cain Hills, 28.4836, -81.4775
+Lake Carroll, 28.0500, -82.5000
+Lake Charm, 28.6733, -81.1983
+Lake City, 30.1894, -82.6394
+Lake City Medical Center, 30.1881, -82.6533
+Lake Clarke Shores, 26.6450, -80.0761
+Lake Community Hospital, 28.8172, -81.8758
+Lake Como, 29.4836, -81.5731
+Lake Fern, 28.1494, -82.5797
+Lake Forest(Duval), 30.3978, -81.6739
+Lake Forest(Broward), 25.9772, -80.1833
+Lake Forest Hills, 30.3911, -81.6903
+Lake Forest Manor, 30.3931, -81.6661
+Lake Frances, 28.8000, -81.7333
+Lake Garfield, 27.8903, -81.7614
+Lake Geneva, 29.7719, -82.0103
+Lake Hamilton, 28.0442, -81.6281
+Lake Harbor, 26.6928, -80.8147
+Lake Helen, 28.9806, -81.2336
+Lake Holloway, 28.0333, -81.9167
+Lake Hospital of the Palm Beaches, 26.6403, -80.0519
+Lake Jackson, 30.5322, -84.3617
+Lake Jem, 28.7461, -81.6672
+Lake Joanna, 28.8500, -81.6833
+Lake Juniata, 28.8000, -81.7333
+Lake Kathryn Estates, 28.6667, -81.3333
+Lake Kathryn Heights, 29.0136, -81.4892
+Lake Kathryn Village, 28.6667, -81.3333
+Lake Lindsey, 28.5333, -82.4833
+Lake Lucerne, 25.9647, -80.2417
+Lake Lucina, 30.3333, -81.5833
+Lake Mack Park, 28.9894, -81.4364
+Lake Magdalene, 28.0667, -82.4667
+Lake Maitland, 28.6167, -81.3833
+Lake Marian Highlands, 27.8761, -81.0431
+Lake Mary, 28.7586, -81.3181
+Lake Maude, 28.0167, -81.7333
+Lake Mendelin Estates, 28.6833, -81.4667
+Lake Monroe, 28.8244, -81.3272
+Lake of the Hills, 27.9550, -81.5947
+Lake Ola, 28.8000, -81.6500
+Lake Panasoffkee, 28.7556, -82.0950
+Lake Park, 26.8000, -80.0667
+Lake Park Estates, 30.3872, -81.6933
+Lake Pasadena Heights, 28.3278, -82.2225
+Lake Placid, 27.2928, -81.3631
+Lake Rogers Isle, 26.3811, -80.0742
+Lake Saunders Trailer Park, 28.8000, -81.6500
+Lake Seminole Hospital, 27.8600, -82.7853
+Lake Ship Heights, 28.0000, -81.7333
+Lake Shore, 30.2808, -81.7261
+Lake Shore Estates, 27.9500, -82.7500
+Lake Shore Hospital, 30.1806, -82.6358
+Lake Sumter Community Hospital, 28.8478, -81.6683
+Lake Tarpon, 27.9500, -82.7500
+Lake Tarpon Mobile Homes, 27.9500, -82.7500
+Lake View Point, 30.4239, -84.5978
+Lake Wales, 27.9011, -81.5861
+Lake Wales Hospital, 27.8961, -81.5664
+Lake Weir, 29.0500, -81.9333
+Lake Worth, 26.6156, -80.0572
+Lakeland, 28.0500, -81.9500
+Lakeland Regional Medical Center, 28.0606, -81.9547
+Lakemont, 27.5428, -81.4539
+Lakeport, 26.9761, -81.1275
+Lakeside, 30.3758, -84.3008
+Lakeview, 26.2992, -80.1603
+Lakewood(Leon), 30.4333, -84.2833
+Lakewood(Duval), 30.2608, -81.6350
+Lakewood(Walton), 30.9883, -86.2819
+Lakewood Park, 27.5428, -80.4025
+Lamont, 30.3769, -83.8131
+Lanair Park, 26.6000, -80.0833
+Lanark, 29.8833, -84.6000
+Lanark Village, 29.8833, -84.5958
+Lancaster, 30.2489, -83.2031
+Land o' Lakes, 28.2186, -82.4578
+Landrum, 28.7547, -82.3850
+Lands End Ranch, 29.5428, -81.9022
+Lane Landing, 29.8572, -81.5531
+Lane Park, 28.7719, -81.7578
+Langmar, 30.3464, -81.7725
+Lansing, 27.2564, -81.8892
+Lantana, 26.5864, -80.0522
+Largo, 27.9092, -82.7875
+Largo Medical Center Hospital, 27.9161, -82.8022
+Larkin General Hospital, 25.7069, -80.2961
+Larsen, 30.2783, -81.6325
+Las Olas General Hospital, 26.1178, -80.1075
+Lauderdale Isles, 26.1000, -80.2000
+Lauderdale Lakes, 26.1661, -80.2086
+Lauderdale-by-the-Sea, 26.1917, -80.0967
+Lauderhill, 26.1400, -80.2136
+Launch Complex 11, 28.4750, -80.5397
+Launch Complex 12, 28.4806, -80.5422
+Launch Complex 13, 28.4858, -80.5447
+Launch Complex 14, 28.4908, -80.5469
+Launch Complex 15, 28.4961, -80.5494
+Launch Complex 16, 28.5014, -80.5519
+Launch Complex 17, 28.4461, -80.5658
+Launch Complex 18, 28.4489, -80.5619
+Launch Complex 19, 28.5064, -80.5544
+Launch Complex 20, 28.5117, -80.5567
+Launch Complex 25, 28.4319, -80.5744
+Launch Complex 26, 28.4431, -80.5717
+Launch Complex 29, 28.4300, -80.5756
+Launch Complex 30, 28.4381, -80.5806
+Launch Complex 31, 28.4511, -80.5553
+Launch Complex 32, 28.4531, -80.5544
+Launch Complex 34, 28.5214, -80.5614
+Launch Complex 36A, 28.4714, -80.5381
+Launch Complex 36B, 28.4681, -80.5411
+Launch Complex 37, 28.5303, -80.5675
+Launch Complex 39A, 28.6078, -80.6042
+Launch Complex 39B, 28.6244, -80.6214
+Launch Complex 40, 28.5619, -80.5772
+Launch Complex 41, 28.5833, -80.5833
+Launch Complex 5, 28.4392, -80.5736
+Launch Complex 6, 28.4406, -80.5728
+Laurel, 27.1300, -82.4533
+Laurel Grove, 30.1553, -81.7014
+Laurel Hill, 30.9656, -86.4597
+Laurel Park, 30.4333, -87.2500
+Lawhons Mill, 30.1661, -84.4022
+Lawnwood Medical Center, 27.3983, -80.3403
+Lawtey, 30.0439, -82.0719
+Layton, 24.8236, -80.8139
+Lazy Lake, 26.1558, -80.1450
+Lealman(Lellman Station), 27.8208, -82.6794
+Lebanon, 29.1000, -82.6333
+Lecanto, 28.8514, -82.4878
+Lee, 30.4194, -83.3006
+Lee Cypress, 25.9439, -81.3631
+Lee Memorial Hospital, 26.6267, -81.8739
+Leesburg, 28.8106, -81.8781
+Leesburg Regional Medical Center, 28.8081, -81.8686
+Lehigh Acres, 26.6250, -81.6250
+Leisure City, 25.4950, -80.4294
+Leland, 30.6103, -83.3256
+Lely Golf Estates, 26.1833, -81.8000
+Lely Tropical Estates, 26.1833, -81.8000
+Lelyland, 26.1833, -81.8000
+Lemon Bluff, 28.8061, -81.1322
+Lemon City, 25.8300, -80.1931
+Lemon Grove, 27.5581, -81.6783
+Leno, 29.8894, -81.6408
+Leon, 30.4667, -84.3000
+Leon Hamilton Place, 25.5211, -81.2061
+Leonards, 30.4800, -85.1047
+Leonia, 30.9167, -86.0167
+Leonton, 30.5500, -83.8667
+Leroy, 29.1342, -82.3297
+Lessie, 30.7250, -81.7772
+Leto, 28.0000, -82.5167
+Lewis, 30.2136, -85.0592
+Libby Heights, 29.6667, -82.3333
+Liberty(Liberty), 30.2817, -84.8417
+Liberty(Walton), 30.8203, -86.2136
+Liberty Point, 26.8111, -80.9864
+Liberty Square, 25.8314, -80.2169
+Lido Beach, 27.7500, -82.7000
+Lighthouse Point(Broward), 26.2753, -80.0875
+Lighthouse Point(Martin), 27.2019, -80.2736
+Lily, 27.3661, -81.9658
+Limestone(Hardee), 27.3653, -81.8992
+Limestone(Jefferson), 30.3511, -84.0281
+Limona, 27.9453, -82.3042
+Lincoln, 25.8000, -80.1500
+Lincoln City, 29.9500, -82.1000
+Lincoln Estates, 29.6397, -82.3011
+Lincoln Hospital, 27.9750, -82.4283
+Lincoln Park, 28.6533, -82.1083
+Linda Loma, 26.6000, -81.8667
+Linden, 28.5617, -82.0342
+Lindgren, 25.6003, -80.4297
+Lisbon, 28.8703, -81.7897
+Lisenby Hospital, 30.1681, -85.6819
+Lithia, 27.8500, -82.1750
+Little Harbor on the Hillsbo, 26.3172, -80.0883
+Little Lake City, 29.8261, -82.8919
+Little River, 25.8472, -80.1928
+Little Torch Key, 24.7500, -81.3333
+Littman, 30.5919, -84.5144
+Live Oak(Washington), 30.5794, -85.8647
+Live Oak(Suwannee), 30.2947, -82.9842
+Live Oak Island, 30.0617, -84.2769
+Live Oak Point, 30.1833, -84.3833
+Lloyd, 30.4772, -84.0219
+Loch Lommond, 29.8014, -82.0136
+Lochloosa, 29.5114, -82.1006
+Lock Arbor, 28.7864, -81.3164
+Lockhart, 28.6192, -81.4428
+Lockwood Ridge, 27.3167, -82.5167
+Log Landing, 29.7458, -82.9372
+Lois, 30.5261, -83.9158
+Lokosee, 27.7553, -80.9122
+Lona, 30.2000, -82.7333
+Londonderry, 28.5667, -81.4500
+Long Beach Resort, 30.1792, -82.8083
+Long Branch, 30.3725, -82.6933
+Long Hammock, 28.9269, -82.1033
+Long Key, 24.8167, -80.8167
+Long Point, 30.1150, -85.5981
+Longbeach, 27.4369, -82.6833
+Longboat Key, 27.4122, -82.6592
+Longdale, 28.7108, -81.3339
+Longwood(Okaloosa), 30.4606, -86.5886
+Longwood(Seminole), 28.7028, -81.3386
+Loretto, 30.1569, -81.5950
+Lorida, 27.4431, -81.2539
+Lorraine, 27.4317, -82.3956
+Los Trancos Woods, 29.6997, -82.4928
+Lottieville, 29.6119, -82.8981
+Lotus, 28.2472, -80.6569
+Loughman, 28.2417, -81.5669
+Louise, 29.8372, -82.2314
+Lovedale, 30.8797, -85.0431
+Loveridge Heights, 28.1667, -80.6333
+Lovett, 30.6281, -83.5733
+Lovewood, 30.8000, -85.3667
+Lowell, 29.3303, -82.1917
+Lower Boca Ciega, 27.7500, -82.7333
+Lower Clay Landing, 29.4619, -82.9900
+Lower Key Memorial Hospital, 24.5803, -81.7428
+Lower Keys, 24.6167, -81.6500
+Lower Langston Landing, 30.1286, -84.6714
+Lowry, 30.4244, -84.7761
+Loxahatchee, 26.6833, -80.2800
+Loyce, 28.3803, -82.4867
+Lucerne Park, 28.0808, -81.6756
+Ludlam, 25.7333, -80.3000
+Lullwater Beach, 30.1500, -85.6500
+Lulu, 30.1072, -82.4914
+Lumberton, 28.2658, -82.1367
+Lundy, 29.6181, -81.6478
+Luraville, 30.1222, -83.1694
+Lutterloh, 30.3283, -84.2531
+Lutz, 28.1508, -82.4617
+Lykes Memorial Hospital, 28.5500, -82.3994
+Lyle Corner, 27.9128, -81.8697
+Lynchburg, 28.0878, -81.7553
+Lynn Haven, 30.2453, -85.6483
+Lynne, 29.1922, -81.9175

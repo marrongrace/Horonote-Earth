@@ -1,0 +1,228 @@
+H H Raulerson Junior Memorial Hospital, 27.2472, -80.8322
+Habor Bluffs, 27.9064, -82.8253
+Hacienda Village, 26.0850, -80.2014
+Hague, 29.7703, -82.4214
+Haile, 29.6903, -82.5736
+Haines City, 28.1139, -81.6181
+Hainesworth, 29.8194, -82.4447
+Half Moon, 29.6500, -82.6000
+Halifax Estates, 29.1472, -80.9669
+Halifax Hospital, 29.2006, -81.0539
+Halifax Hospital Medical Center, 29.2006, -81.0539
+Hall City, 26.8781, -81.3267
+Hallandale, 25.9808, -80.1486
+Halsema, 30.3122, -81.8653
+Hamburg, 30.5656, -83.5269
+Hamilton, 26.2500, -80.1500
+Hammond, 29.4333, -81.5167
+Hammondville, 26.2442, -80.2014
+Hampton, 29.8642, -82.1311
+Hampton Beach, 29.8714, -82.1669
+Hampton Springs, 30.0853, -83.6550
+Hancock, 29.7897, -81.6314
+Hanson, 30.5514, -83.3672
+Happy Valley, 30.9811, -87.2483
+Harbinwood Estates, 30.5142, -84.3353
+Harbor Beach, 26.1056, -80.1158
+Harbor Bluffs, 27.8833, -82.7667
+Harbor East, 26.3758, -80.0739
+Harbor Heights, 26.0969, -80.1128
+Harbor Oaks, 29.1078, -80.9692
+Harbor Palms, 28.0433, -82.6922
+Harbor Point, 29.2167, -81.0333
+Harbor Shores, 28.8689, -81.7458
+Harbor View(Duval), 30.3981, -81.7161
+Harbor View(Dade), 25.9097, -80.2250
+Harbor View(Charlotte), 26.9689, -82.0414
+Harbor Village, 26.2375, -80.0958
+Harborside Hospital, 27.7897, -82.6525
+Harbour Heights, 26.9906, -82.0025
+Hardaway, 30.6333, -84.7333
+Hardee Memorial Hospital, 27.5481, -81.8097
+Hardeetown, 29.4914, -82.8639
+Hardin Heights, 30.6742, -84.8386
+Hardway, 30.6303, -84.7356
+Harker, 26.3431, -81.3436
+Harlem, 26.7372, -80.9511
+Harlem Heights, 28.5100, -81.6208
+Harney, 28.0147, -82.3747
+Harold, 30.6589, -86.8803
+Harp, 30.5603, -87.1081
+Harper, 30.4453, -86.8792
+Harrisburg, 26.9289, -81.3172
+Harrison, 28.9758, -82.4069
+Hart Haven, 30.3253, -81.7647
+Harvey Heights, 26.6000, -81.8667
+Hasan, 29.8586, -82.4381
+Hastings, 29.7178, -81.5083
+Hatchbend, 29.8469, -82.9183
+Hathaway Mill, 30.8136, -85.8014
+Havana, 30.6236, -84.4147
+Haven Beach, 27.9000, -82.8500
+Haverhill, 26.6908, -80.1203
+Hawkins Shop Landing, 30.8089, -81.9614
+Hawley Heights, 25.6608, -80.3447
+Hawthorne, 29.5917, -82.0875
+Haynes, 30.8683, -84.9575
+Hays Place, 29.8408, -84.9458
+HCA Highland Park Hospital, 25.7911, -80.2089
+Heart of Florida Hospital, 28.1111, -81.6242
+Hedges, 30.5989, -81.5986
+Heilbron Springs, 29.9500, -82.1000
+Heilbronn, 30.0189, -82.1508
+Helen, 30.3072, -84.4000
+Hell Gate, 26.9764, -80.0867
+Hen Scratch, 27.3122, -81.4686
+Henderson Landing, 30.5097, -81.5581
+Henderson Mill, 30.5678, -85.0697
+Hendry General Hospital, 26.7519, -80.9467
+Hendry Hospital, 26.7528, -80.9414
+Hercules, 30.2333, -81.9500
+Hermitage, 28.2333, -80.6000
+Hernando, 28.9006, -82.3747
+Herndon, 28.5500, -81.3833
+Hero, 30.6169, -81.6561
+Hesperides, 27.8839, -81.4592
+Hialeah, 25.8572, -80.2783
+Hialeah Estates, 25.8575, -80.2914
+Hialeah Gardens, 25.8647, -80.3247
+Hialeah Hospital, 25.8450, -80.2689
+Hialeah Lakes, 25.9000, -80.3000
+Hibernia, 30.0650, -81.6978
+Hibiscus Mobile Park, 28.8000, -81.6500
+Hickory Hill, 30.8219, -85.9250
+Hickory Landing, 29.9883, -85.0142
+Hicoria, 27.1511, -81.3531
+Hidden River, 27.2986, -82.2625
+High Bluff, 29.8192, -84.8253
+High Bluff Landing, 30.4564, -84.4983
+High Point, 27.9142, -82.7056
+High Ridge Estates, 26.2119, -80.1158
+High Springs, 29.8267, -82.5969
+Highland, 30.1122, -82.0458
+Highland Beach, 26.3992, -80.0658
+Highland City, 27.9650, -81.8781
+Highland Court Manor, 29.6667, -82.3333
+Highland Lakes(Dade), 25.9681, -80.1633
+Highland Lakes(Highlands), 27.6336, -81.5219
+Highland Park(Polk), 27.8647, -81.5619
+Highland Park(Seminole), 28.7925, -81.2711
+Highland Park(Pinellas), 27.8833, -82.7667
+Highland Park General Hospital, 25.7933, -80.2100
+Highland View, 29.8378, -85.3158
+Highlands(Duval), 30.4253, -81.6781
+Highlands(Broward), 26.2833, -80.1500
+Highlands Park Estates, 27.3111, -81.3203
+Highlands Regional Medical Center, 27.4656, -81.4333
+Hiland Park, 30.2008, -85.6269
+Hilden, 30.0656, -81.4403
+Hildreth, 29.9525, -82.8056
+Hill N Dale, 28.5333, -82.4833
+Hillcoat, 30.4722, -82.9092
+Hillcrest Heights, 27.8208, -81.5308
+Hilldale, 28.0000, -82.5000
+Hilliard, 30.6908, -81.9175
+Hilliardville, 30.2875, -84.3994
+Hillsboro Beach, 26.2936, -80.0792
+Hillsborough County Hospital, 28.0022, -82.4272
+Hilolo, 27.4489, -80.7714
+Hines, 29.7392, -83.2367
+Hinson, 30.6472, -84.4167
+Hinsons Cross Roads, 30.6686, -85.8425
+Hobbs Crossroads, 30.9153, -85.9600
+Hobe Sound, 27.0592, -80.1367
+Hodgson, 29.4036, -82.4561
+Hog Valley, 29.4942, -81.8956
+Hogan, 30.2911, -81.5819
+Holden Heights, 28.5167, -81.4000
+Holder(Ladonia Station), 28.9667, -82.4208
+Holiday, 28.1875, -82.7397
+Holiday Gardens, 28.2000, -82.7333
+Holiday Harbor, 30.3047, -81.4439
+Holiday Heights, 25.1333, -80.4167
+Holiday Hills, 28.2333, -82.7500
+Holiday Manor, 28.1589, -81.6864
+Holiday Plaza, 30.1500, -85.6500
+Holland, 30.4275, -84.5328
+Holland Crossroads, 30.9653, -85.6467
+Holley, 30.4467, -86.9069
+Hollingsworth Bluff, 29.8689, -82.7431
+Hollister, 29.6225, -81.8139
+Holly Ford, 30.4111, -81.6536
+Holly Hill, 29.2433, -81.0378
+Holly Point, 30.1553, -81.6961
+Hollywood, 26.0108, -80.1497
+Hollywood Beach, 30.2539, -85.9569
+Hollywood Beach Gardens, 26.0136, -80.2039
+Hollywood Hills, 26.0167, -80.1833
+Hollywood Medical Center, 26.0036, -80.1306
+Hollywood Pavilion, 26.0189, -80.1800
+Hollywood Ridge Farms, 25.9750, -80.1944
+Hollywood Seminole Indian Reservation, 26.0167, -80.2167
+Holmes Beach, 27.4972, -82.7092
+Holmes Valley, 30.5767, -85.7431
+Holmes West, 30.8667, -85.9333
+Holopaw, 28.1356, -81.0764
+Holt, 30.7156, -86.7458
+Holy Cross Hospital, 26.1867, -80.1203
+Homeland, 27.8175, -81.8247
+Homer Landing, 30.5900, -81.5583
+Homestead, 25.4683, -80.4778
+Homestead Air Force Base, 25.5000, -80.4000
+Homestead Ridge, 30.5014, -84.1203
+Homosassa, 28.7811, -82.6153
+Homosassa Springs, 28.8033, -82.5761
+Honeyville, 30.0578, -85.1900
+Honore, 27.2425, -82.2633
+Hontoon Landing, 28.9758, -81.3606
+Hooker Point, 26.7397, -80.9169
+Hoover Mill, 30.8694, -85.6861
+Hopewell(Madasion), 30.4667, -83.4167
+Hopewell(Hillsborough), 27.9283, -82.1239
+Hopkins, 28.0833, -80.6333
+Hopkins Landing, 30.4150, -84.6353
+Horizon Hospital, 27.7531, -82.6789
+Hornsville, 30.9411, -85.0036
+Horse Landing, 29.5408, -81.7064
+Horseshoe Beach, 29.4411, -83.2875
+Hosford, 30.3864, -84.7981
+Houston, 30.2567, -82.9028
+Howard, 25.6469, -80.3344
+Howell Place, 29.7714, -83.5083
+Howey Height, 28.6658, -81.7311
+Howey In The Hills, 28.7167, -81.7736
+Hoyt, 29.1656, -82.3978
+HSA Gulf Coast Hospital, 30.4053, -86.6211
+Hubs Landing, 28.5886, -80.6836
+Huckleberry Landing, 29.7694, -85.0844
+Hucomer, 28.9367, -80.8886
+Hudson(Holmes), 30.8622, -85.9433
+Hudson(Pasco), 28.3642, -82.6936
+Hugh, 30.1656, -82.0331
+Hulaw, 30.7792, -85.5583
+Hull, 27.1189, -81.9425
+Humana Hospital, 25.9828, -80.1944
+Humana Hospital Bennett, 26.1231, -80.2597
+Humana Hospital Biscayne, 25.8792, -80.1689
+Humana Hospital Brandon, 27.9322, -82.2881
+Humana Hospital Cypress, 26.2267, -80.1419
+Humana Hospital Daytona Beach, 29.2181, -81.0453
+Humana Hospital Fort Walton Beach, 30.4131, -86.6125
+Humana Hospital Kissimmee, 28.2928, -81.4094
+Humana Hospital Lucerne, 28.5389, -81.4150
+Humana Hospital Northside, 27.8239, -82.6642
+Humana Hospital Orange Park, 30.1656, -81.7125
+Humana Hospital Palm Beaches, 26.7006, -80.0531
+Humana Hospital Pasco, 28.3606, -82.1986
+Humana Hospital Saint Petersburg, 27.8064, -82.7228
+Humana Hospital South Broward, 25.9844, -80.1403
+Humana Hospital Sun Bay, 27.7678, -82.6425
+Humana Womens Hospital Tampa, 27.9800, -82.4919
+Hunter, 29.6064, -81.7633
+Huntington, 29.4403, -81.5528
+Hurlburt, 30.4167, -86.6833
+Hurst Landing, 30.4600, -87.4092
+Hyde Grove, 30.2842, -81.7594
+Hyde Park(Wakulla), 30.1500, -84.2667
+Hyde Park(Duval), 30.2803, -81.7489
+Hypoluxo, 26.5661, -80.0536

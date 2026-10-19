@@ -1,0 +1,273 @@
+Mabel, 28.5792, -81.9772
+Macclenny, 30.2819, -82.1222
+MacDill Air Force Base, 27.8500, -82.5000
+Mack Bayou, 30.3833, -86.2333
+Madeira Beach, 27.7978, -82.7975
+Madison, 30.4692, -83.4131
+Madison County Memorial Hospital, 30.4536, -83.4119
+Magnet Cove, 30.6167, -84.4167
+Magnolia Beach, 30.1583, -85.7239
+Magnolia Bluffs, 29.7347, -84.9000
+Magnolia Gardens, 30.3775, -81.7033
+Magnolia Landing, 29.9111, -81.5922
+Magnolia Springs, 30.0117, -81.6956
+Mainland, 29.3000, -81.0500
+Maitland(Lake Maitland), 28.6275, -81.3633
+Malabar, 28.0033, -80.5658
+Malone, 30.9575, -85.1622
+Manalapan, 26.5689, -80.0450
+Manasota, 27.0150, -82.4028
+Manasota Beach, 27.0103, -82.4128
+Manasota Key, 26.9333, -82.2667
+Manatee, 27.4961, -82.5397
+Manatee Memorial Hospital, 27.4972, -82.5617
+Mandarin, 30.1603, -81.6594
+Mango, 27.9794, -82.3067
+Mango Hills, 27.9922, -82.2947
+Mangonia Park, 26.7600, -80.0739
+Manhattan, 27.5072, -82.3189
+Manhattan Beach, 30.3667, -81.3989
+Manning, 30.1750, -82.1747
+Manns Spur, 30.2344, -82.3197
+Mannville, 29.6286, -81.8683
+Manor Oaks Hospital, 26.1825, -80.1186
+Marathon, 24.7133, -81.0906
+Marathon Shores, 24.7253, -81.0486
+Maravilla, 27.3500, -80.3167
+Marco, 25.9722, -81.7292
+Marcy, 27.1419, -80.6522
+Margaretta, 30.2653, -82.2208
+Margate, 26.2442, -80.2067
+Margate Estates, 26.2225, -80.2000
+Marianna, 30.7742, -85.2269
+Maricamp, 29.1622, -82.0925
+Marietta, 30.3189, -81.7833
+Marineland, 29.6667, -81.2167
+Mariners Hospital, 25.0142, -80.5139
+Marion, 30.4411, -82.9467
+Marion Community Hospital, 29.1761, -82.1386
+Marion Oaks, 29.1833, -82.1500
+Marland, 27.3389, -81.2408
+Mart Law Seminole Village, 25.9442, -80.8186
+Martel, 29.1864, -82.2467
+Martin, 29.2936, -82.1906
+Martin Memorial Hospital, 27.1900, -80.2464
+Mary Esther, 30.4097, -86.6631
+Masaryktown, 28.4414, -82.4572
+Mascotte, 28.5781, -81.8869
+Mason, 30.0397, -82.5981
+Mason Landing, 30.6419, -86.7861
+Masters Landing, 26.5600, -82.0797
+Matanzas, 29.8167, -81.3000
+Matlacha, 26.6294, -82.0711
+Matoaka, 27.4028, -82.5303
+Mattox, 30.2931, -82.0400
+Maxcy Quarters, 27.7147, -81.5464
+Maxville, 30.1983, -82.0111
+Mayo, 30.0528, -83.1750
+Mayo Junction, 30.2056, -83.2667
+Mayo West, 30.1333, -83.2667
+Mayport, 30.3931, -81.4308
+Mayport Naval Housing, 30.3833, -81.4167
+Mayport Naval Station, 30.3167, -81.6500
+Maysland, 30.5961, -83.5725
+Maytown, 28.8069, -80.9603
+McAllaster Landing, 30.3319, -85.5575
+McAllister, 29.3333, -82.2000
+McAlpin, 30.1389, -82.9519
+McAlpin Landing, 30.3617, -82.6756
+McCoy Air Force Base, 28.4333, -81.3500
+McCrabb Landing, 29.6708, -82.9600
+McDavid, 30.8661, -87.3197
+McGregor Gardens, 26.6000, -81.8667
+McGregor Groves, 26.6000, -81.8667
+McIntosh, 29.4486, -82.2222
+McIntyre, 29.9811, -84.5261
+McKenzie Landing, 30.8164, -81.9050
+McKinnon, 30.7889, -87.4733
+McLellan, 30.9864, -86.8864
+McMeekin, 29.5950, -82.0131
+McNeal, 30.4283, -85.0328
+McPherson, 30.2475, -82.0803
+McRae, 29.7833, -82.0333
+Meadowbrook(Clay), 30.1333, -81.7000
+Meadowbrook(Orange), 28.5667, -81.4500
+Meadowbrook Terrace, 30.1772, -81.7347
+Mease Hospital and Clinic, 28.0114, -82.7703
+Mease Hospital Countryside, 28.0133, -82.7831
+Mecca, 28.8000, -81.2500
+Medart, 30.0825, -84.3872
+Medfield Center, 27.8894, -82.7867
+Medical Center Hospital, 26.9406, -82.0406
+Medley, 25.8403, -80.3267
+Medulla, 27.9675, -81.9736
+Melaleuca Isle, 26.1167, -80.2167
+Melbourne, 28.0786, -80.6028
+Melbourne Beach, 28.0681, -80.5606
+Melbourne Gardens, 28.0833, -80.6333
+Melbourne Shores, 28.0833, -80.6000
+Melbourne Village, 28.0850, -80.6667
+Meldrim Park, 29.8867, -81.5614
+Melrose, 29.7092, -82.0500
+Melrose Park(Broward), 26.1333, -80.2000
+Melrose Park(Columbia), 30.2833, -81.4000
+Memorial Hospital(Sarasota), 27.3183, -82.5336
+Memorial Hospital(Leon), 30.4572, -84.2614
+Memorial Hospital(Broward), 26.0189, -80.1806
+Memorial Hospital(Levy), 29.3839, -82.4550
+Memorial Hospital of Tampa, 27.9367, -82.4911
+Memorial Medical Center of Jacksonville, 30.2658, -81.6178
+Memorial Regional Rehabilitation Center, 30.2650, -81.6222
+Memphis, 27.5356, -82.5614
+Memphis Heights, 27.5364, -82.5544
+Mercer, 30.2769, -83.1142
+Mercy Hospital(Dade), 25.7397, -80.2164
+Mercy Hospital(Pinellas), 27.7567, -82.6625
+Meredith Manor, 28.7000, -81.3333
+Merediths, 29.4783, -82.6031
+Meridan, 30.4333, -84.2833
+Meridian, 30.6383, -84.2819
+Meritt Landing, 30.7850, -86.6303
+Merritt Island, 28.3500, -80.7000
+Methodist Hospital, 30.3453, -81.6378
+Metropolitan General Hospital, 27.8472, -82.7300
+Mexico Beach, 29.9478, -85.4181
+Miami, 25.7739, -80.1939
+Miami Beach, 25.7903, -80.1303
+Miami Childrens Hospital, 25.7339, -80.3269
+Miami Gardens, 25.9794, -80.2028
+Miami General Hospital(North Dade), 25.9314, -80.2097
+Miami General Hospital(Downtown), 25.7664, -80.1928
+Miami Heart Institute, 25.8225, -80.1311
+Miami Jewish Home and Hospital for the Aged, 25.8228, -80.1856
+Miami Lakes, 25.9000, -80.3000
+Miami Shores, 25.8628, -80.1931
+Miami Springs, 25.8219, -80.2897
+Micanopy, 29.5044, -82.2800
+Micanopy Junction, 29.5222, -82.2306
+Micco, 27.8803, -80.5006
+Miccosukee, 30.5944, -84.0414
+Mickler Landing, 30.1614, -81.3561
+Middle Keys, 24.7667, -80.9500
+Middle River, 26.1636, -80.1672
+Middle River Manor, 26.1564, -80.1233
+Middle River Vista, 26.1506, -80.1572
+Middleburg, 30.0686, -81.8606
+Midway(Gadsden), 30.4953, -84.4544
+Midway(Hillsborough), 28.0656, -82.0969
+Midway(Seminole), 28.7900, -81.2311
+Midway(Lafayette), 30.0117, -83.0789
+Midway West, 25.8500, -80.2500
+Mikesville, 29.9464, -82.6022
+Mildred, 27.2831, -80.9325
+Miles City, 26.1539, -81.3447
+Military Park, 26.7161, -80.1131
+Millcreek, 29.8000, -81.2667
+Miller, 29.9675, -82.4661
+Miller Bend, 30.4731, -85.8850
+Miller Crossroads, 30.9492, -85.7417
+Miller Landing, 30.4722, -85.8892
+Millers Ferry, 30.5722, -85.8444
+Millers Public Landing, 30.5394, -84.3264
+Milligan, 30.7522, -86.6408
+Millspring, 30.7167, -85.0167
+Milltown, 29.8325, -85.2972
+Millview, 30.4178, -87.3561
+Millville, 30.1511, -85.6306
+Milton, 30.6322, -87.0397
+Mims, 28.6650, -80.8450
+Mineral Springs, 30.9500, -87.1500
+Minneola, 28.5742, -81.7464
+Mintons Corner, 28.0783, -80.6708
+Miracle Mile, 26.6000, -81.8667
+Miramar, 25.9869, -80.2325
+Miramar Beach, 30.3742, -86.3586
+Miramar Terrace, 30.2794, -81.6586
+Mission City, 29.0214, -80.9469
+Missouri Landing, 29.9139, -84.9861
+Mitchell Beach, 27.7872, -82.7853
+Mitchell Lake Estates, 25.9056, -80.2281
+Mobile Haven Estates, 26.6000, -81.8667
+Mobile Home Park, 27.3167, -82.5167
+Mobile Manor, 28.7000, -81.3333
+Moccasin Landing, 29.5394, -81.5553
+Modello, 25.5022, -80.4433
+Moffitt, 27.4544, -81.7969
+Mohawk, 28.5719, -81.7300
+Molasses Junction, 29.8508, -81.4939
+Molino, 30.7239, -87.3142
+Molino Crossroads, 30.7178, -87.3389
+Monet, 26.8378, -80.0944
+Money Bayou, 29.8000, -85.3000
+Monkey Box, 26.9328, -81.0561
+Monroe, 25.9000, -81.2833
+Monroe General Hospital, 24.5728, -81.7489
+Monroes Corner, 29.0253, -82.1200
+Montague, 29.1503, -82.0750
+Montbrook, 29.3269, -82.4506
+Montclair, 28.8217, -81.9164
+Monteocha, 29.7961, -82.2856
+Monterey, 30.3333, -81.5833
+Monticello, 30.5450, -83.8703
+Montivilla, 30.5475, -83.8886
+Montverde, 28.6000, -81.6742
+Montverde Junction, 28.5619, -81.6825
+Moore Haven, 26.8328, -81.0933
+Moreland Park, 28.8892, -82.0419
+Morgan Place, 30.0097, -84.7556
+Morgantown, 27.0058, -81.9678
+Moriczville, 28.1192, -82.1500
+Morningside Park, 28.4431, -81.4069
+Morrison Home, 26.6667, -80.1000
+Morriston, 29.2814, -82.4381
+Morrow Memorial Hospital, 28.0686, -81.7933
+Morse Shores, 26.6500, -81.8333
+Morton F Plant Hospital, 27.9525, -82.8033
+Mosley Hall, 30.4667, -83.6333
+Mosquito Grove, 29.0631, -81.4567
+Mosquito Landing, 30.2761, -85.0569
+Moss Bluff, 29.0831, -81.8839
+Moss Town, 28.4589, -82.1806
+Mossy Head, 30.7431, -86.3150
+Mott, 26.6892, -80.8686
+Moultrie, 29.8200, -81.3228
+Moultrie Junction, 29.8911, -81.3347
+Mound Grove, 29.4019, -81.1131
+Mound Park Hospital, 27.7631, -82.6425
+Mount Carmel, 30.9808, -87.1186
+Mount Carrie, 30.1950, -82.5039
+Mount Dora, 28.8022, -81.6447
+Mount Enon, 28.0369, -82.0725
+Mount Homer, 28.8286, -81.7008
+Mount Olive, 29.2014, -82.2850
+Mount Pine, 30.1633, -82.9544
+Mount Pleasant, 30.6572, -84.6911
+Mount Plymouth, 28.8078, -81.5333
+Mount Royal, 29.4833, -81.6833
+Mount Sinai Hospital(Dade), 25.8133, -80.1400
+Mount Sinai Medical Center, 25.8133, -80.1400
+Mountain Lake, 27.8833, -81.5667
+Mountain Lake Station, 27.9494, -81.5953
+Muce, 26.8275, -81.4961
+Mud Landing, 29.9983, -84.4350
+Muddy Ford, 30.4594, -86.8950
+Mulat, 30.5511, -87.1233
+Mulberry, 27.8950, -81.9736
+Mullet Lake Park, 28.7889, -81.1386
+Mullinsville, 27.7500, -81.5333
+Mullis City, 28.0397, -82.5092
+Mulloy Landing, 30.3386, -83.9850
+Munroe Regional Medical Center, 29.2044, -82.1453
+Munson, 30.8575, -86.8731
+Munson Island, 24.5667, -81.7333
+Murdock, 27.0125, -82.1464
+Murray Hill, 30.3122, -81.7103
+Muscogee, 30.6056, -87.3967
+Muscogee Landing, 30.2872, -85.0517
+Myakka City, 27.3494, -82.1617
+Myakka Head, 27.4678, -82.0758
+Myakka River Manor, 27.0667, -82.3333
+Myerlee, 26.6000, -81.8667
+Myrtis, 30.0653, -82.6003
+Myrtle Grove, 30.4208, -87.3075
+Myrtle Island, 29.5853, -81.4414

@@ -1,0 +1,273 @@
+Pablo Keys, 30.2719, -81.4239
+Pace, 30.5992, -87.1611
+Paces Landing, 28.6344, -80.8192
+Packwood Place, 28.9378, -80.8697
+Padlock, 30.2311, -82.9667
+Page Park, 26.5789, -81.8622
+Pahokee, 26.8197, -80.6656
+Painters Hill, 29.5325, -81.1539
+Paisley, 28.9833, -81.5419
+Palatka, 29.6483, -81.6378
+Palm, 27.9425, -82.3978
+Palm Acres, 26.6000, -81.8667
+Palm Bay, 28.0342, -80.5889
+Palm Beach, 26.7053, -80.0367
+Palm Beach Air Force Base, 26.6667, -80.1000
+Palm Beach Farms, 26.6689, -80.1497
+Palm Beach Gardens, 26.8333, -80.1000
+Palm Beach Gardens Community Hospital, 26.7278, -80.4692
+Palm Beach Shores, 26.7778, -80.0358
+Palm City, 27.1675, -80.2664
+Palm Coast, 29.5833, -81.2000
+Palm Harbor, 28.0778, -82.7639
+Palm River, 27.9500, -82.4000
+Palm River Estates, 26.2781, -81.7781
+Palm Shadows, 28.7883, -81.1431
+Palm Shores, 28.1842, -80.6531
+Palm Springs(Dade), 25.8703, -80.2992
+Palm Springs(Palm Springs), 26.6167, -80.1000
+Palm Springs Estates, 25.8822, -80.3064
+Palm Springs General Hospital, 25.8675, -80.3119
+Palm Springs North, 25.9306, -80.3286
+Palm Valley, 30.1772, -81.3878
+Palm Valley Landing, 30.1756, -81.4006
+Palm View, 27.5683, -82.5572
+Palm Village, 25.8833, -80.2833
+Palma Ceia, 27.9206, -82.4956
+Palma Sola, 27.5119, -82.6322
+Palma Sola Park, 27.4914, -82.6369
+Palmdale, 26.9450, -81.3164
+Palmetto, 27.5211, -82.5725
+Palmetto Estates, 25.6000, -80.3667
+Palmetto General Hospital, 25.8856, -80.3264
+Palmetto Landing, 29.3078, -81.9086
+Palmo, 29.9661, -81.5675
+Palms of Pasadena Hospital, 27.7525, -82.7408
+Palmview Hospital, 28.0736, -81.9600
+Paloma Park, 26.6500, -81.8833
+Pan American Hospital, 25.7778, -80.2936
+Panacea, 30.0372, -84.3878
+Panacea Park, 30.0289, -84.3989
+Panacoochee Retreats, 28.8000, -82.1356
+Panama City, 30.1586, -85.6603
+Panama City Beach, 30.1764, -85.8056
+Panama Heights, 30.5217, -85.6503
+Panama Park, 30.3847, -81.6408
+Paola, 28.7936, -81.3631
+Paolita Station, 25.8667, -81.3833
+Paradise, 29.7047, -82.3456
+Paradise Bay, 27.4667, -82.5833
+Paradise Beach, 30.4006, -87.4206
+Paradise Palms, 26.3531, -80.1264
+Paradise Park, 27.4717, -80.3433
+Paradise Point, 28.8833, -82.5922
+Paradise Shores, 26.6500, -81.8333
+Parch Landing, 29.2939, -81.9133
+Park City, 26.1167, -80.2167
+Park Haven, 26.2947, -80.1117
+Parker, 30.1308, -85.6033
+Parker Island, 27.2444, -81.2983
+Parkerville, 30.6239, -86.8483
+Parkland, 26.3167, -80.2500
+Parmalee, 27.3708, -82.2183
+Paront, 30.7167, -85.0167
+Parramore, 30.8719, -84.9931
+Parrish, 27.5872, -82.4253
+Pasadena, 27.7703, -82.7328
+Pasadena Shores, 28.3147, -82.2058
+Pasco, 28.3244, -82.3372
+Pass Station, 29.9808, -81.7733
+Pass-a-Grille Beach, 27.7333, -82.7500
+Patersonville, 29.6886, -81.5847
+Patrick Air Force Base, 28.2333, -80.6000
+Paxon, 30.3167, -81.7167
+Paxton, 30.9814, -86.3075
+Peace River Shores, 27.0300, -81.9628
+Peach Orchard, 29.5500, -82.4964
+Peaden, 30.9083, -86.5831
+Pearl Court, 30.3744, -81.6453
+Pebbledale, 27.8419, -81.9433
+Pecan Park, 30.5117, -81.6228
+Peck, 30.5397, -84.0917
+Peddys Mill, 27.9000, -81.9667
+Pedro, 28.9814, -82.1200
+Peeks Landing, 29.2292, -82.7328
+Pelican Lake, 26.8111, -80.6106
+Pembroke, 27.7861, -81.8053
+Pembroke Park, 25.9875, -80.1750
+Pembroke Pines, 26.0028, -80.2242
+Pembroke Pines General Hospital, 26.4628, -80.2458
+Peniel, 29.6197, -81.6797
+Peninsula(Volusia), 29.1833, -81.0000
+Peninsula(Hillsborough), 27.9333, -82.5000
+Penney Farms, 29.9794, -81.8106
+Pennichaw, 28.7986, -81.0058
+Pennsuco, 25.8947, -80.3783
+Pensacola, 30.4211, -87.2169
+Pensacola Beach, 30.3333, -87.1375
+Pensacola Shores, 30.3667, -87.1833
+Peoples City, 29.4167, -82.2167
+Peppertree Bay, 27.3333, -82.5333
+Perdido Bay, 30.3328, -87.4206
+Perdido Heights, 30.4003, -87.4231
+Perkins, 30.4539, -84.2225
+Perky, 24.6483, -81.5719
+Perrine, 25.6047, -80.3539
+Perry, 30.1172, -83.5819
+Peters, 25.5981, -80.3544
+Peterson, 30.0925, -83.2153
+Phifer, 29.5911, -82.1881
+Philips Plaza, 30.3000, -81.6333
+Phillipi Gardens, 27.2833, -82.5167
+Pickettville, 30.3650, -81.7417
+Picnic, 28.0000, -82.5167
+Picolata, 29.9147, -81.5931
+Piedmont, 28.6378, -81.4581
+Pierce, 27.8347, -81.9717
+Pierson, 29.2392, -81.4658
+Pine Air, 26.6667, -80.1000
+Pine Bluff(Santa Rosa), 30.5594, -86.9783
+Pine Bluff(St Johns), 30.1242, -81.5861
+Pine Castle, 28.4717, -81.3681
+Pine Dale, 27.8547, -81.9711
+Pine Forest, 30.5194, -87.3164
+Pine Grove(Osceola), 28.2594, -81.1847
+Pine Grove(Suwannee), 30.3000, -82.9833
+Pine Grove(Brevard), 28.0833, -80.6333
+Pine Hill Estates, 29.6619, -82.4564
+Pine Hills(Lake), 28.9494, -81.4183
+Pine Hills(Orange), 28.5575, -81.4536
+Pine Island, 28.5750, -82.6528
+Pine Island Center, 26.6133, -82.1183
+Pine Island Landing, 29.3103, -81.5467
+Pine Lakes, 28.9408, -81.4303
+Pine Landing, 29.5336, -82.9806
+Pine Level, 27.2650, -81.9919
+Pine Log, 30.4036, -85.9117
+Pine Manor, 26.5725, -81.8783
+Pine Mount, 30.1628, -83.9547
+Pine Ridge Country Estates, 28.8500, -82.4833
+Pine Shores, 27.2667, -82.5333
+Pine Top, 30.2728, -82.1814
+Pinecrest(Hillsborough), 27.8497, -82.1458
+Pinecrest(Monroe), 25.7464, -80.9397
+Pinecrest(Seminole), 28.7744, -81.2703
+Pineda, 28.2369, -80.6786
+Pineland(Lee), 26.6603, -82.1536
+Pineland(Taylor), 30.1167, -83.5833
+Pineland Gardens, 30.2833, -81.5833
+Pinellas County Hospital, 27.8939, -82.7889
+Pinellas General Hospital, 27.8906, -82.7864
+Pinellas Park, 27.8425, -82.6997
+Pineola, 28.6886, -82.2731
+Pinesville, 29.5875, -82.5236
+Pinetta, 30.5939, -83.3525
+Pineville, 30.8986, -87.5825
+Pinewood, 25.9000, -80.2167
+Pinewood Park, 25.8656, -80.2139
+Piney Bluff Landing, 29.5517, -81.5728
+Piney Grove, 30.8039, -86.1308
+Piney Island Landing, 29.3539, -81.8889
+Piney Point, 27.6339, -82.5406
+Pinland, 30.0178, -83.5281
+Pioneer Village, 26.6500, -81.8833
+Pirate Harbor, 26.8025, -82.0453
+Pittman(Lake), 28.9997, -81.6419
+Pittman(Holmes), 30.9422, -85.8200
+Pittsburg, 27.6536, -81.5028
+Placida, 26.8319, -82.2650
+Plains, 27.4092, -81.1844
+Plant City, 28.0183, -82.1131
+Plantation(Monroe), 25.0167, -80.5167
+Plantation(Broward), 26.1272, -80.2333
+Plantation Acres, 26.1167, -80.2167
+Plantation Gardens, 26.1294, -80.2378
+Plantation General Hospital, 26.1264, -80.2056
+Plantation Isles, 26.1019, -80.2283
+Plantation Park, 26.1186, -80.2272
+Platt, 27.0917, -82.0019
+Playland Estates, 26.0322, -80.2042
+Playland Isles, 26.0611, -80.2044
+Playland Village, 26.0739, -80.2250
+Plaza, 29.1833, -82.1500
+Pleasant Grove(Walton), 30.8239, -86.0636
+Pleasant Grove(Hillsborough), 27.9053, -82.1706
+Pleasant Grove(Escambia), 30.3589, -87.3453
+Pleasant Ridge, 30.6928, -86.1742
+Plum Orchard, 30.1514, -84.1481
+Plummer, 30.4436, -81.8078
+Plummers, 30.1894, -81.6317
+Plymouth, 28.6919, -81.5475
+Poinciana, 28.3000, -81.4167
+Poinsettia Park, 28.0458, -81.6861
+Point Baker, 30.6900, -87.0536
+Point O'Rocks, 27.2453, -82.5356
+Point Pleasant, 29.3594, -81.8092
+Point Washington, 30.3700, -86.1150
+Polk City, 28.1822, -81.8242
+Polk General Hospital, 27.8861, -81.8069
+Polly Town, 30.4389, -81.5953
+Polo Club Estates, 26.6667, -80.1000
+Pomona Landing, 29.5064, -81.5586
+Pomona Park, 29.5000, -81.5917
+Pompano Beach, 26.2375, -80.1250
+Pompano Beach Highlands, 26.2825, -80.1072
+Pompano Isles, 26.2169, -80.1014
+Pompano Park, 26.1989, -80.2086
+Ponce, 25.7500, -80.2667
+Ponce de Leon, 30.7228, -85.9375
+Ponce Inlet, 29.0961, -80.9372
+Ponce Park, 29.0833, -80.9167
+Pond Creek, 30.7919, -86.3875
+Ponte Vedra, 30.2272, -81.3803
+Ponte Vedra Beach, 30.2394, -81.3858
+Poplar Head, 30.7181, -85.6475
+Port Boca Grande, 26.7203, -82.2594
+Port Charlotte, 26.9758, -82.0908
+Port Everglades, 26.0967, -80.1275
+Port Everglades Junction, 26.0800, -80.1689
+Port Inglis, 28.9942, -82.7611
+Port Leon, 30.1308, -84.1950
+Port Lonesome, 28.2739, -82.0917
+Port Malabar, 28.0667, -80.6167
+Port Mayaca, 26.9833, -80.6000
+Port of Palm Beach Junction, 26.7833, -80.0667
+Port Orange, 29.1342, -81.0094
+Port Richey, 28.2714, -82.7197
+Port Saint Joe, 29.8117, -85.3031
+Port Saint John, 28.3667, -80.7500
+Port Saint Lucie, 27.2936, -80.3506
+Port Saint Lucie Hospital, 27.3208, -80.3528
+Port Salerno, 27.1439, -80.2008
+Port Sewall, 27.1833, -80.2000
+Port Sutton, 27.9064, -82.4208
+Port Tampa, 27.8633, -82.5269
+Port Tampa City, 27.8667, -82.5167
+Portland, 30.5122, -86.1958
+Postil, 30.4786, -86.4850
+Pottsburg, 30.2833, -81.5833
+Pouchers Corner, 30.3142, -82.8214
+Powell, 28.4922, -82.4286
+Power Landing, 30.2808, -85.0819
+Poyner, 28.3022, -81.8564
+Prairie Junction, 27.9133, -81.9836
+Princeton, 25.5381, -80.4092
+Prine, 28.1167, -81.6167
+Proctors Landing, 30.7075, -87.2681
+Produce, 28.0000, -82.4167
+Progress Village, 27.9000, -82.3667
+Prospect Landing, 30.8164, -81.9206
+Prospect Road, 26.1500, -80.2000
+Prosperity, 30.8517, -85.9469
+Providence(Union), 30.0039, -82.5475
+Providence(Polk), 28.1536, -81.9736
+Provident Hospital, 26.1292, -80.1603
+Pumpkin Center, 28.7181, -81.8294
+Punta Gorda, 26.9294, -82.0456
+Punta Gorda Beach, 26.9231, -82.3600
+Punta Gorda Isles, 26.9172, -82.0786
+Punta Rassa, 26.4875, -82.0125
+Purvis Still, 30.4281, -82.7606
+Putnam Community Hospital, 29.6414, -81.6836
+Putnam Hall, 29.7333, -81.9667
+Putnam Memorial Hospital, 29.6444, -81.6611

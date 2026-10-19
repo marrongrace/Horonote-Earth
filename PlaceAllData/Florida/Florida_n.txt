@@ -1,0 +1,134 @@
+Nalcrest, 27.8581, -81.4253
+Naples, 26.1417, -81.7950
+Naples Community Hospital, 26.1508, -81.7983
+Naples Manor, 26.0883, -81.7264
+Naples Park, 26.2614, -81.8094
+Naranja, 25.5178, -80.4231
+Narcoossee, 28.2981, -81.2392
+Nash, 30.4542, -83.8931
+Nashua, 29.5183, -81.6711
+Nassau General Hospital, 30.6706, -81.4517
+Nassauville, 30.5692, -81.5197
+National Gardens, 29.3322, -81.1267
+Naval Air Medical Center, 30.5000, -87.2500
+Naval Air Station, 30.3500, -87.2667
+Naval Hospital, 30.3167, -81.6500
+Naval Technical Training Center, 30.0667, -87.2000
+Naval Training Center, 28.5667, -81.3167
+Navarre, 30.4014, -86.8636
+Navy Point, 30.3797, -87.2933
+Neals, 29.7686, -82.7128
+Neheb, 28.6917, -81.2006
+Neilhurst, 30.1208, -81.7275
+Neilson, 27.6781, -81.5011
+Nemours Childrens Hospital, 30.3283, -81.5714
+Neoga, 29.5261, -81.3367
+Neptune Beach, 30.3117, -81.3967
+Nevins, 27.6114, -80.3853
+New Berlin, 30.3983, -81.5528
+New Clay Landing, 29.5183, -82.9700
+New Eden, 28.2778, -81.1797
+New Harmony, 30.8533, -86.2800
+New Home, 30.6089, -86.2197
+New Hope(Calhoun), 30.3583, -85.0656
+New Hope(Holmes), 30.9475, -85.8794
+New Hope(Washington), 30.5778, -85.8089
+New Liberty City, 25.9167, -80.2500
+New Pierce, 27.4000, -82.5333
+New Pine Landing, 29.5289, -82.9775
+New Point Comfort, 26.9306, -82.3411
+New Port Richey, 28.2439, -82.7194
+New River(Broward), 26.1333, -80.1833
+New River(Bradford), 29.9608, -82.2656
+New Smyrna, 28.9833, -80.9333
+New Smyrna Beach, 29.0256, -80.9272
+New Upsala, 28.7961, -81.3167
+New York, 30.8383, -87.2008
+Newbern, 28.1500, -82.4667
+Newberry, 29.6461, -82.6067
+Newburn, 30.2722, -83.1408
+Newcastle, 30.3719, -81.5858
+Newnans Lake Homesites, 29.6497, -82.2397
+Newport(Monroe), 25.1036, -80.4314
+Newport(Wakulla), 30.1992, -84.1808
+Newtown Heights, 27.3167, -82.5167
+Niceville, 30.5167, -86.4822
+Nichols, 27.8900, -82.0317
+Niles, 29.7869, -85.2742
+Nine Mile, 29.7167, -85.1214
+Ninemile Bend, 26.6775, -80.5411
+Nixon, 30.3222, -85.4514
+Nobles, 30.4833, -87.2000
+Nobleton, 28.6453, -82.2642
+Nocatee, 27.1600, -81.8825
+Nokomis, 27.1189, -82.4444
+Nokomis Beach, 27.1261, -82.4711
+Noma, 30.9819, -85.6186
+Noma Junction, 30.9725, -85.6178
+Norfleet, 30.4425, -84.3919
+Norin Plaza, 25.8833, -80.1833
+Norland, 25.9333, -80.2167
+Normandy(Duval), 30.3056, -81.7608
+Normandy(Dade), 25.8500, -80.1333
+Normandy Isle, 25.8000, -80.1500
+Normandy Manor, 30.3167, -81.7167
+Normandy Shores, 25.8594, -80.1392
+Normandy Village, 30.2794, -81.7814
+North Andrews Gardens, 26.1833, -80.1500
+North Andrews Terrace, 26.2000, -80.1500
+North Babcock, 28.0833, -80.6333
+North Bal Harbor, 26.1536, -80.1164
+North Bay Village, 25.8458, -80.1542
+North Beach Community Hospital, 26.2436, -80.0875
+North Broward Hospital, 26.2767, -80.1219
+North Columbia, 30.3833, -82.5833
+North Crest, 28.6833, -81.4667
+North Florida Evaluation and Treatment Center, 29.7044, -82.3622
+North Florida Regional Hospital, 29.6611, -82.4114
+North Fort Myers, 26.6669, -81.8803
+North Gables Hospital, 25.7636, -80.2561
+North Lauderdale, 26.2167, -80.2167
+North Meadowbrook Terrace, 30.1783, -81.7514
+North Miami, 25.8897, -80.1869
+North Miami Beach, 25.9328, -80.1628
+North Miami General Hospital, 25.8928, -80.1653
+North Miami Medical Center, 25.8936, -80.1650
+North Naples, 26.2189, -81.7919
+North Oak Hill, 30.2533, -81.7731
+North Orlando, 28.6833, -81.2833
+North Palm Beach, 26.8172, -80.0822
+North Peninsula, 29.3833, -81.0833
+North Pompano Beach, 26.2786, -80.1031
+North Port, 27.0500, -82.2500
+North Port Charlotte, 27.0439, -82.2325
+North Redington Beach, 27.8158, -82.8208
+North Ridge General Hospital, 26.2025, -80.1339
+North River Shores, 27.2172, -80.2700
+North Ruskin, 27.7644, -82.3947
+North Saint Johns, 30.1333, -81.4833
+North Shore, 30.3842, -81.6569
+North Shore Hospital, 25.8583, -80.2142
+North Shore Medical Center, 25.8583, -80.2150
+North Westside, 25.8000, -80.3167
+North Winter Haven, 28.0500, -81.7333
+Northeast Florida State Hospital, 30.2353, -82.1356
+Northeast Park, 27.8000, -82.6500
+Northside, 27.3167, -82.5167
+Northside Community Mental Health Center, 27.9997, -82.4272
+Northwest, 25.8500, -80.2333
+Northwest Florida State Hospital, 30.8272, -85.1728
+Northwest Hospital, 25.8458, -80.2142
+Northwest Regional Hospital, 26.2628, -80.2044
+Northwood(Alachua), 29.7022, -82.3694
+Northwood(Palm Beach), 26.7500, -80.0833
+Northwood(Duval), 30.4333, -81.6625
+Norwalk, 29.4347, -81.7167
+Norwalk Landing, 29.4303, -81.6778
+Norwood(Duval), 30.3767, -81.6681
+Norwood(Dade), 25.9500, -80.2167
+Nova Road, 29.3000, -81.0500
+Nowatney, 28.0736, -82.4469
+NTC Annex, 28.4333, -81.3500
+Nubbin Ridge, 30.8403, -86.6747
+Nurmi Isles, 26.1222, -80.1172
+Nutal Rise, 30.1503, -83.9642

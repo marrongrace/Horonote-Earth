@@ -1,0 +1,24 @@
+Yacht Harbor, 26.7833, -80.0667
+Yalaha, 28.7383, -81.8089
+Yamato, 26.4094, -80.0903
+Yankeetown, 29.0297, -82.7161
+Ybel, 26.4242, -82.0711
+Ybor City, 27.9647, -82.4353
+Yeehaw Junction, 27.7000, -80.9044
+Yellow Bluff Fort, 30.3994, -81.5561
+Yellow Jacket, 29.4631, -83.0014
+Yelvington, 29.6311, -81.5242
+Yent Place, 29.8636, -84.7003
+Yniestra, 30.5017, -87.1603
+Yon's Lakeside Estates, 30.4333, -84.2833
+Yon's Subdivision, 29.8000, -85.3000
+Youmans, 28.0250, -82.0683
+Youngstown, 30.3642, -85.4383
+Yukon, 30.2344, -81.6983
+Yulee, 30.6317, -81.6067
+Yulee Heights, 30.6072, -81.5978
+Zana, 27.1197, -80.6197
+Zellwood, 28.7308, -81.6014
+Zephyrhills, 28.2333, -82.1814
+Zolfo Springs, 27.4931, -81.7961
+Zuber, 29.2669, -82.1811

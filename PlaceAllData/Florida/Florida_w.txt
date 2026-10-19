@@ -1,0 +1,204 @@
+Wabasso, 27.7481, -80.4364
+Wabasso Beach, 27.7644, -80.3992
+Wacahoota, 29.5564, -82.3911
+Wacissa, 30.3583, -83.9872
+Waddells Mill, 30.8703, -85.3256
+Wade, 29.7411, -82.6194
+Wadesboro, 30.5050, -84.0658
+Wagner, 28.7047, -81.2825
+Wagon Wheel, 26.1006, -81.0650
+Wahneta, 27.9525, -81.7272
+Wahoo, 28.6903, -82.1958
+Wainright Landing, 30.4022, -84.6111
+Waits Junction, 28.5719, -81.6906
+Wakulla, 30.2367, -84.2311
+Wakulla Beach, 30.1092, -84.2592
+Wakulla Gardens, 30.1764, -84.3078
+Wakulla Springs, 30.2333, -84.3053
+Walden Lake, 28.0167, -82.1333
+Waldo, 29.7894, -82.1675
+Walker Memorial Hospital, 27.6075, -81.5139
+Walkers Landing, 30.8153, -81.9081
+Walkill, 29.9378, -81.6622
+Wall Springs, 28.1011, -82.7719
+Wallace, 30.6772, -87.1800
+Walnut Hill, 30.8853, -87.5100
+Walsingham, 27.8769, -82.7978
+Walter Hamilton Place, 25.5581, -81.1719
+Walton, 27.2997, -80.2564
+Wannee, 29.7183, -82.9411
+Ward, 30.3039, -84.7031
+Ward Basin, 30.5850, -86.9969
+Ward Ridge, 29.7833, -85.2833
+Warm Mineral Springs, 27.0561, -82.2642
+Warrington, 30.3839, -87.2750
+Washington County Hospital, 30.7650, -85.5428
+Washington Park(Broward), 26.1167, -80.2167
+Washington Park(Glades), 26.8417, -81.0964
+Waterbury, 27.4453, -82.3033
+Waterman Medical Center, 28.8550, -81.6658
+Waters Lake, 29.7089, -82.7328
+Watertown, 30.1922, -82.6147
+Watson, 26.6903, -80.8308
+Wauchula, 27.5469, -81.8117
+Wauchula Hills, 27.5500, -81.8167
+Waukeenah, 30.4111, -83.9531
+Wausau, 30.6319, -85.5889
+Waveland, 27.2675, -80.2069
+Waverly, 27.9786, -81.6142
+Weathersfield, 28.6617, -81.3992
+Webb Landing, 30.7314, -87.2861
+Webb's City, 27.7667, -82.6333
+Webster, 28.6097, -82.0553
+Week Landing, 29.3969, -83.0356
+Weeki Wachee, 28.5153, -82.5731
+Weirsdale, 28.9817, -81.9244
+Wekiva, 28.7925, -81.4242
+Wekiwa Manor, 28.6833, -81.4667
+Wekiwa Springs, 28.6833, -81.4667
+Welaka, 29.4789, -81.6717
+Welcome, 27.8358, -82.1044
+Wellborn, 30.2308, -82.8197
+Wells Landing, 29.4167, -81.9183
+Wesconnett, 30.2467, -81.7306
+Wesley Chapel, 28.2333, -82.1833
+Wesley Manor, 30.2000, -81.5833
+Wesley Manor Retirement Village, 30.1269, -81.6239
+West Auburndale, 28.0667, -81.8167
+West Augustine, 29.8000, -81.2667
+West Bay, 30.4000, -81.7500
+West Bradenton, 27.4833, -82.6167
+West Broward Hospital, 26.1239, -80.1514
+West Deerfield Beach, 26.3136, -80.1503
+West Dixie Bend, 26.3156, -80.2017
+West Eau Gallie, 28.1356, -80.6719
+West End(Jackson), 30.7833, -85.2333
+West End(Marion), 29.1833, -82.1667
+West Farm, 30.4667, -83.4167
+West Flagler, 29.4333, -81.3333
+West Florida Community Care Center, 30.6578, -87.0453
+West Florida Regional Medical Center, 30.4761, -87.2494
+West Frostproof, 27.7333, -81.5833
+West Gate, 26.7022, -80.0983
+West Hills, 29.6661, -82.4081
+West Holly Hill, 29.2333, -81.0333
+West Hollywood, 26.0167, -80.2000
+West Jacksonville, 30.3400, -81.7225
+West Lake, 30.5028, -83.1147
+West Lake Hospital, 28.7106, -81.3506
+West Lake Wales, 27.8900, -81.6467
+West Landing, 30.5622, -81.7036
+West Lantana, 26.5833, -80.0667
+West Liberty, 30.4167, -84.9833
+West Melbourne, 28.0714, -80.6536
+West Miami, 25.7631, -80.2964
+West Okeechobee, 27.3167, -80.9000
+West Orange Memorial Hospital, 28.5553, -81.5825
+West Palm Beach, 26.7150, -80.0536
+West Palm Beach Farms, 26.6786, -80.1294
+West Palmetto Park, 26.3833, -80.0833
+West Panama City Beach, 30.2167, -85.8833
+West Pensacola, 30.4264, -87.2797
+West Saint Lucie, 27.4667, -80.4500
+West Scenic Park, 27.9203, -81.6425
+West Tampa, 27.9531, -82.4894
+West Tocoi, 29.8500, -81.6175
+West Vero Beach, 27.6667, -80.4000
+West Volusia Memorial Hospital, 29.0433, -81.3175
+West Wakulla County, 30.0833, -84.4333
+West Winter Haven, 28.0500, -81.7833
+Westbay, 30.3000, -85.8667
+Westchester, 25.7544, -80.3275
+Westchester General Hospital, 25.7469, -80.3169
+Western Acres, 26.6500, -81.8833
+Westgate Lake Manor, 26.1231, -80.2064
+Westmoreland Estates, 29.6667, -82.3333
+Westside, 29.2167, -81.0333
+Westview, 25.9000, -80.2167
+Westville, 30.7744, -85.8517
+Westwood(Duval), 30.2408, -81.7603
+Westwood(Orange), 28.5667, -81.4500
+Westwood Lakes, 25.7333, -80.3833
+Wetumpka, 30.4828, -84.6231
+Wewahitchka, 30.1125, -85.2006
+Whidden Corner, 26.7539, -81.0822
+Whispering Hills Golf Estate, 28.5950, -80.8222
+Whispering Palms, 26.6000, -80.0833
+Whispering Pines, 27.2772, -80.8397
+White Beach, 27.2400, -82.5264
+White City(Gulf), 29.8839, -85.2200
+White City(St Lucie), 27.3736, -80.3342
+White Cross Hospital, 27.7703, -82.7219
+White Oak Landing, 30.0981, -85.1131
+White Sand Landing, 30.8172, -81.9636
+White Springs(Hamilton), 30.3294, -82.7592
+White Springs(Liberty), 30.4333, -84.9833
+Whitehead Crossroads, 30.7042, -85.7678
+Whitehouse, 30.3161, -81.8464
+Whites Ford, 30.0258, -81.5250
+Whites Landing, 28.6997, -81.2389
+Whitfield Estates, 27.4097, -82.5694
+Whiting Field, 30.7167, -87.0167
+Whitney, 28.8169, -81.9372
+Whitney Beach, 27.4294, -82.6806
+Whittier, 27.8728, -81.0064
+Wilbur-by-the-Sea, 29.1311, -80.9578
+Wilburn, 30.1906, -82.5789
+Wilcox, 29.6108, -82.9217
+Wilcox Junction, 29.6114, -82.9403
+Wild Island, 27.3725, -81.2039
+Wildwood, 28.8650, -82.0392
+Wiley, 28.6736, -80.8289
+Williams Ditch Landing, 30.6497, -87.2769
+Williams Landing, 30.4483, -84.5211
+Williams Point, 28.4481, -80.7631
+Williford, 29.7861, -82.7914
+Willis, 30.5531, -85.1867
+Willis Landing, 29.9756, -85.0731
+Williston, 29.3872, -82.4469
+Williston Memorial Hospital, 29.3839, -82.4550
+Willow, 27.6442, -82.3467
+Wilma, 30.1542, -84.9644
+Wilson, 28.6431, -80.6967
+Wilson Corner, 28.8081, -81.3631
+Wilson Haven, 28.5333, -82.4833
+Wilson Place, 28.8078, -81.3536
+Wilton Manors, 26.1600, -80.1392
+Wimauma, 27.7122, -82.2992
+Wimberly Estates, 29.6906, -82.3772
+Windermere, 28.4953, -81.5350
+Windmill Village Trailer Park, 26.1833, -81.8000
+Windsor, 29.6464, -82.1864
+Windy Hill, 30.2833, -81.5833
+Winfield, 30.2628, -82.6861
+Winslow Beach, 28.3333, -80.6167
+Winston, 28.0314, -82.0150
+Winter Beach, 27.7189, -80.4208
+Winter Garden, 28.5650, -81.5864
+Winter Haven, 28.0219, -81.7331
+Winter Park, 28.5997, -81.3394
+Winter Park Memorial Hospital, 28.5978, -81.3269
+Winter Springs, 28.6986, -81.3083
+Wiscon, 28.5406, -82.4622
+Withla, 28.3397, -81.8711
+Wolfolk, 27.8000, -81.6303
+Wonderwood, 30.3686, -81.4133
+Woodland Acres, 30.3333, -81.5833
+Woodland Park, 26.6333, -81.8667
+Woodlawn(Bay), 30.1500, -85.6500
+Woodlawn(St Johns), 29.9311, -81.3442
+Woodlawn Beach, 30.3881, -86.9908
+Woodmere, 27.0203, -82.3908
+Woodruff Springs, 28.8078, -81.3450
+Woods, 30.3472, -84.9803
+Woodside Heights, 30.4333, -84.2833
+Woodville(Levy), 30.3139, -84.2475
+Woodville(Bay), 30.1500, -85.6500
+Worthington, 29.9667, -82.4833
+Worthington Springs, 29.9292, -82.4236
+Wright, 30.4556, -86.6383
+Wright Landing, 29.9992, -85.0086
+Wuesthoff Memorial Hospital, 28.3300, -80.7339
+Wulfert, 26.4800, -82.1781
+Wynnehaven Beach, 30.4100, -86.7822
+Wynwood, 28.7894, -81.2525

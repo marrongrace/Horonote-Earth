@@ -1,0 +1,431 @@
+Sabal Palms Estates, 26.2058, -80.2111
+Sacred Heart Hospital, 30.4761, -87.2119
+Sacred Heart Hospital of Pensacola, 30.4764, -87.2125
+Safety Harbor, 27.9906, -82.6933
+Salem, 29.8867, -83.4131
+Salerno, 27.1500, -80.2000
+Salt Springs, 29.3508, -81.7353
+Salvista, 26.6828, -81.8681
+Samoset, 27.4692, -82.5417
+Sampson, 29.9164(Bradfod), -82.2081
+Sampson, 30.0644(St Johns), -81.5019
+Samsula, 29.0258, -81.0506
+San Antonio, 28.3358, -82.2747
+San Blas, 30.0892, -85.6100
+San Carlos Park, 26.4669, -81.8017
+San Jose, 30.2506, -81.6397
+San Jose Estates, 30.2333, -81.6333
+San Jose Forest, 30.2514, -81.6292
+San Marco, 30.3117, -81.6600
+San Mateo(Putnam), 29.6064, -81.5847
+San Mateo(Duval), 30.4433, -81.6325
+San Pablo, 30.2953, -81.4378
+San Pedro Junction, 30.0108, -83.2150
+San Souci, 30.2833, -81.5833
+San Souci Estates, 25.8842, -80.1581
+Sanborn, 30.0717, -84.6044
+Sand Cut(Escambia), 30.4214, -87.3281
+Sand Cut(Palm Beach), 26.8167, -80.6667
+Sandalfoot Cove, 26.3833, -80.0833
+Sandalwood, 30.3175, -81.5178
+Sanders Beach, 30.3994, -87.2381
+Sanders Park, 26.2544, -80.1328
+Sanderson, 30.2519, -82.2731
+Sandestin, 30.4167, -86.5500
+Sandpiper Cove, 30.4167, -86.5500
+Sandy, 27.2733, -82.1158
+Sandy Point, 29.9089, -82.8656
+Sanford, 28.8003, -81.2733
+Sanford Farms, 28.8283, -81.3411
+Sangully, 28.0500, -81.9333
+Sanibel, 26.4486, -82.0225
+Sanlando Springs, 28.6833, -81.3819
+Sanlanta, 28.7978, -81.2650
+Sans Pareil, 30.2831, -81.4944
+Sans Souci, 26.9850, -81.9678
+Santa Barbara Shores, 26.2203, -80.1006
+Santa Clara, 30.5836, -84.5622
+Santa Fe, 29.8833, -82.4306
+Santa Fe Beach, 29.7511, -82.0981
+Santa Fe Lake, 29.7500, -82.1000
+Santa Monica(Duval), 30.2833, -81.5833
+Santa Monica(Bay), 30.2500, -85.9500
+Santa Rosa Beach, 30.3958, -86.2289
+Santa Rosa Hospital, 30.6342, -87.0672
+Santos, 29.1089, -82.0931
+Sapp, 30.1472, -82.1858
+Sarabay Acres, 27.2000, -82.5000
+Sarasota, 27.3361, -82.5308
+Sarasota Beach, 27.2667, -82.5500
+Sarasota Colony, 27.0050, -81.0544
+Sarasota Heights, 27.3128, -82.5297
+Sarasota Palms Hospital, 27.3067, -82.5347
+Sarasota Springs, 27.3000, -82.4667
+Saratoga, 29.5319, -81.6839
+Sargent, 30.5739, -82.4294
+Sarno Plaza, 28.1667, -80.6333
+Satellite Beach, 28.1758, -80.5903
+Satsuma, 29.5547, -81.6561
+Saufley Field, 30.4667, -87.3500
+Sawdust, 30.5481, -84.6769
+Sawgrass, 30.2500, -81.3833
+Saxton, 30.0117, -82.0836
+Scanlon, 30.1303, -83.8961
+School of the Resurrection, 30.3606, -81.6025
+Sconiers Mill, 30.6794, -86.1639
+Scotland, 30.5764, -84.4303
+Scotts Ferry, 30.4500, -85.0500
+Scottsmoor, 28.7667, -80.8783
+Sea Ranch Lakes, 26.2022, -80.0942
+Seabreeze, 29.2325, -81.0139
+Seacoll, 28.9392, -82.3942
+Seaglades, 30.3247, -87.3828
+Seagrove Beach, 30.3183, -86.1303
+Sears, 26.6464, -81.3758
+Searstown, 28.0500, -81.9333
+Seaside, 25.1333, -80.4167
+Seaton Landing, 30.5453, -81.6606
+Sebastian, 27.8161, -80.4708
+Sebastian Highlands, 27.7833, -80.4833
+Sebastian River Medical Center, 27.8125, -80.4689
+Sebring, 27.4953, -81.4411
+Sebring Southgate, 27.5000, -81.4500
+Secotan, 30.1761, -83.6344
+Seffner, 27.9833, -82.2758
+Sellersville, 30.9917, -86.9281
+Selman, 30.5358, -85.0286
+Seminole(Pinellas), 27.8394, -82.7914
+Seminole(Okaloosa), 30.4789, -86.4100
+Seminole Heights, 27.9833, -82.4667
+Seminole Hills, 30.3703, -85.9319
+Seminole Lake Country Club, 27.8833, -82.7667
+Seminole Manor, 26.6000, -80.0833
+Seminole Park, 27.8833, -82.7667
+Seminole Shores, 27.1814, -80.1658
+Seminole Springs, 28.8453, -81.5283
+Seneca, 28.8658, -81.6014
+Seven Rivers Community Hospital, 28.8994, -82.5983
+Seven Springs, 28.2119, -82.6661
+Seville, 29.3167, -81.4928
+Sewalls Point, 27.1992, -80.2025
+Shackleford, 30.4500, -87.2167
+Shadeville, 30.1992, -84.3089
+Shadow Lawn Estates, 29.6839, -82.3761
+Shady, 29.0953, -82.1692
+Shady Grove(Jackson), 30.6528, -84.9964
+Shady Grove(Taylor), 30.2878, -83.6319
+Shady Rest(Gadsden), 30.5881, -84.4869
+Shady Rest(Duval), 30.5000, -81.5394
+Shalimar, 30.4456, -86.5792
+Shamrock, 29.6431, -83.1450
+Shands Teaching Hospital and Clinic, 29.6397, -82.3436
+Shangri-la, 27.8833, -82.7667
+Shannon Wood, 29.6328, -82.4392
+Sharpes, 28.4319, -80.7603
+Sharpstown, 30.3664, -85.1003
+Shawano, 26.5544, -80.5117
+Shawnee, 26.7769, -80.9653
+Shell Bluff, 29.5064, -81.4928
+Shell Bluff Landing(Flagler), 29.4933, -81.4878
+Shell Bluff Landing(St Johns), 30.0156, -81.3461
+Shell Ferry Landing, 30.5372, -85.8603
+Shell Island(Wakulla), 30.1594, -84.2167
+Shell Island(Collier), 26.0239, -81.7328
+Shell Land, 27.9333, -82.7667
+Shell Point Village, 26.6000, -81.8667
+Sheltering Pines, 26.6000, -81.8667
+Shenandoah, 25.7592, -80.2225
+Shenks, 29.7619, -82.1419
+Sherman, 27.2103, -80.7556
+Sherwood Forest, 30.4097, -81.7244
+Sherwood Park, 26.4450, -80.1117
+Shiloh(Brevard), 28.7903, -80.8047
+Shiloh(Alachua), 29.7833, -82.5000
+Shilow, 28.0400, -82.1272
+Shiney Town, 27.1936, -82.3461
+Shingle Creek, 28.3000, -81.4167
+Shingle Landing, 30.2622, -85.0581
+Shired Island, 29.3969, -83.2011
+Shore Acres, 27.8178, -82.6036
+Shorewood, 26.3031, -80.0997
+Shriners Hospital for Crippled Children, 27.8711, -82.5047
+Siesta, 27.3000, -82.5500
+Siesta Key, 27.2833, -82.5500
+Sills, 30.9450, -85.2833
+Silver Beach Heights, 28.9506, -81.6589
+Silver Bluff Estates, 25.7486, -80.2364
+Silver Palm, 25.5506, -80.4414
+Silver Sands, 30.1500, -85.6500
+Silver Shores, 26.1894, -80.1011
+Silver Springs(Okaloosa), 30.8064, -86.5525
+Silver Springs(Marion), 29.2164, -82.0578
+Silver Springs Shores, 29.1833, -82.1500
+Simmons Crossing, 30.9139, -86.9644
+Simms Landing, 29.8542, -82.8867
+Simpson Yard, 30.3500, -81.6500
+Simsville, 30.6806, -85.1742
+Sinai, 30.6617, -84.9103
+Singer Island, 26.7833, -80.0667
+Sink Creek, 30.6225, -85.1517
+Sipes, 28.8000, -81.2500
+Sirmans, 30.3500, -83.6500
+Sisco, 29.5208, -81.6272
+Sixmile Bend, 26.6456, -80.5786
+Sixmile Creek, 27.9664, -82.3608
+Skipper, 30.0481, -84.3603
+Sky Lake, 28.4569, -81.3917
+Skycrest, 28.0000, -82.7667
+Skyland Heights, 29.6667, -82.3333
+Skytop, 28.5669, -81.7167
+Slater, 26.7394, -81.8511
+Slaughter, 28.6167, -82.0500
+Slavia, 28.6478, -81.2306
+Sloans Ridge, 28.5786, -81.9447
+Slones Ridge, 28.5667, -81.8667
+Smallpox Tommies Old Place, 25.8436, -80.7703
+Smith, 30.6281, -83.3536
+Smith Creek, 30.1833, -84.6500
+Smith Creek Landing, 29.9183, -85.0144
+Smith Crossroads, 30.9833, -85.7717
+Smith Hospital, 25.4817, -80.4803
+Smith Landing, 30.3003, -85.1494
+Smiths Corner, 30.8833, -85.6667
+Smiths Crossroads, 31.0167, -85.7333
+Smokehouse Crossing, 30.2708, -84.9744
+Snake Creek, 25.9833, -80.2000
+Snapper Creek Park, 25.7000, -80.3167
+Sneads, 30.7075, -84.9244
+Snow Hill, 28.7031, -81.1147
+Snows Corner, 28.0025, -82.2200
+Snug Harbor, 27.2022, -80.2214
+Socrum, 28.1678, -82.0192
+Solana, 26.9467, -82.0261
+Sopchoppy, 30.0597, -84.4889
+Soroka Shores, 26.1525, -80.1092
+Sorrento, 28.8075, -81.5639
+Sorrento Shores, 27.2000, -82.5000
+South Allapattah, 25.5331, -80.3661
+South and East Junction, 28.8000, -81.2500
+South and East Osceola, 28.1000, -81.0667
+South Apopka, 28.6617, -81.5097
+South Bay, 26.6636, -80.7164
+South Bay Estates, 25.7394, -80.2422
+South Boyette, 28.0000, -82.5167
+South Clermont, 28.4978, -81.7725
+South Clewiston, 26.7094, -80.9022
+South Clinton Heights, 28.3214, -82.1836
+South Cocoa Beach, 28.2811, -80.6067
+South Dade Community Health Center, 25.5653, -80.3583
+South Daytona, 29.1656, -81.0047
+South Flomaton, 30.9917, -87.2575
+South Florida Baptist Hospital, 28.0153, -82.1394
+South Florida State Hospital(Broward), 25.9969, -80.2531
+South Fort Myers, 26.6000, -81.8667
+South Gate Ridge, 27.2833, -82.5000
+South Jacksonville, 30.3108, -81.6458
+South Lake Memorial Hospital, 28.5553, -81.7694
+South Miami, 25.7072, -80.2936
+South Miami Heights, 25.5972, -80.3808
+South Miami Hospital, 25.7011, -80.2947
+South Mulberry, 27.8856, -81.9750
+South Ocala, 29.1833, -82.1500
+South Palm Beach, 26.5886, -80.0389
+South Pasadena, 27.7547, -82.7378
+South Patrick, 28.1983, -80.5958
+South Patrick Shores, 28.2000, -80.6000
+South Peninsula, 29.1333, -80.9500
+South Pine Lakes, 28.9314, -81.4322
+South Ponte Vedra Beach, 30.0222, -81.3239
+South Port, 28.1383, -81.3525
+South Punta Gorda Heights, 26.8653, -81.9911
+South Seminole Community Hospital, 28.6981, -81.3578
+South Shore, 26.7500, -80.9667
+South Tampa, 27.9489, -82.3544
+South Trail, 27.2983, -82.5306
+South Venice, 27.0528, -82.4244
+South Westside, 25.7333, -80.3500
+Southboro, 26.6833, -80.0667
+Southeast, 28.0167, -81.7333
+Southeastern Medical Center(West Dade), 25.9250, -80.1800
+Southeastern Medical Center(East Dade), 25.9286, -80.1653
+Southfort, 27.0678, -81.9642
+Southgate, 27.3167, -82.5333
+Southmere, 28.6650, -80.9564
+Southport, 30.2892, -85.6406
+Southridge, 30.2931, -81.5036
+Southside(Lake), 28.9333, -81.6667
+Southside(Broward), 26.0833, -80.1500
+Southside(Sarasota), 27.3167, -82.5167
+Southside(Polk), 28.0333, -81.9500
+Southside Estates, 30.2981, -81.5583
+Southwest, 26.6667, -80.1000
+Southwood, 28.4833, -81.3667
+Spanish Landing, 30.0686, -81.3711
+Sparr, 29.3383, -82.1128
+Spaulding, 30.4119, -81.7750
+Spray, 30.5139, -83.6206
+Spring Creek, 30.0806, -84.3278
+Spring Glen, 30.2961, -81.6097
+Spring Hill(Alachua), 29.8325, -82.5283
+Spring Hill(Santa Rosa), 30.7672, -86.9417
+Spring Hill(Leon), 30.3392, -84.3881
+Spring Hill(Hernando), 28.5556, -82.4506
+Spring Lake(Hernando), 28.4933, -82.3031
+Spring Lake(Highlands), 27.5000, -81.4500
+Spring Park, 30.3000, -81.6333
+Spring Run Landing, 30.5097, -85.8550
+Springfield(Duval), 30.3456, -81.6536
+Springfield(Bay), 30.1531, -85.6114
+Springhead, 28.0167, -82.1333
+Springside, 29.6750, -81.7150
+Springville, 30.2925, -82.7636
+Spuds, 29.7394, -81.4717
+St Andrew, 30.1736, -85.6994
+St Anthony Hospital, 27.7783, -82.6503
+St Anthonys Hospital, 27.7783, -82.6503
+St Armand's, 27.3167, -82.5167
+St Augustine, 29.8944, -81.3147
+St Augustine Beach, 29.8503, -81.2656
+St Augustine General Hospital, 29.8911, -81.3250
+St Augustine Shores, 29.8000, -81.2667
+St Catherine, 28.6100, -82.1383
+St Cloud, 28.2486, -81.2814
+St Cloud Hospital, 28.2564, -81.3083
+St Francis, 29.0358, -81.4197
+St Francis Hospital, 25.8431, -80.1236
+St George, 28.0561, -82.7281
+St Georges Island, 29.7500, -84.8833
+St James City, 26.4972, -82.0786
+St Johns Nursing and Rehabilitation Hospital, 26.1325, -80.1956
+St Johns Park(Flagler), 29.4228, -81.4314
+St Johns Park(Duval), 30.2836, -81.7156
+St Johns River Estates, 28.8392, -81.3358
+St Johns River Hospital, 30.2872, -81.3981
+St Joseph, 28.3756, -82.2869
+St Joseph Hospital, 27.9597, -82.4575
+St Joseph Hospital of Port Charlotte, 26.9875, -82.0967
+St Josephs, 28.8111, -81.3228
+St Josephs Hospital, 27.9819, -82.4911
+St Leo, 28.3369, -82.2586
+St Lucie, 27.4892, -80.3400
+St Lukes Hospital, 30.3469, -81.6614
+St Marks, 30.1608, -84.2064
+St Marys Hospital(West Palm Beach), 26.7558, -80.0644
+St Marys Hospital(South Palm Beach), 26.6261, -80.0692
+St Nicholas, 30.3053, -81.6358
+St Peter, 30.4856, -84.2292
+St Petersburg, 27.7706, -82.6794
+St Petersburg Beach, 27.7250, -82.7414
+St Teresa, 29.9306, -84.4542
+St Vincents Hospital, 30.3067, -81.6897
+St Vincents Medical Center, 30.3069, -81.6903
+Stanton, 28.9961, -81.9153
+Starke, 29.9439, -82.1100
+Starkes Ferry, 28.9917, -81.8322
+Starks Landing, 28.9467, -81.3442
+Starr, 30.2842, -83.0803
+State Highway, 28.6167, -81.3167
+Steckert, 30.2103, -82.1253
+Steele Church, 30.7167, -86.1167
+Steele City, 30.7242, -85.3878
+Steinhatchee, 29.6708, -83.3878
+Stemper, 28.1500, -82.4667
+Stephensville, 29.6833, -83.3833
+Stetson, 29.0333, -81.3000
+Stock Island, 24.5667, -81.7333
+Stockade, 30.2211, -81.5056
+Stokes Landing, 29.5719, -81.6986
+Stokley Landing, 30.0558, -84.3611
+Storey Crossing, 28.2711, -81.0553
+Story Landing, 30.5994, -85.9153
+Stoutamire Landing, 30.3450, -84.6944
+Streamline, 26.8167, -80.6667
+Strickland Landing(Washington), 30.4497, -85.8914
+Strickland Landing(Wakulla), 30.1647, -84.1906
+Strouds Landing, 29.2664, -81.9569
+Stuart, 27.1972, -80.2531
+Sturkey, 28.3953, -82.0706
+Suburban Heights, 29.6678, -82.3917
+Sugar Junction, 26.7361, -80.9208
+Sugarloaf Shores, 24.6439, -81.5622
+Sugarmill Woods, 28.7833, -82.6167
+Sugarton, 26.7650, -80.9606
+Sulphur Springs, 28.0250, -82.4511
+Sumatra, 30.0200, -84.9792
+Summer Haven, 29.6989, -81.2236
+Summerfield, 29.0083, -82.0350
+Summerland Key, 24.6667, -81.4500
+Summerport Beach, 28.4900, -81.5647
+Sumner, 29.2167, -82.9678
+Sumterville, 28.7447, -82.0636
+Sun 'n Lakes Estates, 27.3000, -81.3667
+Sun City, 27.6781, -82.4789
+Sun City Center, 27.7167, -82.3500
+Sun City Regional Medical Center, 27.7106, -82.3603
+Sun Coast Hospital, 27.8981, -82.8250
+Sun Garden, 29.9833, -81.6833
+Sun Haven, 27.3500, -82.5167
+Sun Ray Homes, 27.7500, -81.5333
+Sun Swept Isles, 25.9739, -80.1525
+Sun-Tan Village, 25.8303, -80.2658
+Sunbeam, 30.2058, -81.5789
+Suncoast Estates, 26.6500, -81.8833
+Suniland, 25.6667, -80.3333
+Sunland, 28.8000, -81.2500
+Sunland Estates, 28.7542, -81.2817
+Sunland Gardens, 27.4625, -80.3622
+Sunland Hospital Unit, 29.6689, -82.2942
+Sunland Marianna Cox Medical Services Center, 30.7683, -85.2053
+Sunland Training Center, 29.6689, -82.2942
+Sunniland, 26.2689, -81.3419
+Sunny Hills, 30.7833, -85.5333
+Sunny Isles, 25.9503, -80.1231
+Sunnyland, 27.2853, -82.4933
+Sunnyside(Bay), 30.2503, -85.9478
+Sunnyside(Lake), 28.7986, -81.8356
+Sunrise, 26.1336, -80.1133
+Sunrise Golf Village, 26.1333, -80.2333
+Sunrise Harbor, 25.7053, -80.2481
+Sunrise Heights, 26.1422, -80.2450
+Sunrise Hospital, 26.1731, -80.2850
+Sunrise Key, 26.1300, -80.1167
+Sunset Beach, 27.7519, -82.7633
+Sunset Corners, 25.7017, -80.3342
+Sunset Gardens, 28.0833, -80.6333
+Sunset Harbor, 28.9917, -81.9794
+Sunset Island, 25.8000, -80.1500
+Sunset Point, 25.0167, -80.5167
+Sunset Public Landing, 30.5331, -84.3569
+Sunshine, 28.0000, -82.5667
+Sunshine Beach, 27.7767, -82.7786
+Sunshine Park, 26.0292, -80.2117
+Sunshine Parkway, 26.6000, -80.2167
+Sunshine Ranches, 26.1167, -80.2167
+Suntree, 28.0833, -80.6333
+Sunvale, 27.3103, -81.2669
+Surf, 29.9847, -84.4211
+Surfside, 25.8781, -80.1258
+Suwanee Valley, 30.2833, -81.4000
+Suwannee(Dixie), 29.3286, -83.1444
+Suwannee(Suwannee), 30.3889, -82.9567
+Suwannee County Hospital, 30.2972, -82.9911
+Suwannee River, 29.5906, -82.9294
+Suwannee Springs, 30.3939, -82.9375
+Suwannee Valley, 30.2989, -82.7083
+Svea, 30.9675, -86.4033
+Swamp Field Landing, 30.8531, -85.8819
+Sweet Gum Head, 30.7667, -85.8500
+Sweetgum Landing, 30.6378, -86.7922
+Sweetwater(Dade), 25.7631, -80.3733
+Sweetwater(Duval), 30.2694, -81.7644
+Sweetwater(Hardee), 27.4092, -81.7028
+Sweetwater(Liberty), 30.5078, -84.9722
+Sweetwater Creek, 28.0000, -82.5667
+Sweetwater Oaks, 28.7000, -81.3333
+Switzerland, 30.0758, -81.6475
+Sycamore, 30.5839, -84.8289
+Sydney, 27.9631, -82.2075
+Sykes Landing, 29.5375, -81.5392
+Sylvan Lake, 28.7953, -81.3631
+Sylvan Shores, 28.8000, -81.6500
+Sylvania, 30.6167, -85.6747

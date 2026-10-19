@@ -1,0 +1,147 @@
+Quinavista, 30.3283, -87.3564
+Quincy, 30.5869, -84.5833
+Quinlan, 30.4333, -81.6500
+Quintette, 30.6661, -87.3128
+Raccoon Key, 24.5667, -81.7333
+Race Track Landing, 30.6828, -86.9378
+Raiford, 30.0636, -82.2367
+Rainbow Falls, 29.1031, -82.4389
+Rainbow Homes, 26.4417, -80.0953
+Rainbow Lakes, 29.0500, -82.4500
+Raleigh, 29.4414, -82.4664
+Ralston Beach, 28.0000, -82.5000
+Rambo, 30.9967, -85.4039
+Ramrod Key, 24.7500, -81.3333
+Ramsey Beach, 30.4464, -87.3511
+Ratliff, 30.5075, -81.8003
+Rattlesnake, 27.8892, -82.5244
+Ravenna Park, 28.7903, -81.3083
+Rawls, 30.5481, -82.9783
+Rawls Park, 28.0500, -81.9333
+Reavills Corner, 28.5628, -81.6942
+Red Head, 30.4864, -85.8419
+Red Level, 28.9694, -82.6364
+Redbay, 30.5922, -85.9450
+Reddick, 29.3664, -82.1975
+Redington Beach, 27.8083, -82.8114
+Redington Shores, 27.8258, -82.8292
+Redland, 25.5281, -80.4906
+Relay, 29.3081, -81.2706
+Remlap, 27.8319, -82.3819
+Remley Heights, 28.8000, -81.6500
+Remuda Ranch Grants, 25.9167, -81.6500
+Rerdell, 28.5672, -82.1564
+Resota Beach, 30.3033, -85.5936
+Rex, 29.6300, -82.0975
+Ribault Manor, 30.3950, -81.7033
+Rice Creek, 29.7028, -81.6642
+Rich Bay, 30.6044, -84.3919
+Richey Lakes, 28.2333, -82.7333
+Richland, 28.2828, -82.1431
+Richloam, 28.5011, -82.1131
+Richmond Heights, 25.6311, -80.3692
+Richter Crossroads, 30.8367, -85.5022
+Rideout, 30.1000, -81.7833
+Ridge Harbor, 26.9903, -81.9547
+Ridge Manor, 28.5072, -82.1706
+Ridge Wood Heights, 27.2833, -82.5167
+Ridgewood(Polk), 27.8911, -81.9139
+Ridgewood(Clay), 30.1386, -81.7844
+Ridgewood(Alachua), 29.6667, -82.3333
+Riley Landing, 30.7181, -86.8097
+Rileys Park, 28.8000, -81.6500
+Rio, 27.2192, -80.2394
+Rio Vista Isles, 26.1103, -80.1231
+Riomar, 27.6447, -80.3564
+Rital, 28.5222, -82.2178
+Ritta, 26.7500, -80.9667
+River Forest, 29.0131, -81.3919
+River Junction, 30.6856, -84.8414
+River Lawn, 26.6500, -81.8333
+River Park, 27.3139, -80.3475
+River Ranch, 27.8833, -81.5667
+River Ranch Shores, 27.8833, -81.5667
+Riverdale, 28.4825, -82.1964
+Riverdale, 29.8214, -81.5519
+Riverland Village, 26.1000, -80.2000
+Riverside(Dade), 25.7667, -80.2333
+Riverside(Duval), 30.3119, -81.6844
+Riverside Acres, 28.6358, -81.4156
+Riverside Hospital(Pasco), 28.2642, -82.7267
+Riverside Hospital(Duval), 30.2742, -81.6511
+Riverview(Escambia), 30.5425, -87.1967
+Riverview(Hillsborough), 27.8658, -82.3267
+Riverview(Duval), 30.4058, -81.6875
+Riviera Beach, 26.7750, -80.0583
+Riviera Colony, 26.1833, -81.8000
+Rixford, 30.3531, -82.9642
+Ro-Len Lake Gardens, 25.9775, -80.1653
+Roan, 28.5528, -81.6825
+Roberts Landing, 30.0781, -84.6353
+Robin Hill, 28.6667, -81.3667
+Robinson Heights, 29.6150, -82.3053
+Robinson Point, 30.6500, -87.0833
+Rochelle, 29.5964, -82.2178
+Rock Bluff, 30.5433, -84.9128
+Rock Bluff Landing(Liberty), 30.5606, -84.9633
+Rock Bluff Landing(Gilchrist), 29.7944, -82.9197
+Rock Creek(Okaloosa), 30.9619, -86.7789
+Rock Creek(Jackson), 30.6517, -85.1603
+Rock Harbor, 25.0764, -80.4606
+Rock Hill(Walton), 30.6006, -86.1061
+Rock Hill(Broward), 26.1167, -80.2167
+Rock Island, 26.1122, -81.3444
+Rock Island Village, 26.1603, -80.1744
+Rock Landing(Wakulla), 30.0264, -84.3864
+Rock Landing(Franklin), 29.9800, -84.5683
+Rock Ridge, 28.3022, -81.9372
+Rock Springs, 28.6833, -81.4667
+Rockdale, 25.6286, -80.3411
+Rockdale Keys, 25.6000, -80.3667
+Rockledge, 28.3506, -80.7256
+Rocksprings, 29.1172, -82.3836
+Rockwell, 28.2942, -80.6747
+Rocky Creek, 28.0042, -82.5797
+Rocky Point, 29.5942, -82.3389
+Rodman, 29.5381, -81.7564
+Roeville, 30.6767, -86.9936
+Rolling Acres, 28.5333, -82.4833
+Rolling Hills(Polk), 27.8233, -81.9689
+Rolling Hills(Duval), 30.3167, -81.7167
+Rolling Oak Acres, 26.1167, -80.2167
+Rollins Corner, 30.4369, -85.2217
+Romeo, 29.2061, -82.4364
+Rood, 26.9489, -80.1972
+Roosevelt Estates, 26.6667, -80.1000
+Rose, 30.3492, -84.1336
+Rosedale, 30.6553, -84.8086
+Roseland, 27.8356, -80.4933
+Rosemont Hills, 28.5833, -81.4000
+Rosewood, 29.2389, -82.9322
+Rotonda, 26.8833, -82.2903
+Rotonda West, 26.8333, -82.2667
+Round Lake, 30.6514, -85.3889
+Roux Quarters, 27.8936, -81.7725
+Roy, 29.6172, -81.4889
+Royal, 28.8942, -82.0953
+Royal Gardens Estates, 27.4667, -82.5833
+Royal Oak Hills, 26.3453, -80.1006
+Royal Pal Village, 26.6000, -81.8667
+Royal Palm Beach, 26.6833, -80.2500
+Royal Palm Beach Plaza, 26.6667, -80.1000
+Royal Palm Hammock, 25.9939, -81.5919
+Royal Palm Isles, 26.1689, -80.1689
+Royal Palms Park, 26.1519, -80.1839
+Royal Poinciana Park, 27.6122, -80.4017
+Royal Terrace, 30.3736, -81.6917
+Royals Crossroads, 30.9756, -85.9978
+Royster, 27.8881, -81.9458
+Rubonia, 27.5786, -82.5528
+Runnymede, 28.2811, -81.2442
+Runyon, 26.7325, -80.6669
+Ruskin, 27.7206, -82.4333
+Russell, 30.0561, -81.7475
+Russell Landing, 30.0672, -81.7342
+Rutland, 28.8528, -82.2136
+Rutledge, 29.6817, -82.4100
+Rye, 27.5142, -82.3681

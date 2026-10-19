@@ -1,0 +1,132 @@
+Dade City, 28.3644, -82.1961
+Dahlberg, 26.6697, -80.7003
+Dahoma, 30.4697, -81.9086
+Daisy Lake, 29.0244, -81.3792
+Dalhousie Acres, 28.9017, -81.6303
+Dalkeith, 30.0056, -85.1542
+Dallas, 28.9708, -82.0411
+Dallus Creek Landing, 29.7211, -83.4867
+Dame Point Manor, 30.3964, -81.5672
+Dames Point, 30.3883, -81.5581
+Dania, 26.0519, -80.1442
+Dania Indian Reservation, 26.0167, -80.2167
+Danks Corner, 29.0108, -82.1200
+Danville, 30.0011, -82.3714
+Darby, 28.3608, -82.3583
+Darlington, 30.9436, -86.0575
+Darsey, 30.6878, -84.3797
+Davenport, 28.1611, -81.6019
+Davie, 26.0644, -80.2322
+Davis Shores, 29.8969, -81.2972
+Day, 30.1939, -83.2914
+Daysville, 29.6275, -82.3697
+Daytona Beach, 29.2106, -81.0231
+Daytona Beach General Hospital, 29.2472, -81.0436
+Daytona Beach Shores, 29.1758, -80.9831
+Daytona Highbridge Estates, 29.2167, -81.0333
+Daytona Highridge Estates, 29.1350, -81.1347
+Daytona Park Estates, 29.0544, -81.2464
+De Funiak Springs, 30.7214, -86.1156
+De Land, 29.0281, -81.3033
+De Land Highlands, 29.0706, -81.2644
+De Leon Springs, 29.1192, -81.3517
+De Leon Springs Heights, 29.1400, -81.3200
+De Poo Hospital, 24.5572, -81.7967
+De Soto City, 27.4422, -81.4053
+Deadman Landing, 29.2617, -81.5347
+Deanville, 29.3428, -81.3528
+DeBary, 28.8828, -81.3089
+Deem City, 26.3378, -80.5411
+Deep Creek, 30.3728, -82.6231
+Deep Lake, 26.0422, -81.3442
+Deer Park, 28.0911, -80.8981
+Deerfield Beach, 26.3181, -80.1000
+Deerland, 30.7517, -86.4358
+Deerwood Club, 30.2308, -81.5497
+Dekle Beach, 29.8489, -83.6194
+Delaco, 30.7667, -86.5667
+Delespine, 28.4903, -80.7794
+Dell, 30.1364, -83.2400
+Dellwood(Jackson), 30.8236, -85.0497
+Dellwood(Pinellas), 27.9825, -82.7092
+Delray Beach, 26.4611, -80.0731
+Delray Community Hospital, 26.4831, -80.0700
+Delray Gardens, 26.4797, -80.1228
+Delray Shores, 26.4708, -80.0975
+Delta, 26.8581, -80.2256
+Deltona, 28.9003, -81.2639
+Delwood Beach, 30.1444, -85.7133
+Demere Landing, 26.5925, -82.1267
+Denaud, 26.7419, -81.5103
+Dennet, 30.5361, -83.6114
+Denver, 29.4042, -81.5269
+Desoto Lakes, 27.3333, -82.5333
+DeSoto Memorial, 27.2242, -81.8647
+Destin, 30.3933, -86.4958
+Devils Garden, 26.7500, -80.9667
+Dewey Park, 30.2317, -81.7028
+Dickerson City, 30.6500, -87.0833
+Dickert, 30.3392, -83.0806
+Dills, 30.6231, -83.7722
+Dinner Island, 29.5608, -81.3847
+Dinsmore, 30.4058, -81.7447
+Dirego Park, 30.1917, -85.6394
+Disston Plaza, 27.7833, -82.7167
+Dixie, 28.4347, -82.3028
+Dixie Grove, 28.2500, -82.7500
+Dixie Ranch Acres, 27.3233, -80.9078
+Dixie Village, 28.5167, -81.3500
+Dixieland, 28.0333, -81.9500
+Dixonville, 30.9989, -87.0364
+Doctor's Lake Estates, 30.1333, -81.7000
+Doctors General Hospital, 26.1386, -80.2378
+Doctors Hospital(Dade), 25.7242, -80.2739
+Doctors Hospital(Sarasota), 27.3217, -82.5147
+Doctors Hospital of Hollywood, 26.0081, -80.1431
+Doctors Hospital of Lake Worth, 26.6283, -80.0725
+Doctors Hospital of Sarasota, 27.3222, -82.5150
+Doctors Inlet, 30.1000, -81.7764
+Doctors Memorial Hospital, 30.1156, -83.5739
+Dogtown, 30.6786, -84.5033
+Dogwood Lake Estates, 30.8833, -85.6667
+Dona Vista, 28.8944, -81.6875
+Donner, 30.3367, -81.4117
+Dorcas, 30.7981, -86.4158
+Dorset, 26.8167, -80.6667
+Douglas City, 30.5833, -84.5833
+Douglas Crossroads, 30.7167, -85.9500
+Douglas Gardens Hospital, 25.8236, -80.1825
+Douglas Landing, 30.0111, -85.1333
+Douglass Crossroads, 30.6875, -85.9767
+Dover, 27.9939, -82.2197
+Dover Shores, 28.5167, -81.3500
+Dowling Park, 30.2433, -83.2364
+Drayton Island, 29.3833, -81.6333
+Dreamworld, 28.7839, -81.2761
+Drew Park, 27.9836, -82.5133
+Drexel, 28.2500, -82.4667
+Drifton, 30.4953, -83.8794
+Driftwood Acres, 26.0278, -80.2267
+Druid Hills, 28.6333, -81.3667
+Dublin, 28.7892, -81.6269
+Duck Key, 24.7000, -81.0833
+Duette, 27.5900, -82.1231
+Dukes, 29.9661, -82.4075
+Dummit Grove, 28.7067, -80.7281
+Dundee, 28.0222, -81.6194
+Dunedin, 28.0194, -82.7719
+Dunedin Isles, 28.0275, -82.7906
+Dunlawton, 29.1500, -80.9833
+Dunn Creek, 30.4861, -81.5908
+Dunnellon, 29.0489, -82.4611
+Dupont, 29.4267, -81.2228
+Dupont Center, 29.7561, -81.3133
+Dupree Gardens, 28.2375, -82.4469
+Durant, 27.9083, -82.1864
+Durant Estates, 29.6564, -82.4047
+Durbin, 30.0872, -81.4614
+Durham, 30.4425, -85.0753
+Durisoe Landing, 29.2633, -81.9464
+Duval, 30.4847, -81.6219
+Duval Medical Center, 30.3489, -81.6628
+Dyal, 30.6211, -81.8703

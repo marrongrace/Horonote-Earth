@@ -1,0 +1,353 @@
+Babson Park, 27.8317, -81.5225
+Bagdad, 30.5986, -87.0311
+Bagwell Landing, 30.4597, -84.4528
+Bahama Beach, 30.1972, -85.8425
+Bahia Beach, 27.7333, -82.4000
+Bahia-mar, 26.0833, -80.1500
+Bahoma, 30.8144, -85.5081
+Bailey, 30.5681, -83.5919
+Baird, 27.6872, -81.9561
+Bairs Den, 27.2081, -81.3286
+Baker(Bay), 30.1658, -85.6858
+Baker(Okaloosa), 30.7969, -86.6814
+Baker Settlement, 30.8669, -85.9050
+Bakers Mill, 30.5794, -82.9394
+Bakersville, 29.9058, -81.4914
+Bal Harbour, 25.8914, -80.1272
+Baldwin, 30.3025, -81.9756
+Ballantine Manor, 27.3333, -82.5333
+Ballard Pines, 27.9156, -80.4786
+Ballentine Manor, 27.4011, -82.5656
+Balm, 27.7592, -82.2614
+Bamboo, 28.8225, -81.9658
+Baptist Hospital, 30.4289, -87.2311
+Baptist Hospital of Miami, 25.6858, -80.3397
+Baptist Medical Center, 30.3153, -81.6625
+Bar Dee Homes, 27.8833, -82.7667
+Barber Quarters, 27.2522, -80.8394
+Barberville, 29.1869, -81.4211
+Bardin, 29.7142, -81.7250
+Bare Beach, 26.7500, -80.9667
+Barefoot Bay, 27.7833, -80.4833
+Barker Store, 30.9142, -85.9161
+Barrineau Park, 30.7000, -87.4333
+Barrs Landing, 29.3378, -81.5650
+Barry College, 25.8833, -80.1833
+Barth, 30.7614, -87.3303
+Bartow, 27.8961, -81.8433
+Bartow Memorial Hospital, 27.8972, -81.8308
+Barwal, 26.3086, -80.0900
+Bascom, 30.9278, -85.1186
+Basinger, 27.4000, -81.0167
+Baskin, 27.8967, -82.7953
+Bass, 30.1083, -82.6961
+Bassville Park, 28.8403, -81.7689
+Basswood Estates, 27.2778, -80.8575
+Battle Ground Forks, 30.5044, -85.9497
+Baum, 30.5139, -84.0803
+Baxter, 30.5133, -82.2339
+Bay Acres, 27.2000, -82.5000
+Bay City, 29.7564, -85.0206
+Bay Harbor(Bay), 30.1469, -85.6147
+Bay Harbor(Broward), 26.1506, -80.1181
+Bay Harbor Islands, 25.8872, -80.1314
+Bay Heights, 25.7456, -80.2219
+Bay Hill, 28.7100, -82.2400
+Bay Lake(Marion), 29.4458, -81.9747
+Bay Lake(Orange), 28.5500, -81.3833
+Bay Lake(Lake), 28.4772, -81.9061
+Bay Medical Center, 30.1592, -85.6486
+Bay Memorial Hospital, 30.1592, -85.6486
+Bay Memorial Medical Center, 30.1592, -85.6486
+Bay Pines, 27.8139, -82.7783
+Bay Pines Veterans Hospital, 27.8100, -82.7786
+Bay Point, 24.6264, -81.5925
+Bay Ridge, 28.7564, -81.5600
+Bay Shore Estates, 27.0667, -82.3333
+Bay Springs, 30.7733, -87.4792
+Bay Vista, 27.7500, -82.6500
+Bayard, 30.1433, -81.5131
+Bayfront Medical Center, 27.7508, -82.6347
+Bayhead, 30.3072, -85.5819
+Bayonet Point/Hudson Regional Medical, 28.3647, -82.7000
+Bayou Crossing, 30.7642, -85.9003
+Bayou George, 30.2625, -85.5400
+Bayport, 28.5456, -82.6422
+Bayshore(Dade), 25.8286, -80.1856
+Bayshore(Lee), 26.7150, -81.8236
+Bayshore Gardens, 27.4250, -82.5906
+Bayshore Manor, 26.6767, -81.8647
+Bayshore Park, 26.9500, -82.0000
+Bayview(Bay), 30.1925, -85.7128
+Bayview(Pinellas), 27.9594, -82.7111
+Baywood, 29.7189, -81.8164
+Beach, 27.6667, -80.4000
+Beach Haven, 30.3847, -87.3078
+Beachville, 29.9978, -82.8614
+Beachwood, 30.2917, -81.5169
+Beacon Beach, 30.0964, -85.6475
+Beacon Hill, 29.9228, -85.3858
+Beacon Hills, 30.3822, -81.5075
+Beacon Light, 26.2833, -80.1500
+Beacon Square, 28.2167, -82.7500
+Bealsville, 28.0167, -82.1333
+Bean City, 26.6817, -80.7619
+Bear Creek, 30.1500, -85.6500
+Bear Head, 30.7167, -86.1167
+Bear Hollow, 27.2083, -81.2881
+Bear Lake, 28.6833, -81.4667
+Bearpen Landing, 30.8722, -85.8778
+Beattys Corner, 27.9667, -82.1708
+Beauclere Gardens, 30.1989, -81.6322
+Beauclere Manor, 30.2333, -81.6333
+Beaver Creek, 30.8800, -86.7786
+Beck Hammock, 28.7867, -81.2186
+Becker, 30.6711, -81.6414
+Beckhamtown, 29.6558, -82.0772
+Bee Ridge, 27.2836, -82.4808
+Beeghly Heights, 30.4906, -81.6742
+Beetree Ford, 29.2303, -82.6489
+Bel Marra, 26.4058, -80.0722
+Bel-Air, 28.7947, -81.2547
+Belair, 30.3800, -84.2683
+Belandville, 30.9817, -86.8489
+Bell, 29.7553, -82.8628
+Bellair, 30.1742, -81.7408
+Belle Ayre Estates, 28.8000, -81.6500
+Belle Glade, 26.6842, -80.6678
+Belle Glade Camp, 26.6500, -80.6833
+Belle Haven, 28.0000, -82.7667
+Belle Isle, 28.4581, -81.3594
+Belle Meade, 26.0494, -81.6997
+Belleair, 27.9356, -82.8064
+Belleair Beach, 27.9228, -82.8433
+Belleair Bluffs, 27.9211, -82.8172
+Belleair Shores, 27.9164, -82.8456
+Belleview(Escambia), 30.4333, -87.2833
+Belleview(Marion), 29.0550, -82.0625
+Belleview Heights, 29.0203, -82.0700
+Bells Mill, 30.6619, -85.5747
+Bellview, 30.4614, -87.3150
+Bellville, 30.5961, -83.2575
+Bellwood, 28.5047, -80.7847
+Bellwood Estates, 30.5039, -84.3283
+Belmont(Hamilton), 30.4981, -82.7508
+Belmont(Pinellas), 27.9333, -82.7667
+Belmore, 29.8864, -81.8989
+Belvedere Homes, 26.7000, -80.0833
+Ben's Lake, 30.4667, -86.5333
+Benbow, 26.8147, -81.0464
+Bennett, 30.3917, -85.5322
+Bennett Landing, 29.1006, -81.4339
+Benson Junction, 28.8650, -81.3297
+Benton, 30.4864, -82.6608
+Bereah, 27.6608, -81.6258
+Beresford, 29.0022, -81.3475
+Beresford Manor, 29.0333, -81.3000
+Berkeley, 28.5025, -82.5889
+Bermont, 26.9453, -81.7608
+Berry, 28.3186, -81.8622
+Berrydale, 30.8992, -87.0139
+Bertha, 28.6183, -81.2664
+Bessemer, 27.0072, -80.6014
+Bessent, 30.2211, -82.1147
+Bethany, 27.3500, -82.1667
+Bethel, 30.2519, -84.3242
+Bethesda Memorial Hospital, 26.4536, -80.0606
+Bethlehem, 30.9244, -85.7392
+Bethune Beach, 29.0333, -80.9167
+Betts, 30.5375, -85.3933
+Betty Lou Beach, 30.1500, -85.6500
+Beulah(Orange), 28.5344, -81.5728
+Beulah(Escambia), 30.5342, -87.4017
+Bevell Place, 28.4797, -82.0433
+Bevens, 28.9664, -82.4011
+Beverley Beach, 25.9947, -80.1186
+Beverley Terrace, 27.3689, -82.5072
+Beverly, 29.8528, -84.9686
+Beverly Beach, 29.5144, -81.1447
+Beverly Hills(Duval), 30.4108, -81.7081
+Beverly Hills(Citrus), 28.8500, -82.4833
+Beverly Terrace, 27.3500, -82.5167
+Beville Heights, 29.6564, -82.3997
+Bevilles Corner, 28.6494, -82.0547
+Bid-A-Wee, 30.2025, -85.8500
+Big Bayou, 27.7833, -82.6667
+Big Bend Farm, 30.4167, -84.3333
+Big Blackjack Landing, 29.9164, -84.5836
+Big Coppitt Key, 24.5667, -81.7333
+Big Cypress, 26.7500, -80.9667
+Big Cypress Seminole Indian Reservation, 26.0167, -80.2167
+Big Pine Key, 24.6667, -81.3500
+Biggar, 26.5203, -81.8911
+Biltmore, 30.3608, -81.7294
+Biltmore Beach, 30.1436, -85.7581
+Bimini, 29.4822, -81.3558
+Birch Ocean Front, 26.1308, -80.1064
+Biscayne Facility, 25.7833, -80.2167
+Biscayne Gardens, 25.9131, -80.2106
+Biscayne Park, 25.8822, -80.1808
+Biscayne Village, 30.4361, -81.7189
+Bithlo, 28.5544, -81.1067
+Black Acres, 29.6667, -82.3333
+Black Creek, 30.5081, -84.0883
+Black Point, 29.4469, -81.3053
+Blackman, 30.9244, -86.6367
+Blacks Ford, 30.0469, -81.5606
+Blacks Still, 30.4667, -82.8022
+Bland, 29.9019, -82.4992
+Blanton, 28.4114, -82.2467
+Blazed Pine Landing(Calhoun), 30.2631, -85.1581
+Blazed Pine Landing(Liberty), 30.2264, -84.6997
+Blichton, 29.2822, -82.3369
+Blocker, 30.5872, -84.2736
+Blood Landing, 30.7889, -81.8158
+Bloody Bluff, 30.3833, -84.8000
+Bloomingdale, 27.8933, -82.2406
+Blountstown, 30.4433, -85.0453
+Blowing Rocks, 26.9767, -80.0819
+Bloxham, 30.3883, -84.6308
+Blue Gulf Beach, 30.3411, -86.2058
+Blue Inlet, 26.3781, -80.0739
+Blue Lake(Pasco), 28.3028, -82.0575
+Blue Lake(Volusia), 29.0333, -81.3000
+Blue Lakes Ridge, 28.9850, -81.5311
+Blue Mountain, 30.3333, -86.2000
+Blue Mountain Beach, 30.3372, -86.1972
+Blue Springs(Hamilton), 30.4864, -83.2200
+Blue Springs(Volusia), 28.9167, -81.2833
+Blue Springs(Lake), 28.7333, -81.8167
+Blue Springs Landing, 28.9431, -81.3400
+Bluefield, 27.1997, -80.5875
+Bluff Landing(Duval), 30.2153, -81.7172
+Bluff Landing(Okaloosa), 30.8181, -86.7444
+Bluff Springs, 30.9361, -87.2947
+Bluffton, 29.1261, -81.5019
+Boardman, 29.4672, -82.2142
+Boca Chica, 24.5667, -81.7000
+Boca Ciega, 27.7603, -82.7664
+Boca Grande, 26.7486, -82.2622
+Boca Harbour, 26.4122, -80.0725
+Boca Raton, 26.3583, -80.0833
+Boca Raton Community Hospital, 26.3936, -80.0844
+Bogia, 30.8422, -87.3244
+Bohemia, 30.4833, -87.1600
+Bokeelia, 26.7053, -82.1592
+Bon Ami, 30.1144, -84.9872
+Bon Secours Hospital, 25.8892, -80.1772
+Bon Terra, 29.5814, -81.1883
+Bonaventure, 28.2736, -80.6936
+Bonifay, 30.7917, -85.6797
+Bonita Beach, 26.3333, -81.7833
+Bonita Shores, 26.3306, -81.8269
+Bonita Springs, 26.3394, -81.7789
+Bonnie, 27.8631, -81.9314
+Bonnie Lock, 26.2792, -80.1281
+Bookertown, 28.8281, -81.3319
+Booth Landing, 30.0672, -81.3639
+Bostwick, 29.7739, -81.6372
+Botts, 30.6500, -87.0833
+Boulevard, 28.0000, -82.7667
+Boulogne, 30.7714, -81.9761
+Bounds Crossing, 30.7981, -85.9125
+Bowden, 30.2658, -81.6183
+Bowling Green, 27.6381, -81.8242
+Boyd, 30.1889, -83.6067
+Boyette, 27.8172, -82.2228
+Boynton Beach, 26.5250, -80.0667
+Boys Ranch, 30.3000, -82.9833
+Braden Castle, 27.4961, -82.5306
+Bradenton, 27.4986, -82.5750
+Bradenton Beach, 27.4667, -82.7042
+Bradford, 30.6550, -85.5517
+Bradford Hospital, 29.9542, -82.1006
+Bradfordville, 30.5611, -84.2178
+Bradley Junction, 27.7950, -81.9806
+Branchborough, 28.2589, -82.0894
+Branchton, 28.1344, -82.2872
+Branchville, 30.6539, -84.4828
+Brandon, 27.9375, -82.2861
+Branford, 29.9589, -82.9283
+Brannonville, 30.2244, -85.5928
+Braswells, 30.5500, -83.8667
+Bratt, 30.9656, -87.4275
+Breezeswept Park Estates, 26.1289, -80.2128
+Brent, 30.4686, -87.2361
+Brentwood, 30.3589, -81.6589
+Brentwood Estates, 26.1892, -80.1472
+Brevard Mental Health Center and Hospital, 28.0903, -80.6336
+Brewers Landing, 29.8731, -81.6208
+Brewster, 27.7525, -81.9797
+Brewster Hospital, 30.3444, -81.6631
+Brickell Hammock, 25.7497, -80.2047
+Brickton, 30.7336, -87.3214
+Brickyard, 29.9625, -85.0219
+Brickyard Landing(Franklin), 29.9489, -85.0150
+Brickyard Landing(Nassau), 30.7617, -81.7836
+Bridgeport(Putnam), 29.7531, -81.5703
+Bridgeport(Pinellas), 28.0269, -82.6911
+Bridges, 27.4083, -81.9069
+Bridle Path Acres, 30.5089, -84.2625
+Bright, 25.8333, -80.2833
+Brighton, 27.2256, -81.0953
+Brighton Indian Reservation, 27.0667, -81.0667
+Briney Breezes, 26.5167, -80.0500
+Bristol, 30.4319, -84.9758
+Broad Branch, 30.3114, -85.2956
+Broadview Country Club Estate, 26.1500, -80.2167
+Broadview Park, 26.1167, -80.2167
+Brock Crossroad, 30.6903, -85.6294
+Bronson, 29.4475, -82.6425
+Brooker, 29.8886, -82.3328
+Brooklyn, 30.3233, -81.6747
+Brookside, 27.7672, -80.5517
+Brooksville, 28.5550, -82.3881
+Brooksville West, 28.5167, -82.4833
+Brookwood Community Hospital, 28.5494, -81.4192
+Broward Gardens, 26.0569, -80.2078
+Broward General Hospital, 26.1014, -80.1408
+Broward Highlands, 26.2981, -80.1111
+Browardale, 26.1333, -80.2333
+Browns Landing(Columbia), 30.3692, -82.6617
+Browns Landing(Putnam), 29.5969, -81.6383
+Browns Still, 29.9842, -82.4908
+Browns Village, 25.8167, -80.2333
+Brownsdale, 30.8822, -87.2256
+Brownsville(Dade), 25.8167, -80.2333
+Brownsville(Escambia), 30.4250, -87.2519
+Browntown, 30.9822, -85.4672
+Brownville, 27.2978, -81.8242
+Broxson, 30.5675, -86.9219
+Bruce, 30.4722, -85.9653
+Bruceville, 29.2336, -81.9472
+Brushy Crossing, 30.2281, -84.9858
+Bryant, 26.8494, -80.6167
+Bryants Landing, 30.0169, -85.1467
+Bryceville, 30.3844, -81.9389
+Brynwood, 26.6000, -81.8667
+Buccaneer Estates, 25.9167, -80.2500
+Bucell Junction, 30.0694, -83.5558
+Buchanan, 27.4117, -81.7928
+Buckhead Ridge, 27.1300, -80.8939
+Buckhorn, 30.0669, -84.4519
+Buckingham, 26.6747, -81.7322
+Buckingham West, 29.6583, -82.4353
+Buckville, 30.1289, -83.2925
+Buda, 29.7589, -82.6261
+Buena Vista(Pasco), 28.1833, -82.7500
+Buena Vista(Dade), 25.8128, -80.1919
+Buena Vista(Jackson), 30.8794, -85.0350
+Buffalo Bluff, 29.5794, -81.6739
+Bull Headley Public Landing, 30.6178, -84.2528
+Bunche Park, 25.9203, -80.2372
+Bunker(De Soto), 27.2167, -81.8667
+Bunker(Walton), 30.3872, -86.0828
+Bunnell, 29.4658, -81.2581
+Burbank, 29.2906, -82.0011
+Burgess Landing, 30.0408, -85.1697
+Burnetts Lake, 29.7872, -82.4778
+Bushnell, 28.6647, -82.1131
+Butcher Pen Landing, 29.8031, -84.9664
+Butter Landing, 30.7122, -86.8300
+Byrd, 29.6775, -81.4611
+Byrneville, 30.9661, -87.3269

@@ -1,0 +1,157 @@
+G Pierce Wood Memorial Hospital, 27.1369, -81.8008
+Gaberonne, 30.4686, -87.1608
+Gabriella, 28.6261, -81.2447
+Gadsden Memorial Hospital, 30.5867, -84.5672
+Gainesville, 29.6514, -82.3250
+Galliver, 30.7242, -86.7072
+Galloway, 28.0961, -82.0067
+Galt City, 30.5892, -87.0581
+Gandyville, 30.9969, -87.2883
+Garden City(Duval), 30.4406, -81.6992
+Garden City(Okaloosa), 30.8322, -86.5333
+Garden Cove, 25.1728, -80.3683
+Garden Grove, 28.4800, -82.4353
+Garden Isles, 26.2236, -80.1189
+Gardena, 28.6667, -81.2000
+Gardenville, 27.8461, -82.3819
+Gardner(Leon), 30.4914, -84.1256
+Gardner(Haedee), 27.3514, -81.8000
+Gardner Landing, 29.8175, -84.9872
+Garnier, 30.6000, -86.6000
+Garnier Landing, 30.6419, -86.8017
+Gary, 27.9556, -82.4283
+Gaskin, 30.9708, -86.1356
+Gaskins Still, 30.0381, -85.1814
+Gasparilla, 26.8044, -82.2769
+Gateway Mall, 27.8500, -82.6667
+Gateway Plaza Hospital, 30.3453, -81.6392
+Geigers Landing, 28.7892, -81.1481
+General Mail Center, 30.3167, -81.6500
+Geneva, 28.7394, -81.1153
+Genoa, 30.4003, -82.8350
+Georgetown, 29.3911, -81.6389
+Georgiana, 28.2881, -80.6753
+Gibson, 30.5661, -84.3994
+Gibsonia, 28.1144, -81.9739
+Gibsonton, 27.8533, -82.3828
+Gifford, 27.6750, -80.4094
+Gilberts Mill, 30.6342, -85.4925
+Gilchrist, 26.7750, -81.8925
+Gillette, 27.6008, -82.5272
+Gilmore, 30.3650, -81.5569
+Gin Hole Landing, 30.6800, -86.6528
+Ginco Bayou, 30.4219, -86.6094
+Glades, 26.6833, -80.5333
+Glades General Hospital, 26.6689, -80.6697
+Glass, 30.8642, -85.4286
+Glen Ridge, 26.6692, -80.0744
+Glen Saint Mary, 30.2756, -82.1608
+Glencoe, 29.0256, -80.9722
+Glendale, 30.8628, -86.1144
+Glenvar Heights, 25.7072, -80.3258
+Glenwood(Bay), 30.1636, -85.6372
+Glenwood(Nassau), 30.6608, -81.5269
+Glenwood(Volusia), 29.0858, -81.3544
+Glenwood Heights, 25.8308, -80.2369
+Glidden Park, 27.4378, -80.3342
+Glory, 30.5833, -84.5833
+Glynlea, 30.2833, -81.5833
+Golden Beach(Dade), 25.9647, -80.1225
+Golden Beach(Sarasota), 27.0667, -82.3333
+Golden Gate(Martin), 27.1622, -80.2164
+Golden Gate(Collier), 26.1875, -81.6953
+Golden Heights, 28.8000, -81.6500
+Golden Isles, 25.9794, -80.1289
+Golden Shores, 25.9333, -80.1500
+Goldenrod(Golden Rod Station), 28.6100, -81.2889
+Golf, 26.5000, -80.1000
+Golf Estates, 26.1592, -80.1981
+Golf Lake Estates, 27.4667, -82.5833
+Golf View, 26.6886, -80.1128
+Golfair Manor, 30.4333, -81.6500
+Golfview Heights, 26.6667, -80.1000
+Gomez, 27.0844, -80.1436
+Gonzalez, 30.5814, -87.2914
+Good Hope, 30.9689, -86.6314
+Good Samaritan Hospital, 26.7250, -80.0522
+Goodbys, 30.2025, -81.6169
+Goodland, 25.9244, -81.6458
+Goodno, 26.7683, -81.3119
+Gopher Ridge, 29.6650, -81.4144
+Gordon, 30.8894, -86.2800
+Gordon Chapel, 29.6000, -82.0833
+Gordonville, 27.9456, -81.8006
+Gores Landing, 29.2892, -81.9261
+Gotha, 28.5275, -81.5233
+Goulding, 30.4428, -87.2225
+Goulds, 25.5622, -80.3825
+Graceville, 30.9567, -85.5167
+Grady, 29.9539, -82.9322
+Graham, 29.8600, -82.2186
+Grahamsville, 29.2317, -81.9664
+Grahamville Landing, 29.2267, -81.9772
+Grand Crossing, 30.3586, -81.7211
+Grand Island, 28.8822, -81.7292
+Grand Park, 30.3528, -81.6994
+Grand Ridge, 30.7122, -85.0203
+Grandin, 29.7275, -81.9186
+Grandview, 29.6994, -81.5997
+Grangers Mill, 30.2833, -81.4000
+Grant, 27.9286, -80.5267
+Grant Center Hospital, 25.5750, -80.4444
+Grant Center Hospital of Miami, 25.7522, -80.2397
+Gratigny, 25.9000, -80.2167
+Grayton Beach, 30.3306, -86.1650
+Grayvik, 25.3167, -80.2869
+Green Bay, 27.8358, -81.9231
+Green Cove Springs, 29.9917, -81.6783
+Green Hills(Bay), 30.4833, -85.4167
+Green Hills(Dade), 25.6000, -80.3667
+Green Point, 29.7575, -84.8319
+Green-Mar Acres, 25.6706, -80.3431
+Greenacres City, 26.6233, -80.1256
+Greenbriar, 28.7758, -81.3181
+Greenfield(Seminole), 30.3519, -81.4469
+Greenfield(Duval), 28.3533, -82.5050
+Greenfield(Pasco), 30.3136, -82.5628
+Greenfield Manor, 30.2833, -81.5833
+Greenhead, 30.5044, -85.6600
+Greenland, 30.1717, -81.5450
+Greensboro, 30.5692, -84.7433
+Greenville, 30.4692, -83.6303
+Greenwood(Jackson), 30.8700, -85.1619
+Greenwood(Santa Rosa), 30.9500, -87.1500
+Gretna, 30.6169, -84.6600
+Greyhound Key, 24.8500, -80.7833
+Griffin, 28.0839, -81.9953
+Griffins Corner, 27.5394, -81.7311
+Gritney, 30.8381, -85.8303
+Grocery Place, 25.9519, -81.6161
+Gross, 30.7158, -81.6756
+Grove City, 26.9139, -82.3272
+Grove Park(Hillsborough), 28.0000, -82.5000
+Grove Park(Polk), 28.0333, -81.9500
+Grove Park(Alachua), 29.6000, -82.1536
+Grove Park(Duval), 30.2833, -81.5833
+Grove Park Estates, 28.0000, -82.5000
+Groveland, 28.5578, -81.8514
+Guilford, 30.0544, -82.4125
+Gulf Beach, 30.2981, -87.4275
+Gulf Beach Heights, 30.3144, -87.4394
+Gulf Breeze, 30.3569, -87.1639
+Gulf Breeze Hospital, 30.3583, -87.1581
+Gulf City, 27.7056, -82.4619
+Gulf Coast Community Hospital, 30.1908, -85.7008
+Gulf Gate Estates, 27.2667, -82.5167
+Gulf Hammock, 29.2528, -82.7311
+Gulf Harbors, 28.2347, -82.7583
+Gulf Lagoon Beach, 30.1644, -85.7869
+Gulf Pines, 30.3714, -86.3353
+Gulf Resort Beach, 30.2233, -85.8917
+Gulf Shores, 27.0667, -82.3333
+Gulf Stream, 26.4933, -80.0553
+Gulfport, 27.7481, -82.7036
+Gum Creek Landing, 30.7119, -85.8344
+Gum Landing, 30.9494, -86.9817
+Gunn Landing(Levy), 29.2261, -82.7328
+Gunn Landing(Liberty), 30.2544, -85.0683
