@@ -1,0 +1,144 @@
+Lahti, 60.9667, 25.6667
+Laihia, 62.9667, 22.0167
+Laitila, 60.8833, 21.6833
+Lammi, 61.0833, 25.0167
+Lampinsaari, 64.4167, 25.1500
+Lapinjärvi, 60.6333, 26.2167
+Lapinlahti, 63.3667, 27.4000
+Lappajärvi(Lappträsk), 63.2000, 23.6333
+Lappeenranta, 61.0667, 28.1833
+Lappfjärd(Lapväärtti), 62.2500, 21.5333
+Lappi, 61.1000, 21.8333
+Lappträsk > Lapinjärvi, 60.6333, 26.2167
+Lapua, 62.9500, 23.0000
+Lapväärtti > Lappfjärd, 62.2500, 21.5333
+Laukaa, 62.4167, 25.9500
+Lauritsala, 61.0667, 28.2667
+Lauttakylä > Huittinen, 61.1833, 22.7000
+Lavia, 61.6000, 22.6000
+Lehtimäki, 62.7833, 23.9167
+Lempäälä, 61.3167, 23.7500
+Leppävirta, 62.4833, 27.7833
+Lestijärvi, 63.5333, 24.6500
+Lieksa, 63.3167, 30.0167
+Lillby, 63.4667, 23.0000
+Liminka, 64.8167, 25.4000
+Liperi, 62.5333, 29.3667
+Lohiniva, 67.1667, 24.9667
+Lohja, 60.2500, 24.0833
+Loimaa, 60.8500, 23.0500
+Lokka, 67.8167, 27.7333
+Loppi, 60.7167, 24.4500
+Loviisa > Lovisa, 60.4500, 26.2333
+Lovisa(Loviisa), 60.4500, 26.2333
+Luhanka, 61.7833, 25.7000
+Länkipohja, 61.7333, 24.8000
+Långnäs, 60.1000, 20.2833
+Maaninka, 63.1500, 27.3000
+Maarianhamina > Mariehamn, 60.1000, 19.9500
+Mariehamn, 60.1000, 19.9500
+Martinniemi, 65.2167, 25.3000
+Martti, 67.4667, 28.3667
+Masku, 60.5667, 22.1000
+Meltaus, 66.9000, 25.3667
+Merikarvia, 61.8500, 21.5000
+Mikkeli, 61.6833, 27.2500
+Muhola, 63.3333, 25.0833
+Muhos, 64.8000, 25.9833
+Multia, 62.4167, 24.7833
+Muonio, 67.9500, 23.7000
+Myllykoski, 60.7833, 26.8000
+Myllymäki, 62.5333, 24.2833
+Mynämäki, 60.6667, 22.0000
+Myrskylä(Mörskom), 60.6667, 25.8500
+Mänttä, 62.0333, 24.6333
+Mäntyharju, 61.4167, 26.8833
+Mäntyluoto, 61.5833, 21.4833
+Mätäsvaara, 63.4333, 29.6000
+Naantali, 60.4500, 22.0333
+Niinisalo, 61.8333, 22.4833
+Nilsiä, 63.2000, 28.0833
+Nivala, 63.9167, 24.9667
+Nokia, 61.4667, 23.5000
+Noormarkku, 61.5833, 21.8667
+Nurmes, 63.5500, 29.1167
+Nurmijärvi, 60.4667, 24.8000
+Nykarleby > Uusikaarlepyy, 63.5333, 22.5333
+Nyslott > Savonlinna, 61.8667, 28.8833
+Nystad > Uusikaupunki, 60.8000, 21.4167
+Närpes(Närpiö), 62.4667, 21.3333
+Närpiö > Närpes, 62.4667, 21.3333
+Oravainen > Oravais, 63.3000, 22.3833
+Oravais(Oravainen), 63.3000, 22.3833
+Orimattila, 60.8000, 25.7500
+Oripää, 60.8500, 22.6833
+Orivesi, 61.6833, 24.3500
+Otanmäki, 64.1167, 27.1000
+Otava, 61.6500, 27.0667
+Oulainen, 64.2667, 24.8000
+Oulu, 65.0167, 25.4667
+Outokumpu, 62.7333, 29.0167
+Padasjoki, 61.3500, 25.2833
+Paimio, 60.4500, 22.7000
+Palojoensuu, 68.2833, 23.0833
+Paltamo, 64.4167, 27.8333
+Pankakoski, 63.3167, 30.1500
+Parainen > Pargas, 60.3000, 22.3000
+Pargas(Parainen), 60.3000, 22.3000
+Parikkala, 61.5500, 29.5000
+Parkano, 62.0167, 23.0167
+Pehula, 61.2833, 22.7000
+Pelkosenniemi, 67.1167, 27.5000
+Pello, 66.7833, 24.0000
+Perho, 63.2167, 24.4167
+Perniö, 60.2000, 23.1333
+Peräseinäjoki, 62.5667, 23.0667
+Petäjävesi, 62.2500, 25.2000
+Pieksämäki, 62.3000, 27.1333
+Pielavesi, 63.2333, 26.7500
+Pietarsaari > Jakobstad, 63.6667, 22.7000
+Pihlava, 61.5500, 21.6000
+Pihtipudas, 63.3833, 25.5667
+Piikkiö, 60.4333, 22.5167
+Piippola, 64.1667, 25.9667
+Pirttikylä > Pörtom, 62.7000, 21.6167
+Polvijärvi, 62.8500, 29.3667
+Pomarkku, 61.7000, 22.0000
+Pori, 61.4833, 21.7833
+Porkkala, 59.9833, 24.4333
+Porokylä, 63.5500, 29.1000
+Porvoo > Borgå, 60.4000, 25.6667
+Posio, 66.1000, 28.1500
+Puhos, 62.0833, 29.9000
+Pulkkila, 64.2667, 25.8667
+Punkalaidun, 61.1167, 23.1000
+Puolanka, 64.8667, 27.6667
+Puumala, 61.5333, 28.1833
+Pyhtää(Pyttis), 60.4833, 26.5333
+Pyhäjoki, 64.4667, 24.2333
+Pyhäsalmi, 63.6833, 25.9833
+Pyhäselkä, 62.4333, 29.9667
+Pyttis > Pyhtää, 60.4833, 26.5333
+Pälkäne, 61.3333, 24.2667
+Pörtom(Pirttikylä), 62.7000, 21.6167
+Raahe, 64.6833, 24.4833
+Raja-Jooseppi, 68.4667, 28.4333
+Rajamäki, 60.5333, 24.7500
+Rantasalmi, 62.0667, 28.3000
+Rantsila, 64.5167, 25.6500
+Ranua, 65.9167, 26.5333
+Raseborg, 59.9833, 23.6500
+Rauma, 61.1333, 21.5000
+Rautalampi, 62.6333, 26.8333
+Rautavaara, 63.4833, 28.3000
+Reisjärvi, 63.6167, 24.9000
+Renko, 60.9000, 24.2833
+Reposaari, 61.6167, 21.4500
+Riihimäki, 60.7500, 24.7667
+Ristiina, 61.5000, 27.2667
+Ristijärvi, 64.7333, 28.4000
+Rovaniemi, 66.5667, 25.8000
+Ruokolahti, 61.2833, 28.8333
+Ruovesi, 61.9833, 24.0833
+Ruukki, 64.6667, 25.1000
+Rääkkylä, 62.3167, 29.6167

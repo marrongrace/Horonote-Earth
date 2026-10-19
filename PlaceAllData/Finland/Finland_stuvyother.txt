@@ -1,0 +1,100 @@
+Saarijärvi, 62.7167, 25.2667
+Salo, 60.3833, 23.1333
+Sauvo, 60.3500, 22.7000
+Savitaipale, 61.2000, 27.7000
+Savonlinna, 61.8667, 28.8833
+Savonranta, 62.1833, 29.2000
+Seinäjoki, 62.7833, 22.8333
+Sevettijärvi, 69.4333, 28.6333
+Sibbo, 60.3667, 25.2667
+Siilinjärvi, 63.0833, 27.6667
+Simpele, 61.4333, 29.3667
+Skaftung, 62.1167, 21.3667
+Sodankylä, 67.4833, 26.5333
+Soini, 62.8667, 24.2167
+Somero, 60.6167, 23.5333
+Sorsakoski, 62.4500, 27.6500
+Sotkamo, 64.1333, 28.4167
+St Michel > Mikkeli, 61.6833, 27.2500
+Storby, 60.2167, 19.5667
+Sukeva, 63.8667, 27.4333
+Sulkava, 61.7833, 28.3833
+Suolahti, 62.5667, 25.8667
+Suomussalmi, 64.8833, 29.0833
+Suonenjoki, 62.6167, 27.1333
+Sysmä, 61.5000, 25.6833
+Säkylä, 61.0333, 22.3333
+Säräisniemi, 64.4500, 26.7833
+Säynätsalo, 62.1333, 25.7667
+Taalintehdas > Dalsbruk, 60.0333, 22.5167
+Taavetti, 60.9167, 27.5667
+Taivalkoski, 65.5667, 28.2500
+Tammerfors > Tampere, 61.5000, 23.7500
+Tammisaari > Ekenäs, 59.9667, 23.4333
+Tampere, 61.5000, 23.7500
+Tannila, 65.4833, 25.9833
+Tavastehus > Hämeenlinna, 61.0000, 24.4500
+Terjärv(Teerijärvi), 63.5333, 23.5000
+Tervakoski, 60.8000, 24.6167
+Tervola, 66.0833, 24.8000
+Teuva, 62.4833, 21.7333
+Toholampi, 63.7667, 24.2500
+Toijala, 61.1667, 23.8667
+Tornio, 65.8500, 24.1333
+Turenki, 60.9167, 24.6333
+Turku(åbo), 60.4500, 22.2833
+Tuupovaara, 62.4833, 30.6000
+Tuusniemi, 62.8167, 28.5000
+Uimaharju, 62.9167, 30.2500
+Uleåborg > Oulu, 65.0167, 25.4667
+Urjala, 61.0833, 23.5333
+Utajärvi, 64.7500, 26.3833
+Utsjoki, 69.8833, 27.0000
+Uusikaarlepyy(Nykarleby), 63.5333, 22.5333
+Uusikaupunki(Nystad), 60.8000, 21.4167
+Vaajakoski, 62.2667, 25.9000
+Vaala, 64.4333, 26.8000
+Vaanta(Vanda), 60.2667, 25.0500
+Vaasa(Vasa), 63.1000, 21.6000
+Valkeakoski, 61.2667, 24.0333
+Valtimo, 63.6667, 28.8000
+Vammala, 61.3333, 22.9000
+Vanda > Vaanta, 60.2667, 25.0500
+Varkaus, 62.3167, 27.9167
+Varpaisjärvi, 63.3667, 27.7500
+Vasa > Vaasa, 63.1000, 21.6000
+Vesanto, 62.9333, 26.4167
+Vieremä, 63.7500, 27.0167
+Vierumäki, 61.1000, 25.9500
+Vihanti, 64.4833, 25.0000
+Vihti, 60.4167, 24.3333
+Viiala, 61.2167, 23.7833
+Viinijärvi, 62.6500, 29.2333
+Viitasaari, 63.0667, 25.8667
+Vikajärvi, 66.6167, 26.2000
+Villmanstrand > Lappeenranta, 61.0667, 28.1833
+Vilppula, 62.0167, 24.5167
+Vimpeli, 63.1500, 23.8000
+Virkkala, 60.2000, 24.0167
+Virojoki, 60.5833, 27.7000
+Virrat, 62.2333, 23.7833
+Virtaniemi, 68.8833, 28.4500
+Voikkaa, 60.9333, 26.6167
+Vuohijärvi, 61.0833, 26.8000
+Vuoksenniska, 61.2167, 28.8167
+Vuotso, 68.1333, 27.1333
+Värtsilä, 62.2500, 30.6667
+Vääksy, 61.1833, 25.5500
+Vörå(Vöyri), 63.1500, 22.2500
+Vöyri > Vörå, 63.1500, 22.2500
+Ylihärmä, 63.1500, 22.7833
+Ylimarkku > Övermark, 62.6333, 21.5000
+Ylistaro, 62.9500, 22.5167
+Ylivieska, 64.0833, 24.5500
+Yläne, 60.8833, 22.9167
+Ylöjärvi, 61.5500, 23.6000
+Ähtäri, 62.5667, 24.1000
+Ämmänsaari, 64.8833, 28.9167
+Äänekoski, 62.6000, 25.7333
+åbo > Turku, 60.4500, 22.2833
+Övermark(Ylimarkku), 62.6333, 21.5000
