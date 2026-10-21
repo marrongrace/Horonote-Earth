@@ -34,7 +34,7 @@ GLOBAL_COUNTRIES = [
     "Comoros", "Congo", "Connecticut","Cook Islands", "Costa Rica", "Croatia", "Cuba", "Cyprus", "Czech Republic",
     "Delaware", "Denmark", "Djibouti", "Dominica", "Dominican Republic","Democratic Republic of the Congo", "East Timor","Ecuador", "Egypt",
     "El Salvador", "Equatorial Guinea", "Eritrea", "Estonia", "Eswatini", "Ethiopia", "Faeroe Islands", "Falkland Islands", "Fiji", "Finland", "Florida",
-    "France", "French Guiana", "French Polynesia", "Gabon", "Gambia", "Georgia", "Germany", "Ghana", "Gibraltar", "Greece",
+    "France", "French Guiana", "French Polynesia", "Gabon", "Gambia", "Georgia(Country)", "Georgia(State)", "Germany", "Ghana", "Gibraltar", "Greece",
     "Greenland", "Grenada", "Guadeloupe", "Guam", "Guatemala", "Guernsey", "Guinea", "Guinea-Bissau", "Guyana", "Haiti",
     "Hawaii", "Honduras", "Hungary", "Iceland", "Idaho", "Illinois", "India", "Indiana", "Indonesia", "Iowa",
     "Iran", "Iraq", "Ireland", "Isle of Man", "Israel", "Italy", "Ivory Coast", "Jamaica",  "Japan", "Jersey",
