@@ -1,0 +1,512 @@
+Cabourg, 49.2833, -0.1333
+Cachan, 48.8000, 2.3333
+Cadenet, 43.7333, 5.3667
+Cadillac, 44.6333, -0.3167
+Caen, 49.1833, -0.3500
+Cagnes sur Mer, 43.6667, 7.1500
+Cahors, 44.4500, 1.4333
+Caille, 43.7667, 6.7333
+Cajarc, 44.4833, 1.8333
+Calacuccia, 42.3333, 9.0500
+Calais, 50.9500, 1.8333
+Callac, 48.4000, -3.4333
+Callas, 43.5833, 6.5333
+Calonne Ricouart, 50.4833, 2.4833
+Caluire et Cuire, 45.8000, 4.8500
+Calvi, 42.5667, 8.7500
+Camarès, 43.8167, 2.8833
+Cambrai, 50.1667, 3.2333
+Cambremer, 49.1500, 0.0500
+Campagne lès Hesdin, 50.4000, 1.8667
+Canapville, 49.3167, 0.1333
+Cancale, 48.6833, -1.8500
+Cancon, 44.5333, 0.6333
+Candé, 47.5667, -1.0333
+Cannes, 43.5500, 7.0167
+Canteleu, 49.4500, 1.0333
+Cany Barville, 49.7833, 0.6333
+Captieux, 44.3000, -0.2667
+Carbon Blanc, 44.8833, -0.5167
+Carcassonne, 43.2167, 2.3500
+Carcès, 43.4667, 6.1833
+Carentan, 49.3000, -1.2333
+Carhaix Plouguer, 48.2833, -3.5833
+Carignan, 49.6333, 5.1667
+Carling, 49.1667, 6.7167
+Carmaux, 44.0500, 2.1500
+Carnetin, 48.9000, 2.7000
+Carnières, 50.1667, 3.3500
+Carnon Plage, 43.5333, 3.9833
+Carnoules, 43.3000, 6.1833
+Carpentras, 44.0500, 5.0500
+Carquefou, 47.3000, -1.5000
+Carqueiranne, 43.0833, 6.0833
+Carrières sous Bois, 48.9500, 2.1167
+Carrières sous Poissy, 48.9500, 2.0500
+Carrières sur Seine, 48.9167, 2.1833
+Carro, 43.3333, 5.0333
+Carros, 43.8000, 7.1833
+Carrouges, 48.5667, -0.1500
+Carry le Rouet, 43.3333, 5.1500
+Carvin, 50.4833, 2.9667
+Cassagnas, 44.2667, 3.7500
+Cassel, 50.8000, 2.4833
+Cassis, 43.2167, 5.5333
+Casteljaloux, 44.3167, 0.0833
+Castellane, 43.8500, 6.5167
+Castelmoron sur Lot, 44.4000, 0.5000
+Castelnau Montratier, 44.2667, 1.3500
+Castelnaudary, 43.3167, 1.9500
+Castelsarrasin, 44.0333, 1.1000
+Castets, 43.8833, -1.1500
+Castillon la Bataille, 44.8500, -0.0500
+Castres, 43.6000, 2.2500
+Castries, 43.6667, 3.9833
+Cattenom, 49.4167, 6.2500
+Catus, 44.5667, 1.3333
+Caudebec en Caux, 49.5333, 0.7333
+Caudebec lès Elbeuf, 49.2833, 1.0333
+Caudry, 50.1333, 3.4167
+Caumont sur Durance, 43.9000, 4.9500
+Caussade, 44.1667, 1.5333
+Cavaillon, 43.8333, 5.0333
+Cavalaire sur Mer, 43.1667, 6.5333
+Cavalière, 43.1500, 6.4333
+Cayeux sur Mer, 50.1833, 1.4833
+Caylus, 44.2333, 1.7667
+Cayres, 44.9167, 3.8000
+Cazères, 43.2167, 1.0833
+Celles sur Plaine, 48.4667, 6.9500
+Cellettes, 47.5333, 1.3833
+Cendras, 44.1500, 4.0667
+Censeau, 46.8167, 6.0667
+Cepoy, 48.0500, 2.7333
+Cercié, 46.1167, 4.6667
+Cerdon(Rhone-Alpes), 46.0833, 5.4667
+Cerdon(Centre), 47.6333, 2.3667
+Cergy, 49.0333, 2.0667
+Cerisiers, 48.1333, 3.4833
+Cernay, 47.8167, 7.1667
+Cernay la Ville, 48.6667, 1.9667
+Cerny en Laonnois, 49.4500, 3.6667
+Cervione, 42.3333, 9.5167
+Cesson, 48.5667, 2.6000
+Cevins, 45.5833, 6.4667
+Ceyzériat, 46.1667, 5.3167
+Chabanais, 45.8667, 0.7167
+Chabeuil, 44.9000, 5.0167
+Chablis, 47.8167, 3.8000
+Chabris, 47.2500, 1.6500
+Chagny, 46.9167, 4.7500
+Chahaignes, 47.7333, 0.5167
+Chailley, 48.0833, 3.7000
+Chailly en Bière, 48.4667, 2.5833
+Chaillé les Marais, 46.4000, -1.0167
+Chalais, 45.2667, 0.0333
+Chalamont, 46.0000, 5.1667
+Chalampé, 47.8167, 7.5500
+Chaleine, 48.6000, 1.7167
+Chalifert, 48.8833, 2.7667
+Chaligny, 48.6167, 6.0833
+Chalindrey, 47.8000, 5.4333
+Challans, 46.8500, -1.8833
+Challes les Eaux, 45.5500, 5.9833
+Chalon sur Saône, 46.7833, 4.8500
+Chalonnes sur Loire, 47.3500, -0.7667
+Chamarande, 48.5167, 2.2167
+Chambley Bussières, 49.0500, 5.9000
+Chambly, 49.1667, 2.2500
+Chambois, 48.8000, 0.1167
+Chambon sur Dolore, 45.5000, 3.6167
+Chambon sur Voueize, 46.1833, 2.4167
+Chambourcy, 48.9000, 2.0500
+Chambry, 49.0000, 2.9000
+Chambéry, 45.5667, 5.9333
+Chamonix Mont Blanc, 45.9167, 6.8667
+Chamousset, 45.5500, 6.2000
+Chamoux sur Gelon, 45.5333, 6.2167
+Champagne, 45.2667, 4.8000
+Champagne en Valromay, 45.9000, 5.6833
+Champagne sur Seine, 48.4000, 2.8000
+Champagney, 47.7000, 6.6833
+Champagnole, 46.7500, 5.9167
+Champagny, 45.4500, 6.7000
+Champcueil, 48.5167, 2.4500
+Champdeniers, 46.4833, -0.4000
+Champdeuil, 48.6167, 2.7333
+Champdor, 46.0167, 5.6000
+Champeaux, 48.5833, 2.8000
+Champeix, 45.6000, 3.1333
+Champier, 45.4500, 5.2833
+Champigneulles, 48.7333, 6.1667
+Champigny sur Marne, 48.8167, 2.5167
+Champlan, 48.7167, 2.2667
+Champlitte et le Prélot, 47.6167, 5.5167
+Champrond en Gâtine, 48.4000, 1.0833
+Champs, 47.7333, 3.6000
+Champs sur Marne, 48.8500, 2.6000
+Champvans, 47.1000, 5.4333
+Chamrousse, 45.1333, 5.8667
+Chanas, 45.3000, 4.8167
+Chanceaux, 47.5167, 4.7000
+Chanceaux sur Choisille, 47.4667, 0.7000
+Chanteloup, 48.8500, 2.7333
+Chanteloup les Vignes, 48.9833, 2.0333
+Chantilly, 49.2000, 2.4667
+Chantonnay, 46.6833, -1.0500
+Chantraine, 48.1667, 6.4333
+Chantrans, 47.0500, 6.1500
+Chaource, 48.0667, 4.1333
+Chapareillan, 45.4667, 5.9667
+Chapeauroux, 44.8333, 3.7333
+Chapet, 48.9667, 1.9333
+Chaponval, 49.0667, 2.1500
+Charavines les Bains, 45.4333, 5.5167
+Charenton du Cher, 46.7333, 2.6333
+Charenton le Pont, 48.8167, 2.4167
+Charleville Mézières, 49.7667, 4.7167
+Charlieu, 46.1667, 4.1667
+Charly sur Marne, 48.9667, 3.2833
+Charmentray, 48.9500, 2.7833
+Charmes, 48.3667, 6.2833
+Charmes sur Rhône, 44.8667, 4.8333
+Charmois l'Orgueilleux, 48.1000, 6.2667
+Charmont en Beauce, 48.2333, 2.1000
+Charnay lès Mâcon, 46.3000, 4.7833
+Charny(Ile-de-France), 48.9667, 2.7667
+Charny(Bourgogne), 47.8833, 3.1000
+Charny sur Meuse, 49.2000, 5.3667
+Charolles, 46.4333, 4.2833
+Charquemont, 47.2167, 6.8167
+Charroux, 46.1500, 0.4000
+Chars, 49.1667, 1.9333
+Chartres, 48.4500, 1.5000
+Chartrettes, 48.4833, 2.7000
+Chasse sur Rhône, 45.5667, 4.8167
+Chatonville, 48.5500, 1.8667
+Chatou, 48.9000, 2.1500
+Chauconin, 48.9667, 2.8500
+Chaudes Aigues, 44.8500, 3.0000
+Chauffayer, 44.7500, 6.0167
+Chaulnes, 49.8167, 2.8000
+Chaumergy, 46.8500, 5.4833
+Chaumes en Brie, 48.6667, 2.8500
+Chaumont, 48.1167, 5.1333
+Chaumont en Vexin, 49.2667, 1.8833
+Chaumont Porcien, 49.6500, 4.2500
+Chaumont sur Aire, 48.9333, 5.2500
+Chaumont sur Loire, 47.4833, 1.1833
+Chaumont sur Tharonne, 47.6167, 1.9000
+Chauny, 49.6167, 3.2167
+Chaussin, 46.9667, 5.4167
+Chauvigny, 46.5667, 0.6500
+Chauvirey le Châtel, 47.7833, 5.7500
+Chauvry, 49.0500, 2.2667
+Chavanges, 48.5167, 4.5667
+Chavenay, 48.8500, 1.9833
+Chaville, 48.8000, 2.1667
+Chazay d'Azergues, 45.8833, 4.6167
+Chazelles sur Lyon, 45.6333, 4.3833
+Chef Boutonne, 46.1167, -0.0667
+Chelles, 48.8833, 2.6000
+Chemillé, 47.2167, -0.7333
+Chemin, 46.9833, 5.3167
+Cheniménil, 48.1333, 6.6000
+Chennevières, 49.0000, 2.1167
+Chennevières lès Louvres, 49.0500, 2.5500
+Chenonceaux, 47.3333, 1.0667
+Chens sur Léman, 46.3333, 6.2667
+Chenôve, 47.2833, 5.0000
+Cheptainville, 48.5500, 2.2667
+Cherbourg, 49.6500, -1.6500
+Chessy, 48.8833, 2.7667
+Chevannes, 48.5333, 2.4500
+Chevenoz, 46.3333, 6.6500
+Cheverny, 47.5000, 1.4667
+Chevillon, 48.5333, 5.1333
+Chevilly Larue, 48.7667, 2.3500
+Chevreuse, 48.7000, 2.0500
+Chevry Cossigny, 48.7167, 2.6667
+Chilly Mazarin, 48.7000, 2.3167
+Chinon, 47.1667, 0.2500
+Chirens, 45.4167, 5.5500
+Chisseaux, 47.3333, 1.0833
+Choisel, 48.6833, 2.0167
+Choisy, 45.9833, 6.0500
+Choisy le Roi, 48.7667, 2.4167
+Cholet, 47.0667, -0.8833
+Chomérac, 44.7000, 4.6500
+Chorges, 44.5500, 6.2833
+Châlette sur Loing, 48.0167, 2.7333
+Châlons sur Marne, 48.9500, 4.3667
+Châlus, 45.6500, 0.9833
+Château Arnoux, 44.1000, 6.0000
+Château Chinon, 47.0667, 3.9333
+Château du Loir, 47.7000, 0.4167
+Château Gontier, 47.8333, -0.7000
+Château la Vallière, 47.5500, 0.3167
+Château Landon, 48.1500, 2.7000
+Château Porcien, 49.5333, 4.2500
+Château Queyras, 44.7500, 6.7833
+Château Renault, 47.5833, 0.9167
+Château Salins, 48.8167, 6.5000
+Château Thierry, 49.0500, 3.4000
+Châteaubriant, 47.7167, -1.3833
+Châteaudun, 48.0833, 1.3333
+Châteaufort, 48.7333, 2.1000
+Châteaulin, 48.2000, -4.0833
+Châteaumeillant, 46.5667, 2.2000
+Châteauneuf, 43.3833, 5.1667
+Châteauneuf de Randon, 44.6500, 3.6667
+Châteauneuf du Pape, 44.0500, 4.8333
+Châteauneuf du Rhône, 44.4833, 4.7167
+Châteauneuf en Thymerais, 48.5833, 1.2500
+Châteauneuf sur Charente, 45.6000, -0.0500
+Châteauneuf sur Loire, 47.8667, 2.2333
+Châteauneuf sur Sarthe, 47.6833, -0.5000
+Châteauneuf Val de Bargis, 47.2833, 3.2333
+Châteauredon, 44.0167, 6.2167
+Châteaurenard, 47.9333, 2.9333
+Châteaurenard Provence, 43.8833, 4.8500
+Châteauroux, 46.8167, 1.7000
+Châteauvillain, 48.0333, 4.9167
+Châtel, 46.2833, 6.8333
+Châtel Censoir, 47.5167, 3.6333
+Châtel sur Moselle, 48.3000, 6.4000
+Châtellerault, 46.8167, 0.5500
+Châtelus Malvaleix, 46.3000, 2.0167
+Châtenay en France, 49.0667, 2.4500
+Châtenay Malabry, 48.7667, 2.2833
+Châtenois(Lorraine), 48.3000, 5.8333
+Châtenois(Alsace), 48.2667, 7.4000
+Châtenois les Forges, 47.5667, 6.8500
+Châtillon(Rhone-Alpes), 45.8833, 4.6167
+Châtillon(Ile-de-France), 48.8000, 2.2833
+Châtillon Coligny, 47.8333, 2.8500
+Châtillon en Bazois, 47.0500, 3.8167
+Châtillon en Diois, 44.6833, 5.4667
+Châtillon la Borde, 48.5500, 2.8167
+Châtillon sur Chalaronne, 46.1167, 4.9667
+Châtillon sur Indre, 46.9833, 1.1833
+Châtillon sur Loire, 47.5833, 2.7500
+Châtillon sur Marne, 49.1000, 3.7500
+Châtillon sur Seine, 47.8500, 4.5500
+Châtres, 48.7167, 2.8167
+Châttillon de Michaille, 46.1333, 5.7833
+Chèvreville, 49.1167, 2.8500
+Chérence, 49.0833, 1.6833
+Chéroy, 48.2000, 3.0000
+Cirey sur Vezouze, 48.5833, 6.9500
+Civray, 46.1500, 0.3000
+Cize, 46.2000, 5.4333
+Clairfontaine en Yvelines, 48.6167, 1.9167
+Clairmarais, 50.7667, 2.3000
+Clairvaux les Lacs, 46.5667, 5.7500
+Claix, 45.1167, 5.6667
+Clamart, 48.8000, 2.2667
+Clamecy, 47.4500, 3.5167
+Clans, 44.0000, 7.1500
+Claret, 43.8667, 3.9000
+Clary, 50.0833, 3.4000
+Claude, 47.3833, 5.8667
+Claye Souilly, 48.9500, 2.7000
+Clefmont, 48.1000, 5.5167
+Clelles, 44.8333, 5.6167
+Clermont, 49.3833, 2.4000
+Clermont en Argonne, 49.1000, 5.0667
+Clermont Ferrand, 45.7833, 3.0833
+Clerval, 47.4000, 6.5000
+Clichy, 48.9000, 2.3000
+Clichy sous Bois, 48.9167, 2.5500
+Clisson, 47.0833, -1.2833
+Cloyes sur le Loir, 48.0000, 1.2333
+Cluny, 46.4333, 4.6500
+Cluses, 46.0667, 6.6000
+Clères, 49.6000, 1.1167
+Cléon d'Andran, 44.6167, 4.9333
+Cléry St André, 47.8167, 1.7500
+Coclois, 48.4667, 4.3333
+Cognac, 45.7000, -0.3333
+Cognin, 45.5667, 5.9000
+Cogolin, 43.2500, 6.5333
+Coignières, 48.7500, 1.9167
+Colembert, 50.7500, 1.8333
+Coligny, 46.3833, 5.3500
+Collobrières, 43.2333, 6.3000
+Collonges, 46.1333, 5.9000
+Collégien, 48.8333, 2.6667
+Colmar, 48.0833, 7.3667
+Colmars, 44.1833, 6.6333
+Colombes, 48.9167, 2.2500
+Colombey les Belles, 48.5333, 5.9000
+Colombey les deux Églises, 48.2167, 4.8833
+Colonard Corubert, 48.4167, 0.6500
+Combeaufontaine, 47.7167, 5.8833
+Combles, 50.0167, 2.8667
+Combloux, 45.9000, 6.6500
+Combourg, 48.4167, -1.7500
+Combres, 48.3167, 1.0667
+Combronde, 45.9833, 3.0833
+Combs la Ville, 48.6667, 2.5667
+Comines, 50.7667, 3.0167
+Commentry, 46.2833, 2.7333
+Commercy, 48.7500, 5.5833
+Compans, 49.0000, 2.6667
+Compiègne, 49.4167, 2.8333
+Comps sur Artuby, 43.7167, 6.5000
+Concarneau, 47.8667, -3.9167
+Conches en Ouche, 48.9667, 0.9333
+Condat en Féniers, 45.3500, 2.7667
+Condom, 43.9667, 0.3667
+Condrieu, 45.4500, 4.7667
+Condé, 48.8500, -0.5500
+Condé en Brie, 49.0000, 3.5500
+Condé sur l'Escaut, 50.4500, 3.5833
+Condé sur Vesgre, 48.7500, 1.6667
+Condécourt, 49.0333, 1.9500
+Conflans en Jarnisy, 49.1667, 5.8500
+Conflans Ste Honorine, 48.9833, 2.1000
+Confolens, 46.0167, 0.6833
+Conliège, 46.6500, 5.6000
+Connaux, 44.0833, 4.6000
+Connerré, 48.0500, 0.5000
+Contes, 43.8167, 7.3167
+Contres, 47.4167, 1.4333
+Contrexéville, 48.1833, 5.9000
+Contrisson, 48.8000, 4.9500
+Conty, 49.7333, 2.1500
+Contz les Bains, 49.4500, 6.3500
+Corbeil Essonnes, 48.6000, 2.4833
+Corbenay, 47.9000, 6.3333
+Corbeny, 49.4667, 3.8167
+Corberon, 47.0167, 4.9833
+Corbie, 49.9167, 2.5000
+Corbigny, 47.2500, 3.6667
+Corcieux, 48.1667, 6.8833
+Cordes, 44.0667, 1.9500
+Corlay, 48.3167, -3.0500
+Cormainville, 48.1333, 1.6000
+Cormatin, 46.5500, 4.6833
+Cormeilles, 49.2500, 0.3833
+Cormeilles en Parisis, 48.9833, 2.2000
+Cormery, 47.2667, 0.8500
+Cornas, 44.9667, 4.8500
+Corps, 44.8167, 5.9500
+Corte, 42.3000, 9.1333
+Cosne sur Loire, 47.4000, 2.9167
+Cossé le Vivien, 47.9500, -0.9167
+Costaros, 44.9000, 3.8333
+Cotignac, 43.5333, 6.1500
+Coubert, 48.6667, 2.7000
+Coubron, 48.9167, 2.5833
+Couches les Mines, 46.8667, 4.5667
+Coucouron, 44.8000, 3.9667
+Coucy le Château Auffrique, 49.5167, 3.3167
+Coudekerque Branche, 51.0333, 2.4000
+Couhé, 46.3000, 0.1833
+Couilly Pont aux Dames, 48.8833, 2.8667
+Coulanges la Vineuse, 47.7000, 3.5833
+Coulanges sur Yonne, 47.5167, 3.5333
+Coulmier le Sec, 47.7500, 4.4833
+Coulogne, 50.9167, 1.8833
+Coulomby, 50.7000, 2.0000
+Coulommiers, 48.8167, 3.0833
+Coupvray, 48.9000, 2.8000
+Cour Cheverny, 47.5000, 1.4500
+Cour et Buis, 45.4333, 5.0000
+Courbevoie, 48.9000, 2.2500
+Courbons, 44.1000, 6.2000
+Courcelle, 48.7000, 2.1000
+Courcelles, 49.1167, 2.3000
+Courcelles Chaussy, 49.1167, 6.4000
+Courcelles les Lens, 50.4167, 3.0167
+Courcelles sur Nied, 49.0667, 6.3000
+Courchevel, 45.4167, 6.6333
+Courcouronnes, 48.6167, 2.4000
+Courdimanche, 49.0333, 2.0000
+Courgent, 48.9000, 1.6667
+Courpière, 45.7500, 3.5500
+Courquetaine, 48.6833, 2.7500
+Courson les Carrières, 47.6000, 3.5000
+Courtacon, 48.7000, 3.2833
+Courtalain, 48.0833, 1.1500
+Courtenay, 48.0333, 3.0500
+Courthézon, 44.0833, 4.8833
+Courtisols, 48.9833, 4.5167
+Courtomer, 48.6333, 0.3667
+Courtomer, 48.6500, 2.9000
+Courtry(North Ile-de-France), 48.9167, 2.6000
+Courtry(South Seine-et-Marne), 48.5500, 2.7667
+Courville sur Eure, 48.4500, 1.2500
+Courçay, 47.2500, 0.8667
+Courçon, 46.2500, -0.8167
+Cousolre, 50.2500, 4.1500
+Coussegrey, 47.9500, 4.0167
+Coussey, 48.4167, 5.6833
+Coustellet, 43.8833, 5.1833
+Coutances, 49.0500, -1.4333
+Coutevroult, 48.8667, 2.8500
+Coutras, 45.0333, -0.1333
+Couture sur Loir, 47.7500, 0.6833
+Cozes, 45.5833, -0.8333
+Craches, 48.5667, 1.8167
+Cramant, 48.9833, 3.9833
+Cran Gévrier, 45.9000, 6.1000
+Craon, 47.8500, -0.9500
+Craonne, 49.4333, 3.7833
+Craponne(Rhone-Alpes), 45.7333, 4.7167
+Craponne(Auvergne), 45.3333, 3.8500
+Cravant, 47.6833, 3.6833
+Creil, 49.2667, 2.4833
+Crespian, 43.8833, 4.1000
+Crespin, 50.4167, 3.6500
+Crespières, 48.8833, 1.9167
+Cressely, 48.7167, 2.0833
+Crest, 44.7333, 5.0333
+Creutzwald la Croix, 49.2000, 6.6833
+Criel sur Mer, 50.0167, 1.3167
+Criquetot l'Esneval, 49.6500, 0.2667
+Crisenoy, 48.6000, 2.7500
+Croisilles, 50.2000, 2.8833
+Croissy Beaubourg, 48.8333, 2.6667
+Croissy sur Seine, 48.8833, 2.1500
+Croix, 50.6667, 3.1500
+Crolles, 45.2833, 5.8833
+Crosne, 48.7167, 2.4667
+Crotenay, 46.7500, 5.8167
+Crouy, 49.4000, 3.3667
+Crozon, 48.2500, -4.4833
+Cruas, 44.6500, 4.7667
+Cruseilles, 46.0333, 6.1167
+Crusnes, 49.4333, 5.9167
+Cruzy le Châtel, 47.8500, 4.2000
+Crèvecœur en Auge, 49.1167, 0.0167
+Crèvecœur en Brie, 48.7500, 2.9167
+Crèvecœur le Grand, 49.6000, 2.0833
+Crécy en Brie, 48.8500, 2.9167
+Crécy en Ponthieu, 50.2500, 1.8833
+Crécy sur Serre, 49.7000, 3.6167
+Crégy lès Meaux, 48.9667, 2.8667
+Créhange, 49.0500, 6.5833
+Crémieu, 45.7167, 5.2500
+Crépieux la Pape, 45.8000, 4.8667
+Crépy en Laonnois, 49.6000, 3.5167
+Crépy en Valois, 49.2333, 2.9000
+Créquy, 50.4833, 2.0500
+Créteil, 48.8000, 2.4667
+Crêches sur Saône, 46.2500, 4.7833
+Cucuron, 43.7833, 5.4333
+Cuers, 43.2333, 6.0667
+Cuiseaux, 46.5000, 5.4000
+Cuisery, 46.5500, 5.0000
+Cuisy, 49.0167, 2.7667
+Culoz, 45.8500, 5.7833
+Cunlhat, 45.6333, 3.5833
+Cuperly, 49.0667, 4.4333
+Cussey sur l'Ognon, 47.3333, 5.9333
+Custines, 48.8000, 6.1500
+Cuvilly, 49.5500, 2.7000
+Cysoing, 50.5667, 3.2167
+Céreste, 43.8500, 5.5833
+Céret, 42.4833, 2.7500
+Cérilly, 46.6167, 2.8167

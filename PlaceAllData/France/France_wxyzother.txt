@@ -1,0 +1,103 @@
+Waldighoffen, 47.5500, 7.3167
+Walincourt, 50.0667, 3.3333
+Wallers, 50.3667, 3.4000
+Wangenbourg, 48.6167, 7.3167
+Warfusée Abancourt, 49.8667, 2.5833
+Warmeriville, 49.3500, 4.2167
+Wasquehal, 50.6667, 3.1500
+Wasselonne, 48.6333, 7.4500
+Wassigny, 50.0167, 3.6000
+Wassy, 48.5000, 4.9500
+Watten, 50.8333, 2.2167
+Wattignies, 50.5833, 3.0500
+Wattrelos, 50.7000, 3.2167
+Wavrin, 50.5667, 2.9167
+Waziers, 50.3833, 3.1167
+Westhoffen, 48.6000, 7.4333
+Weyersheim, 48.7167, 7.8000
+Wignehies, 50.0167, 4.0000
+Wildenstein, 47.9833, 6.9667
+Willer sur Thur, 47.8500, 7.0833
+Wimereux, 50.7667, 1.6167
+Wimmenau, 48.9167, 7.4167
+Wingen sur Moder, 48.9167, 7.3667
+Wingles, 50.4833, 2.8500
+Wintzenheim, 48.0667, 7.2833
+Wissant, 50.8833, 1.6667
+Wissembourg, 49.0333, 7.9500
+Wissous, 48.7333, 2.3333
+Witry lès Reims, 49.3000, 4.1167
+Wittelsheim, 47.8167, 7.2500
+Wittenheim, 47.8167, 7.3333
+Wizernes, 50.7167, 2.2333
+Woerth, 48.9333, 7.7500
+Woincourt, 50.0667, 1.5333
+Wormhoudt, 50.8833, 2.4667
+Wy Dit Joli Village, 49.1000, 1.8333
+Xertigny, 48.0500, 6.4000
+Yenne, 45.7000, 5.7667
+Yermenonville, 48.5500, 1.6167
+Yerres, 48.7167, 2.5000
+Yerville, 49.6667, 0.9000
+Ymeray, 48.5167, 1.7000
+Yport, 49.7333, 0.3167
+Yssingeaux, 45.1333, 4.1167
+Yvetot, 49.6167, 0.7667
+Yvette, 48.7167, 1.9167
+Yvoire, 46.3667, 6.3333
+Yzeron, 45.7000, 4.5833
+Zicavo, 41.9000, 9.1333
+Zillisheim, 47.6833, 7.2667
+Zinswiller, 48.9167, 7.5833
+Zonza, 41.7500, 9.1667
+Écharcon, 48.5667, 2.4000
+Échauffour, 48.7333, 0.3833
+Échenoz la Méline, 47.6000, 6.1333
+Écommoy, 47.8333, 0.2667
+Écos, 49.1667, 1.6500
+Écouen, 49.0167, 2.3833
+Écouis, 49.3167, 1.4333
+Écrosnes, 48.5500, 1.7333
+Écueillé, 47.0833, 1.3500
+Écuisses, 46.7500, 4.5333
+Écury sur Coole, 48.9000, 4.3333
+Égletons, 45.4000, 2.0500
+Égly, 48.5833, 2.2167
+Égreville, 48.1667, 2.8667
+Éguilles, 43.5667, 5.3667
+Élancourt, 48.7833, 1.9667
+Élisabethville, 48.9667, 1.8500
+Éloyes, 48.1000, 6.6167
+Émancé, 48.5833, 1.7333
+Émerainville, 48.8167, 2.6167
+Épernay, 49.0500, 3.9500
+Épernon, 48.6167, 1.6833
+Épiais lès Louvres, 49.0333, 2.5500
+Épinac les Mines, 46.9833, 4.5167
+Épinal, 48.1833, 6.4500
+Épinay sous Sénart, 48.7000, 2.5167
+Épinay sur Orge, 48.6667, 2.3333
+Épinay sur Seine, 48.9500, 2.3167
+Époisses, 47.5000, 4.1667
+Épuisay, 47.9000, 0.9333
+Épône, 48.9500, 1.8167
+Équihen Plage, 50.6833, 1.5667
+Éragny, 49.0167, 2.1000
+Étables, 48.6333, -2.8333
+Étain, 49.2167, 5.6333
+Étampes, 48.4333, 2.1500
+Étaples, 50.5167, 1.6500
+Étiolles, 48.6333, 2.4833
+Étretat, 49.7000, 0.2000
+Étréchy, 48.5000, 2.2000
+Étrépagny, 49.3000, 1.6167
+Éve, 49.0833, 2.7000
+Évecquemont, 49.0333, 1.9500
+Évian les Bains, 46.3833, 6.5833
+Évrange, 49.5000, 6.2000
+Évreux, 49.0167, 1.1500
+Évrieu, 45.5833, 5.5667
+Évry, 48.6333, 2.4500
+Évry les Châteaux, 48.6500, 2.6333
+Ézanville, 49.0333, 2.3667
+Ézy sur Eure, 48.8667, 1.4167

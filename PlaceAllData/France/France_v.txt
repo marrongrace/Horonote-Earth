@@ -1,0 +1,310 @@
+Vagney, 48.0167, 6.7167
+Vailly sur Aisne, 49.4167, 3.5167
+Vailly sur Sauldre, 47.4500, 2.6500
+Vaires sur Marne, 48.8667, 2.6500
+Vaison la Romaine, 44.2333, 5.0667
+Val d'Isère, 45.4500, 6.9833
+Val Suzon, 47.4167, 4.9000
+Valbonnais, 44.9000, 5.9000
+Valcivières, 45.5833, 3.8000
+Valdahon, 47.1500, 6.3500
+Valdeblore, 44.0667, 7.2000
+Valdoie, 47.6667, 6.8500
+Valence, 44.9333, 4.9000
+Valenciennes, 50.3500, 3.5333
+Valensole, 43.8333, 5.9833
+Valentigney, 47.4667, 6.8333
+Valenton, 48.7500, 2.4667
+Valençay, 47.1500, 1.5667
+Valflaunès, 43.8000, 3.8667
+Valgorge, 44.5833, 4.1167
+Vallauris, 43.5833, 7.0500
+Valleraugue, 44.0833, 3.6333
+Valleroy, 49.2000, 5.9167
+Vallet, 47.1667, -1.2667
+Vallières, 45.9000, 5.9333
+Valloire, 45.1667, 6.4333
+Vallon Pont d'Arc, 44.4000, 4.4000
+Vallorcine, 46.0333, 6.9333
+Vallouise, 44.8500, 6.4833
+Valmondois, 49.1000, 2.2000
+Valmont, 49.7333, 0.5167
+Valmy, 49.0833, 4.7667
+Valognes, 49.5167, -1.4667
+Valréas, 44.3833, 4.9833
+Vals les Bains, 44.6667, 4.3667
+Vals près le Puy, 45.0167, 3.8667
+Vanault les Dames, 48.8500, 4.7667
+Vandenesse, 47.2167, 4.6167
+Vanlay, 48.0333, 4.0167
+Vannes, 47.6500, -2.7667
+Vannes sur Cosson, 47.7167, 2.2167
+Varades, 47.3833, -1.0333
+Varages, 43.6000, 5.9667
+Varangéville, 48.6333, 6.3167
+Varces, 45.0833, 5.6833
+Varengeville sur Mer, 49.9167, 0.9833
+Varennes en Argonne, 49.2333, 5.0333
+Varennes Jarcy, 48.6833, 2.5667
+Varennes St Sauveur, 46.4833, 5.2500
+Varennes sur Allier, 46.3167, 3.4000
+Varennes sur Amance, 47.9000, 5.6167
+Vars, 44.6167, 6.6833
+Varzy, 47.3667, 3.3833
+Vassieux en Vercors, 44.8833, 5.3667
+Vassy, 47.5667, 4.1667
+Vatan, 47.0833, 1.8000
+Vaubecourt, 48.9333, 5.1167
+Vauclaix, 47.2333, 3.8167
+Vaucouleurs, 48.6000, 5.6667
+Vaucresson, 48.8333, 2.1500
+Vaudherland, 49.0000, 2.4833
+Vaudoy en Brie, 48.6833, 3.0833
+Vaufrey, 47.3500, 6.9167
+Vaugneray, 45.7333, 4.6500
+Vaugrigneuse, 48.6000, 2.1167
+Vauhallan, 48.7333, 2.2000
+Vaujours, 48.9333, 2.5833
+Vaulx en Velin, 45.7833, 4.9333
+Vauréal, 49.0333, 2.0333
+Vauvenargues, 43.5500, 5.6000
+Vauvert, 43.7000, 4.2833
+Vauvillers, 47.9167, 6.1000
+Vaux le Pénil, 48.5333, 2.6833
+Vaux lès St Claude, 46.3667, 5.7333
+Vaux sous Aubigny, 47.6500, 5.2833
+Vaux sur Seine, 49.0000, 1.9667
+Vavincourt, 48.8167, 5.2167
+Vaîte, 47.5833, 5.7333
+Vedène, 43.9833, 4.9000
+Veigné, 47.2833, 0.7333
+Vellechevreux et Courbenans, 47.5500, 6.5333
+Venaco, 42.2333, 9.1667
+Venanson, 44.0500, 7.2500
+Venant, 48.5000, 2.1000
+Venarey les Laumes, 47.5333, 4.4333
+Venasque, 43.9833, 5.1500
+Vence, 43.7167, 7.1167
+Vendargues, 43.6500, 3.9667
+Vendeuvre sur Barse, 48.2333, 4.4667
+Vendin le Vieil, 50.4667, 2.8667
+Vendin lès Béthune, 50.5333, 2.6167
+Vendôme, 47.8000, 1.0667
+Ver sur Launette, 49.1000, 2.6833
+Verberie, 49.3167, 2.7333
+Vercel Villedieu le Camp, 47.1833, 6.4000
+Verclause, 44.3833, 5.4333
+Verdun(Midi-Pyrenees), 43.8667, 1.2333
+Verdun(Lorraine), 49.1667, 5.3833
+Verdun sur le Doubs, 46.9000, 5.0167
+Vergons, 43.9167, 6.5833
+Vergt, 45.0333, 0.7167
+Vermand, 49.8667, 3.1500
+Vermenton, 47.6667, 3.7333
+Vernaison, 45.6500, 4.8167
+Verneuil, 48.7333, 0.9333
+Verneuil l'Étang, 48.6500, 2.8333
+Verneuil sur Avre, 48.7333, 0.9333
+Verneuil sur Seine, 48.9833, 1.9833
+Vernon, 49.0833, 1.4833
+Vernouillet, 48.9667, 1.9833
+Vernoux en Vivarais, 44.9000, 4.6500
+Verny, 49.0167, 6.2000
+Verrey sous Salmaise, 47.4333, 4.6667
+Verrières le Buisson, 48.7500, 2.2667
+Versailles, 48.8000, 2.1333
+Vert, 48.9500, 1.6833
+Vert le Grand, 48.5667, 2.3667
+Vert le Petit, 48.5500, 2.3667
+Vert St Denis, 48.5667, 2.6167
+Verteillac, 45.3500, 0.3667
+Vertou, 47.1667, -1.4833
+Vertus, 48.9000, 4.0000
+Vervins, 49.8333, 3.9000
+Verzenay, 49.1667, 4.1500
+Verzy, 49.1500, 4.1667
+Vescovato, 42.5000, 9.4333
+Vesoul, 47.6333, 6.1667
+Veules les Roses, 49.8667, 0.8000
+Veulettes sur Mer, 49.8500, 0.6000
+Veynes, 44.5333, 5.8167
+Veyrier, 45.8833, 6.1667
+Viarmes, 49.1333, 2.3667
+Vibraye, 48.0500, 0.7333
+Vic en Bigorre, 43.3833, 0.0500
+Vic sur Aisne, 49.4000, 3.1167
+Vic sur Cère, 44.9833, 2.6167
+Vic sur Seille, 48.7833, 6.5333
+Vichy, 46.1333, 3.4333
+Vico, 42.1667, 8.8000
+Vicq, 48.8167, 1.8333
+Vidauban, 43.4333, 6.4333
+Vielle Eglise en Yvelines, 48.6667, 1.8833
+Viels Maisons, 48.9000, 3.4000
+Vienne, 45.5167, 4.8667
+Vienne en Arthies, 49.0667, 1.7333
+Vienne le Château, 49.1833, 4.8833
+Vierzon, 47.2167, 2.0833
+Vieux Condé, 50.4500, 3.5667
+Vieux Ferette, 47.5000, 7.3000
+Vieux Thann, 47.8000, 7.1333
+Vif, 45.0500, 5.6667
+Vignacourt, 50.0167, 2.2000
+Vigneulles lès Hattonchâtel, 48.9833, 5.7167
+Vigneux sur Seine, 48.7000, 2.4167
+Vignory, 48.2833, 5.1000
+Vignot, 48.7667, 5.6000
+Vigny, 49.0833, 1.9333
+Vigy, 49.2000, 6.3000
+Vihiers, 47.1500, -0.5333
+Villabé, 48.5833, 2.4500
+Villaines la Juhel, 48.3500, -0.2833
+Villandraut, 44.4667, -0.3833
+Villandry, 47.3333, 0.5167
+Villar d'Arène, 45.0333, 6.3333
+Villard Bonnot, 45.2333, 5.8833
+Villard de Lans, 45.0667, 5.5500
+Villaroche, 48.6167, 2.6500
+Villars Colmars, 44.1667, 6.6000
+Villars en Azois, 48.0667, 4.7500
+Villars les Dombes, 46.0000, 5.0167
+Villars sur Var, 43.9333, 7.1000
+Ville d'Avray, 48.8333, 2.1833
+Ville en Tardenois, 49.1833, 3.8000
+Ville sur Tourbe, 49.1833, 4.7833
+Villebon sur Yvette, 48.7000, 2.2500
+Villeconin, 48.5167, 2.1333
+Villecresnes, 48.7167, 2.5333
+Villecroze, 43.5833, 6.2667
+Villedieu, 48.8333, -1.2167
+Villefort, 44.4333, 3.9333
+Villefranche, 45.9833, 4.7167
+Villefranche de Rouergue, 44.3500, 2.0333
+Villefranche sur Cher, 47.3000, 1.7667
+Villefranche sur Mer, 43.7000, 7.3167
+Villejuif, 48.8000, 2.3667
+Villejust, 48.6833, 2.2333
+Villemaur sur Vanne, 48.2500, 3.7333
+Villemeux sur Eure, 48.6667, 1.4667
+Villemoisson sur Orge, 48.6667, 2.3167
+Villemomble, 48.8833, 2.5167
+Villenauxe la Grande, 48.5833, 3.5500
+Villeneuve d'Ascq, 50.6167, 3.1667
+Villeneuve d'Aveyron, 44.4333, 2.0333
+Villeneuve de Berg, 44.5500, 4.5000
+Villeneuve l'Archevêque, 48.2333, 3.5500
+Villeneuve la Garenne, 48.9333, 2.3333
+Villeneuve la Guyard, 48.3333, 3.0667
+Villeneuve le Comte, 48.8167, 2.8333
+Villeneuve le Roi, 48.7333, 2.4167
+Villeneuve lès Avignon, 43.9667, 4.8000
+Villeneuve lès Maguelonne, 43.5333, 3.8667
+Villeneuve sous Dammartin, 49.0333, 2.6500
+Villeneuve St Denis, 48.8167, 2.8000
+Villeneuve St Georges, 48.7333, 2.4500
+Villeneuve sur Lot, 44.4167, 0.7000
+Villeneuve sur Yonne, 48.0833, 3.3000
+Villennes sur Seine, 48.9333, 2.0000
+Villenoy, 48.9500, 2.8667
+Villeny, 47.6167, 1.7500
+Villeparisis, 48.9333, 2.6167
+Villepinte, 48.9667, 2.5333
+Villepreux, 48.8333, 2.0167
+Villequier, 49.5167, 0.6667
+Villeron, 49.0500, 2.5500
+Villeroy, 48.9833, 2.7833
+Villers Bocage, 49.9833, 2.3333
+Villers Bocage, 49.0833, -0.6500
+Villers Bretonneux, 49.8667, 2.5167
+Villers Carbonnel, 49.8667, 2.9000
+Villers Cotterêts, 49.2500, 3.0833
+Villers en Arthies, 49.0833, 1.7333
+Villers Farlay, 47.0000, 5.7500
+Villers le Lac, 47.0667, 6.6667
+Villers lès Nancy, 48.6667, 6.1500
+Villers lès Pots, 47.2167, 5.3500
+Villers Outréaux, 50.0333, 3.3000
+Villers Semeuse, 49.7333, 4.7500
+Villers St Paul, 49.2833, 2.4833
+Villersexel, 47.5500, 6.4333
+Villerupt, 49.4667, 5.9333
+Villerville, 49.4000, 0.1333
+Villes sur Auzon, 44.0500, 5.2333
+Villeurbanne, 45.7667, 4.8833
+Villevaudé, 48.9167, 2.6500
+Villeziers, 48.6667, 2.1667
+Villiers Adam, 49.0667, 2.2333
+Villiers le Bel, 49.0000, 2.3833
+Villiers le Bâcle, 48.7333, 2.1333
+Villiers le Sec, 49.0667, 2.3833
+Villiers St Frédéric, 48.8167, 1.9000
+Villiers St Georges, 48.6500, 3.4167
+Villiers sur Marne, 48.8333, 2.5500
+Villiers sur Morin, 48.8667, 2.8833
+Villé, 48.3333, 7.3000
+Vilosnes sur Meuse, 49.3333, 5.2333
+Vimoutiers, 48.9167, 0.2000
+Vimy, 50.3667, 2.8167
+Vinay, 45.2167, 5.4000
+Vincennes, 48.8500, 2.4333
+Vincey, 48.3333, 6.3333
+Vinon sur Verdon, 43.7167, 5.8000
+Viols le Fort, 43.7500, 3.7000
+Vire, 48.8333, -0.8833
+Vireux Molhain, 50.0833, 4.7167
+Virieu, 45.4833, 5.4667
+Virieu le Grand, 45.8500, 5.6500
+Viroflay, 48.8000, 2.1667
+Vironvay, 49.2000, 1.2167
+Viry Châtillon, 48.6667, 2.3833
+Vis en Artois, 50.2500, 2.9333
+Vitrey sur Mance, 47.8167, 5.7500
+Vitry en Artois, 50.3333, 2.9833
+Vitry la Ville, 48.8333, 4.4667
+Vitry le François, 48.7333, 4.5833
+Vitry sur Seine, 48.8000, 2.4000
+Vitré, 48.1333, -1.2000
+Vitteaux, 47.4000, 4.5333
+Vittel, 48.2000, 5.9500
+Viverols, 45.4333, 3.8833
+Viviers, 44.4833, 4.6833
+Viviers du Lac, 45.6500, 5.9000
+Vivonne, 46.4333, 0.2667
+Vizille, 45.0833, 5.7667
+Void, 48.6833, 5.6167
+Voiron, 45.3667, 5.5833
+Voise, 48.4000, 1.7167
+Voisenon, 48.5667, 2.6667
+Voisins le Bretonneux, 48.7500, 2.0500
+Voiteur, 46.7500, 5.6167
+Vollore Montagne, 45.7833, 3.6833
+Vollore Ville, 45.7833, 3.6000
+Volmerange les Mines, 49.4500, 6.0833
+Volmunster, 49.1167, 7.3500
+Volnay, 47.0000, 4.7833
+Volonne, 44.1167, 6.0167
+Volx, 43.8833, 5.8500
+Voreppe, 45.3000, 5.6333
+Vorey, 45.1833, 3.9000
+Vosves, 48.5167, 2.6000
+Vougeot, 47.1667, 4.9667
+Vouillé, 46.6500, 0.1667
+Voujeaucourt, 47.4667, 6.7667
+Voulangis, 48.8500, 2.9000
+Voulx, 48.2833, 2.9667
+Voutenay sur Cure, 47.5500, 3.7833
+Vouvray, 47.4167, 0.8000
+Vouziers, 49.4000, 4.7000
+Voué, 48.4667, 4.1167
+Voves, 48.2667, 1.6333
+Vrigne Meuse, 49.7000, 4.8500
+Vron, 50.3167, 1.7500
+Vuillafans, 47.0667, 6.2167
+Vémars, 49.0667, 2.5667
+Vénissieux, 45.6833, 4.8833
+Vénosc, 44.9833, 6.1167
+Véretz, 47.3667, 0.8000
+Vétheuil, 49.0667, 1.7000
+Vézelay, 47.4667, 3.7333
+Vézelise, 48.4833, 6.0833
+Vézénobres, 44.0500, 4.1500

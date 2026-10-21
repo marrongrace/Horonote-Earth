@@ -1,0 +1,181 @@
+Najac, 44.2833, 2.0000
+Nampont St Martin, 50.3500, 1.7500
+Nancroix, 45.5333, 6.7667
+Nancy, 48.6833, 6.2000
+Nandy, 48.5833, 2.5667
+Nangis, 48.5500, 3.0000
+Nans les Pins, 43.3667, 5.7833
+Nant, 44.0167, 3.3000
+Nanterre, 48.8833, 2.2000
+Nantes, 47.2167, -1.5500
+Nanteuil le Haudouin, 49.1333, 2.8000
+Nanteuil lès Meaux, 48.9333, 2.9000
+Nantouillet, 49.0000, 2.7000
+Nantua, 46.1500, 5.6167
+Naours, 50.0333, 2.2833
+Narbonne, 43.1833, 3.0000
+Nasbinals, 44.6667, 3.0500
+Naucelle, 44.2000, 2.3333
+Navenne, 47.6000, 6.1667
+Neauphle le Château, 48.8167, 1.9000
+Neauphle le Vieux, 48.8167, 1.8667
+Nemours, 48.2667, 2.7000
+Nerville la Forêt, 49.0833, 2.2833
+Nesle, 49.7667, 2.9167
+Nettancourt, 48.8667, 4.9500
+Neuf Brisach, 48.0167, 7.5333
+Neufchâteau, 48.3500, 5.7000
+Neufchâtel en Bray, 49.7333, 1.4500
+Neufchâtel sur Aisne, 49.4333, 4.0333
+Neufmanil, 49.8167, 4.8000
+Neufmarché, 49.4167, 1.7167
+Neufmontiers lès Meaux, 48.9667, 2.8333
+Neuilly en Thelle, 49.2167, 2.2833
+Neuilly l'Évêque, 47.9167, 5.4333
+Neuilly St Front, 49.1667, 3.2667
+Neuilly sur Marne, 48.8500, 2.5333
+Neuilly sur Seine, 48.8833, 2.2667
+Neuillé Pont Pierre, 47.5500, 0.5500
+Neung sur Beuvron, 47.5333, 1.8000
+Neuve Chapelle, 50.5833, 2.7833
+Neuves Maisons, 48.6167, 6.1000
+Neuvic, 45.3833, 2.2667
+Neuville aux Bois, 48.0667, 2.0500
+Neuville de Poitou, 46.6833, 0.2500
+Neuville lès Dieppe, 49.9167, 1.1000
+Neuville sur Oise, 49.0167, 2.0667
+Neuville sur Saône, 45.8667, 4.8500
+Neuvy le Roi, 47.6000, 0.6000
+Neuvy sur Barangeon, 47.3167, 2.2500
+Neuvy sur Loire, 47.5167, 2.8833
+Neuwiller lès Saverne, 48.8167, 7.4000
+Nevers, 47.0000, 3.1500
+Nexon, 45.6833, 1.1833
+Nice, 43.7000, 7.2500
+Niederbronn les Bains, 48.9500, 7.6333
+Nieppe, 50.7000, 2.8333
+Niort, 46.3167, -0.4500
+Nitry, 47.6667, 3.8833
+Nivillers, 49.4667, 2.1667
+Nizy le Comte, 49.5667, 4.0500
+Noailles, 49.3333, 2.2000
+Nocé, 48.3667, 0.7000
+Nods, 47.1000, 6.3333
+Nogaro, 43.7667, -0.0333
+Nogent en Bassigny, 48.0333, 5.3500
+Nogent le Roi, 48.6500, 1.5333
+Nogent le Rotrou, 48.3167, 0.8333
+Nogent sur Marne, 48.8333, 2.4833
+Nogent sur Oise, 49.2667, 2.4667
+Nogent sur Seine, 48.4833, 3.5000
+Nogent sur Vernisson, 47.8500, 2.7500
+Noirmoutier, 47.0000, -2.2333
+Noirétable, 45.8167, 3.7667
+Noiseau, 48.7833, 2.5500
+Noisiel, 48.8500, 2.6167
+Noisy le Grand, 48.8500, 2.5500
+Noisy le Roi, 48.8500, 2.0667
+Nolay, 46.9500, 4.6333
+Nomexy, 48.3000, 6.3833
+Nomény, 48.9000, 6.2333
+Nonancourt, 48.7667, 1.2000
+Nonant le Pin, 48.7000, 0.2167
+Nontron, 45.5333, 0.6667
+Nordausques, 50.8167, 2.0833
+Noroy le Bourg, 47.6167, 6.3000
+Norrent Fontès, 50.5833, 2.4000
+Nort sur Erdre, 47.4333, -1.5000
+Notre Dame de Bellecombe, 45.8000, 6.5167
+Nouan le Fuzelier, 47.5333, 2.0333
+Nouans les Fontaines, 47.1333, 1.3000
+Nouvion en Ponthieu, 50.2000, 1.7833
+Nouvion sur Meuse, 49.7000, 4.8000
+Nouzonville, 49.8167, 4.7500
+Noves, 43.8667, 4.9000
+Novion Porcien, 49.6000, 4.4167
+Noyant, 47.5167, 0.1333
+Noyelles sur Mer, 50.1833, 1.7167
+Noyers, 47.7000, 4.0000
+Noyon, 49.5833, 3.0000
+Nozay(Pay de la Loire), 47.5667, -1.6333
+Nozay(Ile-de-France), 48.6667, 2.2333
+Nozeroy, 46.7833, 6.0333
+Nuits St Georges, 47.1333, 4.9500
+Nuits sur Armançon, 47.7333, 4.2000
+Nyons, 44.3667, 5.1333
+Nâves Parmelan, 45.9333, 6.1833
+Nérac, 44.1333, 0.3333
+Néronde, 45.8333, 4.2333
+Nérondes, 47.0000, 2.8167
+Névache, 45.0167, 6.6167
+Nîmes, 43.8333, 4.3500
+Nœux les Mines, 50.4833, 2.6667
+Oberhaslach, 48.5500, 7.3333
+Obermodern, 48.8500, 7.5333
+Obernai, 48.4667, 7.4833
+Oberseebach, 48.9667, 7.9833
+Obersteinbach, 49.0333, 7.6833
+Oderen, 47.9167, 6.9833
+Offemont, 47.6667, 6.8833
+Offendorf, 48.7167, 7.9167
+Offranville, 49.8667, 1.0500
+Oignies, 50.4667, 2.9833
+Oinville sur Montcient, 49.0333, 1.8500
+Oisemont, 49.9500, 1.7667
+Oissel, 49.3333, 1.1000
+Oissery, 49.0667, 2.8167
+Olivet, 47.8667, 1.9000
+Ollainville, 48.5833, 2.2167
+Olliergues, 45.6667, 3.6333
+Ollioules, 43.1333, 5.8500
+Oloron Ste Marie, 43.2000, -0.6000
+Omont, 49.6000, 4.7333
+Onnaing, 50.3833, 3.6000
+Onzain, 47.5000, 1.1833
+Oost Cappel, 50.9167, 2.6000
+Oraison, 43.9167, 5.9167
+Orange, 44.1333, 4.8000
+Orbec en Auge, 49.0167, 0.4167
+Orbey, 48.1333, 7.1667
+Orbigny, 47.2000, 1.2333
+Orcemont, 48.5833, 1.8167
+Orchamps, 47.1500, 5.6667
+Orchies, 50.4667, 3.2333
+Orcières, 44.6833, 6.3333
+Orgelet, 46.5167, 5.6167
+Orgerus, 48.8333, 1.7000
+Orgeval, 48.9167, 1.9833
+Orgnac l'Aven, 44.3167, 4.4500
+Orgon, 43.7833, 5.0333
+Orgères en Beauce, 48.1500, 1.7000
+Origny en Thiérache, 49.9000, 4.0167
+Origny Ste Benoîte, 49.8333, 3.5000
+Orly, 48.7500, 2.4000
+Orléans, 47.9167, 1.9000
+Ornans, 47.1000, 6.1500
+Orphin, 48.5833, 1.7833
+Orpierre, 44.3167, 5.6833
+Orsan, 44.1333, 4.6667
+Orsay, 48.8000, 2.1833
+Orthez, 43.4833, -0.7667
+Orvilliers, 48.8667, 1.6500
+Osmoy, 48.8667, 1.7167
+Osny, 49.0667, 2.0667
+Ostricourt, 50.4500, 3.0333
+Ostwald, 48.5500, 7.7167
+Othis, 49.0667, 2.6833
+Ouarville, 48.3500, 1.7667
+Oucques, 47.8167, 1.3000
+Ouistreham, 49.2833, -0.2500
+Oulchy le Château, 49.2000, 3.3500
+Oulins, 48.8667, 1.4667
+Oullins, 45.7167, 4.8000
+Ourville en Caux, 49.7333, 0.6000
+Outarville, 48.2167, 2.0167
+Outreau, 50.7000, 1.5833
+Ouzouer le Marché, 47.9167, 1.5333
+Ouzouer sur Loire, 47.7667, 2.4833
+Oye et Pallet, 46.8500, 6.3333
+Oyonnax, 46.2500, 5.6667
+Ozoir la Ferrière, 48.7667, 2.6667
+Ozouer le Voulgis, 48.6667, 2.7833

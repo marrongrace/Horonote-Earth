@@ -1,0 +1,620 @@
+Saales, 48.3500, 7.1167
+Sablé sur Sarthe, 47.8333, -0.3333
+Sabres, 44.1500, -0.7333
+Sachy, 49.6667, 5.1333
+Saché, 47.2333, 0.5500
+Saclay, 48.7333, 2.1667
+Sagy, 49.0500, 1.9500
+Saignon, 43.8667, 5.4333
+Sail sous Couzan, 45.7333, 3.9500
+Saillans, 44.7000, 5.1833
+Sailly, 49.0333, 1.8000
+Sainghin en Weppes, 50.5500, 2.9000
+Sains du Nord, 50.1000, 4.0000
+Sains en Gohelle, 50.4500, 2.6833
+Sains Richaumont, 49.8167, 3.7000
+Saintes, 45.7500, -0.6333
+Saintes Maries de la Mer, 43.4500, 4.4333
+Saintry sur Seine, 48.6000, 2.5000
+Salbris, 47.4333, 2.0500
+Salernes, 43.5500, 6.2333
+Salers, 45.1333, 2.5000
+Salies de Béarn, 43.4833, -0.9167
+Salignac Eyvignes, 44.9833, 1.3167
+Salin de Giraud, 43.4167, 4.7333
+Salindres, 44.1667, 4.1667
+Salins les Bains, 46.9500, 5.8833
+Salins les Thermes, 45.4667, 6.5333
+Sallagriffon, 43.8833, 6.9000
+Sallanches, 45.9333, 6.6333
+Salles Curan, 44.1833, 2.7833
+Salles sous Bois, 44.4500, 4.9333
+Salon de Provence, 43.6333, 5.1000
+Salviac, 44.6833, 1.2667
+Samer, 50.6333, 1.7500
+Samoëns, 46.0833, 6.7333
+Sanary sur Mer, 43.1167, 5.8000
+Sancergues, 47.1500, 2.9167
+Sancerre, 47.3333, 2.8500
+Sancey le Grand, 47.3000, 6.5833
+Sancoins, 46.8333, 2.9167
+Sandrancourt, 49.0333, 1.6500
+Sangatte, 50.9333, 1.7500
+Sannois, 48.9667, 2.2500
+Santa Maria Siché, 41.8667, 8.9833
+Santenay, 46.9167, 4.6833
+Santeny, 48.7167, 2.5667
+Saorge, 43.9833, 7.5500
+Saou, 44.6500, 5.0667
+Sarcelles, 49.0000, 2.3833
+Sargé lès Le Mans, 48.0333, 0.2333
+Sarlat la Canéda, 44.8833, 1.2167
+Sarralbe, 49.0000, 7.0167
+Sarras, 45.1833, 4.8000
+Sarre Union, 48.9333, 7.0833
+Sarrebourg, 48.7333, 7.0500
+Sarreguemines, 49.1000, 7.0500
+Sartilly, 48.7500, -1.4500
+Sartrouville, 48.9500, 2.1667
+Sartène, 41.6000, 8.9833
+Sarzeau, 47.5333, -2.7667
+Sassenage, 45.2000, 5.6667
+Saudron, 48.5000, 5.3333
+Saujon, 45.6667, -0.9333
+Saulieu, 47.2667, 4.2333
+Saulnot, 47.5667, 6.6333
+Sault de Vaucluse, 44.0833, 5.4167
+Sault lès Rethel, 49.5000, 4.3667
+Saulx de Vesoul, 47.7000, 6.2833
+Saulx les Chartreux, 48.7000, 2.2667
+Saulxures sur Moselotte, 47.9500, 6.7667
+Saumur, 47.2667, -0.0833
+Sausset les Pins, 43.3333, 5.1167
+Saussy, 47.4667, 4.9500
+Sauvas, 44.3167, 4.1500
+Sauve, 43.9333, 3.9500
+Sauveterre, 44.0333, 4.8000
+Sauveterre de Béarn, 43.4000, -0.9333
+Sauveterre de Guyenne, 44.7000, -0.0833
+Savenay, 47.3667, -1.9500
+Saverdun, 43.2333, 1.5833
+Saverne, 48.7333, 7.3667
+Savigny le Temple, 48.5833, 2.5833
+Savigny lès Beaune, 47.0667, 4.8167
+Savigny sur Braye, 47.8833, 0.8167
+Savigny sur Orge, 48.6667, 2.3500
+Savines, 44.5333, 6.4000
+Savonnières, 47.3500, 0.5500
+Saze, 43.9333, 4.6833
+Scaër, 48.0333, -3.7000
+Sceaux, 48.7833, 2.2833
+Scey sur Saône et St Albin, 47.6667, 5.9667
+Schiltigheim, 48.6000, 7.7500
+Schirmeck, 48.4833, 7.2167
+Schleithal, 48.9833, 8.0333
+Schlettstadt > Sélestat, 48.2667, 7.4500
+Schweighouse sur Moder, 48.8167, 7.7333
+Schweyen, 49.1667, 7.4000
+Sciez, 46.3333, 6.3833
+Scionzier, 46.0500, 6.5667
+Seclin, 50.5500, 3.0333
+Sedan, 49.7000, 4.9500
+Segré, 47.6833, -0.8833
+Seiches sur le Loir, 47.5833, -0.3667
+Seignelay, 47.9000, 3.6000
+Seilhac, 45.3667, 1.7000
+Seillans, 43.6333, 6.6333
+Seine Port, 48.5500, 2.5500
+Selles sur Cher, 47.2667, 1.5500
+Sellières, 46.8333, 5.5667
+Selommes, 47.7500, 1.2000
+Seloncourt, 47.4667, 6.8667
+Selongey, 47.5833, 5.1667
+Seltz, 48.8833, 8.1000
+Sembadel, 45.2667, 3.6833
+Semblançay, 47.5000, 0.5833
+Semur en Auxois, 47.4833, 4.3333
+Senainville, 48.5000, 1.6167
+Senlis, 49.2000, 2.5833
+Senlisse, 48.6833, 1.9833
+Sennecey le Grand, 46.6500, 4.8667
+Sennevoy le Bas, 47.8000, 4.2833
+Senonches, 48.5500, 1.0333
+Senones, 48.4000, 6.9833
+Sens, 48.2000, 3.2833
+Seppois le Bas, 47.5500, 7.1667
+Septeuil, 48.9000, 1.6833
+Septvaux, 49.5667, 3.3833
+Sergines, 48.3333, 3.2500
+Sermaise, 48.5333, 2.0833
+Sermaises, 48.3000, 2.2000
+Sermaize les Bains, 48.7833, 4.9167
+Sermizelles, 47.5333, 3.8000
+Serres, 44.4333, 5.7167
+Serris, 48.8500, 2.7833
+Serrières, 45.3167, 4.7500
+Servon, 48.7167, 2.5833
+Servoz, 45.9333, 6.7667
+Sessenheim, 48.8000, 7.9833
+Seurre, 47.0000, 5.1500
+Sevran, 48.9333, 2.5333
+Sewen, 47.8000, 6.9000
+Seyches, 44.5500, 0.3000
+Seyne, 44.3500, 6.3500
+Seyssel, 45.9500, 5.8167
+Siaugues St Romain, 45.1000, 3.6333
+Sierck les Bains, 49.4333, 6.3500
+Sigean, 43.0333, 2.9833
+Sigloy, 47.8333, 2.2333
+Signes, 43.3000, 5.8667
+Signy l'Abbaye, 49.7000, 4.4167
+Signy le Petit, 49.9000, 4.2833
+Sillery, 49.2000, 4.1333
+Silly le Long, 49.1000, 2.8000
+Sillé le Guillaume, 48.2000, -0.1333
+Simiane, 43.4167, 5.4333
+Sin le Noble, 50.3667, 3.1167
+Sissonne, 49.5667, 3.9000
+Sisteron, 44.2000, 5.9333
+Sivry Courtry, 48.5333, 2.7500
+Sivry sur Meuse, 49.3167, 5.2667
+Six Fours la Plage, 43.1000, 5.8500
+Sizun, 48.4000, -4.0833
+Sochaux, 47.5167, 6.8333
+Soignolles en Brie, 48.6500, 2.7000
+Soindres, 48.9500, 1.6667
+Soissons, 49.3667, 3.3333
+Soisy sous Montmorency, 48.9833, 2.3000
+Soisy sur Seine, 48.6500, 2.4500
+Solenzara, 41.8500, 9.3833
+Solers, 48.6667, 2.7167
+Solesmes, 50.1833, 3.5000
+Solgne, 48.9667, 6.3000
+Solignac sur Loire, 44.9667, 3.8833
+Soligny la Trappe, 48.6167, 0.5333
+Solliès Pont, 43.1833, 6.0500
+Solre le Château, 50.1667, 4.0833
+Solutré Pouilly, 46.3000, 4.7167
+Somain, 50.3667, 3.2833
+Sombernon, 47.3000, 4.7000
+Sommedieue, 49.0833, 5.4667
+Sommepy Tahure, 49.2500, 4.5500
+Sommesous, 48.7333, 4.2000
+Sompuis, 48.6833, 4.3833
+Sonchamp, 48.5833, 1.8833
+Songeons, 49.5500, 1.8667
+Sore, 44.3333, -0.5833
+Sorgues, 44.0000, 4.8667
+Sospel, 43.8833, 7.4500
+Sotteville, 49.4167, 1.1000
+Souain Perthes lès Hurlus, 49.1833, 4.5333
+Souesmes, 47.4500, 2.1667
+Soufflenheim, 48.8333, 7.9667
+Souillac, 44.9000, 1.4833
+Souilly, 49.0167, 5.2833
+Soulac sur Mer, 45.5167, -1.1167
+Soulaines Dhuys, 48.3667, 4.7333
+Soultz Haut Rhin, 47.8833, 7.2333
+Soultz sous Forêts, 48.9333, 7.8833
+Soultzeren, 48.0667, 7.1000
+Soultzmatt, 47.9667, 7.2333
+Souppes sur Loing, 48.1833, 2.7333
+Souvigny, 46.5333, 3.1833
+Souzy la Briche, 48.5333, 2.1500
+Soyons, 44.8833, 4.8500
+Spicheren, 49.2000, 6.9667
+Spincourt, 49.3333, 5.6667
+St Affrique, 43.9500, 2.8833
+St Agrève, 45.0167, 4.4000
+St Aignan, 47.2667, 1.3833
+St Amand, 48.8167, 4.6000
+St Amand en Puisaye, 47.5167, 3.0667
+St Amand les Eaux, 50.4333, 3.4333
+St Amand Longpré, 47.6833, 1.0167
+St Amand Mont Rond, 46.7333, 2.5000
+St Amant Roche Savine, 45.5667, 3.6333
+St Amarin, 47.8833, 7.0167
+St Ambroix, 44.2500, 4.1833
+St Amour, 46.4333, 5.3500
+St André de l'Eure, 48.9000, 1.2833
+St André de Valborgne, 44.1500, 3.6833
+St André les Alpes, 43.9667, 6.5000
+St André les Vergers, 48.2833, 4.0500
+St Anthème, 45.5167, 3.9167
+St Antoine, 45.1667, 5.2167
+St Antonin, 44.1500, 1.7500
+St Arnoult en Yvelines, 48.5667, 1.9333
+St Astier, 45.1500, 0.5333
+St Auban, 43.8500, 6.7333
+St Aubin(Franche-Comte), 47.0333, 5.3333
+St Aubin(Haute-Normandie), 49.8833, 0.8833
+St Aubin d'Aubigné, 48.2500, -1.6000
+St Aubin lès Elbeuf, 49.3000, 1.0167
+St Aubin sur Aire, 48.7000, 5.4500
+St Aulaye, 45.2000, 0.1333
+St Avertin, 47.3667, 0.7333
+St Avold, 49.1000, 6.7000
+St Ay, 47.8500, 1.7500
+St Aygulf, 43.3833, 6.7333
+St Benoît, 48.6667, 1.9167
+St Benoît du Sault, 46.4500, 1.3833
+St Benoît en Woëvre, 48.9833, 5.7833
+St Blaise la Roche, 48.4000, 7.1667
+St Blin, 48.2667, 5.4167
+St Bonnet, 44.6833, 6.0833
+St Bonnet de Joux, 46.4833, 4.4500
+St Bonnet le Château, 45.4167, 4.0667
+St Bonnet le Froid, 45.1500, 4.4500
+St Brice sous Forêt, 49.0000, 2.3500
+St Brieuc, 48.5167, -2.7833
+St Broing les Moines, 47.6833, 4.8333
+St Béat, 42.9167, 0.7000
+St Béron, 45.5000, 5.7167
+St Calais, 47.9167, 0.7500
+St Cannat, 43.6167, 5.3000
+St Chamas, 43.5500, 5.0333
+St Chamond, 45.4667, 4.5000
+St Chaptes, 43.9667, 4.2833
+St Chef, 45.6333, 5.3667
+St Christophe en Bazelle, 47.1833, 1.7167
+St Chély d'Apcher, 44.8000, 3.2833
+St Chéron, 48.5500, 2.1167
+St Ciers sur Gironde, 45.3000, -0.6167
+St Clair sur Epte, 49.2000, 1.6833
+St Claud, 45.8833, 0.3833
+St Claude, 46.3833, 5.8667
+St Cloud, 48.8333, 2.1833
+St Clément, 48.5333, 6.6000
+St Colomban des Villards, 45.3000, 6.2333
+St Cosme en Vairais, 48.2667, 0.4667
+St Cyprien, 44.8667, 1.0333
+St Cyr l'École, 48.8000, 2.0667
+St Cyr sous Dourdan, 48.5667, 2.0333
+St Cyr sur Loire, 47.4000, 0.6667
+St Cyr sur Mer, 43.1833, 5.7167
+St Céré, 44.8667, 1.8833
+St Cézaire sur Siagne, 43.6500, 6.8000
+St Dalmas de Tende, 44.0500, 7.5833
+St Denis, 48.9333, 2.3667
+St Denis de l'Hôtel, 47.8667, 2.1167
+St Denis en Bugey, 45.9500, 5.3333
+St Didier en Velay, 45.3000, 4.2833
+St Didier les Bains, 44.0000, 5.1167
+St Disdier, 44.7333, 5.9000
+St Dizier, 48.6333, 4.9500
+St Dié, 48.2833, 6.9500
+St Donat sur l'Herbasse, 45.1167, 5.0000
+St Dyé sur Loire, 47.6500, 1.4833
+St Fargeau, 47.6333, 3.0667
+St Fargeau Ponthierry, 48.5500, 2.5333
+St Firmin, 44.7833, 6.0333
+St Firmin sur Loire, 47.6167, 2.7333
+St Florent sur Cher, 46.9833, 2.2500
+St Florentin, 48.0000, 3.7333
+St Flour, 45.0333, 3.0833
+St Fons, 45.7000, 4.8667
+St François sur Bugeon, 45.4000, 6.3500
+St Front, 44.9833, 4.1333
+St Félicien, 45.0833, 4.6333
+St Félix, 45.8000, 5.9667
+St Galmier, 45.5833, 4.3167
+St Gaudens, 43.1167, 0.7333
+St Gaultier, 46.6333, 1.4167
+St Genest Lerpt, 45.4500, 4.3333
+St Genest Malifaux, 45.3333, 4.4167
+St Gengoux le National, 46.6167, 4.6500
+St Genis de Saintonge, 45.4833, -0.5667
+St Genis Laval, 45.6833, 4.8000
+St Genis Pouilly, 46.2500, 6.0167
+St Genix sur Guiers, 45.6000, 5.6333
+St Geoire en Valdaine, 45.4500, 5.6333
+St Georges, 48.6667, 6.9333
+St Georges de Reneins, 46.0667, 4.7167
+St Georges en Couzan, 45.7000, 3.9333
+St Germain, 48.9000, 2.0833
+St Germain de Calberte, 44.2167, 3.8000
+St Germain de Joux, 46.1833, 5.7333
+St Germain des Champs, 47.4167, 3.9167
+St Germain du Bois, 46.7500, 5.2500
+St Germain du Plain, 46.7000, 4.9667
+St Germain en Laye, 48.9000, 2.0833
+St Germain l'Herm, 45.4667, 3.5500
+St Germain Laval, 45.8333, 4.0167
+St Germain Laxis, 48.5833, 2.7167
+St Germain Lembron, 45.4667, 3.2333
+St Germain lès Arlay, 46.7667, 5.5667
+St Germain lès Corbeil, 48.6167, 2.4833
+St Germain sur Morin, 48.8833, 2.8500
+St Germer de Fly, 49.4500, 1.7833
+St Gervais d'Auvergne, 46.0333, 2.8167
+St Gervais les Bains, 45.9000, 6.7167
+St Gervasy, 43.8833, 4.4833
+St Gilles, 43.6833, 4.4333
+St Gilles Croix de Vie, 46.7000, -1.9500
+St Girons, 42.9833, 1.1500
+St Gobain, 49.6000, 3.3833
+St Gratien, 48.9667, 2.2833
+St Guénolé, 47.8167, -4.3333
+St Gély du Fesc, 43.7000, 3.8000
+St Géry, 44.4833, 1.5833
+St Hilaire du Harcouët, 48.5833, -1.1000
+St Hilarion, 48.6167, 1.7333
+St Hippolyte(Provence-Alpes-Cote d'Azur), 43.6333, 4.7500
+St Hippolyte(Franche-Comte), 47.3167, 6.8167
+St Hippolyte du Fort, 43.9667, 3.8500
+St Hubert le Roi, 48.7167, 1.8667
+St Héand, 45.5167, 4.3667
+St Jean aux Bois, 49.3500, 2.9167
+St Jean Cap Ferrat, 43.6833, 7.3333
+St Jean d'Angély, 45.9500, -0.5167
+St Jean d'Assé, 48.1500, 0.1167
+St Jean de Bournay, 45.4833, 5.1333
+St Jean de Braye, 47.9000, 1.9667
+St Jean de Losne, 47.1000, 5.2500
+St Jean de Luz, 43.3833, -1.6667
+St Jean de Maurienne, 45.2833, 6.3500
+St Jean de Monts, 46.8000, -2.0500
+St Jean du Gard, 44.1000, 3.8833
+St Jean en Royans, 45.0167, 5.3000
+St Jean Pied de Port, 43.1667, -1.2333
+St Jean Soleymieux, 45.5000, 4.0333
+St Jeoire, 46.1500, 6.4667
+St Jouin Bruneval, 49.6500, 0.1667
+St Julien, 46.3833, 5.4500
+St Julien Chapteuil, 45.0333, 4.0667
+St Julien du Sault, 48.0333, 3.3000
+St Julien du Verdon, 43.9167, 6.5333
+St Julien en Beauchêne, 44.6167, 5.7000
+St Julien en Born, 44.0667, -1.2333
+St Julien en Genevois, 46.1333, 6.0833
+St Julien en Jarez, 45.4667, 4.5167
+St Julien les Villas, 48.2667, 4.1000
+St Julien Molin Molette, 45.3167, 4.6167
+St Junien, 45.8833, 0.9000
+St Just en Chaussée, 49.5000, 2.4333
+St Just en Chevalet, 45.9167, 3.8333
+St Just Malmont, 45.3333, 4.3167
+St Just sur Loire, 45.4833, 4.2667
+St Lambert, 48.7333, 2.0167
+St Laurent, 48.1500, 6.4500
+St Laurent Blangy, 50.3000, 2.8000
+St Laurent de Chamousset, 45.7333, 4.4667
+St Laurent du Pont, 45.3833, 5.7333
+St Laurent du Var, 43.6667, 7.1833
+St Laurent en Caux, 49.7500, 0.8833
+St Laurent en Grandvaux, 46.5833, 5.9500
+St Laurent et Benon, 45.1500, -0.8167
+St Laurent les Bains, 44.6167, 3.9667
+St Laurent sur Saône, 46.3000, 4.8333
+St Leu d'Esserent, 49.2167, 2.4167
+St Leu la Forêt, 49.0167, 2.2500
+St Louis, 47.5833, 7.5667
+St Loup sur Aujon, 47.8833, 5.0833
+St Loup sur Semouse, 47.8833, 6.2667
+St Lucien, 48.6500, 1.6333
+St Lupicin, 46.4000, 5.7833
+St Léger en Yvelines, 48.7167, 1.7667
+St Léger sur Dheune, 46.8500, 4.6333
+St Léonard de Noblat, 45.8333, 1.4833
+St Lô, 49.1167, -1.0833
+St Malo, 48.6500, -2.0167
+St Mamert du Gard, 43.8833, 4.2000
+St Mammès, 48.3833, 2.8167
+St Mandrier sur Mer, 43.0667, 5.9333
+St Mandé, 48.8333, 2.4167
+St Marcel, 46.7833, 4.9000
+St Marcellin, 45.1500, 5.3167
+St Mard, 49.0333, 2.7000
+St Martin Boulogne, 50.7167, 1.6333
+St Martin d'Ardèche, 44.3000, 4.5833
+St Martin d'Auxigny, 47.2000, 2.4167
+St Martin d'Entraunes, 44.1333, 6.7667
+St Martin d'Hères, 45.1667, 5.7667
+St Martin de Belleville, 45.3833, 6.5000
+St Martin de Bossenay, 48.4333, 3.6833
+St Martin de Bréthencourt, 48.5167, 1.9333
+St Martin de Crau, 43.6333, 4.8167
+St Martin de Londres, 43.7833, 3.7333
+St Martin de Nigelles, 48.6167, 1.6167
+St Martin de Valamas, 44.9333, 4.3667
+St Martin des Champs, 48.8833, 1.7167
+St Martin du Puy, 47.3333, 3.8667
+St Martin du Tertre, 49.1000, 2.3500
+St Martin du Var, 43.8167, 7.2000
+St Martin en Bresse, 46.8167, 5.0667
+St Martin la Garenne, 49.0333, 1.6833
+St Martin la Plaine, 45.5333, 4.6000
+St Martin Vésubie, 44.0667, 7.2500
+St Mathieu, 45.7000, 0.7667
+St Maur des Fossés, 48.8000, 2.5000
+St Maurice, 48.8167, 2.4167
+St Maurice de Beynost, 45.8333, 5.0000
+St Maurice en Montagne, 46.5667, 5.8333
+St Maurice Montcouronne, 48.5833, 2.1167
+St Max, 48.7000, 6.2167
+St Maximin la Sainte Baume, 43.4500, 5.8667
+St Menges, 49.7333, 4.9333
+St Mesmes, 48.9833, 2.7000
+St Michel(Picardie), 49.9167, 4.1333
+St Michel(Rhone-Alpes), 45.2167, 6.4667
+St Michel sur Meurthe, 48.3167, 6.9000
+St Michel sur Orge, 48.6333, 2.3000
+St Mihiel, 48.9000, 5.5500
+St Méen le Grand, 48.1833, -2.2000
+St Méry, 48.5833, 2.8333
+St Nazaire, 47.2833, -2.2000
+St Nazaire en Royans, 45.0667, 5.2500
+St Nazaire le Désert, 44.5667, 5.2833
+St Nicolas aux Bois, 49.6000, 3.4167
+St Nicolas d'Aliermont, 49.8833, 1.2167
+St Nicolas de Port, 48.6333, 6.3000
+St Nizier du Moucherotte, 45.1667, 5.6333
+St Nom la Bretèche, 48.8500, 2.0167
+St Omer, 50.7500, 2.2500
+St Ouen(Picardie), 50.0333, 2.0500
+St Ouen(Ile-de-France), 48.9000, 2.3333
+St Ouen l'Aumône, 49.0500, 2.1000
+St Paterne, 48.4000, 0.1167
+St Pathus, 49.0667, 2.8000
+St Paul(Hautes-Alpes), 44.5167, 6.7500
+St Paul(Alpes-Maritimes), 43.7000, 7.1167
+St Paul en Jarez, 45.4833, 4.5833
+St Paul et Valmalle, 43.6333, 3.6667
+St Paul Trois Châteaux, 44.3500, 4.7667
+St Paulien, 45.1333, 3.8167
+St Pierre, 45.6667, 3.7500
+St Pierre d'Albigny, 45.5667, 6.1500
+St Pierre de Bœuf, 45.3667, 4.7500
+St Pierre de Chartreuse, 45.3333, 5.8167
+St Pierre de Vacquière, 43.8667, 4.2167
+St Pierre des Corps, 47.3833, 0.7333
+St Pierre du Vauvray, 49.2333, 1.2167
+St Pierre en Port, 49.8000, 0.4833
+St Pierre le Moûtier, 46.8000, 3.1167
+St Pierre lès Elbeuf, 49.2667, 1.0500
+St Pierre Église, 49.6667, -1.4000
+St Pierreville, 44.8167, 4.4833
+St Pol de Léon, 48.6833, -3.9833
+St Pol sur Mer, 51.0333, 2.3500
+St Pol sur Ternoise, 50.3833, 2.3333
+St Pons, 43.4833, 2.7667
+St Pourçain sur Sioule, 46.3167, 3.2833
+St Priest, 45.7000, 4.9500
+St Priest en Jarez, 45.4667, 4.3667
+St Prix, 49.0167, 2.2667
+St Père, 47.4667, 3.7667
+St Péravy la Colombe, 48.0000, 1.7000
+St Péray, 44.9500, 4.8333
+St Quentin, 49.8500, 3.2833
+St Rambert d'Albon, 45.2833, 4.8167
+St Rambert en Bugey, 45.9500, 5.4333
+St Rambert sur Loire, 45.5000, 4.2500
+St Raphaël, 43.4167, 6.7667
+St Renan, 48.4333, -4.6167
+St Riquier, 50.1333, 1.9500
+St Romain de Colbosc, 49.5333, 0.3667
+St Romain le Puy, 45.5500, 4.1167
+St Romans, 45.1167, 5.3167
+St Rémy, 46.7667, 4.8333
+St Rémy(lés Chevreuse), 48.7000, 2.0833
+St Rémy de Provence, 43.7833, 4.8333
+St Rémy en Bouzemont, 48.6333, 4.6500
+St Rémy l'Honoré, 48.7500, 1.8833
+St Rémy sur Avre, 48.7667, 1.2500
+St Révérien, 47.2167, 3.5000
+St Saturnin d'Apt, 43.9333, 5.3833
+St Sauveur(Franche-Comte), 47.8000, 6.3833
+St Sauveur(Bourgogne), 47.6167, 3.2000
+St Sauveur sur Tinée, 44.0833, 7.1000
+St Savin, 46.5667, 0.8667
+St Saëns, 49.6667, 1.2833
+St Seine l'Abbaye, 47.4333, 4.7833
+St Simon, 49.7500, 3.1667
+St Soupplets, 49.0333, 2.8000
+St Sulpice de Favières, 48.5500, 2.1833
+St Sulpice les Feuilles, 46.3167, 1.3667
+St Symphorien(Aquitaine), 44.4333, -0.5000
+St Symphorien(Centre), 48.5167, 1.7667
+St Symphorien d'Ozon, 45.6333, 4.8667
+St Symphorien sur Coise, 45.6333, 4.4500
+St Thibault des Vignes, 48.8667, 2.6833
+St Trivier de Courtes, 46.4667, 5.0833
+St Trivier sur Moignans, 46.0667, 4.9000
+St Tropez, 43.2667, 6.6333
+St Uze, 45.1833, 4.8667
+St Vallier(Bourgogne), 46.6333, 4.3667
+St Vallier(Rhone-Alpes), 45.1667, 4.8167
+St Vallier de Thiey, 43.7000, 6.8500
+St Valérien, 48.1833, 3.1000
+St Valéry en Caux, 49.8667, 0.7333
+St Valéry sur Somme, 50.1833, 1.6333
+St Varent, 46.8833, -0.2333
+St Venant, 50.6167, 2.5500
+St Victoret, 43.4167, 5.2333
+St Vincent de Tyrosse, 43.6667, -1.3000
+St Vit, 47.1833, 5.8167
+St Vivien de Médoc, 45.4333, -1.0333
+St Vrain, 48.5500, 2.3333
+St Véran, 44.7000, 6.8667
+St Wandrille Rançon, 49.5333, 0.7667
+St Witz, 49.0833, 2.5667
+St Yrieix la Perche, 45.5167, 1.2000
+St Zacharie, 43.3833, 5.7167
+St Égrève, 45.2333, 5.6833
+St Épain, 47.1333, 0.5333
+St Étienne, 45.4333, 4.4000
+St Étienne de Lugdarès, 44.6500, 3.9500
+St Étienne de Saint Geoirs, 45.3333, 5.3500
+St Étienne de Tinée, 44.2500, 6.9167
+St Étienne du Rouvray, 49.3833, 1.1000
+St Étienne en Dévoluy, 44.7000, 5.9333
+St Étienne le Laus, 44.5000, 6.1667
+St Étienne les Orgues, 44.0500, 5.7833
+St Étienne lès Remiremont, 48.0333, 6.6167
+St Évroult Notre Dame du Bois, 48.8000, 0.4667
+Stains, 48.9500, 2.3833
+Ste Adresse, 49.5000, 0.0833
+Ste Agathe, 45.8167, 3.6167
+Ste Agnès, 43.8000, 7.4667
+Ste Catherine de Fierbois, 47.1500, 0.6500
+Ste Colombe, 47.8667, 4.5333
+Ste Croix aux Mines, 48.2667, 7.2167
+Ste Croix Vallée Française, 44.1833, 3.7333
+Ste Foy l'Argentière, 45.7000, 4.4667
+Ste Foy la Grande, 44.8333, 0.2167
+Ste Foy lès Lyon, 45.7333, 4.8000
+Ste Foy Tarentaise, 45.5833, 6.8833
+Ste Gauburge Sainte Colombe, 48.7000, 0.4333
+Ste Geneviève des Bois, 48.6333, 2.3333
+Ste Hermine, 46.5500, -1.0667
+Ste Lucie, 41.7000, 9.3667
+Ste Magnance, 47.4500, 4.0667
+Ste Marguerite sur Mer, 49.9167, 0.9500
+Ste Marie aux Mines(Markirch), 48.2500, 7.1833
+Ste Maure de Touraine, 47.1167, 0.6167
+Ste Maxime, 43.3000, 6.6333
+Ste Menehould, 49.0833, 4.9000
+Ste Mesme, 48.5333, 1.9667
+Ste Montaine, 47.4833, 2.3167
+Ste Mère Église, 49.4167, -1.3167
+Ste Savine, 48.3000, 4.0500
+Ste Sigolène, 45.2333, 4.2500
+Ste Suzanne, 47.5000, 6.7667
+Ste Tulle, 43.7833, 5.7667
+Ste Énimie, 44.3667, 3.4333
+Steenvoorde, 50.8000, 2.5833
+Steinbourg, 48.7667, 7.4167
+Stella Plage, 50.4833, 1.5833
+Stenay, 49.4833, 5.1833
+Stiring Wendel, 49.2000, 6.9333
+Strasbourg, 48.5833, 7.7500
+Strassburg > Strasbourg, 48.5833, 7.7500
+Sucy en Brie, 48.7667, 2.5333
+Suippes, 49.1333, 4.5333
+Sully sur Loire, 47.7667, 2.3667
+Sumène, 43.9833, 3.7167
+Sundhouse, 48.2500, 7.6000
+Surbourg, 48.9167, 7.8500
+Suresnes, 48.8667, 2.2333
+Surgères, 46.1167, -0.7500
+Survilliers, 49.1000, 2.5500
+Sury le Comtal, 45.5333, 4.1667
+Sussey, 47.2167, 4.3667
+Suze la Rousse, 44.2833, 4.8500
+Suèvres, 47.6667, 1.4667
+Syam, 46.7000, 5.9500
+Sète, 43.4000, 3.6833
+Sèvres, 48.8167, 2.2000
+Séchault, 49.2667, 4.7333
+Séderon, 44.2000, 5.5333
+Sées, 48.6000, 0.1667
+Séez, 45.6167, 6.8000
+Sélestat(Schlettstadt), 48.2667, 7.4500
+Sénas, 43.7500, 5.0833
+Sénez, 43.9167, 6.4000
+Sépeaux, 47.9500, 3.2333
+Sérifontaine, 49.3500, 1.7667
+Sérignan du Comtat, 44.1833, 4.8500
+Sévrier, 45.8667, 6.1333
+Sévérac le Château, 44.3167, 3.0667
+Sézanne, 48.7167, 3.7167

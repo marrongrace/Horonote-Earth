@@ -1,0 +1,329 @@
+Fabrègues, 43.5500, 3.7667
+Fagnières, 48.9667, 4.3167
+Fains les Sources, 48.7833, 5.1333
+Falaise, 48.9000, -0.2000
+Falck, 49.2333, 6.6333
+Falicon, 43.7500, 7.2833
+Fameck, 49.3000, 6.1167
+Farcy, 48.5167, 2.6167
+Fargniers, 49.6500, 3.3167
+Farschviller, 49.1000, 6.9000
+Faucigny, 46.1167, 6.3667
+Faucogney, 47.8500, 6.5667
+Faucon de Barcelonnette, 44.4000, 6.6833
+Faulquemont, 49.0500, 6.6000
+Fauquembergues, 50.6000, 2.0833
+Fauville en Caux, 49.6500, 0.5833
+Faverges, 45.7500, 6.3000
+Faverney, 47.7667, 6.1000
+Favières, 48.7667, 2.7833
+Favrieux, 48.9500, 1.6500
+Fay sur Lignon, 44.9833, 4.2333
+Fayence, 43.6167, 6.6833
+Fayl Billot, 47.7833, 5.6000
+Feignies, 50.3000, 3.9167
+Felletin, 45.8833, 2.1667
+Ferney Voltaire, 46.2500, 6.1167
+Ferrière la Grande, 50.2500, 4.0000
+Ferrières, 48.0833, 2.7833
+Ferrières en Brie, 48.8167, 2.7167
+Feucherolles, 48.8667, 1.9667
+Feuquières en Vimeu, 50.0667, 1.6000
+Feurs, 45.7500, 4.2333
+Feyzin, 45.6667, 4.8500
+Fienvillers, 50.1167, 2.2333
+Figeac, 44.6167, 2.0333
+Fins, 50.0333, 3.0500
+Firminy, 45.3833, 4.3000
+Fismes, 49.3000, 3.6833
+Fix St Geneys, 45.1333, 3.6667
+Fixin, 47.2500, 4.9667
+Flavigny sur Moselle, 48.5667, 6.1833
+Flavigny sur Ozerain, 47.5000, 4.5333
+Flavy le Martel, 49.7167, 3.2000
+Flers, 48.7500, -0.5667
+Flers sur Noye, 49.7333, 2.2500
+Fleurance, 43.8333, 0.6667
+Fleurville, 46.4500, 4.8833
+Fleury les Aubrais, 47.9333, 1.9167
+Fleury Mérogis, 48.6333, 2.3667
+Fleury sur Andelle, 49.3667, 1.3667
+Flexanville, 48.8500, 1.7333
+Flines Lèz Râches, 50.4167, 3.1833
+Flins sur Seine, 48.9667, 1.8667
+Flirey, 48.8833, 5.8333
+Flixecourt, 50.0167, 2.0833
+Flize, 49.7000, 4.7667
+Flogny, 47.9500, 3.8667
+Floing, 49.7167, 4.9333
+Florac, 44.3167, 3.6000
+Florange, 49.3333, 6.1167
+Flosaille, 45.6500, 5.3000
+Flumet, 45.8167, 6.5000
+Foix, 42.9667, 1.6000
+Folembray, 49.5500, 3.2833
+Follainville Dennemont, 49.0167, 1.7167
+Folschviller, 49.0667, 6.6833
+Foncine le Bas, 46.6333, 6.0500
+Fons outre Gardon, 43.9000, 4.1833
+Fontaine(Rhone-Alpes), 45.1833, 5.6667
+Fontaine(Franche-Comte), 47.6667, 7.0000
+Fontaine Française, 47.5167, 5.3667
+Fontaine le Dun, 49.8167, 0.8500
+Fontaine lès Dijon, 47.3500, 5.0167
+Fontaine lès Grès, 48.4167, 3.9000
+Fontaine lès Luxeuil, 47.8500, 6.3333
+Fontainebleau, 48.4000, 2.7000
+Fontaines, 46.8500, 4.7667
+Fontaines sur Saône, 45.8333, 4.8500
+Fontan, 44.0000, 7.5500
+Fontenay aux Roses, 48.7833, 2.2833
+Fontenay en Parisis, 49.0500, 2.4500
+Fontenay le Comte, 46.4667, -0.8000
+Fontenay le Fleury, 48.8167, 2.0500
+Fontenay le Vicomte, 48.5500, 2.4000
+Fontenay lès Briis, 48.6167, 2.1500
+Fontenay sous Bois, 48.8500, 2.4833
+Fontenay St Père, 49.0333, 1.7500
+Fontenay Trésigny, 48.7000, 2.8667
+Fontoy, 49.3500, 6.0000
+Fontvieille, 43.7167, 4.7167
+Forbach, 49.1833, 6.9000
+Forcalquier, 43.9667, 5.7833
+Forfry, 49.0500, 2.8500
+Forges les Bains, 48.6333, 2.1000
+Forges les Eaux, 49.6167, 1.5500
+Formerie, 49.6500, 1.7333
+Fort Mahon Plage, 50.3500, 1.5667
+Fos sur Mer, 43.4333, 4.9500
+Fosse Martin, 49.0833, 2.9000
+Fosses, 49.1000, 2.4833
+Fossé, 49.4500, 5.0000
+Foucarmont, 49.8500, 1.5667
+Fouesnant, 47.9000, -4.0167
+Foug, 48.6833, 5.7833
+Fougerolles, 47.8833, 6.4000
+Fougères, 48.3500, -1.2000
+Fougères sur Bièvre, 47.4500, 1.3500
+Fouju, 48.5833, 2.7833
+Foulain, 48.0333, 5.2167
+Fourmies, 50.0000, 4.0500
+Fourneaux(Centre), 47.8833, 1.8000
+Fourneaux(Rhone-Alpes), 45.1833, 6.6500
+Fourqueux, 48.8833, 2.0667
+Fours, 46.8167, 3.7167
+Foëcy, 47.1667, 2.1667
+Fraisans, 47.1500, 5.7667
+Fraisse, 45.3833, 4.2500
+Fraize, 48.1833, 7.0000
+Franconville, 48.9833, 2.2333
+Francueil, 47.3167, 1.0833
+Frangy, 46.0167, 5.9333
+Franvillers, 49.9667, 2.5000
+Frasne, 46.8500, 6.1667
+Freneuse, 49.0500, 1.6000
+Fresne St Mamès, 47.5500, 5.8667
+Fresnes, 48.7500, 2.3167
+Fresnes en Woëvre, 49.1333, 5.6500
+Fresnes sur Escaut, 50.4333, 3.5833
+Fresnes sur Marne, 48.9333, 2.7500
+Fresnoy Folny, 49.8833, 1.4333
+Fresnoy le Grand, 49.9500, 3.4167
+Fressenneville, 50.0667, 1.5667
+Fressin, 50.4500, 2.0500
+Fretin, 50.5500, 3.1333
+Frettes, 47.6833, 5.5667
+Froidmont Cohartille, 49.6833, 3.7000
+Froidos, 49.0500, 5.1167
+Froissy, 49.5667, 2.2167
+Fromelennes, 50.1333, 4.8667
+Fromentières, 48.9000, 3.7167
+Frontenard, 46.9167, 5.1667
+Frontenex Villard Rosset, 45.6333, 6.3167
+Frontignan, 43.4500, 3.7500
+Frouard, 48.7667, 6.1333
+Fruges, 50.5167, 2.1333
+Fréjus, 43.4333, 6.7333
+Frémainville, 49.0667, 1.8667
+Frépillon, 49.0500, 2.2000
+Fréteval, 47.8833, 1.2167
+Frétigney et Velloreille, 47.4833, 5.9333
+Frévent, 50.2667, 2.2833
+Fumay, 49.9833, 4.7000
+Fumel, 44.4833, 0.9500
+Fures, 45.3167, 5.5000
+Fuveau, 43.4500, 5.5667
+Fâches Thumesnil, 50.5833, 3.0667
+Fère Champenoise, 48.7500, 3.9833
+Fère en Tardenois, 49.2000, 3.5167
+Fécamp, 49.7500, 0.3667
+Fénétrange, 48.8500, 7.0167
+Fépin, 50.0167, 4.7333
+Féy, 49.0333, 6.1000
+Gacé, 48.8000, 0.3000
+Gagny, 48.8833, 2.5333
+Gaillac, 43.9000, 1.9167
+Gaillefontaine, 49.6500, 1.6167
+Gaillon(Ile-de-France), 49.0333, 1.9000
+Gaillon(Haute-Normandie), 49.1667, 1.3333
+Gallardon, 48.5333, 1.7000
+Galluis, 48.8000, 1.8000
+Gamaches, 49.9833, 1.5500
+Gambais, 48.7667, 1.6667
+Gambaiseuil, 48.7500, 1.7333
+Gandrange, 49.2667, 6.1333
+Ganges, 43.9333, 3.7000
+Gannat, 46.1000, 3.2000
+Gap, 44.5667, 6.0833
+Garancières, 48.8167, 1.7667
+Garches, 48.8500, 2.1833
+Gardanne, 43.4500, 5.4667
+Gargenville, 49.0000, 1.8167
+Garges lès Gonesse, 48.9667, 2.4167
+Garlin, 43.5667, -0.2500
+Garne, 48.6833, 1.9667
+Gas, 48.5667, 1.6667
+Gasny, 49.0833, 1.6000
+Gassin, 43.2167, 6.5833
+Gattières, 43.7667, 7.1833
+Gauchy, 49.8167, 3.2667
+Gavet, 45.0667, 5.8667
+Gazeran, 48.6333, 1.7667
+Gebweiler > Guebwiller, 47.9167, 7.2000
+Geispolsheim, 48.5167, 7.6500
+Gendrey, 47.2000, 5.6833
+Genlis, 47.2333, 5.2167
+Gennes, 47.3333, -0.2333
+Gennevilliers, 48.9333, 2.3000
+Gentilly, 48.8167, 2.3500
+Gentioux, 45.7833, 1.9833
+Gençay, 46.3833, 0.4000
+Gerbéviller, 48.5000, 6.5167
+Germay, 48.4167, 5.3500
+Gespunsart, 49.8167, 4.8333
+Gevrey Chambertin, 47.2333, 4.9500
+Gex, 46.3333, 6.0667
+Ghisonáccia, 42.0000, 9.4167
+Gien, 47.7000, 2.6333
+Giens, 43.0333, 6.1333
+Giez, 45.7500, 6.2500
+Gif sur Yvette, 48.7000, 2.1333
+Gilette, 43.8500, 7.1667
+Gimont, 43.6333, 0.8833
+Giraumont, 49.1667, 5.9167
+Giromagny, 47.7500, 6.8333
+Giron, 46.2333, 5.7667
+Gironville sous les Côtes, 48.8000, 5.6667
+Gisors, 49.2833, 1.7833
+Giverny, 49.0667, 1.5333
+Givet, 50.1333, 4.8333
+Givors, 45.5833, 4.7667
+Givry, 46.7833, 4.7500
+Givry en Argonne, 48.9500, 4.8833
+Gizeux, 47.4000, 0.2000
+Gièvres, 47.2667, 1.6667
+Glos la Ferrière, 48.8500, 0.6000
+Goderville, 49.6500, 0.3667
+Goetzenbruck, 48.9833, 7.3833
+Goldbey, 48.2000, 6.4333
+Golfe Juan, 43.5667, 7.0833
+Gometz la Ville, 48.6667, 2.1333
+Gometz le Châtel, 48.6833, 2.1333
+Gommécourt, 49.0833, 1.6000
+Goncelin, 45.3333, 5.9833
+Gondrecourt le Château, 48.5167, 5.5000
+Gondreville, 48.7000, 5.9667
+Gonesse, 48.9833, 2.4500
+Gonfaron, 43.3167, 6.2833
+Gordes, 43.9000, 5.2000
+Gorze, 49.0500, 6.0000
+Gouarec, 48.2167, -3.1833
+Goudet, 44.8833, 3.9167
+Goumois, 47.2667, 6.9500
+Goupillières, 48.8833, 1.7667
+Gourdon(Midi-Pyrenees), 44.7333, 1.3833
+Gourdon(Provence-Alpes-Cote d'Azur), 43.7167, 6.9833
+Gourin, 48.1333, -3.6000
+Gournay en Bray, 49.4833, 1.7333
+Gournay sur Marne, 48.8667, 2.5667
+Goussainville, 49.0167, 2.4667
+Goussonville, 48.9167, 1.7667
+Gramat, 44.7833, 1.7167
+Grancey le Château, 47.6667, 5.0333
+Grand, 48.3833, 5.4833
+Grand Charmont, 47.5333, 6.8333
+Grand Couronne, 49.3500, 1.0000
+Grand Fort Philippe, 51.0000, 2.1000
+Grand Fougeray, 47.7333, -1.7333
+Grand Gallargues, 43.7167, 4.1667
+Grandchamp, 47.7167, 5.4500
+Grandchamp, 48.7167, 1.6167
+Grandpré, 49.3333, 4.8667
+Grandrieu, 44.7833, 3.6333
+Grandvillars, 47.5500, 6.9667
+Grandvilliers, 49.6667, 1.9333
+Granges sur Vologne, 48.1500, 6.7833
+Granville, 48.8333, -1.6000
+Grasse, 43.6667, 6.9167
+Gravelines, 50.9833, 2.1167
+Gravelotte, 49.1167, 6.0167
+Gravigny, 49.0500, 1.1667
+Gray, 47.4500, 5.5833
+Graçay, 47.1333, 1.8500
+Greffiers, 48.6167, 1.8500
+Grenay, 50.4500, 2.7333
+Grenoble, 45.1667, 5.7167
+Gresse en Vercors, 44.9000, 5.5667
+Gressey, 48.8333, 1.6167
+Gressy, 48.9667, 2.6833
+Gretz Armainvilliers, 48.7333, 2.7333
+Grez sur Loing, 48.3167, 2.7000
+Grignan, 44.4167, 4.9000
+Grignols, 44.3833, -0.0500
+Grignon, 48.8500, 1.9500
+Grigny, 45.6167, 4.7833
+Grimaud, 43.2667, 6.5167
+Grisy Suisnes, 48.6833, 2.6667
+Groix, 47.6333, -3.4667
+Groslay, 48.9833, 2.3500
+Grosrouvre, 48.7833, 1.7667
+Grostenquin, 48.9833, 6.7333
+Grâne, 44.7333, 4.9167
+Grégy sur Yerre, 48.6667, 2.6167
+Gréolières, 43.8000, 6.9500
+Gréoux les Bains, 43.7500, 5.8833
+Grésy sur Aix, 45.7167, 5.9500
+Grésy sur Isère, 45.6000, 6.2500
+Guebwiller(Gebweiler), 47.9167, 7.2000
+Guer, 47.9000, -2.1167
+Guermantes, 48.8500, 2.7000
+Guernes, 49.0167, 1.6333
+Guerville, 48.9500, 1.7333
+Guichen, 47.9667, -1.8000
+Guignes Rabutin, 48.6333, 2.8000
+Guilherand, 44.9333, 4.8667
+Guillaumes, 44.0833, 6.8500
+Guillestre, 44.6667, 6.6500
+Guillon, 47.5167, 4.1000
+Guilvinec, 47.7833, -4.2833
+Guingamp, 48.5500, -3.1833
+Guiperreux, 48.6667, 1.7000
+Guiscard, 49.6500, 3.0500
+Guise, 49.9000, 3.6333
+Guitrancourt, 49.0167, 1.7833
+Guyancourt, 48.7667, 2.0667
+Gué d'Hossus, 49.9500, 4.5333
+Gué de Longroi, 48.5000, 1.7167
+Guéherville, 48.5333, 1.8833
+Guéméné sur Scorff, 48.0667, -3.2000
+Guérande, 47.3333, -2.4333
+Guéret, 46.1667, 1.8667
+Guînes, 50.8667, 1.8667
+Guîtres, 45.0500, -0.1833
+Gy, 47.4000, 5.8167
+Gémenos, 43.3000, 5.6333
+Génicourt, 49.0833, 2.0667
+Génicourt sur Meuse, 49.0333, 5.4333
+Génissiat, 46.0500, 5.7833
+Génolhac, 44.3500, 3.9500
+Gérardmer, 48.0667, 6.8833
