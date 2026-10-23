@@ -1,0 +1,97 @@
+Afaahiti, -17.7167, -149.3167
+Afareaitu, -17.5500, -149.7833
+Ahunui Island, -19.6500, -140.4167
+Ahurei, -27.6000, -144.3000
+Amanu Island, -17.8000, -140.7667
+Anaa Island, -17.4167, -145.5000
+Arue, -17.5333, -149.5333
+Atimaono, -17.7667, -149.4667
+Atu Ana, -9.8000, -139.0333
+Atuona, -9.8000, -139.0333
+Bellingshausen Island, -15.8000, -154.5500
+Bora-Bora, -16.5000, -151.7500
+Bora-Bora Island, -16.5000, -151.7500
+Faaone, -17.6667, -149.3000
+Fakarava Island, -16.3333, -145.6167
+Haapiti, -17.5667, -149.8667
+Haka Mui(Ua-Pou I), -9.3833, -140.0000
+Hana Teio, -9.9833, -139.1000
+Hana Tuuna, -10.0000, -139.1167
+Hanatetena, -9.9667, -139.0667
+Hanaui, -9.7500, -139.0833
+Hao Island, -18.2500, -140.9000
+Haraiki Island, -17.4667, -143.4500
+Hikueru Island, -17.6000, -142.6167
+Hitiaa, -17.6000, -149.3000
+Hiva Oa Island, -9.7500, -139.0000
+Kaukura Island, -15.7500, -146.7000
+Mahina, -17.5167, -149.5000
+Makatea Island, -15.8333, -148.2500
+Makemo Island, -16.5833, -143.6667
+Manuhangi Island, -19.2000, -141.2667
+Maraa, -17.7667, -149.5667
+Marae, -17.5333, -149.9000
+Maria Island, -21.8000, -154.6833
+Marquesas, -9.0000, -139.5000
+Marutea Island, -17.0000, -143.1667
+Mataiea, -17.7500, -149.3833
+Mataiva Island, -14.8833, -148.6667
+Mataura, -23.3667, -149.4667
+Mehetia Island, -17.8667, -148.0500
+Moorea Island, -17.5333, -149.6667
+Mopelia Island, -16.8333, -153.9167
+Motopu, -9.9167, -139.0500
+Nahoe, -9.7500, -138.9167
+Nengonengo Island, -18.7833, -141.8000
+Nutae, -17.7333, -149.2500
+Paea, -17.6833, -149.5833
+Paopao, -17.5167, -149.8167
+Papara, -17.7333, -149.3500
+Papeari, -17.7500, -149.3500
+Papeete, -17.5333, -149.5667
+Papenoo, -17.5000, -149.4167
+Papetoai, -17.4833, -149.8667
+Pirae, -17.5333, -149.5500
+Pueu, -17.7333, -149.2167
+Punaauia, -17.6333, -149.6000
+Raevavae Island, -23.8667, -147.6667
+Raiatea Island, -16.8333, -151.4167
+Rapa Island, -27.6000, -144.3333
+Raraka Island, -16.1667, -144.9000
+Raroia Island, -16.0167, -142.4333
+Ravahéré Island, -18.2333, -142.1500
+Rikitea, -23.1333, -134.9500
+Rimatara Island, -22.6333, -152.8500
+Rotoava, -16.0333, -145.6000
+Rurutu Island, -22.4333, -151.3333
+Scilly Island, -16.5000, -154.6667
+Tahaa Island, -16.6333, -151.5000
+Tahiti Island, -17.6167, -149.4500
+Tahuata Island, -9.9500, -139.0833
+Tai-o-hae(Nuku Hiva I), -8.9333, -140.0833
+Takapoto Island, -14.6333, -145.2000
+Taunoa, -17.7500, -149.3500
+Tautira, -17.7333, -149.1500
+Teahupoo, -17.8500, -149.2167
+Teahupu, -17.8500, -149.2167
+Temae, -17.4833, -149.7667
+Tematangi Island, -21.6833, -140.6667
+Tetiaroa Island, -17.0833, -149.5333
+Tiarei, -17.5333, -149.3333
+Tiarel, -17.5333, -149.3333
+Tikei Island, -14.9667, -144.5333
+Toanoano, -17.8500, -149.2167
+Tupuai, Île, -23.3000, -149.5000
+Uturea, -16.7333, -151.4333
+Vairao, -17.7833, -149.2833
+Vaitahu, -9.9333, -139.1000
+Vaitoto, -17.7667, -149.1167
+Vanavana Island, -20.7833, -139.1500
+Île Tupuai, -23.3000, -149.5000
+Îles Australes, -23.0000, -150.000
+Îles de la Société, -17.0000, -150.0000
+Îles du Désappointement, -14.1667, -141.3333
+Îles du Roi Georges, -14.5333, -145.1333
+Îles Gambier, -21.3333, -136.5000
+Îles Marquises(Marquesas), -9.0000, -139.5000
+Îlots de Bass, -27.9167, -143.43330
