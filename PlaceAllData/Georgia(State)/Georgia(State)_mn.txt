@@ -1,0 +1,378 @@
+Mableton, 33.8186, -84.5825
+Mac Fishery Landing, 31.5811, -81.7703
+Macedonia(Towns), 34.9181, -83.7250
+Macedonia(Cherokee), 34.2536, -84.3606
+Macedonia(Miller), 31.2469, -84.6614
+Machen, 33.3919, -83.5900
+Macland, 33.9022, -84.6725
+Macon, 32.8406, -83.6325
+Maddox, 31.9969, -84.2425
+Madison, 33.5956, -83.4681
+Madola, 34.9278, -84.4297
+Madras, 33.4400, -84.7422
+Madray Springs, 31.7339, -81.9789
+Magby Gap, 34.8667, -85.5167
+Magnet, 33.5650, -84.0156
+Magnolia, 32.4300, -83.4539
+Magnolia Park, 32.0186, -81.0828
+Magruder, 32.9200, -82.2417
+Mahailey Crossroads, 33.3589, -85.2186
+Major, 33.4533, -84.6564
+Mallets Landing, 30.7956, -81.8528
+Mallorysville, 33.8667, -82.7333
+Malvern, 32.8000, -81.9500
+Manassas, 32.1603, -82.0197
+Manchester, 32.8597, -84.6200
+Mandeville, 33.6544, -85.1369
+Manningtown, 31.4131, -81.8586
+Manor, 31.1036, -82.5733
+Mansfield, 33.5178, -83.7344
+Manta, 32.2858, -84.7136
+Maple Grove, 34.9103, -84.1711
+Marblehill, 34.4306, -84.3369
+Maretts, 34.4231, -82.9858
+Margret, 34.7544, -84.1461
+Marietta, 33.9525, -84.5500
+Marine Corps Center, 31.5500, -84.0500
+Marion(Glimer), 34.6358, -84.2597
+Marion(Twiggs), 32.6622, -83.4372
+Marlow, 32.2689, -81.3908
+Mars Hill, 34.0350, -84.6917
+Marsh Crossing, 34.7172, -85.3283
+Marsh Landing, 31.4169, -81.2958
+Marshall, 31.8683, -83.8883
+Marshallville, 32.4561, -83.9403
+Martech, 33.7833, -84.4333
+Martin, 34.4869, -83.1850
+Martindale, 34.6228, -85.3022
+Martinez, 33.5172, -82.0758
+Martins Crossroads(Lincoln), 33.7722, -82.3719
+Martins Crossroads(Randolph), 31.6969, -84.6389
+Mashburn Mill, 34.8906, -84.1356
+Mason, 33.2658, -85.2611
+Massee, 31.1900, -83.3572
+Massey Hill, 32.8600, -83.3467
+Masseyville, 34.7267, -85.4633
+Match, 34.2000, -83.0333
+Mathews, 33.2108, -82.3078
+Matt, 34.2986, -84.1531
+Matthews, 33.2167, -82.3000
+Mattox, 30.9175, -82.0847
+Mattox Ford, 30.7331, -82.6900
+Mauk, 32.5017, -84.4211
+Maxeys, 33.7542, -83.1736
+Maxim, 33.7931, -82.3408
+Maxwell(Jasper), 33.4167, -83.6611
+Maxwell(Fannin), 34.8261, -84.3592
+Mayday, 30.8272, -83.0092
+Mayfair, 32.0667, -81.1167
+Mayfield, 33.3550, -82.8008
+Mayhaw, 31.1764, -84.8753
+Mays Bluff, 30.9053, -81.8878
+Maysville, 34.2528, -83.5617
+McAfee, 33.7333, -84.2667
+McBean, 33.2433, -81.9508
+McBride, 33.3925, -84.7794
+McCall Hospital, 34.2467, -85.1781
+McCaysville, 34.9861, -84.3714
+McCollum, 33.4503, -84.7003
+McCrary Settlement, 32.9922, -84.4728
+McCullough, 34.9697, -84.2133
+McCutchen, 34.8000, -85.0167
+McDainels, 34.4525, -84.9567
+McDaniel, 34.5083, -84.6306
+McDonald Acres, 34.9597, -85.2397
+McDonough, 33.4472, -84.1469
+McEachins Landing, 31.9508, -82.5756
+McElheneys Crossroads, 33.2433, -83.7606
+McElroys Mill, 33.7764, -83.9856
+McGregor, 32.1964, -82.5050
+McIntosh, 31.8256, -81.5239
+McIntosh Mill Village, 33.3667, -84.7833
+McIntyre, 32.8461, -83.1908
+McKee, 34.4597, -84.1419
+McKinney, 32.9258, -84.2919
+McKinnon, 31.4250, -81.9269
+McLendon Crossroads, 32.9925, -84.6267
+McLeods Mill, 30.9714, -82.3889
+McNatt Falls, 31.9700, -82.4717
+McPherson, 33.9475, -84.9067
+McRae, 32.0678, -82.9008
+McTier, 31.8058, -82.2461
+McWhorter, 33.6131, -84.8367
+Meadow, 33.9781, -84.0975
+Meadowdale, 32.4444, -83.7758
+Meansville, 33.0492, -84.3069
+Mechanic Hill, 33.2975, -81.9586
+Mechanicsville, 33.9275, -84.2425
+Meda, 33.2811, -83.3669
+Meeks, 32.6186, -82.5569
+Meigs, 31.0722, -84.0892
+Meinhard, 32.1814, -81.2111
+Meldrim, 32.1431, -81.3781
+Melrose, 30.6408, -83.1358
+Melson, 34.1711, -85.4094
+Melton, 33.3406, -82.0775
+Memorial Hospital(Colquitt), 31.1256, -83.7803
+Memorial Hospital(Ware), 31.2250, -82.3475
+Memorial Hospital(Chatham), 32.0303, -81.0889
+Memorial Hospital(Decatur), 30.9025, -84.5522
+Mendes, 31.9986, -81.9742
+Menlo, 34.4847, -85.4764
+Meridian, 31.4517, -81.3781
+Meriwether, 33.1550, -83.3192
+Meriwether White Sulphur Spring, 32.8833, -84.8333
+Merrillville, 30.9489, -83.8800
+Mershon, 31.4639, -82.2575
+Mesena, 33.4597, -82.5903
+Metasville, 33.7678, -82.6017
+Metcalf, 30.7000, -83.9881
+Methvins, 32.1125, -84.0692
+Metter, 32.3969, -82.0603
+Mexico Crossing, 31.1417, -82.7864
+Miami Valley, 32.5536, -83.7967
+Mica, 34.3578, -84.2728
+Middle Oconee, 33.9500, -83.4500
+Middle Place, 31.8014, -81.1122
+Middle Rockdale, 33.6667, -84.0333
+Middleton, 34.0992, -82.7675
+Midland, 32.5747, -84.8272
+Midriver, 30.9756, -81.8675
+Midville, 32.8189, -82.2350
+Midway(Catoosa), 34.9631, -85.2594
+Midway(Tattnall), 32.0314, -81.8936
+Midway(Clinch), 30.9900, -82.6833
+Midway(Habersham), 34.5417, -83.5403
+Midway(Laurens), 32.6456, -82.7964
+Midway(Liberty), 31.8056, -81.4308
+Midway(Lincoln), 33.8783, -82.5525
+Milan, 32.0172, -83.0628
+Milford, 31.3817, -84.5436
+Mill Creek, 34.7325, -85.0422
+Milledgeville, 33.0800, -83.2322
+Millen, 32.8039, -81.9494
+Millers Mill, 33.5350, -84.1414
+Millhaven, 32.9336, -81.6497
+Millwood, 31.2656, -82.6606
+Milner, 33.1167, -84.1967
+Milner Crossroads, 33.0608, -84.2075
+Milstead, 33.6878, -83.9922
+Mimsville, 31.2556, -84.5286
+Mineola, 30.9075, -83.3436
+Mineral Bluff, 34.9144, -84.2767
+Minnesota, 31.3117, -83.9103
+Minneta, 33.2856, -83.7117
+Minter, 32.4858, -82.7606
+Minton, 31.3550, -83.8189
+Mission Ridge, 34.9500, -85.3000
+Mitchell, 33.2197, -82.7033
+Mitchell Forks, 32.2433, -81.7025
+Mize, 34.4733, -83.3369
+Mizell, 32.5761, -84.3061
+Mobley Crossing, 32.3231, -83.4078
+Modoc, 32.6556, -82.3094
+Mogul, 32.8497, -83.5650
+Molena, 33.0119, -84.5003
+Moncrief, 30.4333, -84.2833
+Moniac, 30.5181, -82.2253
+Monks Crossing, 30.8986, -83.1031
+Monroe, 33.7947, -83.7133
+Montclair, 33.4833, -82.0333
+Monteith, 32.1803, -81.1903
+Montevideo, 34.2722, -82.8219
+Montezuma, 32.3050, -84.0275
+Montgomery, 31.9403, -81.1222
+Montgomery Corner, 34.9858, -83.6203
+Monticello, 33.3047, -83.6833
+Montreal, 33.8167, -84.2833
+Montrose, 32.5594, -83.1533
+Moody, 30.9833, -83.2000
+Moody Field, 30.8500, -83.2500
+Moody Landing, 30.7869, -82.0247
+Moons, 34.9306, -85.3486
+Moores, 32.5183, -82.9897
+Moores Crossroads, 31.7444, -85.0172
+Mora, 31.4139, -82.9539
+Moran, 32.8486, -83.9319
+Moreland, 33.2867, -84.7678
+Morgan(Calhoun), 31.5375, -84.5994
+Morgan(Haralson), 33.7469, -85.0731
+Morganton, 34.8747, -84.2442
+Morganville, 34.9364, -85.4536
+Morning Side Hills, 34.2925, -83.7931
+Morningside(Fulton), 33.7967, -84.3689
+Morningside(Floyd), 34.2644, -85.2825
+Morningside Heights, 34.3000, -83.8167
+Morris, 31.7942, -84.9464
+Morris Brown, 33.7500, -84.4167
+Morris Estates, 34.9756, -85.1767
+Morrow, 33.5831, -84.3394
+Morton, 32.9781, -83.5258
+Morven, 30.9414, -83.4994
+Mosquito Crossing, 33.4744, -83.1172
+Moss Oak, 32.4194, -83.7744
+Mossy Creek, 34.5411, -83.6856
+Mossy Dell, 31.7606, -84.1133
+Moultrie, 31.1797, -83.7892
+Mount Airy, 34.5186, -83.5008
+Mount Berry, 34.2833, -85.1833
+Mount Bethel, 33.9661, -84.4114
+Mount Carmel, 34.6628, -85.3100
+Mount Herman, 31.9533, -81.1456
+Mount Olivet, 34.4003, -82.9856
+Mount Park, 33.8833, -84.1333
+Mount Pleasant(Banks), 34.3678, -83.4422
+Mount Pleasant(Chatham), 31.9472, -81.1464
+Mount Pleasant(Decatur), 31.0239, -84.4603
+Mount Pleasant(Wayne), 31.4339, -81.6794
+Mount Vernon(Montgomery), 32.1783, -82.5947
+Mount Vernon(Walton), 33.8356, -83.6444
+Mount Vernon(Whitfield), 34.8000, -85.0167
+Mount Wilkinson, 33.8686, -84.4667
+Mount Zion, 33.6342, -85.1872
+Mountain City, 34.9181, -83.3856
+Mountain Hill, 32.7231, -85.0228
+Mountain Park, 34.0808, -84.4114
+Mountain Scene, 34.8572, -83.7222
+Mountain Springs, 32.8992, -83.4558
+Mountain View(Clayton), 33.6417, -84.3903
+Mountain View(Walker), 34.9122, -85.3189
+Mountainbrook, 32.8586, -84.8506
+Mountville, 33.0392, -84.8808
+Mouth of The Branch Landing, 31.3161, -81.9311
+Mouth of The Swamp Landing, 31.2836, -81.9494
+Moxley, 32.9194, -82.3914
+Moye, 31.6108, -84.7769
+Mud Creek, 34.5000, -83.6000
+Mud Valley, 30.8903, -82.6928
+Mulberry, 33.9833, -83.7167
+Mulberry Grove(Harris), 32.6628, -84.9575
+Mulberry Grove(Chatham), 32.1894, -81.1594
+Mundys Mill, 33.4900, -84.3894
+Munnerlyn, 32.9533, -81.9622
+Murdock McRaes Landing, 31.9036, -82.7003
+Murphy, 31.0708, -83.8236
+Murphy Junction, 34.8847, -84.3083
+Murray Hill, 32.9594, -81.7169
+Murray Hills, 33.4850, -82.0486
+Murray's Lake, 33.6167, -84.3667
+Murrays Crossroads, 32.3208, -84.2944
+Murrayville, 34.4186, -83.9058
+Muscogee County Health Center, 32.4817, -84.9822
+Musella, 32.7978, -84.0322
+Musselwhite, 31.9500, -83.6989
+Myricks Mill, 32.7842, -83.3767
+Myrtle, 32.4872, -83.8156
+Myrtle Grove, 31.8844, -81.2458
+Mystic, 31.6219, -83.3358
+Nacoochee, 34.6850, -83.7106
+Nahunta, 31.2042, -81.9814
+Nails Creek, 34.3667, -83.2333
+Nakomis, 32.5467, -84.0011
+Nance Springs, 34.6225, -84.9400
+Nankin, 30.6658, -83.4681
+Nankipooh, 32.5564, -84.9450
+Naomi, 34.6931, -85.2078
+Nashville, 31.2072, -83.2503
+National Colony Apartments, 33.5167, -84.3500
+National Hills, 33.4667, -82.0167
+Navy Yard Landing, 31.0994, -85.0300
+Naylor, 30.9086, -83.0783
+Neal(Pike), 33.0508, -84.4858
+Neal(Houston), 32.4400, -83.7883
+Neal Crossing, 34.5528, -85.4150
+Neals Landing, 30.9772, -85.0053
+Nebo, 33.8383, -84.8317
+Nebula, 32.8503, -84.6772
+Neco, 33.4144, -82.0069
+Needham, 31.1558, -82.4286
+Needmore(Brantley), 31.3333, -81.9003
+Needmore(Echols), 30.6789, -82.7117
+Neese, 34.0775, -83.3153
+Nelson, 34.3819, -84.3711
+Nevils, 32.2636, -81.7611
+New Branch, 32.0819, -82.2517
+New Cotton Mill, 34.2333, -84.4833
+New Elm, 31.2936, -83.8192
+New England, 34.9103, -85.4803
+New Era, 32.1142, -84.1364
+New Ford, 30.7819, -82.8339
+New Georgia, 33.8089, -84.8900
+New Holland, 34.3069, -83.8025
+New Home, 34.8667, -85.5167
+New Hope(Bulloch), 32.3381, -81.8969
+New Hope(Glynn), 31.2872, -81.4442
+New Hope(Gwinnett), 33.9231, -83.9164
+New Hope(Lincoln), 33.7492, -82.3919
+New Hope(Glimer), 34.7275, -84.5089
+New Hope(Paulding), 33.9581, -84.7894
+New Lacy, 31.5392, -82.3717
+New Lois, 31.0850, -83.2683
+New Point, 32.0547, -84.3025
+New Rock Hill, 31.0011, -83.5744
+New Salem, 34.3333, -83.5000
+New Sirmans, 31.0333, -83.0667
+New Town(Wilkes), 33.8119, -82.8108
+New Town(Gordon), 34.5306, -84.9058
+New York, 34.0500, -85.0500
+Newark, 30.8236, -83.9097
+Newborn, 33.5169, -83.6961
+Newell, 30.9414, -82.0222
+Newington, 32.5900, -81.5042
+Newington Landing, 32.2872, -81.1803
+Newnan, 33.3806, -84.7997
+Newport, 34.7228, -84.2339
+Newton, 31.3128, -84.3358
+Newton Factory, 33.6667, -83.8667
+Newtown, 34.0211, -84.2700
+Neyami, 31.8236, -84.2153
+Nicholasville(Early), 31.4039, -84.6700
+Nicholasville(Walton), 33.8681, -83.7547
+Nicholls, 31.5172, -82.6350
+Nicholson, 34.1139, -83.4317
+Nicholsonville, 31.9592, -81.1378
+Nickelsville, 34.6017, -84.8669
+Nicklesville, 32.6861, -83.0856
+Nickleville, 30.8056, -84.3353
+Nickville, 34.1133, -83.0017
+Nimblewill, 34.5633, -84.1403
+Nixon, 33.3369, -81.9561
+Noah, 33.2153, -82.2861
+Noble, 34.7806, -85.2544
+Noonday, 34.0619, -84.5214
+Norcross, 33.9411, -84.2136
+Norman, 33.9339, -82.7633
+Norman Park, 31.2689, -83.6872
+Normantown, 32.3061, -82.3697
+Norris, 33.3825, -82.7242
+Norristown, 32.5067, -82.4944
+Norristown Junction, 32.5575, -82.4886
+North Atlanta, 33.8650, -84.3367
+North Buena Vista, 32.4333, -84.5167
+North Canton, 34.2439, -84.4939
+North Central, 34.8167, -84.9167
+North Clayton, 33.5819, -84.3033
+North Dade, 34.9167, -85.4500
+North Decatur, 33.7903, -84.3061
+North Druid Hills, 33.8333, -84.3167
+North Dublin, 32.5500, -82.9000
+North Echols, 30.7667, -82.9500
+North Elberton, 34.1269, -82.8589
+North High Shoals, 33.8167, -83.5000
+North Highlands, 32.4944, -84.9853
+North Kirkwood, 33.7617, -84.3289
+North Ogeechee, 32.8500, -81.9167
+North Rockdale, 33.7333, -83.9833
+North Roswell, 34.0167, -84.3500
+North Side, 33.8333, -84.3833
+North West Point, 32.9031, -85.1600
+North Whitfield, 34.9167, -84.9333
+Northcutt, 34.7303, -84.4306
+Northwoods, 33.8775, -84.2878
+Norton, 34.8547, -84.8500
+Norwich, 32.5364, -84.4444
+Norwood, 33.4625, -82.7053
+Notalee Orchards, 34.8783, -84.0053
+Note, 33.2675, -83.4639
+Nuberg, 34.2644, -82.8950
+Nunez, 32.4911, -82.3472

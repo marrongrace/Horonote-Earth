@@ -1,0 +1,190 @@
+La Crosse, 32.1867, -84.2403
+La Fayette, 34.7047, -85.2819
+La Grange, 33.0392, -85.0314
+La Vista, 33.8167, -84.3333
+Laboon, 33.7833, -83.6167
+Laconte, 31.2131, -83.4492
+Ladds, 34.1486, -84.8294
+Laffingal, 34.1914, -84.6486
+Laingkat, 30.7192, -84.4883
+Lake, 34.0167, -85.2500
+Lake Arrowhead, 34.3167, -84.5500
+Lake Capri Estates, 33.7167, -84.1000
+Lake Cindy, 33.3833, -84.2833
+Lake City, 33.6064, -84.3353
+Lake Creek, 34.0703, -85.2172
+Lake Howard, 34.7000, -85.3667
+Lake Lucerne, 33.8833, -84.1333
+Lake Park, 30.6819, -83.1797
+Lake Talmadge, 33.3833, -84.2833
+Lake Tara, 33.5417, -84.3500
+Lakehills, 33.4089, -84.7717
+Lakeland, 31.0408, -83.0753
+Lakemont, 34.7819, -83.4164
+Lakemount, 34.7833, -83.4167
+Lakeshore Estates, 34.3014, -83.8589
+Lakeside, 32.8411, -83.5739
+Lakeside Park, 32.0000, -81.0833
+Lakeview(Catoosa), 34.9792, -85.2589
+Lakeview(Floyd), 34.2744, -85.2750
+Lakeview(Peach), 32.5778, -83.7497
+Lakeview Estates, 33.7067, -84.0317
+Lakewood, 33.7167, -84.3833
+Lakewood Heights, 33.7047, -84.3786
+Lamar, 32.0161, -84.0719
+Lamara Heights, 32.0333, -81.1036
+Lamarville, 32.0336, -81.1486
+Lamkin, 33.5142, -82.0978
+Lance Mill, 34.9478, -84.1431
+Landrum, 34.4142, -84.0194
+Lands Crossroads, 31.7194, -83.3847
+Lane Landing, 32.7944, -82.0122
+Laney, 31.2167, -84.0333
+Langdon, 32.9453, -84.6008
+Lanier, 32.1297, -81.5369
+Lanier Heights, 32.8164, -83.5686
+Lashley, 32.5458, -83.6114
+Lathemtown, 34.2461, -84.3072
+Laurel Hills, 32.5178, -84.9872
+Laurens Hill, 32.5667, -83.1500
+Laurens Memorial Hospital, 32.5325, -82.9350
+Lavender, 34.2919, -85.3411
+Lavonia, 34.4358, -83.1069
+Lawrences Mill, 32.9833, -84.4997
+Lawrenceville, 33.9561, -83.9881
+Lawton, 32.8717, -81.9456
+Lax, 31.4731, -83.1217
+Leaf, 34.5744, -83.6611
+Leah, 33.6631, -82.3356
+Leary, 31.4856, -84.5139
+Leathersville, 33.7167, -82.4400
+Lebanon(Toonigh Station), 34.1428, -84.5094
+Lecount, 31.6797, -81.4589
+Lee Pope, 32.6119, -83.9558
+Leefield, 32.4181, -81.6136
+Lees Crossing, 33.0308, -85.0611
+Lees Mill, 33.4167, -84.5167
+Leesburg, 31.7319, -84.1708
+Lehigh, 31.6653, -82.7156
+Lela, 30.9831, -84.8631
+Leland, 33.8122, -84.5589
+Leliaton, 31.3247, -82.9933
+Lena, 34.0667, -84.6667
+Lenox, 31.2714, -83.4650
+Lenox Square, 33.8500, -84.3667
+Leo, 34.5411, -83.7406
+LePageville, 32.0717, -81.0592
+Leslie, 31.9553, -84.0867
+Lester, 31.3694, -84.0450
+Letford, 32.0386, -81.6014
+Leverett, 33.8106, -82.3911
+Leveretts, 31.9428, -84.5700
+Lewis, 32.8017, -81.6817
+Lewis Corner, 34.5150, -84.8103
+Lewiston(Columbia), 33.5100, -82.2022
+Lewiston(Wilkinson), 32.8964, -83.4022
+Lewistown, 33.5333, -82.1333
+Lewner, 34.9489, -84.1578
+Lexington, 33.8697, -83.1119
+Lexsy, 32.4683, -82.2975
+Liberty, 33.4214, -83.1372
+Liberty City, 32.0475, -81.1378
+Liberty Hill(Lamar), 33.1533, -84.1342
+Liberty Hill(Worth), 31.4008, -83.9397
+Lifsey, 33.0367, -84.3733
+Lightfoot, 32.8167, -83.0833
+Lilburn, 33.8900, -84.1431
+Lilly, 32.1469, -83.8775
+Lilypond, 34.4339, -84.9519
+Lime Sink, 31.0333, -84.3167
+Limerick, 31.8367, -81.3861
+Limestone, 32.3833, -83.3500
+Lincoln Hills, 32.5278, -84.9458
+Lincoln Landing, 31.7753, -81.2069
+Lincoln Park, 32.8678, -84.3306
+Lincolnton, 33.7922, -82.4792
+Lind Landing, 31.9408, -82.5864
+Lindale, 34.1867, -85.1747
+Linden, 32.4614, -84.9239
+Lindsey Creek, 32.4833, -84.9500
+Linesville, 33.8439, -82.8653
+Linton, 33.1164, -82.9928
+Linwood, 34.7128, -85.2892
+Listonia, 31.9642, -83.6594
+Lithia Springs, 33.7939, -84.6606
+Lithonia, 33.7122, -84.1053
+Little Hope, 31.0128, -84.9094
+Little House Creek, 31.7500, -83.3000
+Little Miami, 30.8142, -83.2606
+Little River(Putnam), 33.2667, -83.4167
+Little River(Wilkes), 33.6553, -82.7669
+Little River Landing, 34.1647, -84.5811
+Little Sand Mountain, 34.4833, -85.2333
+Livingston(Floyd), 34.2128, -85.3486
+Livingston(Worth), 31.4161, -83.9433
+Lizella, 32.8069, -83.8200
+Loce, 33.7225, -82.4775
+Lockett Crossing, 31.5575, -84.2542
+Loco, 33.8000, -82.4833
+Locust Grove, 33.3458, -84.1092
+Loftin, 32.8850, -84.5981
+Log Landing(Echols), 30.6333, -82.6303
+Log Landing(Wayne), 31.4536, -81.6261
+Logan, 33.7250, -82.7131
+Loganville, 33.8389, -83.9008
+Logtown, 32.8503, -84.1886
+Lollie, 32.4833, -82.7667
+Lombard, 32.4256, -82.3253
+Lone Oak, 33.1717, -84.8161
+Long Cane, 32.9564, -85.1408
+Long Pond, 32.0811, -82.5456
+Longstreet, 33.3836, -84.6644
+Longstreet Bleckley, 32.3833, -83.3500
+Lookout Mountain, 34.9775, -85.3578
+Lorane, 32.9139, -83.7742
+Lorenzo, 32.4375, -81.3769
+Lorwood, 32.0000, -81.0833
+Lost Mountain, 33.9406, -84.7025
+Lothair, 32.3550, -82.6556
+Lotts, 31.5875, -82.8583
+Louise, 33.0839, -84.9358
+Louisville, 33.0014, -82.4114
+Louvale, 32.1750, -84.8253
+Louvale Station, 32.1514, -84.8364
+Love Hill, 34.9186, -85.1464
+Lovejoy, 33.4361, -84.3144
+Lovelace, 33.7911, -82.5711
+Lovett, 32.6381, -82.7678
+Loving, 34.9200, -84.2211
+Lowell, 33.4664, -85.0450
+Lower Sansavilla, 31.4953, -81.6489
+Lower Sister Bluff Landing, 31.8397, -82.0736
+Lowery, 32.3547, -82.7994
+Lowes Crossing, 32.3917, -83.9803
+Lowry, 33.3117, -84.3964
+Lucile, 31.2433, -84.9172
+Lucius, 34.8017, -84.3794
+Ludowici, 31.7078, -81.7425
+Ludville, 34.4694, -84.6097
+Luella, 33.3519, -84.1786
+Luke, 31.3378, -85.0003
+Lula, 34.3875, -83.6664
+Lulaton, 31.2156, -81.9039
+Lumber City, 31.9292, -82.6797
+Lumber City Landing, 31.9200, -82.6772
+Lumpkin(Dawson), 34.3672, -84.0408
+Lumpkin(Stewart), 32.0508, -84.7992
+Lundberg, 33.6500, -82.7267
+Luthersville, 33.2100, -84.7444
+Luvdale, 31.5667, -84.1833
+Luxomni, 33.8961, -84.1164
+Lyerly, 34.4039, -85.4033
+Lyn Hills, 32.5383, -84.9303
+Lyneville, 33.6358, -82.9297
+Lynhaven, 33.3839, -84.8336
+Lynhurst, 31.9922, -81.1117
+Lynn(Decatur), 30.9803, -84.6150
+Lynn(Tattnall), 31.9725, -81.9619
+Lynnwood, 34.9500, -85.3000
+Lyons, 32.2042, -82.3219
+Lytle, 34.9164, -85.2750

@@ -1,0 +1,139 @@
+Eagle Cliff, 34.9283, -85.3528
+Eagle Grove, 34.2961, -83.0069
+Eagle Pond, 31.8581, -84.2314
+Earls Ford, 34.8794, -83.2286
+Early Memorial Hospital, 31.3736, -84.9456
+Eason, 30.8108, -83.8494
+Eason Bluff, 31.8997, -82.1819
+East Albany, 31.5756, -84.1058
+East Armuchee, 34.6264, -85.1303
+East Atlanta, 33.7400, -84.3450
+East Boynton, 34.9256, -85.1722
+East Crisp, 31.9567, -83.6797
+East Dougherty, 31.5242, -83.9894
+East Dublin, 32.5481, -82.8719
+East Edgewood, 32.4828, -84.9186
+East Ellijay, 34.6839, -84.4728
+East Griffin, 33.2436, -84.2289
+East Highlands, 32.4789, -84.9719
+East Juliette, 33.1086, -83.7925
+East Lake, 33.7525, -84.3044
+East Marietta, 33.9333, -84.5333
+East Meadow, 33.9833, -83.3833
+East Moultrie, 31.1833, -83.8000
+East Newnan, 33.3506, -84.7767
+East Point, 33.6794, -84.4394
+East River, 31.0167, -83.0000
+East Thomaston, 32.8894, -84.3156
+East Trion, 34.5464, -85.2917
+East Warrenton, 33.4067, -82.6400
+Eastanollee, 34.5203, -83.2556
+Eastland Heights, 33.7189, -84.3300
+Eastman, 32.1975, -83.1778
+Eastman Mills, 32.2000, -83.1833
+Eastville, 33.8775, -83.5050
+Eastwood, 33.7333, -84.3333
+Eastwood Apartments, 32.8167, -83.6833
+Eatonton, 33.3267, -83.3886
+Ebenezer, 33.7111, -83.6219
+Ebenezer Landing, 32.3786, -81.1825
+Ebernezer, 33.6500, -83.7167
+Ebo Landing, 31.1881, -81.3872
+Echeconnee, 32.6850, -83.7006
+Echota, 34.5167, -84.9167
+Eden, 32.1736, -81.3908
+Edgars, 32.8450, -83.2125
+Edgehill, 33.1522, -82.6244
+Edgemere, 32.0392, -81.0878
+Edgewater Park, 32.0000, -81.0833
+Edgewood(Columbia), 33.4833, -82.0333
+Edgewood(De kalb), 33.7617, -84.3414
+Edgewood(Muscogee), 32.4911, -84.9250
+Edgewood Crossroads, 33.6131, -82.8775
+Edison, 31.5581, -84.7383
+Edith, 30.6783, -82.5514
+Edman, 33.0364, -84.5644
+Edna, 32.2311, -81.8308
+Eelbeck, 32.4417, -84.7528
+Egypt, 32.4617, -81.4742
+Eightmile Still, 31.0681, -82.8803
+Elberta, 32.6592, -83.6189
+Elberton, 34.1111, -82.8672
+Elder, 33.7681, -83.3472
+Elders, 34.6975, -84.5739
+Elders Mill, 33.2744, -84.6289
+Eldora, 32.1167, -81.4833
+Eldorado, 31.3589, -83.4861
+Eldorendo, 31.0439, -84.6519
+Eleanor Village, 31.5667, -84.1833
+Elery, 33.3553, -85.1339
+Elim, 31.7947, -81.6747
+Elizabeth, 33.9761, -84.5475
+Elko, 32.3308, -83.7064
+Ella Gap, 34.6419, -84.4992
+Ellabell, 32.1233, -81.4858
+Ellaville, 32.2381, -84.3092
+Ellenton, 31.1758, -83.5875
+Ellenwood, 33.6100, -84.2881
+Ellerbeetown, 32.9100, -84.4569
+Ellerslie, 32.6314, -84.8014
+Ellijay, 34.6947, -84.4822
+Elliotts Bluff, 30.8456, -81.5617
+Ellis Plantation, 33.1094, -82.3386
+Ellisons Landing, 33.0931, -81.6461
+Ellwood, 33.3042, -82.1294
+Elmodel, 31.3456, -84.4725
+Elmview, 32.3111, -84.5631
+Elmwood, 32.5500, -82.9000
+Elpino, 30.9969, -84.2314
+Elrod Mill, 34.8669, -84.2969
+Elza, 32.0833, -82.1167
+Ematia Island, 33.2167, -83.6667
+Embry, 33.9167, -84.8333
+Embry Hills, 33.8833, -84.3000
+Emerich, 32.2833, -83.7939
+Emerson(Bartow), 34.1269, -84.7556
+Emerson(Brooks), 30.7758, -83.6319
+Emerson Park, 31.1886, -82.3978
+Emit, 32.3436, -81.7400
+Emma, 34.5078, -84.2242
+Emmalane, 32.7597, -81.9983
+Emory University, 33.7833, -84.3500
+Empire, 32.3403, -83.2964
+Empress, 30.6714, -83.5658
+Eneck Landing, 32.6044, -81.3981
+Englewood, 32.4564, -84.9136
+English Eddy, 31.9692, -82.3567
+Enigma, 31.4128, -83.3292
+Ennis, 32.9106, -82.9822
+Enon Grove, 33.3397, -85.0158
+Enterprise(Miller), 31.1228, -84.8258
+Enterprise(Oglethorpe), 33.9261, -82.9700
+Ephesus, 33.4069, -85.2544
+Epworth, 34.9506, -84.3850
+Erastus, 34.2525, -83.3411
+Erick, 32.1231, -82.8317
+Ernest, 30.7789, -82.6603
+Ernest Memorial Hospital, 33.2794, -85.1061
+Esmond, 33.2656, -84.3333
+Esom Hill, 33.9489, -85.3878
+Estelle, 34.7469, -85.3411
+Ethridge(Elbert), 34.1042, -82.9200
+Ethridge(Jones) 33.1344, -83.4683
+Etna, 34.0075, -85.3956
+Eton, 34.8250, -84.7633
+Eudora, 33.4167, -83.7167
+Euharlee, 34.1447, -84.9331
+Eulonia, 31.5331, -81.4272
+Evans, 33.5336, -82.1308
+Evans Landing, 32.5444, -81.6669
+Evansville, 33.0661, -85.2242
+Evelyn, 31.3147, -81.4717
+Everett(Glynn), 31.3903, -81.6389
+Everett(Thomas), 30.7039, -83.8044
+Everett Springs, 34.4947, -85.1139
+Evermay, 33.1000, -84.5833
+Excelsior, 32.3133, -81.9661
+Excelsior, 31.4044, -83.6081
+Exley, 32.2456, -81.2292
+Experiment, 33.2653, -84.2817

@@ -1,0 +1,196 @@
+Quality, 31.0406, -84.0736
+Queensland, 31.7989, -83.2364
+Quill, 34.6428, -84.3003
+Quitman, 30.7847, -83.5600
+Rabbit Hill, 31.9061, -81.2694
+Rabun Gap, 34.9667, -83.3833
+Raccoon Bluff, 31.4658, -81.2353
+Racepond, 31.0028, -82.1297
+Radio Springs, 34.2219, -85.2428
+Radium Springs, 31.5261, -84.1356
+Rahns, 32.3142, -81.2814
+Raines, 31.8908, -83.8644
+Rains Landing, 30.9972, -81.9069
+Raleigh, 32.9367, -84.6364
+Ramhurst, 34.6981, -84.7308
+Randall, 32.0661, -84.7194
+Ranger, 34.5011, -84.7097
+Raoul, 34.4667, -83.5667
+Raulerson, 31.3833, -82.1333
+Ravenwood, 33.4833, -82.0333
+Ray City, 31.0744, -83.1994
+Raybon, 31.2628, -81.9722
+Rayle, 33.7897, -82.9000
+Raymond, 33.3386, -84.7147
+Raysville, 33.6189, -82.4819
+Raytown, 33.5692, -82.7525
+Rebecca, 31.8064, -83.4869
+Rebie, 32.4619, -83.1761
+Recovery, 30.7564, -84.7375
+Red Bluff(Camden), 31.0508, -81.6958
+Red Bluff(Ben Hill), 31.7747, -83.0019
+Red Bluff Landing(Jeff Davis), 31.9622, -82.4558
+Red Bluff Landing(Screven), 32.9175, -81.6564
+Red Clay, 34.9847, -84.9461
+Red Hill(Franklin), 34.4350, -83.2606
+Red Hill(Stewart), 32.0833, -84.6667
+Red Lane, 34.3000, -83.8167
+Red Oak, 33.6247, -84.4986
+Red Rock(Worth), 31.5825, -83.9375
+Red Rock(Cobb), 33.9794, -84.7161
+Red Stone, 34.1000, -83.5667
+Red Store Crossroads, 31.4044, -84.2761
+Redan, 33.7453, -84.1317
+Redbone, 32.9900, -84.0975
+Redbone Crossroads, 32.8692, -84.2556
+Redbud, 34.5328, -84.8164
+Redland, 31.6397, -81.9544
+Redwine, 33.5125, -84.8133
+Reed Creek, 34.4458, -82.9250
+Reese(Morgan), 33.5400, -83.6239
+Reese(Warren), 33.3447, -82.5789
+Reeseburg, 34.1314, -85.1783
+Reeves, 34.4614, -85.0128
+Register, 32.3669, -81.8842
+Rehobeth, 32.6408, -84.8839
+Rehoboth, 33.8242, -84.2647
+Reids, 32.7181, -83.5672
+Reids Crossroads, 33.4092, -83.4267
+Reidsboro, 33.1375, -84.3836
+Reidsville, 32.0867, -82.1181
+Reka, 32.1392, -81.6775
+Relay, 34.0989, -85.1917
+Relee, 31.7608, -82.9331
+Remerton, 30.8439, -83.3106
+Renfroe, 32.2325, -84.7125
+Reno, 30.7736, -84.2922
+Rentz, 32.3833, -82.9914
+Reo, 34.7153, -85.1081
+Resaca, 34.5803, -84.9433
+Resseaus Crossroads, 33.2011, -83.4344
+Rest Haven, 34.1331, -83.9767
+Retreat, 31.7028, -81.4142
+Rex, 33.5919, -84.2700
+Reynolds, 32.5597, -84.0964
+Reynoldsville, 30.8569, -84.7781
+Rhine, 31.9894, -83.2003
+Rice Landing, 32.9067, -81.6497
+Riceboro, 31.7353, -81.4336
+Richfield, 32.0408, -81.1328
+Richland, 32.0878, -84.6675
+Richmond Hill, 31.9381, -81.3036
+Richwood, 32.0417, -83.7864
+Ricks Place, 31.7622, -85.0994
+Rico, 33.5811, -84.7689
+Riddleyville, 32.9067, -82.6658
+Ridgeville, 31.4061, -81.4017
+Ridgeway, 32.6353, -84.7217
+Ridgewood, 32.0333, -81.0986
+Ridley, 33.3011, -85.2003
+Rincon, 32.2958, -81.2356
+Ringgold, 34.9158, -85.1092
+Rio, 33.2800, -84.3819
+Rio Vista, 31.9292, -81.0881
+Ripley, 32.7250, -83.4172
+Rising Fawn, 34.7600, -85.5311
+Ritch, 31.5397, -82.1064
+River Bend, 31.4433, -84.1358
+Riverbend, 31.4906, -83.2633
+Riverdale, 33.5725, -84.4133
+Riverland Terrace, 32.4217, -84.9547
+Rivers End, 31.9867, -81.1156
+Riverside(Bibb), 32.8500, -83.6833
+Riverside(Chatham), 32.0453, -81.0111
+Riverside(Colquitt), 31.1800, -83.8064
+Riverside(Froyd), 34.2833, -85.2000
+Riverside(Fulton), 33.8122, -84.4675
+Rivertown, 33.6156, -84.7375
+Riverturn, 30.9897, -84.9475
+Rives Landing, 30.7078, -82.5272
+Roanoke, 31.7167, -83.2500
+Roberta, 32.7217, -84.0133
+Roberts Cross Road, 34.1167, -84.0000
+Roberts Crossroads, 34.1339, -83.9353
+Robertstown, 34.7100, -83.7408
+Robertsville, 34.8828, -85.2964
+Robinson(Froyd), 34.2633, -85.2875
+Robinson(Taliaferro), 33.5853, -82.9922
+Rochelle, 31.9508, -83.4564
+Rock Branch, 34.2397, -82.8000
+Rock Creek, 34.5667, -83.2667
+Rock Cut, 33.6000, -84.3333
+Rock Fence Crossroads, 33.0261, -81.5781
+Rock Hill, 31.3281, -85.0317
+Rock Landing, 32.8244, -82.2869
+Rock Spring, 34.8242, -85.2428
+Rock Springs, 32.0731, -82.4147
+Rock Springs Landing, 32.4019, -82.8172
+Rockalo, 33.3758, -85.2058
+Rockdale, 33.7869, -84.4350
+Rockingham, 31.5478, -82.4167
+Rockledge, 32.4428, -82.6978
+Rockmart, 34.0025, -85.0417
+Rockridge, 33.3053, -85.1339
+Rockville, 33.3275, -83.2189
+Rocky Creek, 34.5000, -84.9500
+Rocky Face, 34.8050, -85.0275
+Rocky Ford, 32.6633, -81.8297
+Rocky Hammock Landing, 31.8142, -82.8231
+Rocky Hill, 30.7025, -84.2103
+Rocky Mount, 33.1653, -84.6733
+Rocky Plains, 33.4972, -83.9183
+Roddenberry, 30.8769, -84.2600
+Roddy, 32.3525, -83.2506
+Rodgers, 34.2022, -84.8278
+Rogers(Jenkins), 32.8192, -82.0739
+Rogers(Madison), 34.1544, -83.3406
+Rogers Crossing, 32.8156, -82.0736
+Rogers Mill, 34.5036, -83.6778
+Roland, 32.8594, -84.4158
+Rolston, 34.6736, -84.3444
+Rome, 34.2569, -85.1647
+Roopville, 33.4564, -85.1308
+Roosevelt, 34.7031, -84.5506
+Roosterville, 33.4033, -85.1839
+Roper(Clinch), 30.8167, -82.6500
+Roper(Jeff Davis), 31.8119, -82.6517
+Ropers Crossroads, 33.5072, -82.1414
+Roscoe, 33.4947, -84.8222
+Rose Dhu, 32.0000, -81.0833
+Rose Hill(Pike), 33.0322, -84.3333
+Rose Hill(Chatham), 31.9894, -81.1114
+Rose Hill(Muscogee), 32.4875, -84.9831
+Rose Hill(Oconee), 33.7789, -83.3114
+Rose Hill Heights, 32.4961, -84.9739
+Rosebud, 33.7986, -83.9667
+Rosedale, 34.4383, -85.1081
+Rosemont, 33.6194, -82.2428
+Rosemont Park, 34.2833, -85.2000
+Rosier, 32.9781, -82.2428
+Rosin Ford, 31.4003, -81.8183
+Ross, 34.0458, -83.0667
+Rossignol Hill, 32.0953, -81.1486
+Rossville, 34.9831, -85.2861
+Roswell, 34.0231, -84.3617
+Round Bluff Landing, 31.9350, -82.5867
+Round Oak, 33.1108, -83.6153
+Roundtop, 34.6036, -84.5661
+Routons Crossroads, 32.8933, -84.6325
+Rover, 33.2064, -84.3350
+Rowena, 31.3808, -84.7131
+Rowland, 32.4364, -83.1686
+Rowland Spring, 34.2194, -84.7400
+Roxanna, 33.9167, -84.8333
+Roy, 34.6550, -84.3533
+Royal, 32.4456, -83.3789
+Royston, 34.2869, -83.1103
+Ruckersville, 34.1647, -82.7883
+Rudden, 33.4383, -83.3336
+Rupert, 32.4403, -84.2800
+Ruskin, 31.1511, -82.4450
+Russell, 33.9786, -83.7003
+Russellville, 32.9025, -83.9914
+Rutland, 32.7408, -83.6547
+Rutledge, 33.6258, -83.6125
+Rydal, 34.3353, -84.7156
+Ryo, 34.4539, -84.6739

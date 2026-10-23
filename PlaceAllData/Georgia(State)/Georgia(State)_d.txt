@@ -1,0 +1,165 @@
+Dacula, 33.9886, -83.8981
+Daffin Heights, 32.0283, -81.0811
+Dahlonega, 34.5325, -83.9850
+Daisy, 32.1517, -81.8347
+Dakota, 31.7758, -83.6933
+Dallas, 33.9236, -84.8408
+Dallondale, 34.9633, -85.2489
+Dalton, 34.7697, -84.9703
+Damascus(Early), 31.2989, -84.7189
+Damascus(Gordon), 34.5500, -84.9358
+Dames Ferry, 33.0167, -83.7333
+Danburg, 33.8683, -82.6522
+Daniel, 31.9136, -81.3644
+Daniel Landing, 33.1061, -81.6711
+Daniel Springs, 33.6494, -82.9750
+Daniels, 32.0811, -81.9803
+Danielsville, 34.1242, -83.2214
+Danville, 32.6056, -83.2456
+Darien, 31.3700, -81.4342
+Dasha Landing, 32.3081, -81.1811
+Dasher, 30.7472, -83.2208
+David, 33.2167, -82.4667
+Davis, 31.8983, -82.2567
+Davis Academy, 34.2667, -83.4167
+Davis Boat Landing, 30.7858, -82.1508
+Davis Crossroads(Cobb), 33.9767, -84.6900
+Davis Crossroads(Walker), 34.7553, -85.3681
+Davis Landing, 31.9153, -82.2486
+Davis Mill, 31.7586, -83.9197
+Davis Park, 31.0306, -84.8753
+Davisboro, 32.9789, -82.6081
+Dawesville, 30.9222, -84.0092
+Dawnville, 34.8192, -84.8792
+Dawson, 31.7733, -84.4467
+Dawsonville, 34.4211, -84.1192
+Days Crossroads, 31.7217, -85.0442
+De Soto Park, 34.2000, -85.2167
+Deans Crossing, 32.0925, -81.9053
+Dearing, 33.4131, -82.3853
+Decatur, 33.7747, -84.2964
+Dedrich, 32.8525, -83.2294
+Deenwood, 31.2333, -82.3833
+Deepstep, 33.0181, -82.9692
+Deerwood Park, 33.7333, -84.2667
+Delhi, 33.9136, -82.6742
+Dellwood, 32.6728, -82.3836
+Delmar, 30.8853, -83.1378
+Delowe, 33.6833, -84.4500
+Delray, 32.9519, -84.3014
+Delux, 32.4953, -83.4872
+Demorest, 34.5650, -83.5453
+Denmark, 32.2844, -81.7242
+Dennis(Baldwin), 33.2142, -83.3425
+Dennis(Murray), 34.7019, -84.7089
+Denton, 31.7225, -82.6939
+Denver, 33.1914, -85.1744
+DeSoto, 31.9553, -84.0622
+Desser, 30.8861, -84.8628
+Devereux, 33.2219, -83.0736
+Devils Den, 33.5742, -84.8472
+Dewberry(Hall), 34.3000, -83.8167
+Dewberry(Walker), 34.9500, -85.3000
+Dewey Crossroads, 34.3297, -84.7919
+DeWitt, 31.4197, -84.1400
+Dewy Rose, 34.1697, -82.9531
+Dexter, 32.4322, -83.0614
+Dial, 34.7597, -84.2169
+Dialtown, 33.6472, -83.8633
+Diamond, 34.6742, -84.2761
+Diamond Hill, 34.0633, -83.2781
+Diamond Landing, 32.3914, -82.7814
+Dickerson Mill, 34.9378, -83.4428
+Dickey, 31.5569, -84.6603
+Dicks Hill, 34.5833, -83.4264
+Dickson, 33.5708, -83.6069
+Digbey, 33.2575, -84.4894
+Dillard, 34.9700, -83.3872
+Dillon, 30.8994, -83.8925
+Dingler Crossroads, 33.5444, -84.9347
+Dinglewood, 32.4686, -84.9706
+District Path, 32.6128, -83.3792
+Divide, 33.9725, -84.9622
+Dixie(Brooks), 30.7856, -83.6644
+Dixie(Newton), 33.5733, -83.7703
+Dixie Union, 31.3392, -82.4633
+Dixon Crossroads, 34.6253, -83.4975
+Dobbins Air Force Base, 33.9333, -84.5333
+Dock Junction, 31.2000, -81.5000
+Doctortown, 31.6533, -81.8294
+Dodge High, 32.2303, -83.2292
+Dodges Lake Landing, 31.8753, -83.1756
+Doerun, 31.3194, -83.9172
+Dog Crossing, 32.9814, -84.2614
+Doles, 31.6992, -83.8853
+Donald, 31.8214, -81.8503
+Donalsonville, 31.0403, -84.8792
+Donegal, 32.5633, -81.7242
+Donovan, 32.7711, -82.7131
+Doogan, 34.9500, -84.7333
+Dooling, 32.2303, -83.9281
+Dooly Medical Center, 32.0858, -83.7719
+Doraville, 33.8981, -84.2833
+Dorchester, 31.7953, -81.4053
+Dorminy Memorial Hospital, 31.6972, -83.2600
+Dorsey, 33.6053, -83.5528
+Dosaga, 31.5611, -84.1139
+Dosia, 31.4500, -83.5167
+Dot, 33.5333, -85.2500
+Double Branches, 33.7519, -82.3331
+Double Run, 31.8581, -83.5583
+Doublegate, 31.5667, -84.1833
+Dougherty, 34.3822, -84.0650
+Douglas, 31.5086, -82.8500
+Douglass Crossroads, 31.3033, -84.6733
+Douglasville(Douglas), 33.7514, -84.7478
+Douglasville(Early), 31.3597, -84.6703
+Dove Creek, 34.0797, -82.9422
+Dover, 32.5769, -81.7153
+Dover Bluff, 31.0169, -81.5272
+Doverel, 31.7014, -84.5222
+Downs, 33.0661, -82.6736
+Downtown, 33.7500, -84.3333
+Dows Landing, 32.5381, -81.6553
+Doyle, 32.2842, -84.4439
+Draketown, 33.8261, -85.0442
+Draneville, 32.2106, -84.4872
+Drayton, 32.0739, -83.9556
+Dresden, 33.3514, -84.9186
+Drew, 34.2083, -84.2197
+Drexel, 33.6333, -83.6167
+Drone, 33.0553, -82.1589
+Druid Hills, 33.7803, -84.3361
+Drum Point Landing, 31.6836, -81.2742
+Dry Branch(Jenkins), 32.9167, -81.9500
+Dry Branch(Twiggs), 32.8006, -83.4986
+Dry Pond, 34.1914, -83.5750
+Dublin, 32.5403, -82.9039
+Dubois, 32.3033, -83.2733
+Ducker, 31.5261, -84.3661
+Ducktown, 34.2439, -84.2494
+Dudley, 32.5422, -83.0706
+Due West, 33.9333, -84.5333
+Duffee, 31.2333, -84.2167
+Dugdown, 33.9000, -85.2550
+Duluth, 34.0028, -84.1447
+Dumas, 32.0394, -84.4914
+Dunaire, 33.7333, -84.2667
+Dunaway Gardens, 33.4783, -84.8192
+Duncan Park, 35.0167, -85.2333
+Duncanville, 30.7333, -84.1333
+Dungeness, 30.7481, -81.4675
+Dunlap, 33.9533, -83.2536
+Dunn, 34.9436, -84.4600
+Dunn Store, 34.8833, -84.7500
+Dunwoody, 33.9461, -84.3347
+DuPont, 30.9883, -82.8717
+Durand, 32.9169, -84.7739
+Durden, 30.7917, -83.4736
+Durdenville, 32.5364, -82.1936
+Durham, 34.8581, -85.4325
+Durham Town, 33.6617, -83.0325
+Dyas, 32.8661, -83.9944
+Dye, 34.2000, -83.0333
+Dyes Crossroad, 33.2106, -82.1461
+Dyke, 34.5997, -84.4117

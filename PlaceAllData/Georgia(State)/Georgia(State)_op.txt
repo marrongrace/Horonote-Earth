@@ -1,0 +1,326 @@
+O Neal, 31.4003, -81.9364
+O'Leary, 32.2106, -81.1761
+O'Neals Crossroads, 33.1942, -85.2236
+Oak Grove, 33.4600, -85.1253
+Oak Grove, 34.1000, -84.5167
+Oak Grove, 32.9047, -84.9231
+Oak Grove, 33.7281, -82.5667
+Oak Grove, 32.1297, -82.5267
+Oak Hill, 31.6025, -84.4772
+Oak Hill, 34.6508, -84.4294
+Oak Hill, 33.5386, -84.0100
+Oak Knolls, 32.4886, -83.7881
+Oak Landing, 31.5669, -81.7569
+Oak Level, 31.8556, -81.2253
+Oak Mountain, 32.7425, -84.7253
+Oak Mountain, 33.5606, -85.0208
+Oak Park, 32.3581, -82.3147
+Oak Ridge, 31.4000, -83.5000
+Oakdale, 33.8186, -84.4978
+Oakfield, 31.7778, -83.9714
+Oakhurst, 31.9953, -81.1242
+Oakhurst, 33.7633, -84.3108
+Oakland, 31.6739, -84.2600
+Oakland, 33.1083, -84.5911
+Oakland, 34.6342, -84.3875
+Oakland Heights, 34.2122, -84.7953
+Oakland Park, 32.4131, -84.9606
+Oaklawn, 30.8492, -83.7378
+Oaklawn, 33.3297, -84.7808
+Oakman, 34.5664, -84.7083
+Oakton, 34.5994, -85.2869
+Oakville, 31.8525, -84.4642
+Oakwood, 34.2275, -83.8844
+Oaky, 32.5247, -81.3911
+Oasis, 34.9153, -84.4822
+Oberry, 31.3850, -82.9808
+Ocee, 34.0644, -84.2128
+Ochillee, 32.3942, -84.8444
+Ochlocknee, 30.9736, -84.0531
+Ochwalkee, 32.1936, -82.6400
+Ocilla, 31.5942, -83.2506
+Oconee, 32.8553, -82.9500
+Oconee Heights, 33.9897, -83.4258
+Oconee Springs Park, 33.2889, -83.1994
+Odessa, 31.5575, -81.8203
+Odessadale, 33.0158, -84.8131
+Odis Crossroads, 34.3947, -83.3950
+Odum, 31.6658, -82.0281
+Offerman, 31.4094, -82.1119
+Ogeechee, 32.6197, -81.7650
+Ogeecheeton, 32.0597, -81.1306
+Oglesby, 34.0756, -82.9672
+Oglesby, 33.0833, -82.9667
+Oglethorpe, 32.0000, -81.0833
+Oglethorpe, 32.2936, -84.0611
+Oglethorpe Park, 32.0500, -81.1167
+Oglethorpe University, 33.8667, -84.3333
+Ohoopee, 32.1800, -82.2197
+Okefenokee, 31.2333, -82.3667
+Ola, 33.4358, -84.0419
+Old Airport Community, 34.2833, -85.2000
+Old Damascus, 31.3072, -84.7372
+Old Dellwood, 32.6683, -82.3658
+Old Landing, 31.5958, -81.7250
+Old Log Landing, 32.3964, -81.1831
+Old Town, 32.9139, -82.3092
+Old Wood Landing, 32.3578, -81.1678
+Olifftown, 32.4944, -82.0975
+Olive Branch, 32.6725, -84.6097
+Oliver, 32.5214, -81.5333
+Olivers Mill, 31.8722, -84.3364
+Ollie, 34.7483, -84.6008
+Olney, 32.2553, -81.4608
+Omaha, 32.1461, -85.0133
+Omaha Springs, 33.1694, -82.5433
+Omega, 31.3408, -83.5936
+Oostanaula, 34.4814, -85.0144
+Ophir, 34.3294, -84.2650
+Opies Landing, 32.5642, -81.6989
+Orange, 34.2556, -84.3414
+Orchard Hill, 33.1864, -84.2114
+Orchard Hills, 34.9500, -85.2881
+Ordway, 32.4833, -84.9500
+Oreburg, 34.2619, -85.3128
+Orianna, 32.4739, -82.6453
+Orland, 32.4333, -82.6725
+Ormewood, 33.7300, -84.3569
+Orsman, 34.3667, -85.2389
+Oscarville, 34.2483, -83.9750
+Osierfield, 31.6669, -83.1161
+Ossahatchie, 32.6539, -84.7767
+Otter Creek, 31.3236, -82.1344
+Ousley, 30.7942, -83.4308
+Overbrook, 32.2375, -81.8122
+Owen, 31.3436, -82.1900
+Owensboro, 31.8772, -83.4281
+Owensbyville, 33.1872, -85.0861
+Owltown, 34.8131, -83.9400
+Oxford, 33.6189, -83.8675
+Oxlot Landing, 31.5561, -81.7253
+Pabst, 32.4403, -83.6275
+Pace, 33.5786, -83.9631
+Pachitla, 31.7628, -84.6814
+Padena, 34.8528, -84.2189
+Paintertown, 34.9864, -84.3481
+Palato, 33.3828, -83.7444
+Palmetto, 33.5178, -84.6697
+Palmetto, 33.9058, -82.9231
+Palmyra, 31.6375, -84.1944
+Pancras, 33.0019, -83.2556
+Panhandle, 32.5578, -84.1817
+Panhandle, 33.3167, -82.4833
+Pannell, 33.7683, -83.6750
+Panola, 33.6461, -84.1875
+Pantertown, 34.9167, -84.2833
+Panthersville, 33.7072, -84.2719
+Paoli, 34.0922, -83.0917
+Paradise Park, 32.0000, -81.0833
+Paradise Park, 31.5525, -81.7089
+Paramore Hill, 32.7583, -81.8881
+Pardue Mill, 34.5922, -83.5853
+Parhams, 34.4267, -83.2406
+Parish, 32.3939, -81.9889
+Park City, 34.9456, -85.2669
+Park Hill, 34.3000, -83.8167
+Parkchester, 32.4556, -84.9333
+Parker Courthouse, 30.9881, -84.4189
+Parkers, 31.0167, -84.4667
+Parkers, 32.6997, -81.8100
+Parkersburg, 31.9844, -81.0522
+Parkertown, 34.4575, -83.0400
+Parkertown Mill, 34.4539, -83.0433
+Parkerville, 31.4394, -83.9308
+Parks Mill, 33.5028, -83.2883
+Parksville, 31.5094, -84.7636
+Parkwood, 32.0283, -81.0642
+Parrett Crossing, 34.9758, -84.9581
+Parrott, 31.8933, -84.5133
+Pasco, 30.9114, -83.9958
+Pateville, 31.8358, -83.8239
+Patillo, 33.2017, -84.0925
+Patmos, 31.3758, -84.5650
+Patten, 30.9169, -83.8147
+Patterson, 34.0297, -83.2453
+Patterson, 31.3872, -82.1403
+Paulk, 32.3858, -83.4053
+Paulk Landing, 31.3917, -85.0794
+Pavo, 30.9597, -83.7381
+Paxton, 30.8489, -82.0731
+Payne, 34.1094, -84.6492
+Payne, 32.8528, -83.6881
+Paynes Mill, 32.9219, -84.3208
+Peach Orchard, 33.4333, -82.0167
+Peachtree Center, 33.7500, -84.3333
+Peachtree City, 33.3967, -84.5958
+Peacocks Crossing, 32.8703, -82.7558
+Pearl, 34.1083, -82.7208
+Pearly, 32.5500, -82.9000
+Pearson, 31.2975, -82.8525
+Pebble City, 31.2475, -84.0778
+Pebble Hill, 30.9172, -83.5781
+Pebblebrook Estates, 33.8206, -84.5275
+Pecan, 31.6406, -84.9922
+Pecan City, 31.5175, -84.0700
+Pedenville, 33.1228, -84.4964
+Peeks Crossing, 33.3061, -84.5981
+Pelham, 31.1275, -84.1519
+Pembroke, 32.1358, -81.6222
+Pendarvis, 31.5031, -81.7583
+Pendergrass, 34.1622, -83.6781
+Pendley Hills, 33.7333, -84.2667
+Penfield, 33.6672, -83.1775
+Penia, 31.9697, -83.7003
+Pennick, 31.3128, -81.5592
+Pennington, 32.1600, -84.0872
+Pennington, 33.4847, -83.5608
+Pennville, 34.5122, -85.3214
+Peoples Still, 30.8833, -84.3167
+Pepperton, 33.2933, -83.9450
+Perennial, 34.4536, -85.4158
+Perkins, 32.9094, -81.9531
+Perkins Place, 32.1367, -84.9936
+Perry, 32.4581, -83.7317
+Perry Homes, 33.7833, -84.4333
+Persico, 32.9153, -84.6042
+Persimmon, 34.8961, -83.5119
+Petersburg, 34.5867, -84.7156
+Peterson Hill, 31.7817, -84.8483
+Petross, 32.1478, -82.4669
+Pew Landing, 32.8081, -82.1147
+Pfeiffers Landing, 32.7681, -81.4328
+Phelps, 34.6981, -84.9833
+Philema, 31.7539, -84.0169
+Phillips, 33.4833, -82.0333
+Phillipsburg, 31.4394, -83.5194
+Philomath, 33.7272, -82.9914
+Phinizy, 33.6103, -82.3264
+Phoenix, 33.3658, -83.2778
+Pickard, 32.9211, -84.4139
+Pidcock, 30.7842, -83.7078
+Piddleville, 32.5556, -81.9597
+Piedmont, 33.0169, -84.2508
+Piedmont Heights, 32.9914, -85.2078
+Piedmont Hospital, 33.8072, -84.3936
+Pierceville, 34.9833, -84.3667
+Pin Point, 31.9531, -81.0925
+Pine Chapel, 34.5000, -84.9500
+Pine Gardens, 32.0661, -81.0603
+Pine Grove, 30.9333, -83.2500
+Pine Grove, 31.8131, -82.4475
+Pine Harbor, 31.5472, -81.3756
+Pine Hill, 32.4278, -84.9358
+Pine Hill, 32.9492, -82.3994
+Pine Lake, 33.7936, -84.2061
+Pine Log, 34.3428, -84.7322
+Pine Mountain, 34.9403, -83.1872
+Pine Mountain, 32.8647, -84.8542
+Pine Mountain Valley, 32.7986, -84.8233
+Pine Park, 30.8511, -84.1019
+Pine Valley, 31.2011, -82.5186
+Pine Valley, 31.0872, -83.4733
+Pine Valley, 33.4667, -81.9833
+Pineboro, 31.1778, -83.6728
+Pinefield Crossroads, 34.4214, -83.4408
+Pinehurst, 32.1958, -83.7631
+Pinehurst, 33.5500, -84.2333
+Pineland, 30.7131, -82.7656
+Pineora, 32.2867, -81.3917
+Pinesville, 33.0228, -83.4892
+Pinetree Plaza, 33.9000, -84.2667
+Pinetta, 31.5931, -83.3583
+Pineview, 32.1100, -83.5011
+Pineview Hospital, 30.8628, -83.2864
+Piney Bluff, 31.0194, -81.5383
+Piney Grove, 32.4833, -84.9500
+Piney Grove, 31.7369, -82.0189
+Pink, 34.5914, -83.7125
+Pinson, 34.3631, -85.0636
+Pio Nono, 32.8500, -83.6000
+Pirkle Woods, 34.2236, -84.1300
+Piscola, 30.6900, -83.6761
+Pisgah, 34.7081, -84.2950
+Pittman, 33.9719, -84.1697
+Pitts, 31.9444, -83.5408
+Pittsburg, 33.8806, -84.2194
+Plainfield, 32.2886, -83.1122
+Plains, 32.0339, -84.3928
+Plainview, 34.3667, -83.3561
+Plainview, 34.8778, -84.9444
+Plainview, 33.4178, -82.6267
+Plainville, 34.4050, -85.0372
+Plank Landing, 31.5714, -81.7639
+Planter, 34.1194, -83.3406
+Plaza, 33.6167, -84.3667
+Pleasant Grove, 32.9667, -85.0000
+Pleasant Grove, 34.8419, -84.0233
+Pleasant Grove, 34.8294, -84.9419
+Pleasant Hill, 32.8061, -84.4989
+Pleasant Hill, 33.9408, -84.1222
+Pleasant Hill, 31.8783, -84.4028
+Pleasant Hill, 34.9453, -84.2731
+Pleasant Hill, 34.7539, -84.6022
+Pleasant Valley, 34.5744, -84.4589
+Pleasant Valley, 32.1000, -83.8000
+Pleasant Valley, 34.3394, -84.8631
+Po Biddy Crossroads, 32.6903, -84.4719
+Pocataligo, 34.1997, -83.2847
+Point Peter, 33.9958, -83.0133
+Pollards Corner, 33.6208, -82.2753
+Pomona, 33.3192, -84.2839
+Pond Spring, 34.8222, -85.3256
+Ponderosa, 32.1956, -82.2544
+Pooler, 32.1153, -81.2472
+Poor Robin Landing, 32.7025, -81.4286
+Pope City, 31.9500, -83.4500
+Popes Ferry, 33.1167, -83.8000
+Poplar Crossroads, 32.7047, -84.3986
+Poplar Grove, 34.5142, -83.1156
+Poplar Hill, 31.9908, -83.1011
+Poplar Springs, 33.8122, -85.2897
+Popwellville, 31.3158, -81.7453
+Port Royal, 31.9036, -81.2958
+Port Wentworth, 32.1489, -81.1633
+Port Wentworth Junction, 32.1436, -81.1922
+Portal, 32.5381, -81.9325
+Porter, 32.4128, -83.3997
+Porter Springs, 34.6281, -83.9483
+Porterdale, 33.5750, -83.8939
+Portland, 34.0572, -85.0364
+Postell, 32.9156, -83.5267
+Potter, 30.6467, -82.9333
+Potters Landing, 31.1606, -85.0825
+Potterville, 32.5144, -84.1175
+Poulan, 31.5128, -83.7878
+Powder Springs, 33.8594, -84.6839
+Powell Landing, 31.4064, -85.0764
+Powell Place, 31.5667, -84.1833
+Powelltown, 31.4094, -83.7847
+Powelton, 33.4286, -82.8708
+Power Place, 32.1358, -84.9983
+Powerville, 32.6039, -83.7928
+Prater Mill, 34.8953, -84.9200
+Pratersville, 34.6272, -84.9553
+Prather, 33.8014, -82.8003
+Prattsburg, 32.7125, -84.3578
+Prentiss, 31.7939, -82.3958
+Presley, 34.9500, -83.7500
+Preston, 32.0658, -84.5375
+Pretoria, 32.4097, -81.7306
+Pretoria, 31.5042, -84.3172
+Price, 34.3864, -83.9211
+Pridgen, 31.6967, -82.9231
+Priest Landing, 31.9586, -81.0117
+Primrose, 33.1433, -84.7419
+Princeton, 33.9833, -83.3833
+Pringle, 32.8000, -82.6347
+Prior, 34.0144, -85.3789
+Pritchetts, 31.3639, -83.9558
+Privette Heights, 33.9333, -84.5333
+Prosperity, 31.2106, -81.9372
+Pulaski, 32.3900, -81.9569
+Pumpkin Center, 33.4167, -82.3167
+Putnam, 32.2586, -84.4181
+Putney, 31.4700, -84.1178
+Pyles Marsh, 31.2428, -81.5608
+Pyne, 33.0339, -85.1261

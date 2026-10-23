@@ -1,0 +1,143 @@
+Ida Vesper, 32.3178, -84.6961
+Ideal, 32.3694, -84.1881
+Idlewood, 33.0153, -81.9803
+Ila, 34.1725, -83.2922
+Imlac, 33.0244, -84.5628
+Imperial, 33.3439, -83.4050
+Inaha, 31.6186, -83.6061
+Indian Springs(Catoosa), 34.9578, -85.1644
+Indian Springs(Butts), 33.2425, -83.9208
+Indianola, 30.8642, -83.1894
+Industrial, 33.7333, -84.5333
+Inman, 33.3853, -84.4119
+Inman Park, 33.7575, -84.3628
+International, 34.5167, -83.5333
+International Office Park, 33.6667, -84.3833
+Ione, 31.0122, -83.7339
+Iron City, 31.0133, -84.8131
+Iron Stab, 34.0353, -84.9436
+Irwins, 32.9333, -82.8167
+Irwins Crossroads, 32.8572, -82.8494
+Irwinton, 32.8111, -83.1728
+Irwinville, 31.6481, -83.3828
+Isabella, 31.5683, -83.8539
+Isle of Hope, 31.9817, -81.0611
+Ithaca, 33.6806, -84.9481
+Ivanhoe, 32.2839, -81.4775
+Ivey, 32.9069, -83.2908
+Iveys Mill, 31.3911, -84.5861
+Ivylog, 34.9619, -84.0589
+Jackson, 33.2944, -83.9661
+Jacksons Crossroads, 33.8903, -82.8450
+Jacksonville(Towns), 34.9178, -83.8575
+Jacksonville(Greene), 33.6325, -83.0381
+Jacksonville(Telfair), 31.8125, -82.9792
+Jacobsons Landing, 32.8122, -81.5283
+Jake, 33.6519, -85.2275
+Jakin, 31.0908, -84.9822
+Jamaica, 31.2517, -81.6525
+James, 32.9664, -83.4739
+Jamestown(Ware), 31.2703, -82.3833
+Jamestown(Chattahoochee), 32.2722, -84.8392
+Jamestown(Clinch), 30.9281, -82.5847
+Jarrell, 32.6633, -84.2814
+Jarrett, 34.6092, -83.2428
+Jasper, 34.4678, -84.4292
+Jay Bird Springs, 32.1311, -83.0056
+Jeff, 31.5561, -84.8100
+Jefferson(Putnam), 33.4492, -83.3117
+Jefferson(Camden), 30.9664, -81.7903
+Jefferson(Jackson), 34.1169, -83.5725
+Jefferson Mill, 33.8833, -83.1500
+Jeffersonville, 32.6875, -83.3467
+Jekyll Island, 31.2000, -81.4833
+Jenkinsburg, 33.3244, -84.0358
+Jennie, 32.0506, -81.8892
+Jersey, 33.7156, -83.7989
+Jerusalem(Camden), 30.9781, -81.8458
+Jerusalem(Pickens), 34.4417, -84.5822
+Jesup, 31.6072, -81.8856
+Jeterville, 31.2428, -84.7061
+Jewell, 33.2961, -82.7775
+Jewelville, 34.3719, -83.4039
+Jewtown, 31.1619, -81.3969
+Jimps, 32.3856, -81.8356
+Jinks, 30.7164, -84.8239
+Joe Cone Landing, 32.2764, -81.4458
+Joel, 33.4756, -85.2381
+Johnson Corner, 32.0650, -82.3014
+Johnson Crossroads, 32.9011, -84.5992
+Johnstonville, 33.0894, -84.0744
+Jolly, 33.1222, -84.3900
+Jones, 31.6336, -81.4803
+Jones Acres, 32.8333, -83.6167
+Jones Creek, 34.8447, -84.1069
+Jones Crossing, 31.6414, -84.9722
+Jones Crossroads(Troup), 32.8694, -85.0347
+Jones Crossroads(Early), 31.1742, -84.9369
+Jones Mill, 34.9067, -84.5242
+Jones Settlement, 32.9836, -84.4711
+Jonesboro, 33.5214, -84.3539
+Jonesville, 33.5600, -85.2317
+Jordan, 32.0347, -82.6689
+Jordan Place, 31.7558, -84.2086
+Jot Em Down Store, 31.3000, -82.2500
+Julienton, 31.5603, -81.3019
+Juliette, 33.1072, -83.8003
+Junction City, 32.6033, -84.4594
+Juniper, 32.5311, -84.6044
+Juno, 34.4758, -84.1942
+K'Ville, 31.5564, -82.1258
+Kansas, 33.7000, -85.1833
+Kaolin, 33.0261, -82.8808
+Kartah, 34.4478, -85.2486
+Kathleen, 32.4958, -83.6078
+Keith, 34.9181, -85.0419
+Keiths Mill, 34.7431, -84.8811
+Keithsburg, 34.2744, -84.4517
+Keller, 31.8431, -81.2539
+Kelley Hill, 32.4333, -84.9500
+Kelleytown, 33.5372, -84.0892
+Kelly, 33.4403, -83.6194
+Kellytown, 33.4500, -84.1500
+Kemp, 32.5167, -82.3167
+Kennesaw, 34.0233, -84.6156
+Kennestone Hospital, 33.9694, -84.5517
+Kensington, 34.7742, -85.3728
+Kensington Park, 32.0233, -81.1019
+Kents Landing, 32.8028, -82.0181
+Kenwood, 33.5114, -84.4361
+Kenzie, 32.8833, -84.3333
+Kewanee, 32.4933, -83.0903
+Keysville, 33.2336, -82.2325
+Kibbee, 32.2875, -82.5253
+Kiker, 34.6667, -84.5008
+Kilby Mill, 34.9503, -83.4928
+Kildare, 32.5342, -81.4556
+Killarney, 31.1372, -84.9414
+Kimbrough, 32.0061, -84.6500
+Kinderlou, 30.8008, -83.3675
+King's Wood, 32.0667, -81.1167
+Kings, 33.6667, -83.8667
+Kings Boat Landing, 30.9547, -82.1372
+Kingsboro, 32.7083, -84.8694
+Kingsland, 30.7997, -81.6900
+Kingston, 34.2369, -84.9442
+Kingwood, 31.1833, -83.8000
+Kinlaw, 30.8444, -81.6758
+Kinseytown, 34.5881, -83.6506
+Kirkland(Jeff Davis), 31.7983, -82.7628
+Kirkland(Atkinson), 31.3081, -82.9083
+Kirkwood, 33.7561, -84.3233
+Kitchens Landing, 31.0417, -82.2250
+Kite, 32.6922, -82.5147
+Kittles Landing, 32.8086, -81.5200
+Klondike(De Kalb), 33.6456, -84.1267
+Klondike(Hall), 34.1953, -83.7783
+Klondike(Houston), 32.3481, -83.5761
+Knot, 33.0117, -84.9381
+Knott, 33.0333, -85.0333
+Knoxville, 32.7242, -83.9978
+Kramer, 31.9558, -83.3900
+Krannert, 34.2572, -85.3275
+Kyle, 34.9569, -84.3569

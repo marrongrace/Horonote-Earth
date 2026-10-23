@@ -1,0 +1,237 @@
+Tabernacle, 32.9711, -82.9167
+Tadmore, 34.2333, -83.7667
+Tahoma, 33.3097, -81.9281
+Tails Creek, 34.6897, -84.6156
+Talbotton, 32.6775, -84.5394
+Talking Rock, 34.5092, -84.5050
+Tallahassee, 31.9189, -82.5692
+Tallapoosa, 33.7444, -85.2881
+Tallulah Falls, 34.7306, -83.3944
+Talmadge, 34.4242, -84.5875
+Talmadge Hospital, 33.4706, -81.9897
+Talmo(Ware), 31.3131, -82.5692
+Talmo(Jackson), 34.1850, -83.7208
+Talona, 34.5972, -84.5119
+Tanner, 32.9753, -82.7422
+Tanner Mill, 34.1781, -83.7858
+Tarboro, 31.0175, -81.8056
+Tarrytown, 32.3186, -82.5594
+Tarver, 30.7014, -82.9244
+Tarversville, 32.5400, -83.4400
+Tate, 34.4183, -84.3828
+Tate City, 34.9817, -83.5544
+Tattnall Square, 32.8333, -83.6469
+Tatum, 33.0167, -85.1000
+Tatumsville, 32.0372, -81.1150
+Tax, 32.8000, -84.7000
+Tax Crossroads, 32.8117, -84.5983
+Taylor Landing, 32.3519, -81.4906
+Taylors Landing, 31.0822, -82.3314
+Taylors Mill, 32.6058, -83.8739
+Taylorsville, 34.0861, -84.9875
+Tazewell, 32.3803, -84.4408
+Teeterville, 31.1125, -83.1439
+Telfair Hospital, 32.0639, -81.0964
+Telfair Junction, 32.0789, -81.1461
+Telfair Woods, 33.0933, -81.8239
+Tell, 33.6514, -84.5944
+Teloga, 34.5600, -85.4097
+Temperance, 31.8894, -83.1464
+Temperance Bell, 33.6761, -83.0481
+Temple, 33.7369, -85.0325
+Temple Grove, 34.9283, -84.7717
+Tempy, 31.4486, -83.8175
+Ten Mile Still Landing, 30.7986, -84.7308
+Tennga, 34.9867, -84.7386
+Tennille, 32.9358, -82.8117
+Terra Cotta, 32.7936, -83.6422
+Terrell, 31.6178, -83.7453
+Tetlow, 31.6797, -82.0714
+Texas, 33.2408, -85.1989
+Thalean, 32.0183, -84.2936
+Thalmann, 31.2906, -81.6889
+The Hill, 33.4667, -82.0167
+The Rock, 32.9639, -84.2411
+Thirteen Forks, 34.2131, -82.9292
+Thomas Crossroads, 33.4078, -84.6822
+Thomas Landing, 31.6408, -81.2569
+Thomas Mill, 34.9311, -84.1381
+Thomasboro, 32.7194, -81.7903
+Thomaston, 32.8881, -84.3267
+Thomasville(Fulton), 33.6972, -84.3497
+Thomasville(Thomas), 30.8364, -83.9789
+Thompson Crossroad, 33.0750, -84.7722
+Thompsons Mill, 34.1128, -83.8178
+Thompsons Mills, 34.1000, -83.7667
+Thompsonville, 34.8633, -85.4075
+Thomson, 33.4706, -82.5047
+Three Forks(Fannin), 34.6639, -84.1847
+Three Forks(Rabun), 34.9678, -83.2136
+Three Points(Emanuel), 32.7836, -82.2453
+Three Points(Ware), 31.0717, -82.4794
+Three Runs, 32.9075, -82.3394
+Three Sisters Mountain, 34.5500, -83.9333
+Thrift, 32.6989, -82.0561
+Thunder, 33.0167, -84.5000
+Thunderbolt, 32.0333, -81.0500
+Thurston(Greene), 33.5833, -83.1833
+Thurston(Upson), 32.9167, -84.4333
+Thyatira, 34.1411, -83.5333
+Tickanetley, 34.6539, -84.2939
+Ticknor, 31.3339, -83.9433
+Tidewater Hospital, 33.3772, -82.0308
+Tidings, 34.4239, -85.2475
+Tift General Hospital, 31.4711, -83.4914
+Tifton, 31.4503, -83.5086
+Tiger, 34.8469, -83.4331
+Tignall, 33.8675, -82.7414
+Tillman, 30.9239, -83.3497
+Tilton, 34.6650, -84.9394
+Timothy, 33.9833, -83.3833
+Tioga, 34.6100, -84.5042
+Tippetts, 32.2642, -83.4864
+Tippettville, 32.0986, -83.6142
+Tison, 31.9383, -82.0208
+Titus, 34.9469, -83.6317
+Toccoa, 34.5772, -83.3325
+Toccoa Creek, 34.6000, -83.3333
+Toccoa Falls, 34.5936, -83.3583
+Toco Hills, 33.8333, -84.3167
+Toledo, 30.6358, -82.0528
+Tom, 32.7094, -82.4881
+Tompkins, 30.9114, -81.7928
+Toms Creek, 34.4797, -83.2439
+Toombs Central, 32.0472, -82.3481
+Toomsboro, 32.8267, -83.0794
+Toonigh, 34.1428, -84.5094
+Toonnerville, 34.8681, -84.8878
+Topeka Junction, 32.9744, -84.2086
+Torreys Landing, 31.8403, -81.0889
+Towalaga, 33.3142, -84.2047
+Towaliga, 33.2333, -84.0500
+Town and Country, 33.9333, -84.5333
+Town Bluff Landing, 31.9483, -82.5039
+Town Creek, 34.8222, -83.8700
+Towns, 32.0042, -82.7547
+Townsend, 31.5392, -81.5228
+Townsend Mill, 34.9203, -83.8672
+Traders Hill, 30.7794, -82.0311
+Traisville, 31.0594, -82.6853
+Trans, 34.7000, -85.3667
+Tremont(Richmond), 33.4833, -82.0333
+Tremont(Crisp), 32.0133, -83.6133
+Tremont Park, 32.0597, -81.1381
+Trenton, 34.8719, -85.5092
+Trice, 32.8833, -84.3333
+Trickem, 33.8406, -84.1311
+Trickum, 34.7961, -85.0828
+Trimble, 33.2019, -84.8922
+Trinity, 31.9297, -81.5567
+Trion, 34.5439, -85.3106
+Troup Spring Landing, 32.4575, -82.8372
+Troupville, 30.8489, -83.3375
+Troutman, 31.9367, -84.6969
+Truckers, 32.3556, -81.6342
+Trudie, 31.3000, -81.9644
+Tuckasee King Landing, 32.5319, -81.2761
+Tucker, 33.8544, -84.2172
+Tuckers Crossroad, 32.7008, -82.8653
+Tugaloo, 34.7075, -83.3669
+Tunnel Hill, 34.8406, -85.0428
+Turin, 33.3264, -84.6358
+Turkey Creek Landing, 32.4278, -82.8317
+Turman, 31.5014, -84.7294
+Turner City, 31.5978, -84.1081
+Turner Lake Ford, 31.6944, -83.4606
+Turners Corner, 34.6631, -83.9008
+Turners Rock, 32.0131, -81.0056
+Turnerville, 34.6867, -83.4261
+Turntime Crossroads, 32.6903, -84.7886
+Turpin Place, 33.4500, -82.0000
+Tusculum, 32.3928, -81.4308
+Tuxedo Park, 33.4500, -82.0167
+Twin City, 32.5828, -82.1553
+Twin Lakes, 30.7167, -83.2167
+Ty Ty, 31.4717, -83.6469
+Tybee Island, 32.0000, -80.8458
+Tyrone(Fayette), 33.4711, -84.5972
+Tyrone(Wilkes), 33.6722, -82.8614
+Tyus, 33.4675, -85.2022
+Unadilla, 32.2614, -83.7367
+Underwood, 33.1275, -83.1147
+Undine, 32.2272, -81.9797
+Union(Paulding), 33.8433, -84.9811
+Union(Quitman), 31.8756, -84.9378
+Union(Marion), 32.3472, -84.6300
+Union(Candler), 32.4825, -82.0539
+Union(Dade), 34.8450, -85.5250
+Union(Stewart), 32.1564, -84.9036
+Union(Fannin), 34.9536, -84.3164
+Union(Dodge), 32.0978, -83.2506
+Union City, 33.5869, -84.5425
+Union General Hospital(Union), 34.8733, -83.9575
+Union General Hospital(Union), 34.8861, -83.9625
+Union Hill(Cherokee), 34.1950, -84.3814
+Union Hill(Stephens), 34.5022, -83.2833
+Union Junction, 32.0500, -81.1267
+Union Point(Greene), 33.6156, -83.0747
+Union Point(Whitfield), 34.7664, -84.9267
+Union Springs, 33.5783, -84.1372
+Unionburg, 31.4500, -83.5167
+Unionville(Tift), 31.4347, -83.5097
+Unionville(Lamar), 33.1608, -84.0500
+Unity, 34.3756, -83.3247
+University, 32.8500, -83.6000
+Univeter, 34.1961, -84.5006
+Upatoi, 32.5486, -84.7400
+Upper Bradley Place, 32.2050, -84.9458
+Upper Lookout Creek, 34.7667, -85.5000
+Upper Sansavilla Landing, 31.5078, -81.6592
+Upton, 31.5214, -82.8933
+Upton Mill, 32.5500, -84.2333
+Uptonville, 30.8994, -82.0683
+Uvalda, 32.0356, -82.5083
+Vada, 31.0786, -84.4133
+Valdosta, 30.8325, -83.2786
+Valley, 34.9500, -83.3833
+Valley Hospital, 32.8858, -85.1839
+Valley Point, 34.7167, -84.9667
+Valley View, 34.9228, -85.3514
+Valona, 31.4781, -81.3442
+Van Wert, 33.9872, -85.0433
+Vanceville, 31.4328, -83.4408
+Vandiver, 34.4011, -83.2525
+Vandiver Heights, 33.9333, -84.5333
+Vanna, 34.2414, -83.0717
+Vans Valley, 34.1314, -85.3233
+Varnell, 34.9011, -84.9739
+Vaughn, 33.2808, -84.3917
+Veal, 33.4358, -85.2303
+Veazey, 33.5044, -83.1411
+Vega, 33.0233, -84.2886
+Vereen Memorial Hospital, 31.1633, -83.7897
+Veribest, 33.9442, -82.9953
+Vernon, 33.0600, -85.1581
+Vernon View, 31.9286, -81.0989
+Vernonburg, 31.9656, -81.1203
+Vessels Ford, 30.8542, -82.5839
+Vesta, 33.9564, -82.9386
+Veterans Hospital, 33.4667, -82.0167
+Vickers Crossing, 30.7339, -82.5953
+Victoria, 34.1369, -84.6094
+Victoria Landing, 34.1536, -84.6219
+Victory, 33.5111, -85.2103
+Victory Heights, 32.0419, -81.0619
+Vidalia, 32.2175, -82.4136
+Vidette, 33.0375, -82.2475
+Vienna, 32.0914, -83.7956
+View, 34.5167, -83.5333
+Villa Rica, 33.7319, -84.9192
+Villanow, 34.6736, -85.1147
+Vincent, 32.4733, -83.0006
+Vineyard Crossroads, 33.3811, -84.6714
+Vinings, 33.8647, -84.4644
+Viola, 33.2547, -85.1489
+Vista Terrace, 32.4658, -84.8983
+Vista-Grove, 33.7833, -84.2833
+Vulcan, 34.7667, -85.5333

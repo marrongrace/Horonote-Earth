@@ -1,0 +1,174 @@
+Faceville, 30.7531, -84.6400
+Faceville Landing, 30.7883, -84.6667
+Fagan, 32.5197, -83.8636
+Fain, 34.8244, -83.8714
+Fair Oaks, 33.9164, -84.5447
+Fairburn, 33.5669, -84.5811
+Fairchild, 30.8244, -84.9067
+Fairfax, 31.2603, -82.6078
+Fairfield, 32.0325, -81.0908
+Fairhope, 31.5372, -81.3889
+Fairlawn Acres, 34.9461, -85.2539
+Fairmount, 34.4361, -84.7000
+Fairplay(Douglas), 33.6233, -84.8600
+Fairplay(Morgan), 33.6878, -83.5831
+Fairview(Walker), 34.9456, -85.2844
+Fairview(Fraklin), 34.4103, -83.1650
+Fairview(Habersham), 34.6011, -83.6136
+Fairway Oaks, 32.0197, -81.0961
+Fairyland, 34.8833, -85.4000
+Falling Rocks, 31.9400, -82.3733
+Fancy Bluff, 31.1397, -81.5583
+Fancy Hall, 31.7686, -81.2450
+Fannin County Regional Hospital, 34.9178, -84.3736
+Fantasy Hills, 34.9458, -85.3308
+Fargo, 30.6850, -82.5619
+Farmdale, 32.6994, -81.6103
+Farmers High, 33.5325, -85.1883
+Farmersville, 34.4861, -85.2308
+Farmington, 33.7761, -83.4236
+Farmville, 34.4483, -84.8444
+Farrar, 33.4628, -83.6342
+Fashion, 34.7667, -84.8000
+Faulkner, 34.3333, -84.3833
+Fayetteville, 33.4486, -84.4550
+Federal, 31.5833, -84.1667
+Federal Annex, 33.7500, -84.3333
+Federal Reserve, 33.7500, -84.3833
+Felton, 33.8881, -85.2236
+Fence, 34.0167, -83.8167
+Fender, 31.3667, -83.4833
+Fendig, 31.3400, -81.8406
+Fernwood, 32.0319, -81.0644
+Ferrell Crossroads, 31.4842, -84.9161
+Ferry Lake, 31.4672, -83.4731
+Ferry Landing, 30.7828, -82.0247
+Ficklin, 33.6342, -82.7794
+Fickling Mill, 32.6539, -84.1778
+Ficklings Mill, 32.5500, -84.2333
+Fidelle, 34.6042, -84.8206
+Fields Crossroads, 34.1144, -84.3133
+Fields Landing, 34.1969, -84.5739
+Fife, 33.5347, -84.5456
+Fighting Pine, 34.5647, -83.2456
+Fincherville, 33.4092, -83.9533
+Findlay, 32.1539, -83.7717
+Finleyson, 32.1297, -83.5008
+Fish, 33.9986, -85.1408
+Fish Creek, 34.0100, -85.1317
+Fishtrap Cut Landing, 32.4706, -82.8578
+Fitzgerald, 31.7147, -83.2528
+Fitzgerald Cotton Mill, 31.7167, -83.2500
+Fitzpatrick, 32.7486, -83.4375
+Five Forks(Gwinnett), 33.8864, -84.0600
+Five Forks(Thomas), 30.8772, -83.7983
+Five Forks(Bartow), 34.1439, -84.9781
+Five Points(Carrol), 33.6667, -84.9528
+Five Points(Dodge), 32.0731, -83.1814
+Five Points(Banks), 34.2411, -83.3906
+Five Points(Lowndes), 30.8744, -83.2911
+Five Points(Macon), 32.2914, -83.9161
+Five Points(Marion), 32.4539, -84.4447
+Five Points(Randolph), 31.7014, -84.5581
+Five Points(Tattnall), 31.9219, -82.0342
+Five Points(Taylor), 32.6925, -84.2653
+Five Points(Treutlen), 32.4228, -82.4658
+Five Points(Dougherty), 31.5747, -84.0931
+Five Points(Fulton), 33.7542, -84.3897
+Five Points(Glascock), 33.2875, -82.6614
+Five Points(Jones), 33.0194, -83.6572
+Five Points(Lamar), 33.1250, -84.2156
+Five Points(Laurens), 32.4414, -83.1203
+Five Points(Turner), 31.6439, -83.7597
+Five Points(Wilcox), 32.0947, -83.5856
+Five Springs, 34.7128, -84.9744
+Fivemile Still, 31.0875, -82.8050
+Flat Branch, 34.7692, -84.4900
+Flat Ford(Irwin), 31.6814, -83.4633
+Flat Ford(Cook), 31.2211, -83.5039
+Flat Rock(Putnam), 33.2372, -83.3175
+Flat Rock(Muscogee), 32.5508, -84.8706
+Flat Shoals, 34.3556, -82.9875
+Flat Tub Landing, 31.7875, -82.8578
+Flatlands, 34.7347, -84.0233
+Flea Hill, 30.7928, -81.8394
+Fleetwood, 32.0311, -81.0733
+Fleming, 31.8806, -81.4267
+Flemington, 31.8594, -81.5642
+Flint, 31.3164, -84.1792
+Flint Hill(Newton), 33.6703, -83.8511
+Flint Hill(Talbot), 32.8000, -84.7000
+Flintside, 31.9500, -84.0167
+Flintstone, 34.9417, -85.3436
+Flippen, 33.4831, -84.1875
+Floral Hill, 33.8339, -82.6253
+Florence, 32.0911, -85.0411
+Florida Junction, 32.0703, -81.1297
+Flovilla, 33.2536, -83.8986
+Flowery Branch, 34.1850, -83.9253
+Flowery Gap Landing, 33.1981, -81.7592
+Floyd, 33.8469, -84.5856
+Floyd Springs, 34.4267, -85.1550
+Fodie, 30.8492, -83.5408
+Folkston, 30.8303, -82.0100
+Folsom, 34.3828, -84.8286
+Forest Hills(Richmond), 33.4811, -82.0397
+Forest Hills(Gwinnett), 33.9392, -83.9928
+Forest Lake, 32.8500, -83.6833
+Forest Park(Clayton), 33.6219, -84.3692
+Forest Park(Dougherty), 31.5667, -84.1833
+Forest River Farms, 32.0000, -81.0833
+Forestview, 30.9267, -81.5931
+Forge Mill, 34.8933, -84.2464
+Forrest Hills, 32.0219, -81.0814
+Forrester, 31.6497, -84.1628
+Forsyth, 33.0342, -83.9383
+Fort Barrington Landing, 31.4803, -81.6158
+Fort Benning, 32.3522, -84.9689
+Fort Gaines, 31.6089, -85.0472
+Fort Gordon, 33.4208, -82.1622
+Fort Lamar, 34.2400, -83.2739
+Fort McAllister, 31.8906, -81.1961
+Fort McPherson, 33.7072, -84.4336
+Fort Mudge, 31.0642, -82.1867
+Fort Oglethorpe, 34.9486, -85.2569
+Fort Screven, 32.0208, -80.8444
+Fort Smith, 34.6297, -83.9731
+Fort Stewart, 31.8667, -81.5833
+Fort Valley, 32.5536, -83.8875
+Fortson, 32.6069, -84.9372
+Fortsonia, 34.0150, -82.7792
+Fortville, 33.0533, -83.4575
+Foster Hills(Catoosa), 34.9689, -85.1819
+Foster Mills(Floyd), 34.1661, -85.3428
+Fouche, 34.3622, -85.3119
+Fountainville, 32.2833, -84.1572
+Four Points(Macon), 32.3178, -83.9919
+Four Points(Dougherty), 31.5597, -84.1397
+Four Points(Jenkins), 32.6717, -81.9933
+Fouts Mill, 33.6494, -84.7761
+Fowlertown, 34.5525, -83.3211
+Fowlstown, 30.8000, -84.5500
+Fowlstown Fowltown, 30.8025, -84.5472
+Franklin, 33.2775, -85.0981
+Franklin Springs, 34.2847, -83.1444
+Franklinton, 32.8042, -83.5356
+Frazers Crossing, 31.2986, -81.5675
+Frazier, 32.3492, -83.3028
+Free Home, 34.2386, -84.2889
+Freeman, 31.3606, -85.0628
+Friendship(Hancook), 33.0814, -83.0314
+Friendship(Polk), 34.1975, -85.2964
+Friendship(Crawford), 32.6739, -83.8611
+Friendship(Sumter), 32.1500, -84.4214
+Friendship(Towns), 34.9639, -83.7872
+Frolona, 33.3244, -85.2361
+Fruitland, 30.8233, -82.8550
+Fry, 34.9869, -84.3931
+Frying Pan Landing, 32.4375, -81.2092
+Fullerville, 33.7333, -84.9167
+Fullwood Springs, 33.9192, -85.3133
+Funkhouser, 34.3869, -84.7019
+Funston, 31.1997, -83.8736
+Furniture, 33.8047, -84.6108
+Furniture City, 33.8000, -84.6167

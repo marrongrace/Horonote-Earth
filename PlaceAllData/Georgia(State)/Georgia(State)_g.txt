@@ -1,0 +1,175 @@
+Gabbettville, 32.9444, -85.1333
+Gabersham County Hospital, 34.5808, -83.5369
+Gaddistown, 34.7039, -84.0789
+Gaffneys Landing, 32.4292, -81.2064
+Gaillard, 32.6433, -84.0053
+Gaines Community, 33.9833, -83.3833
+Gainesville, 34.2978, -83.8242
+Galloway, 34.9358, -84.3553
+Galloway Mill, 34.9014, -84.3850
+Galts Ferry Landing, 34.1308, -84.6378
+Garden City, 32.1142, -81.1542
+Garden Lakes, 34.2833, -85.2000
+Garden Valley, 32.4397, -84.1183
+Gardi, 31.5381, -81.7983
+Gardner, 32.8533, -82.9628
+Garfield, 32.6497, -82.0983
+Garnersville, 31.7517, -85.0006
+Garretta, 32.4500, -82.9442
+Gary, 32.5575, -82.3186
+Gass, 34.8636, -85.5492
+Gates City, 33.7500, -84.3833
+Gatewood, 32.0231, -84.1758
+Gay, 33.0936, -84.5739
+Geneva, 32.5797, -84.5508
+Gentian, 32.5108, -84.9292
+Georgetown(Glynn), 31.2136, -81.6739
+Georgetown(Newton), 33.6333, -83.8667
+Georgetown(Quitman), 31.8844, -85.1075
+Georgia Infirmary, 32.0575, -81.0964
+Georgia Southern, 32.4333, -81.7833
+Georgia Southwestern College, 32.0667, -84.2333
+German Village, 31.2217, -81.3578
+Germany, 34.8958, -83.4667
+Gertrude, 32.8447, -82.2967
+Gholston Stand Crossroads, 34.0928, -83.1458
+Gibson, 33.2333, -82.5956
+Gilbert Landing, 31.4742, -85.0669
+Gill, 33.8667, -82.6500
+Gillionville, 31.5869, -84.4333
+Gillis Place, 32.1714, -84.9761
+Gillis Springs, 32.4592, -82.4917
+Gillsville, 34.3078, -83.6336
+Gilmore, 33.8481, -84.4942
+Girard, 33.0403, -81.7122
+Glades(Hall), 34.4286, -83.7311
+Glades(Putnam), 33.3833, -83.4333
+Gladesville, 33.1939, -83.7783
+Gladys, 31.4700, -83.2378
+Glasgow, 30.8000, -83.8000
+Glen Alta, 32.3067, -84.6514
+Glen Arden, 32.4736, -84.9169
+Glen Haven, 33.7439, -84.2181
+Glencliff, 32.9075, -84.4250
+Glencoe, 31.1356, -81.7244
+Glendale, 33.4667, -81.9833
+Glenloch, 33.4092, -85.0861
+Glenloch Village, 33.3167, -84.2833
+Glenmore, 31.1236, -82.5300
+Glenn, 33.1542, -85.2031
+Glenn Field, 34.9033, -85.2636
+Glenns, 32.5306, -84.9508
+Glennville, 31.9364, -81.9286
+Glenwood(Floyd), 34.3122, -85.1722
+Glenwood(Wheeler), 32.1797, -82.6697
+Glenwood Hills, 33.7386, -84.2883
+Glory, 31.3678, -83.1436
+Gloster, 33.9097, -84.0653
+Glovers Millpond, 33.1383, -82.5828
+Gloverton, 33.3992, -84.8297
+Glynco, 31.2500, -81.4667
+Glynn Camp, 31.2100, -81.5675
+Glynn Haven, 31.1883, -81.3769
+Goat Town, 33.0186, -82.9811
+Gobar Landing, 32.4675, -81.5419
+Gobblers Hill, 32.2817, -84.7192
+Gober, 34.3056, -84.4072
+Godfrey, 33.4533, -83.5050
+Godley Landing, 30.9600, -81.8919
+Godwinsville, 32.1356, -83.1272
+Goffs Mill, 31.7053, -84.6958
+Goggins, 33.0758, -84.0919
+Goldmine, 34.2906, -83.0461
+Goldsboro, 32.4725, -83.2278
+Goldson, 32.5608, -84.2589
+Goloid, 32.6914, -81.6725
+Good Hope, 33.7847, -83.6092
+Goodes, 33.5325, -84.7283
+Goolsby, 33.2353, -83.6239
+Goose Island, 34.7853, -84.4025
+Goose Neck, 32.2483, -83.4522
+Gorday, 31.4833, -83.8833
+Gordon, 32.8819, -83.3325
+Gordon Road, 33.7333, -84.4167
+Gordon Springs, 34.8000, -85.0167
+Gordonston, 32.0550, -81.0664
+Gordy, 31.4803, -83.8800
+Gore, 34.4656, -85.2692
+Goshen, 33.8636, -82.5081
+Goss, 34.1506, -82.9219
+Gough, 33.0917, -82.2267
+Gould Landing, 31.6219, -81.2625
+Graball, 33.9297, -82.5647
+Gracewood, 33.3725, -82.0322
+Grady, 34.0167, -85.2500
+Grady Memorial Hospital, 33.7517, -84.3817
+Graham, 31.8314, -82.5025
+Grandview, 34.4956, -84.3939
+Grange, 33.0000, -82.4000
+Grangerville, 31.4833, -81.7333
+Granite Hill, 33.2833, -82.9667
+Grantville, 33.2347, -84.8358
+Grassdale, 34.2728, -84.7869
+Gratis, 33.8825, -83.6633
+Graves, 31.7681, -84.5192
+Gray, 33.0094, -83.5339
+Gray Hill, 32.9247, -85.0822
+Graymont, 32.5833, -82.1500
+Grays Landing, 31.9678, -82.4344
+Grayson, 33.8942, -83.9558
+Graysville, 34.9764, -85.1414
+Greeley, 34.3167, -84.5500
+Greely, 34.3931, -84.6450
+Green Acres(Clarke), 33.9181, -83.3372
+Green Acres(Catoosa), 34.9642, -85.2531
+Green Acres(Chatham), 32.0453, -81.0617
+Green Acres Estate, 32.5500, -82.9000
+Green Island Hills, 32.5350, -85.0072
+Greenberry Crossroads, 32.9539, -83.4497
+Greenough, 31.3164, -84.1017
+Greens Crossing, 30.9164, -83.0572
+Greens Cut, 33.1667, -81.9833
+Greens Mill(Fannin), 34.8422, -84.3000
+Greens Mill(Talbot), 32.7672, -84.5728
+Greensboro, 33.5756, -83.1825
+Greenville(Meriwether), 33.0286, -84.7131
+Greenville(Camden), 30.8014, -81.8333
+Greenway(Fulton), 34.0592, -84.3833
+Greenway(Emanuel), 32.5667, -82.2500
+Greenwood(Henry), 33.3928, -84.1689
+Greenwood(Lanier), 30.9486, -82.9742
+Greenwood(Mitchell), 31.1978, -84.3400
+Greenwood Forest, 30.9333, -83.0000
+Greggs, 31.0686, -83.4900
+Gregory, 34.9533, -84.7825
+Gresham Park, 33.7333, -84.3333
+Greshamville, 33.6264, -83.3239
+Gresston, 32.2861, -83.2525
+Greyfield, 30.7781, -81.4664
+Griffin, 33.2467, -84.2642
+Griffin Hospital, 30.9083, -84.5753
+Griffins Landing, 33.1156, -81.7044
+Grimball Park, 32.0000, -81.0833
+Grimshaw, 32.3989, -81.6989
+Griswold, 32.8333, -83.6167
+Griswoldville, 32.8706, -83.4889
+Grizzletown, 34.0667, -84.6667
+Grogan, 32.5853, -83.9256
+Grooverville, 30.7208, -83.7269
+Grovania, 32.3658, -83.6633
+Grove Level, 34.2572, -83.4906
+Grove Park(Fulton), 33.7733, -84.4456
+Grove Park(Houston), 32.3778, -83.7258
+Grove Park(Chatham), 32.0000, -81.0833
+Grove Point, 31.9514, -81.2042
+Groveland(Bryan), 32.1442, -81.7458
+Groveland(Chatham), 32.0250, -81.1075
+Grovetown, 33.4503, -82.1983
+Grubbs, 32.0103, -81.1811
+Guild, 34.7000, -85.3667
+Gum Branch, 31.8581, -81.7269
+Gum Log, 34.8833, -83.9667
+Gum Springs, 34.3603, -84.7867
+Gum Stump Landing, 30.8119, -81.8839
+Guysie, 31.5442, -82.5317
+Guyton, 32.3361, -81.3917
