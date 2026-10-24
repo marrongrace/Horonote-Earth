@@ -1,0 +1,106 @@
+Ohiapili, 21.1050, -157.0550
+Oiamoi, 21.8392, -160.1686
+Okoe, 19.5000, -155.9167
+Olaa, 19.6333, -155.0333
+Olaa Dispensary, 19.6122, -155.0500
+Olaa Summer Lots, 19.4333, -155.2667
+Old Keanae Landing, 20.8661, -156.1511
+Olinda, 20.8500, -156.3167
+Olomana, 21.4000, -157.7833
+Olowalu, 20.8147, -156.6250
+Omao, 21.9325, -159.4892
+Omapio, 20.7667, -156.3333
+Oneula Beach, 21.3094, -158.0289
+Onomea, 19.8167, -155.1036
+Ookala, 20.0175, -155.2872
+Opaeula Camp, 21.5833, -158.1000
+Opihikao, 19.4297, -154.8833
+Orpheum Village, 20.9031, -156.3722
+Paauhau, 20.0853, -155.4406
+Paauhau Landing, 20.0944, -155.4428
+Paauhau Mauka, 20.0833, -155.4667
+Paauilo, 20.0419, -155.3711
+Pacific Heights, 21.3267, -157.8425
+Pacific Palisades, 21.4256, -157.9608
+Pahala, 19.2053, -155.4800
+Pahoa, 19.4975, -154.9508
+Pahoehoe, 19.5000, -155.9167
+Paholoi, 20.8803, -156.3456
+Paia, 20.9033, -156.3694
+Pakala Village(Makawali), 21.9369, -159.6522
+Palani Junction, 19.6914, -155.9786
+Palehua, 21.3994, -158.1031
+Paliaalii, 19.9858, -155.5500
+Palihooukapapa, 19.9714, -155.5325
+Panaewa, 19.7000, -155.0833
+Papa, 19.2092, -155.8667
+Papaaloa, 19.9789, -155.2211
+Papaikou, 19.7889, -155.0958
+Papakonani Boat Landing, 19.9522, -155.8683
+Papaloa(Kauai), 22.0581, -159.3331
+Papaloa(Hawaii), 19.5094, -155.7983
+Pauahi, 19.5072, -155.8264
+Paukaa, 19.7656, -155.0950
+Paukukalo, 20.9086, -156.4878
+Paumalu, 21.6000, -158.0833
+Pauwalu, 21.0914, -156.7767
+Pauwela, 20.9339, -156.3200
+Pawaa, 21.3000, -157.8333
+Pawaina, 19.5053, -155.8600
+Peahi, 20.9167, -156.3167
+Pearl City, 21.3972, -157.9733
+Pearl City Heights, 21.4000, -157.9667
+Pearl Harbor Naval Sta, 21.3500, -157.9333
+Pelekunu, 21.1642, -156.8828
+Pepeekeo, 19.8336, -155.1072
+Pepeekeo Mill, 19.8508, -155.0881
+Pepeekeo Mill Camp, 19.8500, -155.1000
+Pihana, 20.9000, -156.5000
+Pihana Heiau, 20.9061, -156.4961
+Piihonua, 19.7158, -155.1389
+Poamoho Camp, 21.5167, -158.0333
+Pohakea Homesteads, 20.0500, -155.3667
+Pohakupu, 21.3847, -157.7542
+Pohoiki, 19.4608, -154.8469
+Poipu, 21.8764, -159.4539
+Pokii, 21.9831, -159.7208
+Poliahu Heiau, 22.0494, -159.3583
+Polihale Heiau, 22.1003, -159.7472
+Pomoho, 21.5000, -158.0500
+Popoiwi Heiau, 20.6431, -156.1158
+Port Allen, 21.9061, -159.5892
+Portlock, 21.2786, -157.7108
+Pua Akala, 19.7900, -155.3347
+Pua Loke, 21.9722, -159.3758
+Puako, 19.9750, -155.8439
+Pualaa, 19.4717, -154.8364
+Pualaea Homestead, 19.9833, -155.2333
+Puhi, 21.9686, -159.3994
+Pukalani, 20.8367, -156.3367
+Pukoo, 21.0764, -156.7958
+Pulehu, 20.7800, -156.3286
+Punaluu(Hawaii), 19.1392, -155.5072
+Punaluu(Honolulu), 21.6167, -157.9167
+Punaluu Kahawai, 19.2508, -155.6092
+Puohala, 21.4167, -157.8000
+Puohala Village, 21.4061, -157.8025
+Puopelu, 20.0233, -155.6850
+Pupukea, 21.7500, -157.9500
+Puu Hue, 20.2333, -155.8333
+Puu Waawaa Ranch, 20.5167, -156.8667
+Puuanahulu, 19.8186, -155.8464
+Puueo, 19.7336, -155.0922
+Puuiki, 20.7050, -156.0022
+Puukolii, 20.9344, -156.6769
+Puunene, 20.8636, -156.4531
+Puunene Hospital, 20.8767, -156.4417
+Puunoa, 20.8822, -156.6858
+Puunui, 21.3369, -157.8508
+Puuohala, 20.9000, -156.5000
+Puuohala Village, 20.8994, -156.5117
+Puuwai, 21.9022, -160.1942
+Queens Hospital, 21.3108, -157.8569
+Ranch Camp, 21.5656, -158.1281
+Renton, 21.3500, -158.0333
+Renton Village, 21.3447, -158.0378
+Russian Village, 20.9064, -156.4247

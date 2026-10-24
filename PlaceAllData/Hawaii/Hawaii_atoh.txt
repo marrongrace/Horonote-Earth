@@ -1,0 +1,146 @@
+Ah Fong Village, 20.8533, -156.4647
+Ahole Heiau, 19.1400, -155.4433
+Ahualoa, 20.0833, -155.4667
+Ahuena Heiau, 19.6422, -156.0003
+Ahuimanu, 21.4447, -157.8378
+Ahukini Landing, 21.9953, -159.3356
+Aiea, 21.3822, -157.9336
+Aiea Heights, 21.3908, -157.9203
+Aina Haina, 21.2819, -157.7525
+Ainapo, 19.3592, -155.4242
+Airport Village, 20.8222, -156.4542
+Akona, 20.1036, -155.6117
+Akupu, 21.3942, -158.1031
+Alabama Village, 20.8658, -156.4542
+Alasaki Camp, 20.0167, -155.2833
+Alewa Heights, 21.3431, -157.8528
+Aliamanu, 21.3547, -157.9275
+Amauulu Camps, 19.7000, -155.0833
+Anaehoomalu, 19.9169, -155.8903
+Anahola, 22.1453, -159.3156
+Anaki, 22.1506, -159.7181
+Andrade, 19.8500, -155.1000
+Barbers Point Housing, 21.3333, -158.0833
+Camp H M Smith, 21.3833, -157.9333
+Canoe Landing Site, 19.3522, -154.9778
+Captain Cook, 19.4969, -155.9217
+Central Maui Memorial Hospital, 20.8883, -156.4928
+Central Power Plant Village, 20.9500, -156.6667
+Chin Chuck, 19.9000, -155.1333
+Chinatown, 21.3333, -157.8667
+City of Refuge, 19.4333, -155.9167
+Coconut Grove, 21.4000, -157.7833
+Cod Fish Village, 20.8964, -156.4211
+Cooks Heiau, 19.4889, -155.9461
+Coral Gardens, 21.4167, -157.8000
+Corn Mill Camp, 20.8375, -156.3325
+Crater Maui, 20.9500, -156.6667
+Crater Village, 20.9008, -156.6650
+Crestview, 21.4089, -157.9994
+Dillingham Ranch, 21.5667, -158.1667
+East Molokai, 21.0833, -156.9500
+Eleele, 21.9103, -159.5872
+Elevenmile Homestead, 19.6064, -155.0753
+Ewa, 21.3425, -158.0403
+Ewa Beach, 21.3156, -158.0072
+Ewa-Schofield Junction, 21.3994, -157.9814
+Fernandez Village, 21.3503, -158.0333
+Filipino Camp, 20.8403, -156.3281
+Ford Island, 21.3500, -157.9333
+Fort Shafter, 21.3167, -157.8333
+Foster Village, 21.3653, -157.9278
+Glenwood, 19.4908, -155.1539
+Haaheo, 19.7000, -155.0833
+Haena(Kauai), 22.2244, -159.5647
+Haena(Hawaii), 19.6456, -154.9878
+Haiku, 20.9175, -156.3258
+Haina, 20.0961, -155.4719
+Hakalau, 19.8997, -155.1292
+Halaula, 20.2378, -155.7800
+Halawa(Hawaii), 20.2269, -155.7683
+Halawa(Honolulu), 21.3833, -157.9333
+Halawa(Maui), 21.1597, -156.7422
+Halawa Heights, 21.3817, -157.9183
+Halawa Hills, 21.3833, -157.9333
+Hale Homaha, 22.2258, -159.5497
+Hale Mohalu Hospital, 21.3944, -157.9703
+Hale o Kane Heiau, 20.6522, -156.1317
+Hale o Lono Heiau, 19.6706, -156.0303
+Hale o Mano Heiau, 19.6733, -156.0300
+Hale Pili, 19.6292, -155.8706
+Haleaha, 21.6167, -157.9167
+Haleiwa, 21.5917, -158.1142
+Haleiwa Army Beach, 21.5919, -158.1167
+Halekii Heiau, 20.9083, -156.4950
+Halena, 21.0925, -157.2344
+Halepalaoa Landing, 20.8342, -156.8147
+Halepiula, 19.9311, -155.3944
+Haliimaile, 20.8711, -156.3439
+Hamakuapoko, 20.9219, -156.3481
+Hamoa, 20.7233, -155.9886
+Hana, 20.7581, -155.9903
+Hanaipoe, 19.9483, -155.4617
+Hanalei, 22.2053, -159.5028
+Hanalei Homesteads, 22.1853, -159.4664
+Hanalei Landing, 22.2161, -159.5003
+Hanamaulu, 21.9975, -159.3572
+Hanapepe, 21.9119, -159.5953
+Hanapepe Heights, 21.9203, -159.5922
+Haou, 20.6975, -156.0069
+Happy Valley, 20.8950, -156.5097
+Hauula, 21.6106, -157.9108
+Hawaii Kai, 21.2828, -157.7053
+Hawaii National Park, 19.4333, -155.2500
+Hawaiian Ocean View Estates, 19.5000, -155.9167
+Hawaiian Village(Honolulu), 21.3167, -157.8500
+Hawaiian Village(Maui), 20.9058, -156.4172
+Hawaiian-Spanish Village, 20.9089, -156.3747
+Hawi, 20.2414, -155.8328
+Heeia, 21.4308, -157.8106
+Hickam Air Force Base, 21.3333, -157.9000
+Hickam Village, 21.3453, -157.9450
+Highway Village, 19.8667, -155.1167
+Hikapoloa, 20.2422, -155.8594
+Hikiau Heiau, 19.4786, -155.9219
+Hikina o ka la Heiau, 22.0456, -159.3383
+Hilea, 19.1386, -155.5367
+Hilo, 19.7297, -155.0900
+Hilo Hospital, 19.7217, -155.1178
+Hoaeae, 21.4000, -158.0167
+Hoai Heiau, 21.8853, -159.4769
+Hoea, 20.2333, -155.8333
+Hokamahoe House Lot, 19.9833, -155.2333
+Hokuula, 20.7272, -155.9872
+Holualoa, 19.6228, -155.9522
+Honalo, 19.5464, -155.9319
+Honaunau, 19.4269, -155.9131
+Honohina, 19.9272, -155.1569
+Honoipu Landing(Site), 20.2458, -155.8925
+Honokaa, 20.0828, -155.4725
+Honokaa Landing, 20.1044, -155.4742
+Honokahua(Honokohua P O), 21.0031, -156.6578
+Honokai Hale, 21.3425, -158.1108
+Honokohau(Hawaii), 19.6736, -156.0292
+Honokohau(Maui), 21.0189, -156.6114
+Honokowai, 20.9542, -156.6897
+Honolua, 21.0164, -156.6406
+Honolulu, 21.3069, -157.8583
+Honolulu Intl Airport, 21.4000, -157.9000
+Honolulu Landing, 19.5583, -154.8836
+Honomaele, 20.8011, -156.0389
+Honomakau, 20.2400, -155.8206
+Honomalino, 19.5000, -155.9167
+Honomu, 19.8733, -155.1175
+Honopu, 19.1258, -155.7878
+Honouliuli, 21.3678, -158.0361
+Honuapo, 19.0933, -155.5511
+Hookena, 19.3831, -155.9008
+Hoolehua, 21.1711, -157.0714
+Hoopuloa, 19.2006, -155.9069
+Hopoi, 20.9000, -156.5000
+Hopoi Village, 20.8822, -156.5108
+Hopuwai, 19.8492, -155.3406
+Hospital Village, 20.8667, -156.4500
+Huehue, 19.6167, -155.9500
+Huelo, 20.9083, -156.2275
+Hyashi Village, 20.8408, -156.5092

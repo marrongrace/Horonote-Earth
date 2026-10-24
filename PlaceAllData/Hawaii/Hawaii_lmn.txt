@@ -1,0 +1,107 @@
+Laeapuki, 19.3172, -155.0686
+Lahaina, 20.8783, -156.6825
+Lahainaluna, 20.8936, -156.6622
+Lahuipuaa, 19.9458, -155.8708
+Laie, 21.6536, -157.9272
+Lalakoa, 20.8256, -156.9122
+Lanai City, 20.8306, -156.9222
+Laniakea, 19.6389, -155.9956
+Lanikai, 21.3919, -157.7158
+Lanikai Heights, 21.4000, -157.7833
+Launiupoko, 20.8556, -156.6497
+Laupahoehoe, 19.9869, -155.2350
+Lawai, 21.9219, -159.5094
+Leahi, 21.7928, -160.2239
+Leahi Hospital, 21.2761, -157.8050
+Lehua Landing, 21.9967, -160.1003
+Lihue, 21.9811, -159.3711
+Loaloa Heiau, 20.6433, -156.1247
+Lopa, 20.8033, -156.8125
+Lower Paia, 20.9192, -156.3844
+Lower Village, 21.3603, -158.0286
+Lower Village Three, 20.8958, -156.4292
+Lualualei, 21.4000, -158.1667
+Lualualei Homesteads, 21.4333, -158.1833
+Lunaville, 20.8769, -156.6736
+Maalaea, 20.7964, -156.5142
+Maalehu, 21.1669, -157.0236
+Mahaiula, 19.7861, -156.0392
+Mahana, 21.1539, -157.1483
+Mahinahina Camp, 20.9600, -156.6586
+Mahinui, 21.4144, -157.7739
+Mahukona, 20.1875, -155.9025
+Maili, 21.4219, -158.1803
+Makaha, 21.4694, -158.2175
+Makahalau, 19.9761, -155.5517
+Makakilo City, 21.3469, -158.0858
+Makalawena, 19.7953, -156.0294
+Makapala, 20.2244, -155.7522
+Makawao, 20.8569, -156.3131
+Makaweli, 21.9369, -159.6522
+Makaweli Landing, 21.9408, -159.6519
+Makena, 20.6575, -156.4453
+Makiki Heights, 21.3175, -157.8383
+Makole, 22.1214, -159.7406
+Mala, 20.8906, -156.6878
+Malae, 21.4283, -157.7661
+Maluhia Camp, 20.9567, -156.5378
+Mana(Kauai), 22.0381, -159.7722
+Mana(Hawaii), 20.0006, -155.5603
+Marconi Area, 21.6667, -157.9833
+Mauka Loa, 19.8500, -155.1000
+Maulua, 19.9833, -155.2333
+Mauna Loa, 21.1358, -157.2164
+Maunalani Heights, 21.2967, -157.7925
+Maunalani Hospital, 21.3006, -157.7919
+Maunawili, 21.3728, -157.7706
+McGerrow Village, 20.8664, -156.4611
+McGrew Point, 21.3833, -157.9333
+Meyer Camp, 19.2208, -155.4931
+Middle Moaula Camp, 19.2025, -155.5206
+Middle Village Three, 20.8947, -156.4267
+Mikilua, 21.4333, -158.1833
+Mililani Town, 21.4581, -158.0178
+Mill Camps, 21.5833, -158.1000
+Milo Village, 20.0164, -155.2850
+Milolii, 19.1867, -155.9097
+Moa Heiau, 19.3222, -155.0569
+Moiliili, 21.2906, -157.8292
+Mokae, 20.7208, -155.9958
+Mokae Landing, 20.7228, -155.9875
+Mokaoku, 19.7314, -155.0678
+Mokapu, 21.4500, -157.7500
+Moku, 21.0703, -156.9592
+Mokulau, 20.6456, -156.1106
+Mokulau Landing, 20.6431, -156.1122
+Mokuleia, 21.5842, -158.1519
+Moloaa, 22.1833, -159.3500
+Monohaa, 19.5522, -155.8583
+Mookini Heiau, 20.2608, -155.8794
+Moomomi, 21.2000, -157.1561
+Mopua, 20.8142, -156.6144
+Mountain View, 19.5558, -155.1081
+Muolea, 20.6897, -156.0203
+Naalehu, 19.0639, -155.5858
+Nahiku, 20.8278, -156.0944
+Nanakuli, 21.3906, -158.1547
+Napili, 20.9500, -156.6667
+Napoopoo, 19.5000, -155.9167
+Nashiwa Village, 20.9017, -156.3683
+Nawiliwili, 21.9658, -159.3564
+Niihau, 21.9000, -160.1333
+Nine Miles, 19.6333, -155.0333
+Ninole, 19.1339, -155.5125
+Niu, 21.2850, -157.7422
+Niu Village, 20.0133, -155.2756
+Niukapu Heiau, 21.9003, -159.5000
+Niukukahi Heiau, 19.3669, -154.9842
+Niulii, 20.2256, -155.7458
+Niumalu, 21.9553, -159.3650
+Nonopahu Village, 21.9714, -159.6389
+Nonopapa, 21.8675, -160.2231
+North Hilo, 19.7000, -155.3000
+North Kohala, 20.1833, -155.8167
+North Kona, 19.6333, -155.8833
+Numila, 21.9017, -159.5597
+Nuu, 20.6319, -156.1864
+Nuu Landing, 20.6286, -156.1808

@@ -1,0 +1,101 @@
+Saddle Road Junction, 19.9392, -155.6903
+Saki Mana, 22.0603, -159.7633
+Sam Sing Village, 20.8714, -156.4461
+Sand Hills, 20.8956, -156.4975
+Schofield Barracks, 21.5000, -158.0667
+School Village, 20.9056, -156.3703
+South Kohala, 20.0667, -155.7167
+South Kona, 19.3500, -155.8167
+Spanish B Village, 20.8683, -156.4483
+Spreckelsville, 20.8969, -156.4150
+St Louis Heights, 21.3031, -157.8069
+Store Village, 20.9067, -156.3742
+Submarine Base, 21.3500, -157.9333
+Sunset Beach, 21.6731, -158.0481
+Tenney Village, 21.3425, -158.0447
+Thompson Corner, 21.5653, -158.1158
+Tripler Army Hospital, 21.3500, -157.8833
+Ualapue, 21.0656, -156.8325
+Ulaino, 20.8086, -156.0589
+Ulumalu, 20.9094, -156.2867
+Ulupalakua, 20.6492, -156.4011
+Umikoa(Kukaiau Ranch), 19.9825, -155.3844
+Umipaa, 21.1097, -157.0556
+Union Mill, 20.2333, -155.7833
+University, 21.3167, -157.8333
+Upper Village Three, 20.8872, -156.4214
+Varona Village, 21.3369, -158.0458
+Village Eight, 20.8578, -156.4411
+Village Five, 20.8594, -156.4583
+Village Four, 20.8750, -156.4397
+Village Six, 20.8394, -156.4725
+Village Ten, 20.8617, -156.4003
+Village Thirteen, 20.8369, -156.4350
+Village Two, 20.8947, -156.4053
+Volcano, 19.4308, -155.2378
+Wahiawa(Kauai), 21.9000, -159.5833
+Wahiawa(Honolulu), 21.5028, -158.0236
+Waiahole, 21.4858, -157.8567
+Waiahukini, 18.9503, -155.7036
+Waiaka, 20.0297, -155.7019
+Waiaka Heiau, 19.3403, -155.0108
+Waiakea, 19.7169, -155.0708
+Waiakoa, 20.7625, -156.3300
+Waialae, 21.2792, -157.7908
+Waialee, 21.6897, -158.0264
+Waialua(Honolulu), 21.5767, -158.1303
+Waialua(Maui), 21.1003, -156.7614
+Waialua Mill, 21.5833, -158.1000
+Waianae, 21.4447, -158.1900
+Waianae Homesteads, 21.4333, -158.1833
+Waianae Uka, 21.4333, -158.1833
+Waiau, 21.3931, -157.9625
+Waiehu, 20.9214, -156.4969
+Waiehu Village, 20.9175, -156.5156
+Waihee, 20.9339, -156.5147
+Waihou, 19.5400, -155.9033
+Waikane, 21.5006, -157.8550
+Waikapu, 20.8581, -156.5069
+Waikapu Reservoir Village, 20.9000, -156.5000
+Waikapuna, 19.0247, -155.5822
+Waikele, 21.4000, -158.0167
+Waikii, 19.8606, -155.6522
+Waikiki, 21.2828, -157.8294
+Waikui, 20.0250, -155.8242
+Wailau, 21.1686, -156.8308
+Wailea(Maui), 20.7022, -156.4486
+Wailea(Hawaii), 19.8875, -155.1236
+Wailua(Kauai), 22.0522, -159.3378
+Wailua(Maui), 20.8486, -156.1364
+Wailua House Lots, 22.0622, -159.3461
+Wailuku, 20.8911, -156.5047
+Wailuku Heights, 20.8775, -156.5194
+Wailupe, 21.2797, -157.7597
+Waimalu, 21.4000, -157.9500
+Waimanalo, 21.3500, -157.7208
+Waimanalo Beach, 21.3403, -157.7028
+Waimea(Honolulu), 21.6489, -158.0661
+Waimea(Kauai), 21.9583, -159.6708
+Waimea(Kamuela P O,Hawaii), 20.0231, -155.6717
+Wainaku, 19.7447, -155.0950
+Wainee, 20.8742, -156.6706
+Wainiha, 22.2161, -159.5433
+Waiohinu, 19.0703, -155.6142
+Waiopili Heiau, 21.8931, -159.4236
+Waipahoehoe, 19.6042, -155.0111
+Waipahu, 21.3867, -158.0092
+Waipio, 20.1111, -155.5986
+Waipio Acres, 21.4675, -158.0164
+Waipouli, 22.0639, -159.3247
+Waipunalei Homesteads, 22.0667, -159.3333
+Weliweli, 19.9011, -155.9072
+Weloka, 19.9606, -155.2008
+West Molokai, 21.1833, -157.1000
+Wheeler Air Force Base, 21.5000, -158.0500
+Wheeler Field, 21.4889, -158.0386
+Whitmore Village, 21.5139, -158.0231
+Wilcox Memorial Hospital, 21.9886, -159.3675
+Wilhelmina Rise, 21.2906, -157.7972
+Wood Valley Homesteads, 19.2000, -155.4833
+Woodlawn, 21.3178, -157.8053
+Yung Hee Village, 20.8614, -156.4556

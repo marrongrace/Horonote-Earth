@@ -1,0 +1,202 @@
+Iroquois Point, 21.3333, -157.9833
+Iwasaki Camp, 19.6000, -155.0667
+Iwilei, 21.3164, -157.8781
+Japanese Village One, 20.9053, -156.4214
+Ka Ulu a Paoa Heiau, 22.2228, -159.5878
+Kaaawa, 21.5572, -157.8536
+Kaalaea, 21.4833, -157.8500
+Kaalawai, 21.2619, -157.8008
+Kaalualu, 18.9731, -155.6144
+Kaana, 22.1031, -159.6794
+Kaanapali, 20.9317, -156.6972
+Kaapahu, 20.0500, -155.3667
+Kaau, 20.1092, -155.6114
+Kaauhuhu Homesteads, 20.2333, -155.8333
+Kaawaloa, 19.4825, -155.9367
+Kaawanui Village, 21.9461, -159.6317
+Kaeleku, 20.7864, -156.0261
+Kahakuloa, 20.9997, -156.5539
+Kahala, 21.2697, -157.7864
+Kahaluu(Hawaii), 19.5833, -155.9692
+Kahaluu(Honolulu), 21.4633, -157.8367
+Kahana(Honolulu), 21.5581, -157.8792
+Kahana(Maui), 20.9800, -156.6800
+Kahei Homesteads, 20.2333, -155.8333
+Kaheka Village, 20.8956, -156.3656
+Kahua, 20.1333, -155.8000
+Kahuku, 21.6803, -157.9511
+Kahului, 20.8947, -156.4700
+Kai Malino, 19.5000, -155.9167
+Kaiaakea, 19.9333, -155.1833
+Kaieie Heiau, 19.1308, -155.5144
+Kailiili, 20.8475, -156.2725
+Kailua(Hawaii), 19.6406, -155.9956
+Kailua(Honolulu), 21.4022, -157.7394
+Kailua(Maui), 20.8944, -156.2169
+Kailua Kona, 19.6500, -155.9833
+Kailua Village, 20.8714, -156.3650
+Kaimu, 19.3647, -154.9722
+Kaimuki, 21.2828, -157.8017
+Kainaliu, 19.5350, -155.9289
+Kainalu, 21.1000, -157.0167
+Kaiwiki, 19.7000, -155.0833
+Kakio, 20.7133, -155.9967
+Kalae, 21.1653, -157.0083
+Kalaheo, 21.9286, -159.5303
+Kalamaula, 21.1000, -157.0167
+Kalaoa, 19.7286, -155.9817
+Kalaoa Homesteads, 19.6167, -155.9500
+Kalapana, 19.3542, -154.9786
+Kalauao, 21.3847, -157.9481
+Kalaupapa, 21.1925, -156.9861
+Kalawao, 21.1803, -156.9511
+Kalepolepo, 20.7669, -156.4625
+Kalihi, 21.3364, -157.8764
+Kalihi Kai, 21.3267, -157.8886
+Kalihiwai, 22.2175, -159.4325
+Kalopa Mauka, 20.0833, -155.4667
+Kaluaaha, 21.0700, -156.8211
+Kaluanui Heiau, 20.7242, -155.9931
+Kamaili, 19.4147, -154.9017
+Kamalino, 21.8375, -160.2336
+Kamalo, 21.0506, -156.8769
+Kamehameha Heights, 21.3350, -157.8647
+Kamiloloa, 21.0839, -157.0022
+Kamooloa, 21.5728, -158.1142
+Kamuela, 20.0231, -155.6717
+Kanahena, 20.6217, -156.4414
+Kaneeleele Heiau, 19.1392, -155.5047
+Kaneohe, 21.4181, -157.8036
+Kaneohe Marine Corps Air Station, 21.4000, -157.7833
+Kaniahiku Village, 19.4894, -154.9272
+Kaonoulu, 20.7403, -156.3356
+Kapaa, 22.0783, -159.3219
+Kapaahu, 19.3417, -155.0139
+Kapaau, 20.2336, -155.8014
+Kapahi, 22.1003, -159.3606
+Kapahulu, 21.2781, -157.8156
+Kapaia, 21.9933, -159.3689
+Kapaka, 21.9236, -159.6169
+Kapalama, 21.3333, -157.8667
+Kapalaoa, 19.9125, -155.8989
+Kapalawai, 21.9489, -159.6572
+Kapapala, 19.2000, -155.4833
+Kapaula Heiau, 22.0908, -159.7514
+Kapehu, 19.9833, -155.2333
+Kapinao Heiau, 22.1914, -159.3881
+Kapoho, 19.5061, -154.8486
+Kapulena, 20.1058, -155.5289
+Kapunakea, 20.8908, -156.6842
+Kau, 19.3167, -155.4167
+Kaueleau, 19.4444, -154.9153
+Kaukohoku, 19.5758, -155.8619
+Kaumakani, 21.9189, -159.6222
+Kaumalapau, 20.7833, -156.9833
+Kaumana, 19.6886, -155.1442
+Kaunakakai, 21.0933, -157.0239
+Kaunalewa, 22.0031, -159.7411
+Kaunene, 19.4214, -155.7797
+Kaupakulua, 20.8903, -156.2978
+Kaupo, 20.6394, -156.1253
+Kaupulehu, 19.8347, -155.9892
+Kawaihae, 20.0411, -155.8306
+Kawaihua, 22.0667, -159.3333
+Kawailiula, 20.0272, -155.7064
+Kawailoa, 21.6000, -158.0833
+Kawailoa Beach, 21.6281, -158.0800
+Kawainui, 19.8289, -155.0986
+Kawanui, 19.5167, -155.9167
+Kawela, 21.7008, -158.0103
+Keaalu, 21.4178, -157.7689
+Keaau, 19.6256, -155.0417
+Keaau Camp, 19.6333, -155.0333
+Keaau Ranch, 19.6333, -155.0333
+Keahua, 20.8603, -156.3853
+Kealahou, 20.7667, -156.3333
+Kealakehe Homesteads, 20.5167, -156.8667
+Kealakekua, 19.5208, -155.9225
+Kealakomo, 19.2742, -155.1550
+Kealapuali, 19.6267, -155.8631
+Kealia(Kauai), 22.1019, -159.3086
+Kealia(Hawaii), 19.4003, -155.8819
+Keamuku, 19.8431, -155.7211
+Keanae, 20.8614, -156.1517
+Keanakolu, 19.9183, -155.3381
+Keanapaakai, 19.4450, -155.7978
+Keauhou, 19.5653, -155.9650
+Keauhou Landing(Site), 19.2678, -155.2372
+Keaukaha, 19.7303, -155.0464
+Keawaiki, 19.8900, -155.9083
+Keawakapu, 20.7075, -156.4478
+Keawanui, 22.1528, -159.7258
+Keehia, 20.0167, -155.2833
+Keei, 19.4644, -155.9272
+Keeku Heiau, 19.1161, -155.5261
+Keelinawi, 21.8042, -160.2283
+Kehena, 19.3956, -154.9331
+Kekaha, 21.9711, -159.7150
+Kekaloa Heiau, 19.3583, -154.9769
+Kelawea, 20.8850, -156.6750
+Keokea(Hawaii), 19.4200, -155.8828
+Keokea(Maui), 20.7086, -156.3583
+Keolu Hills, 21.3794, -157.7317
+Keomuku, 20.8386, -156.9208
+Keoneoio, 20.6031, -156.4233
+Kepuhi, 21.1911, -157.2503
+Kiekie, 21.8864, -160.2128
+Kihalani Homestead, 19.9833, -155.2333
+Kihei, 20.7850, -156.4656
+Kiholo, 19.8575, -155.9242
+Kii Landing, 21.9772, -160.0589
+Kilauea, 22.2119, -159.4122
+Kilauea Military Camp, 19.4333, -155.2500
+Kilauea Settlement, 19.4333, -155.2667
+Kiolakaa Keaa Homesteads, 19.0667, -155.5833
+Kipahulu, 20.6567, -156.0586
+Kipapa Heiau, 22.2225, -159.3889
+Kipu(Kauai), 21.9542, -159.4267
+Kipu(Maui), 21.1658, -157.0228
+Kipuka Nahuaopala, 19.0453, -155.6181
+Kipuka Nene, 19.3300, -155.2817
+Koae, 19.5267, -154.8467
+Koali, 20.6889, -156.0239
+Koele, 20.8397, -156.9203
+Kohala, 20.2333, -155.8000
+Kohala Hospital, 20.2350, -155.7997
+Koheo, 21.0872, -157.0161
+Koholalele Landing, 20.0519, -155.3483
+Kokee, 21.9667, -159.7167
+Kokokahi, 21.4142, -157.7789
+Kokomo, 20.8700, -156.3089
+Kolo, 19.5000, -155.9167
+Koloa, 21.9067, -159.4692
+Koloa Landing, 21.8822, -159.4714
+Koloa Mill, 21.9033, -159.4475
+Komakawai, 19.3978, -155.7761
+Kona, 19.4167, -155.9167
+Kona Coast, 19.4167, -155.9167
+Kona Hospital, 19.5228, -155.9211
+Koolauloa, 21.6333, -158.0000
+Koolaupoko, 21.4000, -157.8167
+Kualapuu, 21.1553, -157.0397
+Kualoa, 21.5333, -157.8833
+Kuau, 20.9294, -156.3711
+Kuhio Village, 20.0244, -155.6625
+Kuhua, 20.9500, -156.6667
+Kukaiau, 20.0328, -155.3503
+Kukanono, 21.4000, -157.7833
+Kukii Heiau, 19.5150, -154.8367
+Kukio, 19.8214, -156.0019
+Kukui, 19.5769, -155.0911
+Kukui Village, 20.0167, -155.2806
+Kukuihaele, 20.1214, -155.5708
+Kukuihaele Landing, 20.1314, -155.5592
+Kukuiula, 21.8886, -159.4889
+Kula, 20.7500, -156.3333
+Kula Sanatorium, 20.7044, -156.3608
+Kuliouou, 21.2883, -157.7292
+Kumukumu, 22.1108, -159.3100
+Kunia, 21.4633, -158.0653
+Kunia Camp, 21.4633, -158.0653
+Kupolo, 21.9675, -159.3633
+Kurtistown, 19.6036, -155.0572
