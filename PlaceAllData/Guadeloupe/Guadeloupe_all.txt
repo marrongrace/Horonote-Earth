@@ -1,0 +1,35 @@
+Anse Bertrand, 16.4833, -61.5167
+Baie Mahault, 16.2667, -61.5833
+Baillif, 16.0167, -61.7500
+Basse-Terre, 16.0000, -61.7333
+Bouillante, 16.1000, -61.7500
+Bourg, 15.8667, -61.6000
+Capesterre, 15.9000, -61.2167
+Capesterre-Belle-Eau, 16.0500, -61.5667
+Deshaies, 16.3000, -61.8000
+Gourbeyre, 16.0000, -61.7000
+Goyave, 16.1333, -61.5667
+Grand Bourg, 15.8833, -61.3167
+Grande Anse, 16.3000, -61.0667
+Gustavia, 17.9000, -62.8500
+Lamentin, 16.2667, -61.6333
+Le Gosier, 16.2000, -61.5000
+Le Moule, 16.3333, -61.3500
+Les Abymes, 16.2667, -61.5167
+Marigot, 18.0667, -63.1000
+Morne à l'Eau, 16.3500, -61.5167
+Petit Bourg, 16.2000, -61.6000
+Petit Canal, 16.3833, -61.4833
+Pointe Noire, 16.2333, -61.7833
+Pointe à Pitre, 16.2333, -61.5333
+Port Louis, 16.4167, -61.5333
+St Claude, 16.0333, -61.7000
+St François, 16.2500, -61.2833
+St Louis, 15.9500, -61.3167
+Ste Anne, 16.2333, -61.3833
+Ste Rose, 16.3333, -61.7000
+Terre de Bas, 15.8500, -61.6500
+Terre de Haut, 15.9667, -61.5833
+Trois Riviéres, 15.9833, -61.6500
+Vieux Fort, 15.9500, -61.7167
+Vieux Habitants, 16.0667, -61.7667
