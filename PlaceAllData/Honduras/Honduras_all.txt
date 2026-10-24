@@ -1,0 +1,114 @@
+Ajuterique, 14.3333, -87.7167
+Alianza, 13.5167, -87.7333
+Amapala, 13.2833, -87.6667
+Arada, 14.8000, -88.3000
+Azacualpa(Santa Barbara), 15.3167, -88.5500
+Azacualpa(Olancho), 14.4500, -86.1500
+Balfate, 15.8000, -86.4167
+Baracoa, 15.7167, -87.8667
+Brus Laguna, 15.7833, -84.5833
+Camacosni, 14.9500, -85.1333
+Campamento, 14.5500, -86.7000
+Catacamas, 14.9000, -85.9333
+Cedros, 14.5833, -87.1333
+Chamelecón, 15.4000, -88.0167
+Choloma, 15.5667, -87.9333
+Choluteca, 13.3000, -87.2000
+Cofradía, 15.4000, -88.1500
+Colorado, 15.7833, -87.3167
+Comayagua, 14.4167, -87.6167
+Copán, 14.8333, -89.1500
+Corozal, 15.8000, -86.7167
+Corquín, 14.5667, -88.8667
+Cuyamel, 15.6333, -88.2000
+Danlí, 14.0000, -86.5833
+Dulce Nombre de Culmí, 15.1500, -85.6167
+El Corpus, 13.2667, -87.0500
+El Negrito, 15.2667, -87.6833
+El Paraíso, 13.8500, -86.5667
+El Progreso, 15.3500, -87.8167
+El Triunfo(Choluteca), 13.1000, -87.0000
+El Triunfo(Atlantida), 15.7667, -87.4333
+Florida, 15.0167, -88.8333
+Goascorán, 13.6000, -87.7500
+Gracias, 14.5833, -88.5833
+Guaimaca, 14.5333, -86.8500
+Guanaja, 16.4500, -85.9000
+Guanpata, 15.0167, -85.0333
+Guarizama, 14.9167, -86.3333
+Guayape, 14.7500, -86.8667
+Güinope, 13.8500, -86.9167
+Intibucá, 14.2667, -88.1667
+Iriona, 15.9500, -85.1833
+Jacaleapa, 14.0000, -86.6667
+Jesús de Otoro, 14.4333, -87.9833
+Jocón, 15.2833, -86.9667
+Juticalpa, 14.7000, -86.2500
+Jutiquile, 14.7500, -86.1333
+La Ceiba, 15.7833, -86.8333
+La Esperanza, 14.3333, -88.1667
+La Libertad, 14.7167, -87.6000
+La Lima, 15.4000, -87.9333
+La Masica, 15.6167, -87.1167
+La Paz, 14.2667, -87.6667
+Langue, 13.6167, -87.6500
+Las Vegas, 14.8167, -88.1000
+Lima Nueva, 15.3833, -87.9333
+Limón, 15.8667, -85.5500
+Macuelizo, 15.3000, -88.5167
+Mangulile, 15.0500, -86.8167
+Marcala, 14.1167, -88.0000
+Mezapa, 15.5500, -87.3833
+Minas de Oro, 14.7667, -87.3333
+Morazán, 15.2833, -87.5667
+Nacaome, 13.5167, -87.5000
+Naranjito, 14.9500, -88.6833
+Nueva Ocotepeque, 14.4000, -89.2167
+Ocotepeque, 14.4000, -89.2167
+Olanchito, 15.5000, -86.5833
+Orica, 14.6833, -86.9333
+Orocuina, 13.4333, -87.1000
+Paya, 15.6167, -85.2833
+Pespire, 13.5833, -87.3667
+Potrerillos, 15.1833, -87.9667
+Progreso, 15.3500, -87.8167
+Puerto Castilla, 16.0167, -86.0167
+Puerto Cortés, 15.8000, -87.9333
+Puerto Delón, 14.3667, -85.8833
+Puerto Lempira, 15.2167, -83.7833
+Roatán, 16.3000, -86.5833
+Sabanagrande, 13.8333, -87.2500
+Salamá, 14.8333, -86.6000
+San Esteban, 15.2833, -85.8667
+San Francisco, 13.6833, -88.1167
+San Francisco de la Paz, 14.9167, -86.2333
+San Ignacio, 14.6333, -87.0333
+San José, 14.9000, -88.7333
+San Juan de Flores, 14.2500, -87.0333
+San Lorenzo, 13.4167, -87.4500
+San Marcos(Santa Barbara), 15.2833, -88.3833
+San Marcos(Ocotepeque), 14.4000, -88.9333
+San Marcos de Colón, 13.4333, -86.8000
+San Nicolás, 15.0000, -88.7500
+San Pedro Sula, 15.4500, -88.0333
+San Sebastián, 14.4000, -88.7000
+Santa Bárbara, 14.8833, -88.2333
+Santa Fé, 15.9167, -86.0833
+Santa Rita, 15.1500, -87.8833
+Santa Rosa de Aguán, 15.9500, -85.7167
+Santa Rosa de Copán, 14.7833, -88.7667
+Siguatepeque, 14.5333, -87.8167
+Sonaguera, 15.6333, -86.3333
+Taulabé, 14.6333, -87.9833
+Tegucigalpa, 14.1000, -87.2167
+Tela, 15.7333, -87.4500
+Tocoa, 15.6833, -86.0500
+Trinidad, 14.9500, -88.7500
+Trujillo, 15.9167, -86.0000
+Utila, 16.1000, -86.9000
+Valencia, 14.7833, -85.3000
+Villa de San Antonio, 14.2667, -87.6000
+Villa de San Francisco, 14.1667, -86.9667
+Villanueva, 15.2833, -88.0000
+Yoro, 15.1500, -87.1167
+Yuscarán, 13.9167, -86.8500
