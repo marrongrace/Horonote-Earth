@@ -1,0 +1,16 @@
+Baillies Bacolet, 12.0333, -61.6833
+Belmont, 12.0333, -61.7500
+Bogles, 12.5000, -61.4500
+Calivigny, 12.0167, -61.7333
+Charlotte Town(Gouyave), 12.1667, -61.7333
+Gouyave > Charlotte Town, 12.1667, -61.7333
+Grand Roy, 12.1333, -61.7500
+Grenville, 12.1167, -61.6167
+Hillsborough, 12.4833, -61.4611
+L'Esterre, 12.4667, -61.4792
+Marquis, 12.1000, -61.6167
+Sauteurs, 12.2333, -61.6333
+St David's, 12.0333, -61.6667
+St George's, 12.0500, -61.7500
+Tivoli, 12.1667, -61.6167
+Victoria, 12.2000, -61.7000
