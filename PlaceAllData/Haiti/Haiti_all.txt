@@ -1,0 +1,25 @@
+Anse d'Hainault, 18.5000, -74.4500
+Anse-à-Veau, 18.5167, -73.3500
+Aquin, 18.2833, -73.4000
+Aux Cayes > Les Cayes, 18.2000, -73.7500
+Cap Haïtien, 19.7500, -72.2000
+Cayes > Les Cayes, 18.2000, -73.7500
+Coteaux, 18.2000, -74.0333
+Dérac, 19.6500, -71.8167
+Gonaïves, 19.4500, -72.6833
+Hinche, 19.1500, -72.0167
+Jacmel, 18.2333, -72.5333
+Jérémie, 18.6500, -74.1167
+Le Cap > Cap Haïtien, 19.7500, -72.2000
+Le Limbe, 19.7333, -72.3667
+Le Mole St Nicholas, 19.8167, -73.3833
+Les Cayes, 18.2000, -73.7500
+Los Coteaux > Coteaux, 18.2000, -74.0333
+Léogâne, 18.5167, -72.6333
+Petit Goâve, 18.4333, -72.8667
+Port de Paix, 19.9500, -72.8333
+Port-au-Prince, 18.5333, -72.3333
+Pétionville, 18.5167, -72.2833
+St Marc, 19.1167, -72.7000
+Trou du Nord, 19.6333, -72.0167
+Verrettes, 19.0500, -72.4667
