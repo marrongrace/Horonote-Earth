@@ -1,0 +1,266 @@
+Nabburg, 49.4667, 12.1833
+Nachrodt-Wiblingwerde, 51.3167, 7.6167
+Nachterstedt, 51.8167, 11.3333
+Nagold, 48.5500, 8.7167
+Nahmer, 51.3333, 7.5833
+Naila, 50.3167, 11.7000
+Nandlstadt, 48.5333, 11.8000
+Nassau(Sachsen), 50.7667, 13.5333
+Nassau(Rheinland-Pfalz), 50.3167, 7.7833
+Nassenfels, 48.8000, 11.2667
+Nassenheide, 52.8167, 13.2000
+Nastätten, 50.2000, 7.8500
+Natorp, 51.5000, 7.6333
+Natternberg, 48.8333, 12.9167
+Nattwerder, 52.4333, 12.9333
+Natzungen, 51.6000, 9.2333
+Nauen, 52.6000, 12.8667
+Naumburg(Sachsen-Anhalt), 51.1500, 11.8000
+Naumburg(Hessen), 51.2500, 9.1667
+Naundorf, 50.9333, 13.4167
+Naunhof, 51.2667, 12.5833
+Nauroth, 50.7000, 7.8667
+Nebra, 51.2833, 11.5667
+Neckarailfingen, 48.6000, 9.2667
+Neckarbischofsheim, 49.2833, 8.9500
+Neckarelz, 49.3333, 9.1000
+Neckargemünd, 49.3833, 8.7833
+Neckarsteinach, 49.4167, 8.8833
+Neckarsulm, 49.2000, 9.2167
+Neckartenzlingen, 48.5833, 9.2333
+Nedlitz, 52.0667, 12.2333
+Neermoor, 53.3000, 7.4333
+Neersen, 51.2500, 6.4833
+Neetze, 53.2500, 10.6500
+Negast, 54.2500, 13.0167
+Negenborn, 51.8833, 9.5667
+Neheim-Hüsten, 51.4500, 7.9500
+Neimen, 51.4833, 7.8000
+Neindorf, 52.3333, 10.8333
+Neinstedt, 51.7500, 11.0833
+Nellingen, 48.5500, 9.7833
+Nellingen, 48.7333, 9.3000
+Nenndorf, 53.3833, 9.8833
+Neppermin, 53.9333, 14.0333
+Nerchau, 51.2667, 12.7833
+Nerenstetten, 48.5167, 10.1000
+Neresheim, 48.7500, 10.2500
+Nersingen, 48.4167, 10.1167
+Nesselwang, 47.6167, 10.5000
+Nessmersiel, 53.6667, 7.3500
+Netra, 51.1000, 10.0833
+Nette, 52.0333, 10.0833
+Nettelstedt, 52.3000, 8.6833
+Nettetal, 51.3000, 6.2667
+Netzschkau, 50.6000, 12.2333
+Neu Büddenstedt, 52.1667, 10.5167
+Neu Fahrland, 52.4333, 13.0500
+Neu Hartmannsdorf, 52.3667, 13.8500
+Neu Isenburg, 50.0500, 8.6833
+Neu Kaliss, 53.1667, 11.2833
+Neu Lübbenau, 52.0667, 13.8833
+Neu Töplitz, 52.4500, 12.9000
+Neu Wulmstorf, 53.4667, 9.8000
+Neu Zittau, 52.3833, 13.7333
+Neu-Ulm, 48.3833, 10.0167
+Neualbenreuth, 49.9833, 12.4500
+Neuastenberg, 51.1667, 8.4833
+Neubeckum, 51.8000, 8.0167
+Neubrandenburg, 53.5500, 13.2500
+Neubukow, 54.0333, 11.6667
+Neuburg am Inn, 48.5000, 13.4500
+Neuburg an der Donau, 48.7333, 11.1833
+Neudenau, 49.2833, 9.2667
+Neudietendorf, 50.9167, 10.9167
+Neudorf(Sachsen), 50.4833, 12.9667
+Neudorf(Baden-Württemberg), 49.1667, 8.4833
+Neuemühle, 52.3000, 13.6500
+Neuenburg(Niedersachsen), 53.3833, 7.9500
+Neuenburg(Breisgau), 47.8167, 7.5833
+Neuenbürg(Enz), 48.8333, 8.5833
+Neuendettelsau, 49.2833, 10.7833
+Neuendorf, 54.5167, 13.0833
+Neuenhagen bei Berlin, 52.5333, 13.6833
+Neuenhaus, 52.5000, 6.9833
+Neuenhoven, 51.1333, 6.5167
+Neuenkirchen(Osnabrück), 52.5000, 8.0667
+Neuenkirchen(Mecklenburg-Vorpommern), 54.5333, 13.3333
+Neuenkirchen(Rietberg), 51.8333, 8.4333
+Neuenkirchen(Cuxhaven), 53.7667, 8.8833
+Neuenkirchen(Steinfurt), 52.2333, 7.3667
+Neuenkirchen(Heidekreis), 53.0333, 9.7000
+Neuenkirchen(Schwanewede), 53.2333, 8.5167
+Neuenrade, 51.2833, 7.7833
+Neuensalz, 50.5000, 12.2167
+Neuenstadt am Kocher, 49.2333, 9.3333
+Neuenwalde, 53.6667, 8.6667
+Neuerburg, 50.0000, 6.2833
+Neufahrn bei Freising, 48.3167, 11.6667
+Neufahrn in Niederbayern, 48.7333, 12.1833
+Neuffen, 48.5500, 9.3667
+Neugersdorf, 50.9833, 14.6000
+Neuglobsow, 53.1500, 13.0333
+Neuharlingersiel, 53.7000, 7.7000
+Neuhaus(Niedersachsen), 53.2833, 10.9167
+Neuhaus(Baden-Württemberg), 47.8000, 8.5667
+Neuhaus(Thuringen), 50.5000, 11.1333
+Neuhaus an der Oste, 53.8000, 9.0333
+Neuhaus im Solling, 51.7500, 9.5167
+Neuhaus-Schierschnitz, 50.3167, 11.2333
+Neuhausen(Sachsen), 50.6833, 13.4667
+Neuhausen(Baden-Württemberg), 47.9667, 8.9167
+Neuhausen auf den Fildern, 48.6833, 9.2667
+Neuhof, 50.4500, 9.6667
+Neuhof an der Zenn, 49.4500, 10.6333
+Neukalen, 53.8167, 12.7833
+Neukieritzsch, 51.1667, 12.4167
+Neukirch(Lausitz), 51.0833, 14.3333
+Neukirch(Baden-Württemberg), 47.6500, 9.6833
+Neukirch(Königsbrück), 51.2833, 13.9667
+Neukirchen(Saarland), 49.4833, 6.8333
+Neukirchen(Nordrhein-Westfalen), 51.1167, 6.6833
+Neukirchen(Bayern), 49.0833, 11.7500
+Neukirchen(Malente), 54.3167, 11.0167
+Neukirchen(Borna), 51.0833, 12.5333
+Neukirchen(Crimmitschau), 50.7833, 12.3667
+Neukirchen(Erzgebirge), 50.7667, 12.8667
+Neukirchen(Nordfriesland), 54.8667, 8.7333
+Neukirchen(Hessen), 50.7667, 9.6833
+Neukirchen bei Sulzbach-Rosenberg, 49.5333, 11.6333
+Neukirchen-Vluyn, 51.4500, 6.5500
+Neukloster, 53.8667, 11.6833
+Neulangerwisch, 52.3167, 13.0667
+Neulienken, 53.4500, 14.3667
+Neulussheim, 49.2833, 8.5167
+Neumagen, 49.8500, 6.8833
+Neumark, 50.6500, 12.3500
+Neumarkt in der Oberpfalz, 49.2667, 11.4667
+Neumarkt-St Veit, 48.3667, 12.5000
+Neumühle, 49.4667, 11.8333
+Neumünster, 54.0667, 9.9833
+Neunburg vorm Wald, 49.3500, 12.4000
+Neundorf, 51.8167, 11.5667
+Neunkirchen, 50.5333, 8.1000
+Neunkirchen am Brand, 49.6167, 11.1333
+Neunkirchen am Potzberg, 49.5000, 7.4833
+Neunkirchen/Saar, 49.3333, 7.1667
+Neupetershain, 51.6000, 14.1500
+Neuravensburg, 47.6333, 9.7667
+Neuruppin, 52.9167, 12.8000
+Neusalza-Spremberg, 51.0333, 14.5333
+Neuseddin, 52.3000, 12.9833
+Neusorg, 49.9333, 11.9667
+Neuss, 51.2000, 6.6833
+Neustadt(Thuringen), 50.7333, 11.7333
+Neustadt(Brandenburg), 52.8667, 12.4167
+Neustadt(Sachsen), 51.0167, 14.2167
+Neustadt(Hessen), 50.8500, 9.1167
+Neustadt am Rübenberge, 52.5000, 9.4667
+Neustadt an der Aisch, 49.5667, 10.6167
+Neustadt an der Donau, 48.8000, 11.7667
+Neustadt an der Waldnaab, 49.7333, 12.1833
+Neustadt an der Weinstrasse, 49.3500, 8.1333
+Neustadt bei Coburg, 50.3167, 11.1167
+Neustadt in Holstein, 54.1000, 10.8000
+Neustadt-Glewe, 53.4167, 11.6000
+Neustrelitz, 53.3500, 13.0667
+Neutraubling, 48.9833, 12.2000
+Neutrebbin, 52.6667, 14.2167
+Neuwied, 50.4167, 7.4500
+Neuwirtshaus, 50.1833, 9.8333
+Neuzelle, 52.0833, 14.6333
+Neuötting, 48.2333, 12.7000
+Neviges, 51.3167, 7.0833
+New Uosenow, 53.7833, 13.7667
+Neye, 51.1167, 7.3667
+Nidda, 50.4000, 9.0000
+Nideggen, 50.7833, 6.4833
+Niebüll, 54.8000, 8.8333
+Nieder Ohmen, 50.6333, 9.0333
+Nieder-Mörlen, 50.3833, 8.7167
+Nieder-Neuendorf, 52.6167, 13.2000
+Nieder-Olm, 49.9167, 8.1833
+Niederaschau, 47.7833, 12.3167
+Niederau, 51.1667, 13.5333
+Niederaula, 50.8000, 9.6000
+Niederbobritzsch, 50.9000, 13.4333
+Niederbonsfeld, 51.3833, 7.1333
+Niederdonk, 51.2333, 6.6833
+Niederelfringhausen, 51.3500, 7.1667
+Niederfinow, 52.8333, 13.9167
+Niederfrohna, 50.8833, 12.7167
+Niederhaverbeck, 53.1500, 9.9000
+Niederheimbach, 50.0333, 7.8000
+Niederhohne, 51.2000, 10.0000
+Niederkrüchten, 51.2000, 6.2167
+Niederlahnstein, 50.3167, 7.6000
+Niederlehme, 52.3167, 13.6500
+Niedermarsberg, 51.4667, 8.8333
+Niedermarschacht, 53.4167, 10.3500
+Niederndodeleben, 52.1333, 11.5000
+Niedernhall, 49.2833, 9.6000
+Niedernwöhren, 52.3500, 9.1333
+Niederoderwitz, 50.9500, 14.7333
+Niederorschel, 51.3667, 10.4167
+Niedersachswerfen, 51.5500, 10.7667
+Niederselters, 50.3333, 8.2333
+Niedersonthofen, 47.6333, 10.2167
+Niederstetten, 49.4000, 9.9167
+Niederstotzingen, 48.5333, 10.2333
+Niederwalgern, 50.7333, 8.6833
+Niederwiesa, 50.8500, 13.0167
+Niederwöllstadt, 50.2667, 8.7667
+Niederwürschnitz, 50.7167, 12.7500
+Nieheim, 51.8000, 9.1000
+Niemegk, 52.0667, 12.6833
+Nienberge, 52.0000, 7.5667
+Nienborg-Wigbold, 52.1333, 7.1000
+Nienburg(Sachsen-Anhalt), 51.8333, 11.7667
+Nienburg(Niedersachsen), 52.6333, 9.2167
+Niendorf, 53.9833, 10.8333
+Nienhagen(Niedersachsen), 52.5500, 10.0833
+Nienhagen(Sachsen-Anhalt), 51.9500, 11.1500
+Nierst, 51.3167, 6.7167
+Nierstein, 49.8667, 8.3333
+Niesky, 51.2833, 14.8167
+Nievenheim, 51.1167, 6.7667
+Nittenau, 49.2000, 12.2667
+Nittendorf, 49.0333, 11.9667
+Nobitz, 50.9667, 12.4833
+Nochten, 51.4333, 14.6000
+Noer, 54.4500, 10.0000
+Nonnenhorn, 47.5667, 9.6000
+Nonnevitz, 54.6500, 13.2833
+Nonnweiler, 49.6000, 6.9667
+Nordbögge, 51.6167, 7.7333
+Norddeich, 53.6167, 7.1500
+Norden, 53.6000, 7.2000
+Nordendorf, 48.6000, 10.8333
+Nordenham, 53.4833, 8.4667
+Norderney, 53.7000, 7.1333
+Norderstapel, 54.3500, 9.2333
+Norderstedt, 53.7167, 10.0000
+Nordgermersleben, 52.2167, 11.3333
+Nordhalben, 50.3667, 11.5000
+Nordhausen, 51.5000, 10.7833
+Nordheim von d Rhön, 50.4667, 10.1833
+Nordhorn, 52.4500, 7.0833
+Nordkirchen, 51.7333, 7.5167
+Nordstemmen, 52.1500, 9.7667
+Nordwalde, 52.0833, 7.4667
+Noremberg > Nürnberg, 49.4500, 11.0667
+Norf, 51.1500, 6.7167
+Northeim, 51.7000, 10.0000
+Nortorf, 53.9167, 9.2667
+Nossen, 51.0500, 13.2833
+Nottleben, 50.9667, 10.8333
+Nottuln, 51.9167, 7.3667
+Nudow, 52.3333, 13.1667
+Nuremberg > Nürnberg, 49.4500, 11.0667
+Nusplingen, 48.1333, 8.8833
+Nördlingen, 48.8500, 10.5000
+Nörten-Hardenberg, 51.6333, 9.9333
+Nünchritz, 51.3000, 13.3833
+Nürburg, 50.3500, 6.9500
+Nürnberg, 49.4500, 11.0667
+Nürtingen, 48.6333, 9.3333
