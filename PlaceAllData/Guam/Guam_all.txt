@@ -1,0 +1,21 @@
+Agana, 13.4667, 144.7500
+Agana Heights, 13.4667, 144.7500
+Agat, 13.4000, 144.6500
+Apra Harbor, 13.4500, 144.6333
+Asan, 13.4667, 144.7167
+Barrigada, 13.4667, 144.8000
+Dededo, 13.5167, 144.8167
+Fafalog, 13.6167, 144.8500
+Guam Memorial Hospital, 13.5000, 144.7667
+Inarajan, 13.2667, 144.7500
+Malolos, 13.3000, 144.7667
+Merizo, 13.2667, 144.6667
+Piti, 13.4667, 144.6833
+Sinajana, 13.4667, 144.7500
+Talofofo, 13.3500, 144.7500
+Tamuning, 13.4833, 144.7667
+Timoneng, 13.4833, 144.7667
+Umatac, 13.3000, 144.6500
+United States Hospital, 13.4667, 144.7333
+United States Naval Hospital Annex, 13.4667, 144.7000
+Yona, 13.4167, 144.7833
