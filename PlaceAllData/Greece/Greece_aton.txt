@@ -1,0 +1,288 @@
+Aegina(Aíyina)Island, 37.7667, 23.4333
+Afándou, 36.2833, 28.1667
+Agrínion, 38.6167, 21.4000
+Aitolikón, 38.4500, 21.3667
+Aiyáleo, 37.9833, 23.6833
+Aiyínion, 40.5000, 22.5500
+Aiándion, 37.9167, 23.4667
+Akharnaí, 38.0833, 23.7333
+Alexandroúpolis, 40.8333, 25.8667
+Alistráti, 41.0667, 23.9500
+Alivérion, 38.4000, 24.0333
+Almirós, 39.1833, 22.7667
+Alónnisos, 39.1333, 23.8333
+Amaliás, 37.8167, 21.3833
+Amaroúsion, 38.0500, 23.8167
+Ambeláki, 37.9500, 23.5333
+Amfilokhía, 38.8500, 21.1667
+Amfíklia, 38.6333, 22.5833
+Amorgós, 36.8333, 25.9000
+Amorgós Island, 36.8333, 25.9833
+Andikíthira Island, 35.8667, 23.3000
+Andimákhia, 36.8000, 27.1167
+Anáfi Island, 36.3500, 25.8333
+Apolakkiá, 36.1000, 27.8333
+Argostólion, 38.1667, 20.5000
+Aridhaía, 40.9833, 22.0500
+Arkansa, 35.4667, 27.1333
+Arkhángélos, 36.2000, 28.1333
+Armenistís, 37.6000, 26.1333
+Arnaía, 40.4833, 23.5833
+Artemón, 36.9833, 24.7167
+Aryiroúpolis, 37.9000, 23.7500
+Arákhova, 38.4833, 22.5833
+Arápis, 37.9833, 23.5333
+Asprópirgos, 38.0667, 23.5833
+Astakós, 38.5333, 21.0833
+Astipálaia, 36.5000, 26.5000
+Astipálaia Island, 36.5833, 26.4167
+Atalándi, 38.6500, 23.0000
+Atenas > Athínai, 37.9667, 23.7167
+Athen > Athínai, 37.9667, 23.7167
+Athens > Athínai, 37.9667, 23.7167
+Athénes > Athínai, 37.9667, 23.7167
+Athínai(Athens), 37.9667, 23.7167
+Ayiássos, 39.0833, 26.3833
+Ayía Marína, 37.1500, 26.8667
+Ayía Paraskeví, 39.2500, 26.2667
+Ayía Varvára, 37.9833, 23.6500
+Aígina, 37.7333, 23.4500
+Aígion, 38.2500, 22.0833
+Aíyina, 37.7333, 23.4500
+Aíyina(Aegina)Island, 37.7667, 23.4333
+Aíyion, 38.2500, 22.0833
+Candia > Iáklion, 35.3333, 25.1500
+Canea > Khaniá, 35.5167, 24.0333
+Cefalonia(Kefallinía)Island, 38.2500, 20.5833
+Ceos(Kea)Island, 37.5667, 24.3667
+Chalcis > Khalkís, 38.4667, 23.6000
+Chios(Khíos)Island, 38.3667, 26.0000
+Chíos > Khíos, 38.3667, 26.1333
+Corfu(Kérkira)Island, 39.6667, 19.7000
+Corfu > Kérkira, 39.6000, 19.9333
+Corinth > Kórinthos, 37.9333, 22.9333
+Crete(Kríti)Island, 35.4833, 24.7000
+Cyclades(Kikládhes)Island, 37.5000, 25.0000
+Cythera(Kíthira)Island, 36.3333, 22.9667
+Delos(Dhílos)Island, 37.4333, 25.2667
+Dheskáti, 39.9167, 21.8167
+Dhiavolítsion, 37.3000, 21.9667
+Dhidhimótikhon, 41.3500, 26.5000
+Dhimitsána, 37.6167, 22.0500
+Dhiónisos, 38.1000, 23.8833
+Dhodhekánisos(Dodecanese)Islands, 36.5000, 27.0000
+Dhoxáton, 41.0833, 24.2333
+Dhrapetsóna, 37.9500, 23.6167
+Dháfni, 37.8000, 22.0167
+Dhílos(Delos)Island, 37.4333, 25.2667
+Drosiá, 38.1167, 23.8667
+Dráma, 41.1500, 24.1333
+Ekhínos, 41.2833, 24.9833
+Ekáli, 38.1167, 23.8333
+Elassón, 39.9000, 22.1833
+Elaía, 39.5833, 20.3333
+Eleusis > Elevsís, 38.0333, 23.5333
+Elevsís, 38.0333, 23.5333
+Elevtheroúpolis, 40.9167, 24.2667
+Ellinikón, 37.8833, 23.7333
+Epanomí, 40.4333, 22.9333
+Eressós, 39.3000, 25.8500
+Erithraí, 38.2167, 23.3167
+Ermoúpolis, 37.4333, 24.9333
+Eráklion, 35.3333, 25.1500
+Erétria, 38.4000, 23.8000
+Euboea(Évvoia)Island, 38.5667, 23.8333
+Evstrátios Island, 39.5000, 25.0000
+Filiatrá, 37.1667, 21.5833
+Fiskárdhon, 38.4500, 20.5833
+Flórina, 40.7833, 21.4000
+Fársala, 39.3000, 22.3833
+Férrai, 40.9000, 26.1667
+Galaxídhion, 38.3667, 22.3833
+Galátsion, 38.0167, 23.7500
+Gargaliánoi, 37.0667, 21.6500
+Gastoúni, 37.8500, 21.2667
+Glifádha, 37.8667, 23.7500
+Glífa, 38.9500, 22.9667
+Gouménissa, 40.9500, 22.4500
+Grevená, 40.0833, 21.4167
+Gávrion, 37.8667, 24.7667
+Hydra(Ídhra)Island, 37.3333, 23.5333
+Ierisós, 40.4000, 23.8667
+Ierápetra, 35.0000, 25.7500
+Igoumenítsa, 39.5000, 20.2667
+Ikaría Island, 37.7667, 26.3333
+Ilioúpolis, 37.9333, 23.7500
+Imittós, 37.9500, 23.7500
+Ionian(Iónioi Nísoi)Islands, 38.5000, 20.5000
+Ioánnina, 39.6667, 20.8333
+Iráklion(Iraklion), 35.3333, 25.1500
+Iráklion(Attiki), 38.0667, 23.7667
+Istiaía, 38.9500, 23.1500
+Itháki, 38.3833, 20.7000
+Itháki(Ithaca)Island, 38.4000, 20.7000
+Itéa, 38.4333, 22.4000
+Janina > Ioánnina, 39.6667, 20.8333
+Kaisarianí, 37.9667, 23.7833
+Kalabáka, 39.7000, 21.7167
+Kalamariá, 40.5833, 22.9667
+Kalampáka, 39.7000, 21.6500
+Kalamákion, 37.9167, 23.7167
+Kalavárdha, 36.3333, 27.9500
+Kaleme, 37.0667, 22.1167
+Kallithéa, 37.9500, 23.7000
+Kalpáki, 39.9167, 20.3333
+Kalámai, 37.0667, 22.1167
+Kalávrita, 38.0167, 22.1000
+Karavás, 36.3500, 22.9500
+Kardhámaina, 36.7833, 27.1500
+Kardhámila, 38.5333, 26.0833
+Kardhítsa, 39.3500, 21.9167
+Kariaí, 40.2667, 24.2500
+Karlovásion, 37.8000, 26.7333
+Karpenísion, 38.9167, 21.6667
+Karyaí, 40.2667, 24.2500
+Kastanéai, 41.6333, 26.4667
+Kastellorizo, 36.1167, 29.5833
+Kastoríá, 40.5167, 21.2500
+Kateríni, 40.2667, 22.5000
+Katoúna, 38.7833, 21.1167
+Kattavíá, 35.9500, 27.7667
+Kavála, 40.9333, 24.4167
+Kefallinía(Cefalonia)Island, 38.2500, 20.5833
+Keratsínion, 37.9667, 23.6167
+Keratéa, 37.8000, 23.9833
+Keríon, 37.6667, 20.8000
+Khalkís, 38.4667, 23.6000
+Khalándrion, 38.0167, 23.8000
+Khaniá, 35.5167, 24.0333
+Khaïdhárion, 37.5500, 22.8833
+Kholargós, 38.0000, 23.8000
+Khrisoúpolis, 40.9667, 24.7000
+Khryson, 38.4667, 22.4500
+Khíos, 38.3667, 26.1333
+Khíos(Chios)Island, 38.3667, 26.0000
+Khóra, 37.0667, 21.7167
+Khóra Sfakíon, 35.2000, 24.1500
+Kifisiá, 38.0667, 23.8000
+Kikládhes(Cyclades)Islands, 37.5000, 25.0000
+Kilkís, 41.0000, 22.8833
+Killíni, 37.9167, 21.1500
+Kiparissía, 37.2333, 21.6667
+Komotiní, 41.1333, 25.4167
+Koos, 36.8833, 27.3000
+Koridhallós, 37.9833, 23.6500
+Koropíon, 37.9000, 23.8833
+Koróni, 36.8000, 21.9333
+Kos, 36.8833, 27.3000
+Kos Island, 36.8333, 27.1667
+Kozáni, 40.3000, 21.7833
+Kranídhion, 37.3667, 23.1667
+Kría Vrísi, 40.6833, 22.3000
+Kríti(Crete)Island, 35.4833, 24.7000
+Kálimnos, 36.9500, 26.9833
+Káristos, 38.0000, 24.4000
+Kárpathos, 35.5000, 27.2333
+Kárpathos Island, 35.6667, 27.1667
+Kásos Island, 35.3667, 26.9333
+Kástron, 39.8667, 25.0667
+Káto Akhaïa, 38.1500, 21.5333
+Kéa, 37.6333, 24.3500
+Kéa(Ceos)Island, 37.5667, 24.3667
+Kédhron, 39.2167, 22.0500
+Kéfalos, 36.7500, 27.0000
+Kérkira(Corfu), 39.6000, 19.9333
+Kérkira(Corfu)Island, 39.6000, 19.9333
+Kími, 38.6167, 24.1000
+Kíssamos, 35.5000, 23.6333
+Kíthira, 36.1500, 23.0000
+Kíthira(Cythera)Island, 36.3333, 22.9667
+Kíthnos, 37.4333, 24.4333
+Kíthnos Island, 37.4167, 24.4667
+Kónitsa, 40.0333, 20.7500
+Kórinthos(Corinth), 37.9333, 22.9333
+Lamía, 38.9000, 22.4333
+Langadhás, 40.7500, 23.0667
+Langádhia, 37.6833, 22.0333
+Lekhainá, 37.9333, 21.2833
+Lemnos(Limnos)Island, 39.9000, 25.3500
+Leondárion, 37.9833, 23.8500
+Leonídhion, 37.1667, 22.8667
+Lapanto > Návpaktos, 38.3833, 21.8333
+Lesbos(Lésvos)Island, 39.1667, 26.3333
+Levkás, 38.8333, 20.6833
+Levkás(Leucas)Island, 38.6500, 20.4500
+Levkímmi, 39.4167, 20.0667
+Levádhia, 38.4167, 22.9000
+Liapádhes, 39.6667, 19.7333
+Linariá, 37.4000, 24.9500
+Litókhoron, 40.1000, 22.5000
+Livanátai, 38.7000, 23.0500
+Lixoúrion, 38.2000, 20.4333
+Loutrá Aidhipsoú, 38.8500, 23.0333
+Loutrópirgos, 38.0333, 23.4667
+Ládhi, 41.4500, 26.2833
+Lárisa, 39.6333, 22.4167
+Lávara, 41.2667, 26.3667
+Lávrion, 37.7333, 24.0667
+Líndhos, 36.1000, 28.0667
+Magoúla, 38.0667, 23.5333
+Marathón, 38.1667, 23.9667
+Markópoulon, 37.9000, 23.9000
+Megalópolis, 37.4000, 22.1333
+Megálon Khoríon, 36.4500, 27.3500
+Meligalás, 37.2167, 21.9833
+Melos(Mílos)Island, 36.6833, 24.2500
+Melíssia, 38.0500, 23.8333
+Melívoia, 39.7500, 22.8000
+Mesolóngion, 38.3500, 21.2833
+Messíni, 37.0667, 22.0000
+Mestá, 38.2500, 25.9167
+Methóni, 36.8333, 21.7167
+Miléai, 39.3333, 23.1500
+Mesolóngion, 38.3500, 21.2833
+Messíni, 37.0667, 22.0000
+Mestá, 38.2500, 25.9167
+Methóni, 36.8333, 21.7167
+Miléai, 39.3333, 23.1500
+Missolonghi > Mesolóngion, 38.3500, 21.2833
+Mitilíni, 39.1000, 26.5333
+Moláoi, 36.8000, 22.8667
+Monemvasía, 36.6833, 23.0500
+Moskháton, 37.9500, 23.6833
+Mouzákion, 39.4333, 21.6667
+Moúdhros, 39.8667, 25.2667
+Mytilene > Mitilíni, 39.1000, 26.5333
+Mándra, 38.0667, 23.5000
+Mégara, 38.0167, 23.3500
+Métsovon, 39.7667, 21.1833
+Míkonos, 37.4333, 25.3333
+Míkonos Island, 37.4833, 25.4167
+Mílos, 36.7500, 24.4500
+Mírina, 39.8667, 25.0667
+Míthimna, 39.3667, 26.1667
+Navarino > Pílos, 36.9167, 21.7167
+Nerákion, 38.0167, 23.4500
+Neápolis(Lasithi), 35.2500, 25.6167
+Neápolis(Lakonia), 36.5000, 23.0667
+Nigríta, 40.9167, 23.5000
+Northern Sporadhes Islands, 39.3333, 24.0000
+Náfpaktos, 38.3833, 21.8333
+Náousa, 40.6167, 22.0833
+Návpaktos, 38.3833, 21.8333
+Návplion, 37.5667, 22.8000
+Náxos, 37.1000, 25.3833
+Náxos Island, 37.0333, 25.5833
+Néa Erithraía, 38.0833, 23.8167
+Néa Filadhélfia, 38.0333, 23.7333
+Néa Ionía, 38.0333, 23.7500
+Néa Khalkidhón, 38.0333, 23.7167
+Néa Liósia, 38.0333, 23.7000
+Néa Pendéli, 38.0667, 23.8667
+Néa Psará, 38.3833, 23.8000
+Néa Péramos, 38.0000, 23.4333
+Néa Smírni, 37.9500, 23.7167
+Néon Fáliron, 37.9500, 23.6667
+Néon Karlovásion, 37.8000, 26.7333
+Néon Psikhikón, 38.0000, 23.7833
+Níkaia, 37.9667, 23.6500
