@@ -1,0 +1,215 @@
+Jacks Creek Crossing, 42.4503, -116.1464
+Jackson, 42.6339, -113.5697
+Jackson Landing Campground, 44.4461, -111.4364
+Jacques, 46.3717, -116.7264
+James Place, 42.2769, -115.7792
+Jamestown, 43.3833, -112.1333
+Jaype, 46.5303, -115.8289
+Jenkins Crossing, 45.2850, -116.0442
+Jenkins Will, 44.0767, -111.9597
+Jenness, 43.8322, -116.6242
+Jensen, 43.7428, -111.7464
+Jerome, 42.7242, -114.5178
+Jim Moore Place, 45.4864, -115.3383
+Joel, 46.7106, -116.8769
+Johnson Grade, 42.8267, -114.8728
+Johnsons Mill, 46.4272, -115.9172
+Jolley, 43.8422, -111.7772
+Jonathan, 44.2675, -117.0525
+Jones Crossing, 44.0869, -112.2186
+Joseph, 45.7972, -116.4769
+Josephson, 43.7489, -116.6375
+Judge Town, 46.4756, -115.7961
+Judkins, 43.9219, -111.1489
+Juliaetta, 46.5789, -116.7050
+Juniper, 42.1533, -112.9692
+Kameron, 46.7725, -116.2531
+Kamiah, 46.2272, -116.0283
+Karcher Junction, 43.5861, -116.6019
+Katies Place, 42.0908, -115.9469
+Katka, 48.6897, -116.1344
+Keeler, 46.9572, -116.3069
+Keenan City, 43.1408, -111.3394
+Kellogg, 47.5383, -116.1183
+Kendrick, 46.6142, -116.6456
+Kenyon, 42.4156, -113.8694
+Keogh, 42.2233, -113.3328
+Ketchum, 43.6808, -114.3628
+Keuterville, 46.0342, -116.4406
+Kidder, 46.1500, -115.9833
+Kilgore, 44.4022, -111.8931
+Kimama, 42.8381, -113.7947
+Kimball, 43.2736, -112.2186
+Kimberly, 42.5339, -114.3639
+King Hill, 43.0042, -115.2031
+Kings Corner, 43.5181, -116.5336
+Kingston, 47.5492, -116.2697
+Kinport, 42.7544, -111.9408
+Kippen, 46.3111, -116.5486
+Knowlton Heights, 43.5453, -116.7719
+Knull, 42.5264, -114.5544
+Kooskia, 46.1450, -115.9769
+Kootenai, 48.3103, -116.5125
+Kuna, 43.4919, -116.4192
+Kyle, 47.3281, -115.7567
+Labelle, 43.7033, -111.8600
+Laclede, 48.1703, -116.7550
+Lago, 42.4514, -111.6958
+Lake, 44.6669, -111.3928
+Lake Creek, 47.4500, -117.1333
+Lake Fork, 44.8328, -116.0839
+Lakeview, 47.9703, -116.4456
+Lamb Creek, 48.5164, -116.9264
+Lamont, 43.9697, -111.2153
+Lanark, 42.2817, -111.4278
+Landmark, 44.6564, -115.5442
+Landore, 45.1233, -116.6275
+Lane, 47.5500, -116.3333
+Lane Cemetery, 47.5075, -116.5369
+Lapwai, 46.4050, -116.8039
+Lardo, 44.9167, -116.1333
+Larson, 47.4708, -115.7456
+Last Chance, 44.3667, -111.4014
+Last Chance Resort, 44.5167, -111.3333
+Latter Day Saint Hospital, 43.4986, -112.0403
+Lava Hot Springs, 42.6194, -112.0103
+Lawman Ford, 45.1100, -115.6089
+Leadore, 44.6803, -113.3572
+Leadville, 44.7058, -113.3072
+Leesburg, 45.2239, -114.1131
+Leland, 46.5781, -116.6058
+Lemhi, 44.8517, -113.6189
+Lemhi Range, 44.5189, -113.4897
+Lenore, 46.5086, -116.5500
+Leon, 46.5319, -117.0392
+Leone, 43.4078, -116.0928
+Leonia, 48.6167, -116.0486
+Leslie, 43.8658, -113.4667
+Letha, 43.8944, -116.6467
+Lewiston, 46.4167, -117.0167
+Lewiston Orchards, 46.3806, -116.9744
+Lewisville, 43.6958, -112.0097
+Liberty(Bear Lake), 42.3172, -111.4514
+Liberty(Bingham), 43.1689, -112.5544
+Lidy Hot Springs, 44.1667, -112.2333
+Lifton, 42.1233, -111.3125
+Lincoln, 43.5131, -111.9636
+Linfor, 47.6083, -116.2347
+Linrose, 42.0333, -111.9833
+Little Rock, 43.9169, -116.6928
+Little Sugarloaf, 43.0961, -116.7036
+Lone Pine, 44.1861, -112.9342
+Lone Rock, 42.7675, -112.8203
+Lone Star, 42.9333, -114.4000
+Lookout, 46.5167, -116.5500
+Lorenzo, 43.7283, -111.8706
+Lost River, 43.6892, -113.3706
+Lost River Hospital, 43.6394, -113.2944
+Lotus, 47.2300, -116.6164
+Lowell, 46.1442, -115.5947
+Lower Battle Creek Crossing, 42.3828, -116.3650
+Lower Pittsburg Landing, 45.6325, -116.4742
+Lower Stanley, 44.2269, -114.9278
+Lowman, 44.0836, -115.6197
+Lucile, 45.5353, -116.3094
+Lund, 42.6428, -111.8878
+Lyman, 43.7392, -111.8169
+Mace, 47.5183, -115.8211
+Mackay, 43.9147, -113.6125
+Mackay Bar, 45.3761, -115.5053
+Mackey Bar, 44.9167, -116.1000
+Macks Inn, 44.4992, -111.3369
+Macon, 43.3267, -114.5442
+Maddens, 43.6619, -116.5969
+Magic, 43.2553, -114.3858
+Magic City, 43.2906, -114.3647
+Magic Resort, 43.2825, -114.3889
+Malad City, 42.1917, -112.2500
+Malta, 42.3064, -113.3683
+Manson, 42.5697, -111.4981
+Mapleton, 42.0839, -111.7481
+Marble Creek, 47.2528, -116.0308
+Marion, 42.2867, -113.9103
+Mark, 43.7753, -111.8311
+Marsing, 43.5456, -116.8122
+Martin, 43.5189, -113.5664
+Marysville, 44.0714, -111.4194
+Mashburn, 47.1792, -116.4950
+Masonia, 47.4517, -116.1797
+May, 44.6044, -113.9111
+May Place, 42.2011, -114.8897
+Mayfield, 43.4181, -115.9006
+McArthur, 48.5667, -116.4000
+McCall, 44.9111, -116.0978
+McCammon, 42.6506, -112.1922
+McCarthy, 47.4931, -115.9089
+McCrea Place, 45.3039, -116.4764
+McDonaldville, 43.2600, -112.3742
+McGuire, 47.7125, -116.9903
+McGuires, 47.7333, -117.0000
+McHenry, 42.5956, -114.0514
+McMillan, 42.5433, -114.4206
+Meadow Creek, 48.8206, -116.1583
+Meadows, 44.9611, -116.2428
+Medimont, 47.4761, -116.6033
+Melba, 43.3756, -116.5281
+Melrose, 46.4083, -116.4536
+Menan, 43.7208, -111.9892
+Meridian, 43.6122, -116.3906
+Mesa, 44.6289, -116.4497
+Meteor, 42.1131, -114.6800
+Mexican Place, 45.8128, -116.5056
+Mica, 47.6206, -116.8703
+Michaud, 42.8903, -112.6136
+Midas, 48.2667, -116.5500
+Midasville, 45.5603, -115.4692
+Middleton, 43.7069, -116.6192
+Midnight, 44.9231, -115.3297
+Midvale, 44.4714, -116.7336
+Midway, 43.6256, -116.6314
+Midway, 43.7069, -112.0042
+Miller Creek Settlement, 42.0817, -116.1272
+Milner, 42.5186, -114.0219
+Milo, 43.6108, -111.8831
+Mineral, 44.5653, -117.0767
+Minidoka, 42.7539, -113.4894
+Minidoka Memorial Hospital, 42.6208, -113.6858
+Mink Creek, 42.2283, -111.7150
+Mitchell, 43.3972, -112.1100
+Mohler, 46.2897, -116.3453
+Montana Junction, 42.9000, -112.4500
+Monteview, 43.9719, -112.5356
+Montour, 43.9250, -116.3278
+Montpelier, 42.3222, -111.2969
+Moody, 43.8369, -111.6342
+Moody Creek, 43.7833, -111.4667
+Moore, 43.7358, -113.3656
+Moose City, 46.7869, -115.1075
+Mora, 43.4597, -116.3522
+Moravia, 48.6483, -116.3781
+Moreland, 43.2228, -112.4417
+Morgan, 43.0606, -111.9267
+Morgan Place, 43.1081, -116.2739
+Morrow, 46.1269, -116.5225
+Morton, 48.2014, -116.6914
+Moscow, 46.7325, -116.9992
+Moss, 43.6158, -116.6192
+Mound Valley, 42.3572, -111.7117
+Mount Idaho, 45.9039, -116.0811
+Mountain Home, 43.1331, -115.6903
+Mountain Home Air Force Base, 43.0500, -115.8667
+Mountain View, 43.6167, -116.2500
+Mowry, 47.3094, -116.9950
+Moyie Springs, 48.7264, -116.1875
+Mozart, 47.4111, -116.9358
+Mud Lake, 43.8414, -112.4753
+Mud Springs, 45.8636, -115.5853
+Muldoon, 43.3000, -113.9500
+Mullan, 47.4703, -115.8008
+Murphy, 43.2183, -116.5514
+Murphy Hot Springs, 42.0303, -115.3681
+Murray, 47.6272, -115.8575
+Murtaugh, 42.4925, -114.1614
+Musselshell, 46.3572, -115.7428
+Myers, 42.6089, -113.7539
+Myrtle, 46.4969, -116.7250

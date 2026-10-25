@@ -1,0 +1,301 @@
+Aberdeen, 42.9442, -112.8375
+Aberdeen Junction, 43.2231, -112.4700
+Abstein Place, 44.9708, -115.4858
+Acequia, 42.6681, -113.5961
+Adair, 47.3422, -115.6111
+Addie, 48.9536, -116.1653
+Adelaide, 42.8072, -113.7211
+Agatha, 46.5108, -116.5758
+Ahsahka, 46.5022, -116.3231
+Aiken, 43.2092, -112.4058
+Alameda, 42.9500, -112.4667
+Albion, 42.4128, -113.5772
+Alder Creek, 47.2228, -116.6067
+Alexander, 42.6511, -111.7083
+Algoma, 48.1969, -116.5711
+Allendale, 43.6764, -116.8739
+Allens Spur, 48.7406, -116.3653
+Almo, 42.1003, -113.6328
+Alpha, 44.3911, -116.0069
+Alpine, 44.5667, -116.6667
+Alridge, 43.2111, -111.9756
+Alton, 42.2275, -111.1508
+Amalga, 42.5769, -113.7239
+American Falls, 42.7861, -112.8536
+Ammon, 43.4697, -111.9658
+Amsco, 43.7647, -116.6483
+Amsterdam, 42.2958, -114.5839
+Anderson, 42.0206, -111.9561
+Anderson Dam, 43.1333, -115.7000
+Anderson Place, 42.2447, -114.9500
+Annis, 43.7283, -111.9353
+Antelope, 43.6333, -111.7500
+Apple Valley, 43.8400, -116.9956
+Appleton, 42.7481, -114.6344
+Arbon, 42.4558, -112.5675
+Arbon Crossing, 42.8731, -112.6333
+Arbon PO, 42.4886, -112.5478
+Archabal, 44.8469, -116.1211
+Archer, 43.7136, -111.7819
+Arco, 43.6367, -113.2994
+Argora, 44.1667, -112.2333
+Arimo, 42.5600, -112.1706
+Arling, 44.6253, -116.0492
+Arrow, 46.4781, -116.7669
+Artesian City, 42.4172, -114.1603
+Asbestos Point, 45.8181, -115.9397
+Ashton, 44.0717, -111.4475
+Athol, 47.9481, -116.7069
+Atlanta, 43.8017, -115.1258
+Atlas, 47.7006, -116.8286
+Atomic City, 43.4450, -112.8119
+Avery, 47.2506, -115.8042
+Avon, 46.8261, -116.6128
+Baker, 45.0947, -113.7336
+Bancroft, 42.7203, -111.8850
+Banida, 42.2311, -111.9417
+Banks, 44.0806, -116.1231
+Bannock, 42.8614, -112.7219
+Bannock Memorial Hospital, 42.8719, -112.4306
+Barber, 43.5761, -116.1367
+Barite, 43.5564, -114.3256
+Barlow, 43.6711, -112.0122
+Barrymore, 42.6808, -114.4622
+Barton, 44.3844, -116.7989
+Basalt, 43.3156, -112.1636
+Basin, 42.2456, -113.7836
+Bassett, 43.6511, -112.0875
+Bates, 43.7000, -111.2333
+Bayhorse, 44.3978, -114.3108
+Bayview, 47.9803, -116.5592
+Beachs Corner, 43.5425, -111.9633
+Bear, 45.0244, -116.6711
+Bear Lake Hot Springs, 42.1086, -111.2644
+Bear Lake Sands, 42.0517, -111.2528
+Beatty, 43.6083, -116.3400
+Bedstead Corner, 44.2758, -111.7922
+Beer Bottle Crossing, 44.6086, -116.2300
+Beetville, 42.4886, -113.8306
+Bellevue, 43.4636, -114.2597
+Bellgrove, 47.5339, -116.9139
+Belmont, 47.9261, -116.6386
+Belvidere, 44.4756, -116.0325
+Bench, 42.5036, -111.6794
+Benewah, 47.2278, -116.7833
+Bengoechea Place, 42.3047, -115.8469
+Bennington, 42.3911, -111.3208
+Berenice, 43.8278, -112.9733
+Berger, 42.4697, -114.5739
+Bergstrom Place, 42.1944, -114.9358
+Bern, 42.3397, -111.3853
+Besslen, 42.9086, -114.1728
+Best Corner, 46.5619, -116.1497
+Bickel, 42.5281, -114.2097
+Big Cedar, 46.0811, -115.8133
+Big Creek, 45.1272, -115.3233
+Big Eddy, 44.2161, -116.1064
+Big George, 46.5028, -116.4919
+Big Springs, 44.4983, -111.2550
+Bills, 42.5322, -114.2856
+Bingo Creek Landing, 46.7572, -115.7358
+Black Bear, 47.5161, -115.8514
+Black Canyon, 43.9267, -116.4414
+Black Cloud, 47.4667, -115.9167
+Black Lake, 47.3167, -116.5667
+Black Pine, 42.0725, -112.9794
+Black Rock Crossing, 42.0594, -115.6517
+Blackbird Townsite, 45.0931, -114.2308
+Blackfoot, 43.1906, -112.3442
+Blackrock, 42.7969, -112.3261
+Blacks Creek, 43.4778, -116.1372
+Blacktail, 48.1206, -116.4853
+Blackwell, 47.6978, -116.8069
+Blaine(Camas), 43.3425, -114.5947
+Blaine(Latah), 46.6572, -116.9478
+Blanchard, 48.0169, -116.9828
+Bliss, 42.9269, -114.9486
+Bloomington, 42.1919, -111.4006
+Blue Creek Crossing, 42.4578, -116.2525
+Blue Dome, 44.1603, -112.9106
+Boehls, 46.8747, -115.9044
+Boise, 43.6136, -116.2025
+Boise Hills Village, 43.6325, -116.1889
+Boise Junction, 43.6050, -116.2558
+Boles, 45.9106, -116.5031
+Bonanza, 44.3706, -114.7269
+Bone, 43.3125, -111.7944
+Bonners Ferry, 48.6914, -116.3153
+Borah, 43.6333, -116.2167
+Border, 42.1831, -111.0467
+Boulder, 43.8406, -114.5056
+Bovard, 46.6653, -116.7014
+Bovill, 46.8589, -116.3925
+Bowmont, 43.4561, -116.5400
+Box Canyon, 44.3789, -111.4047
+Bradley, 47.5333, -116.1333
+Bramwell, 43.8383, -116.5819
+Bridge, 42.1294, -113.3417
+Broadford, 43.4697, -114.2794
+Bronx, 48.3519, -116.5464
+Broten, 48.2211, -116.4164
+Brownlee, 44.0089, -116.2444
+Bruce Eddy, 46.5136, -116.2897
+Bruneau, 42.8806, -115.7964
+Buckingham, 43.9892, -116.8925
+Budge, 42.6089, -113.8236
+Buhl, 42.5992, -114.7586
+Buist, 42.3272, -112.6047
+Bull Creek Crossing, 42.1283, -115.9219
+Bull Pasture, 42.1614, -112.5275
+Buncel Place, 42.5503, -116.0236
+Bundy, 46.3614, -116.7564
+Bunn, 47.5111, -115.8981
+Burgdorf, 45.2772, -115.9119
+Burke, 47.5203, -115.8192
+Burley, 42.5358, -113.7919
+Burmah, 43.1294, -114.2594
+Burns, 48.6261, -116.3939
+Burton, 43.7975, -111.8572
+Butler Bay, 47.3167, -116.5667
+Butte City, 43.6100, -113.2433
+Butte Creek Landing, 46.8647, -115.7372
+Byrne, 43.6919, -111.7458
+Cabarton, 44.4356, -116.0392
+Cabinet, 48.0844, -116.0725
+Cable Car Crossing, 45.4539, -115.9419
+Cache, 43.7881, -111.1622
+Calder, 47.2778, -116.1903
+Caldwell, 43.6631, -116.6864
+Calendar, 45.6242, -115.6689
+Camas, 44.0075, -112.2203
+Cambridge(Bannock), 42.4506, -112.1158
+Cambridge(Washington), 44.5667, -116.6833
+Cameron, 46.6058, -116.5711
+Canyon Creek, 43.8833, -111.6000
+Carbon Center, 47.5583, -115.9000
+Carbonate, 47.4553, -115.7639
+Cardiff, 46.5744, -115.8114
+Cardiff Mill, 46.4708, -115.7936
+Cardwell, 47.2092, -116.5625
+Carey, 43.3078, -113.9439
+Careywood, 48.0347, -116.6422
+Caribel, 46.2581, -115.9436
+Caribou City, 43.1031, -111.2639
+Carl Ratliff Place, 42.0736, -115.9425
+Carlin Bay, 47.4500, -116.7833
+Carmen, 45.2425, -113.8925
+Carothers Place, 42.8836, -116.4319
+Carrietown, 43.6050, -114.6994
+Cascade, 44.5164, -116.0408
+Cassia Memorial Hospital, 42.5244, -113.8017
+Castle Rocks, 43.3283, -115.3136
+Castleford, 42.5208, -114.8675
+Casto, 44.5681, -114.8478
+Cat Creek Crossing, 42.1494, -115.7497
+Cataldo, 47.5489, -116.3286
+Cathedral Pines, 43.7775, -114.5258
+Cavendish, 46.5603, -116.4331
+Cayuse Junction, 46.5992, -114.8531
+Cedar, 42.5939, -114.7047
+Cedar Creek, 48.0183, -116.4453
+Cedarhill, 42.2669, -112.7306
+Cedron, 43.6167, -111.1667
+Centerville, 43.9128, -115.8914
+Central, 42.6350, -111.8108
+Central Cove, 43.6072, -116.8617
+Cerro Grande, 43.4411, -112.9325
+Chalk Cut, 42.9811, -115.5322
+Challis, 44.5047, -114.2308
+Chapin, 43.6433, -111.1100
+Chatcolet, 47.3722, -116.7625
+Chausse, 42.1808, -111.0831
+Cherry Creek, 42.0983, -112.2281
+Cherrylane, 46.5161, -116.6806
+Cherryville, 42.0406, -111.7486
+Chesley, 46.3492, -116.5519
+Chester, 43.9994, -111.5692
+Chesterfield, 42.8669, -111.9011
+Chilco, 47.8639, -116.7456
+Chilly, 44.0778, -113.8781
+China Hat, 42.1017, -115.9392
+China Hill, 42.5528, -111.8267
+Chubbuck, 42.9208, -112.4653
+Churchill, 42.2500, -113.8833
+Clagstone, 48.0197, -116.8056
+Clarendon Hot Springs, 43.5594, -114.4142
+Clark Fork, 48.1453, -116.1747
+Clark Tree, 46.2969, -115.7106
+Clarkia, 47.0108, -116.2519
+Clarks Fork, 48.1833, -116.1667
+Clarkson, 43.2117, -112.4178
+Clarksville, 47.7539, -116.7319
+Clarkville, 47.7667, -116.7667
+Clawson, 43.7981, -111.1100
+Clay Caves, 42.6164, -114.2939
+Clayton, 44.2594, -114.4008
+Claytonia, 43.5675, -116.8319
+Clearwater, 46.0225, -115.8900
+Cleft, 43.2394, -115.8497
+Clementsville, 43.8767, -111.3692
+Cleveland, 42.4167, -111.7333
+Clicks, 46.2803, -116.5339
+Cliff, 43.8758, -113.6772
+Cliffs, 42.6392, -116.9794
+Clifton, 42.1900, -112.0072
+Clover, 42.5142, -114.6867
+Cloverdale, 43.6197, -116.3331
+Clyde, 44.1358, -113.2461
+Cobalt, 45.0042, -114.3333
+Cocolalla, 48.1081, -116.6164
+Coconut Grove, 45.3183, -116.4661
+Coeur d'Alene, 47.6778, -116.7794
+Coeur d'Alene Indian Reservation, 47.3333, -116.8333
+Coeur d'Alene Junction, 47.7567, -116.9114
+Coffee Point, 43.1564, -112.9672
+Colburn, 48.3972, -116.5342
+Coleman, 48.0042, -116.9058
+Collier Place, 42.5792, -116.2394
+Collins, 43.2022, -112.3750
+Collister, 43.6000, -115.6500
+Coltman, 43.6178, -112.0114
+Comical Turn, 42.5614, -116.1436
+Concord, 45.5847, -115.6828
+Concrete, 44.3553, -116.7944
+Conda, 42.7283, -111.5317
+Conkling Park, 47.4044, -116.7572
+Conner, 42.3167, -113.3667
+Connor, 42.2811, -113.5006
+Conrad Crossing Campground, 47.1586, -115.4158
+Coolin, 48.4797, -116.8483
+Cooperville, 45.7667, -116.3000
+Copeland, 48.9022, -116.3878
+Copperville, 45.7531, -116.3233
+Cora, 47.0039, -116.9639
+Corbin Junction, 47.8911, -116.7197
+Cornwall, 46.7089, -116.8647
+Corral, 43.3500, -114.9500
+Cotterel, 42.5172, -113.4583
+Cotton, 43.4264, -112.0875
+Cottonwood(Idaho), 46.0486, -116.3486
+Cottonwood(Owyhee), 42.4861, -116.0072
+Coulam, 42.2669, -111.9833
+Council, 44.7300, -116.4372
+Cow Creek, 46.4958, -115.9319
+Craig Junction, 46.2756, -116.5328
+Craigmont, 46.2414, -116.4661
+Cranes Nest, 42.0544, -116.0603
+Crawford Place(Site), 44.3658, -117.1478
+Cream Can Junction, 42.9386, -113.3847
+Crescent, 46.6433, -116.4244
+Crill Place, 42.8258, -116.4528
+Cross Trails, 45.4764, -115.6908
+Crossport, 48.7011, -116.2203
+Crouch, 44.1153, -115.9700
+Crutcher Crossing, 42.2600, -116.8692
+Crystal(Power), 42.6539, -112.4956
+Crystal(Washington), 44.1672, -116.8900
+Culdesac, 46.3747, -116.6722
+Culver, 48.2667, -116.5500
+Cuprum, 45.0867, -116.6883
+Curry, 42.5639, -114.5544
+Custer, 44.3875, -114.6950

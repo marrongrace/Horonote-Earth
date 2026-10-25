@@ -1,0 +1,186 @@
+Sacred Heart Hospital, 43.4750, -112.0317
+Sage Junction, 43.8308, -112.1944
+Sagle, 48.2025, -116.5467
+Salem, 43.8767, -111.7722
+Salmon, 45.1758, -113.8950
+Sam, 43.7192, -111.3031
+Samaria, 42.1178, -112.3361
+Samuels, 48.4294, -116.4928
+Sand Hollow, 43.8069, -116.7467
+Sanders, 47.1064, -116.7953
+Sandpoint, 48.2767, -116.5522
+Santa, 47.1503, -116.4481
+Sawtooth City, 43.8967, -114.8394
+Sawyer, 48.1444, -116.7547
+Schiller, 42.8797, -112.6575
+Schnoors, 48.6897, -116.3386
+Schodde, 42.6072, -113.9903
+Schow, 42.5869, -113.7106
+Scott Place, 45.4347, -116.0061
+Scoville, 43.4806, -112.9953
+Seaburg, 45.4761, -116.0300
+Sebree, 43.1858, -115.7897
+Sego Place, 42.3842, -115.9189
+Selby, 43.3439, -114.7097
+Selle, 48.3569, -116.4886
+Seneacquoteen, 48.1517, -116.7544
+Setters, 47.4681, -117.0072
+Sharon, 42.3506, -111.4783
+Shelley, 43.3814, -112.1225
+Shells Lick, 45.7067, -116.1269
+Shelton, 43.4833, -112.0000
+Sherwin, 46.9478, -116.3469
+Sherwood Beach, 48.4967, -116.8394
+Shoshone, 42.9361, -114.4050
+Shoup, 45.3769, -114.2761
+Silver Beach, 47.9483, -116.8911
+Silver City, 43.0169, -116.7322
+Silver Creek Plunge, 44.1167, -115.9667
+Silver Sands Beach, 47.8922, -116.8836
+Silvertip Landing, 47.3617, -116.6917
+Silverton, 47.4931, -115.9544
+Simplot, 43.6697, -116.7325
+Sinclair, 48.9292, -116.1758
+Skyline, 43.4833, -112.0000
+Slacks Corner, 43.0819, -116.7411
+Slate Creek, 45.6383, -116.2794
+Slickpoo, 46.3169, -116.7100
+Small, 44.1667, -112.2333
+Smelter Heights, 47.5392, -116.1586
+Smelterville, 47.5428, -116.1806
+Smith Corrals, 43.3267, -113.2453
+Smith Springs, 42.6375, -113.3106
+Smiths Ferry, 44.3014, -116.0886
+Smokehouse, 45.3564, -115.2511
+Soda Springs, 42.6544, -111.6039
+Soldier, 43.3703, -114.7908
+Sonna, 43.6097, -116.4558
+South Gate Plaza, 46.4000, -116.9833
+South Mountain, 42.7522, -116.9225
+Southside, 43.6000, -116.2000
+Southwick, 46.6036, -116.4711
+Spalding, 46.4469, -116.8164
+Spanish Town, 43.7097, -115.2542
+Spencer, 44.3606, -112.1861
+Spirit Lake, 47.9664, -116.8675
+Spiry Place, 42.9103, -116.4064
+Springdale, 42.5156, -113.6900
+Springfield, 43.0817, -112.6811
+Springston, 47.4783, -116.7319
+Squaw Bay, 47.4500, -116.7833
+Squirrel, 44.0272, -111.2983
+St Anthony, 43.9664, -111.6814
+St Anthony Hospital, 42.8764, -112.4450
+St Charles, 42.1139, -111.3881
+St Joe, 47.3111, -116.3519
+St Johns, 42.2139, -112.2911
+St Leon, 43.4833, -112.0000
+St Lukes Hospital, 43.6133, -116.1919
+St Maries, 47.3144, -116.5617
+Staley Springs, 44.6603, -111.4344
+Standrod, 41.9939, -113.4211
+Stanford, 46.8328, -116.6436
+Stanley, 44.2114, -114.9450
+Stanton Crossing, 43.3278, -114.3117
+Star, 43.6922, -116.4925
+Starkey, 44.8506, -116.4475
+Starrhs Ferry, 42.5500, -113.8000
+State Hospital North, 46.4917, -116.2594
+State Hospital South, 43.1875, -112.3339
+State Line, 47.7000, -117.0333
+State Line Village, 47.7044, -117.0364
+Steamboat Rock, 43.4483, -115.6264
+Steamboat Rocks, 47.9147, -116.1256
+Steel Place, 42.1217, -114.9814
+Steirman, 43.8333, -115.8333
+Sterling, 43.0381, -112.7308
+Stetson, 47.2850, -115.7733
+Stevens, 44.8486, -116.3778
+Stibnite, 44.8983, -115.3383
+Stites, 46.0917, -115.9753
+Stoddard, 43.3833, -116.5333
+Stone, 42.0164, -112.6944
+Stout Crossing, 43.1544, -115.3092
+Strevell, 42.0061, -113.2028
+Stull, 47.4722, -115.8636
+Sturgeon, 47.8497, -116.8597
+Sublett, 42.3122, -113.1361
+Suckpoo, 46.3667, -116.6667
+Sugar City, 43.8731, -111.7475
+Sugar Loaf, 42.6814, -114.3769
+Sully, 42.5392, -114.3833
+Sun Valley, 43.6972, -114.3508
+Sunbeam, 44.2711, -114.7333
+Sunnydell, 43.6844, -111.7542
+Sunnyside(Shoshone), 47.5333, -116.1333
+Sunnyside(Bonner), 48.2803, -116.3961
+Sunnyslope, 43.5886, -116.7922
+Swan Lake, 42.3078, -111.9981
+Swan Valley, 43.4511, -111.3800
+Swartz Corner, 43.5014, -116.5542
+Sweeney, 47.5403, -116.1686
+Sweet, 43.9731, -116.3236
+Sweetwater, 46.3725, -116.7919
+Syringa, 46.1508, -115.7261
+Taber, 43.3181, -112.6881
+Talache, 48.1408, -116.4842
+Talache Landing, 48.1286, -116.4778
+Talmage, 42.6789, -111.7867
+Tamarack, 44.9553, -116.3847
+Tate Place, 42.0872, -115.9814
+Taylor, 43.4833, -112.0000
+Teakean, 46.5511, -116.3797
+Teepee Creek, 44.9403, -115.7383
+Telegraph Hill, 43.0156, -116.7467
+Ten Mile, 43.3000, -112.1500
+Tendoy, 44.9594, -113.6439
+Tensed, 47.1600, -116.9208
+Tepee Circles, 43.4433, -113.5264
+Terreton, 43.8417, -112.4356
+Teton, 43.8867, -111.6769
+Tetonia, 43.8192, -111.1619
+Thain Road, 46.4000, -116.9833
+Thama, 48.1533, -116.8467
+Thatcher, 42.4089, -111.7261
+The Cedars, 46.8728, -115.0761
+Thiard, 47.6156, -115.9042
+Thomas, 43.1828, -112.5039
+Thompson Place, 45.5664, -116.3247
+Thornton, 43.7583, -111.8444
+Three Creek, 42.0714, -115.1586
+Three Forks(Teton), 43.8000, -111.2333
+Three Forks(Owyhee), 42.0908, -116.0292
+Three Island Crossing, 42.9356, -115.3319
+Threemile Corner, 48.7314, -116.2986
+Threemile Crossing, 42.2478, -114.8639
+Ticeska, 42.9256, -115.0892
+Tiegs Corner, 43.5139, -116.5131
+Tikura, 43.2147, -114.0119
+Tipperary Corner, 42.5772, -114.2956
+Topaz, 42.6167, -112.0167
+Torreys, 44.2536, -114.6014
+Tramway, 46.2847, -116.1069
+Transfer, 46.4292, -117.0294
+Travers, 42.6092, -113.7361
+Treasureton, 42.2653, -111.8456
+Trestle Creek, 48.2833, -116.3497
+Triangle, 42.7822, -116.6331
+Triumph, 43.6450, -114.2533
+Trout, 42.3225, -113.9003
+Troy, 46.7369, -116.7686
+Trude, 44.4611, -111.3453
+Tuanna Crossing, 42.4275, -114.9800
+Tunupa, 42.9550, -114.5783
+Turner, 42.5767, -111.8181
+Turner Bay, 47.4500, -116.7833
+Turnpike, 42.1100, -111.2628
+Tuttle, 42.8583, -114.8392
+Twin Beaches, 47.6200, -116.7972
+Twin Falls, 42.5631, -114.4600
+Twin Forks, 43.7833, -111.2167
+Twin Groves, 43.9744, -111.6269
+Twin Lakes, 47.8167, -116.9000
+Twin Springs, 43.6694, -115.7003
+Twinlow, 47.8772, -116.8553
+Two Forks, 43.7500, -111.2000
+Tyhee, 42.9517, -112.4656

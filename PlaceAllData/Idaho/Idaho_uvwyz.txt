@@ -1,0 +1,87 @@
+Ucon, 43.5964, -111.9631
+Ulysses, 45.4578, -114.1506
+Underkoflers Corner, 43.6192, -116.6717
+Unincorp, 42.9889, -111.3764
+Unity, 42.5186, -113.7425
+University, 46.7333, -117.0000
+Upper Battle Creek Crossing, 42.4781, -116.3225
+Upper Crossing, 45.6444, -114.7061
+Upper Pittsburg Landing, 45.6256, -116.4700
+Ustick, 43.6336, -116.3208
+Valley View Heights, 46.4233, -116.9697
+Vans Corner(Priest Lake PO), 48.5253, -116.9378
+Vassar, 46.8292, -116.6161
+Vay, 48.1156, -116.7769
+Vernon, 43.5886, -116.1600
+Victor, 43.6028, -111.1106
+View, 42.4508, -113.6964
+Viola, 46.8386, -117.0236
+Virginia, 42.4942, -112.1647
+Vosburg Place, 42.1911, -114.8167
+Waha, 46.2133, -116.8511
+Walker, 43.7722, -111.7078
+Wallace, 47.4742, -115.9269
+Walters Ferry, 43.3406, -116.5986
+Wapello, 43.2469, -112.2561
+Wapi, 42.7156, -113.1822
+Wardboro, 42.2558, -111.2764
+Wardner, 47.5228, -116.1331
+Warm Lake, 44.6542, -115.6667
+Warm River, 44.1150, -111.3200
+Warren, 45.2642, -115.6756
+Warrens, 43.3286, -116.5392
+Washington Mill, 43.8922, -115.7575
+Washoe, 44.0544, -116.9472
+Wayan(Unincorp), 42.9889, -111.3764
+Wayland, 47.1692, -116.4692
+Weavers Hole, 43.3000, -114.9475
+Webb(Nez Perce), 46.3439, -116.8322
+Webb(Shoshone), 47.4883, -115.8906
+Weippe, 46.3761, -115.9372
+Weiser, 44.2511, -116.9683
+Weitz, 43.6694, -116.7586
+Wendell, 42.7758, -114.7033
+West Camas, 43.3167, -115.0167
+West Clark, 44.2833, -112.5667
+West Mountain, 44.5167, -116.0500
+West Salmon Falls, 42.5500, -114.9500
+Western Shoshone, 42.0833, -116.1833
+Westlake, 46.1219, -116.5061
+Westma, 43.4158, -116.5411
+Westmond, 48.1400, -116.6025
+Weston, 42.0372, -111.9786
+Whipsaw Saddle, 45.7928, -116.3483
+White Bird, 45.7617, -116.2997
+Whitney(Ada), 43.5833, -116.2500
+Whitney(Franklin), 42.0658, -111.8369
+Wickahoney, 42.4600, -115.9825
+Wickahoney Crossing, 42.5422, -115.9772
+Wilder, 43.6767, -116.9108
+Wilford, 43.9128, -111.6769
+Willard, 47.2406, -117.0381
+Willola, 46.5050, -116.5692
+Willow, 44.1000, -116.7333
+Winchester, 46.2400, -116.6233
+Winder, 42.1764, -111.9150
+Windy Devil, 43.9111, -113.6883
+Windy Gap, 43.3208, -115.4131
+Winona, 46.1322, -116.1069
+Winsper, 44.1306, -112.5144
+Wolf Lodge, 47.6414, -116.6158
+Wolverine, 43.2814, -111.9353
+Wood, 44.1256, -116.9061
+Woodland(Idaho), 46.3111, -116.0675
+Woodland(Adams), 44.9303, -116.3819
+Woodland Park, 47.4667, -115.9167
+Woodlawn Park, 47.4861, -115.9011
+Woodruff, 42.0361, -112.2139
+Woods Crossing, 43.7742, -111.6297
+Woodville, 43.4169, -112.1419
+Worley, 47.4008, -116.9161
+Wrencoe, 48.2289, -116.7019
+Yale(Cassia), 42.5972, -113.2353
+Yale(Latah), 46.8622, -116.6956
+Yellow Pine, 44.9650, -115.4928
+Yellowjacket, 44.9797, -114.5308
+Zaza, 46.0622, -116.8453
+Zenda, 42.3778, -112.0578

@@ -1,0 +1,164 @@
+Galena, 43.8714, -114.6564
+Gannett, 43.3600, -114.1750
+Garden City, 43.6222, -116.2372
+Garden Valley, 44.0900, -115.9511
+Gardena, 43.9758, -116.1900
+Garfield, 43.4833, -112.0000
+Garrard Branch, 42.3167, -114.0008
+Garwood, 47.8319, -116.7764
+Gay, 43.0483, -112.1175
+Gayway Corner, 44.0258, -116.9225
+Gem, 47.5083, -115.8669
+Genesee, 46.5508, -116.9244
+Geneva, 42.3586, -111.0644
+Gentry, 47.4742, -115.8942
+Georgetown, 42.4822, -111.3700
+German Settlement, 46.4186, -116.5008
+Gerrard, 43.3844, -112.0392
+Gerrit, 44.2086, -111.2703
+Gibbonsville, 45.5556, -113.9222
+Gibbs, 47.6908, -116.8028
+Gibson, 43.1006, -112.4175
+Gibson City, 47.5333, -116.2333
+Gifford, 46.4433, -116.5556
+Gilmore, 44.4589, -113.2689
+Gimlet, 43.6042, -114.3489
+Givens Hot Springs, 43.4222, -116.7139
+Giveout, 42.4186, -111.1578
+Glencoe, 42.2333, -111.4000
+Glendale, 42.1833, -111.9500
+Glengary, 48.2219, -116.3736
+Glenns Ferry, 42.9550, -115.3000
+Glenwood(Idaho), 46.2442, -115.8319
+Glenwood(Clearwater), 46.4833, -116.2500
+Godwin, 42.5128, -114.5739
+Golconda Mill, 47.4747, -115.8700
+Gold Creek, 47.1372, -115.4069
+Gold Point, 45.7831, -115.3928
+Goldburg, 44.3856, -113.6450
+Golden, 45.8122, -115.6789
+Good Grief, 48.9494, -116.1764
+Gooding, 42.9389, -114.7122
+Goodrich, 44.6536, -116.5569
+Goshen, 43.3097, -112.0825
+Goshen Junction, 43.3083, -112.1786
+Grace, 42.5761, -111.7297
+Graham, 43.9689, -115.2736
+Grainville, 44.0272, -111.3672
+Grand Junction, 47.7292, -116.9728
+Grand View, 42.9897, -116.0925
+Grandview, 43.0531, -112.7875
+Grangemont, 46.4833, -116.2500
+Grangeville, 45.9267, -116.1214
+Granite(Bonner), 48.0878, -116.4247
+Granite(Boise), 43.9408, -115.9667
+Grant, 43.6408, -112.0125
+Grasmere, 42.3833, -115.8833
+Gray, 42.9667, -111.3833
+Greencreek, 46.1072, -116.2633
+Greenleaf, 43.6714, -116.8153
+Greenwood, 42.5767, -114.0486
+Greer, 46.3900, -116.1742
+Greys Landing, 42.1328, -114.7283
+Grimes Pass, 44.0447, -115.8564
+Gross, 44.3133, -116.3067
+Grouse, 43.6833, -113.6167
+Groveland, 43.2200, -112.3717
+Guyaz, 43.4817, -111.6458
+Gwenford, 42.1364, -112.3292
+Hagerman, 42.8122, -114.8978
+Hahn, 44.3722, -113.2167
+Hailey, 43.5197, -114.3144
+Haley, 46.4953, -115.9244
+Hamer, 43.9272, -112.2053
+Hamilton Corner, 43.9528, -116.7714
+Hammett, 42.9458, -115.4653
+Hampton, 46.9144, -116.8483
+Hand Place, 42.1447, -114.9686
+Hansen, 42.5297, -114.3053
+Hardscrabble Campground, 44.2397, -115.8983
+Harer, 42.1894, -111.1708
+Harlem, 48.0392, -116.8114
+Harpster, 45.9867, -115.9625
+Harrell Place, 42.0775, -114.7853
+Harris Landing, 47.7850, -116.7017
+Harrisburg, 46.2969, -116.0247
+Harrison, 47.4544, -116.7844
+Harvard, 46.9175, -116.7286
+Harvey Place, 42.5128, -116.0775
+Hatch, 42.8194, -111.8514
+Hatwai, 46.4364, -116.9672
+Hauser, 47.7731, -117.0269
+Hauser Lake, 47.7333, -117.0000
+Havens, 43.2706, -112.5900
+Hawgood, 43.8697, -112.1506
+Hawkins, 42.5436, -112.3414
+Hawley, 42.7342, -113.3950
+Hawleys Landing, 47.3558, -116.7667
+Haycrop, 47.7664, -116.8928
+Hayden, 47.7661, -116.7856
+Hayden Lake, 47.7589, -116.7558
+Haytown, 42.6928, -114.5014
+Hazelton, 42.5964, -114.1353
+Headquarters, 46.6300, -115.8083
+Heglar, 42.4736, -113.1464
+Heise, 43.6419, -111.6836
+Helena, 45.1703, -116.6514
+Hellhole, 42.3222, -111.2014
+Helmer, 46.8008, -116.4692
+Heman, 43.9564, -111.7967
+Henry, 42.9069, -111.5300
+Herbert, 43.7064, -111.6592
+Herman, 43.1406, -111.4300
+Herrick, 47.2728, -116.1056
+Heyburn, 42.5586, -113.7631
+Hibbard, 43.8553, -111.8378
+Highlands, 43.6461, -116.1928
+Hill City, 43.3006, -115.0503
+Hillcrest, 43.5636, -116.1819
+Hillview, 43.4833, -112.0000
+Hinckley, 43.8650, -111.8575
+Hobson, 42.5319, -113.9231
+Hoelzle Place, 42.2006, -114.9522
+Holbrook, 42.1619, -112.6531
+Holbrook Summit, 42.1653, -112.4528
+Hollister, 42.3533, -114.5742
+Hollywood, 46.5553, -115.8356
+Homedale, 43.6178, -116.9328
+Honeysuckle Hills, 47.7667, -116.7667
+Hoover, 44.7525, -116.4406
+Hope, 48.2478, -116.3061
+Hornet, 44.7333, -116.4333
+Horsecamp, 47.1914, -115.8808
+Horseshoe Bend, 43.9147, -116.1969
+Hot Spring, 42.7919, -115.7169
+Hot Springs Landing, 43.3300, -114.3994
+Houston, 43.8831, -113.5758
+Howe, 43.7836, -113.0039
+Howell, 46.7358, -116.8158
+Howelltown, 47.7858, -116.9800
+Hoyt, 47.2531, -115.9172
+Huetter, 47.7011, -116.8503
+Humphrey, 44.4883, -112.2328
+Hunt, 42.6783, -114.2492
+Huston, 43.6103, -116.7822
+Hydra, 42.6994, -114.5181
+Hynes, 42.6122, -113.8908
+Idaho City, 43.8286, -115.8336
+Idaho Falls, 43.4667, -112.0333
+Idahome, 42.4156, -113.3989
+Idavada, 41.9972, -114.6414
+Idmon, 44.3608, -111.9108
+Indian Cove, 42.9500, -115.4667
+Indian Grove, 42.1128, -113.7275
+Indian Head Rock, 43.5553, -114.8006
+Indian Jim Place, 42.1678, -114.9128
+Indian Valley, 44.5572, -116.4331
+Ingard, 44.0336, -116.9222
+Inkom, 42.7964, -112.2533
+Iona, 43.5264, -111.9322
+Ireland Springs, 42.1650, -112.4947
+Irwin, 43.4086, -111.2986
+Isabella Landing, 46.8497, -115.6281
+Island Park, 44.4244, -111.3703
+Iversons, 42.3047, -114.0100

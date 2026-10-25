@@ -1,0 +1,151 @@
+Dairy Creek, 42.4625, -112.4292
+Dalton Gardens, 47.7297, -116.7692
+Daniels, 42.3731, -112.4122
+Dans Place, 42.2725, -115.8314
+Darby, 43.6942, -111.0653
+Darlington, 43.8136, -113.4139
+Davidson, 45.8431, -116.5944
+Davis Elbow, 47.7486, -116.0281
+Dayton, 42.1131, -111.9928
+De Smet, 47.1461, -116.9147
+Deal, 43.5067, -116.5406
+Deary, 46.7994, -116.5550
+Declo, 42.5183, -113.6272
+Deep Creek(Boundary), 48.6233, -116.3922
+Deep Creek(Twin Falls), 42.5936, -114.8453
+Dehlin, 43.3844, -111.7089
+DeLamar, 43.0244, -116.8306
+DelMonte, 43.8689, -116.5422
+Delta, 47.6078, -115.9403
+Democrat, 43.0964, -116.7744
+Dent, 46.6239, -116.2022
+Denver, 45.9983, -116.2350
+DeVeny Place, 45.3575, -116.3942
+Devils Ladder, 45.1783, -116.4344
+Dew Drop, 42.0244, -115.9439
+Dewey, 43.0403, -116.7614
+DeWoff, 42.7067, -113.2597
+Diamond, 44.4142, -116.7750
+Dickens Place, 42.1497, -115.9714
+Dickensheet Junction, 48.4519, -116.9069
+Dickey, 44.1344, -113.9044
+Dickshooter, 42.3917, -116.5008
+Dietrich, 42.9094, -114.2644
+Dingle, 42.2194, -111.2672
+Dixie(Elmore), 43.3172, -115.4461
+Dixie(Idaho), 45.8333, -115.4333
+Doles, 43.6697, -116.7828
+Don, 42.9094, -112.5292
+Doniphan, 43.4108, -114.4836
+Donnelly, 44.7317, -116.0800
+Dorsey, 47.4628, -115.7472
+Dover, 48.2517, -116.6100
+Downata Hot Springs, 42.3886, -112.0883
+Downey, 42.4286, -112.1236
+Doyle Place, 42.8453, -116.3331
+Driggs, 43.7233, -111.1106
+Drummond, 43.9986, -111.3444
+Dry Forty, 42.4511, -116.4125
+Dryden, 46.1361, -116.2006
+Dubois, 44.1764, -112.2300
+Dudley, 47.5419, -116.4233
+Dufort, 48.1653, -116.5958
+Duncan Creek Crossing, 42.4539, -116.0586
+Duncan Place, 42.0356, -114.8089
+Dwight, 43.8167, -111.1667
+Eagle(Ada), 43.6956, -116.3531
+Eagle(Shoshone), 47.6436, -115.9169
+Eagle Rock, 43.4833, -112.0000
+Easley Hot Springs, 43.7806, -114.5422
+East Camas, 43.3333, -114.7000
+East Clark, 44.3833, -111.9167
+East Greenacres, 47.7525, -116.9689
+East Hope, 48.2419, -116.2944
+East Kamiah, 46.2028, -116.0069
+East Lewiston, 46.4000, -116.9833
+Eastport, 49.0003, -116.1803
+Eaton, 44.2758, -117.0803
+Eccles, 44.3269, -111.3008
+Echo Beach, 47.8878, -116.8756
+Eddyville, 47.6161, -116.7306
+Eden, 42.6058, -114.2100
+Edgemere, 48.0758, -116.8142
+Edmonds, 43.9131, -111.8800
+Edwardsburg, 45.1189, -115.3250
+Egin, 43.9367, -111.8367
+Egypt, 42.0967, -111.8367
+Eiffie, 44.0256, -116.9172
+Eighteenmile, 44.3003, -111.9017
+Eileen, 48.7764, -116.1625
+Elba, 42.2483, -113.5606
+Elk City, 45.8269, -115.4358
+Elk River, 46.7836, -116.1789
+Elk Summit, 46.3239, -114.6489
+Elkhorn, 43.6333, -114.2500
+Ellis, 44.6919, -114.0475
+Elmira, 48.4797, -116.4614
+Elmore Memorial Hospital, 43.1400, -115.6922
+Emerald Creek, 47.0719, -116.3272
+Emida, 47.1158, -116.5969
+Emigrant Crossing(Elmore), 43.0481, -115.2856
+Emigrant Crossing(Owyhee), 42.9181, -115.8739
+Emmett, 43.8736, -116.4983
+Enaville, 47.5625, -116.2492
+Enrose, 43.7017, -116.7458
+Era, 43.5806, -113.5786
+Erlmo, 47.2597, -116.0492
+Estes, 46.7778, -117.0189
+Ethelton, 47.2550, -115.9047
+Evans Landing, 48.0756, -116.5306
+Evergreen, 44.8903, -116.3892
+Excelsior Beach, 47.8803, -116.8758
+Fairfield, 43.3467, -114.7908
+Fairview(Franklin), 42.0133, -111.8758
+Fairview(Power), 42.8503, -112.8686
+Fairview(Twin Falls), 42.5350, -114.7892
+Fairylawn, 42.5697, -116.9883
+Falcon, 47.3489, -115.6739
+Fall Creek, 45.8122, -115.6517
+Falls City, 42.6806, -114.4233
+Featherville, 43.6100, -115.2572
+Felt, 43.8731, -111.1839
+Feltham, 44.2072, -116.9300
+Fenn, 45.9633, -116.2553
+Ferdinand, 46.1525, -116.3883
+Ferguson, 47.5600, -115.9233
+Fernan Lake, 47.6833, -116.7500
+Fernwood, 47.1122, -116.3917
+Filer, 42.5703, -114.6069
+Fingal, 42.9681, -112.8089
+Firth, 43.3053, -112.1822
+Fischer, 43.5742, -116.5769
+Fish Haven, 42.0369, -111.3956
+Five Corners, 46.6400, -116.1722
+Five Points, 42.9392, -112.1272
+Flat Creek, 47.2322, -116.4903
+Fletcher, 46.2894, -116.4100
+Flint, 42.9167, -116.7819
+Florence, 45.5011, -116.0275
+Forebay, 46.4236, -116.9592
+Forest, 46.1481, -116.6567
+Forney, 45.2167, -114.2667
+Fort Hall, 43.0333, -112.4375
+Fort Hall Indian Reservation, 43.0333, -112.4500
+Fort Wilson, 44.0292, -116.8442
+Four Corners(Bonner), 48.2883, -116.9892
+Four Corners(Owyhee), 42.1053, -116.6069
+Fourway Junction, 45.3328, -115.3622
+Fox Creek, 43.6506, -111.1100
+France, 43.9725, -111.2744
+Franklin, 42.0136, -111.8064
+Fraser, 46.3911, -116.1375
+Freedom, 42.9828, -111.0447
+French Corner, 44.0575, -116.5794
+French Creek, 45.4233, -116.0264
+Frisco, 47.5122, -115.8583
+Fritser Ford, 45.0867, -115.6278
+Frost Place, 42.1925, -115.9400
+Fruitland, 44.0078, -116.9156
+Fruitvale, 44.8153, -116.4392
+Fuller, 42.9294, -114.8225
+Fullmer, 43.3086, -112.6689

@@ -1,0 +1,192 @@
+Naf, 42.0103, -113.2847
+Nampa, 43.5408, -116.5625
+Naples, 48.5711, -116.3914
+Neeley, 42.7336, -112.9142
+Neva, 46.7986, -116.2967
+New Centerville, 43.8811, -115.9092
+New Meadows, 44.9714, -116.2831
+New Plymouth, 43.9700, -116.8181
+New Sweden, 43.4833, -112.0000
+Newdale, 43.8833, -111.6056
+Newsome, 45.9075, -115.6292
+Nez Perce Indian Reservation, 46.2333, -116.2333
+Nezperce, 46.2350, -116.2397
+Nicholia, 44.3600, -113.0108
+Niter, 42.5036, -111.7300
+Nordman, 48.6339, -116.9447
+Norland, 42.7947, -113.6725
+North Fork, 45.4061, -113.9931
+North Kenyon, 42.4322, -113.8603
+North Lapwai, 46.4439, -116.8350
+North Lewiston, 46.4247, -117.0031
+North Pole, 47.9044, -116.7411
+Norwood, 44.8086, -116.1022
+Notus, 43.7256, -116.8003
+Nounan, 42.4778, -111.4503
+Oakley, 42.2433, -113.8811
+Obsidian, 44.0789, -114.8464
+Oden, 48.3222, -116.4117
+Ola, 44.1833, -116.3000
+Old Beaver, 44.4106, -112.1964
+Old Fort, 44.8117, -116.1567
+Old Golden, 45.7892, -115.6528
+Oldtown, 48.1803, -117.0428
+Olsen, 43.2853, -112.6211
+Omega, 47.3339, -116.4775
+Omill, 46.4939, -115.9258
+Onaway, 46.9283, -116.8900
+Orchard, 43.3147, -116.0253
+Oreana, 43.0536, -116.3942
+Orofino, 46.4794, -116.2542
+Orogrande, 45.7056, -115.5425
+Orvin, 43.5333, -112.0086
+Osburn, 47.5061, -115.9983
+Osgood, 43.5703, -112.1022
+Outlet Bay, 48.4944, -116.8922
+Ovid, 42.2889, -111.3975
+Owinza, 42.8994, -114.0558
+Owyhee, 43.4183, -116.1997
+Owyhee Heights, 43.6247, -116.9897
+Oxford, 42.2589, -112.0206
+Pagari, 43.1181, -114.0719
+Page, 47.5328, -116.2028
+Palisades, 43.3519, -111.2169
+Palisades Corner, 43.9753, -116.9117
+Paradise Hot Springs, 43.5539, -115.2728
+Pardee, 46.2986, -116.1244
+Pardee Corner, 46.3147, -116.0958
+Paris, 42.2272, -111.4003
+Park, 46.8000, -116.5500
+Parker, 43.9594, -111.7569
+Parkers Place, 42.1189, -115.9325
+Parkinson, 43.8161, -111.6583
+Parma, 43.7853, -116.9422
+Patterson, 44.5236, -113.7114
+Paul, 42.6081, -113.7825
+Pauline, 42.5708, -112.5594
+Payette, 44.0783, -116.9328
+Payette Heights, 44.0719, -116.9139
+Payne, 43.5728, -112.0525
+Pearl, 43.8558, -116.3164
+Pearson, 47.3544, -115.7289
+Peavey, 42.5836, -114.6519
+Pebble, 42.7442, -111.9997
+Peck, 46.4989, -116.4325
+Pedee, 47.3511, -116.7739
+Pegram, 42.1428, -111.1281
+Pella, 42.4753, -113.8378
+Perkins, 43.6050, -116.2728
+Perrine, 42.6539, -114.3161
+Peterson, 43.2333, -112.3833
+Petersons Crossing, 43.1225, -116.8756
+Picabo, 43.3058, -114.0669
+Pierce, 46.4911, -115.7981
+Pilgrim Stage Station Histor, 42.8789, -115.1308
+Pine, 43.4842, -115.3111
+Pine Creek, 47.5486, -116.2214
+Pine Ridge, 44.9389, -116.3817
+Pinehurst(Shoshone), 47.5389, -116.2364
+Pinehurst(Adams), 45.2528, -116.3333
+Pineview, 44.2864, -111.3100
+Pingree, 43.1167, -112.5978
+Pioneerville, 43.9689, -115.8458
+Placerville, 43.9433, -115.9461
+Plano, 43.8911, -111.8908
+Player Place, 42.0200, -114.8167
+Plaza, 43.9114, -116.4319
+Pleasant Valley, 43.4447, -116.2461
+Pleasant Valley Place, 42.5406, -116.8364
+Pleasant View, 47.6869, -117.0114
+Pleasantview, 42.1561, -112.3369
+Plummer, 47.3353, -116.8875
+Plummer Junction, 47.3400, -116.8686
+Pocatello, 42.8714, -112.4447
+Pocono, 47.2467, -116.0478
+Polaris, 47.5000, -116.0000
+Pollock, 45.3125, -116.3581
+Ponderay, 48.3056, -116.5328
+Ponds Resort, 44.5167, -111.3333
+Poplar, 43.6203, -111.6850
+Porthill, 48.9983, -116.4969
+Portneuf, 42.7950, -112.3628
+Post Falls, 47.7181, -116.9506
+Potlatch, 46.9217, -116.8972
+Potlatch Junction, 46.9294, -116.9325
+Potter Place, 45.3078, -116.4397
+Powell Junction, 46.5792, -114.7178
+Prairie, 43.5050, -115.5731
+Preston, 42.0964, -111.8758
+Prichard, 47.6564, -115.9753
+Priest Lake, 48.5253, -116.9378
+Priest River, 48.1808, -117.0358
+Princeton, 46.9142, -116.8331
+Punkin Corner, 43.3133, -114.9092
+Pyke, 43.9594, -111.7233
+Quartzburg, 43.9611, -115.9875
+Quigley, 42.7383, -113.0692
+Raft River, 42.7833, -112.8500
+Ramey, 44.0028, -116.9369
+Ramsdell, 47.3528, -116.6756
+Ramsey, 47.8644, -116.8072
+Rands, 43.3444, -114.6517
+Rankin Mill, 45.2664, -116.5447
+Rathdrum, 47.8125, -116.8956
+Raymond, 42.2747, -111.0581
+Reas Pass, 44.5661, -111.1908
+Rebecca, 44.2408, -116.8569
+Reclamation Village, 43.3356, -115.4878
+Red River Hot Springs, 45.7878, -115.1992
+Red Rock Junction, 42.3544, -112.0492
+Redfish Lake, 44.2167, -114.9333
+Regina, 43.3897, -115.9786
+Renfrew, 47.1442, -116.4375
+Reno(Clark), 44.1667, -112.2333
+Reno(Remhi), 44.2711, -112.9803
+Reubens, 46.3333, -116.5500
+Reverse, 43.0258, -115.6058
+Rexburg, 43.8261, -111.7889
+Reynolds, 43.2014, -116.7433
+Richfield, 43.0486, -114.1547
+Rickard Crossing, 42.2589, -116.6817
+Riddle, 42.1869, -116.1094
+Ridgedale, 42.0231, -112.4792
+Rigby, 43.6725, -111.9142
+Rigby Hospital, 43.8236, -111.7819
+Riggins, 45.4222, -116.3144
+Riggins Hot Springs, 45.4169, -116.1708
+Ririe, 43.6319, -111.7728
+Rising River, 43.3239, -112.3308
+Ritz, 48.7789, -116.3686
+Riverdale(Franklin), 42.1614, -111.8369
+Riverdale(Benewah), 47.3167, -116.5667
+Riverside(Bingham), 43.1969, -112.4344
+Riverside(Canyon), 43.5019, -116.7564
+Riverside(Clearwater), 46.4956, -116.2964
+Roberts, 43.7203, -112.1256
+Robin, 42.5772, -112.2458
+Robinson Bar, 44.2469, -114.6761
+Rock Creek, 42.4322, -114.3047
+Rock House Place, 42.1728, -114.7806
+Rockaway Beach, 47.7886, -116.6989
+Rockford, 43.1897, -112.5339
+Rockford Bay, 47.5053, -116.8775
+Rockland, 42.5733, -112.8764
+Rocky Bar, 43.6892, -115.2892
+Rocky Point, 47.3558, -116.7453
+Rogerson, 42.2181, -114.5933
+Roland, 47.3800, -115.6681
+Rookstool Corner, 43.7783, -116.8525
+Rose(Caribou), 42.6036, -111.5369
+Rose(Bingham), 43.2544, -112.3253
+Rose Lake, 47.5389, -116.4708
+Roseberry, 44.7308, -116.0489
+Roseworth, 42.3669, -114.9214
+Roswell, 43.7492, -116.9608
+Rouse, 43.2267, -112.4783
+Rover, 47.2033, -116.5753
+Roy, 42.3639, -112.8303
+Roy Summit, 42.3175, -112.8014
+Rubicon, 44.9822, -116.3678
+Ruby, 42.5039, -113.8219
+Rudo, 46.4892, -116.0114
+Rupert, 42.6192, -113.6764
