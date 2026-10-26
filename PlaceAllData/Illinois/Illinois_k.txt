@@ -1,0 +1,119 @@
+Kahm, 39.3278, -90.2608
+Kampsville, 39.2978, -90.6089
+Kane, 39.1900, -90.3536
+Kaneville, 41.8353, -88.5219
+Kangley, 41.1500, -88.8667
+Kangly, 41.1458, -88.8736
+Kankakee, 41.1200, -87.8611
+Kankakee State Hospital, 41.1031, -87.8619
+Kankakee Valley, 41.0167, -87.7167
+Kansas, 39.5528, -87.9394
+Kaolin, 37.5117, -89.3000
+Kappa, 40.6758, -89.0078
+Karbers Ridge, 37.5797, -88.3333
+Karnak, 37.2936, -88.9753
+Kasbeer, 41.5050, -89.4633
+Kaser, 39.2994, -90.4642
+Kaskaskia, 37.9214, -89.9131
+Kaufman, 38.8625, -89.7772
+Kedron(Henry), 41.4683, -89.8764
+Kedron(Gallatin), 37.6656, -88.3414
+Kedzie Grace, 41.9500, -87.7000
+Keene, 40.1500, -91.2000
+Keenes, 38.3381, -88.6431
+Keenesville(Wayne), 38.4022, -88.6481
+Keeneyville(Du Page), 41.9675, -88.1203
+Keensburg, 38.3506, -87.8686
+Kegley, 37.9094, -88.7431
+Keith, 38.5833, -88.4667
+Keithsburg, 41.0994, -90.9425
+Kell, 38.4911, -88.9064
+Keller, 40.7614, -89.5972
+Kellerville, 39.9311, -90.9344
+Kelleyville, 40.0500, -87.6333
+Kellogg, 38.0158, -90.0544
+Kelly, 41.0167, -90.5000
+Kellyville, 40.0558, -87.6392
+Kelsey, 40.2436, -90.0436
+Kemp, 39.6956, -88.1853
+Kemper, 39.2161, -90.1644
+Kemper Landing, 38.1619, -90.2750
+Kempside, 38.3172, -89.4267
+Kempton, 40.9356, -88.2372
+Ken Rock, 42.2167, -89.0667
+Kendall, 41.6000, -88.4167
+Kendall Hills, 38.8833, -90.0833
+Keneddy, 42.4833, -89.0333
+Kenilwicke, 42.1000, -88.0333
+Kenilworth, 42.0858, -87.7175
+Kennedy, 42.2425, -87.8714
+Kenner, 38.6458, -88.5681
+Kenney, 40.0967, -89.0858
+Kensington, 41.6781, -87.6072
+Kent, 42.3086, -89.9019
+Kentland, 41.5464, -88.4339
+Kentucky, 39.5933, -87.6111
+Kenwood, 40.1061, -88.2944
+Keptown, 39.0789, -88.6697
+Kernan, 41.1428, -88.7397
+Kerr, 40.3500, -87.9667
+Kerrick, 40.5531, -88.9875
+Kerton, 40.2500, -90.1833
+Kewanee, 41.2456, -89.9247
+Key West, 42.0500, -87.8833
+Keyesport, 38.7419, -89.2736
+Keyesport Landing, 38.7567, -89.2728
+Keys, 39.7800, -89.5731
+Kibbie, 39.0697, -87.9381
+Kickapoo, 40.7900, -89.7511
+Kidd, 38.1172, -90.1728
+Kidley, 39.7450, -87.5414
+Kilbourne, 40.1519, -90.0100
+Kildeer, 42.1706, -88.0478
+Kimberly Heights, 41.5833, -87.7667
+Kincaid, 39.5886, -89.4144
+Kinderhook, 39.7022, -91.1531
+King, 39.2308, -90.5789
+King, 39.4333, -89.5000
+Kingdom, 41.8936, -89.3936
+Kingman, 39.3003, -88.5597
+Kings(Ogle), 42.0042, -89.1058
+Kings(Coles), 39.6792, -87.9853
+Kings Cove, 42.1667, -87.8833
+Kings Island, 42.3842, -88.1808
+Kings Park, 41.6667, -88.0000
+Kingston(Adams), 39.8167, -91.0278
+Kingston(De Kalb), 42.0997, -88.7589
+Kingston Mines, 40.5583, -89.7747
+Kinkaid, 37.8167, -89.5333
+Kinmundy, 38.7733, -88.8467
+Kinsman, 41.1897, -88.5694
+Kirby Hospital, 40.0328, -88.5694
+Kirkland, 42.0925, -88.8511
+Kirksville, 39.5706, -88.6683
+Kirkwood, 40.8658, -90.7483
+Kisch, 39.9158, -90.2008
+Kise Crossing, 38.4203, -90.2578
+Kishwaukee, 42.1650, -89.1500
+Kishwaukee Glen, 42.2167, -89.0667
+Kittredge, 42.1331, -89.7789
+Klein Acres, 40.3167, -88.1333
+Klines Corner, 38.3717, -88.2589
+Klondike(Alexander), 37.0628, -89.2317
+Klondike(Lake), 42.4242, -88.1492
+Klondyke, 38.7167, -87.8667
+Knapp, 39.7147, -89.8167
+Knapp's Noll, 42.4667, -89.0833
+Knight Prairie, 38.0833, -88.6500
+Knob Hill, 41.6008, -88.4972
+Knollcrest, 41.5833, -87.6667
+Knollwood(Sangamon), 39.8167, -89.6167
+Knollwood(Lake), 42.2861, -87.8856
+Knottingham, 41.8000, -88.0167
+Knox, 40.9342, -90.2547
+Knoxville, 40.9083, -90.2847
+Kortcamp, 39.1667, -89.4667
+Kramm, 40.7581, -89.7819
+Kritesville, 39.0992, -90.6642
+Kuhn, 38.7819, -89.8764
+Kumler, 40.2997, -88.5781

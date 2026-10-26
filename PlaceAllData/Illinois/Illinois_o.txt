@@ -1,0 +1,160 @@
+O'Fallon, 38.5922, -89.9111
+O'Hare Airport, 41.9833, -87.8667
+Oak, 37.5764, -88.5178
+Oak Brook, 41.8328, -87.9289
+Oak Brook Shopping Center, 41.8000, -87.9333
+Oak Forest, 41.6028, -87.7439
+Oak Forest Hospital, 41.5983, -87.7325
+Oak Glen Nursing Home, 41.4061, -90.4742
+Oak Grove(Lake), 42.2964, -87.9167
+Oak Grove(Madison), 38.9500, -90.1833
+Oak Grove(Rock Island), 41.4106, -90.5706
+Oak Hill, 40.7875, -89.8664
+Oak Hills, 38.6381, -89.9806
+Oak Hills Estates, 42.2667, -89.0000
+Oak Knoll Sanatorium, 40.5378, -89.3300
+Oak Lawn, 41.7208, -87.7542
+Oak Meadows, 41.8667, -88.1833
+Oak Park, 41.8850, -87.7844
+Oak Park Hospital, 41.8786, -87.8031
+Oak Ridge, 40.8114, -89.4375
+Oak Run, 40.9167, -90.1167
+Oak Spring Woods, 42.2667, -87.9333
+Oakbrook Terrace, 41.8500, -87.9644
+Oakdale, 38.2617, -89.5014
+Oakdale Woods, 41.9500, -87.9667
+Oakford, 40.1025, -89.9631
+Oakglen, 41.5631, -87.5583
+Oakland, 39.6539, -88.0261
+Oakland Center, 40.2339, -90.5083
+Oaklawn, 40.2833, -87.6833
+Oakley, 39.8761, -88.8058
+Oakton, 42.0167, -87.9000
+Oakwood(Vermilion), 40.1161, -87.7783
+Oakwood(Du Page), 41.7833, -87.9833
+Oakwood(Peoria), 40.6833, -89.6167
+Oakwood Heights, 38.8817, -90.0683
+Oakwood Hills, 42.2464, -88.2428
+Oakwood Knolls, 42.4667, -88.1167
+Oakwood Shores, 42.3833, -88.4333
+Oautoga Bluff, 38.9500, -90.1833
+Obed, 39.5653, -88.9025
+Oblong, 39.0019, -87.9089
+Oconee, 39.2856, -89.1075
+Ocoya, 40.8050, -88.6839
+Odell, 41.0036, -88.5253
+Odgen, 38.4519, -87.8269
+Odin, 38.6172, -89.0522
+Ogden, 40.1139, -87.9561
+Ogden Park, 41.7833, -87.6667
+Ogle, 41.1072, -90.8836
+Ogles, 38.5467, -90.0547
+Oglesby, 41.2953, -89.0594
+Ohio, 41.5575, -89.4608
+Ohio Grove, 41.1167, -90.7167
+Ohlman, 39.3450, -89.2186
+Oil Center(Crawford), 38.9681, -87.8328
+Oil Center(Marion), 38.5167, -89.1333
+Oil Grove, 38.8628, -87.6417
+Oilfield, 39.3939, -87.9886
+Okaw, 39.4833, -88.7500
+Okawville, 38.4342, -89.5503
+Old Brownfield, 37.3589, -88.5964
+Old Camp, 37.8000, -89.0833
+Old Du Quoin, 37.9750, -89.1831
+Old Farm, 41.7833, -88.1500
+Old Gilchrist, 41.2311, -90.6250
+Old Kane, 39.1889, -90.3725
+Old Kaskaskia, 37.9489, -89.9219
+Old Marissa, 38.2583, -89.7542
+Old Mill Creek, 42.4219, -87.9725
+Old Mill Grove, 42.2000, -88.0500
+Old Niota, 40.6133, -91.3019
+Old Pearl, 39.4417, -90.6481
+Old Princeton, 39.8781, -90.1639
+Old Ripley, 38.8961, -89.5700
+Old Salem Chautauqua, 39.9922, -89.8353
+Old Shawneetown, 37.6969, -88.1367
+Old Stonington, 39.6333, -89.1833
+Olde Salem, 41.9667, -88.1000
+Oldenburg, 38.7969, -90.1014
+Oldtown(McLean), 40.4333, -88.8667
+Oldtown(Saline), 37.6022, -88.6883
+Olena, 40.7856, -90.9386
+Olga, 37.9914, -88.5769
+Olin, 40.7528, -89.7683
+Olio, 40.7167, -89.2333
+Olive, 38.9667, -89.7500
+Olive Branch, 37.1686, -89.3517
+Oliver, 39.4839, -87.6814
+Olivet, 39.9419, -87.6436
+Olmsted, 37.1806, -89.0889
+Olney, 38.7308, -88.0853
+Olympia Fields, 41.5133, -87.6742
+Olympia Gardens, 41.5167, -87.6333
+Olympic Terrace, 41.7833, -88.1500
+Olympic Village, 41.5167, -87.6333
+Omaha, 37.8903, -88.3031
+Omar, 37.5017, -88.9686
+Omega, 38.7044, -88.7806
+Omphghent, 38.9667, -89.8667
+Onarga, 40.7150, -88.0061
+Oneco, 42.4875, -89.6642
+Oneida, 41.0722, -90.2253
+Ontario, 41.0786, -90.3075
+Ontarioville, 41.9875, -88.1500
+Opdyke, 38.2597, -88.7906
+Opheim, 41.2500, -90.3833
+Ophiem, 41.2525, -90.3875
+Ophir, 41.5000, -88.9833
+Oquawka, 40.9319, -90.9469
+Ora, 37.9167, -89.4333
+Oran, 40.1833, -89.2000
+Orange, 39.2067, -87.8214
+Orange Prairie, 40.7775, -89.6697
+Orangemans Hall, 41.3136, -90.6081
+Orangeville, 42.4683, -89.6439
+Oraville, 37.8650, -89.3833
+Orchard, 38.5833, -88.6333
+Orchard Acres, 42.2333, -88.3500
+Orchard Heights, 38.7333, -88.0833
+Orchard Mines, 40.5892, -89.6778
+Orchard Valley, 42.3667, -87.8833
+Orchardville, 38.5064, -88.6503
+Oreana, 39.9386, -88.8656
+Oregon, 42.0147, -89.3322
+Orel, 38.3000, -88.5667
+Orient, 37.9183, -88.9775
+Orio, 38.5544, -87.7789
+Orion, 41.3547, -90.3814
+Orland, 41.6000, -87.8667
+Orland Hills, 41.6333, -87.8500
+Orland Park, 41.6303, -87.8539
+Orleans, 39.7236, -90.0794
+Orleans Terrace, 41.9333, -88.0000
+Ormonde, 40.8550, -90.6131
+Orvil, 40.2667, -89.4333
+Osage(Franklin), 37.8833, -89.1167
+Osage(La Salle), 41.0667, -88.9833
+Osbernville, 39.7611, -89.1786
+Osborn, 41.5225, -90.2731
+Osceola, 41.2131, -89.7797
+Osco, 41.3478, -90.2803
+Oskaloosa, 38.7597, -88.6489
+Osman, 40.2958, -88.4719
+Ospur, 40.0886, -88.9553
+Ossami Lake, 40.6167, -89.4833
+Oswego, 41.6828, -88.3514
+Otego, 38.9667, -88.9667
+Ottawa, 41.3456, -88.8425
+Otterville, 39.0506, -90.3983
+Otto, 41.0472, -87.8911
+Ottoville, 41.3333, -89.2000
+Ottville, 41.3481, -89.2586
+Owaneco, 39.4822, -89.1936
+Owego, 40.8833, -88.5333
+Owen, 42.3667, -89.1000
+Owen Center, 42.3683, -89.1169
+Oxford, 41.2000, -90.3833
+Oxville, 39.7047, -90.5611
+Ozark, 37.5425, -88.7628

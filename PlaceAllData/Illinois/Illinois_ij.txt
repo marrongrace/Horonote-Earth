@@ -1,0 +1,123 @@
+Idaville Corner, 40.5667, -87.9000
+Idlewild, 42.3531, -87.9928
+Idlewood, 38.3803, -88.9228
+Idylside, 41.5189, -88.1219
+Illiana, 40.1964, -87.5319
+Illiana Heights, 41.1689, -87.5431
+Illini, 39.9167, -89.0833
+Illinois City, 41.3975, -90.8994
+Illinois Veterans Home, 39.9167, -91.3833
+Illiopolis, 39.8536, -89.2419
+Imbs, 38.5236, -90.1353
+Imperial, 42.2667, -87.9333
+Ina, 38.1511, -88.9039
+Independence(Pike), 39.5314, -90.7914
+Independence(Saline), 37.6500, -88.5333
+Indian Creek, 42.2269, -87.9797
+Indian Grove, 40.7167, -88.5167
+Indian Head Park, 41.7703, -87.9022
+Indian Hill(Du Page), 41.7833, -88.1500
+Indian Hill(Cook), 41.5017, -87.6478
+Indian Hills, 41.5167, -87.6333
+Indian Oaks(Kankakee), 41.1917, -87.8514
+Indian Oaks(Will), 41.6667, -88.0000
+Indian Point(Knox), 40.7667, -90.3833
+Indian Point(Lake), 42.4667, -88.1167
+Indian Prairie, 38.5167, -88.5333
+Indian Ridge, 42.3833, -88.4333
+Indian Trail Estates, 42.1667, -87.8833
+Indianola, 39.9272, -87.7400
+Indiantown, 41.2833, -89.5667
+Industry, 40.3278, -90.6069
+Ingalls Memorial Hospital, 41.6072, -87.6606
+Ingalls Park, 41.5225, -88.0428
+Ingalton, 41.9061, -88.2036
+Ingleside, 42.3811, -88.1397
+Ingleside Shore, 42.4017, -88.1442
+Ingraham, 38.8361, -88.3339
+Ingram Hill, 37.7333, -88.5500
+Inman, 37.8378, -88.1731
+International Village, 41.8833, -88.0167
+Inverness, 42.1181, -88.0961
+Iola, 38.8344, -88.6281
+Iowa Junc, 40.6578, -89.6381
+Iowa Junction, 40.6872, -91.0600
+Ipava, 40.3514, -90.3244
+Irene, 42.1703, -88.9003
+Irish Grove, 40.0833, -89.6167
+Irishtown, 38.7000, -89.3333
+Iron, 37.9739, -88.2414
+Iroquois, 40.8275, -87.5819
+Irving, 39.2058, -89.4044
+Irving Park, 41.9500, -87.7500
+Irvington, 38.4392, -89.1628
+Irwin, 41.0522, -87.9839
+Irwins Park, 39.6261, -89.7261
+Isabel(Edgar), 39.6553, -87.9500
+Isabel(Fulton), 40.3167, -90.1667
+Island Grove(Jasper), 39.1333, -88.4667
+Island Grove(Sangamon), 39.7242, -89.9608
+Island Lake, 42.2761, -88.1919
+Itasca, 41.9750, -88.0072
+Itasca Ranchettes, 41.9667, -88.0167
+Iuka, 38.6161, -88.7903
+Ivanhoe(Cook), 41.6333, -87.6333
+Ivanhoe(Lake), 42.2789, -88.0419
+Ivesdale, 39.9433, -88.4553
+Ivy, 38.1514, -90.2342
+Ivy Glen, 41.7833, -88.3333
+Ivy Heights, 38.8833, -90.0833
+Jackson Heights, 38.9500, -90.1833
+Jackson Park, 41.7833, -87.6000
+Jackson Park Hospital, 41.7575, -87.5850
+Jacksonville, 39.7339, -90.2289
+Jacob, 37.7450, -89.5369
+Jalapa, 39.2206, -90.3242
+Jamaica, 39.9911, -87.8067
+Jamesburg, 40.2622, -87.7489
+Jamestown(Clinton), 38.7339, -89.5144
+Jamestown(Perry), 38.0497, -89.5292
+Janesville, 39.3742, -88.2436
+Jaques, 39.8839, -90.7431
+Jarvis, 38.7000, -89.8833
+Jasper, 38.4333, -88.3167
+Jefferson, 41.9667, -87.7500
+Jeffersonville, 38.4425, -88.4042
+Jeffries, 37.8167, -88.9333
+Jeiseyville, 39.5833, -89.4000
+Jeisyville, 39.5772, -89.4050
+Jenkins(De Witt), 40.1528, -89.0336
+Jenkins(Williamson), 37.8542, -88.9275
+Jerome, 39.7675, -89.6806
+Jersey, 39.1500, -90.3000
+Jerseyville, 39.1200, -90.3283
+Jewell Road, 41.8767, -88.1358
+Jewett, 39.2078, -88.2458
+Jimtown, 38.9878, -89.2125
+Joetta, 40.4336, -90.9314
+Johannisburg, 38.3844, -89.6531
+Johnsburg, 42.3800, -88.2419
+Johnsonville(Vermilion), 40.2106, -87.6697
+Johnsonville(Wayne), 38.5222, -88.5369
+Johnston City, 37.8206, -88.9275
+Johnstown, 39.3633, -88.2869
+Joliet, 41.5250, -88.0817
+Jonathan Creek, 39.6500, -88.5333
+Jones, 39.4525, -88.3358
+Jones Ridge, 37.8003, -89.6253
+Jonesboro, 37.4517, -89.2681
+Jonesville, 41.3114, -89.0714
+Joppa, 37.2064, -88.8447
+Joppa Junction, 37.3297, -89.0314
+Jordan, 41.8833, -89.6833
+Joshua, 40.5833, -90.1500
+Joslin, 41.5572, -90.2219
+Joy, 41.1967, -90.8803
+Joy Prairie, 39.7867, -90.2981
+Jubilee, 40.8500, -89.8167
+Jules, 39.9681, -90.2603
+Julien Hill, 37.4750, -88.4786
+Junction, 37.7233, -88.2367
+Junction City(Peoria), 40.7500, -89.6167
+Junction City(Glen Ridge,Marion), 38.5803, -89.1278
+Justice, 41.7444, -87.8378

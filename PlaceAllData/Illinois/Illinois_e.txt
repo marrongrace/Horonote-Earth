@@ -1,0 +1,218 @@
+Eagerville, 39.1117, -89.7839
+Eagle(La Salle), 41.1500, -88.9000
+Eagle(Saline), 37.6511, -88.3928
+Eagle Creek, 37.6500, -88.3167
+Eagle Heights, 42.0333, -88.2833
+Eagle Lake, 41.3500, -87.6167
+Eagle Park, 38.6833, -90.1167
+Eagle Point, 41.9936, -89.6847
+Eagle Point Bay, 37.5500, -88.9667
+Earl, 41.5833, -88.8667
+Earlville, 41.5894, -88.9219
+East Alton, 38.8803, -90.1111
+East Bend, 40.3500, -88.2833
+East Brooklyn, 41.1733, -88.2639
+East Cape Girardeau, 37.3167, -89.4333
+East Carondelet, 38.5419, -90.2328
+East Chicago Heights, 41.5064, -87.5917
+East Clinton, 41.8369, -90.1650
+East Dubuque, 42.4922, -90.6428
+East Dundee(Dundee Station), 42.0989, -88.2714
+East Eldorado, 37.8167, -88.4333
+East Fulton, 41.8667, -90.1500
+East Galena, 42.4167, -90.3833
+East Galesburg, 40.9478, -90.3100
+East Gillespie, 39.1408, -89.8122
+East Grove, 41.6333, -89.4500
+East Hannibal, 39.7297, -91.3508
+East Hardin, 39.1600, -90.6089
+East Hazel Crest, 41.5736, -87.6464
+East Joliet, 41.5350, -88.0517
+East Keokuk, 40.4000, -91.4000
+East Lincoln, 40.1833, -89.3000
+East Loon Lake, 42.4667, -88.1167
+East Lynn, 40.4664, -87.8000
+East Marion, 37.7333, -88.8667
+East Meadowbrook, 38.9000, -90.0167
+East Meadowview, 41.1500, -87.8667
+East Moline, 41.5008, -90.4442
+East Moline Garden Plaza Nursing Home, 41.4981, -90.4508
+East Moline Nursing Home, 41.4853, -90.4381
+East Moline State Hospital, 41.5364, -90.4186
+East Monroe, 37.5667, -88.3000
+East Nelson, 39.5667, -88.5333
+East Newbern, 39.0144, -90.3133
+East Oakland, 39.6333, -88.0167
+East Peoria, 40.6661, -89.5800
+East River, 41.0167, -87.7167
+East Rockford, 42.2833, -89.0667
+East Saint Louis, 38.6244, -90.1508
+East Side, 41.7122, -87.5319
+East Wenona, 41.0667, -89.0500
+East Winchester, 39.6167, -90.4167
+Eastburn, 40.7731, -87.6356
+Eastern, 37.9833, -88.7667
+Eastern Star Sanitarium, 39.7078, -88.9894
+Easton, 40.2325, -89.8425
+Eastwood Manor, 42.3456, -88.2411
+Eaton, 39.0897, -87.8014
+Eberle, 38.9425, -88.4569
+Ebner, 41.9319, -90.1075
+Echo Lake, 42.2000, -88.0500
+Eckard, 40.3197, -89.9889
+Eddy, 42.4614, -87.8983
+Eddyville, 37.4989, -88.5878
+Edelstein, 40.9408, -89.6292
+Eden(La Salle), 41.2333, -89.1000
+Eden(Peoria), 40.6889, -89.8328
+Eden(Randolph), 38.1206, -89.6675
+Eden Park, 37.7550, -89.0239
+Edford, 41.4500, -90.2500
+Edgar, 39.7556, -87.7011
+Edgebrook, 42.0000, -87.7667
+Edgemont, 38.5936, -90.0636
+Edgetown, 41.1794, -87.5756
+Edgewater Hospital, 41.9853, -87.6703
+Edgewood(Effingham), 38.9206, -88.6614
+Edgewood(Madison), 38.9500, -90.1833
+Edgewood(Woodford), 40.7167, -89.2833
+Edgewood(Champaign), 40.1000, -88.2000
+Edgewood Heights, 42.2667, -89.0000
+Edgington, 41.3833, -90.7333
+Edginton, 41.3869, -90.7636
+Edinburg, 39.6572, -89.3894
+Edison Square, 42.3833, -87.8667
+Edward Hospital, 41.7611, -88.1497
+Edwards, 40.7458, -89.7442
+Edwardsville, 38.8114, -89.9531
+Effingham, 39.1200, -88.5433
+Effner, 40.7706, -87.5261
+Egan, 42.1883, -89.4058
+Egyptian Hills, 37.6167, -88.8333
+Egyptian Shores, 37.6167, -88.8333
+Eichorn, 37.4911, -88.4053
+Eileen, 41.2942, -88.2711
+El Dara, 39.6225, -90.9917
+El Morro, 41.6000, -87.7500
+El Paso, 40.7392, -89.0164
+El Sierra, 41.8000, -88.0167
+El Vista(Cook), 41.6000, -87.7500
+El Vista(Peoria), 40.7289, -89.6292
+El-Rancho, 41.0833, -87.8833
+Ela, 42.2000, -88.0667
+Elba(Gallatin), 37.8264, -88.3264
+Elba(Knox), 40.8500, -90.0500
+Elba Center, 40.8442, -90.0431
+Elbow, 38.6422, -88.1217
+Elbridge, 39.5125, -87.5828
+Elburn, 41.8922, -88.4722
+Elco, 37.3006, -89.2658
+Eldena, 41.7711, -89.4100
+Elderville, 40.3303, -91.2944
+Eldorado, 37.8136, -88.4381
+Eldred, 39.2875, -90.5522
+Eldridge, 41.1594, -87.7200
+Eleanor, 40.9828, -90.6950
+Eleroy, 42.3325, -89.7606
+Elgin, 42.0372, -88.2811
+Elgin State Hospital, 42.0150, -88.2942
+Eliza, 41.2958, -90.9675
+Elizabeth, 42.3178, -90.2214
+Elizabethtown, 37.4458, -88.3050
+Elk, 37.9000, -89.2333
+Elk Grove, 41.9983, -88.0036
+Elk Grove Village, 42.0039, -87.9703
+Elk Prairie, 38.1667, -88.9833
+Elk Ridge Villa, 42.0667, -87.9500
+Elkhart, 40.0206, -89.4828
+Elkhorn, 39.8833, -90.7333
+Elkhorn Grove, 42.0081, -89.7344
+Elkton, 38.2917, -89.5567
+Elkville, 37.9100, -89.2358
+Ellery, 38.3547, -88.1486
+Ellington, 39.9667, -91.3333
+Elliott, 40.4647, -88.2722
+Elliottstown, 39.0011, -88.4528
+Ellis(Christian), 39.5900, -89.5289
+Ellis(Sangamon), 39.9467, -89.5986
+Ellis(Vermilion), 40.3553, -87.8850
+Ellis Grove, 38.0089, -89.9058
+Ellison, 40.7667, -90.7167
+Ellisville, 40.6267, -90.3050
+Ellsworth, 40.4503, -88.7167
+Ellwood, 42.1000, -88.7000
+Elm Estates, 41.9000, -87.9500
+Elm Grove, 40.5333, -89.5667
+Elm River, 38.5167, -88.3167
+Elmhurst, 41.8994, -87.9403
+Elmira, 41.1797, -89.8317
+Elmore, 40.9567, -89.9769
+Elmoville, 42.2656, -90.0469
+Elmwood, 40.7778, -89.9664
+Elmwood Park, 41.9211, -87.8092
+Elsah, 38.9561, -90.3597
+Elsdon, 41.7936, -87.7217
+Elva, 41.8642, -88.7761
+Elvaston, 40.3950, -91.2494
+Elvira, 37.4933, -89.0294
+Elwin, 39.7789, -88.9800
+Elwood, 41.4039, -88.1117
+Embarrass, 39.5172, -88.0911
+Emden, 40.2986, -89.4850
+Emerald Green, 41.8167, -88.1833
+Emerald Park, 42.3189, -88.2503
+Emerald Terrace, 38.5167, -89.9833
+Emerson, 41.8061, -89.7647
+Emerson City, 38.1394, -89.0453
+Emery, 39.9792, -88.9511
+Eminence, 40.2833, -89.3167
+Emington, 40.9697, -88.3581
+Emma, 37.9747, -88.1203
+Emmet, 40.5000, -90.7333
+Empire, 40.3056, -88.7075
+Enchanted Forest, 40.7000, -89.6333
+Energy, 37.7739, -89.0264
+Enfield, 38.0994, -88.3375
+Englemann, 38.4333, -89.7667
+Englewood, 41.7797, -87.6458
+Englewood Hospital, 41.7850, -87.6453
+English, 39.1333, -90.4333
+Enion, 40.2750, -90.1772
+Enos, 39.3011, -90.0075
+Enright, 40.7397, -88.9669
+Enterprise, 38.5222, -88.3575
+Eola, 41.7775, -88.2428
+Eppards Point, 40.8000, -88.6333
+Epplyanna, 42.4250, -89.4442
+Epworth, 38.0706, -88.1061
+Equality, 37.7339, -88.3433
+Erie, 41.6564, -90.0792
+Erienna, 41.3500, -88.5333
+Erin, 42.3333, -89.7667
+Ernst, 39.3161, -87.6731
+Erwin, 40.1319, -90.7089
+Esmen, 40.9833, -88.6500
+Esmond, 42.0336, -88.9356
+Essex, 41.1772, -88.1856
+Estate Lane, 42.0667, -87.8000
+Etherton, 37.6853, -89.3211
+Etna, 39.3894, -88.4197
+Euclid Lake, 42.0667, -87.9500
+Eureka, 40.7214, -89.2728
+Evangelical Hospital, 41.7953, -87.6494
+Evans(Marshall), 41.0381, -89.1056
+Evans(Logan), 40.2217, -89.3639
+Evanston, 42.0411, -87.6900
+Evanston Hospital, 42.0664, -87.6839
+Evansville, 38.0903, -89.9383
+Evarts, 42.2531, -89.4744
+Evergreen Park, 41.7206, -87.7017
+Evers, 39.0981, -88.4533
+Ewbanks, 39.9786, -91.3194
+Ewing, 38.0886, -88.8522
+Exermont, 38.6478, -90.0464
+Exeter, 39.7208, -90.4964
+Exline, 41.1500, -87.7683
+Exposition View, 41.7925, -88.3436
+Eylar, 40.9122, -88.4528
+Ezra, 37.9000, -88.9167

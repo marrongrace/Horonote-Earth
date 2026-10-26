@@ -1,0 +1,448 @@
+Caber, 40.9958, -88.2053
+Cabery, 41.0000, -88.2000
+Cable, 41.2839, -90.5072
+Cache, 37.1000, -89.2614
+Cadiz, 37.5792, -88.2264
+Cadwell, 39.6811, -88.5217
+Cahokia, 38.5708, -90.1900
+Cairo, 37.0053, -89.1764
+Cairo Junction, 37.0408, -89.1917
+Caldwell, 40.6422, -89.5156
+Caledonia, 42.3694, -88.8925
+Caledonia Landing, 37.1792, -89.0719
+Calhoun, 38.6503, -88.0436
+Calloway, 39.5622, -89.3553
+Calumet City, 41.6156, -87.5294
+Calumet Park, 41.6628, -87.6606
+Calvin, 38.2081, -88.0186
+Camargo, 39.8003, -88.1639
+Cambon, 37.8994, -88.9981
+Cambria, 37.7814, -89.1192
+Cambridge, 41.3036, -90.1928
+Cambridge, 42.2667, -87.9333
+Cambridge-on-the-Lake, 42.1500, -87.9500
+Camden, 40.1536, -90.7706
+Cameo Terrace, 42.1500, -87.9500
+Cameron, 40.8889, -90.5172
+Camp Algonquin, 42.1831, -88.2678
+Camp Epworth, 42.2500, -88.7333
+Camp Ground, 38.3389, -88.8350
+Camp Grove, 41.0789, -89.6331
+Camp Point, 40.0392, -91.0692
+Camp Travis, 38.6600, -88.3314
+Campbell(Coles), 39.4167, -88.3000
+Campbell(Vermilion), 40.1911, -87.5794
+Campbell Hill, 37.9300, -89.5489
+Campbells Island, 41.5000, -90.4333
+Campton, 41.9000, -88.4333
+Campus, 41.0233, -88.3061
+Campus Walk, 42.0333, -88.2833
+Candlewood Estates, 40.2000, -88.4000
+Canoe Creek, 41.6167, -90.2000
+Canteen, 38.6333, -90.0667
+Canterbury Lane, 42.0667, -87.8000
+Canton, 40.5581, -90.0350
+Cantrall, 39.9378, -89.6758
+Capitol, 39.8000, -89.6500
+Capitol Oaks, 38.5833, -89.9667
+Capri Gardens, 42.1000, -88.0333
+Capri Village, 42.1000, -88.0333
+Capron, 42.3997, -88.7403
+Carbon, 38.5939, -89.9392
+Carbon Cliff, 41.4947, -90.3906
+Carbon Hill, 41.2969, -88.3000
+Carbondale, 37.7272, -89.2167
+Cardiff, 41.0517, -88.2872
+Carle Hospital, 40.1172, -88.2150
+Carle Springs, 40.2536, -88.9669
+Carlin Prec, 39.3500, -90.6500
+Carlinville, 39.2797, -89.8817
+Carlock, 40.5822, -89.1319
+Carlsburg, 39.0833, -89.7222
+Carlyle, 38.6103, -89.3725
+Carman, 40.7406, -91.0594
+Carmi, 38.0908, -88.1586
+Carol Stream, 41.9125, -88.1347
+Carpenter, 38.8919, -89.8942
+Carpentersville, 42.1211, -88.2578
+Carriage Creek, 41.4833, -87.7167
+Carrier Mills, 37.6842, -88.6328
+Carrigan, 38.6333, -89.0833
+Carroll, 39.9167, -87.7500
+Carrollton, 39.3022, -90.4069
+Carrollwood, 38.8667, -90.0833
+Carson, 39.1500, -89.0000
+Carterville, 37.7600, -89.0772
+Carthage(Hancock), 40.4164, -91.1361
+Carthage(Ogle), 41.9189, -89.3136
+Carthage Lake, 40.7906, -91.0753
+Cartter, 38.5411, -88.9122
+Cartwright, 39.8500, -89.9000
+Cary, 42.2119, -88.2381
+Cascade, 39.6703, -89.4919
+Casey, 39.2992, -87.9925
+Caseyville, 38.6367, -90.0256
+Casner(Jefferson), 38.3500, -89.0833
+Casner(Macon), 39.8003, -88.7911
+Cass(Cass), 39.9681, -90.2692
+Cass(Fulton), 40.5000, -90.2667
+Castle Fin, 39.4700, -87.7333
+Castle Junction, 41.3925, -90.5778
+Castleton, 41.1178, -89.7061
+Catharine, 41.5231, -88.7192
+Catlin, 40.0650, -87.7019
+Caton Farm, 41.5653, -88.2392
+Cave, 37.9000, -88.7667
+Cave in Rock, 37.4692, -88.1664
+Cayuga, 40.9411, -88.5836
+Cazenovia, 40.8503, -89.3319
+Cedar, 40.8500, -90.3833
+Cedar Glen, 41.6833, -88.3500
+Cedar Grove, 37.7667, -88.9333
+Cedar Island, 42.4000, -88.1833
+Cedar Park, 38.7556, -90.1039
+Cedar Point, 41.2631, -89.1256
+Cedar Run, 42.1500, -87.9500
+Cedarville, 42.3758, -89.6331
+Center Hill, 42.0808, -90.0461
+Centerville(Macoupin), 39.1008, -89.9781
+Centerville(Piatt), 40.1233, -88.4961
+Centerville(Kalhoun), 38.9303, -90.5717
+Centerville(Knox), 41.0644, -90.0542
+Centerville(White), 38.2006, -88.1661
+Central, 41.4739, -88.4339
+Central City(Marion), 38.5489, -89.1269
+Central City(Grundy), 41.2378, -88.2817
+Central Park, 40.2833, -87.6833
+Centralia, 38.5250, -89.1333
+Centreville, 38.5833, -90.1250
+Century Oaks West, 42.0333, -88.2833
+Cereal, 40.7083, -88.3511
+Cermak Plaza, 41.8500, -87.8000
+Cerro Gordo, 39.8906, -88.7281
+Chadwick, 42.0133, -89.8906
+Chalfin Bridge, 38.2119, -90.2686
+Challacombe, 39.2183, -90.1211
+Chalmers, 40.4167, -90.7167
+Chambersburg, 39.8172, -90.6572
+Chambord, 41.8000, -87.9333
+Champaign, 40.1164, -88.2433
+Champlin, 40.7831, -88.5458
+Chana, 41.9806, -89.2197
+Chandlerville, 40.0481, -90.1550
+Channahon, 41.4294, -88.2286
+Channel Lake, 42.4833, -88.1500
+Chantilly, 42.1833, -87.8167
+Chanute Air Force Base, 40.3000, -88.1500
+Chapin, 39.7658, -90.3989
+Chapman, 39.1056, -89.3169
+Charleston, 39.4961, -88.1761
+Charlotte, 40.8197, -88.2889
+Charter Grove, 42.0664, -88.6314
+Chasco, 37.3192, -89.0214
+Chateau Terrace, 38.5333, -90.0000
+Chatham, 39.6761, -89.7044
+Chatsworth, 40.7536, -88.2919
+Chatton, 40.1508, -91.0328
+Chauncey, 38.8353, -87.8708
+Chautauqua, 38.9644, -90.3856
+Chautauqua Park, 40.3228, -90.0519
+Chebanse, 41.0031, -87.9081
+Checkrow, 40.5542, -90.3781
+Chelsea Cove, 42.1500, -87.9500
+Chemung, 42.4153, -88.6667
+Cheney Grove, 40.4333, -88.5167
+Cheneyville, 40.4692, -87.5847
+Chenoa, 40.7417, -88.7197
+Chenot Place, 38.5167, -89.9833
+Cherry, 41.4269, -89.2133
+Cherry Grove, 42.1500, -89.8000
+Cherry Hill, 41.5233, -88.0144
+Cherry Point, 39.7992, -87.7211
+Cherry Valley, 42.2347, -88.9489
+Cherrywood(Will), 41.6667, -88.0000
+Cherrywood(Christian), 39.5667, -89.3500
+Cherwood Ford, 39.2019, -88.2133
+Chester, 37.9136, -89.8219
+Chesterfield, 39.2550, -90.0631
+Chestervale, 40.0922, -89.3217
+Chesterville, 39.7033, -88.3911
+Chestline, 39.8447, -90.9597
+Chestnut(Logan), 40.0536, -89.1853
+Chestnut(Knox), 40.7667, -90.2833
+Chicago, 41.8500, -87.6500
+Chicago Heights, 41.5061, -87.6356
+Chicago Lawn, 41.7833, -87.7167
+Chicago Ridge, 41.7014, -87.7792
+Chicago State Hospital, 41.9564, -87.7931
+Childrens Hospital, 41.9258, -87.6467
+Chili, 40.2178, -91.1414
+Chillicothe, 40.9222, -89.4861
+Chilon Chalet, 41.5167, -87.6333
+China, 41.8167, -89.3167
+Chinatown, 38.7269, -89.9469
+Chippendale, 42.1500, -88.1000
+Chippewa, 41.6667, -87.7167
+Chipps, 39.6331, -88.5811
+Chittenden, 42.3667, -87.8833
+Chittyville, 37.8294, -89.0278
+Choat, 37.2133, -88.7986
+Choctaw, 39.2822, -87.7214
+Chouteau, 38.7833, -90.0833
+Chrisman, 39.8036, -87.6736
+Christopher, 37.9725, -89.0533
+Christy, 38.7000, -87.8500
+Churchill, 41.3875, -89.1722
+Churchville, 41.9350, -87.9539
+Cicero, 41.8456, -87.7539
+Cimic, 39.5900, -89.6558
+Cincinnati Landing, 39.5983, -91.1747
+Cinnamon Creek, 41.6667, -88.0000
+Cisco, 40.0114, -88.7261
+Cisne, 38.5158, -88.4375
+Cissna Park, 40.5647, -87.8931
+Citation Lake Estates, 42.1167, -87.8167
+City Park, 39.5667, -89.3500
+Clank, 37.1883, -89.3250
+Clare, 42.0161, -88.8292
+Claremont, 38.7194, -87.9714
+Clarence, 40.4639, -87.9708
+Clarendon Hills, 41.7975, -87.9547
+Clarion, 41.5050, -89.1919
+Clark, 39.2597, -90.5778
+Clark Center, 39.3625, -87.7819
+Clarke City, 41.1581, -88.2428
+Clarksburg, 39.3300, -88.7417
+Clarksdale, 39.4897, -89.3678
+Clarksville(Clark), 39.4517, -87.7978
+Clarksville(McLean), 40.6506, -88.8483
+Clarmin, 38.2211, -89.6994
+Claus, 41.3697, -87.6100
+Clay City, 38.6886, -88.3542
+Claypool, 41.3667, -88.4167
+Clays Prairie, 39.6869, -87.5633
+Claysville, 39.8672, -89.9003
+Clayton, 40.0314, -90.9606
+Claytonville, 40.5669, -87.8231
+Clear Lake(Cass), 40.0506, -90.3089
+Clear Lake(Sangamon), 39.8136, -89.5686
+Clearing, 41.7781, -87.7617
+Cleburne, 37.9358, -89.0536
+Clement, 38.6000, -89.3000
+Clements, 39.6189, -90.1508
+Cleone, 39.4231, -87.9075
+Cleveland, 41.5061, -90.3147
+Cliffdale, 39.3606, -90.6264
+Clifford, 37.8236, -89.0772
+Clifton, 40.9353, -87.9344
+Clifton Terrace, 38.9294, -90.2556
+Clifty Heights, 37.7667, -88.9333
+Clinch, 38.0167, -89.2333
+Clinton, 40.1536, -88.9644
+Clintonia, 40.1667, -88.9833
+Clover, 41.2000, -90.2667
+Cloverdale(Du Page), 41.9394, -88.1203
+Cloverdale(Tazewell), 40.6403, -89.5161
+Cloverleaf(Madison), 38.6833, -90.1167
+Cloverleaf(Rock Island), 41.5000, -90.5000
+Clyde(Cook), 41.8500, -87.7667
+Clyde(Whiteside), 41.8833, -89.9167
+Coach Light Manor, 42.0667, -87.9500
+Coal City, 41.2878, -88.2856
+Coal Hollow, 41.3656, -89.3633
+Coal Valley, 41.4286, -90.4608
+Coaler, 40.7472, -87.7331
+Coalton(Montgomery), 39.2828, -89.3011
+Coalton(Vermilion), 40.4325, -87.5900
+Coatsburg, 40.0328, -91.1575
+Cobblestone, 42.0667, -87.8000
+Cobblewood, 42.1167, -87.8167
+Cobden, 37.5314, -89.2533
+Coe, 41.6167, -90.2667
+Coello(North City), 37.9942, -89.0672
+Coffee, 38.3333, -87.8667
+Coffeen, 39.0892, -89.3906
+Colby Point, 42.2964, -88.2400
+Colchester, 40.4264, -90.7925
+Cold Spring, 39.3000, -88.9667
+Coldbrook, 40.9475, -90.5172
+Cole Hospital, 40.1178, -88.2567
+Coleman, 41.9786, -88.2972
+Coles, 39.5203, -88.4711
+Coleta, 41.9022, -89.8022
+Colfax, 40.5669, -88.6164
+College Heights, 37.8167, -88.4500
+College Park, 42.0333, -88.2833
+College View, 41.5833, -88.0500
+Collins(Randolph), 38.0208, -89.9478
+Collins(Will), 41.5833, -88.1833
+Collins(Winnebago), 42.4833, -89.0333
+Collinsville, 38.6703, -89.9844
+Collison, 40.2250, -87.8039
+Colmar, 40.3453, -90.8911
+Coloma, 41.7833, -89.6833
+Colona, 41.4839, -90.3531
+Colonial Gardens, 42.3167, -89.0333
+Colonial Heights, 42.0667, -87.9500
+Colonial Ridge, 42.0500, -87.8833
+Colonial Village(Will), 41.6667, -88.0000
+Colonial Village(Madison), 38.9500, -90.1833
+Colony Park, 41.8833, -88.0833
+Colony Point, 42.1667, -87.8833
+Colp, 37.8053, -89.0800
+Columbia, 38.4436, -90.2011
+Columbus, 39.9881, -91.1467
+Columbus Hospital, 41.9297, -87.6394
+Colusa, 40.5708, -91.1678
+Colvin Park, 42.1381, -88.7833
+Combs, 40.1194, -88.6103
+Comer, 39.2931, -89.9706
+Como, 41.7664, -89.7669
+Compro, 39.5897, -89.7825
+Compromise, 40.2667, -88.0000
+Compton, 41.6944, -89.0811
+Conant, 38.0558, -89.4822
+Concord, 39.8167, -90.3728
+Concord Green, 42.2667, -87.9333
+Condell Memorial Hospital, 42.2747, -87.9569
+Condit, 40.2667, -88.2833
+Confidence, 38.9228, -88.9264
+Congerville, 40.6169, -89.2042
+Congress Park, 41.8333, -87.8500
+Conlogue, 39.5900, -87.7903
+Connelly Ford, 39.2525, -87.9250
+Conover(Kendall), 41.6500, -88.4500
+Conover(Mason), 40.1772, -90.0239
+Conrad, 38.9253, -90.6169
+Continental Village, 42.3833, -87.8667
+Cooks Mills, 39.5825, -88.4061
+Cooksville, 40.5431, -88.7164
+Cooper(Sangamon), 39.7500, -89.4333
+Cooper(Tazewell), 40.6603, -89.4042
+Cooperstown, 39.9639, -90.6064
+Copley, 41.0167, -90.1500
+Copley Hospital, 41.7467, -88.3178
+Cora, 37.8239, -89.6703
+Coral, 42.2172, -88.5644
+Coral Gable, 38.6000, -89.9667
+Cordes, 38.2961, -89.4572
+Cordova, 41.6803, -90.3189
+Corinth, 37.8189, -88.7764
+Cornell, 40.9900, -88.7292
+Cornerville, 37.9069, -88.6233
+Cornland, 39.9372, -89.4022
+Cornwall, 41.3667, -90.0333
+Cortese, 41.0833, -87.8833
+Cortland, 41.9200, -88.6886
+Corwin, 40.1000, -89.5333
+Costin, 40.4833, -88.9833
+Cottage, 37.7333, -88.4167
+Cottage Grove, 37.7481, -88.4106
+Cottage Hills, 38.9031, -90.0700
+Cotton Hill, 39.6667, -89.5500
+Cottonwood, 37.8892, -88.2131
+Coughlin, 40.8958, -89.4964
+Coulterville, 38.1864, -89.6056
+Council Hill, 42.4886, -90.3536
+Country Acres, 38.5167, -89.9833
+Country Aire, 42.0333, -88.2833
+Country Club Hills, 41.5681, -87.7203
+Country Club Manor, 41.5833, -87.7667
+Country Club Place, 38.5167, -89.9833
+Country Club Terrace, 38.5167, -89.9833
+Country Courts, 41.5000, -90.5000
+Country Esquire, 40.1000, -88.2000
+Country Fair, 40.1167, -88.2500
+Country Gardens, 42.1167, -87.9333
+Country Heights, 38.3000, -88.9167
+Country Knolls, 42.0333, -88.2833
+Country Lake, 41.7833, -88.1500
+Country Manor, 39.1167, -88.5500
+Country View Estates, 41.7833, -88.1500
+Country View Nursing Home, 39.1083, -89.8161
+Countryside(Cooke), 41.7828, -87.8781
+Countryside(Kane), 41.6500, -88.4500
+Countryside Lake, 42.2333, -87.9833
+Countryside Manor, 42.2667, -87.9333
+County Sanitorium, 41.4831, -90.5700
+Covel, 40.4833, -88.9833
+Covell, 40.4428, -89.1083
+Coventry, 42.2333, -88.3500
+Covington, 38.4547, -89.4358
+Cowden, 39.2483, -88.8622
+Cowling, 38.3114, -87.9392
+Coyne, 42.1836, -88.4519
+Coyne Center, 41.4047, -90.5592
+Coynes, 41.5756, -88.1428
+Crab Orchard, 37.7292, -88.8042
+Crab Orchard Estates, 37.7494, -89.1475
+Cragin, 41.9167, -87.7500
+Craig Place, 41.8833, -88.0167
+Crain, 37.7800, -89.5078
+Crainville, 37.7519, -89.0678
+Cramer, 40.6911, -89.9469
+Crandall, 40.6328, -89.4319
+Crane Creek, 40.1667, -89.8833
+Crater Prec, 39.2667, -90.6333
+Cravat, 38.4236, -89.0931
+Crawford Countryside, 41.5208, -87.7133
+Creal Springs, 37.6194, -88.8367
+Creek, 40.1000, -88.8500
+Creekside, 41.5000, -87.7000
+Creekwood, 41.6667, -88.0000
+Crenshaw, 37.7667, -88.9333
+Crenshaw Crossing, 37.7739, -88.9794
+Crescent(Iroquois), 40.7333, -87.8333
+Crescent(Tazewell), 40.5472, -89.6656
+Cresent(Cresent City P O), 40.7700, -87.8589
+Cress Creek, 41.7833, -88.1500
+Crest Haven, 38.5167, -89.9833
+Crest Hill, 41.5547, -88.0986
+Creston, 41.9308, -88.9644
+Crestview Terrace, 38.3833, -88.3667
+Crestwood, 41.6611, -87.7525
+Crestwood Estates, 37.7667, -88.9333
+Crete, 41.4444, -87.6314
+Creve Coeur, 40.6472, -89.5911
+Cricket Hill, 41.5000, -87.7000
+Crisp, 38.4394, -88.5956
+Crittenden, 39.9167, -88.1833
+Crocketts Estates, 42.3833, -88.1500
+Croft, 40.0481, -89.5883
+Crook, 38.0833, -88.4333
+Crooked Lake, 42.4167, -88.0667
+Crooked Lake Oaks, 42.4167, -88.0667
+Cropsey, 40.6092, -88.4786
+Crossroad Terrace, 38.6167, -90.0167
+Crossroads(Johnson), 37.3489, -88.8175
+Crossroads(St Clair), 38.5925, -89.9664
+Crossville, 38.1617, -88.0653
+Crouch, 38.2167, -88.5167
+Crown Estates, 41.9000, -87.9500
+Cruger, 40.7219, -89.3100
+Cruse, 38.8217, -88.6778
+Crystal Gardens, 42.2336, -88.3800
+Crystal Lake(McHenry), 42.2411, -88.3161
+Crystal Lake(Madison), 38.9500, -90.1833
+Crystal Lake Estates, 42.2333, -88.3500
+Crystal Lawns, 41.5333, -88.0833
+Crystal Manor, 42.2231, -88.2917
+Crystal Vista, 42.2386, -88.3711
+Cuba(Fulton), 40.4928, -90.1906
+Cuba(Lake), 42.1839, -88.1908
+Cufty Heights, 37.7667, -88.9333
+Cullom, 40.8778, -88.2692
+Culver, 40.0067, -89.6872
+Cumberland Green, 41.9000, -88.3167
+Cumberland Heights, 38.3833, -88.3667
+Cuneo Hospital, 41.9622, -87.6489
+Cunningham Courts, 42.1000, -88.0333
+Curran, 39.7422, -89.7719
+Curtis, 40.0622, -89.7903
+Cushman, 39.6600, -88.6242
+Custer(Marshall), 41.0372, -89.1536
+Custer(Will), 41.2333, -88.1500
+Custer Park, 41.2500, -88.1333
+Cutler, 38.0322, -89.5656
+Cutmer, 40.6503, -87.6000
+Cypress, 37.3650, -89.0181

@@ -1,0 +1,249 @@
+Gages Lake, 42.3500, -88.0167
+Galatia, 37.8406, -88.6092
+Gale, 37.2489, -89.4475
+Galena, 42.4167, -90.4289
+Galena Junction, 42.3739, -90.4431
+Galesburg, 40.9478, -90.3711
+Galesville, 40.1553, -88.5564
+Gallagher, 38.6344, -88.1672
+Galt, 41.7894, -89.7622
+Galton, 39.7394, -88.3003
+Galva, 41.1675, -90.0425
+Ganeer, 41.1500, -87.6833
+Ganntown, 37.3633, -88.7842
+Garber, 40.5158, -88.3817
+Gard, 38.8622, -89.9600
+Garden Heights, 37.7203, -88.5269
+Garden Hill, 38.5833, -88.6333
+Garden Homes, 41.7000, -87.7000
+Garden of Eden, 41.1697, -87.5617
+Garden Plain, 41.8008, -90.1303
+Garden Prairie, 42.2533, -88.7247
+Garden Quarter, 42.0333, -88.2833
+Gardena, 40.6364, -89.5053
+Gardner, 41.1856, -88.3097
+Gards Point, 38.4744, -87.9111
+Garfield(Grundy), 41.1500, -88.3167
+Garfield(La Salle), 41.0850, -88.9561
+Garfield Park, 41.8667, -87.7167
+Garfield Park Hospital, 41.8814, -87.7219
+Garland, 39.7183, -87.8114
+Garnerville, 38.1144, -88.0531
+Garrett, 39.7986, -88.4242
+Garrison, 38.2483, -88.5192
+Gartside, 38.5439, -90.0361
+Gary Gardens, 41.8833, -88.0833
+Gas Light Village, 41.3667, -88.4167
+Gays, 39.4581, -88.4939
+Gears Ferry, 42.3892, -90.4650
+Geff(Jeffersonville), 38.4425, -88.4042
+Genesee, 41.8833, -89.8000
+Geneseo, 41.4481, -90.1542
+Geneva, 41.8875, -88.3053
+Geneva Road, 41.8881, -88.1514
+Genoa, 42.0972, -88.6928
+Gent City, 37.7667, -88.9333
+Georges Creek, 37.3167, -88.7833
+Georgetown(Carroll), 42.1397, -89.8286
+Georgetown(McDonough), 40.4667, -90.6833
+Georgetown(Vermilion), 39.9753, -87.6358
+Gerald, 40.2706, -87.9300
+Gerlaw, 40.9869, -90.6017
+German, 38.8000, -87.9667
+German Corner, 41.2936, -90.0308
+German Valley, 42.2156, -89.4733
+Germantown(Woodford), 40.7833, -89.4167
+Germantown(Clinton), 38.5536, -89.5383
+Germantown Hills, 40.7664, -89.4678
+Germanville, 40.7000, -88.2833
+Gibson City, 40.4653, -88.3758
+Gibsonia, 37.6469, -88.2625
+Gifford, 40.3058, -88.0211
+Gila, 39.1128, -88.2603
+Gilberts, 42.1033, -88.3728
+Gilbirds, 39.9231, -90.7014
+Gilchrist(Fulton), 40.6472, -90.0397
+Gilchrist(Mercer), 41.2053, -90.6242
+Gilead, 39.1242, -90.6672
+Gilead Landing, 39.1231, -90.6831
+Gillespie, 39.1297, -89.8194
+Gilletts, 41.5172, -87.9369
+Gillum, 40.4078, -88.8994
+Gilman, 40.7667, -87.9922
+Gilmer(Adams), 39.9833, -91.2000
+Gilmer(Lake), 42.2350, -88.0461
+Gilmore(Effingham), 38.9875, -88.7175
+Gilmore(Bond), 38.9778, -89.6200
+Gilmore Lake, 38.4500, -90.2000
+Gilson, 40.8617, -90.2014
+Ginger Creek, 41.8000, -87.9333
+Ginger Hill, 41.4381, -90.5672
+Gingle Corners, 41.2631, -90.7358
+Girard, 39.4464, -89.7808
+Gladstone, 40.8644, -90.9611
+Gladstone Commons, 42.0667, -87.9500
+Glasford, 40.5725, -89.8133
+Glasgow, 39.5506, -90.4800
+Glass Works, 38.9000, -90.1667
+Glen, 38.7500, -89.9833
+Glen Acres, 42.0167, -87.9000
+Glen Arms, 42.3833, -88.1500
+Glen Avon, 40.3461, -88.5925
+Glen Carbon, 38.7483, -89.9831
+Glen Carbon Crossing, 38.7522, -89.9553
+Glen Ellyn, 41.8775, -88.0669
+Glen Ellyn Countryside, 41.8833, -88.0667
+Glen Ellyn Woods, 41.8833, -88.0667
+Glen Hill, 41.8833, -88.0667
+Glen Oak, 41.8817, -88.0392
+Glen Park, 41.5167, -88.6833
+Glen Ridge, 41.5000, -87.7000
+Glenarm, 39.6236, -89.6489
+Glenayre, 42.0667, -87.8000
+Glenayre Gardens, 42.0667, -87.8000
+Glenbrook Countryside, 42.1167, -87.8167
+Glenburn, 40.1428, -87.7683
+Glencoe, 42.1350, -87.7581
+Glendale(Pope), 37.4556, -88.6714
+Glendale(Rock Island), 41.4856, -90.4156
+Glendale Gardens, 38.8833, -90.0833
+Glendale Heights, 41.9103, -88.0717
+Glengarry, 41.9333, -87.8833
+Glenn(Cook), 41.8047, -87.7775
+Glenn(Jackson), 37.8036, -89.5806
+Glennshire, 42.2000, -88.0500
+Glenshire, 42.0667, -87.8000
+Glenview(Cook), 42.0697, -87.7878
+Glenview(St Clair), 38.5869, -89.9372
+Glenview Countryside, 42.0667, -87.8000
+Glenview Estates, 42.0667, -87.8000
+Glenview Terrace, 42.0667, -87.8000
+Glenview Woodlands, 42.0667, -87.8000
+Glenwood, 41.5425, -87.6022
+Glenwood Estates, 41.5500, -87.6167
+Glover, 40.1136, -88.0189
+Godfrey, 38.9578, -90.1867
+Godley, 41.2367, -88.2436
+Goeselville, 41.6242, -87.7850
+Golconda, 37.3672, -88.4864
+Gold, 41.4500, -89.8000
+Gold Hill, 37.7333, -88.2167
+Golden, 40.1092, -91.0175
+Golden Acres(Cook), 42.0667, -87.8000
+Golden Acres(Peoria), 40.7439, -89.6317
+Golden Eagle, 38.8933, -90.5789
+Golden Gardens, 38.5894, -90.1067
+Golden Gate, 38.3594, -88.2042
+Golden Lily, 37.0756, -89.1858
+Golena Knolls, 40.9167, -89.5000
+Golf, 42.0589, -87.7925
+Golf Park Terrace, 42.0500, -87.9167
+Golfview Hills, 41.8000, -87.9333
+Good Hope, 40.5578, -90.6733
+Goode, 38.0833, -89.0667
+Goodenow, 41.3914, -87.6367
+Goodfarm, 41.1500, -88.4167
+Goodfield, 40.6297, -89.2747
+Goodings Grove, 41.6292, -87.9308
+Goodrich, 41.1089, -88.0581
+Goodwine, 40.5672, -87.7844
+Goofy Ridge, 40.3333, -89.9333
+Goose Creek, 40.1000, -88.6333
+Goose Lake, 41.3667, -88.3000
+Gordon, 39.0081, -87.6847
+Goreville, 37.5544, -88.9722
+Gorham, 37.7183, -89.4858
+Gorman, 41.2611, -88.3417
+Goshen, 41.1167, -89.9333
+Gossett, 37.9233, -88.3692
+Gottlieb Hospital, 41.9114, -87.8436
+Gougars, 41.5236, -88.0047
+Gowins, 37.4436, -88.4678
+Grafton, 38.9700, -90.4314
+Graham Hospital, 40.5528, -90.0383
+Grand, 37.6500, -89.4667
+Grand Chain, 37.2500, -89.0167
+Grand Chain Landing, 37.2264, -88.9931
+Grand Crossing, 41.7500, -87.6000
+Grand Detour, 41.8967, -89.4117
+Grand Pass, 39.4578, -90.5961
+Grand Pier, 37.5667, -88.4500
+Grand Prairie, 38.4167, -89.0833
+Grand Rapids, 41.2333, -88.7500
+Grand Ridge, 41.2369, -88.8314
+Grand Tower, 37.6264, -89.4978
+Grandview(Carroll), 41.5167, -89.9167
+Grandview(Effingham), 39.5411, -87.8461
+Grandview(Sangamon), 39.8164, -89.6186
+Grandville, 39.1333, -88.0000
+Grandwood Park, 42.3667, -87.8833
+Graney, 38.8336, -89.9136
+Grange, 39.9667, -88.3500
+Granite City, 38.7014, -90.1486
+Grant Hospital, 41.9225, -87.6431
+Grant Park, 41.2333, -87.6500
+Grantfork, 38.8300, -89.6656
+Grantsburg, 37.3908, -88.7469
+Granville, 41.2611, -89.2275
+Grape Creek, 40.0678, -87.5986
+Grass Lake, 42.4333, -88.1500
+Grassy, 37.6333, -89.1000
+Gray, 38.2333, -88.0500
+Gray Ford, 40.2836, -87.7953
+Graymont, 40.8778, -88.7769
+Graymoor, 41.5167, -87.7000
+Grays Corner, 38.6433, -87.7219
+Grays Siding, 40.1167, -87.7833
+Grayslake, 42.3444, -88.0417
+Grayville, 38.2575, -87.9936
+Great Lakes, 42.3000, -87.8333
+Greathouse Ford, 38.4578, -88.6303
+Green Acres(McDonough), 40.4667, -90.6833
+Green Acres(Sangamon), 39.8933, -89.6733
+Green Brier, 38.9086, -87.9072
+Green Creek, 39.2028, -88.5233
+Green Garden, 41.4167, -87.8500
+Green Meadows, 41.9667, -88.1000
+Green Oaks, 42.2833, -87.9000
+Green River, 41.4756, -90.3192
+Green Rock, 41.4731, -90.3575
+Green Valley(DU Pade), 41.8833, -88.0167
+Green Valley(Tazewell), 40.4075, -89.6428
+Greenbriar, 41.5167, -87.9667
+Greenbrook Country, 41.9667, -88.1000
+Greenbush, 40.7119, -90.5353
+Greendale, 38.6297, -88.6978
+Greenfield, 39.3436, -90.2125
+Greenoak, 41.4803, -89.4083
+Greenpond, 39.4953, -90.6428
+Greenridge, 39.4194, -89.7944
+Greentree, 42.2667, -87.9333
+Greenup, 39.2478, -88.1633
+Greenview, 40.0831, -89.7381
+Greenville, 38.8922, -89.4131
+Greenwich, 41.1183, -87.9269
+Greenwood, 42.3925, -88.3892
+Greenwood Meadows, 38.9500, -90.1833
+Greer, 40.5331, -87.5947
+Gretna, 41.8981, -88.1014
+Gridley, 40.7433, -88.8814
+Griffin, 41.2403, -90.4894
+Grigg, 38.1906, -89.9078
+Griggsville, 39.7089, -90.7244
+Grimes Addition, 41.8000, -89.7167
+Grimsby, 37.7503, -89.4492
+Grinnell, 37.2792, -88.8722
+Grisham, 39.0500, -89.5333
+Griswold, 40.9131, -88.3539
+Groat, 37.9678, -88.8711
+Gross, 37.5331, -88.2906
+Gross Point, 42.0789, -87.7225
+Grove, 39.1167, -88.2833
+Grove City, 39.7067, -89.2969
+Groveland, 40.5925, -89.5344
+Grover, 38.3667, -88.3167
+Guilford, 42.4175, -90.3003
+Gulfport, 40.8139, -91.0861
+Gurnee, 42.3703, -87.9019
+Gurney, 39.8992, -90.0500
+Guthrie, 40.5083, -88.3250

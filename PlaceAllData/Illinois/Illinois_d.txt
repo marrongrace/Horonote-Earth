@@ -1,0 +1,197 @@
+d'Adrian Gardens, 38.9500, -90.1833
+Daggett, 42.0325, -89.9736
+Dahinda, 40.9247, -90.1089
+Dahlgren, 38.1981, -88.6844
+Dailey, 40.2389, -87.9475
+Dakota, 42.3886, -89.5261
+Dale(McLean), 40.4333, -89.0833
+Dale(Hamilton), 37.9950, -88.4917
+Dallas City, 40.6361, -91.1672
+Dallasania, 37.6833, -88.6333
+Dalton City, 39.7119, -88.8044
+Dalzell, 41.3578, -89.1761
+Damascus, 42.3722, -89.7061
+Damiansville, 38.5100, -89.6194
+Damon, 40.0831, -90.8300
+Dana, 40.9578, -88.9500
+Danforth, 40.8203, -87.9778
+Danley, 38.0956, -90.1156
+Danvers, 40.5294, -89.1772
+Danville, 40.1244, -87.6300
+Danway, 41.4325, -88.6917
+Dareville, 38.1983, -88.9764
+Darien, 41.7500, -87.9667
+Darmstadt, 38.3208, -89.7317
+Darrow, 40.7189, -87.6031
+Darwin, 39.2833, -87.6119
+Davis(Stephenson), 42.4225, -89.4136
+Davis(Morgan), 39.6794, -90.2183
+Davis Junction, 42.1017, -89.0931
+Dawleys, 37.2125, -89.2961
+Dawson, 39.8528, -89.4633
+Daysville, 41.9844, -89.3183
+Dayton(Henry), 41.4892, -90.3214
+Dayton(La Salle), 41.3847, -88.7942
+De Kalb, 41.9294, -88.7503
+De Land, 40.1222, -88.6453
+De Long, 40.1131, -87.9019
+De Soto, 37.8175, -89.2278
+Dearborn Heights, 41.7167, -87.7500
+Decatur, 39.8403, -88.9547
+Decker, 38.6333, -88.2167
+Decorra, 40.7278, -90.9700
+Dee Road, 42.0333, -87.8500
+Deep Lake, 42.4167, -88.0667
+Deep Spring Woods, 42.3833, -88.4333
+Deep Woods, 42.2333, -87.9833
+Deer Creek, 40.6300, -89.3325
+Deer Grove, 41.6078, -89.6894
+Deer Park, 42.1608, -88.0814
+Deer Plain, 38.9317, -90.5331
+Deerfield, 42.1711, -87.8444
+Deering City, 37.9164, -88.8919
+Deerpath, 42.2481, -87.8594
+Deers, 40.0550, -88.1225
+Dees, 39.2231, -88.1592
+Degognia, 37.8611, -89.6303
+Del Mar Woods, 42.2000, -87.8500
+Delafield, 38.1478, -88.6028
+Delavan, 40.3725, -89.5472
+Delhi, 39.0453, -90.2558
+Dellwood Highlands, 41.5833, -88.0500
+Delmar, 41.1775, -87.6050
+DeLong, 40.8167, -90.3044
+Delrey, 40.6728, -88.0172
+Delta, 37.6842, -88.7028
+Delwood, 37.5797, -88.5714
+Dement, 41.9333, -89.0000
+Democrat Spring, 39.0839, -90.4836
+Denison, 38.6333, -87.7000
+Denmark, 37.9975, -89.4972
+Denning, 37.9000, -88.9667
+Dennison, 39.4608, -87.5978
+Denny, 38.0475, -89.3269
+Denrock, 41.6997, -89.9756
+Denver(Hancock), 40.2906, -91.1069
+Denver(Richland), 38.8000, -88.2000
+Depler Springs, 40.4331, -90.1844
+Depue, 41.3242, -89.3067
+Derby(Ford), 40.4417, -88.4425
+Derby(Saline), 37.6289, -88.3856
+Derinda, 42.2333, -90.1500
+Derinda Center, 42.3167, -90.2167
+Derry, 39.6167, -90.9667
+Des Plaines, 42.0333, -87.8833
+Deselm, 41.2494, -87.9744
+Detroit, 39.6206, -90.6767
+Devereux Heights, 39.8497, -89.6119
+Dewey, 40.3189, -88.2819
+Dewey Park, 38.8000, -89.9500
+DeWitt, 40.1811, -88.7861
+Dewmaine, 37.7806, -89.0769
+Dexter, 39.0808, -88.6833
+Diamond, 41.2886, -88.2517
+Diamond City, 38.0892, -88.5525
+Diamond Lake, 42.2444, -88.0100
+Diana, 38.0997, -88.7514
+Dickerson, 40.3183, -88.4222
+Dickeys, 41.0508, -88.0372
+Dieterich, 39.0619, -88.3797
+Dillon, 40.4767, -89.5381
+Dillsburg, 40.3164, -88.0794
+Dimmick, 41.4403, -89.1164
+Diona, 39.3767, -88.1392
+Disco, 40.6203, -91.0211
+District Hospital, 40.4469, -90.6644
+Diswood, 37.2314, -89.3228
+Divernon, 39.5656, -89.6572
+Divide, 38.4469, -88.8297
+Divine, 41.3858, -88.2953
+Dix, 38.4417, -88.9375
+Dixmoor, 41.6317, -87.6608
+Dixon, 41.8389, -89.4794
+Dixon Springs, 37.3844, -88.6686
+Dobbins Downs, 40.1000, -88.2000
+Doctors Hospital, 42.0097, -87.6744
+Dodds, 38.2500, -88.8833
+Doddsville, 40.2783, -90.6517
+Dog Walk, 37.7592, -88.9328
+Dogtown Landing, 38.9831, -90.6711
+Dogwood, 39.0639, -87.8908
+Dollville, 39.4369, -88.9917
+Dolson, 39.4333, -87.8500
+Dolton, 41.6389, -87.6072
+Doney, 41.0667, -87.6250
+Dongola, 37.3611, -89.1658
+Donnellson, 39.0278, -89.4733
+Donovan, 40.8833, -87.6161
+Dora, 39.7167, -88.7333
+Dorans, 39.5511, -88.3444
+Dorchester, 39.0856, -89.8875
+Dorr, 42.2833, -88.4000
+Dorris Heights, 37.7494, -88.5531
+Dorrisville, 37.7333, -88.5500
+Dorsey, 38.9736, -90.0014
+Douglas(Knox), 40.7833, -90.0167
+Douglas(St Clair), 38.4244, -89.9825
+Douglass, 40.7861, -90.0842
+Dover, 41.4367, -89.3933
+Dow, 39.0133, -90.3414
+Dowell, 37.9397, -89.2378
+Downers Fairview, 41.8000, -88.0167
+Downers Grove, 41.8089, -88.0111
+Downers Grove Estates, 41.8000, -88.0167
+Downey, 42.3167, -87.8500
+Downey Veteran Administration Hospital, 42.3039, -87.8561
+Downs, 40.3969, -88.8706
+Downtown, 39.8000, -89.6500
+Dozaville, 37.9069, -89.9564
+Drake, 39.4589, -90.4706
+Dresden Acres, 41.3667, -88.4167
+Dressor, 39.1731, -89.0511
+Drew Dell Acres, 38.9500, -90.1833
+Drexel, 41.8500, -87.7667
+Drivers, 38.3306, -88.9931
+Druce Lake, 42.3717, -88.0025
+Drummer, 40.4667, -88.4000
+Drummond, 41.4058, -88.1767
+Drury, 41.3833, -90.9667
+Dry Grove, 40.5333, -89.1000
+Dry Hill, 37.8172, -89.5533
+Dry Point, 39.2333, -88.8667
+Du Bois, 38.2239, -89.2122
+Du Page, 41.6833, -88.0667
+Du Quoin, 37.9994, -89.2522
+DuBois Center, 38.2517, -89.2114
+Duck Lake Woods, 42.3833, -88.1500
+Dudley, 39.5767, -87.8500
+Dudleyville, 38.8239, -89.4181
+Duncan(Mercer), 41.2833, -90.8500
+Duncan(Stark), 40.9836, -89.7892
+Duncan Mills, 40.3400, -90.1908
+Duncanville, 38.9547, -87.6956
+Dundas, 38.8350, -88.0850
+Dundee Station, 42.0989, -88.2714
+Dunes Park, 42.4208, -87.8256
+Dunfermline, 40.4911, -90.0317
+Dunham, 42.3833, -88.6333
+Dunham Castle, 41.9522, -88.2714
+Dunham Woods, 41.9500, -88.2667
+Dunhurst, 42.1500, -87.9500
+Dunkle, 39.4681, -89.0628
+Dunlap, 40.8617, -89.6786
+Dunlap Lake, 38.8000, -89.9500
+Dunleith, 42.4833, -90.6167
+Dunn, 39.6261, -88.6917
+Dunning, 41.9528, -87.7964
+Dupo, 38.5161, -90.2103
+Durand, 42.4364, -89.3319
+Durham, 40.5967, -91.0894
+Durley, 38.9344, -89.3681
+Dutch Creek Woodlands, 42.3500, -88.2333
+Dutch Hollow, 38.5675, -90.0308
+Dutch Mills, 37.4153, -89.2728
+Dutton, 39.6744, -90.7997
+Duvall, 39.4792, -88.7903
+Dwight, 41.0944, -88.4250
+Dykersburg, 37.6922, -88.7397

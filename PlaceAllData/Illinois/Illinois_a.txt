@@ -1,0 +1,196 @@
+Abbot, 37.5572, -88.6989
+Abingdon, 40.8044, -90.4017
+Abington, 41.1167, -90.8333
+Acacia Acres, 41.8000, -87.8667
+Acme Station, 40.6667, -89.6667
+Adair, 40.4189, -90.4967
+Adams(Adams), 39.8653, -91.1981
+Adams(La Salle), 41.5833, -88.7500
+Adams Corner, 38.5131, -87.7419
+Addatorata Village, 42.1483, -87.9403
+Addieville, 38.3914, -89.4900
+Addison, 41.9317, -87.9889
+Addison Lake Manor, 41.9333, -88.0000
+Adeline, 42.1433, -89.4903
+Aden, 38.2417, -88.4583
+Adrian, 40.5208, -91.1669
+Advance, 39.1567, -88.0289
+Aero Estates, 41.7833, -88.1500
+Aetna(Coles), 39.4000, -88.3167
+Aetna(Logan), 40.0833, -89.2000
+Afolkey, 42.4325, -89.5744
+Afton, 41.8500, -88.7667
+Agnew, 41.7867, -89.8000
+Ahern, 41.1542, -87.6047
+Aiken, 42.3525, -90.4153
+Akin, 37.9878, -88.7522
+Akin Junction, 38.0100, -88.7614
+Akron, 40.9039, -89.6539
+Aladdin, 39.7164, -91.3231
+Alan Dale, 38.9500, -90.1833
+Alba, 41.4333, -89.9167
+Albany, 41.7894, -90.2192
+Albers, 38.5433, -89.6122
+Albion, 38.3775, -88.0561
+Albright, 39.3833, -87.7000
+Alda, 38.4628, -89.2367
+Alden, 42.4589, -88.5178
+Aldridge, 37.5583, -89.4700
+Aledo, 41.1997, -90.7492
+Alexander, 39.7244, -90.0381
+Alexian Hospital, 41.9239, -87.6597
+Alexis, 41.0633, -90.5558
+Alexis Junction, 41.0672, -90.6383
+Algonquin, 42.1656, -88.2942
+Algonquin Trails, 42.0667, -87.9500
+Alhambra, 38.8883, -89.7314
+Aliceville, 41.5522, -89.8794
+Allen(La Salle), 41.1500, -88.6333
+Allen(Mason), 40.3050, -89.6494
+Allen Grove, 40.2667, -89.6667
+Allendale(Madison), 38.9500, -90.1833
+Allendale(Wabash), 38.5267, -87.7097
+Allens Corners, 42.0994, -88.4814
+Allens Spring, 37.3689, -88.6569
+Allentown, 40.5558, -89.3967
+Allenville, 39.5556, -88.5297
+Allerton, 39.9117, -87.9364
+Allin, 40.4500, -89.2000
+Allison, 38.7333, -87.5667
+Allright, 39.2972, -87.7489
+Alma, 38.7217, -88.9092
+Almora, 42.0608, -88.3361
+Alonzo, 40.5667, -87.7311
+Alorton, 38.5897, -90.1200
+Alpha, 41.1917, -90.3800
+Alpine, 41.5864, -87.8814
+Alsey, 39.5606, -90.4339
+Alsip, 41.6689, -87.7386
+Alsip Woods, 41.6667, -87.7167
+Alta, 40.8108, -89.6342
+Altamont(Effingham), 39.0619, -88.7481
+Altamont(Madison), 38.9500, -90.1833
+Altgeld Gardens, 41.6544, -87.6019
+Altmar, 41.1419, -88.8925
+Alto, 41.8500, -89.0000
+Alto Pass, 37.5703, -89.3175
+Alton, 38.8906, -90.1842
+Alton Memorial Hospital, 38.9000, -90.1589
+Alton Siding, 39.3000, -89.8667
+Alton State Hospital, 38.9108, -90.1156
+Altona, 41.1147, -90.1644
+Altorf, 41.1903, -87.9622
+Alvin, 40.3083, -87.6083
+Alworth, 42.2436, -89.2456
+Amboy, 41.7142, -89.3286
+Amenia, 40.0219, -88.6664
+America, 37.1383, -89.1236
+Americana Village, 41.8833, -88.0667
+Ames, 38.1467, -90.0544
+Amity(Livingston), 40.9667, -88.7500
+Amity(Richland), 38.7764, -87.9242
+Anchor, 40.5681, -88.5356
+Anchorage, 42.1000, -87.8333
+Ancient Tree, 42.1167, -87.8167
+Ancona, 41.0406, -88.8725
+Andalusia, 41.4392, -90.7175
+Anderman Acres, 41.5833, -88.1833
+Anderson(Macoupin), 39.3439, -89.8450
+Anderson(Clark), 39.3167, -87.7333
+Anderson(Cass), 39.9822, -90.1589
+Anderson Hospital, 38.7369, -89.9472
+Andover, 41.2939, -90.2919
+Andres, 41.3717, -87.8825
+Andrew, 39.8956, -89.6400
+Anna, 37.4603, -89.2469
+Anna State Hospital, 37.4789, -89.2422
+Annapolis, 39.1444, -87.8167
+Annawan, 41.3972, -89.9044
+Antioch, 42.4772, -88.0956
+Appanoose, 40.5833, -91.3000
+Apple Canyon Lake, 42.5000, -90.1000
+Apple River, 42.5050, -90.0986
+Apple Valley, 42.0667, -87.8000
+Applegate, 38.7928, -87.7967
+Appleton, 40.9358, -90.1608
+Appletree, 41.5833, -87.7667
+Aptakisic, 42.1825, -87.9472
+Arbor Trails, 41.5000, -87.6833
+Arboretum Villages, 41.7833, -88.0833
+Arbury Hills, 41.5356, -87.8475
+Arcadia(Cook), 41.5167, -87.7000
+Arcadia(Morgan), 39.8392, -90.2447
+Archer, 39.7814, -89.7358
+Archie, 39.8942, -87.8283
+Arcola, 39.6847, -88.3064
+Arden Shores, 42.2833, -87.8500
+Ardenmoor, 39.3658, -87.7967
+Arenzville, 39.8769, -90.3733
+Argenta, 39.9819, -88.8228
+Argo(Cook), 41.7833, -87.8333
+Argo(Carrol), 42.1000, -89.9667
+Argyle, 42.3600, -88.9400
+Arispie, 41.2667, -89.4500
+Arlington, 41.4736, -89.2492
+Arlington Heights(Sangamon), 39.8197, -89.6014
+Arlington Heights(Cook), 42.0883, -87.9806
+Arlington Ridge, 42.1000, -87.9667
+Armington, 40.3389, -89.3114
+Armstrong, 40.3064, -87.8778
+Arnold(Morgan), 39.7211, -90.1450
+Arnold(Carroll), 42.1700, -90.2264
+Aroma, 41.0833, -87.7833
+Aroma Park, 41.0797, -87.8114
+Arpee, 41.1831, -90.9469
+Arrington, 38.3667, -88.5167
+Arrow Wood, 38.9500, -90.1833
+Arrowhead(Mc Donough), 40.4667, -90.6833
+Arrowhead(Du Page), 41.8833, -88.0833
+Arrowsmith, 40.4494, -88.6317
+Arsenal, 41.5167, -88.1167
+Artesia, 40.6167, -88.0500
+Arthur, 39.7147, -88.4722
+Asbury, 37.8833, -88.2000
+Ashburn, 41.7500, -87.7333
+Ashdale Junction, 42.0850, -89.9244
+Ashkum, 40.8803, -87.9550
+Ashland, 39.8878, -90.0078
+Ashley, 38.3294, -89.1908
+Ashmore, 39.5331, -88.0222
+Ashton, 41.8661, -89.2211
+Assumption, 39.5203, -89.0489
+Astoria, 40.2275, -90.3594
+Athenia, 41.5167, -87.7000
+Athens, 39.9608, -89.7239
+Athensville, 39.4556, -90.1892
+Atkinson, 41.4208, -90.0150
+Atlanta, 40.2594, -89.2333
+Atlas, 39.5139, -90.9694
+Atlee Ogles, 38.5167, -89.9833
+Atrium, 41.9000, -87.9500
+Atterberry, 40.0608, -89.9236
+Attila, 37.7697, -88.7711
+Atwater, 39.3328, -89.7250
+Atwood, 39.7994, -88.4622
+Atwood Heights, 41.6667, -87.7167
+Auburn, 39.5917, -89.7464
+Auburn Park, 41.7333, -87.6500
+Audubon, 39.2833, -89.2000
+Auer Landing, 38.9014, -90.5228
+Augerville, 40.1397, -88.1717
+Augsburg, 38.8667, -89.0133
+Augusta, 40.2300, -90.9500
+Aurora, 41.7606, -88.3200
+Austin(Macon), 40.0000, -89.0833
+Austin(Cook), 41.9667, -87.6667
+Austin View, 41.6667, -87.7833
+Aux Sable, 41.3947, -88.3286
+Ava, 37.8883, -89.4947
+Avena, 39.0075, -88.9278
+Avery Hill, 38.5531, -90.0269
+Aviston, 38.6067, -89.6075
+Avoca, 40.8000, -88.5167
+Avon, 40.6642, -90.4347
+Ayers(Bond), 38.9636, -89.4519
+Ayers(Carroll), 42.0539, -90.1156
+Ayers(Champaign), 39.9167, -87.9667

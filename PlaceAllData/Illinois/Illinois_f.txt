@@ -1,0 +1,213 @@
+Fair Oaks, 41.9667, -88.1000
+Fairbanks, 39.7172, -88.5300
+Fairbury, 40.7472, -88.5147
+Fairdale, 42.1000, -88.9328
+Fairfield(De Kalb), 42.2192, -88.0614
+Fairfield(Wayne), 38.3789, -88.3597
+Fairgrange, 39.5786, -88.1717
+Fairhaven, 41.9456, -89.9292
+Fairland, 39.8764, -88.1017
+Fairman, 38.6778, -89.1047
+Fairmont(Madison), 38.9089, -90.2142
+Fairmont(Will), 41.5561, -88.0592
+Fairmont City, 38.6497, -90.0931
+Fairmount(Massac), 37.1500, -88.7333
+Fairmount(Vermilion), 40.0456, -87.8306
+Fairview(Christian), 39.5667, -89.3500
+Fairview(Cook), 41.9833, -87.8667
+Fairview(Fulton), 40.6333, -90.1636
+Fairview(St Clair), 38.5917, -90.0142
+Fairview Addition, 37.8167, -88.4500
+Fairview Gardens, 42.0667, -87.9500
+Fairview Heights, 38.6000, -90.0000
+Fairview Park Plaza, 38.5167, -89.1333
+Fairway Estates, 41.8833, -88.0833
+Fairway Trace, 42.0500, -87.8833
+Faithorn, 41.4281, -87.6081
+Fall Creek, 39.7789, -91.3022
+Fall River, 41.3000, -88.7667
+Falling Spring, 38.5325, -90.1867
+Falmouth, 39.0547, -88.1456
+Fancher, 39.2675, -88.7731
+Fancy Creek, 39.9000, -89.6500
+Fancy Prairie, 39.9975, -89.5994
+Fandon, 40.3683, -90.7614
+Fargo, 39.9736, -90.8547
+Farina, 38.8342, -88.7722
+Farm Ridge, 41.2500, -88.8667
+Farmdale, 40.6658, -89.5111
+Farmer City, 40.2433, -88.6425
+Farmers, 40.4167, -90.4000
+Farmersville, 39.4433, -89.6517
+Farmingdale(Du Page), 41.7833, -87.9833
+Farmingdale(Sangamon), 39.8228, -89.8061
+Farmingdale South, 41.7833, -87.9833
+Farmingdale Terrace, 41.7833, -87.9833
+Farmingdale Village, 41.7833, -87.9833
+Farmington(Coles), 39.3958, -88.2111
+Farmington(Kane), 41.9000, -88.3167
+Farmington(Fulton), 40.6981, -90.0058
+Farmsted, 41.7833, -88.1500
+Farnsworth, 42.3167, -87.8333
+Farrington(Clark), 39.4700, -87.5461
+Farrington(Jefferson), 38.4333, -88.7500
+Farrow, 40.6833, -89.6167
+Fay, 42.0033, -90.0161
+Fayette(Livingston), 40.7000, -88.4000
+Fayette(Greene), 39.3200, -90.1536
+Fayetteville, 38.3775, -89.7953
+Fayville, 37.1647, -89.4267
+Feehanville, 42.0667, -87.9500
+Felix, 41.3167, -88.2833
+Felker, 40.7000, -89.4167
+Fenton, 41.7306, -90.0300
+Ferber, 37.9069, -88.7422
+Fergestown, 37.7925, -88.9647
+Ferguson Ford, 39.8611, -90.9033
+Ferndale, 42.3019, -88.2414
+Fernway, 41.5667, -87.8167
+Fernway Park, 41.5869, -87.8300
+Ferrel, 39.4961, -87.5850
+Ferrin, 38.6094, -89.2333
+Ferris, 40.4689, -91.1703
+Fiatt, 40.5603, -90.1797
+Ficklin, 39.7986, -88.3553
+Fiday View, 41.5500, -88.1167
+Fidelity, 39.1528, -90.1644
+Field, 38.4333, -88.8667
+Fieldcrest, 41.6000, -87.7500
+Fieldon, 39.1086, -90.4983
+Fillmore, 39.1153, -89.2789
+Filson, 39.6894, -88.2319
+Findlay, 39.5225, -88.7536
+Finney Heights, 38.5167, -89.1333
+Finneyville, 37.5444, -88.1053
+First Pommier, 41.0167, -87.7167
+Fisher, 40.3147, -88.3500
+Fishhook, 39.8056, -90.8853
+Fitchmoor, 41.4619, -89.1650
+Fithian, 40.1139, -87.8731
+Five Islands Park, 41.9717, -88.3097
+Five Point, 39.9892, -89.8831
+Five Points, 42.0025, -88.7403
+Flag Center, 41.9406, -89.1222
+Flagg, 41.8958, -89.1408
+Flanagan, 40.8781, -88.8611
+Flannigan, 38.0000, -88.6500
+Flat Branch, 39.5667, -88.9667
+Flat Rock, 38.9017, -87.6717
+Flatville, 40.2394, -88.0592
+Flatwoods, 37.4236, -88.7242
+Fletchers, 40.5269, -88.7836
+Flickerville, 41.2200, -87.9561
+Flint(Hamilton), 38.0633, -88.6272
+Flint(Pike), 39.7000, -90.6667
+Flora, 38.6689, -88.4856
+Floraville, 38.3764, -90.0561
+Florence(Scott), 39.6272, -90.6106
+Florence(Steohenson), 42.2144, -89.6597
+Florid, 41.2286, -89.2808
+Flossmoor, 41.5428, -87.6847
+Flossmoor Highlands, 41.5461, -87.7133
+Flowerfield, 41.8672, -88.0339
+Flowerfield Acres, 41.8833, -88.0167
+Floyd, 40.8500, -90.5000
+Fon-Du-Lac, 41.5833, -88.1833
+Fondulac, 40.7000, -89.5167
+Foosland, 40.3614, -88.4281
+Forest Acres, 38.6333, -90.1333
+Forest City, 40.3700, -89.8275
+Forest Estates, 42.1000, -88.0333
+Forest Gardens, 42.2667, -88.1333
+Forest Heights, 41.5167, -87.6333
+Forest Hills, 41.7333, -87.8333
+Forest Homes, 38.9144, -90.0858
+Forest Hospital, 42.0431, -87.8792
+Forest Lake, 42.2075, -88.0556
+Forest Manor, 41.5833, -88.0500
+Forest Park(Cook), 41.8794, -87.8136
+Forest Park(Will), 41.5458, -88.0564
+Forest River, 42.0833, -87.9000
+Forest View, 41.8086, -87.7933
+Forest View Hills, 41.6000, -87.7500
+Foresthaven, 42.2333, -87.8833
+Forkosh Hospital, 41.9617, -87.6925
+Forman, 37.3467, -88.9072
+Formosa Junction, 38.7072, -89.9281
+Forrest, 40.7519, -88.4111
+Forrestal Village, 42.3167, -87.8333
+Forreston, 42.1261, -89.5792
+Forsyth, 39.9325, -88.9511
+Fort Dearborn, 41.9000, -87.6167
+Fort Gage, 37.9606, -89.9044
+Fort Russell, 38.8833, -89.9833
+Fort Sheridan, 42.1500, -87.9667
+Foss Acres, 42.3167, -87.8333
+Fossland, 42.4944, -87.9517
+Foster Pond, 38.3117, -90.2275
+Fosterburg, 38.9717, -90.0750
+Fountain, 38.3625, -90.2828
+Fountain Bluff, 37.7333, -89.5500
+Fountain Creek, 40.5161, -87.8108
+Fountain Gap, 38.3875, -90.2550
+Fountain Green, 40.4758, -90.9692
+Four Corners, 38.7183, -90.0756
+Four Lakes, 41.7833, -88.0833
+Four Mile, 38.3167, -88.6500
+Fowler, 40.0078, -91.2583
+Fox, 41.6231, -88.4950
+Fox Lake, 42.3967, -88.1836
+Fox Lake Hills, 42.4081, -88.1317
+Fox Lake Vista, 42.4333, -88.2333
+Fox Lawn, 41.6500, -88.4500
+Fox Point, 42.1500, -88.1000
+Fox River, 42.2167, -88.2000
+Fox River Estates, 41.9600, -88.3097
+Fox River Grove, 42.2008, -88.2144
+Fox River Heights, 41.9000, -88.3167
+Fox River Valley Gardens, 42.2425, -88.2019
+Foxcroft, 41.8833, -88.0667
+Francis, 37.8997, -88.4531
+Franciscan Hospital, 41.4831, -90.5700
+Frankfort, 41.4958, -87.8486
+Frankfort Heights, 37.9000, -88.9167
+Franklin, 39.6203, -90.0439
+Franklin Corners, 41.9169, -89.9106
+Franklin Grove, 41.8417, -89.3003
+Franklin Hospital, 38.0097, -88.9186
+Franklin Park, 41.9353, -87.8656
+Franklin Square, 41.5000, -87.8500
+Franklinville, 42.2767, -88.5111
+Franks, 41.7108, -88.6797
+Fravet, 40.4489, -89.3706
+Frederick, 40.0700, -90.4289
+Freeburg, 38.4275, -89.9136
+Freeman Spur, 37.8611, -88.9972
+Freeport, 42.2967, -89.6211
+Fremont Center, 42.2978, -88.0714
+Fremont Junction, 41.9667, -88.1000
+French Creek, 38.3000, -88.0167
+French Village, 38.6003, -90.0500
+Frenchman's Cove, 42.1000, -87.9667
+Frielings, 41.1606, -88.1131
+Friends Creek, 40.0000, -88.8167
+Friendsville, 38.5031, -87.8164
+Frisco, 38.1133, -88.7783
+Frog City, 37.1000, -89.2667
+Frogtown, 38.4422, -89.4917
+Frontenac, 41.7447, -88.2328
+Frontenac Place, 38.9500, -90.1833
+Fruit, 38.8308, -89.8625
+Fruitland, 41.4714, -90.5167
+Fruitland Landing, 38.8717, -90.5675
+Fry's Wheatland View, 41.7833, -88.1500
+Fulkerson Landing, 38.9725, -90.5458
+Fuller, 39.5939, -88.4700
+Fullerton, 40.2103, -88.7444
+Fulls, 40.1133, -88.0903
+Fulton, 41.8672, -90.1594
+Fults, 38.1661, -90.2158
+Funkhouser, 39.0942, -88.6211
+Funks Grove, 40.3636, -89.1144
+Furman, 38.6014, -89.9667
+Future City, 37.0289, -89.1881

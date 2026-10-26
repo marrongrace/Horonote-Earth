@@ -1,0 +1,502 @@
+Sabina, 40.3472, -88.6506
+Sacramento, 38.0317, -88.3375
+Sadorus, 39.9669, -88.3464
+Sag Bridge, 41.6883, -87.9331
+Saidora, 40.1050, -90.1447
+Sailor Springs, 38.7639, -88.3631
+Salem, 38.6269, -88.9456
+Salina, 41.1667, -88.0667
+Saline(Madison), 38.7833, -89.6500
+Saline(Saline), 37.6453, -88.6958
+Saline Landing, 37.5700, -88.1303
+Saline Mines, 37.7000, -88.1500
+Salisbury, 39.8897, -89.7981
+Salt Creek, 40.1667, -89.7667
+Saluda, 40.8719, -90.3942
+Samoth, 37.3328, -88.7875
+Samsville, 38.4897, -88.0575
+San Jose, 40.3056, -89.6028
+Sand Barrens, 38.5900, -87.6939
+Sand Prairie, 40.4333, -89.6667
+Sand Ridge(Grundy), 41.4239, -88.3264
+Sand Ridge(Jackson), 37.7400, -89.4425
+Sandburn, 37.5092, -88.8422
+Sandoval, 38.6156, -89.1142
+Sandpebble Walk, 42.1500, -87.9500
+Sandra Heights, 41.5167, -87.6333
+Sands, 41.7511, -89.8619
+Sandusky, 37.2025, -89.2722
+Sandwich, 41.6458, -88.6217
+Sandy, 39.6167, -90.3500
+Sandy Ford, 41.1783, -88.9117
+Sangamon, 39.8667, -88.8558
+Sangamon Valley, 40.0167, -90.2167
+Sankoty, 40.7594, -89.5650
+Santa Anna, 40.2500, -88.6500
+Santa Fe, 38.5333, -89.4333
+Santa Fe Park, 41.7242, -87.9044
+Saratoga(Union), 37.5089, -89.1569
+Saratoga(Grundy), 41.4592, -88.4314
+Saratoga Center, 41.1117, -89.5919
+Sargent, 39.7167, -88.0500
+Sato, 37.9089, -89.4306
+Sauganash, 41.9900, -87.7422
+Sauget, 38.5964, -90.1847
+Sauk, 41.5333, -87.6167
+Sauk Village, 41.4883, -87.5675
+Saunders, 39.8519, -89.3072
+Saunemin, 40.8931, -88.4053
+Savage, 39.7814, -90.2108
+Savanna, 42.0944, -90.1567
+Savoy, 40.0547, -88.2517
+Sawyerville, 39.0783, -89.8072
+Say Brook, 41.7833, -88.1500
+Saybrook, 40.4267, -88.5261
+Scales Mound, 42.4758, -90.2528
+Scarboro, 41.7814, -89.0342
+Schaeferville, 40.5478, -89.6311
+Schapville, 42.3969, -90.2053
+Schaumburg, 42.0333, -88.0833
+Scheller, 38.1864, -89.0950
+Schick, 41.9517, -88.1642
+Schiller Park, 41.9558, -87.8708
+Schmieder Landing, 38.8947, -90.5278
+Schnell, 38.6358, -88.2494
+Schoper, 39.3381, -89.7842
+Schram City, 39.1642, -89.4636
+Schrodts Station, 38.3825, -87.8250
+Schrum, 41.6011, -87.5489
+Schuline, 38.0894, -89.7789
+Schwer, 40.6606, -87.7881
+Sciota, 40.5608, -90.7517
+Scioto Mills, 42.3564, -89.6686
+Scotland(McDonough), 40.4000, -90.6167
+Scotland(Edgar), 39.8000, -87.6833
+Scotsboro, 37.7667, -88.9333
+Scott Air Force Base, 38.5333, -89.8667
+Scottland, 39.8044, -87.6050
+Scottsburg, 40.5539, -90.5936
+Scottsville(Wayne), 38.3292, -88.1722
+Scottsville(Macoupin), 39.4803, -90.1047
+Scottswood, 40.1000, -88.2000
+Scottville, 39.4667, -90.0833
+Scovel, 40.9117, -88.3983
+Scraper-Moecherville, 41.7464, -88.2808
+Seaton, 41.1022, -90.8014
+Seatonville, 41.3647, -89.2764
+Sebastopol, 38.7111, -89.6006
+Secor, 40.7419, -89.1353
+Seehorn, 39.7553, -91.2611
+Sefton, 39.0708, -88.9556
+Selby, 41.3667, -89.3333
+Sellers, 40.1864, -88.1047
+Selmaville, 38.6069, -88.9953
+Selsor Ford, 40.2589, -87.7950
+Seminary(Richland), 38.5836, -88.1264
+Seminary(Fayette), 38.8667, -89.2000
+Senachwine, 41.2000, -89.4000
+Seneca, 41.3111, -88.6097
+Sepo, 40.3436, -90.1192
+Serena, 41.4861, -88.7314
+Sesser, 38.0917, -89.0503
+Seven Hickory, 39.5833, -88.1833
+Seven Hills, 42.4167, -88.0667
+Seville, 40.4856, -90.3436
+Seward, 42.2389, -89.3578
+Sexson, 39.3894, -88.5181
+Sexson Corner, 39.4667, -88.5000
+Seymour, 40.1069, -88.4267
+Shabbona, 41.7681, -88.8769
+Shabbona Grove, 41.7325, -88.8556
+Shadetree, 41.6000, -87.7500
+Shadow Lawn, 41.1597, -87.5717
+Shady Beach, 41.5389, -90.1967
+Shady Grove, 37.1239, -88.5658
+Shady Hill, 42.1500, -88.1000
+Shafter, 39.0136, -89.1850
+Shakerag, 37.8222, -88.9089
+Shale City, 41.2197, -90.6406
+Shamrock, 40.4186, -88.8994
+Shanghai, 41.0508, -90.4967
+Shanghai City, 41.0667, -90.5500
+Shannon, 42.1547, -89.7397
+Sharon, 39.0333, -89.1000
+Sharpsburg, 39.6139, -89.3511
+Shattuc, 38.6106, -89.1928
+Shaw(Lake), 42.3833, -88.1167
+Shaw(Warren), 41.0458, -90.6369
+Shawnee, 37.7333, -88.1333
+Shawneetown, 37.7131, -88.1867
+Shaws, 41.7075, -89.2353
+Shaws Point, 39.3167, -89.7667
+Sheffield, 41.3583, -89.7372
+Sheffield Green, 42.2667, -89.0000
+Shelby, 38.5000, -88.1000
+Shelbyville, 39.4064, -88.7900
+Sheldon, 40.7692, -87.5639
+Sheldons Grove, 40.1667, -90.2942
+Shepherd, 39.7250, -91.3444
+Sherburnville, 41.2289, -87.5447
+Sheridan, 41.5300, -88.6797
+Sheridan Village, 40.7500, -89.6167
+Sherman, 39.8936, -89.6047
+Sherman Hospital, 42.0544, -88.2817
+Sherrard, 41.3189, -90.5058
+Sherwood Forest, 41.9500, -87.9833
+Shetlerville, 37.4306, -88.4075
+Shields(Lake), 42.2833, -87.8667
+Shields(Jefferson), 38.4678, -88.7133
+Shiloh, 38.5614, -89.8972
+Shiloh Hill, 37.9253, -89.6211
+Shiloh Station, 38.5339, -89.8981
+Shiloh Valley, 38.5167, -89.8833
+Shinn, 39.6764, -91.1672
+Shipman, 39.1175, -90.0442
+Shirland, 42.4444, -89.1975
+Shirley(McLean), 40.4072, -89.0625
+Shirley(Jefferson), 38.2850, -88.8381
+Shoal Creek, 38.9667, -89.5500
+Shobonier, 38.8694, -89.0886
+Shokokon, 40.7475, -91.0742
+Shop Creek, 39.2758, -89.6456
+Shore Acres, 41.7667, -89.6833
+Shore Hills, 42.3833, -88.4333
+Shorewood(Kankakee), 41.0167, -87.7167
+Shorewood(Will), 41.5200, -88.2017
+Shorewood Village, 42.0500, -87.9167
+Shull's Urban Estates, 40.3167, -88.1333
+Shumway, 39.1850, -88.6522
+Sibley, 40.5869, -88.3811
+Sicily, 39.5900, -89.4911
+Sidell, 39.9097, -87.8211
+Sidney, 40.0250, -88.0733
+Sigel, 39.2261, -88.4942
+Signal Hill, 38.5772, -90.0567
+Siloam, 39.8881, -90.9158
+Silver Creek, 42.2500, -89.5667
+Silver Lake, 42.2350, -88.2447
+Silvis, 41.5122, -90.4150
+Silvis Heights, 41.5000, -90.4000
+Simpson(White), 38.1500, -88.0333
+Simpson(Johnson), 37.4672, -88.7550
+Sims, 38.3603, -88.5306
+Sinclair, 39.8022, -90.1217
+Singer Health Center, 42.3233, -89.0825
+Six Mile, 37.9167, -89.0667
+Skelton, 40.1428, -89.2539
+Ski Hill, 42.2019, -88.2069
+Skokie, 42.0333, -87.7333
+Skokie Junction, 42.2592, -87.8536
+Skokie Manor, 42.2439, -87.8578
+Skokie Valley Hospital, 42.0556, -87.7406
+Slap Out, 38.5833, -88.7833
+Sleepy Hollow, 42.0942, -88.3025
+Smallwood, 38.9000, -88.2000
+Smithboro, 38.8961, -89.3406
+Smithdale, 41.0847, -88.7750
+Smithfield, 40.4733, -90.2917
+Smithshire, 40.7928, -90.7797
+Smithton, 38.4086, -89.9919
+Smithville(Peoria), 40.6603, -89.7997
+Smithville(Wayne), 38.2706, -88.5917
+Snicarte, 40.1233, -90.2314
+Snider, 40.2042, -87.6978
+Snyder, 39.2825, -87.6675
+Sollitt, 41.2933, -87.6347
+Solomon, 40.2489, -88.8228
+Solon Mills, 42.4422, -88.2733
+Somer, 40.1667, -88.2000
+Somerset(Saline), 37.6544, -88.4572
+Somerset(McHenry), 42.2333, -88.3500
+Somerset(Jackson), 37.8000, -89.3333
+Somerset(Du Page), 41.8000, -87.9333
+Somonauk, 41.6336, -88.6811
+Songer, 38.7000, -88.6333
+Sonora, 40.5000, -91.3000
+Soperville, 41.0086, -90.3978
+Sorento, 38.9989, -89.5736
+South, 42.0333, -87.6833
+South Addison, 41.9050, -87.9886
+South Barrington, 42.0914, -88.1217
+South Beloit, 42.4931, -89.0367
+South Bluffs, 39.7333, -90.5333
+South Bridgeview, 41.7333, -87.8000
+South Chicago, 41.7228, -87.5364
+South Chicago Community Hospital, 41.7267, -87.5667
+South Chicago Heights, 41.4808, -87.6378
+South Clinton, 40.1500, -88.9500
+South Crouch, 38.1500, -88.5167
+South Danville, 40.1150, -87.6375
+South Deering, 41.6922, -87.5583
+South Dixon, 41.8000, -89.4500
+South Elgin, 41.9942, -88.2922
+South Elkhorn, 41.9667, -89.7122
+South Fillmore, 39.0500, -89.3000
+South Flannigan, 37.9333, -88.6500
+South Fork, 39.5667, -89.4333
+South Freeport, 42.2408, -89.5725
+South Grove, 42.0167, -88.8833
+South Holland, 41.6008, -87.6069
+South Homer, 40.0333, -87.9833
+South Hurricane, 39.1167, -89.2000
+South Jacksonville, 39.7086, -90.2281
+South Litchfield, 39.1333, -89.6500
+South Lockport, 41.5731, -88.0544
+South Macon, 39.7000, -88.9833
+South Moline, 41.4781, -90.5244
+South Moline Gardens, 41.5000, -90.5000
+South Mounds, 37.7333, -88.5500
+South Muddy, 38.9000, -88.3167
+South Oak Park, 41.8667, -87.7833
+South Ottawa, 41.3317, -88.8369
+South Otter, 39.4000, -89.8833
+South Palmyra, 39.4000, -89.9833
+South Park, 41.7356, -88.3036
+South Pekin, 40.4944, -89.6517
+South Rock Island, 41.4794, -90.5828
+South Rome, 40.8497, -89.5375
+South Ross, 40.3000, -87.6500
+South Roxana, 38.8294, -90.0628
+South Shore, 41.7667, -87.5667
+South Shore Hospital, 41.7494, -87.5692
+South Standard, 39.3500, -89.8000
+South Stickney, 41.7333, -87.8000
+South Streator, 41.1000, -88.8333
+South Twigg, 37.9333, -88.5333
+South Waukegan, 42.3167, -87.8500
+South Wheatland, 39.8000, -88.9667
+South Wilmington, 41.1728, -88.2767
+South Winchester, 39.6000, -90.5000
+Southern, 37.6333, -88.9667
+Southern View, 39.7572, -89.6536
+Southgate, 42.0667, -88.0000
+Southlawn, 39.7536, -89.6214
+Southmoor(Cook), 41.6525, -87.8297
+Southmoor(Madison), 38.9500, -90.1833
+Southport, 40.7925, -89.8986
+Southwest, 38.8667, -87.8667
+Spanish Court, 42.1833, -87.8167
+Spankey, 39.1889, -90.5506
+Sparks Hill, 37.5847, -88.2869
+Sparland, 41.0286, -89.4383
+Sparta, 38.1231, -89.7017
+Spaulding(Cook), 42.0028, -88.2353
+Spaulding(Sangamon), 39.8661, -89.5403
+Spaulding Corners, 42.3706, -87.8811
+Speer, 40.9883, -89.6503
+Spencer(Pike), 39.7108, -91.2658
+Spencer(Will), 41.4981, -87.9417
+Spencer Heights, 37.1272, -89.1947
+Spillertown, 37.7664, -88.9194
+Spin Lake, 40.5333, -89.1833
+Spires, 40.8764, -88.9603
+Sportsman Lake, 38.6000, -88.9500
+Spring, 42.2000, -88.7667
+Spring Bay, 40.8244, -89.5222
+Spring Creek, 39.4500, -90.7333
+Spring Garden, 38.1631, -88.8556
+Spring Grove, 42.4436, -88.2364
+Spring Hill, 41.6125, -90.0450
+Spring Lake(Champaign), 40.2000, -88.4000
+Spring Lake(Tazewell), 40.4833, -89.7833
+Spring Point, 39.2167, -88.4000
+Spring Valley, 41.3275, -89.1997
+Springerton, 38.1794, -88.3542
+Springfield, 39.8017, -89.6436
+Springhaven, 38.9500, -90.1833
+Springville, 37.3744, -89.2675
+Squaw Grove, 41.7667, -88.6500
+St Albans, 40.2333, -91.2000
+St Anne, 41.0250, -87.7139
+St Anne Woods, 41.0375, -87.6250
+St Annes Hospital(Cook), 41.9014, -87.7492
+St Anns Infirmary, 42.1175, -87.8111
+St Anthony Hospital(Madison), 38.9078, -90.1731
+St Anthony Hospital(Cook), 41.8553, -87.6978
+St Anthony Hospital(Winnebago), 42.2697, -89.0072
+St Anthonys Hospital, 41.5033, -90.5564
+St Augustine, 40.7183, -90.4108
+St Charles, 41.9142, -88.3086
+St Clair, 38.5333, -89.9833
+St Clair Square, 38.6333, -90.0667
+St David, 40.4933, -90.0486
+St Elizabeth Hospital, 41.9078, -87.6853
+St Elizabeths Hospital, 38.5111, -89.9897
+St Elmo, 39.0272, -88.8481
+St Francis, 39.1333, -88.4167
+St Francis Hospital(Cook), 42.0244, -87.6844
+St Francis Hospital(Peoria), 40.7025, -89.5894
+St Francis Hospital(Montgomery), 39.1814, -89.6389
+St Francisville, 38.5911, -87.6467
+St George, 41.1925, -87.7756
+St Jacob, 38.7139, -89.7681
+St James, 38.9544, -88.8511
+St James Estates, 41.5167, -87.6333
+St James Hospital, 41.4581, -87.5817
+St Joe, 38.2328, -90.1536
+St Johns, 38.0308, -89.2408
+St Johns Sanitarium, 39.8419, -89.5619
+St Joseph, 40.1117, -88.0417
+St Joseph Hospital(Boone), 42.2581, -88.8275
+St Joseph Hospital(Madison), 38.8906, -90.1708
+St Joseph Hospital(Kane), 41.7644, -88.3133
+St Josephs Hospital(Cook), 41.9339, -87.6372
+St Josephs Hospital(Kane), 42.0478, -88.2800
+St Josephs Hospital(Will), 41.5281, -88.1339
+St Libory, 38.3625, -89.7097
+St Margaret Hospital, 41.3289, -89.1917
+St Mary, 40.3461, -90.9339
+St Mary Hospital, 39.9350, -91.3925
+St Mary of Nazareth Hospital, 41.9017, -87.6828
+St Marys, 39.1167, -88.5500
+St Marys Hospital(Macon), 39.8275, -88.9317
+St Marys Hospital(La Salle), 41.3467, -89.0922
+St Morgan, 38.6622, -89.6875
+St Paul, 38.8528, -88.9533
+St Paul Junction, 41.6500, -87.7000
+St Peter, 38.8681, -88.8539
+St Regis, 41.8833, -88.0167
+St Rose, 38.6842, -89.5544
+St Theresa Hospital, 42.3581, -87.8661
+St Thomas, 38.7619, -90.1169
+St Vincents Hospital, 41.8953, -87.6319
+Staley, 40.1131, -88.3125
+Stallings, 38.7247, -90.0631
+Standard, 41.2567, -89.1808
+Standard City, 39.3522, -89.7875
+Stanford, 40.4347, -89.2178
+Stanton, 40.1833, -88.0667
+Stanton Point, 42.3833, -88.1500
+Staples Corner, 42.1392, -88.0217
+Star City, 39.1342, -90.6736
+Stark, 40.9956, -89.7439
+Starks, 42.0883, -88.4567
+Starne, 39.8242, -89.6050
+Starnes, 39.8000, -89.6333
+State Park Place, 38.6586, -90.0472
+Staunton, 39.0122, -89.7911
+Stavanger, 41.3986, -88.6139
+Ste Marie, 38.9322, -88.0233
+Steel City, 37.9981, -88.8792
+Steele, 41.5058, -87.9622
+Steeleville, 38.0072, -89.6583
+Steelton(Whiteside), 41.8000, -89.7167
+Steelton(Vermilion), 40.0094, -87.6789
+Steeple Run, 41.7833, -88.1500
+Steger, 41.4700, -87.6364
+Stelle, 41.0000, -88.2000
+Sterling, 41.7886, -89.6961
+Sterling Place, 38.6264, -90.0397
+Steuben, 41.0500, -89.4667
+Stevenson, 38.5667, -88.8833
+Steward, 41.8478, -89.0200
+Stewardson, 39.2631, -88.6297
+Stickney, 41.8214, -87.7828
+Stillman Valley, 42.1072, -89.1792
+Stillwell, 40.2186, -91.1828
+Stiritz, 37.8361, -88.9483
+Stock Yards, 41.8167, -87.6500
+Stockdale, 41.3511, -88.4925
+Stockland, 40.6144, -87.5928
+Stockton, 42.3497, -90.0067
+Stoehrs, 40.5231, -89.6936
+Stokes, 37.4500, -89.1000
+Stolle, 38.5433, -90.1697
+Stolletown, 38.6933, -89.4467
+Stone Church(Washington), 38.3503, -89.6253
+Stone Church(Hardin), 37.4667, -88.3667
+Stone Fort, 37.6233, -89.1967
+Stone Park, 41.9056, -87.8836
+Stonebridge, 41.5833, -87.6667
+Stonefort, 37.6142, -88.7081
+Stonelake, 42.3167, -88.4500
+Stoneyville, 41.3047, -88.8364
+Stonington, 39.6400, -89.1928
+Stony Island, 41.7225, -87.5750
+Stookey, 38.5500, -90.0667
+Storeyland, 38.9500, -90.1833
+Storybrook, 41.6500, -88.4500
+Stoy, 38.9975, -87.8331
+Strasburg, 39.3525, -88.6192
+Stratford, 41.9969, -89.4908
+Stratford Hills, 41.9000, -87.9500
+Strathmore Grove, 42.1500, -87.9500
+Stratton, 38.4456, -88.7133
+Stratton, 39.6000, -87.6000
+Straut, 39.4433, -90.7058
+Strawn, 40.6525, -88.3964
+Strawns Crossing, 39.7858, -90.1508
+Streamwood, 42.0256, -88.1783
+Streator, 41.1208, -88.8353
+Streator Junction, 40.7167, -89.2833
+Stringtown, 38.8250, -87.9836
+Stronghurst, 40.7469, -90.9039
+Stubblefield, 38.8483, -89.4664
+Sublette, 41.6431, -89.2278
+Suburban Estates, 41.8000, -88.0167
+Suburban Heights, 38.5167, -89.1333
+Sudduth, 39.7050, -89.8158
+Suez, 41.1167, -90.6000
+Sugar Brook, 41.6667, -88.0000
+Sugar Creek, 38.6167, -89.6500
+Sugar Grove(Kane), 41.7614, -88.4436
+Sugar Grove(Mercer), 41.2350, -90.7317
+Sugar Island, 41.0064, -87.8236
+Sugar Loaf, 38.5167, -90.1833
+Sugarloaf Heights, 38.4961, -90.2125
+Sullivan, 39.5994, -88.6078
+Sullivant, 40.5667, -88.3833
+Sulphur Springs, 41.4192, -88.7742
+Summer Hill, 39.5464, -90.9192
+Summerfield, 38.5972, -89.7517
+Summerhill, 42.1167, -87.8167
+Summerlakes, 41.8167, -88.1833
+Summersville, 38.3278, -88.8669
+Summerville, 39.1889, -90.1236
+Summit(Cook), 41.7881, -87.8103
+Summit(St Clair), 38.5511, -90.0047
+Summit Heights, 39.1333, -89.5000
+Summum, 40.2678, -90.2783
+Sumner, 38.7169, -87.8614
+Sumpter, 39.2833, -88.2667
+Sunbeam, 41.1272, -90.7350
+Sunbury, 41.1008, -88.5275
+Sunfield, 38.0644, -89.2400
+Sunny Crest, 41.5358, -87.6939
+Sunny Hill(Henry), 41.3989, -90.4158
+Sunny Hill(Pike), 39.6231, -90.7708
+Sunny Hills Estates, 41.8000, -88.0167
+Sunny Land, 41.5500, -88.1167
+Sunnyland, 40.6914, -89.5081
+Sunnyside(Williamson), 37.8036, -89.0542
+Sunnyside(McHenry), 42.3894, -88.2261
+Sunnyside(Stephenson), 42.3567, -89.9136
+Sunrise Ridge(McHenry), 42.3833, -88.4333
+Sunrise Ridge(Will), 41.5833, -88.0500
+Sunset Acres, 42.2667, -87.9333
+Sunset Harbor, 37.7667, -88.9333
+Sunset Hills, 41.9667, -88.0667
+Sunset Lake, 39.4500, -89.7833
+Sunset Landing, 38.9458, -90.6636
+Surrey, 40.9117, -90.4681
+Sutter(Hancock), 40.2792, -91.3433
+Sutter(Tazewell), 40.3967, -89.3694
+Sutton, 42.0958, -88.1942
+Sutton Point, 42.1167, -87.8167
+Swan, 40.6667, -90.6167
+Swan Creek, 40.6678, -90.6547
+Swansea, 38.5339, -89.9889
+Swanwick, 38.1697, -89.5361
+Swedish-American Hospital, 42.2650, -89.0744
+Swedona, 41.2792, -90.4447
+Sweet Water, 40.0539, -89.6939
+Swift, 41.9203, -88.0422
+Swiss Valley, 41.4667, -87.6167
+Swissville, 41.8333, -89.5000
+Swygert, 40.9117, -88.5294
+Sycamore, 41.9889, -88.6867
+Sylvan, 39.9850, -90.0711
+Sylvan Hill, 41.6333, -87.8500
+Sylvan Lake, 42.2439, -88.0528
+Symerton, 41.3286, -88.0525
+Symmes, 39.5333, -87.7000

@@ -1,0 +1,253 @@
+Table Grove, 40.3642, -90.4250
+Tabor, 40.1806, -89.1347
+Taft, 41.8833, -87.9167
+Talbott, 40.5103, -89.7844
+Talkington, 39.5667, -89.8667
+Tall Trees, 42.0667, -87.8000
+Tallmadge, 41.1114, -87.6250
+Tallula, 39.9444, -89.9372
+Tamalco, 38.7708, -89.2914
+Tamarac, 41.5333, -87.6833
+Tamarack, 41.6508, -88.2528
+Tamaroa, 38.1378, -89.2300
+Tamms, 37.2350, -89.2700
+Tampico, 41.6303, -89.7861
+Tanglewood, 41.9667, -88.1000
+Tankville, 37.1269, -89.3836
+Tansill, 37.3061, -88.5378
+Tate, 37.8833, -88.6500
+Tatumville, 37.2578, -89.2794
+Taylor(Ogle), 41.9167, -89.3333
+Taylor(Pike), 39.6003, -90.9633
+Taylor Ridge, 41.3867, -90.6681
+Taylor Springs, 39.1308, -89.4919
+Taylorville, 39.5489, -89.2944
+Tazewell, 40.4844, -89.3325
+Techny, 42.1167, -87.8167
+Teheran, 40.2244, -89.7989
+Temple Hill, 37.3072, -88.6303
+Tennessee, 40.4119, -90.8392
+Terminal Junction, 41.4833, -90.5667
+Terra Cotta, 42.2817, -88.3006
+Terre Haute, 40.6664, -90.9811
+Teutopolis, 39.1331, -88.4719
+Texas, 40.1000, -88.9833
+Texas City, 37.8783, -88.3933
+Texico, 38.4394, -88.8969
+Thackeray, 38.1200, -88.4531
+Thawville, 40.6758, -88.1161
+Thayer, 39.5381, -89.7631
+The Burg, 41.7064, -89.0986
+The Clusters, 41.6667, -88.0000
+The Covered Bridges, 41.8833, -88.0833
+The Crossroads, 38.9008, -90.5625
+The Fairway of Country Lakes, 41.7833, -88.1500
+The Greens, 42.0500, -87.8833
+The Greens of Woodgate, 41.5000, -87.7000
+The Ledges, 42.4167, -89.0167
+The Meadows, 41.7833, -88.0833
+The Terrace, 42.2833, -87.8500
+Thebes, 37.2208, -89.4608
+Third Lake, 42.3739, -88.0108
+Thomas, 41.5117, -89.8194
+Thomasboro, 40.2417, -88.1842
+Thomasville, 39.4897, -89.6544
+Thompson, 42.4167, -90.1667
+Thompsonville, 37.9175, -88.7622
+Thomson, 41.9589, -90.0992
+Thornton, 41.5681, -87.6081
+Thornton Junction, 41.5892, -87.6069
+Thornwilde, 41.8167, -88.1833
+Thurber, 38.0825, -88.4275
+Tice, 39.9853, -89.7947
+Ticona, 41.2242, -89.0525
+Tierra Grande, 41.5833, -87.7667
+Tilden, 38.2119, -89.6825
+Tillman, 38.5364, -90.1522
+Tilton, 40.0953, -87.6475
+Timber, 40.5833, -89.8333
+Timber Lake(Lake), 42.1500, -88.1000
+Timber Lake(Carrol), 42.1000, -89.9667
+Timber Ridge, 41.7333, -87.8333
+Timber Trails, 41.8000, -87.9333
+Timberlake Estates, 41.8000, -87.9333
+Timberlake Village, 42.0667, -87.9500
+Timberline, 41.5500, -88.1167
+Time, 39.5614, -90.7242
+Times Square, 38.3000, -88.9167
+Timewell, 40.0078, -90.8736
+Timothy, 39.3031, -88.1294
+Tinley Park, 41.5733, -87.7844
+Tinley Park State Hospital, 41.5622, -87.7972
+Tinley Terrace, 41.5833, -87.7667
+Tioga, 40.2111, -91.3469
+Tipton(Champaign), 40.0697, -88.0350
+Tipton(Monroe), 38.2358, -90.1011
+Tiskilwa, 41.2922, -89.5061
+Tison, 37.8897, -88.5144
+Titus, 39.1933, -90.5786
+Todds Mill, 38.2025, -89.3658
+Todds Point, 39.5769, -88.7658
+Toledo, 39.2736, -88.2436
+Tolono, 39.9861, -88.2589
+Toluca, 41.0022, -89.1333
+Tomahawk Bluff, 41.3333, -89.1000
+Tomlinson, 40.3189, -88.2331
+Tompkins, 40.8500, -90.7167
+Toms Prairie, 38.4078, -88.2586
+Tonica, 41.2158, -89.0667
+Tonti, 38.6647, -88.9783
+Topeka, 40.3303, -89.9311
+Torino, 41.2058, -88.2347
+Toronto, 39.7139, -89.6297
+Toulon, 41.0936, -89.8647
+Tovey, 39.5833, -89.4500
+Tovey Humphrey Station, 39.5897, -89.4550
+Towanda, 40.5639, -88.8989
+Tower Hill, 39.3878, -88.9606
+Tower Lake, 42.2319, -88.1519
+Towne Oaks, 40.5833, -89.5481
+Trago Lake, 38.6667, -88.4667
+Trailpark Gardens, 40.7339, -89.5183
+Tremont(Madison), 38.9500, -90.1833
+Tremont(Tazewell), 40.5275, -89.4925
+Trenton, 38.6056, -89.6819
+Tri-state Village, 41.8000, -87.9333
+Triezenbers, 41.6667, -87.7833
+Trilla, 39.3750, -88.3503
+Trimble, 39.0633, -87.6844
+Triple Lance Heights, 37.7167, -89.2333
+Triumph, 41.4994, -89.0219
+Triumvera, 42.0667, -87.8000
+Trivoli, 40.6906, -89.8919
+Troster, 40.3183, -88.4797
+Trout Valley, 42.2333, -88.2500
+Trowbridge, 39.3103, -88.5178
+Troxel, 41.8342, -88.5964
+Troy, 38.7292, -89.8831
+Troy Crossing, 38.7056, -89.9569
+Troy Grove, 41.4678, -89.0831
+Troy Junction, 38.7344, -89.9281
+Tru Lock Acres, 40.4667, -90.6833
+Truro, 40.9575, -90.0422
+Tuckers Corners, 37.9908, -88.5956
+Tullamore, 42.2333, -87.9833
+Tunbridge, 40.1136, -89.0486
+Tunnel Hill, 37.5236, -88.8386
+Turnberry, 42.2333, -88.3500
+Turner Camp, 42.1892, -88.2506
+Turner Landing, 39.0703, -90.6953
+Turpin, 39.7886, -88.9192
+Tuscarora, 40.6053, -89.6672
+Tuscola, 39.7992, -88.2831
+Twelvemile Corner, 41.7594, -89.0833
+Twigg, 38.0000, -88.5500
+Twilight Terrace, 38.5167, -89.9833
+Twin City, 40.1000, -88.2000
+Twin Grove, 40.4933, -89.0797
+Twin Lakes, 38.7333, -89.8833
+Twin Oaks(Cook), 42.0500, -87.9167
+Twin Oaks(Will), 41.5500, -88.1167
+Tyrone, 37.9833, -89.1000
+U.S. Air Force Medical Center, 38.5436, -89.8728
+Udina, 42.0433, -88.3761
+Ulah, 41.2692, -90.1461
+Ullin, 37.2769, -89.1833
+Ullrich, 39.7408, -88.6814
+Union(Logan), 40.2875, -89.3669
+Union(McHenry), 42.2331, -88.5422
+Union(Mason), 40.3908, -89.8094
+Union(Will), 41.4969, -88.0233
+Union Center, 39.3328, -88.0814
+Union Grove, 41.8342, -90.0264
+Union Hill(Kankakee), 41.1075, -88.1467
+Union Hill(St Clair), 38.5881, -90.0058
+Union Town, 38.5189, -88.7503
+Uniontown, 40.7475, -90.0986
+Unionville(Vermilion), 40.0250, -87.6381
+Unionville(Massac), 37.1222, -88.5467
+Unionville(Whiteside), 41.8192, -89.9825
+United States Health Public Hospital, 41.9567, -87.6481
+Unity(Piatt), 39.8333, -88.5333
+Unity(Hodges Park Station,Alexander), 37.1497, -89.2728
+University(Champaign), 40.1000, -88.2000
+University(Hamilton), 37.9364, -88.6094
+University Heights, 39.4833, -88.2167
+University Mall, 39.9833, -88.8167
+Upper Alton, 38.9000, -90.1667
+Uptown, 41.9667, -87.6667
+Urbain, 37.9744, -89.0406
+Urban, 39.5667, -89.3500
+Urbana, 40.1106, -88.2072
+Urbandale, 37.0528, -89.1858
+Ursa, 40.0747, -91.3672
+Ustick, 41.8839, -89.9919
+Utah, 40.9842, -90.4878
+Utica, 41.3406, -89.0100
+Utopia, 41.8511, -87.9728
+Valier, 38.0153, -89.0425
+Valier Patch, 38.0267, -89.0367
+Valley, 41.0167, -89.7000
+Valley City, 39.7069, -90.6525
+Valley Lo, 42.0667, -87.8000
+Valley Mission, 37.3581, -89.3392
+Valley View(Du Page), 41.8303, -88.0678
+Valley View(Kane), 41.9661, -88.2989
+Valley View(Tazewell), 40.6500, -89.5667
+Valmeyer, 38.2944, -90.3158
+Van Burensburg, 39.0361, -89.2794
+Van Orin, 41.5500, -89.3533
+Van Petten, 41.7042, -89.6219
+Van Wood, 39.9614, -89.5986
+Vance, 40.0500, -87.8833
+Vandalia, 38.9606, -89.0936
+Vanderville, 39.4253, -89.2975
+Varna, 41.0364, -89.2261
+Velma, 39.5147, -89.2325
+Venedy, 38.3950, -89.6458
+Venetian Village, 42.3986, -88.0525
+Venice, 38.6722, -90.1697
+Vera, 39.0342, -89.1131
+Vergennes, 37.9022, -89.3356
+Vermilion, 39.5811, -87.5889
+Vermilion Grove, 39.9250, -87.6550
+Vermilion Heights, 40.1236, -87.6533
+Vermilionville, 41.2594, -88.9956
+Vermillion, 41.2167, -89.0000
+Vermillion Estates, 40.8833, -88.6333
+Vermont, 40.2942, -90.4278
+Vernal, 40.2636, -87.6994
+Vernon, 38.8022, -89.0869
+Vernon Hills, 42.2194, -87.9794
+Verona, 41.2178, -88.5014
+Versailles, 39.8850, -90.6558
+Vets Row, 40.9167, -89.5000
+Vevay Park, 39.2792, -88.0536
+Vicic, 40.6500, -89.5667
+Victor, 41.6667, -88.7667
+Victoria, 41.0336, -90.0983
+Victory Memorial Hospital, 42.3781, -87.8319
+Vienna, 37.4153, -88.8978
+Vienna Woods, 41.5167, -87.7000
+Villa Hills, 38.5333, -90.0833
+Villa Marie, 38.9500, -90.1833
+Villa Park, 41.8897, -87.9889
+Villa Ridge(Madison), 38.9500, -90.1833
+Villa Ridge(Pulaski), 37.1586, -89.1947
+Villa Verde, 42.1500, -87.9500
+Villa West, 41.6333, -87.8500
+Villa Westbrook, 40.4667, -90.6833
+Village Square, 41.8000, -88.0167
+Villagrove, 39.8628, -88.1622
+Villas, 38.8994, -87.7536
+Villas Salceda, 42.1167, -87.8167
+Vinegar Hill, 42.4833, -90.4333
+Viola, 41.2031, -90.5869
+Virden, 39.5008, -89.7678
+Virgil, 41.9558, -88.5372
+Virginia, 39.9511, -90.2122
+Volo, 42.3261, -88.1678
+Von Solbrig Hospital, 41.7747, -87.7228
+Vonachen Knolls, 40.9167, -89.5000
+Voorhies, 39.8669, -88.5800
+Vulcan, 38.5289, -90.2422

@@ -1,0 +1,32 @@
+Yale, 39.1197, -88.0247
+Yantisville, 39.5364, -88.8833
+Yard Center, 41.6167, -87.6667
+Yates, 40.7167, -88.6333
+Yates City, 40.7786, -90.0147
+Yatesville, 39.8458, -90.0603
+Yeager, 41.2078, -87.7022
+Yellow Banks, 40.7303, -91.0811
+Yellowhead, 41.2500, -87.6000
+Yeomans, 39.6506, -90.0408
+Yeoward Addition, 41.7581, -89.6606
+York, 39.1714, -87.6392
+York Center, 41.8569, -87.9878
+Yorkfield, 41.8667, -87.9500
+Yorkshire Woods, 41.8000, -87.9333
+Yorktown, 41.5697, -89.8500
+Yorkville, 41.6411, -88.4472
+Young America, 39.8500, -87.8500
+Young Hickory, 40.6667, -90.2500
+Youngsdale, 41.9906, -88.3406
+Youngstown, 40.6606, -90.6172
+Yuton, 40.5333, -89.0603
+Zanesville, 39.3222, -89.6531
+Zearing, 41.4456, -89.3172
+Zeigler, 37.8994, -89.0519
+Zenith, 38.5486, -88.6225
+Zenobia, 39.5286, -89.5336
+Zier Cors, 42.1539, -89.8236
+Zif, 38.5833, -88.3167
+Zion(Carroll), 42.0833, -90.1500
+Zion(Lake), 42.4461, -87.8328
+Zuma, 41.5500, -90.2667

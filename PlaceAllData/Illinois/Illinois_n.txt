@@ -1,0 +1,177 @@
+Naausay, 41.5833, -88.3167
+Nachusa, 41.8314, -89.3897
+Nameoki, 38.7317, -90.1278
+Naperville, 41.7858, -88.1472
+Naplate, 41.3336, -88.8781
+Naples, 39.7572, -90.6072
+Narita, 39.9831, -89.2189
+Nashua, 41.9667, -89.3167
+Nashville, 38.3436, -89.3806
+Nason, 38.1761, -88.9675
+Natalie Estates, 41.6000, -87.7500
+National City, 38.6456, -90.1608
+National Stock Yards, 38.6500, -90.1500
+Natrona, 40.2708, -89.6322
+Nauvoo, 40.5500, -91.3847
+Navajo Hills, 41.6667, -87.7833
+Naval Air Station, 42.1000, -87.8333
+Neadmore, 39.2492, -87.8603
+Neal, 39.3019, -88.3417
+Nebo, 39.4425, -90.7908
+Nebraska, 40.8833, -88.8667
+Neelys, 39.7333, -90.5167
+Neelyville, 39.7564, -90.4764
+Neilson, 37.6303, -88.9606
+Nekoma, 41.1728, -90.1886
+Nelson, 41.7964, -89.6017
+Neoga, 39.3194, -88.4528
+Neponset, 41.2958, -89.7903
+Nettle Creek, 41.4425, -88.5781
+Neunert, 37.7228, -89.5456
+Nevada, 41.0858, -88.5514
+Nevins, 39.5339, -87.6386
+New Athens, 38.3264, -89.8769
+New Baden, 38.5350, -89.7006
+New Bedford, 41.5128, -89.7206
+New Berlin, 39.7253, -89.9106
+New Blossom Hill, 42.2333, -88.2500
+New Boston, 41.1703, -90.9967
+New Burnside, 37.5792, -88.7708
+New Camp, 37.8000, -89.0833
+New Canton, 39.6361, -91.0958
+New City, 39.6703, -89.5353
+New Columbia, 37.3106, -88.7753
+New Delhi, 39.0833, -90.3667
+New Dennison, 37.6928, -88.8556
+New Design(Burksville Station), 38.2681, -90.1183
+New Douglas, 38.9700, -89.6664
+New Grand Chain(Grand Chain), 37.2519, -89.0211
+New Hanover, 38.3867, -90.2272
+New Hartford, 39.5756, -90.9100
+New Haven, 37.9086, -88.1292
+New Hebron, 38.9500, -87.7444
+New Holland, 40.1847, -89.5808
+New Hope, 37.7939, -88.6889
+New La Grange, 39.8833, -90.6500
+New Lebanon, 42.0989, -88.6031
+New Lenox, 41.5119, -87.9656
+New Liberty, 37.1219, -88.4478
+New Memphis, 38.4792, -89.6783
+New Milford, 42.1869, -89.0678
+New Minden, 38.4414, -89.3703
+New Palatine, 38.0833, -89.8500
+New Palestine, 37.9964, -89.8206
+New Philadelphia, 40.4894, -90.4722
+New Salem, 39.7075, -90.8475
+New Trier, 42.0833, -87.7500
+New Virginia, 37.8167, -88.9333
+New Windsor(Windsor), 41.2022, -90.4422
+Newark, 41.5369, -88.5833
+Newbern, 39.0069, -90.3369
+Newburg(Pike), 39.6167, -90.7333
+Newburg(Macon), 39.9811, -88.8039
+Newby, 39.4408, -88.3181
+Newcastle, 37.6506, -88.6714
+Newcomb, 40.2667, -88.4000
+Newell, 40.1631, -87.5836
+Newman, 39.7986, -87.9858
+Newmansville, 40.0033, -90.0117
+Newport(Lake), 42.4667, -87.9333
+Newport(Madison), 38.6808, -90.1758
+Newton, 38.9908, -88.1625
+Newton Corners, 41.7364, -90.1164
+Newtown(Livingston), 41.0667, -88.7500
+Newtown(Vermilion), 40.1672, -87.7692
+Niantic, 39.8539, -89.1661
+Nifa, 41.8333, -88.3167
+Niles, 42.0189, -87.8028
+Nilwood, 39.3981, -89.8086
+Niota, 40.6175, -91.2878
+Nipper Corner, 38.0386, -88.4703
+Nippersink Terrace, 42.4333, -88.2333
+Nixon, 40.1167, -88.7500
+Nixon's Greenwood-Central, 42.0667, -87.8000
+Noble, 38.6975, -88.2236
+Nokomis, 39.3011, -89.2850
+Noltings, 38.4878, -89.1992
+Nora, 42.4558, -89.9453
+Nordic Park, 41.9667, -88.0167
+Normal, 40.5142, -88.9906
+Norman, 41.3000, -88.5167
+Normandale, 40.5833, -89.6167
+Normandy, 41.5619, -89.6492
+Normandy Hill, 42.1167, -87.8167
+Normandy Villa, 41.5167, -87.6333
+Normantown, 41.6547, -88.2322
+Norpaul, 41.9333, -87.8833
+Norridge, 41.9633, -87.8272
+Norris, 40.6258, -90.0319
+Norris City, 37.9811, -88.3292
+North, 42.0500, -87.7000
+North Alton, 38.9222, -90.1964
+North Aurora, 41.8061, -88.3272
+North Barrington, 42.2078, -88.1406
+North Bluffs, 39.7667, -90.5167
+North Chicago, 42.3256, -87.8411
+North Chillicothe, 40.9308, -89.5014
+North City, 37.9942, -89.0672
+North Dixon, 41.8333, -89.5000
+North Dupo, 38.5494, -90.2006
+North Fork, 37.8167, -88.3167
+North Glen Ellyn, 41.8919, -88.0631
+North Hampton, 40.9311, -89.5389
+North Hanover, 42.2936, -90.2786
+North Harvey, 41.6000, -87.6667
+North Henderson, 41.0892, -90.4753
+North Hills, 42.2333, -87.9833
+North Hooper, 40.9506, -87.6069
+North Libertyville Estates, 42.2667, -87.9333
+North Litchfield, 39.2167, -89.6500
+North Mounds, 37.1231, -89.2003
+North Muddy, 39.0167, -88.3167
+North Northfield, 42.1383, -87.8814
+North Okaw, 39.6000, -88.4000
+North Ottawa, 41.3500, -88.8500
+North Otter, 39.4833, -89.8833
+North Palmyra, 39.4667, -90.0000
+North Park, 42.3428, -89.0519
+North Pekin, 40.6150, -89.6222
+North Plato, 42.0550, -88.4642
+North Quincy, 39.9706, -91.3961
+North Riverside, 41.8428, -87.8231
+North Shore, 42.2400, -88.3614
+North Shoreland, 37.7667, -88.9333
+North Town, 42.0000, -87.7000
+North Utica, 41.3333, -89.0000
+North Venice, 38.6808, -90.1664
+North Winchester, 39.6500, -90.4833
+North Woods, 41.8667, -88.1833
+Northbelt Homesites, 38.5333, -90.0000
+Northbrook, 42.1275, -87.8289
+Northbrook Knolls, 42.1167, -87.8167
+Northbrook West, 42.1167, -87.8167
+Northeast, 40.1500, -90.9667
+Northern, 38.0833, -88.7667
+Northfield, 42.0997, -87.7808
+Northfield Woods, 42.0833, -87.8833
+Northgate, 41.9667, -88.1000
+Northlake, 41.9172, -87.8956
+Northmore, 38.9500, -90.1833
+Northmore Heights, 39.1167, -88.5500
+Northville, 41.5633, -88.7053
+Northwest Hospital, 42.0678, -87.9922
+Northwoods, 42.1000, -88.7000
+Northwoods Place, 38.8833, -90.0833
+Norton, 41.0500, -88.1833
+Nortonville, 39.5622, -90.1397
+Norway, 41.4656, -88.6644
+Norwood(Mercer), 41.0892, -90.6381
+Norwood(Peoria), 40.7000, -89.6833
+Norwood Park(Cook), 41.9833, -87.8333
+Norwood Park(Peoria), 40.7056, -89.6986
+Nottingham Park, 41.7833, -87.7667
+Nottingham Woods, 41.8297, -88.4653
+Novak Park, 41.9589, -88.3178
+Nubbin Ridge, 38.1000, -88.3333
+Nunda, 42.2833, -88.2500
+Nutwood, 39.0847, -90.5558
