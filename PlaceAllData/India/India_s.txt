@@ -1,0 +1,336 @@
+Sabalgarh, 26.2500, 77.4000
+Sabang, 22.1833, 87.6000
+Sabathu, 30.9833, 76.9833
+Sabe, 19.1833, 73.0333
+Sadabad, 27.4500, 78.0500
+Sadarpur, 28.5500, 77.3500
+Sadaseopet, 17.7333, 77.9667
+Sadhaura, 30.3833, 77.2167
+Sadiya, 27.8333, 95.6667
+Sadri, 25.1833, 73.4333
+Sadulgarh, 29.5833, 74.3167
+Sadulpur, 28.6333, 75.4000
+Safidon, 29.4167, 76.6667
+Sagaon, 19.2000, 73.1000
+Sagar(Karnataka), 14.1667, 75.0333
+Sagar(Madhya Pradesh), 23.8333, 78.7167
+Sagardighi, 24.2833, 88.1000
+Sagauli, 26.7833, 84.8000
+Saguna, 22.9833, 88.4833
+Sagwara, 23.6833, 74.0167
+Saharanpur, 29.9667, 77.5500
+Saharsa, 25.8833, 86.6000
+Sahaswan, 28.0833, 78.7500
+Sahibabad, 28.6667, 77.3667
+Sahibganj, 25.2500, 87.6500
+Saidpur, 25.5500, 83.1833
+Sainthia, 23.9500, 87.6667
+Sakleshpur, 12.9667, 75.7833
+Sakoli, 21.0833, 79.9833
+Sakri, 20.9833, 74.3167
+Sakti, 22.0333, 82.9667
+Saktipur, 23.8667, 88.1833
+Salaya, 22.3167, 69.5833
+Salbani, 22.6333, 87.3333
+Salem, 11.6500, 78.1667
+Salkhia, 22.5833, 88.3500
+Saltora, 23.5333, 86.9333
+Salumbar, 24.1333, 74.0500
+Salur, 18.5333, 83.2167
+Sam, 26.8333, 70.5167
+Samalkot, 17.0500, 82.1833
+Samana, 30.1500, 76.2000
+Samastipur, 25.8500, 85.7833
+Samba, 32.5667, 75.1167
+Sambalpur, 21.4500, 83.9667
+Sambhal, 28.5833, 78.5500
+Sambhar, 26.9167, 75.2000
+Samdari, 25.8167, 72.5833
+Samrala, 30.8500, 76.1833
+Samthar, 25.8500, 78.9167
+Samudragarh, 23.3500, 88.3333
+Sanand, 22.9833, 72.3833
+Sanaur, 30.3000, 76.4500
+Sanawad, 22.1833, 76.0667
+Sanchi, 23.4833, 77.7333
+Sandeshkhali, 22.3667, 88.8833
+Sandi, 27.3000, 79.9500
+Sandila, 27.0833, 80.5167
+Sangamner, 19.5667, 74.2167
+Sangareddipet, 17.6333, 78.1167
+Sangat, 30.0833, 74.8333
+Sangli, 16.8667, 74.5667
+Sangola, 17.4333, 75.2000
+Sangrur, 30.2333, 75.8333
+Sangurli, 18.9333, 73.1167
+Sankaranayinarkovil, 9.1667, 77.5500
+Sankarpur, 22.8500, 88.4500
+Sankeshwar, 16.2667, 74.4833
+Sankheda, 22.1667, 73.5833
+Sankrail, 22.5667, 88.2333
+Sanpada, 19.0667, 73.0167
+Santaldih, 23.6333, 86.5500
+Santalpur, 23.7500, 71.1667
+Santipur, 23.2500, 88.4333
+Santoshpur, 22.6667, 88.1667
+Saoner, 21.3833, 78.9000
+Sapatgram, 26.3333, 90.1333
+Saraikela, 22.7167, 85.9500
+Saraipali, 21.3333, 83.0000
+Sarangarh, 21.6000, 83.0833
+Sarangpur, 23.5667, 76.4667
+Sarath, 24.2333, 86.8333
+Sardarpur, 22.6500, 74.9833
+Sardarshahr, 28.4333, 74.4833
+Sardhana, 29.1500, 77.6167
+Sardiha, 22.3667, 87.1500
+Sarenga, 22.7667, 87.0333
+Sarsol, 19.0333, 73.0167
+Sarsuna, 22.4667, 88.3000
+Sasaram, 24.9500, 84.0333
+Sasni, 27.7167, 78.0833
+Saspul Gömpa, 34.2500, 77.1500
+Satana, 20.5833, 74.2000
+Satara, 17.6833, 73.9833
+Satbaria, 22.4167, 88.5500
+Satgachia, 23.2667, 88.1333
+Satghara, 22.7333, 88.3500
+Satna, 24.5833, 80.8333
+Sattankulam, 8.4500, 77.9333
+Sattenapalle, 16.4000, 80.1833
+Satuli, 22.5500, 88.5667
+Satyamangalam, 11.5167, 77.2500
+Saugor > Sagar, 23.8333, 78.7167
+Saundatti, 15.7833, 75.1167
+Sausar, 21.6500, 78.7833
+Savantvadi, 15.9000, 73.8167
+Savanur, 14.9667, 75.3500
+Sawai Madhopur, 25.9833, 76.3667
+Secunderabad, 17.4500, 78.5500
+Sehani Kalan, 28.6833, 77.4167
+Sehani Khurd, 28.7000, 77.4167
+Sehara Bazar, 23.1000, 87.8167
+Sehore, 23.2000, 77.0833
+Selghar, 18.9500, 73.0333
+Semaria, 24.2667, 79.9000
+Semli Kalan, 24.1667, 76.6500
+Sendamangalam, 11.3000, 78.2333
+Sendhwa, 21.6833, 75.1000
+Sendurjana, 21.5333, 78.2833
+Seohara, 29.2167, 78.5833
+Seoni, 22.0833, 79.5333
+Seoni Malwa, 22.4500, 77.4667
+Seorinarayan, 21.7333, 82.5833
+Serampore, 22.7500, 88.3500
+Seringapatam, 12.4167, 76.7000
+Sevagram, 20.7500, 78.5000
+Shahabad(Karnataka), 17.1333, 76.9333
+Shahabad(Uttar Pradesh), 27.6500, 79.9500
+Shahabad(Haryana), 30.1667, 76.8833
+Shahada, 21.4667, 74.3000
+Shahdara, 28.5000, 77.4167
+Shahdol, 23.3333, 81.3500
+Shahganj, 26.0500, 82.6833
+Shahgarh, 27.1167, 69.9000
+Shahgarh, 24.3167, 79.1333
+Shahjahanpur, 27.8833, 79.9167
+Shahpur, 16.7000, 76.8333
+Shahpura(Jaipur), 27.3833, 75.9667
+Shahpura(Shahpura District), 25.6333, 74.9333
+Shahpura(Madhya Pradesh), 23.1833, 80.7000
+Shaikhpura, 25.1500, 85.8500
+Shajapur, 23.4333, 76.2667
+Shakarpura, 28.7667, 77.3500
+Sham Churasi, 31.5000, 75.7500
+Shamli, 29.4500, 77.3167
+Shamsabad(Andhra Pradesh), 17.2167, 78.7000
+Shamsabad(Uttar Pradesh), 27.0167, 78.1333
+Shamsher, 28.7333, 77.4000
+Shamsi, 25.2667, 88.0167
+Shantipur, 23.2333, 88.4833
+Sharafabad, 28.6000, 77.3833
+Sheakhala, 22.7667, 88.1667
+Shegaon, 20.7833, 76.6833
+Shencottah, 8.9667, 77.2667
+Sheo, 26.1833, 71.2500
+Sheoganj, 25.1500, 73.0667
+Sheopur, 25.6667, 76.7000
+Shertallai, 9.7000, 76.3333
+Shet Bandar, 18.9667, 72.9333
+Sheva, 18.9333, 72.9500
+Sheva Nhava, 18.9667, 72.9667
+Shikarpur(Uttar Pradesh), 28.2833, 78.0167
+Shikarpur(Karnataka), 14.2667, 75.3500
+Shikohabad, 27.1000, 78.6000
+Shil, 19.1500, 73.0500
+Shillong, 25.5667, 91.8833
+Shimoga, 13.9167, 75.5667
+Shirakol, 22.3000, 88.2667
+Shiraone, 19.0500, 73.0167
+Shirpur, 21.3500, 74.8833
+Shivpuri, 25.4333, 77.6500
+Sholapur, 17.6833, 75.9167
+Sholinghur, 13.1167, 79.4167
+Shoranur, 10.7667, 76.2833
+Shorapur, 16.5167, 76.7500
+Shujalpur, 23.4000, 76.7167
+Shupiyan, 33.7167, 74.8333
+Shyamdih, 23.7833, 86.9333
+Shyampur, 22.2833, 88.0167
+Shyok, 34.1833, 78.1333
+Sialsuk, 23.4000, 92.7500
+Sibpur, 22.5667, 88.3167
+Sibsagar, 26.9833, 94.6333
+Siddhavattam, 14.4667, 79.0167
+Siddipet, 18.1000, 78.8500
+Sidhauli, 27.2833, 80.8333
+Sidhi, 24.4167, 81.8833
+Sidhpur, 23.9167, 72.3833
+Sidlaghatta, 13.3833, 77.8667
+Sidli, 26.5500, 90.4667
+Sihor, 21.7000, 71.9667
+Sihora, 23.4833, 80.1167
+Sikandarabad, 28.4500, 77.7000
+Sikandarpur(Uttar Pradesh), 28.7000, 77.3500
+Sikandarpur(West Bengal), 22.9500, 88.2000
+Sikandra, 24.9500, 86.0333
+Sikandra Rao, 27.7000, 78.4000
+Sikar, 27.6167, 75.1500
+Sikarpur, 22.6000, 88.5333
+Sikkim, 27.5833, 88.5833
+Sikrod, 28.7167, 77.1833
+Silchar, 24.8167, 92.8000
+Silda, 22.6167, 86.8167
+Silghat, 26.6167, 92.9333
+Siligurí, 26.7000, 88.4333
+Silkaripara, 24.2333, 87.4667
+Silphuh, 23.7333, 86.3667
+Silvassa, 20.2833, 73.0000
+Simaltala, 24.7167, 86.5500
+Simaria Kalan, 24.0667, 84.9333
+Simdega, 22.6167, 84.5167
+Simla(Himachal Pradesh), 31.1000, 77.1667
+Simla(Hooghly), 22.7833, 88.2667
+Simla(North 24 Parganas), 22.9000, 88.3667
+Simlapal, 22.9167, 87.0833
+Simlipalgarh, 21.8500, 86.3833
+Simurali, 23.0500, 88.5000
+Sindari, 25.5833, 71.9167
+Sindhnur, 15.7833, 76.7667
+Sindri, 23.7500, 86.7000
+Singanallur, 11.0000, 77.0167
+Singe, 22.9500, 88.4333
+Singhi, 23.6167, 87.8000
+Singing, 28.8833, 94.7833
+Singpara, 22.6667, 88.5167
+Singramau, 25.9500, 82.3833
+Singur, 22.8167, 88.2333
+Sinnar, 19.8500, 74.0000
+Sir Muttra, 26.5167, 77.3667
+Sira, 13.7500, 76.9000
+Sirampur, 24.1333, 86.3333
+Sirhind, 30.6500, 76.3833
+Sirkabad, 23.2667, 86.2000
+Sirmaur, 24.8500, 81.3833
+Sirohi, 24.9000, 72.8500
+Sironj, 24.1000, 77.7000
+Sirpur, 19.5333, 79.3500
+Sirsa(Haryana), 29.5333, 75.0167
+Sirsa(Orissa), 22.2333, 86.6333
+Sirsaganj, 27.0500, 78.7000
+Sirsi, 14.6167, 74.8500
+Sirsilla, 18.3833, 78.8333
+Sisaiya Thana, 27.5833, 81.3333
+Sitalkuchi, 26.1667, 89.1833
+Sitamarhi, 26.6000, 85.4833
+Sitapur, 27.5667, 80.6833
+Sitarampur, 23.7167, 86.8833
+Sitarampuram, 15.1833, 79.1667
+Sivaganga, 9.8667, 78.4833
+Sivakasi, 9.4500, 77.8167
+Sivok, 26.8833, 88.4167
+Siwan, 26.2167, 84.3667
+Siwani, 28.9167, 75.6167
+Siyana, 28.6333, 78.0500
+Sodpur, 22.6500, 88.3833
+Sohagpur(Shahdol), 23.3167, 81.3500
+Sohagpur(Narmadapuram), 22.7000, 78.2000
+Soharkha, 28.5833, 77.4000
+Sohna, 28.2500, 77.0667
+Sojat, 25.9167, 73.6667
+Sojitra, 22.5500, 72.7167
+Solangari, 22.6000, 88.4500
+Solon, 30.9167, 77.1167
+Sompeta, 18.9333, 84.6000
+Sonahula, 25.0833, 87.1500
+Sonamarg, 34.3000, 75.3000
+Sonamukhi, 23.3000, 87.4167
+Sonamura, 23.4833, 91.2833
+Sonari, 18.8667, 72.9833
+Sonarpur, 22.4333, 88.4167
+Sonatikri, 22.9500, 88.3333
+Sonepur, 20.8333, 83.9167
+Sonipat, 28.9833, 77.0167
+Sonkach, 22.9833, 76.3500
+Sonnagar, 24.8333, 84.2500
+Sonpur, 25.7000, 85.2167
+Sonwan, 27.6667, 81.7500
+Sopur, 34.3000, 74.4667
+Sorada, 19.7500, 84.4333
+Sorbhog, 26.5000, 90.8667
+Soro, 21.2833, 86.6667
+Soron, 27.8833, 78.7500
+South Dum-Dum, 22.6167, 88.4167
+South Salmara, 25.9167, 90.0167
+South Suburban > Behala, 22.5167, 88.3167
+South Vijayapuri, 16.8167, 79.5500
+Soyet, 24.2000, 76.1667
+Sri Dungargarh, 28.0833, 74.0000
+Sri Ganganagar, 29.9167, 73.8833
+Sri Hargobindpur, 31.6833, 75.6500
+Sri Hari Kota, 13.7500, 80.2500
+Sri Karanpur, 29.8333, 73.4500
+Sri Mohangarh, 27.2833, 71.2333
+Sri Sailam, 16.0333, 78.9333
+Srikakulam, 18.3000, 83.9000
+Srinagar(Jammu and Kashmir), 34.0833, 74.8167
+Srinagar(Uttaranchal), 30.2167, 78.7833
+Srirampur, 22.8167, 88.4833
+Srirangam, 10.8667, 78.6833
+Srivardhan, 18.0333, 73.0167
+Srivilliputtur, 9.5167, 77.6333
+Suar, 29.0333, 79.0500
+Suatala, 23.1500, 79.0333
+Subarnapur, 22.9667, 88.5667
+Subhepur, 28.7500, 77.2667
+Subipur, 22.9000, 88.1333
+Suchetgarh, 32.5667, 74.6667
+Sudarsan, 22.9833, 88.2833
+Sugandha, 22.9000, 88.3333
+Sugauli Bazar, 26.7667, 84.7333
+Sujangarh, 27.7000, 74.4667
+Sukchar, 22.7000, 88.3667
+Suklara, 23.1833, 86.3500
+Sultanpur(Punjab), 31.2167, 75.1833
+Sultanpur(Uttar Pradesh), 26.2667, 82.0667
+Suluru, 13.7000, 80.0167
+Sumdo, 35.0167, 78.6833
+Sumnal, 35.7500, 78.6667
+Sunam, 30.1333, 75.8000
+Sundargarh, 22.1167, 84.0333
+Sundarnagar, 31.5333, 76.8833
+Supaul, 26.1167, 86.6000
+Supkhar, 22.2000, 80.9333
+Supur, 23.0167, 86.8667
+Surat, 21.1667, 72.8333
+Suratgarh, 29.3167, 73.9000
+Surendranagar, 22.7000, 71.6833
+Suri(Birbhum), 23.9167, 87.5333
+Suria, 22.8500, 88.5500
+Suriapet, 17.1500, 79.6167
+Suryapet, 17.1667, 79.6500
+Sutahata, 22.1333, 88.1167
+Sutak, 33.2000, 77.4667
+Suthiana, 28.5167, 77.4333
+Swarupnagar, 22.8167, 88.8667
+Syampur, 22.3000, 88.0333

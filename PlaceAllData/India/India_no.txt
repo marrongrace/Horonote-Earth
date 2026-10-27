@@ -1,0 +1,180 @@
+Nababpur, 22.7000, 88.2000
+Nabadwip, 23.4167, 88.3667
+Nabagram, 24.2000, 88.1000
+Nabasta, 23.2500, 88.0167
+Nabha, 30.3667, 76.1500
+Nachinda, 21.8833, 87.7667
+Nachna, 27.5000, 71.7167
+Nachuge, 10.7500, 92.3667
+Nadabhanga, 22.4000, 88.2333
+Nadaul, 25.2500, 85.0000
+Nadbai, 27.2333, 77.2000
+Nadia, 23.4000, 88.9333
+Nadiad, 22.7000, 72.8667
+Naenwa, 25.7667, 75.8500
+Nagachoti, 26.0000, 94.3333
+Nagaon, 26.3500, 92.6667
+Nagappattinam, 10.7667, 79.8333
+Nagar(Rajasthan), 27.4333, 77.1000
+Nagar(Himachal Pradesh), 32.1167, 77.1667
+Nagar Kurnool, 16.5000, 78.3167
+Nagar Untari, 24.2833, 83.5000
+Nagari, 13.3333, 79.5500
+Nagari Hills, 13.6667, 79.8333
+Nagarkata, 26.8667, 88.9167
+Nagaur, 27.2000, 73.7333
+Nagda, 23.4500, 75.4167
+Nagercoil, 8.1667, 77.4333
+Nagina, 29.4500, 78.4500
+Nagla, 28.5167, 77.3667
+Nagod, 24.5667, 80.6000
+Nagpur, 21.1500, 79.1000
+Nagrakata, 26.9000, 88.9167
+Nagrota, 32.0500, 76.0833
+Nahan, 30.5500, 77.3000
+Naihati, 22.9000, 88.4167
+Naini Tal, 29.3833, 79.4500
+Nainpur, 22.4333, 80.1167
+Najibabad, 29.6333, 78.3333
+Nakasipara, 23.5833, 88.3500
+Nakhola, 26.1167, 92.1833
+Nakhtarana, 23.3333, 69.2500
+Nakodar, 31.1167, 75.4833
+Nakur, 29.9167, 77.3000
+Nalagarh, 31.0500, 76.7167
+Nalanda, 25.1167, 85.4167
+Nalbari, 26.4167, 91.4333
+Naldera, 31.1833, 77.1833
+Nalgonda, 17.0500, 79.2667
+Nalhati, 24.3000, 87.8167
+Nalikul, 22.8167, 88.1833
+Namakkal, 11.2333, 78.1667
+Namkhana, 21.7667, 88.2333
+Nandaha, 22.8333, 88.2833
+Nanded, 19.1500, 77.3333
+Nandgaon(Uttar Pradesh), 27.7167, 77.3833
+Nandgaon(Maharashtra), 20.3167, 74.6500
+Nandigram, 22.0167, 87.9667
+Nandikotkur, 15.8667, 78.2667
+Nandura, 20.8333, 76.4500
+Nandurbar, 21.3667, 74.2500
+Nandyal, 15.4833, 78.4833
+Nangi, 22.5167, 88.2167
+Nanjangud, 12.1000, 76.7000
+Nanoshi, 18.9333, 73.0833
+Nanpara, 27.8667, 81.5000
+Nanur, 23.7000, 87.8667
+Naoabad, 22.4667, 88.4500
+Naopukuria, 22.9167, 88.2667
+Naraini, 25.1833, 80.4833
+Narainpur, 24.0500, 86.6000
+Narasannapeta, 18.4167, 84.0500
+Narasapur, 16.4500, 81.6667
+Narasaraopet, 16.2500, 80.0667
+Narayanpara, 22.9000, 88.3167
+Narayanpet, 16.7333, 77.5000
+Narayanpur, 22.4833, 88.5667
+Narendranagar, 30.1667, 78.3000
+Nargund, 15.7167, 75.3833
+Narhan, 19.1333, 73.1167
+Narkanda, 31.2667, 77.4500
+Narkatiaganj, 27.1000, 84.4667
+Narnaul, 28.0500, 76.1000
+Narsapur, 16.4333, 81.7500
+Narsimhapur, 22.9500, 79.2000
+Narsinghgarh, 23.7000, 77.1000
+Narsipatnam, 17.6667, 82.6167
+Narwana, 29.6167, 76.1167
+Nasik, 19.9833, 73.8000
+Nasirabad, 26.3000, 74.7333
+Nasriganj, 25.0500, 84.3333
+Nastauli, 28.7167, 77.3667
+Natagarh, 22.7000, 88.4167
+Nathdwara, 24.9333, 73.8167
+Nattam, 10.2333, 78.2333
+Naude, 19.0500, 73.1000
+Naugachhia, 25.4000, 87.1000
+Naushahra, 33.1500, 74.2333
+Nautanwa, 27.4333, 83.4167
+Navibandar, 21.4333, 69.8000
+Navsari, 20.8500, 72.9167
+Nawabganj(Barabanki), 26.9333, 81.2167
+Nawabganj(Bareilly), 28.5500, 79.6333
+Nawabganj(Gonda), 26.8667, 82.1333
+Nawada, 24.8833, 85.5333
+Nawalgarh, 27.8500, 75.2667
+Nawapara(West Bengal), 23.4833, 88.2500
+Nawapara(Chhattisgarh), 20.9667, 81.8500
+Nawashahr, 31.1167, 76.1333
+Nayabas, 28.5833, 77.3167
+Nayagarh, 20.1333, 85.1000
+Nayagram, 22.0333, 87.1833
+Nayapara, 21.5833, 87.0167
+Nazira, 26.9167, 94.7333
+Negapatam > Nagappattinam, 10.7667, 79.8333
+Nellikuppam, 11.7667, 79.6833
+Nellore, 14.4333, 79.9667
+Nemam, 8.4500, 77.0167
+Nepa Nagar, 21.4667, 76.3833
+Nerul, 19.0333, 73.0167
+Netarhat, 23.4833, 84.2667
+Neu-Delhi > New Delhi, 28.6000, 77.2000
+Nevali, 19.0167, 73.1167
+New Delhi, 28.6000, 77.2000
+Newabagam, 22.8000, 88.4000
+Neyyattinkara, 8.4000, 77.0833
+Nibria, 22.6000, 88.2667
+Nidadavole, 16.9167, 81.6667
+Nigan, 23.5000, 87.9833
+Nighasan, 28.2333, 80.8667
+Nihtaur, 29.3333, 78.3833
+Nileshwar, 12.2500, 75.1000
+Nilgani, 22.7667, 88.4333
+Nilgiri, 21.4667, 86.7667
+Nim ka Thana, 27.7333, 75.8000
+Nimach, 24.4667, 74.8667
+Nimbahera, 24.6167, 74.6833
+Nimta, 22.6667, 88.4167
+Nipani, 16.4000, 74.3833
+Nirmal, 19.1000, 78.3500
+Nirmali, 26.3167, 86.5833
+Nirsa, 23.7833, 86.7167
+Nischintapur, 22.4333, 88.3667
+Nitalas, 19.1000, 73.1333
+Nithari, 28.5833, 77.3500
+Nizamabad(Uttar Pradesh), 26.0500, 83.0500
+Nizamabad(Arunachal Pradesh), 18.6667, 78.1167
+Nizamghat, 28.2667, 95.7000
+Noabad, 22.5667, 88.5167
+Noamundi, 22.1500, 85.5333
+Nohar, 29.1833, 74.7667
+Nohjhil, 27.8500, 77.6500
+Nohta, 23.6667, 79.5667
+Nokha, 27.5833, 73.4833
+Nongpoh, 25.9000, 91.8833
+Nongstoin, 25.5167, 91.2667
+North Barrackpore, 22.7667, 88.3667
+North Dum-Dum, 22.6333, 88.3833
+North Lakhimpur, 27.2333, 94.1167
+North Vijayapuri, 16.8667, 79.5833
+Nova Goa > Panaji, 15.4833, 73.8333
+Nowgong, 25.0667, 79.4500
+Nowrangapur, 19.2333, 82.5500
+Nuh, 28.1167, 77.0167
+Nurmahal, 31.1000, 75.6000
+Nurpur(West Bengal), 22.2167, 88.0833
+Nurpur(Punjab), 31.1667, 76.4833
+Nurpur(Himachal Pradesh), 32.3000, 75.9000
+Nuzvid, 16.7833, 80.8500
+Nyoma, 33.1833, 78.6333
+Nyuri, 27.7000, 92.2167
+Onchai, 22.9500, 88.3167
+Onda, 23.1333, 87.2000
+Ongole, 15.5167, 80.0667
+Ootacamund, 11.4000, 76.7000
+Orai, 25.9833, 79.4667
+Orchha, 25.3500, 78.6500
+Osian, 26.7167, 72.9167
+Osmanabad(Andhra Pradesh), 18.5500, 79.2500
+Osmanabad(Maharashtra), 18.1667, 76.0333
+Owe, 19.0667, 73.0667

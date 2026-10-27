@@ -1,0 +1,185 @@
+Abhayapuri, 26.3333, 90.6667
+Abohar, 30.1500, 74.1833
+Abring, 33.7000, 76.5833
+Abu Road, 24.4833, 72.7833
+Achalpur, 21.2667, 77.5167
+Achhibal, 33.6833, 75.2333
+Achhnera, 27.1833, 77.7667
+Adai, 19.0167, 73.1333
+Adampur, 31.4333, 75.7167
+Adauli, 19.1000, 73.0333
+Adayar(Adyar), 13.0167, 80.2500
+Addanki, 15.8167, 80.0167
+Adhata, 22.8667, 88.5333
+Adilabad, 19.6667, 78.5333
+Adoni, 15.6333, 77.2833
+Adra, 23.5000, 86.6667
+Afaspida, 19.1333, 73.0667
+Afzalgarh, 29.4000, 78.6833
+Agahpur, 28.5667, 77.3667
+Agar, 23.7000, 76.0167
+Agartala, 23.8167, 91.2667
+Agasan, 19.1833, 73.0667
+Agia, 26.0833, 90.5333
+Agra, 27.1833, 78.0167
+Ahmadabad, 23.0333, 72.6167
+Ahmadgarh, 30.6833, 75.8333
+Ahmadnagar, 19.0833, 74.7333
+Ahmadpur(Madhya Pradesh), 23.5167, 77.2167
+Ahmadpur(West Bengal), 23.8333, 87.7000
+Ahmedabad > Ahmadabad, 23.0333, 72.6167
+Ahraura, 25.0167, 83.0167
+Aijal, 23.7333, 92.7167
+Ajanta, 20.5333, 75.7500
+Ajmer, 26.4500, 74.6333
+Ajnala, 31.8500, 74.8000
+Akalkot, 17.5333, 76.2167
+Akaltara, 22.0167, 82.4333
+Akbarpur(Bihar), 24.6500, 83.9667
+Akbarpur(Utter Pradesh), 26.4167, 82.5500
+Akhnur, 32.9000, 74.7333
+Akna, 22.9833, 88.3500
+Akodia, 23.3833, 76.6000
+Akola, 20.7333, 77.0000
+Akot, 21.1833, 77.0667
+Akurli, 19.0167, 73.1333
+Alampur(West Bengal), 22.4167, 88.1333
+Alampur(Andhra Pradesh), 15.9000, 78.1833
+Aland, 17.5667, 76.5667
+Alandur, 13.0333, 80.2500
+Alawalpur, 31.4333, 75.6500
+Ali Rajpur, 22.3167, 74.3500
+Alibag, 18.6500, 72.9000
+Aliganj(Lakhimpur Kheri), 28.1167, 80.6000
+Aliganj(Etah), 27.5000, 79.1833
+Aligarh, 27.8833, 78.0833
+Alipur(Maharashtra), 20.5667, 78.6833
+Alipur(West Bengal), 22.9167, 88.1833
+Alipur Duar, 26.4833, 89.7333
+Allah Durg, 18.0167, 77.7667
+Allahabad, 25.4500, 81.8500
+Allahbas, 28.5167, 77.4167
+Allahwardipur, 28.5500, 77.4333
+Alleppey, 9.4833, 76.3167
+Allinagaram, 10.0333, 77.5000
+Allur, 14.1833, 80.0833
+Almora, 29.6167, 79.6667
+Along, 28.2000, 94.8667
+Alur, 15.4000, 77.2667
+Alwar, 27.5667, 76.6000
+Alwaye, 10.1167, 76.3500
+Amalapuram, 16.5833, 82.0167
+Amalner, 21.0500, 75.0667
+Amanganj, 24.4333, 80.0333
+Amarda, 21.7833, 87.1333
+Amarkantak, 22.6667, 81.7500
+Amarpatan, 24.3167, 80.9833
+Amarwara, 22.3000, 79.1667
+Amausi, 26.7667, 80.8500
+Ambah, 26.7167, 78.2333
+Ambajogai, 18.7333, 76.3833
+Ambala, 30.3500, 76.8333
+Ambarnath, 19.1833, 73.1667
+Ambasamudram, 8.7000, 77.4667
+Amber, 26.9833, 75.8667
+Ambikanagar, 22.9500, 86.7667
+Ambikapur, 23.1167, 83.2000
+Amboshe, 19.1500, 73.1333
+Ambur, 12.7833, 78.7000
+Amdanga, 22.8167, 88.5167
+Amili, 28.4333, 95.8667
+Amitha, 22.5833, 88.0000
+Amla, 21.9333, 78.1167
+Amlagora, 22.8333, 87.3333
+Amloh, 30.6167, 76.2333
+Amnan, 22.9333, 88.3000
+Amrabad, 16.3833, 78.8000
+Amraoti > Amravati, 20.9333, 77.7500
+Amravati, 20.9333, 77.7500
+Amreli, 21.6167, 71.2333
+Amreswar, 22.4667, 88.5667
+Amritsar, 31.5833, 74.8833
+Amroha, 28.9167, 78.4667
+Amta, 22.5833, 88.0167
+Amtala, 23.9167, 88.4500
+Anakapalle, 17.6833, 83.0167
+Anamalai, 10.5833, 76.9333
+Anand, 22.5667, 72.9333
+Anandanagar, 22.8500, 88.2667
+Anandapur, 22.5667, 87.4167
+Anandpur, 31.2500, 76.5000
+Anantapur, 14.6833, 77.6000
+Anantnag(Islamabad), 33.7333, 75.1500
+Anara, 23.4667, 86.5500
+Andal(West Bengal), 23.6000, 87.2000
+Andal(Andhra Pradesh), 17.8833, 78.0500
+Angul, 20.8500, 85.1000
+Anjad, 22.0333, 75.0500
+Anjangaon, 21.1667, 77.3000
+Anjar, 23.1333, 70.0167
+Anklesvar, 21.6000, 73.0000
+Anupgarh, 29.1833, 73.2167
+Anur, 22.9167, 87.6500
+Anüpshahr, 28.3667, 78.2667
+Aonla, 28.2833, 79.1500
+Arambagh, 22.8833, 87.7833
+Arang, 21.2000, 81.9667
+Arani, 12.6667, 79.2833
+Arantangi, 10.1667, 78.9833
+Arapanja, 22.4333, 88.4667
+Araria, 26.1333, 87.4000
+Arbalia, 22.6833, 88.7833
+Arcot, 12.9000, 79.3333
+Argoal, 21.9667, 87.6333
+Argur, 22.8000, 88.2167
+Ariah, 23.5500, 86.3333
+Ariyalur, 11.1333, 79.0833
+Arki, 31.1500, 76.9667
+Arkonam, 13.1000, 79.6667
+Armori, 20.4667, 79.9833
+Armur, 18.8000, 78.2833
+Aroali, 24.0500, 87.9333
+Arrah, 25.5667, 84.6667
+Arsapota, 22.9167, 88.3000
+Arsikere, 13.3333, 76.2500
+Arthal, 33.2667, 76.1833
+Arthala, 28.6667, 77.4000
+Arumuganeri, 8.5667, 78.1167
+Aruppukkottai, 9.5167, 78.1000
+Arvi, 20.9833, 78.2333
+Arwal, 25.2500, 84.6833
+Asanbani(East Singhbhum), 22.7167, 86.3333
+Asanbani(Dumka), 24.1167, 87.4500
+Asansol(West Bengal), 23.6833, 86.9833
+Asansol(Jharkhand), 24.2333, 87.2833
+Asati, 22.4833, 88.2333
+Ashoknagar, 24.5667, 77.7167
+Ashta(Madhya Pradesh), 23.0167, 76.7167
+Ashta(Maharashtra), 16.9500, 74.4000
+Asifabad, 19.3833, 79.3500
+Asika, 19.6000, 84.6500
+Aswatthaberia, 22.4333, 88.5333
+Atari, 31.6000, 74.5833
+Ataur, 28.7167, 77.4000
+Ateli, 28.1000, 76.2833
+Atghara, 22.6167, 88.4500
+Athni, 16.7333, 75.0667
+Atirampattinam, 10.3500, 79.4000
+Atmakur(Nandyal), 15.8833, 78.5833
+Atmakur(SPSR Nellore), 14.6167, 79.6667
+Atmakur(Telangana > Kamareddy), 18.7667, 78.6333
+Atpur, 22.8333, 88.3833
+Atrauli, 28.0333, 78.2833
+Atta, 28.5667, 77.3333
+Attingal, 8.6833, 76.8333
+Attur, 11.6000, 78.6167
+Atzalpur, 28.7167, 77.3500
+Auagram, 23.5167, 87.6833
+Auraiya, 26.4667, 79.5167
+Aurangabad(Bihar), 24.7500, 84.3667
+Aurangabad(Maharashtra), 19.8833, 75.3333
+Ayan, 22.7167, 88.1500
+Ayodhya, 26.8000, 82.2000
+Azamgarh, 26.0667, 83.1833
+Azhikode, 11.9833, 75.3500
+Azimganj, 24.2333, 88.2500

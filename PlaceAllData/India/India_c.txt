@@ -1,0 +1,160 @@
+Calcutta, 22.5333, 88.3667
+Calicut, 11.2500, 75.7667
+Cambay, 22.3000, 72.6167
+Cannanore, 11.8500, 75.3667
+Canning Port, 22.3333, 88.6667
+Cape Comorin > Kanniyakumari, 8.0833, 77.5667
+Cassimbazar, 24.1167, 88.2667
+Cawnpore > Kanpur, 26.4667, 80.3500
+Chabi, 22.8167, 80.6833
+Chachora, 24.1667, 76.9833
+Chaibasa, 22.5667, 85.8167
+Chainpur, 23.1333, 84.2500
+Chaital, 22.5167, 88.7833
+Chakaltor, 23.2333, 86.3667
+Chakdaha, 23.0833, 88.5167
+Chakia, 26.4167, 85.0500
+Chakradharpur, 22.7000, 85.6333
+Chakrata, 30.7000, 77.8500
+Chakulia, 22.4833, 86.7167
+Chal, 19.1000, 73.1333
+Chalisgaon, 20.4667, 75.0167
+Challakere, 14.3167, 76.6500
+Chamarpara, 22.5833, 88.1333
+Chamba, 32.5667, 76.1333
+Chamoli, 30.4000, 79.3500
+Champa, 22.0500, 82.6500
+Champadanga, 22.8333, 87.9667
+Champahati, 22.3833, 88.4833
+Champapur, 24.0333, 86.5167
+Champawat, 29.3333, 80.1000
+Champdani, 22.8000, 88.3500
+Champua, 22.0833, 85.6667
+Chamrail, 22.6333, 88.3000
+Chamrajnagar Ramasamudram, 11.9167, 76.9500
+Chananwala, 30.3667, 73.9500
+Chanasma, 23.7167, 72.1167
+Chanda > Chandapur, 19.9500, 79.3000
+Chandabila, 22.0833, 87.0000
+Chandan Chauki, 28.5500, 80.7833
+Chandankiari, 23.5667, 86.3667
+Chandannagar, 22.8500, 88.3500
+Chandausi, 28.4500, 78.7667
+Chanderi, 24.7167, 78.1333
+Chandernagore > Chandannagar, 22.8500, 88.3500
+Chandigarh, 30.7333, 76.9167
+Chandil, 22.9667, 86.0500
+Chanditala, 22.6833, 88.2667
+Chandla, 25.0833, 80.2000
+Chandpara, 22.9667, 88.7833
+Chandpur, 29.1500, 78.2667
+Chandra, 22.4667, 87.1500
+Chandrakona, 22.7333, 87.5167
+Chandrakona Road, 22.7333, 87.3500
+Chandrapur, 19.9500, 79.3000
+Chandrupatla, 18.5667, 80.3833
+Chandvad, 20.3333, 74.2500
+Changanacheri, 9.4667, 76.5500
+Channagiri, 14.0333, 75.9333
+Channapatna, 12.6500, 77.2167
+Chanumla, 8.3167, 93.0833
+Chaparmukh, 26.2000, 92.5333
+Chapra(Bihar), 25.7667, 84.7500
+Chapra(West Bengal), 23.5333, 88.5500
+Charanpur, 23.7500, 87.0333
+Charduar, 26.8667, 92.7667
+Charkhari, 25.4000, 79.7500
+Charkhi Dadri, 28.6167, 76.2667
+Chas, 23.6333, 86.1667
+Chatra(West Bengal), 22.7667, 88.3333
+Chatra(Jharkhand), 24.2167, 84.8667
+Chatrapur, 19.3500, 84.9833
+Chatsu, 26.6000, 75.9500
+Chaubaria, 22.9833, 88.6667
+Chaukhandi, 28.6167, 77.4000
+Chaumua, 22.6500, 88.5500
+Chauparan, 24.3833, 85.2500
+Chavakkad, 10.5333, 76.1000
+Chelyama, 23.6167, 86.5500
+Chengannur, 9.3333, 76.6333
+Chengele, 28.7833, 96.2667
+Cherrapunji, 25.3000, 91.7000
+Chetput, 12.4667, 79.3500
+Chhabra, 24.6667, 76.8333
+Chhachhrauli, 30.2500, 77.3667
+Chhajarsi, 28.6333, 77.3833
+Chhalera Bangar, 28.5500, 77.3333
+Chhatarpur(Madhya Pradesh), 24.9167, 79.6000
+Chhatarpur(Jharkhand), 24.3833, 84.1833
+Chhatna, 23.3000, 86.9667
+Chheharta, 31.6333, 74.8000
+Chhibramau, 27.1500, 79.5167
+Chhinamor, 22.8000, 88.3000
+Chhindwara, 22.0667, 78.9333
+Chhiruti, 24.0167, 88.1833
+Chhitauni, 27.1500, 83.9667
+Chhota Udepur, 22.3167, 74.0167
+Chhota-Chhindwara, 23.0500, 79.4833
+Chicholi, 22.0167, 77.6667
+Chichra, 22.3167, 86.8833
+Chidambaram, 11.4000, 79.7000
+Chik Ballapur, 13.4667, 77.7333
+Chikhli, 20.3500, 76.2500
+Chikmagalur, 13.3167, 75.7833
+Chiknayakanhalli, 13.4333, 76.6167
+Chikodi, 16.4333, 74.6000
+Chilakalurupet, 16.0833, 80.1667
+Chilpi, 22.2500, 81.5500
+Chincholi, 19.1667, 73.1333
+Chineni, 33.0333, 75.2833
+Chingleput, 12.7000, 79.9833
+Chini, 31.5333, 78.2500
+Chinnur, 19.1167, 79.7167
+Chinpai, 23.8333, 87.4667
+Chinsura, 22.8833, 88.4500
+Chintamani, 13.4000, 78.0667
+Chiplun, 17.5333, 73.5167
+Chirad, 19.1500, 73.1167
+Chirala, 15.8167, 80.3500
+Chirawa, 28.2500, 75.6333
+Chirgaon, 25.5833, 78.8167
+Chirki, 24.0500, 86.1500
+Chirle, 18.9333, 73.0333
+Chirmiri Colliery, 23.2000, 82.3500
+Chitapur, 17.1167, 77.0833
+Chitarda, 21.8333, 86.9500
+Chitorgarh, 24.8833, 74.6333
+Chitradurga, 14.2333, 76.4000
+Chitrakut Dham, 25.1833, 80.8667
+Chitrasali, 22.8667, 88.1500
+Chittaranjan, 23.8667, 86.8667
+Chittoor, 13.2000, 79.1167
+Chittur, 10.7000, 76.7500
+Chityal, 17.2500, 79.1833
+Choali, 22.4000, 88.4000
+Chodavaram, 17.8333, 82.9500
+Chohtan, 25.4833, 71.0667
+Chomu, 27.1667, 75.7333
+Chonkham, 27.8000, 96.0333
+Chopan, 24.5167, 83.0333
+Chopda, 21.2500, 75.3000
+Chopra, 26.3333, 88.3167
+Chora Saadatpur, 28.6000, 77.3500
+Chotila, 22.4167, 71.1833
+Chunar, 25.1333, 82.9000
+Churachandpur, 24.3333, 93.6667
+Churu, 28.3000, 74.9500
+Chushul, 33.6000, 78.6500
+Cochin, 9.9667, 76.2333
+Coimbatore, 11.0000, 76.9667
+Colgong, 25.2667, 87.2167
+Colonelganj, 27.1333, 81.7000
+Conjeeveram > Kanchipuram, 12.8333, 79.7167
+Contai, 21.7833, 87.7500
+Cooch Behar, 26.3167, 89.4333
+Coondapoor, 13.6333, 74.7000
+Coonoor, 11.3500, 76.8167
+Cuddalore, 11.7500, 79.7500
+Cuddapah, 14.4667, 78.8167
+Cumbum, 15.5667, 79.1500
+Cuttack, 20.5000, 85.8333

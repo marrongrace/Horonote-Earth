@@ -1,0 +1,338 @@
+Labpur, 23.8333, 87.8167
+Lachhmangarh, 27.8167, 75.0333
+Ladhurka, 23.3667, 86.5333
+Ladnun, 27.6500, 74.3833
+Ladwa, 29.9833, 77.0500
+Lahar, 26.2000, 78.9500
+Laharpur, 27.7167, 80.9000
+Laheria Sarai, 26.1167, 85.9000
+Lakheri, 25.6667, 76.1667
+Lakhimpur(Assam), 27.2333, 94.2500
+Lakhimpur(Uttar Pradesh), 27.9500, 80.7667
+Lakhipur(Cachar), 24.8000, 93.0167
+Lakhipur(Goalpara), 26.0333, 90.3000
+Lakhnadon, 22.6000, 79.6000
+Lakhpat, 23.8167, 68.7833
+Laknau > Lucknow, 26.8500, 80.9167
+Lakshamannath, 21.8500, 87.2167
+Lakshmanpur, 22.6333, 88.2667
+Lakshmeshwar, 15.1333, 75.4667
+Lakshmikantapur, 22.1167, 88.3333
+Lakshmisagar, 22.9167, 87.0167
+Lalganj, 25.8667, 85.1833
+Lalgarh, 22.5833, 87.0500
+Lalitpur, 24.6833, 78.4167
+Lalpur, 22.2000, 69.9667
+Lalsot, 26.5667, 76.3333
+Lamta, 22.1333, 80.1167
+Langting, 25.5000, 93.1167
+Lansdowne, 29.8333, 78.6833
+Lashkar > Gwalior, 26.2167, 78.1667
+Latehar, 23.7500, 84.5000
+Lathi, 21.7167, 71.3833
+Latur, 18.4000, 76.5833
+Laungowal, 30.2167, 75.6833
+Lauriya Nandangarh, 26.9833, 84.4000
+Ledo, 27.3000, 95.7333
+Leh, 34.1667, 77.5833
+Lehra Gaga, 29.9167, 75.8167
+Liluah, 22.5833, 88.3833
+Limbdi, 22.5667, 71.8000
+Lingapur, 19.0500, 78.1333
+Litipara, 24.7000, 87.6167
+Lodhasuli, 22.3167, 87.0500
+Lohardaga, 23.4333, 84.6833
+Loharu, 28.4500, 75.8167
+Lohian, 31.1667, 75.1833
+Lonavale, 18.7500, 73.4167
+Loni, 28.7500, 77.2833
+Lowada, 22.4500, 87.6167
+Luckeesarai, 25.1833, 86.0833
+Lucknow, 26.8500, 80.9167
+Ludhiana, 30.9000, 75.8500
+Lumding, 25.7167, 93.2167
+Lunavada, 23.1333, 73.6167
+Lungleh, 22.8833, 92.7333
+Luni, 26.0000, 73.0000
+Machalpur, 24.1333, 76.3000
+Macherla, 16.4833, 79.4333
+Machhiwara, 30.9167, 76.2000
+Machhlishahr, 25.6833, 82.4167
+Machilipatnam(Bandar), 16.1667, 81.1333
+Madanapalle, 13.5500, 78.5000
+Madanpur, 22.6667, 88.5333
+Madari Hat, 26.7000, 89.2833
+Madarpur, 22.9000, 88.4500
+Madgaon(Margao), 15.3000, 73.9500
+Madhepura, 25.9500, 86.8500
+Madhipura, 25.9167, 86.7833
+Madhopur(Punjab), 32.3667, 75.6000
+Madhopur(Bihar), 26.7333, 85.0500
+Madhra, 16.9000, 80.4167
+Madhubani, 26.3667, 86.0833
+Madhudaha, 22.5167, 88.4167
+Madhugiri, 13.6667, 77.2000
+Madhupar, 22.9000, 86.4667
+Madhupur, 24.2667, 86.6500
+Madhyamgram, 22.7000, 88.4500
+Madnur, 18.5167, 77.6167
+Madras, 13.0833, 80.2833
+Madura > Madurai, 9.9333, 78.1167
+Madurai, 9.9333, 78.1167
+Madurantakam, 12.5167, 79.9000
+Magara, 22.5667, 87.5667
+Magra, 22.9833, 88.3667
+Magra Hat, 22.2333, 88.3833
+Mahabaleshwar, 17.9167, 73.6667
+Mahabalipuram, 12.6167, 80.2000
+Mahad, 18.0833, 73.4167
+Mahajan, 28.7833, 73.8333
+Mahalandi, 24.0667, 88.1167
+Maham, 28.9833, 76.3000
+Mahanadpati, 23.0000, 88.2667
+Mahape, 19.1167, 73.0167
+Maharajganj(Bihar), 26.1167, 84.4833
+Maharajganj(Uttar Pradesh), 27.1500, 83.5667
+Maharajpur(Chhatarpur), 25.0167, 79.7333
+Maharajpur(Morena), 26.4667, 77.9833
+Mahasamund, 21.1000, 82.1000
+Mahbubabad, 17.6167, 80.0167
+Mahbubnagar, 16.7333, 77.9833
+Mahe, 11.7000, 75.5333
+Mahendragarh, 28.2833, 76.1500
+Mahesgadi, 22.6500, 88.5500
+Maheshmunda, 24.2167, 86.4000
+Maheshtala, 22.5000, 88.2500
+Maheshwar, 26.5333, 84.4667
+Maheshwar, 22.1833, 75.5833
+Mahgawan, 26.4833, 78.6167
+Mahiari, 22.5833, 88.2333
+Mahikpur, 22.5333, 88.2333
+Mahishadal, 22.1833, 87.9833
+Mahishdanga, 22.9000, 88.1833
+Mahmudabad, 27.3000, 81.1167
+Mahmudpur(West Bengal), 22.6833, 88.1500
+Mahmudpur(Uttar Pradesh), 28.7667, 77.3667
+Mahoba, 25.2833, 79.8667
+Mahroni, 24.5833, 78.7167
+Mahulia, 22.6500, 86.4000
+Mahuva, 21.0833, 71.8000
+Mahwah, 27.0500, 76.9333
+Maihar, 24.2667, 80.7500
+Mailani, 28.2833, 80.3500
+Mainaguri, 26.5667, 88.8167
+Mainpuri, 27.2333, 79.0167
+Mairabari, 26.4667, 92.4333
+Majitha, 31.7667, 74.9500
+Majnan, 22.9833, 88.1500
+Maju, 22.6167, 88.0833
+Makanapur, 28.6333, 77.3500
+Makhalpur, 22.9333, 88.1667
+Makhdumnagar, 26.4667, 82.7667
+Makrai, 22.0667, 77.1000
+Makrana, 27.0500, 74.7167
+Maksudangarh, 24.0500, 77.2500
+Mal, 26.8667, 88.7333
+Malancha, 22.9167, 88.4333
+Malandighi, 23.5500, 87.4000
+Malaut, 30.2167, 74.4833
+Malavalli, 12.3833, 77.0833
+Malcompeth > Mahabaleshwar, 17.9167, 73.6667
+Malda, 25.0333, 88.1500
+Malegaon, 20.5500, 74.5333
+Malehra, 24.5667, 79.3167
+Maler Kotla, 30.5167, 75.8833
+Malighati, 22.5500, 87.6667
+Malihabad, 26.9167, 80.7167
+Malipara, 22.9500, 88.2333
+Maliya, 23.0833, 70.7667
+Malkapur, 20.8833, 76.2000
+Malkapuram, 17.7000, 83.2667
+Malpe, 13.3500, 74.7167
+Malpura, 26.2833, 75.3833
+Maluti, 24.1500, 87.6833
+Malvan, 16.0667, 73.4667
+Man, 33.8500, 78.5333
+Manali, 32.2667, 77.1667
+Manapparai, 10.6000, 78.4167
+Manawar, 22.2333, 75.0833
+Manbazar, 23.0667, 86.6500
+Mancheral, 18.8667, 79.4333
+Manda, 22.1000, 86.2333
+Mandalkia, 22.7167, 88.1333
+Mandapeta, 16.8667, 81.9333
+Mandapur, 23.0000, 88.4833
+Mandasor, 24.0667, 75.0667
+Mandawar, 29.5000, 78.1333
+Mandi, 31.7167, 76.9167
+Mandi Dabwali, 29.9667, 74.7000
+Mandla, 22.6000, 80.3833
+Mandra, 22.9167, 88.1167
+Mandu, 22.3667, 75.3833
+Mandvi(Surat), 21.2500, 73.3000
+Mandvi(Kutch), 22.8333, 69.3667
+Mandya, 12.5500, 76.9000
+Manendragarh, 23.2167, 82.2167
+Mangal, 23.5167, 87.9167
+Mangalagiri, 16.4333, 80.5500
+Mangaldai, 26.4333, 92.0333
+Mangalkot, 23.5500, 87.9000
+Mangalore, 12.8667, 74.8833
+Mangalvedha, 17.5167, 75.4667
+Mangawan, 24.6833, 81.5500
+Manglagiri, 16.4333, 80.6000
+Manglaur, 29.8000, 77.8667
+Mangrol, 21.1167, 70.1167
+Mangrul Pir, 20.3167, 77.3500
+Mani Majra, 30.7167, 76.8333
+Manihari, 25.3500, 87.6333
+Manikanali, 23.3167, 87.0500
+Manikpur, 25.0667, 81.1167
+Manjeri, 11.1167, 76.1167
+Manjeshwara, 12.7000, 74.8833
+Mankundu, 22.8436, 88.3614
+Mankur(Purba Bardhaman), 23.3333, 87.5500
+Mankur(Howrah), 22.5000, 87.9000
+Manmad, 20.2500, 74.4500
+Mannargudi, 10.6667, 79.4333
+Manoharpur(West Bengal), 21.9833, 87.3000
+Manoharpur(Jharkhand), 22.3833, 85.2000
+Manpur(Chhattisgarh), 20.3667, 80.7167
+Manpur(Madhya Pradesh), 23.7667, 81.1333
+Mansa(Punjab), 29.9833, 75.3833
+Mansa(Gujarat), 23.4333, 72.6667
+Mansinhapur, 22.6500, 88.1500
+Manteswar, 23.4333, 88.1000
+Mantri, 21.6500, 86.8167
+Manulia, 22.6500, 86.5000
+Manushmuria, 22.3667, 86.7833
+Manwat, 19.3000, 76.5000
+Mara, 28.1833, 94.1000
+Marahra, 27.7333, 78.5833
+Maram, 25.4167, 94.1000
+Margherita, 27.2833, 95.6833
+Margão > Madgaon, 15.3000, 73.9500
+Mariahu, 25.6167, 82.6167
+Mariani, 26.6667, 94.3333
+Markapur, 15.7333, 79.2833
+Marwar, 25.7333, 73.6000
+Masanjor, 24.1167, 87.3167
+Masina, 22.9167, 88.5333
+Masulipatam > Machilipatnam, 16.1667, 81.1333
+Matabhanga, 26.3333, 89.2167
+Mathle, 22.5833, 88.2333
+Mathura(Tamil Nadu), 10.9500, 78.4500
+Mathura(Uttar Pradesh), 27.5000, 77.6833
+Mathurai > Madurai, 9.9333, 78.1167
+Matiakhola, 23.2667, 86.9333
+Matiali, 26.9333, 88.8167
+Mattancheri, 9.9833, 76.2667
+Mau, 25.2833, 81.3833
+Mau Aimma, 25.7000, 81.9167
+Mau Ranipur, 25.2500, 79.1333
+Maudaha, 25.6833, 80.1167
+Mauganj, 24.6833, 81.8833
+Maunath Bhanjan, 25.9500, 83.5500
+Maur, 30.0833, 75.2500
+Mavelikara, 9.2667, 76.5500
+Mawana, 29.1000, 77.9167
+Mawi, 28.6500, 77.4167
+Mayapur, 22.4500, 88.1333
+Mayna, 22.2333, 87.7833
+Mayuram, 11.1000, 79.6667
+Medak, 18.0333, 78.2667
+Meerut, 28.9833, 77.7000
+Mehekar, 20.1500, 76.5667
+Mehidpur, 23.8167, 75.6667
+Mehnagar, 25.8833, 83.1167
+Mehndawal, 26.9833, 83.1167
+Mehsana, 23.6000, 72.4000
+Mejia, 23.5667, 87.1000
+Mekhliganj, 26.3500, 88.9167
+Melappalaiyam, 8.7000, 77.7167
+Mele, 22.8167, 88.1500
+Melur, 10.0500, 78.3333
+Memari, 23.2000, 88.1167
+Meola Agri, 28.7000, 77.3833
+Mercara, 12.4167, 75.7333
+Meria, 22.9833, 88.3333
+Merta, 26.6500, 74.0333
+Merta Road, 26.7167, 73.9167
+Metagacha, 22.6333, 88.5167
+Mettuppalaiyam, 11.3000, 76.9500
+Mettur, 11.8000, 77.8000
+Mhasvad, 17.6333, 74.7833
+Mhow, 22.5500, 75.7667
+Miajlar, 26.2500, 70.3833
+Miani, 21.8500, 69.3833
+Midnapore, 22.4333, 87.3333
+Minutang, 28.2167, 96.5333
+Mipi, 28.9500, 95.8000
+Miraj, 16.8333, 74.6333
+Mirij Guda, 16.8833, 79.5500
+Mirzapur(West Bengal), 22.8333, 88.4000
+Mirzapur(Uttar Pradesh), 25.1500, 82.5833
+Misrikh, 27.4500, 80.5167
+Mithapur, 22.4167, 69.0000
+Modasa, 23.4667, 73.3000
+Moga, 30.8000, 75.1667
+Mohana, 25.9000, 77.7500
+Mohania, 25.1833, 83.6167
+Mohanpur(Delhi), 28.7333, 77.1667
+Mohanpur(West Bengal), 21.8500, 87.4333
+Mokameh, 25.4000, 85.9167
+Mokokchung, 26.3333, 94.5333
+Monghyr, 25.3833, 86.4667
+Mora, 18.9000, 72.9333
+Moradabad, 28.8333, 78.7833
+Morena, 26.5000, 78.1500
+Morna, 28.5833, 77.3667
+Morsi, 21.3500, 78.0000
+Mort, 28.7167, 77.4167
+Morta, 28.7333, 77.4500
+Morvi, 22.8167, 70.8333
+Moth, 25.7167, 78.9500
+Motihari, 26.6500, 84.9167
+Mubarakpur, 26.0833, 83.3000
+Mudhol(Karnataka), 16.3500, 75.2833
+Mudhol(Andhra Pradesh), 19.0000, 77.8667
+Mughal Sarai, 25.3000, 83.1167
+Muhamdi, 27.9500, 80.2167
+Muhammadabad, 26.0333, 83.3833
+Mukandwara, 24.8167, 75.9833
+Mukerian, 31.9500, 75.6167
+Muktsar, 30.4833, 74.5167
+Mul, 20.0667, 79.6667
+Mulbagal, 13.1667, 78.4000
+Mulki, 13.1000, 74.8000
+Multai, 21.7667, 78.2500
+Mumbai(Bombay), 18.9667, 72.8333
+Munabao, 25.7500, 70.2833
+Mundra, 22.8500, 69.7333
+Mungaoli, 24.4167, 78.1000
+Mungeli, 22.0667, 81.6833
+Mungod, 17.1000, 79.0000
+Mungra Badshahpur, 25.6667, 82.1833
+Munsarpur, 24.3000, 88.4333
+Muradnagar, 28.7833, 77.5000
+Muragacha, 23.5333, 88.4000
+Murarai, 24.4500, 87.8667
+Muratpur, 22.9833, 88.4500
+Murinda, 30.7833, 76.4833
+Murkong Selek, 27.8167, 95.2667
+Murliganj, 25.9000, 86.9833
+Murshidabad, 24.1833, 88.2667
+Murtajapur, 20.7333, 77.3833
+Murud, 18.3167, 72.9667
+Murwara, 23.8500, 80.4000
+Musar, 22.9000, 88.2333
+Mushabani, 22.5167, 86.4500
+Muskira, 25.6667, 79.8000
+Mussoorie, 30.4500, 78.0833
+Muttra > Mathura, 27.5000, 77.6833
+Muttukuru, 14.2833, 80.1333
+Muttyaluppettai, 11.9500, 79.8333
+Muvattupula, 9.9667, 76.5833
+Muzaffarnagar, 29.4667, 77.6833
+Muzaffarpur, 26.1167, 85.4000
+Mysore, 12.3000, 76.6500

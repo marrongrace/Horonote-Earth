@@ -1,0 +1,204 @@
+Egra, 21.9000, 87.5333
+Eirauli, 19.1667, 72.9833
+Eksara, 22.6333, 88.2833
+Elamanchili, 17.5500, 82.8667
+Ellichpur > Achalpur, 21.2667, 77.5167
+Ellora, 20.0167, 75.1667
+Ellore > Eluru, 16.7000, 81.1000
+Elura > Ellora, 20.0167, 75.1667
+Eluru, 16.7000, 81.1000
+Emmiganuru, 15.7333, 77.4833
+Ernakulam, 9.9833, 76.2833
+Erode, 11.3500, 77.7333
+Eruar, 23.4667, 87.8667
+Etah, 27.6333, 78.6667
+Etawah(Rajasthan), 25.5333, 76.3667
+Etawah(Uttar Pradesh), 26.7667, 79.0333
+Faizabad, 26.7833, 82.1333
+Fakirganj, 25.9667, 90.0333
+Falakata, 26.5333, 89.2000
+Falta, 22.2833, 88.1167
+Faridabad, 28.4333, 77.3167
+Faridkot, 30.6667, 74.7500
+Faridnagar, 28.7667, 77.6167
+Faridpur, 28.2167, 79.5500
+Farrakka, 24.8333, 87.8833
+Farrukhabad, 27.4000, 79.5667
+Farrukhnagar(Uttar Pradesh), 28.7167, 77.3833
+Farrukhnagar(Haryana), 28.4500, 76.8167
+Fatehabad(Haryana), 29.5167, 75.4500
+Fatehabad(Uttar Pradesh), 27.0167, 78.3167
+Fatehgarh(Utta Pradesh), 27.3667, 79.6333
+Fatehgarh(Madhya Pradesh), 24.8000, 76.9667
+Fatehgarh Churian, 31.8667, 74.9667
+Fatehpur(Fatehpur), 25.9333, 80.8000
+Fatehpur(Barabanki/Awadh), 27.1667, 81.2167
+Fatehpur(South 24 Parganas), 22.2833, 88.2333
+Fatehpur(Murshidabad), 24.0833, 87.7333
+Fatehpur(Rajasthan), 27.9833, 74.9500
+Fatehpur Sikri, 27.1000, 77.6667
+Fatwa, 25.5167, 85.3167
+Fazilka, 30.4000, 74.0333
+Ferokh, 11.1833, 75.8500
+Ferozepore > Firozpur, 30.9167, 74.6000
+Firozabad, 27.1500, 78.4167
+Firozpur, 30.9167, 74.6000
+Firozpur Jhirka, 27.8000, 76.9500
+Forbesganj, 26.3000, 87.2500
+Funde, 18.9000, 72.9667
+Fyzabad, 26.7667, 82.1333
+Gadag, 15.4167, 75.6167
+Gadarwara, 22.9167, 78.7833
+Gadwal, 16.2333, 77.8000
+Gagret, 31.6667, 76.0667
+Gaighata, 22.9333, 88.7333
+Gaj Singhpur, 29.6667, 73.4500
+Gaja, 22.8667, 88.1667
+Gajendragarh, 15.7333, 75.9833
+Gajol, 25.2167, 88.2000
+Galgalia, 26.5500, 88.1667
+Galsi, 23.3333, 87.7000
+Gandarbal, 34.2333, 74.7833
+Gande, 24.1667, 86.4333
+Gandevi, 20.8167, 72.9833
+Ganga Sagar, 21.6333, 88.0833
+Gangadharpur, 22.6000, 88.1833
+Gangajalghati, 23.4167, 87.1167
+Ganganagar > Sri Ganganagar, 29.9167, 73.8833
+Gangapur(Maharashtra), 19.6833, 75.0167
+Gangapur(Bhilwara), 25.2167, 74.2667
+Gangapur(Gangapur City), 26.4833, 76.7167
+Gangarampur, 25.4000, 88.5167
+Gangawati, 15.4333, 76.5333
+Gangdhar, 23.9500, 75.6167
+Gangnapur, 23.1500, 88.6333
+Gangoh, 29.7667, 77.2500
+Gangotri, 30.9333, 79.0333
+Gangtok, 27.3333, 88.6167
+Ganj Dundwara, 27.7333, 78.9500
+Gapalnagar, 22.8167, 88.1333
+Garanberia, 22.4000, 88.5667
+Garautha, 25.5667, 79.3000
+Garden Reach, 22.5500, 88.2833
+Garhakota, 23.7667, 79.1500
+Garhbeta, 22.8500, 87.3167
+Garhdiwala, 31.7333, 75.7500
+Garhi Jasaya, 28.7667, 77.2667
+Garhi Katiya, 28.7500, 77.2667
+Garhi Malehra, 25.0333, 79.6667
+Garhmuktesar, 28.8000, 78.1000
+Garhshankar, 31.2167, 76.1333
+Garhwa, 24.1833, 83.8167
+Gariya, 22.4667, 88.3833
+Garji, 22.8500, 88.3167
+Garohills, 25.5000, 90.5000
+Garubhasa, 26.5500, 90.3667
+Garulia, 22.8167, 88.3667
+Gauhati, 26.1833, 91.7333
+Gaura Barhaj, 26.2833, 83.7333
+Gaurela, 22.7500, 81.9000
+Gaurhati, 22.7667, 87.8000
+Gauri Phanta, 28.6833, 80.5500
+Gauribidanur, 13.6167, 77.5167
+Gauripur, 26.0833, 89.9667
+Gavanpada, 18.9500, 73.0167
+Gawan, 24.6167, 85.9167
+Gaya, 24.7833, 85.0000
+Gejah, 28.5167, 77.3833
+Geonkhali, 22.2000, 88.0500
+Geria Nij, 23.9333, 86.9167
+Gethaoli, 19.1333, 73.0167
+Ghafe, 19.0833, 73.1167
+Ghagra, 23.2833, 84.5500
+Ghairatganj, 23.4000, 78.2167
+Ghansoli, 19.1333, 72.9833
+Gharapuri, 18.9000, 72.9333
+Gharaunda, 29.5500, 76.9667
+Gharghoda, 22.1667, 83.3500
+Ghatal, 22.6667, 87.7167
+Ghatampur, 22.9000, 88.1667
+Ghatsila, 22.6000, 86.4833
+Ghaziabad, 28.6667, 77.4333
+Ghazipur(West Bengal), 22.6000, 88.5667
+Ghazipur(Uttar Pradesh), 25.5833, 83.5667
+Ghesar, 19.1500, 73.0833
+Ghorasahan, 26.8333, 85.1333
+Ghoshpur, 22.3833, 88.4833
+Ghushuri, 22.6167, 88.3667
+Giddalur, 15.3500, 78.9167
+Giddarbaha, 30.2000, 74.6667
+Giddhaur, 24.8500, 86.3333
+Gidhni, 22.4833, 86.8500
+Giridih, 24.1833, 86.3000
+Goalpara, 26.1667, 90.6167
+Goaltor, 22.7167, 87.1667
+Gobardanga, 22.8833, 88.7500
+Gobindapur, 23.2667, 87.9667
+Gobindgarh, 30.6833, 76.3000
+Gobindpur, 23.8333, 86.5167
+Godadharpur, 24.0000, 87.7000
+Godda, 24.8333, 87.2167
+Godhra, 22.7500, 73.6333
+Gogha, 21.6833, 72.2833
+Gohad, 26.4333, 78.4500
+Gohana, 29.1333, 76.7000
+Gohindapur, 22.3833, 88.4167
+Gohpur, 26.8833, 93.6333
+Goichran, 31.0667, 78.1167
+Gokak, 16.1667, 74.8333
+Gokarna, 24.0500, 88.1167
+Gola Gokarannath, 28.0833, 80.4667
+Golabari, 22.6000, 88.3333
+Golaghat, 26.5167, 93.9667
+Golconda, 17.3833, 78.4500
+Golden Rock, 10.8000, 78.7333
+Gomoh, 23.8667, 86.1667
+Gonda, 27.1333, 81.9333
+Gondal, 21.9667, 70.8000
+Gondia, 21.4500, 80.2000
+Gonianamandi, 30.3167, 74.9000
+Gooty, 15.1167, 77.6333
+Gopalganj, 26.4667, 84.4333
+Gopalnagar(North 24 Parganas), 23.0500, 88.7500
+Gopalnagar(Hooghly), 22.8333, 88.2333
+Gopalpur, 22.6333, 88.4500
+Gopiballabhpur, 22.2167, 86.9000
+Gopichettipalaiyam, 11.4667, 77.4500
+Gopinagar, 22.8333, 88.1167
+Gorakhpur, 26.7500, 83.3667
+Goras, 25.5333, 76.9333
+Goria, 22.4000, 88.4833
+Gosaba, 22.1667, 88.8000
+Govardhan, 27.5000, 77.4667
+Govindgarh, 24.3833, 81.3000
+Govindpur, 23.8500, 86.5667
+Goyerkata, 26.7000, 89.0333
+Gua, 22.2000, 85.3833
+Gubbi, 13.3167, 76.9333
+Gudalur(Nilgiris), 11.5000, 76.5000
+Gudalur(Theni), 9.6833, 77.2667
+Gudivada, 16.4500, 80.9833
+Gudiyattam, 12.9500, 78.8667
+Gudur, 14.1333, 79.8500
+Gulaothi, 28.6000, 77.7833
+Gulbarga, 17.3333, 76.8333
+Guledagudda, 16.0500, 75.8000
+Gulmarg, 34.0500, 74.3833
+Gumla, 23.0500, 84.5500
+Guna, 24.6500, 77.3167
+Gundlupet, 11.8000, 76.6833
+Gunjrauliya, 26.5833, 84.5667
+Guntakal, 15.1667, 77.3833
+Guntur, 16.3000, 80.4500
+Gunupur, 19.0833, 83.8167
+Gurais, 34.6333, 74.8333
+Gurdaspur, 32.0333, 75.5167
+Gurgaon, 28.4667, 77.0333
+Gurha, 14.2333, 74.8333
+Gursarai, 25.6167, 79.1833
+Guru Har Sahai, 30.7167, 74.4167
+Guruzala, 16.5333, 79.6333
+Guskhara, 23.5000, 87.7500
+Gustia, 22.9833, 88.4333
+Gwalior, 26.2167, 78.1667
+Gömpa, 35.0333, 77.3333

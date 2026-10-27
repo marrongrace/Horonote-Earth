@@ -1,0 +1,189 @@
+Tadepallegudem, 16.8333, 81.5000
+Tadpatri, 14.9167, 78.0167
+Tajpur(West Bengal), 22.7333, 88.2667
+Tajpur(Bihar), 25.8500, 85.6833
+Tajpur(Uttar Pradesh), 29.1667, 78.4833
+Takapalle, 15.9167, 79.2667
+Takhatpur, 22.1500, 81.8667
+Taki, 22.6000, 88.9167
+Takipur, 24.3167, 87.9667
+Tal Lah, 22.3167, 87.3000
+Tala, 23.7167, 81.0333
+Talaja, 21.3500, 72.0500
+Talala, 21.0333, 70.5333
+Talbandh, 22.0500, 86.3333
+Talcher, 20.9500, 85.2167
+Taldangra, 23.0333, 87.1000
+Talikota, 16.4833, 76.3167
+Taliparamba, 12.0500, 75.3500
+Taloda, 21.5667, 74.2167
+Taloje Budrukh, 19.0833, 73.0833
+Talsa, 22.8167, 88.5500
+Talwandi Bhai, 30.8500, 74.9333
+Tambaram, 12.9167, 80.1167
+Tamkuhi, 26.6833, 84.1833
+Tamluk, 22.3000, 87.9167
+Tamma, 25.1833, 93.7000
+Tamna, 23.2500, 86.3500
+Tanakpur, 29.0833, 80.1167
+Tanda(Rampur), 28.9833, 78.9333
+Tanda(Ambedkar Nagar), 26.5500, 82.6500
+Tandor, 19.1667, 79.3667
+Tandur, 17.2333, 77.5833
+Tangi, 19.9333, 85.4000
+Tangla, 26.5000, 92.0000
+Tangmarg, 34.0333, 74.4333
+Tangtse, 34.0333, 78.1833
+Tanjore > ThanJavur, 10.8000, 79.1500
+Tantipara, 23.9000, 87.3667
+Tanuku, 16.7500, 81.7000
+Tanur, 10.9667, 75.8667
+Tapa, 30.3167, 75.3500
+Tapasi, 23.6667, 87.1333
+Tappal, 28.0500, 77.5833
+Taraia, 26.0833, 84.8833
+Tarakeswar, 22.9000, 88.0333
+Taratanr, 23.9667, 86.4833
+Tardah, 22.4500, 88.5167
+Targa, 22.4500, 84.6667
+Tarikere, 13.7167, 75.8167
+Tarn Taran, 31.4500, 74.9167
+Tasgaon, 17.0333, 74.6000
+Tasrar Sharif, 33.8667, 74.7667
+Tawang, 27.5500, 91.8000
+Taxpur, 26.6167, 92.9667
+Teghra, 25.4833, 85.9500
+Tehata, 23.7167, 88.5333
+Tehri, 30.3833, 78.4833
+Tejpur, 26.6167, 92.8333
+Teju, 27.9167, 96.1833
+Tekari, 24.9333, 84.8333
+Tekkali, 18.6167, 84.2333
+Tela, 28.7333, 77.3333
+Tellicherry, 11.7500, 75.5333
+Tenali, 16.2500, 80.5833
+Tengra, 22.8000, 88.5333
+Tenkasi, 8.9667, 77.3000
+Tentulia, 22.8333, 88.4667
+Terdal, 16.5000, 75.0500
+Tezpur, 26.6333, 92.8000
+Thakurdwara, 29.2000, 78.8500
+Thakurdwari, 22.5667, 88.4667
+Thakurpukur, 22.4667, 88.3167
+Thakurvadi, 18.9000, 73.0667
+Thana, 19.2000, 72.9667
+Thana Ghazi, 27.4167, 76.3167
+Thana Kasba, 25.2167, 77.3333
+Thanesar, 29.9833, 76.8167
+Thanjavur, 10.8000, 79.1500
+Tharad, 24.4000, 71.6333
+Then, 32.4333, 75.7333
+Theog, 31.1167, 77.3500
+Tikamgarh, 24.7333, 78.8333
+Tilhar, 27.9833, 79.7333
+Tiluria, 23.5667, 86.9833
+Timarni Muafi, 22.3667, 77.3667
+Tindis, 21.5833, 86.7333
+Tindivanam, 12.2500, 79.6500
+Tinsukia, 27.5000, 95.3667
+Tiptur, 13.2667, 76.4833
+Tirodi, 21.6833, 79.7000
+Tirthahalli, 13.7000, 75.2333
+Tiruchchirappalli, 10.8167, 78.6833
+Tiruchendur, 8.4833, 78.1167
+Tiruchengodu, 11.3833, 77.9333
+Tirukkalukkunram, 12.6167, 80.0667
+Tirukkoyilur, 11.9500, 79.2000
+Tirumangalam, 9.8333, 77.9833
+Tirunelveli, 8.7333, 77.7000
+Tirupati, 13.6500, 79.4167
+Tirupparangunram, 9.8833, 78.0833
+Tiruppattur(Tirupathur District), 12.5000, 78.5667
+Tiruppattur(Sivaganga), 10.1333, 78.6167
+Tiruppur, 11.1000, 77.3500
+Tirur, 10.9000, 75.9167
+Tiruttani, 13.1833, 79.6333
+Tirutturaippundi, 10.5333, 79.6500
+Tiruvalla, 9.3833, 76.5667
+Tiruvallur, 13.1500, 79.9167
+Tiruvalur, 10.7667, 79.6500
+Tiruvanmiyur, 12.9167, 80.2500
+Tiruvannamalai, 12.2167, 79.0667
+Tiruvettipuram, 12.6667, 79.5500
+Tiruvottiyur, 13.1500, 80.3000
+Tiruvur, 17.1000, 80.6333
+Tisaiyanvilai, 8.3333, 77.8833
+Titagarh, 22.7500, 88.3667
+Tithwal, 34.4000, 73.7833
+Titlagarh, 20.3000, 83.1500
+Tiuni, 30.9500, 77.8500
+Toda Bhim, 26.9167, 76.8167
+Toda Raisingh, 26.0167, 75.4833
+Tohana, 29.7000, 75.9000
+Tondhre, 19.0833, 73.1333
+Tondi, 9.7333, 79.0167
+Tonk, 26.1667, 75.7833
+Topchanchi, 23.9000, 86.2000
+Totanala, 22.0833, 87.6667
+Tranquebar, 11.0333, 79.8500
+Tribeni, 22.9833, 88.4000
+Trichinnopoly > Tiruchchirappalli, 10.8167, 78.6833
+Trichur, 10.5167, 76.2167
+Trivandrum, 8.4833, 76.9167
+Tufanganj, 26.3167, 89.6667
+Tumkur, 13.3500, 77.0833
+Tumsar, 21.3833, 79.7333
+Tundi, 23.9667, 86.4167
+Tundla, 27.2000, 78.2833
+Tuni, 17.3500, 82.5500
+Tura, 25.5167, 90.2167
+Turaiyur, 11.1667, 78.6167
+Turambhe, 19.0667, 73.0167
+Turtipar, 26.1667, 83.9000
+Tuticorin, 8.7833, 78.1333
+Tuting, 28.9833, 94.8333
+Ubaidullahganj, 22.9833, 77.6000
+Uchana, 29.4667, 76.1667
+Uchche Kali, 22.3447, 88.3486
+Udaipur, 24.5833, 73.6833
+Udala, 21.5833, 86.5667
+Udalguri, 26.7667, 92.1333
+Udamalpet, 10.5833, 77.2500
+Udankudi, 8.4333, 78.0167
+Udayagiri, 14.9000, 79.3000
+Udgir, 18.3833, 77.1167
+Udhampur, 32.9333, 75.1333
+Udipi, 13.3500, 74.7500
+Ujhani, 28.0167, 79.0167
+Ujjain, 23.1833, 75.7667
+Ukhra, 23.6500, 87.2333
+Ukhrul, 25.1167, 94.3667
+Ula, 22.7167, 88.5500
+Ulhasnagar, 19.2167, 73.1167
+Ulubaria, 22.4667, 88.1000
+Uludangar, 22.8500, 88.5167
+Ulva, 18.9833, 73.0333
+Umaria(Bandhavgarh Gateway), 23.5333, 80.8333
+Umaria(Katni Border), 23.8000, 80.9333
+Umbargaon, 20.2000, 72.7500
+Umbroli, 19.1833, 73.1000
+Umrer, 20.8500, 79.3333
+Umreth, 22.7000, 73.1167
+Una(Himachal Pradesh), 31.4833, 76.2833
+Una(Gujarat), 20.8167, 71.0333
+Unao, 25.5833, 78.6000
+Unchahra, 24.3833, 80.7833
+Unjha, 23.8000, 72.4000
+Unnao, 26.5333, 80.5000
+Upleta, 21.7333, 70.2833
+Upshi, 33.8333, 77.8167
+Uran, 18.8667, 72.9333
+Uravakonda, 14.9500, 77.2667
+Uri, 34.0833, 74.0333
+Urma, 23.1667, 86.2500
+Urmar Tanda, 31.7000, 75.6333
+Urun-Islampur, 17.0500, 74.2667
+Utraula, 27.3167, 82.4167
+Uttamapalaiyam, 9.8000, 77.3333
+Uttarkashi, 30.7333, 78.4500
+Uttarpara-Kotrung, 22.6667, 88.3500
