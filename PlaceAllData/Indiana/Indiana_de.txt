@@ -1,0 +1,271 @@
+Dabney, 39.0900, -85.3469
+Daggett, 39.2156, -87.0389
+Daisy Hill, 38.4964, -85.9378
+Dale, 38.1689, -86.9900
+Dalecarlia, 41.3308, -87.3947
+Daleville, 40.1211, -85.5581
+Dallas, 40.8833, -85.6000
+Dalton, 39.9667, -85.1667
+Dana, 39.8078, -87.4950
+Danville, 39.7606, -86.5264
+Dark Hollow, 38.8889, -86.5394
+Darlington, 40.1100, -86.7719
+Darlington Woods, 40.1197, -86.8053
+Darmstadt, 38.0992, -87.5789
+Darrough Chapel, 40.4786, -86.0956
+Davidson, 37.9675, -86.0472
+Davis, 41.7147, -86.8261
+Dawnbury, 39.8697, -86.1208
+Daylight, 38.0592, -87.4906
+Dayton, 40.3742, -86.7689
+Dayville, 37.9542, -87.3222
+De Gonia Springs, 38.0556, -87.1856
+Deacon, 40.6339, -86.3172
+Dead Mans Crossing, 37.9583, -87.9083
+Decatur, 40.8333, -84.9333
+Decker, 38.5189, -87.5231
+Deedsville, 40.9103, -86.1011
+Deep River, 41.4756, -87.2233
+Deer Corner, 38.2103, -85.8953
+Deer Creek(Carroll), 40.6142, -86.3911
+Deer Creek(Lake), 41.4206, -87.2581
+Deer Mill, 39.9475, -87.0556
+Deer Park, 41.1589, -87.1992
+Deerfield(Bartholomew), 39.2167, -85.9000
+Deerfield(Randolph), 40.2786, -84.9764
+Deerfield(Vigo), 39.4333, -87.4000
+Deers Mills, 39.8667, -87.0500
+Defries Landing, 41.3658, -85.7681
+Dekalb Memorial Hospital, 41.3689, -85.0353
+Delaware, 39.1478, -85.2072
+Delaware Trails, 39.8800, -86.1814
+Delong, 41.1383, -86.4164
+Delp, 40.4894, -86.8092
+Delphi, 40.5875, -86.6750
+Deming, 40.1153, -86.0986
+Deming Park, 39.4661, -87.3544
+Deming Woods, 39.4600, -87.3578
+Democrat, 40.4667, -86.5167
+Demotte, 41.1950, -87.1986
+Denham, 41.1519, -86.7136
+Denmark, 39.2697, -87.0258
+Denny Corner, 39.8856, -85.8222
+Denver, 40.8661, -86.0775
+Depauw, 38.3350, -86.2175
+Deputy, 38.7942, -85.6533
+Derby, 38.0303, -86.5272
+Desoto, 40.2469, -85.2936
+Deuchars, 38.1722, -86.4483
+Devonshire, 39.8806, -86.0589
+Devore, 39.4297, -86.7528
+Dewberry, 38.9511, -85.1517
+Dewey(La Porte), 41.3167, -86.8667
+Dewey(Vigo), 39.5094, -87.3758
+Dexter, 38.0592, -86.4786
+Diamond, 39.6114, -87.1661
+Diamond Lake(Kosciusko), 41.1333, -85.8833
+Diamond Lake(Noble), 41.4667, -85.4833
+Dick Johnson, 39.5667, -87.1667
+Dickeyville, 38.1561, -87.2197
+Dike, 38.4000, -87.5833
+Dillman, 40.6103, -85.4289
+Dillsboro, 39.0178, -85.0589
+Dinwiddie, 41.2894, -87.3011
+Disko, 41.0022, -85.9444
+Dixie, 38.1600, -86.2122
+Dixon(Greene), 39.7733, -87.0206
+Dixon(Allen), 40.9667, -84.8667
+Doans, 38.9192, -86.8494
+Dodd, 37.9122, -86.6519
+Dodds Bridge, 39.1572, -87.5239
+Dogwood, 38.1053, -86.0844
+Dolan, 39.2403, -86.4992
+Domestic, 40.6117, -85.0886
+Donaldson, 41.3611, -86.4442
+Dongola, 38.3719, -87.3403
+Doolittle Mills, 38.2508, -86.6031
+Door Village, 41.5747, -86.7689
+Dooville, 40.5533, -85.5600
+Douglas, 38.3306, -87.5017
+Dover(Boone), 40.0544, -86.6200
+Dover(Dearborn), 39.2414, -84.9478
+Dover Hill, 38.7250, -86.8028
+Dovers View, 40.3000, -86.0500
+Dowden Acres, 39.4333, -87.4000
+Downey Corner, 38.9386, -85.0103
+Downeyville, 39.4275, -85.5544
+Doyle, 40.8081, -86.0742
+Doyle Ferguson, 40.5786, -85.4789
+Dresden, 38.9333, -86.7333
+Dresser, 39.4667, -87.4333
+Drew, 40.2189, -85.3869
+Drewersburg, 39.3403, -84.8372
+Drexel Gardens, 39.7406, -86.2464
+Driftwood, 38.8167, -86.1333
+Driftwood Hills, 39.9169, -86.1222
+Dublin, 39.8122, -85.2089
+Dubois, 38.4453, -86.8044
+Dubois Crossroads, 38.4811, -86.8119
+Duck Creek, 40.3500, -85.8167
+Dudley, 39.8333, -85.2667
+Dudleytown, 38.8497, -85.8997
+Duff, 38.3272, -87.0264
+Dugger, 39.0694, -87.2600
+Dukes Memorial Hospital, 40.7564, -86.0831
+Duncan, 38.2881, -85.9250
+Dundee, 40.2722, -85.7561
+Dune Acres, 41.6494, -87.0858
+Duneland Beach, 41.7167, -86.8833
+Dunfee, 41.0867, -85.3372
+Dunkirk(Jay), 40.3753, -85.2094
+Dunkirk(Cass), 40.7564, -86.3936
+Dunlap, 41.6378, -85.9217
+Dunlapsville, 39.5908, -84.9936
+Dunn, 40.5639, -87.4639
+Dunn Memorial Hospital, 38.8525, -86.4939
+Dunn Mill, 41.1622, -85.2358
+Dunnington, 40.5642, -87.4908
+Dunns Bridge, 41.2256, -86.9739
+Dunreith, 39.8033, -85.4386
+Dupont, 38.8900, -85.5142
+Durbin, 40.0564, -85.9108
+Durham(La Porte), 41.5922, -86.8375
+Durham(Gibson), 38.2597, -87.5811
+Dutch Town, 41.3500, -85.1500
+Dyer, 41.4942, -87.5217
+Eagle, 39.9667, -86.2833
+Eagle Creek, 41.2833, -87.2833
+Eagle Hollow, 38.7500, -85.3167
+Eagle Point, 41.3275, -85.6778
+Eagle Village, 39.9606, -86.2456
+Eagletown, 40.0422, -86.1936
+Eaglewood Estates, 39.9514, -86.3131
+Eames, 38.0792, -87.1317
+Earl Park, 40.6828, -87.4117
+Earle, 38.0856, -87.5133
+Earlham, 39.8667, -84.8667
+East Cedar Lake, 41.3667, -87.4000
+East Chicago, 41.6392, -87.4547
+East Clifford, 39.2167, -85.9000
+East Columbus, 39.2017, -85.9017
+East Connersville, 39.6667, -85.1333
+East Enterprise, 38.8728, -84.9881
+East Gary, 41.5833, -87.2333
+East Germantown, 39.8125, -85.1375
+East Glenn, 39.4858, -87.2956
+East Haven, 39.8392, -84.9308
+East Lake Estates, 41.6978, -85.9297
+East Liberty, 40.9356, -84.8617
+East Montcello, 40.7461, -86.7464
+East Monticello, 40.7461, -86.7533
+East Mount Carmel, 38.3933, -87.7447
+East Oolitic, 38.8989, -86.5119
+East Park, 40.2844, -86.4922
+East Shelburn, 39.1744, -87.3797
+East Shoals, 38.6667, -86.7833
+East Union, 40.2172, -86.1283
+Eastern Heights(Madison), 40.1089, -85.6572
+Eastern Heights(Monroe), 39.1747, -86.4803
+Eastgate(Bartholomew), 39.2167, -85.9000
+Eastgate(Clark), 38.3000, -85.7500
+Eastgate(Hancock), 39.9308, -85.8297
+Eastland Gardens, 41.0197, -85.1003
+Eastridge Manor, 39.2167, -85.9000
+Eastwich, 40.4269, -86.8500
+Easytown, 39.6106, -87.5003
+Eaton, 40.3403, -85.3508
+Eby, 38.1419, -87.2614
+Echo Crest, 39.9506, -86.1294
+Echo Heights, 40.1833, -85.3833
+Eckerty, 38.3203, -86.6119
+Economy, 39.9781, -85.0881
+Eddy, 41.5364, -85.4383
+Eden(La Grande), 41.5667, -85.6000
+Eden(Hancock), 39.9061, -85.7700
+Edgerton, 41.0767, -84.8061
+Edgewater, 41.5161, -87.0467
+Edgewood(La Porte), 41.7167, -86.8833
+Edgewood(Lawrence), 38.8500, -86.5000
+Edgewood(Madison), 40.1033, -85.7342
+Edgewood(Bartholomew), 39.2167, -85.9000
+Edgewood(Marion), 39.6847, -86.1342
+Edgewood Lake, 39.6394, -86.7992
+Edgewood Park, 41.0667, -85.1500
+Edgewood Village, 40.1014, -85.7531
+Edinburg, 39.3542, -85.9667
+Edison Park, 41.6833, -86.2000
+Edna Mills, 40.4175, -86.6678
+Edwardsport, 38.8119, -87.2522
+Edwardsville, 38.2842, -85.9094
+Eel, 40.7500, -86.3333
+Eel River, 39.3233, -87.1236
+Effner, 40.7667, -87.5667
+Egans Point, 41.3358, -85.3606
+Ege, 41.2928, -85.2878
+Egypt, 40.8592, -87.2039
+Ehrmandale, 39.5350, -87.2389
+Ekin, 40.2169, -86.1617
+El Dorado, 39.5911, -86.1625
+Elberfeld, 38.1597, -87.4483
+Elizabeth, 38.1211, -85.9742
+Elizabethtown, 39.1350, -85.8133
+Elizaville, 40.1267, -86.3758
+Elkhart, 41.6819, -85.9767
+Elkinsville, 39.0761, -86.2647
+Ellettsville, 39.2339, -86.6250
+Elliott, 38.1186, -87.4739
+Ellis(Greene), 39.0636, -87.2228
+Ellis(Steuben), 41.6325, -84.9153
+Elliston, 39.0278, -86.9708
+Ellisville, 41.0181, -85.2842
+Ellsworth, 38.4278, -86.7183
+Elm Tree Crossroads, 40.7883, -84.9561
+Elmdale, 40.1367, -87.0175
+Elmhurst, 40.0978, -85.7214
+Elmira, 41.5919, -85.2044
+Elmore, 38.8667, -87.0667
+Elmwood(Miami), 40.7000, -86.1167
+Elmwood(Boone), 40.0678, -86.4619
+Elnora, 38.8783, -87.0858
+Elon, 38.4236, -86.6581
+Elrod, 39.0547, -85.1639
+Elston, 40.3931, -86.9097
+Elwood, 40.2769, -85.8419
+Elwren, 39.1086, -86.6697
+Eminence, 39.5214, -86.6414
+Emison, 38.8050, -87.4581
+Emma, 41.6111, -85.5411
+Emporia, 40.0044, -85.6339
+Enchanted Hills, 41.4019, -85.6667
+Englewood, 38.8444, -86.4981
+English, 38.3344, -86.4642
+English Lake, 41.2658, -86.8236
+Enochsburg, 39.3342, -85.2975
+Enos, 41.0139, -87.4492
+Enos Corner, 38.2892, -87.2611
+Enosville, 38.3000, -87.2667
+Enterprise, 37.8425, -87.1819
+Epsom, 38.7853, -87.0631
+Epworth Forest, 41.3331, -85.6861
+Erie(Miami), 40.8011, -85.9914
+Erie(Lawrence), 38.8825, -86.3814
+Ervin, 40.5167, -86.3000
+Erwin, 37.9800, -87.9192
+Ethel, 38.4036, -86.5244
+Etna, 41.2736, -85.5736
+Etna Green, 41.2833, -86.0500
+Eugene, 39.9664, -87.4728
+Eureka(Spencer), 37.8806, -87.2150
+Eureka(Lawrence), 38.8708, -86.5628
+Evans Landing, 38.0042, -85.9847
+Evanston, 38.0394, -86.8417
+Evansville, 37.9747, -87.5558
+Evansville State Hospital, 37.9739, -87.5039
+Evergreen Acres, 38.3000, -85.7500
+Everroad Park, 39.2283, -85.8881
+Everroad Park West, 39.2167, -85.9000
+Everton, 39.5628, -85.0897
+Ewing, 38.8847, -86.0553
+Ewington, 39.3264, -85.5681
+Exchange, 39.5017, -86.3222
+Extension Heights, 40.1047, -85.6603

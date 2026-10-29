@@ -1,0 +1,189 @@
+Tab, 40.4111, -87.4728
+Tabertown, 39.4947, -87.2531
+Taggart, 39.2617, -86.1389
+Taggart Crossing, 39.3792, -86.4006
+Talbot, 40.5053, -87.4542
+Tall Timbers, 40.5667, -85.7000
+Talma, 41.1539, -86.1350
+Tamarack, 41.6833, -86.9833
+Tampico, 38.8833, -86.0833
+Tangier, 39.9192, -87.3181
+Tanglewood, 41.0733, -85.0044
+Tarkeo Corner, 39.2628, -85.4839
+Tarry Park, 38.8014, -86.5092
+Taswell, 38.3342, -86.5611
+Taylor, 40.3403, -86.9336
+Taylor Corner(De kalb), 41.4856, -84.9494
+Taylor Corner(Montgomery), 40.0250, -87.0161
+Taylorsville, 39.2958, -85.9508
+Taylorville, 39.4625, -87.4236
+Tecumseh(Tippecanoe), 40.3928, -86.8683
+Tecumseh(Vigo), 39.5631, -87.4217
+Tee Lake, 41.7169, -86.6900
+Teegarden, 41.4650, -86.3775
+Tefft, 41.1986, -86.9739
+Tell City, 37.9514, -86.7678
+Temple, 38.3444, -86.4158
+Templeton, 40.5128, -87.2078
+Tennyson, 38.0822, -87.1183
+Tera North, 39.7000, -86.8500
+Terhune, 40.1653, -86.2803
+Terrace Bay, 40.7150, -86.7461
+Terrace Lake, 39.2167, -85.9000
+Terre Coupee, 41.7022, -86.4772
+Terre Haute, 39.4667, -87.4139
+Terre Town, 39.5175, -87.3753
+Terry, 38.0872, -86.6331
+Tetersburg, 40.2753, -86.1511
+Texas, 39.0475, -84.8936
+Thales, 38.5103, -86.7986
+Thayer, 41.1733, -87.3336
+Thomas, 38.6128, -87.2317
+Thomas Lake, 39.6500, -86.8667
+Thomaston, 41.3783, -86.8142
+Thorncreek, 41.2167, -85.4833
+Thornhope, 40.9258, -86.5294
+Thorntown, 40.1294, -86.6067
+Thurman, 41.1200, -85.0042
+Tilden, 39.8214, -86.4389
+Tillman, 41.0242, -84.8933
+Timbercrest(Allen), 41.0172, -85.3150
+Timbercrest(Cass), 40.7667, -86.3667
+Timberhurst, 41.5464, -85.2186
+Times Corner, 41.0617, -85.2194
+Tiosa, 41.1528, -86.2056
+Tippecanoe, 41.2089, -86.1150
+Tipton, 40.2822, -86.0411
+Tipton Park, 39.2167, -85.9000
+Titus, 38.0542, -86.2561
+Toad Hop, 39.4589, -87.4636
+Tobacco Landing, 38.0053, -86.0867
+Tobin, 37.9500, -86.5833
+Tobinsport, 37.8525, -86.6356
+Tocsin, 40.8303, -85.1092
+Toledo, 40.8167, -85.5333
+Toll Gate Heights, 40.7572, -85.1658
+Tolleston, 41.5931, -87.3661
+Tomahawk Village, 39.8000, -86.2500
+Topeka, 41.5392, -85.5397
+Toto, 41.2594, -86.6981
+Tower, 38.2419, -86.3600
+Town Hill, 39.1981, -86.2467
+Town of Pines, 41.6819, -86.9603
+Townley, 41.0181, -84.8639
+Tracy, 41.4853, -86.6825
+Traders Point, 39.8886, -86.2969
+Trafalgar, 39.4161, -86.1508
+Trail Creek, 41.6983, -86.8592
+Tratebas Mill, 38.6708, -85.6708
+Travisville, 40.6919, -85.2081
+Treaty, 40.7244, -85.7825
+Tree Spring, 40.0967, -87.4331
+Tremont(Marion), 39.7675, -86.3158
+Tremont(Porter), 41.6486, -87.0436
+Trenton, 40.4500, -85.2389
+Trevlac, 39.2656, -86.3369
+Tri Lakes, 41.2458, -85.4419
+Trials End, 39.9542, -86.0658
+Trier Ridge Park, 41.0500, -85.1333
+Trilobi Hills, 39.8792, -85.9967
+Trinity, 40.5425, -84.8486
+Trinity Springs, 38.7500, -86.7667
+Trotter Crossing, 38.5114, -86.3656
+Troy, 37.9953, -86.7978
+Tudor, 39.2167, -85.9000
+Tulip, 39.0819, -86.8867
+Tunker, 41.0486, -85.5575
+Tunnelton, 38.7686, -86.3428
+Turkey Creek, 41.4000, -85.7167
+Turkey Creek, 41.5558, -85.1708
+Turkey Creek Meadows, 41.4953, -87.3433
+Turman, 39.1333, -87.5500
+Turner, 39.4983, -87.1603
+Turpin, 38.0500, -87.2667
+Turpin Hill, 38.1422, -87.2903
+Turtle Creek, 40.5667, -85.7000
+Twelve Mile, 40.8664, -86.2253
+Twelve Points, 39.4922, -87.3978
+Twin Beach, 39.5181, -87.2050
+Twin Branch, 41.6667, -86.1667
+Twin Brooks, 39.6689, -86.1203
+Twin Crest, 39.2167, -85.9000
+Twin Lakes, 41.3042, -86.3572
+Twin Oaks Lake, 39.3667, -86.2500
+Tyner, 41.4097, -86.4025
+Tyner Crossing, 39.6542, -85.5942
+Ulen, 40.0631, -86.4644
+Underwood, 38.6036, -85.7744
+Underwood Meadows, 40.3500, -85.7333
+Union, 38.4653, -87.4347
+Union Center, 41.4842, -86.6397
+Union City, 40.2000, -84.8167
+Union Hospital, 39.4853, -87.4078
+Union Mills, 41.4931, -86.7775
+Uniondale, 40.8306, -85.2417
+Unionport, 40.1208, -85.0964
+Uniontown(Jackson), 38.8458, -85.8258
+Uniontown(Perry), 38.2253, -86.6608
+Unionville, 39.2300, -86.4161
+Universal, 39.6217, -87.4514
+University Heights, 39.7047, -86.1344
+University Heights Hospital, 39.7169, -86.1331
+Upland, 40.4756, -85.4944
+Upper Long Lake, 41.4000, -85.4333
+Upper Sunset Park, 40.7250, -86.7544
+Upton, 37.9644, -87.9617
+Uptown, 39.8333, -86.1500
+Urbana, 40.8983, -85.7928
+Urmeyville, 39.5219, -85.9853
+Utah, 39.0608, -84.8981
+Utica, 38.3336, -85.6536
+Valeene, 38.4389, -86.3972
+Valentine, 41.5903, -85.3869
+Valley Acres, 40.5667, -85.7000
+Valley Brook, 40.8056, -85.8444
+Valley City, 38.0939, -86.2228
+Valley Mills, 39.6911, -86.2772
+Valley View Hills, 41.6833, -85.9833
+Vallonia, 38.8469, -86.0978
+Vallyd Acres, 41.0667, -85.1500
+Valparaiso, 41.4731, -87.0611
+Van, 40.7667, -86.3667
+Van Bibber Lake, 39.6500, -86.8667
+Van Buren, 40.6172, -85.5047
+Van Buren Park, 39.1358, -86.5808
+Van Loon, 41.5683, -87.4228
+Van Nuys, 39.9600, -85.3539
+Vanada, 37.9322, -87.3644
+Vanada Camps, 37.9500, -87.4000
+Vandalia, 39.3125, -86.8661
+Vanmeter Park, 41.0858, -86.5681
+Vaughan, 37.9014, -87.6303
+Vawter Park, 41.3875, -85.6925
+Veale, 38.5833, -87.1667
+Veedersburg, 40.1131, -87.2625
+Velpen, 38.3553, -87.1019
+Vera Cruz, 40.7011, -85.0792
+Vermillion, 39.8833, -87.4500
+Vermillion Acres, 39.4667, -87.4333
+Vermont, 40.4992, -86.0319
+Verne, 38.6367, -87.4294
+Vernon, 38.9847, -85.6094
+Versailles, 39.0719, -85.2519
+Vesta, 38.4850, -85.5506
+Vevay, 38.7478, -85.0672
+Vicksburg, 39.0906, -87.1981
+Victor, 39.0608, -86.5808
+Victoria, 39.0464, -87.2228
+Vienna, 38.6489, -85.7689
+Vigo(Knox), 38.8000, -87.2500
+Vigo(Vigo), 39.2872, -87.5372
+Vilas, 39.1700, -86.8400
+Villa North, 40.7167, -85.1167
+Vincennes, 38.6772, -87.5286
+Vine, 40.2950, -87.1350
+Virgie, 41.1153, -87.1800
+Vistula, 41.7492, -85.7281
+Vivalia, 39.6775, -87.0122
+Volga, 38.7839, -85.5181
+Vollmer, 38.5475, -87.5200

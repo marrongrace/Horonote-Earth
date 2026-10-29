@@ -1,0 +1,240 @@
+Hacienda Village, 41.1172, -85.0300
+Hackleman, 40.4217, -85.7481
+Haddon, 38.9667, -87.4000
+Hadley, 39.7314, -86.6028
+Hagerstown, 39.9111, -85.1617
+Haglund, 41.6125, -87.1158
+Halbert, 38.6667, -86.7333
+Haleysburg, 38.7419, -86.1508
+Hall(Dubois), 38.3833, -86.7500
+Hall(Morgan), 39.5500, -86.5358
+Halls Corners, 41.2408, -84.8522
+Hamblen, 39.2833, -86.1833
+Hamburg(Clark), 38.3833, -85.7675
+Hamburg(Franklin), 39.3808, -85.2508
+Hamilton(Madison), 40.1231, -85.7850
+Hamilton(St Joseph), 41.7322, -86.4781
+Hamilton(Clinton), 40.3447, -86.6181
+Hamilton(Steuben), 41.5336, -84.9128
+Hamilton Park, 40.1833, -85.3833
+Hamlet, 41.5475, -86.5822
+Hammond, 41.5833, -87.5000
+Hamor Heights, 39.2167, -85.9000
+Hancock, 38.3333, -86.2167
+Hancock Corner, 39.2753, -86.8289
+Handy(Benton), 40.5008, -87.4714
+Handy(Monroe), 39.0958, -86.4939
+Haney Corner, 38.9389, -85.3058
+Hanfield, 40.6044, -85.5803
+Hanging Grove, 40.9342, -86.9836
+Hangman Crossing, 38.9433, -85.9267
+Hanna, 41.4119, -86.7800
+Hanover, 38.7142, -85.4736
+Happy Hollow, 38.0533, -85.9378
+Happy Hollow Heights, 40.4428, -86.9003
+Harbison, 38.5000, -86.8667
+Harbor, 41.6333, -87.4667
+Hardinsburg(Dearborn), 39.1219, -84.8475
+Hardinsburg(Washington), 38.4608, -86.2786
+Hardscrabble, 40.0197, -85.8433
+Harlan, 41.1961, -84.9197
+Harlansburg, 40.8144, -85.5644
+Harmeson Heights, 40.0586, -85.6922
+Harmony, 39.5367, -87.1058
+Harper, 39.1467, -85.5936
+Harris, 41.4147, -86.3036
+Harris City, 39.2814, -85.5272
+Harrisburg, 39.6867, -85.6228
+Harrison County Infirmary, 38.1669, -86.1306
+Harrison Grange, 38.2153, -86.1022
+Harrison Hills, 39.2167, -85.9000
+Harrison Lake, 39.2167, -85.9000
+Harristown, 38.5978, -86.0242
+Harrisville, 40.1847, -84.8817
+Harrodsburg, 39.0133, -86.5450
+Hart, 38.1667, -87.2833
+Hartford(Adams), 40.6167, -85.0500
+Hartford(Ohio), 38.9931, -84.9569
+Hartford City, 40.4511, -85.3700
+Hartford Place, 39.2167, -85.9000
+Hartleyville, 38.7961, -86.5350
+Hartsdale, 41.5078, -87.4714
+Hartsville, 39.2675, -85.6981
+Hartwell, 38.3225, -87.1797
+Hartwell Junction, 38.3606, -87.1408
+Hartz Lake, 41.1500, -86.4833
+Hartzel, 41.5633, -85.2358
+Harveysburg, 39.9822, -87.2947
+Harwood, 38.0033, -87.5747
+Hashtown, 39.0250, -86.9244
+Haskell, 41.4839, -86.9019
+Hastings, 41.3836, -85.9294
+Hatfield, 37.9025, -87.2242
+Haubstadt, 38.2050, -87.5742
+Haw Creek, 39.3000, -85.7500
+Hawthorn Hills, 39.9444, -85.9803
+Hawthorne, 38.8500, -86.5000
+Hawthorne Hills, 41.3947, -87.3792
+Hayden, 38.9831, -85.7406
+Haymond, 39.3000, -85.2167
+Haysville, 38.4856, -86.9150
+Haysville Corner, 40.1806, -84.8258
+Hazelrigg, 40.0822, -86.5631
+Hazelwood(Shelby), 39.5500, -85.8000
+Hazelwood(Hendricks), 39.6156, -86.5219
+Hazelwood(Allen), 41.1000, -85.1333
+Hazleton, 38.4889, -87.5417
+Headlee, 40.8978, -86.6586
+Healthwin Hospital, 41.7317, -86.2675
+Heath, 40.4611, -86.7333
+Heather Heights, 39.2167, -85.9000
+Heaton Lake, 41.6833, -85.9833
+Hebron, 41.3186, -87.2003
+Hedrick, 40.3017, -87.4908
+Heights Corner, 39.2833, -86.7667
+Heilman, 38.1575, -87.0903
+Helmcrest, 39.9406, -85.8406
+Helmer, 41.5311, -85.1703
+Helmsburg, 39.2653, -86.2928
+Helt, 39.7500, -87.4667
+Heltonville, 38.9278, -86.3756
+Hemenway, 38.2039, -87.1344
+Hemlock, 40.4200, -86.0414
+Hemlock Lakes, 39.9667, -87.2833
+Henderson, 39.6694, -85.5203
+Hendricks, 39.6081, -86.1483
+Hendricksville, 39.1361, -86.7039
+Henryville, 38.5417, -85.7678
+Hensley, 39.3833, -86.1833
+Hepburn, 38.0703, -87.8011
+Herbst, 40.5147, -85.7872
+Herr, 40.0667, -86.4667
+Hessen Cassel, 40.9778, -85.0792
+Hesston, 41.7528, -86.6608
+Hessville, 41.5956, -87.4617
+Heth, 38.0667, -86.1667
+Heusler, 37.9336, -87.7128
+Hi-View Addition, 41.6083, -86.1783
+Hibbard, 41.2533, -86.3869
+Hibernia(Clark), 38.5019, -85.5256
+Hibernia(Montgomery), 40.0042, -87.0011
+Hibernia Mills, 40.0000, -86.9333
+Hickory Corner, 39.3050, -87.0444
+Hickory Grove, 40.5333, -87.4833
+Hickory Hills, 40.5667, -85.7000
+Hickory Island, 39.3294, -87.2394
+Hickory Ridge, 38.2583, -87.8267
+Hicks, 41.7064, -86.5692
+Hideaway Lake, 39.9667, -87.2833
+High Lake, 41.4000, -85.4333
+Highbanks, 41.3233, -85.6711
+Highets Corner, 39.2819, -86.7042
+Highland(Lake), 41.5536, -87.4519
+Highland(Vermillion), 39.7944, -87.3958
+Highland(Washington), 38.6494, -86.1275
+Highland(Vanderburgh), 38.0397, -87.5731
+Highland Center, 39.3217, -85.0039
+Highland Meadows, 40.5667, -85.7000
+Highland Village, 39.1608, -86.5836
+Highlands Park, 41.2733, -85.7858
+Highwoods, 39.8442, -86.1833
+Hiker Trace, 39.2167, -85.9000
+Hildebrand Village, 39.5467, -85.7861
+Hill And Dale, 38.3167, -85.7333
+Hillcrest(Allen), 41.0261, -85.1344
+Hillcrest(Bartholomew), 39.2167, -85.9000
+Hillcrest(Madison), 40.1078, -85.6650
+Hillcrest(Porter), 41.5161, -87.0506
+Hillcrest(Harrison), 38.2036, -86.1186
+Hillcrest Circle, 38.8500, -86.5000
+Hillcrest Terrace, 37.9489, -87.3964
+Hillgrove, 38.2167, -86.1167
+Hillham, 38.5139, -86.7006
+Hillisburg, 40.2864, -86.3392
+Hills And Dales, 40.1833, -85.2667
+Hillsboro(Fountain), 40.1089, -87.1856
+Hillsboro(Henry), 39.9681, -85.3317
+Hillsdale(Vermillion), 39.7858, -87.3903
+Hillsdale(Vanderburgh), 38.0828, -87.5506
+Hillside, 41.7103, -86.6175
+Hilltown, 38.8369, -85.6622
+Hillview Estates, 39.2167, -85.9000
+Hindostan, 38.6656, -86.6044
+Hindostan Falls, 38.6244, -86.8508
+Hindustan, 39.3081, -86.4833
+Hirt Corner, 39.4736, -87.0147
+Hiser, 39.8150, -85.0778
+Hitchcock, 38.6381, -86.1697
+Hoagland, 40.9481, -84.9950
+Hobart, 41.5322, -87.2550
+Hobbieville, 38.9992, -86.7064
+Hobbs, 40.2836, -85.9475
+Hoffman Crossing, 39.3592, -86.9497
+Hoffman Lake, 41.2333, -85.8500
+Hogan, 39.0667, -84.9667
+Hogtown, 38.3583, -86.3178
+Holaday Hills And Dales, 39.9364, -86.1194
+Holida, 39.8864, -86.1900
+Holiday, 41.3500, -85.1500
+Holland, 38.2456, -87.0361
+Hollandsburg, 39.7603, -87.0722
+Holly Hills, 39.4333, -87.4000
+Hollybrook Lake, 39.3500, -86.6667
+Holmesville, 41.5997, -86.8811
+Holton, 39.0750, -85.3872
+Home Corner, 40.5236, -85.6406
+Home Place, 39.9439, -86.1433
+Homecroft, 39.6700, -86.1314
+Homer, 39.5781, -85.5781
+Homestead, 39.1242, -84.8525
+Honduras, 40.7581, -85.0331
+Honey Creek, 40.0339, -85.4856
+Honeyville, 41.5817, -85.6017
+Hooker Corner, 40.4547, -87.3164
+Hoosier, 39.0667, -87.1858
+Hoosier Acres, 39.1578, -86.4869
+Hoosier Highlands, 39.4500, -86.9500
+Hoosierville, 39.4750, -87.1083
+Hoover, 40.8089, -86.2006
+Hoover Crest, 39.8875, -86.1742
+Hoover Mill, 39.8639, -85.0644
+Hoover Park, 40.4542, -85.3611
+Hope, 39.3039, -85.7714
+Hopewell(De Kalb), 41.2811, -85.0206
+Hopewell(Johnson), 39.4919, -86.1172
+Horace, 39.2625, -85.5642
+Horton, 40.1333, -86.2167
+Hortonville, 40.0861, -86.1608
+Houston, 39.0164, -86.1908
+Hovey, 37.8922, -87.9419
+Howard, 39.9161, -87.3756
+Howe, 41.7214, -85.4206
+Howell, 37.9833, -87.6167
+Howesville, 39.1769, -87.1469
+Hubbard, 41.6964, -86.4189
+Hubbell, 39.1831, -87.0122
+Hubbells Corner, 39.2344, -85.0400
+Huber, 39.6864, -85.2542
+Hudnut, 39.6594, -87.3769
+Hudson, 41.5328, -85.0811
+Hudson Lake, 41.7103, -86.5342
+Hudsonville, 38.5389, -87.0728
+Huff, 38.0333, -86.8500
+Huffman, 38.1019, -86.7769
+Hull Addition, 40.3000, -86.0500
+Hunter, 39.7167, -86.0167
+Hunter Corner, 40.1714, -87.2431
+Huntersville, 39.3036, -85.2331
+Huntertown, 41.2283, -85.1725
+Huntingburg, 38.2989, -86.9550
+Huntington, 40.8831, -85.4975
+Huntsville(Madison), 40.0086, -85.7303
+Huntsville(Randolph), 40.0711, -85.0722
+Hurlburt, 41.3700, -87.1767
+Huron, 38.7222, -86.6706
+Hursh, 41.2481, -84.9742
+Hurshtown, 41.3167, -84.9000
+Hutton, 39.3175, -87.5339
+Hyde Park, 40.1925, -85.3083
+Hymera, 39.1864, -87.3017
+Hyndsdale, 39.4158, -86.4847

@@ -1,0 +1,263 @@
+Nabb, 38.6056, -85.6328
+Napoleon, 39.2047, -85.3308
+Nappanee, 41.4428, -86.0014
+Nashville(Hancock), 39.9283, -85.6594
+Nashville(Brown), 39.2072, -86.2511
+Natchez, 38.6172, -86.7108
+Navilleton, 38.3817, -85.9386
+Nead, 40.7072, -86.1275
+Neavill Grove, 38.7833, -85.5117
+Nebraska, 39.0636, -85.4594
+Needham, 39.5300, -85.9711
+Needmore(Vermillon), 39.6189, -87.4103
+Needmore(Brown), 39.2511, -86.3397
+Needmore(Lawrence), 38.9272, -86.5300
+Neff Corner, 39.1653, -85.5322
+Negangards Corner, 39.1911, -85.0947
+Nevada, 40.3953, -86.0042
+Nevada Mills, 41.7269, -85.0822
+Nevins, 39.5667, -87.2500
+New Albany, 38.2856, -85.8242
+New Alsace, 39.2339, -85.0031
+New Amsterdam, 38.1022, -86.2750
+New Augusta, 39.8833, -86.2386
+New Bellsville, 39.2167, -85.9000
+New Boston(Harrison), 37.9997, -86.0108
+New Boston(Spencer), 38.0586, -86.8103
+New Britton, 39.9797, -86.0100
+New Brunswick, 39.9442, -86.5228
+New Burlington, 40.1200, -85.2978
+New Carlisle, 41.7003, -86.5094
+New Castle, 39.9289, -85.3703
+New Chicago, 41.5583, -87.2744
+New Columbus, 40.0189, -85.6558
+New Corydon, 40.5686, -84.8400
+New Durham, 41.5667, -86.8833
+New Elizabethtown, 38.9172, -85.9869
+New Elliot, 41.4931, -87.4175
+New Era, 41.2939, -85.1214
+New Fairfield, 39.5069, -84.9725
+New Farmington, 38.9250, -85.8669
+New Frankfort, 38.7367, -85.7111
+New Garden, 39.9667, -84.9167
+New Goshen, 39.5811, -87.4622
+New Harmony, 38.1297, -87.9350
+New Haven, 41.0706, -85.0144
+New Haven Heights, 41.0667, -85.0500
+New Hope(Warrick), 37.9897, -87.2225
+New Hope(Owen), 39.1831, -86.8278
+New Lancaster, 40.2550, -85.8800
+New Lebanon, 39.0408, -87.4711
+New Liberty, 38.5681, -85.8672
+New Lisbon(Henry), 39.8633, -85.2631
+New Lisbon(Randolph), 40.2436, -84.8244
+New London, 40.4433, -86.2714
+New Marion, 39.0075, -85.3589
+New Market(Clark), 38.5356, -85.6169
+New Market(Montgomery), 39.9525, -86.9214
+New Maysville, 39.7906, -86.7292
+New Middletown, 38.1639, -86.0508
+New Mount Pleasant, 40.3558, -85.0650
+New Palestine, 39.7219, -85.8892
+New Paris, 41.5003, -85.8281
+New Pekin, 38.5364, -85.9286
+New Pennington, 39.2797, -85.3247
+New Philadelphia, 38.6264, -86.2075
+New Pittsburg, 40.3075, -84.8992
+New Point, 39.3097, -85.3292
+New Providence, 38.4667, -85.9500
+New Richmond, 40.1956, -86.9789
+New Ross, 39.9647, -86.7144
+New Salem(Washington), 38.6214, -85.9042
+New Salem(Ruch), 39.5422, -85.3581
+New Salisbury, 38.3136, -86.0950
+New Santa Fe, 40.6736, -85.9878
+New Trenton, 39.3108, -84.9014
+New Unionville, 39.2111, -86.4622
+New Washington, 38.5631, -85.5397
+New Waverly, 40.7642, -86.1925
+New Whiteland, 39.5581, -86.0953
+New Winchester, 39.7606, -86.6508
+Newark, 39.1289, -86.8072
+Newark Village, 39.9678, -86.1233
+Newbern, 39.2353, -85.7508
+Newberry, 38.9250, -87.0194
+Newburgh, 37.9444, -87.4053
+Newland, 41.0458, -87.0342
+Newport, 39.8842, -87.4086
+Newton(Jasper), 40.9667, -87.2333
+Newton(Wabash), 40.9672, -85.8214
+Newton Stewart, 38.4047, -86.6236
+Newtonville, 38.0019, -86.9433
+Newtown, 40.2042, -87.1478
+Newville, 41.3486, -84.8450
+Newville Center, 41.3142, -84.8300
+Nibbyville, 41.7139, -85.8608
+Niles, 40.3500, -85.2667
+Nine Mile, 40.9750, -85.2250
+Nineveh, 39.3622, -86.0847
+Nisbet, 38.1461, -87.6528
+Noble, 40.4694, -84.8261
+Noblesville, 40.0456, -86.0086
+Noblitt Falls, 39.2167, -85.9000
+Nora, 39.9000, -86.1333
+Nora Plaza, 39.9000, -86.1333
+Norland Park, 41.3667, -85.0667
+Norma Jean Addition, 40.3764, -86.8831
+Normal, 40.4650, -85.8253
+Norman, 38.9525, -86.2750
+Normanda, 40.3025, -86.1647
+Normandy Addition, 40.1833, -85.3833
+Norris, 38.6000, -86.1000
+Norristown, 39.3653, -85.7606
+North, 41.4333, -86.2833
+North Anderson, 40.1353, -85.6781
+North Augusta Addition, 39.9281, -86.2278
+North Bend, 41.2167, -86.5333
+North Columbus, 39.2333, -85.9083
+North Crane, 40.3386, -86.8103
+North Crows Nest, 39.8658, -86.1633
+North Delphi, 40.5833, -86.6667
+North Gate, 39.2639, -85.9464
+North Grove, 40.6122, -85.9661
+North Harbor, 40.0500, -86.0167
+North Hayden, 41.2900, -87.4583
+North Highland, 41.0889, -85.1661
+North Judson, 41.2150, -86.7758
+North Liberty, 41.5342, -86.4272
+North Madison, 38.7678, -85.3967
+North Manchester, 41.0006, -85.7686
+North Oaks, 40.7767, -85.1739
+North Ogilville, 39.1319, -86.0078
+North Park, 39.2967, -85.9542
+North Ridge Village, 39.9350, -86.1492
+North Salem, 39.8597, -86.6425
+North Terre Haute, 39.5278, -87.3603
+North Union, 39.9656, -86.9033
+North Vernon, 39.0061, -85.6236
+North Webster, 41.3256, -85.6978
+Northaven, 38.3000, -85.7500
+Northcliff, 39.2894, -85.8775
+Northcrest, 41.1231, -85.1350
+Northeast, 38.6333, -86.3500
+Northern Beach, 39.9556, -86.0706
+Northern Meadows, 39.9667, -86.2589
+Northfield, 40.0308, -86.2803
+Northfield Village, 40.0617, -86.4778
+Northgate Village, 40.5667, -85.7000
+Northpine Estates, 39.6167, -87.3500
+Norths Landing, 38.9022, -84.8736
+Northwest, 38.6500, -86.6333
+Northwest Manor, 39.8992, -86.2747
+Northwood(Elkhart), 41.4500, -86.0000
+Northwood(Putnam), 39.6500, -86.8667
+Northwood(Grant), 40.5667, -85.7000
+Northwood Hills, 39.9614, -86.0617
+Northwood Park, 41.5286, -87.0489
+Norton, 38.4944, -86.6831
+Nortonburg, 39.2683, -85.8233
+Norway, 40.7783, -86.7594
+Notre Dame, 41.7000, -86.2333
+Nottingham, 40.5811, -85.1503
+Nulltown, 39.5797, -85.1583
+Numa, 39.6308, -87.3703
+Nutwood, 41.5939, -86.2819
+Nyesville, 39.7844, -87.1744
+Nyona Lake, 40.9667, -86.1333
+Oak Forest, 39.3847, -85.0853
+Oak Grove(Benton), 40.5333, -87.2833
+Oak Grove(Posey), 37.8361, -88.0217
+Oak Grove(Starke), 41.2878, -86.4861
+Oak Grove(Vigo), 39.4333, -87.4000
+Oak Hill, 38.3044, -87.3744
+Oak Hills, 39.3000, -85.7667
+Oak Park, 38.3056, -85.6964
+Oak Tree Crossroads, 39.3722, -85.0031
+Oakcrest, 39.2167, -85.9000
+Oakdale, 40.7683, -86.0536
+Oakford, 40.4192, -86.1042
+Oakland City, 38.3386, -87.3450
+Oakland City Junction, 38.3317, -87.3014
+Oaklandon, 39.8728, -85.9569
+Oaklawn Terrace, 38.3000, -85.7500
+Oaktown, 38.8711, -87.4414
+Oakville, 40.0792, -85.3906
+Oakwood(La Porte), 41.6783, -86.7864
+Oakwood(Steuben), 41.5497, -84.9136
+Oakwood Commons, 40.5667, -85.7000
+Oakwood Manor, 41.7167, -86.8833
+Oakwood Park, 41.4114, -85.7383
+Oakwood Shores, 41.5333, -84.9167
+Oatsville, 38.4069, -87.4075
+Ober, 41.2708, -86.5244
+Occident, 39.6911, -85.4783
+Ockley, 40.4883, -86.6339
+Octagon, 40.5264, -86.9922
+Odell, 40.2878, -87.0742
+Odon, 38.8428, -86.9914
+Ogden, 39.7992, -85.4689
+Ogden Dunes, 41.6258, -87.1903
+Ogilville, 39.1258, -86.0153
+Ohio Falls, 38.3000, -85.7500
+Oil, 38.1833, -86.5833
+Old Bargersville, 39.5175, -86.1558
+Old Bath, 39.5083, -84.8917
+Old Halfway, 40.4906, -87.0658
+Old Hill, 39.3019, -87.2075
+Old Milan, 39.1464, -85.1325
+Old Otto, 38.5667, -85.5500
+Old Pekin, 38.4964, -86.0061
+Old Saint Louis, 39.3206, -85.7856
+Old Stone, 37.9500, -87.4000
+Old Tip Town, 41.2236, -86.1153
+Old Town, 40.2581, -87.3867
+Old Watson, 38.3000, -85.7500
+Oldenburg, 39.3397, -85.2044
+Oldtown, 39.0947, -84.8469
+Olean, 38.9903, -85.2186
+Olin, 40.1492, -87.4306
+Olive, 41.7000, -86.4481
+Oliver, 38.0433, -87.8392
+Omega, 40.1983, -85.9392
+Ontario, 41.7022, -85.3825
+Onward, 40.6947, -86.1950
+Oolitic, 38.9008, -86.5253
+Ora, 41.1739, -86.5531
+Orange, 39.5842, -85.2992
+Orangeville(De Kalb), 41.3358, -84.8569
+Orangeville(Orange), 38.6314, -86.5567
+Orchard Grove, 41.2897, -87.3536
+Orchard Heights, 41.6667, -86.2333
+Orchard Heights Addition, 41.6017, -86.2397
+Orchard Highlands, 41.6828, -86.8358
+Orchard Park, 39.9375, -86.1300
+Oregon Heights, 41.5667, -87.2833
+Orestes, 40.2694, -85.7281
+Organ Springs, 38.4767, -86.1647
+Oriole, 38.1689, -86.5047
+Orland, 41.7306, -85.1717
+Orleans, 38.6667, -86.4667
+Ormas, 41.2950, -85.5461
+Orrville, 38.4581, -87.6861
+Osborn, 41.5925, -87.4689
+Osborn Landing, 41.2811, -85.7969
+Osceola, 41.6650, -86.0758
+Osgood, 39.1247, -85.2892
+Osolo, 41.7167, -85.9500
+Ossian, 40.8806, -85.1664
+Oswego, 41.3203, -85.7872
+Otis, 41.5992, -86.9058
+Otisco, 38.5422, -85.6672
+Otsego Center, 41.5725, -84.9089
+Otter Creek Junction, 39.5464, -87.3483
+Otter Lake, 41.6333, -85.0000
+Otter Village, 39.1186, -85.3314
+Otterbein, 40.4906, -87.0964
+Otto, 38.5708, -85.4669
+Otwell, 38.4547, -87.0922
+Our Lady of Mercy Hospital, 41.4928, -87.5233
+Owasco, 40.4608, -86.6281
+Owen, 38.4581, -85.5419
+Owensburg, 38.9231, -86.7297
+Owensville, 38.2719, -87.6878
+Oxford, 40.5197, -87.2478

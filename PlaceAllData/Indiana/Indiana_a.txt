@@ -1,0 +1,146 @@
+Aaron, 38.8831, -85.1258
+Abbey Dell, 38.5833, -86.5333
+Abels Acres, 39.2167, -85.9000
+Aberdeen, 38.9053, -84.9875
+Abington, 39.7331, -84.9631
+Aboite, 41.0008, -85.3181
+Abydel, 38.5706, -86.5611
+Acme, 38.9781, -86.0589
+Acton, 39.6556, -85.9669
+Adams(Decatur), 39.3825, -85.5600
+Adams(Morgan), 39.4822, -86.3556
+Adams Lake, 41.5333, -85.3667
+Adams Mill, 40.4806, -86.5089
+Adamsboro, 40.7844, -86.2669
+Addison, 39.5333, -85.7667
+Addmore, 38.3000, -85.7500
+Ade, 40.8683, -87.4447
+Ade Hospital, 40.8639, -87.3236
+Adel, 39.1919, -86.7958
+Advance, 39.9958, -86.6200
+Adyeville, 38.1908, -86.7694
+Aetna, 41.5919, -87.2894
+Africa, 37.8403, -87.0728
+Ainsworth, 41.4833, -87.2667
+Air Mail Field, 39.7500, -86.2333
+Aix, 41.0414, -87.1514
+Akron, 41.0383, -86.0281
+Aladdin, 40.2667, -85.6833
+Alamo, 39.9819, -87.0572
+Alaska, 39.4703, -86.6414
+Albany, 40.3008, -85.2419
+Albion(Scott), 38.7436, -85.7342
+Albion(Noble), 41.3956, -85.4244
+Aldine, 41.2008, -86.6744
+Alert, 39.1603, -85.6783
+Alexandria, 40.2628, -85.6758
+Alfont, 39.9514, -85.8147
+Alford, 38.4914, -87.2428
+Alfordsville, 38.5606, -86.9483
+Algiers, 38.4872, -87.1750
+Alida, 41.5106, -86.9031
+Allen Crossing, 39.1039, -85.3169
+Allendale, 39.3917, -87.3958
+Allens Acres, 39.8833, -86.2667
+Allensville, 38.8731, -85.0203
+Alliance, 40.0333, -85.6500
+Allisonville, 39.9050, -86.0783
+Allman, 39.6172, -86.4311
+Alma Lake, 39.5167, -87.1333
+Alpine, 39.5539, -85.1758
+Alquina, 39.6128, -85.0547
+Alta, 39.7722, -87.3867
+Alto, 40.4400, -86.1656
+Alton, 38.1225, -86.4178
+Altona, 41.3514, -85.1550
+Alvarado, 41.5767, -84.8378
+Amber Valley, 39.4833, -87.3667
+Ambia, 40.4900, -87.5169
+Ambler, 41.7158, -86.7967
+Amboy, 40.6014, -85.9289
+Americus, 40.5258, -86.7581
+Ames, 40.0333, -86.8869
+Amity, 39.4261, -86.0011
+Amo, 39.6881, -86.6136
+Amsworth, 41.4878, -87.2586
+Anderson, 40.1053, -85.6803
+Andersonville(Franklin), 39.4975, -85.2889
+Andersonville(Delaware), 40.2186, -85.4311
+Andrews, 40.8625, -85.6017
+Andrews Manor, 40.5667, -85.7000
+Andry, 41.7178, -86.7581
+Angola, 41.6347, -84.9994
+Anita, 39.4258, -86.1914
+Annandale Estates, 39.2178, -86.2661
+Annapolis, 39.8525, -87.2506
+Anoka, 40.7219, -86.2825
+Ansley Acres, 41.0783, -85.2122
+Anthony, 40.2778, -85.4361
+Anthony Wayne Village, 41.0394, -85.1056
+Antioch(Greene), 39.1667, -87.2000
+Antioch(Jay), 40.3678, -84.9422
+Antioch(Switzerland), 38.8594, -84.8839
+Antioch(Clinton), 40.2281, -86.5058
+Antiville, 40.4975, -84.9786
+Apache Acres, 39.7000, -86.8500
+Apalona, 38.1544, -86.6322
+Ar'les Acres, 40.0500, -86.0167
+Arba, 40.0108, -84.8669
+Arcadia, 40.1758, -86.0217
+Arcana, 40.5386, -85.5033
+Arcitc Spring, 38.2831, -85.7114
+Arcola, 41.1036, -85.2942
+Arctic Springs, 38.3000, -85.7500
+Arda, 38.5172, -87.2506
+Ardmore, 41.6892, -86.3175
+Argos, 41.6972, -86.2450
+Ari, 41.2636, -85.2494
+Arlington(Monroe), 39.1839, -86.5500
+Arlington(Rush), 39.6425, -85.5764
+Armiesburg, 39.7633, -87.3511
+Armstrong, 38.1092, -87.6472
+Armuth Acres, 39.2167, -85.9000
+Arney, 39.2186, -86.9317
+Aroma, 40.1994, -85.8742
+Arrowhead Park, 41.2789, -85.7900
+Art, 39.4028, -87.1553
+Arthur, 38.3406, -87.2458
+Artic, 41.4736, -84.8147
+Artist Point, 38.1608, -86.3706
+Ash Grove, 40.5478, -86.8478
+Ash Iron Springs, 38.0353, -87.1867
+Ashboro, 39.3989, -87.1058
+Ashby Yards, 38.4744, -87.2847
+Asherville, 39.4744, -87.0619
+Ashland(Henry), 39.9261, -85.3044
+Ashland(Morgan), 39.4833, -86.6000
+Ashley, 41.5272, -85.0656
+Asphaltum, 41.1003, -86.9981
+Athens, 41.0536, -86.1253
+Atherton, 39.6081, -87.3619
+Atkinson, 40.5628, -87.2467
+Atkinsonville, 39.3778, -86.8733
+Atlanta, 40.2153, -86.0264
+Attica, 40.2942, -87.2489
+Atwood, 41.2608, -85.9753
+Aubbeenaubbee, 41.1333, -86.4000
+Auburn, 41.3669, -85.0589
+Auburn Junction, 41.3519, -85.0747
+Augusta(Marion), 39.8900, -86.2122
+Augusta(Oike), 38.3314, -87.1908
+Aultshire, 40.2119, -85.3461
+Aurora, 39.0569, -84.9014
+Austin, 38.7583, -85.8081
+Avalon, 41.0161, -85.1578
+Avalon Hills, 39.8781, -86.0558
+Avery, 40.3089, -86.4406
+Avilla, 41.3658, -85.2389
+Avoca, 38.9119, -86.5478
+Avon, 39.7628, -86.3997
+Avonburg, 38.8864, -85.1722
+Avondale, 40.5667, -85.7000
+Aylesworth(Fountain), 40.2031, -87.2431
+Aylesworth(Porter), 41.3183, -87.1133
+Ayr, 41.4500, -86.0833
+Ayrshire, 38.3775, -87.2442
+Azalia, 39.0917, -85.8472

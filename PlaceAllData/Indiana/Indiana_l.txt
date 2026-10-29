@@ -1,0 +1,231 @@
+La Crosse, 41.3175, -86.8914
+La Fontaine, 40.6739, -85.7214
+La Porte, 41.6106, -86.7225
+Laconia, 38.0317, -86.0856
+Lacy, 38.6336, -86.7764
+Ladoga, 39.9136, -86.8011
+Lafayette, 40.4167, -86.8750
+Lagrange, 41.6417, -85.4167
+Lagro, 40.8381, -85.7303
+Lake Bodona, 39.6167, -86.3667
+Lake Bruce, 41.0167, -86.4500
+Lake Cicott, 40.7642, -86.5242
+Lake County Convalescent Home, 41.4511, -87.3667
+Lake Dalecarlia, 41.2833, -87.4333
+Lake Dilldear, 39.0167, -85.0667
+Lake Edgewood, 39.4167, -86.4167
+Lake Eliza, 41.4289, -87.1719
+Lake Everett, 41.1000, -85.1667
+Lake Front, 41.6500, -87.5000
+Lake Geneva, 38.7500, -85.0667
+Lake Hart, 39.6167, -86.3667
+Lake Hills, 41.4642, -87.4461
+Lake James, 41.7050, -85.0483
+Lake Latonka, 41.2167, -86.4167
+Lake Lincoln, 38.1167, -87.0000
+Lake Manitou, 41.0500, -86.1833
+Lake Maxine, 39.4500, -86.7167
+Lake McCoy, 39.3500, -85.5500
+Lake Mill, 37.9378, -87.1097
+Lake Mohee, 40.4500, -85.3667
+Lake Noji, 39.4333, -87.4000
+Lake of the Four Seasons, 41.4833, -87.3833
+Lake of the Woods, 41.4500, -86.1500
+Lake Park, 41.7047, -86.5497
+Lake Primrose, 39.4167, -86.4167
+Lake Shore, 41.7167, -86.8833
+Lake Shores, 41.0222, -85.1539
+Lake Station, 41.5750, -87.2389
+Lake Sullivan, 39.1000, -87.4167
+Lake View(Porter), 41.5247, -87.0517
+Lake View(Franklin), 39.4856, -85.2483
+Lake Village, 41.1375, -87.4486
+Lake Wood, 40.5531, -85.5681
+Lakecrest, 40.0500, -86.0167
+Lakeland, 41.7167, -86.8833
+Lakeside(Hendricks), 39.8842, -86.2850
+Lakeside(La Grande), 41.5456, -85.2208
+Lakeside(Pulaski), 40.9342, -86.7378
+Lakeside Park, 41.2522, -85.8492
+Laketon, 40.9742, -85.8358
+Lakeview, 41.5458, -85.2208
+Lakeview Estates, 39.4333, -87.4000
+Lakeview Spring, 41.2864, -85.6881
+Lakeville, 41.5244, -86.2733
+Lakewood(Carroll), 40.6864, -86.7597
+Lakewood(Vigo), 39.4333, -87.4000
+Lakewood Hills, 38.0022, -87.5136
+Lalimere, 41.7172, -86.7003
+Lamar, 38.0692, -86.9056
+Lamb, 38.6919, -85.1881
+Lamb Lake, 39.4167, -86.1500
+Lamong, 40.1333, -86.2167
+Lamplighter, 40.0500, -86.0167
+Lanam, 39.2336, -86.3275
+Lancaster(Huntington), 40.7489, -85.5069
+Lancaster(Jefferson), 38.8314, -85.5186
+Lancaster Park, 39.2103, -86.5608
+Landersdale, 39.6194, -86.2631
+Landess, 40.6108, -85.5611
+Lane, 38.2000, -87.1833
+Lanesville, 38.2369, -85.9858
+Langenbaum Lake, 41.1500, -86.4833
+Lantana Estate, 39.5042, -85.7625
+Lantern Hills, 40.5667, -85.7000
+Lantern Park, 40.1833, -85.3833
+Laotto, 41.2903, -85.1981
+Lap Corner, 39.4308, -87.0717
+LaPaz, 41.4597, -86.3083
+LaPaz Junction, 41.4594, -86.2950
+Lapel, 40.0683, -85.8483
+Lapland, 39.9050, -86.9028
+Larimer Hill, 39.4556, -87.4719
+Larwill, 41.1806, -85.6256
+Laud, 41.0494, -85.4522
+Laughery, 39.2500, -85.2500
+Lauramie, 40.2667, -86.8000
+Laurel, 39.5008, -85.1864
+Lawrence, 39.8386, -86.0253
+Lawrenceburg, 39.0908, -84.8500
+Lawrenceburg Junction, 39.1306, -84.8425
+Lawrenceport, 38.7511, -86.3878
+Lawrenceville, 39.2778, -85.0394
+Lawton, 41.0997, -86.5250
+Layton, 40.1281, -87.3333
+Leases Corner, 40.8664, -86.3742
+Leavenworth, 38.1997, -86.3442
+Lebanon, 40.0483, -86.4692
+Lee, 40.8964, -86.9681
+Leesburg(Kosciusko), 41.3319, -85.8500
+Leesburg(Allen), 41.0500, -85.1333
+Leesville, 38.8456, -86.2844
+Legendary Hills, 39.8792, -86.2622
+Leininger Acres, 40.3000, -86.0500
+Leipsic, 38.6711, -86.3697
+Leisure, 40.3642, -85.8431
+Leiters Ford, 41.1217, -86.3858
+Lena, 39.6050, -87.1072
+Leo, 41.2233, -85.0111
+Leonard Springs, 39.1406, -86.5772
+Leopold, 38.1039, -86.5833
+Leota, 38.6483, -85.8503
+Leroy, 41.3600, -87.2719
+Letts, 39.2350, -85.5650
+Letts Corner, 39.2347, -85.5750
+Lewis, 39.2667, -87.2667
+Lewis Creek, 39.4011, -85.8167
+Lewisburg, 40.7467, -86.2175
+Lewisville(Henry), 39.8067, -85.3528
+Lewisville(Owen), 39.4711, -86.6319
+Lexington(Carroll), 40.4589, -86.4889
+Lexington(Scott), 38.6522, -85.6253
+Liber, 40.4081, -84.9694
+Liberal, 38.0458, -86.9431
+Liberty, 39.6356, -84.9311
+Liberty Center, 40.6992, -85.2806
+Liberty Corners, 40.1933, -85.3300
+Liberty Hills, 41.0333, -85.2664
+Liberty Mills, 41.0336, -85.7358
+Liberty Park, 41.4325, -87.3686
+Libertyville, 39.6028, -87.5186
+Licking, 40.4333, -85.3833
+Liggett, 39.4792, -87.4836
+Ligonier, 41.4658, -85.5875
+Lilly Dale, 38.0117, -86.6514
+Lima, 41.7333, -85.4333
+Limberlost Hills, 39.4833, -87.3667
+Limedale, 39.6192, -86.8792
+Lincoln, 40.6156, -86.2100
+Lincoln City, 38.1211, -86.9986
+Lincoln Heights(Madison), 40.2667, -85.6833
+Lincoln Heights(Clark), 38.3000, -85.7500
+Lincoln Hills, 41.4683, -87.1078
+Lincoln Park, 38.3000, -85.7500
+Lincoln Village, 41.4742, -87.3819
+Lincolnshire(Allen), 41.0275, -85.1403
+Lincolnshire(Elkhart), 41.4500, -86.0000
+Lincolnshire(Grant), 40.5667, -85.7000
+Lincolnville, 40.7544, -85.6778
+Linden, 40.1881, -86.9039
+Lindenwood, 39.6586, -86.1542
+Linkville, 41.4161, -86.2869
+Linn Grove, 40.6450, -85.0331
+Linnsburg, 39.9997, -86.7997
+Linton, 39.0347, -87.1658
+Linwood(Madison), 40.1936, -85.6817
+Linwood(Marion), 39.7833, -86.1167
+Lippe, 38.0153, -87.7539
+Lisbon, 41.4111, -85.2597
+Little, 38.4833, -87.2833
+Little Acre, 39.0361, -85.8828
+Little Acres, 38.9667, -85.9667
+Little Company Of Mary Hospital, 41.1972, -86.8886
+Little Point, 39.5650, -86.6319
+Little Rock, 38.4947, -87.6792
+Little Saint Louis, 38.3028, -86.2369
+Little York, 38.7028, -85.9050
+Littles, 38.4011, -87.2872
+Liverpool, 41.5525, -87.2947
+Livonia, 38.5569, -86.2775
+Lizton, 39.8867, -86.5433
+Loafers Station, 38.1256, -87.1181
+Lochiel, 40.6642, -87.2739
+Locke, 41.4717, -86.0122
+Lockhart, 38.2833, -87.1500
+Lockport, 40.6992, -86.5736
+Locust Grove, 39.7694, -84.8519
+Locust Point, 38.1711, -85.9078
+Lodi, 39.9500, -87.4058
+Log Cabin Crossroads, 40.0253, -86.7003
+Logan(Dearborn), 39.2481, -84.8947
+Logan(Lawrence), 38.9422, -86.5081
+Logansport, 40.7544, -86.3567
+Lomax, 41.2589, -86.8717
+Lomong, 40.0856, -86.2033
+London, 39.6256, -85.9203
+London Heights, 39.6286, -85.9144
+Lone Tree, 39.1258, -87.1289
+Long Acres, 39.5500, -85.8000
+Long Beach, 41.7456, -86.8508
+Long Lake(Steuben), 41.7333, -84.8833
+Long Lake(Wabash), 41.0000, -85.7667
+Long Lake Island, 41.5217, -87.0483
+Long Run, 38.7531, -85.1178
+Longcliff Hospital, 40.7411, -86.3994
+Longnecker, 39.2667, -84.8667
+Longview Beach, 38.3000, -85.7500
+Longwood Crossing, 39.6558, -86.0456
+Loogootee, 38.6769, -86.9142
+Lookout, 39.1953, -85.2075
+Loon Lake, 41.2000, -85.4667
+Lorane, 41.2069, -85.5586
+Loree, 40.6456, -86.0581
+Losantville, 40.0242, -85.1828
+Lost Creek, 39.4833, -87.3000
+Lost River, 38.5667, -86.7667
+Lottaville, 41.5033, -87.3647
+Lottick Corner, 38.1711, -85.9403
+Lotus, 39.6131, -84.8900
+Lovett, 38.9114, -85.6331
+Lowell(Lake), 41.2914, -87.4206
+Lowell(Bartholomew), 39.2531, -85.9464
+Lower Sunset Park, 40.7069, -86.7544
+Lowman Corner, 41.0706, -86.0183
+Lowmandale, 40.0781, -85.6633
+Loyal, 41.0667, -86.2167
+Luce, 37.9167, -87.2000
+Lucerne, 40.8664, -86.4033
+Ludwig Park, 41.1364, -85.1542
+Lukens Lake, 40.9167, -85.9167
+Luray, 40.0711, -85.3669
+Luther, 41.0028, -85.5739
+Lutheran Lake, 38.9667, -85.9667
+Luxhaven, 39.9475, -85.8869
+Lydick, 41.6931, -86.3719
+Lyford, 39.6500, -87.3708
+Lyles, 38.3703, -87.6592
+Lynhurst, 39.7589, -86.2481
+Lynn, 40.0497, -84.9397
+Lynnville, 38.1961, -87.2967
+Lyons, 38.9892, -87.0822
+Lyonsville, 39.6525, -85.0539

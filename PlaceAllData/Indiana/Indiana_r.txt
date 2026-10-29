@@ -1,0 +1,193 @@
+Raab Crossroads, 39.4878, -86.9919
+Rabbitville, 38.7686, -86.4739
+Raber, 41.0858, -85.4328
+Raccoon, 39.8561, -86.8964
+Radioville, 41.1597, -86.8911
+Radley, 40.4364, -85.7336
+Radnor, 40.5094, -86.6350
+Raglesville, 38.8033, -86.9614
+Ragsdale, 38.7458, -87.3250
+Rahm, 37.8692, -87.6144
+Railroad, 41.2167, -86.8667
+Rainbow, 39.7833, -86.2167
+Rainbow Highlands, 39.8900, -85.9817
+Rainbow Ridge, 39.7833, -86.2167
+Rainsville, 40.4158, -87.3156
+Raintown, 39.8783, -86.5100
+Raleigh, 39.7439, -85.3639
+Ramsey, 38.3236, -86.1547
+Ranburn Woods, 41.5333, -87.3667
+Randall, 39.7081, -87.5225
+Randolph, 40.2661, -84.9758
+Ranger, 38.0958, -86.6856
+Rapture, 38.1522, -87.8419
+Raub, 40.7300, -87.4917
+Ravenswood, 39.8881, -86.1311
+Ravinamy, 40.4619, -86.8978
+Ray, 41.7333, -84.8833
+Raymond, 39.4717, -84.8494
+Rays Crossing, 39.5544, -85.6692
+Raysville, 39.7961, -85.5125
+Reagan, 40.1919, -86.5094
+Red Bank, 37.9714, -87.6258
+Red Bridge, 40.6000, -85.9667
+Red Bush, 37.9383, -87.2719
+Redcuff Corner, 39.1550, -87.1472
+Redding, 39.0167, -85.9333
+Reddington, 39.0325, -85.8328
+Redkey, 40.3489, -85.1500
+Redmond Park, 41.3500, -85.8167
+Reds Corner, 39.6011, -85.9717
+Reed Station, 40.2150, -85.5181
+Reedville Station, 39.7061, -85.8192
+Reelsville, 39.5575, -86.9669
+Reeve, 38.5500, -86.9833
+Rego, 38.4850, -86.3178
+Reid Memorial Hospital, 39.8456, -84.8875
+Reiffsburg, 40.6558, -85.1519
+Remington, 40.7608, -87.1508
+Renner, 40.4722, -85.4314
+Reno, 39.7103, -86.6703
+Rensselaer, 40.9367, -87.1508
+Reo, 37.9014, -87.1094
+Republican, 38.7167, -85.5500
+Reserve, 39.8167, -87.4167
+Retreat, 38.8244, -85.8533
+Rexville(Ripley), 41.5000, -87.3167
+Rexville(White), 38.9525, -85.3367
+Reynolds, 40.7494, -86.8717
+Rhodes, 39.6094, -87.4131
+Riceville, 38.3244, -86.6656
+Rich Grove, 41.1167, -86.7500
+Richey Park, 40.7500, -86.7667
+Richland(Spencer), 37.9500, -87.1667
+Richland(Rush), 39.4975, -85.3950
+Richland Center, 41.1564, -86.2706
+Richland City, 37.9453, -87.1678
+Richmond, 39.8289, -84.8903
+Richmond State Hospital, 39.8386, -84.9261
+Richvalley, 40.7850, -85.9203
+Riddle, 38.2506, -86.4306
+Ridertown, 40.4356, -85.2064
+Ridgemede, 39.1519, -86.5031
+Ridgeport, 39.0333, -86.9333
+Ridgeview, 40.7000, -86.1167
+Ridgeview Heights, 41.0500, -85.1333
+Ridgeville, 40.2892, -85.0289
+Ridgeway(Howard), 40.4892, -86.2956
+Ridgeway(Allen), 41.0167, -85.1667
+Ridgewood, 39.6033, -86.3594
+Ridgleville, 38.5667, -87.4275
+Ridinger Lake, 41.1833, -85.7000
+Rigdon, 40.3789, -85.7864
+Riley(Vigo), 39.3900, -87.3000
+Riley(Hancock), 39.7869, -85.7306
+Riley Village, 39.5064, -85.7681
+Rileysburg, 40.1042, -87.5258
+Rincon, 39.1025, -86.9903
+Ringwald, 38.7836, -85.3828
+Ripley, 41.1006, -86.6603
+Rising Sun, 38.9494, -84.8539
+Risse, 40.2750, -86.4869
+Rivare, 40.8122, -84.8414
+River Forest, 40.1097, -85.7272
+River Haven, 41.0775, -85.0542
+River Ridge, 38.3786, -85.6456
+Riverside(Fountain), 40.3250, -87.1661
+Riverside(La Porte), 41.2561, -86.8942
+Riverside(Wells), 40.6964, -85.0853
+Riverside(Clark), 38.3000, -85.7500
+Riverton, 39.0203, -87.5678
+Rivervale, 38.7689, -86.3981
+Riverview, 39.2003, -87.5836
+Riverview Acres, 39.2422, -85.9211
+Riverview Hospital, 40.0453, -86.0211
+Riverwood, 40.1006, -85.9681
+Roachdale, 39.8489, -86.8022
+Roadman Corner, 39.4742, -87.0339
+Roann, 40.9117, -85.9244
+Roanoke, 40.9625, -85.3733
+Roanoke Station, 40.9519, -85.3642
+Rob Roy, 40.2367, -87.2433
+Robb, 38.1667, -87.8167
+Roberts, 40.3161, -87.1022
+Robertsdale, 41.6831, -87.5081
+Robinson, 38.0500, -87.7500
+Robinwood, 39.4833, -87.3667
+Roble Woods, 41.5222, -87.0544
+Rochester, 41.0647, -86.2158
+Rock Hill, 37.9450, -87.0400
+Rock Island, 39.8667, -86.2333
+Rock Lake, 41.0333, -86.0333
+Rockcreek, 40.8167, -85.5333
+Rockdale, 39.3169, -84.8469
+Rockfield, 40.6411, -86.5739
+Rockford(Jackson), 38.9872, -85.8914
+Rockford(Wells), 40.7600, -85.3136
+Rocklane, 39.6097, -86.0125
+Rockport, 37.8831, -87.0494
+Rockport Junction, 38.1072, -87.0067
+Rockville, 39.7625, -87.2292
+Rocky Ford, 40.3997, -87.3281
+Rocky Fork Lake, 39.5167, -87.1333
+Rocky Ripple, 39.8481, -86.1725
+Rogers, 38.5383, -87.2239
+Rogersville, 40.0356, -85.3294
+Roland, 38.5953, -86.6819
+Roll, 40.5522, -85.3903
+Rolling Acres, 38.0500, -87.2667
+Rolling Hill Estates, 41.4772, -87.4006
+Rolling Hills(Clark), 38.4781, -85.5886
+Rolling Hills(Allen), 41.0272, -85.2681
+Rolling Hills(Grant), 40.5667, -85.7000
+Rolling Prairie, 41.6708, -86.6158
+Rolling Ridge, 39.5447, -85.7781
+Rollins, 38.6667, -86.7833
+Rome, 37.9233, -86.5236
+Rome City, 41.4961, -85.3767
+Romine Corner, 40.1419, -87.4331
+Romney, 40.2494, -86.9042
+Romona, 39.3272, -86.7300
+Root, 40.8833, -84.9333
+Rose Hill Gardens, 39.7000, -86.8500
+Rosebud, 38.5272, -86.2119
+Roseburg(Union), 39.5889, -84.9469
+Roseburg(Grant), 40.5219, -85.7294
+Rosedale, 39.6228, -87.2833
+Rosedale Hills, 39.6936, -86.1314
+Roseland, 41.7161, -86.2525
+Roselawn, 41.1417, -87.3147
+Rosewood, 38.0381, -85.9292
+Ross, 41.5267, -87.3747
+Rossburg, 39.3258, -85.3261
+Rosston, 40.0486, -86.2892
+Rosstown, 39.1092, -85.9294
+Rossville, 40.4169, -86.5947
+Roth Park, 40.6864, -86.7492
+Round Grove, 40.5903, -87.0303
+Round Lake, 41.4333, -85.2667
+Royal Center, 40.8644, -86.4997
+Royal Oaks, 41.1267, -85.0747
+Royal View, 39.2167, -85.9000
+Royalton, 39.9269, -86.3383
+Royer Lake, 41.6500, -85.4167
+Royerton, 40.2636, -85.3656
+Royville, 41.1997, -85.1331
+Rugby, 39.3092, -85.7147
+Rumble, 38.4358, -87.3428
+Runyantown, 38.4894, -85.6147
+Rural, 40.1067, -84.9661
+Rush Creek Valley, 38.6953, -86.1706
+Rush Memorial Hospital, 39.6208, -85.4444
+Rushville, 39.6092, -85.4464
+Rusk, 38.5572, -86.7569
+Russell, 39.8333, -86.9667
+Russell Lake, 39.9486, -86.3017
+Russellville, 39.8583, -86.9839
+Russels Point, 41.5539, -84.9242
+Russiaville, 40.4175, -86.2714
+Rustic Hills, 37.9556, -87.3675
+Rutherford, 38.5667, -86.8833
+Rutland, 41.2444, -86.3572
+Ryan Place, 37.9333, -87.9000
+Rykers Ridge, 38.7500, -85.3167

@@ -1,0 +1,333 @@
+Babcock, 41.5725, -87.1050
+Bacon, 38.4106, -86.4333
+Badger Grove, 40.5836, -86.9636
+Baileys Corner, 41.0708, -86.9983
+Bainbridge, 39.7611, -86.8119
+Bainter Town, 41.5169, -85.8172
+Bakalar Air Force Base, 39.2525, -85.8950
+Baker, 39.3667, -86.5333
+Bakers Corner, 40.1306, -86.1375
+Bakertown, 41.3664, -85.3572
+Balbec, 40.5308, -85.1489
+Balbee, 40.5000, -85.1500
+Bald Knobs, 39.0200, -86.1706
+Baldridge, 39.2231, -87.3722
+Baldwin Heights, 38.4000, -87.5833
+Ball Memorial Hospital, 40.1967, -85.4147
+Ball State University, 40.2167, -85.4000
+Ballstown, 39.2506, -85.2442
+Bandmill, 38.5383, -87.6028
+Bandon, 38.1372, -86.6003
+Banning Corner, 40.3664, -87.1625
+Banquo, 40.6964, -85.6197
+Banta, 39.5239, -86.2503
+Bar-Barry Heights, 40.4561, -86.9158
+Barbee, 41.2908, -85.7122
+Barbersville, 38.9058, -85.2808
+Barce, 40.6208, -87.2767
+Bargersville, 39.5208, -86.1678
+Barkley, 41.0333, -87.0667
+Barnaby Acres, 39.2167, -85.9000
+Barnard, 39.8486, -86.7006
+Barnhart Town, 39.5039, -87.4356
+Barr, 38.6833, -87.0167
+Barrett, 38.2006, -87.8694
+Barrick Corner, 39.2561, -87.0733
+Bartlettsville, 38.9703, -86.4419
+Bartley, 39.7000, -86.8500
+Barton, 38.2500, -87.3833
+Bartonia, 40.1153, -84.8511
+Bascom Corner, 38.9089, -84.9686
+Bass Lake, 41.2072, -86.6019
+Bass Station, 41.1853, -86.6022
+Batesville, 39.3000, -85.2222
+Bath, 39.5083, -84.8625
+Battle Ground, 40.5083, -86.8417
+Baugh City, 37.9581, -87.4117
+Baugo, 41.6667, -86.0333
+Bayfield, 41.2747, -85.7069
+Beal, 38.5833, -87.6333
+Beanblossom, 39.2669, -86.2492
+Bear Branch, 38.9128, -85.0750
+Bear Lake, 41.4000, -85.4333
+Bear Wallow, 39.3236, -86.3689
+Bearcreek, 40.5333, -84.9333
+Beard, 40.3736, -86.4506
+Beardstown, 41.1381, -86.6025
+Beatrice, 41.4269, -87.1894
+Beatty Memorial Hospital, 41.5261, -86.9086
+Beattys Corner, 41.6222, -86.8939
+Beatys Beach, 41.6842, -85.6036
+Beaver City, 40.9069, -87.4156
+Beaver Dam, 41.0667, -86.0000
+Becks Grove, 39.0792, -86.1167
+Becks Mill, 38.5353, -86.1556
+Beckville, 40.0106, -86.7097
+Bedford, 38.8611, -86.4872
+Bedford Heights, 38.8500, -86.5000
+Bee Ridge, 39.5369, -87.1694
+Beecamp, 38.7500, -85.3167
+Beech Brook, 39.5522, -85.7978
+Beech Creek, 39.1167, -86.7500
+Beech Grove(Morgan), 39.5172, -86.4464
+Beech Grove(Marion), 39.7219, -86.0900
+Beechwood, 38.2067, -86.4244
+Beehunter, 38.9561, -87.1211
+Beesons, 39.7219, -85.1986
+Behlmer Corner, 39.2025, -85.1697
+Belknap(Clark), 38.3167, -85.7333
+Belknap(Vanderburgh), 37.9833, -87.6881
+Bell Center, 40.8686, -86.6392
+Bell Rohr Park, 41.3317, -85.7811
+Belle Arbor, 39.7203, -85.9875
+Belle Union, 39.5731, -86.7061
+Belleview, 38.8558, -85.3781
+Belleville, 39.6772, -86.4883
+Bellfountain, 40.4333, -84.8636
+Bellmore, 39.7592, -87.1053
+Belmont(Henry), 39.9217, -85.3497
+Belmont(Brown), 39.1519, -86.3472
+Belshaw, 41.2564, -87.4533
+Ben Davis, 39.7500, -86.2333
+Benefiel Corner, 39.1283, -87.4089
+Bengal, 39.4733, -85.9228
+Benham, 38.9836, -85.2503
+Bennetts Switch, 40.5850, -86.1128
+Bennettsville, 38.4256, -85.8086
+Bennington, 38.8589, -85.1406
+Benton, 41.5092, -85.7611
+Bentonville, 39.7453, -86.1942
+Benwood, 39.5611, -87.1142
+Berlien, 41.6367, -84.8767
+Berne, 40.6578, -84.9519
+Berwick Manor, 39.5500, -85.8000
+Bethany(Bartholomew), 39.1739, -86.0653
+Bethany(Morgan), 39.5325, -86.3758
+Bethany(Parke), 39.8542, -87.1472
+Bethel(Posey), 38.2167, -87.9333
+Bethel(Delaware), 40.2500, -85.5339
+Bethel(Wayne), 39.9867, -84.8303
+Bethel Village, 39.1519, -85.9247
+Bethlehem, 38.5392, -85.4206
+Between-the-Lakes Park, 41.3247, -85.7367
+Beverly Hill, 41.5489, -86.9856
+Beverly Shores, 41.6925, -86.9775
+Bicknell, 38.7742, -87.3078
+Big Creek, 40.6833, -86.8667
+Big Hill, 41.0453, -86.1958
+Big Lake, 41.2000, -85.4667
+Big Springs, 40.0703, -86.2606
+Bigger, 38.9500, -85.5000
+Billings VA Hospital, 39.8603, -85.9958
+Billingsville, 39.5558, -84.9097
+Billtown, 39.5100, -87.1861
+Billville, 39.5036, -87.1256
+Bippus, 40.9442, -85.6239
+Birchim, 41.7103, -86.6028
+Birdseye, 38.3167, -86.6958
+Birmingham, 40.9378, -86.1094
+Black, 37.9667, -87.9000
+Black Oak(Daviess), 38.6625, -87.0811
+Black Oak(Lake), 41.5661, -87.3936
+Black Point, 41.4050, -85.6836
+Black Rock, 40.3678, -87.0969
+Blackhawk(Vigo), 39.3089, -87.3003
+Blackhawk(Allen), 41.1000, -85.1333
+Blackhawk Beach, 41.5178, -87.0411
+Blackhawk Forest, 41.1000, -85.1333
+Blackiston Heights, 38.3000, -85.7500
+Blackiston Mill, 38.3356, -85.7981
+Blackiston Village, 38.3000, -85.7500
+Blaine, 40.4025, -85.0561
+Blairsville, 38.0789, -87.7619
+Blanford, 39.6650, -87.5206
+Blocher, 38.7181, -85.6567
+Bloods Wood Crossing, 38.5386, -87.6303
+Bloomer, 40.0839, -85.7681
+Bloomfield(Greene), 39.0269, -86.9375
+Bloomfield(Jay), 40.5117, -84.9739
+Bloomfield(Spencer), 38.0244, -87.0964
+Blooming Grove, 39.5022, -85.0647
+Bloomingdale, 39.8333, -87.2497
+Bloomingport, 40.0269, -84.9947
+Bloomington, 39.1653, -86.5264
+Blountsville, 40.0600, -85.2403
+Blue, 38.9250, -85.0047
+Blue Creek(Franklin), 39.2333, -85.1000
+Blue Creek(Adams), 40.7000, -84.8500
+Blue Lake, 41.2333, -85.3167
+Blue Lick, 38.5083, -85.8047
+Blue Ridge, 39.5192, -85.6356
+Blue River, 38.5300, -85.9394
+Bluegrass, 41.0167, -86.4000
+Bluff Creek, 39.5575, -86.2208
+Bluff Point, 40.3458, -84.9772
+Bluffs, 39.5689, -86.2511
+Bluffside, 41.6167, -86.7333
+Bluffton, 40.7386, -85.1717
+Bobtown, 39.0194, -85.9461
+Boehne Hospital, 37.9881, -87.6461
+Bogard, 38.7833, -87.0667
+Boggstown, 39.5631, -85.9164
+Bogle Corner, 39.1775, -87.1847
+Bolivar(Wabash), 40.9642, -85.7875
+Bolivar(Benton), 40.5167, -87.1500
+Bonair, 41.5000, -87.3167
+Bonds, 38.6811, -86.6294
+Bonnell, 39.1683, -84.9742
+Bonnenburger, 38.3000, -85.7500
+Bonneyville Mills, 41.7181, -85.7653
+Bono(Lawrence), 38.7314, -86.3211
+Bono(Vermillion), 39.7603, -87.4939
+Boon, 38.0667, -87.2667
+Boone Grove, 41.3547, -87.1294
+Boonville, 38.0492, -87.2742
+Borden, 38.4667, -85.9458
+Boston, 39.7411, -84.8519
+Boston Corner, 40.9483, -84.9003
+Boswell, 40.5211, -87.3783
+Boundary City, 40.3444, -84.9219
+Bourbon, 41.2956, -86.1164
+Bowers, 40.1569, -86.7247
+Bowerstown, 40.8886, -85.4425
+Bowling Green, 39.3831, -87.0117
+Bowman, 38.4964, -87.3469
+Boxley, 40.1661, -86.1756
+Boyd, 39.7186, -85.5511
+Boyleston, 40.2864, -86.3947
+Bracken, 40.9867, -85.6239
+Bradfield Corner, 39.7322, -87.2989
+Bradford, 38.3678, -86.0619
+Bradford Park, 40.1833, -85.4333
+Bradford Village, 40.5667, -85.7000
+Bradley, 38.0167, -87.0333
+Bramble, 38.7167, -86.9167
+Branchville, 38.1636, -86.5797
+Braxton, 38.5667, -86.4667
+Braysville(Dearborn), 39.2881, -84.8697
+Braysville(Owen), 39.2117, -86.7744
+Braytown, 38.7306, -85.1586
+Brazil, 39.5236, -87.1250
+Breckenridge, 38.2178, -86.0331
+Breezewood, 40.5667, -85.7000
+Breezewood Park, 40.1833, -85.3833
+Breezy Point, 40.6919, -86.7531
+Bremen, 41.4464, -86.1481
+Brems, 41.3392, -86.6975
+Brendan Wood, 40.0672, -86.4689
+Brendonwood, 39.8578, -86.0639
+Brent Woods, 39.5383, -85.7569
+Brentwood, 40.0975, -85.7153
+Bretzville, 38.2994, -86.8731
+Brewersville, 39.0844, -85.6117
+Brewington Woods, 40.1833, -85.3833
+Briarwood, 39.5508, -86.5067
+Brice, 40.4181, -84.8964
+Brick Chapel, 39.7117, -86.8692
+Bridgeport(Marion), 39.7322, -86.3172
+Bridgeport(Harrison), 38.1761, -85.9064
+Bridgeton, 39.6450, -87.1775
+Brierwood Hills, 41.0553, -85.2342
+Briggs, 41.0856, -85.4703
+Bright, 39.2183, -84.8561
+Brighton, 41.7222, -85.3111
+Brightwood, 39.8000, -86.1000
+Brimfield, 41.4542, -85.3981
+Brinckley, 40.2500, -85.1667
+Bringhurst, 40.5253, -86.5250
+Brinker Heights, 40.5667, -85.7000
+Brisco, 40.4111, -87.3583
+Bristol, 41.7214, -85.8175
+Bristow, 38.1400, -86.7217
+Broad Ripple, 39.8667, -86.1167
+Broadmoor, 39.8489, -86.2142
+Broadview(Grant), 40.5667, -85.7000
+Broadview(Monroe), 39.1397, -86.5383
+Broadview Park Plaza, 38.8500, -86.5000
+Bromer, 38.5936, -86.3358
+Brook, 40.8664, -87.3636
+Brook Knoll, 38.8500, -86.5000
+Brook Trails, 41.7167, -86.2500
+Brookfield, 39.6378, -85.9428
+Brookhaven, 40.5197, -85.6158
+Brooklyn, 39.5392, -86.3692
+Brookmoor, 39.5675, -86.3747
+Brooks, 40.0500, -86.0167
+Brooksburg, 38.7364, -85.2436
+Brookside Estates(Allen), 41.1467, -85.0792
+Brookside Estates(Vigo), 39.4333, -87.4000
+Brookston, 40.6028, -86.8672
+Brookville, 39.4231, -85.0128
+Brookville Heights, 39.7244, -85.9067
+Brookwood(Kosciusko), 41.2333, -85.8500
+Brookwood(Lake), 41.5000, -87.3167
+Broom Hill, 38.4489, -85.8775
+Brown Jug Corner, 39.2881, -87.2589
+Brown Landing, 37.9922, -86.0311
+Browns Corner, 40.8150, -85.4117
+Browns Crossing, 39.4064, -86.5056
+Browns Valley, 39.9031, -86.9919
+Brownsburg, 39.8433, -86.3978
+Brownstown(Crawford), 38.3333, -86.4667
+Brownstown(Jackson), 38.8789, -86.0419
+Brownsville, 39.6644, -85.0047
+Browntown, 38.3808, -86.5031
+Bruce Lake Station, 41.0694, -86.4147
+Bruce(Lake), 41.0703, -86.4644
+Bruceville, 38.7594, -87.4156
+Brummitt Acres, 41.6189, -87.0169
+Brunerstown, 39.6525, -86.9983
+Brunswick(Lake), 41.3778, -87.5081
+Brunswick(Clay), 39.1969, -87.1200
+Brushy Prairie, 41.6417, -85.2475
+Bryant, 40.5333, -84.9639
+Bryantsburg, 38.8858, -85.3744
+Bryantsville, 38.7686, -86.5731
+Buchanan Corner, 39.1925, -87.2033
+Buck Creek(Hancock), 39.8167, -85.9000
+Buck Creek(Tippecanoe), 40.4878, -86.7614
+Buckeye, 40.6911, -85.3539
+Buckskin, 38.2283, -87.4119
+Bucktown, 38.9947, -87.2600
+Bud, 39.4469, -86.1758
+Buddha, 38.7919, -86.4067
+Buena Vista(Harrison), 38.0589, -85.9800
+Buena Vista(Randolph), 40.1206, -85.0731
+Buena Vista(Franklin), 39.4389, -85.2725
+Buffalo(Ohio), 39.0206, -84.8839
+Buffalo(White), 40.8825, -86.7453
+Buffaloville, 38.0975, -86.9653
+Buffington, 41.6372, -87.4258
+Bufkin, 37.9878, -87.8458
+Bugtown, 38.1667, -87.7833
+Bullocktown, 37.9747, -87.2228
+Bunker Hill(Morgan), 39.5664, -86.4414
+Bunker Hill(Washington), 38.6000, -86.1000
+Bunker Hill(Fayette), 39.6333, -85.9142
+Bunker Hill(Knox), 38.7500, -87.5167
+Bunker Hill(Miami), 40.6603, -86.1028
+Burdick, 41.6011, -86.9728
+Burge Terrace, 39.7433, -85.9964
+Burglen Hills, 37.9500, -86.7667
+Burket, 41.1553, -85.9686
+Burlington, 40.4803, -86.3947
+Burlington Beach, 41.5058, -87.0453
+Burnett, 39.5428, -87.2956
+Burnettsville, 40.7611, -86.5936
+Burney, 39.3172, -85.6403
+Burns City, 38.8225, -86.8869
+Burns Harbor, 41.6181, -87.1333
+Burnsville, 39.1728, -85.7403
+Burr Oak(Putnam), 41.3231, -85.4331
+Burr Oak(Marshall), 41.2564, -86.4153
+Burrows, 40.6767, -86.5075
+Bushrod, 38.9689, -87.1089
+Busseron, 38.8356, -87.4492
+Butler, 41.4297, -84.8714
+Butler Center, 41.3083, -85.1367
+Butlerville, 39.0344, -85.5128
+Buttermilk Point, 41.3772, -85.6742
+Byrneville, 38.3275, -86.0436
+Byron(La Porte), 41.6561, -86.6247
+Byron(Parke), 39.9036, -87.1056
+Byron Sanatorium, 41.1997, -85.1728

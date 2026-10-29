@@ -1,0 +1,291 @@
+Wa-Will-Away Park, 41.2900, -85.7781
+Wabash, 40.7978, -85.8206
+Wabash Sanitarium, 40.4594, -86.8939
+Wabash Shores, 40.4492, -86.9108
+Waco, 38.5353, -87.0403
+Wadena, 40.6933, -87.2767
+Wadesville, 38.1025, -87.7861
+Wagoner, 41.0142, -86.1492
+Wakarusa, 41.5333, -86.0667
+Wake Robin Fields, 41.6150, -87.0261
+Wakefield, 38.7872, -85.5600
+Wakefield Village, 41.4333, -85.2667
+Wakeland, 39.4692, -86.5753
+Wakeville Village, 41.4631, -85.2569
+Wald View, 41.4003, -87.3547
+Walden, 41.1000, -85.1333
+Waldron, 39.4536, -85.6669
+Waldron Lake, 41.4667, -85.4833
+Walesboro, 39.1453, -85.9144
+Walford Manor, 38.3000, -85.7500
+Walker Park, 41.3294, -85.7533
+Walkerton, 41.4667, -86.4831
+Walkerville, 39.5278, -85.7631
+Wall Lake, 41.7333, -85.1667
+Wallace, 39.9864, -87.1483
+Wallace Junction, 39.4636, -86.7269
+Wallen, 41.1611, -85.1661
+Walnut, 41.1761, -86.2119
+Walnut Gardens, 40.6989, -86.7544
+Walnut Grove, 40.1619, -85.9397
+Walnut Heights, 38.8500, -86.5000
+Walnut Level, 39.8833, -85.0333
+Walnut Ridge(Clark), 38.3000, -85.7500
+Walnut Ridge(Jennings), 38.9250, -85.5561
+Walter Hospital, 41.6856, -86.8931
+Walton, 40.6608, -86.2419
+Waltz, 40.7000, -85.8500
+Wanamaker, 39.7044, -86.0097
+Wanatah, 41.4306, -86.8983
+Wanda Lake, 39.4667, -87.4333
+Ward, 40.2667, -84.9667
+Warren, 40.6828, -85.4272
+Warren Hills, 39.7819, -85.9975
+Warren Park, 39.7819, -86.0503
+Warrenton, 38.1731, -87.5328
+Warrington, 39.9075, -85.6339
+Warsaw, 41.2381, -85.8531
+Washington, 38.6592, -87.1728
+Washington Center, 41.2000, -85.4667
+Washington Place, 39.7769, -86.0164
+Waterford, 41.6714, -86.8450
+Waterford Mills, 41.5431, -85.8306
+Waterloo(De Kalb), 41.4319, -85.0200
+Waterloo(Fayette), 39.7036, -85.1031
+Waterloo(Johnson), 39.5625, -86.1975
+Wathen Heights, 38.3000, -85.7500
+Watson, 38.3486, -85.7000
+Waugh, 40.0844, -86.3067
+Wauhob Lake, 41.4833, -87.3833
+Waveland, 39.8769, -87.0444
+Waverly, 39.5569, -86.2714
+Waverly Woods, 39.5514, -86.2697
+Wawaka, 41.4569, -85.4822
+Wawasee Village, 41.4144, -85.7475
+Wawpecong, 40.5783, -86.0422
+Waycross, 39.3036, -86.3442
+Waymansville, 39.0631, -86.0431
+Wayne, 39.8878, -84.9256
+Wayne Center, 41.4817, -85.2508
+Waynedale, 41.0219, -85.1756
+Waynesburg, 39.2111, -85.6694
+Waynesville, 39.1150, -85.8917
+Waynetown, 40.0875, -87.0597
+Wea, 40.3667, -86.8833
+Weaver, 40.4653, -85.7292
+Webers Landing, 41.5389, -85.3942
+Webster, 39.9033, -84.9453
+Weddleville, 38.8386, -86.2203
+Wegan, 38.8269, -86.0192
+Weisburg, 39.2181, -85.0461
+Wellington Heights, 39.5175, -85.7633
+Wells, 40.7322, -86.1111
+Wellsboro, 41.4972, -86.7653
+Wellsburg, 40.6661, -85.2217
+Wenmeir, 39.2167, -85.9000
+Wesley, 40.0678, -87.0067
+Wesley Manor, 40.2964, -86.5119
+West, 41.3333, -86.4000
+West Atherton, 39.6167, -87.3500
+West Baden Springs, 38.5672, -86.6283
+West Brook Acres, 39.3000, -85.2167
+West Brook Downs, 39.2144, -86.6011
+West Clinton, 39.6944, -87.5253
+West College Corner, 39.5675, -84.8161
+West Creek, 41.2667, -87.4667
+West Dana, 39.7561, -87.5244
+West Elwood, 40.2797, -85.8606
+West Fork, 38.2336, -86.5264
+West Franklin, 37.8950, -87.7128
+West Glen Park, 41.5333, -87.3667
+West Harrison, 39.2608, -84.8208
+West Haven, 41.2333, -85.8500
+West Indianapolis, 39.7500, -86.1833
+West Lafayette, 40.4258, -86.9081
+West Lebanon, 40.2700, -87.3867
+West Liberty(Howard), 40.4306, -85.8906
+West Liberty(Jay), 40.5333, -84.9667
+West Linton, 39.0333, -87.1667
+West Middleton, 40.4394, -86.2161
+West Muncie, 40.1708, -85.4814
+West Newton, 39.6531, -86.2828
+West Noblesville, 40.0481, -86.0208
+West Peru, 40.7000, -86.1167
+West Petersburg, 38.4875, -87.2892
+West Terre Haute, 39.4650, -87.4500
+West Union, 39.8436, -87.3367
+Westacres, 40.1833, -85.3833
+Westchester(Allen), 41.0267, -85.1286
+Westchester(Jay), 40.4983, -84.8950
+Westchester(Porter), 41.6333, -87.0500
+Westchester Estates, 39.8972, -86.2078
+Western Acres, 41.5992, -87.0836
+Western Hills, 37.9333, -87.9000
+Western Village, 40.1081, -85.7172
+Westfield(Hamilton), 40.0428, -86.1275
+Westfield(St Joseph), 41.6756, -86.3803
+Westhill, 41.4647, -87.0972
+Westland, 39.7667, -85.6167
+Westlawn, 41.0803, -85.2275
+Westlea, 40.5667, -85.7000
+Westmoor, 41.0692, -85.2106
+Westover, 39.8994, -86.2275
+Westphalia, 38.8628, -87.2256
+Westpoint, 40.3450, -87.0431
+Westport, 39.1758, -85.5731
+Westport Addition, 40.1833, -85.3833
+Westside, 39.0639, -84.9072
+Westville, 41.5414, -86.9006
+Westwood(Henry), 39.9192, -85.4169
+Westwood(Marion), 39.7867, -86.3264
+Wey Lake, 39.5167, -87.2333
+Wheatfield, 40.5644, -87.1069
+Wheatland, 38.6636, -87.3094
+Wheatonville, 38.1872, -87.4614
+Wheeler, 41.5117, -87.1792
+Wheeling(Carroll), 40.5661, -86.3917
+Wheeling(Gibson), 38.4131, -87.4553
+Wheeling(Delaware), 40.3636, -85.4642
+Whiskey Run, 38.3500, -86.3000
+Whitaker, 39.3797, -86.6075
+Whitcomb, 39.4483, -84.9369
+Whitcomb Heights, 39.4883, -87.4547
+White Cloud, 38.2281, -86.2244
+White Post, 41.0333, -86.8667
+White Ridge, 40.5667, -85.7000
+White River, 38.3942, -87.7531
+White River Bluffs, 38.8500, -86.5000
+White Rose, 39.0311, -87.2228
+White Sulphur Springs, 38.3856, -87.0919
+Whitehall, 39.1742, -86.6844
+Whiteland, 39.5500, -86.0797
+Whiteoak, 38.4094, -87.1464
+Whites Crossing, 39.0333, -87.1667
+Whitestown, 39.9972, -86.3458
+Whitesville, 39.9653, -86.8336
+Whitewater, 39.9447, -84.8311
+Whitfield, 38.6186, -86.9128
+Whiting, 41.6797, -87.4944
+Wickliffe, 38.3683, -86.6411
+Widner, 38.8500, -87.3333
+Wilbur, 39.5161, -86.4886
+Wildcat, 40.3667, -85.9167
+Wilders, 41.2667, -86.8961
+Wildwood(Grant), 40.5667, -85.7000
+Wildwood(Steuben), 41.5947, -85.1894
+Wildwood Lake, 38.5667, -86.4667
+Wildwood Landing, 41.5833, -85.2000
+Wilfred, 39.1867, -87.3525
+Wilkinson, 39.8858, -85.6089
+Williams(Adams), 40.9189, -84.9753
+Williams(Lawrence), 38.8044, -86.6472
+Williams Creek, 39.8997, -86.1503
+Williamsburg, 39.9508, -84.9964
+Williamsport, 40.2883, -87.2939
+Williamstown, 39.3500, -85.5500
+Willis, 38.5533, -87.3572
+Willisville, 38.4508, -87.2956
+Willow Branch, 39.8761, -85.6844
+Willow Creek, 41.5864, -87.1833
+Willow Valley, 38.6939, -86.7197
+Willowbrook Estates, 39.4775, -86.3650
+Wills, 41.6500, -86.5667
+Wilmington(Dearborn), 39.0625, -84.9467
+Wilmington(De Kalb), 41.4000, -84.9167
+Wilmot, 41.3100, -85.6417
+Wilshire, 40.2756, -86.4886
+Wilson(Porter), 41.6197, -87.1592
+Wilson(Shelby), 39.5500, -85.8000
+Wilson(Clark), 38.4444, -85.8297
+Wilson Corner, 39.4383, -85.7553
+Wilson Lake, 41.2000, -85.4667
+Winamac, 41.0514, -86.6031
+Winchester, 40.1719, -84.9814
+Windemere Lake, 39.4667, -87.4333
+Windfall, 40.3631, -85.9564
+Windom, 38.5739, -86.7978
+Windsor, 40.1544, -85.2128
+Windsor Village, 39.7833, -86.0667
+Winfield, 41.4053, -87.2786
+Wingate, 40.1722, -87.0728
+Winona, 41.2361, -86.5694
+Winona Lake, 41.2272, -85.8219
+Winona Memorial Hospital, 39.8142, -86.1581
+Winslow, 38.3822, -87.2128
+Winthrop, 40.3700, -87.2339
+Wirt, 38.8094, -85.4536
+Wiser, 39.6122, -86.2936
+Witham Hospital, 40.0569, -86.4714
+Witmer Manor, 41.5375, -85.3864
+Witts, 39.6333, -84.9333
+Witts Station, 39.7122, -84.8617
+Wolcott, 40.7581, -87.0417
+Wolcottville, 41.5258, -85.3667
+Wolff, 39.4331, -86.3953
+Wolfington, 39.8306, -86.2164
+Wolflake, 41.3350, -85.4958
+Wonder Lake, 39.4333, -87.4000
+Wood, 38.4500, -85.9333
+Woodburn, 41.1253, -84.8533
+Woodbury, 39.9086, -85.8950
+Woodcrest, 39.4375, -86.3947
+Woodgate, 39.3847, -87.3853
+Woodland, 41.5644, -86.1772
+Woodland Heights, 40.5667, -85.7000
+Woodland Lake, 39.3667, -86.2500
+Woodland Park(Delaware), 40.1967, -85.3081
+Woodland Park(La Grande), 41.5544, -85.2397
+Woodland Trace, 39.9667, -86.1167
+Woodlawn Grove, 38.5781, -86.4581
+Woodlawn Heights, 40.1189, -85.6936
+Woodmar, 41.5850, -87.4903
+Woodridge, 39.4833, -87.3667
+Woodruff, 41.5733, -85.3289
+Woodruff Place, 39.7833, -86.1167
+Woodside Park, 40.2906, -86.5269
+Woodstock(Jackson), 38.9667, -85.9667
+Woodstock(Marion), 39.8275, -86.1847
+Woodville, 41.5628, -87.0414
+Woodville Hills, 39.1503, -86.3833
+Wooley Corner, 40.0108, -87.1653
+Wooster(Kosciusko), 41.2092, -85.7428
+Wooster(Scott), 38.7367, -85.6928
+Worth, 40.0000, -86.3500
+Worthington, 39.1250, -86.9794
+Wright, 39.1167, -87.1833
+Wright Manor, 41.5000, -87.3167
+Wrights Corners, 39.1356, -84.9572
+Wyandot, 40.3453, -86.7494
+Wyandotte, 38.2286, -86.2947
+Wyatt, 41.5258, -86.1694
+Wynnedale, 39.8311, -86.1975
+Yankee Town, 39.6956, -84.9856
+Yankeetown, 37.9175, -87.2978
+Yeagers Curve, 40.6986, -87.4392
+Yeddo, 40.0114, -87.2600
+Yellow Creek Lake, 41.1333, -85.8833
+Yellowbanks, 41.3217, -85.6789
+Yellowstone, 38.9989, -86.3425
+Yenne, 38.5478, -86.7936
+Yeoman, 40.6678, -86.7242
+Yockey, 38.7881, -86.4931
+Yoder, 40.9311, -85.1767
+York, 41.6883, -84.8225
+Yorktown, 40.1736, -85.4942
+Yorkville, 39.2044, -84.9675
+Young, 39.6103, -86.3375
+Young America, 40.5686, -86.3467
+Youngs Corner, 39.3542, -85.0575
+Youngs Creek, 38.4767, -86.4956
+Youngstown, 39.3622, -87.3822
+Youngstown Acres, 39.4333, -87.4000
+Youngstown Meadows, 39.4333, -87.4000
+Yountsville, 40.0247, -86.9800
+Yule Estates, 40.2667, -85.6833
+Zanesville, 40.9172, -85.2806
+Zeigler, 41.6983, -86.4336
+Zelma, 38.9339, -86.3019
+Zenas, 39.1200, -85.4750
+Zionsville, 39.9508, -86.2619
+Zoar, 38.2692, -87.0731
+Zulu, 41.0369, -85.0000

@@ -1,0 +1,169 @@
+Fair Acres, 38.0181, -86.2317
+Fair Grounds, 39.8333, -86.1500
+Fair Oaks, 41.0750, -87.2575
+Fairbanks, 39.2194, -87.5222
+Fairdale, 38.3261, -86.1711
+Fairfax(Allen), 41.0419, -85.0883
+Fairfax(Madison), 40.1042, -85.6500
+Fairfield, 41.0500, -85.1500
+Fairfield Center, 41.4825, -85.1281
+Fairland, 39.5858, -85.8636
+Fairlawn, 39.2167, -85.9000
+Fairmount, 40.4153, -85.6506
+Fairplay, 39.0333, -87.0000
+Fairview(Switzerland), 38.8733, -85.0808
+Fairview(Washington), 38.7381, -86.2675
+Fairview(Rush), 39.6856, -85.3011
+Fairview(Randolph), 40.2981, -85.1953
+Fairview Park, 39.6803, -87.4175
+Fairwood Hills, 39.8833, -86.0300
+Fall Creek Highlands, 39.8967, -85.9911
+Falmouth, 39.7008, -85.3011
+Farabee, 38.5569, -86.0158
+Fargo(Benton), 40.5189, -87.2794
+Fargo(Orange), 38.4000, -86.4833
+Farlen, 38.8506, -86.9228
+Farleys Addition, 39.7833, -86.2789
+Farmers(Owen), 39.1753, -86.8917
+Farmers(Rush), 39.6989, -85.5372
+Farmers Retreat, 38.9667, -85.1000
+Farmersburg, 39.2486, -87.3819
+Farmersville, 37.9803, -87.8961
+Farmington, 39.6181, -85.3589
+Farmland, 40.1878, -85.1275
+Farnsworth, 39.0992, -87.3236
+Farrabee, 38.6000, -86.1000
+Farrville, 40.5811, -85.4664
+Fayette(Boone), 39.9311, -86.3972
+Fayette(Vigo), 39.5667, -87.4667
+Fayetteville, 38.8608, -86.5953
+Federal Hill, 40.0500, -86.0167
+Fenn Haven, 37.9314, -86.7567
+Fenns, 39.4575, -85.7978
+Ferdinand, 38.2239, -86.8622
+Ferguson Hill, 39.4817, -87.4564
+Fern, 39.6500, -86.8667
+Ferndale, 39.7072, -87.0669
+Fewell Rhoades, 39.4214, -86.3994
+Fiat, 40.5533, -85.1500
+Fickle, 41.5833, -87.3500
+Fieldcrest, 40.2167, -86.0333
+Fields, 39.5461, -86.3333
+Fillmore, 39.6675, -86.7533
+Fincastle, 39.8081, -86.8950
+Finley, 38.6833, -85.8500
+Finly, 39.7050, -85.8228
+Fish Lake(La Grande), 41.6500, -85.4167
+Fish Lake(La Porte), 41.5667, -86.5519
+Fisher's Woodland, 40.0500, -86.0167
+Fishers, 39.9556, -86.0139
+Fishersburg, 40.0719, -85.8594
+Fisherville, 38.0453, -87.4331
+Fishtown, 38.0694, -85.9175
+Fiskville, 40.0486, -86.8947
+Five Points(Allen), 41.1167, -84.8500
+Five Points(Morgan), 39.5814, -86.3169
+Five Points(Swizerland), 38.7467, -85.1750
+Five Points(Jefferson), 38.8461, -85.5092
+Five Points(Knox), 38.6103, -87.3481
+Five Points(Wells), 40.5817, -85.3200
+Five Points(Whitley), 41.1928, -85.4917
+Five Points(Union), 39.7119, -84.8519
+Five Points(Warren), 40.3167, -87.3200
+Five Points Corner, 41.3328, -87.0358
+Flackville, 39.7833, -86.2167
+Flat Iron, 40.0533, -87.4900
+Flat Rock, 39.3642, -85.8317
+Flat Rock Park, 39.2528, -85.9156
+Fleener, 39.2825, -86.4125
+Fleming, 38.9736, -85.8064
+Fletcher, 40.9119, -86.3328
+Flint, 41.6500, -85.1272
+Flintwood, 39.2167, -85.9000
+Flora(Miami), 40.7339, -86.1000
+Flora(Carroll), 40.5472, -86.5244
+Florence, 38.7842, -84.9244
+Florida(Madison), 40.1603, -85.7103
+Florida(Parke), 39.6333, -87.4167
+Floyd, 39.7333, -86.7333
+Floyds Knobs, 38.3244, -85.8736
+Foley, 39.9653, -85.3778
+Folsomville, 38.1292, -87.1642
+Fontanet, 39.5761, -87.2436
+Foraker, 41.5158, -85.9242
+Ford, 37.9792, -87.7544
+Foresman(Newton), 40.8661, -87.2950
+Foresman(Benton), 40.4997, -87.1506
+Forest, 40.3736, -86.3328
+Forest City, 41.1947, -87.2667
+Forest Glen, 41.3267, -85.7636
+Forest Hill(Decatur), 39.2569, -85.6133
+Forest Hill(Posey), 37.9783, -87.6097
+Forest Hills(Madison), 40.1236, -85.6967
+Forest Hills(Lake), 41.5000, -87.3167
+Forest Lake, 39.7000, -86.3833
+Forest Manor, 41.7167, -86.8833
+Forest Park(Steuben), 41.5506, -84.9253
+Forest Park(Bartholomew), 39.2358, -85.9147
+Forest Park Beach, 41.5333, -84.9167
+Forest Park Heights, 39.2094, -86.5886
+Forest Ridge(Grant), 40.5667, -85.7000
+Forest Ridge(Allen), 41.0219, -85.2733
+Forest Ridge Estates, 41.0667, -85.1667
+Forrest Hills, 40.3500, -85.7333
+Fort Benjamin Harrison, 39.8667, -86.0333
+Fort Branch, 38.2511, -87.5811
+Fort Ritner, 38.7731, -86.2811
+Fort Wayne, 41.1306, -85.1289
+Fort Wayne State Hospital and Training Center, 41.1222, -85.0958
+Fortville, 39.9322, -85.8481
+Foster, 40.1467, -87.4714
+Fountain, 40.2222, -87.3353
+Fountain City, 39.9556, -84.9175
+Fountain Park(Steuben), 41.5333, -84.9167
+Fountain Park(Jasper), 40.7792, -87.1617
+Fountain Square, 39.7333, -86.1000
+Fountaintown, 39.6947, -85.7831
+Four Corners, 38.9542, -85.7403
+Four Presidents Corners, 41.0081, -84.8539
+Fowler, 40.6167, -87.3208
+Fowlerton, 40.4094, -85.5736
+Fox, 40.6397, -85.6950
+Fox Hill, 39.6006, -86.2839
+Fox Lake, 41.6333, -85.0000
+Fox Ridge, 39.6325, -86.8486
+Foxglen, 40.0500, -86.0167
+Frances, 39.6058, -86.1689
+Francesville, 40.9853, -86.8794
+Francisco, 38.3322, -87.4453
+Frankfort, 40.2794, -86.5108
+Franklin(Wayne), 39.9739, -85.1911
+Franklin(Johnson), 39.4806, -86.0550
+Franklin Hills, 37.9500, -86.7667
+Frankton, 40.2228, -85.7789
+Fredericksburg, 38.4331, -86.1897
+Fredonia, 38.1781, -86.3831
+Free, 40.6217, -87.4572
+Freedom, 39.2069, -86.8692
+Freeland Park, 40.6144, -87.4911
+Freelandville, 38.8647, -87.3058
+Freeman, 39.1953, -86.7336
+Freeport, 39.6586, -85.7258
+Freetown, 38.9731, -86.1294
+Fremont, 41.7308, -84.9328
+French(Ohio), 39.0333, -84.8833
+French(Adams), 40.7000, -85.0333
+French Lake, 39.4333, -87.4000
+French Lick, 38.5489, -86.6200
+Frenchtown, 38.3147, -86.2144
+Friendly Corner, 40.5533, -85.5036
+Friendship, 38.9703, -85.1478
+Friendswood, 39.6464, -86.3328
+Fritchton, 38.6803, -87.4231
+Fritz Corner, 38.2975, -87.1589
+Fruitdale, 39.3219, -86.2578
+Fugit, 39.4000, -85.3667
+Fulda, 38.1114, -86.8361
+Fulton, 40.9472, -86.2628
+Furnace, 39.0142, -86.9131
+Furnessville, 41.6517, -87.0075

@@ -1,0 +1,313 @@
+Mac-Fair-Mar, 40.7667, -86.3667
+Mace, 40.0103, -86.7964
+Macedonia, 38.0539, -85.9600
+Mackey, 38.2522, -87.3917
+Macy, 40.9592, -86.1272
+Madison, 38.7358, -85.3800
+Madison State Hospital, 38.7453, -85.4017
+Magee, 41.5308, -86.7511
+Magley, 40.8314, -85.0533
+Magnet, 38.0967, -86.4633
+Magnolia, 38.2492, -86.3931
+Mahalasville, 39.3603, -86.3628
+Mahan Crossing, 38.5572, -86.3644
+Mahon, 40.9386, -85.3806
+Mahoning, 41.6333, -87.4667
+Majenica, 40.7700, -85.4533
+Major Hospital, 39.5247, -85.7811
+Makin, 40.9658, -85.5856
+Malden, 41.3761, -87.0269
+Malott Park, 39.8333, -86.1500
+Maltersville, 38.3464, -86.8897
+Manchester(Ripley), 40.0978, -86.9042
+Manchester(Dearborn), 39.1517, -85.0122
+Manhattan, 39.6500, -86.8667
+Manhatten, 39.5550, -86.9275
+Manilla, 39.5742, -85.6194
+Manor Woods, 41.0253, -85.2622
+Mansfield, 39.6764, -87.1022
+Manson, 40.2400, -86.5903
+Manville, 38.7878, -85.2856
+Maple Lane, 41.7000, -86.2169
+Maple Ridge, 39.6781, -86.2861
+Maple Valley, 39.8669, -85.5869
+Maples, 41.0128, -84.9692
+Mapleton, 39.8167, -86.1833
+Mapleton Corner, 39.1908, -85.5461
+Maplewood(Vigo), 39.4667, -87.4333
+Maplewood(Hendricks), 39.8344, -86.5053
+Maplewood Park, 41.1156, -85.0564
+Marble Hill, 38.5925, -85.4506
+Marco, 38.9358, -87.1422
+Mardenis, 40.9042, -85.4136
+Marengo, 38.3756, -86.3447
+Mariah Hill, 38.1653, -86.9247
+Marian Manor, 41.4669, -87.0875
+Marietta, 39.4414, -85.8839
+Marineland Gardens, 41.3781, -85.6844
+Marion(Grant), 40.5583, -85.6592
+Marion(Shelby), 39.5917, -85.7550
+Marion Heights, 39.4947, -87.4458
+Marion Manor, 41.4833, -87.3833
+Markland, 38.7819, -84.9867
+Markle, 40.8292, -85.3356
+Markles, 39.5269, -87.3519
+Markleville, 39.9778, -85.6147
+Marlin Hills, 39.2131, -86.5233
+Marongo, 38.3692, -86.3436
+Marquette Farm, 39.7000, -86.8500
+Marrs Center, 37.9456, -87.7550
+Mars Hill, 39.7500, -86.2333
+Marshall, 39.8481, -87.1878
+Marshfield, 40.2492, -87.4528
+Marshtown, 40.9489, -86.3386
+Martin, 38.1244, -87.6736
+Martin Heights, 38.0272, -86.2603
+Martinsburg, 38.4439, -86.0261
+Martinsville, 39.4278, -86.4283
+Martz, 39.2833, -87.1167
+Maryland, 39.4333, -87.4167
+Marysville(Clark), 38.5856, -85.6436
+Marysville(Pike), 38.3519, -87.2783
+Marywood, 39.4333, -87.4167
+Masonic Hospital, 39.4714, -86.0436
+Matamoras, 40.5542, -85.2631
+Matlock Heights, 39.2000, -86.6167
+Matthews, 40.3886, -85.4994
+Mattix Corner, 40.3442, -86.5669
+Mauckport, 38.0247, -86.2019
+Maumee(Jackson), 39.0211, -86.2617
+Maumee(Allen), 41.1333, -84.8500
+Mauzy, 39.6239, -85.3383
+Max, 40.0103, -86.5819
+Maxinkuckee, 41.2083, -86.3814
+Maxville(Randolph), 40.1722, -85.1058
+Maxville(Spencer), 38.0000, -86.8133
+Maxwell(Hancock), 39.8575, -85.7700
+Maxwell(Morgan), 39.3872, -86.4556
+May Ridge, 39.3000, -85.7667
+Mayfield, 40.1950, -85.3500
+Mayflower Meadows, 39.8833, -86.0844
+Maynard, 41.5414, -87.5086
+Mays, 39.7436, -85.4300
+Maysville, 38.6478, -87.2283
+Maysville Crossing, 40.3308, -87.1472
+Maywood, 39.7261, -86.2158
+McBride Heights, 38.3000, -85.7500
+McCarthy Addition, 40.2667, -85.6833
+McCarty, 39.6092, -86.1311
+McClellan, 41.0333, -87.4500
+McCol Place, 38.0806, -86.2906
+McCool, 41.5800, -87.1436
+McCordsville, 39.8939, -85.9200
+McCoy, 39.3231, -85.4144
+McCoysburg, 40.9144, -87.0219
+McCutchanville, 38.0642, -87.5244
+McDaniel, 39.4119, -86.4408
+McGrawsville, 40.6303, -86.0139
+McKinley, 38.7447, -86.2106
+McKinley Town and Country Shop Ctr, 41.6667, -86.1667
+McNatts, 40.6244, -85.3911
+McQuinn Estates, 40.4375, -86.9589
+McVille, 39.1531, -86.7386
+Mead Village, 39.2167, -85.9000
+Meadowbrook(Tippecanoe), 40.4167, -86.8833
+Meadowbrook(Allen), 41.0603, -85.0392
+Meadowbrook(Madion), 40.0786, -85.6781
+Meadowbrook(Porter), 41.6156, -87.1219
+Meadowdale, 41.5000, -87.3167
+Meadowland Estates, 41.5000, -87.3167
+Meadowland Manor, 41.5000, -87.3167
+Meadowood(Elkhart), 41.6833, -85.9833
+Meadowood(Marion), 39.8000, -86.2500
+Meadowood Estates, 40.3500, -85.7333
+Meadowview, 40.7667, -86.3667
+Mecca, 39.7272, -87.3306
+Mechanicsburg(Dekatur), 39.3372, -85.3669
+Mechanicsburg(Henry), 41.2833, -87.4333
+Mechanicsburg(Madisom), 40.0050, -85.5572
+Mechanicsburg(Boone), 40.1597, -86.4811
+Medaryville, 41.0806, -86.8919
+Medford, 40.1206, -85.3208
+Medina, 40.4333, -87.1333
+Medora, 38.8250, -86.1700
+Meiks, 39.5531, -85.7500
+Mellott, 40.1653, -87.1478
+Melody Acres, 41.2333, -85.8500
+Melody Hill, 38.0261, -87.5158
+Meltzer, 39.5189, -85.6683
+Memorial Hospital(La Porte), 41.7169, -86.9003
+Memorial Hospital(Hancock), 39.7950, -85.7683
+Memorial Hospital(Cass), 40.7631, -86.3622
+Memorial Hospital(St Joseph), 41.6828, -86.2517
+Memphis, 38.4833, -85.7614
+Mentone, 41.1733, -86.0347
+Mentor, 38.3164, -86.7189
+Mercy Hospital, 40.2764, -85.8442
+Meridian Hills, 39.8900, -86.1572
+Merom, 39.0303, -87.5397
+Merriam, 41.2872, -85.4344
+Merrillville, 41.4828, -87.3328
+Messick, 39.9753, -85.3028
+Metamora, 39.4497, -85.1394
+Metea, 40.8692, -86.3094
+Methodist Hospital(Marion), 39.7897, -86.1622
+Methodist Hospital(Lake), 41.4583, -87.3317
+Metz, 41.6161, -84.8394
+Mexico, 40.8222, -86.1156
+Miami, 40.6142, -86.1064
+Miami Bend, 40.7508, -86.2981
+Miami Trails, 41.6333, -86.2333
+Miami Trails Addition, 41.5989, -86.2361
+Michaels, 40.5667, -85.7000
+Michaelsville, 40.5236, -85.7019
+Michiana Shores, 41.7500, -86.8167
+Michigan City, 41.7075, -86.8950
+Michigantown, 40.3264, -86.3928
+Mickleyville, 39.7475, -86.2614
+Middle, 39.8500, -86.4667
+Middle Branch, 39.3078, -85.3858
+Middleboro, 39.8939, -84.8319
+Middlebury(Clay), 39.2642, -87.1189
+Middlebury(Elkhart), 41.6753, -85.7061
+Middlefork(Clinton), 40.4156, -86.3925
+Middlefork(Jefferson), 38.8539, -85.4722
+Middletown(Henry), 40.0572, -85.5372
+Middletown(Shelby), 39.4600, -85.6489
+Middletown Park, 40.1622, -85.4247
+Midland, 39.1219, -87.1917
+Midland Junction, 39.1072, -87.1944
+Midway(Elkhart), 41.6186, -85.8906
+Midway(Franklin), 39.4597, -85.2167
+Midway(Jefferson), 38.8164, -85.4628
+Midway(Parke), 39.7753, -87.3175
+Midway(Spencer), 38.0008, -87.1408
+Mier, 40.5753, -85.8256
+Mifflin, 38.3061, -86.5403
+Milan, 39.1211, -85.1314
+Milan Center, 41.1442, -84.9461
+Milford(Decatur), 39.3503, -85.6181
+Milford(Kosciusko), 41.4097, -85.8456
+Milford Junction, 41.4283, -85.8419
+Mill, 40.4833, -85.6333
+Mill Creek(Fountain), 40.0167, -87.2667
+Mill Creek(Hamilton), 40.0500, -86.0167
+Mill Creek(La Porte), 41.5833, -86.5333
+Milledgeville, 39.9742, -86.4969
+Miller(Dearborn), 39.1833, -84.8667
+Miller(Lake), 41.6022, -87.2583
+Miller(Morgan), 39.6206, -86.2819
+Millersburg(Elkhart), 41.5278, -85.6944
+Millersburg(Hamilton), 40.1947, -86.0239
+Millersburg(Orange), 38.5572, -86.3356
+Millersburg(Warrick), 38.0700, -87.3928
+Millersport, 38.3431, -87.0539
+Millersville, 39.8531, -86.0917
+Millgrove, 40.4083, -85.2750
+Millhousen, 39.2106, -85.4325
+Milligan, 39.8456, -87.0383
+Millport, 38.7714, -86.1033
+Milltown, 38.3422, -86.2761
+Millville, 39.9247, -85.2519
+Milners Corner, 39.9161, -85.6922
+Milo, 40.6539, -85.4683
+Milroy, 39.4969, -85.4697
+Milton(Ohio), 38.9783, -85.0144
+Milton(Wayne), 39.7881, -85.1553
+Miner City, 39.2481, -87.3778
+Mineral, 39.0333, -86.9333
+Mineral City, 38.9942, -86.8800
+Mineral Springs, 41.3261, -85.7442
+Minshall, 39.6717, -87.2217
+Mishawaka, 41.6619, -86.1586
+Mitchell, 38.7333, -86.4833
+Mitchellville, 39.7833, -86.1167
+Mitcheltree, 38.7833, -86.7333
+Mixersville, 39.4883, -84.8250
+Moberly, 38.2697, -86.2094
+Modesto, 39.2697, -86.5483
+Modoc, 40.0453, -85.1264
+Mohawk, 39.8436, -85.8408
+Mongo, 41.6847, -85.2797
+Monitor, 40.4197, -86.7564
+Monmouth, 40.8678, -84.9444
+Monon, 40.8678, -86.8789
+Monoquet, 41.2894, -85.8617
+Monroe(Adams), 40.7450, -84.9369
+Monroe(Tippecanoe), 40.2864, -86.7353
+Monroe City, 38.6153, -87.3544
+Monroe Manor, 41.6011, -86.6883
+Monroeville, 40.9747, -84.8683
+Monrovia, 39.5789, -86.4822
+Montclair, 39.8481, -86.5669
+Monterey, 41.1569, -86.4828
+Monterey Village, 40.0536, -86.0244
+Montezuma, 39.7928, -87.3708
+Montgomery, 38.6625, -87.0461
+Monticello, 40.7453, -86.7647
+Montmorenci, 40.4742, -87.0294
+Montpelier, 40.5539, -85.2775
+Moonlight, 41.5844, -85.0311
+Moonville, 40.1939, -85.6014
+Moore, 41.3969, -84.9525
+Moorefield(Marion), 39.7833, -86.2167
+Moorefield(Switzerland), 38.8056, -85.1703
+Mooreland, 39.9975, -85.2511
+Moores Hill, 39.1133, -85.0881
+Moorestown, 38.7186, -86.6158
+Mooresville, 39.6128, -86.3742
+Moral, 39.6500, -85.9000
+Moran, 40.3875, -86.5153
+Morgan Park, 41.6083, -87.0458
+Morgantown, 39.3714, -86.2611
+Morningside, 40.2239, -85.3664
+Morocco, 40.9461, -87.4533
+Morris, 39.2822, -85.1775
+Morristown, 39.6733, -85.6986
+Morton, 39.7631, -86.9364
+Morvins Landing, 38.0103, -86.1675
+Moscow, 39.4853, -85.5567
+Mott Station, 38.2981, -86.0906
+Mound, 40.1500, -87.4667
+Mound Haven, 39.3839, -84.9783
+Mount Auburn(Shelby), 39.3925, -85.8936
+Mount Auburn(Wayne), 39.8128, -85.1897
+Mount Ayr, 40.9519, -87.2992
+Mount Carmel(Franklin), 39.4072, -84.8747
+Mount Carmel(Washington), 38.6167, -86.2833
+Mount Comfort, 39.8308, -85.9153
+Mount Etna, 40.7425, -85.5619
+Mount Healthy, 39.0806, -86.0378
+Mount Jackson, 39.7653, -86.2067
+Mount Lawn, 39.9117, -85.4614
+Mount Liberty, 39.1842, -86.1303
+Mount Meridian, 39.6019, -86.7575
+Mount Olive, 38.7986, -86.6942
+Mount Olympus, 38.4472, -87.4750
+Mount Pisgah, 41.6500, -85.4167
+Mount Pleasant(Cass), 40.8492, -86.3247
+Mount Pleasant(Delaware), 40.0889, -85.3058
+Mount Pleasant(Johnson), 39.4603, -86.1194
+Mount Pleasant(Martin), 38.6519, -86.8922
+Mount Pleasant(Perry), 38.1217, -86.5178
+Mount Pleasant(Vigo), 39.4264, -87.3697
+Mount Sinai, 39.0831, -85.0017
+Mount Sterling, 38.7958, -85.0739
+Mount Summit, 40.0044, -85.3847
+Mount Tabor, 39.3114, -86.6333
+Mount Vernon(Wabash), 40.6694, -85.8242
+Mount Vernon(Posey), 37.9322, -87.8950
+Mount Zion, 40.6503, -85.3347
+Mount Zion Corner, 39.5211, -86.5642
+Mounts, 38.2306, -87.7064
+Mud Center, 37.9558, -87.6286
+Mudlavia Springs, 40.3383, -87.2928
+Mulberry, 40.3444, -86.6653
+Mull, 40.2072, -85.0731
+Muncie, 40.1933, -85.3864
+Munster, 41.5644, -87.5125
+Murdock, 38.9097, -86.5083
+Muren, 38.3664, -87.2689
+Murray, 40.7919, -85.2008
+Muscatatuck State Hospital and Training Center, 39.0506, -85.5289
+Musquabuck Park, 41.3686, -85.7814

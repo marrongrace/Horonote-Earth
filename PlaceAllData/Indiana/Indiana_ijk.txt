@@ -1,0 +1,174 @@
+Idaho, 39.4333, -87.4000
+Idaville, 40.7569, -86.6494
+Ijamsville, 40.9597, -85.8328
+Ilene, 38.9375, -87.1125
+Illinoi, 41.1897, -87.5261
+Imperial Hills, 39.6317, -86.1417
+Independence, 40.3375, -87.1689
+Independence Hill, 41.4761, -87.3672
+Indian Creek Estates, 39.6786, -85.9708
+Indian Creek Settlement, 38.7292, -87.3456
+Indian Heights, 40.4272, -86.1256
+Indian Hill, 41.3253, -86.6833
+Indian Hills, 39.2167, -85.9000
+Indian Lake(Marion), 39.8853, -85.9869
+Indian Lake(De Kalb), 41.4333, -85.1500
+Indian Springs, 38.7964, -86.7650
+Indian Village(Allen), 41.0483, -85.1725
+Indian Village(Tippecanoe), 40.4664, -86.9008
+Indian Village(Putnam), 41.3658, -85.6394
+Indian Village(St Joseph), 41.7139, -86.2356
+Indiana Beach, 40.7914, -86.7681
+Indiana Girls School, 39.8000, -86.2500
+Indiana Harbor, 41.6406, -87.4453
+Indiana Lake, 41.7167, -85.8167
+Indiana Oaks, 38.3167, -85.7333
+Indiana Village for Epileptics, 39.9619, -85.3617
+Indianapolis, 39.7683, -86.1581
+Indianhead Lake, 39.7667, -86.5167
+Indianola, 41.5647, -85.2469
+Industry, 40.1833, -85.3833
+Ingalls, 39.9569, -85.8053
+Inglefield, 38.1081, -87.5589
+Innisdale, 40.2667, -85.6833
+Inverness, 41.7006, -85.0936
+Inwood, 41.3175, -86.2031
+Iona, 38.5486, -87.4717
+Ireland, 38.4147, -86.9994
+Irondale, 40.0986, -85.6575
+Ironton, 38.6622, -86.7753
+Iroquois, 40.8667, -87.3333
+Irvington(Marion), 39.7833, -86.0667
+Irvington(Delaware), 40.1764, -85.3467
+Irvington Plaza Shopping Center, 39.7833, -86.0667
+Island City, 39.0092, -87.1478
+Island Park(Steuben), 41.5408, -84.9211
+Island Park(Kosciusko), 41.2869, -85.8003
+Iva, 38.5028, -87.1194
+Ivanhoe(Marion), 39.7675, -86.0128
+Ivanhoe(Lake), 41.5978, -87.4244
+Ivy Hills, 39.8997, -86.0733
+Jackson Hill, 39.1683, -87.3619
+Jackson Park, 40.1833, -85.3833
+Jacksonburg, 39.8531, -85.1058
+Jacksons, 40.3292, -86.0606
+Jacksonville(Switzerland), 38.8289, -85.0489
+Jacksonville(Vermillion), 39.6667, -87.4000
+Jadden, 40.5361, -85.4575
+Jalapa, 40.6278, -85.7456
+Jamestown(Boone), 39.9278, -86.6247
+Jamestown(Elkhart), 41.6356, -86.0228
+Jamestown(Steuben), 41.7483, -85.0175
+Janney, 40.3650, -85.5439
+Jasonville, 39.1631, -87.1992
+Jasper, 38.3914, -86.9311
+Jay City, 40.5672, -84.8486
+Jeff, 40.6053, -85.3531
+Jefferson, 40.2794, -86.5900
+Jefferson Proving Ground, 38.7500, -85.3167
+Jeffersonville, 38.2900, -85.7517
+Jericho, 38.1992, -86.4244
+Jerome, 40.4553, -85.9308
+Jessup, 39.6572, -87.2567
+Jewell Village, 39.1986, -85.8497
+Jimtown(Elkhart), 41.6833, -85.9833
+Jimtown(Gibson), 38.2731, -87.8531
+Jockey, 38.1783, -87.1633
+Johnsburg, 38.2178, -86.9556
+Johnson, 38.2778, -87.7458
+Johnsonville, 40.2275, -87.4864
+Johnstown(Greene), 39.1667, -87.0089
+Johnstown(Knox), 38.7644, -87.3233
+Jolietville, 40.0419, -86.2311
+Jonesboro, 40.4797, -85.6278
+Jonestown, 39.7092, -87.5039
+Jonesville, 39.0606, -85.8897
+Joppa, 39.6322, -86.4322
+Jordan, 39.3983, -86.9981
+Jordon, 38.6886, -87.2069
+Judah, 38.9608, -86.5372
+Judson(Howard), 40.5039, -86.2714
+Judson(Parke), 39.8131, -87.1344
+Judyville, 40.3583, -87.3950
+Julietta, 39.7375, -85.9572
+Junction, 40.7000, -86.1167
+Kalorama Park, 41.3344, -85.7608
+Kanata Manayunk, 41.4103, -85.6917
+Kankakee, 41.5083, -86.5394
+Kappa Corner, 40.5328, -86.2708
+Kasson, 38.0169, -87.6361
+Keener, 41.1667, -87.2167
+Keller, 39.3603, -87.3242
+Kellerville, 38.4817, -86.8317
+Kelso, 39.2500, -84.9667
+Kem Square, 40.5667, -85.7000
+Kempton, 40.2883, -86.2297
+Kendallville, 41.4414, -85.2650
+Kennard, 39.9039, -85.5194
+Kennedy, 38.0814, -86.9225
+Kenneth, 40.7611, -86.4731
+Kent(Jefferson), 38.7378, -85.5400
+Kent(Warren), 40.2000, -87.4833
+Kentland, 40.7703, -87.4453
+Kentwood, 40.2769, -86.4897
+Kenwood, 39.4667, -87.4333
+Kersey, 41.1942, -87.1564
+Kewanna, 41.0186, -86.4133
+Keyser, 41.3500, -85.1333
+Keystone, 40.5956, -85.2594
+Keystone Manor, 39.7633, -86.2764
+Keytsville, 39.6514, -87.0122
+Kiley, 40.5275, -85.6803
+Kilmore, 40.3486, -86.5056
+Kimmell, 41.3953, -85.5483
+Kinder, 39.5439, -86.1972
+King, 38.3042, -87.5761
+Kingman, 39.9675, -87.2775
+Kings Cave, 38.2167, -86.1167
+Kingsbury, 41.5275, -86.7000
+Kingsford Heights, 41.4806, -86.6917
+Kingsland, 40.8300, -85.1772
+Kingston, 39.3789, -85.3883
+Kingswood Terrace, 39.4333, -87.4000
+Kinsey, 41.0961, -85.7050
+Kirby, 39.1367, -86.6100
+Kirkland, 40.7833, -85.0333
+Kirklin, 40.1933, -86.3606
+Kirkpatrick, 40.2064, -86.8192
+Kirksville, 39.0458, -86.6131
+Kirkville, 38.3333, -87.5000
+Kirschs Corner, 39.1219, -84.9367
+Kitchell, 39.6831, -84.8614
+Kitt, 40.4961, -85.0475
+Kitterman Corners, 38.2225, -86.6975
+Klaasville, 41.3558, -87.5175
+Klemmes Corner, 39.3539, -85.0036
+Klondike, 40.4675, -86.9622
+Klondyke, 39.7911, -87.3392
+Knapp Lake, 41.4000, -85.6167
+Knarr Corner, 39.3042, -85.4286
+Kneipp Springs Sanitarium, 41.5047, -85.3722
+Knight, 37.9667, -87.4667
+Knight Ridge, 39.1253, -86.4331
+Knighthood Grove, 39.5536, -85.7567
+Knighthood Village, 39.5783, -85.7422
+Knightstown, 39.7956, -85.5264
+Knightstown Lake, 39.8000, -85.5167
+Knightsville, 39.5258, -87.1125
+Kniman, 41.1442, -87.1375
+Knob Hill, 38.0322, -87.5186
+Knollton Heights, 39.8411, -86.2019
+Knox(Henry), 39.8231, -85.5419
+Knox(Starke), 41.2958, -86.6250
+Kokomo, 40.4864, -86.1336
+Kokomo Hospital, 40.4472, -86.1256
+Koleen, 38.9714, -86.8289
+Koontz Lake, 41.4181, -86.4858
+Kossuth, 38.7044, -86.1028
+Kouts, 41.3167, -87.0258
+Kramer, 40.3386, -87.2875
+Kreitzburg, 41.4358, -87.5211
+Kriete Corner, 38.9175, -85.8328
+Kurtz, 38.9606, -86.2033
+Kyana, 38.3050, -86.7822
+Kyle, 39.1383, -84.9883
