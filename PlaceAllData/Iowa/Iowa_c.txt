@@ -1,0 +1,212 @@
+Cairo, 41.1836, -91.3272
+Calamus, 41.8258, -90.7581
+Caldwell, 40.6333, -92.8000
+Caledonia, 42.9667, -95.8000
+Calhoun, 41.6317, -95.8950
+California Junction, 41.5586, -95.9944
+Call Terminal, 42.5000, -96.3833
+Callender, 42.3619, -94.2956
+Calmar, 43.1836, -91.8639
+Caloma, 41.2772, -93.3092
+Calumet, 42.9464, -95.5497
+Camanche, 41.7881, -90.2561
+Cambria, 40.8378, -93.4022
+Cambridge, 41.8983, -93.5289
+Cameron(Dubuque), 42.6661, -90.8658
+Cameron(Cerro Gordo), 43.0828, -93.1881
+Cameron(Aubudon), 41.8167, -94.9167
+Camp, 41.5500, -93.3833
+Camp Dodge, 41.6997, -93.7072
+Campbell, 41.5094, -93.7319
+Canaan, 41.0500, -91.4333
+Canby, 41.4172, -94.5664
+Canoe, 43.4000, -91.8000
+Canton, 42.1633, -90.8956
+Cantril, 40.6442, -92.0697
+Capel, 43.1167, -96.0500
+Capitol Heights, 41.6333, -93.5200
+Carbon(Davis), 40.8964, -92.4217
+Carbon(Adams), 41.0500, -94.8231
+Carbondale, 41.5822, -93.5031
+Carl, 41.1200, -94.6628
+Carlisle, 41.5008, -93.4908
+Carlton, 42.0833, -92.7000
+Carmel, 43.1278, -96.2350
+Carnarvon, 42.2536, -95.0214
+Carnes, 42.9272, -96.0567
+Carney, 41.6883, -93.6003
+Carnforth, 41.7222, -92.3494
+Carpenter, 43.4150, -93.0147
+Carroll, 42.0658, -94.8667
+Carrollton, 41.9497, -94.7478
+Carrville, 43.0089, -92.5747
+Carson, 41.2367, -95.4178
+Carter Lake, 41.2906, -95.9178
+Cartersville, 42.9944, -93.0828
+Cascade, 42.2986, -91.0147
+Casey, 41.5050, -94.5192
+Casino Beach, 42.6242, -95.2283
+Castalia, 43.1119, -91.6761
+Castana, 42.0744, -95.9083
+Castle Grove, 42.2500, -91.3000
+Cattese, 42.4611, -90.6311
+Cedar, 41.2122, -92.5256
+Cedar Bluff, 41.7858, -91.3081
+Cedar City, 42.5406, -92.4408
+Cedar Falls, 42.5278, -92.4453
+Cedar Falls Junction, 42.4453, -92.4186
+Cedar Hills, 41.9728, -91.7403
+Cedar Rapids, 42.0083, -91.6439
+Cedar Valley, 41.7264, -91.2464
+Cedar View, 43.0667, -92.6833
+Centennial, 43.4000, -96.5000
+Center Grove(Dubuque), 42.4911, -90.7153
+Center Grove(Dickinson), 43.3833, -95.0833
+Center Junction, 42.1161, -91.0869
+Center Point, 42.1908, -91.7850
+Centerdale, 41.6419, -91.3069
+Centerville(Boone), 42.0928, -93.9353
+Centerville(Appanoose), 40.7342, -92.8739
+Central City, 42.2039, -91.5239
+Central College, 41.4000, -92.9167
+Central Heights, 43.1350, -93.2417
+Centralia, 42.4722, -90.8369
+Ceres, 42.8206, -91.1861
+Chapel Hill, 41.4922, -90.6472
+Chapin, 42.8336, -93.2219
+Chariton, 41.0139, -93.3064
+Charles City, 43.0664, -92.6722
+Charleston, 40.5908, -91.5311
+Charlotte, 41.9603, -90.4650
+Charter Oak, 42.0683, -95.5914
+Chatsworth, 42.9161, -96.5161
+Chautauqua, 41.2908, -95.7933
+Chelsea, 41.9192, -92.3944
+Cheney, 42.2542, -91.9272
+Chequest, 40.7833, -92.1333
+Cherokee, 42.7494, -95.5514
+Cherokee State Hospital, 42.7572, -95.5725
+Chester, 43.4911, -92.3603
+Chickasaw, 43.0339, -92.4950
+Chillicothe, 41.0856, -92.5292
+Church, 43.3522, -91.3389
+Churchville, 41.3967, -93.7508
+Churdan, 42.1519, -94.4742
+Cincinnati, 40.6308, -92.9244
+Clare, 42.5872, -94.3453
+Clarence, 41.8889, -91.0564
+Clarinda, 40.7419, -95.0381
+Clarinda Mental Health Institute, 40.7578, -95.0350
+Clarion, 42.7317, -93.7328
+Clark(Tama), 42.1667, -92.3833
+Clark(Mills), 40.9506, -95.5400
+Clarkdale, 40.7853, -92.9047
+Clarksville, 42.7847, -92.6675
+Clay Mills, 42.1842, -90.9431
+Clayton, 42.9039, -91.1472
+Clayton Center, 42.8833, -91.3267
+Clayworks, 42.5000, -94.1833
+Clear Lake(Clear Lake City), 43.1381, -93.3792
+Clearfield, 40.8008, -94.4756
+Cleghorn, 42.8122, -95.7125
+Clemons, 42.1139, -93.1558
+Clemons Grove, 42.1139, -93.1558
+Cleona, 41.6333, -90.8500
+Clermont, 43.0036, -91.6522
+Cleves, 42.4728, -93.0450
+Cliffland, 40.9658, -92.3261
+Climax, 40.9306, -95.3656
+Climbing Hill, 42.3417, -96.0775
+Clinton, 41.8444, -90.1886
+Clio, 40.6350, -93.4511
+Clive, 41.6031, -93.7239
+Cloverdale, 43.3469, -95.6856
+Cloverhills, 41.5833, -93.7333
+Clucas, 41.4967, -94.0517
+Clutier, 42.0794, -92.4019
+Clyde, 41.8419, -93.2650
+Coal Creek, 41.4378, -92.3933
+Coal Valley, 42.0317, -93.9506
+Coalville, 42.4453, -94.1256
+Coburg, 40.9175, -95.2642
+Coffins Grove, 42.4833, -91.3500
+Coggon, 42.2808, -91.5303
+Coin, 40.6544, -95.2300
+Coldwater, 42.8667, -92.8500
+Colesburg, 42.6394, -91.2019
+Colfax, 41.6778, -93.2450
+College, 41.9000, -91.6500
+College Springs, 40.6192, -95.1206
+Collett, 40.9061, -91.9775
+Collins, 41.9028, -93.3061
+Colo, 42.0178, -93.3150
+Colonial Village, 41.5833, -93.7333
+Columbia, 41.1753, -93.1497
+Columbus City, 41.2586, -91.3742
+Columbus Junction, 41.2800, -91.3606
+Colwell, 43.1558, -92.5939
+Commerce, 41.5389, -93.7644
+Communia, 42.7900, -91.3628
+Competine, 41.1206, -92.2272
+Concordia, 40.7500, -91.1167
+Conesville, 41.3819, -91.3497
+Confidence, 40.8628, -93.1253
+Conger, 41.3519, -93.7581
+Cono, 42.3333, -91.7833
+Conover, 43.2164, -91.8972
+Conrad, 42.2247, -92.8744
+Conroy, 41.7292, -91.9975
+Consol, 41.0714, -93.0017
+Conway, 40.7486, -94.6186
+Cook, 42.4333, -95.2667
+Cool, 41.2233, -93.5772
+Coon, 42.7000, -94.9500
+Coon Rapids, 41.8708, -94.6772
+Coon Valley, 42.3500, -94.9500
+Cooper, 41.9203, -94.3444
+Coppock, 41.1622, -91.7111
+Coralville, 41.6764, -91.5803
+Corinth, 42.6833, -94.2667
+Corley, 41.5786, -95.3300
+Cornelia, 42.7900, -93.6831
+Cornell, 42.9444, -95.1397
+Corning, 40.9900, -94.7406
+Correctionville, 42.4750, -95.7853
+Corwin, 42.3333, -95.5000
+Corwith, 42.9928, -93.9572
+Corydon, 40.7569, -93.3186
+Cosgrove, 41.6428, -91.7356
+Coster, 42.6717, -92.7114
+Cottage Hill, 42.5853, -90.9136
+Cotter, 41.2919, -91.4614
+Cottonville, 42.2369, -90.6019
+Cou Falls, 41.8172, -91.6725
+Coulter, 42.7372, -93.3697
+Council Bluffs, 41.2619, -95.8608
+Covington, 42.0072, -91.7622
+Cox Creek, 42.7833, -91.4333
+Crab Town, 42.1733, -90.8058
+Craig, 42.8958, -96.3094
+Crandalls Lodge, 43.4333, -95.1000
+Cranston, 41.3792, -91.2611
+Crawfordsville, 41.2442, -91.5619
+Crescent, 41.3650, -95.8578
+Cresco, 43.3814, -92.1139
+Creston, 41.0586, -94.3611
+Crestwood, 41.6061, -93.7128
+Cricket, 41.1839, -92.8069
+Crocker, 41.7747, -93.6697
+Cromwell, 41.0394, -94.4617
+Crossroads Center(Black Hawk), 42.5167, -92.3333
+Crossroads Center(Webster), 42.5000, -94.1833
+Crossroads School(Abandoned), 41.0164, -92.3044
+Croton, 40.5903, -91.6906
+Crystal Lake, 43.2233, -93.7922
+Culver, 41.4333, -91.0500
+Cumberland, 41.2742, -94.8700
+Cumberland Square, 41.5500, -90.5000
+Cumming, 41.4833, -93.7622
+Cummins, 42.8667, -94.7333
+Curlew, 42.9789, -94.7408
+Cushing, 42.4647, -95.6747
+Cylinder, 43.0889, -94.5528

@@ -1,0 +1,203 @@
+Fabius, 40.6500, -92.5833
+Fair Ground, 42.5000, -90.7000
+Fairbank, 42.6392, -92.0469
+Fairfax, 41.9194, -91.7808
+Fairfield, 41.0086, -91.9625
+Fairmount Park, 41.2667, -95.8500
+Fairport, 41.4358, -90.9044
+Fairview(Jones), 42.0781, -91.3297
+Fairview(Clayton), 42.6839, -91.2164
+Fairville, 43.1561, -94.4631
+Faith Nursing Home, 43.2764, -92.8064
+Falls, 43.2167, -93.0833
+Famersburg, 42.9611, -91.3678
+Fanslers, 41.7494, -94.4556
+Farley, 42.4428, -91.0061
+Farlin, 42.0764, -94.4483
+Farmers Creek, 42.1667, -90.7167
+Farmersburg, 42.9667, -91.3000
+Farmington, 40.6403, -91.7428
+Farnhamville, 42.2761, -94.4036
+Farragut, 40.7219, -95.4806
+Farrar, 41.8058, -93.3697
+Farson, 41.1222, -92.2550
+Faulkner, 42.6153, -93.0858
+Fayette, 42.8419, -91.8019
+Felix, 42.2500, -92.9500
+Fenton, 43.2197, -94.4303
+Ferguson, 41.9369, -92.8656
+Fern, 42.4847, -92.7703
+Fern Valley, 43.0167, -94.5167
+Fernald, 42.0708, -93.3947
+Fertile, 43.2644, -93.4181
+Festina, 43.1194, -91.8669
+Fielding, 42.6631, -95.8000
+Fillmore(Iowa), 41.5667, -92.0000
+Fillmore(Dubuque), 42.3192, -90.9167
+Finchford, 42.6272, -92.5436
+Findley, 41.5286, -95.8789
+Finley Hospital, 42.4964, -90.6861
+Fiscus, 41.7389, -95.0928
+Fisher, 40.7000, -95.4333
+Fisk, 41.2011, -94.5278
+Five Points, 42.5514, -90.8583
+Flagler, 41.3247, -93.0217
+Flint River, 40.8667, -91.2000
+Florence(Benton), 41.9000, -91.8833
+Florence(Wright), 42.7025, -93.8183
+Florenceville, 43.4992, -92.1325
+Floris, 40.8650, -92.3328
+Floyd, 43.1278, -92.7361
+Floyd County Memorial Hospital, 43.0525, -92.6833
+Floyd Crossing, 43.0911, -92.7419
+Floyd School, 42.5878, -90.9603
+Flugstad, 42.4486, -93.9317
+Folletts, 41.7486, -90.3547
+Folsom, 41.0900, -95.8172
+Fonda, 42.5814, -94.8458
+Fontanelle, 41.2897, -94.5614
+Forbush, 40.7689, -92.8769
+Forest City, 43.2625, -93.6369
+Forestville, 42.5967, -91.5283
+Fort Atkinson, 43.1433, -91.9325
+Fort Des Moines, 41.5203, -93.6156
+Fort Dodge, 42.4975, -94.1678
+Fort Madison, 40.6297, -91.3150
+Foster, 40.9328, -92.7572
+Fostoria, 43.2422, -95.1553
+Four Corners, 41.0000, -91.7333
+Four Mile, 41.5667, -93.4667
+Fox, 42.4167, -92.1167
+Fox River, 40.7833, -92.5833
+Frankfort, 41.0333, -95.1000
+Franklin(Lee), 40.6681, -91.5111
+Franklin(Pottawattamie), 41.2667, -95.8500
+Frankville, 43.1892, -91.6172
+Fraser, 42.1272, -93.9647
+Frederic, 41.0908, -92.6781
+Fredericksburg, 42.9653, -92.1994
+Frederika, 42.8817, -92.3081
+Fredonia, 41.2847, -91.3386
+Fredsville, 42.4842, -92.5739
+Freeman(Clay), 43.1333, -94.9667
+Freeman(Cerro Gordo), 43.2131, -93.1997
+Freeport, 43.3022, -91.7433
+Fremont, 41.2125, -92.4353
+French Creek, 43.4000, -91.4333
+Frith Spur, 42.5497, -90.7017
+Froelich, 43.0067, -91.3217
+Fruitland, 41.3561, -91.1292
+Fulton, 42.1536, -90.6781
+Galbraith, 42.9806, -94.1589
+Galesburg, 41.5589, -92.9461
+Galland, 40.5006, -91.3744
+Galt, 42.6936, -93.6053
+Galva, 42.5069, -95.4169
+Gambrill, 41.7519, -90.5356
+Garber, 42.7419, -91.2619
+Garden, 41.9000, -93.7500
+Garden City, 42.2456, -93.3953
+Garden Grove, 40.8272, -93.6069
+Gardiner, 41.8244, -94.0278
+Gardner, 41.6744, -94.7636
+Garfield, 40.7686, -93.0017
+Garland, 41.0592, -91.2175
+Garnavillo, 42.8686, -91.2358
+Garner, 43.1025, -93.6017
+Garretville, 41.5175, -94.0797
+Garrison, 42.1442, -92.1436
+Garry Owen, 42.2833, -90.8317
+Garwin, 42.0936, -92.6756
+Gay, 40.6833, -94.5333
+Gay Hospital, 42.1733, -92.0122
+Gaza, 43.0203, -95.5797
+Geneva, 42.6756, -93.1292
+Genoa Bluff, 41.7833, -92.0667
+George, 43.3439, -96.0019
+Georgetown, 41.0128, -92.9550
+Gerled, 43.3833, -94.1875
+German Valley, 43.2700, -94.0292
+Germantown, 42.9533, -95.7806
+Germanville, 41.1042, -91.7692
+Giard, 43.0056, -91.2892
+Gibbsville, 41.8008, -93.8236
+Gibson, 41.4811, -92.3933
+Gifford, 42.2883, -93.0903
+Gilbert, 42.1069, -93.6494
+Gilbertville, 42.4161, -92.2147
+Gillett Grove, 43.0158, -95.0372
+Gilliatt, 41.2911, -95.7583
+Gilman, 41.8789, -92.7892
+Gilmore City, 42.7294, -94.4475
+Gilt Edge, 42.4408, -91.2047
+Givin, 41.2250, -92.6625
+Gladbrook, 42.1878, -92.7150
+Gladstone, 41.9639, -92.4972
+Gladwin, 41.3597, -91.4508
+Glasgow, 40.9408, -91.7803
+Glendale Acres, 41.2667, -95.8500
+Glendon, 41.5944, -94.4019
+Glenwood, 41.0469, -95.7422
+Glidden, 42.0569, -94.7286
+Goddard, 41.7175, -93.1928
+Godfield, 42.7372, -93.9200
+Goewey, 43.3000, -95.6833
+Goldfield, 42.7333, -93.9167
+Gonoa Bluff, 41.6933, -92.1525
+Good Samaritan Nursing Home, 43.4075, -94.8206
+Goodell, 42.9231, -93.6161
+Goodrich, 42.0833, -95.3667
+Goose Lake, 41.9675, -90.3828
+Goshen, 41.5500, -91.1833
+Gosport, 41.2047, -93.1506
+Gower, 41.7167, -91.2833
+Gowrie, 42.2806, -94.2906
+Grace Hill, 41.2636, -91.8297
+Graettinger, 43.2378, -94.7511
+Graf, 42.4931, -90.8711
+Grafton, 43.3300, -93.0692
+Graham, 41.7333, -91.4167
+Graham Hospital, 40.4067, -91.3872
+Grand, 41.5833, -93.6167
+Grand Junction, 42.0317, -94.2406
+Grand Mound, 41.8242, -90.6478
+Grand River, 40.8194, -93.9622
+Grandview, 41.2758, -91.1883
+Grange, 42.3500, -96.1833
+Granger, 41.7611, -93.8242
+Granger Homesteads, 41.7644, -93.8389
+Granite, 43.4689, -96.5561
+Grant, 41.1428, -94.9844
+Grant Center, 42.1667, -96.0000
+Grant City, 42.2675, -94.8875
+Grant Wood, 41.5500, -90.5000
+Granville, 42.9856, -95.8733
+Gravity, 40.7606, -94.7433
+Gray, 41.8394, -94.9828
+Great Oak, 43.0167, -94.7333
+Greeley, 42.5858, -91.3414
+Greeley Hospital, 42.0336, -93.6117
+Green Acres, 41.5700, -90.6100
+Green Castle, 41.7461, -93.2614
+Green Island, 42.1536, -90.3219
+Green Mountain, 42.1017, -92.8203
+Greenbrier, 41.8833, -94.4500
+Greenbush, 41.4244, -93.6564
+Greene, 42.8958, -92.8022
+Greenfield, 41.3053, -94.4611
+Greenfield Plaza, 41.5500, -93.6167
+Greenville, 43.0167, -95.1458
+Greenwood, 43.3000, -94.2667
+Griggs, 42.5167, -95.5500
+Grimes, 41.6883, -93.7908
+Grinnell, 41.7431, -92.7222
+Griswold, 41.2350, -95.1372
+Grundy Center, 42.3617, -92.7683
+Gruver, 43.3933, -94.7050
+Guernsey, 41.6486, -92.3425
+Guilford, 41.0167, -92.9333
+Gunder, 42.9717, -91.5131
+Gunwald, 41.0878, -93.2544
+Guss, 40.8419, -94.8578
+Guthrie Center, 41.6772, -94.5031
+Guttenberg, 42.7858, -91.0994

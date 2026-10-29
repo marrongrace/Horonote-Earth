@@ -1,0 +1,187 @@
+Halbur, 42.0069, -94.9697
+Hale, 42.0125, -91.0592
+Halfa, 43.3519, -94.5417
+Hamburg, 40.6044, -95.6575
+Hamill, 40.6333, -91.5667
+Hamilton, 41.1692, -92.9031
+Hamlin, 41.6669, -94.9056
+Hampshire, 41.9333, -90.2500
+Hampton, 42.7419, -93.2022
+Hancock, 41.3900, -95.3622
+Hanford, 43.0742, -93.1414
+Hanley, 41.2881, -93.8339
+Hanlontown, 43.2803, -93.3786
+Hanna, 42.9492, -94.0206
+Hanover(Buena Vista), 42.6667, -95.3167
+Hanover(Allamakee), 43.3608, -91.5206
+Hansell, 42.7578, -93.1039
+Harcourt, 42.2628, -94.1756
+Hard Scratch, 41.6133, -95.7139
+Hardin, 43.0803, -91.4842
+Hardin County Health Care Center, 42.3978, -93.1489
+Hardy, 42.8106, -94.0511
+Harlan, 41.6531, -95.3253
+Harper, 41.3625, -92.0508
+Harpers Ferry, 43.2006, -91.1531
+Harris, 43.4453, -95.4339
+Harrisburg, 40.7706, -91.7769
+Hartford, 41.4594, -93.4047
+Hartland, 43.4667, -93.3167
+Hartley, 43.1800, -95.4767
+Hartwick, 41.7847, -92.3433
+Harvard, 40.6900, -93.2692
+Harvey, 41.3158, -92.9239
+Haskins, 41.3281, -91.5367
+Hastie, 41.5628, -93.4894
+Hastings, 41.0228, -95.4989
+Hauntown, 42.0008, -90.1989
+Havelock, 42.8361, -94.7003
+Haven, 41.8917, -92.4789
+Haverhill, 41.9450, -92.9606
+Hawarden, 42.9958, -96.4850
+Hawkeye, 42.9386, -91.9500
+Hawleyville, 40.7767, -94.9361
+Hawthorne, 41.0017, -95.3367
+Hayesville, 41.2644, -92.2489
+Hayfield, 43.1767, -93.6950
+Hayfield Junction, 43.1339, -93.5992
+Hazel Dell, 41.4000, -95.7667
+Hazel Green, 42.3333, -91.4167
+Hazleton, 42.6208, -91.9000
+Hebron(Adair), 41.2547, -94.2850
+Hebron(Kossuth), 43.4667, -94.0500
+Hedrick, 41.1725, -92.3086
+Helena, 41.9208, -92.4742
+Henderson, 41.1406, -95.4308
+Hepburn, 40.8492, -95.0169
+Herdland, 42.9500, -95.0833
+Herndon, 41.8456, -94.3492
+Herrold, 41.6667, -93.7833
+Hesper, 43.4864, -91.7683
+Hiattsville, 40.8272, -92.8103
+Hiawatha, 42.0358, -91.6819
+Hicks, 42.3661, -92.5339
+High, 41.8000, -91.8667
+High Amana, 41.8033, -91.9381
+High Lake, 43.3000, -94.7167
+High Point, 40.7611, -93.5942
+Highland, 42.8939, -91.5969
+Highland Center, 41.1264, -92.3531
+Highland Park, 41.6000, -93.6500
+Highlandville, 43.4422, -91.6683
+Highview, 42.4719, -93.9039
+Hillcrest Hospital, 41.5889, -93.6553
+Hills, 41.5542, -91.5347
+Hillsboro, 40.8367, -91.7156
+Hillsdale, 41.0075, -95.6706
+Hilltop, 42.4761, -92.2703
+Hilton, 41.7333, -92.0000
+Hinton, 42.6278, -96.2914
+Hiteman, 41.0589, -92.8919
+Hobarton, 43.0667, -94.2333
+Hocking, 40.9908, -92.8203
+Holbrook, 41.5908, -92.0383
+Holiday Lake, 41.7333, -92.4500
+Holland, 42.3989, -92.8003
+Holly Springs, 42.2706, -96.0775
+Holman, 43.4000, -95.7333
+Holmes, 42.7392, -93.8336
+Holstein, 42.4892, -95.5447
+Holt, 40.8500, -94.7500
+Holy Cross, 42.6006, -90.9956
+Homer, 42.3739, -93.9233
+Homestead, 41.7594, -91.8669
+Honey Creek, 41.4306, -95.8661
+Hopeville, 40.9428, -93.9964
+Hopkinton, 42.3439, -91.2483
+Hornick, 42.2306, -96.0972
+Horton(Bremer), 42.8475, -92.4753
+Horton(Osceola), 43.4667, -95.5667
+Hospers, 43.0719, -95.9042
+Houghton, 40.7836, -91.6028
+Howard Center, 43.3833, -92.2500
+Howard County Hospital, 43.3814, -92.1175
+Howardville, 43.1908, -92.7122
+Howe, 41.4031, -94.3758
+Hubbard, 42.3056, -93.3000
+Hudson, 42.4067, -92.4553
+Hull, 43.1886, -96.1333
+Humboldt, 42.7208, -94.2150
+Humeston, 40.8589, -93.4972
+Hungerford, 42.6000, -96.2667
+Huntington, 43.4917, -94.7917
+Hurley, 43.0092, -93.2311
+Huron, 41.0367, -91.0339
+Hurstville, 42.0975, -90.6831
+Hutchins, 43.1000, -93.8000
+Huxley, 41.9000, -93.6000
+Iconium, 40.8914, -92.9550
+Ida Grove, 42.3450, -95.4714
+Illyria, 42.8986, -91.6350
+Imogene, 40.8794, -95.4267
+Independence, 42.4686, -91.8892
+Independence State Hospital, 42.4569, -91.9261
+Indian Creek(Linn), 42.0167, -91.6000
+Indian Creek(Pottawattamie), 41.2667, -95.8500
+Indian Village, 41.9833, -92.7000
+Indiana, 41.2167, -93.0333
+Indianapolis, 41.3969, -92.4333
+Indianola, 41.3581, -93.5572
+Indianola Junction, 41.0403, -93.3564
+Industry, 42.5833, -94.8500
+Ingham, 42.7833, -93.0667
+Ingraham, 41.1167, -95.5833
+Inland, 41.7167, -90.9667
+Inwood, 43.3072, -96.4317
+Ion, 43.1128, -91.2619
+Ionia, 43.0333, -92.4500
+Iowa Army Ammunition Plant, 40.8167, -91.1000
+Iowa Center, 41.9286, -93.4050
+Iowa City, 41.6611, -91.5300
+Iowa Falls, 42.5225, -93.2511
+Iowa Lake, 43.4667, -94.5000
+Iowa State University Station, 42.0500, -93.5833
+Ira, 41.7778, -93.2056
+Ireton, 42.9747, -96.3181
+Ironhills, 42.1417, -90.7697
+Irving, 41.9483, -92.2950
+Irvington, 43.0075, -94.1953
+Irwin, 41.7917, -95.2056
+Isolation Hospital, 41.5447, -90.5947
+Ivester, 42.3397, -92.9439
+Iveyville, 40.9008, -94.7956
+Ivy, 41.6006, -93.4169
+Jack Creek, 43.3000, -94.6167
+Jackson County Hospital, 42.4014, -90.6733
+Jackson Junction, 43.1150, -92.0322
+Jacksonville(Shelby), 41.6453, -95.1497
+Jacksonville(Chickasaw), 43.1194, -92.2089
+Jamaica, 41.8461, -94.3094
+James(Plymouth), 42.5769, -96.3172
+James(Pottawattamie), 41.3833, -95.4333
+Jamestown(Howard), 43.3833, -92.5000
+Jamestown(Scott), 41.4944, -90.7081
+Jamison, 41.1217, -93.7247
+Jane Lamb Health Center, 41.8400, -90.2158
+Jane Lamb Memorial Hospital, 41.8400, -90.2158
+Janesville, 42.6461, -92.4628
+Jay, 41.1067, -93.5864
+Jefferson, 42.0153, -94.3772
+Jenkins, 43.3833, -92.6167
+Jerico, 43.1842, -92.5553
+Jerome, 40.7189, -93.0281
+Jesup, 42.4756, -92.0636
+Jewell, 42.3069, -93.6400
+Joetown, 41.4833, -91.7000
+Johns, 40.7833, -93.0333
+Johnston, 41.6731, -93.6975
+Joice, 43.3628, -93.4536
+Jolley, 42.4789, -94.7186
+Jones, 41.0333, -94.0667
+Jordan, 42.0492, -93.7839
+Jordans Grove, 42.1558, -91.4983
+Jubilee, 42.3842, -92.1036
+Judd, 42.4722, -94.0494
+Julien, 42.4811, -90.7794
+Junction, 42.0667, -94.2333
+Juniata, 42.5803, -95.1478

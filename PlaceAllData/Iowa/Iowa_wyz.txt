@@ -1,0 +1,165 @@
+Wacousta, 42.8667, -94.3833
+Wadena, 42.8428, -91.6567
+Wagner, 42.9667, -91.4333
+Wahpeton, 43.3661, -95.1717
+Walcott, 41.5847, -90.7719
+Wald, 41.8378, -91.1322
+Wales, 41.1169, -95.3269
+Walford, 41.8783, -91.8344
+Walker, 42.2867, -91.7806
+Wall Lake, 42.2711, -95.0928
+Wallin, 41.0600, -95.0558
+Wallingford, 43.3197, -94.7925
+Walnut, 41.4775, -95.2217
+Walnut City, 40.8122, -92.9447
+Walnut Grove, 41.4703, -90.6611
+Wanetta Corner, 40.6244, -92.2692
+Wapello, 41.1814, -91.1853
+Wapsinonoc, 41.5500, -91.2833
+Ward(Clarke), 41.0333, -93.8500
+Ward(Monroe), 41.0294, -92.8864
+Ware, 42.7903, -94.7589
+Washburn, 42.4117, -92.2672
+Washington, 41.2992, -91.6928
+Washington Mills, 42.3006, -90.7822
+Washta, 42.5756, -95.7172
+Waterloo, 42.4928, -92.3428
+Waterman, 42.9667, -95.4333
+Waterville, 43.2078, -91.2975
+Watkins, 41.8911, -91.9861
+Watson, 43.0753, -91.3300
+Waubeek, 42.1658, -91.4650
+Waubonsie, 40.7167, -94.3667
+Waucoma, 43.0561, -92.0331
+Waukee, 41.6117, -93.8850
+Waukon, 43.2694, -91.4756
+Waukon Junction, 43.1533, -91.1881
+Waupeton, 42.6678, -90.8822
+Waveland, 41.2000, -95.2000
+Waverly, 42.7258, -92.4753
+Waverly Junction, 42.6678, -92.5281
+Wayland, 41.1472, -91.6606
+Wayne County Hospital, 40.7542, -93.3114
+Weaver, 42.6833, -94.3833
+Webb, 42.9486, -95.0117
+Webster(Keokuk), 41.4383, -92.1689
+Webster(Madison), 41.3500, -94.0000
+Webster City, 42.4694, -93.8158
+Webster County Hospital, 42.4625, -94.2164
+Welcome, 43.1167, -96.1500
+Weldon, 40.8975, -93.7347
+Weller, 41.1072, -93.0492
+Wellman, 41.4642, -91.8381
+Wells, 40.6333, -92.7000
+Wellsburg, 42.4592, -92.9383
+Welton, 41.9081, -90.5953
+Wesley, 43.0883, -93.9900
+West(Montgomery), 40.9500, -95.3167
+West(Iowa), 41.8000, -91.9667
+West Amana, 41.8081, -91.9636
+West Bend, 42.9569, -94.4408
+West Branch, 41.6714, -91.3464
+West Broadway, 41.2667, -95.8500
+West Burlington, 40.8250, -91.1564
+West Chester, 41.3389, -91.8175
+West Des Moines, 41.5772, -93.7111
+West Fort Dodge, 42.5000, -94.1833
+West Grove, 40.7247, -92.5600
+West Lancaster, 41.2667, -92.2333
+West Le Mars, 42.7931, -96.2258
+West Liberty, 41.5700, -91.2636
+West Lincoln, 43.2333, -92.7500
+West Lucas, 41.6333, -91.5667
+West Mitchell, 43.3167, -92.8667
+West Okoboji, 43.3533, -95.1622
+West Point, 40.7167, -91.4500
+West Saint Marys, 41.3081, -93.7394
+West Storm Lake, 42.6333, -95.1833
+West Union, 42.9628, -91.8081
+Westburg, 42.4167, -92.0167
+Western, 41.8653, -91.6431
+Western College, 41.9667, -91.7000
+Westerville, 40.8333, -93.9333
+Westfield, 42.7556, -96.6056
+Westgate, 42.7700, -91.9961
+Weston, 41.3408, -95.7408
+Westphalia, 41.7197, -95.3944
+Westport, 43.3000, -95.3333
+Westside, 42.0592, -95.0978
+Wever, 40.7106, -91.2308
+What Cheer, 41.4014, -92.3544
+Wheatland, 41.8317, -90.8381
+White Cloud, 40.9842, -95.5228
+White Elm, 40.8514, -92.2064
+White Oak, 41.6750, -93.5342
+White Pigeon, 41.5167, -92.0667
+Whitewater, 42.3333, -90.9667
+Whiting, 42.1275, -96.1492
+Whittemore, 43.0619, -94.4267
+Whitten, 42.2608, -93.0053
+Whittier, 42.0947, -91.4625
+Wichita, 41.7333, -94.6039
+Wick, 41.3447, -93.7386
+Wieston, 42.5333, -94.5333
+Wightman, 42.2325, -94.6094
+Wildwood Camp, 41.7000, -90.5833
+Wilke, 42.4967, -93.4692
+Wilkins, 42.4094, -90.5411
+Willey, 41.9792, -94.8219
+William Penn College, 41.2833, -92.6333
+Williams, 42.4883, -93.5447
+Williamsburg, 41.6611, -92.0089
+Williamson(Lucas), 41.0878, -93.2547
+Williamson(Adams), 41.1436, -94.5658
+Williamstown(Chickasaw), 42.9653, -92.3178
+Williamstown(Johnson), 41.5700, -91.7322
+Wilmar, 42.8183, -92.8297
+Wilson, 43.4667, -95.6833
+Wilton, 41.5889, -91.0167
+Winchester, 40.8503, -91.8997
+Windham, 41.6089, -91.7619
+Windsor, 42.9500, -91.9000
+Windsor Heights, 41.5978, -93.7081
+Winfield, 41.1231, -91.4411
+Winkelmans, 41.9711, -94.3383
+Winnebago Heights, 43.1500, -93.2167
+Winneshiek County Hospital, 43.2947, -91.7736
+Winterset, 41.3308, -94.0136
+Winthrop, 42.4733, -91.7342
+Wiota, 41.4003, -94.8867
+Wiscotta, 41.5803, -94.1900
+Wisner, 42.8667, -93.4333
+Woden, 43.2331, -93.9089
+Wolf, 42.1356, -94.0272
+Wolf Creek, 42.4333, -95.9500
+Wolf Lake Addition, 41.9953, -92.8856
+Wood, 42.6575, -91.3325
+Woodbine, 41.7383, -95.7025
+Woodburn, 41.0119, -93.5989
+Woodbury, 42.4333, -96.3000
+Woodland, 40.6961, -93.5978
+Woodland Hills, 41.5533, -93.4619
+Woodward, 41.8569, -93.9217
+Woodward Resource Center, 41.8761, -93.9117
+Woolstock, 42.5667, -93.8436
+Worth, 42.0000, -93.8500
+Worthington, 42.3964, -91.1197
+Worthington Acres, 41.9294, -91.6281
+Wren, 42.6456, -96.2861
+Wright, 41.2492, -92.5258
+Wyacondah, 40.6667, -92.4667
+Wyman, 41.1922, -91.4739
+Wyoming, 42.0592, -91.0072
+Yale, 41.7767, -94.3578
+Yarmouth, 41.0264, -91.3233
+Yellow Springs, 41.0333, -91.1833
+Yetter, 42.3161, -94.8458
+York Center, 41.3761, -95.5556
+Yorkshire, 41.5206, -95.5797
+Yorktown, 40.7333, -95.1567
+Zaneta, 42.3936, -92.5519
+Zearing, 42.1611, -93.2969
+Zenorsville, 42.1072, -93.7178
+Zion, 41.2006, -94.2986
+Zook Spur, 41.8667, -93.8167
+Zwingle, 42.2978, -90.6875

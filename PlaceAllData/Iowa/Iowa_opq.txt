@@ -1,0 +1,211 @@
+O'Leary, 42.7067, -96.0583
+Oak, 41.1167, -95.7000
+Oak Dale, 43.4667, -92.5000
+Oakdale, 41.7064, -91.6028
+Oakfield, 41.5667, -94.9833
+Oakland(Franklin), 42.5811, -93.4431
+Oakland(Pottawattamie), 41.3092, -95.3964
+Oakland Acres, 41.7172, -92.8203
+Oakland Mills, 40.9361, -91.6164
+Oakley, 41.1011, -93.3650
+Oakville, 41.0997, -91.0444
+Oakwood, 43.0092, -92.7769
+Oasis, 41.7061, -91.3853
+Ocheyedan, 43.4161, -95.5344
+Odebolt, 42.3122, -95.2503
+Oelwein, 42.6733, -91.9133
+Ogden, 42.0392, -94.0275
+Ohio, 41.2500, -93.9167
+Okoboji, 43.3864, -95.1481
+Olaf, 42.8867, -93.7244
+Old Balltown, 42.6317, -90.8583
+Old Peru, 41.2358, -93.9450
+Old Town, 43.3136, -95.1439
+Olds, 41.1342, -91.5447
+Olin, 41.9981, -91.1414
+Olive, 41.8167, -90.7333
+Olivet, 41.3136, -92.8300
+Ollie, 41.1981, -92.0922
+Olmitz, 41.0817, -93.1692
+Omega, 43.1167, -95.4500
+Onawa, 42.0267, -96.0969
+Onawa Junction, 42.7250, -95.5575
+Oneida, 42.5428, -91.3533
+Onslow, 42.1069, -91.0150
+Ontario, 42.0358, -93.6814
+Oralabor, 41.7000, -93.5878
+Oran, 42.7014, -92.0744
+Orange, 42.4258, -92.3564
+Orange City, 43.0072, -96.0581
+Orchard, 43.2275, -92.7719
+Oregon, 41.3000, -91.5333
+Orient, 41.2031, -94.4144
+Orillia, 41.5097, -93.7286
+Orleans(Appanoose), 40.7256, -92.6572
+Orleans(Dickinson), 43.4472, -95.0922
+Ormanville, 40.9086, -92.4831
+Orono, 41.3833, -91.3333
+Orson, 41.7794, -95.9831
+Orthel, 43.1167, -93.9000
+Ortonville, 41.6150, -93.9594
+Osage, 43.2842, -92.8108
+Osborne, 42.7919, -91.4453
+Osceola, 41.0339, -93.7653
+Osgood, 43.1933, -94.7011
+Oskaloosa, 41.2964, -92.6442
+Ossian, 43.1464, -91.7644
+Osterdock, 42.7336, -91.1578
+Oswalt, 41.6958, -93.2975
+Otho, 42.4247, -94.1500
+Otley, 41.4667, -93.0333
+Oto, 42.2839, -95.8928
+Otranto, 43.4583, -92.9856
+Ottawa, 41.0300, -93.5908
+Otter, 41.2833, -93.5000
+Otter Creek, 42.2406, -90.6825
+Otterville, 42.5086, -91.9464
+Ottosen, 42.8950, -94.3797
+Ottumwa, 41.0042, -92.3736
+Ottumwa Junction, 41.0333, -92.4167
+Owasa, 42.4336, -93.2069
+Owego, 42.2794, -96.1542
+Owen, 43.0500, -93.0833
+Oxford, 41.7233, -91.7903
+Oxford Junction, 41.9836, -90.9561
+Oxford Mills, 41.9703, -90.9597
+Oyens, 42.8203, -96.0575
+Ozark, 42.1953, -90.8753
+Pacific City, 41.0478, -95.8000
+Pacific Junction, 41.0186, -95.7989
+Packard, 42.8508, -92.7319
+Packwood, 41.1328, -92.0825
+Page Center, 40.7122, -95.1294
+Paint Creek, 43.2333, -91.3000
+Painted Rocks, 41.4667, -93.0333
+Palermo, 42.3333, -92.8333
+Palestine, 41.9333, -93.6167
+Palm Grove, 42.3261, -94.1739
+Palmer, 42.6306, -94.6003
+Palmyra, 41.4361, -93.4381
+Palo, 42.0661, -91.7953
+Palo Alto, 41.6500, -93.0500
+Palo Alto County Hospital, 43.1203, -94.6917
+Panama, 41.7264, -95.4719
+Panora, 41.6917, -94.3628
+Panorama Park, 41.5500, -90.4500
+Panorania Park, 41.5556, -90.4531
+Panther, 41.6883, -94.1061
+Paradise, 41.9833, -95.5000
+Paralta, 42.0314, -91.4425
+Paris(Davis), 40.7886, -92.5922
+Paris(Linn), 42.2333, -91.5833
+Park Hills, 41.4667, -93.0333
+Parkersburg, 42.5775, -92.7867
+Parkview, 41.6942, -90.5456
+Parnell, 41.5831, -92.0039
+Paton, 42.1644, -94.2550
+Patterson, 41.3483, -93.8803
+Paullina, 42.9792, -95.6878
+Payne, 40.6697, -95.7600
+Pekin, 41.1628, -92.1594
+Pella, 41.4081, -92.9161
+Peoples, 41.9000, -93.9833
+Peoria, 41.4619, -92.8011
+Peosta, 42.4506, -90.8503
+Percival, 40.7489, -95.8133
+Perkins, 43.1881, -96.1853
+Perlee, 41.0839, -91.9033
+Perry, 41.8386, -94.1069
+Pershing, 41.2631, -93.0061
+Persia, 41.5800, -95.5678
+Peru(Madison), 41.2500, -93.9167
+Peru(Dubuque), 42.6000, -90.7333
+Peter, 41.3547, -95.6539
+Petersburg, 42.5550, -91.2131
+Peterson, 42.9181, -95.3436
+Petersville, 41.9675, -90.5336
+Philby, 43.0697, -95.8014
+Pickering, 41.9408, -92.8164
+Pierce, 40.8500, -95.3333
+Pierson, 42.5442, -95.8672
+Pike, 41.4833, -91.2833
+Pilot Grove(Lee), 40.7628, -91.5367
+Pilot Grove(Montgomery), 41.1000, -95.1000
+Pilot Mound, 42.1644, -94.0164
+Pilot Rock, 42.7739, -92.8494
+Pine Knoll Nursing Home, 41.5222, -90.6183
+Pine Knoll Sanitorium, 41.5222, -90.6183
+Pinehurst, 41.2667, -95.8500
+Pioneer, 42.6539, -94.3922
+Piper, 42.3650, -94.5533
+Pisgah, 41.8314, -95.9253
+Pitcher, 42.7000, -95.4500
+Pittsburg, 40.7464, -91.9917
+Pittsford, 42.7667, -92.9667
+Pitzer, 41.3739, -94.1856
+Plainfield, 42.8475, -92.5369
+Plainview, 41.6683, -90.7825
+Plank, 41.3500, -92.1167
+Plano, 40.7556, -93.0464
+Plato, 43.1167, -96.2667
+Platteville, 40.6400, -94.5564
+Plattville, 41.0333, -95.7833
+Plaza Hills, 41.6000, -93.6833
+Pleasant Grove(Des Moines), 40.9675, -91.2878
+Pleasant Grove(Dubuque), 42.3897, -90.9261
+Pleasant Hill, 41.5839, -93.5197
+Pleasant Plain, 41.1472, -91.8589
+Pleasant Prairie, 41.5244, -90.8719
+Pleasant Ridge, 40.7667, -91.4333
+Pleasant Valley, 41.5697, -90.4231
+Pleasanton, 40.5806, -93.7436
+Pleasantville, 41.3858, -93.2692
+Plessis, 43.2336, -95.5478
+Plover, 42.8783, -94.6203
+Plum Creek, 43.1333, -94.1500
+Plymouth, 43.2458, -93.1228
+Pocahontas, 42.7356, -94.6689
+Poe, 40.6833, -94.1833
+Poland, 42.8833, -94.9667
+Polk City, 41.7714, -93.7128
+Polk City Junction, 41.8025, -93.6978
+Pomeroy, 42.5511, -94.6836
+Popejoy, 42.5939, -93.4258
+Poplar, 41.6883, -95.0933
+Port Louisa, 41.2333, -91.1333
+Portland, 43.1286, -93.1233
+Portsmouth, 41.6503, -95.5183
+Pospect Park, 41.2667, -95.8500
+Post, 43.1500, -91.5500
+Postville, 43.0847, -91.5681
+Powersville, 42.9364, -92.6869
+Poweshiek, 41.7500, -93.2833
+Powhatan, 42.8667, -94.6167
+Poyner, 42.5167, -92.2167
+Prairie, 40.7833, -95.5500
+Prairie City, 41.5994, -93.2350
+Prairie Creek, 42.3333, -90.8500
+Prairie Grove, 40.8792, -91.2522
+Prairie Springs, 42.3333, -90.6167
+Prairieburg, 42.2383, -91.4222
+Prescott, 41.0231, -94.6133
+Preston, 42.0503, -90.4139
+Primghar, 43.0869, -95.6269
+Primrose, 40.6756, -91.6381
+Princeton, 41.6747, -90.3403
+Probstei, 41.5814, -90.6625
+Prole, 41.4092, -93.7269
+Promise City, 40.7475, -93.1469
+Prospect Hill, 40.8167, -91.1000
+Prospect Park, 41.2667, -95.8500
+Protivin, 43.2161, -92.0908
+Prussia, 41.3833, -94.5333
+Pulaski, 40.6969, -92.2731
+Purdy, 41.1606, -93.2331
+Pymosa, 41.4500, -94.9833
+Quandahl, 43.4500, -91.6064
+Quarry, 42.0172, -92.8050
+Quasqueton, 42.3944, -91.7608
+Quick, 41.2900, -95.6700
+Quimby, 42.6303, -95.6417
+Quincy, 41.0403, -94.7900

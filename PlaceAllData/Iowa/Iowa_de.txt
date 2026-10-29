@@ -1,0 +1,182 @@
+Dahlonega, 41.0586, -92.3697
+Dakota City, 42.7200, -94.2000
+Dakota Point, 42.5547, -96.4739
+Dalby, 43.2642, -91.2739
+Dale, 41.5958, -94.3417
+Dales Ford, 42.2144, -91.0667
+Dallas, 41.2331, -93.2417
+Dallas Center, 41.6844, -93.9608
+Dana, 42.1075, -94.2406
+Danbury, 42.2342, -95.7219
+Danville, 40.8644, -91.3144
+Darbyville, 40.8161, -92.8731
+Davenport, 41.5236, -90.5775
+Davenport Medical Center, 41.5508, -90.5883
+Davis City, 40.6392, -93.8114
+Davis Corners, 43.3708, -92.2975
+Dawson, 41.8428, -94.2222
+Dayton, 42.2614, -94.0683
+Daytonville, 41.4761, -91.8289
+De Soto, 41.5317, -94.0094
+De Witt, 41.8233, -90.5381
+Dean, 40.6275, -92.7139
+Decatur City, 40.7419, -93.8336
+Decatur County Hospital, 40.7508, -93.7472
+Decorah, 43.3033, -91.7856
+Dedham, 41.9061, -94.8219
+Deep Creek, 42.0000, -90.3667
+Deep River, 41.5803, -92.3747
+Deer Creek, 43.4994, -93.1267
+Deerfield, 43.1636, -92.4953
+Defiance, 41.8242, -95.3425
+Delana, 42.8667, -94.2667
+Delaware, 42.4753, -91.3453
+Delhi, 42.4297, -91.3308
+Delmar, 42.0022, -90.6069
+Deloit, 42.0978, -95.3222
+Delphos, 40.6636, -94.3392
+Delta, 41.3228, -92.3300
+Denhart, 42.9661, -93.8719
+Denison, 42.0178, -95.3550
+Denmark, 40.7417, -91.3372
+Denver, 42.6714, -92.3372
+Depew, 43.1842, -94.5422
+Derby, 40.9317, -93.4561
+Des Moines, 41.6006, -93.6089
+Devon, 43.1197, -92.3575
+Dewar, 42.5256, -92.2189
+Dexter, 41.5183, -94.2261
+Diagonal, 40.8094, -94.3419
+Diamond, 42.6000, -95.4500
+Diamond Center, 42.7167, -95.4333
+Diamond Lake, 43.4667, -95.2167
+Dickens, 43.1314, -95.0233
+Dickierville, 41.0011, -94.8958
+Dike, 42.4642, -92.6281
+Dillon, 41.9769, -92.8239
+Dinsdale, 42.2592, -92.5447
+Dixon, 41.7428, -90.7822
+Dodge Park, 41.2667, -95.8500
+Dodgeville, 40.9431, -91.1806
+Dolliver, 43.4644, -94.6250
+Donahue, 41.6947, -90.6753
+Donnan, 42.8961, -91.8778
+Donnelley, 41.3350, -93.1767
+Donnellson, 40.6428, -91.5644
+Doon, 43.2794, -96.2325
+Dorchester, 43.4697, -91.5108
+Doris, 42.4833, -91.8833
+Douds, 40.8394, -92.0864
+Dougherty, 42.9222, -93.0419
+Dow City, 41.9289, -95.4936
+Downey, 41.6161, -91.3483
+Dows, 42.6567, -93.5008
+Doyle, 40.9500, -93.9333
+Drakesville, 40.7983, -92.4814
+Dresden(Poweshiek), 41.5778, -92.3556
+Dresden(Chickasaw), 42.9500, -92.2667
+Dubuque, 42.5006, -90.6644
+Dudley, 41.0878, -92.5917
+Dumfries, 41.1869, -95.7378
+Dumont, 42.7519, -92.9753
+Dunbar, 41.9408, -92.7964
+Duncan, 43.1047, -93.7111
+Duncombe, 42.4706, -93.9933
+Dundee, 42.5792, -91.5464
+Dunkerton, 42.5700, -92.1603
+Dunlap, 41.8544, -95.6003
+Durango, 42.5603, -90.7756
+Durant, 41.5997, -90.9106
+Durham, 41.3203, -92.9556
+Dutch Creek, 41.2833, -91.8833
+Dutchtown, 42.5522, -91.4108
+Dyersville, 42.4844, -91.1228
+Dysart, 42.1717, -92.3061
+Eagle Center, 42.3408, -92.3572
+Eagle City, 42.4717, -93.1450
+Eagle Grove, 42.6642, -93.9042
+Eagle Point, 42.5347, -90.6444
+Earlham, 41.4919, -94.1239
+Earling, 41.7756, -95.4172
+Earlville, 42.4817, -91.2722
+Early, 42.4614, -95.1517
+East, 40.9333, -95.0000
+East Amana, 41.8092, -91.8508
+East Boyer, 41.9833, -95.2667
+East Des Moines, 41.5833, -93.6167
+East Lancaster, 41.2667, -92.1167
+East Lincoln, 43.2333, -92.6333
+East Lucas, 41.6333, -91.5333
+East Orange, 42.9500, -95.9500
+East Peru(Peru P O), 41.2269, -93.9261
+East Pleasant Plain, 41.1472, -91.8589
+East Rickardsville, 42.5736, -90.8578
+East River, 40.6833, -94.9833
+East Waterloo, 42.5333, -92.2833
+Eby's Mill, 42.1997, -91.0589
+Eddyville, 41.1606, -92.6311
+Edgewood, 42.6444, -91.4011
+Edgewood Park, 41.5500, -90.5000
+Edinburg, 42.1333, -91.1339
+Edison, 41.2667, -95.8500
+Edmore, 42.5561, -90.6786
+Edna, 43.3850, -96.0942
+Egan, 43.1567, -91.2894
+Egralharve, 43.4022, -95.1728
+Elberon, 42.0061, -92.3167
+Eldergrove, 43.2397, -91.2197
+Eldon, 40.9186, -92.2228
+Eldora, 42.3608, -93.0994
+Eldorado, 43.0506, -91.8353
+Eldridge, 41.6581, -90.5844
+Eleanor, 42.6142, -92.8492
+Elgin, 42.9575, -91.6306
+Eliot, 41.1000, -91.0000
+Elk Creek, 41.5500, -92.9333
+Elk Horn, 41.5917, -95.0597
+Elk River, 42.0167, -90.2333
+Elk River Junction, 41.9797, -90.1739
+Elk Run Heights, 42.4669, -92.2564
+Elkader, 42.8539, -91.4053
+Elkhart, 41.4569, -93.5219
+Elkport, 42.7397, -91.2778
+Ell, 43.0333, -93.5667
+Elliot, 41.1492, -95.1636
+Ellis, 42.4333, -93.3000
+Ellston, 40.8403, -94.1083
+Ellsworth, 42.3128, -93.5786
+Elma, 43.2467, -92.4358
+Elmira, 41.7228, -91.4247
+Elon, 43.2642, -91.3239
+Elrick, 41.1833, -91.1833
+Elrick Junction, 41.0986, -91.1175
+Elvira, 41.8589, -90.3553
+Elwood, 41.9917, -90.7389
+Ely, 41.8736, -91.5850
+Emeline, 42.1553, -90.8306
+Emerson, 41.0172, -95.4019
+Emery, 43.1336, -93.2800
+Emmet, 43.4667, -94.8167
+Emmetsburg, 43.1128, -94.6828
+Emmons, 43.4994, -93.4881
+Enterprise, 41.7319, -93.5300
+Epworth, 42.4450, -90.9319
+Ericson, 42.0286, -93.7961
+Erin, 43.0333, -93.8000
+Essex, 40.8336, -95.3081
+Estherville, 43.4017, -94.8325
+Etna, 42.5167, -93.0667
+Euclid, 41.5439, -95.8606
+Evangelical Deaconess Home and Hospital, 42.0492, -92.9078
+Evans, 41.3028, -92.7269
+Evans Junction, 41.2667, -92.6833
+Evansdale, 42.4692, -92.2808
+Evanston, 42.4342, -94.0575
+Eveland, 41.1697, -92.8006
+Evergreen, 41.5333, -90.6000
+Everly, 43.1600, -95.3272
+Ewart, 41.6411, -92.6103
+Ewoldt, 41.9000, -95.0333
+Excelsior, 43.3833, -95.3333
+Exira, 41.5908, -94.8753
+Exline, 40.6492, -92.8403

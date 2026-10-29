@@ -1,0 +1,315 @@
+Radcliffe, 42.3153, -93.4342
+Raglan, 41.7333, -95.9667
+Rake, 43.4839, -93.9186
+Raleigh, 43.3394, -94.8686
+Ralston, 42.0417, -94.6328
+Ramsey, 43.3000, -94.1500
+Randalia, 42.8631, -91.8856
+Randall, 42.2383, -93.6006
+Randolph, 40.8731, -95.5661
+Rands, 42.3250, -94.5786
+Rathbun, 40.8011, -92.8886
+Rawles, 40.9500, -95.6333
+Raymar, 42.4553, -92.2400
+Raymond, 42.4689, -92.2194
+Read, 42.8500, -91.3333
+Readlyn, 42.7022, -92.2253
+Reasnor, 41.5783, -93.0231
+Red Line, 41.7172, -95.1508
+Red Oak, 41.0097, -95.2253
+Red Rock, 41.4333, -93.1167
+Redding, 40.6047, -94.3875
+Redfield, 41.5894, -94.1958
+Reeceville, 42.1267, -90.2983
+Reeve, 42.6833, -93.2000
+Reilly Settlement, 43.1556, -92.1806
+Reinbeck, 42.3236, -92.5992
+Rembrandt, 42.8256, -95.1661
+Remsen, 42.8147, -95.9731
+Renwick, 42.8281, -93.9808
+Republic, 42.9511, -92.3972
+Rexfield, 41.0817, -92.9522
+Rhodes, 41.9256, -93.1861
+Rice, 40.6667, -94.3333
+Riceville, 43.3639, -92.5539
+Richards, 42.4278, -94.5294
+Richfield, 42.9503, -92.0625
+Richland, 41.1856, -91.9928
+Richman, 40.8500, -93.5000
+Richmond, 41.4497, -91.6972
+Rickardsville, 42.5833, -90.8839
+Ricketts, 42.1269, -95.5747
+Rider, 41.6442, -93.7694
+Ridgeport, 42.1769, -93.9172
+Ridgeway, 43.2978, -91.9875
+Ridotto, 42.8294, -94.6767
+Riggs, 42.0050, -90.5300
+Riley, 40.6167, -94.0833
+Rinard, 42.3397, -94.4883
+Ringsted, 43.2947, -94.5114
+Ripley, 42.7000, -92.8500
+Rippey, 41.9339, -94.2011
+Rising Sun, 41.5933, -93.4814
+Ritter, 43.2442, -95.8225
+River Junction, 41.4906, -91.4967
+River Sioux, 41.8058, -96.0461
+Riverdale, 41.5444, -90.4581
+Riverside(Washington), 41.4797, -91.5811
+Riverside(Woodbury), 42.5189, -96.4819
+Riverton, 40.6869, -95.5683
+Roberts, 42.4269, -94.1742
+Roberts Park, 41.2667, -95.8500
+Robertson, 42.5064, -93.1272
+Robins, 42.0711, -91.6667
+Robinson, 42.3419, -91.5786
+Robison-Whitaker Acres, 41.9258, -93.4350
+Rochester, 41.6739, -91.1583
+Rock Creek(Mitchell), 43.2350, -92.9186
+Rock Creek(Jasper), 41.7333, -92.8167
+Rock Falls, 43.2075, -93.0844
+Rock Grove, 43.1667, -92.9667
+Rock Rapids, 43.4272, -96.1756
+Rock Valley, 43.2053, -96.2947
+Rockdale, 42.4642, -90.6783
+Rockford, 43.0522, -92.9483
+Rockville, 42.4186, -91.1419
+Rockwell, 42.9853, -93.1917
+Rockwell City, 42.3953, -94.6336
+Rodman, 43.0286, -94.5308
+Rodney, 42.2056, -95.9522
+Roelyn, 42.4136, -94.3572
+Rogers, 42.1967, -91.5786
+Roland, 42.1664, -93.5017
+Rolfe, 42.8128, -94.5267
+Rome, 40.9814, -91.6822
+Roosevelt(Pocahontas), 42.7833, -94.6167
+Roosevelt(Pottawattamie), 41.2667, -95.8500
+Roscoe(Davis), 40.6500, -92.2500
+Roscoe(Des Moines), 41.0236, -91.2597
+Rose, 42.5819, -90.6992
+Rose Grove, 42.4167, -93.5167
+Rose Hill, 41.3219, -92.4619
+Roselle, 42.0003, -94.9153
+Roseville, 43.0092, -92.8097
+Rosewood Manor Nursing Home, 43.4025, -94.8153
+Ross, 41.7742, -94.9186
+Rosserdale, 41.4028, -94.4142
+Rossie, 43.0133, -95.1883
+Rossville, 43.1894, -91.3756
+Rough Woods Hill, 42.3608, -93.2086
+Round Prairie, 40.9500, -91.7833
+Rowan, 42.7408, -93.5525
+Rowley, 42.3700, -91.8439
+Royal, 43.0656, -95.2836
+Rubio, 41.2211, -91.9375
+Ruble, 42.8081, -96.4094
+Rudd, 43.1261, -92.9056
+Runnells, 41.5111, -93.3572
+Rush Lake, 42.9333, -94.7333
+Russell, 40.9819, -93.1983
+Ruthven, 43.1292, -94.8989
+Rutland, 42.7592, -94.2975
+Rutledge, 41.0611, -92.4211
+Ryan, 42.3514, -91.4814
+Sabula, 42.0711, -90.1739
+Sac City, 42.4222, -94.9894
+Sageville, 42.5528, -90.7089
+Salem, 40.8528, -91.6200
+Salina, 41.0458, -91.8331
+Salix, 42.3083, -96.2875
+Sanborn, 43.1817, -95.6553
+Sand Creek, 40.9500, -94.2000
+Sand Prairie, 40.5333, -91.5667
+Sand Springs, 42.3175, -91.1892
+Sandusky, 40.4644, -91.3872
+Sandyville, 41.3708, -93.3861
+Santiago, 41.7100, -93.3747
+Saratoga, 43.3714, -92.4058
+Sartori Hospital, 42.5336, -92.4572
+Sattre, 43.3922, -91.6394
+Saude, 43.0667, -92.1833
+Savannah, 40.6242, -92.4542
+Sawyer, 40.6964, -91.3550
+Saydel, 41.6333, -93.6000
+Saylor, 41.6661, -93.5964
+Saylorville, 41.6786, -93.6294
+Scarville, 43.4706, -93.6175
+Schaller, 42.5000, -95.2928
+Schleswig, 42.1653, -95.4367
+Schley, 43.3033, -92.2189
+Schoitz Hospital, 42.4703, -92.3553
+Sciola, 41.0339, -94.9853
+Scotch Grove, 42.1728, -91.1075
+Scotch Ridge, 41.4725, -93.5583
+Scranton, 42.0225, -94.5450
+Sea City, 43.3844, -94.3147
+Searsboro, 41.5806, -92.7033
+Sedan, 40.7333, -92.8667
+Seely, 41.7333, -94.5833
+Selection, 40.9639, -92.7831
+Selma, 40.8703, -92.1531
+Seneca, 43.2992, -94.3839
+Seney, 42.8528, -96.1306
+Sergeant Bluff, 42.4039, -96.3583
+Settlers, 43.2333, -96.4833
+Sewal, 40.6442, -93.2586
+Sexton, 43.0828, -94.0889
+Seymour, 40.6825, -93.1208
+Shady Grove, 42.3806, -92.0547
+Shady Oak, 42.4617, -94.1567
+Shaffton, 41.7561, -90.3319
+Shambaugh, 40.6589, -95.0317
+Shannon City, 40.9017, -94.2631
+Sharon(Audubon), 41.6742, -94.9953
+Sharon(Lee), 40.7264, -91.6603
+Sharon Center, 41.5692, -91.6611
+Sharpsburg, 40.8025, -94.6422
+Shawondasse, 42.4394, -90.5914
+Sheffield, 42.8933, -93.2150
+Shelby, 41.5161, -95.4500
+Sheldahl, 41.8644, -93.6969
+Sheldon, 43.1811, -95.8558
+Shell Rock, 42.7103, -92.5828
+Shellsburg, 42.0944, -91.8692
+Shenandoah, 40.7656, -95.3719
+Sheridan, 41.8339, -92.5911
+Sherman, 42.3539, -93.3736
+Sherrill, 42.6039, -90.7844
+Sherwood, 42.3592, -94.7267
+Shiloh, 42.4333, -92.9500
+Shipley, 41.9800, -93.5114
+Shueyville, 41.8506, -91.6464
+Shunem, 40.7767, -92.2972
+Siam, 40.6278, -94.8853
+Sibley, 43.3992, -95.7517
+Sidney, 40.7483, -95.6472
+Sigourney, 41.3333, -92.2044
+Silver, 42.6000, -95.5500
+Silver City, 41.1133, -95.6369
+Silver Creek, 42.4333, -95.3833
+Silver Lake, 43.4808, -93.3664
+Sinclair, 42.5000, -92.7317
+Sioux Center, 43.0797, -96.1753
+Sioux City, 42.5000, -96.4000
+Sioux Rapids, 42.8933, -95.1508
+Sixmile, 41.9097, -90.2953
+Sixteen, 43.1267, -91.3158
+Slater, 41.8778, -93.6783
+Slifer, 42.3414, -94.3783
+Sloan, 42.2328, -96.2278
+Smithfield, 42.7667, -91.7833
+Smithland, 42.2292, -95.9306
+Smiths, 42.3225, -90.4308
+Smyrna, 40.9422, -93.6094
+Soap Creek, 40.8500, -92.4667
+Soldier, 41.9853, -95.7792
+Solomon, 40.9053, -95.4417
+Solon, 41.8072, -91.4939
+Somers, 42.3783, -94.4297
+South, 41.3000, -93.8333
+South Amana, 41.7761, -91.9672
+South Augusta, 40.7522, -91.2772
+South Des Moines, 41.5500, -93.6167
+South English, 41.4522, -92.0903
+South Garry Owen, 42.2306, -90.8069
+South Muscatine, 41.4333, -91.0500
+South Ottumwa, 41.0333, -92.4167
+Spaulding, 41.1167, -94.4167
+Spencer, 43.1414, -95.1442
+Spencers Grove, 42.2844, -91.8689
+Sperry, 40.9569, -91.1564
+Spillville, 43.2050, -91.9508
+Spirit Lake, 43.4222, -95.1019
+Spragueville, 42.0725, -90.4350
+Spring, 42.8667, -95.4500
+Spring Branch, 42.8103, -91.3328
+Spring Creek, 42.3500, -92.1167
+Spring Fountain, 42.8328, -92.1803
+Spring Grove(Des Moines), 40.7397, -91.1581
+Spring Grove(Linn), 42.2500, -91.6667
+Spring Hill, 41.4114, -93.6447
+Spring Rock, 41.8167, -90.8500
+Spring Valley, 41.4150, -92.4836
+Springbrook, 42.1642, -90.4764
+Springdale(Cedar), 41.6706, -91.2589
+Springdale(Woodbury), 42.5233, -96.3697
+Springhole, 42.2183, -91.0975
+Springville, 42.0594, -91.4425
+Squaw, 41.2000, -93.6000
+St Ansgar, 43.3783, -92.9186
+St Anthony, 42.1222, -93.1947
+St Benedict, 43.0381, -94.0642
+St Catherines, 42.5000, -90.7000
+St Charles, 41.2883, -93.8092
+St Donatus, 42.3608, -90.5392
+St Elizabeths Hospital, 41.5439, -90.5917
+St Francis Hospital, 42.4992, -92.3072
+St Johns, 41.5500, -95.9000
+St Johns Hospital, 41.5439, -90.5917
+St Joseph, 42.9133, -94.2269
+St Josephs Hospital, 40.4022, -91.3931
+St Lucas, 43.0664, -91.9333
+St Lukes Hospital, 41.5417, -90.5575
+St Marys, 41.3081, -93.7294
+St Marys Home, 42.5164, -90.7083
+St Olaf, 42.9286, -91.3861
+St Paul, 40.7694, -91.5169
+St Sebald, 42.7383, -91.5458
+St Vincent Hospital, 42.4972, -96.4000
+Stacyville, 43.4361, -92.7822
+Stacyville Junction, 43.4458, -92.9325
+Stanhope, 42.2889, -93.7958
+Stanley, 42.6428, -91.8125
+Stanton, 40.9817, -95.1039
+Stanwood, 41.8931, -91.1506
+Stanzel, 41.3158, -94.2608
+Stapleton, 43.0333, -92.1667
+State Center, 42.0167, -93.1633
+Steady Run, 41.2000, -92.2333
+Steamboat Rock, 42.4094, -93.0656
+Stennett, 41.0897, -95.1942
+Sterling, 42.0767, -90.2528
+Steuben, 40.7236, -92.3883
+Stevens, 43.4317, -94.0039
+Stiles, 40.6350, -92.3511
+Stilson, 43.0383, -93.8850
+Stock Yards, 42.5000, -96.3667
+Stockholm, 42.1667, -95.2667
+Stockport, 40.8575, -91.8350
+Stockton, 41.5914, -90.8586
+Stone City, 42.1139, -91.3492
+Stonega, 42.4767, -93.7144
+Storm Lake, 42.6411, -95.2094
+Story City, 42.1872, -93.5956
+Stout, 42.5000, -92.7117
+Strahan, 40.9497, -95.4989
+Stratford, 42.2714, -93.9269
+Strawberry Point, 42.6836, -91.5339
+Streepyville, 40.6961, -92.9158
+Stringtown, 40.9789, -94.5575
+Struble, 42.8953, -96.1950
+Stuart, 41.5033, -94.3183
+Sugar Grove, 41.7333, -94.0000
+Sully, 41.5783, -92.8447
+Sulphur Springs, 42.6219, -95.0969
+Summerset(Warren), 41.4314, -93.5447
+Summerset(Adair), 41.3000, -94.5333
+Summitville, 40.4728, -91.4486
+Sumner, 42.8475, -92.0914
+Sunbury, 41.6700, -90.9308
+Sunny Crest Santarium, 42.5322, -90.6542
+Sunnyslope Sanatorium, 41.0156, -92.3867
+Sunshine, 40.7397, -92.9250
+Superior, 43.4303, -94.9461
+Sutherland, 42.9742, -95.4972
+Sutliff, 41.8392, -91.3914
+Swaldale, 42.9786, -93.4381
+Swaledale, 42.9833, -93.3167
+Swan, 41.4653, -93.3111
+Swanton, 42.5000, -92.6922
+Swanwood, 41.6514, -93.5903
+Swea City, 43.3833, -94.3167
+Swedesburg, 41.1053, -91.5469
+Sweetland, 41.4833, -90.9500
+Sweetland Center, 41.4933, -90.9694
+Swisher, 41.8456, -91.6928

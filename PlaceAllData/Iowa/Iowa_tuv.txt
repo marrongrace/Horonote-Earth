@@ -1,0 +1,127 @@
+Table Mound, 42.4333, -90.7167
+Tabor, 40.8983, -95.6711
+Taintor, 41.5011, -92.7383
+Talleyrand, 41.2950, -91.9650
+Talmage, 41.0269, -94.1117
+Tama, 41.9667, -92.5767
+Tara, 42.5003, -94.2956
+Tarkio, 40.7667, -95.2000
+Taylor, 41.2714, -95.5197
+Taylorsville, 42.7672, -91.6467
+Teeds Grove, 42.0117, -90.2475
+Templar Park, 43.4333, -95.1000
+Temple Hill, 42.2258, -90.9761
+Templeton, 41.9183, -94.9425
+Tenmile, 41.9456, -90.3339
+Tennant, 41.5936, -95.4408
+Tenville, 41.0086, -94.9919
+Tenville Junction, 40.9333, -94.9833
+Terre Haute, 40.6833, -93.8664
+Terril, 43.3058, -94.9714
+Tete Des Morts, 42.3333, -90.5000
+Thayer, 41.0281, -94.0506
+Thirty, 40.6961, -92.8675
+Thomasville, 42.7539, -91.5808
+Thompson, 43.3714, -93.7733
+Thompson Corner, 43.2664, -91.2306
+Thor, 42.6881, -94.0492
+Thornburg, 41.4547, -92.3356
+Thornton, 42.9447, -93.3844
+Thorpe, 42.5661, -91.4492
+Thurman, 40.8200, -95.7475
+Ticonic, 42.1661, -95.9522
+Tiffin, 41.7058, -91.6628
+Tilden, 42.7000, -95.8000
+Tilton, 41.5097, -92.3522
+Timber Creek, 41.9833, -92.9333
+Timberland Heights, 42.0500, -93.5833
+Tingley, 40.8528, -94.1950
+Tinley, 41.2667, -95.8500
+Tippecanoe, 40.9667, -91.6333
+Tipperary, 41.1136, -93.1542
+Tipton, 41.7697, -91.1278
+Titonka, 43.2369, -94.0411
+Toddville, 42.0992, -91.7167
+Toeterville, 43.4422, -92.8903
+Toledo, 41.9956, -92.5767
+Toolesboro, 41.1419, -91.0619
+Toronto, 41.9050, -90.8639
+Tracy, 41.2833, -92.8833
+Traer, 42.1936, -92.4653
+Trenton, 41.0617, -91.6372
+Treynor, 41.2325, -95.6128
+Triboji Beach, 43.4269, -95.1744
+Tripoli, 42.8081, -92.2581
+Troy, 40.7486, -92.2025
+Troy Mills, 42.2900, -91.6822
+Truax, 41.1933, -92.7303
+Truesdale, 42.7292, -95.1825
+Truro, 41.2333, -93.8333
+Turin, 42.0194, -95.9661
+Turkey River, 42.7061, -91.0258
+Turro, 41.2081, -93.8458
+Tuskeego, 40.7167, -94.0500
+Twelve Mile Lake, 43.3000, -94.8333
+Twin City Plaza Addition, 41.2667, -95.8500
+Twin Lake, 42.9500, -93.6833
+Twin Lakes, 42.4333, -94.7000
+Twin Springs(Dubuque), 42.5153, -90.8403
+Twin Springs(Jackson), 42.1319, -90.2836
+Twin View Heights, 41.8106, -91.5731
+Tyrone, 40.9778, -92.9464
+Udell, 40.7808, -92.7419
+Ulmer, 42.2678, -94.9497
+Ulster, 43.0667, -92.8500
+Underwood, 41.3869, -95.6764
+Union, 42.2456, -93.0644
+Union Center, 42.6925, -96.0581
+Union City, 43.4667, -91.4500
+Union Mills, 41.4525, -92.5706
+Union Prairie, 43.3000, -91.5500
+Unionville, 40.8183, -92.6953
+University Heights, 41.6667, -91.5667
+University Heigts, 41.6550, -91.5567
+University Park, 41.2833, -92.6167
+Updegraff, 42.6839, -91.2369
+Upper South Amana, 41.7658, -91.9678
+Urbana, 42.2242, -91.8742
+Urbandale, 41.6267, -93.7119
+Ute, 42.0503, -95.7061
+Utica(Chickasaw), 43.1500, -92.1667
+Utica(Van Buren), 40.8147, -91.8347
+Vail, 42.0619, -95.1997
+Valeria, 41.7300, -93.3250
+Van Buren, 42.0844, -90.3647
+Van Cleve, 41.9314, -93.0189
+Van Horne, 42.0086, -92.0908
+Van Meter, 41.5319, -93.9539
+Van Wert, 40.8697, -93.7928
+Vandalia, 41.5394, -93.3058
+Varina, 42.6581, -94.8975
+Ventura, 43.1264, -93.4775
+Ventura Heights, 43.1178, -93.4739
+Veo, 41.1833, -92.0000
+Vermilion, 40.7167, -92.8667
+Vernon(Johnson), 41.6853, -91.6017
+Vernon(Van Buren), 40.7225, -91.8550
+Vernon Springs, 43.3500, -92.1381
+Vernon View, 41.9756, -91.5728
+Victor, 41.7317, -92.2978
+Victoria, 41.2000, -94.7833
+Victory, 41.7333, -94.4500
+Viele, 40.6131, -91.4336
+Vienna, 42.1667, -92.8333
+Village, 40.8833, -92.1333
+Village Creek, 43.3092, -91.2350
+Villisca, 40.9297, -94.9758
+Vincennes, 40.4964, -91.5697
+Vincent, 42.5919, -94.0200
+Vining, 41.9900, -92.3797
+Vinje, 43.4733, -93.6767
+Vinton, 42.1686, -92.0233
+Viola, 42.0908, -91.4375
+Viola Center, 41.8058, -94.8019
+Virginia, 41.2000, -93.7167
+Volga(Volga City), 42.8047, -91.5408
+Volney, 43.1306, -91.3736
+Voorhies, 42.3358, -92.4825

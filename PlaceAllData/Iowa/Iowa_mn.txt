@@ -1,0 +1,284 @@
+Macedonia, 41.1928, -95.4253
+Mackey, 42.1664, -93.7567
+Macksburg, 41.2147, -94.1850
+Macy, 42.5500, -93.0333
+Madison, 41.2667, -95.8500
+Madison County Memorial Hospital, 41.3283, -94.0167
+Madrid, 41.8767, -93.8231
+Magnolia, 41.6958, -95.8764
+Magor, 42.9500, -93.9167
+Maine(Appanoose), 40.8561, -92.8614
+Maine(Linn), 42.1833, -91.5333
+Makee, 43.3000, -91.4333
+Malaka, 41.8167, -93.0667
+Malcom, 41.7083, -92.5589
+Mallard, 42.9364, -94.6819
+Mallory, 42.7000, -91.2000
+Malone, 41.8333, -90.5333
+Maloy, 40.6744, -94.4119
+Malvern, 41.0028, -95.5850
+Manawa, 41.2667, -95.8500
+Manchester, 42.4842, -91.4553
+Manilla, 41.8897, -95.2319
+Manly, 43.2872, -93.2019
+Manning, 41.9092, -95.0647
+Manson, 42.5333, -94.5333
+Manteno, 41.8325, -95.5369
+Mantua, 41.0333, -92.7000
+Maple Heights, 43.0667, -92.6833
+Maple Hill, 43.3922, -94.6250
+Maple Leaf, 43.3208, -92.3789
+Maple River, 42.0833, -94.9333
+Maple River Junction, 42.0981, -94.9350
+Maple Valley, 42.6000, -95.3500
+Mapleside, 43.0025, -95.6236
+Mapleton, 42.1658, -95.7928
+Maquoketa, 42.0689, -90.6656
+Marathon, 42.8617, -94.9822
+Marble Rock, 42.9653, -92.8683
+Marcus, 42.8258, -95.8072
+Marcy, 41.9833, -93.9833
+Marengo, 41.7981, -92.0706
+Marietta, 42.0831, -93.0003
+Marion, 42.0342, -91.5975
+Mariposa, 41.8167, -92.9333
+Mark, 40.6667, -92.5167
+Marne, 41.4514, -95.1111
+Marquette, 43.0444, -91.1781
+Marquisville, 41.6567, -93.6006
+Marsh, 41.1017, -91.3522
+Marshall, 41.1667, -91.3167
+Marshalltown, 42.0494, -92.9078
+Martelle, 42.0217, -91.3597
+Martensdale, 41.3731, -93.7356
+Martinsburg, 41.1789, -92.2517
+Martinstown, 40.6872, -92.9589
+Mary Hill, 42.7356, -95.6883
+Marysville, 41.1806, -92.9489
+Maryville, 42.6878, -91.6453
+Mason City, 43.1536, -93.2008
+Masonic Sanitorium, 41.5281, -90.4967
+Masonville, 42.4794, -91.5911
+Massena, 41.2542, -94.7681
+Massey, 42.4303, -90.5850
+Massillon, 41.9147, -90.9225
+Matlock, 43.2439, -95.9350
+Maud, 43.2264, -91.3703
+Maurice, 42.9664, -96.1803
+Maxfield, 42.6833, -92.2667
+Maxon, 41.0408, -92.7758
+Maxwell, 41.8919, -93.3994
+May City, 43.3208, -95.4742
+Maynard, 42.7739, -91.8822
+Maysville, 41.6486, -90.7167
+Mccallsburg, 42.1664, -93.3856
+McCausland, 41.7461, -90.4431
+McClelland, 41.3294, -95.6836
+McGargels Ford, 42.2331, -90.9211
+McGregor, 43.0183, -91.1825
+McGregor Heights, 43.0339, -91.1772
+McIntire, 43.4358, -92.5936
+McNally, 42.9406, -96.3906
+McPaul, 40.8219, -95.8025
+McPherson, 41.0114, -95.3364
+Mechanicsville, 41.9044, -91.2544
+Mederville, 42.7631, -91.4228
+Mediapolis, 41.0081, -91.1639
+Medora, 41.1869, -93.6025
+Mekee, 42.4925, -91.0456
+Melbourne, 41.9414, -93.1031
+Melcher, 41.2219, -93.2411
+Melrose, 40.9761, -93.0503
+Meltonville, 43.4472, -93.0261
+Melville, 41.7333, -94.8000
+Melvin, 43.2875, -95.6089
+Mendon, 43.0167, -91.2167
+Menlo, 41.5192, -94.4042
+Mercer, 40.9433, -94.6489
+Mercy Hospital(Johnson), 41.6639, -91.5275
+Mercy Hospital(Scott), 41.5425, -90.5925
+Mercy Hospital(Polk), 41.5994, -93.6233
+Mercy Hospital(Clinton), 41.8614, -90.1889
+Mercy Hospital(Dubuque), 42.4922, -90.6744
+Mercy Hospital(Bremer), 42.7228, -92.4822
+Meriden, 42.7947, -95.6342
+Merle Junction, 40.7817, -94.5925
+Meroa, 43.2833, -92.8167
+Merrill, 42.7197, -96.2483
+Merrimac, 41.0872, -91.7186
+Meservey, 42.9128, -93.4781
+Mesquakie Indian Settlement, 41.9822, -92.6425
+Methodist Camp, 43.4333, -95.1000
+Metz, 41.6664, -93.1356
+Meyer, 43.4578, -92.6925
+Miami, 41.1472, -92.8397
+Middle, 41.9833, -91.6500
+Middle Amana, 41.7956, -91.8994
+Middle Fork, 40.6000, -94.3000
+Middle River, 41.3306, -94.2333
+Middleburg, 43.1136, -96.0686
+Middlefield, 42.4333, -91.6500
+Middletown, 40.8283, -91.2589
+Midland, 43.4667, -96.0167
+Midvale, 41.9294, -93.6100
+Midway(Floyd), 43.0053, -92.6053
+Midway(Linn), 42.1061, -91.6967
+Midway Beach, 41.4592, -90.8283
+Miles, 42.0483, -90.3156
+Milford, 43.3247, -95.1497
+Military, 43.1500, -91.8000
+Miller, 43.1842, -93.6000
+Millersburg, 41.5733, -92.1597
+Millerton, 40.8494, -93.3053
+Millman, 41.5411, -93.6772
+Millnerville, 42.6986, -96.4881
+Millville, 42.7000, -91.0742
+Milo, 41.2917, -93.4422
+Milton, 40.6733, -92.1619
+Minburn, 41.7564, -94.0272
+Minden, 41.4669, -95.5425
+Mineola, 41.1431, -95.6953
+Mineral Ridge, 42.0833, -93.9333
+Minerva, 42.1164, -93.0878
+Mingo, 41.7675, -93.2833
+Missouri Valley, 41.5564, -95.8875
+Mitchell, 43.3219, -92.8675
+Mitchellville, 41.6686, -93.3575
+Modale, 41.6197, -96.0117
+Moingona, 42.0169, -93.9322
+Mona, 43.4872, -92.9411
+Mondamin, 41.7106, -96.0214
+Moneta, 43.1292, -95.3903
+Monette, 41.0847, -94.0719
+Moningers, 42.1092, -93.0342
+Monmouth, 42.0739, -91.0064
+Monona, 43.0517, -91.3892
+Monroe, 41.5222, -93.1017
+Monteith, 41.6314, -94.4283
+Monterey, 40.6522, -92.5878
+Montezuma, 41.5858, -92.5272
+Montgomery, 43.4408, -95.2025
+Monti, 42.3769, -91.6372
+Monticello, 42.2383, -91.1869
+Montour, 41.9814, -92.7147
+Montpelier, 41.4592, -90.8069
+Montrose, 40.5322, -91.4147
+Mooar, 40.4436, -91.4522
+Moorhead, 41.9225, -95.8511
+Moorland, 42.4417, -94.2947
+Moran, 41.8108, -93.9075
+Moravia, 40.8908, -92.8150
+Morley, 42.0061, -91.2461
+Morning Sun, 41.0961, -91.2575
+Morningside, 42.4689, -96.3589
+Morrison, 42.3442, -92.6736
+Morse, 41.7494, -91.4344
+Morton, 40.6833, -95.3167
+Morton Mills, 41.0797, -94.9844
+Mosalem, 42.4167, -90.6000
+Moscow, 41.5750, -91.0825
+Motor, 42.8069, -91.3511
+Mott, 42.7833, -93.2000
+Moulton, 40.6858, -92.6772
+Mound Prairie, 41.6500, -93.1833
+Mount Auburn, 42.2550, -92.0925
+Mount Ayr, 40.7147, -94.2350
+Mount Carmel, 42.1525, -94.9083
+Mount Etna, 41.1206, -94.7350
+Mount Hamill, 40.7506, -91.6131
+Mount Joy, 41.6150, -90.5656
+Mount Lucia, 42.5406, -96.4644
+Mount Pleasant, 40.9636, -91.5578
+Mount Sterling, 40.6178, -91.9319
+Mount Union, 41.0578, -91.3903
+Mount Valley, 43.2833, -93.5500
+Mount Vernon, 41.9219, -91.4167
+Mount Zion, 40.7886, -91.9336
+Moville, 42.4889, -96.0722
+Munterville, 41.0356, -92.6200
+Murphy, 42.7333, -92.4833
+Murphy Memorial Hospital, 41.0150, -95.2167
+Murray, 41.0417, -93.9492
+Muscatine, 41.4167, -91.0500
+Muscatine County Hospital, 41.4331, -91.0544
+Muscatine General Hospital, 41.4331, -91.0544
+Mystic, 40.7775, -92.9436
+Nahant, 41.4875, -90.6378
+Napier, 41.9797, -93.7178
+Nashua, 42.9528, -92.5361
+Nashville, 42.0625, -90.7836
+Nassau, 42.9500, -96.0500
+National, 42.9500, -91.2833
+Nebraska, 40.7667, -94.9500
+Neils, 43.3333, -93.6333
+Nemaha, 42.5158, -95.0881
+Neola, 41.4489, -95.6153
+Neptune, 42.6636, -96.1558
+Nevada, 42.0228, -93.4522
+Nevinville, 41.1472, -94.5006
+New Albany, 42.0167, -93.2667
+New Albin, 43.4967, -91.2894
+New Albion, 42.6428, -92.7314
+New Boston, 40.5606, -91.5053
+New Buda, 40.6167, -93.8333
+New Dixon, 41.7347, -90.7711
+New Era, 41.4661, -90.8919
+New Hampton, 43.0592, -92.3175
+New Hartford, 42.5669, -92.6219
+New Haven, 43.2844, -92.6419
+New Hope, 41.1167, -94.0667
+New Liberty, 41.7178, -90.8789
+New London, 40.9269, -91.3994
+New Market, 40.7311, -94.8994
+New Oregon, 43.2833, -92.1333
+New Providence, 42.2811, -93.1714
+New Sharon, 41.4700, -92.6511
+New Vienna, 42.5481, -91.1142
+New Virginia, 41.1822, -93.7286
+New Wine, 42.5167, -91.0667
+New York, 40.8517, -93.2597
+Newark, 42.6000, -94.0500
+Newbein, 41.1608, -93.3083
+Newbern, 41.1833, -93.3833
+Newburg(Jasper), 41.8186, -92.7742
+Newburg(Mitchell), 43.4000, -92.9667
+Newell, 42.6056, -95.0025
+Newhall, 41.9956, -91.9675
+Newkirk, 43.0700, -95.9778
+Newport(Johnson), 41.7386, -91.4739
+Newport(Louisa), 41.0889, -91.1828
+Newport(Jones), 42.0453, -91.2006
+Newton, 41.6997, -93.0478
+Nichols, 41.4811, -91.3075
+Niles, 43.1333, -92.6167
+Nira, 41.4542, -91.9322
+Nishna, 41.6958, -94.9186
+Nishnabotny, 41.9000, -95.2667
+Noble(Washington), 41.1664, -91.6194
+Noble(Cass), 41.2000, -94.9833
+Nodaway, 40.9372, -94.8947
+Nokomis, 42.7000, -95.3333
+Nora Springs, 43.1428, -93.0042
+Nordness, 43.2344, -91.7717
+North Branch, 41.6458, -94.7150
+North Buena Vista, 42.6797, -90.9564
+North Cedar, 42.5547, -92.4556
+North English, 41.5139, -92.0761
+North Fork, 42.4333, -91.2000
+North Liberty, 41.7492, -91.5978
+North Side, 42.5167, -96.4000
+North Washington, 43.1181, -92.4167
+North Welton, 41.9136, -90.6044
+Northboro, 40.6078, -95.2914
+Northfield, 41.0589, -91.1217
+Northwest, 41.5333, -90.6000
+Northwood, 43.4442, -93.2208
+Norwalk, 41.4756, -93.6786
+Norway, 41.9028, -91.9214
+Norway Center, 41.3458, -94.8722
+Norwich, 40.7425, -95.2564
+Norwood, 41.1167, -93.4786
+Norwoodville, 41.6000, -93.5667
+Norwoodville Norwood State, 41.6439, -93.5608
+Numa, 40.6881, -92.9778
+Nyman, 40.8808, -95.2036

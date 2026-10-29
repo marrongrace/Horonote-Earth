@@ -1,0 +1,195 @@
+Kalo, 42.4311, -94.1317
+Kalona, 41.4831, -91.7058
+Kamrar, 42.3922, -93.7292
+Kanawha, 42.9378, -93.7931
+Kedron, 42.4333, -95.8333
+Keg Creek, 41.2000, -95.6833
+Kellerton, 40.7108, -94.0497
+Kelley, 41.9506, -93.6650
+Kellogg, 41.7181, -92.9072
+Kendallville, 43.4394, -92.0361
+Kendrick, 42.0833, -94.5667
+Kenfield, 41.5764, -94.7194
+Kennebec, 42.0975, -96.0125
+Kennedy, 41.6067, -94.1247
+Kensett, 43.3536, -93.2103
+Kent, 40.9525, -94.4542
+Kenwood, 42.0086, -95.5097
+Keokuk, 40.3972, -91.3847
+Keomah, 41.2833, -92.6333
+Keosauqua, 40.7303, -91.9622
+Keota, 41.3639, -91.9536
+Kesley, 42.6625, -92.9100
+Keswick, 41.4525, -92.2392
+Key West, 42.4489, -90.6839
+Keystone, 41.9983, -92.1972
+Kilbourn, 40.8061, -91.9697
+Killduff, 41.6081, -92.9044
+Kimballton, 41.6286, -95.0728
+King, 42.4053, -90.5917
+Kingsley, 42.5883, -95.9672
+Kingston, 40.9775, -91.0403
+Kinross, 41.4608, -91.9867
+Kirkman, 41.7286, -95.2650
+Kirkville, 41.1456, -92.5039
+Kiron, 42.1956, -95.3275
+Klemme, 43.0069, -93.6028
+Klinger, 42.6567, -92.2192
+Klondike, 43.3878, -96.5206
+Knierim, 42.4556, -94.4567
+Kniest, 42.1667, -94.9333
+Knittel, 42.7000, -92.2333
+Knoke, 42.5169, -94.7628
+Knowlton, 40.8264, -94.3319
+Knoxville, 41.3208, -93.1092
+Konigsmark, 41.8900, -91.6922
+Kossuth, 41.0106, -91.1344
+Koszta, 41.8272, -92.2053
+La Grange, 41.5500, -95.7667
+La Motte, 42.2958, -90.6208
+La Porte City, 42.3150, -92.1919
+Lacelle, 41.0333, -93.7667
+Lacey, 41.4008, -92.6400
+Lacona, 41.1897, -93.3828
+Ladoga, 40.7417, -94.7950
+Ladora, 41.7547, -92.1833
+Lafayette, 42.1469, -91.6800
+Lainsville, 42.1297, -90.2044
+Lake Canyada, 41.5333, -90.6000
+Lake City, 42.2675, -94.7336
+Lake Creek, 42.3500, -94.7000
+Lake Mills, 43.4194, -93.5331
+Lake Park, 43.4556, -95.3206
+Lake Prairie, 41.4333, -92.9167
+Lakeport, 42.2667, -96.2833
+Lakeside, 42.6214, -95.1731
+Lakeview, 42.3069, -95.0514
+Lakeville, 43.4000, -95.2167
+Lakewood, 41.5017, -93.6739
+Lakewood Corner, 43.3461, -96.1758
+Lakonta(Truax), 41.1933, -92.7303
+LaMoille, 42.0306, -93.0383
+Larrabee, 42.8608, -95.5450
+Last Chance, 40.9564, -93.5533
+Latimer, 42.7633, -93.3681
+Lattnerville, 42.4856, -90.8828
+Latty, 40.9033, -91.1217
+Laurel, 41.8842, -92.9219
+Laurens, 42.8467, -94.8517
+Lavinia, 42.4078, -94.7464
+Lawler, 43.0706, -92.1500
+Lawn Hill, 42.2978, -93.1717
+Lawton, 42.4786, -96.1836
+Layton, 41.4667, -95.1833
+Le Claire, 41.5978, -90.3464
+Le Grand, 42.0069, -92.7753
+Le Mars, 42.7942, -96.1653
+Leando, 40.8336, -92.0886
+Lebanon(Sioux), 43.0986, -96.3564
+Lebanon(Van Buren), 40.7258, -92.0822
+Ledyard, 43.4217, -94.1619
+Leeds, 42.5411, -96.3597
+Lehigh, 42.3600, -94.0519
+Leighton, 41.3372, -92.7869
+Leland, 43.3372, -93.6350
+Lena, 42.2206, -94.2875
+Lenox, 40.8817, -94.5617
+Leon, 40.7397, -93.7475
+LeRoy, 40.8778, -93.5925
+Leslie, 40.9428, -93.7978
+Lester, 43.4447, -96.3328
+Letts, 41.3283, -91.2369
+Leverett, 42.9067, -94.9733
+Levey(Polk), 41.5464, -93.5217
+Levey(Sac), 42.2500, -95.1667
+Lewis, 41.3058, -95.0831
+Lexington, 41.3978, -91.8069
+Liberal, 43.4000, -96.0333
+Liberty, 41.1453, -93.6539
+Liberty Center, 41.2047, -93.4986
+Libertyville, 40.9575, -92.0511
+Lidderdale, 42.1244, -94.7833
+Lidtke Mill, 43.4644, -92.2781
+Lima, 42.8683, -91.7428
+Lime City, 41.6478, -91.0772
+Lime Springs, 43.4300, -92.3000
+Linby, 41.1506, -92.1411
+Lincoln, 42.2628, -92.6917
+Lincoln Center, 41.1158, -94.8719
+Lincolnway Village, 41.9214, -91.6653
+Linden, 41.6444, -94.2689
+Lineville, 40.5814, -93.5236
+Linn Grove, 42.8917, -95.2464
+Linn Junction, 42.0189, -91.7206
+Linton, 43.1500, -91.3000
+Linwood, 41.4656, -90.6789
+Lisbon, 41.9211, -91.3853
+Liscomb, 42.1900, -93.0036
+Liston, 42.2500, -95.7500
+Little Cedar, 43.3803, -92.7256
+Little Groves, 41.5375, -90.6886
+Little Rock, 43.4442, -95.8831
+Little Sioux, 41.8094, -96.0208
+Little Turkey, 43.1297, -92.1008
+Littleport, 42.7547, -91.3692
+Littleton, 42.5333, -92.0233
+Livermore, 42.8686, -94.1850
+Livingston, 40.6333, -92.9167
+Lizard, 42.6000, -94.5000
+Lloyd, 43.3000, -94.9833
+Loch Burns, 41.0256, -92.3500
+Lockman, 41.0833, -92.7392
+Lockridge, 40.9947, -91.7481
+Locust, 43.4217, -91.7222
+Lodomillo, 42.7000, -91.4333
+Logan, 41.6431, -95.7886
+Logansport, 42.0675, -93.9467
+Lohrville, 42.2703, -94.5483
+Lone Rock, 43.2186, -94.3267
+Lone Tree, 41.4881, -91.4258
+Long Creek, 40.8667, -93.8333
+Long Grove, 41.6975, -90.5825
+Long Point, 41.9453, -92.4836
+Longfellow, 41.2667, -95.8500
+Lonia, 43.0342, -92.4558
+Lorah, 41.4703, -94.9550
+Lore, 42.5181, -90.7997
+Lorimor, 41.1283, -94.0531
+Loring, 41.8347, -93.4350
+Lost Grove, 42.2667, -94.2333
+Lost Island, 43.2167, -94.8500
+Lost Island Lake, 43.1167, -94.8833
+Lost Nation, 41.9639, -90.8175
+Lotts Creek, 43.1567, -94.3661
+Louisa, 42.0314, -91.6672
+Lourdes, 43.2622, -92.2986
+Loveland, 41.4972, -95.8897
+Lovell, 42.2667, -91.1833
+Lovilia, 41.1358, -92.9039
+Lovington, 41.6458, -93.6864
+Low Moor, 41.8017, -90.3547
+Lowden, 41.8575, -90.9281
+Lowell, 40.8333, -91.4364
+Lu Verne, 42.9083, -94.0736
+Luana, 43.0603, -91.4539
+Lucas, 41.0283, -93.4597
+Lucas County Hospital, 41.0278, -93.3019
+Ludlow, 43.2264, -91.5667
+Lundgren, 42.3686, -94.1744
+Lundstrom Heights, 41.6500, -93.6167
+Lunsford, 40.6028, -92.4353
+Luray, 41.9906, -93.0000
+Luther, 41.9678, -93.8186
+Luton, 42.3397, -96.2261
+Luxemburg, 42.6028, -91.0739
+Luzerne, 41.8981, -92.1797
+Lycurgus, 43.3311, -91.4239
+Lyman, 41.2311, -94.9842
+Lyndale, 43.2989, -91.2833
+Lynn, 43.1333, -95.9167
+Lynn Grove, 41.5500, -92.8167
+Lynnville, 41.5775, -92.7833
+Lyons(Clinton), 41.8667, -90.2000
+Lyons(Linn), 42.0167, -91.6000
+Lyons(Mills), 40.9500, -95.7333
+Lytton, 42.4231, -94.8594

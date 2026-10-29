@@ -1,0 +1,284 @@
+Abingdon, 41.0822, -92.1389
+Ackley, 42.5542, -93.0531
+Ackworth, 41.3669, -93.4725
+Adair, 41.5006, -94.6433
+Adair County Memorial Hospital, 41.3036, -94.4500
+Adaville, 42.7508, -96.4042
+Adaza, 42.1953, -94.4942
+Adel, 41.6144, -94.0172
+Adelphi, 41.5333, -93.4261
+Afton, 41.0275, -94.1978
+Agency(Agency City Station), 40.9950, -92.3067
+Ainsworth, 41.2889, -91.5522
+Akron, 42.8289, -96.5592
+Albany, 42.8658, -91.7586
+Albaton, 42.1856, -96.2906
+Albert City, 42.7819, -94.9483
+Albia, 41.0267, -92.8056
+Albion, 42.1125, -92.9883
+Alburnett, 42.1483, -91.6183
+Alden, 42.5203, -93.3758
+Alexander, 42.8058, -93.4764
+Algona, 43.0700, -94.2328
+Alice, 42.1975, -91.6956
+Alleman, 41.5967, -93.6114
+Allen Memorial Hospital, 42.5267, -92.3389
+Allendorf, 43.4147, -95.6431
+Allens Grove, 41.7167, -90.7500
+Allerton, 40.7064, -93.3650
+Allison, 42.7528, -92.7950
+Almont, 41.9753, -90.1989
+Almoral, 42.5356, -91.2897
+Almoral Spring, 42.5164, -91.2725
+Alpha, 42.9967, -92.0475
+Alta, 42.6736, -95.2903
+Alta Vista, 43.1986, -92.4169
+Alton, 42.9875, -96.0103
+Altoona, 41.6442, -93.4644
+Alvord, 43.3422, -96.3008
+Amana, 41.8000, -91.8706
+Amaqua, 42.0667, -94.1000
+Amber, 42.1281, -91.1800
+Amboy, 41.7000, -93.0667
+America, 42.7667, -96.1500
+Ames, 42.0347, -93.6197
+Amherst, 42.7833, -95.8000
+Amish, 41.5358, -91.7864
+Amity, 40.6167, -95.0833
+Amsterdam, 42.9500, -93.8000
+Anamosa, 42.1083, -91.2850
+Anderson, 40.8014, -95.6039
+Andover, 41.9792, -90.2517
+Andrew, 42.1536, -90.5922
+Andrews, 41.7533, -93.7569
+Angus, 41.8833, -94.1572
+Anita, 41.4453, -94.7644
+Ankeny, 41.7297, -93.6056
+Anthon, 42.3883, -95.8664
+Aplington, 42.5842, -92.8842
+Arbor Hill, 41.3667, -94.3181
+Arcadia, 42.0317, -95.0458
+Archer, 43.1153, -95.7456
+Ardon, 41.3950, -91.1883
+Aredale, 42.8331, -93.0053
+Argo, 41.6258, -90.4325
+Argyle, 40.5317, -91.5661
+Arion, 41.9492, -95.4633
+Arispe, 40.9494, -94.2189
+Arlington, 42.7492, -91.6711
+Armour, 42.5128, -92.2550
+Armstrong, 43.3961, -94.4781
+Armstrong Grove, 43.3833, -94.5000
+Arnold, 42.8108, -94.1983
+Arnold Park, 43.3728, -95.1236
+Artesian, 42.7283, -92.3369
+Arthur, 42.3347, -95.3472
+Asbury, 42.5144, -90.7514
+Ash Grove, 40.8708, -92.5528
+Ashawa, 41.5722, -93.7561
+Ashland, 40.9586, -92.2364
+Ashton, 43.3114, -95.7908
+Aspinwall, 41.9119, -95.1353
+Astor, 41.8700, -95.2664
+Atalissa, 41.5711, -91.1658
+Athelstan, 40.5722, -94.5372
+Athens, 40.7167, -94.1000
+Atkins, 41.9969, -91.8619
+Atlantic, 41.4036, -95.0136
+Attica, 41.2297, -93.0158
+Auburn, 42.2514, -94.8775
+Audubon, 41.7181, -94.9322
+Augusta, 40.7581, -91.2756
+Aurelia, 42.7128, -95.4364
+Aureola, 42.9683, -92.8778
+Aurora, 42.6189, -91.7283
+Austinville, 42.5858, -92.9569
+Avery, 41.0653, -92.7142
+Avoca, 41.4767, -95.3378
+Avon, 41.5286, -93.5231
+Avon Lake, 41.5219, -93.5008
+Ayrshire, 43.0392, -94.8325
+Badger, 42.6144, -94.1458
+Bagley, 41.8461, -94.4297
+Bailey, 43.4650, -92.6078
+Baldwin, 42.0742, -90.8414
+Balfour, 41.0489, -95.6675
+Balltown, 42.6381, -90.8686
+Ballyclough, 42.4258, -90.7181
+Baltimore, 40.8833, -91.4333
+Bancroft, 43.2928, -94.2178
+Bangor, 42.1733, -93.0933
+Banks, 42.8500, -92.0167
+Bankston, 42.5186, -90.9611
+Banner, 42.5167, -96.1500
+Barclay, 42.5167, -92.1333
+Barnes, 42.8667, -95.2167
+Barnes City, 41.5083, -92.4681
+Barney, 41.1667, -94.0036
+Barnum, 42.5086, -94.3650
+Barrett Superette, 41.5500, -94.4000
+Bartlett, 40.8850, -95.7947
+Barton, 43.3833, -93.0833
+Bassett, 43.0631, -92.5153
+Batavia, 40.9942, -92.1672
+Bath, 43.0500, -93.2000
+Battle, 42.4333, -95.6000
+Battle Creek, 42.3156, -95.5983
+Bauer, 41.2039, -93.3069
+Baxter, 41.8261, -93.1514
+Bayard, 41.8519, -94.5581
+Beacon, 41.2769, -92.6794
+Beaconsfield, 40.8078, -94.0503
+Beaman, 42.2197, -92.8233
+Bear Creek, 41.7333, -92.4833
+Beaver, 42.0383, -94.1419
+Beaverdale(Des Moines), 40.8467, -91.2083
+Beaverdale(Polk), 41.6000, -93.6667
+Beaverdale Heights, 40.8167, -91.1667
+Beckwith, 41.0092, -91.8644
+Bedford, 40.6669, -94.7211
+Beebeetown, 41.5211, -95.7553
+Beech, 41.3747, -93.3519
+Bel Air Beach, 42.6333, -95.1833
+Belinda, 41.1389, -93.1922
+Belknap, 40.8206, -92.4261
+Bellair, 40.7333, -92.9333
+Belle Fountain, 41.2803, -92.8614
+Belle Plaine, 41.8969, -92.2781
+Bellevue, 42.2586, -90.4228
+Bellville, 42.6167, -94.6333
+Belmond, 42.8461, -93.6139
+Belmont, 41.2833, -93.3833
+Beloit, 43.2814, -96.5744
+Belvidere, 42.0167, -95.9667
+Bennett, 41.7403, -90.9736
+Bennezette, 42.8667, -92.9667
+Bennington, 42.6000, -92.2667
+Benson, 42.5425, -92.5419
+Bente Branch, 42.8133, -91.3375
+Bentley, 41.3769, -95.6200
+Benton, 40.7033, -94.3581
+Bentonsport, 40.7256, -91.8536
+Berea, 41.3742, -94.6800
+Berkley, 41.9450, -94.1144
+Bernard, 42.3122, -90.8317
+Berne, 42.0811, -95.6525
+Bertram, 41.9497, -91.5353
+Berwick, 41.6650, -93.5447
+Bethany Hall, 43.1772, -92.2397
+Bethel, 42.9500, -92.0167
+Bethelhem, 40.8414, -93.2119
+Bethesda, 40.8431, -95.0994
+Bethlehem, 40.9833, -93.2000
+Bettendorf, 41.5244, -90.5156
+Bettendorf Health Care Center, 41.5700, -90.4931
+Beulah, 43.0272, -91.3081
+Bevington, 41.3606, -93.7906
+Bidwell, 41.0189, -92.5383
+Big Creek, 42.3167, -92.2167
+Big Rock, 41.7703, -90.8261
+Bingham, 40.7342, -95.2886
+Birmingham, 40.8789, -91.9469
+Black Corners, 41.6883, -94.0231
+Black Oak, 41.3833, -92.8167
+Bladensburg, 41.0461, -92.2369
+Blairsburg, 42.4800, -93.6428
+Blairstown, 41.9094, -92.0842
+Blakesburg, 40.9622, -92.6339
+Blanchard, 40.5792, -95.2214
+Blencoe, 41.9303, -96.0806
+Bliedorn, 41.9025, -90.6781
+Blockton, 40.6156, -94.4769
+Bloomfield, 40.7517, -92.4147
+Bloomington, 42.0561, -93.5872
+Blue Grass, 41.5089, -90.7658
+Bluff Creek, 41.1167, -92.8000
+Bluff Park, 40.5275, -91.4036
+Bluffton, 43.4031, -91.9117
+Boardman, 42.8667, -91.4333
+Bode, 42.8683, -94.2894
+Bolan, 43.3719, -93.1192
+Bonair, 43.4219, -92.1925
+Bonaparte, 40.6981, -91.8031
+Bondurant, 41.7006, -93.4619
+Boomer, 41.4667, -95.7667
+Boone, 42.0597, -93.8800
+Booneville, 41.5242, -93.8836
+Booth, 42.9333, -94.8500
+Booth Hospital, 41.5600, -93.6033
+Border Plains, 42.3981, -94.0478
+Botna, 41.8558, -95.1311
+Boulder, 42.2500, -91.4333
+Bouton, 41.8514, -94.0089
+Bowsher, 41.6392, -93.5417
+Boxholm, 42.1758, -94.1058
+Boyd, 43.0125, -92.2578
+Boyden, 43.1911, -96.0056
+Boyer, 42.1819, -95.2350
+Boyer River, 42.1892, -95.2044
+Boyer Valley, 42.4333, -95.1500
+Braddyville, 40.5833, -95.0333
+Bradford(Chickasaw), 42.9500, -92.5333
+Bradford(Franklin), 42.6331, -93.2447
+Bradgate, 42.8031, -94.4178
+Brainard, 42.9308, -91.7050
+Brandon, 42.3144, -92.0019
+Brayton, 41.5444, -94.9239
+Brazil, 40.7581, -92.9542
+Breda, 42.1817, -94.9767
+Bremen, 42.5167, -91.2000
+Bremer, 42.7733, -92.3947
+Bridgeport(Jackson), 42.0894, -90.6269
+Bridgeport(Wayne), 40.7533, -93.2314
+Bridgewater, 41.2450, -94.6686
+Brighton, 41.1747, -91.8194
+Bristol, 43.4119, -93.4678
+Bristow, 42.7739, -92.9072
+Britt, 43.0978, -93.8017
+Broadlawns Hospital, 41.6169, -93.6417
+Bromley, 42.1189, -93.1294
+Brompton, 40.9314, -92.7344
+Bronson, 42.4108, -96.2136
+Brooke, 42.8667, -95.3500
+Brooklyn, 41.7336, -92.4453
+Brooks, 40.9653, -94.8047
+Brookside, 42.5333, -92.4333
+Brookville, 41.0556, -92.0889
+Brown, 42.0833, -91.4167
+Browns, 42.0306, -90.4992
+Brownville, 43.3422, -92.6758
+Bruce, 42.2500, -92.2333
+Brunsville, 42.8097, -96.2689
+Brushy, 42.4308, -94.0100
+Bryant, 41.9633, -90.3300
+Bryantsburg, 42.5747, -91.9053
+Buchanan, 41.7650, -91.2467
+Buck Creek(Bremer), 42.7586, -92.1406
+Buck Creek(Delaware), 42.3372, -91.3419
+Buck Grove(Grundy), 42.5142, -92.8494
+Buck Grove(Crawford), 41.9181, -95.3958
+Buckeye, 42.4172, -93.3747
+Buckhorn, 42.0600, -90.7531
+Buckingham, 42.2625, -92.4475
+Bucknell, 41.0661, -93.0442
+Budd, 42.5331, -90.8156
+Buena Vista, 41.7419, -90.7403
+Buffalo, 41.4564, -90.7233
+Buffalo Center, 43.3858, -93.9464
+Buffalo Heights, 41.4725, -90.7144
+Bulgers Hollow, 41.9353, -90.1839
+Buncombe, 43.0333, -96.4667
+Burchinal, 43.0653, -93.2781
+Burdette, 42.5719, -93.3600
+Burgess Memorial Hospital, 42.0256, -96.1061
+Burlington, 40.8075, -91.1128
+Burnside, 42.3458, -94.1067
+Burr Oak(Mills), 40.9358, -95.7875
+Burr Oak(Winneshiek), 43.4589, -91.8653
+Burrell, 40.7000, -93.8333
+Burt, 43.1975, -94.2194
+Bushville, 40.8567, -94.7381
+Bussey, 41.2044, -92.8825
+Butler Center, 42.6975, -92.7833
+Buxton, 41.1583, -92.8211
+Byron, 42.5167, -91.7833
