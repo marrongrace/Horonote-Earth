@@ -1,0 +1,110 @@
+Al 'Aqabah, 29.5267, 35.0078
+Al-Barihah, 32.5667, 35.8333
+Al-Buwaydah, 32.4667, 36.0667
+Al-Hisn, 32.4833, 35.8667
+Al-Ifranj, 31.1833, 35.6833
+Al-Jafr, 30.3000, 36.2167
+Al-Judayyidah(Al-Karak), 31.2500, 35.8167
+Al-Judayyidah(`Amman), 31.5333, 35.6500
+Al-Karak, 31.1833, 35.7000
+Al-Khirbah as-Samra', 32.1833, 36.1667
+Al-Khuraybah, 32.6667, 35.8667
+Al-Madwar, 32.2833, 36.0000
+Al-Mafraq, 32.3500, 36.2000
+Al-Mazar, 31.0667, 35.7000
+Al-Mazra‘ah, 31.2667, 35.5167
+Al-Mudawwarah, 29.3167, 36.0167
+Al-Qasr, 31.3167, 35.7500
+Al-Qisfah, 32.6333, 35.8667
+Al-‘Adasiyah, 32.6667, 35.6167
+Al-‘Iraq, 31.0833, 35.6500
+Ar-Rabbah, 31.2667, 35.7333
+Ar-Ramtha, 32.5667, 36.0000
+Ar-Rumman, 32.1667, 35.8333
+Ariha, 31.4167, 35.7833
+As-Safi, 31.0333, 35.4667
+As-Salt, 32.0500, 35.7333
+As-Sarih, 32.5000, 35.9000
+As-Simakiyah, 31.3000, 35.8000
+As-Sukhnah, 32.1333, 36.0667
+Asfar al-Mahattah, 30.1833, 35.7667
+Ash-Shagur, 31.8333, 35.6500
+Ash-Shajarah, 32.6500, 35.9333
+Ash-Shawbak, 30.5333, 35.5667
+At-Tafilah, 30.8333, 35.6000
+At-Tayyibah, 32.5500, 35.7167
+At-Tunayb, 31.8000, 35.9500
+Ath-Thaniyah, 31.1667, 35.7167
+Ayl, 30.2167, 35.5333
+Az-Zarqa', 32.0833, 36.1000
+Ba'ir, 30.7667, 36.6833
+Bal‘ama, 32.2333, 36.0833
+Bastah, 30.2333, 35.5333
+Batir, 31.2667, 35.7000
+Damiya, 32.1000, 35.5500
+Dayr Abu Sa‘id, 32.5000, 35.6833
+Dayr ‘Alla, 32.2000, 35.6167
+Dhiban, 31.5000, 35.7833
+Harta, 32.7000, 35.8500
+Hawwarah, 32.5333, 35.9000
+Hisban, 31.8000, 35.8000
+Irbid, 32.5500, 35.8500
+Jerash, 32.2833, 35.9000
+Jurf ad-Darawish, 30.7000, 35.8667
+Kathrabba, 31.1333, 35.6167
+Khirbat Umm as-Surab, 32.4333, 36.3167
+Kufrinjah, 32.3000, 35.7000
+Kurayyimah, 32.2667, 35.6000
+Ma'daba, 31.7167, 35.8000
+Mahattat Abu al-Lasan, 30.0833, 35.5167
+Mahattat Abu Jirdhan, 30.3333, 35.7667
+Mahattat Abu Tarafah, 30.0000, 35.9333
+Mahattat al-Furayfirah, 30.9000, 35.9833
+Mahattat al-Hasa, 30.8167, 35.9833
+Mahattat al-Jizah, 31.7167, 35.9667
+Mahattat al-Manzil, 31.0500, 36.0167
+Mahattat al-Qasr, 31.9000, 35.9333
+Mahattat al-Qatranah, 31.2500, 36.0500
+Mahattat as-Suwaqah, 31.3667, 36.1167
+Mahattat ash-Shidiyah, 29.9333, 35.9333
+Mahattat Dab‘Ah, 31.6000, 36.0667
+Mahattat Fassu‘Ah, 29.7667, 35.9000
+Mahattat Jurf ad-Darawish, 30.7000, 35.8667
+Mahattat Musawwal, 30.0833, 35.8667
+Mahattat Samnah, 30.1500, 35.6500
+Mahattat ‘Aqabat Hijaziyah, 29.7333, 35.8667
+Mahattat ‘Unayzah, 30.4833, 35.8000
+Manja, 31.7500, 35.8500
+Marka, 31.9833, 35.9833
+Ma‘an, 30.2000, 35.7333
+Ma‘in, 31.6833, 35.7333
+Mu'tah, 31.1000, 35.7000
+Mukawir, 31.5667, 35.6333
+Natl, 31.6500, 35.8667
+Na‘ur, 31.8833, 35.8333
+Nijil, 30.5167, 35.5500
+Ra's an-Naqb, 30.0000, 35.4833
+Rakin, 31.2333, 35.7000
+Rihab, 32.3167, 36.1000
+Rujm as-Sakhri, 31.0333, 35.7167
+Sabha, 32.3333, 36.5000
+Sahab, 31.8833, 36.0000
+Saham, 32.7000, 35.7833
+Sakib, 32.2833, 35.8167
+Sama, 32.4667, 36.2333
+Shammakh, 30.5000, 35.5000
+Shunat Nimrin, 31.9000, 35.6167
+Suf, 32.3167, 35.8333
+Suwaylih, 32.0333, 35.8333
+Turf ad-Darawish, 30.7000, 35.8667
+Udhruh, 30.3333, 35.6000
+Umm al-Qittayn, 32.3167, 36.6333
+Umm Hamat, 31.0333, 35.7667
+Umm Qusayr, 31.6667, 35.8833
+Wadi as-Sir, 31.9500, 35.8167
+Wadi Musá, 30.3167, 35.4833
+Waqqas, 32.5500, 35.6000
+Zuwayza, 31.7000, 35.9167
+‘Ajlun, 32.3333, 35.7500
+‘Amman, 31.9500, 35.9333
+‘Anjarah, 32.3000, 35.7500
