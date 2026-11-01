@@ -1,0 +1,174 @@
+Abadan, 30.3333, 48.2667
+Abadeh, 31.1667, 52.6167
+Abarqu, 31.1333, 53.2833
+Abdanan, 32.9667, 47.4333
+Abhar, 36.1500, 49.2167
+Agha Jari, 30.7000, 49.8333
+Ahar, 38.4667, 47.0667
+Ahhmadabad-e Sarjam, 35.8500, 59.6000
+Ahmadi, 27.9333, 56.7000
+Ahram, 28.8667, 51.2667
+Ahvaz, 31.3167, 48.7000
+Akbarabad, 35.6833, 51.3500
+Alajujeh, 38.9500, 46.6833
+Ali Seyyed, 32.1500, 59.8667
+Aligudarz, 33.4000, 49.6833
+Amirabad, 36.0667, 54.1667
+Amol, 36.3833, 52.3333
+Anar, 30.8833, 55.3000
+Anarak, 33.3333, 53.7000
+Andimeshk, 32.4500, 48.3500
+Angohran, 26.5833, 57.9000
+Aq-Qal‘eh, 37.0167, 54.5000
+Aqbolagh, 38.9000, 44.5333
+Arak, 34.0833, 49.6833
+Aran, 34.0667, 51.4833
+Ardabil, 38.2500, 48.3000
+Ardakan(Fars), 30.2667, 52.0167
+Ardakan(Yazd), 32.3167, 53.9833
+Ardal, 31.9833, 50.6500
+Ardestan, 33.3667, 52.3833
+Arsenjan, 29.9333, 53.3000
+Asadabad, 34.7833, 48.1167
+Aslan-Sara, 39.0333, 48.2667
+Astaneh(Glian), 37.2833, 49.9833
+Astaneh(Lorestan), 33.8833, 49.3667
+Astara, 38.4333, 48.8667
+Avej, 35.5667, 49.2167
+Awin, 35.8000, 51.4000
+Azad Shahr, 37.1167, 55.2667
+Azar Shahr, 37.7500, 45.9833
+Babol, 36.5667, 52.7000
+Babol Sar, 36.7167, 52.6500
+Bad, 33.6833, 52.0167
+Bafq, 31.5833, 55.4000
+Baft, 29.2333, 56.6333
+Bagh-e Malek, 31.5333, 49.9167
+Baghin, 30.2000, 56.8167
+Bahar, 34.9000, 48.4333
+Bahu Kalat, 25.7167, 61.4167
+Bajgiran, 37.6000, 58.4000
+Bakhtaran(Kermanshah), 34.3167, 47.0667
+Baladeh, 36.2000, 51.8000
+Bam, 36.9667, 57.9833
+Bam, 29.1000, 58.3500
+Bampur, 27.2000, 60.4500
+Bandan, 31.3833, 60.7333
+Bandar ‘Abbas, 27.1833, 56.2833
+Bandar-e Anzali(Bandar-e Pahlavi), 37.4667, 49.4500
+Bandar-e Charak, 26.7167, 54.2667
+Bandar-e Deylam, 30.0667, 50.1667
+Bandar-e Gaz, 36.7833, 53.9833
+Bandar-e Khomeyni(Bandar-e Shahpur), 30.4167, 49.0833
+Bandar-e Lengeh, 26.5500, 54.8833
+Bandar-e Mahshahr, 30.5500, 49.2000
+Bandar-e Moghuyeh, 26.5833, 54.5167
+Bandar-e Rig, 29.4833, 50.6333
+Bandar-e Torkman, 36.9333, 54.1000
+Baneh, 35.9833, 45.8833
+Bardeskan, 35.2000, 57.9667
+Barin, 39.2167, 44.4667
+Basa‘idu, 26.6500, 55.2833
+Bastak, 27.2333, 54.3667
+Bastam, 36.4833, 55.0667
+Bazman, 27.8167, 60.2000
+Behbehan, 30.5833, 50.2333
+Behshahr, 36.7167, 53.5667
+Bejestan, 34.5167, 58.1667
+Benab, 37.3333, 46.0667
+Bent, 26.2833, 59.5167
+Bidokht, 34.3500, 58.7667
+Bijar, 35.8667, 47.6000
+Bijenabad, 27.9167, 58.0500
+Birjand, 32.8833, 59.2167
+Bojnurd, 37.4667, 57.3167
+Borazjan, 29.2667, 51.2000
+Borujen, 31.9833, 51.3000
+Borujerd, 33.9000, 48.7667
+Boshruyeh, 33.8833, 57.4333
+Bostan, 31.7167, 47.9833
+Bowkan, 36.5167, 46.2000
+Bushehr, 28.9833, 50.8333
+Chadegan, 32.7667, 50.6500
+Chah Bahar, 25.3000, 60.6167
+Chahak, 33.2833, 58.9000
+Chalus, 36.6333, 51.4333
+Chanaran, 36.6500, 59.1000
+Charam, 30.7500, 50.7333
+Chat, 37.9833, 55.2667
+Chelvand, 38.3000, 48.8333
+Damavand, 35.7167, 52.0667
+Damghan, 39.1500, 54.3667
+Darab, 28.7500, 54.5667
+Darakeh, 35.8000, 51.3833
+Daran, 32.9833, 50.4000
+Darband, 35.8167, 51.4333
+Darkhazineh, 31.9000, 48.9833
+Darreh Gaz, 37.4500, 59.1167
+Dasht-e Azadegan(Susangerd), 31.5667, 48.1833
+Dastgardan, 34.3167, 56.8500
+Dastjerd, 34.5500, 50.2500
+Davar Panah, 27.3500, 62.3500
+Davarzan, 36.3833, 56.8333
+Deh Barez, 27.4333, 57.2000
+Deh Kord, 33.8167, 48.8833
+Deh Salm, 31.2000, 59.3167
+Dehbid, 30.6333, 53.2167
+Dehdez, 31.7167, 50.2833
+Dehgolan, 35.2833, 47.4167
+Dehloran, 32.6833, 47.2667
+Delijan, 33.9833, 50.6667
+Deyhuk, 33.2833, 57.5000
+Deyyer, 27.8333, 51.9167
+Dez Gerd, 30.7500, 51.9500
+Dezful, 32.3833, 48.4000
+Divan Darreh, 35.9167, 47.0333
+Dow Rud, 33.4667, 49.0667
+Dowlatabad(Kerman), 28.3000, 56.6667
+Dowlatabad(Tehran), 35.6167, 51.4500
+Dowsari, 28.4167, 57.9833
+Dulab, 35.6167, 51.4500
+Duruh, 32.2833, 60.5000
+Emamshahr(Shahrud), 36.4167, 55.0167
+Eqlid, 30.9167, 52.6500
+Esfahan(Isfahan), 32.6667, 51.6333
+Esfandaqeh, 28.6333, 57.2000
+Eslamabad, 34.1000, 46.5167
+Esma‘ilabad, 28.8000, 56.6500
+Estahbanat, 29.1333, 54.0667
+Evaz, 27.7667, 53.9833
+Eyvanaki, 35.3333, 52.0667
+Fahraj, 28.9667, 58.8667
+Falavarjan, 32.5500, 51.5000
+Farahabad, 35.7000, 51.5000
+Farazad, 35.7833, 51.3500
+Fariman, 35.7167, 59.8833
+Farmahin, 34.5000, 49.6833
+Farrashband, 28.8833, 52.1000
+Fasa, 28.9333, 53.7000
+Fedeshk, 32.7500, 58.8333
+Ferdows, 34.0000, 58.1500
+Feyzabad, 35.0167, 58.7667
+Firuz Bahram, 35.6333, 51.2500
+Firuz Kuh, 35.7500, 52.7833
+Firuzabad, 28.8333, 52.6000
+Fowman, 37.2167, 49.3167
+Fulad Mahalleh, 36.0333, 53.7333
+Furg, 28.3000, 55.2167
+Gabrik, 25.7333, 58.4667
+Gachsaran, 30.2000, 50.7833
+Galehdar, 27.6333, 52.7000
+Galugah-e Asiyeh, 34.0167, 59.9167
+Garmsar, 35.3333, 52.2167
+Gatvand, 32.2500, 48.8333
+Germi, 39.0167, 48.0500
+Gevan, 26.0500, 57.2833
+Gilan-e Gharb, 34.1333, 45.9167
+Golashkerd, 27.9833, 57.2667
+Golpayegan, 33.4500, 50.3000
+Gomishan, 37.0667, 54.1000
+Gonabad, 34.3333, 58.7000
+Gonbad-e Qabus, 37.2833, 55.2833
+Gorgan, 36.8333, 54.4833
+Gowk, 29.8500, 57.7333
+Gug Daraq, 37.5208, 47.2733

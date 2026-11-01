@@ -1,0 +1,134 @@
+Rafsanjan, 30.4000, 56.0167
+Rakhneh, 31.6500, 59.2167
+Ramhormoz, 31.2667, 49.6000
+Ramsar, 36.8833, 50.6833
+Ramshir, 30.9000, 49.4000
+Rasht, 37.2667, 49.6000
+Rask, 26.2167, 61.4167
+Ravansar, 34.7167, 46.6667
+Ravar, 31.2500, 56.8833
+Rayen, 29.5667, 57.4333
+Razan, 35.3833, 49.0333
+Remeshk, 26.8333, 58.8167
+Rey, 35.5833, 51.4167
+Reza'iyeh > Orumiyeh, 37.5500, 45.0667
+Rezvandeh, 37.5500, 49.1500
+Ri Shahr, 28.9167, 50.8333
+Rigan, 28.6167, 58.9667
+Rivash, 35.4333, 58.4333
+Riz, 32.3833, 51.3333
+Rizaiyeh > Orumiyeh, 37.5500, 45.0667
+Robat, 30.0667, 54.8167
+Robat Karim, 35.4667, 51.0833
+Rudbar, 36.8000, 49.4000
+Rudsar, 37.1333, 50.3000
+Sa'in Dezh, 36.6667, 46.5500
+Sabzevar, 36.2167, 57.7000
+Safarabad, 38.9833, 47.4500
+Safiabad, 36.7500, 57.9667
+Safid Abeh, 30.9333, 60.5833
+Sahneh, 34.4833, 47.6833
+Salmas, 38.1833, 44.7833
+Samen, 34.2000, 48.7000
+Sanandaj, 35.3167, 47.0000
+Sang Bast, 35.9833, 59.7667
+Saqqez, 36.2333, 46.2667
+Sar Daq, 34.8000, 58.1167
+Sar Dasht(Khuzestan), 32.5333, 48.8667
+Sar Dasht(Azarbayjan-e Gharbi), 36.1500, 45.4667
+Sar-e Pol-e Zahab, 34.4667, 45.8667
+Sarab, 37.9333, 47.5333
+Sarakhs, 36.5333, 61.1833
+Saravan, 27.2500, 62.6667
+Sarayan, 33.8500, 58.5167
+Sarbaz, 26.6500, 61.2500
+Sari, 36.5667, 53.0667
+Sarvestan, 29.2667, 53.2167
+Saveh, 35.0167, 50.3333
+Sa‘adatabad, 30.1000, 53.1333
+Sa‘dabad, 29.3833, 51.1167
+Sa‘idabad, 35.6667, 51.1833
+Selvana, 37.4167, 44.8500
+Semnan, 35.5500, 53.4000
+Seydabad, 34.8500, 50.6000
+Shabestar, 38.1833, 45.7000
+Shadegan, 30.6667, 48.6333
+Shaft, 37.2000, 49.4000
+Shahabad(Khorasan), 37.5333, 56.9000
+Shahabad(Tehran), 35.8167, 51.4833
+Shahr Kord, 32.3167, 50.8333
+Shahr-e Babak, 30.1167, 55.1500
+Shahreza, 32.0167, 51.8667
+Shakhen, 33.3667, 59.5333
+Shamil, 27.5000, 56.8833
+Sharafkhaneh, 38.1833, 45.4833
+Shiraz, 29.6167, 52.5500
+Shirvan, 37.4000, 57.9167
+Shurab(Khorasan), 33.7167, 56.4833
+Shurab(Sistan va Baluchestan), 28.1500, 60.3000
+Shusf, 31.8000, 60.0167
+Shush, 32.1833, 48.2500
+Shushtar, 32.0500, 48.8500
+Sirdan, 36.6500, 49.2000
+Soltanabad, 36.3833, 58.0333
+Soltaniyeh, 36.4333, 48.8000
+Sonqor, 34.7833, 47.6000
+Sufian, 38.2833, 45.9833
+Suhanak, 35.8000, 51.5333
+Suldeh, 36.5667, 52.0167
+Sulgan, 35.8167, 51.2500
+Sultanatabad, 35.7667, 51.4667
+Sumar, 33.8667, 45.6500
+Surak, 25.7167, 58.8000
+Suran, 27.2333, 62.1167
+Surkh Hisar, 35.7167, 51.5500
+Surmaq, 31.0500, 52.8000
+Susangerd, 31.5667, 48.1833
+Tabas, 33.6000, 56.9000
+Tabas Masina, 32.8000, 60.2333
+Tabriz, 38.0833, 46.3000
+Taft, 31.7500, 54.2333
+Taheri, 27.7000, 52.3500
+Tajrish, 35.8000, 51.4167
+Takab, 36.4000, 47.1167
+Takestan, 36.0667, 49.7167
+Tal-e Khosravi, 30.6167, 51.5833
+Talish-Mikeyli, 39.3833, 48.3667
+Tankabon, 36.8167, 50.8833
+Tarasht, 35.7000, 51.3500
+Tarkhowran, 34.6833, 50.0000
+Tayyebat, 34.7333, 60.7500
+Teheran > Tehran, 35.6667, 51.4333
+Tehran, 35.6667, 51.4333
+Tonekabon, 36.8167, 50.8833
+Torbat-e Heydariyeh, 35.2667, 59.2167
+Torbat-e Jam, 35.2333, 60.6000
+Torkaman, 37.5833, 47.3833
+Towli, 39.1833, 47.5333
+Turkman Deh, 35.6667, 51.6000
+Tuysarkan, 34.5500, 48.4500
+Urmia > Orumiyeh, 37.5500, 45.0667
+Vanak, 35.7500, 51.3833
+Varamin, 35.3333, 51.6500
+Ward, 35.8000, 51.1667
+Wasfanard, 35.6500, 51.3500
+Yaftabad, 35.6500, 51.3167
+Yazd, 31.8833, 54.4167
+Yezd > Yazd, 31.8833, 54.4167
+Yusofabad, 35.7333, 51.4167
+Zabol, 31.0333, 61.5000
+Zaboli, 27.1167, 61.6667
+Zagheh, 33.5000, 48.7000
+Zahedan, 29.5000, 60.8667
+Zanjan, 36.6667, 48.4833
+Zarand, 30.8000, 56.5833
+Zarand-e Kohneh, 35.2833, 50.5000
+Zarnan, 35.6833, 51.1500
+Zarqan, 29.7667, 52.7167
+Zeyveh, 39.1167, 47.7000
+Zurabad, 38.8167, 44.5833
+‘Abbasabad, 35.7333, 51.4167
+‘Ajab Shir, 37.4667, 45.9000
+‘Ali Shah ‘Avaz, 35.6500, 51.0667
+‘Aliabad, 36.9500, 54.9833
+‘Arababad, 33.0333, 57.6833

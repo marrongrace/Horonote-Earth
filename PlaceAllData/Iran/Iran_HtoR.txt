@@ -1,0 +1,170 @@
+Haft Gel, 31.4500, 49.4500
+Hamadan, 34.8000, 48.5000
+Harsin, 34.2667, 47.5833
+Hasan Kiadeh, 37.4000, 49.9667
+Hasanabad, 35.7333, 51.3167
+Hasanabad-e Khaleseh, 35.6167, 51.2000
+Hashtpar, 37.8000, 48.9167
+Hasin-e Bozorg, 39.3833, 44.7000
+Haviq, 38.1667, 48.9000
+Hendijan, 30.2333, 49.7167
+Hesarak, 35.7833, 51.3167
+Homayunshahr, 32.6833, 51.5167
+Hoseynabad, 35.5500, 47.1333
+Hoseyniyeh-ye Khoda Dad, 32.7000, 48.2333
+Hoveyzeh, 31.4500, 48.0667
+Humedan, 25.4000, 59.6500
+Hurand, 38.8500, 47.3667
+Igdir, 39.3333, 47.5000
+Ilam, 33.6333, 46.4333
+Iranshahr, 27.2167, 60.6833
+Isfahan > Esfahan, 32.6667, 51.6333
+Izad Khvast, 31.5167, 52.1167
+Izeh, 31.8333, 49.8333
+Jahrom, 28.5167, 53.5500
+Jajarm, 36.9667, 56.4500
+Jandaq, 34.0333, 54.4333
+Jask, 25.6333, 57.7667
+Ja‘farabad, 35.7167, 50.7167
+Joghatay, 36.6000, 57.0167
+Jolfa, 38.9500, 45.6333
+Juyom, 28.1667, 53.8667
+Kabud Gonbad, 37.0000, 59.7500
+Kabud Rahang, 35.2000, 48.7333
+Kadkan, 35.5833, 58.8333
+Kahnuj, 27.9667, 57.7500
+Kaki, 28.3167, 51.5667
+Kalasarv, 39.1833, 48.0500
+Kaleybar, 38.7833, 47.0333
+Kamizgan, 38.9667, 47.7333
+Kan, 35.7500, 51.2667
+Kangan, 27.8333, 52.0500
+Kangavar, 34.5000, 47.9667
+Karaj, 35.8000, 50.9833
+Kariz, 34.8167, 60.7833
+Karkin Dar, 25.7833, 59.2500
+Kashan, 33.9833, 51.4833
+Kashmar, 35.2000, 58.4500
+Kazerun, 29.6167, 51.6333
+Kazvin > Quazin, 36.2667, 50.0000
+Kerend, 34.2667, 46.2500
+Kerman, 30.2833, 57.0833
+Kermanshah, 34.3167, 47.0667
+Khalkhal(Herowabad), 37.6167, 48.5333
+Khaneh Khvodi, 36.0833, 56.0667
+Kharanaq, 32.3333, 54.6500
+Khash, 28.2333, 61.2333
+Khomam, 37.3667, 49.6667
+Khomeyn, 33.6333, 50.0667
+Khorram Daraq, 36.4333, 48.6000
+Khorramabad, 33.5000, 48.3333
+Khorramshahr, 30.4167, 48.1833
+Khur, 32.9500, 58.4333
+Khurramshahr > Khorramshahr, 30.4167, 48.1833
+Khusf, 32.7667, 58.8833
+Khvaf, 34.5500, 60.1333
+Khvor, 33.7833, 55.0500
+Khvormuj, 28.6500, 51.3833
+Khvoy, 38.5500, 44.9667
+Kishar Bala, 35.8167, 51.2167
+Kol Badam-e Yavar, 33.5833, 47.0000
+Kord Kuy, 36.8000, 54.1167
+Kuhdasht, 33.5333, 47.6000
+Kuhpayeh, 32.7167, 52.4333
+Ladiz, 28.9333, 61.3167
+Lahijan, 37.2000, 50.0167
+Lahrud, 38.5000, 47.8167
+Langarud, 37.1833, 50.1667
+Lar, 27.6833, 54.2833
+Lashkarak, 35.8167, 51.6000
+Lasjerd, 35.4000, 53.0667
+Lotfabad, 37.5333, 59.3333
+Mahabad, 36.7500, 45.7167
+Mahallat, 33.9167, 50.4500
+Mahmudabad, 36.6333, 52.2500
+Maku, 39.2833, 44.5167
+Malayer, 34.2833, 48.8333
+Malek Kandi, 37.1500, 46.1000
+Manujan, 27.4000, 57.5333
+Maragheh, 37.3833, 46.2167
+Marakand, 38.8667, 45.2333
+Marand, 38.4333, 45.7667
+Maraveh Tappeh, 37.9167, 55.9500
+Margam, 39.1500, 44.9500
+Marivan, 35.5167, 46.1667
+Marv Dasht, 29.8333, 52.6667
+Mashhad, 36.3000, 59.6000
+Mashiz, 29.9333, 56.6167
+Masjed Soleyman, 31.9667, 49.3000
+Maskutan, 26.8500, 59.8167
+Masuleh, 37.1667, 48.9833
+Mayamey, 36.4000, 55.7000
+Mazhan, 32.5833, 59.0167
+Mazinan, 36.3000, 56.7667
+Mehrabad, 36.8833, 47.9167
+Mehran, 33.1167, 46.1667
+Mehriz, 31.5833, 54.4667
+Mesgarabad, 35.6167, 51.5167
+Meshed > Mashhad, 36.3000, 59.6000
+Meshgin Shahr, 38.4000, 47.6667
+Meymeh, 33.4500, 51.1667
+Mianabad, 37.0333, 57.4500
+Miandow Ab, 36.9667, 46.1000
+Mianeh, 37.4333, 47.7000
+Mighan, 31.8167, 59.4667
+Minab, 27.1500, 57.0833
+Mirjaveh, 29.0167, 61.4667
+Mohammadabad, 30.8833, 61.4667
+Molkabad, 34.5333, 52.5833
+Murcheh Khvort, 33.1000, 51.5000
+Na'in, 32.8667, 53.0833
+Nahavand, 34.2000, 48.3667
+Najafabad, 32.6167, 51.3500
+Namin, 38.4167, 48.5000
+Naqadeh, 36.9500, 45.3833
+Nasrabad, 34.1333, 51.4333
+Natanz, 33.3500, 51.6667
+Nay Band(Khorasan), 32.3333, 57.5667
+Nay Band(Bushehr), 27.3833, 52.6333
+Nehbandan, 31.5333, 60.0333
+Nematabad, 35.6333, 51.3500
+Neyriz, 29.2000, 54.3167
+Neyshabur, 36.2000, 58.8333
+Nik Shahr, 26.2167, 60.2000
+Nir, 38.0333, 47.9833
+Nosratabad, 29.9000, 59.9833
+Nowbaran, 35.1333, 48.7000
+Nowfel low Shatow, 34.3833, 50.5333
+Orumiyeh, 37.5500, 45.0667
+Oshnoviyeh(Reza'iyeh), 37.0333, 45.1000
+Oshtorinan, 34.0167, 48.6333
+Osku, 37.9167, 46.1000
+Ozgol, 35.7833, 51.5000
+Padgan-e Mehrabad, 35.6667, 51.3333
+Pahlavi > Bandar-e Anzali, 37.4667, 49.4500
+Pahlevi > Bandar-e Anzali, 37.4667, 49.4500
+Paveh, 35.0500, 46.3667
+Piran Shahr, 36.6833, 45.1333
+Pol-e Safid, 36.1000, 53.0167
+Polan, 25.5833, 61.2000
+Qa'emshahr, 36.4667, 52.8833
+Qaderabad, 30.2833, 53.2667
+Qamsar, 33.7500, 51.4333
+Qareh Zia' od Din, 38.9000, 45.0333
+Qasa-e Qand, 26.2000, 60.7500
+Qasemabad, 35.7667, 51.5167
+Qasr-e Firuzeh, 35.6667, 51.5333
+Qasr-e Shirin, 34.5167, 45.5833
+Qayen, 33.7333, 59.1833
+Qazvin, 36.2667, 50.0000
+Qeshm, 26.9667, 56.2667
+Qeydar, 36.1167, 48.5833
+Qezel Qeshlaq, 39.1333, 45.3500
+Qolhak, 35.7833, 51.4333
+Qom, 34.6500, 50.9000
+Qorveh, 35.1667, 47.8000
+Qotbabad, 28.7000, 53.5667
+Qotur, 38.4667, 44.4167
+Quchan, 37.1000, 58.5000
+Qushchi, 37.9833, 45.0500
+Quyjaq-e Bala, 39.2667, 47.1167
