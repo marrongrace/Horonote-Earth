@@ -1,0 +1,488 @@
+Macchiagodena, 41.5500, 14.4000
+Macerata, 43.3000, 13.4500
+Macerata Feltria, 43.8000, 12.4333
+Macherio, 45.6333, 9.2667
+Macomer, 40.2667, 8.7833
+Macugnaga, 45.9667, 7.9667
+Maddaloni, 41.0333, 14.3667
+Maderno, 45.6333, 10.5833
+Madonna(Unserfrau), 46.7167, 10.8667
+Madonna dell'Olmo, 44.4167, 7.5333
+Madonna di Campiglio, 46.2333, 10.8167
+Madonna di Tirano, 46.2167, 10.1500
+Maenza, 41.5167, 13.1833
+Magenta, 45.4667, 8.8833
+Magione, 43.1333, 12.2000
+Magisano, 39.0167, 16.4500
+Magliano dei Marsi, 42.0833, 13.3667
+Magliano in Toscana, 42.6000, 11.2833
+Magliano Sabina, 42.3667, 12.4833
+Maglie, 40.1167, 18.3167
+Magnago, 45.5833, 8.8000
+Magrè(Margreid), 46.2833, 11.2000
+Maiano, 46.1833, 13.0667
+Maida, 38.8500, 16.3667
+Maierato, 38.7000, 16.1833
+Mailand > Milano, 45.4667, 9.2000
+Maiolati Spontini, 43.4667, 13.1000
+Maiori, 40.6500, 14.6333
+Malalbergo, 44.7167, 11.5333
+Malamocco, 45.3667, 12.3333
+Malborghetto Valbruna, 46.5000, 13.4333
+Malcesine, 45.7667, 10.8000
+Malcontenta, 45.4167, 12.2167
+Malegno(Lombardia), 45.9333, 10.2333
+Malegno(Trentino-Alto Adige), 46.6667, 11.1333
+Maleo, 45.1667, 9.7667
+Malesco, 46.1333, 8.5000
+Maletto, 37.8167, 14.8667
+Malfa, 38.5833, 14.8333
+Malles Venosta(Mals), 46.6833, 10.5333
+Malnate, 45.8000, 8.8833
+Malo, 45.6500, 11.4000
+Malonno, 46.1167, 10.3000
+Mals > Malles Venosta, 46.6833, 10.5333
+Malvaglio, 45.5167, 8.7833
+Malvagna, 37.9167, 15.0667
+Malvito, 39.6000, 16.0500
+Malè, 46.3500, 10.9167
+Mammola, 38.3667, 16.2500
+Mamoiada, 40.2167, 9.2833
+Manciano, 42.5833, 11.5167
+Mandanici, 38.0000, 15.3167
+Mandatoriccio, 39.4667, 16.8333
+Mandello del Lario, 45.9000, 9.3167
+Mandriole, 44.5500, 12.2333
+Manduria, 40.4000, 17.6333
+Manerbio, 45.3500, 10.1333
+Manfredonia, 41.6333, 15.9167
+Mangone, 39.2000, 16.3333
+Maniago, 46.1667, 12.7167
+Mannu, 39.3000, 8.9667
+Manoppello, 42.2500, 14.0500
+Manta, 44.6167, 7.4833
+Mantova, 45.1500, 10.8000
+Mantua > Mantova, 45.1500, 10.8000
+Manzano, 45.9833, 13.3833
+Manziana, 42.1333, 12.1333
+Maracalagonis, 39.2833, 9.2167
+Maranello, 44.5333, 10.8667
+Marano, 45.6333, 8.6333
+Marano di Napoli, 40.9000, 14.1833
+Marano Lagunare, 45.7667, 13.1667
+Marano sul Panaro, 44.4500, 10.9667
+Marano Vicentino, 45.6833, 11.4167
+Maratea, 39.9833, 15.7500
+Marausa, 37.9333, 12.5000
+Marcallo con Casone, 45.4833, 8.8667
+Marcaria, 45.1167, 10.5333
+Marcedusa, 39.0333, 16.8333
+Marcellina, 42.0167, 12.8000
+Marchesato, 39.1167, 16.9667
+Marciana, 42.7833, 10.1667
+Marciana Marina, 42.8000, 10.2000
+Marcianise, 41.0333, 14.2833
+Marciano della Chiana, 43.3000, 11.7833
+Marco, 45.8500, 11.0167
+Marene, 44.6500, 7.7333
+Marettimo, 37.9667, 12.0667
+Margherita di Savoia, 41.3833, 16.1500
+Margone, 45.2167, 7.1833
+Margeid > Magrè, 46.2833, 11.2000
+Mariano Comense, 45.7000, 9.1833
+Mariano del Friuli, 45.9167, 13.4500
+Marianopoli, 37.6000, 13.9167
+Marigliano, 40.9333, 14.4500
+Marina di Andora, 43.9500, 8.1333
+Marina di Campo, 42.7333, 10.2333
+Marina di Caronia, 38.0333, 14.4667
+Marina di Carrara, 44.0333, 10.0333
+Marina di Cecina, 43.3000, 10.4833
+Marina di Gioiosa Ionica, 38.3000, 16.3333
+Marina di Grosseto, 42.7167, 10.9833
+Marina di Massa, 44.0000, 10.1000
+Marina di Minturno, 41.2667, 13.7500
+Marina di Orosei, 40.3667, 9.7167
+Marina di Pietrasanta, 43.9333, 10.2000
+Marina di Pisa, 43.6667, 10.2667
+Marina di Ragusa, 36.7833, 14.5500
+Marina di Ravenna, 44.4833, 12.2833
+Marinella, 37.5833, 12.8333
+Marineo, 37.9500, 13.4167
+Marino, 41.7667, 12.6500
+Marmirolo, 45.2167, 10.7500
+Marmore, 42.5500, 12.7167
+Marnate, 45.6333, 8.9000
+Marone, 45.7333, 10.0833
+Marostica, 45.7500, 11.6500
+Marotta, 43.7667, 13.1333
+Marradi, 44.0667, 11.6167
+Marrùbiu, 39.7500, 8.6333
+Marsala, 37.8000, 12.4333
+Marsciano, 42.9000, 12.3333
+Marsico Nuovo, 40.4167, 15.7333
+Marsico Vetere, 40.3833, 15.8167
+Marta, 42.5333, 11.9167
+Martano, 40.2000, 18.3000
+Martello, 46.5667, 10.7833
+Martignacco, 46.0833, 13.1333
+Martina Franca, 40.7000, 17.3500
+Martinengo, 45.5667, 9.7667
+Martis, 40.7833, 8.8167
+Maruggio, 40.3167, 17.5667
+Marzabotto, 44.3333, 11.2000
+Marzolara, 44.6333, 10.1667
+Mascali, 37.7500, 15.2000
+Mascalucia, 37.5667, 15.0500
+Maschito, 40.9000, 15.8333
+Maser, 45.8000, 11.9833
+Maserada sul Piave, 45.7500, 12.2833
+Masone, 44.5000, 8.7000
+Massa, 44.0167, 10.1500
+Massa Fermana, 43.1500, 13.4667
+Massa Fiscaglia, 44.8000, 12.0167
+Massa Lombarda, 44.4500, 11.8167
+Massa Lubrense, 40.6000, 14.3333
+Massa Marittima, 43.0500, 10.8833
+Massa Martana, 42.7667, 12.5167
+Massafra, 40.5833, 17.1167
+Massarosa, 43.8667, 10.3333
+Massello, 44.9500, 7.0667
+Matelica, 43.2500, 13.0000
+Matera, 40.6667, 16.6167
+Mathi, 45.2500, 7.5333
+Matino, 40.0333, 18.1333
+Mattarana, 44.2500, 9.6167
+Mattarello, 46.0000, 11.1167
+Mattinata, 41.7000, 16.0500
+Mazara del Vallo, 37.6500, 12.5833
+Mazzarino, 37.3000, 14.2167
+Mazzarrà Sant'Andrea, 38.0833, 15.1333
+Mazzin, 46.4500, 11.7000
+Meana Sardo, 39.9500, 9.0667
+Meda, 45.6667, 9.1500
+Mede, 45.1000, 8.7333
+Medesano, 44.7500, 10.1333
+Medicina, 44.4667, 11.6333
+Medolla, 44.8500, 11.0667
+Meina, 45.7833, 8.5333
+Mel, 46.0667, 12.0833
+Melara, 45.0500, 11.1833
+Meldola, 44.1167, 12.0833
+Mele, 44.4500, 8.7500
+Melegnano, 45.3500, 9.3167
+Melendugno, 40.2667, 18.3333
+Melfi, 41.0000, 15.6500
+Melicuccà, 38.3000, 15.8833
+Melilli, 37.1833, 15.1167
+Melissa, 39.3000, 17.0167
+Melissano, 39.9667, 18.1167
+Melito di Porto Salvo, 37.9167, 15.7833
+Melzo, 45.5000, 9.4167
+Menaggio, 46.0167, 9.2333
+Mendatica, 44.0833, 7.8167
+Menfi, 37.6000, 12.9667
+Mentana, 42.0333, 12.6333
+Meolo, 45.6167, 12.4500
+Meran > Merano, 46.6667, 11.1500
+Merano(Meran), 46.6667, 11.1500
+Merate, 45.7000, 9.4167
+Mercatale, 43.2500, 12.1333
+Mercato San Severino, 40.7833, 14.7667
+Mercato Saraceno, 43.9500, 12.2000
+Mercogliano, 40.9167, 14.7333
+Mergozzo, 45.9667, 8.4333
+Merlara, 45.1667, 11.4333
+Mesagne, 40.5500, 17.8167
+Mese, 46.2833, 9.3500
+Mesero, 45.5000, 8.8500
+Mesola, 44.9167, 12.2333
+Mesoraca, 39.0833, 16.8000
+Messina, 38.1833, 15.5667
+Mestre, 45.4833, 12.2500
+Mestrino, 45.4333, 11.7500
+Meta, 40.6500, 14.4000
+Metaurilia, 43.8167, 13.0500
+Mezzana, 46.3167, 10.8000
+Mezzano, 46.1500, 11.8000
+Mezzenile, 45.2833, 7.3833
+Mezzocorona, 46.2167, 11.1167
+Mezzoiuso, 37.8667, 13.4667
+Mezzoldo, 46.0167, 9.6667
+Mezzolombardo, 46.2167, 11.0833
+Mezzomerico, 45.6167, 8.6000
+Miane, 45.9500, 12.1000
+Migliarino, 44.7667, 11.9333
+Migliaro, 44.8000, 11.9667
+Miglionico, 40.5667, 16.5000
+Mignano Monte Lungo, 41.3833, 13.9667
+Milian > Milano, 45.4667, 9.2000
+Milano(Milan), 45.4667, 9.2000
+Milano Marittima, 44.2667, 12.3500
+Milazzo, 38.2167, 15.2333
+Milena, 37.4667, 13.7333
+Mileto, 38.6000, 16.0667
+Milis, 40.0500, 8.6333
+Militello in Val di Catania, 37.2667, 14.8000
+Militello Rosmarino, 38.0500, 14.6833
+Millesimo, 44.3667, 8.2000
+Mineo, 37.2667, 14.7000
+Minerbe, 45.2333, 11.3333
+Minerbio, 44.6167, 11.4833
+Minervino Murge, 41.0833, 16.0833
+Minturno, 41.2500, 13.7500
+Mioglia, 44.4833, 8.4167
+Mira, 45.4333, 12.1333
+Mirabella Eclano, 41.0333, 14.9833
+Mirabella Imbaccari, 37.3167, 14.4500
+Mirabello Monferrato, 45.0333, 8.5167
+Miramare, 44.0333, 12.6333
+Mirandola, 44.8833, 11.0667
+Mirano, 45.5000, 12.1167
+Mirto, 38.0833, 14.7500
+Mis, 46.2000, 11.9500
+Misano Adriatico, 43.9500, 12.6500
+Miseno, 40.7833, 14.0833
+Misilmeri, 38.0333, 13.4500
+Misinto, 45.6667, 9.0833
+Missanello, 40.2833, 16.1667
+Misterbianco, 37.5167, 15.0000
+Mistretta, 37.9333, 14.3667
+Misurina, 46.5833, 12.2500
+Modena, 44.6667, 10.9167
+Modica, 36.8667, 14.7667
+Modigliana, 44.1500, 11.7833
+Modugno, 41.0833, 16.7833
+Moena, 46.3667, 11.6500
+Moggio Udinese, 46.4167, 13.2000
+Moglia, 44.9333, 10.9167
+Mogliano Veneto, 45.5500, 12.2333
+Mogorella, 39.8667, 8.8500
+Moiano(Vico Equense), 40.6500, 14.4667
+Moiano(Benevento), 41.0833, 14.5333
+Moio Alcantara, 37.9000, 15.0500
+Mola di Bari, 41.0667, 17.0833
+Molaretto, 45.1667, 7.0000
+Molfetta, 41.2000, 16.6000
+Molina di Ledro, 45.9333, 10.7667
+Molinara, 41.3000, 14.9000
+Molinella, 44.6167, 11.6667
+Molini di Tures(Mühlen), 46.9000, 11.9333
+Moliterno, 40.2333, 15.8667
+Mollaro, 46.2667, 11.0833
+Mollia, 45.8167, 8.0333
+Molochio, 38.3000, 16.0333
+Mombaruzzo, 44.7667, 8.4500
+Monasterace, 38.4500, 16.5500
+Monasterolo di Savigliano, 44.6667, 7.6167
+Monastir, 39.3833, 9.0333
+Moncalieri, 45.0000, 7.6833
+Moncalvo, 45.0500, 8.2667
+Mondaino, 43.8500, 12.6833
+Mondavio, 43.6667, 12.9667
+Mondello, 38.2167, 13.3333
+Mondolfo, 43.7500, 13.1000
+Mondovì, 44.3833, 7.8167
+Mondragone, 41.1167, 13.8833
+Moneglia, 44.2333, 9.5000
+Monesiglio, 44.4667, 8.1167
+Monfalcone, 45.8167, 13.5333
+Monforte San Giorgio, 38.1500, 15.3833
+Monghidoro, 44.2167, 11.3167
+Mongiana, 38.5167, 16.3167
+Mongiuffi, 37.9167, 15.2833
+Mongrando, 45.5167, 8.0000
+Monguelfo(Welsberg), 46.7500, 12.1000
+Monopoli, 40.9500, 17.3167
+Monreale, 38.0833, 13.2833
+Monselice, 45.2333, 11.7500
+Monserrato, 39.2500, 9.1333
+Monsummano Terme, 43.8667, 10.8167
+Montagano, 41.6500, 14.6667
+Montagnana, 45.2333, 11.4667
+Montagnareale, 38.1167, 14.9500
+Montaione, 43.5500, 10.9167
+Montalbano Elicona, 38.0333, 15.0167
+Montalbano Ionico, 40.2833, 16.5667
+Montalcino, 43.0500, 11.4833
+Montaldo di Cosola, 44.6667, 9.1833
+Montale, 43.9333, 11.0167
+Montallegro, 37.3833, 13.3500
+Montalto delle Marche, 42.9833, 13.6000
+Montalto di Castro, 42.3500, 11.6167
+Montalto Ligure, 43.9333, 7.8500
+Montalto Uffugo, 39.4167, 16.1667
+Montanaro, 45.2333, 7.8500
+Montano Antilia, 40.1667, 15.3667
+Montazzoli, 41.9500, 14.4333
+Monte Campatri, 41.8000, 12.7333
+Monte Cavallo, 42.9833, 13.0000
+Monte di Procida, 40.8000, 14.0500
+Monte Grimano, 43.8667, 12.4833
+Monte Porzio Catone, 41.8167, 12.7167
+Monte Romano, 42.2667, 11.9000
+Monte San Biagio, 41.3500, 13.3500
+Monte San Giovanni Campano, 41.6333, 13.5167
+Monte San Savino, 43.3333, 11.7167
+Monte Sant'Angelo, 41.7000, 15.9500
+Monte Santa Maria Tiberina, 43.4333, 12.1500
+Montebello, 45.0000, 9.1000
+Montebello Iónico, 37.9833, 15.7500
+Montebello Vicentino, 45.4500, 11.3833
+Montebelluna, 45.7833, 12.0500
+Montebruno, 44.5167, 9.2500
+Montecalvo Irpino, 41.1833, 15.0333
+Montecarotto, 43.5167, 13.0667
+Montecassiano, 43.3500, 13.4333
+Montecastrilli, 42.6500, 12.4833
+Montecatini Terme, 43.8833, 10.7667
+Montecchio, 43.8500, 12.7667
+Montecchio Emilia, 44.7000, 10.4500
+Montecchio Maggiore, 45.5000, 11.4000
+Montecelio, 42.0167, 12.7333
+Montechiaro d'Asti, 45.0167, 8.1167
+Montechiarugolo, 44.7000, 10.4167
+Monteciccardo, 43.8167, 12.8000
+Montecilfone, 41.9000, 14.8333
+Montecorice, 40.2333, 14.9833
+Montecorvino Pugliano, 40.6833, 14.9500
+Montecorvino Rovella, 40.7000, 14.9833
+Montecosaro, 43.3167, 13.6167
+Montecreto, 44.2333, 10.6833
+Montedinove, 42.9667, 13.5833
+Montedoro, 37.4500, 13.8167
+Montefalcione, 40.9667, 14.8833
+Montefalco, 42.9000, 12.6500
+Montefalcone di Val Fortore, 41.3333, 15.0000
+Montefano, 43.4167, 13.4333
+Montefiascone, 42.5333, 12.0333
+Montefiorino, 44.3667, 10.6167
+Monteforte d'Alpone, 45.4167, 11.2833
+Monteforte Irpino, 40.9000, 14.7000
+Montegallo, 42.8333, 13.3167
+Montegiordano, 40.0333, 16.5333
+Montegiorgio, 43.1333, 13.5333
+Montegranaro, 43.2333, 13.6333
+Montegrotto Terme, 45.3167, 11.7667
+Monteiasi, 40.5000, 17.3833
+Monteleone di Puglia, 41.1667, 15.2500
+Monteleone di Spoleto, 42.6500, 12.9667
+Monteleone Rocco Doria, 40.4833, 8.5667
+Monteleone Sabino, 42.2333, 12.8500
+Montelepre, 38.0833, 13.1667
+Montella, 40.8500, 15.0167
+Montelungo, 44.4000, 9.9000
+Montelupo Fiorentino, 43.7333, 11.0167
+Montemaggiore Belsito, 37.8500, 13.7667
+Montemagno, 44.9833, 8.3333
+Montemarano, 40.9167, 15.0000
+Montemarciano, 43.6333, 13.3167
+Montemesola, 40.5667, 17.3333
+Montemiletto, 41.0167, 14.9000
+Montemilone, 41.0333, 15.6333
+Montemurro, 40.3000, 15.9833
+Montenero, 43.5000, 10.3500
+Montenero di Bisaccia, 41.9500, 14.7833
+Monteodorisio, 42.0833, 14.6500
+Montepescali, 42.8833, 11.0833
+Monteporzio, 43.7000, 13.0500
+Monteprandone, 42.9167, 13.8333
+Montepulciano, 43.0833, 11.7833
+Monterchi, 43.4833, 12.1167
+Montereale, 42.5167, 13.2500
+Montereale Valcellina, 46.1667, 12.6500
+Monteriggioni, 43.3833, 11.2167
+Monteroni d'Arbia, 43.2333, 11.4167
+Monteroni di Lecce, 40.3167, 18.1000
+Monterosso al Mare, 44.1500, 9.6500
+Monterosso Almo, 37.0833, 14.7667
+Monterosso Calabro, 38.7167, 16.2833
+Monterotondo, 42.0500, 12.6167
+Monterotondo Marittimo, 43.1500, 10.8500
+Monterubbiano, 43.0833, 13.7167
+Montesano, 40.2667, 15.7167
+Montesano sulla Marcellana, 40.2667, 15.7000
+Montesarchio, 41.0667, 14.6333
+Montescaglioso, 40.5500, 16.6667
+Montescudaio, 43.3000, 10.6667
+Montese, 44.2667, 10.9333
+Montesilvano, 42.4833, 14.1333
+Montespertoli, 43.6333, 11.0667
+Montespluga, 46.5000, 9.3500
+Montevago, 37.7000, 12.9667
+Montevarchi, 43.5167, 11.5667
+Monteverde, 41.0000, 15.5333
+Montezemolo, 44.3667, 8.1333
+Monti, 40.8167, 9.3167
+Monticelli d'Ongina, 45.0833, 9.9333
+Monticello Conte Otto, 45.5833, 11.5833
+Montichiari, 45.4167, 10.3833
+Monticiano, 43.1333, 11.1833
+Montieri, 43.1333, 11.0167
+Montjovet, 45.7167, 7.6667
+Montodine, 45.2833, 9.7000
+Montoggio, 44.5167, 9.0500
+Montone, 43.3667, 12.3333
+Montopoli in Val d'Arno, 43.6667, 10.7500
+Montorio al Vomano, 42.5833, 13.6333
+Montorio nei Frentani, 41.7667, 14.9167
+Montorio Veronese, 45.4500, 11.0667
+Montresta, 40.3667, 8.5000
+Montà, 44.8000, 7.9500
+Monza, 45.5833, 9.2667
+Moos > Moso, 46.6833, 12.3833
+Moos in Passeier > Moso in Passiria, 46.8333, 11.1667
+Moraduccio, 44.1667, 11.4833
+Morano Calabro, 39.8333, 16.1333
+Morano sul Po, 45.1667, 8.3667
+Morbegno, 46.1333, 9.5667
+Morciano di Romagna, 43.9167, 12.6333
+Morcone, 41.3333, 14.6667
+Mores, 40.5500, 8.8333
+Moretta, 44.7667, 7.5333
+Morgex, 45.7500, 7.0333
+Morgongiori, 39.7500, 8.7667
+Mori, 45.8500, 10.9833
+Morigerati, 40.1333, 15.5500
+Morino, 41.8833, 13.4167
+Mormanno, 39.8833, 16.0000
+Morro d'Oro, 42.6500, 13.9000
+Morrone del Sannio, 41.7167, 14.7833
+Mortara, 45.2500, 8.7333
+Mortegliano, 45.9500, 13.1667
+Mortola Inferiore, 43.7833, 7.5500
+Mosciano Sant'Angelo, 42.7500, 13.8833
+Moscufo, 42.4167, 14.0500
+Moso(Moos), 46.6833, 12.3833
+Moso in Passiria(Moos in Passeier), 46.8333, 11.1667
+Mosso Santa Maria, 45.6333, 8.1333
+Mostizzolo, 46.4000, 11.0167
+Motrone, 43.9000, 10.2000
+Motta, 45.6000, 11.4833
+Motta Camastra, 37.9000, 15.1667
+Motta d'Affermo, 37.9833, 14.3000
+Motta di Livenza, 45.7833, 12.6000
+Motta Montecorvino, 41.5000, 15.1167
+Motta San Giovanni, 38.0000, 15.6833
+Motta Sant'Anastasia, 37.5167, 14.9667
+Motta Visconti, 45.2833, 8.9833
+Mottafollone, 39.6500, 16.0667
+Mottola, 40.6333, 17.0500
+Mozzanica, 45.4833, 9.6833
+Mozzano, 42.8333, 13.5167
+Mozzate, 45.6833, 8.9500
+Muccia, 43.0833, 13.0333
+Muggiò, 45.6000, 9.2333
+Mulazzo, 44.3167, 9.8833
+Mules(Mauls), 46.8500, 11.5167
+Muoro, 40.3333, 9.3333
+Muravera, 39.4167, 9.5667
+Murisengo, 45.0833, 8.1333
+Murlo, 43.1500, 11.3833
+Muro Lucano, 40.7500, 15.4833
+Mussomeli, 37.5833, 13.7500
+Muzzana del Turgnano, 45.8167, 13.1333
+Màndas, 39.6333, 9.1167
+Mògoro, 39.6833, 8.7833
+Múggia, 45.6000, 13.7667
+Mühlen > Molini di Tures, 46.9000, 11.9333

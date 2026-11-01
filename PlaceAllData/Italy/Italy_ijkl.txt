@@ -1,0 +1,247 @@
+Iato, 37.9667, 13.1167
+Idro, 45.7333, 10.4833
+Ielsi, 41.5000, 14.8000
+Ienne, 41.8833, 13.1667
+Ierzu, 39.7833, 9.5167
+Iesi, 43.5167, 13.2333
+Iesolo, 45.5333, 12.6333
+Igea Marina, 44.1333, 12.4833
+Iglesias, 39.3167, 8.5333
+Il Catalano, 39.8833, 8.2833
+Illasi, 45.4667, 11.1667
+Imola, 44.3500, 11.7000
+Imperia, 43.8833, 8.0500
+Imperiale, 40.1167, 16.5833
+Impruneta, 43.6833, 11.2500
+Incisa in Val d'Arno, 43.6667, 11.4500
+Incudine, 46.2333, 10.3667
+Induno Olona, 45.8667, 8.8500
+Innichen > San Candido, 46.7333, 12.2833
+Introbio, 45.9500, 9.4500
+Introdacqua, 42.0000, 13.9000
+Inveruno, 45.5167, 8.8500
+Inzago, 45.5333, 9.4833
+Ioppolo, 38.5833, 15.8833
+Ioppolo Giancaxio, 37.3833, 13.5500
+Irsina, 40.7500, 16.2500
+Ischia, 40.7333, 13.9500
+Ischia di Castro, 42.5500, 11.7500
+Ischitella, 41.9000, 15.9000
+Iselle, 46.2000, 8.2000
+Iseo, 45.6500, 10.0500
+Isernia, 41.6000, 14.2333
+Isola d'Asti, 44.8333, 8.1833
+Isola del Cantone, 44.6500, 8.9500
+Isola del Gran Sasso d'Italia, 42.5000, 13.6667
+Isola del Liri, 41.6833, 13.5667
+Isola della Scala, 45.2667, 11.0000
+Isola di Capo Rizzuto, 38.9667, 17.1000
+Isola Dovarese, 45.1667, 10.3000
+Isola Vicentina, 45.6333, 11.4167
+Isoletta, 41.5000, 13.5667
+Isorella, 45.3000, 10.3167
+Ispani, 40.1333, 15.5667
+Ispica, 36.7833, 14.9167
+Ispra, 45.8167, 8.6167
+Issime, 45.6833, 7.8500
+Issogne, 45.6500, 7.6833
+Istrana, 45.6833, 12.1167
+Itri, 41.2833, 13.5333
+Ittiri, 40.6000, 8.5667
+Ivrea, 45.4667, 7.8667
+Jesi > Iesi, 43.5167, 13.2333
+Khamma, 36.7833, 12.0333
+Kiens > Chienes, 46.8000, 11.8333
+Kurtatsch > Cortaccia, 46.3167, 11.2167
+L'Aquila, 42.3667, 13.3667
+La Foce, 44.1333, 9.7833
+La Lima, 44.0667, 10.7667
+La Maddalena, 41.2167, 9.4000
+La Salle, 45.7500, 7.0667
+La Siligata, 43.9333, 12.7500
+La Spezia, 44.1167, 9.8333
+La Thuile, 45.7167, 6.9500
+La Villa, 46.6000, 11.9000
+Laas > Lasa, 46.6167, 10.7000
+Labico, 41.7833, 12.8833
+Lacchiarella, 45.3167, 9.1333
+Lacco Ameno, 40.7500, 13.9000
+Lacedonia, 41.0500, 15.4167
+Laces(Latsch), 46.6167, 10.8667
+Ladispoli, 41.9333, 12.0833
+Lago, 39.1667, 16.1500
+Lago di Como, 46.0000, 9.3333
+Lagonegro, 40.1167, 15.7667
+Lagosanto, 44.7667, 12.1333
+Lagundo, 46.6833, 11.1333
+Laigueglia, 43.9667, 8.1500
+Lainate, 45.5667, 9.0333
+Laino Borgo, 39.9500, 15.9833
+Laives(Leifers), 46.4333, 11.3333
+Lama dei Peligni, 42.0333, 14.1833
+Lama Mocogno, 44.3000, 10.7500
+Lampedusa, 35.5000, 12.9333
+Lana, 46.6167, 11.1500
+Lanciano, 42.2333, 14.3833
+Landriano, 45.3167, 9.2500
+Landro(Höhlenstein), 46.6500, 12.2333
+Langhirano, 44.6167, 10.2667
+Lantsch >  Laces, 46.6167, 10.8667
+Lanusei, 39.8833, 9.5333
+Lanuvio, 41.6667, 12.7000
+Lanzada, 46.2500, 9.8500
+Lanzo Torinese, 45.2667, 7.4667
+Lappago(Lappach), 46.9167, 11.8000
+Lardaro, 45.9667, 10.6500
+Larderello, 43.2333, 10.8833
+Lari, 43.5667, 10.5833
+Larino, 41.8000, 14.9000
+Lasa(Laas), 46.6167, 10.7000
+Lascari, 38.0000, 13.9333
+Lastra a Signa, 43.7667, 11.1000
+Latera, 42.6333, 11.8333
+Laterina, 43.5167, 11.7167
+Laterza, 40.6167, 16.8000
+Latiano, 40.5500, 17.7167
+Latina, 41.4667, 12.8667
+Latisana, 45.7833, 13.0000
+Latronico, 40.0833, 16.0167
+Lattarico, 39.4667, 16.1333
+Laureana di Borrello, 38.5000, 16.0833
+Laurenzana, 40.4667, 15.9667
+Lauria, 40.0333, 15.8333
+Laurino, 40.3333, 15.3333
+Laurito, 40.1667, 15.4000
+Lavagna, 44.3000, 9.3333
+Lavarone, 45.9333, 11.2500
+Lavello, 41.0500, 15.8000
+Laveno, 45.9167, 8.6167
+Lavenone, 45.7333, 10.4333
+Lavezzola, 44.5667, 11.8667
+Laviano, 40.7833, 15.3000
+Lavinio Lido di Enea, 41.5000, 12.0833
+Lavis, 46.1333, 11.1167
+Lazise, 45.5000, 10.7333
+Lazzaro, 37.9667, 15.6667
+Lazzate, 45.6667, 9.0833
+Le Focette, 43.9167, 10.2167
+Le Piastre, 44.0000, 10.8333
+Lecce, 40.3833, 18.1833
+Lecce nei Marsi, 41.9333, 13.6833
+Lecco, 45.8500, 9.3833
+Leffe, 45.8000, 9.8833
+Leghorn > Livorno, 43.5500, 10.3167
+Legnago, 45.1833, 11.3000
+Legnano, 45.6000, 8.9000
+Lemie, 45.2333, 7.2833
+Lendinara, 45.0833, 11.6000
+Leno, 45.3667, 10.2167
+Lenola, 41.4000, 13.4667
+Lentate sul Seveso, 45.6833, 9.1167
+Lentini, 37.2833, 15.0000
+Leonessa, 42.5667, 12.9667
+Leonforte, 37.6333, 14.3833
+Leporano, 40.3833, 17.3333
+Lercara Friddi, 37.7500, 13.6000
+Lerici, 44.0667, 9.9167
+Lesa, 45.8333, 8.5667
+Lesignano de'Bagni, 44.6500, 10.3000
+Lesina, 41.8667, 15.3500
+Lesmo, 45.6500, 9.3000
+Letino, 41.4333, 14.2833
+Leuca, 39.8000, 18.3500
+Levanto, 44.1667, 9.6333
+Levanzo, 37.9833, 12.3333
+Leverano, 40.2833, 18.0000
+Levico, 46.0167, 11.3000
+Lezzeno, 45.9333, 9.1833
+Librizzi, 38.1000, 14.9500
+Licata, 37.1000, 13.9333
+Licciana Nardi, 44.2667, 10.0333
+Licodia Eubea, 37.1500, 14.7000
+Lido, 45.4167, 12.3667
+Lido di Camaiore, 43.9000, 10.2167
+Lido di Iesolo, 45.5000, 12.6500
+Lido di Metaponto, 40.3667, 16.8333
+Lido di Pomposa, 44.7500, 12.2333
+Lido di Siponto, 41.6167, 15.9167
+Lierna, 45.9500, 9.3000
+Lignano Pineta, 45.6667, 13.1167
+Lignano Sabbiadoro, 45.7000, 13.1500
+Limbadi, 38.5500, 15.9667
+Limbiate, 45.6000, 9.1167
+Limena, 45.4833, 11.8333
+Limina, 37.9333, 15.2833
+Limone Piemonte, 44.2000, 7.5667
+Limone sul Garda, 45.8167, 10.7833
+Linguaglossa, 37.8333, 15.1333
+Linosa, 35.8500, 12.8667
+Lioni, 40.8667, 15.1833
+Lipari, 38.4667, 14.9500
+Liscia, 41.1833, 9.3167
+Lissone, 45.6167, 9.2333
+Littoria, 41.4667, 12.9000
+Livergnano, 44.3167, 11.3500
+Livigno, 46.5333, 10.0667
+Livorno(Leghorn), 43.5500, 10.3167
+Livorno Ferraris, 45.2833, 8.0833
+Livourne > Livorno, 43.5500, 10.3167
+Lizzana, 45.8500, 11.0500
+Lizzanello, 40.3000, 18.2167
+Lizzano, 40.3833, 17.4500
+Lizzano in Belvedere, 44.1667, 10.8833
+Loano, 44.1333, 8.2500
+Locana, 45.4167, 7.4500
+Locate Triulzi, 45.3500, 9.2167
+Loceri, 39.8500, 9.5833
+Locorotondo, 40.7500, 17.3333
+Locri, 38.2333, 16.2667
+Lodi, 45.3167, 9.5000
+Lodi Vecchio, 45.3000, 9.4000
+Lodrone, 45.8333, 10.5333
+Lodè, 40.5833, 9.5333
+Loiano, 44.2667, 11.3167
+Lomazzo, 45.7000, 9.0333
+Lomello, 45.1167, 8.7833
+Lonate Pozzolo, 45.6000, 8.7500
+Lonato, 45.4500, 10.4833
+Longare, 45.4833, 11.6000
+Longarone, 46.2667, 12.3000
+Longi, 38.0167, 14.7500
+Longobucco, 39.4500, 16.6167
+Lonigo, 45.3833, 11.3833
+Lorenzago di Cadore, 46.4833, 12.4667
+Loreo, 45.0667, 12.1833
+Loreto, 43.4333, 13.6000
+Loreto Aprutino, 42.4333, 13.9833
+Loretto > Loreto, 43.4333, 13.6000
+Loro Ciuffenna, 43.5833, 11.6333
+Lorsica, 44.4333, 9.2667
+Lotzorai, 39.9667, 9.6500
+Lovere, 45.8167, 10.0667
+Lovero, 46.2333, 10.2333
+Lozzo di Cadore, 46.4833, 12.4500
+Lu, 45.0000, 8.4833
+Lucca, 43.8333, 10.4833
+Lucca Sicula, 37.5833, 13.3000
+Lucera, 41.5000, 15.3333
+Lucito, 41.7333, 14.6833
+Luco dei Marsi, 41.9667, 13.4667
+Lugagnano Val d'Arda, 44.8167, 9.8333
+Lugnano in Teverina, 42.5667, 12.3333
+Lugo, 44.4167, 11.9000
+Luino, 46.0000, 8.7333
+Lula, 40.4667, 9.4833
+Lunamatrona, 39.6500, 8.9000
+Lunano, 43.7333, 12.4333
+Lungavilla, 45.0333, 9.0667
+Lungro, 39.7333, 16.1167
+Luogosanto, 41.0500, 9.2167
+Lurisia, 44.3000, 7.7000
+Luserna San Giovanni, 44.8000, 7.2500
+Lusiana, 45.7833, 11.5667
+Lutago(Luttach), 46.9500, 11.9167
+Luttach > Lutago, 46.9500, 11.9167
+Luzzara, 44.9667, 10.6833
+Luzzi, 39.4500, 16.2833
+Làconi, 39.8500, 9.0500

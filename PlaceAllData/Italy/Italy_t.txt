@@ -1,0 +1,231 @@
+Tabiano Terme, 44.8000, 10.3500
+Taceno, 46.0333, 9.3500
+Tadasuni, 40.1000, 8.8833
+Taggia, 43.8667, 7.8500
+Tagliacozzo, 42.0667, 13.2333
+Taglio di Po, 45.0000, 12.2000
+Tai, 46.4167, 12.3333
+Taibon Agordino, 46.3000, 12.0000
+Taio, 46.3333, 11.0667
+Talamone, 42.5500, 11.1333
+Talana, 40.0333, 9.5000
+Taormina, 37.8500, 15.2833
+Taranta Peligna, 42.0167, 14.1667
+Taranto, 40.4667, 17.2500
+Tarcento, 46.2167, 13.2167
+Tarquinia, 42.2500, 11.7500
+Tarvisio, 46.5000, 13.5833
+Tarzo, 45.9667, 12.2333
+Taurasi, 41.0000, 14.9500
+Taurianova, 38.3500, 16.0167
+Taurisano, 39.9500, 18.2167
+Tavarnelle Val di Pesa, 43.5500, 11.1667
+Taverna, 39.0167, 16.5833
+Tavernelle(Toscana), 44.3000, 10.0667
+Tavernelle(Umbria), 43.0000, 12.1500
+Tavernole sul Mella, 45.7500, 10.2333
+Taviano, 39.9833, 18.0833
+Teano, 41.2500, 14.0667
+Teggiano, 40.3833, 15.5333
+Teglio, 46.1667, 10.0667
+Telese, 41.2167, 14.5333
+Telti, 40.8667, 9.3500
+Tempio Pausania, 40.9000, 9.1000
+Temù, 46.2500, 10.4667
+Tenno, 45.9167, 10.8167
+Teolo, 45.3500, 11.6667
+Teora, 40.8500, 15.2500
+Teramo, 42.6500, 13.7000
+Terlago, 46.1000, 11.0333
+Terlano, 46.5333, 11.2500
+Terlizzi, 41.1333, 16.5333
+Terme del Brennero(Brennerbad), 46.9667, 11.4833
+Terme di Stigliano, 42.1500, 12.0167
+Terme di Suio, 41.3000, 13.8500
+Terme di Valdieri, 44.2000, 7.2667
+Termeno(Tramin), 46.3333, 11.2333
+Termini Imerese, 37.9833, 13.7000
+Termoli, 42.0000, 15.0000
+Terni, 42.5667, 12.6167
+Terontola, 43.2167, 12.0333
+Terra del Sole, 44.1833, 11.9500
+Terracina, 41.2833, 13.2500
+Terralba, 39.7167, 8.6500
+Terranova da Síbari, 39.6500, 16.3333
+Terranova di Pollino, 39.9833, 16.3000
+Terranova di Sicilia > Gela, 37.0667, 14.2500
+Terranuova Bracciolini, 43.5500, 11.5833
+Terrasini, 38.1500, 13.0833
+Terravecchia, 39.4833, 16.9667
+Tertenìa, 39.7000, 9.5667
+Terzigno, 40.8000, 14.4833
+Tesero, 46.2833, 11.5167
+Tesimo(Tisens), 46.5667, 11.1667
+Teulada, 38.9667, 8.7667
+Teòr, 45.8500, 13.0500
+Thiene, 45.7000, 11.4833
+Thiesi, 40.5167, 8.7167
+Tiana, 40.0667, 9.1333
+Tiarno, 45.8833, 10.6667
+Tignale, 45.7333, 10.7333
+Timau, 46.5833, 13.0000
+Timavo San Giovanni, 45.8000, 13.6167
+Tione di Trento, 46.0333, 10.7167
+Tirano, 46.2167, 10.1667
+Tires(Tiers), 46.4667, 11.5167
+Tirolo(Tirol), 46.7000, 11.1667
+Tirrenia, 43.6333, 10.2833
+Tito, 40.5833, 15.6667
+Tivoli, 41.9667, 12.8000
+Toano, 44.3833, 10.5667
+Toblach > Dobbiaco, 46.7333, 12.2333
+Todi, 42.7833, 12.4000
+Tolentino, 43.2000, 13.2833
+Tolfa, 42.1500, 11.9333
+Tolmezzo, 46.4000, 13.0167
+Tolve, 40.7000, 16.0167
+Tombolo, 45.6333, 11.8333
+Ton, 46.2500, 11.0667
+Tonadico, 46.1833, 11.8333
+Tonara, 40.0333, 9.1667
+Torano Castello, 39.5000, 16.1333
+Torbole, 45.8667, 10.8667
+Torchiarolo, 40.4833, 18.0500
+Torino(Turin), 45.0500, 7.6667
+Torino di Sangro Marina, 42.1833, 14.5333
+Toritto, 41.0000, 16.6833
+Tormini, 45.6000, 10.4833
+Tornareccio, 42.0333, 14.4000
+Tornimparte, 42.2833, 13.3000
+Torpè, 40.6333, 9.6667
+Torraca, 40.1167, 15.6333
+Torre Annunziata, 40.7500, 14.4500
+Torre Beretti, 45.0667, 8.6667
+Torre de'Passeri, 42.2333, 13.9333
+Torre del Greco, 40.7833, 14.3667
+Torre del Lago Puccini, 43.8333, 10.2833
+Torre di Mosto, 45.6833, 12.7167
+Torre di Santa Maria, 46.2333, 9.8500
+Torre Orsaia, 40.1333, 15.4667
+Torre Pedrera, 44.1000, 12.5167
+Torre Pellice, 44.8167, 7.2167
+Torre Santa Susanna, 40.4667, 17.7333
+Torrebelvicino, 45.7167, 11.3000
+Torrebruna, 41.8667, 14.5500
+Torregrotta, 38.1833, 15.3500
+Torremaggiore, 41.6833, 15.2833
+Torrenieri, 43.0833, 11.5500
+Torretta, 38.1333, 13.2333
+Torrette di Fano, 43.7833, 13.1167
+Torricella, 40.3500, 17.4833
+Torricella in Sabina, 42.2667, 12.8667
+Torricella Peligna, 42.0167, 14.2500
+Torricella Sicura, 42.6500, 13.6500
+Torriglia, 44.5167, 9.1667
+Torrita di Siena, 43.1667, 11.7667
+Tortolì, 39.9167, 9.6500
+Tortona, 44.9000, 8.8667
+Tortora, 39.9333, 15.8000
+Tortoreto, 42.8000, 13.9167
+Tortorici, 38.0333, 14.8167
+Toscolano, 45.6333, 10.6167
+Tosi, 43.7500, 11.5167
+Tossicia, 42.5500, 13.6500
+Trabia, 37.9833, 13.6500
+Tradate, 45.7167, 8.9000
+Trafoi, 46.5500, 10.5167
+Tramatza, 40.0000, 8.6500
+Tramonti di Sopra, 46.3000, 12.7833
+Tramutola, 40.3167, 15.7833
+Tramín > Termeno, 46.3333, 11.2333
+Trani, 41.2833, 16.4333
+Traona, 46.1500, 9.5167
+Trapani, 38.0167, 12.4833
+Trappeto, 38.0667, 13.0500
+Trasacco, 41.9500, 13.5333
+Tratalias, 39.1000, 8.5667
+Travagliato, 45.5167, 10.0833
+Travedona, 45.8000, 8.6667
+Traversella, 45.5000, 7.7500
+Traversetolo, 44.6333, 10.3833
+Trebisacce, 39.8667, 16.5333
+Trecastagni, 37.6167, 15.0833
+Trecate, 45.4333, 8.7333
+Trecchina, 40.0333, 15.7667
+Trecenta, 45.0333, 11.4667
+Tregnago, 45.5167, 11.1667
+Treia, 43.3167, 13.3167
+Tremezzo, 45.9833, 9.2500
+Trent > Trento, 46.0667, 11.1333
+Trento, 46.0667, 11.1333
+Trepalade, 45.5667, 12.4000
+Trepuzzi, 40.4000, 18.0833
+Trequanda, 43.1833, 11.6667
+Trescore Balneario, 45.6833, 9.8333
+Tresenda, 46.1667, 10.0833
+Tresnuraghes, 40.2500, 8.5167
+Trevi, 42.8667, 12.7500
+Treviglio, 45.5167, 9.5833
+Trevignano Romano, 42.1500, 12.2500
+Treviso, 45.6667, 12.2500
+Trezzano, 45.4167, 9.0667
+Trezzo sull'Adda, 45.6000, 9.5167
+Triana, 42.7833, 11.5500
+Tricarico, 40.6167, 16.1500
+Tricase, 39.9333, 18.3667
+Tricesimo, 46.1667, 13.2167
+Trichiana, 46.0833, 12.1167
+Trent > Trento, 46.0667, 11.1333
+Trento, 46.0667, 11.1333
+Trepalade, 45.5667, 12.4000
+Trepuzzi, 40.4000, 18.0833
+Trequanda, 43.1833, 11.6667
+Trescore Balneario, 45.6833, 9.8333
+Tresenda, 46.1667, 10.0833
+Tresnuraghes, 40.2500, 8.5167
+Trevi, 42.8667, 12.7500
+Treviglio, 45.5167, 9.5833
+Trevignano Romano, 42.1500, 12.2500
+Treviso, 45.6667, 12.2500
+Trezzano, 45.4167, 9.0667
+Trezzo sull'Adda, 45.6000, 9.5167
+Triana, 42.7833, 11.5500
+Tricarico, 40.6167, 16.1500
+Tricase, 39.9333, 18.3667
+Tricesimo, 46.1667, 13.2167
+Trichiana, 46.0833, 12.1167
+Trient > Trento, 46.0667, 11.1333
+Trieste(Triest), 45.6667, 13.7667
+Triggiano, 41.0667, 16.9167
+Trinitapoli, 41.3500, 16.0833
+Trinità, 44.5000, 7.7500
+Trinità d'Agultu, 40.9833, 8.9000
+Trino, 45.2000, 8.3000
+Triora, 43.9833, 7.7667
+Tripi, 38.0500, 15.1000
+Triponzo, 42.8333, 12.9333
+Triuggio, 45.6667, 9.2667
+Trivento, 41.7833, 14.5500
+Trivero, 45.6667, 8.1667
+Trivigno, 40.5833, 15.9833
+Trofarello, 44.9833, 7.7333
+Troia, 41.3667, 15.3000
+Troina, 37.7833, 14.6000
+Tromello, 45.2000, 8.8667
+Tronzano Vercellese, 45.3500, 8.1667
+Tropea, 38.6833, 15.9000
+Trst > Trieste, 45.6667, 13.7667
+Tréntola-Ducenta, 40.9833, 14.1667
+Tubre, 46.6500, 10.4500
+Tuenno, 46.3333, 11.0167
+Tufo, 41.0000, 14.7833
+Tuglie, 40.0667, 18.0833
+Tula, 40.7333, 8.9833
+Turate, 45.6500, 9.0000
+Turbigo, 45.5333, 8.7333
+Turi, 40.9167, 17.0167
+Turin > Torino, 45.0500, 7.6667
+Turriaco, 45.8167, 13.4333
+Tursi, 40.2500, 16.4667
+Tusa, 37.9833, 14.2333
+Tuscania, 42.4167, 11.8667

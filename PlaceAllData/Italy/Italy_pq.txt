@@ -1,0 +1,416 @@
+Pabillonis, 39.5833, 8.7167
+Paceco, 37.9833, 12.5500
+Pachino, 36.7167, 15.0833
+Paderno Dugnano, 45.5667, 9.1667
+Paderno Ponchielli, 45.2333, 9.9167
+Padola, 46.6000, 12.4667
+Padoue > Padova, 45.4167, 11.8833
+Padova, 45.4167, 11.8833
+Padria, 40.4000, 8.6333
+Padua > Padova, 45.4167, 11.8833
+Padula, 40.3333, 15.6500
+Paduli, 41.1667, 14.8833
+Paesana, 44.6833, 7.2667
+Paese, 45.6667, 12.1667
+Pagani, 40.7500, 14.6167
+Paganica, 42.3500, 13.4667
+Paganico, 42.9333, 11.2667
+Pagliara, 37.9833, 15.3667
+Paglieta, 42.1667, 14.5000
+Paisco, 46.0667, 10.2833
+Palagano, 44.3333, 10.6500
+Palagianello, 40.6167, 16.9667
+Palagiano, 40.5833, 17.0333
+Palagonia, 37.3167, 14.7500
+Palaia, 43.6000, 10.7667
+Palanzano, 44.4333, 10.1833
+Palata, 41.8833, 14.7833
+Palau, 41.1833, 9.3833
+Palazzo Adriano, 37.6833, 13.3833
+Palazzo San Gervasio, 40.9333, 16.0000
+Palazzolo Acreide, 37.0667, 14.9000
+Palazzolo dello Stella, 45.8000, 13.0833
+Palazzolo sull'Oglio, 45.6000, 9.8833
+Palazzolo Vercellese, 45.1833, 8.2333
+Palazzuolo sul Senio, 44.1167, 11.5500
+Palena, 41.9833, 14.1333
+Palermo, 38.1167, 13.3667
+Palestrina, 41.8333, 12.8833
+Paliano, 41.8000, 13.0500
+Palinuro, 40.0333, 15.2833
+Palizzi, 37.9667, 15.9833
+Pallagorio, 39.3000, 16.9000
+Palma Campania, 40.8667, 14.5500
+Palma di Montechiaro, 37.1833, 13.7667
+Palmanova, 45.9000, 13.3167
+Palmi, 38.3500, 15.8500
+Palmoli, 41.9333, 14.5333
+Palo, 41.9333, 12.1000
+Palo del Colle, 41.0500, 16.7000
+Palombara Sabina, 42.0667, 12.7667
+Palomonte, 40.6667, 15.2833
+Paludi, 39.5333, 16.6833
+Paluzza, 46.5333, 13.0167
+Palù del Fersina, 46.1333, 11.3500
+Pamparato, 44.2833, 7.9167
+Pancalieri, 44.8333, 7.5833
+Pandino, 45.4000, 9.5500
+Paneveggio, 46.3000, 11.7333
+Panni, 41.2167, 15.2667
+Pantelleria, 36.8333, 11.9500
+Paola, 39.3667, 16.0500
+Papasidero, 39.8667, 15.9000
+Papozze, 44.9833, 12.0333
+Parabiago, 45.5500, 8.9500
+Parabita, 40.0500, 18.1333
+Parapayè, 45.9167, 7.5333
+Paratico, 45.6500, 9.9500
+Parcines(Partschins), 46.6833, 11.0667
+Parma, 44.8000, 10.3333
+Partanna, 37.7167, 12.8833
+Partinico, 38.0500, 13.1167
+Partschins > Parcines, 46.6833, 11.0667
+Pasian di Prato, 46.0500, 13.1833
+Pasiano di Pordenone, 45.8500, 12.6167
+Passignano sul Trasimeno, 43.1833, 12.1333
+Passo Corese, 42.1500, 12.6500
+Passopisciaro, 37.8667, 15.0333
+Pastrengo, 45.4833, 10.8000
+Paternò, 37.5667, 14.9000
+Pattada, 40.5833, 9.1000
+Patti, 38.1333, 14.9667
+Paularo, 46.5333, 13.1167
+Paulilatino, 40.0833, 8.7667
+Paullo, 45.4167, 9.4000
+Pausania, 40.9167, 9.1000
+Pavia, 45.1667, 9.1667
+Pavia di Udine, 45.9833, 13.2833
+Pavona, 41.7167, 12.6167
+Pavullo nel Frignano, 44.3333, 10.8333
+Peccioli, 43.5500, 10.7167
+Pedaso, 43.1000, 13.8333
+Pederobba, 45.8833, 11.9667
+Pedesina, 46.0833, 9.5500
+Pegli, 44.4333, 8.8000
+Pegolotte, 45.2000, 12.0333
+Peio, 46.3667, 10.6667
+Pelago, 43.7667, 11.5000
+Pellaro, 38.0167, 15.6500
+Pellegrino Parmense, 44.7333, 9.9167
+Pennabilli, 43.8167, 12.2667
+Penne, 42.4500, 13.9167
+Pennes(Pens), 46.7833, 11.4167
+Pens > Pennes, 46.7833, 11.4167
+Perarolo di Cadore, 46.4000, 12.3500
+Perdasdefogu, 39.6833, 9.4333
+Perdifumo, 40.2667, 15.0167
+Perfugas, 40.8333, 8.8833
+Pergine Valdarno, 43.4667, 11.6833
+Pergine Valsugana, 46.0667, 11.2333
+Pergola, 43.5667, 12.8333
+Peri, 45.6500, 10.9000
+Perinaldo, 43.8667, 7.6667
+Perito, 40.3000, 15.1500
+Pernate, 45.4500, 8.6833
+Pero, 45.5167, 9.0833
+Perosa Argentina, 44.9667, 7.1667
+Peroulaz, 45.7000, 7.3167
+Perrero, 44.9333, 7.0833
+Perugia, 43.1333, 12.3667
+Pesaro, 43.9000, 12.9167
+Pescaglia, 43.9667, 10.4167
+Pescantina, 45.4833, 10.8500
+Pescara, 42.4667, 14.2167
+Pescasseroli, 41.8000, 13.7833
+Peschici, 41.9500, 16.0167
+Peschiera del Garda, 45.4333, 10.7000
+Pescia, 43.9000, 10.6833
+Pescina, 42.0333, 13.6500
+Pesco Sannita, 41.2333, 14.8167
+Pescocostanzo, 41.8833, 14.0667
+Pescolanciano, 41.6833, 14.3333
+Pescopagano, 40.8333, 15.4000
+Pescorocchiano, 42.2000, 13.1500
+Pessinetto, 45.2833, 7.4000
+Petilia Policastro, 39.1167, 16.7833
+Petralia Soprana, 37.7833, 14.1000
+Petralia Sottana, 37.8000, 14.0833
+Petrella Salto, 42.3000, 13.0667
+Petrella Tifernina, 41.6833, 14.7000
+Petronà, 39.0500, 16.7500
+Petrosino, 37.7167, 12.4833
+Pettineo, 37.9667, 14.2833
+Peveragno, 44.3333, 7.6167
+Pezzana, 45.2667, 8.4833
+Piacenza, 45.0167, 9.6667
+Piadena, 45.1333, 10.3667
+Piaggine, 40.3500, 15.3833
+Pian di Scò, 43.6333, 11.5500
+Piana Crixia, 44.4833, 8.3000
+Piana degli Albanesi, 38.0000, 13.2833
+Piancastagnaio, 42.8500, 11.6833
+Pianella, 42.4000, 14.0333
+Pianello Val Tidone, 44.9500, 9.4000
+Pianezza, 45.1000, 7.5500
+Piano, 45.7667, 11.1333
+Piano d'Arta, 46.4833, 13.0167
+Piano del Voglio, 44.1667, 11.2167
+Pianoro, 44.3667, 11.3333
+Pianosinatico, 44.1167, 10.7333
+Piazza Armerina, 37.3833, 14.3667
+Piazzola sul Brenta, 45.5333, 11.7833
+Piccione, 43.1833, 12.5167
+Picerno, 40.6333, 15.6333
+Picinisco, 41.6500, 13.8667
+Pico, 41.4500, 13.5667
+Piedicavallo, 45.7000, 7.9500
+Piediluco, 42.5333, 12.7500
+Piedimonte Etneo, 37.8000, 15.2000
+Piedimonte Matese, 41.3500, 14.3667
+Piedimonte San Germano, 41.5000, 13.7500
+Piedimulera, 46.0167, 8.2667
+Piegaro, 42.9667, 12.0833
+Pienza, 43.0667, 11.6833
+Pietra Ligure, 44.1500, 8.2833
+Pietra Montecorvino, 41.5333, 15.1167
+Pietrabbondante, 41.7500, 14.3833
+Pietracamela, 42.5167, 13.5500
+Pietracatella, 41.5833, 14.8667
+Pietragalla, 40.7500, 15.8833
+Pietralunga, 43.4333, 12.4333
+Pietramala, 44.1667, 11.3333
+Pietramelara, 41.2667, 14.1833
+Pietrapaola, 39.4833, 16.8167
+Pietrapertosa, 40.5167, 16.0667
+Pietraperzia, 37.4167, 14.1333
+Pietrasanta, 43.9500, 10.2333
+Pietrelcina, 41.2000, 14.8500
+Pieve, 45.7667, 10.7500
+Pieve d'Alpago, 46.1667, 12.3500
+Pieve del Cairo, 45.0500, 8.8000
+Pieve di Cadore, 46.4333, 12.3667
+Pieve di Cento, 44.7167, 11.3000
+Pieve di Soligo, 45.8833, 12.1667
+Pieve di Teco, 44.0500, 7.9333
+Pieve Fosciana, 44.1333, 10.4167
+Pieve Porto Morone, 45.1167, 9.4333
+Pieve Santo Stefano, 43.6667, 12.0333
+Pievepelago, 44.2000, 10.6167
+Piglio, 41.8167, 13.1333
+Pigna, 43.9333, 7.6667
+Pignataro Maggiore, 41.1833, 14.1667
+Pignola, 40.5667, 15.7833
+Pila, 45.6833, 7.3000
+Pinerolo, 44.8833, 7.3500
+Pineto, 42.6000, 14.0667
+Pinocchio, 43.5833, 13.5000
+Pinzano al Tagliamento, 46.1833, 12.9500
+Piobbico, 43.5833, 12.5167
+Piombino, 42.9167, 10.5333
+Pioppo, 38.0500, 13.2333
+Pioraco, 43.1833, 12.9833
+Piove di Sacco, 45.3000, 12.0333
+Piovene Rocchette, 45.7500, 11.4167
+Piraino, 38.1667, 14.8667
+Pisa, 43.7167, 10.3833
+Pisciotta, 40.1000, 15.2333
+Pisogne, 45.8000, 10.1000
+Pisticci, 40.3833, 16.5667
+Pistoia, 43.9167, 10.9000
+Piteglio, 44.0167, 10.7667
+Pitigliano, 42.6333, 11.6667
+Piverone, 45.4500, 8.0000
+Pizzighettone, 45.1833, 9.7833
+Pizzo, 38.7333, 16.1667
+Pizzoferrato, 41.9167, 14.2333
+Pizzoli, 42.4333, 13.3000
+Pizzone, 41.6667, 14.0333
+Piè di Ripa, 43.2500, 13.4833
+Placanica, 38.4167, 16.4500
+Platì, 38.2167, 16.0500
+Ploaghe, 40.6667, 8.7500
+Pocol, 46.5167, 12.1167
+Podenzano, 44.9500, 9.6833
+Poetto, 39.2000, 9.1667
+Poggiardo, 40.0500, 18.3833
+Poggibonsi, 43.4667, 11.1500
+Poggio, 44.5000, 10.0000
+Poggio Berni, 44.0333, 12.4000
+Poggio Bustone, 42.5000, 12.8833
+Poggio Imperiale, 41.8167, 15.3667
+Poggio Mirteto, 42.2667, 12.6833
+Poggio Moiano, 42.2000, 12.8833
+Poggio Renatico, 44.7667, 11.4833
+Poggio Rusco, 44.9833, 11.1167
+Poggio Sannita, 41.7833, 14.4167
+Poggiomarino, 40.8000, 14.5333
+Poggioreale, 37.7833, 13.0167
+Poggiorsini, 40.9167, 16.2500
+Pogliano, 45.5333, 8.9833
+Poirino, 44.9167, 7.8500
+Polesella, 44.9667, 11.7500
+Polesine Parmense, 45.0167, 10.0667
+Polia, 38.7500, 16.3167
+Policastro Bussentino, 40.1500, 15.5333
+Policoro, 40.2167, 16.6833
+Polignano a Mare, 41.0000, 17.2167
+Polistena, 38.4167, 16.0833
+Polizzi Generosa, 37.8167, 14.0000
+Polla, 40.5000, 15.5000
+Pollenza, 43.2667, 13.3500
+Pollica, 40.1833, 15.0500
+Pollina, 37.9833, 14.1500
+Pollutri, 42.1333, 14.5833
+Polverigi, 43.5167, 13.3833
+Pomarance, 43.3000, 10.8667
+Pomarico, 40.5167, 16.5500
+Pombia, 45.6500, 8.6333
+Pomezia, 41.6667, 12.5000
+Pomigliano d'Arco, 40.9000, 14.3833
+Pompei, 40.7500, 14.5000
+Pomposa, 44.8167, 12.1833
+Ponsacco, 43.6167, 10.6333
+Pont, 45.5667, 7.1167
+Pont Canavese, 45.4167, 7.6000
+Pont-Saint-Martin, 45.6000, 7.8000
+Pontassieve, 43.7667, 11.4333
+Ponte a Elsa, 43.6833, 10.9000
+Ponte a Moriano, 43.9000, 10.5167
+Ponte Caffaro, 45.8333, 10.5333
+Ponte d'Arbia, 43.1667, 11.4667
+Ponte dell'Olio, 44.8667, 9.6500
+Ponte delle Arche, 46.0333, 10.8667
+Ponte di Barbarano, 45.3833, 11.5667
+Ponte di Legno, 46.2667, 10.5167
+Ponte di Nava, 44.1333, 7.8833
+Ponte di Piave, 45.7167, 12.4667
+Ponte Gardena(Waidbruck), 46.6000, 11.5333
+Ponte Ghiereto, 43.9833, 11.2500
+Ponte in Valtellina, 46.2000, 9.9833
+Ponte nell'Alpi, 46.1833, 12.2667
+Ponte Nuovo, 43.0167, 12.4667
+Ponte Rocchetta, 46.2333, 11.0667
+Ponte San Giovanni, 43.0833, 12.4333
+Ponte San Pietro, 45.7000, 9.5833
+Ponte Selva, 45.8667, 9.9000
+Ponte*Trèdici Archi*, 41.5167, 14.9333
+Pontebba, 46.5000, 13.3000
+Pontecagnano, 40.6500, 14.8667
+Pontecchio Marconi, 44.4167, 11.2500
+Pontecchio Polesine, 45.0167, 11.8167
+Pontecorvo, 41.4500, 13.6667
+Pontecurone, 44.9500, 8.9333
+Pontedera, 43.6667, 10.6333
+Pontegrande, 45.9833, 8.1500
+Pontelagoscuro, 44.8833, 11.6000
+Pontelandolfo, 41.2833, 14.6833
+Pontelongo, 45.2500, 12.0333
+Pontenure, 44.9833, 9.7833
+Pontepetri, 44.0333, 10.8833
+Pontericcioli, 43.4333, 12.6333
+Pontestura, 45.1333, 8.3333
+Pontevico, 45.2667, 10.0833
+Pontida, 45.7167, 9.5000
+Pontinia, 41.4000, 13.0333
+Pontremoli, 44.3667, 9.8833
+Ponza, 40.9000, 12.9667
+Ponzone, 44.5833, 8.4500
+Popoli, 42.1667, 13.8333
+Poppi, 43.7167, 11.7667
+Populonia, 42.9833, 10.4833
+Porcia, 45.9500, 12.6000
+Pordenone, 45.9500, 12.6500
+Porlezza, 46.0500, 9.1167
+Pornassio, 44.0667, 7.8667
+Porretta Terme, 44.1500, 10.9833
+Port'Ercole, 42.3833, 11.2000
+Portici, 40.8167, 14.3333
+Portico di Romagna, 44.0167, 11.7833
+Portigliola, 38.2333, 16.2167
+Porto Azzurro, 42.7667, 10.4000
+Porto Ceresio, 45.9000, 8.9167
+Porto d'Ascoli, 42.9167, 13.8833
+Porto di Potenza Picena, 43.3500, 13.7000
+Porto Empedocle, 37.2833, 13.5333
+Porto Garibaldi, 44.6833, 12.2333
+Porto Maurizio, 43.8667, 8.0167
+Porto Palo, 37.5667, 12.9000
+Porto Recanati, 43.4333, 13.6667
+Porto San Giorgio, 43.1833, 13.8000
+Porto Sant'Elpidio, 43.2500, 13.7500
+Porto Santo Stefano, 42.4333, 11.1167
+Porto Tolle, 44.9333, 12.3667
+Porto Torres, 40.8333, 8.4000
+Porto Valtravaglia, 45.9667, 8.6833
+Portoferraio, 42.8167, 10.3167
+Portofino, 44.3000, 9.2000
+Portogruaro, 45.7833, 12.8333
+Portomaggiore, 44.7000, 11.8000
+Portopalo, 36.6833, 15.1333
+Portoscuso, 39.2000, 8.3833
+Portovenere, 44.0500, 9.8500
+Posada, 40.6333, 9.7167
+Posaro, 43.9167, 12.9167
+Poscara > Pescara, 42.4667, 14.2167
+Posina, 45.7833, 11.2500
+Positano, 40.6333, 14.4833
+Possagno, 45.8500, 11.8500
+Posta, 42.5167, 13.1000
+Postal(Burgstall), 46.6000, 11.1833
+Postiglione, 40.5500, 15.2167
+Potenza, 40.6333, 15.8167
+Potenza Picena, 43.3667, 13.6167
+Poviglio, 44.8500, 10.5333
+Pozzallo, 36.7167, 14.8500
+Pozzolo Formigaro, 44.8000, 8.7833
+Pozzomaggiore, 40.4000, 8.6500
+Pozzuoli, 40.8167, 14.1167
+Pozzuolo del Friuli, 45.9833, 13.2000
+Pradléves, 44.4167, 7.2833
+Pragelato, 45.0167, 6.9500
+Praia a Mare, 39.9000, 15.7833
+Praino, 40.6167, 14.5333
+Pralboino, 45.2667, 10.2167
+Prali, 44.9000, 7.0500
+Pranzo, 45.9167, 10.8000
+Prarayè, 45.9167, 7.5333
+Pratella, 41.4000, 14.1833
+Prato, 43.8833, 11.1000
+Prato allo Stelvio, 46.6167, 10.5833
+Pratola Peligna, 42.1000, 13.8667
+Pratola Serra, 40.9833, 14.8500
+Pratolino, 43.8667, 11.3000
+Prazzo, 44.4833, 7.0500
+Preci, 42.8833, 13.0333
+Predappio, 44.1000, 11.9667
+Predazzo, 46.3167, 11.6000
+Predoi(Prettau), 47.0333, 12.1000
+Predore, 45.6667, 10.0167
+Pregnana, 45.5167, 9.0000
+Premana, 46.0500, 9.4167
+Premosello, 46.0000, 8.3333
+Preseglie, 45.6667, 10.4000
+Presicce, 39.9000, 18.2667
+Pressana, 45.2833, 11.4000
+Prettau > Predoi, 47.0333, 12.1000
+Primolano, 45.9667, 11.7000
+Priolo Gargallo, 37.1500, 15.1833
+Priverno, 41.4667, 13.1833
+Prizzi, 37.7167, 13.4333
+Procchio, 42.7833, 10.2500
+Procida, 40.7667, 14.0333
+Promitorio, 42.0500, 12.6500
+Pré-Saint-Didier, 45.7667, 6.9833
+Pula, 39.0167, 9.0000
+Pulfero, 46.1833, 13.4833
+Puliciano, 43.3833, 11.8500
+Pulsano, 40.3833, 17.3667
+Putifigari, 40.5667, 8.4500
+Putignano, 40.8500, 17.1167
+Putzu Idu, 40.0333, 8.4167
+Quarrata, 43.8500, 10.9667
+Quartu Sant'Elena, 39.2333, 9.1833
+Quercianella, 43.4500, 10.3667
+Quero, 45.9167, 11.9333
+Quinzano d'Oglio, 45.3167, 10.0000
+Quistello, 45.0000, 10.9833

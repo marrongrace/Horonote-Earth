@@ -1,0 +1,183 @@
+Nago, 45.8833, 10.8833
+Nalles(Nals), 46.5333, 11.2000
+Naples > Napoli, 40.8500, 14.2833
+Napola, 37.9833, 12.6333
+Napoli(Naples), 40.8500, 14.2833
+Narcao, 39.1667, 8.6667
+Nardò, 40.1833, 18.0333
+Narni, 42.5167, 12.5167
+Narzole, 44.5833, 7.8667
+Naso, 38.1167, 14.7833
+Naturno(Naturns), 46.6500, 11.0000
+Nave, 45.5833, 10.2833
+Neapel > Napoli, 40.8500, 14.2833
+Neirone, 44.4500, 9.1833
+Nembro, 45.7500, 9.7500
+Nemi, 41.7167, 12.7167
+Nemoli, 40.0667, 15.8000
+Neoneli, 40.0667, 8.9500
+Nepi, 42.2333, 12.3500
+Nereto, 42.8167, 13.8167
+Nerito, 42.5333, 13.4667
+Nervi, 44.3833, 9.0333
+Nerviano, 45.5500, 8.9667
+Nesso, 45.9167, 9.1333
+Nettuno, 41.4500, 12.6500
+Neviano, 40.1000, 18.1000
+Neviano degli Arduini, 44.5833, 10.3167
+Nibbiano, 44.9000, 9.3167
+Nicastro, 38.9833, 16.3333
+Nichelino, 44.9833, 7.6333
+Nicolosi, 37.6167, 15.0167
+Nicosia, 37.7500, 14.4000
+Nicotera, 38.5667, 15.9500
+Nimis, 46.2000, 13.2667
+Niscemi, 37.1500, 14.3833
+Nissoria, 37.6500, 14.4500
+Nizza Monferrato, 44.7667, 8.3500
+Noale, 45.5333, 12.0667
+Noasca, 45.4500, 7.3167
+Nocera Inferiore, 40.7333, 14.6333
+Nocera Superiore, 40.7333, 14.6667
+Nocera Tirinese, 39.0333, 16.1500
+Nocera Umbra, 43.0833, 12.7833
+Noceto, 44.8000, 10.1833
+Noci, 40.8000, 17.1333
+Nociglia, 40.0333, 18.3333
+Noepoli, 40.0833, 16.3333
+Nogara, 45.1833, 11.0667
+Noicattaro, 41.0333, 16.9833
+Nola, 40.9167, 14.5500
+Nole, 45.2500, 7.5833
+Noli, 44.2000, 8.4333
+Nonantola, 44.6833, 11.0333
+None, 44.9333, 7.5333
+Norcia, 42.8000, 13.0833
+Norma, 41.5833, 12.9667
+Nosate, 45.5500, 8.7167
+Noto, 36.8833, 15.0667
+Nova Milanese, 45.5833, 9.2000
+Nova Ponente(Deutschnofen), 46.4167, 11.4167
+Nova Siri, 40.1500, 16.5333
+Novafeltria, 43.8833, 12.2833
+Novalesa, 45.1833, 7.0167
+Novara, 45.4667, 8.6333
+Novara di Sicilia, 38.0167, 15.1333
+Novate Mezzola, 46.2500, 9.4500
+Novate Milanese, 45.5333, 9.1333
+Nove, 45.7167, 11.6667
+Novellara, 44.8500, 10.7333
+Noventa di Piave, 45.6500, 12.5167
+Noventa Padovana, 45.4000, 11.9667
+Noventa Vicentina, 45.2833, 11.5333
+Novi di Modena, 44.9000, 10.9000
+Novi Ligure, 44.7667, 8.7833
+Novoli, 40.3833, 18.0500
+Nozza, 45.7000, 10.3833
+Nucetto, 44.3333, 8.0667
+Nulvi, 40.7833, 8.7500
+Numana, 43.5167, 13.6167
+Nuoro, 40.3167, 9.3333
+Nurallào, 39.7833, 9.0833
+Nuraminis, 39.4333, 9.0167
+Nurri, 39.7167, 9.2333
+Nus, 45.7500, 7.4667
+Nusco, 40.8833, 15.0833
+Nuxis, 39.1500, 8.7333
+Nápoles > Napoli, 40.8500, 14.2833
+Occhieppo Inferiore, 45.5500, 8.0167
+Occhiobello, 44.9167, 11.5833
+Occimiano, 45.0500, 8.5000
+Oderzo, 45.7833, 12.4833
+Offanengo, 45.3667, 9.7333
+Offida, 42.9333, 13.6833
+Ogliastro Cilento, 40.3500, 15.0500
+Olbia, 40.9167, 9.5167
+Oleggio, 45.6000, 8.6333
+Olevano Romano, 41.8667, 13.0333
+Olevano sul Tusciano, 40.6667, 15.0167
+Olgiata, 42.0333, 12.3667
+Olgiate Comasco, 45.8000, 8.9667
+Olgiate Olona, 45.6333, 8.8833
+Olginate, 45.8000, 9.4000
+Oliena, 40.2667, 9.4000
+Oliveri, 38.1167, 15.0500
+Oliveto Citra, 40.6833, 15.2333
+Oliveto Lucano, 40.5333, 16.1833
+Ollomont, 45.8333, 7.3667
+Olmedo, 40.6500, 8.3833
+Olmo al Brembo, 45.9667, 9.6500
+Oltre il Colle, 45.9000, 9.7667
+Olzai, 40.1833, 9.1500
+Omegna, 45.8833, 8.4000
+Oneglia, 43.8833, 8.0333
+Onifai, 40.4000, 9.6500
+Oniferi, 40.2667, 9.1667
+Onno, 45.9167, 9.2833
+Opi, 41.7833, 13.8333
+Oppido Lucano, 40.7833, 16.0000
+Oppido Mamertina, 38.2667, 16.0000
+Oppio, 44.0500, 10.8333
+Ora(Auer), 46.3500, 11.3000
+Orani, 40.2500, 9.1833
+Orbassano, 45.0167, 7.5333
+Orbetello, 42.4500, 11.2167
+Orgiano, 45.3500, 11.4667
+Orgosolo, 40.2000, 9.3500
+Oria, 40.5000, 17.6333
+Oricola, 42.0333, 13.0333
+Origgio, 45.6000, 9.0167
+Oriolo, 40.0500, 16.4500
+Oristano, 39.9000, 8.6000
+Ormea, 44.1500, 7.9000
+Ornavasso, 45.9667, 8.4000
+Orosei, 40.3833, 9.7000
+Orotelli, 40.3000, 9.1167
+Orsago, 45.9333, 12.4167
+Orsara di Puglia, 41.2833, 15.2667
+Orsogna, 42.2167, 14.2833
+Orsomarso, 39.8000, 15.9167
+Orta Nova, 41.3167, 15.7000
+Orta San Giulio, 45.8000, 8.4167
+Orte, 42.4500, 12.3833
+Ortisei(Sankt Ulrich), 46.5667, 11.6667
+Ortona, 42.3500, 14.4000
+Ortovero, 44.0500, 8.1167
+Ortueri, 40.0333, 8.9833
+Orune, 40.4000, 9.3667
+Orvieto, 42.7167, 12.1167
+Orvinio, 42.1333, 12.9333
+Orzinuovi, 45.4000, 9.9167
+Oschiri, 40.7167, 9.1000
+Osiglia, 44.2833, 8.2000
+Osilo, 40.7500, 8.6667
+Osimo, 43.4833, 13.4833
+Osini, 39.8333, 9.4833
+Osio Sotto, 45.6000, 9.5833
+Osoppo, 46.2500, 13.0833
+Ospedaletti, 43.8000, 7.7167
+Ospedaletto, 46.2833, 13.1167
+Ospedaletto, 46.0500, 11.5500
+Ospitale di Cadore, 46.3333, 12.3167
+Ospitaletto, 45.5500, 10.0667
+Ossi, 40.6667, 8.5833
+Ossona, 45.5000, 8.9000
+Ostellato, 44.7500, 11.9333
+Ostiano, 45.2167, 10.2500
+Ostiglia, 45.0667, 11.1333
+Ostra, 43.6167, 13.1500
+Ostra Vetere, 43.6000, 13.0500
+Ostuni, 40.7333, 17.5833
+Otranto, 40.1500, 18.5000
+Otricoli, 42.4167, 12.4833
+Ottana, 40.2333, 9.0333
+Ottati, 40.4667, 15.3167
+Ottaviao, 40.8500, 14.4667
+Ottobiano, 45.1500, 8.8333
+Ottone, 44.6167, 9.3333
+Oulx, 45.0333, 6.8333
+Ovada, 44.6333, 8.6333
+Ovaro, 46.4833, 12.8667
+Oviglio, 44.8667, 8.4833
+Ovindoli, 42.1333, 13.5167
+Ozieri, 40.5833, 9.0000

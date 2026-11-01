@@ -1,0 +1,278 @@
+Abano Terme, 45.3500, 11.7833
+Abbadia San Salvatore, 42.8833, 11.6833
+Abbasanta, 40.1333, 8.8167
+Abbiategrasso, 45.4000, 8.9000
+Abetone, 44.1333, 10.6667
+Abriola, 40.5000, 15.8167
+Acate, 37.0333, 14.4667
+Accadia, 41.1667, 15.1667
+Acceglio, 44.4667, 7.0000
+Accettura, 40.4833, 16.1500
+Acciano, 42.1667, 13.7167
+Accumoli, 42.7000, 13.2500
+Acerenza, 40.8000, 15.9500
+Acerno, 40.7333, 15.0500
+Acerra, 40.9500, 14.3667
+Aci Castello, 37.5500, 15.1333
+Aci Catena, 37.6000, 15.1333
+Aci Sant'Antonio, 37.6000, 15.1167
+Acireale, 37.6167, 15.1667
+Acquacalda, 38.5167, 14.9500
+Acqualagna, 43.6167, 12.6667
+Acquanegra sul Chiese, 45.1667, 10.4333
+Acquapendente, 42.7333, 11.8667
+Acquappesa, 39.4833, 15.9500
+Acquasanta Terme, 42.7667, 13.4000
+Acquasparta, 42.6833, 12.5500
+Acquaviva delle Fonti, 40.9000, 16.8333
+Acquaviva Platani, 37.5667, 13.7000
+Acqui Terme, 44.6833, 8.4667
+Acri, 39.4833, 16.3833
+Acuto, 41.7833, 13.1667
+Adelfia, 41.0000, 16.8667
+Adrano, 37.6667, 14.8333
+Adria, 45.0500, 12.0500
+Adro, 45.6167, 9.9500
+Affi, 45.5500, 10.7667
+Afragola, 40.9167, 14.3000
+Africo, 38.0667, 15.9833
+Agazzano, 44.9500, 9.5167
+Aggius, 40.7667, 9.0667
+Agira, 37.6500, 14.5167
+Agliana, 43.9000, 11.0000
+Agliano, 44.7833, 8.2500
+Aglientu, 41.0833, 9.1167
+Agna, 45.1667, 11.9667
+Agnadello, 45.4333, 9.5500
+Agnone, 41.8000, 14.3667
+Agordo, 46.2833, 12.0333
+Agrate Brianza, 45.5667, 9.3500
+Agrigento, 37.3000, 13.5833
+Agripoli, 40.3500, 15.0000
+Agugliano, 43.5333, 13.3833
+Aidomaggiore, 40.1667, 8.8500
+Aidone, 37.4167, 14.4500
+Aiello Calabro, 39.1167, 16.1667
+Airasca, 44.9167, 7.4833
+Airola, 41.0667, 14.5500
+Airole, 43.8667, 7.5500
+Airuno, 45.7500, 9.4167
+Ala, 45.7500, 11.0000
+Ala di Stura, 45.3167, 7.3167
+Alagna Valsesia, 45.8500, 7.9333
+Alano di Piave, 45.9167, 11.8667
+Alassio, 44.0000, 8.1667
+Alatri, 41.7167, 13.3500
+Alba, 44.7000, 8.0333
+Albacina, 43.3500, 13.0167
+Albairate, 45.4167, 8.9333
+Albanella, 40.5000, 15.1333
+Albano di Lucania, 40.5833, 16.0333
+Albano Laziale, 41.7333, 12.6500
+Albaredo d'Adige, 45.3167, 11.2667
+Albenga, 44.0500, 8.2167
+Alberobello, 40.7833, 17.2500
+Alberona, 41.4333, 15.1167
+Albettone, 45.3500, 11.5833
+Albiate, 45.6500, 9.2500
+Albidona, 39.9167, 16.4667
+Albignasego, 45.3500, 11.8667
+Albinea, 44.6167, 10.6000
+Albino, 45.7667, 9.7833
+Albisola Marina, 44.3167, 8.5000
+Albisola Superiore, 44.3333, 8.5167
+Albizzate, 45.7167, 8.7333
+Albuzzano, 45.1833, 9.2667
+Alcamo, 37.9833, 12.9667
+Alcara li Fusi, 38.0167, 14.7000
+Aldino, 46.3833, 11.3333
+Ales, 39.7667, 8.8167
+Alessandria, 44.9000, 8.6167
+Alessandria del Carretto, 39.9500, 16.3833
+Alessandria della Rocca, 37.5667, 13.4500
+Alessano, 39.8833, 18.3333
+Alezio, 40.0667, 18.0500
+Alfedena, 41.7333, 14.0333
+Alfianello, 45.2667, 10.1667
+Alfonsine, 44.5000, 12.0500
+Alghero, 40.5500, 8.3167
+Alia, 37.7833, 13.7167
+Aliano, 40.3167, 16.2333
+Alice Superiore, 45.4667, 7.7833
+Alife, 41.3333, 14.3333
+Alimena, 37.7000, 14.1167
+Aliminusa, 37.8667, 13.7833
+Alleghe, 46.4000, 12.0167
+Allerona, 42.8167, 11.9667
+Alliste, 39.9500, 18.0833
+Allumiere, 42.1500, 11.9000
+Almenno San Salvatore, 45.7500, 9.5833
+Alpignano, 45.1000, 7.5167
+Alseno, 44.9000, 9.9833
+Altamura, 40.8333, 16.5500
+Altare, 44.3333, 8.3333
+Altavilla Irpina, 41.0000, 14.7833
+Altavilla Milicia, 38.0333, 13.5333
+Altavilla Silentina, 40.5333, 15.1333
+Altofonte, 38.0500, 13.3000
+Altomonte, 39.7000, 16.1333
+Alvito, 41.6833, 13.7500
+Alzano Lombardo, 45.7333, 9.7167
+Alà dei Sardi, 40.6500, 9.3333
+Alì, 38.0333, 15.4167
+Alì Terme, 38.0167, 15.4333
+Amalfi, 40.6333, 14.6000
+Amandola, 42.9833, 13.3500
+Amantea, 39.1333, 16.0833
+Amatrice, 42.6333, 13.2833
+Ameglia, 44.0667, 9.9500
+Amelia, 42.5500, 12.4167
+Amendolara, 39.9500, 16.5833
+Amorosi, 41.2000, 14.4667
+Ampezzo, 46.4167, 12.8000
+Anacapri, 40.5500, 14.2167
+Anagni, 41.7333, 13.1500
+Ancarano, 42.8333, 13.7333
+Ancona, 43.6333, 13.5000
+Andalo, 46.1667, 11.0000
+Andora, 43.9833, 8.1333
+Andorno Micca, 45.6167, 8.0500
+Andrate, 45.5333, 7.8833
+Andretta, 40.9333, 15.3167
+Andria, 41.2167, 16.3000
+Anfo, 45.7667, 10.4833
+Angera, 45.7667, 8.5833
+Anghiari, 43.5333, 12.0500
+Angri, 40.7333, 14.5667
+Angrogna, 44.8333, 7.2167
+Anguillara Sabazia, 42.0833, 12.2667
+Anguillara Veneta, 45.1333, 11.8833
+Annicco, 45.2333, 9.8667
+Anoia, 38.4500, 16.0833
+Antegnate, 45.4833, 9.7833
+Anterselva di Sopra, 46.8667, 12.1333
+Antey-Saint-André, 45.8000, 7.6000
+Antignano, 43.5000, 10.3167
+Antillo, 37.9667, 15.2500
+Antrodoco, 42.4167, 13.0833
+Antronapiana, 46.0500, 8.1167
+Anversa degli Abruzzi, 41.9833, 13.8000
+Anzano di Puglia, 41.1167, 15.2833
+Anzi, 40.5167, 15.9167
+Anzio, 41.4500, 12.6167
+Anzola dell'Emilia, 44.5500, 11.1833
+Aosta, 45.7333, 7.3333
+Apecchio, 43.5500, 12.4167
+Apice, 41.1167, 14.9333
+Appiano(Eppan), 46.4667, 11.2500
+Appiano Gentile, 45.7333, 8.9833
+Apricena, 41.7833, 15.4500
+Aprigliano, 39.2333, 16.3333
+Aprilia, 41.6000, 12.6500
+Aquila degli Abruzzi, 42.4000, 13.4000
+Aquilonia(S.M.), 41.0000, 15.4833
+Aquiléia, 45.7667, 13.3667
+Aquino, 41.5000, 13.7000
+Arabba, 46.5000, 11.8667
+Aradeo, 40.1333, 18.1333
+Aragona, 37.4000, 13.6167
+Arborea, 39.7667, 8.5833
+Arbus, 39.5333, 8.6000
+Arcade, 45.7833, 12.2167
+Arce, 41.5833, 13.5667
+Arcevia, 43.5000, 12.9333
+Archi, 42.0833, 14.3833
+Arcidosso, 42.8667, 11.5500
+Arcille, 42.8000, 11.2500
+Arcinazzo Romano, 41.8000, 13.2000
+Arcisate, 45.9000, 8.8667
+Arco, 45.9167, 10.8833
+Arcola, 44.1167, 9.9000
+Arconate, 45.5333, 8.8500
+Arcore, 45.6333, 9.3167
+Ardea, 41.6000, 12.5500
+Ardenno, 46.1667, 9.6500
+Ardenza, 43.5167, 10.3167
+Ardore, 38.1833, 16.1667
+Arena, 38.5667, 16.2167
+Arenzano, 44.4000, 8.6833
+Arese, 45.5500, 9.0833
+Arezzo, 43.4167, 11.8833
+Argegno, 45.9333, 9.1333
+Argenta, 44.6167, 11.8333
+Argentera, 44.4000, 6.9500
+Argentiera, 40.7333, 8.1500
+Ariano Irpino, 41.1500, 15.0833
+Ariano nel Polesine, 44.9333, 12.1167
+Ariccia, 41.7167, 12.6667
+Arienzo, 41.0167, 14.5000
+Aritzo, 39.9500, 9.2000
+Arluno, 45.5000, 8.9333
+Arma di Taggia, 43.8333, 7.8500
+Armeno, 45.8167, 8.4333
+Armento, 40.3000, 16.0667
+Arnaccio, 43.6667, 10.2833
+Arnaz, 45.6333, 7.7167
+Arni, 44.0667, 10.2500
+Arona, 45.7667, 8.5667
+Arpaia, 41.0333, 14.5500
+Arpino, 41.6500, 13.6000
+Arquata del Tronto, 42.7667, 13.3000
+Arquata Scrivia, 44.6833, 8.8833
+Arquà Petrarca, 45.2667, 11.7167
+Arquà Polesine, 45.0167, 11.7500
+Arsiero, 45.8000, 11.3500
+Arsiè, 45.9833, 11.7500
+Arsoli, 42.0333, 13.0167
+Arta Terme, 46.4667, 13.0167
+Artegna, 46.2333, 13.1500
+Artèn, 46.0000, 11.8333
+Arvier, 45.7000, 7.1833
+Arzachena, 41.0833, 9.3833
+Arzana, 39.9167, 9.5167
+Arzano, 40.9167, 14.2667
+Arzignano, 45.5167, 11.3333
+Ascea, 40.1333, 15.1833
+Asciano, 43.2333, 11.5500
+Ascoli Piceno, 42.8500, 13.5667
+Ascoli Satriano, 41.2000, 15.5667
+Asiago, 45.8667, 11.5000
+Asola, 45.2167, 10.4000
+Asolo, 45.8000, 11.9000
+Assago, 45.4000, 9.1333
+Assergi, 42.4167, 13.5000
+Assisi, 43.0667, 12.6167
+Asso, 45.8667, 9.2667
+Assoro, 37.6167, 14.4167
+Assèmini, 39.2833, 9.0000
+Asti, 44.9000, 8.2000
+Asuni, 39.8667, 8.9333
+Ateleta, 41.8500, 14.2000
+Atella, 40.8667, 15.6500
+Atena Lucana, 40.4500, 15.5500
+Atessa, 42.0667, 14.4500
+Atina, 41.6167, 13.8000
+Atri, 42.5833, 13.9667
+Atripalda, 40.9167, 14.8333
+Attigliano, 42.5167, 12.2833
+Attimis, 46.1833, 13.2667
+Auer > Ora, 46.3500, 11.3000
+Augusta, 37.2167, 15.2167
+Auletta, 40.5667, 15.4167
+Aulla, 44.2000, 9.9667
+Aurisina, 45.7500, 13.6833
+Auronzo di Cadore, 46.5500, 12.4333
+Avelengo, 46.6333, 11.2167
+Avella, 40.9667, 14.6000
+Avellino, 40.9000, 14.7833
+Aversa, 40.9667, 14.2000
+Avetrana, 40.3500, 17.7167
+Avezzano, 42.0333, 13.4167
+Aviano, 46.0667, 12.6000
+Avigliana, 45.0833, 7.3833
+Avigliano, 40.7333, 15.7333
+Avio, 45.7333, 10.9333
+Avola, 36.9000, 15.1333
+Ayas, 45.8333, 7.6833
+Azzanello, 45.3000, 9.9167
+Azzano Decimo, 45.8833, 12.7167

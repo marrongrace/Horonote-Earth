@@ -1,0 +1,277 @@
+Uboldo, 45.6167, 9.0000
+Ucria, 38.0500, 14.8833
+Udine, 46.0500, 13.2333
+Ugento, 39.9333, 18.1667
+Uggiano la Chiesa, 40.1000, 18.4500
+Ugovizza, 46.5167, 13.4833
+Umbertide, 43.3000, 12.3333
+Umbriatico, 39.3500, 16.9167
+Unserfrau > Madonna, 46.7167, 10.8667
+Uras, 39.7000, 8.7000
+Urbania, 43.6667, 12.5167
+Urbe, 44.4833, 8.6000
+Urbino, 43.7167, 12.6333
+Urbisaglia, 43.2000, 13.3833
+Urgnano, 45.5833, 9.6833
+Uri, 40.6333, 8.4833
+Urzulei, 40.1000, 9.5000
+Uscio, 44.4167, 9.1667
+Usellus, 39.8000, 8.8500
+Usini, 40.6667, 8.5333
+Usmate Velate, 45.6500, 9.3500
+Usseglio, 45.2333, 7.2167
+Ussàssai, 39.8167, 9.3833
+Ustica, 38.7000, 13.1833
+Uta, 39.2833, 8.9500
+Vado Ligure, 44.2833, 8.4500
+Vaglia, 43.9000, 11.2833
+Vaglio Basilicata, 40.6667, 15.9167
+Vaiano, 43.9667, 11.1167
+Vairano Scalo, 41.3333, 14.1333
+Valbondione, 46.0333, 10.0000
+Valchiusella, 45.5333, 7.7000
+Valdagno, 45.6500, 11.3000
+Valderice, 38.0500, 12.6333
+Valdieri, 44.2833, 7.4000
+Valdobbiadene, 45.9000, 12.0000
+Valdurna(Durnholz), 46.7333, 11.4333
+Valeggio sul Mincio, 45.3500, 10.7333
+Valentano, 42.5667, 11.8167
+Valenza, 45.0167, 8.6333
+Valenzano, 41.0333, 16.8833
+Valfabbrica, 43.1500, 12.6000
+Valfurva, 46.4500, 10.4167
+Valgrisanche, 45.6333, 7.0667
+Valguarnera Caropepe, 37.5000, 14.3833
+Vallarsa, 45.7833, 11.1167
+Vallata, 41.0333, 15.2500
+Valle, 46.0667, 10.4167
+Valle Castellana, 42.7333, 13.4833
+Valle di Cadore, 46.4000, 12.3333
+Valle di Sotto, 46.4167, 10.3500
+Valle Lomellina, 45.1500, 8.6667
+Valle Mosso, 45.6333, 8.1500
+Vallecorsa, 41.4500, 13.4000
+Valledolmo, 37.7500, 13.8167
+Vallefiorita, 38.7667, 16.4500
+Vallelunga Pratameno, 37.6833, 13.8333
+Vallepietra, 41.9167, 13.2333
+Vallerotonda, 41.5500, 13.9167
+Valli del Pasubio, 45.6833, 11.2500
+Vallio, 45.6333, 10.3833
+Vallo della Lucania, 40.2333, 15.2833
+Vallombrosa, 43.7333, 11.5333
+Valmontone, 41.7667, 12.9500
+Valprato Soana, 45.5167, 7.5500
+Valsinni, 40.1667, 16.4333
+Valstagna, 45.8500, 11.6500
+Valtorta, 45.9833, 9.5333
+Valtournanche, 45.8833, 7.6167
+Valvasone, 45.9833, 12.8667
+Vandoies(Vinti), 46.8167, 11.7167
+Vanzaghello, 45.5833, 8.7833
+Vanzago, 45.5333, 9.0000
+Vaprio d'Adda, 45.5833, 9.5167
+Varallo, 45.8167, 8.2500
+Varallo Pombia, 45.6667, 8.6333
+Varano de'Melegari, 44.6833, 10.0167
+Varapodio, 38.3167, 15.9833
+Varazze, 44.3667, 8.5667
+Varedo, 45.6000, 9.1500
+Varenna, 46.0167, 9.2833
+Varese, 45.8000, 8.8000
+Varese Ligure, 44.3667, 9.6167
+Varigotti, 44.1833, 8.4000
+Varna(Vahrn), 46.7333, 11.6333
+Varsi, 44.6667, 9.8500
+Varzi, 44.8167, 9.2000
+Varzo, 46.2000, 8.2500
+Vas, 45.9333, 11.9333
+Vasto, 42.1167, 14.7000
+Vatican(Cité du), 41.9000, 12.4500
+Vatican City, 41.9000, 12.4500
+Vatikanstadt, 41.9000, 12.4500
+Vazzola, 45.8333, 12.3833
+Vecchiano, 43.7833, 10.3833
+Vedano al Lambro, 45.6167, 9.2667
+Vedano Olona, 45.7667, 8.8833
+Vedelago, 45.6833, 12.0167
+Vedeseta, 45.8833, 9.5333
+Veglie, 40.3333, 17.9667
+Vellano, 43.9500, 10.7167
+Velletri, 41.6833, 12.7833
+Velo d'Astico, 45.7167, 11.3833
+Velva, 44.2667, 9.5500
+Venafro, 41.4833, 14.0333
+Venalzio, 45.1500, 7.0167
+Venaria, 45.1333, 7.6333
+Venasca, 44.5500, 7.4000
+Venecia > Venezia, 45.4500, 12.3500
+Venedig > Venezia, 45.4500, 12.3500
+Venezia(Venice), 45.4500, 12.3500
+Venice > Venezia, 45.4500, 12.3500
+Venise > Venezia, 45.4500, 12.3500
+Venosa, 40.9500, 15.8167
+Venticano, 41.0833, 14.8333
+Ventimiglia, 43.7833, 7.6000
+Ventimiglia di Sicilia, 37.9167, 13.5667
+Ventotene, 40.8000, 13.4333
+Venturina, 43.0333, 10.6000
+Venzone, 46.3333, 13.1500
+Verano Brianza, 45.6833, 9.2333
+Verbania, 45.9333, 8.5500
+Verbicaro, 39.7500, 15.9167
+Vercelli, 45.3167, 8.4167
+Verdello, 45.6000, 9.6167
+Vergato, 44.2833, 11.1167
+Verghereto, 43.7833, 12.0000
+Vergiate, 45.7167, 8.7000
+Vermezzo, 45.4000, 8.9833
+Vermiglio, 46.3000, 10.7000
+Vernante, 44.2500, 7.5333
+Vernazza, 44.1333, 9.6833
+Vernio, 44.0500, 11.1500
+Vernole, 40.2833, 18.3000
+Verolanuova, 45.3167, 10.0667
+Verolavecchia, 45.3167, 10.0500
+Veroli, 41.6833, 13.4167
+Verona, 45.4500, 11.0000
+Verrès, 45.6667, 7.7000
+Vertova, 45.8000, 9.8333
+Verucchio, 43.9833, 12.4167
+Verzegnis, 46.4167, 12.9833
+Verzino, 39.3167, 16.8500
+Verzuolo, 44.6000, 7.4833
+Vescovato, 45.1667, 10.1667
+Vespolate, 45.3500, 8.6667
+Vestone, 45.7000, 10.4000
+Vestreno, 46.1000, 9.3000
+Vesuvius, 40.8167, 14.4333
+Vetralla, 42.3167, 12.0500
+Vetriolo, 46.0333, 11.3000
+Vetto, 44.4833, 10.3333
+Vetulonia, 42.8500, 10.9667
+Vezza d'Oglio, 46.2333, 10.4000
+Vezzano, 46.0833, 11.0000
+Vezzano Ligure, 44.1500, 9.8667
+Viadana, 44.9333, 10.5167
+Viareggio, 43.8667, 10.2333
+Vibo Valentia, 38.6667, 16.1000
+Vicarello, 42.1667, 12.2000
+Vicari, 37.8167, 13.5667
+Vicchio, 43.9333, 11.4667
+Vicenza, 45.5500, 11.5500
+Vico Canavese, 45.5000, 7.7833
+Vico del Gargano, 41.9000, 15.9500
+Vico Equense, 40.6667, 14.4167
+Vicoforte, 44.3500, 7.9000
+Vicopisano, 43.7000, 10.5833
+Vicovaro, 42.0167, 12.9000
+Vieste, 41.8833, 16.1667
+Vietri di Potenza, 40.6000, 15.5000
+Vietri sul Mare, 40.6667, 14.7333
+Vigarano Mainarda, 44.8333, 11.5000
+Vigatto, 44.7167, 10.3333
+Vigevano, 45.3167, 8.8500
+Viggianello, 39.9667, 16.0833
+Viggiano, 40.3333, 15.9000
+Viggiù, 45.8667, 8.9000
+Vignale, 45.0167, 8.4000
+Vignanello, 42.3833, 12.2833
+Vignola, 44.4833, 11.0000
+Vigo di Fassa, 46.4167, 11.6667
+Vigo Rendena, 46.0833, 10.7167
+Vigodarzere, 45.4500, 11.8833
+Vigolzone, 44.9167, 9.6667
+Vigone, 44.8500, 7.5000
+Vigonovo, 45.3833, 12.0000
+Viguzzolo, 44.9000, 8.9167
+Villa Castelli, 40.5833, 17.4667
+Villa Cortese, 45.5667, 8.8833
+Villa di Chiavenna, 46.3333, 9.4833
+Villa Grazia, 38.1500, 13.1667
+Villa Lagarina, 45.9167, 11.0167
+Villa Minozzo, 44.3667, 10.4667
+Villa Opicina, 45.6667, 13.8167
+Villa Ottone(Uttenheim), 46.8667, 11.9500
+Villa Potenza, 43.3167, 13.4167
+Villa San Giovanni, 38.2167, 15.6333
+Villa Santa Maria, 41.9500, 14.3500
+Villa Santina, 46.4000, 12.9167
+Villa Vallelonga, 41.8667, 13.6167
+Villa Vomano, 42.6167, 13.7667
+Villabassa(Niederdorf), 46.7333, 12.1667
+Villabate, 38.0667, 13.4333
+Villacidro, 39.4500, 8.7333
+Villadeati, 45.0667, 8.1667
+Villadose, 45.0667, 11.8833
+Villadossola, 46.0667, 8.2667
+Villafranca d'Asti, 44.9167, 8.0333
+Villafranca di Verona, 45.3500, 10.8333
+Villafranca in Lunigiana, 44.2833, 9.9500
+Villafranca Piemonte, 44.7833, 7.5500
+Villafranca Sicula, 37.5833, 13.2833
+Villafranca Tirrena, 38.2333, 15.4333
+Villafrati, 37.9000, 13.4833
+Villagrande Strisaili, 39.9667, 9.5000
+Villalago, 41.9333, 13.8333
+Villalba, 37.6500, 13.8333
+Villalvernia, 44.8167, 8.8500
+Villamar, 39.6167, 8.9833
+Villamarzana, 45.0167, 11.6833
+Villamassargia, 39.2667, 8.6333
+Villanova d'Asti, 44.9500, 7.9333
+Villanova Mondovì, 44.3500, 7.7500
+Villanova Monferrato, 45.1833, 8.4667
+Villanova Monteleone, 40.5000, 8.4667
+Villanova sull'Arda, 45.0167, 10.0000
+Villanova Tulo, 39.7833, 9.2167
+Villapiana, 39.8500, 16.4667
+Villapiana Lido, 39.8000, 16.4833
+Villaputzu, 39.4333, 9.5667
+Villar Pellice, 44.8000, 7.1500
+Villar Perosa, 44.9333, 7.2500
+Villarosa, 37.5833, 14.1667
+Villasanta, 45.6167, 9.3000
+Villasimìus, 39.1333, 9.5167
+Villasor, 39.3833, 8.9333
+Villaverla, 45.6500, 11.4833
+Villeneuve, 45.7000, 7.2333
+Villetta Barrea, 41.7833, 13.9333
+Villorba, 45.7333, 12.2333
+Villotta, 45.8667, 12.7500
+Vimercate, 45.6167, 9.3667
+Vimodrone, 45.5167, 9.2833
+Vinadio, 44.3000, 7.1667
+Vinchiaturo, 41.4833, 14.5833
+Vinci, 43.7833, 10.9167
+Vinovo, 44.9500, 7.6333
+Vipiteno(Sterzing), 46.9000, 11.4333
+Virgilio, 45.1167, 10.7833
+Viserba, 44.0833, 12.5333
+Visso, 42.9333, 13.0833
+Vita, 37.8667, 12.8167
+Viterbo, 42.4167, 12.1000
+Vittoria, 36.9500, 14.5333
+Vittorio Veneto, 45.9833, 12.3000
+Vitulano, 41.1667, 14.6333
+Vizzini, 37.1500, 14.7667
+Vizzola, 45.6333, 8.7000
+Viù, 45.2333, 7.3667
+Vobarno, 45.6500, 10.5000
+Vodo, 46.4167, 12.2333
+Voghera, 44.9833, 9.0167
+Vogogna, 46.0167, 8.2833
+Volano, 45.9167, 11.0500
+Volpago del Montello, 45.7833, 12.1167
+Volpedo, 44.8833, 8.9833
+Volpiano, 45.2000, 7.7667
+Volta Mantovana, 45.3167, 10.6500
+Voltaggio, 44.6167, 8.8333
+Voltago, 46.2667, 12.0000
+Volterra, 43.4000, 10.8500
+Voltri, 44.4333, 8.7500
+Volturara Appula, 41.5000, 15.0500
+Volturara Irpina, 40.8833, 14.9167
+Volturino, 41.4667, 15.1167
+Völs > Fiè, 46.5167, 11.5000

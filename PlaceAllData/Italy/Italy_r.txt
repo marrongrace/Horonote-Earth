@@ -1,0 +1,200 @@
+Racale, 39.9500, 18.1000
+Racalmuto, 37.4000, 13.7333
+Racconigi, 44.7667, 7.7667
+Raccuia, 38.0500, 14.9000
+Racines, 46.8667, 11.3000
+Radda in Chianti, 43.4833, 11.3667
+Raddusa, 37.4667, 14.5333
+Radicofani, 42.9000, 11.7667
+Radicondoli, 43.2667, 11.0333
+Raffadali, 37.4000, 13.5333
+Ragada, 46.1667, 10.6333
+Ragusa, 36.9167, 14.7333
+Raiano, 42.1000, 13.8167
+Rains > Riva di Tures, 46.9500, 12.0667
+Ramacca, 37.3833, 14.7000
+Randazzo, 37.8833, 14.9500
+Rapallo, 44.3500, 9.2333
+Rapolano Terme, 43.2833, 11.6000
+Rapolla, 40.9667, 15.6833
+Rapone, 40.8500, 15.5000
+Rasen-Antholz > Anterselva di Sopra, 46.8667, 12.1333
+Rasun di Sopra, 46.8000, 12.0500
+Rasura, 46.1000, 9.5500
+Rasùn di Sotto, 46.7833, 12.0333
+Ravanusa, 37.2667, 13.9667
+Ravarano, 44.5833, 10.0667
+Ravarino, 44.7333, 11.1000
+Ravascletto, 46.5333, 12.9500
+Ravenna, 44.4167, 12.2000
+Rayello, 40.6500, 14.6167
+Realmonte, 37.3000, 13.4667
+Reana del Roiale, 46.2000, 13.2167
+Recanati, 43.4000, 13.5333
+Recco, 44.3667, 9.1500
+Recoaro Terme, 45.7000, 11.2167
+Regalbuto, 37.6500, 14.6333
+Reggello, 43.6833, 11.5333
+Reggio di Calabria, 38.1000, 15.6500
+Reggio nell'Emilia, 44.7167, 10.6000
+Reggiolo, 44.9167, 10.8000
+Reitano, 37.9667, 14.3333
+Rende, 39.3167, 16.1833
+Rescalda, 45.6333, 8.9333
+Rescaldina, 45.6167, 8.9500
+Resiutta, 46.3833, 13.2167
+Resuttano, 37.6833, 14.0333
+Revere, 45.0500, 11.1333
+Revò, 46.3833, 11.0500
+Rezzato, 45.5167, 10.3167
+Rezzoaglio, 44.5333, 9.3833
+Rezzonico, 46.0667, 9.2667
+Rho, 45.5333, 9.0333
+Rhêmes-Notre-Dame, 45.5667, 7.1167
+Riace, 38.4167, 16.4833
+Ribera, 37.5000, 13.2667
+Ricadi, 38.6167, 15.8667
+Riccia, 41.4833, 14.8333
+Riccione, 43.9833, 12.6500
+Ridanna(Ridnaun), 46.9167, 11.2500
+Ridnaun > Ridanna, 46.9167, 11.2500
+Riese Pio X, 45.7333, 11.9167
+Riesi, 37.2833, 14.0833
+Rieti, 42.4000, 12.8500
+Rifiano(Riffian), 46.7000, 11.1833
+Rignano Flaminio, 42.2000, 12.4833
+Rignano Garganico, 41.6667, 15.5833
+Rignano sull'Arno, 43.7167, 11.4500
+Rilievo, 37.9167, 12.5500
+Rima San Giuseppe, 45.8667, 8.0000
+Rimini, 44.0667, 12.5667
+Rio Marina, 42.8167, 10.4167
+Rio Saliceto, 44.8167, 10.8167
+Riola, 44.2667, 11.0667
+Riola Sardo, 39.9833, 8.5333
+Riolo Terme, 44.2667, 11.7167
+Riomaggiore, 44.1000, 9.7333
+Rionero in Vulture, 40.9333, 15.6833
+Rionero Sannitico, 41.7000, 14.1333
+Rioveggio, 44.2833, 11.2333
+Ripacandida, 40.9167, 15.7167
+Ripatransone, 43.0000, 13.7667
+Riposto, 37.7333, 15.2000
+Riva, 45.8833, 10.8333
+Riva del Sole, 42.7667, 10.8667
+Riva di Tures(Rain), 46.9500, 12.0667
+Riva Trigoso, 44.2667, 9.4333
+Rivanazzano, 44.9333, 9.0167
+Rivarolo Canavese, 45.3167, 7.7167
+Rivarolo Mantovano, 45.0667, 10.4333
+Rive d'Arcano, 46.1333, 13.0333
+Rivello, 40.0667, 15.7500
+Rivergaro, 44.9167, 9.6000
+Rivignano, 45.8667, 13.0500
+Rivisondoli, 41.8667, 14.0667
+Rivoli, 45.0667, 7.5167
+Rivolta d'Adda, 45.4667, 9.5167
+Rivoltella, 45.4500, 10.5500
+Rizziconi, 38.4167, 15.9500
+Roana, 45.8667, 11.4667
+Robbio, 45.2833, 8.5833
+Robecchetto con Induno, 45.5333, 8.7667
+Robecco d'Oglio, 45.2500, 10.0667
+Robecco sul Naviglio, 45.4333, 8.8833
+Rocca di Cambio, 42.2333, 13.4833
+Rocca di Mezzo, 42.2000, 13.5167
+Rocca di Neto, 39.1833, 17.0000
+Rocca di Papa, 41.7667, 12.7000
+Rocca Massima, 41.6833, 12.9167
+Rocca Pia, 41.9333, 13.9833
+Rocca Pietore, 46.4333, 11.9833
+Rocca Priora, 41.8000, 12.7500
+Rocca San Casciano, 44.0500, 11.8333
+Rocca Santa Maria, 42.6833, 13.5000
+Roccabernarda, 39.1333, 16.8667
+Roccacasale, 42.1167, 13.8833
+Roccadaspide, 40.4333, 15.2000
+Roccafluvione, 42.8500, 13.4833
+Roccagloriosa, 40.1000, 15.4333
+Roccalbegna, 42.7833, 11.5000
+Roccalumera, 37.9667, 15.4000
+Roccamena, 37.8333, 13.1500
+Roccamonfina, 41.2833, 13.9833
+Roccanova, 40.2167, 16.2000
+Roccapalumba, 37.8000, 13.6500
+Roccaprebalza, 44.5167, 9.9500
+Roccaraso, 41.8500, 14.0833
+Roccasecca, 41.5500, 13.6667
+Roccasecca dei Volsci, 41.4833, 13.2167
+Roccastrada, 43.0000, 11.1667
+Roccavione, 44.3167, 7.4833
+Roccavivara, 41.8333, 14.6000
+Roccella Ionica, 38.3167, 16.4000
+Roccella Valdemone, 37.9333, 15.0000
+Rocchetta Sant'Antonio, 41.1000, 15.4500
+Rodi Garganico, 41.9167, 15.8833
+Rofrano, 40.2000, 15.4167
+Roggiano Gravina, 39.6167, 16.1500
+Roghudi, 38.0500, 15.9167
+Rogliano, 39.1833, 16.3333
+Rom > Roma, 41.9000, 12.4833
+Roma(Rome), 41.9000, 12.4833
+Romagnano Sesia, 45.6333, 8.3833
+Romano di Lombardia, 45.5167, 9.7500
+Rome > Roma, 41.9000, 12.4833
+Romeno, 46.4000, 11.1167
+Romentino, 45.4667, 8.7000
+Rometta, 38.1667, 15.4167
+Romitorio, 42.0167, 12.6500
+Romàns d'Isonzo, 45.8833, 13.4333
+Roncade, 45.6333, 12.3667
+Roncegno, 46.0500, 11.4167
+Ronchi dei Legionari, 45.8333, 13.5000
+Ronchis, 45.8167, 13.0000
+Ronciglione, 42.2833, 12.2167
+Ronco Canavese, 45.5000, 7.5333
+Ronco Scrivia, 44.6167, 8.9833
+Roncofreddo, 44.0333, 12.3333
+Roncone, 45.9833, 10.6667
+Rondissone, 45.2500, 7.9667
+Roreto Chisone, 44.9833, 7.1000
+Rosarno, 38.4833, 15.9833
+Rosazza, 45.6833, 7.9667
+Rosciolo, 42.1167, 13.3333
+Rose, 39.4000, 16.2833
+Roseto Capo Spulico, 39.9833, 16.6000
+Roseto degli Abruzzi, 42.6833, 14.0167
+Roseto Valfortore, 41.3667, 15.1000
+Rosignano Marittimo, 43.4000, 10.4667
+Rosignano Solvay, 43.3833, 10.4333
+Rosolina, 45.0833, 12.2500
+Rosolini, 36.8167, 14.9500
+Rossano, 39.5833, 16.6500
+Rossiglione, 44.5667, 8.6667
+Rosà, 45.7167, 11.7500
+Rotonda, 39.9500, 16.0333
+Rotondella, 40.1667, 16.5333
+Rottofreno, 45.0500, 9.5667
+Rovasenda, 45.5333, 8.3167
+Rovato, 45.5667, 10.0000
+Rovegno, 44.5833, 9.2833
+Rovellasca, 45.6667, 9.0500
+Rovello Porro, 45.6500, 9.0333
+Roverbella, 45.2667, 10.7667
+Rovere, 42.1667, 13.5167
+Rovereto, 45.8833, 11.0333
+Roverè della Luna, 46.2500, 11.1667
+Roverè Veronese, 45.6000, 11.0500
+Roviano, 42.0167, 13.0000
+Rovigo, 45.0667, 11.7833
+Rubiana, 45.1333, 7.3833
+Rubiera, 44.6500, 10.7500
+Ruda, 45.8333, 13.4000
+Ruffano, 39.9833, 18.2500
+Rufina, 43.8167, 11.4833
+Ruoti, 40.7167, 15.6833
+Russi, 44.3667, 12.0333
+Rutigliano, 41.0167, 17.0000
+Rutino, 40.3000, 15.0667
+Ruvo del Monte, 40.8500, 15.5333
+Ruvo di Puglia, 41.1167, 16.4833

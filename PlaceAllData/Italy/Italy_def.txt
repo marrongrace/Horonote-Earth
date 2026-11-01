@@ -1,0 +1,288 @@
+Dairago, 45.5667, 8.8667
+Dalmine, 45.6500, 9.6000
+Darfo, 45.8833, 10.1833
+Darzo, 45.8500, 10.5500
+Dattilo, 37.9667, 12.6500
+Davoli, 38.6500, 16.4833
+Decimomannu, 39.3167, 8.9667
+Decimoputzu, 39.3333, 8.9167
+Decollatura, 39.0500, 16.3500
+Dego, 44.4500, 8.3167
+Deiva Marina, 44.2167, 9.5000
+Delia, 37.3500, 13.9167
+Delianuova, 38.2333, 15.9167
+Deliceto, 41.2167, 15.3833
+Dello, 45.4167, 10.0667
+Demonte, 44.3167, 7.2833
+Dermulo, 46.3333, 11.0667
+Deruta, 42.9833, 12.4167
+Desenzano del Garda, 45.4667, 10.5333
+Desio, 45.6167, 9.2167
+Desulo, 40.0167, 9.2333
+Dezzo di Scalve, 45.9833, 10.0833
+Diamante, 39.6833, 15.8167
+Diano Marina, 43.9000, 8.0833
+Dicomano, 43.8833, 11.5167
+Dignano, 46.0833, 12.9333
+Dimaro, 46.3333, 10.8667
+Dinami, 38.5167, 16.1500
+Dipignano, 39.2500, 16.2500
+Diso, 40.0000, 18.3833
+Divignano, 45.6667, 8.6000
+Dobbiaco(Toblach), 46.7333, 12.2333
+Doganella, 41.5667, 12.9333
+Dogliani, 44.5333, 7.9333
+Dogna, 46.4500, 13.3167
+Dolceacqua, 43.8500, 7.6167
+Dolianova, 39.3667, 9.1667
+Dolo, 45.4167, 12.0833
+Domanico, 39.2167, 16.2000
+Domaso, 46.1500, 9.3167
+Domegge di Cadore, 46.4500, 12.4167
+Domodossola, 46.1167, 8.2833
+Domus de Maria, 38.9500, 8.8667
+Domusnovas, 39.3167, 8.6500
+Donada, 45.0333, 12.2000
+Dongo, 46.1167, 9.2833
+Donnalucata, 36.7500, 14.6333
+Donnaz, 45.6000, 7.7667
+Dorgali, 40.2833, 9.5833
+Dorno, 45.1500, 8.9500
+Dovadola, 44.1167, 11.8833
+Dozza, 44.3667, 11.6167
+Dragoni, 41.2667, 14.3000
+Drena, 45.9667, 10.9333
+Dronero, 44.4667, 7.3667
+Drò, 45.9667, 10.9000
+Dualchi, 40.2167, 8.9000
+Dubino, 46.1500, 9.4500
+Dueville, 45.6333, 11.5333
+Duino, 45.7667, 13.6000
+Eboli, 40.6167, 15.0667
+Edolo, 46.1833, 10.3333
+Egna(Neumarkt), 46.3167, 11.2667
+El Faro, 40.6000, 8.2167
+Elmas, 39.2667, 9.0500
+Empoli, 43.7167, 10.9500
+Endine, 45.7667, 9.9833
+Endine Gaiano, 45.8000, 9.9833
+Enemonzo, 46.4167, 12.8833
+Enna, 37.5667, 14.2667
+Entracque, 44.2333, 7.4000
+Entrèves, 45.8167, 6.9500
+Episcopia, 40.0667, 16.1000
+Equi Terme, 44.1500, 10.1667
+Eraclea, 45.5833, 12.6667
+Erba, 45.8000, 9.2500
+Erchie, 40.4333, 17.7333
+Ercolano, 40.8000, 14.3500
+Erice, 38.0333, 12.5833
+Erli, 44.1333, 8.1000
+Erto, 46.2667, 12.3667
+Escalaplano, 39.6167, 9.3500
+Esine, 45.9167, 10.2500
+Esperia, 41.3833, 13.6833
+Este, 45.2333, 11.6500
+Etroubles, 45.8167, 7.2333
+Fabbrico, 44.8667, 10.8333
+Fabriano, 43.3333, 12.9000
+Fabrica di Roma, 42.3333, 12.3000
+Fabrizia, 38.4833, 16.3000
+Fadalto, 46.0833, 12.3333
+Faedis, 46.1667, 13.3333
+Faenza, 44.2833, 11.8833
+Fagnano Castello, 39.5667, 16.0500
+Fagnano Olona, 45.6667, 8.8667
+Fahrn > Varna, 46.7333, 11.6333
+Falcade, 46.3500, 11.8500
+Falconara Albanese, 39.2667, 16.0833
+Falconara Alta, 43.6167, 13.4000
+Falconara Marittima, 43.6167, 13.4000
+Falcone, 38.1167, 15.0833
+Falerna, 39.0000, 16.1667
+Falerone, 43.1000, 13.4667
+Fanano, 44.2000, 10.7833
+Fano, 43.8333, 13.0167
+Fara in Sabina, 42.2000, 12.7167
+Fara Novarese, 45.5500, 8.4500
+Farini d'Olmo, 44.7167, 9.5667
+Farra d'Isonzo, 45.9333, 12.5167
+Fasano, 40.8333, 17.3667
+Fauglia, 43.5667, 10.5167
+Favara, 37.3167, 13.6500
+Favignana, 37.9333, 12.3333
+Felino, 44.7000, 10.2500
+Felizzano, 44.9000, 8.4333
+Feltre, 46.0167, 11.9000
+Fenestrelle, 45.0333, 7.0500
+Fenis, 45.7333, 7.4833
+Ferentillo, 42.6167, 12.7833
+Ferentino, 41.7000, 13.2500
+Ferla, 37.1167, 14.9333
+Fermignano, 43.6667, 12.6500
+Fermo, 43.1500, 13.7167
+Ferno, 45.6167, 8.7500
+Feroleto Antico, 38.9667, 16.3833
+Feroleto della Chiesa, 38.4667, 16.0667
+Ferrandina, 40.4833, 16.4667
+Ferrara, 44.8333, 11.5833
+Ferrazzano, 41.5333, 14.6667
+Ferrera Erbognone, 45.1167, 8.8667
+Ferriere, 44.6333, 9.5000
+Ferruzzano, 38.0333, 16.0833
+Fiamignano, 42.2667, 13.1167
+Fiano, 45.2167, 7.5167
+Fiavè, 46.0000, 10.8333
+Ficarazzi, 38.0833, 13.4667
+Ficarolo, 44.9500, 11.4333
+Ficarra, 38.1000, 14.8333
+Ficulle, 42.8333, 12.0667
+Fidenza, 44.8667, 10.0500
+Fiera di Primiero, 46.1667, 11.8167
+Fiesole, 43.8000, 11.2833
+Fiesso d'Artico, 45.4000, 12.0333
+Fiesso Umbertiano, 44.9333, 11.6000
+Figline Valdarno, 43.6167, 11.4667
+Filadelfia, 38.8000, 16.3000
+Filandari, 38.6167, 16.0333
+Filettino, 41.8833, 13.3167
+Filiano, 40.8167, 15.7000
+Filogaso, 38.6833, 16.2333
+Filottrano, 43.4333, 13.3500
+Finale Emilia, 44.8333, 11.2833
+Finale Ligure, 44.1667, 8.3333
+Fiorano Modenese, 44.5333, 10.8167
+Fiorenzuola d'Arda, 44.9333, 9.9167
+Fiorenzuola di Focara, 43.9500, 12.8000
+Firenze(Florence), 43.7667, 11.2500
+Firenzuola, 44.1167, 11.3833
+Firmo, 39.7167, 16.1667
+Fiuggi, 41.8000, 13.2167
+Fiumalbo, 44.1833, 10.6500
+Fiume Veneto, 45.9333, 12.7333
+Fiumedinisi, 38.0333, 15.3833
+Fiumefreddo Bruzio, 39.2333, 16.0667
+Fiumefreddo di Sicilia, 37.7833, 15.2000
+Fiumesino, 43.6333, 13.3667
+Fiumicino, 41.7667, 12.2333
+Fivizzano, 44.2333, 10.1333
+Fiè(Völs), 46.5167, 11.5000
+Fleres(Boden), 46.9667, 11.3500
+Florence > Firenze, 43.7667, 11.2500
+Florencia > Firenze, 43.7667, 11.2500
+Florenz > Firenze, 43.7667, 11.2500
+Floresta, 37.9833, 14.9167
+Floridia, 37.0833, 15.1500
+Flumeri, 41.0833, 15.1500
+Fluminimaggiore, 39.4333, 8.5000
+Fobello, 45.8833, 8.1667
+Foggia, 41.4500, 15.5667
+Foglianise, 41.1667, 14.6667
+Foglizzo, 45.2667, 7.8167
+Foiano della Chiana, 43.2500, 11.8167
+Foiano di Val Fortore, 41.3500, 14.9833
+Folgaria, 45.9167, 11.1667
+Foligno, 42.9500, 12.7000
+Follina, 45.9500, 12.1167
+Follonica, 42.9167, 10.7500
+Fondachelli, 37.9667, 15.1833
+Fondi, 41.3500, 13.4167
+Fondo, 46.4333, 11.1333
+Fonni, 40.1167, 9.2500
+Fontanafredda, 45.9667, 12.5667
+Fontanarosa, 41.0167, 15.0167
+Fontanelice, 44.2500, 11.5500
+Fontanella, 45.4500, 9.8000
+Fontanellato, 44.8833, 10.1667
+Fontanetto Po, 45.2000, 8.1833
+Fontanigorda, 44.5500, 9.3167
+Fonte(Lazio), 41.7667, 13.2167
+Fonte(Veneto), 45.7833, 11.8833
+Fonteblanda, 42.5667, 11.1667
+Fontespina, 43.2833, 13.7500
+Fontevivo, 44.8500, 10.1667
+Fonzaso, 46.0167, 11.8000
+Foppolo, 46.0500, 9.7500
+Fordongianus, 39.9833, 8.8000
+Forenza, 40.8500, 15.8500
+Forgaria, 46.2167, 12.9667
+Forino, 40.8667, 14.7333
+Forlimpopoli, 44.1833, 12.1167
+Forlì, 44.2167, 12.0500
+Formazza, 46.3667, 8.4333
+Formia, 41.2500, 13.6167
+Formigine, 44.5667, 10.8500
+Formignana, 44.8333, 11.8500
+Fornelli, 41.0000, 8.2333
+Forni Avoltri, 46.5833, 12.7667
+Forni di Sopra, 46.4167, 12.5833
+Forni di Sotto, 46.3833, 12.6667
+Forni di Val d'Astico, 45.8500, 11.3667
+Forno, 46.3500, 11.6167
+Forno Alpi Graie, 45.3667, 7.2167
+Forno di Zoldo, 46.3500, 12.1833
+Fornovo di Taro, 44.7000, 10.1000
+Forte dei Marmi, 43.9500, 10.1667
+Fortezza(Franzensfenste), 46.7833, 11.6167
+Forza d'Agrò, 37.9167, 15.3333
+Fosdinovo, 44.1333, 10.0167
+Fossacesia, 42.2500, 14.4833
+Fossacesia Marina, 42.2500, 14.5000
+Fossano, 44.5500, 7.7167
+Fossato di Vico, 43.3000, 12.7667
+Fossombrone, 43.6833, 12.8000
+Foza, 45.9000, 11.6333
+Frabosa Soprana, 44.2833, 7.8000
+Fragagnano, 40.4333, 17.4667
+Fragneto Monforte, 41.2500, 14.7667
+Francavilla al Mare, 42.4167, 14.2833
+Francavilla Angitola, 38.7667, 16.2667
+Francavilla d'Ete, 43.1833, 13.5333
+Francavilla di Sicilia, 37.9000, 15.1333
+Francavilla Fontana, 40.5167, 17.5833
+Francavilla in Sinni, 40.0833, 16.2000
+Francavilla Marittima, 39.8167, 16.3833
+Francofonte, 37.2333, 14.8833
+Francolise, 41.1833, 14.0500
+Fortezza, 46.7833, 11.6167
+Forza d'Agrò, 37.9167, 15.3333
+Fosdinovo, 44.1333, 10.0167
+Fossacesia, 42.2500, 14.4833
+Fossacesia Marina, 42.2500, 14.5000
+Fossano, 44.5500, 7.7167
+Fossato di Vico, 43.3000, 12.7667
+Fossombrone, 43.6833, 12.8000
+Foza, 45.9000, 11.6333
+Frabosa Soprana, 44.2833, 7.8000
+Fragagnano, 40.4333, 17.4667
+Fragneto Monforte, 41.2500, 14.7667
+Francavilla al Mare, 42.4167, 14.2833
+Francavilla Angitola, 38.7667, 16.2667
+Francavilla d'Ete, 43.1833, 13.5333
+Francavilla di Sicilia, 37.9000, 15.1333
+Francavilla Fontana, 40.5167, 17.5833
+Francavilla in Sinni, 40.0833, 16.2000
+Francavilla Marittima, 39.8167, 16.3833
+Francofonte, 37.2333, 14.8833
+Francolise, 41.1833, 14.0500
+Franzensfeste > Fortezza, 46.7833, 11.6167
+Frascati, 41.8000, 12.6833
+Frascineto, 39.8333, 16.2667
+Frassinoro, 44.3000, 10.5667
+Frattamaggiore, 40.9500, 14.2667
+Frattócchie, 41.7667, 12.6167
+Frazzanò, 38.0667, 14.7333
+Frigento, 41.0167, 15.1000
+Frignano, 41.0000, 14.1667
+Frosinone, 41.6333, 13.3167
+Frosolone, 41.6000, 14.4500
+Fubine, 44.9667, 8.4333
+Fucecchio, 43.7333, 10.8000
+Fucine, 46.3000, 10.7333
+Fulgatore, 37.9500, 12.7000
+Furci Siculo, 37.9500, 15.3833
+Furnari, 38.1167, 15.1333
+Furtei, 39.5667, 8.9500
+Fuscaldo, 39.4167, 16.0333
+Fusignano, 44.4667, 11.9500
+Fusine in Valromana, 46.5000, 13.6500

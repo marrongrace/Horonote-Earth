@@ -1,0 +1,763 @@
+Cabiate, 45.6667, 9.1667
+Caccamo, 37.9333, 13.6667
+Caccuri, 39.2333, 16.7833
+Cadeo, 44.9667, 9.8000
+Cadipietra(Steinhaus), 46.9833, 11.9833
+Cadoneghe, 45.4333, 11.9167
+Caerano di San Marco, 45.7833, 12.0000
+Caggiano, 40.5667, 15.4833
+Cagli, 43.5500, 12.6500
+Cagnano Varano, 41.8167, 15.7833
+Caiazzo, 41.1833, 14.3667
+Caino, 45.6333, 10.3000
+Cairano, 40.9000, 15.3667
+Cairo Montenotte, 44.4000, 8.2667
+Cala d'Oliva, 41.0833, 8.3333
+Cala Gonone, 40.3000, 9.6333
+Calabernardo, 36.8667, 15.1333
+Calabritto, 40.7833, 15.2167
+Calalzo di Cadore, 46.4500, 12.3833
+Calamonaci, 37.5167, 13.2833
+Calangianus, 40.9333, 9.1833
+Calanna, 38.1833, 15.7167
+Calascibetta, 37.5833, 14.2667
+Calasetta, 39.1167, 8.3667
+Calatabiano, 37.8167, 15.2333
+Calatafimi, 37.9167, 12.8667
+Calavino, 46.0500, 10.9833
+Calciano, 40.5833, 16.1833
+Calcinaia, 43.6833, 10.6167
+Calcinato, 45.4500, 10.4000
+Calcio, 45.5000, 9.8333
+Caldaro(Kaltern), 46.4167, 11.2333
+Caldarola, 43.1333, 13.2167
+Caldes, 46.3667, 10.9333
+Caldiero, 45.3667, 11.1833
+Caldonazzo, 45.9833, 11.2667
+Caldè, 45.9500, 8.6333
+Calenzano, 43.8500, 11.1500
+Calimera, 40.2500, 18.2833
+Calitri, 40.9000, 15.4500
+Calizzano, 44.2333, 8.1167
+Calliano(Trentino-Alto Adige), 45.9333, 11.0833
+Calliano(Piemonte), 45.0000, 8.2500
+Calmazzo, 43.6667, 12.7667
+Calolziocorte, 45.8000, 9.4333
+Caloveto, 39.5000, 16.7500
+Caltabellotta, 37.5667, 13.2167
+Caltagirone, 37.2333, 14.5167
+Caltanissetta, 37.4833, 14.0667
+Caltavuturo, 37.8167, 13.8833
+Caluso, 45.3000, 7.8833
+Calvello, 40.4667, 15.8500
+Calvera, 40.1500, 16.1500
+Calvi dell'Umbria, 42.4000, 12.5667
+Calvisano, 45.3333, 10.3333
+Camaiore, 43.9333, 10.3000
+Camarda, 42.3833, 13.4833
+Camastra, 37.2500, 13.7833
+Cambiano, 44.9667, 7.7833
+Camerano, 43.5333, 13.5500
+Cameri, 45.5000, 8.6500
+Camerino, 43.1333, 13.0667
+Camerota, 40.0333, 15.3833
+Camisano Vicentino, 45.5167, 11.7167
+Cammarata, 37.6333, 13.6333
+Camogli, 44.3500, 9.1500
+Campagna, 40.6667, 15.1333
+Campagna Lupia, 45.3500, 12.1000
+Campagnano di Roma, 42.1333, 12.3833
+Campagnatico, 42.8833, 11.2667
+Campana, 39.4000, 16.8333
+Camparada, 45.6500, 9.3167
+Campegine, 44.7500, 10.5333
+Campello Monti, 45.9333, 8.2500
+Campi Bisenzio, 43.8167, 11.1333
+Campi Salentina, 40.4000, 18.0167
+Campiglia dei Fosci, 43.4500, 11.0500
+Campiglia Marittima, 43.0500, 10.6167
+Campione del Garda, 45.7500, 10.7500
+Campitello, 46.4667, 11.7333
+Campli, 42.7167, 13.6833
+Campo Catino, 41.8000, 13.3333
+Campo di Giove, 42.0167, 14.0500
+Campo di Trens(Trens), 46.8667, 11.4833
+Campo Ligure, 44.5333, 8.7000
+Campo Tures(Sand in Taufers), 46.9167, 11.9500
+Campobasso, 41.5667, 14.6500
+Campobello di Licata, 37.2500, 13.9167
+Campobello di Mazara, 37.6333, 12.7500
+Campodarsego, 45.5000, 11.9000
+Campodolcino, 46.4000, 9.3500
+Campofelice di Fitalia, 37.8333, 13.4833
+Campofelice di Roccella, 37.9833, 13.8833
+Campofiorito, 37.7500, 13.2667
+Campoformido, 46.0167, 13.1500
+Campofranco, 37.5000, 13.7167
+Campogalliano, 44.6833, 10.8333
+Campolaro, 45.9167, 10.3333
+Campolasta(Astfeld), 46.6667, 11.3667
+Campolieto, 41.6333, 14.7667
+Campomarino, 41.9500, 15.0333
+Campomorone, 44.5000, 8.8833
+Campora, 40.3167, 15.2833
+Camporeale, 37.9000, 13.1000
+Camporgiano, 44.1500, 10.3333
+Camposampiero, 45.5667, 11.9333
+Camposanto, 44.7833, 11.1333
+Campotosto, 42.5500, 13.3667
+Campovalano, 42.7333, 13.6667
+Camucia, 43.2667, 11.9667
+Canale, 44.8000, 8.0000
+Canaro, 44.9333, 11.6667
+Canazei, 46.4667, 11.7667
+Cancellara, 40.7333, 15.9333
+Cancello e Arnone, 41.0667, 14.0500
+Canda, 45.0500, 11.5000
+Candela, 41.1333, 15.5167
+Candelo, 45.5500, 8.1167
+Candia Canavese, 45.3333, 7.8833
+Candia Lomellina, 45.1833, 8.6000
+Canegrate, 45.5667, 8.9333
+Canelli, 44.7167, 8.2833
+Caneva, 45.9667, 12.4333
+Canicattini Bagni, 37.0333, 15.0667
+Canicattì, 37.3500, 13.8500
+Canino, 42.4667, 11.7500
+Canna, 40.0833, 16.5000
+Cannara, 43.0000, 12.5833
+Cannero Riviera, 46.0167, 8.6833
+Canneto(Toscana), 43.2000, 10.7333
+Canneto(Sicilia), 38.4833, 14.9667
+Canneto sull'Oglio, 45.1500, 10.4167
+Cannobio, 46.0667, 8.7000
+Canosa di Puglia, 41.2167, 16.0667
+Cantalupo in Sabina, 42.3000, 12.6500
+Cantalupo nel Sannio, 41.5167, 14.4000
+Cantiano, 43.4667, 12.6333
+Cantoira, 45.3500, 7.3833
+Cantù, 45.7333, 9.1333
+Canzo, 45.8500, 9.2667
+Caorle, 45.6000, 12.8833
+Caorso, 45.0500, 9.8667
+Capaccio, 40.4167, 15.0833
+Capaci, 38.1667, 13.2333
+Capalbio, 42.4500, 11.4167
+Capannoli, 43.5833, 10.6833
+Capannori, 43.8333, 10.5667
+Capestrano, 42.2667, 13.7667
+Capistrano, 38.6833, 16.2833
+Capistrello, 41.9500, 13.3833
+Capizzi, 37.8500, 14.4833
+Capo d'Orlando, 38.1667, 14.8833
+Capo di Ponte, 46.0333, 10.3500
+Capodimonte, 42.5500, 11.9167
+Capoliveri, 42.7500, 10.3667
+Caposele, 40.8167, 15.2167
+Capostrada, 43.9500, 10.9000
+Capoterra, 39.1833, 8.9667
+Cappelle, 42.0500, 13.3667
+Cappelle sul Tavo, 42.4667, 14.1000
+Capracotta, 41.8333, 14.2667
+Capraia, 43.0500, 9.8333
+Capranica, 42.2500, 12.1833
+Caprarola, 42.3167, 12.2333
+Caprese Michelangelo, 43.6500, 11.9833
+Capri, 40.5500, 14.2333
+Capri Leone, 38.0833, 14.7333
+Capriati a Volturno, 41.4667, 14.1333
+Caprino Veronese, 45.6000, 10.7833
+Capua, 41.1000, 14.2000
+Capurso, 41.0500, 16.9167
+Caraffa di Catanzaro, 38.8833, 16.4833
+Caraglio, 44.4167, 7.4333
+Caramagna-Piemonte, 44.7667, 7.7333
+Caramanico Terme, 42.1500, 14.0000
+Carano, 46.2667, 11.4500
+Carasco, 44.3500, 9.3500
+Carate Brianza, 45.6833, 9.2333
+Caravaggio, 45.5000, 9.6333
+Carbonare, 45.9333, 11.2167
+Carbone, 40.1500, 16.0833
+Carbonia, 39.1667, 8.5167
+Carbonin, 46.6167, 12.2167
+Carcare, 44.3500, 8.3000
+Cardinale, 38.6333, 16.3833
+Cardito, 40.9500, 14.3000
+Careri, 38.1667, 16.1167
+Caresana, 45.2167, 8.5000
+Cariati, 39.5000, 16.9333
+Carife, 41.0167, 15.2000
+Carignano(Piemonte), 44.9167, 7.6667
+Carignano(Calabria), 43.8167, 12.9333
+Carini, 38.1333, 13.1833
+Carinola, 41.1833, 13.9667
+Carisolo, 46.1667, 10.7500
+Carlentini, 37.2667, 15.0167
+Carloforte, 39.1333, 8.3000
+Carlopoli, 39.0500, 16.4500
+Carmagnola, 44.8500, 7.7167
+Carmiano, 40.3500, 18.0500
+Carmignano di Brenta, 45.6333, 11.7000
+Carnia, 46.3667, 13.1333
+Carolei, 39.2500, 16.2167
+Carona, 46.0167, 9.7833
+Caronia, 38.0167, 14.4333
+Caronno Pertusella, 45.6000, 9.0500
+Carosino, 40.4500, 17.3833
+Carovigno, 40.7000, 17.6500
+Carovilli, 41.7167, 14.2833
+Carpaneto Piacentino, 44.9167, 9.7833
+Carpanzano, 39.1500, 16.3000
+Carpegna, 43.7833, 12.3333
+Carpenedolo, 45.3667, 10.4333
+Carpi, 44.7833, 10.8833
+Carpignano Sesia, 45.5333, 8.4167
+Carpineti, 44.4667, 10.5167
+Carpineto Romano, 41.6000, 13.0833
+Carpino, 41.8500, 15.8500
+Carpinone, 41.5833, 14.3167
+Carrara, 44.0833, 10.1000
+Carrodano, 44.2333, 9.6500
+Carrù, 44.4833, 7.8667
+Carsoli, 42.1000, 13.0833
+Cartura, 45.2667, 11.8333
+Casabona, 39.2500, 16.9500
+Casacalenda, 41.7333, 14.8500
+Casal di Principe, 41.0000, 14.1333
+Casal Velino, 40.1833, 15.1000
+Casalanguida, 42.0500, 14.5000
+Casalattico, 41.6167, 13.7167
+Casalbordino, 42.1500, 14.5833
+Casalbuono, 40.2167, 15.6833
+Casalbuttano, 45.2500, 9.9667
+Casale Monferrato, 45.1333, 8.4500
+Casale sul Sile, 45.6000, 12.3167
+Casalecchio di Reno, 44.4667, 11.2667
+Casaletto Spartano, 40.1500, 15.6167
+Casalmaggiore, 44.9833, 10.4333
+Casalmorano, 45.2833, 9.9000
+Casalnuovo Monterotaro, 41.6167, 15.1000
+Casalpusterlengo, 45.1833, 9.6500
+Casalvieri, 41.6333, 13.7167
+Casamassima, 40.9500, 16.9167
+Casamicciola Terme, 40.7500, 13.9000
+Casarano, 40.0000, 18.1667
+Casarsa della Delizia, 45.9500, 12.8333
+Cascia, 42.7167, 13.0167
+Casciana Terme, 43.5167, 10.5333
+Cascina, 43.6833, 10.5500
+Casei Gerola, 45.0000, 8.9167
+Casella, 44.5333, 9.0000
+Caselle in Pittari, 40.1667, 15.5500
+Caselle Torinese, 45.1667, 7.6500
+Casenove, 42.9667, 12.8333
+Casenuove, 45.6333, 8.7000
+Caserta, 41.0667, 14.3333
+Casina, 44.5000, 10.5000
+Casola in Lunigiana, 44.2333, 10.1667
+Casola Valsenio, 44.2167, 11.6167
+Casole d'Elsa, 43.3333, 11.0333
+Casoli, 42.1167, 14.3000
+Casorate Primo, 45.3167, 9.0167
+Casorate Sempione, 45.6667, 8.7333
+Casorezzo, 45.5167, 8.9000
+Casoria, 40.9000, 14.2833
+Caspoggio, 46.2667, 9.8667
+Cassano allo Ionio, 39.7833, 16.3333
+Cassano d'Adda, 45.5333, 9.5167
+Cassano delle Murge, 40.8833, 16.7667
+Cassano Magnago, 45.6833, 8.8333
+Cassaro, 37.1167, 14.9333
+Cassine, 44.7500, 8.5167
+Cassinetta di Lugagnano, 45.4167, 8.9000
+Cassino, 41.5000, 13.8167
+Cassio, 44.5833, 10.0333
+Cassolnovo, 45.3667, 8.8000
+Cassone, 45.7333, 10.7667
+Castagnaro, 45.1167, 11.4000
+Castagneto Carducci, 43.1667, 10.6000
+Castano Primo, 45.5500, 8.7833
+Casteggio, 45.0000, 9.1167
+Castel Baronia, 41.0500, 15.1833
+Castel Bolognese, 44.3167, 11.8000
+Castel d'Ario, 45.1833, 10.9667
+Castel del Monte, 42.3667, 13.7167
+Castel del Piano, 42.8833, 11.5333
+Castel del Rio, 44.2000, 11.5000
+Castel di Ieri, 42.1000, 13.7333
+Castel di Lucio, 37.8833, 14.3167
+Castel di ludica, 37.5000, 14.6333
+Castel di Sangro, 41.7833, 14.1000
+Castel di Tora, 42.2167, 12.9667
+Castel Frentano, 42.2000, 14.3667
+Castel Gandolfo, 41.7500, 12.6500
+Castel Giorgio, 42.7000, 11.9833
+Castel Madama, 41.9667, 12.8667
+Castel Maggiore, 44.5667, 11.3667
+Castel Pagano, 41.4000, 14.8000
+Castel San Gimignano, 43.4000, 11.0000
+Castel San Giorgio, 40.7833, 14.7000
+Castel San Giovanni, 45.0667, 9.4333
+Castel San Lorenzo, 40.4167, 15.2333
+Castel San Pietro, 44.4000, 11.5833
+Castel Sant'Elia, 42.2500, 12.3667
+Castel Viscardo, 42.7500, 12.0000
+Castel Volturno, 41.0333, 13.9333
+Castelbuono, 37.9333, 14.0833
+Castelcivita, 40.5000, 15.2500
+Casteldaccia, 38.0500, 13.5333
+Casteldarne(Ehrenburg), 46.8000, 11.8333
+Casteldelfino, 44.5833, 7.0667
+Castelfidardo, 43.4667, 13.5500
+Castelfiorentino, 43.6000, 10.9667
+Castelfondo, 46.4500, 11.1167
+Castelforte, 41.3000, 13.8167
+Castelfranco di Sotto, 43.7000, 10.7500
+Castelfranco Emilia, 44.6167, 11.0500
+Castelfranco in Miscano, 41.3000, 15.0833
+Castelfranco Veneto, 45.6667, 11.9167
+Castelgrande, 40.7833, 15.4333
+Castell'Alfero, 44.9833, 8.2167
+Castell'Arquato, 44.8500, 9.8667
+Castell'Azzara, 42.7667, 11.7000
+Castell'Umberto, 38.0833, 14.8000
+Castellabate, 40.2833, 14.9500
+Castellalto, 42.6667, 13.8167
+Castellammare del Golfo, 38.0167, 12.8833
+Castellammare di Stabia, 40.7000, 14.4833
+Castellamonte, 45.3833, 7.7000
+Castellana Grotte, 40.8833, 17.1833
+Castellana Sicula, 37.7833, 14.0333
+Castellaneta, 40.6167, 16.9500
+Castellanza, 45.6167, 8.9000
+Castellarano, 44.5000, 10.7333
+Castellazzo Bormida, 44.8500, 8.5667
+Castelleone, 45.3000, 9.7667
+Castelletto, 45.5833, 8.5833
+Castelletto di Brenzone, 45.6833, 10.7500
+Castelli, 42.4833, 13.7167
+Castellina in Chianti, 43.4667, 11.2833
+Castellina Marittima, 43.4167, 10.5833
+Castello d'Annone, 44.8833, 8.3167
+Castello di Fiemme, 46.2833, 11.4333
+Castello Lavazzo, 46.2833, 12.3000
+Castello Tesino, 46.0667, 11.6333
+Castellucchio, 45.1500, 10.6500
+Castelluccio, 40.0000, 15.9667
+Castelluzzo, 38.1000, 12.7333
+Castelmagno, 44.4000, 7.2167
+Castelmassa, 45.0167, 11.3000
+Castelmauro, 41.8333, 14.7167
+Castelmezzano, 40.5333, 16.0500
+Castelnovo di Sotto, 44.8167, 10.5667
+Castelnovo ne'Monti, 44.4333, 10.4000
+Castelnuovo, 45.4333, 10.7833
+Castelnuovo Berardenga, 43.3500, 11.5000
+Castelnuovo dell'Abate, 43.0000, 11.5167
+Castelnuovo della Daunia, 41.5833, 15.1167
+Castelnuovo di Garfagnana, 44.1000, 10.4000
+Castelnuovo di Porto, 42.1167, 12.5000
+Castelnuovo di Val di Cecina, 43.2000, 10.9833
+Castelnuovo Don Bosco, 45.0500, 7.9667
+Castelnuovo Nigra, 45.4333, 7.6833
+Castelnuovo Rangone, 44.5500, 10.9333
+Castelnuovo Scrivia, 44.9833, 8.8833
+Castelraimondo, 43.2000, 13.0667
+Castelsaraceno, 40.1667, 16.0000
+Castelsardo, 40.9167, 8.7167
+Castelsilano, 39.2667, 16.7667
+Casteltermini, 37.5333, 13.6500
+Castelvecchio Subequo, 42.1333, 13.7333
+Castelvetere in Val Fortore, 41.4500, 14.9333
+Castelvetrano, 37.6833, 12.7833
+Castelvetro di Modena, 44.5000, 10.9500
+Castelvetro Piacentino, 45.0833, 9.9833
+Castenaso, 44.5000, 11.4667
+Castenedolo, 45.4667, 10.3000
+Castiglion Fibocchi, 43.5333, 11.7667
+Castiglion Fiorentino, 43.3333, 11.9167
+Castiglioncello, 43.4000, 10.4000
+Castiglione Chiavarese, 44.2667, 9.5167
+Castiglione d'Adda, 45.2167, 9.6833
+Castiglione d'Orcia, 43.0000, 11.6167
+Castiglione d'Ossola, 46.0500, 8.2167
+Castiglione dei Pepoli, 44.1333, 11.1500
+Castiglione del Lago, 43.1167, 12.0500
+Castiglione della Pescaia, 42.7667, 10.8833
+Castiglione delle Stiviere, 45.3833, 10.4833
+Castiglione di Sicilia, 37.8833, 15.1167
+Castiglione Messer Marino, 41.8667, 14.4500
+Castiglione Olona, 45.7667, 8.8667
+Castione della Presolana, 45.9000, 10.0667
+Castiòns di Strada, 45.9000, 13.1833
+Castorano, 42.9000, 13.7167
+Castro, 45.8000, 10.0667
+Castro dei Volsci, 41.5000, 13.4000
+Castrocaro, 44.1667, 11.9500
+Castrocielo, 41.5333, 13.7000
+Castrofilippo, 37.3500, 13.7667
+Castrogiovanni, 37.5500, 14.2833
+Castronuovo di Sant'Andrea, 40.1833, 16.1833
+Castronuovo di Sicilia, 37.6833, 13.6000
+Castropignano, 41.6167, 14.5500
+Castroreale, 38.1000, 15.2000
+Castrovillari, 39.8167, 16.2167
+Catania, 37.5000, 15.1000
+Catanzaro, 38.9000, 16.4333
+Catanzaro Lido, 38.8167, 16.6000
+Catenanuova, 37.5667, 14.6833
+Catignano, 42.3500, 13.9500
+Cattolica, 43.9667, 12.7333
+Cattolica Eraclea, 37.4333, 13.4000
+Caulonia, 38.3833, 16.4167
+Cava de' Tirreni, 40.7000, 14.7000
+Cava Manara, 45.1333, 9.1167
+Cavaglià, 45.4000, 8.0833
+Cavalese, 46.2833, 11.4500
+Cavallermaggiore, 44.7167, 7.6833
+Cavarzere, 45.1333, 12.0833
+Cavaso del Tomba, 45.8500, 11.8667
+Cave, 41.8167, 12.9333
+Cave del Predil, 46.4333, 13.5667
+Cavedine, 45.9833, 10.9833
+Cavernago, 45.6333, 9.7667
+Cavezzo, 44.8333, 11.0333
+Cavi, 44.2833, 9.3667
+Cavour, 44.7833, 7.3667
+Cavriago, 44.7000, 10.5167
+Cavriana, 45.3500, 10.6000
+Ceccano, 41.5667, 13.3333
+Cecina, 43.3167, 10.5167
+Cedegolo, 46.0833, 10.3500
+Cefalà Diana, 37.9000, 13.4667
+Cefalù, 38.0333, 14.0167
+Ceglie Messapico, 40.6500, 17.5167
+Celano, 42.0833, 13.5500
+Celenza sul Trigno, 41.8667, 14.5833
+Celenza Valfortore, 41.5667, 14.9667
+Celico, 39.3167, 16.3333
+Celle Ligure, 44.3333, 8.5500
+Cellino Attanasio, 42.6000, 13.8667
+Cellino San Marco, 40.4667, 17.9667
+Cembra, 46.1667, 11.2167
+Cencenighe, 46.3500, 11.9667
+Cene, 45.7833, 9.8167
+Centallo, 44.5000, 7.5833
+Centeno, 42.8000, 11.8167
+Cento, 44.7167, 11.2833
+Centola, 40.0667, 15.3167
+Centuripe, 37.6167, 14.7333
+Ceprano, 41.5500, 13.5167
+Ceraino, 45.5833, 10.8333
+Cerami, 37.8167, 14.5000
+Cerano, 45.4167, 8.7833
+Ceraso, 40.1833, 15.2500
+Cerchiara di Calabria, 39.8500, 16.3833
+Cercola, 40.8500, 14.3500
+Cerda, 37.9000, 13.8167
+Cerea, 45.2000, 11.2167
+Cereglio, 44.3000, 11.0667
+Ceres, 45.3167, 7.3833
+Ceresole Reale, 45.4333, 7.2500
+Ceriale, 44.1000, 8.2333
+Ceriana, 43.8833, 7.7667
+Ceriano, 45.6333, 9.0833
+Cerignola, 41.2667, 15.9000
+Cerisano, 39.2667, 16.1833
+Cermignano, 42.5833, 13.7833
+Cernobbio, 45.8333, 9.0667
+Cernusco sul Naviglio, 45.5167, 9.3167
+Cerreto d'Esi, 43.3167, 12.9833
+Cerreto Guidi, 43.7500, 10.8833
+Cerreto Sannita, 41.2833, 14.5500
+Cerrina, 45.1167, 8.2167
+Cerro, 45.9000, 8.6000
+Cersosimo, 40.0500, 16.3500
+Certaldo, 43.5500, 11.0333
+Certosa(Karthaus), 46.7000, 10.9000
+Certosa di Pavia, 45.2500, 9.1500
+Cervarezza, 44.3833, 10.3333
+Cervaro, 41.4833, 13.9000
+Cerveteri, 42.0000, 12.1000
+Cervia, 44.2500, 12.3667
+Cervignano del Friuli, 45.8167, 13.3333
+Cervinara, 41.0167, 14.6167
+Cervo, 43.9167, 8.1167
+Cesana Torinese, 44.9500, 6.7833
+Cesano(Lazio), 42.1167, 12.3500
+Cesano(Marche), 43.7500, 13.1667
+Cesano Boscone, 45.4500, 9.1000
+Cesano Maderno, 45.6333, 9.1333
+Cesarò, 37.8333, 14.7167
+Cesate, 45.6000, 9.0833
+Cesena, 44.1333, 12.2500
+Cesenatico, 44.2000, 12.4000
+Cesiomaggiore, 46.0833, 11.9833
+Cessalto, 45.7000, 12.6000
+Cetara, 40.6500, 14.7000
+Cetona, 42.9667, 11.9000
+Cetraro, 39.5167, 15.9333
+Ceva, 44.3833, 8.0333
+Chamois, 45.8333, 7.6167
+Champdepraz, 45.6833, 7.6500
+Champoluc, 45.8333, 7.7333
+Cherasco, 44.6500, 7.8500
+Chialamberto, 45.3667, 7.3500
+Chiampo, 45.5500, 11.2833
+Chianciano Terme, 43.0500, 11.8333
+Chianni, 43.4833, 10.6333
+Chiaramonte Gulfi, 37.0333, 14.7000
+Chiaramonti, 40.7500, 8.8167
+Chiaravalle, 43.6000, 13.3167
+Chiaravalle Centrale, 38.6833, 16.4167
+Chiareggio, 46.3167, 9.7833
+Chiari, 45.5333, 9.9333
+Chiaromonte, 40.1167, 16.2167
+Chiavari, 44.3167, 9.3167
+Chiavenna, 46.3167, 9.4000
+Chienes(Kiens), 46.8000, 11.8333
+Chieri, 45.0167, 7.8167
+Chiesa in Valmalenco, 46.2667, 9.8500
+Chieti, 42.3500, 14.1667
+Chieuti, 41.8500, 15.1667
+Chignolo Po, 45.1500, 9.4833
+Chilivani, 40.6000, 8.9333
+Chioggia, 45.2167, 12.2833
+Chiomonte, 45.1167, 6.9833
+Chiuduno, 45.6667, 9.8500
+Chiuppano, 45.7667, 11.4667
+Chiuro, 46.1667, 9.9833
+Chiusa(Klausen), 46.6333, 11.5667
+Chiusa di Pesio, 44.3167, 7.6667
+Chiusa di San Michele, 45.1000, 7.3167
+Chiusa Sclafani, 37.6833, 13.2667
+Chiusaforte, 46.4000, 13.3000
+Chiusi, 43.0167, 11.9500
+Chivasso, 45.1833, 7.8833
+Châtillon, 45.7500, 7.6167
+Ciago, 46.2000, 12.7667
+Ciampino, 41.8000, 12.6000
+Cianciana, 37.5167, 13.4333
+Ciano d'Enza, 44.6000, 10.4000
+Ciavolo, 37.7667, 12.5500
+Cibiana, 46.3833, 12.2833
+Cicagna, 44.4167, 9.2333
+Cicala, 39.0167, 16.4833
+Cicciano, 40.9667, 14.5333
+Cigliano, 45.3000, 8.0167
+Cilavegna, 45.3167, 8.7333
+Cima Gogna, 46.5167, 12.4667
+Cimabanche(Schluderbach), 46.6167, 12.1833
+Ciminna, 37.9000, 13.5667
+Cimitile, 40.9333, 14.5167
+Cimolais, 46.2833, 12.4333
+Cingoli, 43.3667, 13.2167
+Cinigiano, 42.8833, 11.4000
+Cinisello Balsamo, 45.5500, 9.2167
+Cinisi, 38.1500, 13.1000
+Cinquefrondi, 38.4167, 16.1000
+Cinto Euganeo, 45.2667, 11.6667
+Cireglio, 43.9833, 10.8500
+Cirigliano, 40.4000, 16.1667
+Ciriè, 45.2333, 7.6000
+Cirò, 39.3833, 17.0667
+Cirò Marina, 39.3667, 17.1333
+Cisano, 45.5333, 10.7167
+Cislago, 45.6500, 8.9667
+Cisliano, 45.4500, 8.9833
+Cismon del Grappa, 45.9167, 11.7333
+Cison di Valmarino, 45.9667, 12.1667
+Cisterna di Latina, 41.5833, 12.8167
+Cisternino, 40.7333, 17.4167
+Cittadella, 45.6500, 11.7833
+Cittaducale, 42.3833, 12.9500
+Cittanova, 38.3500, 16.0833
+Cittareale, 42.6167, 13.1667
+Città della Pieve, 42.9500, 12.0000
+Città di Castello, 43.4500, 12.2333
+Città Sant'Angelo, 42.5167, 14.0500
+Civate, 45.8333, 9.3500
+Civenna, 45.9333, 9.2667
+Civezzano, 46.0833, 11.1833
+Cividale del Friuli, 46.1000, 13.4167
+Cividate al Piano, 45.5500, 9.8333
+Cividate Camuno, 45.9500, 10.2833
+Civita, 39.8167, 16.3000
+Civita Campomarano, 41.7833, 14.6833
+Civita Castellana, 42.2833, 12.4167
+Civita di Bagno, 42.3000, 13.4333
+Civitanova Alta, 43.3167, 13.6667
+Civitanova del Sannio, 41.6667, 14.4000
+Civitanova Marche, 43.3000, 13.7333
+Civitaquana, 42.3167, 13.9000
+Civitavecchia, 42.1000, 11.8000
+Civitella del Tronto, 42.7667, 13.6667
+Civitella di Romagna, 44.0000, 11.9333
+Civitella in Val di Chiana, 43.4167, 11.7167
+Civitella Marittima, 43.0000, 11.2833
+Civitella Roveto, 41.9000, 13.4167
+Cles, 46.3667, 11.0333
+Clusone, 45.8833, 9.9500
+Coazze, 45.0500, 7.3000
+Coccaglio, 45.5667, 9.9667
+Cocconato, 45.0833, 8.0333
+Codaruina, 40.9333, 8.8167
+Codigoro, 44.8167, 12.1333
+Codogno, 45.1500, 9.7000
+Codroipo, 45.9667, 12.9833
+Codrongianos, 40.6500, 8.6833
+Coggiola, 45.6833, 8.1833
+Cogliate, 45.6500, 9.0833
+Cogne, 45.6167, 7.3500
+Cogoleto, 44.3833, 8.6500
+Cogollo del Cengio, 45.7833, 11.4167
+Cogolo, 46.3500, 10.6833
+Coldrano, 46.6333, 10.8333
+Colfiorito, 43.0333, 12.9167
+Colico, 46.1333, 9.3667
+Collagna, 44.3500, 10.2667
+Collalbo(Klobenstein), 46.5333, 11.4667
+Collalto Sabino, 42.1333, 13.0333
+Collarmele, 42.0500, 13.6333
+Collazzone, 42.9000, 12.4333
+Colle di Tora, 42.2167, 12.9500
+Colle di Val d'Elsa, 43.4167, 11.1167
+Colle Isarco(Gossensass), 46.9333, 11.4333
+Colle Salvetti, 43.5833, 10.4667
+Colle Sannita, 41.3667, 14.8333
+Collecchio, 44.7500, 10.2167
+Collecorvino, 42.4500, 14.0167
+Colleferro, 41.7333, 12.9833
+Collegno, 45.0833, 7.5667
+Collepardo, 41.7667, 13.3667
+Collepasso, 40.0667, 18.1667
+Collepietro, 42.2167, 13.7667
+Collesano, 37.9167, 13.9333
+Colletorto, 41.6667, 14.9667
+Colli a Volturno, 41.6000, 14.1000
+Colli del Tronto, 42.8667, 13.7333
+Colli di Monte Bove, 42.1000, 13.1500
+Colliano, 40.7167, 15.2833
+Collio, 45.8000, 10.3333
+Colobraro, 40.1833, 16.4167
+Cologna Veneta, 45.3000, 11.3833
+Cologno al Serio, 45.6167, 9.7000
+Cologno Monzese, 45.5333, 9.2833
+Colonna, 41.8333, 12.7500
+Colonnata, 44.0833, 10.1667
+Colorno, 44.9333, 10.3833
+Colosimi, 39.1167, 16.4000
+Comacchio, 44.7000, 12.1833
+Comeglians, 46.5167, 12.8667
+Comelico Superiore, 46.5833, 12.5000
+Comiso, 36.9333, 14.6000
+Comitini, 37.4000, 13.6500
+Como, 45.7833, 9.0833
+Comunanza, 42.9500, 13.4167
+Conco, 45.8000, 11.6000
+Concordia sulla Secchia, 44.9167, 10.9833
+Concorezzo, 45.5833, 9.3333
+Condino, 45.8833, 10.6000
+Condove, 45.1167, 7.3000
+Conegliano, 45.8833, 12.3000
+Configni, 42.4167, 12.6333
+Conflenti, 39.0667, 16.2833
+Consandolo, 44.6500, 11.7667
+Conselice, 44.5167, 11.8167
+Conselve, 45.2333, 11.8667
+Consuma, 43.7833, 11.5833
+Contarina, 45.0000, 12.2167
+Contigliano, 42.4000, 12.7667
+Contursi, 40.6500, 15.2333
+Conversano, 40.9667, 17.1333
+Copertino, 40.2667, 18.0500
+Copparo, 44.9000, 11.8167
+Corato, 41.1500, 16.4167
+Corbeolona, 45.1667, 9.3667
+Corbetta, 45.4667, 8.9167
+Corbola, 45.0000, 12.0833
+Corciano, 43.1333, 12.2833
+Cordenons, 45.9833, 12.7000
+Cordignano, 45.9500, 12.4167
+Coreglia Antelminelli, 44.0667, 10.5167
+Corese Terra, 42.1667, 12.7000
+Cori, 41.6500, 12.9167
+Corigliano Calabro, 39.6000, 16.5167
+Corigliano d'Otranto, 40.1500, 18.2500
+Corinaldo, 43.6500, 13.0500
+Corleone, 37.8167, 13.3000
+Corleto Perticara, 40.3833, 16.0500
+Cormano, 45.5500, 9.1667
+Cormòns, 45.9667, 13.4667
+Corna, 45.8833, 10.1667
+Cornaredo, 45.5000, 9.0333
+Cornedo Vicentino, 45.6167, 11.3333
+Corniglia, 44.1167, 9.7000
+Cornuda, 45.8333, 12.0000
+Correggio, 44.7667, 10.7833
+Correzzana, 45.6667, 9.3000
+Corridonia, 43.2500, 13.5000
+Corropoli, 42.8167, 13.8333
+Corsano, 39.8833, 18.3667
+Corsico, 45.4333, 9.1167
+Cortaccia(Kurtatsch), 46.3167, 11.2167
+Cortale, 38.8333, 16.4167
+Cortemaggiore, 44.9833, 9.9333
+Cortemilia, 44.5833, 8.2000
+Cortina d'Ampezzo, 46.5333, 12.1333
+Cortona, 43.2667, 11.9833
+Corvara in Badia, 46.5500, 11.8667
+Cosenza, 39.2833, 16.2500
+Cossato, 45.5667, 8.1667
+Cossoine, 40.4500, 8.7167
+Costa di Rovigo, 45.0500, 11.7000
+Costacciaro, 43.3500, 12.7000
+Costigliole d'Asti, 44.7833, 8.1833
+Costigliole Saluzzo, 44.5667, 7.4833
+Cotignola, 44.3833, 11.9333
+Cotronei, 39.1500, 16.7833
+Cottanello, 42.4000, 12.6833
+Courmayeur, 45.7833, 6.9667
+Covigliaio, 44.1333, 11.3000
+Craco, 40.3833, 16.4333
+Crema, 45.3667, 9.6833
+Cremia, 46.0833, 9.2667
+Cremona, 45.1167, 10.0333
+Crescentino, 45.1833, 8.1000
+Crespano del Grappa, 45.8167, 11.8333
+Crespino, 44.9833, 11.8833
+Crevacuore, 45.6833, 8.2500
+Crevalcore, 44.7167, 11.1500
+Crevola d'Ossola, 46.1500, 8.3000
+Crichi, 38.9500, 16.6333
+Crispiano, 40.6000, 17.2333
+Crocefieschi, 44.5833, 9.0167
+Crocetta del Montello, 45.8333, 12.0333
+Cropalati, 39.5167, 16.7167
+Cropani, 38.9667, 16.7833
+Crosia, 39.5667, 16.7667
+Crotone, 39.0833, 17.1167
+Crucoli, 39.4167, 17.0000
+Cuccaro Vetere, 40.1500, 15.3000
+Cuggiono, 45.5167, 8.8167
+Cuglieri, 40.1833, 8.5667
+Cumiana, 44.9833, 7.3667
+Cuneo, 44.3833, 7.5333
+Cuorgnè, 45.3833, 7.6500
+Cupello, 42.0667, 14.6667
+Cupra Marittima, 43.0167, 13.8500
+Cupramontana, 43.4500, 13.1167
+Curinga, 38.8167, 16.3167
+Curon Venosta(Graun), 46.8167, 10.5333
+Cursi, 40.1500, 18.3000
+Curtarolo, 45.5167, 11.8333
+Cusago, 45.4500, 9.0333
+Cusano Milanino, 45.5500, 9.1833
+Cusano Mutri, 41.3333, 14.5000
+Custonaci, 38.0667, 12.6833
+Cutro, 39.0333, 16.9833
+Cutrofiano, 40.1167, 18.2000
+Cuzzago, 46.0000, 8.3667
+Càbras, 39.9333, 8.5333
+Càgliari, 39.2167, 9.1167

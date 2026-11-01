@@ -1,0 +1,217 @@
+Gabicce Mare, 43.9667, 12.7667
+Gaby, 45.7167, 7.8833
+Gaeta, 41.2000, 13.5833
+Gaggi, 37.8500, 15.2167
+Gaggiano, 45.4000, 9.0333
+Gagliano Castelferrato, 37.7167, 14.5333
+Gagliano del Capo, 39.8333, 18.3667
+Gaiarine, 45.8667, 12.4833
+Gaiole in Chianti, 43.4667, 11.4333
+Gais, 46.8333, 11.9500
+Galatina, 40.1667, 18.1667
+Galatone, 40.1500, 18.0667
+Galatro, 38.4667, 16.1000
+Galeata, 44.0000, 11.9167
+Gallarate, 45.6667, 8.7833
+Galliate, 45.4833, 8.7000
+Gallicano, 44.0667, 10.4333
+Gallicano nel Lazio, 41.8667, 12.8167
+Gallicchio, 40.2833, 16.1333
+Gallico, 38.1667, 15.6833
+Galliera Veneta, 45.6500, 11.8167
+Gallio, 45.8833, 11.5500
+Gallipoli, 40.0500, 17.9667
+Gallivaggio, 46.3500, 9.3500
+Galtellì, 40.3833, 9.6167
+Gambara, 45.2500, 10.3000
+Gambarie, 38.1667, 15.8333
+Gambassi, 43.5333, 10.9500
+Gambatesa, 41.5000, 14.9000
+Gambellara, 45.4667, 11.3333
+Gambolò, 45.2500, 8.8500
+Gandino, 45.8167, 9.9000
+Gangi, 37.6833, 14.1667
+Garaguso, 40.5500, 16.2333
+Garbagna, 45.3833, 8.6500
+Garbagnate Milanese, 45.5833, 9.0833
+Garda, 45.5667, 10.7000
+Gardolo, 46.1167, 11.0833
+Gardone Riviera, 45.6167, 10.5667
+Gardone Val Trompia, 45.6833, 10.1833
+Garessio, 44.2000, 8.0333
+Gargazzone(Gargazon), 46.5833, 11.2000
+Gargnano, 45.6833, 10.6667
+Garlasco, 45.2000, 8.9167
+Garlate, 45.8167, 9.3833
+Garzeno, 46.1333, 9.2500
+Gasperina, 38.7333, 16.5000
+Gassino Torinese, 45.1333, 7.8167
+Gattinara, 45.6167, 8.3667
+Gattorna, 44.4333, 9.1833
+Gavardo, 45.5833, 10.4333
+Gavello, 45.0167, 11.9167
+Gavi, 44.6833, 8.8167
+Gavinana, 44.0833, 10.7500
+Gavirate, 45.8333, 8.7167
+Gavoi, 40.1667, 9.2000
+Gavorrano, 42.9167, 10.9000
+Gazoldo degli Ippoliti, 45.2000, 10.5833
+Gazzada, 45.7833, 8.8500
+Gazzaniga, 45.8000, 9.8333
+Gazzuolo, 45.0667, 10.5833
+Gela, 37.0667, 14.2500
+Gemona del Friuli, 46.2667, 13.1500
+Gemonio, 45.8833, 8.6667
+Genazzano, 41.8333, 12.9667
+Genga, 43.4333, 12.9333
+Genoa > Genova, 44.4167, 8.9500
+Genola, 44.5833, 7.6500
+Genova(Genoa), 44.4167, 8.9500
+Genua > Genova, 44.4167, 8.9500
+Genzano di Lucania, 40.8500, 16.0333
+Genzano di Roma, 41.7000, 12.6833
+Gerace, 38.2667, 16.2167
+Geraci Siculo, 37.8500, 14.1500
+Gerenzano, 45.6333, 9.0000
+Germagnano, 45.2500, 7.4667
+Gerola Alta, 46.0500, 9.5333
+Gessopalena, 42.0500, 14.2667
+Gesualdo, 41.0000, 15.0667
+Ghedi, 45.4000, 10.2667
+Ghemme, 45.6167, 8.4167
+Ghigo, 44.8833, 7.0500
+Ghilarza, 40.1167, 8.8333
+Giano dell'Umbria, 42.8333, 12.5833
+Giardinello, 38.0833, 13.1500
+Giardinetto, 41.3167, 15.4000
+Giardini, 37.8333, 15.2833
+Giarratana, 37.0500, 14.8000
+Giarre, 37.7167, 15.1833
+Giaveno, 45.0333, 7.3500
+Giazza, 45.6500, 11.1167
+Giba, 39.0667, 8.6333
+Gibellina, 37.7833, 12.9667
+Giffone, 38.4500, 16.1667
+Giffoni Valle Piana, 40.7333, 14.9333
+Giglio Castello, 42.3667, 10.9000
+Giglio Porto, 42.3667, 10.9167
+Gigliola, 44.8500, 12.2333
+Gignod, 45.7667, 7.2833
+Gimigliano, 38.9667, 16.5333
+Ginosa, 40.5833, 16.7667
+Ginostra, 38.7833, 15.1833
+Gioi, 40.2833, 15.2167
+Gioia dei Marsi, 41.9500, 13.7000
+Gioia del Colle, 40.8000, 16.9333
+Gioia Tauro, 38.4333, 15.9000
+Gioia Vecchio, 41.9000, 13.7333
+Gioiosa Ionica, 38.3333, 16.3000
+Gioiosa Marea, 38.1667, 14.9000
+Giovinazzo, 41.1833, 16.6667
+Girgenti > Agrigento, 37.3000, 13.5833
+Girifalco, 38.8167, 16.4167
+Gissi, 42.0167, 14.5500
+Giugliano in Campania, 40.9333, 14.2000
+Giuliana, 37.6667, 13.2333
+Giulianova, 42.7500, 13.9500
+Giussano, 45.7000, 9.2333
+Gizzeria, 38.9833, 16.2000
+Glorenza(Glurns), 46.6667, 10.5500
+Godega di Sant'Urbano, 45.9333, 12.4000
+Godrano, 37.9000, 13.4333
+Goglio, 46.3000, 8.2667
+Goito, 45.2500, 10.6667
+Golfo Aranci, 40.9833, 9.6333
+Gomagoi, 46.5833, 10.5333
+Goni, 39.5667, 9.2833
+Gonnesa, 39.2667, 8.4667
+Gonnosfanàdiga, 39.4833, 8.6500
+Gonnostramatza, 39.6833, 8.8333
+Gonzaga, 44.9500, 10.8167
+Gonàrs, 45.8833, 13.2167
+Gorgoglione, 40.3833, 16.1500
+Gorgonzola, 45.5333, 9.4000
+Gorica > Gorizia, 45.9500, 13.6333
+Gorizia, 45.9500, 13.6333
+Gorla Maggiore, 45.6667, 8.8833
+Gorla Minore, 45.6500, 8.9000
+Gorlago, 45.6667, 9.8167
+Goro, 44.8500, 12.3000
+Gosaldo, 46.2167, 11.9667
+Gossensass > Colle Isarco, 46.9333, 11.4333
+Gossolengo, 44.9833, 9.6167
+Gottolengo, 45.2833, 10.2667
+Gozzano, 45.7500, 8.4333
+Gradara, 43.9500, 12.7667
+Gradisca d'Isonzo, 45.8833, 13.5000
+Gradiscutta, 45.9025, 12.9619
+Grado, 45.6667, 13.3833
+Gradoli, 42.6500, 11.8500
+Graffignano, 42.5667, 12.2000
+Graglia, 45.5500, 7.9833
+Gragnano, 40.6833, 14.5167
+Gragnano Trebbiense, 45.0167, 9.5667
+Grammichele, 37.2167, 14.6333
+Granaglione, 44.1167, 10.9667
+Granarolo dell'Emilia, 44.5500, 11.4500
+Granatello, 37.8833, 12.5333
+Grandola, 46.0333, 9.2167
+Graniti, 37.8833, 15.2333
+Granitola Torretta, 37.5667, 12.6667
+Grantorto, 45.6000, 11.7167
+Grassano, 40.6333, 16.3000
+Graun > Curon Venosta, 46.8167, 10.5333
+Gravedona, 46.1500, 9.3000
+Gravellona Toce, 45.9167, 8.4333
+Gravina in Puglia, 40.8167, 16.4167
+Greggio, 45.4500, 8.3833
+Gressoney-la-Trinité, 45.8333, 7.8167
+Gressoney-Saint-Jean, 45.7833, 7.8167
+Greve, 43.5833, 11.3167
+Grezzana, 45.5167, 11.0167
+Grignano, 45.7000, 13.7167
+Grignasco, 45.6833, 8.3333
+Grigno, 46.0167, 11.6333
+Grimaldi, 39.1333, 16.2333
+Grisolia, 39.7167, 15.8500
+Grizzana, 44.2500, 11.1500
+Gromo, 45.9667, 9.9333
+Gropello Cairoli, 45.1833, 9.0000
+Groscavallo, 45.3667, 7.2500
+Grosio, 46.3000, 10.2667
+Grosotto, 46.2833, 10.2500
+Grosseto, 42.7667, 11.1333
+Grottaferrata, 41.7833, 12.6667
+Grottaglie, 40.5333, 17.4333
+Grottaminarda, 41.0667, 15.0333
+Grottammare, 42.9833, 13.8667
+Grotte, 37.4000, 13.7000
+Grotte di Castro, 42.6667, 11.8667
+Grotteria, 38.3667, 16.2833
+Grottole, 40.6000, 16.3833
+Grugliasco, 45.0667, 7.5833
+Grumello del Monte, 45.6333, 9.8667
+Grumento Nova, 40.2833, 15.8833
+Grumo Appula, 41.0167, 16.7000
+Guagnano, 40.4000, 17.9500
+Gualdo Tadino, 43.2333, 12.7833
+Gualtieri, 44.9000, 10.6333
+Guarcino, 41.8000, 13.3167
+Guardavalle, 38.5000, 16.5000
+Guardea, 42.6167, 12.3000
+Guardia Lombardi, 40.9500, 15.2000
+Guardia Sanframondi, 41.2500, 14.6000
+Guardiagrele, 42.1833, 14.2167
+Guasila, 39.5667, 9.0500
+Guastalla, 44.9167, 10.6500
+Gubbio, 43.3500, 12.5833
+Guglionesi, 41.9167, 14.9167
+Guidizzolo, 45.3167, 10.5833
+Guidonia, 42.0167, 12.7500
+Guiglia, 44.4333, 10.9667
+Guspini, 39.5333, 8.6167
+Gussago, 45.5833, 10.1500
+Gussola, 45.0000, 10.3333
+Gábria, 45.8667, 13.5667
+Gênès > Genova, 44.4167, 8.9500
+Görz > Gorizia, 45.9500, 13.6333
