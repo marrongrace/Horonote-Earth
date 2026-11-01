@@ -1,0 +1,96 @@
+Abu Ghaush, 31.8000, 35.1000
+Abu Qashash, 31.9500, 35.1833
+Acre > ‘Akko, 32.9167, 35.0833
+Afiqim, 32.6667, 35.5833
+Al Yehudiya, 32.0333, 34.8833
+Al-Birah, 31.9000, 35.2167
+Al-Faluje, 31.6167, 34.7333
+Al-Khalil(Hebron), 31.5333, 35.1000
+Al-Khushniyah, 33.0000, 35.8000
+Al-Majdal, 31.7500, 34.5833
+Al-Quds > Yerushalayim, 31.7667, 35.2333
+Al-Yamun, 32.4833, 35.2333
+Al-‘Al, 32.8000, 35.7333
+Al-‘Aqabah, 29.5167, 35.0000
+Allone Abba, 32.7333, 35.1667
+Almagor, 32.9167, 35.6000
+An-Nazlah, 31.5333, 34.4833
+Arbel, 32.8167, 35.4833
+Ariha(Jericho), 31.8667, 35.4500
+As-Samu‘, 31.4000, 35.0667
+Ashdod, 31.8167, 34.6667
+Ashdot Ya‘aqov, 32.6667, 35.5833
+Ashmura, 33.0500, 35.6500
+Ashqelon, 31.6667, 34.5833
+Az-Zababidah, 32.3833, 35.3333
+Az-Zahiriyah, 31.4167, 34.9667
+Azor, 32.0167, 34.8000
+Bahjí, 32.9500, 35.0833
+Bani Suhaylah, 31.3333, 34.3333
+Baniyas, 33.2500, 35.6833
+Baqa al-Gharbiyya, 32.4167, 35.0500
+Bat Yam, 32.0167, 34.7500
+Bayt Hanum, 31.5333, 34.5500
+Bayt Jala, 31.7167, 35.1833
+Bayt Lahm(Bethlehem), 31.7167, 35.2000
+Bayt Sahur, 31.7000, 35.2167
+Bayt Sira, 31.8833, 35.0500
+Be'er Menuha, 30.3167, 35.1333
+Be'er Ora, 29.7167, 34.9833
+Be'er Sheva‘(Beersheba), 31.2333, 34.7833
+Be'er Toviyya, 31.7333, 34.7333
+Be'er Ya‘Agov, 31.9333, 34.8333
+Beersheba > Be'er Sheva‘, 31.2333, 34.7833
+Beisan, 32.5000, 35.5000
+Beit Jibran > Bet Guvrin, 31.6000, 34.9000
+Bene Beraq, 32.0833, 34.8333
+Bene Berit, 32.5833, 35.4333
+Bene Re'em, 31.7667, 34.7833
+Beror Hayil, 31.5500, 34.6333
+Bet Alfa, 32.5167, 35.4333
+Bet Dagan, 32.0000, 34.8333
+Bet Guvrin, 31.6000, 34.9000
+Bet HaShitta, 32.5500, 35.4333
+Bet Ha‘Arava, 31.8000, 35.5333
+Bet She'an, 32.5000, 35.5000
+Bet Shemesh, 31.7500, 35.0000
+Bethlehem > Bayt Lahm, 31.7167, 35.2000
+Bezet, 33.0833, 35.1333
+Biddiya, 32.1167, 35.0833
+Binyamina, 32.5167, 34.9500
+Bnei Braq > Bene Beraq, 32.0833, 34.8333
+Butayhah, 32.9333, 35.8833
+Dabburiya, 32.6833, 35.3667
+Dafna, 33.2333, 35.6333
+Daliyat el-Karmel, 32.7000, 35.0500
+Daliyya, 32.5833, 35.0667
+Dan, 33.2333, 35.6500
+Dayr al-Balah, 31.4167, 34.3500
+Dayr al-Ghusun, 32.3500, 35.0833
+Dayr Dibwan, 31.9167, 35.2667
+Dayr Sharaf, 32.2500, 35.1833
+Deganya, 32.7000, 35.5833
+Deir al-Asad, 32.9333, 35.2667
+Dimona, 31.0667, 35.0333
+Dor, 32.6167, 34.9167
+Dura, 31.5000, 35.0333
+El Faluje, 31.6167, 34.7333
+El Majdal, 31.7500, 34.5833
+Elat, 29.5500, 34.9500
+Erez, 31.5667, 34.5667
+Eshta'ol, 31.7833, 35.0000
+Et-Taiyiba, 32.2667, 35.0167
+Et-Tira, 32.2333, 34.9500
+Even Yehuda, 32.2667, 34.8833
+Faqqu‘Ah, 32.5000, 35.4000
+Fiq, 32.7833, 35.7000
+Gat, 31.6167, 34.7833
+Ga‘ton, 33.0000, 35.2167
+Gedera, 31.8167, 34.7667
+Gesher HaZiw, 33.0333, 35.1000
+Gezer, 31.8667, 34.9167
+Ghazzah(Gaza), 31.5000, 34.4667
+Ginnosar, 32.8500, 35.5167
+Giv‘at Brenner, 31.8667, 34.8000
+Giv‘atayim, 32.0667, 34.8000
+Gonen, 33.1333, 35.6500

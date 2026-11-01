@@ -1,0 +1,120 @@
+Ofaqim, 31.2833, 34.6167
+Or Yehuda, 32.0167, 34.8500
+Or ‘Aqiva, 32.5000, 34.9167
+Palmahim, 31.9333, 34.7000
+Pardes Hanna, 32.4667, 34.9667
+Peqi‘in Hadasha, 32.9833, 35.3333
+Petah Tiqwa, 32.0833, 34.8833
+Qabatiyah, 32.4167, 35.2833
+Qalqiliya, 32.1833, 34.9667
+Qan‘Abah, 33.1333, 35.6667
+Qezi‘ot, 30.8833, 34.4500
+Qibya, 31.9833, 35.0167
+Qiryat, 32.8167, 35.1000
+Qiryat Bialik, 32.8333, 35.0833
+Qiryat Binyamin, 32.8000, 35.0833
+Qiryat Gat, 31.6000, 34.7667
+Qiryat Hayyim, 32.8167, 35.0667
+Qiryat Mal'akhi, 31.7333, 34.7333
+Qiryat Motzkin, 32.8333, 35.0667
+Qiryat Ono, 32.0667, 34.8500
+Qiryat Shemona, 33.2167, 35.5667
+Qiryat Tiv‘on, 32.7167, 35.1333
+Qiryat Yam, 32.8500, 35.0667
+Qiryat ‘Anavim, 31.8000, 35.1167
+Rafah, 31.3000, 34.2500
+Ram Allah, 31.9000, 35.2000
+Rama, 32.9333, 35.3667
+Ramat Gan, 32.0833, 34.8167
+Ramat HaSharon, 32.1500, 34.8333
+Ramat HaShofet, 32.6167, 35.1000
+Ramat Yohanan, 32.7833, 35.1167
+Ramla, 31.9167, 34.8667
+Ra‘ananna, 32.1833, 34.8833
+Rehovot, 31.9000, 34.8167
+Rishon LeZiyyon, 31.9667, 34.8000
+Rishpon, 32.2000, 34.8167
+Rosh Ha‘Ayin, 32.1000, 34.9500
+Rosh Pinna, 32.9667, 35.5333
+Ruhama, 31.5000, 34.7000
+Sabastiyah(Samaria), 32.2833, 35.2000
+Safad > Zefat, 32.9667, 35.5000
+Sakhnin, 32.8667, 35.2833
+Sanur, 32.3500, 35.2500
+Sasa, 33.0333, 35.4000
+Sa‘ad, 31.4667, 34.5333
+Sa‘ir, 31.5833, 35.1500
+Sdud, 31.7500, 34.6500
+Sebustie > Sabastiyah, 32.2833, 35.2000
+Sede Boqer, 30.8667, 34.7833
+Sederot, 31.5167, 34.5833
+Sedom, 31.0667, 35.4000
+Sedot Yam, 32.4833, 34.8833
+Saffurie > Zippori, 32.7500, 35.2833
+Sapphoris > Zippori, 32.7500, 35.2833
+Shafir, 31.7000, 34.7333
+Shave Ziyyon, 32.9833, 35.0833
+Sha‘alvim, 31.8667, 34.9833
+Sha‘ar HaGolan, 32.6833, 35.6000
+Sha‘ar Menashe, 32.4500, 35.0167
+Shechem > Nabulus, 32.2167, 35.2667
+Shefar‘am, 32.8000, 35.1667
+Shevut ‘Am, 32.3167, 34.9167
+Shomera, 33.0833, 35.2833
+Shuwaykah, 32.3333, 35.0333
+Silat az-Zahr, 32.3167, 35.1833
+Tabariye > Teverya, 32.7833, 35.5333
+Tamra, 32.8500, 35.2000
+Tantura > Dor, 32.6167, 34.9167
+Tarqumiyah, 31.5833, 35.0167
+Tarshiha(Tershiha), 33.0833, 35.2667
+Tel Aviv, 32.0667, 34.7667
+Tel Aviv-Yafo, 32.0667, 34.7667
+Tel Mond, 32.2500, 34.9333
+Telhum, 32.8833, 35.5500
+Tequma, 31.4500, 34.5833
+Teverya(Tiberias), 32.7833, 35.5333
+Tiberias > Teverya, 32.7833, 35.5333
+Tirat Karmel, 32.7667, 34.9667
+Tirat Zevi, 32.4167, 35.5333
+Tubas, 32.3167, 35.3667
+Tulkarm, 32.3167, 35.0333
+Umm el Fahm, 32.5167, 35.1500
+Yad Mordekhay, 31.5833, 34.5667
+Yafa, 32.6833, 35.2833
+Yafo > Tel Aviv-Yafo, 32.0667, 34.7667
+Yagur, 32.7333, 35.0667
+Yattah, 31.4500, 35.0833
+Yavne, 31.8833, 34.7500
+Ya‘Bad, 32.4500, 35.1667
+Yebnah, 31.8667, 34.7500
+Yehud, 32.0333, 34.8833
+Yeroham, 31.0000, 34.9167
+Yerushalayim(Ai-Quds)(Jerusalem), 31.7667, 35.2333
+Yesud HaMa‘ala, 33.0500, 35.6000
+Yirka, 32.9500, 35.2167
+Yizre‘el, 32.5500, 35.3333
+Yoqne‘am, 32.6500, 35.1167
+Yotvata, 29.8833, 35.0500
+Zefat(Safad), 32.9667, 35.5000
+Zikhron Ya‘aqov, 32.5667, 34.9500
+Zippori, 32.7500, 35.2833
+Zohar, 31.6000, 34.7000
+‘Afula, 32.6000, 35.2833
+‘Afula ‘Illit, 32.6333, 35.3333
+‘Akko(Acre), 32.9167, 35.0833
+‘Anabta, 32.3167, 35.1167
+‘Anata, 31.8167, 35.2667
+‘Arad, 31.2500, 35.2167
+‘Atlit, 32.6833, 34.9333
+‘Attil, 32.3667, 35.0667
+‘Azzun, 32.1833, 35.0500
+‘En Dor, 32.6500, 35.4167
+‘En Gedi, 31.4500, 35.3833
+‘En Gev, 32.7833, 35.6333
+‘En Harod, 32.5500, 35.3833
+‘En HaShofet, 32.5833, 35.1000
+‘En Netafim, 29.5833, 34.8833
+‘En Yahav, 30.6333, 35.1833
+‘Evron, 32.9833, 35.1000
+‘Isfiya, 32.7167, 35.0667

@@ -1,0 +1,100 @@
+Hadera, 32.4333, 34.9167
+HaGosherim, 33.2167, 35.6167
+Haifa > Hefa, 32.8167, 34.9833
+Halhul, 31.5833, 35.1167
+Hanita, 33.0833, 35.1667
+HaOn, 32.7167, 35.6333
+Hazerim, 31.2333, 34.7167
+Hazor, 32.9833, 35.5500
+Hebron > Al-Khalil, 31.5333, 35.1000
+Hefa(Haifa), 32.8167, 34.9833
+Helez, 31.5833, 34.6667
+Herzliyya, 32.1667, 34.8500
+Hod HaSharon, 32.1500, 34.8833
+Holon, 32.0167, 34.7667
+Hulda, 31.8333, 34.8833
+Huwwarah, 32.1500, 35.2500
+Idnah, 31.5667, 34.9833
+Iksal, 32.6833, 35.3167
+Jabalyah, 31.5333, 34.4833
+Jaffa > Tel Aviv-Yafo, 32.0667, 34.7667
+Jaffa Tel Aviv > Tel Aviv-Yafo, 32.0667, 34.7667
+Janin, 32.4667, 35.3000
+Jatt(Tel Gat), 32.4000, 35.0333
+Jemmain, 32.1333, 35.4500
+Jericho > Ariha, 31.8667, 35.4500
+Jerusalem > Yerushalayim, 31.7667, 35.2333
+Jish(Gush Halav), 33.0333, 35.4500
+Juwayzah, 33.0333, 35.8500
+Kabberi, 33.0167, 35.1500
+Kafr Kanna, 32.7500, 35.3333
+Kafr Naffakh, 33.0667, 35.7333
+Kafr Yasif, 32.9500, 35.1667
+Kaisariye, 32.5000, 34.9000
+Karkur, 32.4667, 35.0000
+Karmi'el, 32.9167, 35.3000
+Karmiyya, 31.6000, 34.5500
+Kefar Blum, 33.1667, 35.6000
+Kefar Sava, 32.1667, 34.9000
+Kefar Shammay, 32.9500, 35.4500
+Kefar Syrkin, 32.0667, 34.9333
+Kefar Szold, 33.1833, 35.6500
+Kefar Vitkin, 32.3833, 34.8833
+Kefar Warburg, 31.7167, 34.7333
+Kefar ‘Azza, 31.4833, 34.5333
+Kefar ‘Eqron, 31.8500, 34.8167
+Kerem Maharal, 32.6500, 34.9833
+Khan Yunus, 31.3500, 34.3167
+Kharbata, 31.9500, 35.0667
+Khirbat Abu Qashtah, 31.2667, 34.2667
+Khisfin, 32.8500, 35.8167
+Kifar ‘Asyun, 31.6500, 35.1333
+Kinneret, 32.7167, 35.5500
+Kokhav, 31.6333, 34.6667
+Lakhish, 31.5667, 34.8500
+Liman, 33.0500, 35.1000
+Lod(Lydda), 31.9667, 34.9000
+Lydda > Lod, 31.9667, 34.9000
+Maghar, 32.8833, 35.4000
+Magén, 31.3000, 34.4333
+Majd al-Kurum, 32.9167, 35.2500
+Makhfar al-Quwayrah, 29.8000, 35.3167
+Mansurah, 33.1333, 35.8000
+Mash'abbe Sade, 31.0000, 34.7833
+Mashhad, 32.7333, 35.3167
+Mas‘Adah(Cæsarea Philippi), 33.2333, 35.7500
+Maythalun, 32.3500, 35.2667
+Mazra'ih, 32.9833, 35.1000
+Ma‘Alot-Tarshiha, 33.0167, 35.2833
+Ma‘barot, 32.3667, 34.9000
+Merhavya, 32.6000, 35.3167
+Meron, 32.9833, 35.4333
+Metulla, 33.2667, 35.5833
+Migdal, 32.8333, 35.5000
+Migdal Ha‘Emeq, 32.6833, 35.2500
+Mishmar HaNegev, 31.3500, 34.7167
+Mishmar HaYarden, 33.0000, 35.6000
+Mizpe Ramon, 30.6000, 34.8000
+Montefiore, 31.7833, 35.1833
+Moza, 31.7833, 35.1500
+Mughr, 33.0833, 35.7167
+Mukhmas, 31.8667, 35.2833
+Musmus, 32.5333, 35.1500
+Nabulus, 32.2167, 35.2667
+Nahal ‘Oz, 31.4667, 34.5000
+Nahalal, 32.6833, 35.2000
+Nahariyya, 33.0000, 35.0833
+Nahf, 32.9333, 35.3167
+Nazareth > Nazerat, 32.7000, 35.3000
+Nazerat(Nazareth), 32.7000, 35.3000
+Nazerat ‘Illit, 32.7000, 35.3167
+Negba, 31.6667, 34.6833
+Nein, 32.6333, 35.3500
+Nes Ziyyona, 31.9167, 34.8000
+Nesher, 32.7667, 35.0500
+Netanya, 32.3333, 34.8500
+Nifi Ya‘Qub, 31.8333, 35.2333
+Nirim, 31.3333, 34.4000
+Nir‘am, 31.5167, 34.5833
+Nizzanim, 31.7167, 34.6333
+Nordiyya, 32.3167, 34.9000
