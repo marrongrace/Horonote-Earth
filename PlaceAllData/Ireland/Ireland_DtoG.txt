@@ -1,0 +1,86 @@
+Daingean, 53.3000, -7.2833
+Dalkey, 53.2667, -6.1000
+Delvin, 53.6000, -7.0833
+Derrybrien, 53.0667, -8.6000
+Dingle, 52.1333, -10.2500
+Donegal, 54.6500, -8.1167
+Doneraile, 52.2167, -8.5833
+Donoughmore, 51.9500, -8.7500
+Dooagh, 53.9833, -10.1500
+Doonbeg, 52.7333, -9.5333
+Drimoleague, 51.6333, -9.2333
+Drogheda, 53.7167, -6.3500
+Droichead Nua, 53.1833, -6.8000
+Droichead Átha > Drogheda, 53.7167, -6.3500
+Dromahair, 54.2333, -8.3167
+Dromcolliher, 52.3333, -8.9000
+Dromod, 53.8500, -7.9167
+Dromore West, 54.2500, -8.8833
+Drumcliffe, 54.3333, -8.5000
+Drumlish, 53.8000, -7.7667
+Drumshanbo, 54.0333, -8.0333
+Dublin(Balie Átha Cliath), 53.3333, -6.2500
+Dugort, 54.0167, -10.0167
+Duleek, 53.6500, -6.4167
+Duncormick, 52.2333, -6.6500
+Dundalk, 54.0167, -6.4167
+Dundrum, 53.2833, -6.2500
+Dunfanaghy, 55.1833, -7.9833
+Dungarvan, 52.0833, -7.6167
+Dungloe, 54.9500, -8.3667
+Dunkerrin, 52.9167, -7.9167
+Dunkineely, 54.6333, -8.3833
+Dunlavin, 53.0333, -6.6833
+Dunleary > Dún Kaoghaire, 53.2833, -6.1333
+Dunleer, 53.8333, -6.4000
+Dunmanway, 51.7167, -9.1000
+Dunmore, 53.6000, -8.7667
+Dunmore East, 52.1500, -7.0000
+Durris, 51.6000, -9.5167
+Durrow, 52.8333, -7.3667
+Dún Dealgan > Dundalk, 54.0167, -6.4167
+Dún Laoghaire, 53.2833, -6.1333
+Easky, 54.3000, -8.9667
+Edenderry, 53.3500, -7.0500
+Edgeworthstown, 53.7000, -7.6000
+Elphin, 53.8500, -8.2000
+Emyvale, 54.3333, -6.9833
+Ennis, 52.8333, -8.9833
+Enniscorthy, 52.5000, -6.5667
+Ennistymon, 52.9500, -9.2500
+Eyrecourt, 53.1833, -8.1167
+Fahan, 55.0833, -7.4667
+Ferbane, 53.2500, -7.8167
+Fermoy, 52.1333, -8.2667
+Ferns, 52.5833, -6.5167
+Fethard, 52.4500, -7.6833
+Fintown, 54.8667, -8.1333
+Foxford, 53.9667, -9.1333
+Foynes, 52.6167, -9.1000
+Freemount, 52.2667, -8.8833
+Frenchpark, 53.8667, -8.4333
+Freshford, 52.7167, -7.4000
+Gallimh > Galway, 53.2667, -9.0500
+Galway, 53.2667, -9.0500
+Glenamaddy, 53.6167, -8.5833
+Glenamoy, 54.2333, -9.7000
+Glenbeigh, 52.0333, -9.9667
+Glencolumbkille, 54.7167, -8.7500
+Glendowan, 54.9667, -7.9500
+Glenealy, 52.9500, -6.1833
+Glenfarne, 54.2833, -7.9833
+Glengarriff, 51.7500, -9.5500
+Glenties, 54.7833, -8.2833
+Glenville, 52.0500, -8.4333
+Glin, 52.5667, -9.2833
+Golden, 52.4833, -7.9667
+Goleen, 51.4667, -9.7167
+Gorey, 52.6667, -6.3000
+Gort, 53.0667, -8.8333
+Gortahork, 55.1333, -8.1500
+Granard, 53.7833, -7.5000
+Greencastle, 55.2000, -6.9833
+Grenagh, 52.0000, -8.6167
+Greystones, 53.1500, -6.0667
+Gweedore, 55.0500, -8.2333
+Gweesalla, 54.1167, -9.9000

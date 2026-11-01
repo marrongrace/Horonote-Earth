@@ -1,0 +1,128 @@
+Hacketstown, 52.8667, -6.5500
+Headford, 53.4667, -9.0833
+Hollywood, 53.1000, -6.5833
+Holycross, 52.6333, -7.8667
+Hospital, 52.4833, -8.4167
+Howth, 53.3833, -6.0667
+Inch, 52.1333, -9.9833
+Inistioge, 52.4833, -7.0667
+Inniscrone, 54.2000, -9.1000
+Jamestown, 53.9167, -8.0333
+Kanturk, 52.1667, -8.9167
+Kells > Ceanannus Mór, 53.7333, -6.8833
+Kenmare, 51.8833, -9.5833
+Kilbaha, 52.5500, -9.8667
+Kilbeggan, 53.3667, -7.4833
+Kilcar, 54.6333, -8.5833
+Kilchreest, 53.1667, -8.6333
+Kilcolgan, 53.2167, -8.8667
+Kilconnell, 53.3333, -8.4167
+Kilcormac, 53.1667, -7.7167
+Kilcullen, 53.1333, -6.7500
+Kildare, 53.1667, -6.9167
+Kildorrery, 52.2333, -8.4333
+Kildysart, 52.6833, -9.1000
+Kilfenora, 52.9833, -9.2167
+Kilfinane, 52.3500, -8.4667
+Kilgarvan, 51.7500, -9.4333
+Kilkee, 52.6833, -9.6333
+Kilkelly, 53.8833, -8.8500
+Kilkenny, 52.6500, -7.2500
+Kilkerrin, 53.5500, -8.5667
+Kilkieran, 53.3167, -9.7167
+Killadoon, 53.7000, -9.9333
+Killala, 54.2167, -9.2167
+Killaloe, 52.8000, -8.4500
+Killarney, 52.0500, -9.5000
+Killashandra, 54.0000, -7.5333
+Killavally, 53.7500, -9.3833
+Killenaule, 52.5667, -7.6667
+Killimor, 53.1667, -8.2833
+Killorglin, 52.1000, -9.7833
+Killucan, 53.5167, -7.1167
+Killybegs, 54.6333, -8.4500
+Kilmacthomas, 52.2000, -7.4167
+Kilmaine, 53.5667, -9.1500
+Kilmallock, 52.3833, -8.5667
+Kilnaleck, 53.8667, -7.3167
+Kilrush, 52.6500, -9.5000
+Kiltealy, 52.5667, -6.7500
+Kiltimagh, 53.8500, -9.0167
+Kiltoom, 53.4667, -8.0167
+Kingscourt, 53.8833, -6.8000
+Kingstown > Dún Laoghaire, 53.2833, -6.1333
+Kinnegad, 53.4333, -7.0833
+Kinsale, 51.7000, -8.5333
+Kinvara, 53.1333, -8.9167
+Knock, 52.6333, -9.3333
+Knocklong, 52.4333, -8.4000
+Laghy, 54.6167, -8.0833
+Leenaun, 53.6000, -9.7500
+Leighlinbridge, 52.7333, -6.9833
+Leitrim, 54.0000, -8.0667
+Letterfrack, 53.5500, -10.0000
+Letterkenny, 54.9500, -7.7333
+Lettermullen, 53.2167, -9.7000
+Lifford, 54.8333, -7.4833
+Limerick, 52.6667, -8.6333
+Liscarney, 53.7167, -9.5833
+Lisdoonvarna, 53.0167, -9.2500
+Lismore, 52.1333, -7.9167
+Listowel, 52.4500, -9.4833
+Loch Garman > Wexford, 52.3333, -6.4500
+Longford, 53.7333, -7.7833
+Loughrea, 53.2000, -8.5667
+Louisburgh, 53.7667, -9.8500
+Louth(Louth), 53.9500, -6.5500
+Louth(Meath), 53.6167, -6.8833
+Lucan, 53.3667, -6.4500
+Luimneach > Limerick, 52.6667, -8.6333
+Lusk, 53.5333, -6.1667
+Lyracrumpane, 52.3333, -9.5000
+Maam Cross, 53.4500, -9.5167
+Maas, 54.8333, -8.3667
+Macroom, 51.9000, -8.9500
+Malahide, 53.4500, -6.1500
+Malin, 55.3000, -7.2500
+Malin Beg, 54.6667, -8.8000
+Mallaranny, 53.9000, -9.8167
+Mallow, 52.1333, -8.6500
+Manorhamilton, 54.3000, -8.1667
+Maryborough > Portlaoghise, 53.0333, -7.2833
+Maynooth, 53.3833, -6.5833
+Midleton, 51.9167, -8.1667
+Millford, 55.1167, -7.7167
+Millstreet, 52.0500, -9.0667
+Miltown Malbay, 52.8333, -9.3833
+Mitchelstown, 52.2667, -8.2667
+Moate, 53.4000, -7.7167
+Mohill, 53.9000, -7.8667
+Monaghan, 54.2500, -6.9667
+Monamolin, 52.5500, -6.3333
+Monasterevin, 53.1167, -7.0333
+Moneygall, 52.8833, -7.9500
+Monívea, 53.3833, -8.7167
+Mount Bellew Bridge, 53.4667, -8.4833
+Mountmellick, 53.1167, -7.3333
+Mountrath, 53.0000, -7.4500
+Moville, 55.1833, -7.0500
+Moycullen, 53.3500, -9.1500
+Muine Bheag, 52.6833, -6.9667
+Mullagh, 53.8167, -6.9500
+Mullinahone, 52.5000, -7.5000
+Mullinavat, 52.3500, -7.1667
+Mullingar, 53.5333, -7.3333
+Naas, 53.2167, -6.6500
+Navan, 53.6500, -6.6833
+Nenagh, 52.8667, -8.2000
+New Inn, 52.4333, -7.8833
+New Ross, 52.4000, -6.9333
+Newbridge > Droichead Nua, 53.1833, -6.8000
+Newcastle, 52.2667, -7.8000
+Newcastle West, 52.4500, -9.0500
+Newcestown, 51.7833, -8.8500
+Newmarket, 52.2167, -9.0000
+Newmarket on Fergus, 52.7500, -8.8833
+Newport(Mayo), 53.8833, -9.5667
+Newport(Tipperary), 52.7000, -8.4000
+Newtown Forbes, 53.7667, -7.8333
