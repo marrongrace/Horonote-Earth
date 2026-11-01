@@ -1,0 +1,95 @@
+Abu al-Khasib, 30.4500, 47.9833
+Ad-Diwaniyah, 31.9833, 44.9333
+Al-Basrah(Basra), 30.5000, 47.7833
+Al-Batha', 31.1000, 45.8833
+Al-Fallujah, 33.3333, 43.7667
+Al-Faw, 29.9667, 48.4833
+Al-Hadithah, 34.1167, 42.3833
+Al-Hadr, 35.5833, 42.7333
+Al-Halfayah, 31.8167, 47.4333
+Al-Hayy, 32.1667, 46.0500
+Al-Hillah, 32.4833, 44.4167
+Al-Hindiyah, 32.5500, 44.2167
+Al-Kazzimiyah, 33.3667, 44.3333
+Al-Khalis, 33.8167, 44.5333
+Al-Kifl, 32.2333, 44.3667
+Al-Kufah, 32.0333, 44.4000
+Al-Kut, 32.4167, 45.8167
+Al-Mawsil(Mosul), 36.3333, 43.1333
+Al-Ma‘aniyah, 30.7333, 43.0000
+Al-Musayyib, 32.7833, 44.3000
+Al-Qa'im, 34.3500, 41.1167
+Al-Qurnah, 31.0000, 47.4333
+Al-‘Amadiyah, 37.1000, 43.4833
+Al-‘Amarah, 31.8333, 47.1500
+Altun Kupri, 35.7500, 44.1500
+Amarah, 31.8333, 47.1500
+An-Najaf, 31.9833, 44.3333
+An-Nasiriyah, 31.0333, 46.2667
+Ar-Ramadi, 33.4167, 43.2833
+Ar-Rumaythah, 31.5333, 45.2000
+Ar-Rutbah, 33.0333, 40.2833
+Arbil, 36.1833, 44.0167
+As-Salman, 30.5000, 44.5333
+As-Samawah, 31.3000, 45.2833
+As-Sa‘diyah, 34.1833, 45.1167
+As-Sulaymaniyah, 35.5500, 45.4333
+Ash-Shabakah, 30.8167, 43.6500
+Ash-Sharqat, 35.4500, 43.2667
+Ash-Shatrah, 31.4167, 46.1667
+Ash-Shinafiyah, 31.5833, 44.6500
+Az-Zubayr, 30.3833, 47.7167
+Babil(Babylon), 32.5500, 44.4333
+Babylon(Babil), 32.5500, 44.4333
+Bagdad > Baghdad, 33.3500, 44.4167
+Baghdad, 33.3500, 44.4167
+Balad, 34.0167, 44.1500
+Basra > Al-Basrah, 30.5000, 47.7833
+Ba‘qubah, 33.7500, 44.6333
+Dahuk, 36.8667, 43.0000
+Habaniya, 33.3833, 43.5667
+Halabjah, 35.1667, 45.9833
+Hillah, 32.5000, 44.4167
+Hit, 33.6333, 42.8167
+Irbil, 36.1833, 44.0167
+Jadidah, 34.0167, 42.4667
+Kadhimain > Al-Kazzimiyah, 33.3667, 44.3333
+Karbala', 32.6000, 44.0333
+Kerbela > Karbala', 32.6000, 44.0333
+Khan al-Baghdadi, 33.8500, 42.5500
+Khanaqin, 34.3500, 45.3667
+Kibasi, 30.5667, 47.8333
+Kifri, 34.7000, 44.9667
+Kirkuk, 35.4667, 44.4000
+Kut al-Imara, 32.5000, 45.8333
+Kuysanjaq, 36.0833, 44.6333
+Mandali, 33.7500, 45.5333
+Mosul > Al-Mawsil, 36.3333, 43.1333
+Nasiriyah, 31.0333, 46.2667
+Nukhayb, 32.0333, 42.2500
+Qal‘at Salih, 31.5167, 47.2667
+Qal‘at Sukkar, 31.8500, 46.0833
+Ramadi, 34.2000, 43.9000
+Raniyah, 36.2500, 44.8833
+Rawah, 34.4667, 41.9167
+Rawanduz, 36.6167, 44.5167
+Safwan, 30.1167, 47.7167
+Samarra', 34.2000, 43.8667
+Shahraban, 33.9667, 44.9833
+Shaykh Sa‘d, 32.5667, 46.2833
+Shithathah, 32.5500, 43.4833
+Sinjar, 36.3167, 41.8667
+Sulaymaniyah, 35.5500, 45.4333
+Suq ash-Shuyukh, 30.8833, 46.4667
+Tall Kayf, 36.4833, 43.1333
+Tall ‘Afar, 36.3667, 42.4500
+Taqtaq, 35.8833, 44.5833
+Tawuq, 35.1333, 44.4500
+Tikrit, 34.6000, 43.7000
+Tukayyid, 29.7833, 45.6000
+Tuz Khurmatu, 34.8833, 44.6333
+Zakhuz, 37.1333, 42.6833
+‘Afak, 32.0667, 45.2500
+‘Ali al-Gharbi, 32.4500, 46.6833
+‘Anah, 34.4667, 41.9333
+‘Aqrah, 36.7500, 43.9000
