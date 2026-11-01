@@ -1,0 +1,37 @@
+Albert Town, 18.2833, -77.5500
+Alligator Pond, 17.8667, -77.5667
+Annotto Bay, 18.2667, -76.7667
+Black River, 18.0167, -77.8500
+Browns Town, 18.4000, -77.3667
+Chapelton, 18.0833, -77.2667
+Christiana, 18.1667, -77.4833
+Clark's Town, 18.4167, -77.5667
+Duncans, 18.4667, -77.5333
+Ewarton, 18.1833, -77.0833
+Falmouth, 18.5000, -77.6500
+Four Paths, 17.9667, -77.3000
+Frankfield, 18.1500, -77.3667
+Half Way Tree, 18.0167, -76.8000
+Kingston, 18.0000, -76.8000
+Linstead, 18.1333, -77.0333
+Lionel Town, 17.8000, -77.2333
+Little London, 18.2500, -78.2167
+Lucea, 18.4500, -78.1667
+Manchioneal, 18.0333, -76.2833
+Mandeville, 18.0333, -77.5000
+May Pen, 17.9667, -77.2333
+Montego Bay, 18.4667, -77.9167
+Montpelier, 18.3667, -77.9333
+Morant Bay, 17.8833, -76.4167
+Ocho Rios, 18.4167, -77.1167
+Old Harbour, 17.9333, -77.1167
+Port Antonio, 18.1833, -76.4667
+Port Maria, 18.3667, -76.9000
+Port Morant, 17.9000, -76.3167
+Port Royal, 17.9333, -76.8500
+Porus, 18.0333, -77.4167
+Savanna-la-Mar, 18.2167, -78.1333
+Spanish Town, 17.9833, -76.9500
+St Ann's Bay, 18.4333, -77.1333
+Whithorn, 18.2500, -78.0333
+Williamsfield, 17.9333, -77.7667
