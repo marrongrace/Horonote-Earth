@@ -38,7 +38,7 @@ GLOBAL_COUNTRIES = [
     "Greenland", "Grenada", "Guadeloupe", "Guam", "Guatemala", "Guernsey", "Guinea", "Guinea-Bissau", "Guyana", "Haiti",
     "Hawaii", "Honduras", "Hungary", "Iceland", "Idaho", "Illinois", "India", "Indiana", "Indonesia", "Iowa",
     "Iran", "Iraq", "Ireland", "Isle of Man", "Israel", "Italy", "Ivory Coast", "Jamaica",  "Japan", "Jersey",
-    "Jordan", "Kansas", "Kazakhstan", "Kentucky", "Kenya", "Kiribati", "Kuwait", "Kyrgyzstan", "Laos", "Latvia",
+    "Jordan", "Kansas", "Kazakhstan", "Kentucky", "Kenya", "Kiribati", "Korea, North", "Korea, South", "Kuwait", "Kyrgyzstan", "Laos", "Latvia",
     "Lebanon", "Lesotho", "Liberia", "Libya", "Liechtenstein", "Lithuania", "Louisiana", "Luxembourg", "Madagascar",
     "Maine", "Malawi", "Malaysia", "Maldives", "Mali", "Malta", "Marshall Islands", "Martinique", "Maryland", "Massachusetts",
     "Mauritania", "Mauritius", "Mayotte", "Mexico", "Michigan", "Micronesia", "Midway Islands", "Minnesota", "Mississippi", "Missouri",
