@@ -1,0 +1,181 @@
+Abaj, 49.6333, 72.8667
+Acisaj, 43.5833, 68.8833
+Agacag, 44.0500, 71.9667
+Agadyr', 48.2833, 72.8833
+Ajaguz, 47.9333, 80.3833
+Ajbas, 47.8500, 49.6167
+Ajdabul', 52.7000, 68.9833
+Ajdarly, 44.5333, 65.8333
+Ajryk, 50.5000, 76.8000
+Ajsary, 53.3000, 71.8667
+Akbeit, 51.6333, 70.0333
+Akbulak, 49.4333, 80.4667
+Akcatau, 47.9833, 74.0333
+Akci, 44.0000, 76.3333
+Akdala, 45.0333, 74.5833
+Akespe, 46.8000, 60.5167
+Akkense, 46.8167, 68.3333
+Akkol'(Almaty), 45.0333, 75.6667
+Akkol'(Zhambyl), 43.4167, 70.7833
+Akkol'skij, 52.2000, 75.0833
+Akoba, 49.4667, 47.4167
+Aksaj, 51.1500, 53.0000
+Aksatau, 49.3833, 54.6000
+Aksu(Aqmola), 52.4667, 71.9833
+Aksu(Almaty), 45.6167, 79.5000
+Aksu(Batys Qazaqstan), 50.9333, 53.1000
+Aksuat(Kurchum,Shyghys Qazaqstan), 48.2667, 83.8333
+Aksuat(Aksuat Dist.,Shyghys Qazaqstan), 47.7500, 82.6667
+Aksuat(Qostanay), 51.5333, 64.5667
+Akt'ubinsk, 50.2833, 57.1667
+Aktas(Qaraghandy City,Qaraghandy), 49.7833, 72.9833
+Aktas(Ulutau Dist.,Qaraghandy), 48.0333, 66.3500
+Aktas(Ongtustik Qazaqstan), 42.9500, 70.0667
+Aktasty, 50.7333, 61.7167
+Aktau, 50.2667, 73.0333
+Akterek, 43.3667, 75.3000
+Aktobe, 43.2167, 67.7667
+Aktogaj(Almaty), 44.4500, 76.7000
+Aktogaj(Qaraghandy), 48.3000, 74.9667
+Aktogaj(Shyghys Qazaqstan), 46.9500, 79.6667
+Aktubek, 48.6167, 71.1000
+Aktumsyk, 46.6667, 57.3167
+Akyr-T'ube, 42.9833, 72.1167
+Akzal(Shyghys Qazaqstan), 49.2167, 81.4167
+Akzal(Qaraghandy), 47.7833, 74.0333
+Akzar(Shyghys Qazaqstan), 47.5833, 83.7000
+Akzar(Zhambyl), 43.1333, 71.6333
+Akzaryk, 48.5667, 75.5000
+Akšsij, 47.6167, 55.9333
+Aleksandrovka(Almaty), 43.4500, 77.3333
+Aleksandrovka(Batys Qazaqstan), 50.7833, 52.9833
+Aleksandrovka(Soltustik Qazaqstan), 53.1167, 69.8333
+Aleksejevka(Aqloma), 51.9833, 70.9833
+Aleksejevka(Batys Qazaqstan), 50.9667, 52.4167
+Aleksejevka(Katon-Karagay,Shyghys Qazaqstan), 48.4167, 85.6667
+Aleksejevka(Ayagoz,Shyghys Qazaqstan), 47.2667, 81.5667
+Aleksejevka(Soltustik Qazaqstan), 53.5167, 69.5000
+Alga, 49.7667, 57.3333
+Algabas(Almaty), 44.6833, 78.1000
+Algabas(Shyghys Qazaqstan), 48.3500, 81.6500
+Algabas(Batys Qazaqstan), 50.6500, 52.1167
+Almaty(Alma-Ata), 43.2500, 76.9500
+Altykarasu, 49.2000, 55.8667
+Altyntau, 44.1333, 68.0500
+Alypsatar, 48.0500, 80.3500
+Amangel'dy(Qostanay), 50.1667, 65.2167
+Amangel'dy(Aqtobe), 49.8667, 59.0000
+Amangel'dy(Zhambyl), 43.7167, 71.1167
+Amanotkel', 46.1167, 61.5667
+Amantogaj, 50.3667, 65.5500
+Anar, 50.6333, 72.4500
+Anarchaj, 44.0333, 75.2500
+Andrejevka(Soltustik Qazaqstan), 52.9833, 67.3833
+Andrejevka(Almaty), 45.8333, 80.5833
+Ankata, 50.7333, 51.5667
+Antonovka(Soltustik Qazaqstan), 53.3167, 68.4333
+Antonovka(Almaty), 45.6333, 80.2500
+Antonovo, 49.3833, 51.7833
+Aqtau, 43.6333, 51.1500
+Aral'sk, 46.8000, 61.6667
+Araldy, 44.3000, 50.4000
+Aralsul'fat, 46.8333, 61.9667
+Arkalyk, 50.2167, 66.8333
+Arys', 42.4333, 68.8000
+Astana(Almolinsk), 51.1667, 71.5000
+Astrachanka, 51.5500, 69.7833
+Asubulak, 49.5167, 83.0500
+Atabaj, 43.5000, 68.3333
+Atasu, 48.7000, 71.6333
+Atbasar, 51.8000, 68.3333
+Aterau(Gurjev), 47.1167, 51.9333
+Auezov, 49.7667, 81.6333
+Azgir, 47.8333, 47.9000
+Bachty, 46.6500, 82.7000
+Badam, 42.3833, 69.2500
+Bagara, 40.9167, 68.4333
+Bairkum, 42.0833, 68.1833
+Bajanaul, 50.7833, 75.7000
+Bajcunas, 47.2333, 52.9167
+Bajgakum, 44.3000, 66.4667
+Bajganin, 48.7167, 55.8833
+Bajgul, 48.8167, 49.1333
+Bajkadam, 43.7333, 69.9167
+Bajkonyr, 47.8333, 66.0500
+Bajnazar, 48.5333, 73.7000
+Bajseit, 43.5833, 78.3333
+Bajtajlak, 45.2500, 75.0000
+Bajzansaj, 43.2167, 69.9333
+Bakanas, 44.8333, 76.2500
+Bakbakty, 44.5833, 76.6667
+Bakyrcik, 49.7667, 81.6333
+Bakyrly, 44.3500, 67.8000
+Balchaš, 46.8167, 74.9833
+Balkašino, 52.5167, 68.7667
+Balykši, 47.0833, 51.9000
+Bannovka, 53.7500, 62.9500
+Barakkol'skij, 52.2000, 67.8167
+Baršatas, 48.2167, 78.3500
+Baršin, 49.7500, 69.6000
+Baskuduk, 49.7167, 61.5333
+Bataly, 52.8667, 62.0000
+Batamšinskij, 50.6000, 58.2667
+Bautino, 44.5500, 50.2500
+Bazartöbe, 49.3833, 51.8333
+Bazaršolan, 49.0667, 51.9333
+Bejneu, 45.2500, 55.1167
+Bel'agaš, 50.8000, 80.7333
+Belogorka, 50.7000, 53.4500
+Belogorskij, 49.4500, 83.1667
+Beloje, 48.9167, 82.9667
+Belousovka, 50.1333, 82.5500
+Belyje Vody, 42.4167, 69.8333
+Ber'ozovka, 51.1833, 53.2667
+Bercogur, 48.4167, 58.7333
+Berezino, 50.1000, 48.8667
+Bestamak, 49.2167, 78.3500
+Bestamak, 49.7167, 55.1167
+Bestöbe, 52.5000, 73.0833
+Birlik(Zhambyl), 44.0833, 73.5167
+Birlik(Atyrau), 47.4667, 50.5333
+Bitik, 50.1500, 50.5000
+Blagodarnoje, 47.0500, 82.1667
+Blagodatnoje, 51.3000, 72.8167
+Blagovešcenka, 54.3667, 66.9667
+Blagovešcenskoje, 43.3000, 74.2000
+Bogatyrëvo, 50.3667, 48.7667
+Bogembaj, 52.4833, 72.3333
+Boget, 49.6667, 47.9833
+Boko, 49.0833, 81.6333
+Bol'šaja Bukon', 48.8833, 82.7167
+Bol'šaja Curakovka, 53.0500, 64.3333
+Bol'šaja Damba, 46.9500, 51.7833
+Bol'šaja Vladimirovka, 50.8833, 79.5167
+Bol'šenarymskoje, 49.2667, 84.5333
+Bol'šoj Bukon', 48.8833, 82.7167
+Bol'šoj Ketmen', 43.4500, 80.4000
+Bol'šoj Šagan, 50.9500, 51.1333
+Bol'šoje Aksu, 43.3333, 79.5833
+Borodulicha, 50.7167, 80.9167
+Borovoje, 53.0667, 70.3167
+Borovskoj, 53.8000, 64.2000
+Bosaga, 47.9167, 72.9667
+Bostandyk, 49.6333, 48.9000
+Bozšakol', 51.8333, 74.3333
+Bratol'ubovka, 51.2167, 66.7667
+Brlik, 43.6667, 73.8167
+Bud'onnovka, 50.8667, 52.8000
+Budarino, 50.5167, 51.0667
+Bulajevo, 54.9000, 70.4333
+Buldurtinskij, 50.0833, 53.1833
+Buran, 48.0667, 85.2500
+Burankol', 46.2333, 54.2000
+Burkit, 47.0500, 50.7000
+Burli(Batys Qazaqstan), 51.4167, 52.7333
+Burli(Qostanay), 53.6000, 61.9167
+Burno-Okt'abr'skoje, 42.7000, 70.8167
+Burnoje, 42.6167, 70.7667
+Burundaj, 43.3833, 76.8500
+Buskul', 53.7500, 61.2000
+Buzuluk, 51.9167, 66.2667
+Bylkyldak, 48.6333, 75.2667

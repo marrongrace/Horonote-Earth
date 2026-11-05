@@ -1,0 +1,137 @@
+Cajan, 43.0333, 69.3833
+Capajev, 50.2000, 51.1667
+Capajevo, 50.2000, 51.1667
+Cardara, 41.2833, 67.9167
+Carsk, 49.5833, 81.0833
+Caryn, 43.7667, 79.4000
+Celinograd, 51.1667, 71.5000
+Celkar, 47.8333, 59.6000
+Cemolgan, 43.3833, 76.6167
+Cengel'dy, 41.8500, 68.9833
+Cerdojak, 48.8000, 84.0000
+Cernak, 43.4000, 68.0333
+Cernigovka, 50.4667, 71.4500
+Cernorecenskoje, 43.0000, 74.9167
+Changa, 44.4500, 50.6000
+Chantau, 44.2167, 73.8500
+Char'kin, 48.7667, 51.8167
+Cholmogorovka, 44.4167, 78.5167
+Chromtau, 50.2833, 58.4500
+Ciganak, 45.1000, 73.9667
+Ciili, 44.1667, 66.7500
+Cijen, 43.1333, 75.9167
+Cilik(Almaty), 43.6000, 78.2500
+Cilik(Batys Qazaqstan), 51.1167, 54.1167
+Cimkent, 42.3000, 69.6000
+Cistopolje, 52.5667, 67.2500
+Ciza Vtoraja, 50.8667, 49.6667
+Ckalovo, 53.6333, 70.4000
+Ckalovsk, 41.2500, 68.0000
+Cornoje, 51.7333, 77.5667
+Cornoreck, 52.7500, 76.6667
+Culak-Kurgan, 43.7667, 69.2000
+Cundza, 43.5333, 79.4667
+Darbaza, 41.5833, 69.0333
+Darjinskij, 49.0667, 72.9333
+Darjinskoje, 51.3333, 51.7333
+Degeres, 43.2333, 75.8167
+Demjanovka, 54.0667, 65.3667
+Denisovka, 52.4667, 61.7667
+Derkul, 51.2667, 51.3000
+Derzavinsk, 51.0500, 66.3167
+Derzavinskij, 51.0500, 66.3167
+Diirmentöbe, 45.7333, 63.6167
+Dmitrijevka, 43.5000, 77.0333
+Dmitrijevskij, 49.1333, 57.8333
+Dolinnyj, 51.2667, 52.1833
+Dolon, 50.6667, 79.3000
+Dossor, 47.5333, 53.0167
+Druzba, 45.2500, 82.4333
+Dubrovnoje, 54.8167, 68.1000
+Dubunskaja, 43.7667, 80.2167
+Dzalagaš, 45.0833, 64.6667
+Dzambejty, 50.2667, 52.5833
+Dzansugurov, 45.4000, 79.4833
+Dzanybek, 49.4167, 46.8500
+Dzerzinskoje, 45.8333, 81.1167
+Dzetygara, 52.1833, 61.2000
+Dzetysaj, 40.7833, 68.2667
+Dzezdy, 48.0667, 67.0833
+Dzezkazgan, 47.8833, 67.4500
+Dzilga, 41.7167, 69.0167
+Dzurun, 49.2500, 57.6167
+Dzusaly, 45.4667, 64.0833
+Ekibastuz, 51.7000, 75.3667
+Emba, 48.8333, 58.1333
+Eskiikan, 43.2000, 68.5167
+Espe, 43.8667, 74.1667
+F'odorovka, 51.1500, 51.9833
+F'odorovka, 53.3667, 76.3000
+Fabricnyj, 43.1833, 76.4000
+Fakejev, 48.9500, 49.9333
+Fetisovo, 42.7667, 52.6333
+Fogelevo, 42.0500, 69.5333
+Fort-Ševcenko, 44.5167, 50.2667
+Furmanovka, 44.2833, 72.9500
+Furmanovo, 49.7000, 49.4667
+Galkino, 52.2333, 78.3333
+Gan'uškino, 46.6000, 49.2667
+Georgijevka(Batys Qazaqstan), 42.1833, 70.0000
+Georgijevka(Pavlodar), 43.0500, 74.7167
+Georgijevka(Qostanay), 49.3167, 81.5833
+Glinkovo, 42.9167, 69.6667
+Glubokoje, 50.1000, 82.3167
+Golovacovka, 42.8667, 71.2167
+Golubovka, 53.1500, 74.2000
+Gornoje, 48.4833, 85.0000
+Gory, 48.6333, 51.7667
+Grabovo, 53.1167, 74.8667
+Granitogorsk, 42.7333, 73.4500
+Grodekovo, 42.8167, 71.4833
+Gul'šad, 46.6500, 74.4000
+Gurjev > Aterau, 47.1167, 51.9333
+Ilijsk, 43.8833, 77.1667
+Iljic, 40.8333, 68.4500
+Imantau, 52.9667, 68.3667
+Imeni Abaja, 50.7333, 69.5000
+Imeni Capajeva, 43.4667, 76.8333
+Imeni Dzambula(Qaraghandy), 47.7167, 74.1500
+Imeni Dzambula(Almaty), 45.4333, 74.4000
+Imeni Frunze, 46.3833, 77.3333
+Imeni Kalinina, 43.2667, 74.0500
+Imeni Kirova, 46.4500, 77.2167
+Imeni Leninskogo Komsomola, 50.7500, 66.7333
+Imeni Marta, 46.9500, 58.9667
+Imeni Panfilova, 43.3833, 77.1167
+Imeni Timir'azeva, 53.6500, 65.5167
+Imeni XXI Partsjezda, 50.7167, 67.8000
+Imeni Ševcenko, 45.9667, 61.0667
+Inderborskij, 48.5500, 51.7333
+Irgiz, 48.6167, 61.2667
+Irtyšsk, 53.3500, 75.4500
+Irubaj, 50.1833, 51.3500
+Iskininskij, 47.2167, 52.6833
+Issyk, 43.3667, 77.4667
+Izendy, 45.8000, 59.4667
+Išimka, 51.4000, 67.1333
+Jaisan, 50.8500, 56.2333
+Jajsan, 50.8500, 56.2333
+Jamanchalinka, 47.6667, 51.5833
+Janajkino, 50.7167, 51.1000
+Janvarcevo, 51.4333, 52.2500
+Jany-Kurgan, 43.9167, 67.2500
+Javlenka, 54.3500, 68.4500
+Jazovaja, 49.4500, 85.3333
+Jegindybulak(Shyghys Qazaqstan), 48.7000, 81.8000
+Jegindybulak(Qaraghandy), 49.7500, 76.3833
+Jekaterinovka, 54.6000, 70.9667
+Jekpindykurylys, 47.8167, 47.2833
+Jelizavetinka, 51.4667, 71.2000
+Jenbek, 48.8833, 77.2000
+Jermak, 52.0333, 76.9167
+Jermentau, 51.6333, 73.1667
+Jeršovka, 54.1167, 64.9833
+Jesensaj, 49.9000, 51.4667
+Jesil', 51.9667, 66.4000
+Jevgenjevka, 43.5167, 77.6667
+Juznyj, 49.3500, 73.0167
