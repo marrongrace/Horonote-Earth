@@ -1,0 +1,61 @@
+Abaokoro, 1.4833, 173.0333
+Abemama Island, 0.3500, 173.8500
+Apaiang, 1.9667, 172.8833
+Arorae Island, -3.6333, 176.8167
+Bairiki, 1.3333, 173.0167
+Banaba Island, -0.8667, 169.5833
+Banraeaba, 1.3333, 173.0333
+Banreaba, 1.3333, 173.0333
+Beru Island, -1.3333, 176.0000
+Betio, 1.3500, 172.9333
+Bikenibeu, 1.3500, 173.1167
+Birnie Island, -3.5833, -171.5167
+Bonriki, 1.3833, 173.1500
+Buakonikai, -0.8667, 169.6000
+Buariki, 1.6000, 172.9667
+Canton Island, -2.8333, -171.6833
+Caroline Atoll, -9.9667, -150.2167
+Christmas Island > Kiririmati, 1.8667, -157.3333
+Eita, 1.3500, 173.0833
+Enderbury Island, -3.1333, -171.0833
+Fanning Island, 3.8667, -159.3333
+Filippo Reef, -5.5000, -151.8333
+Flint Island, -11.4333, -151.8000
+Gardner Island, -4.6667, -174.5333
+Hull Isld, -4.4833, -172.1667
+Kiririmati(Christmas Island), 1.8667, -157.3333
+Kuria Island, 0.2333, -173.4167
+London, 1.9667, -157.4667
+Main Camp, 2.0167, -157.4167
+Makin Island, 3.1167, 172.8000
+Malden Island, -4.0500, -154.9833
+Maranenuka, 1.4833, 173.0333
+Merlin Seamount, -8.3333, -150.4167
+Nabeina, 1.4333, 173.0833
+Nikunau Island, -1.3833, 176.4333
+Nonouti Island, -0.6667, -174.3500
+Northside, -2.7833, -171.7167
+Nuatabu, 1.5500, 172.9833
+Ocean Island(Banaba), -0.8667, 169.5833
+Onotoa Island, -1.8667, 175.5667
+Ooma, -0.8833, 169.6000
+Paris, 1.9333, -157.4833
+Phoenix Island, -3.7167, -170.7167
+Poland, 1.9833, -157.5333
+Puakonikai, -0.8667, 169.6000
+Southside, -2.8167, -171.7167
+Starbuck Island, -5.6167, -155.8833
+Sydney Island, -4.4500, -171.2500
+Tabiang(Tawara Island), 1.4333, 173.1000
+Tabiang(Banaba Island), -0.8667, 169.5833
+Tabiteuea, 1.4167, 173.1167
+Tabiteuea Island, -1.3333, 174.8333
+Tamana Island, -2.4833, 175.9833
+Tapeteuea Island, -1.4833, 175.1833
+Tapiwa, -0.8667, 169.5833
+Taratai, 1.5333, 173.0000
+Tarawa Island, 1.4167, 173.0000
+Taritai, 1.5333, 173.0000
+Tearinibai, 1.5833, 172.9667
+Vostok Island, -10.1000, -152.3833
+Washington Island, 4.7167, -160.4000
