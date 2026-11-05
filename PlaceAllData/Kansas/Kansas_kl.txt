@@ -1,0 +1,195 @@
+Kackley, 39.7000, -97.8528
+Kalloch, 37.0333, -95.6167
+Kalvesta, 38.0594, -100.2858
+Kanbrick, 38.4728, -98.7769
+Kanco, 38.4722, -102.0589
+Kanona, 39.7967, -100.3894
+Kanopolis, 38.7111, -98.1569
+Kanorado, 39.3331, -102.0375
+Kansas City, 39.1142, -94.6272
+Kansas Falls, 38.9833, -96.9133
+Kansas Neurological Institute, 39.0278, -95.7153
+Kanwaka, 38.9731, -95.3725
+Kapioma, 39.4833, -95.5167
+Katy Hospital, 37.3431, -95.2831
+Keats, 39.2236, -96.7083
+Kechi, 37.7958, -97.2792
+Keeler, 37.6119, -97.2911
+Keelville, 37.0311, -94.9225
+Keene, 38.9575, -96.0389
+Keighley, 37.6725, -96.6425
+Kellogg, 37.2592, -97.1092
+Kelly, 39.7378, -96.0031
+Kelso, 38.7347, -96.5703
+Kenbro, 38.1286, -96.3394
+Kendall, 37.9347, -101.5456
+Kennekuk, 39.6444, -95.4986
+Kenneth, 38.8550, -94.6117
+Kensington, 39.7669, -99.0314
+Kentucky, 39.1167, -95.4167
+Key West, 38.3833, -95.7500
+Keystone, 38.4833, -100.8667
+Keysville, 38.1333, -99.4000
+Kickapoo, 39.3989, -94.9708
+Kickapoo Indian Reservation, 39.6667, -95.6667
+Kilbourns Corner, 38.1592, -98.3258
+Kill Creek, 39.3500, -98.8833
+Kimball, 37.6611, -95.1633
+Kimeo, 39.5958, -96.9944
+Kincaid, 38.0842, -95.1533
+King City, 38.3000, -97.6500
+Kingery, 39.2167, -101.2833
+Kingman, 37.6458, -98.1133
+Kings Gardens, 38.0667, -97.9500
+Kingsdown, 37.5250, -99.7583
+Kinsley, 37.9231, -99.4094
+Kiowa, 37.0172, -98.4850
+Kipp, 38.7839, -97.4542
+Kirkwood, 37.3708, -94.7222
+Kiro, 39.0969, -95.7975
+Kirwin, 39.6731, -99.1219
+Kismet, 37.2056, -100.7017
+Klendike, 37.3678, -94.7594
+Kniveton, 37.3383, -94.6431
+Kramer, 37.3603, -94.7297
+La Crosse, 38.5314, -99.3083
+La Cygne, 38.3500, -94.7611
+La Cygne Corner, 38.3456, -94.6778
+La Harpe, 37.9169, -95.2989
+Labette, 37.2306, -95.1833
+Lacey, 39.4500, -100.8833
+Lackmans, 38.9244, -94.7639
+Laclede, 39.3472, -96.2208
+Ladore, 37.4333, -95.3000
+Ladysmith, 39.2714, -97.1842
+Lafayette, 37.2500, -96.1500
+Lafontaine, 37.3992, -95.8450
+Laing, 39.7833, -100.7833
+Laird, 38.4475, -100.0542
+Lake City, 37.3533, -98.8206
+Lake Kohola, 38.5833, -96.3667
+Lake of the Forest, 39.0681, -94.8375
+Lake Quivira, 39.0667, -94.6833
+Lake Ridge, 39.1653, -95.4722
+Lake Shore(Jefferson), 39.2431, -95.4236
+Lake Shore(Ellsworth), 38.7167, -98.1500
+Lake Wabaunsee, 39.0167, -96.2833
+Lakeside Acres, 37.7189, -97.1903
+Lakeside Acres Addition, 37.7000, -97.2833
+Lakeside Village, 39.1753, -95.4211
+Lakeview Heights, 37.6694, -97.1350
+Lakin, 37.9406, -101.2544
+Lamar, 39.2561, -97.5744
+Lamont, 38.1125, -96.0264
+Lanark, 39.5167, -99.2167
+Lancaster, 39.5728, -95.3025
+Landergin, 37.7889, -96.3389
+Lane, 38.4397, -95.0819
+Laneville, 37.3328, -95.1264
+Lang, 38.4600, -96.0833
+Langdon(Crawford), 37.3531, -94.7053
+Langdon(Reno), 37.8539, -98.3242
+Langley, 38.5467, -97.9625
+Lanham, 40.0028, -96.8736
+Lansdowne, 37.6183, -97.8625
+Lansing, 39.2486, -94.9000
+Lapland, 37.9847, -96.3931
+Larkinburg, 39.4625, -95.5703
+Larned, 38.1806, -99.0983
+Larned State Hospital, 38.1728, -99.1500
+Larrabee, 38.7833, -100.2667
+Lasita, 39.4089, -96.9422
+Latham, 37.5361, -96.6417
+Latimer, 38.7389, -96.8453
+Laton, 39.2856, -99.0764
+Lawn, 37.2500, -98.3000
+Lawn Ridge, 39.6167, -101.7500
+Lawrence, 38.9717, -95.2350
+Lawton, 37.2219, -94.6358
+Layton, 37.0822, -96.4078
+Le Hunt, 37.2692, -95.7517
+Le Loup, 38.6953, -95.1597
+Le Roy, 38.0839, -95.6342
+Leanna, 37.7328, -95.3322
+Leavenworth, 39.3111, -94.9222
+Leawood, 38.9667, -94.6167
+Lebanon, 39.8097, -98.5553
+Lebo, 38.4167, -95.8528
+Lecompton, 39.0444, -95.3944
+Lees, 38.7333, -100.9167
+Lehigh, 38.3728, -97.3028
+Lenape, 38.9972, -94.9506
+Lenexa, 38.9536, -94.7333
+Lenora, 39.6106, -100.0022
+Lento, 38.6167, -94.8458
+Leon, 37.6903, -96.7819
+Leona, 39.7872, -95.3214
+Leonardville, 39.3644, -96.8586
+Leota, 39.7833, -100.0167
+Leoti, 38.4797, -101.3583
+Leoville, 39.5817, -100.4606
+Lerado, 37.7764, -98.2822
+Levant, 39.3856, -101.1944
+Lewis, 37.9361, -99.2522
+Lexington, 37.2939, -99.5992
+Liberal, 37.0431, -100.9206
+Liberty, 37.1556, -95.5944
+Liebenthal, 38.6550, -99.3189
+Lillis, 39.6097, -96.2958
+Limestone, 39.7833, -98.3167
+Lincoln, 39.0408, -98.1444
+Lincoln Center, 39.0500, -98.1500
+Lincolnville, 38.4933, -96.9597
+Linda, 39.8000, -101.0333
+Lindbloom Park, 38.9850, -95.6219
+Lindsborg, 38.5736, -97.6742
+Lindsey, 39.0936, -97.6778
+Linn, 39.6800, -97.0839
+Linwood, 39.0014, -95.0389
+Linwood Acres, 37.6814, -97.2019
+Litchfield, 37.4408, -94.6494
+Little Blue, 39.7833, -96.8667
+Little Caney, 37.0667, -96.0167
+Little Kaw, 39.0367, -94.9211
+Little River, 38.3981, -98.0117
+Little Valley, 38.2167, -97.8667
+Little Walnut, 37.6833, -96.7667
+Llanos, 39.4667, -101.4500
+Lockport, 37.5833, -100.7167
+Loda Center, 37.7778, -98.1917
+Logan, 39.6617, -99.5700
+Logan County Hospital, 39.1269, -100.8625
+Logansport, 38.8833, -101.0500
+Lola, 37.1667, -95.0167
+Loma Vista, 39.1639, -94.7892
+London, 37.4333, -97.4167
+Lone Elm(Anderson), 38.0800, -95.2431
+Lone Elm(Marshall), 39.9583, -96.6556
+Lone Oak, 37.4369, -94.7417
+Lone Star, 38.8667, -95.3550
+Long Island, 39.9494, -99.5356
+Longford, 39.1700, -97.3311
+Longton, 37.3778, -96.0806
+Lookout, 38.7500, -99.3667
+Lorena, 37.6939, -97.0836
+Loretta, 38.6536, -99.1803
+Loring, 39.0139, -94.9083
+Lorraine, 38.5689, -98.3164
+Lost Springs, 38.5661, -96.9661
+Louisburg, 38.6194, -94.6806
+Louisville, 39.2503, -96.3144
+Lovewell, 39.8653, -97.9814
+Lowe(Finney), 38.0331, -100.9922
+Lowe(Washington), 39.9500, -97.2000
+Lowell, 37.0486, -94.7014
+Lowemont, 39.3806, -95.0556
+Lucas, 39.0561, -98.5361
+Lucerne, 39.4967, -100.2000
+Ludell, 39.8556, -100.9594
+Lulu, 39.5167, -97.9833
+Luray, 39.1106, -98.6886
+Lydia, 38.2783, -101.2911
+Lyle, 39.9578, -100.2161
+Lyndon, 38.6100, -95.6842
+Lyona, 38.8619, -96.9256
+Lyons, 38.3450, -98.2014

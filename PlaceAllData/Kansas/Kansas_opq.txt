@@ -1,0 +1,192 @@
+O'Brien, 38.5133, -95.0278
+Oak, 39.8000, -98.5500
+Oak Hill, 39.2483, -97.3411
+Oak Mills, 39.4456, -95.0103
+Oak Valley, 37.3433, -96.0097
+Oakland, 39.0667, -95.6361
+Oaklawn, 37.6103, -97.2967
+Oakley, 39.1333, -100.8633
+Oatville, 37.6222, -97.3889
+Obeeville, 38.0575, -97.8486
+Oberlin, 39.8183, -100.5278
+Ocheltree, 38.7686, -94.8158
+Odee, 37.0833, -100.3500
+Odell, 37.2500, -97.8500
+Odense, 37.7031, -95.2517
+Odin, 38.5661, -98.6083
+Offerle, 37.8908, -99.5575
+Ogallah, 38.9914, -99.7319
+Ogden, 39.1111, -96.7058
+Oketo, 39.9636, -96.5994
+Olathe, 38.8814, -94.8189
+Olcott, 37.8000, -98.4333
+Olive, 39.8833, -100.4667
+Olivet, 38.4806, -95.7514
+Olmitz, 38.5167, -98.9361
+Olpe, 38.2625, -96.1667
+Olsburg, 39.4306, -96.6153
+Omnia, 37.4333, -96.7833
+Onaga, 39.4889, -96.1697
+Oneida, 39.8639, -95.9389
+Oneonta, 39.6500, -97.8833
+Ontario, 39.5667, -95.8819
+Opolis, 37.3444, -94.6208
+Orchard Park, 37.3583, -95.2758
+Orlando, 39.7833, -101.7000
+Oronoque, 39.7889, -100.0250
+Orsemus, 37.4978, -98.9364
+Orwell, 38.0156, -99.7153
+Osage City, 38.6339, -95.8256
+Osawatomie, 38.4972, -94.9503
+Osborn, 37.2667, -97.5333
+Osborne, 39.4389, -98.6944
+Osgood, 38.6578, -99.8439
+Oskaloosa, 39.2153, -95.3125
+Osro, 37.0658, -96.4358
+Ost, 37.8667, -97.6667
+Oswego, 37.1675, -95.1097
+Otego, 39.8272, -98.3469
+Otis, 38.5347, -99.0528
+Ottawa, 38.6156, -95.2675
+Ottawa Junction, 38.6342, -95.2694
+Otter, 37.1667, -96.5500
+Otter Creek, 37.6667, -96.3833
+Ottumwa, 38.2778, -95.7986
+Oursler, 38.2906, -96.9828
+Overbrook, 38.7806, -95.5569
+Overland, 38.8167, -96.8500
+Overland Park, 38.9822, -94.6706
+Owen, 36.9992, -95.9317
+Owl Creek, 37.8667, -95.5833
+Oxford, 37.2742, -97.1686
+Ozark, 38.0833, -95.3500
+Ozawkie, 39.2333, -95.4667
+Packers, 39.1000, -94.6667
+Padonia, 39.9233, -95.5625
+Page City, 39.0897, -101.1458
+Painterhood, 37.4833, -96.0500
+Palacky, 38.6500, -98.4333
+Palco, 39.2522, -99.5625
+Palermo, 39.7325, -94.9764
+Palestine, 37.3500, -97.2167
+Palmer, 37.6319, -97.1400
+Palmyra, 38.8167, -95.1667
+Paola, 38.5722, -94.8789
+Paradise, 39.1136, -98.9181
+Paris, 38.2167, -94.8167
+Park, 39.1125, -100.3583
+Park City, 37.8000, -97.3181
+Park East, 37.6842, -97.1694
+Park View Hospital, 39.1836, -96.5731
+Parker, 38.3283, -94.9917
+Parkerville, 38.7639, -96.6611
+Parnell(Atchison), 39.5064, -95.2064
+Parnell(Sheridan), 39.4333, -100.5000
+Parsons, 37.3403, -95.2608
+Parsons State Hospital, 37.3500, -95.2806
+Partridge, 37.9672, -98.0922
+Paton, 37.2161, -97.1769
+Patterson, 37.9433, -97.6547
+Pauline, 38.9633, -95.6903
+Paw Paw, 37.5667, -96.2333
+Pawnee Rock, 38.2653, -98.9806
+Pawnee Station, 37.7000, -94.7911
+Paxico, 39.0694, -96.1661
+Paxon, 37.5167, -98.6333
+Paxton(Logan), 38.7500, -101.1500
+Paxton(Harvey), 38.0139, -97.5917
+Peabody, 38.1694, -97.1064
+Pearl, 38.8517, -97.0439
+Peck, 37.4775, -97.3719
+Peck Addition, 39.0167, -95.6667
+Penalosa, 37.7167, -98.3194
+Pence, 38.6558, -101.0731
+Pendennis, 38.6394, -100.3361
+Penfield, 37.1628, -95.4078
+Penn, 39.4333, -98.6833
+Penokee, 39.3511, -99.9719
+Peoria, 38.5847, -95.1486
+Perry, 39.0758, -95.3931
+Perth, 37.1747, -97.5050
+Peru, 37.0886, -96.0944
+Peters, 37.5167, -98.3000
+Petersburg, 37.7758, -94.9792
+Peterson, 38.0325, -101.0667
+Peterton, 38.6736, -95.8167
+Petrolia, 37.7458, -95.4714
+Pfeifer, 38.7081, -99.1653
+Phillips Village, 38.7611, -97.6972
+Phillipsburg, 39.7561, -99.3236
+Pickrell Corner, 37.6792, -96.8439
+Piedmont, 37.6236, -96.3653
+Pierceville, 37.8783, -100.6764
+Pike, 38.3833, -96.2833
+Pillsbury Crossing, 39.1297, -96.4403
+Pilot Knob, 37.2500, -97.9667
+Pilsen, 38.4714, -97.0400
+Piper, 39.1431, -94.8611
+Piqua, 37.9228, -95.5350
+Pittsburg, 37.4108, -94.7047
+Pixley, 37.2519, -98.5133
+Plains, 37.2603, -100.5922
+Plainview, 39.6167, -99.4667
+Plainville, 39.2347, -99.2978
+Pleasant Grove, 38.8556, -95.2694
+Pleasant Hill, 38.8667, -99.4500
+Pleasant Ridge, 38.1333, -99.3000
+Pleasant View(Cherokee), 37.2833, -94.6667
+Pleasant View(Johnson), 38.8833, -94.8167
+Pleasantdale, 38.6333, -99.0833
+Pleasanton, 38.1778, -94.7111
+Plevna, 37.9722, -98.3083
+Plum, 39.7833, -99.1167
+Plum Creek, 39.5167, -98.1000
+Plum Grove, 37.9500, -96.9833
+Plumb, 38.8000, -96.0000
+Plymell, 37.8097, -100.8694
+Plymouth, 38.4139, -96.3319
+Polk, 37.5433, -94.7417
+Pollard, 38.4497, -98.2103
+Pomeroy, 39.1683, -94.7611
+Pomona, 38.6083, -95.4514
+Pontiac, 37.8175, -96.7158
+Port Williams, 39.4564, -95.0325
+Porter, 39.9333, -101.5500
+Porterville, 37.7181, -95.0686
+Portis, 39.5636, -98.6931
+Portland, 37.0778, -97.3119
+Potawatomi Indian Reservation, 39.3333, -95.8500
+Potosi, 38.1833, -94.6833
+Potter, 39.4258, -95.1417
+Potwin, 37.9389, -97.0194
+Powell, 37.3333, -99.1167
+Powhattan, 39.7617, -95.6297
+Prairie, 39.6167, -98.1000
+Prairie Center, 38.8622, -95.0194
+Prairie View, 39.8325, -99.5722
+Prairie View Hospital, 38.0414, -97.3128
+Prairie Village(Butler), 37.6994, -97.1378
+Prairie Village(Johnson), 38.9917, -94.6333
+Pratt, 37.6439, -98.7372
+Prescott, 38.0636, -94.6953
+Preston, 37.7589, -98.5528
+Pretty Prairie, 37.7800, -98.0194
+Princeton, 38.4889, -95.2750
+Prospect(Sedgwick), 37.6344, -97.4467
+Prospect(Butler), 37.8069, -96.7889
+Prospect Park, 37.6278, -97.4208
+Protection, 37.2014, -99.4836
+Providence Hospital, 39.1122, -94.6500
+Province Village, 38.8833, -94.8167
+Punkin Center, 38.0139, -97.7750
+Purcell(Doniphan), 39.6806, -95.3306
+Purcell(Sedgwick), 37.6111, -97.3569
+Putnam, 37.9689, -97.3875
+Quaker, 37.1317, -94.7583
+Quartzite, 39.0211, -98.0944
+Quenemo, 38.5797, -95.5267
+Quinby, 37.9883, -100.9283
+Quincy, 37.8819, -95.9925
+Quindaro, 39.1500, -94.7500
+Quinter, 39.0694, -100.2319
+Quivira Lake, 39.0403, -94.7764

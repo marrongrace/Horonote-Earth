@@ -1,0 +1,298 @@
+Abbyville, 37.9708, -98.2039
+Abilene, 38.9172, -97.2136
+Achilles, 39.7119, -100.8358
+Acme, 38.8425, -97.2606
+Ada, 39.1514, -97.8889
+Adams(Kingman), 37.5003, -97.9772
+Adams(Nehama), 39.7833, -95.9500
+Adams Corner, 38.0575, -98.0869
+Adamsville, 37.1733, -97.1761
+Adell, 39.5167, -100.2333
+Admire, 38.6411, -96.1028
+Adrian, 39.3500, -95.9833
+Aetna, 37.0839, -98.9625
+Afton, 37.6000, -97.6333
+Agency, 38.5667, -95.5500
+Agenda, 39.7078, -97.4314
+Agnes City, 38.6833, -96.2333
+Agra, 39.7617, -99.1189
+Agricola, 38.4194, -95.5347
+Aikins, 39.3681, -96.1161
+Aikman, 37.9897, -96.6806
+Airbase Spur, 38.3667, -98.7667
+Akron, 37.3517, -97.0147
+Alameda, 37.5611, -98.0611
+Alamota, 38.4611, -100.3097
+Alanthus, 38.7000, -100.1667
+Albano, 37.8833, -98.8667
+Albert, 38.4528, -99.0111
+Alcona, 39.4333, -99.5500
+Alcove Spring, 39.7608, -96.6778
+Alden, 38.2422, -98.3117
+Aldine, 39.9500, -99.9000
+Aleppo, 37.6667, -97.6833
+Alexander, 38.4694, -99.5528
+Alexandria, 39.2667, -95.1167
+Alfmil, 39.1319, -97.7219
+Aliceville, 38.1544, -95.5517
+Alida, 39.0958, -96.9400
+Allen, 38.6561, -96.1694
+Allendorph, 38.9928, -96.2708
+Allison, 39.5750, -100.2639
+Allodium, 39.5000, -100.1000
+Alma, 39.0167, -96.2889
+Almelo, 39.6000, -100.1167
+Almena, 39.8922, -99.7067
+Alta, 38.1333, -97.6500
+Alta Mills, 38.1178, -97.5917
+Alta Vista, 38.8639, -96.4889
+Altamont, 37.1903, -95.2969
+Alton, 39.4708, -98.9478
+Altoona, 37.5239, -95.6611
+Altory, 39.7833, -100.3500
+America City, 39.5736, -96.0317
+Americus, 38.5069, -96.2617
+Ames, 39.5694, -97.4417
+Amiot, 38.3472, -95.4875
+Amy, 38.4819, -100.6014
+Andale, 37.7906, -97.6292
+Andover, 37.7139, -97.1361
+Angelus, 39.1911, -100.6839
+Angola, 37.1056, -95.4492
+Anna, 37.7000, -94.7833
+Annelly, 37.9722, -97.2008
+Anness, 37.4819, -97.7283
+Anson, 37.3653, -97.5294
+Antelope, 38.4361, -96.9736
+Anthony, 37.1533, -98.0308
+Antioch, 38.7233, -94.9453
+Antonino, 38.7839, -99.3922
+Appanoose, 38.7000, -95.4667
+Appleton, 37.4000, -100.0833
+Arbor, 39.7000, -101.0167
+Arcade, 39.7833, -99.2333
+Arcadia, 37.6419, -94.6236
+Arcola, 38.7508, -97.9333
+Ardell, 37.9017, -99.4961
+Argentine, 39.0750, -94.6722
+Argonia, 37.2658, -97.7653
+Arion, 39.4833, -97.7667
+Arkalon, 37.1431, -100.8069
+Arkansas City, 37.0619, -97.0381
+Arlington, 37.8967, -98.1783
+Arma, 37.5439, -94.7000
+Arnold, 38.6403, -100.0458
+Arrington, 39.4628, -95.5361
+Arthur Heights, 37.7697, -97.2647
+Arvonia, 38.4806, -95.8694
+Ash Creek, 38.6500, -98.2000
+Ash Grove, 39.1614, -98.3617
+Ash Rock, 39.5167, -99.1000
+Ash Valley, 38.3050, -99.2161
+Asherville, 39.4058, -97.9767
+Ashland(Clark), 37.1886, -99.7653
+Ashland(Rilay), 39.2000, -96.5500
+Ashton, 37.0831, -97.2383
+Assaria, 38.6803, -97.6042
+Astor, 38.4728, -101.9025
+Atchison, 39.5631, -95.1214
+Athelstane, 39.1833, -97.2000
+Athens(Jewell), 39.6167, -98.3333
+Athens(Woodson), 37.9069, -95.6136
+Athol, 39.7650, -98.9192
+Atlanta, 37.4364, -96.7644
+Atlas, 37.3672, -94.7222
+Attica, 37.2414, -98.2264
+Atwood, 39.8067, -101.0417
+Aubry, 38.7708, -94.6708
+Auburn, 38.9061, -95.8158
+Augusta, 37.6867, -97.9764
+Augustine, 38.7500, -101.3667
+Aulne, 38.2761, -97.0764
+Aurora, 39.4519, -97.5269
+Aurora Park, 37.7333, -97.2833
+Avian, 37.0958, -95.6014
+Avilla, 37.0833, -99.3000
+Axtell, 39.8717, -96.2586
+Axtell Hospital, 38.0494, -97.3417
+B N Junction, 38.5617, -95.2711
+Bachelor, 37.8333, -96.1833
+Badger, 37.1583, -94.6325
+Baileyville, 39.8444, -96.1847
+Bain City, 39.2839, -94.9036
+Baker, 39.7542, -95.5628
+Bala, 39.3097, -96.9494
+Balderson, 39.9500, -96.5167
+Baldwin City, 38.7750, -95.1861
+Balta, 38.8847, -98.9153
+Bancroft, 39.6083, -95.9000
+Barber, 37.5678, -94.6483
+Barclay, 38.5772, -95.8800
+Barnard, 39.1906, -98.0417
+Barnes, 39.7119, -96.8742
+Barnesville, 38.0153, -94.6611
+Barret, 39.6708, -96.4500
+Barrett, 39.5167, -101.2833
+Bartlett, 37.0547, -95.2106
+Barton, 38.9939, -98.0772
+Basehor, 39.1417, -94.9383
+Basil, 37.5164, -98.0900
+Bassett, 37.9028, -95.4039
+Bassettville, 39.7000, -100.6833
+Batesville, 37.8361, -95.8703
+Battle Creek, 39.1833, -98.2167
+Battle Hill, 38.4833, -97.4167
+Bavaria, 38.7972, -97.7544
+Baxter Junction, 37.0286, -94.7461
+Baxter Springs, 37.0333, -94.7333
+Bayard, 38.0833, -95.2000
+Bayneville, 37.5542, -97.4436
+Bazaar, 38.2719, -96.5350
+Bazine, 38.4444, -99.6917
+Beagle, 38.4181, -94.9547
+Bear Creek, 37.8333, -101.9167
+Beardsley, 39.8144, -101.2272
+Beattie, 39.8611, -96.4194
+Beaumont, 37.6581, -96.5325
+Beaver, 38.6403, -98.6667
+Beckerville, 39.6097, -96.1636
+Beeler, 38.4444, -100.1944
+Beeson, 37.7500, -100.0167
+Bellaire(Sumner), 37.7625, -97.2667
+Bellaire(Rush), 39.7983, -98.6758
+Belle Plain, 39.7833, -99.8000
+Belle Plaine, 37.3939, -97.2808
+Belle Prairie, 38.4167, -99.5333
+Bellefont, 37.8725, -99.6575
+Belleville, 39.8244, -97.6322
+Bellview School, 38.7903, -95.9278
+Belmont(Kingman), 37.5236, -97.9889
+Belmont(Shawnee), 39.0472, -95.6333
+Beloit, 39.4561, -98.1058
+Belpre, 37.9500, -99.1000
+Belvidere, 37.4503, -99.0797
+Belvue, 39.2167, -96.1778
+Bendena, 39.7411, -95.1792
+Benedict, 37.6264, -95.7436
+Benedict Junction, 37.6103, -95.7708
+Benkelman, 39.6667, -101.9167
+Bennett, 37.4333, -97.8667
+Bennington, 39.0306, -97.5939
+Bentley, 37.8861, -97.5167
+Benton, 37.7889, -97.1083
+Berlin(Bourbon), 37.9214, -94.8958
+Berlin(Harper), 37.1667, -97.9500
+Bern, 39.9622, -95.9717
+Berryton, 38.9408, -95.6314
+Bert Wettar, 38.1914, -99.3681
+Berwet, 37.7856, -97.4833
+Berwick, 39.9333, -95.8444
+Bestwall, 39.7111, -96.6472
+Bethany, 39.5167, -98.6500
+Bethany Hospital, 39.1050, -94.6392
+Bethel, 39.1444, -94.7583
+Beto Junction, 38.4056, -95.6917
+Beulah, 37.4403, -94.8281
+Beverly, 39.0128, -97.9753
+Beverly Hills, 39.1578, -94.7350
+Big Bend, 39.9500, -97.8667
+Big Bow, 37.5650, -101.5611
+Big Springs, 39.0131, -95.4847
+Big Timber, 38.6333, -99.3167
+Bigelow, 39.6167, -96.5167
+Bird City, 39.7508, -101.5325
+Birmingham, 39.4092, -95.6822
+Bisbee, 38.0533, -96.1056
+Bismark Grove, 38.9847, -95.2097
+Bison, 38.5228, -99.1969
+Black Jack, 38.7678, -95.1156
+Black Wolf, 38.7583, -98.3617
+Blaine, 39.4967, -96.4028
+Blair, 39.7839, -95.0025
+Blake, 37.1675, -95.7569
+Blakely, 38.9167, -96.7667
+Blakeman, 39.8222, -101.1167
+Block, 38.5050, -94.8078
+Blodgett, 37.6256, -96.4628
+Bloom, 37.4864, -99.8958
+Bloomington(Osborne), 39.4517, -98.7867
+Bloomington(Butler), 37.5778, -96.8722
+Blue, 39.1833, -96.5500
+Blue Hill, 39.3069, -98.3633
+Blue Mound, 38.0900, -95.0061
+Blue Rapids, 39.6819, -96.6594
+Blue Valley, 39.4500, -96.6333
+Bluemont Hill, 39.1928, -96.5597
+Bluff City, 37.0764, -97.8747
+Bodaville, 39.7167, -96.8667
+Bogue, 39.3625, -99.6869
+Boicourt, 38.2708, -94.7200
+Bois d'Arc, 37.5964, -96.9250
+Bolton(Cowley), 37.0333, -97.0333
+Bolton(Montgomery), 37.1567, -95.8053
+Bonaville, 38.5500, -97.5333
+Bonita, 38.8111, -94.8144
+Bonner Springs, 39.0597, -94.8833
+Bonnie Brae, 37.6819, -97.2472
+Bonnie Ridge, 38.8333, -97.6000
+Booth Hospital, 37.7056, -97.3642
+Bosse, 38.0869, -99.8333
+Boyd, 38.5186, -98.8481
+Boyle, 39.3403, -95.3525
+Bradford, 38.8217, -96.0389
+Brainerd, 37.9511, -97.0950
+Brantford, 39.7122, -97.3594
+Brazilton, 37.5597, -94.9572
+Bremen, 39.9014, -96.7889
+Brenham, 37.6097, -99.2078
+Breton, 39.4525, -100.8136
+Brewer, 39.1244, -97.7875
+Brewster, 39.3667, -101.3764
+Bridgeport, 38.6278, -97.6128
+Broken Arrow Park, 38.9308, -95.2389
+Bronson, 37.8958, -95.0731
+Brookdale, 38.5333, -99.4167
+Brookhaven, 37.6958, -97.1544
+Brookhaven Estates, 37.6833, -97.3000
+Brookridge, 38.9667, -94.6833
+Brooks, 37.3847, -95.6025
+Brookville, 38.7750, -97.8681
+Broughton, 39.3214, -97.0531
+Brown, 37.3833, -99.8000
+Browndale, 39.3597, -97.3506
+Brownell, 38.6403, -99.7458
+Browns Creek, 39.6167, -98.2167
+Browns Grove, 38.2167, -99.5167
+Browns Spur, 37.6500, -98.1167
+Brownstone, 37.3328, -95.1939
+Brownville, 39.1861, -101.3531
+Bruno, 37.6833, -97.1000
+Bryant, 39.2000, -100.0667
+Buck Creek, 39.0500, -95.2819
+Buckeye, 39.0467, -97.1667
+Bucklin, 37.5472, -99.6339
+Bucyrus, 38.7264, -94.7181
+Buffalo, 37.7097, -95.6972
+Buffville, 37.4825, -95.6600
+Buhler, 38.1344, -97.7697
+Bunker Hill, 38.8758, -98.7036
+Burden, 37.3128, -96.7539
+Burdett, 38.1919, -99.5264
+Burdick, 38.5636, -96.8453
+Burkett, 38.0417, -96.2650
+Burlingame, 38.7553, -95.0022
+Burlington, 38.1944, -95.7425
+Burns, 38.0903, -96.8861
+Burntwood, 39.9333, -101.2667
+Burr Oak, 39.8661, -98.3047
+Burrton, 38.0239, -97.6694
+Busby, 37.4694, -96.0442
+Bush City, 38.2111, -95.1444
+Bushnell, 37.3617, -97.1597
+Bushong, 38.6431, -96.2569
+Bushton, 38.5125, -98.3950
+Butler, 37.6833, -99.4000
+Buttermilk, 37.1028, -99.3250
+Buxton, 37.4483, -95.9203
+Byers, 37.7875, -98.8667
+Byron, 38.2167, -98.6333

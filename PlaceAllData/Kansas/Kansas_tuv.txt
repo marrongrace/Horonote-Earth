@@ -1,0 +1,118 @@
+Tabor, 39.8569, -97.5167
+Talleyrand, 37.4167, -95.8000
+Talmage, 39.0250, -97.2603
+Talmo, 39.6958, -97.5878
+Taloga, 37.0667, -101.8833
+Tampa, 38.5472, -97.1528
+Tasco, 39.3542, -100.2908
+Taussig, 37.1056, -96.5703
+Tecumseh, 39.0481, -95.5789
+Ten Mile, 38.6833, -94.7500
+Tennis, 38.1633, -101.9106
+Terra Cotta, 38.7417, -97.9569
+Terra Heights, 38.9767, -95.6831
+Terry, 38.1833, -100.9667
+Tescott, 39.0081, -97.8753
+Teterville, 38.0431, -96.4203
+Thayer, 37.4931, -95.4700
+The Dell, 37.6750, -97.4611
+Thomas, 38.5667, -98.2000
+Thompsonville, 39.1056, -95.4333
+Thornburg, 39.9444, -98.7858
+Thrall, 38.0100, -96.3208
+Tice, 37.5161, -100.7264
+Tilden, 39.4500, -98.8167
+Timberhill, 37.9833, -94.8833
+Timken, 38.4736, -99.1778
+Tioga, 37.6833, -95.4667
+Tipton, 39.3431, -98.4706
+Tisdale, 37.2433, -96.8517
+Togo, 39.1833, -99.8658
+Toledo, 38.4222, -96.3708
+Tolerville, 37.7528, -97.2689
+Tonganoxie, 39.1097, -95.0875
+Tonovay, 37.8522, -96.1778
+Topeka, 39.0483, -95.6778
+Toronto, 37.7989, -95.9489
+Toulon, 38.8517, -99.2403
+Towanda, 37.7975, -96.9994
+Tower Grove, 39.0000, -94.6833
+Trading Post, 38.2486, -94.6806
+Traer, 39.9283, -100.6658
+Travel Air, 37.7333, -97.2667
+Treece, 37.0008, -94.8431
+Trego Center, 38.8856, -99.8914
+Trenton(Saline), 38.8869, -97.6489
+Trenton(Edwards), 37.8500, -99.5167
+Tresham, 37.1700, -97.0494
+Tribune, 38.4697, -101.7522
+Trinity Hospital, 37.7586, -100.0233
+Trivoli, 38.5833, -98.1000
+Trousdale, 37.8153, -99.0853
+Troy, 39.7831, -95.0897
+Turck, 37.2306, -94.8317
+Turkville, 39.1033, -99.2453
+Turner, 39.0833, -94.7042
+Turon, 37.8072, -98.4264
+Twin Grove, 37.6333, -96.2333
+Twin Mound, 39.2667, -99.2167
+Tyler, 37.6694, -97.4444
+Tyro, 37.0378, -95.8211
+Udall, 37.3875, -97.1139
+Ulysses, 37.5814, -101.3547
+Union Center, 37.5333, -96.4167
+Uniontown, 37.8472, -94.9750
+United States Army Hospital, 39.0833, -96.7722
+University, 38.9667, -95.2500
+University of Kansas Medical Center, 39.0556, -94.6103
+Upland(Dickinson), 39.0889, -97.0189
+Upland(Marshall), 39.8244, -96.5556
+Upola, 37.4167, -95.9983
+Urbana, 37.5581, -95.3992
+Ursula, 37.5167, -99.2667
+Utica, 38.6439, -100.1694
+Utopia, 37.8978, -96.2239
+V A Hospital, 39.0333, -95.6833
+Valeda, 37.0472, -95.4472
+Valencia, 39.0786, -95.8761
+Valley Brook, 38.6167, -95.6667
+Valley Center, 37.8347, -97.3731
+Valley Falls, 39.3433, -95.4600
+Valley View Convalescent Home, 37.8175, -96.8169
+Valverde, 37.1833, -97.2000
+Van Arsdale, 37.9992, -97.4267
+Vance, 38.1578, -95.0767
+Vanora, 37.7658, -96.8889
+Varner, 37.7189, -98.0361
+Vassar, 38.6472, -95.6222
+Vaughn, 38.3411, -99.2858
+Venango, 38.6389, -97.9861
+Vera, 39.0669, -96.0947
+Verdi, 38.9917, -97.5028
+Verdigris, 37.6833, -95.9167
+Vermillion, 39.7194, -96.2656
+Vernon(Woodson), 37.9806, -95.6567
+Vernon(Cowley), 37.2500, -97.1000
+Vesper, 39.0319, -98.2797
+Vesta, 37.2000, -99.9833
+Vicksburg, 39.7000, -97.9833
+Victor(Mitchell), 39.2481, -98.2836
+Victor(Osborne), 39.2667, -98.8833
+Victoria, 38.8528, -99.1472
+Victory Junction, 39.1289, -94.9011
+Vienna, 39.4333, -96.1667
+Vilas, 37.6542, -95.5861
+Vincent, 39.1917, -98.7194
+Vine Creek, 39.1181, -97.4156
+Vinewood, 39.1717, -94.7933
+Vining, 39.5669, -97.2950
+Vinita, 37.6000, -97.8667
+Vinland, 38.8394, -95.1819
+Vinton, 37.1056, -96.8250
+Viola, 37.4831, -97.6436
+Virgil, 37.9808, -96.0100
+Vliets, 39.7139, -96.3333
+Voda, 39.0492, -100.0194
+Volland, 38.9444, -96.4042
+Voltaire, 39.4833, -101.7167
+Voorhees, 37.0667, -101.4167

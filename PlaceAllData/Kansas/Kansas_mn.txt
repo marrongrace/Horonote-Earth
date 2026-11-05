@@ -1,0 +1,245 @@
+Mackie(Cherokee), 37.2519, -94.8500
+Mackie(Neosho), 38.5958, -97.8044
+Macon, 38.0500, -97.4333
+Macyville, 39.4817, -97.8161
+Madison, 38.1356, -96.1356
+Mahaska, 39.9875, -97.3539
+Mahon, 39.0378, -94.9458
+Maize, 37.7792, -96.4669
+Maltby, 39.2194, -94.8361
+Manchester, 39.0947, -97.3244
+Manhattan, 39.1836, -96.5714
+Mankato, 39.7872, -98.2097
+Manning, 38.5553, -100.7231
+Mansfield, 37.9228, -100.7667
+Manter, 37.5231, -101.8844
+Mantey, 38.0522, -94.8056
+Maple, 37.4333, -97.1000
+Maple City, 37.0558, -96.7681
+Maple Hill, 39.0847, -96.0278
+Mapleton, 38.0150, -94.8833
+Marena, 38.1667, -99.6833
+Marienthal, 38.4875, -101.2125
+Marietta, 39.9431, -96.6083
+Marion, 38.3483, -97.0169
+Marion County Lake, 38.3500, -97.0167
+Marketplace at Georgetown, 39.0000, -94.6833
+Marmaton, 37.8319, -94.8244
+Marquette, 38.5556, -97.8333
+Marydel, 38.9444, -97.7222
+Marysville, 39.8411, -96.6469
+Matfield, 38.1500, -96.5167
+Matfield Green, 38.1592, -96.5603
+Mathews Park, 38.9986, -95.6556
+May Day, 39.5333, -96.8833
+Mayetta, 39.3389, -95.7222
+Mayfield, 37.2583, -97.5444
+Mayline, 37.9600, -101.6600
+Maywood, 39.2261, -94.8444
+Mc Cune, 37.3547, -95.0164
+McAdoo, 37.4333, -98.8167
+McAllaster, 39.0061, -101.3911
+McCamish, 38.8167, -95.0167
+McClellan, 37.6833, -98.9500
+McConnell Air Force Base, 37.6264, -97.2681
+McCracken, 38.5806, -99.5708
+McDonald, 39.7858, -101.3753
+McFarland, 39.0528, -96.2375
+McGraw, 38.0119, -97.3681
+Mclains, 37.9994, -97.2628
+McLouth, 39.1958, -95.2081
+McPherson, 38.3708, -97.6639
+McVays Corner, 38.1589, -98.2519
+Meade, 37.2856, -100.3397
+Meadowview, 37.6897, -97.4272
+Mecca Acres, 37.6756, -97.1461
+Medford, 38.1167, -98.2000
+Medicine, 39.3500, -99.1167
+Medicine Lodge, 37.2811, -98.5800
+Medina, 39.0778, -95.4208
+Medora, 38.1489, -97.8453
+Medway, 38.0136, -101.8819
+Melrose, 37.0308, -94.9581
+Melvern, 38.5069, -95.6375
+Memorial Hospital(Douglas), 38.9775, -95.2478
+Memorial Hospital(Riley), 39.1917, -96.5900
+Memorial Hospital(Neosho), 37.6750, -95.4717
+Menlo, 39.3569, -100.7222
+Menno, 38.3000, -97.3167
+Menoken, 39.0908, -95.7556
+Mentor, 38.7406, -97.6028
+Mercier, 39.7083, -95.6014
+Mercy Hospital(Montgomery), 37.2250, -95.7167
+Mercy Hospital(Bourbon), 37.8306, -94.7153
+Meredith, 39.3500, -97.6500
+Meriden, 39.1889, -95.5694
+Meridian, 38.2167, -97.4333
+Merriam, 39.0236, -94.6933
+Merrick, 38.4028, -96.2444
+Mertilla, 37.3833, -100.4833
+Mertz, 37.5847, -94.6481
+Metcalf, 37.0672, -97.7839
+Michigan(Scott), 38.6333, -100.9000
+Michigan(Osage), 38.5833, -95.5333
+Michigan Valley, 38.6817, -95.5264
+Middle Creek, 38.5667, -94.7000
+Middletown, 37.7197, -95.8331
+Midian, 37.8103, -96.9528
+Midland(Douglas), 39.0283, -95.2419
+Midland(Sedgwick), 37.6139, -97.3350
+Midland Park, 37.5889, -97.3375
+Midland Tower, 37.6000, -97.3339
+Midway(Rawlins), 39.8292, -100.7772
+Midway(Crawford), 37.4492, -94.6308
+Midway(Ellsworth), 38.6094, -98.1539
+Midway(Kingman), 37.6617, -97.9356
+Midway(Butler), 37.6794, -97.1350
+Midway(Harper), 37.1525, -98.2475
+Mikesell, 39.7000, -101.1333
+Milan, 37.2597, -97.6736
+Milberger, 38.7119, -98.9119
+Mildred, 38.0236, -95.1708
+Milford, 39.1683, -96.9122
+Millard, 38.6381, -98.8833
+Millbrook(Graham), 39.3000, -99.8833
+Millbrook(Sedgwick), 37.7000, -97.4167
+Miller, 38.6344, -95.9903
+Millerton, 37.4367, -97.5561
+Millwood, 39.3839, -95.1167
+Milo, 39.1722, -97.9672
+Milton, 37.4317, -97.7711
+Miltonvale, 39.3483, -97.4458
+Mineral, 37.2667, -94.8000
+Mineral Springs, 38.8408, -95.6867
+Mingo, 39.2783, -100.9619
+Mingona, 37.3239, -98.6900
+Minneapolis, 39.1219, -97.7064
+Minneha, 37.7144, -97.2397
+Minneola, 37.4433, -100.0147
+Mirage, 39.6500, -101.2333
+Mission, 39.0278, -94.6556
+Mission Creek, 38.9333, -96.0333
+Mission Highlands, 39.0333, -94.6333
+Mission Hills, 39.0178, -94.6167
+Mission Woods, 39.0350, -94.6083
+Missler, 37.3178, -100.4347
+Mitchell, 38.3839, -98.0994
+Modell, 39.6167, -99.9167
+Modoc, 38.4869, -101.0814
+Moline, 37.3603, -96.3036
+Mona Kay Heights, 37.5989, -97.3117
+Monett, 37.1444, -96.1056
+Monmouth(Crawford), 37.3631, -94.9367
+Monmouth(Shawnee), 38.9333, -95.5667
+Monroe, 38.3000, -95.2000
+Monrovia(Johnson), 39.0167, -94.7000
+Monrovia(Atchison), 39.5242, -95.3458
+Mont Ida, 38.2167, -95.3681
+Montana, 37.2753, -95.1239
+Montezuma, 37.5958, -100.4428
+Monticello, 38.9989, -94.8439
+Montrose, 39.7844, -98.0875
+Monument, 39.1044, -101.0067
+Moonlight, 39.0028, -97.1022
+Moran, 37.9161, -95.1700
+Moray, 39.7625, -95.1714
+Morehead, 37.3842, -95.5075
+Morgan, 39.3667, -101.0667
+Morganville, 39.4664, -97.2017
+Morlan, 39.2167, -99.6833
+Morland, 39.3494, -100.0753
+Morrill, 39.9283, -95.6917
+Morris, 39.0619, -94.7514
+Morrison Ridge, 39.0167, -94.6500
+Morrowville, 39.8444, -97.1714
+Morse, 38.8503, -94.7236
+Moscow, 37.3236, -101.2053
+Mound City, 38.1428, -94.8133
+Mound Valley, 37.2053, -95.4047
+Moundridge, 38.2031, -97.5189
+Mount Ayr, 39.3500, -98.9833
+Mount Carmel Hospital, 37.4386, -94.6967
+Mount Hope, 37.8686, -97.6647
+Mount Vernon, 37.7175, -97.8453
+Moxham, 37.1144, -97.0464
+Mulberry, 37.5569, -94.6217
+Mullinville, 37.5861, -99.4753
+Mulvane, 37.4744, -97.2436
+Muncie, 39.0875, -94.7472
+Munden, 39.9139, -97.5378
+Munger, 37.7000, -97.2833
+Munjor, 38.8111, -99.2644
+Murdock, 37.6111, -97.9306
+Murray, 39.8667, -96.2833
+Murray Gill, 37.5931, -97.4069
+Muscotah, 39.5528, -95.5214
+Narka, 39.9606, -97.4256
+Naron, 37.7833, -98.9500
+Nashville, 37.4417, -98.4222
+Natoma, 39.1908, -99.0283
+Natrona, 37.7119, -98.6644
+Navarre, 38.7969, -97.1056
+Neal, 37.8342, -96.0800
+Nearman, 39.1647, -94.6975
+Nekoma, 38.4736, -99.4417
+Nelson, 39.5167, -97.5333
+Nemaha, 39.9500, -96.0667
+Neodesha, 37.4183, -95.6800
+Neola, 37.8694, -98.5086
+Neosho Falls, 38.0056, -95.5569
+Neosho Rapids, 38.3694, -95.9917
+Nescatunga, 37.2333, -99.2167
+Ness City, 38.4528, -99.9061
+Netawaka, 39.6028, -95.7181
+Nettleton, 37.9986, -99.3283
+Neuchatel, 39.5681, -96.2017
+Neutral, 37.0978, -94.7947
+Neva, 38.3981, -96.6158
+Nevada, 38.6333, -99.9167
+New Albany, 37.5683, -95.9375
+New Almelo, 39.5942, -100.1175
+New Cambria, 38.8792, -97.5056
+New Gottland, 38.4497, -97.6111
+New Lancaster, 38.4625, -94.7328
+New Salem, 37.3106, -96.8950
+New Strawn, 38.2625, -95.7417
+Newark, 37.4167, -95.5833
+Newbern, 38.8333, -97.2000
+Newbury, 39.0847, -96.1750
+Newman, 39.0806, -95.4644
+Newman Hospital, 38.4117, -96.1953
+Newman Memorial Hospital, 38.4117, -96.1953
+Newton, 38.0467, -97.3447
+Newton Hospital, 37.2456, -96.9819
+Nickerson, 38.1472, -98.0833
+Nicodemus, 39.3944, -99.6167
+Niles, 38.9694, -97.4625
+Niotaze, 37.0736, -96.0133
+Nippawalla, 37.1667, -98.5500
+Nolan, 39.5667, -96.2778
+Norcatur, 39.8369, -100.1875
+Noria, 38.9494, -95.1769
+North Atwood, 39.8236, -101.0464
+North Brown, 37.8667, -99.3167
+North Fort Riley, 39.0833, -96.8167
+North Hayes, 38.1167, -98.4333
+North Homestead, 38.5667, -98.7500
+North Newton, 38.0722, -97.3453
+North Osage City, 38.6333, -95.8167
+North Randall, 39.3333, -100.8833
+North Rich, 38.1333, -95.1333
+North Roscoe, 38.2000, -100.1500
+North Seward, 38.2167, -98.7500
+North Topeka, 39.0722, -95.6667
+North Wichita, 37.7000, -97.3167
+Northampton, 39.2500, -99.5500
+Northbranch, 39.9728, -98.3714
+Northern Hills, 39.0833, -95.6667
+Norton, 39.8339, -99.8911
+Norton State Hospital, 39.8458, -99.8161
+Norton State Sanatorium, 39.8458, -99.8161
+Nortonville, 39.4167, -95.3333
+Norway, 39.6961, -97.7736
+Norwich, 37.4572, -97.8486
+Norwood, 38.7097, -95.2467
+Nutty Combe, 39.9667, -101.9500

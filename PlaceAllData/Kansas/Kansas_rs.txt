@@ -1,0 +1,337 @@
+Radium, 38.1742, -98.8931
+Radley, 37.4844, -94.7600
+Rago, 37.4528, -98.0814
+Rainbow Bend, 37.1750, -97.1306
+Ramona, 38.5972, -97.0617
+Randall, 39.6425, -98.0444
+Randolph, 39.4306, -96.7597
+Ransom, 38.6361, -99.9333
+Ransom Hospital, 38.5964, -95.2669
+Ransomville, 38.5064, -95.4256
+Rantoul, 38.5486, -95.1000
+Ravanna, 38.1597, -100.3819
+Ray, 38.1744, -98.9672
+Raymond, 38.2769, -98.4156
+Reading, 38.5194, -95.9583
+Reager, 39.8269, -100.0958
+Reamsville, 39.9300, -98.8667
+Red Onion, 37.5869, -94.6458
+Red Vermillion, 39.6167, -96.0667
+Redel, 38.8306, -94.6333
+Redfield, 37.8367, -94.8808
+Redwing, 38.5219, -98.6642
+Reece, 37.7989, -96.4461
+Reedsville, 39.7692, -96.5386
+Reilly, 39.6000, -95.9500
+Renco, 39.1000, -95.0833
+Reno, 39.0511, -95.1197
+Republic, 39.9236, -97.8214
+Republican, 39.1833, -97.0167
+Reserve, 39.9772, -95.5617
+Rest, 37.6531, -95.6603
+Rexford, 39.4717, -100.7431
+Rice, 39.5722, -97.5553
+Rich, 38.0833, -95.1333
+Richardson, 39.2667, -94.9000
+Richfield, 37.2661, -101.7819
+Richland, 38.8878, -95.5261
+Richmond, 38.4028, -94.2536
+Richter, 38.6117, -95.3783
+Ridgeton, 38.4675, -95.7681
+Ridgeway, 38.8167, -95.6667
+Riga, 38.9506, -99.6500
+Riley, 39.2989, -96.8306
+Riley County Hospital, 39.1917, -96.5900
+Rinehart, 38.9167, -96.9833
+Ringer(Sedgwick), 37.7000, -97.4167
+Ringer(Miami), 38.5344, -94.9083
+Ringo, 37.5094, -94.7611
+Rishel, 38.6297, -97.0139
+Risley, 38.3833, -97.2000
+Ritchal, 38.0325, -101.0278
+River, 38.2167, -98.9667
+Riverdale, 37.3900, -97.3722
+Riverside(Ness), 38.2908, -99.7869
+Riverside(Sedgwick), 37.6150, -97.3219
+Riverton, 37.0750, -94.7044
+Riverview(Sedgwick), 37.7758, -97.3497
+Riverview(Ellis), 39.0833, -99.3167
+Robert L Roberts, 39.1333, -94.6833
+Robinson, 39.8167, -95.4103
+Rochester, 37.4333, -98.3000
+Rock, 37.4403, -97.0061
+Rock Branch, 39.9667, -100.0167
+Rock Creek, 39.2458, -95.5369
+Rockford, 37.5333, -97.2333
+Rockland, 38.4286, -96.6436
+Rockville, 38.3167, -97.9833
+Rockwell, 39.8333, -100.0833
+Rocky Ford(Greenwood), 37.8172, -96.0508
+Rocky Ford(Riley), 39.2375, -96.5894
+Rodkey, 38.0178, -100.9572
+Roeland Park, 39.0375, -94.6319
+Rogers, 37.1469, -96.2789
+Roland, 37.2661, -97.4572
+Rolla, 37.1200, -101.1317
+Rollin, 37.6342, -95.3558
+Rolling Hills, 37.6861, -97.4472
+Rolling Prairie, 38.8333, -96.7667
+Rome, 37.1614, -97.1425
+Ronald, 37.7917, -94.8042
+Roosevelt, 39.8833, -100.3500
+Roper, 37.6611, -95.7325
+Rosaco, 39.5789, -97.6278
+Rosalia, 37.8153, -96.6194
+Roscoe(Reno), 37.7833, -98.0833
+Roscoe(Graham), 39.4808, -99.7692
+Rose, 37.7931, -95.6861
+Rose Creek, 39.9500, -97.5333
+Rose Hill, 37.5583, -97.1347
+Rose Valley, 37.8833, -98.7500
+Rosedale, 39.0667, -94.6333
+Roseland, 37.2811, -94.8503
+Rosewood, 37.3333, -95.2667
+Rossville, 39.1361, -95.9514
+Rotate, 39.6500, -101.3500
+Round Mound, 39.2667, -99.0000
+Round Springs, 39.2500, -98.2000
+Rovohl, 39.5167, -101.0500
+Roxbury, 38.5508, -97.4300
+Royal, 37.8667, -100.1167
+Rozel, 38.1958, -99.4028
+Ruella, 37.0806, -98.1833
+Ruleton, 39.3394, -101.8889
+Runnymede, 37.3564, -97.9294
+Rush, 39.3500, -99.4333
+Rush Center, 38.4653, -99.3097
+Rushville, 39.6167, -99.3500
+Russell, 38.8953, -98.8594
+Russell Springs, 38.9133, -101.1811
+Rutland, 37.2000, -95.8833
+Ryan, 37.2667, -97.6333
+Rydal, 39.8133, -97.7111
+Ryus, 37.4978, -101.1078
+Sabetha, 39.9022, -95.8006
+Saffordville, 38.4000, -96.3925
+Salamanca, 37.1667, -94.8833
+Salem, 39.8717, -98.4842
+Salemsborg, 38.6953, -97.6858
+Salina, 38.8403, -97.6111
+Saline, 39.0667, -99.1167
+Sallyards, 37.8214, -96.5069
+Salt Springs, 37.6500, -96.0333
+Salter, 37.6139, -97.0444
+Sand Burr Hill, 37.5706, -97.3125
+Sand Creek, 38.0333, -97.3694
+Sand Spring, 38.9069, -97.2836
+Sanford, 38.1806, -99.3139
+Santa Fe, 38.1333, -99.1833
+Santa Fe Hospital, 39.0500, -95.6681
+Sappa, 39.7833, -100.6833
+Saratoga, 37.6333, -98.7000
+Sarcoxie, 39.1000, -95.2333
+Satanta, 37.4372, -101.9717
+Saunders, 37.4711, -102.0389
+Savonburg, 37.7494, -95.1439
+Sawlog, 37.9667, -99.9000
+Sawmill, 38.1333, -99.5167
+Sawyer, 37.4972, -98.6819
+Saxman, 38.2806, -98.1256
+Sayre, 37.6881, -100.1739
+Scammon, 37.2775, -94.8247
+Scandia, 39.7944, -97.7833
+Schaffer, 38.4714, -99.0883
+Schoenchen, 38.7133, -99.3319
+Schulte, 37.6231, -97.4711
+Scipio, 38.3683, -95.2175
+Scott City, 38.4825, -100.9067
+Scottsville, 39.5436, -97.9528
+Scranton, 38.7817, -95.7383
+Sears, 37.7625, -100.1056
+Sedan, 37.1267, -96.1867
+Sedgwick, 37.9167, -97.4222
+Seguin, 39.3375, -100.5944
+Selden, 39.5408, -100.5672
+Selkirk, 38.4733, -101.5431
+Selma, 38.1347, -95.1231
+Seneca, 39.8342, -96.0639
+Severance, 39.7672, -95.2497
+Severy, 37.6222, -96.2278
+Seward, 38.1778, -98.7944
+Shady Bend, 39.0183, -98.0214
+Shady Brook, 38.7394, -96.9828
+Shaffer, 38.4500, -99.0167
+Shallow Water, 38.3736, -100.9125
+Shannon, 39.5653, -95.2431
+Sharon, 37.2486, -98.4203
+Sharon Springs, 38.8978, -101.7517
+Sharpe, 38.2819, -95.6917
+Shaw, 37.6022, -95.3172
+Shawnee, 39.0417, -94.7200
+Shawnee Mission, 39.0333, -94.6500
+Shawnee Mission Hospital, 38.9992, -94.6908
+Shell Rock, 38.1167, -96.0167
+Sherdahl, 39.8569, -97.8078
+Sherlock, 38.0000, -101.0333
+Sherman, 37.2572, -95.0569
+Shermanville, 39.4833, -101.5667
+Sherwin, 37.1800, -94.9475
+Sherwood Estates, 39.0333, -95.7167
+Shields, 38.6156, -100.4447
+Shiley, 38.3000, -99.5333
+Shiloh, 37.4333, -95.4667
+Shimer, 37.0833, -99.1500
+Shipton, 38.9139, -97.6819
+Shirley, 39.5333, -97.4167
+Shroyer, 39.7694, -96.6783
+Sibley, 39.6167, -97.6667
+Sibleyville, 38.8842, -95.1953
+Silica, 38.3517, -98.4617
+Silkville, 38.4500, -95.4889
+Silver Lake, 39.1042, -95.8583
+Silverdale, 37.0419, -96.9031
+Simpson, 39.3853, -97.9311
+Sinclair, 39.8667, -97.9833
+Sitka, 37.1750, -99.6511
+Skellyville, 37.6750, -98.4500
+Skiddy, 38.8681, -96.7942
+Skidmore, 37.2403, -94.8317
+Smileyville, 37.5197, -96.8806
+Smith, 39.4500, -100.7833
+Smith Center, 39.7792, -98.7847
+Smithfield, 39.4811, -99.8258
+Smoky, 39.2000, -101.7167
+Smoky Hill, 39.0242, -96.8403
+Smoky View, 38.6500, -97.6500
+Smolan, 38.7386, -97.6842
+Sodville, 37.5167, -99.7500
+Soldier, 39.5361, -95.9639
+Solomon, 38.9194, -97.3708
+Solomon Rapids, 39.4736, -98.1922
+Somerset, 38.6050, -94.7686
+South Basehor, 39.1289, -94.9383
+South Bend, 38.3000, -98.7500
+South Brown, 37.7833, -99.3333
+South Dodge, 37.7422, -100.0194
+South Haven, 37.0519, -97.4050
+South Hoisington, 38.5056, -98.7750
+South Homestead, 38.4833, -98.7667
+South Hutchinson, 38.0281, -97.9400
+South Mound, 37.4372, -95.2283
+South Park, 39.0167, -94.7000
+South Radley, 37.4714, -94.7600
+South Randall, 39.1833, -100.8333
+South Roscoe, 37.9667, -100.1167
+South Salem, 37.9000, -96.4167
+South Seneca Gardens, 37.6011, -97.3489
+South Seward, 38.1333, -98.7500
+South Sharps Creek, 38.4667, -97.8667
+Southeast, 37.6833, -97.2833
+Southside, 37.8833, -101.2000
+Southwest Gardens, 39.0167, -94.7000
+Sparks, 39.8575, -95.1900
+Spasticville, 37.8336, -97.3358
+Spearville, 37.8500, -99.7564
+Speed, 39.6772, -99.4206
+Spence, 39.9325, -96.9361
+Spencer, 39.0578, -95.5319
+Spica, 39.2067, -100.9150
+Spivey, 37.4458, -98.1631
+Spring Brook, 39.2167, -100.4667
+Spring Grove, 37.0833, -94.6333
+Spring Hill, 38.7431, -94.8253
+Springdale(Sedgwick), 37.6750, -97.1686
+Springdale(Leavenworth), 39.2594, -95.1242
+Springvale, 37.5119, -98.9458
+St Anthony Hospital, 37.7656, -100.0153
+St Benedict, 39.8872, -96.0986
+St Bridget, 39.9661, -96.2636
+St Clere, 39.3692, -96.0556
+St Elizabeth Hospital, 38.0758, -97.9408
+St Francis, 39.7722, -101.7994
+St Francis Hospital, 37.7000, -97.3314
+St George, 39.1911, -96.4200
+St Joe, 37.7489, -97.7317
+St John, 38.0022, -98.7597
+St Johns Hospital, 39.3253, -94.9194
+St Joseph, 39.5097, -97.4058
+St Joseph Hospital(Cloud), 39.5658, -97.6733
+St Joseph Hospital(Sedgwick), 37.6681, -97.2950
+St Leo, 37.5292, -98.4100
+St Mark, 37.7358, -97.5619
+St Mary's College, 39.3167, -94.9167
+St Marys, 39.1942, -96.0708
+St Marys, 37.7067, -97.6397
+St Marys Hospital(Lyon), 38.4161, -96.1850
+St Marys Hospital(Riley), 39.1828, -96.5725
+St Pats, 39.4778, -95.1214
+St Paul(Sedgwick), 37.6625, -97.7519
+St Paul(Neosho), 37.5189, -95.1731
+St Peter, 39.1897, -100.0889
+St Rose Hospital, 38.3678, -98.7875
+St Theresa, 38.4833, -101.3500
+St Thomas Hospital, 39.3933, -101.0553
+Stafford, 37.9622, -98.6003
+Stanley, 38.8544, -94.6656
+Stano, 37.5206, -101.4894
+Stanton, 38.5433, -95.0542
+Star, 38.2167, -95.6000
+Stark, 37.6900, -95.1428
+Starr, 39.3500, -97.4167
+State Home for Feeble Minded, 37.2456, -96.9819
+State House, 39.0500, -95.6833
+State Line, 39.3167, -102.0000
+Sterling, 38.2100, -98.2067
+Stickney, 38.6381, -98.8292
+Stilwell, 38.7692, -94.6561
+Stippville, 37.2222, -94.8375
+Stockton, 39.4381, -99.2647
+Stohrville, 37.0667, -97.8667
+Stone, 39.1286, -94.9167
+Stony Point, 39.0944, -94.7600
+Stover, 37.1739, -95.1944
+Straight Creek, 39.5167, -95.6333
+Stranger, 39.1333, -95.0167
+Strauss, 37.3403, -95.0856
+Strawberry, 39.7119, -97.2550
+Strawn, 38.2000, -95.7500
+Strong, 38.3972, -96.5367
+Strong City(Strong), 38.3972, -96.5367
+Stubbs, 37.0067, -98.5656
+Studley, 39.3531, -100.1633
+Stull, 38.9711, -95.4558
+Stuttgart, 39.7994, -99.4550
+Sublette, 37.4817, -100.8433
+Suburban Heights, 37.2333, -95.7167
+Sugar Creek, 38.4500, -94.6667
+Sugar Loaf, 39.5167, -99.4500
+Sullivan(Grant), 37.4333, -101.3167
+Sullivan(Marshall), 39.6653, -96.3556
+Sullivans Track, 37.5833, -101.3667
+Summerfield, 39.9972, -96.3500
+Summers, 39.2333, -101.0500
+Summit(Butler), 37.8211, -96.5639
+Summit(Marshall), 39.8972, -96.3472
+Sumnerville, 39.1975, -97.7361
+Sun City, 37.3786, -98.9156
+Sun Springs, 39.8894, -95.7033
+Sunflower(Johnson), 38.9458, -95.0028
+Sunflower(Wyandotte), 39.0653, -94.8639
+Sunland, 38.8928, -101.8211
+Sunnydale, 37.8683, -97.2992
+Sunset Acres, 37.7250, -97.1283
+Sunset Park(Riley), 39.1758, -96.5958
+Sunset Park(Sedgwick), 37.5772, -97.3389
+Suppesville, 37.5008, -97.7700
+Susank, 38.6408, -98.7736
+Sutphen, 39.0483, -97.0550
+Sutton(Lane), 38.3333, -100.6167
+Sutton(Kearny), 37.9058, -101.4650
+Swamp Angel, 39.1944, -96.4819
+Swan, 39.8667, -99.0167
+Swede Creek, 39.5333, -96.7167
+Swissvale, 38.8336, -95.5800
+Sycamore, 37.3269, -95.7153
+Sylvan Grove, 39.0094, -98.3939
+Sylvia, 37.9578, -98.4078
+Syracuse, 37.9806, -101.7522

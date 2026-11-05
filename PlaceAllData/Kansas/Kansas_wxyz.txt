@@ -1,0 +1,169 @@
+Wa Keeney, 39.0250, -99.8792
+Wabaunsee, 39.1461, -96.3458
+Waco, 37.5206, -97.3072
+Wadsworth, 39.2783, -94.9000
+Wagon Wheel Ranch, 37.6833, -96.9833
+Wagstaff, 38.6650, -94.7961
+Wakarusa, 38.8858, -95.6956
+Wakefield, 39.2133, -97.0053
+Waldeck(Pratt), 37.6539, -98.6097
+Waldeck(Marion), 38.4306, -97.3347
+Waldo, 39.1183, -98.7978
+Waldron, 37.0000, -98.1833
+Walker, 38.8672, -99.0756
+Walkinghood, 38.4722, -101.9722
+Wallace, 38.9114, -101.5911
+Wallula, 39.1725, -94.9003
+Walnut, 37.6014, -95.0778
+Walnut Creek, 39.4333, -98.3167
+Walnut Grove, 37.6000, -95.1667
+Walsburg, 39.3931, -96.8114
+Walton, 38.1178, -97.2564
+Wamego, 39.2019, -96.3047
+Wano, 39.7833, -101.8000
+Waring, 38.6167, -99.7000
+Warren, 38.7500, -96.4167
+Warwick, 39.9986, -97.9069
+Washburn University, 39.0333, -95.6833
+Washington, 39.8181, -97.0506
+Washington Street, 37.6833, -97.3333
+Waterloo(Lyon), 38.7000, -96.0167
+Waterloo(Kingman), 37.6769, -97.9406
+Waterville, 39.6911, -96.7472
+Wathena, 39.7592, -94.9494
+Watson, 38.9881, -95.5561
+Wauneta, 37.1131, -96.3803
+Waverly, 38.3939, -95.6028
+Wayne, 39.7147, -97.5417
+Wayside, 37.1247, -95.8731
+Wea, 38.7153, -94.6667
+Weaver, 38.9619, -95.0669
+Webber, 39.9350, -98.0347
+Webster, 39.4017, -99.4356
+Wego-Waco, 37.5208, -97.3336
+Weir, 37.3100, -94.7717
+Welborn, 39.1433, -94.7000
+Welda, 38.1694, -95.2944
+Wellington, 37.2653, -97.3714
+Wells, 39.1389, -97.5506
+Wellsford, 37.6167, -99.0283
+Wellsville, 38.7183, -95.0814
+Wendell, 39.5167, -100.8167
+Weskan, 38.8667, -101.9639
+Wesley Center, 39.9589, -98.3247
+Wesley Hospital, 37.6953, -97.2981
+Wesleyan, 38.8333, -97.6000
+West Branch, 38.2167, -97.3167
+West Center, 37.1833, -101.4500
+West Cherry, 37.3167, -95.6333
+West Coffeyville, 37.0389, -95.6697
+West Cooper, 38.0500, -98.6333
+West Hale, 39.3667, -101.3333
+West Hamilton, 39.0667, -99.5333
+West Hess, 37.6167, -100.3833
+West Hibbard, 38.1667, -101.4333
+West Mineral, 37.2842, -94.9228
+West Plains, 37.2500, -100.5333
+West Saline, 39.2333, -100.3333
+West Shore, 39.1889, -95.4769
+West Union, 39.6167, -99.7000
+West Washington, 38.2167, -98.0833
+Western, 38.8833, -101.4000
+Westfall, 38.9300, -98.0111
+Westland, 37.5167, -99.5000
+Westlink Village, 37.6978, -97.4531
+Westminster, 37.9500, -98.2000
+Westmoreland, 39.3939, -96.4133
+Westola, 37.2500, -101.9667
+Westphalia, 38.1819, -95.4900
+Westwood, 39.0406, -94.6167
+Westwood Hills, 39.0389, -94.6097
+Wetmore, 39.6333, -95.8111
+Wettick, 37.7967, -100.2639
+Wheaton, 39.5022, -96.3206
+Wheatridge Addition, 37.7000, -97.4167
+Wheeler, 39.7642, -101.7125
+White, 37.6833, -98.0833
+White City, 38.7956, -96.7356
+White Cloud, 39.9764, -95.2967
+White Mound, 39.8667, -98.4500
+White Rock, 39.8861, -97.9319
+Whitelaw, 38.4550, -101.6789
+Whiteside, 38.0075, -98.0147
+Whitewater, 37.9647, -97.1472
+Whitewoman, 38.3500, -101.3500
+Whiting, 39.5897, -95.6125
+Whitman, 37.3325, -97.1872
+Wichita, 37.6922, -97.3372
+Wichita Heights, 37.7811, -97.3356
+Wichita Hospital, 37.6842, -97.3533
+Wilburn, 37.5167, -100.1000
+Wilburton, 37.0736, -101.7728
+Wild Horse, 39.3167, -99.6833
+Wilder, 39.0431, -94.8694
+Willard, 39.0933, -95.9417
+Willcox, 38.7833, -99.8667
+Williams, 37.8167, -99.3333
+Williamsburg, 38.4806, -95.4667
+Williamsport, 38.9333, -95.7000
+Williamstown, 39.0628, -95.3325
+Willis, 39.7250, -95.5056
+Willow Springs, 38.8167, -95.3000
+Willowbrook, 38.1019, -97.9917
+Willowdale, 37.5153, -98.3014
+Wilmington, 38.7444, -95.9592
+Wilmore, 37.3358, -99.2097
+Wilmot, 37.3761, -96.8756
+Wilroads, 37.7017, -99.8933
+Wilroads Gardens, 37.7242, -99.9328
+Wilsey, 38.6361, -96.6750
+Wilson, 38.8250, -98.4750
+Winchester, 39.3222, -95.2667
+Windhorst, 37.7853, -99.6417
+Windom, 38.3839, -97.9097
+Windsor, 37.3167, -96.6333
+Windsor Park, 37.7167, -97.2667
+Windthorst, 37.8500, -99.7500
+Winfield, 37.2397, -96.9953
+Winfield State Hospital, 37.2639, -96.9722
+Wingate, 37.4819, -96.6972
+Wingfield, 39.0167, -96.6500
+Winifred, 39.7694, -97.4806
+Winkler, 39.4817, -96.8314
+Winona, 39.0633, -101.2439
+Winter Veterans Administration Hospital, 39.0219, -95.7200
+Winterset, 38.7500, -98.9833
+Winway, 37.3333, -95.2667
+Wolcott, 39.1889, -94.8014
+Wolf, 38.0322, -101.0986
+Wolf Creek, 39.0344, -98.4778
+Wolf River, 39.7833, -95.2500
+Womer, 39.9736, -98.7103
+Wonsevu, 38.1508, -96.7719
+Woodbine, 38.7961, -96.9583
+Woodlawn, 39.7833, -95.8644
+Woodruff, 39.9928, -99.4261
+Woods, 37.1703, -101.1053
+Woodston, 39.4553, -99.0953
+Worden, 38.7822, -95.3342
+Wreford, 38.9617, -96.8483
+Wright, 37.7806, -99.8917
+Wyandotte, 39.0833, -94.7667
+Xavier, 39.2772, -94.9089
+Xenia, 37.9953, -94.9861
+Yaggy, 38.0969, -98.0086
+Yale, 37.4839, -94.6417
+Yankee Run, 38.6514, -98.0167
+Yates Center, 37.8811, -95.7331
+Yocemento, 38.9072, -99.4236
+Yoder, 37.9403, -97.8681
+York, 37.8667, -98.5333
+Yuma, 39.5911, -97.7494
+Zarah, 39.0072, -94.8236
+Zeandale, 39.1594, -96.4264
+Zenda, 37.4422, -98.2817
+Zenith, 37.9572, -98.4917
+Zimmerdale, 38.1028, -97.3897
+Zook, 38.0578, -99.0867
+Zurich, 39.2344, -99.4378
+Zyba, 37.4347, -97.3889

@@ -1,0 +1,271 @@
+Cadmus, 38.3456, -94.8992
+Cairo, 37.6500, -98.5542
+Calderhead, 39.6831, -97.3308
+Caldwell, 37.0322, -97.6067
+Calhoun, 39.9333, -101.6833
+California, 38.3000, -95.8833
+Calista, 37.6397, -98.2822
+Callahan, 37.6833, -97.4167
+Calvert, 39.8497, -99.7575
+Calvin, 39.7000, -98.2167
+Cambria, 38.9167, -97.5500
+Cambridge, 37.3161, -96.6642
+Cameron, 37.0769, -96.8536
+Camp Fifty, 37.5417, -94.7417
+Camp Forsyth, 39.1833, -96.8667
+Camp Funston, 39.1000, -96.7333
+Camp Naish, 39.0833, -94.7500
+Camp Whiteside, 39.1000, -96.7833
+Campus, 39.1333, -100.8667
+Canada(Marion), 38.3542, -97.1125
+Canada(Labette), 37.1167, -95.4500
+Caney, 37.0114, -95.9350
+Caneyville, 37.2500, -96.4500
+Canton, 38.3861, -97.4278
+Canville, 37.6167, -95.4500
+Capaldo, 37.4678, -94.7264
+Capioma, 39.7767, -95.8200
+Carbondale, 38.8186, -95.6889
+Carden, 39.8278, -96.5806
+Carlton, 38.6872, -97.2931
+Carlyle, 37.6269, -95.3906
+Carmi, 37.7833, -98.6333
+Carneiro, 38.7389, -98.0306
+Carona, 37.2803, -94.8683
+Carr Creek, 39.4333, -98.4333
+Caruso, 39.3386, -101.8150
+Cassoday, 38.0389, -96.6389
+Castle, 38.3833, -97.8667
+Castleton, 37.8678, -97.9689
+Catharine, 38.9272, -99.2164
+Catlin, 38.2167, -97.1000
+Cato, 37.6678, -94.7397
+Cave, 37.3586, -101.1408
+Cave Springs, 37.5333, -96.1222
+Cawker City, 39.5125, -98.4333
+Cedar(Smith), 39.6572, -98.9400
+Cedar(Johnson), 38.9792, -94.9342
+Cedar Bluffs, 39.9789, -100.5614
+Cedar Point, 38.2600, -96.8194
+Cedar Vale, 37.1042, -96.5000
+Cedron, 39.1833, -98.4333
+Celia, 39.8000, -101.3000
+Centerview, 37.8153, -99.2681
+Centerville, 38.2208, -95.0139
+Central, 38.2722, -95.3833
+Central Kansas Medical Center, 38.3658, -98.7872
+Centralia, 39.7258, -96.1269
+Centropolis, 38.7161, -95.3500
+Cessna, 37.6386, -97.4128
+Chanute, 37.6792, -95.4569
+Chapman, 38.9722, -97.0222
+Chardon, 39.6547, -101.0567
+Charleston, 37.8653, -100.5644
+Charters Corner, 38.0575, -98.1789
+Chase, 38.3550, -98.3492
+Chautauqua, 37.0203, -96.1764
+Cheever, 39.0833, -97.2000
+Chelsea, 37.9039, -96.7744
+Cheney, 37.6300, -97.7822
+Chepstow, 39.6236, -96.9006
+Cherokee, 37.3458, -94.8086
+Cherry, 37.3167, -95.5500
+Cherry Creek, 39.7833, -101.9500
+Cherryvale, 37.2703, -95.5522
+Chetopa, 37.0372, -95.0897
+Chevron, 38.3125, -100.9097
+Cheyenne, 39.1767, -98.6386
+Cheyenne Gap, 39.2200, -98.6478
+Chicaskia, 37.3500, -97.8667
+Chicopee, 37.3819, -94.7417
+Childs Acres, 37.7722, -97.4214
+Chiles, 38.6797, -94.7614
+Chisholm, 37.6333, -97.3500
+Chouteau, 39.0472, -94.8300
+Christ Hospital, 39.0528, -95.6961
+Cicero, 37.3339, -97.3403
+Cimarron, 37.8067, -100.3478
+Circleville, 39.5083, -95.8583
+Civic Center, 39.1000, -94.6667
+Claflin, 38.5250, -98.5333
+Clare, 38.8269, -94.8711
+Clarence, 38.4000, -98.9833
+Clark, 38.4833, -97.1000
+Clarks Creek, 38.7333, -96.8833
+Claudell, 39.6625, -99.0289
+Clay Center(Butler), 37.5194, -96.7708
+Clay Center(Clay), 39.3769, -97.1244
+Clayton, 39.7375, -100.1772
+Clear Fork, 39.6167, -96.4000
+Clearfield, 38.8261, -95.0933
+Clearview City, 38.9500, -95.0000
+Clearwater, 37.5028, -97.5042
+Clements, 38.3000, -96.7406
+Cleveland, 37.5517, -98.1333
+Cleveland Run, 39.9167, -101.8000
+Clifford, 38.0500, -96.9833
+Clifton, 39.5672, -97.2783
+Climax, 37.7197, -96.2231
+Clinton, 38.9117, -95.3903
+Clonmel, 37.5628, -97.5536
+Cloverdale(Reno), 38.0667, -97.9500
+Cloverdale(Saline), 38.8333, -97.6000
+Cloverdale(Chautauqua), 37.2269, -96.4889
+Clyde, 39.5911, -97.3986
+Coalvale, 37.6156, -94.6486
+Coats, 37.5119, -98.8239
+Cochrane, 39.2667, -94.8786
+Cockerill, 37.5500, -94.6167
+Codell, 39.1933, -99.1769
+Coffeyville, 37.0372, -95.6161
+Cokedale, 37.2467, -94.8925
+Colby, 39.3958, -101.0519
+Coldspur, 39.0044, -94.9244
+Coldwater, 37.2689, -99.3264
+Coleman(Sedgwick), 37.8642, -97.4636
+Coleman(Washington), 39.7833, -97.2000
+Collano, 37.2989, -100.5069
+College, 37.4333, -94.7000
+Collyer, 39.0356, -100.1175
+Colony, 38.0708, -95.3653
+Colorado, 39.0000, -97.9833
+Columbia, 38.8167, -98.3167
+Columbus, 37.1692, -94.8439
+Colwich, 37.7792, -97.5361
+Comanche, 38.3000, -98.5833
+Commonwealth, 37.0011, -94.7403
+Concordia, 39.5708, -97.6622
+Conkling, 38.3167, -99.3167
+Connell, 37.6194, -97.2947
+Conway, 38.3694, -96.7861
+Conway Springs, 37.3903, -97.6419
+Cook(Cloud), 39.5472, -97.6117
+Cook(Decatur), 39.6167, -100.6833
+Cookville, 37.8203, -95.5919
+Coolidge, 38.0417, -102.0083
+Copeland, 37.5419, -100.6292
+Cora, 39.8928, -98.6633
+Corbin(Montgomery), 37.2519, -95.5542
+Corbin(Sumner), 37.1264, -97.5436
+Corinth, 39.4161, -98.5450
+Corinth Square Center, 39.0000, -94.6167
+Cornell, 37.4633, -94.6306
+Corning, 39.6572, -96.0292
+Coronado, 38.4858, -101.3042
+Corwin, 37.0842, -98.3042
+Cottage Grove, 37.7500, -95.3333
+Cottage Hill, 39.5972, -96.7494
+Cottonwood, 38.2833, -96.7333
+Cottonwood Falls, 38.3722, -96.5425
+Council Grove, 38.6611, -96.4917
+Countryside, 39.0167, -94.6542
+County Acres, 37.6989, -97.4317
+Coursens Grove, 39.2767, -97.9686
+Courtland, 39.7814, -97.8925
+Covert, 39.2803, -98.8106
+Cow Town, 37.6939, -97.3572
+Coyville, 37.6861, -95.8972
+Craig, 38.9658, -94.8161
+Crandall, 38.0833, -95.6333
+Crane, 37.2794, -95.7967
+Cravensville, 37.0319, -94.8444
+Crawford, 38.5133, -98.0347
+Creek, 37.3500, -97.7500
+Crestline, 37.1708, -94.7042
+Creswell, 37.0833, -97.0167
+Crisfield, 37.1722, -98.3111
+Critzer, 38.1400, -94.9125
+Croft, 37.5033, -98.9944
+Crooked Creek, 37.4000, -100.3333
+Croweburg, 37.5569, -94.6658
+Cruppers Corner, 37.9700, -97.9400
+Crystal Plains, 39.7000, -98.6667
+Crystal Springs, 37.2619, -98.1344
+Cuba, 39.8028, -97.4556
+Cullen Village, 38.9428, -95.7025
+Cullison, 37.6306, -98.9050
+Culver, 38.9708, -97.7586
+Cummings, 39.4628, -95.2472
+Cunningham, 37.6439, -98.4308
+Cunningham Highlands, 39.0000, -94.6833
+Curranville, 37.5136, -94.6314
+Cushing Hospital, 39.3072, -94.9186
+Cutler, 38.5167, -95.1167
+Daisy Hill, 37.3278, -94.7778
+Dalbey, 39.4972, -95.0772
+Dale(Kingman), 37.6000, -97.9667
+Dale(Cowley), 37.3375, -97.0536
+Dalton, 37.2692, -97.2722
+Damar, 39.3189, -99.5822
+Danville, 37.2861, -97.8917
+Darlington, 37.9667, -97.3167
+Darlow, 37.9408, -97.9497
+Dartmouth, 38.3633, -98.6456
+De Graff, 37.9811, -96.8625
+De Soto, 38.9792, -94.9683
+Dearing, 37.0586, -95.7131
+Deerfield, 37.9797, -101.1328
+Deerhead, 37.2383, -98.9114
+Delano, 37.6833, -97.4500
+Delavan, 38.6561, -96.8131
+Delhi, 39.1833, -98.5500
+Delia, 39.2406, -95.9667
+Dellvale, 39.7722, -100.0347
+Delmore, 38.4833, -97.5333
+Delphos, 39.2739, -97.7717
+Denison, 39.3917, -95.6278
+Denmark, 39.0892, -98.2867
+Dennis, 37.3469, -95.4125
+Densmore, 39.6383, -99.7389
+Dent, 39.7000, -101.7500
+Denton, 39.7328, -95.2692
+Denton-McWorter Addition, 37.7667, -97.4667
+Dentonia, 39.6839, -98.4672
+Derby, 37.5456, -97.2686
+Dermot, 37.1167, -101.6333
+Detroit, 37.9350, -97.1219
+Devizes, 39.9911, -100.0569
+Devon, 37.9222, -94.8189
+Dexter, 37.1772, -96.7142
+Diamond Creek, 38.4333, -96.7000
+Diamond Springs, 38.5575, -96.7442
+Diamond Valley, 38.5667, -96.7500
+Dighton, 38.4819, -100.4667
+Dillon, 38.6936, -97.1467
+Dillwyn, 37.9708, -98.8794
+Dispatch, 39.5964, -98.5047
+Dixon, 37.2500, -97.7500
+Dodge City, 37.7528, -100.0167
+Doniphan, 39.6417, -95.0806
+Dor, 39.6167, -99.0167
+Dorrance, 38.8467, -98.5892
+Doster, 37.0611, -97.7117
+Douglass, 37.5194, -97.0125
+Douglass Hospital, 39.1514, -94.6594
+Dover, 38.9647, -95.9372
+Downing, 38.7403, -96.5736
+Downs, 39.5022, -98.5464
+Doyle, 38.2333, -96.8833
+Dragoon, 38.7167, -95.8333
+Dresden, 39.6242, -100.4219
+Drexel Corner, 38.4764, -94.6764
+Driftwood, 39.9500, -101.0667
+Drum Creek, 37.2333, -95.6000
+Drury, 37.0356, -97.4775
+Dry Wood, 37.6597, -94.7125
+Dubuque, 38.6958, -98.6086
+Duck Creek, 37.4333, -95.9000
+Dudley, 37.5667, -101.0167
+Duluth, 39.5247, -96.2228
+Dunavant, 39.3019, -95.3325
+Dundee, 38.3086, -98.8903
+Dungans Crossing, 38.2331, -99.6614
+Dunkirk, 37.4844, -94.7417
+Dunlap, 38.5764, -96.3656
+Dunlay, 38.2583, -94.9972
+Duquoin, 37.3828, -98.0733
+Durand, 37.8897, -95.6928
+Durham, 38.4861, -97.2278
+Durham Park, 38.4833, -97.2000
+Dwight, 38.8444, -96.5931
+Dwight D Eisenhower Department of Veterans Affairs Medical C, 39.2789, -94.8950

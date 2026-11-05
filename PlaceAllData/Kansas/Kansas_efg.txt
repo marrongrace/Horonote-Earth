@@ -1,0 +1,252 @@
+Earlton, 37.5881, -95.4689
+East Branch, 38.2167, -97.2000
+East Cooper, 38.0500, -98.5333
+East El Dorado, 37.8208, -96.8353
+East Fairmount, 39.1869, -94.9189
+East Forbes, 39.0333, -95.6833
+East Hale, 39.3833, -101.2167
+East Hamilton, 39.0667, -99.4500
+East Hess, 37.6000, -100.2667
+East Hibbard, 38.1667, -101.2167
+East Hutchinson, 38.0667, -97.9500
+East Saline, 39.2333, -100.2167
+East Washington, 38.2167, -97.9667
+Eastborough, 37.6881, -97.2633
+Easton, 39.3450, -95.1156
+Eastshore, 38.3819, -97.0736
+Eaton, 37.2297, -96.7700
+Edalgo, 38.9717, -98.0467
+Edgerton, 38.7647, -95.0078
+Edison, 37.5139, -94.7464
+Edmond, 39.6272, -99.8222
+Edna, 37.0597, -95.3592
+Edson, 39.3372, -101.5400
+Edward, 37.7833, -94.6972
+Edwards, 38.6167, -101.2333
+Edwardsville, 39.0611, -94.8194
+Effingham, 39.5222, -95.4006
+El Dorado, 37.8172, -96.8619
+Elbing, 38.0528, -97.1275
+Eldred, 37.0506, -98.7675
+Elgin, 37.0044, -96.2764
+Elk City, 37.2892, -95.9114
+Elk Creek, 39.7000, -97.4167
+Elk Falls, 37.3672, -96.1883
+Elkader, 38.7933, -100.8583
+Elkhart, 37.0081, -101.8897
+Elkhorn, 39.0000, -98.1000
+Ellinor, 38.3933, -96.4278
+Ellinwood, 38.3556, -98.5806
+Ellis, 38.9381, -99.5603
+Ellsworth, 38.7306, -98.2278
+Elm Grove, 37.0667, -95.3167
+Elm Hollow Corner, 39.1894, -96.7119
+Elm Mills, 37.4339, -98.6867
+Elmdale, 38.3736, -96.6444
+Elmer, 37.9694, -97.9300
+Elmerdaro, 38.2500, -96.0500
+Elmhurst, 38.9744, -94.6847
+Elmo, 38.6842, -97.2297
+Elmont, 39.1653, -95.7028
+Elsmore, 37.7944, -95.1500
+Elwood, 39.7556, -94.8722
+Elyria, 38.2906, -97.6267
+Eminence, 37.7833, -95.6833
+Emma, 38.1333, -97.4167
+Emmeram, 38.9586, -99.1319
+Emmett, 39.3072, -96.0558
+Empire City, 37.0833, -94.6333
+Emporia, 38.4039, -96.1814
+Emporia Junction, 38.4028, -96.1611
+Englevale, 37.5939, -94.7272
+Englewood, 37.0383, -99.9831
+Enosdale, 39.7711, -97.1611
+Ensign, 37.6528, -100.2333
+Enterprise, 38.9028, -97.1167
+Erie(Cowley), 36.9994, -97.0750
+Erie(Neosho), 37.5681, -95.2431
+Erving, 39.6167, -98.4500
+Esbon, 39.8222, -98.4356
+Eskridge, 38.8589, -96.1089
+Ettensan, 39.2258, -94.8628
+Eudora, 38.9433, -95.0983
+Eureka, 37.8239, -96.2889
+Eureka Lake, 39.1519, -96.6389
+Evan, 37.6833, -97.8667
+Everest, 39.6772, -95.4244
+Everett, 37.9833, -95.6500
+Evergreen, 39.8667, -101.4667
+Ewell, 37.3400, -97.6903
+Exeter, 39.2667, -97.2000
+Fairfax(Cloud), 39.1417, -94.6125
+Fairfax(Osage), 38.7167, -95.6667
+Fairmont, 39.1769, -96.5486
+Fairmont Addition, 39.2000, -96.5500
+Fairmount, 39.1917, -94.9353
+Fairplay, 38.2333, -96.9833
+Fairport, 39.0458, -99.0294
+Fairview, 39.8411, -95.7278
+Fairway, 39.0222, -94.6317
+Fall Leaf, 38.9742, -95.1103
+Fall River, 37.6078, -96.0278
+Falun, 38.6711, -97.7592
+Fancy Creek, 39.4167, -96.8833
+Fanning, 39.8347, -95.1611
+Fargo, 37.1500, -100.7500
+Farhman, 38.5794, -98.4989
+Farlington, 37.6178, -94.8275
+Farlinville, 38.2333, -94.8536
+Farmington(Atchison), 39.5186, -95.3094
+Farmington(Reno), 38.0667, -97.9500
+Faulkner, 37.1014, -95.0114
+Fawn Creek, 37.0500, -95.7167
+Fellsburg, 37.8119, -99.1750
+Fern, 37.3469, -95.3761
+Fiat, 37.5408, -96.2072
+Fidelity, 39.7900, -97.7886
+Filler, 37.3825, -94.8250
+Finley, 39.9667, -100.6833
+Five Creeks, 39.3500, -97.3167
+Five Points, 39.2303, -95.0311
+Fleming, 37.3681, -94.7828
+Flora, 39.0833, -97.3000
+Floral, 37.3528, -96.9206
+Florence, 38.2444, -96.9278
+Flush, 39.2944, -96.4403
+Fontana, 38.4258, -94.8381
+Foote, 37.9333, -100.3333
+Ford, 37.6361, -99.7536
+Forest City, 37.3225, -98.7303
+Forest Hills, 37.6903, -97.2383
+Formoso, 39.7800, -97.9919
+Forney, 39.4156, -98.6197
+Forrester, 38.5167, -99.9833
+Fort Dodge, 37.7319, -99.9350
+Fort Downer, 38.8408, -99.9778
+Fort Riley, 39.0667, -96.7833
+Fort Scott, 37.8397, -94.7081
+Fostoria, 39.4397, -96.5075
+Fountain, 39.1833, -97.8667
+Four Corners, 38.7825, -95.6861
+Four Mile, 38.5833, -96.5167
+Fowler, 37.3856, -100.1953
+Fox Town, 37.5136, -94.6486
+Fragrant Hill, 39.0833, -97.0167
+Frankfort, 39.7056, -96.4167
+Franklin, 37.5264, -94.7056
+Frantz, 38.5514, -98.2381
+Frederick, 38.5133, -98.2681
+Fredonia, 37.5339, -95.8264
+Freemount, 38.5453, -97.7772
+Freeport, 37.1986, -97.8567
+Fremont, 38.5000, -96.1500
+Friend, 38.2600, -100.9111
+Frisbie, 39.0144, -94.8869
+Frizell, 38.1661, -99.2139
+Frontenac, 37.4556, -94.6889
+Fruitland, 37.2039, -95.7106
+Fuller, 37.5222, -94.6194
+Fulton, 38.0100, -94.7194
+Furley, 37.8792, -97.2125
+Gaeland, 38.9333, -100.7333
+Galatia, 38.6417, -98.9583
+Gale, 38.4000, -97.1000
+Galena, 37.0758, -94.6394
+Galesburg, 37.4736, -95.3583
+Galt, 38.4644, -98.0842
+Galva, 38.3819, -97.5372
+Gano, 38.1922, -100.9108
+Garden City, 37.9717, -100.8722
+Garden Plain, 37.6583, -97.6833
+Gardner, 38.8108, -94.9269
+Gardner Lake, 38.8167, -94.9167
+Garfield, 38.0778, -99.2444
+Garfield Center, 39.5236, -97.1278
+Garland, 37.7317, -94.6222
+Garnett, 38.2806, -95.2417
+Garvin, 37.2419, -95.1939
+Gas, 37.9236, -95.3458
+Gaylord, 39.6439, -98.8472
+Geary, 39.7667, -94.9500
+Geary Community Hospital, 39.0139, -96.8508
+Gem, 39.4278, -100.8972
+Geneseo, 38.5161, -98.1564
+Geneva, 38.0169, -95.4939
+Georgia, 37.6278, -98.0083
+Gerlane, 37.1525, -98.5494
+German, 39.9667, -99.0167
+Gettysburg, 39.4000, -100.0333
+Geuda Springs, 37.1142, -97.1489
+Gibbs, 37.1375, -96.3267
+Gilbert, 39.4828, -98.0408
+Gill, 39.1833, -97.1167
+Gilman, 39.8667, -95.9500
+Girard, 37.5111, -94.8378
+Glade, 39.6847, -99.3094
+Gladstone, 38.3431, -96.4939
+Glasco, 39.3567, -97.8408
+Glen Crouse, 37.4333, -96.6167
+Glen Elder, 39.4986, -98.3083
+Glendale, 38.8983, -97.8747
+Glenlock, 38.3100, -95.3417
+Glenville, 37.6125, -97.3472
+Glenwood, 39.9667, -99.2333
+Glick, 37.4667, -99.0833
+Globe, 38.7822, -95.3994
+Goddard, 37.6597, -97.5750
+Godfrey, 37.7617, -94.7097
+Goessel, 38.2464, -97.3486
+Goff, 39.6639, -95.9319
+Golden Belt, 38.9167, -98.3167
+Golden Belt Spur, 38.8333, -97.6000
+Goldenrod, 39.0600, -98.2442
+Good Intent, 39.6000, -95.2167
+Goodland, 39.3508, -101.7097
+Goodman, 39.0167, -94.7000
+Goodrich, 38.2847, -94.9917
+Gordon, 37.5886, -96.9903
+Gore, 37.4167, -97.1833
+Gorham, 38.8817, -99.0228
+Goshen, 39.5167, -97.0167
+Gove, 38.9578, -100.4883
+Grace Hospital, 38.0614, -97.9308
+Grafton, 37.2003, -96.1494
+Graham, 39.5000, -99.8000
+Grainfield, 39.1136, -100.4647
+Granada, 39.7200, -95.7933
+Grand River, 37.6833, -97.7667
+Grand Summit, 37.3681, -96.5464
+Grandview, 39.0672, -94.8981
+Grandview Plaza, 39.1792, -98.7889
+Granite, 39.9667, -99.4667
+Grant, 39.1186, -98.3333
+Grantville, 39.0833, -95.5611
+Grasshopper, 39.6167, -95.4833
+Gray, 38.1583, -99.6417
+Grays Park, 39.0500, -94.6333
+Great Bend, 38.3644, -98.7644
+Greeley, 38.3667, -95.1267
+Green, 39.4278, -97.0017
+Green Garden, 38.5667, -98.3167
+Greenbush, 37.5144, -94.9878
+Greenleaf, 39.7283, -96.9758
+Greensburg, 37.6028, -99.2922
+Greenwich, 37.7828, -97.2033
+Greenwich Heights, 37.6533, -97.2050
+Grenola, 37.3486, -96.4503
+Gretna, 39.7653, -99.2125
+Gridley, 38.0978, -95.8833
+Grigston, 38.4847, -100.7167
+Grinnell, 39.1272, -100.6286
+Grinter Heights, 39.0739, -94.7639
+Gross, 37.6008, -94.6494
+Grove(Labette), 37.3250, -95.4306
+Grove(Shawnee), 39.1675, -95.8589
+Grove Center, 39.0625, -94.8014
+Groveland, 38.2931, -97.7292
+Grover, 39.0597, -95.4600
+Guelph, 37.0667, -97.3000
+Guilford, 37.5992, -95.7194
+Guittard, 39.8667, -96.4000
+Gypsum, 38.7056, -97.4278
+Gypsum Creek, 38.5667, -97.4333
