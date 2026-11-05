@@ -1,0 +1,380 @@
+Kaler, 36.8856, -88.5464
+Kaliopi, 37.2333, -83.4167
+Kansas, 36.9017, -88.7283
+Karlus, 36.9939, -85.0264
+Katharyn, 38.0008, -85.9289
+Kavanaugh, 38.2533, -82.5869
+Kavito, 37.0667, -84.8333
+Kayjay, 36.7442, -83.8492
+Keaton, 37.9833, -82.9667
+Keavy, 37.0036, -84.1611
+Keck, 37.6044, -83.3592
+Keefer, 38.5350, -84.6339
+Keene, 37.9433, -84.6419
+Keeneland, 38.2747, -85.5675
+Kehoe, 38.4661, -83.0514
+Keith, 36.8522, -83.3714
+Kelat, 38.5261, -84.3122
+Kellacey, 37.9619, -83.3917
+Kelly, 36.9706, -87.4769
+Kellyville, 37.1972, -85.3256
+Keltner, 37.0950, -85.5103
+Kemp, 37.1364, -85.4581
+Ken Wye, 37.3456, -86.9533
+Kenawood, 38.0583, -84.4517
+Kenmont, 37.2000, -83.1333
+Kennebec, 38.2069, -84.9131
+Kennedy, 36.6483, -87.4150
+Keno, 36.8939, -84.5747
+Kensee, 36.5833, -84.1333
+Kensington, 38.9036, -84.6133
+Kentenia, 36.7961, -83.4011
+Kenton, 38.8683, -84.4561
+Kenton Hills, 39.0839, -84.5317
+Kenton Vale, 39.0508, -84.5192
+Kentontown, 38.4928, -84.1194
+Kentucky Ridge, 36.7000, -83.7500
+Kenvir, 36.8536, -83.1572
+Kenwood, 38.1644, -85.7692
+Kepler, 36.9747, -86.2006
+Kerby Knob, 37.5217, -84.1133
+Kern Orchard, 37.5500, -87.9833
+Kernie, 37.7567, -83.1681
+Kerz, 37.9167, -82.8397
+Kessinger, 37.3058, -85.9594
+Keswick, 36.5833, -84.1333
+Kettle, 36.7022, -85.3611
+Kettle Island, 36.7906, -83.6053
+Kevil, 37.0850, -88.8867
+Kewanee, 37.4436, -82.5161
+Keysburg, 36.6511, -87.0081
+Kidder, 36.9150, -84.6517
+Kidds Crossing, 36.7564, -84.6800
+Kidds Store, 37.4667, -84.8167
+Kiddville, 37.9597, -83.9931
+Kildav, 36.8583, -83.2058
+Kilgore, 38.3333, -82.7667
+Kimbrell, 37.8042, -83.9911
+Kimper, 37.4969, -82.3506
+Kinchloes Bluff, 37.3000, -87.1333
+King Mills, 37.7367, -87.7522
+Kingbee, 37.1547, -84.7381
+Kings Creek, 37.0517, -82.9147
+Kings Mountain, 37.3725, -84.6881
+Kingsley, 38.2208, -85.6719
+Kingston(Fayette), 38.0864, -84.4533
+Kingston(Madison), 37.6503, -84.2417
+Kingswood, 37.7189, -86.4086
+Kinniconick, 38.5211, -83.3381
+Kino, 36.9478, -85.7775
+Kirbyton, 36.8406, -88.8639
+Kirk, 37.7239, -86.4786
+Kirkland, 37.7667, -84.8500
+Kirkmansville, 37.0100, -87.2425
+Kirksey, 36.6986, -88.3953
+Kirksville, 37.6653, -84.4092
+Kirkville, 38.6975, -83.0414
+Kirkwood, 37.9164, -84.9233
+Kirkwood Springs, 37.2511, -87.7647
+Kirtley, 37.4369, -87.1011
+Kise, 37.9881, -82.6594
+Kiserton, 38.2769, -84.2761
+Kite, 37.3211, -82.8031
+Kitts, 36.8558, -83.2953
+Klondike, 38.0206, -83.9969
+Klondyke, 37.9464, -85.0903
+Knifley, 37.2428, -85.1894
+Knightsburg, 37.2128, -86.9194
+Knob Lick, 37.0783, -85.6944
+Knopp, 38.1478, -85.7308
+Knottsville, 37.7717, -86.9042
+Knowlton, 37.7861, -83.8375
+Knoxville, 38.7011, -84.5058
+Kodak, 37.2053, -83.0314
+Kohler, 38.8703, -84.3294
+Kona, 37.1575, -82.7389
+Koon, 37.0667, -88.1333
+Korea, 37.9419, -83.4786
+Kosmosdale, 38.0328, -85.9092
+Kraft, 37.7169, -85.9708
+Kragon, 37.5067, -83.3444
+Krebs, 36.9944, -88.6058
+Kronos, 37.3958, -87.0658
+Krypton, 37.3111, -83.3394
+Kuttawa, 37.0589, -88.1325
+Kuttawa Springs, 37.0667, -88.1333
+Kyrock, 37.2633, -86.2567
+L & E Junction, 38.0025, -84.0667
+L S Park, 38.1956, -85.3997
+La Center, 37.0767, -88.9736
+La Fayette, 36.6583, -87.6583
+La Grange, 38.4075, -85.3789
+Labascus, 37.2264, -84.9192
+Lacey, 37.8597, -83.0317
+Lacie, 38.5269, -85.1294
+Lackey, 37.4683, -82.8289
+Lacon, 37.4922, -86.0842
+Laden, 36.9164, -83.1933
+Lair, 38.3419, -84.3078
+Lake, 37.0894, -83.8856
+Lake City, 37.0275, -88.2483
+Lake Dreamland, 38.1833, -85.8167
+Lake Louisvilla, 38.3136, -85.5142
+Lakeland, 38.2703, -85.5542
+Lakeshore, 37.1342, -87.6994
+Lakeside Park, 39.0356, -84.5692
+Laketon, 36.8633, -89.1017
+Lakeview, 39.0386, -84.5286
+Lakeview Acres, 38.0081, -84.4825
+Lakeview Heights, 38.1514, -83.5044
+Lakeville, 37.7189, -83.0711
+Lamasco, 36.9861, -87.9361
+Lamb(Kenton), 38.9561, -84.4481
+Lamb(Monroe), 36.7586, -85.8992
+Lambert, 37.3833, -82.7333
+Lambric, 37.5686, -83.1306
+Lamero, 37.3008, -84.1606
+Lamont(Perry), 37.3497, -83.3136
+Lamont(McCracken), 37.0569, -88.8042
+Lancaster, 37.6194, -84.5781
+Lancer, 37.6669, -82.7369
+Landsaw, 37.7275, -83.4514
+Lanes Mill, 38.1036, -84.8808
+Langley(Maytown Station), 37.5317, -82.7908
+Langnau, 37.1333, -84.0833
+Langstaff, 38.6414, -85.1133
+Lanhamtown, 37.3361, -84.8825
+Lansdowne, 37.9986, -84.5025
+Larkslane, 37.3847, -82.8814
+Larue, 37.2031, -83.9250
+Latonia, 39.0481, -84.5089
+Latonia Lakes, 38.9675, -84.4978
+Laura, 37.7075, -82.4328
+Laurel Creek, 37.2450, -83.7489
+Laurel Ford, 36.8133, -83.5506
+Laurel Fork, 36.6333, -83.9333
+Laurel Gap, 38.4167, -82.6000
+Lawhorn Hill, 37.3000, -84.8539
+Lawrenceburg, 38.0372, -84.8967
+Lawrenceville, 38.5681, -84.6500
+Lawson, 37.6019, -83.4586
+Lawton, 38.2667, -83.2208
+Layman, 36.8286, -83.4633
+Laynesville, 37.5333, -82.6333
+Leach, 36.6333, -83.9333
+Leafdale, 37.5633, -85.6647
+Leander, 37.7531, -82.8717
+Leatha, 37.8181, -83.0167
+Leatherwood, 37.0328, -83.1725
+Lebanon, 37.5697, -85.2528
+Lebanon Junction, 37.8344, -85.7319
+Leburn, 37.3481, -82.9553
+Leckieville, 37.6589, -82.2725
+Lecta, 37.0111, -85.8561
+Ledbetter, 37.0475, -88.4769
+Ledford, 36.5300, -89.3025
+Ledocio, 38.0289, -82.7142
+Lee, 37.2958, -86.4994
+Lee City, 37.7392, -83.3331
+Leeco, 37.7108, -83.6950
+Lees Lick, 38.3358, -84.4186
+Leesburg, 38.2944, -84.4183
+Leestown, 38.2000, -84.8667
+Leestown Terrace, 38.2000, -84.8667
+Leetown, 37.1394, -86.7428
+Legrand, 37.1833, -85.9000
+LeGrande, 37.1781, -85.7822
+Leighton, 37.6036, -83.8861
+Leisure, 38.0447, -83.3042
+Leitchfield, 37.4800, -86.2939
+Leitchfield Crossing, 37.3014, -85.9125
+Lejunior, 36.9011, -83.1342
+Lemen Landing, 37.1947, -88.3478
+Lemon, 37.5811, -87.3783
+Lenarue(Glidden Station), 36.8061, -83.2675
+Lennut, 37.2667, -83.2167
+Lenore, 37.9383, -85.5094
+Lenox, 37.9572, -83.2014
+Lenoxburg, 38.7425, -84.2250
+Leon, 38.2878, -82.9769
+Lerose, 37.4822, -83.6156
+Lesbas, 37.0789, -83.9956
+Leslie, 36.7794, -85.4519
+Letcher, 37.1450, -82.9592
+Letitia, 38.6367, -83.0047
+Levee, 37.9711, -83.9353
+Level Green, 37.2811, -84.4261
+Levi, 37.4803, -83.7208
+Levias, 37.3078, -88.1808
+Levisa Junction, 37.4058, -82.4422
+Lewis, 36.8667, -83.2000
+Lewis County Infirmary, 38.5953, -83.3442
+Lewis Creek, 36.9894, -83.3169
+Lewisburg(Logan), 36.9864, -86.9472
+Lewisburg(Mason), 38.5489, -83.7650
+Lewisport, 37.9369, -86.9022
+Lewistown, 37.1428, -87.8006
+Lexie, 37.7289, -83.4039
+Lexington, 38.0492, -84.5003
+Lexington Clinic, 38.0358, -84.5211
+Lexington Manor, 38.0431, -84.4697
+Lexington-Blue Grass Army Depot, 38.0667, -84.4833
+Liberty(Webster), 37.5167, -87.6833
+Liberty(Casey), 37.3183, -84.9394
+Liberty(Meade), 38.0281, -86.3192
+Liberty(Todd), 36.8881, -87.1928
+Liberty(Whitley), 36.7647, -84.2042
+Liberty Heights, 38.0389, -84.4658
+Liberty Road, 37.9056, -83.2928
+Lick Branch, 37.9167, -83.2667
+Lick Creek, 37.3803, -82.2972
+Lick Fork, 38.0964, -83.4111
+Lickburg, 37.7928, -83.0853
+Licking River, 37.9372, -83.3064
+Lickskillet(Logan), 36.7381, -86.9897
+Lickskillet(Meade), 37.9339, -86.0572
+Lida, 37.0822, -83.9347
+Liggett, 36.7519, -83.3472
+Ligon, 37.3703, -82.6728
+Lilac, 37.5489, -86.3442
+Liletown, 37.1439, -85.5833
+Lily, 37.0244, -84.0753
+Limaburg, 39.0200, -84.6872
+Limestone, 38.2661, -83.2072
+Limestone Springs, 37.9303, -85.6683
+Limeville, 38.7075, -82.8811
+Limp, 37.5922, -86.1975
+Lincoln(Clay), 37.0578, -83.7392
+Lincoln(Edmonson), 37.2667, -86.2500
+Lincoln Ridge, 38.2183, -85.3753
+Lincolnshire, 38.2231, -85.6214
+Lindseyville, 37.2358, -86.2944
+Linefork, 37.0197, -82.9597
+Lines Mill, 37.3581, -86.0428
+Linton, 36.6867, -87.9186
+Linwood(Grayson), 37.3419, -86.1761
+Linwood(Hart), 37.3394, -85.7600
+Linwood Park, 37.3506, -86.1428
+Lionilli, 37.2606, -82.6114
+Liro, 38.4011, -85.3386
+Lisletown, 37.9192, -84.2736
+Lisman, 37.4661, -87.7342
+Litsey, 37.7694, -85.1928
+Littcarr, 37.2408, -82.9489
+Little, 37.4397, -83.3619
+Little Barren, 37.1278, -85.6178
+Little Bear Creek, 36.9556, -88.2417
+Little Creek, 36.8000, -83.6500
+Little Cypress, 37.0167, -88.4461
+Little Dixie, 37.4614, -82.5594
+Little Georgetown, 38.0264, -84.6158
+Little Hickman, 37.7736, -84.5703
+Little Mount, 38.0614, -85.2514
+Little Muddy, 37.2333, -86.6833
+Little Needmore, 37.6578, -84.7267
+Little Rock, 38.1939, -84.0511
+Little Sandy, 38.0611, -83.1819
+Little Tar Springs, 37.9000, -86.7500
+Little Texas, 38.0125, -84.6419
+Little Zion, 37.5444, -87.7233
+Littleton, 37.1625, -83.7547
+Littleville, 37.0611, -88.6033
+Littrell, 36.6858, -85.3964
+Livermore, 37.4931, -87.1319
+Livia, 37.5708, -87.1044
+Livingston, 37.2978, -84.2150
+Lloyd, 38.6200, -82.8647
+Load, 38.5461, -82.9708
+Loam, 37.4075, -84.1297
+Lobb, 37.3458, -85.6450
+Lockards Creek, 37.1167, -83.7500
+Lockport, 38.4358, -84.9672
+Lockwood, 38.3083, -82.5803
+Locust(Fleming), 38.2997, -83.7344
+Locust(Carroll), 38.7031, -85.2608
+Locust Branch, 37.5861, -84.0697
+Locust Grove(Clark), 37.9344, -84.3186
+Locust Grove(Pendleton), 38.6372, -84.4881
+Locust Hill, 37.7278, -86.3567
+Lodale, 38.0431, -86.2808
+Lodiburg, 37.9044, -86.4028
+Log Lick, 37.8581, -84.0269
+Log Mountain, 36.7667, -83.7000
+Logana, 37.8647, -84.4869
+Logansport, 37.2850, -86.7681
+Logantown, 37.5606, -84.6297
+Logmont, 36.6167, -83.7333
+Logsdon Valley, 37.2661, -85.9619
+Logville, 37.8728, -83.1100
+Lola, 37.3186, -88.3078
+Lombard, 37.8500, -83.8667
+London, 37.1289, -84.0833
+Lone, 37.5300, -83.6039
+Lone Oak(Grayson), 37.4256, -86.0717
+Lone Oak(McCracken), 37.0361, -88.6647
+Lone Star, 37.4047, -85.9467
+Long Bottom, 36.8822, -85.1297
+Long Fork, 37.3000, -82.6500
+Long Ridge(Owen), 38.5872, -84.8236
+Long Ridge(Cumberland), 36.7444, -85.2961
+Long Run, 38.2317, -85.4242
+Long View, 37.7894, -85.9131
+Longlick, 38.3425, -84.6583
+Longstreet, 37.0667, -85.1000
+Longton, 36.8356, -83.4103
+Longview, 38.2992, -85.6589
+Longview Beach, 38.3656, -85.6394
+Lookout, 37.3133, -82.4669
+Lookout Heights, 39.0672, -84.5433
+Loradale, 38.1950, -84.3975
+Loretto, 37.6353, -85.4008
+Lost City, 36.9769, -86.9050
+Lost Creek, 37.4817, -83.3253
+Lost River, 36.9528, -86.4753
+Lot, 36.6008, -84.0878
+Lothair, 37.2419, -83.1808
+Lotus, 37.9189, -85.5967
+Louden, 36.7517, -84.0258
+Louellen, 36.9128, -83.0942
+Louisa, 38.1142, -82.6033
+Louisville, 38.2542, -85.7594
+Love, 37.2831, -86.5272
+Lovelaceville, 36.9686, -88.8308
+Lovely, 37.8258, -82.4014
+Loving, 37.0203, -86.2911
+Low Gap, 36.6450, -84.9589
+Lowell, 37.6094, -84.4253
+Lower Buffalo, 37.5278, -83.6878
+Lower Gillmore, 37.7639, -83.3694
+Lower Kings Addition, 38.7167, -82.9667
+Lower Pompey, 37.4833, -82.5167
+Lower Spencer, 38.0286, -83.8403
+Lowes, 36.8856, -88.7739
+Lowgap, 36.9667, -85.4333
+Lowmansville, 37.9172, -82.7319
+Loyall, 36.8519, -83.3542
+Lucas, 36.8917, -86.0375
+Lucastown, 37.2064, -82.7967
+Lucile, 38.0833, -83.1333
+Lucky, 36.7369, -84.0722
+Lucky Fork, 37.3675, -83.5700
+Lucky Stop, 37.9647, -83.8147
+Ludlow, 39.0925, -84.5475
+Lunah, 37.5625, -83.1769
+Luner, 37.2356, -84.2756
+Lupton, 36.8667, -83.2000
+Lusby's Mill, 38.5333, -84.8333
+Luzerne, 37.2183, -87.2108
+Luzon, 37.5167, -87.6833
+Lykins, 37.7781, -83.2219
+Lynch, 36.9661, -82.9225
+Lyndale, 37.9692, -84.2053
+Lyndon, 38.2567, -85.6017
+Lynn, 38.5836, -82.9394
+Lynn City, 37.3717, -87.2508
+Lynn Grove, 36.5892, -88.4381
+Lynncamp, 36.9500, -84.1000
+Lynnview, 38.1783, -85.7097
+Lynnville, 36.5603, -88.5692
+Lyons, 37.6778, -85.6125
+Lytten, 38.1044, -83.2211

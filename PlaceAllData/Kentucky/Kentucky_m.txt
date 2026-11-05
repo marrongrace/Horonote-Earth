@@ -1,0 +1,362 @@
+Mac, 37.4000, -85.5106
+Macedonia(Christian), 37.0500, -87.4833
+Macedonia(Jackson), 37.4586, -83.9658
+Maceo, 37.8639, -86.9939
+Mackville, 37.7367, -85.0675
+Macon, 37.3308, -86.0197
+Madisonville, 37.3281, -87.4989
+Madrid, 37.6122, -86.3422
+Magan, 37.6003, -86.7994
+Magee Springs, 36.9225, -88.9375
+Maggard, 37.8186, -83.0956
+Maggie, 36.8667, -87.8333
+Magnolia, 37.4439, -85.7436
+Main Street, 37.4833, -82.5167
+Majestic, 37.5339, -82.1000
+Major, 37.4139, -83.6986
+Malaga, 37.7117, -83.4275
+Mallie, 37.3000, -82.9167
+Malone, 37.8719, -83.2583
+Maloneton, 38.6842, -82.9181
+Maloney, 37.5825, -83.6747
+Mammoth Cave, 37.1861, -86.1000
+Manchester, 37.1536, -83.7619
+Manco, 37.2833, -82.4667
+Manda, 37.3333, -86.7833
+Mangum, 37.1733, -84.7728
+Manila, 37.8500, -82.9000
+Manitou, 37.3711, -87.5797
+Manning Crossing, 37.9958, -86.4811
+Mannington, 37.1200, -87.4875
+Mannsville, 37.3725, -85.1967
+Manntown, 36.8783, -85.1608
+Manor Creek, 38.2833, -85.5833
+Manse, 37.5878, -84.4378
+Manton(Floyd), 37.5500, -82.7833
+Manton(Washington), 37.7147, -85.3853
+Manuel, 37.3506, -83.3047
+Maple, 37.4642, -85.5022
+Maple Grove, 36.7750, -87.8958
+Maple Mount, 37.7000, -87.4333
+Maples Corner, 37.8331, -86.1336
+Maplesville, 37.1500, -84.0278
+Marcellus, 37.6861, -84.6772
+Marcum, 37.1106, -83.5597
+Marcus, 38.5681, -84.4642
+Mare Creek, 37.5833, -82.6500
+Maretburg, 37.3553, -84.3872
+Mariba, 37.9161, -83.5786
+Marion, 37.3328, -88.0811
+Mark, 37.1631, -84.5044
+Marksbury, 37.6725, -84.6378
+Marlow, 36.7772, -85.0925
+Marlowe, 37.1311, -82.8308
+Marne No 2, 36.8667, -83.2000
+Marrowbone(Cumberland), 36.8278, -85.5067
+Marrowbone(Pike), 37.3658, -82.4139
+Marshall(Mason), 38.5450, -83.7631
+Marshall(Marshall), 36.9458, -88.2347
+Marshallville, 37.6781, -82.9894
+Marshes Siding, 36.7436, -84.4808
+Martha, 38.0092, -82.9133
+Martha Mills, 38.4167, -83.7833
+Martin, 37.5728, -82.7528
+Martins Fork, 36.7161, -83.3222
+Martinsburg, 36.6458, -85.4853
+Martinsville, 36.9244, -86.2147
+Martwick, 37.3269, -87.0239
+Mary(Wolfe), 37.6683, -83.5364
+Mary(Jefferson), 38.1781, -85.7933
+Mary Alice, 36.7842, -83.3300
+Mary Helen(Coalgood P O), 36.8128, -83.2550
+Marydale, 39.0261, -84.6217
+Marydell, 37.1092, -83.9089
+Maryhill Estates, 38.2667, -85.6503
+Marymount Hospital, 37.1311, -84.0828
+Mashfork, 37.7614, -83.0056
+Mason(Grant), 38.5761, -84.5853
+Mason(Magoffin), 37.7206, -83.0500
+Masonic Home, 38.2167, -85.7500
+Masonville(Daviess), 37.6750, -87.0347
+Masonville(Christian), 36.7675, -87.4706
+Massac, 37.0167, -88.7306
+Matanzas, 37.4506, -87.0586
+Mathers Mill, 37.5403, -85.7692
+Matlock, 36.8328, -86.4661
+Matthew, 37.8561, -83.1586
+Mattingly, 37.7628, -86.6019
+Mattoon, 37.4033, -88.0231
+Mattoxtown, 38.1272, -84.4503
+Maud, 37.8214, -85.2967
+Maulden, 37.3556, -83.8686
+Maurice, 39.0128, -84.5336
+Mavity, 38.3447, -82.6997
+Mavo, 37.8725, -84.9261
+Maxie, 36.5833, -84.1333
+Maxine, 37.4650, -85.7956
+Maxon, 37.0889, -88.7306
+Maxon Crossing, 37.0831, -88.7511
+Maxville, 39.0333, -84.7333
+Maxwell, 37.5614, -87.0375
+May, 37.2711, -82.8633
+Mayfield, 36.7417, -88.6367
+Mayflower, 37.6167, -82.4833
+Mayhew, 38.3333, -82.7667
+Mayking, 37.1333, -82.7661
+Maynard, 36.7692, -86.0758
+Mayo, 37.8667, -84.9333
+Mayo Village, 37.4525, -82.5236
+Mays Lick, 38.5175, -83.8419
+Maysville, 38.6411, -83.7444
+Maytown, 37.8489, -83.4719
+Maywood, 37.4803, -84.6169
+Mazie, 38.0269, -82.9725
+McAfee, 37.8506, -84.8519
+McAndrews, 37.5736, -82.2683
+McBrayer, 37.9753, -84.8856
+McCarr, 37.6108, -82.1700
+McClure, 37.7647, -82.4872
+McCombs, 37.6536, -82.5842
+McCoy, 37.6186, -86.3817
+McCreary, 37.6711, -84.5156
+McCreight, 37.0167, -83.8167
+McDaniels, 37.6067, -86.4250
+McDavid, 38.3333, -82.9500
+McDowell, 37.4558, -82.7364
+McElroy Ford, 36.7339, -86.4100
+McGaha, 37.1000, -85.3000
+McGlone, 38.2833, -83.0833
+McGowan, 37.0578, -87.8444
+McHargue, 37.0053, -84.0175
+McHenry, 37.3819, -86.9225
+McKee, 37.4303, -83.9981
+McKees Crossroads, 38.1208, -84.7761
+McKinney, 37.4525, -84.7592
+McKinneysburg, 38.5972, -84.2653
+McNary, 37.2153, -87.3294
+McQuady, 37.7083, -86.5189
+McRoberts, 37.2075, -82.6719
+McVeigh, 37.5383, -82.2561
+McVille, 38.9775, -84.8242
+McWhorter, 37.2342, -84.0000
+Meador, 36.8911, -86.1761
+Meadow Branch, 37.7500, -83.5500
+Meadow Creek, 36.8333, -84.1167
+Meadow Lawn, 38.0597, -85.8975
+Meadow Vale, 38.2833, -85.5833
+Meadowbrook, 38.0022, -84.2044
+Meadowthorpe, 38.0700, -84.5233
+Meadowview, 37.7500, -84.3000
+Meadowview Estates, 38.2222, -85.6356
+Meads, 38.4125, -82.7092
+Meally, 37.7967, -82.7400
+Means, 37.9492, -83.7725
+Medora, 38.0531, -85.8700
+Meece, 37.0283, -84.5089
+Meeting Creek, 37.5833, -86.0500
+Melber, 36.9464, -88.7253
+Melbourne, 39.0297, -84.3664
+Meldrum, 36.6669, -83.6942
+Mell, 37.1122, -85.5286
+Melrose(Greenup), 38.5494, -82.7286
+Melrose(Hardin), 37.4892, -85.9922
+Melvin, 37.3503, -82.6942
+Memphis Junction, 36.9422, -86.4892
+Mendola Village, 37.7833, -82.8000
+Mentor, 38.8872, -84.2464
+Menzie, 38.7397, -84.3400
+Mercer, 37.2575, -87.1511
+Meredith, 37.4025, -86.2369
+Meridian, 38.7767, -84.3539
+Merrifield, 38.2786, -85.6403
+Merrimac, 37.4125, -85.1286
+Merrittstown, 36.8464, -87.5714
+Merry Oaks, 37.0222, -86.1061
+Mershons, 37.2831, -84.1258
+Meshack, 36.7325, -85.5489
+Meta, 37.5703, -82.4375
+Methodist Hospital, 37.4697, -82.5217
+Mexico, 37.2250, -88.0967
+Midas, 37.5122, -82.8350
+Middle Creek, 37.5667, -85.7333
+Middleburg, 37.3578, -84.8211
+Middlefork, 37.4333, -84.0000
+Middlesboro, 36.6083, -83.7167
+Middlesborough, 36.6083, -83.7167
+Middleton, 36.7508, -86.7347
+Middletown(Russell), 37.0206, -85.0761
+Middletown(Jefferson), 38.2453, -85.5389
+Middletown(Madison), 37.5897, -84.3000
+Middletown Heights, 38.2158, -85.2422
+Midland(Bath), 38.1331, -83.5778
+Midland(Muhlenberg), 37.3058, -87.2306
+Midway(Caldwell), 37.1378, -87.7811
+Midway(Calloway), 36.5514, -88.3239
+Midway(Crittenden), 37.3056, -88.1758
+Midway(Meade), 37.9519, -86.2386
+Midway(Woodford), 38.1508, -84.6839
+Mikegrady, 37.3394, -82.3125
+Milburn, 36.7986, -88.8997
+Mildred, 37.3539, -83.9275
+Milford, 38.5817, -84.1567
+Mill Creek, 38.5167, -83.8333
+Mill Pond, 37.2292, -83.7375
+Mill Springs, 36.9319, -84.7792
+Millard, 37.4078, -82.4383
+Milledgeville, 37.5206, -84.8139
+Miller, 36.5183, -89.3386
+Miller Landing, 37.1839, -88.3792
+Millers Creek, 37.6717, -83.8969
+Millersburg, 38.3019, -84.1475
+Millerstown, 37.4453, -86.0508
+Million, 37.7797, -84.3875
+Millport, 37.3608, -87.2875
+Mills, 36.9167, -83.6500
+Millseat, 38.4906, -82.6708
+Millstone, 37.1672, -82.7517
+Milltown(Adair), 37.1222, -85.4075
+Milltown(Nicholas), 38.3333, -83.8461
+Millville, 38.1369, -84.8219
+Millwood, 37.4503, -86.3906
+Milner, 38.0333, -84.8072
+Milo, 37.9164, -82.5769
+Milton, 38.7236, -85.3694
+Mima, 37.9206, -83.0367
+Mina, 37.8625, -84.0672
+Minefork, 37.8633, -83.0119
+Minerva, 38.7053, -83.9192
+Miniard, 37.0833, -83.1000
+Mining City, 37.2272, -86.7789
+Minnie(Gibson Station), 37.4722, -82.7542
+Minor, 38.1322, -83.2653
+Minor Lane Heights, 38.1236, -85.7197
+Minorsville, 38.3294, -84.7036
+Mintonville, 37.1772, -84.8108
+Miracle(Bell), 36.7606, -83.5842
+Miracle(Lincoln), 37.4667, -84.6825
+Mistletoe, 37.3125, -83.5917
+Mitchell Hill, 37.3531, -87.5375
+Mitchell Landing, 37.1842, -88.2886
+Mitchellsburg, 37.6006, -84.9497
+Mize, 37.8594, -83.3736
+Moberly, 37.7417, -84.1828
+Mockingbird Valley, 38.2725, -85.6822
+Moct, 37.6614, -83.3458
+Modoc, 36.7358, -85.3028
+Molus, 36.8131, -83.4906
+Monford, 37.2672, -86.6414
+Monica, 37.5842, -83.6017
+Monitor, 38.6547, -85.2664
+Monkeys Eyebrow, 37.1867, -88.9878
+Monroe, 37.2322, -85.6978
+Montclair(Fayette), 38.0225, -84.4978
+Montclair(Shelby), 38.2200, -85.3289
+Monterey(Owen), 38.4219, -84.8725
+Monterey(Bourbon), 38.1725, -84.3089
+Montgomery, 36.8781, -87.7406
+Montgomerys Mill, 37.2667, -85.5000
+Monticello(Fayette), 37.9922, -84.5503
+Monticello(Wayne), 36.8297, -84.8492
+Montpelier, 37.0189, -85.1856
+Montrose, 38.0722, -84.4053
+Montrose Park, 38.2000, -84.8667
+Mook, 37.6733, -86.3522
+Mooleyville, 38.0211, -86.4639
+Moon, 37.9733, -83.0489
+Moore, 37.3350, -84.8964
+Moore Hill, 36.9356, -84.0814
+Moorefield, 38.2731, -83.9311
+Moores Creek, 37.2831, -83.9950
+Moores Ferry, 38.1167, -83.6167
+Moores Mill, 36.7000, -85.7000
+Mooresville, 37.7989, -85.2653
+Moorland, 38.2722, -85.5836
+Moorman, 37.3833, -87.1442
+Moranburg, 38.6711, -83.8131
+Morcoal, 37.5667, -82.2500
+Moree, 37.7189, -82.5044
+Morehead(Muhlenberg), 37.2711, -87.1764
+Morehead(Rowan), 38.1839, -83.4328
+Moreland, 37.5056, -84.8133
+Morgan, 38.6028, -84.3989
+Morganfield, 37.6833, -87.9167
+Morgantown, 37.2256, -86.6836
+Morning Glory, 38.4006, -84.1478
+Morning View, 38.8319, -84.4564
+Morrill, 37.5192, -84.1975
+Morris Fork, 37.3825, -83.5161
+Mortiner Station, 36.6667, -86.8500
+Mortons Gap, 37.2367, -87.4753
+Mortonsville, 37.9719, -84.7564
+Moscow, 36.6069, -89.0361
+Moseleyville, 37.6631, -87.1933
+Mosley Bend, 37.2500, -83.4000
+Mossy Bottom, 37.5300, -82.5794
+Motley, 36.9075, -86.2881
+Mount Aerial, 36.7533, -86.3928
+Mount Auburn, 38.7894, -84.2728
+Mount Beulah, 37.2983, -85.9394
+Mount Carmel(Fleming), 38.4844, -83.6367
+Mount Carmel(Hopkins), 37.1675, -87.3683
+Mount Eden, 38.0561, -85.1511
+Mount Gilead(Monroe), 36.7000, -85.7000
+Mount Gilead(Green), 37.1731, -85.3842
+Mount Gilead(Mason), 38.5108, -83.7031
+Mount Herman, 36.7833, -85.7500
+Mount Lebanon, 37.8267, -84.5044
+Mount Olive(Lee), 37.6272, -83.7308
+Mount Olive(Casey), 37.2794, -84.7658
+Mount Olivet, 38.5314, -84.0369
+Mount Pisgah, 36.6589, -84.8147
+Mount Pleasant(Ohio), 37.4111, -86.7511
+Mount Pleasant(Trimble), 38.6131, -85.3839
+Mount Salem, 37.4172, -84.7994
+Mount Savage, 38.2653, -82.8914
+Mount Sherman, 37.4525, -85.6683
+Mount Sterling, 38.0564, -83.9433
+Mount Tabor(Larue), 37.5167, -85.7000
+Mount Tabor(Todd), 36.9586, -87.2192
+Mount Union, 36.6500, -86.2667
+Mount Vernon(Rockcastle), 37.3528, -84.3406
+Mount Vernon(Fayette), 38.0256, -84.4953
+Mount Victor, 36.9792, -86.3950
+Mount Victory, 37.0292, -84.3864
+Mount Washington, 38.0500, -85.5458
+Mount Zion(Allen), 36.6831, -86.0572
+Mount Zion(Puraski), 37.1842, -84.6764
+Mount Zion(Clark), 38.0308, -84.0961
+Mount Zion(Grant), 38.7408, -84.6597
+Mountain Ash, 36.6575, -84.1289
+Mountain Top, 38.2900, -83.1256
+Mountain Valley, 37.6614, -83.2689
+Mousie, 37.4183, -82.8783
+Moutardier, 37.3350, -86.2478
+Mouthcard, 37.3842, -82.2553
+Moxley, 38.5625, -85.0092
+Moxley Landing, 37.1861, -88.3058
+Mozelle, 37.0025, -83.3981
+Mud Camp, 36.8000, -85.3667
+Mud Creek, 37.4833, -82.6500
+Mud Lick, 36.7528, -85.7806
+Muddy Ford, 38.3092, -84.5025
+Muir, 38.1058, -84.3772
+Mulberry, 38.2650, -85.1342
+Muldraugh, 37.9369, -85.9917
+Mulfordtown, 37.5436, -88.0725
+Mullikin Junction, 37.2258, -88.3253
+Mullins, 37.3450, -84.2272
+Mullins Addition, 37.4833, -82.5167
+Mummie, 37.3936, -83.8711
+Mundys Landing, 37.8542, -84.7708
+Munfordville, 37.2722, -85.8911
+Munk, 38.7756, -84.6967
+Murl, 36.8133, -84.9581
+Murphy Ford, 37.1472, -87.6500
+Murphyfork, 37.8297, -83.4192
+Murphysville, 38.5681, -83.8658
+Murray, 36.6103, -88.3147
+Muses Mills, 38.3500, -83.5272
+Music, 38.3081, -82.8242
+Myers, 38.3508, -83.9533
+Myra, 37.2897, -82.6000
+Mystic, 37.8969, -86.4428

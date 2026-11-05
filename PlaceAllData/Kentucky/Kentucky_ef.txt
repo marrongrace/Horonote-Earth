@@ -1,0 +1,395 @@
+Eadsville, 36.8881, -84.8889
+Eagle Hill, 38.7031, -84.7886
+Eagle Station, 38.6500, -84.9500
+Earles, 37.3000, -87.3103
+Earlington, 37.2742, -87.5119
+Earnestville, 37.4833, -83.6667
+East Bardstown, 37.8325, -85.4089
+East Bernstadt, 37.1894, -84.1178
+East Fayette, 38.0333, -84.3833
+East Fork, 36.9833, -85.6167
+East Frankfort, 38.2000, -84.8667
+East Hickman, 37.9233, -84.4708
+East Jenkins, 37.1878, -82.6042
+East McDowell, 37.4475, -82.7253
+East Pineville, 36.7347, -83.6711
+East Point, 37.7461, -82.7908
+East Somerset, 37.1000, -84.6000
+East Union, 38.2400, -83.9806
+Easterday, 38.6756, -85.0744
+Eastern, 37.5169, -82.8061
+Eastern State Hospital, 38.0611, -84.4986
+Eastland(Fayette), 38.0461, -84.4597
+Eastland(Mason), 38.5833, -83.8667
+Eastland Park(Fayette), 38.0472, -84.4444
+Eastland Park(Warren), 36.9594, -86.4383
+Easton, 37.7061, -86.6817
+Eastview, 37.5889, -86.0558
+Eastwood, 38.2331, -85.4558
+Eastwood Hills, 37.9989, -86.1656
+Ebenezer(Monroe), 36.7000, -85.7000
+Ebenezer(Buhlenberg), 37.2039, -87.0808
+Ebenezer(Mercer), 37.8797, -84.8150
+Eberle, 37.2994, -84.0803
+Ebon, 37.9553, -83.4344
+Eby, 38.4389, -83.2044
+Echo, 37.0278, -85.7475
+Echols, 37.3336, -86.9642
+Eddy Bay, 37.0083, -88.0114
+Eddyville, 37.0944, -88.0803
+Eden, 37.2756, -86.7044
+Eden Bay, 37.0300, -88.0403
+Edenton, 37.7669, -84.4847
+Edgewater, 37.2894, -82.4583
+Edgewood(Bell), 36.6133, -83.7814
+Edgewood(Kenton), 39.0186, -84.5819
+Edgington, 38.6800, -82.8825
+Edgoten, 36.6417, -87.4239
+Edmonton, 36.9800, -85.6122
+Edna, 37.7933, -83.1506
+Edsel, 38.1178, -82.9094
+Edwards, 36.9592, -86.9408
+Eglon, 37.4614, -84.1300
+Egypt, 37.3131, -83.8961
+Eighty Eight, 36.9183, -85.7864
+Ekron, 37.9292, -86.1794
+Elamton, 37.9275, -83.1475
+Elba, 37.6533, -87.3628
+Elcomb, 36.8211, -83.3328
+Eldridge, 38.0361, -83.0572
+Elfie, 37.4000, -86.6000
+Eli, 37.0439, -84.9644
+Elias, 37.3894, -83.8311
+Elihu, 37.0464, -84.5922
+Elimer, 37.2511, -82.5628
+Elizabeth, 38.2167, -84.2500
+Elizabeths Hospital, 39.0669, -84.4994
+Elizabethtown, 37.6939, -85.8592
+Elizaville, 38.4194, -83.8256
+Elk Chester, 38.0719, -84.6181
+Elk Creek, 38.1003, -85.3711
+Elk Horn, 37.3164, -85.2853
+Elkatawa, 37.5569, -83.4269
+Elkfork, 37.9647, -83.1331
+Elkhorn City, 37.3039, -82.3511
+Elkin, 37.9128, -84.2239
+Elko, 37.1617, -86.1353
+Elkton, 36.8100, -87.1542
+Ella, 37.1567, -85.1397
+Ellen, 38.0514, -82.7458
+Eller, 37.0667, -85.1000
+Ellington, 36.7572, -85.4231
+Elliottville, 38.1828, -83.2758
+Ellisburg, 37.4672, -84.9194
+Elliston(Grant), 38.7344, -84.7467
+Elliston(Madison), 37.7408, -84.1553
+Ellisville, 38.3908, -84.0208
+Ellmitch, 37.6294, -86.6997
+Ellwood, 37.3244, -82.5786
+Elmburg, 38.3211, -85.0714
+Elmrock, 37.4522, -83.0258
+Elmville, 38.3411, -84.7614
+Elmwood, 37.5269, -87.4919
+Elna, 37.9083, -82.9617
+Elrod, 37.2192, -84.4694
+Elsie, 37.7783, -83.1361
+Elsinore, 38.2206, -84.7961
+Elsmere, 39.0125, -84.6047
+Elva, 36.9286, -88.4736
+Elys, 36.7833, -83.7333
+Emanuel, 36.9061, -83.9311
+Emberton, 36.7131, -85.8064
+Emerson, 38.3539, -83.2525
+Eminence, 38.3700, -85.1806
+Emlyn, 36.7044, -84.1433
+Emma, 37.6353, -82.7003
+Emmalena, 37.3342, -83.0744
+Empire, 37.0864, -87.4972
+Endee, 37.4297, -83.7542
+Endicott, 37.6664, -82.6386
+Engle, 37.3861, -83.2706
+English, 38.6283, -85.1281
+Ennis, 37.1983, -86.9742
+Enoch, 37.5433, -83.6756
+Enon, 37.2536, -87.9900
+Ensor, 37.7892, -86.9806
+Enterprise, 38.2597, -83.2547
+Eolia, 37.0536, -82.7917
+Epleys, 36.9269, -86.9386
+Epperson, 37.0258, -88.5344
+Epson, 37.7444, -83.2178
+Epworth, 38.5111, -83.5928
+Equality(Kronos Station), 37.3958, -87.0658
+Era, 37.0089, -87.5817
+Eriline, 37.1886, -83.5931
+Erlanger, 39.0167, -84.6008
+Ermine, 37.1211, -82.7922
+Erose, 36.9272, -83.6194
+Esco, 37.3669, -82.5508
+Escondida, 38.1261, -84.2281
+Essie, 37.0617, -83.4519
+Estesburg, 37.2575, -84.5936
+Estill, 37.4569, -82.8189
+Esto, 37.0042, -85.1108
+Estrado, 37.7500, -84.3000
+Ethridge, 38.7714, -84.9525
+Etna, 37.2258, -84.5803
+Etoile, 36.8356, -85.9000
+Etty, 37.2522, -82.6772
+Eubank, 37.2783, -84.6586
+Eubanks Ford, 36.6925, -86.4136
+Eunice, 37.1831, -85.1222
+Euterpe, 37.7150, -87.4433
+Evans Ford, 37.2311, -84.9856
+Evanston, 37.5419, -83.0317
+Evarts, 36.8658, -83.1906
+Eve, 37.3111, -85.6786
+Eveleigh, 37.5875, -86.3275
+Evelyn, 37.6122, -83.8578
+Ever, 37.8486, -83.0519
+Everett, 36.9364, -87.0542
+Evergreen(Lawrence), 38.0628, -82.6867
+Evergreen(Franklin), 38.1356, -84.9258
+Eversole, 37.4475, -83.6428
+Evona, 37.1942, -84.9106
+Ewalt Crossroads, 38.2739, -84.2994
+Ewing, 38.4272, -83.8633
+Ewingford, 38.6000, -85.3167
+Ewington, 38.0833, -83.9014
+Exie, 37.1597, -85.5358
+Ezel, 37.8911, -83.4444
+Faber, 36.8736, -84.1303
+Fagan, 37.9164, -83.7131
+Fair Grounds, 38.5833, -83.8667
+Fairbanks(Graves), 36.5239, -88.5475
+Fairbanks(Owen), 38.4333, -84.7325
+Fairdale, 38.1050, -85.7589
+Fairdealing, 36.8467, -88.2392
+Fairfield(Nelson), 37.9336, -85.3836
+Fairfield(Breckinridge), 37.6714, -86.2872
+Fairland, 36.6833, -85.1333
+Fairmeade, 38.2489, -85.6339
+Fairmont(Jefferson), 38.1667, -85.6000
+Fairmont(Webster), 37.4600, -87.8500
+Fairmount, 38.1164, -85.5708
+Fairplay, 37.0122, -85.3039
+Fairview(Kenton), 39.0500, -84.5333
+Fairview(Fleming), 38.4594, -83.9308
+Fairview(Anderson), 37.9014, -85.1069
+Fairview(Lyon), 37.0986, -88.0631
+Fairview(Whitley), 36.6000, -84.1117
+Fairview(Edmonson), 37.1833, -86.3167
+Fairview(Boyd), 38.4706, -82.6842
+Fairview(Christian), 36.8433, -87.3039
+Fairview Heights, 38.2000, -84.8667
+Fairview Hill, 38.2844, -82.9200
+Fairway, 38.0308, -84.4711
+Falcon, 37.7897, -83.0019
+Fall Rock, 37.2197, -83.7883
+Falling Branch, 37.5947, -86.4972
+Fallis, 38.4300, -84.9353
+Falls of Rough, 37.5900, -86.5489
+Fallsburg, 38.1750, -82.6736
+Falmouth, 38.6767, -84.3303
+Fancy Farm, 36.7994, -88.7914
+Fannin, 38.0683, -83.0897
+Fariston, 37.0700, -84.0567
+Farler, 37.1547, -83.1922
+Farmdale, 38.1094, -84.9167
+Farmers, 38.1428, -83.5461
+Farmers Mill, 36.8144, -83.2831
+Farmersville, 37.2025, -87.9069
+Farmington, 36.6694, -88.5258
+Farraday, 37.1639, -82.7708
+Farristown, 37.6225, -84.3003
+Faubush, 37.0658, -84.8267
+Faulconer, 37.7069, -84.7778
+Faxon, 36.6786, -88.1475
+Faye, 38.0686, -83.1622
+Fayette-Lexington Health Center, 38.0289, -84.5169
+Faywood, 38.1028, -84.6417
+Fearisville, 38.6256, -83.5981
+Fearsville, 36.9839, -87.3575
+Feathersburg, 37.3114, -85.1692
+Federal, 37.3114, -82.3611
+Fedscreek, 37.4033, -82.2453
+Fee, 36.7500, -83.4667
+Feliciana, 36.5497, -88.7914
+Felty, 37.3031, -83.7106
+Fenton, 36.7769, -88.1028
+Fentress McMahan, 37.6044, -86.4922
+Fenwick(Washington), 37.6833, -85.2167
+Fenwick(Fayette), 38.0786, -84.3556
+Ferguson(Logan), 36.7794, -86.9772
+Ferguson(Pulaski), 37.0667, -84.6000
+Ferguson Creek, 37.4833, -82.5167
+Ferguson Spring, 36.8511, -88.0392
+Fern Creek, 38.1597, -85.5878
+Fern View, 38.1667, -85.6000
+Ferndale, 36.6961, -83.6847
+Fernleaf, 38.6561, -83.9133
+Ferrells Creek, 37.3500, -82.3667
+Fiddle Bow, 37.2717, -87.6581
+Fidelio, 36.7328, -87.4586
+Fidelity, 36.6636, -84.6100
+Field(Crockett), 36.8928, -83.6022
+Fielden, 38.1028, -82.9478
+Fies, 37.3222, -87.3739
+Figgs, 38.1147, -85.2714
+Fillmore(Carlisle), 36.9814, -89.1039
+Fillmore(Lee), 37.6044, -83.5497
+Fincastle(Jefferson), 38.2833, -85.5833
+Fincastle(Lee), 37.6453, -83.6489
+Finchville, 38.1536, -85.3128
+Finley, 37.4614, -85.3394
+Finley Addition, 37.8014, -87.6197
+Finney, 36.9153, -86.1050
+Firebrick, 38.6875, -83.0472
+Firmantown, 38.0597, -84.6889
+Fisher, 37.5764, -86.3683
+Fisherville, 38.1897, -85.4631
+Fishtrap, 37.4333, -82.3833
+Fiskburg, 38.8106, -84.5069
+Fisty, 37.3339, -83.1017
+Fitch, 38.3200, -83.3375
+Fitchburg, 37.7325, -83.8519
+Five Forks, 38.1286, -82.6561
+Five Points, 36.6167, -88.3292
+Fivemile, 37.5942, -83.4100
+Fixer, 37.6781, -83.7183
+Flag Fork, 38.3214, -84.9483
+Flag Spring, 38.9167, -84.2667
+Flagg Spring, 38.8856, -84.2647
+Flaherty, 37.8364, -86.0656
+Flanagan, 37.9339, -84.2106
+Flanary, 37.3833, -82.2500
+Flat, 37.6500, -83.5500
+Flat Fork, 37.8378, -83.0286
+Flat Lick, 36.8289, -83.7703
+Flat Rock(Butler), 37.2333, -86.6833
+Flat Rock(Simpson), 36.6758, -86.5619
+Flat Rock(Caldwell), 37.2336, -87.9658
+Flat Rock(McCreary), 36.7967, -84.4847
+Flat Rock(Rockcastle), 37.3608, -84.2711
+Flatgan, 37.9342, -82.8875
+Flatgap, 37.9333, -82.8833
+Flatwood, 37.0478, -85.3617
+Flatwoods, 38.5225, -82.7172
+Fleet, 36.6536, -86.2939
+Fleming, 37.1956, -82.6992
+Flemingsburg, 38.4222, -83.7339
+Flemingsburg Junction, 38.4589, -83.8069
+Flener, 37.2894, -86.6667
+Fletcher, 37.0050, -83.9703
+Flingsville, 38.7733, -84.5544
+Flint, 37.0508, -82.9336
+Flint Hill, 37.4983, -85.9906
+Flint Springs, 37.3433, -86.7136
+Flintville, 37.4847, -83.3006
+Flippin, 36.7203, -85.8742
+Flora, 37.9000, -86.7500
+Floral, 37.7867, -86.8108
+Florence, 38.9989, -84.6267
+Florress, 37.8853, -83.1772
+Flosie, 36.8667, -84.6500
+Flournoy, 37.6956, -87.8614
+Floyd, 37.2508, -84.6525
+Floydsburg, 36.7208, -87.9833
+Fogertown, 37.2194, -83.9011
+Folsom, 38.7119, -84.7475
+Folsomdale, 36.8836, -88.6744
+Fonde, 36.5942, -83.8775
+Fonthill, 37.0839, -85.0036
+Foraker, 37.6600, -83.1372
+Ford, 37.8817, -84.2603
+Fords Branch, 37.4331, -82.5111
+Fordsville, 37.6361, -86.7175
+Forest Cottage, 36.8000, -85.3667
+Forest Grove, 37.9456, -84.2244
+Forest Hill, 37.0533, -88.6383
+Forest Hills(Jefferson), 38.2153, -85.5858
+Forest Hills(Kenton), 39.0342, -84.5056
+Forest Hills(Pike), 37.6167, -82.2333
+Forest Springs, 36.6589, -86.1611
+Forestville, 37.2683, -85.9967
+Forkland, 37.5525, -84.9800
+Forks, 37.7667, -83.9833
+Forks of Elkhorn, 38.2156, -84.7978
+Forkton, 36.7481, -85.7197
+Forrest Park, 38.0003, -84.1933
+Forrestdale, 37.0833, -88.8833
+Fort Campbell, 36.6500, -87.5500
+Fort Campbell North, 36.6333, -87.4667
+Fort Heiman, 36.5019, -88.0558
+Fort Knox, 37.9000, -85.9500
+Fort Mitchell, 39.0594, -84.5475
+Fort Spring, 38.0414, -84.6264
+Fort Thomas, 39.0750, -84.4472
+Fort Wright, 39.0517, -84.5342
+Foster, 38.7992, -84.2131
+Fount, 36.9833, -83.8333
+Fountain Run, 36.7153, -85.9658
+Four Corners(), 38.6525, -84.6844
+Four Corners(), 37.7489, -86.0881
+Four Oaks, 38.6339, -84.3181
+Fourmile, 36.7933, -83.7419
+Fourseam, 37.2206, -83.1786
+Fox, 37.7592, -84.0669
+Fox Creek, 37.9878, -84.9681
+Foxboro, 38.2500, -85.5667
+Foxport, 38.4747, -83.5925
+Foxtown, 37.5042, -83.9936
+Fragrant, 37.4542, -86.1697
+Frakes, 36.6428, -83.9278
+Frances, 37.2197, -88.1411
+Francisville, 39.1050, -84.7244
+Frankfort, 38.2008, -84.8733
+Frankfort State Hospital, 38.1958, -84.8633
+Franklin, 36.7222, -86.5772
+Franklin Acres, 38.2000, -84.8667
+Franklin Cross Roads, 37.6700, -86.0150
+Franklin Heights, 38.2000, -84.8667
+Franklin Mines, 37.3333, -88.0667
+Franklinton, 38.4525, -85.0556
+Frazer, 36.9564, -84.7050
+Frazertown, 38.3167, -85.4667
+Fraziertown, 38.3139, -85.5044
+Fredericktown, 37.7589, -85.3419
+Fredonia, 37.2081, -88.0567
+Fredville, 37.6053, -82.9647
+Free Union, 37.5253, -87.7542
+Freeburn, 37.5644, -82.1419
+Freedom(Barren), 36.8000, -85.8167
+Freedom(Russell), 36.9228, -85.1056
+Freemont, 36.9728, -88.6119
+Freetown, 36.6803, -85.7972
+Fremont, 36.9667, -88.6167
+Frenchburg, 37.9508, -83.6258
+Fresh Meadows, 36.8431, -83.3736
+Frew, 37.1825, -83.2458
+Freys Hill, 38.2922, -85.5631
+Friendly Hills, 38.1500, -85.7000
+Friendship, 37.0569, -87.7664
+Frisby, 36.8481, -84.9103
+Fritz, 37.7014, -83.1517
+Frogtown(Fayette), 38.0331, -84.6497
+Frogtown(Marion), 37.5903, -85.3725
+Frogue, 36.6661, -85.2983
+Frost, 38.7289, -82.9275
+Frozen Creek, 37.5911, -83.4219
+Fruit Hill, 37.0047, -87.3683
+Fry, 37.1467, -85.4883
+Fryer, 37.2622, -87.8197
+Frymire, 37.9606, -86.3964
+Fuget, 37.8883, -82.9236
+Fulgham, 36.6528, -88.8703
+Fullers, 38.1703, -82.6433
+Fullerton, 38.7217, -82.9819
+Fulton, 36.5042, -88.8742
+Fulton Hospital, 36.5050, -88.8767
+Fultz, 38.2828, -83.0122
+Funston, 36.8969, -84.4058
+Furnace, 37.7619, -83.8317
+Fusonia, 37.1739, -83.0906
+Futrell, 37.0917, -88.6894
+Future City, 37.0625, -88.8017

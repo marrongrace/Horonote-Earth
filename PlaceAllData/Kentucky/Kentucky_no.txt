@@ -1,0 +1,247 @@
+Nada Lombard PO, 37.8150, -83.7194
+Nampa, 37.6167, -82.1667
+Nancy, 37.0717, -84.7481
+Naomi, 37.0089, -84.7919
+Napfor, 37.3133, -83.3122
+Napier, 36.9844, -83.2856
+Naples, 38.4358, -82.7697
+Napoleon, 38.7603, -84.7889
+Narrows, 37.5672, -86.7300
+Narvel, 36.7847, -85.0456
+Nash, 37.3203, -86.4308
+Nashtown, 38.5092, -83.5328
+Nathanton, 37.3500, -83.9000
+Natlee, 38.4469, -84.6619
+Natural Bridge, 37.8000, -83.7000
+Nazareth, 37.8481, -85.4728
+Neafus, 37.3950, -86.6119
+Neatsville, 37.1972, -85.1256
+Neave, 38.6475, -84.2022
+Nebo(Hopkins), 37.3836, -87.6428
+Nebo(Muhlenberg), 37.2417, -87.1942
+Ned, 37.4083, -83.2708
+Needmore(Shelby), 38.1500, -85.3167
+Needmore(Owen), 38.5744, -84.7342
+Needmore(Ballard), 37.1817, -88.9472
+Needmore(Boyle), 37.6517, -84.8778
+Needmore(Butler), 37.1108, -86.6511
+Needmore(Caldwell), 37.2217, -87.8453
+Needmore(Mason), 38.5167, -83.8333
+Nell, 37.0094, -85.4833
+Nelse, 37.4039, -82.4403
+Nelson, 37.3297, -87.0508
+Nelsonville, 37.7308, -85.6397
+Neon, 37.1914, -82.7136
+Neon Junction, 37.1794, -82.7139
+Neosheo, 36.7119, -86.6786
+Nepton, 38.4353, -83.8342
+Nerinx, 37.6642, -85.3994
+Nero, 37.7483, -82.7436
+Netty, 37.7469, -83.2386
+Neubert, 36.8500, -83.3000
+Nevada, 37.6964, -84.9097
+Nevelsville, 36.8411, -84.5594
+Nevin, 37.9461, -84.8833
+Nevisdale, 36.6867, -84.0461
+New, 38.4278, -84.8106
+New Allen, 37.6147, -82.7217
+New Camp, 37.6603, -82.2858
+New Castle, 38.4333, -85.1697
+New Columbus, 38.4575, -84.6453
+New Concord, 36.5483, -88.1547
+New Cypress(Muhlenberg), 37.2519, -87.2400
+New Cypress(Hickman), 36.7306, -88.9267
+New Haven, 37.6578, -85.5911
+New Hope, 37.6319, -85.5083
+New Liberty(Metcalfe), 37.0075, -85.6931
+New Liberty(Owen), 38.6158, -84.9067
+New Market, 37.5017, -85.3108
+New Providence, 36.5289, -88.2369
+New Roe, 36.6658, -86.3825
+New Salem(Lincoln), 37.4092, -84.7675
+New Salem(Crittenden), 37.2833, -88.1942
+New Stithton, 37.8833, -85.9833
+New York, 36.9889, -88.9525
+New Zion(Jackson), 37.4708, -83.8958
+New Zion(Scott), 38.1792, -84.4886
+Newbern, 37.0858, -88.3172
+Newburg, 38.1600, -85.6597
+Newby, 37.7631, -84.4153
+Newcombe, 38.0844, -83.0542
+Newfound, 37.2667, -83.6500
+Newfoundland, 38.1314, -83.0994
+Newgarden, 37.8833, -85.9833
+Newman, 37.8369, -87.2953
+Newport, 39.0914, -84.4958
+Newstead, 36.7992, -87.6303
+Newt, 37.1792, -85.5647
+Newtown, 38.2203, -84.4700
+Niagara, 37.7208, -87.4864
+Nicholasville, 37.8806, -84.5731
+Nichols(Bullitt), 38.0000, -85.9500
+Nichols(Hickman), 36.6936, -88.8697
+Nicholson, 38.9056, -84.5442
+Nick, 37.1297, -86.3111
+Nickell, 37.8336, -83.3261
+Nickolson, 36.9667, -87.7000
+Nigh, 37.4306, -82.2700
+Nihizertown, 37.9883, -84.3633
+Nina, 37.6639, -84.4664
+Nineteen, 37.3275, -86.9467
+Ninevah, 38.0825, -84.8789
+Nippa, 37.8658, -82.7875
+No Creek, 37.4806, -86.9583
+Noble, 37.4508, -83.1889
+Nobob, 36.8653, -85.7742
+Noctor, 37.5594, -83.3372
+Node, 37.1292, -85.6439
+Noetown, 36.6164, -83.7553
+Noland, 37.6478, -84.0547
+Nolansburg(Splint P O), 36.9256, -83.1639
+Nolin, 37.5611, -85.9028
+Nolin Lake Estates, 37.3592, -86.1644
+Nonesuch, 37.9061, -84.7556
+Nonnell, 37.2372, -87.0594
+Nora, 36.7606, -85.0428
+Norbourne Estates, 38.2464, -85.6478
+Norfleet, 37.0361, -84.7964
+Noris, 37.9972, -82.7192
+Normal, 38.4436, -82.6125
+Normal Heights, 38.2000, -84.8667
+Normandy, 38.0981, -85.3428
+North, 38.0833, -84.4833
+North Branch, 38.3303, -82.8061
+North Corbin, 36.9606, -84.0933
+North Fayette, 38.1333, -84.4667
+North Hazard, 37.2500, -83.1833
+North Irvine, 37.7142, -83.9797
+North Lebanon, 37.6000, -85.2167
+North Lyon, 37.1000, -88.1333
+North Middletown, 38.1450, -84.1114
+North Oldham, 38.4500, -85.5000
+North Pleasureville, 38.3597, -85.1072
+Northcutt, 38.7272, -84.5567
+Northern, 37.5078, -82.8156
+Northfield(Pulaski), 37.0061, -84.5081
+Northfield(Jefferson), 38.2869, -85.6411
+Northland, 38.0656, -84.4794
+Northtown, 37.2142, -86.0008
+Norton Branch, 38.3333, -82.7667
+Norton Infirmary, 38.2350, -85.7575
+Nortonville, 37.1908, -87.4528
+Norwood(Pulaski), 37.1517, -84.6319
+Norwood(Jefferson), 38.2833, -85.5833
+Nuckols, 37.5233, -87.1122
+Nugent Crossroads, 38.1233, -84.6986
+Nugym, 36.8000, -83.6500
+Number One, 36.8108, -84.8683
+Nunn, 37.4275, -87.9700
+O K, 37.2833, -84.6667
+O'Bannon, 38.2886, -85.5136
+Oak Forest, 36.7158, -86.0983
+Oak Grove(Ohio), 37.3442, -86.7547
+Oak Grove(Thonpsonville Station), 36.6650, -87.4428
+Oak Hill(Pulaski), 37.0581, -84.6464
+Oak Hill(Hopkins), 37.2106, -87.4567
+Oak Level, 36.8669, -88.4656
+Oak Ridge(Edmonson), 37.2947, -86.2389
+Oak Ridge(Kenton), 38.9689, -84.5039
+Oak Ridge(Daviess), 37.7400, -87.0400
+Oakdale(Breathitt), 37.5558, -83.5172
+Oakdale(Jefferson), 38.1964, -85.7769
+Oakdale(McCracken), 37.0358, -88.5669
+Oakla, 38.2481, -83.7250
+Oakland, 37.0419, -86.2483
+Oakland Mills, 38.3167, -84.0333
+Oakley, 37.2383, -84.0978
+Oaks(Bell), 36.7225, -83.5564
+Oaks(McCracken), 36.9683, -88.5442
+Oaks(Ohio), 37.6333, -86.7167
+Oakton, 36.6633, -89.0672
+Oakville, 36.7489, -86.8756
+Odds, 37.7556, -82.6931
+Oddville, 38.4556, -84.2389
+Offutt, 37.8500, -82.7333
+Ogle, 37.0300, -83.7117
+Oil Center, 37.1058, -84.7069
+Oil City, 37.0333, -85.9831
+Oil Springs, 37.8100, -82.9425
+Oil Valley, 36.7744, -84.7983
+Oilton, 36.7742, -84.8789
+Oklahoma, 37.6617, -86.8772
+Okolona, 38.1411, -85.6878
+Olaton, 37.5258, -86.6875
+Olcott, 36.6858, -83.8336
+Old Allen, 37.6167, -82.7167
+Old Christianburg, 38.2814, -85.0850
+Old Cypress, 36.7233, -88.8997
+Old Flat Lick, 36.8383, -83.7711
+Old Landing, 37.6364, -83.8069
+Old Olga, 36.9256, -85.1686
+Old Orchard, 37.4833, -83.9000
+Old Pine Grove, 38.0264, -84.2719
+Old Stephensburg, 37.6144, -86.0203
+Old Volney, 36.7742, -87.0125
+Oldham, 38.4975, -85.4211
+Oldham Acres, 38.3978, -85.6203
+Oldtown, 38.4403, -82.8983
+Olga, 36.9508, -85.1603
+Olin, 37.3519, -83.9664
+Olive, 36.8008, -88.2611
+Olive Branch(Fleming), 38.3225, -83.8222
+Olive Branch(Shelby), 38.1256, -85.2650
+Olive Hill, 38.3000, -83.1742
+Oliver, 38.6167, -82.8667
+Oliver Station, 38.6247, -82.8625
+Ollie, 37.2519, -86.1803
+Olmstead, 36.7522, -87.0150
+Olney, 37.2247, -87.7800
+Olympia, 38.0981, -83.6958
+Olympia Springs, 38.0619, -83.6731
+Omaha, 37.2750, -82.8419
+Omega, 36.9519, -84.5086
+Oneida, 37.2694, -83.6492
+Oneonta, 38.9833, -84.3000
+Ono, 36.9886, -84.9667
+Onton, 37.5550, -87.4369
+Oolite, 38.0678, -86.2800
+Open Gates, 38.0050, -84.5381
+Ophir, 37.9072, -83.0144
+Oppy, 37.8333, -82.4000
+Orangeburg, 38.5675, -83.6889
+Ordinary, 38.1547, -83.1947
+Oregon, 37.9122, -84.8236
+Orell, 38.0717, -85.8847
+Orinoco, 37.6167, -82.2667
+Oriole, 37.2978, -87.5703
+Orkney, 37.4300, -82.7353
+Orlando, 37.3728, -84.2681
+Orr, 38.1356, -82.8919
+Ortiz, 37.5564, -87.6092
+Orville, 38.3983, -84.9156
+Osborn, 37.4767, -82.6128
+Oscaloosa, 37.0969, -82.8886
+Oscar, 37.1364, -89.0269
+Otas, 36.9500, -84.1000
+Ote, 37.2667, -85.5000
+Otia, 36.6878, -85.5692
+Ottawa, 37.3617, -84.4561
+Ottenheim, 37.4231, -84.5958
+Otter Pond, 37.0278, -87.8231
+Ottusville, 38.3228, -84.8956
+Our Lady of Bellefonte Hospital, 38.5083, -82.6925
+Our Lady of Peace Hospital, 38.2175, -85.7094
+Outwood Hospital, 37.1406, -87.6642
+Ova, 37.7253, -83.1717
+Oven Fork, 37.0592, -82.8086
+Overda, 38.1197, -82.8003
+Overlook, 37.0833, -88.0833
+Ovil, 36.9469, -87.2883
+Owensboro, 37.7742, -87.1133
+Owensby, 36.9833, -85.0667
+Owenton, 38.5364, -84.8419
+Owingsville, 38.1447, -83.7642
+Owsley, 37.5014, -82.5886
+Oxford, 38.2700, -84.4981
+Oz, 36.7064, -84.5675
+Ozark, 37.0792, -85.2314

@@ -1,0 +1,143 @@
+Iberia, 37.3731, -86.1661
+Ibex, 38.1761, -83.0736
+Ice, 37.1075, -82.8603
+Ida, 36.7675, -85.1681
+Ida May, 37.5211, -83.7664
+Idle Hour, 38.0225, -84.4594
+Idlewild, 39.0775, -84.7950
+Ilsley, 37.1967, -87.6122
+Independence, 38.9431, -84.5442
+Index, 37.8981, -83.2850
+Indian Fields, 37.9333, -84.0000
+Indian Hills(Carroll), 38.6772, -85.1411
+Indian Hills(Fayette), 38.0092, -84.5533
+Indian Hills(Jefferson), 38.2725, -85.6628
+Indian Hills(Lyon), 37.0344, -88.0578
+Indian Hills(Franklin), 38.2169, -84.8308
+Indian Hills(Hardin), 37.7089, -85.8461
+Indian Hills(Warren), 36.9897, -86.4050
+Indian Hills(Russell), 36.9928, -84.9336
+Indian Hills(Scott), 38.2031, -84.5686
+Indian Hills Cherokee Sect, 38.2794, -85.6500
+Indian Lake, 37.9000, -86.7500
+Indian Old Field, 38.0000, -84.1833
+Indian Valley, 37.5747, -86.4403
+Indiancreek, 36.9500, -84.0000
+Inez, 37.8664, -82.5389
+Ingle, 37.0933, -84.8592
+Ingleside, 37.1233, -88.9014
+Ingram, 36.7303, -83.7983
+Inroad, 36.9564, -85.2797
+Insco, 36.9811, -86.8644
+Insko, 37.7572, -83.3011
+Insull, 36.7633, -83.4881
+Iola, 36.8997, -88.4147
+Irad, 38.0919, -82.7386
+Ireland Army Hospital, 37.9006, -85.9419
+Irma, 37.3881, -88.2478
+Iron Hill, 38.4061, -83.0381
+Iron Mound, 37.8147, -84.0439
+Ironville, 38.4564, -82.6925
+Iroquois, 38.1667, -85.7833
+Irvin Cobb Resort, 36.6456, -88.1325
+Irvine, 37.7006, -83.9739
+Irvington, 37.8803, -86.2839
+Irvins Store, 37.0667, -85.1000
+Irwin, 38.6828, -83.5694
+Island, 37.4450, -87.1439
+Island City, 37.3664, -83.7681
+Isom, 37.1878, -82.8989
+Isonville, 38.0650, -83.0528
+Iuka, 37.0808, -88.2367
+Ivel, 37.5911, -82.6683
+Iverdale, 36.7667, -83.7000
+Ivis, 37.3333, -82.9833
+Ivor, 38.8597, -84.2408
+Ivy Grove, 36.8222, -83.6958
+Ivyton, 37.7089, -82.9786
+Jabez, 36.9869, -84.8936
+Jackhorn, 37.2156, -82.7053
+Jacks Creek(Clay), 37.2069, -83.5567
+Jacks Creek(Floyd), 37.3658, -82.7331
+Jackson(Mercer), 37.8250, -84.8708
+Jackson(Breathitt), 37.5531, -83.3836
+Jacksonville(Bourbon), 38.2728, -84.3658
+Jacksonville(Shelby), 38.2742, -85.0131
+Jackstown, 38.2447, -84.0586
+Jacktown, 37.4439, -85.0156
+Jacobs, 38.2308, -83.2414
+Jacobs Addition, 38.1900, -85.7886
+Jamboree, 37.4983, -82.1369
+Jamestown, 36.9847, -85.0631
+Jarvis, 36.8667, -83.8833
+Jason(Leslie), 37.1783, -83.4836
+Jason(Todd), 37.0486, -87.0906
+Jason Ridge, 36.9833, -87.1500
+Jayem, 36.7667, -83.7000
+Jeff, 37.2000, -83.1333
+Jeffersontown, 38.1942, -85.5644
+Jeffersonville, 37.9736, -83.8419
+Jeffrey, 36.7511, -85.8406
+Jellico, 36.5833, -84.1333
+Jellicocreek, 36.7333, -84.1667
+Jenkins, 37.1733, -82.6311
+Jenkinsville, 37.7319, -85.0397
+Jensenton, 37.6833, -85.2167
+Jenson, 36.7769, -83.6300
+Jeptha, 37.9422, -83.1000
+Jeremiah, 37.1672, -82.9292
+Jericho(Grant), 38.7308, -84.6736
+Jericho(Russell), 37.0864, -85.0492
+Jericho(Larue), 37.5186, -85.6483
+Jericho(Henry), 38.4050, -85.2900
+Jerico, 36.9967, -86.9775
+Jeriel, 38.2258, -82.8547
+Jessamine, 37.8758, -84.6214
+Jessietown, 37.4808, -85.3250
+Jetson, 37.2492, -86.5319
+Jett, 38.1786, -84.8144
+Jetts Creek, 37.5022, -83.5425
+Jewell City, 37.5264, -87.3553
+Jimtown(Fayette), 38.1889, -84.3744
+Jimtown(Washington), 37.6697, -85.2094
+Jimtown(Wayne), 36.6444, -84.9322
+Jingo, 37.4986, -86.8083
+Jinks, 37.6064, -84.0322
+Job, 37.9178, -82.5439
+Jock, 37.2833, -86.2833
+Johnetta, 37.4156, -84.1919
+Johns Creek, 37.7667, -82.7500
+Johns Run, 38.2383, -82.9117
+Johnson Bottom, 37.5667, -82.1500
+Johnson Crossroads, 37.3986, -86.2017
+Johnsontown, 38.1194, -85.8603
+Johnsonville, 37.9350, -85.1069
+Johnsville, 38.7533, -84.1483
+Jolly, 37.4706, -87.7053
+Jonancy, 37.3164, -82.5831
+Jones Mill, 36.6567, -85.1047
+Jonesburg, 37.7208, -87.7442
+Jonestown, 37.9769, -84.4967
+Jonesville(Grant), 38.6397, -84.7756
+Jonesville(Hart), 37.3878, -85.7683
+Jonican, 37.4333, -82.3833
+Joppa, 37.0517, -85.2422
+Jordan, 36.5033, -89.0369
+Josephine, 38.3986, -84.6500
+Joy, 37.3550, -88.3858
+Joyes, 38.2097, -85.2911
+Juan, 37.5500, -83.3667
+Judio, 36.6958, -85.4808
+Judson, 37.6864, -84.5692
+Judy, 38.1297, -83.9586
+Judyville, 38.3167, -84.0333
+Jugville, 37.4631, -86.5989
+Julien, 36.8367, -87.6397
+Julip, 36.7428, -84.0658
+Jumbo, 37.4581, -84.6892
+Junction City, 37.5867, -84.7939
+Juniper Beach, 38.3206, -85.6472
+Junte, 38.0811, -85.0978
+Justell, 37.5564, -82.6381
+Justice, 36.8811, -87.0561
+Justiceville, 37.4131, -82.4519

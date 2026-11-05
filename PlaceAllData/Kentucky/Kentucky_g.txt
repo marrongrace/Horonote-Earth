@@ -1,0 +1,234 @@
+Gabbard, 37.3833, -83.6167
+Gabe, 37.3078, -85.5742
+Gadberry, 37.0436, -85.3094
+Gaffey Heights, 37.8858, -85.9689
+Gage, 36.9911, -88.8894
+Gainesville, 36.8506, -86.1583
+Gaithers, 37.6575, -85.8997
+Galdia, 37.6331, -82.9886
+Gallup, 38.0131, -82.6228
+Galveston, 37.4253, -82.6125
+Galveston PO, 37.4400, -82.6289
+Gamaliel, 36.6397, -85.7967
+Gamesway, 37.9878, -84.4839
+Gandertown, 37.6831, -85.3900
+Gano(Lejunior P O), 36.9011, -83.1342
+Gap in Knob, 38.0167, -85.7031
+Gapcreek, 36.7433, -85.0022
+Gapville, 37.6300, -82.9592
+Garden Springs, 38.0289, -84.5486
+Garden Village, 37.4208, -82.4653
+Gardenside, 38.0383, -84.5422
+Gardner, 36.9681, -83.5386
+Gardnersville, 38.7667, -84.5044
+Garfield, 37.7828, -86.3575
+Garlin, 37.1139, -85.2522
+Garmeada, 36.6250, -83.8425
+Garner(Knott), 37.3581, -82.9253
+Garner(Boyd), 38.2947, -82.7358
+Garnett, 38.4592, -84.3275
+Garrard, 37.1236, -83.7464
+Garrett(Meade), 37.8978, -86.1131
+Garrett(Froyd), 37.4797, -82.8317
+Garrettsburg, 36.6686, -87.5428
+Garrison, 38.6061, -83.1733
+Garvin Ridge, 38.3000, -83.2092
+Gascon, 37.0036, -85.5711
+Gaskill, 37.1850, -82.6111
+Gasper, 36.9500, -86.7419
+Gasper River, 37.0000, -86.5500
+Gassaway, 37.0000, -85.9167
+Gates, 38.2339, -83.3667
+Gatesville, 37.5169, -87.6081
+Gatewood, 37.8331, -86.8661
+Gatliff, 36.6817, -84.0264
+Gatun, 36.8733, -83.3028
+Gausdale, 36.7578, -83.9753
+Gaybourn, 38.0428, -84.6667
+Gays Creek, 37.3281, -83.4278
+Geddes, 36.6567, -86.5497
+Gee, 38.0450, -85.0631
+General Hospital, 38.2483, -85.7478
+Geneva(Lincoln), 37.4394, -84.7464
+Geneva(Henderson), 37.8119, -87.6919
+Gentrys Mill, 37.0847, -85.1536
+Georges Creek, 37.9778, -82.6567
+Georgetown(Harlen), 36.8892, -83.0553
+Georgetown(Scott), 38.2097, -84.5589
+German Town, 38.2244, -85.7367
+Germantown, 38.6547, -83.9647
+Gertrude, 38.7394, -84.0547
+Gesling, 38.4231, -83.0925
+Gest, 38.4175, -84.8828
+Gethsemane, 37.6461, -85.5422
+Ghent, 38.7375, -85.0583
+Gibbs, 37.0208, -83.9025
+Gifford, 37.7575, -83.1214
+Gilbert, 37.5739, -84.5942
+Gilbertsville, 37.0244, -88.2997
+Gillem Branch, 37.9500, -82.9500
+Gilley, 36.9742, -83.1122
+Gillmore, 37.7372, -83.3694
+Gilpin, 37.2567, -84.8819
+Gilreath, 36.6806, -84.3997
+Gilstrap, 37.3153, -86.7067
+Gimlet, 38.2189, -83.1375
+Ginseng, 37.5047, -85.5811
+Girdler, 36.9397, -83.8433
+Girkin, 37.0675, -86.3583
+Gishton, 37.3253, -87.2178
+Givens, 37.6111, -87.7722
+Glade, 36.8189, -88.3117
+Glasgow, 36.9958, -85.9119
+Gleanings, 37.5583, -85.5339
+Glen Dean, 37.6533, -86.5411
+Glen Lily, 37.3078, -85.7944
+Glen Springs, 38.5108, -83.4853
+Glenarm, 38.3536, -85.4631
+Glencairn, 37.7636, -83.6700
+Glencoe, 38.7144, -84.8228
+Glendale, 37.6017, -85.9056
+Glendale Junction, 37.5914, -85.8636
+Glengary, 38.1000, -85.7500
+Glenmore, 37.1683, -86.3989
+Glens Fork, 37.0139, -85.2506
+Glensboro, 38.0047, -85.0600
+Glenview, 38.3083, -85.6503
+Glenview Acres, 38.2981, -85.6372
+Glenview Heights, 38.3042, -85.6406
+Glenview Hills, 38.2833, -85.5833
+Glenview Manor, 38.2875, -85.6369
+Glenville, 37.5947, -87.1917
+Glenwood, 38.2222, -82.7861
+Glo, 37.4478, -82.8094
+Globe, 38.2875, -83.2450
+Glomawr, 37.2267, -83.1572
+Goddard, 38.3625, -83.6147
+Goering, 37.8008, -86.7617
+Goffs Corner, 37.9286, -84.0067
+Goforth, 38.6647, -84.4489
+Goins, 36.7000, -83.9394
+Gold City, 36.7544, -86.4475
+Goldbug, 36.7925, -84.1681
+Golden Ash, 36.8606, -83.2911
+Golden Pond, 36.7856, -88.0242
+Gollihue, 38.2458, -82.8858
+Golo, 36.7389, -88.4953
+Goochland, 37.4358, -84.1869
+Goochtown, 37.3217, -84.5869
+Good Samanitan Hospital, 38.0422, -84.5019
+Goodloe, 37.6036, -82.8628
+Goodluck, 36.9253, -85.6417
+Goodnight, 37.0933, -85.8803
+Goodwater, 37.0753, -84.3733
+Goody, 37.6619, -82.2697
+Goose Creek, 38.3161, -85.6486
+Goose Rock, 37.0903, -83.6944
+Gordon, 36.9928, -83.0244
+Gordon Ford, 37.8833, -83.2381
+Gordonsville, 36.8400, -87.0189
+Goshen, 38.4031, -85.5742
+Gott, 36.9728, -86.3139
+Grab, 37.2258, -85.6017
+Grace, 37.1972, -83.8656
+Gracey, 36.8781, -87.6622
+Gradyville, 37.0633, -85.4225
+Graefenburg, 38.1558, -85.0136
+Graham, 37.2517, -87.2797
+Graham Hill, 37.8233, -87.5300
+Grahamton, 37.9028, -86.0256
+Grahamville, 37.1075, -88.7800
+Grahn, 38.2836, -83.0753
+Grancer, 37.3089, -86.5461
+Grand Rivers, 37.0031, -88.2344
+Grandview(Daviess), 37.7011, -86.9303
+Grandview(Monroe), 36.7194, -85.6872
+Grandview Heights, 38.2000, -84.8667
+Grange City, 38.2444, -83.6653
+Grangertown, 37.5508, -88.0067
+Grannie, 37.6967, -83.5828
+Grant(Kenton), 38.9636, -84.4514
+Grant(Boone), 38.9861, -84.8256
+Grants Lick, 38.8603, -84.3978
+Grapevine, 37.3000, -87.4858
+Grassland, 37.1833, -86.3167
+Grassy Creek, 37.8669, -83.3453
+Grassy Lick, 38.0814, -84.0203
+Gratz, 38.4736, -84.9528
+Gravel Switch, 37.5786, -85.0522
+Gray, 36.9425, -84.0083
+Gray Hawk, 37.3950, -83.9403
+Grayfox, 37.8631, -83.0575
+Graymoor, 38.2731, -85.6231
+Grays Branch, 38.6533, -82.8753
+Grays Knob, 36.8167, -83.3000
+Grayson, 38.3325, -82.9486
+Grayson Springs, 37.4592, -86.2244
+Graysville, 37.7722, -86.2975
+Greasy Creek, 37.3761, -82.4758
+Great Crossing, 38.2144, -84.6053
+Greear, 37.8772, -83.2981
+Greeley, 37.6764, -83.7531
+Green, 38.1406, -83.0753
+Green Acres, 37.6542, -84.7606
+Green Fields Estates, 37.9928, -84.2086
+Green Grove, 36.7339, -85.2697
+Green Hall, 37.4000, -83.8333
+Green Hill, 37.2964, -83.9656
+Green Road, 36.9667, -83.8333
+Green Spring, 38.2833, -85.5833
+Greenacres, 37.0247, -88.0161
+Greenbriar(Daviess), 37.7500, -87.1167
+Greenbriar(Marion), 37.4944, -85.2314
+Greenbrier(Lincoln), 37.3333, -84.6667
+Greenbrier(Nelson), 37.7294, -85.4592
+Greencastle, 37.0917, -86.4956
+Greendale, 38.1058, -84.5256
+Greenhaven, 38.4453, -85.4542
+Greenhill, 36.9081, -86.3158
+Greenmount, 37.2475, -84.0308
+Greenough, 37.2833, -82.4667
+Greensburg, 37.2608, -85.4989
+Greenup, 38.5731, -82.8303
+Greenville, 37.2011, -87.1789
+Greenwood(Pendleton), 38.7511, -84.3892
+Greenwood(Jefferson), 38.1472, -85.8961
+Greenwood(McCreary), 36.8744, -84.4956
+Greenwood(Warren), 36.9403, -86.4200
+Grefco, 38.3000, -83.1833
+Gregory, 36.8294, -84.7019
+Gregoryville, 38.3269, -83.0214
+Gresham, 37.1967, -85.4503
+Grethel, 37.4911, -82.6478
+Grethel PO, 37.4828, -82.6572
+Grider, 36.8042, -85.4256
+Griderville, 37.1128, -85.8703
+Griffin, 36.7044, -84.7289
+Griffith, 37.8153, -87.2128
+Griffytown, 38.2536, -85.5453
+Grigsby, 37.2858, -83.1378
+Grove, 36.9325, -84.2236
+Grove Center, 37.6397, -88.0131
+Grundy, 37.1261, -84.5222
+Guage, 37.5961, -83.1972
+Gubser Mill, 38.8878, -84.3089
+Gudgel, 38.0125, -84.9953
+Guerrant, 37.5067, -83.4972
+Guffey, 36.8667, -83.2000
+Guffie, 37.6042, -87.2544
+Gulfco, 38.4667, -82.6500
+Gullett, 37.7372, -83.1269
+Gulnare, 37.6303, -82.5469
+Gulston, 36.7750, -83.3289
+Gulthrie Beach, 38.3300, -85.6442
+Gum Sulphur, 37.4269, -84.4594
+Gum Tree, 36.7242, -85.8194
+Gunlock, 37.5475, -82.9261
+Gunns Chapel, 37.6167, -84.5833
+Gus, 37.1175, -86.9089
+Guston, 37.8928, -86.2219
+Guthrie, 36.6483, -87.1664
+Guthrie's Ridge, 36.7000, -85.3667
+Guy, 37.1239, -86.6131
+Gwinn Island, 37.6500, -84.7667
+Gypsy, 37.6625, -82.9639

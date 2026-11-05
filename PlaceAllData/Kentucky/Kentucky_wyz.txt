@@ -1,0 +1,349 @@
+Wabaco, 37.2500, -83.1833
+Wabash, 37.4064, -85.8494
+Wabd, 37.3133, -84.3897
+Waco, 37.7425, -84.1442
+Waddy, 38.1369, -85.0744
+Wadesboro, 36.7481, -88.3214
+Wagersville, 37.6264, -83.9539
+Wagner, 38.1833, -83.2667
+Wago, 36.7364, -85.1725
+Waite, 36.7675, -84.9950
+Waitman, 37.9081, -86.9508
+Wakefield, 37.9717, -85.3081
+Walbridge, 38.0775, -82.6028
+Walche Cut, 37.0964, -87.7978
+Walden, 36.8458, -84.1678
+Waldo, 37.5758, -82.9778
+Wales, 37.3361, -82.6381
+Walker, 36.8831, -83.7150
+Walkertown, 37.2636, -83.1906
+Wallace, 38.1211, -84.6922
+Wallaceton, 37.5681, -84.3622
+Wallingford, 38.4050, -83.6122
+Wallins Creek, 36.8311, -83.4169
+Wallonia, 36.9444, -87.7833
+Wallsend, 36.7661, -83.7100
+Walltown, 37.3222, -84.7317
+Walnut Flat, 37.4953, -84.5789
+Walnut Grove(Allen), 36.6500, -86.2667
+Walnut Grove(Marshall), 36.8286, -88.3186
+Walnut Grove(Pulaski), 37.2717, -84.4508
+Walnut Hill(Allen), 36.7231, -86.0458
+Walnut Hill(Fayette), 37.9592, -84.4158
+Walsh, 38.6811, -82.9650
+Waltersville, 37.8647, -83.9344
+Walton, 38.8700, -84.6133
+Waltz, 38.3167, -83.4442
+Wanamaker, 37.6000, -87.6575
+Waneta, 37.4744, -84.0411
+War Creek, 37.5964, -83.4867
+Warbranch, 36.9567, -83.4503
+Warco, 37.5442, -82.7758
+Wards, 37.4594, -85.6103
+Ware, 37.2086, -84.7689
+Warfield, 37.8442, -82.4175
+Warnock, 38.4925, -82.9786
+Warren, 36.7533, -83.8442
+Warrenton, 38.0664, -84.4669
+Warsaw, 38.7833, -84.9017
+Washington, 38.6158, -83.8086
+Wasioto, 36.7475, -83.6889
+Watauga, 36.8169, -85.0647
+Water Valley, 36.5667, -88.8167
+Waterford, 38.0389, -85.4372
+Watergap, 37.6364, -82.7458
+Waterloo, 38.9722, -84.7897
+Waterview, 36.8169, -85.4583
+Watkinsville, 38.2431, -84.7264
+Watterfern Hills, 38.1667, -85.6000
+Watts, 37.4444, -83.3139
+Watts Creek, 36.7333, -84.1667
+Waverly, 37.7097, -87.8128
+Waverly Hills, 38.1239, -85.8408
+Waverly Hills Sanatorium, 38.1306, -85.8411
+Wax, 37.3542, -86.1222
+Wayland, 37.4450, -82.8053
+Waynesburg, 37.3328, -84.6717
+Wayside, 38.0250, -85.1053
+Weaverton, 37.8156, -87.5839
+Webb Mills, 37.5500, -86.0333
+Webbs, 37.2589, -85.6019
+Webbs Cross Roads, 37.1092, -85.0536
+Webbville, 38.1794, -82.8714
+Weberstown, 37.7703, -86.7789
+Webster, 37.8889, -86.3389
+Wedonia, 38.5167, -83.8333
+Weed, 37.0386, -85.4714
+Weedonia, 38.4989, -83.7567
+Weeksbury, 37.3278, -82.6883
+Weir, 37.1231, -87.2125
+Welborn, 37.1983, -84.4978
+Welchburg, 37.3206, -83.9300
+Welchs Creek, 37.3447, -86.5681
+Welco Station, 37.4867, -82.8361
+Welcome, 37.3036, -86.6514
+Weldon, 38.0000, -86.1667
+Wellhope, 37.3161, -84.3183
+Wellington(Jefferson), 38.2164, -85.6692
+Wellington(Minifee), 37.9144, -83.5119
+Wells(Morgan), 37.8667, -83.2667
+Wells(Muhlenberg), 37.1414, -87.0747
+Wells Fork, 37.5378, -83.2094
+Wells Hill, 37.9267, -83.2719
+Wells Landing, 37.6500, -84.7667
+Wellsburg, 38.7714, -84.1036
+Wendover, 37.1264, -83.3628
+Wentz, 37.0817, -83.0639
+Wesco, 37.2925, -87.5117
+Wesleyan Park, 37.9917, -84.1933
+Wesleyville, 38.3947, -83.1717
+West Brook, 36.8047, -87.5114
+West Buechel, 38.1969, -85.6633
+West Clifty, 37.5133, -86.1883
+West Covington, 39.0889, -84.5339
+West Danville, 37.6447, -84.7903
+West Fairview, 38.4706, -82.6842
+West Fayette, 38.0333, -84.5667
+West Fork, 36.7828, -86.2806
+West Frankfort, 38.2000, -84.8667
+West Future City, 37.0631, -88.8100
+West Garrett, 37.4844, -82.8350
+West Irvine, 37.7014, -83.9908
+West Liberty, 37.9214, -83.2597
+West Louisville, 37.6967, -87.2869
+West Paducah, 37.0831, -88.7442
+West Paris, 38.2167, -84.2500
+West Point, 37.9994, -85.9436
+West Prestonsburg, 37.6711, -82.7819
+West Royalton, 37.6833, -83.0333
+West Russell, 38.5381, -82.7108
+West Side Heights, 37.2772, -87.5231
+West Van Lear, 37.7861, -82.7714
+West Viola, 36.8553, -88.6628
+West Wheatcroft, 37.4881, -87.8711
+West Wind Park, 38.1333, -85.8500
+Westbend, 37.9058, -83.9692
+Western, 36.5500, -89.3333
+Western State Hospital, 36.8658, -87.4494
+Westmoreland, 38.0453, -84.6344
+Weston(Nicholan), 38.2969, -83.9631
+Weston(Crittenden), 37.4725, -88.0728
+Westplains, 36.8253, -88.5947
+Westport, 38.4789, -85.4750
+Westview, 37.7000, -86.4092
+Westwood(Boyd), 38.4831, -82.6700
+Westwood(Jefferson), 38.2800, -85.5828
+Weymouth, 36.5000, -88.8833
+Whaynes Corner, 36.6492, -89.1217
+Wheatcroft, 37.4900, -87.8628
+Wheatley, 38.6133, -84.9769
+Wheel, 36.8556, -88.8036
+Wheel Rim, 37.7261, -83.2669
+Wheeler, 36.7253, -83.8431
+Wheelers Mill, 37.3939, -86.0261
+Wheelersburg, 37.8267, -83.0111
+Wheelwright, 37.3325, -82.7211
+Wheelwright Junction, 37.3531, -82.7169
+Whetstone, 37.0869, -84.3911
+Whick, 37.4217, -83.3761
+Whickerville, 37.2003, -85.6906
+Whipple, 36.7667, -83.5500
+Whippoorwill, 36.8167, -87.0097
+Whipps Mill Village, 38.2833, -85.5833
+Whipps Millgate, 38.2733, -85.5722
+Whispering Hills, 38.1500, -85.7000
+Whitaker(Floyd), 37.7233, -82.8469
+Whitaker(Letcher), 37.1722, -82.7217
+Whitco, 37.1194, -82.8514
+White Ash, 37.5564, -83.7367
+White City(Larue), 37.5894, -85.6644
+White City(Henderson), 37.9528, -87.5847
+White City(Hopkins), 37.1833, -87.3833
+White Hall, 37.7500, -84.3000
+White Lily, 37.0667, -84.5167
+White Mills, 37.5553, -86.0322
+White Mills Junction, 37.5775, -86.0356
+White Oak(Garrard), 37.7378, -84.6431
+White Oak(Morgan), 37.8583, -83.2022
+White Oak Junction, 36.7028, -84.5931
+White Plains(Allen), 36.7500, -86.1833
+White Plains(Hopkins), 37.1836, -87.3836
+White Rose, 37.4211, -85.4611
+White Run, 37.4447, -86.6419
+White Sulphur(Scott), 38.2050, -84.7022
+White Sulphur(Caldwell), 37.1456, -87.9400
+White Tower, 38.9250, -84.5133
+White Villa, 38.8792, -84.4506
+Whitehouse, 37.8736, -82.6989
+Whites, 37.6306, -84.2994
+Whitesburg, 37.1183, -82.8269
+Whitesville, 37.6831, -86.8714
+Whitewood, 37.2836, -85.4361
+Whitfield, 38.0961, -85.4706
+Whitley City, 36.7233, -84.4706
+Whitner, 38.1886, -85.6917
+Whittinghill, 37.2536, -86.5183
+Whittle, 37.0219, -84.9617
+Whoopflarea, 37.2978, -83.5681
+Wiborg, 36.8092, -84.4908
+Wickliffe, 36.9647, -89.0892
+Wicks Well, 37.3333, -87.5000
+Widecreek, 37.6111, -83.5314
+Wilbur, 37.9861, -82.7847
+Wild Cat, 37.2344, -83.6908
+Wilder, 39.0333, -84.4500
+Wilder Park, 38.1953, -85.7653
+Wilders, 39.0597, -84.4803
+Wildie, 37.4233, -84.3022
+Wildwood, 38.2494, -85.5731
+Wildwood Hills, 37.0089, -88.0397
+Wilhelmina, 36.8431, -87.1578
+Wilhoit(Daihoit P O), 36.8397, -83.3769
+Wilhurst, 37.6328, -83.4147
+Willailla, 37.3044, -84.4631
+Willard, 38.2117, -82.8972
+Williams(Ohio), 37.3833, -86.9167
+Williams(Webster), 37.5236, -87.8597
+Williams(Morgan), 37.8667, -83.2000
+Williams Creek, 38.2883, -82.8317
+Williams Station, 37.4833, -87.8333
+Williams Store, 36.7500, -86.8833
+Williamsburg, 36.7433, -84.1597
+Williamsport, 37.8206, -82.7292
+Williamstown, 38.6381, -84.5606
+Williba, 37.6231, -83.5692
+Willis Creek, 36.8142, -85.2219
+Willisburg, 37.8097, -85.1264
+Willow(Lee), 37.5911, -83.8136
+Willow(Bracken), 38.6656, -84.1525
+Willow Crest, 38.2000, -84.8667
+Willow Grove, 38.7883, -84.1719
+Willow Shade, 36.8478, -85.6078
+Willow Tree, 37.6833, -83.9500
+Willowtown, 37.4519, -85.4219
+Wilmore, 37.8619, -84.6617
+Wilson, 37.7806, -87.6581
+Wilsonville, 37.5942, -84.8775
+Wilstacy, 37.5336, -83.2528
+Wilton, 36.8903, -84.0475
+Win, 37.8783, -82.9808
+Winchester, 37.9900, -84.1797
+Wind Cave, 37.5125, -83.9289
+Winding Way, 38.2000, -84.8667
+Windsor, 37.1278, -84.9122
+Windy, 36.7464, -84.9811
+Windy Hill, 37.4197, -86.7053
+Windy Hills, 38.2739, -85.6344
+Windyville(Edmonson), 37.2161, -86.3244
+Windyville(Grayson), 37.3603, -86.4189
+Winesap, 37.2872, -86.0161
+Winford, 36.9269, -89.0600
+Wingo, 36.6422, -88.7389
+Winifred, 37.9461, -82.8547
+Winslow, 38.4536, -82.6819
+Winslow Park, 37.3333, -88.0667
+Winston, 37.7056, -84.0822
+Winston Park, 39.0417, -84.5025
+Wiscoal, 37.2372, -83.0561
+Wisconsin, 37.2500, -83.0500
+Wisdom, 37.0039, -85.7200
+Wisemantown, 37.6786, -84.0064
+Wises Landing, 38.5731, -85.4083
+Wiswell, 36.5833, -88.3881
+Withrow, 37.8350, -85.4725
+Witt, 37.6731, -84.0267
+Witt Springs, 37.7297, -84.0292
+Wittensville, 37.8628, -82.7997
+Wofford, 36.7825, -84.1353
+Wolf, 38.3792, -83.0994
+Wolf Coal, 37.3983, -83.3778
+Wolf Creek, 38.1028, -86.3897
+Wolf Lick, 37.0189, -86.9561
+Wolf River Dock, 36.6261, -85.2086
+Wolfpit, 37.3528, -82.4231
+Wollingtown, 37.3667, -86.2500
+Wolverine, 37.5808, -83.4083
+Wonder, 37.6336, -82.6067
+Wonnie, 37.8092, -83.1542
+Woodbine, 36.9047, -84.0889
+Woodburn, 36.8425, -86.5275
+Woodbury, 37.1833, -86.6339
+Woodford Village, 38.0422, -84.7253
+Woodhill, 38.1500, -85.7000
+Woodlake, 38.2106, -84.7536
+Woodland Hills, 38.2403, -85.5242
+Woodland Park, 37.2467, -83.1778
+Woodlawn(Nelson), 37.8131, -85.3653
+Woodlawn(Campbell), 39.0925, -84.4753
+Woodlawn(McCracken), 37.0419, -88.5689
+Woodlawn Park, 38.2614, -85.6292
+Woodman, 37.5211, -82.0447
+Woodrow, 37.7414, -86.3197
+Woods(Floyd), 37.6356, -82.6528
+Woods(Harlan), 36.8608, -83.1789
+Woodsbend, 37.9117, -83.3406
+Woodside(Jefferson), 38.3050, -85.6531
+Woodside(Pike), 37.4075, -82.3342
+Woodside(Edmonson), 37.2533, -86.2650
+Woodsonville, 37.2628, -85.8883
+Woodstock, 37.2614, -84.5167
+Woodville, 37.0967, -88.8733
+Woolcott, 38.7328, -84.1003
+Wooleyville, 37.3792, -85.2469
+Woollum, 37.0197, -83.8175
+Wooton, 37.1789, -83.3022
+Worley, 36.6994, -84.5339
+Worthington(Greenup), 38.5483, -82.7244
+Worthington(Jefferson), 38.3156, -85.5617
+Worthville, 38.6097, -85.0675
+Wray Gap, 36.7881, -84.8517
+Wrights, 37.3125, -85.4000
+Wrightsburg, 37.5914, -87.4031
+Wrigley, 38.0183, -83.2714
+Wurtland, 38.5503, -82.7781
+Wyandotte, 38.0497, -84.2722
+Wyett, 38.1097, -83.2536
+Wyman, 37.6322, -87.3325
+Wynns, 37.1833, -87.3833
+Wyoming, 38.2197, -83.6986
+Wysox, 37.2731, -86.9078
+Yaden, 36.7403, -84.1022
+Yamacraw, 36.7169, -84.5375
+Yancey, 36.7686, -83.3208
+Yarnallton, 38.1061, -84.5856
+Yatesville, 38.1478, -82.6861
+Yeaddiss, 37.0686, -83.2178
+Yeager(Knox), 36.8667, -83.8000
+Yeager(Pike), 37.3917, -82.5217
+Yeaman, 37.5178, -86.5775
+Yellow Creek, 36.5872, -83.7808
+Yellow Rock, 37.5708, -83.8050
+Yelvington, 37.8556, -86.9672
+Yerkes, 37.2772, -83.3011
+Yesse, 36.8531, -86.1972
+Yocum, 37.9833, -83.3250
+Yocum Creek, 36.8667, -83.2000
+Yoder, 38.0606, -85.3450
+York, 38.5656, -83.0464
+Yorktown, 37.4428, -82.5250
+Yosemite, 37.3467, -84.8247
+Younger Creek, 37.7567, -85.7236
+Youngs Creek, 36.8653, -84.2411
+Youngtown, 37.1814, -86.7186
+Yuba, 37.5761, -87.8386
+Yuma, 37.2803, -85.2417
+Zachariah, 37.7050, -83.6836
+Zag, 37.9867, -83.3650
+Zandale, 38.0053, -84.5122
+Zebulon, 37.5333, -82.4667
+Zekes Point, 37.3508, -83.8889
+Zelda, 38.1950, -82.6047
+Zilpo, 38.0744, -83.4933
+Zion(Todd), 36.6778, -87.2958
+Zion(Grant), 38.7333, -84.7500
+Zion(Henderson), 37.8147, -87.4836
+Zion Hill, 38.1200, -84.6378
+Zion Station, 38.7528, -84.7094
+Zoe, 37.6803, -83.6842
+Zoneton, 38.0633, -85.6706
+Zula, 36.7672, -84.9794

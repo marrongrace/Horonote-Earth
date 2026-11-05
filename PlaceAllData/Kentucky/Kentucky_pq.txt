@@ -1,0 +1,303 @@
+Packard, 36.6675, -84.0558
+Pactolus, 38.3653, -82.9350
+Paducah, 37.0833, -88.6000
+Paint Cliff, 36.7000, -84.6167
+Paint Creek, 37.9333, -83.0833
+Paint Lick, 37.6167, -84.4094
+Paintsville, 37.8144, -82.8072
+Paintsville-Johnson County Medical Center, 37.8144, -82.8122
+Palisades, 37.0217, -88.0272
+Palma, 36.9625, -88.3783
+Palmer, 37.8133, -84.0664
+Panama, 37.8494, -83.3014
+Panarama City, 36.6000, -88.3167
+Panco, 37.2372, -83.5336
+Panhandle, 37.5567, -83.3833
+Panola, 37.6608, -84.1153
+Pansy(Gulston P O), 36.7750, -83.3289
+Panther, 37.6400, -87.2250
+Paradise, 37.2681, -86.9836
+Paradise Hills, 37.0128, -88.0353
+Paragon, 38.0481, -83.3994
+Paris, 38.2097, -84.2531
+Park, 37.1403, -85.7747
+Park City, 37.0939, -86.0464
+Park Hills, 39.0714, -84.5322
+Parkers Lake, 36.8500, -84.4833
+Parkland, 38.2422, -85.8158
+Parkside, 38.2464, -85.6369
+Parksville, 37.5978, -84.8914
+Parkway Village, 38.2125, -85.7403
+Parkwood, 38.1556, -85.8014
+Parmleysville, 36.6842, -84.7539
+Parnell, 36.8678, -84.9453
+Parrot, 37.3167, -84.0500
+Partridge, 37.0064, -82.8981
+Parvin, 37.7000, -83.9667
+Pascal, 37.2169, -85.7303
+Patesville, 37.7819, -86.7189
+Pathfork, 36.7558, -83.4647
+Patrick, 37.9239, -82.6436
+Patsey, 37.7117, -83.7978
+Pauley, 37.4947, -82.5353
+Paw Paw, 37.4375, -82.1108
+Paxton, 37.6764, -83.4086
+Payne, 36.6636, -88.6508
+Payne Gap, 37.1553, -82.6594
+Paynes, 38.0833, -84.4833
+Paynes Depot, 38.1419, -84.6236
+Payneville, 37.9894, -86.3131
+Payton, 37.8022, -83.2992
+Pea Ridge(Scott), 38.2667, -84.6833
+Pea Ridge(Todd), 36.8000, -87.1500
+Peabody, 37.1389, -83.5908
+Peach Grove, 38.8308, -84.2908
+Peach Orchard, 37.9419, -82.6153
+Peaks Mill, 38.2983, -84.8125
+Pearl, 36.6314, -83.9467
+Pearman, 37.3744, -86.1086
+Peasticks, 38.1561, -83.6989
+Pebble, 38.2689, -83.7567
+Pebworth, 37.5042, -83.7311
+Peck Ford, 37.4981, -85.2239
+Pecksridge, 38.4167, -83.7833
+Peden Mill, 36.6811, -86.5256
+Pee Vee, 37.3069, -87.5406
+Peedee, 36.7586, -87.6656
+Peeled Oak, 38.0611, -83.8019
+Pekin, 37.8794, -83.3897
+Pellville, 37.7522, -86.8136
+Pellyton, 37.2117, -85.0842
+Pembroke, 36.7758, -87.3556
+Pence(Lewis), 38.6964, -83.5328
+Pence(Wolfe), 37.6339, -83.4742
+Penchem, 36.7167, -87.2667
+Pendleton, 38.4622, -85.3036
+Penick, 37.5683, -85.1503
+Penile, 38.1069, -85.8033
+Penny(Calloway), 36.6469, -88.3606
+Penny(Pike), 37.3592, -82.5617
+Pennyrile Mall, 36.8500, -87.5000
+Penrod, 37.1142, -86.9992
+Peonia, 37.4156, -86.2192
+Peoples, 37.2894, -84.0533
+Perkins, 36.7839, -84.0608
+Permon, 36.8108, -83.9811
+Perry Park, 38.5481, -84.9997
+Perrytown, 36.7500, -86.1833
+Perryville(Boyle), 37.6503, -84.9517
+Perryville(Hardin), 37.7294, -86.0486
+Perryville(Hart), 37.2850, -85.8983
+Persimmon, 36.8031, -85.6425
+Persimmon Grove, 38.8997, -84.3436
+Persimon, 36.7000, -85.7000
+Peter Creek, 36.8450, -85.9792
+Petersburg(Jefferson), 38.1786, -85.6594
+Petersburg(Boone), 39.0692, -84.8683
+Petersville, 38.4442, -83.4906
+Peth, 37.4069, -86.4367
+Petra, 38.6242, -84.1339
+Petrie, 37.9264, -86.8042
+Petroleum, 36.6953, -86.2483
+Petros, 36.8972, -86.5967
+Pettit, 37.6889, -87.1319
+Pewee Valley, 38.3106, -85.4875
+Pewee Valley Sanitarium, 38.3014, -85.4911
+Peyton Creek, 37.4833, -82.5167
+Peytona, 38.1811, -85.0611
+Peytons Store, 37.4639, -84.9706
+Peytonsburg, 36.6342, -85.3928
+Peytontown, 37.6694, -84.3314
+Phelps, 37.5128, -82.1500
+Phil, 37.2153, -84.9536
+Phillipsburg, 37.4564, -85.2600
+Philpot, 37.7331, -86.9889
+Phyllis, 37.4425, -82.3361
+Pickett, 37.1225, -85.4756
+Picnic, 36.9667, -85.4333
+Pierce, 37.1864, -85.6078
+Pierce Mill, 37.6406, -86.2000
+Pig, 37.1328, -86.1700
+Pigeon, 37.4319, -82.5536
+Pigeonroost, 37.1111, -83.8144
+Pike View, 37.3794, -85.7531
+Pikeville, 37.4792, -82.5189
+Pilcher Landing, 37.9919, -86.0175
+Pilgrim, 37.7992, -82.4214
+Pilot, 37.7492, -83.7797
+Pilot Oak, 36.5467, -88.7222
+Pilot View, 37.9678, -84.0639
+Pinchem(Clark), 37.9261, -84.1600
+Pinchem(Todd), 36.7028, -87.1972
+Pinckard, 37.9772, -84.6817
+Pinckneyville, 37.1872, -88.2397
+Pine Grove(Casey), 37.3500, -84.8333
+Pine Grove(Clark), 38.0019, -84.3158
+Pine Grove(Laurel), 37.0656, -84.1022
+Pine Hill, 37.3294, -84.2633
+Pine Knob, 37.4833, -86.5119
+Pine Knot, 36.6508, -84.4386
+Pine Meadows, 38.0433, -84.5328
+Pine Mountain, 37.7136, -85.4808
+Pine Ridge, 37.7639, -83.6139
+Pine Springs, 37.3519, -86.0947
+Pine Top, 37.2725, -82.8825
+Pinehurst, 38.0722, -84.4572
+Piner, 38.8314, -84.5358
+Pineville, 36.7619, -83.6950
+Piney, 37.3964, -87.9039
+Piney Fork, 37.2919, -88.0042
+Piney Grove, 37.1003, -84.4864
+Pink, 37.7794, -84.5511
+Pinnacle, 37.6211, -83.8175
+Pinsonfork, 37.5531, -82.2639
+Pioneer Village, 38.0000, -85.7167
+Pippa Passes, 37.3333, -82.8833
+Piqua, 38.4661, -84.0453
+Pisgah, 38.0567, -84.6550
+Piso, 37.6358, -82.4675
+Pitman, 37.3781, -85.4894
+Pitts, 37.7092, -83.8839
+Pitts Point, 37.9167, -85.8261
+Pittsburg, 37.1600, -84.1042
+Plank, 37.0761, -83.6469
+Plano, 36.8803, -86.4183
+Plantation, 38.2833, -85.5911
+Plato, 37.2328, -84.4178
+Pleasant Green Hill, 36.9292, -87.5272
+Pleasant Grove, 37.7517, -85.1725
+Pleasant Hill(Butler), 37.1803, -86.8653
+Pleasant Hill(Pendleton), 38.7833, -84.3667
+Pleasant Hill(Calloway), 36.7139, -88.2933
+Pleasant Hill(Christian), 36.9072, -87.3686
+Pleasant Home, 38.5014, -84.9136
+Pleasant Ridge, 37.5983, -86.9872
+Pleasant Valley(Pike), 37.4672, -82.5047
+Pleasant Valley(Nicholas), 38.3792, -83.9381
+Pleasant View, 36.6778, -84.1286
+Pleasure Ridge Park, 38.1500, -85.8167
+Pleasureville(Shelby), 38.3458, -85.1153
+Pleasureville(Fleming), 38.4781, -83.6036
+Plum, 38.1789, -84.0314
+Plum Springs, 37.0183, -86.3814
+Plummers Landing, 38.3189, -83.5611
+Plummers Mill, 38.3006, -83.5697
+Plumville, 38.6014, -83.6744
+Plutarch, 37.8397, -83.0881
+Plymouth Village, 38.2386, -85.6481
+Poindexter, 38.4369, -84.3083
+Point Leavell, 37.5933, -84.4961
+Point Pleasant, 37.4511, -87.1006
+Pointer, 37.1328, -84.7672
+Polin, 37.8192, -85.2089
+Polksville, 38.1383, -83.6542
+Polkville, 36.9725, -86.2708
+Pollard, 37.8067, -84.5100
+Polly, 37.2008, -82.8267
+Polsgrove, 38.3481, -84.8850
+Pomeroyton, 37.8711, -83.5217
+Pomp, 37.9594, -83.2814
+Pond Creek, 37.3167, -83.9667
+Ponderosa, 37.3406, -86.1961
+Pondsville, 36.9944, -86.1653
+Pongo, 37.2225, -84.3231
+Ponza, 36.7200, -83.6425
+Poole, 37.6403, -87.6442
+Poor Fork, 36.9167, -83.2000
+Poortown, 37.8833, -84.5667
+Pope, 36.7625, -86.3397
+Poplar, 38.4419, -83.1531
+Poplar Corner, 37.6083, -85.1486
+Poplar Flat, 38.5944, -83.5236
+Poplar Grove(Fleming), 38.5036, -83.6775
+Poplar Grove(McLean), 37.4692, -87.3072
+Poplar Grove(Owen), 38.6581, -84.8411
+Poplar Highlands, 38.5453, -82.7547
+Poplar Level, 37.9200, -85.6392
+Poplar Plains, 38.3608, -83.6744
+Poplarville, 37.0242, -84.4378
+Port Oliver Ford, 36.8939, -86.1381
+Port Royal, 38.5553, -85.0803
+Porter, 38.3819, -84.6053
+Porter Junction, 37.4719, -82.8294
+Portersburg, 37.1706, -83.9258
+Portland(Adiar), 37.1206, -85.4461
+Portland(Jefferson), 38.2692, -85.8108
+Portland(pendleton), 38.7481, -84.4478
+Portsmouth, 37.5314, -83.3153
+Possum Trot, 37.0056, -88.4306
+Post, 37.4731, -86.4756
+Potters, 38.1167, -82.6000
+Potters Fork, 37.1825, -82.6733
+Pottertown, 36.6214, -88.1911
+Pottsville(Graves), 36.8550, -88.7292
+Pottsville(Washington), 37.6472, -85.0669
+Poverty, 37.5708, -87.3211
+Powder Mill, 37.3469, -85.7133
+Powderly, 37.2369, -87.1592
+Powell, 37.7000, -83.9667
+Powell Valley, 37.8650, -83.9478
+Powersburg, 36.7042, -84.9653
+Powersville, 38.6567, -84.1122
+Prairie Village, 38.1131, -85.8364
+Prater, 38.3389, -83.1519
+Pratt, 37.6150, -87.5689
+Preachersville, 37.5272, -84.5339
+Preece, 37.7817, -82.5281
+Premier, 36.5956, -83.7639
+Premium, 37.0667, -82.9667
+Prentiss, 37.3347, -86.8406
+Press, 37.5275, -83.2717
+Preston, 38.0856, -83.7533
+Prestonia, 38.1947, -85.7269
+Prestonsburg, 37.6656, -82.7717
+Prestonville, 38.6797, -85.1903
+Prewitt, 38.0281, -83.9811
+Price, 37.4025, -82.7422
+Prices Mill, 36.6814, -86.7300
+Pricetown(Casey), 37.2842, -84.9556
+Pricetown(Fayette), 37.9922, -84.3739
+Priceville, 37.3742, -85.9872
+Prichard Place, 37.8844, -85.9717
+Pride, 37.5583, -87.8908
+Primrose, 37.6022, -83.6086
+Princess, 38.3875, -82.7458
+Princeton, 37.1092, -87.8819
+Printer, 37.5297, -82.7464
+Pritchardsville, 36.9722, -85.9372
+Privett, 37.4019, -83.9006
+Proctor, 37.5700, -83.7139
+Produce Place, 38.2000, -85.6500
+Prospect, 38.3450, -85.6156
+Prospect PO, 38.3564, -85.6114
+Prosperity, 37.3217, -86.3175
+Protemus, 36.5533, -88.4792
+Providence(Jessamine), 38.0167, -84.5333
+Providence(Knox), 36.8669, -83.9117
+Providence(Simpson), 36.6661, -86.6775
+Providence(Webster), 37.3975, -87.7628
+Providence(Trimble), 38.5744, -85.2211
+Provo, 37.2331, -86.8283
+Pruden, 36.5906, -83.8914
+Pryors Chapel, 36.7333, -88.6333
+Pryorsburg, 36.6867, -88.7142
+Pryse, 37.6586, -83.8756
+Public, 36.8167, -84.7000
+Pueblo, 36.8097, -84.7083
+Pulaski, 37.2089, -84.6389
+Pulliam, 37.8458, -85.1497
+Pumpkin Center, 37.1242, -87.8478
+Puncheon, 37.3017, -82.7894
+Purdy, 37.1514, -85.1850
+Putney, 36.9053, -83.2264
+Pyramid, 37.5647, -82.8689
+Pyrus, 37.0667, -85.4167
+Quail, 37.3272, -84.4547
+Quality, 37.0756, -86.8467
+Queendale, 37.0111, -83.5311
+Queens, 38.6336, -83.4389
+Quicksand, 37.5289, -83.3450
+Quincy, 38.6239, -83.1308
+Quinn, 37.2933, -87.8364
+Quinn Landing, 37.6417, -87.4967
+Quinton, 36.9528, -84.6267
