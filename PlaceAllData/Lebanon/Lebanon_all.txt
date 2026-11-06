@@ -1,0 +1,104 @@
+Ad-Damur, 33.7333, 35.4500
+Ad-Duwayr, 33.3833, 35.4167
+Al-Batrun, 34.2500, 35.6500
+Al-Furzul, 33.8667, 35.9333
+Al-Ghaziyah, 33.5167, 35.3667
+Al-Khiyam, 33.3167, 35.6000
+Al-Kufayr, 33.4333, 35.7333
+Al-Labwah, 34.2000, 36.3500
+Al-Mina', 34.4500, 35.8167
+Al-Mutayn, 33.9000, 35.7333
+Al-Mu‘allaqah, 33.8333, 35.9000
+Al-Qir‘awn, 33.5667, 35.7167
+Al-‘Atiqah, 33.7000, 35.4500
+Amyun, 34.3000, 35.8167
+An-Nabatiyah at-Tahta, 33.3833, 35.4833
+An-Nabi Shit, 33.8667, 36.1167
+An-Naqurah, 33.1167, 35.1333
+Ansar, 33.3833, 35.3500
+Antilyas, 33.9167, 35.5833
+As-Sarafand, 33.4500, 35.3000
+Ash-Shiyah, 33.8500, 35.5000
+Ash-Shuwayfat, 33.8167, 35.5167
+Ash-Shuwayr, 33.9167, 35.7167
+Az-Zrariyah, 33.3500, 35.3333
+Barja, 33.6500, 35.4333
+Barr Ilyas, 33.7667, 35.9000
+Bayrut(Beirut), 33.8833, 35.5000
+Bayt ad-Din, 33.7000, 35.5833
+Bayt Miri, 33.8667, 35.6000
+Ba‘labakk, 34.0000, 36.2000
+Bikfayya, 33.9167, 35.6833
+Bint Jubayl, 33.1167, 35.4333
+Biskinta, 33.9500, 35.8000
+Bkasin, 33.5667, 35.5833
+Bsharri, 34.2500, 36.0167
+Byblos > Jubayl, 34.1167, 35.6500
+B‘abda, 33.8333, 35.5333
+B‘abdat, 33.8833, 35.6667
+B‘aqlin, 33.6833, 35.5500
+Dayr al-‘Asha'ir, 33.5333, 36.0167
+Duma, 34.2000, 35.8333
+Furn ash-Shubbak, 33.8667, 35.5167
+Gharifah, 33.6333, 35.5500
+Ghazir, 34.0167, 35.6667
+Ghazzah, 33.6667, 35.8167
+Habbush, 33.4000, 35.4833
+Halba, 34.5500, 36.0833
+Hammana, 33.8167, 35.7333
+Harat Hurayk, 33.8500, 35.5000
+Hasbayya, 33.4000, 35.6833
+Hawsh Musá, 33.7167, 35.9333
+Jazzin, 33.5333, 35.5667
+Jba‘, 33.4833, 35.5167
+Jubayl(Byblos), 34.1167, 35.6500
+Jubb Jannin, 33.6167, 35.7833
+Jun, 33.5833, 35.4500
+Juniyah, 33.9833, 35.6333
+Jwayya, 33.2333, 35.3167
+Kafr Hunah, 33.4833, 35.5833
+Kafr Nabrakh, 33.7000, 35.6333
+Kafr Shima, 33.8167, 35.5333
+Khirbat Qanafar, 33.6333, 35.7167
+Maghdushah, 33.5167, 35.3833
+Mahattat Bhamdun, 33.8000, 35.6500
+Majdal ‘Anjar, 33.7000, 35.9000
+Mar Yusuf, 33.8833, 35.5500
+Marj ‘Uyun, 33.3667, 35.5833
+Mashgharah, 33.5333, 35.6500
+Ma‘asir ash-Shuf, 33.6667, 35.6667
+Ma‘rakah, 33.2667, 35.3000
+Qabb Ilyas, 33.8000, 35.8167
+Qana, 33.2167, 35.3000
+Qartaba, 34.1000, 35.8500
+Ra's Ba‘labakk, 34.2500, 36.4167
+Rahbah, 34.5000, 36.1500
+Rashayya, 33.5000, 35.8500
+Rishmayya, 33.7333, 35.6000
+Riyaq, 33.8500, 36.0000
+Rumaysh, 33.0833, 35.3667
+Saghbin, 33.6167, 35.7000
+Sayda(Sidon), 33.5500, 35.3667
+Shab‘a, 33.3500, 35.7500
+Shaqra, 33.2000, 35.4667
+Shhim, 33.6167, 35.4833
+Sidon > Sayda, 33.5500, 35.3667
+Sir ad-Dinniyah, 34.3833, 36.0333
+Sur(Tyre), 33.2667, 35.1833
+Tahwitat an-Nahr, 33.8667, 35.5167
+Tarabulus(Tripoli), 34.4333, 35.8500
+Tibnin, 33.2000, 35.4167
+Tripoli > Tarabulus, 34.4333, 35.8500
+Tyre > Sur, 33.2667, 35.1833
+Yanta, 33.6000, 35.9500
+Yatar, 33.1500, 35.3333
+Zahlah, 33.8500, 35.8833
+Zgharta, 34.4000, 35.9000
+Zibdin, 33.3667, 35.4667
+Zuq Mikha'il, 33.9667, 35.6167
+‘Ajaltun, 33.9667, 35.6833
+‘Alayh, 33.8000, 35.6000
+‘Ali an-Nahri, 33.8500, 36.0167
+‘Ayta al-Fakhkhar, 33.6333, 35.9000
+‘Aytanit, 33.5667, 35.6667
+‘Bayh, 33.7333, 35.5167
