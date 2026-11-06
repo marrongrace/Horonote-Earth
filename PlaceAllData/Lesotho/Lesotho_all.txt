@@ -1,0 +1,20 @@
+Butha Buthe, -28.7500, 28.2500
+Joel, -28.7000, 28.3500
+Leribe, -28.9667, 28.0000
+Mafeteng, -29.8500, 27.2500
+Marakabei, -29.5333, 28.1500
+Maseru, -29.4667, 27.5000
+Matsieng, -29.6000, 27.5333
+Mohale's Hoek, -30.1167, 27.4333
+Mokhotlong, -29.3667, 29.0333
+Morija, -29.5667, 27.5167
+Mount Moorosi, -30.2667, 27.8833
+Pitseng, -28.9667, 28.2667
+Qacha's Nek, -30.1000, 28.7000
+Quthing, -30.5000, 27.6000
+Roma, -29.4500, 27.7500
+Sehlaba-Thebe, -29.8833, 29.0833
+Sekake, -29.9667, 28.4500
+Sekake's, -29.9667, 28.4500
+Teyateyaneng, -29.1167, 27.5667
+Thaba-Tseka, -29.5833, 28.5500
