@@ -1,0 +1,157 @@
+Adri, 27.5333, 13.2333
+Ajdabiyah, 30.8000, 20.2333
+Al-Abyar, 32.1833, 20.6000
+Al-Apollonia > Marsa Susah, 32.9000, 21.9667
+Al-Barkat, 24.9000, 10.1833
+Al-Bayda > Zawiyat al-Bayda', 28.3667, 18.9167
+Al-Bu'ayrat, 31.4000, 15.7333
+Al-Bunbah, 32.4000, 23.1333
+Al-Fuqaha', 27.8333, 16.3667
+Al-Hufrah, 29.1667, 18.0333
+Al-Jaghbub, 29.7500, 24.5167
+Al-Jawf, 24.1833, 23.3167
+Al-Jawsh, 32.0000, 11.6667
+Al-Khums(Homs), 32.6500, 14.2667
+Al-Makili, 32.1500, 22.2833
+Al-Marj, 32.5000, 20.9000
+Al-Qaddahiyah, 31.3667, 15.2333
+Al-Qaryah ash-Sharqiyah, 30.4000, 13.6000
+Al-Qasabat, 32.5833, 14.0500
+Al-Qatrun, 24.9333, 14.6333
+Al-‘Aziziyah, 32.5333, 13.0167
+Al-‘Irq, 29.0333, 21.5500
+Al-‘Uqaylah, 30.2667, 19.2000
+Amal, 29.4167, 21.1667
+An-Nawfaliyah, 30.7833, 17.8333
+As-Sultan, 31.1167, 17.1667
+At-Taj, 24.2167, 23.3000
+At-Tamimi, 32.3333, 23.0667
+Awbari, 26.5833, 12.7667
+Awjilah, 29.1500, 21.2500
+Az-Zawiyah, 32.7500, 12.7333
+Az-Zuwaytinah, 30.9667, 20.1167
+Banghazi, 32.1167, 20.0667
+Bani Walid, 31.7500, 14.0167
+Baninah, 32.0833, 20.2667
+Barce > Al-Marj, 32.5000, 20.9000
+Bardiyah, 31.7667, 25.1000
+Beida > Zawiyat al-Bayda', 28.3667, 18.9167
+Beni Ulid > Qasr Bani Walid, 31.7500, 14.0167
+Bi'r al-Uzam, 31.9000, 23.9667
+Bin Ghashir, 32.6833, 13.1833
+Birak, 27.5333, 14.2667
+Brach, 27.5333, 14.2667
+Bu al-Hidan, 28.1667, 19.3000
+Bu'ayrat al-Hasun, 31.4000, 15.7333
+Burayk, 26.5500, 13.1333
+Buzaymah, 24.9167, 22.0333
+Daf‘, 27.0000, 20.0000
+Dahra, 29.7000, 17.9667
+Daraj, 30.1500, 10.4333
+Darnah(Derna), 32.7667, 22.6500
+Dirj, 30.1500, 10.4333
+Dulaym, 25.9667, 14.0500
+El Beida > Zawiyat al-Bayda', 28.3667, 18.9167
+Emgayet, 29.0667, 12.9667
+Facha, 29.4500, 17.3000
+Feuet, 24.9500, 10.0667
+Funduq Bin Ghashir, 32.6833, 13.1833
+Ghadamis, 30.1333, 9.5000
+Gharyan(Garian), 32.1667, 13.0167
+Ghat, 24.9667, 10.1833
+Ghudamis, 30.1333, 9.5000
+Goddua, 26.4333, 14.3000
+Homs > Al-Khums, 32.6500, 14.2667
+Hun, 29.1167, 15.9333
+Jabal, 28.6000, 19.9667
+Jadu, 31.9500, 12.0167
+Jalu, 29.0333, 21.5333
+Jardas al-‘Abid, 32.3167, 20.9333
+Jarmah, 26.5500, 13.0667
+Khuff, 28.3333, 18.8000
+Kiklah, 32.0833, 12.6833
+Kotla, 28.5500, 18.9667
+Lukk, 32.0167, 24.7500
+Mabruk, 29.8333, 17.1667
+Madinat al-Abyar, 32.1833, 20.6000
+Madrusah, 24.8000, 14.5333
+Maradah, 29.2333, 19.2167
+Marawah, 32.4833, 21.4167
+Marsa al-Burayqah, 30.4167, 19.5667
+Marsa Susah, 32.9000, 21.9667
+Martubah, 32.5833, 22.7667
+Ma‘fan, 25.9167, 14.4833
+Misratah, 32.3833, 15.1000
+Mizdah, 31.4333, 12.9833
+Murzuq, 25.9167, 13.9167
+Musa'id, 31.5833, 25.0500
+Nafoora, 29.3333, 21.3333
+Nafurah, 29.3333, 21.3333
+Nalut, 31.8667, 10.9833
+Ora, 28.5500, 19.4000
+Qaminis, 31.6500, 20.0500
+Qaryat al-Qaddahiyah, 31.3667, 15.2333
+Qaryat al-Zuwaytinah, 30.9667, 20.1167
+Qasr al-Burayqah, 30.4167, 19.5667
+Qasr al-Qarabulli, 32.7500, 13.7167
+Qasr al-Qarahbulli, 32.7500, 13.7167
+Qasr as-Sahabi, 30.0167, 20.8000
+Qasr Bani Walid, 31.7500, 14.0167
+Qasr Bu-Hadi, 31.0500, 16.6667
+Ra's al-Unuf, 30.5167, 18.5667
+Raqubah, 29.0667, 19.1333
+Sabha, 27.0500, 14.4333
+Sabhah, 27.0500, 14.4333
+Sabratah, 32.7833, 12.4833
+Samah, 28.2000, 19.1500
+Samnu, 27.2833, 14.8833
+Sardalas, 25.7667, 10.5667
+Sarir, 27.6000, 22.5333
+Sawknah, 29.0667, 15.7833
+Sciueref, 29.8833, 14.1333
+Shahhat, 32.8167, 21.8667
+Sinawan, 31.0333, 10.6000
+Sinawin, 31.0333, 10.6000
+Sirte, 31.1833, 16.6000
+Suluntah, 32.6000, 21.7167
+Suluq, 31.6500, 20.2500
+Susah, 32.9000, 21.9667
+Taghrifat, 29.2000, 17.3667
+Tajarhi, 24.3500, 14.4667
+Tajura', 32.8833, 13.3500
+Takartibah, 26.5333, 13.2500
+Tamanhint, 27.2167, 14.6000
+Tarabulus(Tripoli), 32.9000, 13.1833
+Taraghin, 25.9833, 14.4333
+Tarbu, 26.0333, 15.1667
+Tarhunah, 32.4333, 13.6333
+Tasawah, 25.9667, 13.5000
+Tawurgha', 32.0333, 15.1500
+Tiji, 32.0167, 11.3667
+Tmassah, 26.3667, 15.7833
+Tmisan, 27.5333, 13.3167
+Traghan, 25.9833, 14.4333
+Tripoli > Tarabulus, 32.9000, 13.1833
+Tripolis > Tarabulus, 32.9000, 13.1833
+Tubruq(Tobruk), 32.0833, 23.9833
+Tukrah, 32.5333, 20.5667
+Tulmaythah, 32.7167, 20.9500
+Tummo, 22.6667, 14.1667
+Umm al-Aranib, 26.1333, 14.7500
+Umm al-‘Abid, 27.5167, 15.0333
+Waddan, 29.1667, 16.1333
+Waha, 28.2667, 19.9000
+Wanzarik, 27.5167, 13.4833
+Waw al-Kabir, 25.3333, 16.7167
+Wazin, 31.9500, 10.6667
+Yafran, 32.0667, 12.5167
+Zaltan, 32.9500, 11.8667
+Zaqqut, 28.4833, 19.6167
+Zawilah, 26.1667, 15.1167
+Zawiyat al-Bayda'(Beida), 28.3667, 18.9167
+Zawiyat al-Mukhaylá, 32.1500, 22.2833
+Zawiyat Masus, 31.5500, 21.0500
+Zillah, 28.5500, 17.5833
+Zlitan, 32.4667, 14.5667
+Zuwarah, 32.9333, 12.1000
+‘Ayn al-Ghazalah, 32.1667, 23.3333
