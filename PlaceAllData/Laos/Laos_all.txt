@@ -1,0 +1,141 @@
+Attapu, 14.8000, 106.8333
+Ban Ban, 19.6333, 103.5667
+Ban Bonèng, 17.9667, 104.5833
+Ban Bouang-Nom, 15.7833, 106.7833
+Ban Bungxai, 15.7000, 106.2333
+Ban Chak, 14.2833, 105.4167
+Ban Chala, 17.1833, 106.0833
+Ban Dangtai, 17.1000, 104.9500
+Ban Donhiang, 18.0833, 101.8000
+Ban Dônko, 16.2000, 106.2833
+Ban Gnômmarat Kèo, 17.6000, 105.1667
+Ban Hatgnao, 14.6667, 106.5833
+Ban Hatkiang, 18.1833, 102.6667
+Ban Hin Heup, 18.6333, 102.3333
+Ban Hong Muang, 17.0667, 105.2000
+Ban Houayxay, 20.3000, 100.4333
+Ban Hèt, 14.7333, 107.4833
+Ban Katèp, 16.8000, 105.8667
+Ban Kavak, 17.3000, 105.6167
+Ban Khamphô, 14.6333, 106.2833
+Ban Kheun, 20.2167, 101.1167
+Ban Kèngkabao, 16.8000, 104.7500
+Ban Kèngkok, 16.4333, 105.2000
+Ban Kèngtangan, 16.0833, 105.3667
+Ban Mit, 18.8500, 101.9167
+Ban Muangngat, 19.0833, 104.0667
+Ban Nadou, 15.8500, 105.6333
+Ban Nagnôm, 17.0333, 105.7333
+Ban Nahin, 18.2333, 104.2167
+Ban Nakala, 16.2833, 105.1833
+Ban Nalan, 15.8333, 106.0667
+Ban Nalè, 18.7000, 101.5667
+Ban Nam Tao, 17.8333, 101.2500
+Ban Namcha, 19.1500, 102.8833
+Ban Namnga, 20.3667, 102.3167
+Ban Naxon, 18.2000, 103.0833
+Ban Naxouang, 18.4167, 104.4833
+Ban Ngam, 20.1833, 104.8833
+Ban Pakha, 14.6333, 107.4000
+Ban Pakkhôp, 19.8167, 100.6000
+Ban Pakneun, 19.2333, 101.8333
+Ban Phya, 21.5833, 102.9167
+Ban Phôn, 15.4167, 106.7000
+Ban Phôngpho, 14.6000, 105.8667
+Ban Sa-Ang, 17.4333, 105.7333
+Ban Sam Pong, 18.5333, 102.7833
+Ban Samang, 19.7167, 102.6000
+Ban San Xieng La, 19.4500, 102.4333
+Ban Signo, 17.8500, 105.0667
+Ban Songkhon, 17.9667, 105.1667
+Ban Sôppheung, 18.5500, 104.2833
+Ban Teung, 17.9000, 105.4833
+Ban Thabôk, 18.3667, 103.2000
+Ban Thanoun, 19.8333, 101.4833
+Ban Thapayi, 16.3167, 105.6833
+Ban Thieng, 19.1333, 102.2000
+Ban Tian Sa, 18.7167, 103.2333
+Ban Van Hom, 18.7333, 104.0167
+Ban Vat, 16.9000, 106.4167
+Ban Xot, 18.1833, 104.0833
+Ban Xènkhalôk, 19.7000, 101.9000
+Borikhan, 18.5500, 103.7167
+Boun Nua, 21.6333, 101.9000
+Champasak, 14.8833, 105.8667
+Houamuang, 20.1500, 103.6333
+Khamkeut, 18.2500, 104.7167
+Khangkhai, 19.4667, 103.2500
+Louang Namtha, 20.9500, 101.4167
+Louangphrabang, 19.8667, 102.1333
+Mahaxai, 17.4167, 105.2000
+Mounlapamôk, 14.3333, 105.8667
+Muang Bèng, 20.3667, 101.7333
+Muang Hay, 21.0500, 101.8167
+Muang Hinboun, 17.5833, 104.6000
+Muang Houn, 20.1500, 101.4500
+Muang Hounxianghoung, 21.6167, 102.3000
+Muang Huang, 18.7500, 103.7000
+Muang Hôngsa, 19.7167, 101.3333
+Muang Khammouan, 17.4000, 104.8000
+Muang Khao, 19.7833, 103.4833
+Muang Khi, 18.4500, 101.7667
+Muang Khoua, 21.0833, 102.5167
+Muang Không, 14.1167, 105.8500
+Muang Khôngxédôn, 15.5667, 105.8167
+Muang La, 20.8667, 102.1167
+Muang Liap, 18.4833, 101.6667
+Muang Long, 20.9500, 100.8000
+Muang Meung, 20.7167, 100.4667
+Muang Ngoy, 20.7167, 102.6833
+Muang Nong, 16.3667, 106.5000
+Muang Ou Nua, 22.3000, 101.8000
+Muang Ou Tai, 22.1167, 101.8000
+Muang Pak-Lay, 18.2000, 101.4167
+Muang Pakbèng, 19.9000, 101.1333
+Muang Paktha, 20.1000, 100.6000
+Muang Pakxan, 18.3667, 103.6500
+Muang Peun, 20.2167, 103.8667
+Muang Phalan, 16.6500, 105.5667
+Muang Phiang, 19.1000, 101.5333
+Muang Phoun, 19.1167, 102.7167
+Muang Phônthong, 15.0833, 105.6500
+Muang Sing, 21.1833, 101.1500
+Muang Soum, 18.7500, 102.6000
+Muang Souvannakhili, 15.3833, 105.8167
+Muang Souy, 19.5500, 102.8667
+Muang Sung, 20.3167, 102.4500
+Muang Thadua, 19.4333, 101.8333
+Muang Thathôm, 19.0000, 103.6000
+Muang Thatèng, 15.4333, 106.3833
+Muang Va, 21.8833, 102.3167
+Muang Vangviang, 18.9333, 102.4500
+Muang Vapi, 15.6667, 105.9167
+Muang Xaignabouri, 19.2500, 101.7500
+Muang Xamtong, 19.8500, 103.8500
+Muang Xay, 20.7000, 101.9833
+Muang Xon, 20.4500, 103.3167
+Muang Xépôn, 16.6833, 106.2333
+Muang Yo, 21.5167, 101.8500
+Muang You, 19.8167, 102.8333
+Muong Het, 20.8167, 104.0167
+Muong Saiapoun, 18.4000, 101.5167
+Napè, 18.3000, 105.1000
+Ngay Nua, 21.8333, 101.9000
+Nong Hèt, 19.4833, 103.9833
+Pak Ban, 21.2333, 102.4667
+Paksane > Muang Pakxan, 18.3667, 103.6500
+Pakxé, 15.1167, 105.7833
+Phôngsali, 21.6833, 102.1000
+Samnua, 20.4167, 104.0333
+Saravan, 15.7167, 106.4167
+Savannakhét, 16.5500, 104.7500
+Sop Hao, 20.5500, 104.4500
+Sop Pong, 22.0667, 102.0500
+Sépone > Muang Xépôn, 16.6833, 106.2333
+Thakhek > Muang Khammouan, 17.4000, 104.8000
+Viangchan(Vientiane), 17.9667, 102.6000
+Viangphoukha, 20.6833, 101.0667
+Vientiane > Viangchan, 17.9667, 102.6000
+Xam Nua, 20.4167, 104.0333
+Xiangkhoang, 19.3333, 103.3667
+Xénô, 16.5833, 104.8333
