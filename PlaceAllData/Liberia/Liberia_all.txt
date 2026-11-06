@@ -1,0 +1,47 @@
+Bahn, 7.0833, -8.7500
+Belle Yella, 7.3667, -10.0000
+Bendaja, 7.1667, -11.2500
+Bentol, 6.4333, -10.6000
+Bopolu, 7.0500, -10.5333
+Brewerville, 6.4333, -10.7833
+Buchanan, 5.9500, -10.0333
+Camp King, 4.9167, -7.9667
+Careysburg, 6.5000, -10.5333
+Duabo, 5.6667, -8.0833
+Edina, 6.0167, -10.1667
+Ganta, 7.2500, -8.9833
+Gbanka, 7.0000, -9.4833
+Grand Bassa > Buchanan, 5.9500, -10.0333
+Grand Cess, 4.6000, -8.1667
+Greenville, 5.0167, -9.0500
+Harper, 4.4167, -7.7167
+Howeke, 4.8333, -7.7500
+Jedepo, 5.2667, -8.3333
+Juarzon, 5.3333, -8.8667
+Kakata, 6.5833, -10.3167
+Kolahun, 8.4000, -10.0333
+Marshall, 6.1667, -10.3833
+Monrovia, 6.3000, -10.7833
+Nanakru, 4.8333, -8.7333
+Nyaake, 4.8667, -7.6167
+Paluke, 5.0333, -8.1000
+Pleebo, 4.5833, -7.6667
+River Cess, 5.4667, -9.5333
+Robertsfield, 6.2500, -10.4000
+Robertsport, 6.7500, -11.3667
+Ross Port, 4.9667, -8.9500
+Sagleipie, 7.0000, -8.8667
+Salala, 6.7667, -10.0833
+Samuel Alfred Ross Port, 4.9667, -8.9500
+Sanniquellie, 7.3667, -8.7167
+Sastown, 4.6667, -8.4333
+Sehnkwehn, 5.2167, -9.3333
+Sino, 5.0167, -9.0667
+Tapeta, 6.4833, -8.8500
+Tappi, 6.4833, -8.9000
+Tchien, 6.0667, -8.1333
+Timbo, 5.6167, -9.7000
+Vaitown, 6.8667, -10.8667
+Voinjama, 8.4167, -9.7500
+White Plains, 6.4833, -10.7167
+Zorzor, 7.7667, -9.4667
