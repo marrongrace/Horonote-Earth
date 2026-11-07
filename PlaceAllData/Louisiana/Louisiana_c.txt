@@ -1,0 +1,283 @@
+C B Cooley Hospital, 32.5689, -92.1553
+Caddo, 32.7500, -93.9833
+Cade, 30.0872, -91.9053
+Cadeville, 32.4289, -92.3389
+Caernarvon, 29.8636, -89.9064
+Caffery, 29.8056, -91.4794
+Caire, 29.9978, -90.8533
+Caire Spur, 29.9833, -90.8333
+Calcasieu, 31.0894, -92.7114
+Caldwell Memorial Hospital, 32.1036, -92.0758
+Calhoun, 32.5125, -92.3583
+Calumet, 29.6994, -91.3633
+Calvin, 31.9656, -92.7756
+Camardelle, 29.7256, -90.3581
+Camelia Gardens, 31.2833, -92.4833
+Cameron, 29.7975, -93.3250
+Camille, 29.9544, -92.0058
+Camp Hardtner, 31.6311, -92.3992
+Camp Leroy Johnson, 30.0300, -90.0456
+Campbell, 31.4017, -92.7944
+Camperdown, 29.8456, -91.4839
+Campti, 31.8933, -93.1181
+Canbeal, 32.8194, -92.3531
+Cancienne, 29.9000, -91.0256
+Canebrake, 31.7000, -91.4667
+Caneland, 29.8297, -91.6164
+Caney, 31.1200, -93.3875
+Cankton, 30.3458, -92.1094
+Cannonburg, 30.1964, -91.1033
+Capitan, 30.0653, -91.9825
+Capitol, 30.4667, -91.1833
+Caplis, 32.3969, -93.6094
+Carboco, 30.9219, -92.2311
+Carencro, 30.3169, -92.0489
+Carey, 30.5025, -91.3158
+Cargas, 32.6939, -92.0144
+Carla, 31.9400, -92.6847
+Carlisle, 29.6867, -89.9622
+Carlton, 32.5167, -92.3667
+Carlyss, 30.1686, -93.3758
+Carmel, 32.0872, -93.6206
+Caroline, 30.0725, -91.6667
+Carroll, 32.0786, -93.3914
+Carrollton, 29.9500, -90.1167
+Carrollwood, 30.0756, -90.4956
+Carson, 30.7544, -93.3131
+Carterville, 32.9697, -93.5881
+Carthage Bluff Landing, 30.3078, -90.5878
+Cartwright, 32.5333, -92.5167
+Carville, 30.2172, -91.0961
+Cash Point, 32.6178, -93.7711
+Caspiana, 32.2889, -93.5561
+Cassandra, 31.1889, -92.1689
+Castille, 30.3019, -92.2233
+Castle Village, 31.2833, -92.4833
+Castlewood, 30.4547, -91.0867
+Castor, 32.2531, -93.1656
+Castor Plunge, 31.2083, -92.5939
+Cat Island, 32.1000, -92.0833
+Catahoula, 30.2144, -91.7089
+Catahoula Cove, 30.1933, -91.7461
+Catfish Landing, 30.3000, -90.6483
+Catherine, 30.1653, -91.1728
+Catuna, 31.9036, -93.7106
+Cavett, 32.7925, -93.8378
+Cecil, 32.9608, -92.2358
+Cecile, 32.3194, -93.5919
+Cecilia, 30.3369, -91.8531
+Cedar Crest, 30.4333, -91.0667
+Cedar Glen, 30.5167, -91.1500
+Cedar Grove(Caddo), 32.4419, -93.7425
+Cedar Grove(Rapides), 31.2492, -92.2792
+Cedar Grove(Iberville), 30.1756, -91.1631
+Cedar Grove(Plaquemines), 29.7947, -90.0222
+Cedar Grove Plantation, 29.8583, -90.9639
+Cedarton, 32.6300, -92.5275
+Centenary, 32.4833, -93.7333
+Center Point, 31.2481, -92.2097
+Centerville(Evangeline), 30.8931, -92.3097
+Centerville(St Mary), 29.7594, -91.4283
+Central(Terrebonne), 29.6414, -90.8136
+Central(East Baton Rouge), 30.5542, -91.0367
+Central(St James), 30.0683, -90.8872
+Central Louisiana State Hospital, 31.3128, -92.5289
+Chacahoula, 29.7058, -90.9111
+Chackbay, 29.7833, -90.8333
+Chalkley, 30.1519, -93.0972
+Chalmette, 29.9425, -89.9633
+Chalmette Vista, 29.9464, -89.9792
+Chamberlin, 30.5350, -91.3033
+Chambers, 31.1783, -92.4136
+Chamblee, 31.8614, -91.3578
+Champagne, 30.3019, -91.8483
+Chandler Park, 31.2833, -92.4833
+Charenton, 29.8814, -91.5250
+Charity Hospital(Calcasieu), 30.1825, -93.2075
+Charity Hospital(Orleans), 29.9550, -90.0783
+Charles Park, 31.2833, -92.4833
+Charlieville, 32.3067, -91.9192
+Charlotte, 29.9956, -91.9128
+Charon, 30.0214, -92.0231
+Chase, 32.0969, -91.6989
+Chataignier, 30.5683, -92.3219
+Chatham, 32.3061, -92.4503
+Chatman Town, 30.0353, -90.8436
+Chaudiere Casse, 29.7300, -90.3325
+Chauvin, 29.4383, -90.5953
+Chef Menteur, 30.0694, -89.8019
+Chegby, 29.8786, -90.8083
+Chelly Landing, 32.1642, -91.5678
+Chenal, 30.6122, -91.3797
+Chenal Crossing, 30.6344, -91.3617
+Chenango, 30.3322, -91.2561
+Cheneyville, 31.0147, -92.2872
+Cheniere, 32.5086, -92.2472
+Cheniere au Tigre, 29.5681, -92.2031
+Cherokee Court, 29.9667, -90.2167
+Cherokee Village, 31.2833, -92.4833
+Chesbrough, 30.8486, -90.4561
+Chestnut, 32.0567, -93.0161
+Chevey Chase, 31.6294, -91.7656
+Chiasson, 30.5325, -91.9528
+Chickama, 31.0833, -92.4000
+Chickasaw, 32.9625, -91.3308
+China, 30.4017, -92.7056
+Chinchuba, 30.3869, -90.0797
+Chipola, 30.9219, -90.8031
+Chloe, 30.2397, -93.1142
+Choctaw(Iberville), 30.1261, -91.2764
+Choctaw(Lafourche), 29.7833, -90.8333
+Chopin, 31.4967, -92.8592
+Chopique, 30.5667, -92.3167
+Choudrant, 32.5300, -92.5142
+Choupique, 29.8586, -90.8564
+Choupique, 29.8339, -91.5800
+Chula, 29.8425, -90.9553
+Church Point, 30.4028, -92.2150
+Church Spur, 29.9811, -91.0172
+Cinclare, 30.3961, -91.2300
+Cinclare Landing, 30.3919, -91.2244
+Cindy Park, 29.9500, -89.9333
+Claiborne(Ouachita), 32.5158, -92.1917
+Claiborne(St Tammany), 30.4833, -90.1000
+Claiborne Hill, 30.4769, -90.0861
+Claibourne Gardens, 29.9000, -90.1500
+Clare, 31.3253, -93.6044
+Clarence, 31.8214, -93.0294
+Clarks, 32.0264, -92.1389
+Clarks Landing, 30.9592, -92.4519
+Clay, 32.4328, -92.6769
+Claybank, 30.3386, -90.8631
+Clayton, 31.7225, -91.5431
+Clearwater, 30.9903, -92.3939
+Clifton(Washington), 30.9253, -90.1797
+Clifton(Rapides), 31.3050, -92.8711
+Clifton Crossing, 31.2342, -92.8219
+Clinton, 30.8656, -91.0156
+Clio, 30.3094, -90.6097
+Clotilda, 29.6719, -90.5347
+Cloutierville, 31.5431, -92.9181
+Clovelly Farms, 29.5403, -90.2931
+Cloverdale, 31.1986, -92.4764
+Clubhouse Landing, 30.9669, -92.4753
+Cobb, 32.4008, -92.1186
+Coburn(Sabine), 31.4931, -93.2736
+Coburn(Tangipahoa), 30.5122, -90.3983
+Cocke, 29.7500, -90.8167
+Cocodrie, 29.2467, -90.6614
+Cocoville, 31.1028, -92.0639
+Coldwater, 31.9819, -92.8639
+Cole, 30.7711, -91.2361
+Cole Central, 30.8819, -93.0861
+Coleman, 32.3256, -91.0844
+Coleman Town, 30.8892, -90.8200
+Colfax, 31.5189, -92.7067
+Colgrade, 31.9108, -92.5344
+College, 30.5167, -90.4500
+College Hills, 30.3922, -91.1500
+Collegetown, 30.4033, -91.1653
+Collinsburg, 32.8628, -93.7375
+Collinston, 32.6908, -91.8717
+Colonial Heights, 32.4667, -93.8167
+Colony Park, 29.9833, -90.2500
+Colquit, 32.9497, -92.9736
+Colt, 30.3017, -89.8333
+Columbia(Caldwell), 32.1050, -92.0778
+Columbia(St John the Baptist), 30.0233, -90.5711
+Columbia Heights, 32.0911, -92.0892
+Comite, 30.5111, -91.0297
+Como, 32.0986, -91.6025
+Como Landing, 30.9061, -91.5281
+Concession, 29.8308, -90.0039
+Concord, 32.8667, -91.3833
+Conn, 32.5903, -93.7717
+Consuella, 31.8000, -91.3833
+Contreras, 29.8333, -89.8667
+Convent, 30.0206, -90.8297
+Converse, 31.7814, -93.6936
+Conway, 32.8883, -92.3969
+Conway Hospital, 32.4517, -92.1086
+Cooley, 31.1767, -92.4842
+Coon, 30.7753, -91.7578
+Cooper Road, 32.5500, -93.8167
+Coopers, 31.0486, -93.2753
+Cooters Landing, 31.9281, -91.5117
+Cooters Point, 31.8000, -91.3833
+Cooterville, 32.2742, -93.4864
+Copeland Landing, 31.8350, -91.5708
+Copenhague, 32.0236, -92.0389
+Copley, 32.8778, -92.6353
+Cora(Vernon), 31.1089, -92.8683
+Cora(Iverville), 30.1764, -91.1303
+Corbin, 30.4956, -90.8494
+Corey, 32.2225, -92.1100
+Corinth, 32.7000, -92.6500
+Corleyville, 31.4989, -93.3617
+Cornerview, 30.2408, -90.9667
+Cornland, 30.0611, -90.5444
+Cornor, 31.1000, -91.3000
+Cortableau, 30.5500, -91.9667
+Cote Blanche Landing, 29.7397, -91.7083
+Coteau(Iberia), 30.0469, -91.9142
+Coteau(Terrebonne), 29.6000, -90.7167
+Coteau Bourgeois, 30.2603, -90.7581
+Coteau Holmes, 30.1297, -91.7261
+Coteau Rodaire, 30.3911, -91.8992
+Cotile, 31.3667, -92.7500
+Cotton Plant, 32.0500, -92.1167
+Cotton Valley, 32.8192, -93.4175
+Cottonport, 30.9839, -92.0533
+Cottonwood, 32.8883, -91.1017
+Couchwood, 32.7586, -93.3908
+Coulon Plantation, 29.8144, -90.8294
+Country Club, 29.7833, -90.8333
+County Landing, 32.4000, -91.4856
+Courtableau, 30.5492, -91.8814
+Coushatta, 32.0147, -93.3419
+Couters Neck, 32.9964, -91.9919
+Coverdale, 30.4842, -92.7744
+Covington, 30.4753, -90.1008
+Covington Country Club Estate, 30.4833, -90.1000
+Cow Island(Vermilion), 29.9667, -92.1167
+Cow Island(Cameron), 29.8333, -92.7667
+Cox Crossing, 32.2911, -92.8756
+CPC Meadow Wood Hospital, 30.3822, -91.1031
+Craig Landing, 31.9764, -91.6086
+Cranky Corner, 30.6206, -90.2614
+Cravens, 30.9667, -93.0350
+Crawford Landing, 30.3025, -89.7069
+Creedmoor, 29.8333, -89.8667
+Creole, 29.7958, -93.1111
+Crescent(Iberville), 30.2475, -91.2872
+Crescent(Terrebonne), 29.6139, -90.7908
+Crescent Landing, 31.8597, -91.5697
+Creston, 31.9758, -93.0497
+Crew Lake, 32.4881, -91.8869
+Crews, 31.7178, -92.9278
+Crichton, 32.1244, -93.4333
+Crimea, 31.9769, -91.3364
+Cross Keys, 31.8839, -91.3578
+Cross Roads, 32.1833, -93.3897
+Cross-road, 32.0500, -92.1167
+Crosskeys, 32.2369, -93.4953
+Crowley, 30.2139, -92.3744
+Crown Point, 29.7719, -90.0853
+Crowson, 32.2794, -92.9844
+Crowville, 32.2406, -91.5900
+Crozier, 29.5375, -90.7200
+Cullen, 32.9689, -93.4506
+Curry, 31.8622, -92.4400
+Curtis, 32.4392, -93.6422
+Custom House, 29.9667, -90.0667
+Cut Off, 29.5425, -90.3381
+Cut Off Landing, 31.9964, -91.6097
+Cut-Off Junction, 32.4375, -93.8125
+Cutoff, 29.9178, -89.9778
+Cypremort, 29.7747, -91.7744
+Cypress, 31.6053, -93.0386
+Cypress, 32.5167, -92.1500
+Cypress Creek, 30.8475, -92.5514
+Cypress Gardens(St Bernard), 29.9328, -89.9267
+Cypress Gardens(Terrebonne), 29.6258, -90.7533
+Cypress Island, 30.1667, -91.8333

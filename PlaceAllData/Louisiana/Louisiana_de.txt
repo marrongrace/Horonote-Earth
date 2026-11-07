@@ -1,0 +1,204 @@
+D'Arbonne, 32.6747, -92.4742
+Daigleville, 29.6000, -90.7167
+Dalcour, 29.8072, -89.9986
+Danks, 30.7169, -91.8781
+Danville, 32.2289, -92.8478
+Darbonne, 30.6053, -91.8794
+Darby, 30.3842, -91.9200
+Darley, 32.6108, -93.0539
+Darlington, 30.8778, -90.7814
+Darnell, 32.6775, -91.4531
+Darrow, 30.1181, -90.9853
+Daspit, 30.0406, -91.8003
+Dauterive Hospital, 30.0069, -91.7944
+Dauterive Landing, 30.0808, -91.6497
+Davant, 29.6167, -89.8500
+Davids, 29.9514, -91.8736
+Davis Landing, 30.3250, -89.7083
+Dawson Switch, 30.7181, -91.5700
+Dayson, 32.8011, -93.4094
+De Broeck Landing, 32.3225, -93.7094
+De Loach, 32.4483, -92.1047
+De Loutre, 32.8325, -92.3111
+De Quincy, 30.4503, -93.4331
+De Ridder, 30.8461, -93.2889
+De Selle, 31.2833, -92.4833
+De Siard(reduced usage), 32.7081, -92.0625
+De Soto General Hospital, 32.0353, -93.7083
+Dean, 32.9067, -92.1508
+Dean Chapel, 32.5167, -92.1500
+Dearborn, 32.1819, -91.2786
+Deer Park, 31.4172, -91.5814
+Deer Range, 29.6167, -89.9000
+Deerford, 30.6389, -91.0694
+Degeneres, 30.8828, -92.1272
+Dehlco, 32.3964, -91.7694
+Del Bueno Park, 29.9500, -89.9333
+Delacroix(St Martin), 30.0844, -91.8669
+Delacroix(St Bernard), 29.7614, -89.7908
+Delaware, 29.8919, -91.7511
+Delcambre, 29.9481, -91.9886
+Delhi, 32.4575, -91.4931
+Delhoste, 31.2672, -91.8297
+Delmont Place, 30.4947, -91.1581
+Delombre, 30.7194, -91.2739
+Delta(Delta Point Station), 32.3256, -90.9269
+Delta Farms, 29.6500, -90.5333
+Denham Springs, 30.4867, -90.9561
+Denhart, 31.8972, -91.2975
+Denmark Landing, 31.8000, -91.5775
+Dennis Mills, 30.4167, -90.9000
+Dennison, 29.9492, -91.8361
+Denson, 30.2644, -90.6339
+Dent Terrace, 30.4167, -91.1500
+DePaul Hospital, 29.9253, -90.1242
+Derouen, 29.9667, -91.9086
+Derry, 31.5339, -92.9475
+Des Allemands, 29.8236, -90.4750
+Des Glaise, 30.3772, -91.6019
+Deshotel, 30.3117, -92.2094
+Deslatte, 29.8844, -91.7122
+Dess, 31.4386, -93.5303
+Destrehan, 29.9428, -90.3517
+Devalls, 30.5261, -91.2953
+Deville, 31.3572, -92.1653
+Dewdrop, 32.7833, -91.9167
+Diamond, 29.5353, -89.7619
+Dickey Landing, 32.0889, -91.5903
+Dido, 30.9114, -92.8897
+Dixie, 32.6925, -93.8347
+Dixie Acres, 32.7000, -92.0667
+Dixie Gardens, 32.4511, -93.6992
+Dixie Inn, 32.6000, -93.3333
+Dixie Landing, 32.0533, -91.5806
+Dixie Plantation, 29.8372, -90.8919
+Dixon Memorial Hospital, 30.4842, -90.9186
+Dobs Crossing, 31.7928, -93.4928
+Doctors Clinic, 33.0106, -93.4450
+Doctors Hospital, 32.5025, -93.7453
+Dodson, 32.0803, -92.6603
+Dolsen, 30.0589, -90.5981
+Dona, 32.0833, -93.8167
+Donaldsonville, 30.1008, -90.9928
+Donner, 29.6956, -90.9442
+Dora, 30.9833, -92.0500
+Dorcheat, 32.6764, -93.3522
+Dorcyville, 30.1792, -91.1594
+Dossman, 30.8608, -92.2819
+Douglas, 32.5814, -92.5267
+Dove Landing, 30.9561, -92.4786
+Downsville, 32.6267, -92.4142
+Doyle, 30.5000, -90.7500
+Doyline, 32.5356, -93.4108
+Drew(Calcasiue), 30.2167, -93.2000
+Drew(Ouachita), 32.5450, -92.2411
+Dry Creek, 30.6689, -93.0453
+Dry Prong, 31.5811, -92.5328
+Dubach, 32.6989, -92.6567
+Dubberly, 32.5367, -93.2422
+Duboin, 29.9233, -91.8206
+Dubuisson, 30.7594, -92.0942
+Duchamp, 30.1022, -91.9181
+Duckroost, 30.2475, -90.8697
+Dufresne, 29.9422, -90.3903
+Dugan Landing, 30.7203, -91.3486
+Dukedale, 32.6350, -93.7456
+Dulac, 29.3886, -90.7139
+Dumesnil, 29.8469, -91.6164
+Dunbarton, 31.7267, -91.6586
+Dunn, 32.4642, -91.5783
+Duplessis, 30.2694, -90.9383
+Dupont(Avoyelles), 30.9292, -91.9478
+Dupont(Pointe Coupee), 30.6442, -91.4794
+Dusenbury, 31.3214, -93.1344
+Duson, 30.2356, -92.1853
+Dutch Bayou, 30.0600, -90.5753
+Dutch Town, 30.2542, -90.9886
+Duty, 31.9150, -91.9239
+Dwight Fields, 29.8547, -91.0511
+Dykesville, 32.9153, -93.2336
+East Hodge, 32.2833, -92.7167
+East Krotz Springs, 30.5333, -91.7500
+East Louisiana State Hospital, 30.8317, -91.2117
+East Louisiana State Hospital Colony Number 1, 30.8317, -91.1539
+East Louisiana State Hospital Colony Number 2, 30.8289, -91.1539
+East Louisiana State Hospital Colony Number 5, 30.8297, -91.1972
+East Louisiana State Hospital Colony Number 6, 30.8114, -91.2081
+East Point, 32.1653, -93.4311
+Easton, 30.7511, -92.4286
+Eastside Columbia, 32.1000, -92.0833
+Eastwood, 32.5561, -93.5669
+Ebenezer, 30.1611, -92.3122
+Ecco, 32.7792, -93.4000
+Echo, 31.1100, -92.2417
+Eden, 31.6539, -92.2150
+Eden Park, 30.4581, -91.1550
+Edgard, 30.0431, -90.5600
+Edgefield, 32.0506, -93.3328
+Edgerly, 30.2325, -93.5058
+Edna, 30.4208, -92.8864
+Edward Daigle, 29.6389, -90.7608
+Effie, 31.2158, -92.1556
+Egan, 30.2367, -92.5058
+Egg Bend, 31.1336, -92.1900
+Elam, 31.9547, -91.6567
+Elba, 30.7553, -91.7639
+Elder, 30.5678, -92.7969
+Eliza, 30.3286, -91.2289
+Elizabeth, 30.8683, -92.7928
+Elks, 30.1825, -91.9892
+Ellendale, 29.6319, -90.8092
+Ellerslie, 29.6394, -91.5094
+Ellington, 29.9056, -90.3806
+Ellis, 30.3033, -92.4067
+Ellsworth, 29.6731, -90.8150
+Elm Grove, 32.3481, -93.5525
+Elm Hall, 29.9339, -91.0506
+Elm Hall Junction, 29.9200, -91.0419
+Elm Park, 30.8261, -91.3342
+Elmer(Rapides), 31.1322, -92.6808
+Elmer(Lafourche), 29.8186, -90.8658
+Elmfield, 29.9367, -90.9953
+Elmwood, 31.0364, -93.3061
+Elmwood Medical Center, 29.9622, -90.1836
+Elton, 30.4811, -92.6956
+Eltringham Landing, 31.8078, -91.5761
+Emden, 31.7428, -92.7589
+Emma, 29.9383, -91.8856
+Emmett, 32.0717, -93.4425
+Empire, 29.3875, -89.5972
+Encalade, 29.5192, -89.7303
+England, 31.3333, -92.5500
+England Air Force Base, 31.2833, -92.4833
+Englewood(Madison), 32.3850, -91.2069
+Englewood(St Mary), 29.6639, -91.1292
+English, 32.2597, -92.7917
+English Turn, 29.8833, -89.9667
+Enoka, 32.5303, -91.1672
+Enola, 29.9422, -91.0525
+Enon, 30.7272, -90.0842
+Enterprise(Catahoula), 31.9031, -91.8831
+Enterprise(Iberia), 29.9167, -91.6667
+Eola, 30.9111, -92.2158
+Epps, 32.6039, -91.4778
+Erath, 29.9581, -92.0358
+Eros, 32.3922, -92.4239
+Erwinville, 30.5308, -91.4078
+Esperance Landing, 31.4044, -91.4833
+Essen, 30.3983, -91.1069
+Essen Heights, 30.4167, -91.1500
+Estelle, 29.8500, -90.1000
+Esther, 29.8442, -92.1750
+Estherwood, 30.1806, -92.4642
+Esto, 31.3922, -93.6086
+Ethel, 30.7911, -91.1306
+Eunice, 30.4942, -92.4175
+Eureka, 31.9000, -92.2500
+Eva, 31.4289, -91.7875
+Evangeline, 30.2622, -92.5706
+Evans, 30.9889, -93.5019
+Evelyn, 31.9878, -93.4431
+Evergreen, 30.9525, -92.1086
+Evergreen Plantation, 30.2697, -91.1992
+Ewing, 29.7581, -90.6861
+Extension, 31.9706, -91.8058

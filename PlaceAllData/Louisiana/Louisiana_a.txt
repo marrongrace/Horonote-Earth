@@ -1,0 +1,128 @@
+Abbeville, 29.9744, -92.1342
+Abbeville General Hospital, 29.9733, -92.1078
+Abby Plantation, 29.8117, -90.8408
+Aben, 30.1078, -90.9428
+Abington, 32.1114, -93.4786
+Abita Springs, 30.4783, -90.0375
+Abrom Memorial Hospital, 30.0083, -92.2967
+Acadia, 29.7686, -90.8014
+Acadia Academy, 30.4833, -92.4167
+Acadia Saint Landry Hospital, 30.3953, -92.2111
+Acme, 31.2856, -91.8203
+Acy, 30.2186, -90.8203
+Ada, 32.5458, -93.1403
+Addis, 30.3536, -91.2653
+Adeline, 29.8728, -91.5908
+Adner, 32.5669, -93.6078
+Advance, 32.2833, -92.7167
+Afeman, 31.1025, -92.8183
+Afton, 32.2447, -91.1914
+Aimwell, 31.7833, -91.9933
+Airview Terrace, 31.2833, -92.4833
+Ajax, 31.8764, -93.3897
+Akers, 30.2833, -90.4000
+Alabama Landing, 32.8736, -92.0844
+Albania, 29.9167, -91.6667
+Albany, 30.5042, -90.5822
+Albermarle, 29.8825, -90.9747
+Alberta, 32.2328, -93.1536
+Alco, 31.3333, -93.1333
+Alden Bridge, 32.7750, -93.7200
+Alexandria, 31.3111, -92.4450
+Alexandria June, 31.2908, -92.4433
+Alfalfa, 31.3694, -92.6183
+Alfords, 30.5692, -91.3189
+Algiers, 29.9447, -90.0467
+Algiers Medical Center, 29.9364, -90.0078
+Alhambra, 30.1764, -91.1231
+Alice, 30.9197, -91.2975
+Alice B, 29.7761, -91.7569
+Allemand, 29.6600, -90.7656
+Allemands, 29.8167, -90.4833
+Allen, 31.8353, -93.2883
+Allen Landing, 30.5006, -91.2708
+Allendale, 30.4964, -91.2728
+Alliance, 29.6883, -89.9817
+Allon, 30.6411, -91.4939
+Alluvial City, 29.8411, -89.6914
+Alma, 30.5961, -91.3894
+Almadane, 30.9417, -93.5047
+Almedia, 29.9733, -90.3006
+Aloha, 31.5831, -92.7722
+Aloysia, 30.1667, -91.1500
+Alpha, 31.9722, -93.1911
+Alphenia Landing, 31.8194, -91.5706
+Alsatia, 32.6128, -91.1822
+Alsen, 30.5711, -91.2042
+Alto, 32.3575, -91.8597
+Alton, 30.3306, -89.7619
+Alton Ochsner Foundation Hospital, 29.9614, -90.1456
+Altoona, 32.4544, -91.4536
+Alvin Callender, 29.7500, -90.0000
+Ama, 29.9519, -90.2964
+Amelia, 29.6661, -91.1019
+American Legion Hospital, 30.2189, -92.3689
+Amite, 30.7264, -90.5089
+Amos, 30.3394, -89.7989
+Anacoco, 31.2519, -93.3411
+Anandale, 31.2550, -92.4539
+Anchor, 30.6833, -91.3550
+Anchor Landing, 31.8497, -91.5697
+Anchorage, 30.4825, -91.2103
+Andrepont, 30.5333, -92.0833
+Andrew, 30.0847, -92.2428
+Andrew Guillot, 29.7833, -90.8333
+Angelina, 30.0578, -90.6344
+Angie, 30.9664, -89.8094
+Angola, 30.9503, -91.5692
+Angola Landing, 30.9439, -91.6472
+Annadale, 30.1319, -91.1311
+Anse La Butte, 30.2594, -91.9681
+Ansley, 32.3956, -92.6928
+Antioch, 32.8644, -92.9244
+Antonia, 31.5642, -92.4092
+Antonio, 30.4061, -91.2247
+Antrim, 32.8772, -93.7050
+Arabi, 29.9542, -90.0053
+Ararat, 30.3003, -93.1997
+Arboth, 30.5667, -91.3500
+Arbroth, 30.6103, -91.3189
+Arcadia, 32.5489, -92.9200
+Arceneaux, 30.2903, -92.2281
+Archibald, 32.3489, -91.7772
+Archie, 31.5797, -91.9672
+Arcola, 30.7764, -90.5103
+Ardoyne, 29.6464, -90.8217
+Argo, 31.3667, -91.9000
+Argyle(Pointe Coupee), 30.6583, -91.6439
+Argyle(Terrebonne), 29.5719, -90.7469
+Arizona, 32.7889, -92.9575
+Arkana, 33.0183, -93.6744
+Arlington, 30.3881, -91.1717
+Armistead, 32.0053, -93.3803
+Arnaudville, 30.3975, -91.9314
+Ashland(Natchitoches), 32.1417, -93.0981
+Ashland(Terrebonne), 29.5294, -90.6756
+Ashland(Tensas), 31.9747, -91.3922
+Ashly, 32.4414, -91.1231
+Ashton, 29.8358, -91.6081
+Atchafalaya, 30.3458, -91.7231
+Athens, 32.6503, -93.0256
+Atherton, 32.6983, -91.1703
+Atkins, 32.3094, -93.5147
+Atlanta, 31.8050, -92.7381
+Attakapas Canal, 29.8917, -91.0911
+Attakapas Landing, 29.8508, -91.1031
+Aubin, 30.4192, -91.0631
+Audubon, 30.4500, -91.1333
+Audubon Terrace, 30.4167, -91.1500
+Augusta(St Landry), 30.8336, -92.2047
+Augusta(Iberville), 30.1897, -91.2153
+Augusta(Plaquemines), 29.8000, -90.0172
+Avalon, 29.7178, -91.3308
+Avery Island, 29.9033, -91.9103
+Avondale(Jefferson), 29.9128, -90.2036
+Avondale(Tensas), 31.9403, -91.2817
+Avoyelles Mental Health Clinic, 31.1169, -92.0669
+Aycock, 32.7081, -92.9175
+Azucena, 31.7778, -91.4378

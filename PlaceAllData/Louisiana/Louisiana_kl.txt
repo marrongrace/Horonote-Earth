@@ -1,0 +1,262 @@
+Kadesh, 31.7042, -92.9111
+Kahns, 30.4819, -91.2519
+Kaplan, 29.9978, -92.2847
+Karo, 30.9836, -92.0936
+Kateland, 31.4561, -92.6756
+Katy, 29.8272, -91.5108
+Keatchie, 32.1883, -93.9053
+Kedron, 30.7000, -90.5833
+Keithville, 32.3331, -93.8361
+Keller, 30.9417, -91.7219
+Kelleys, 32.4758, -92.5583
+Kelly, 31.9806, -92.1767
+Kellys, 32.5333, -92.6333
+Kemper, 29.8094, -91.6675
+Kendale, 29.9833, -90.2500
+Kendricks Ferry, 32.0500, -91.6500
+Kenilworth, 29.8667, -89.8186
+Kenmore, 30.5094, -91.5403
+Kennedy Heights, 29.9000, -90.1500
+Kenner, 29.9939, -90.2417
+Kentwood, 30.9381, -90.5089
+Kernan, 30.5069, -93.2622
+Kessler, 30.0358, -91.0594
+Keystone(Acadia), 30.3481, -92.4833
+Keystone(St Mary), 30.0803, -91.8375
+Kickapoo, 32.1933, -93.8369
+Kilbourne, 32.9994, -91.3150
+Kilgore Plantation, 29.8544, -91.6711
+Killian, 30.3586, -90.5861
+Killona, 30.0058, -90.4828
+Kinder, 30.4853, -92.8506
+King, 32.2406, -91.1214
+King Hill, 31.8778, -93.3264
+Kingston, 32.1842, -93.7108
+Kingsville, 31.3622, -92.4114
+Kirks Landing, 31.8644, -91.5736
+Kiroli Woods, 32.5367, -92.1597
+Kisatchie, 31.4156, -93.1742
+Kleinpeter, 30.3497, -91.0258
+Klondyke, 29.5464, -90.5864
+Klotzville, 30.0153, -91.0467
+Knapp, 30.5989, -91.4250
+Knight, 30.9153, -93.4483
+Knot Point, 32.3183, -93.5328
+Kolin, 31.2831, -92.3225
+Kolter, 32.1528, -93.9242
+Koran, 32.4250, -93.4628
+Kraemer, 29.8667, -90.6969
+Krotz Springs, 30.5367, -91.7528
+Kurthwood, 31.3372, -93.1656
+L T Plantation, 29.8347, -90.8875
+La Branche, 30.0514, -90.3686
+La Reusitte, 29.7500, -90.0000
+La Rosen, 32.4033, -93.7892
+Laark, 32.9919, -91.5100
+Labadieville, 29.8372, -90.9561
+Labarre, 30.7144, -91.5456
+Lacamp, 31.1636, -92.9144
+Lacassine, 30.2353, -92.9214
+Lachute, 32.2636, -93.5264
+Lacombe, 30.3133, -89.9431
+Lacour, 30.8281, -91.6139
+Lafayette, 30.2239, -92.0197
+Lafayette Square, 29.9333, -90.0833
+Lafitte, 29.6667, -90.1083
+Lafourche, 29.7669, -90.7658
+Lagan, 29.9753, -90.8144
+Lagonda, 29.6783, -91.2800
+Lake, 30.2997, -90.8528
+Lake Arthur, 30.0806, -92.6714
+Lake Bruin, 31.9878, -91.2561
+Lake Catherine, 30.1142, -89.7092
+Lake Charles, 30.2264, -93.2172
+Lake Charles Hospital, 30.2044, -93.1967
+Lake Cove, 30.9175, -92.4514
+Lake End, 31.9214, -93.3047
+Lake Hayes, 32.4314, -93.9078
+Lake Judge Perez, 29.5583, -89.8861
+Lake Providence, 32.8042, -91.1700
+Lake View, 32.5253, -93.8267
+Lakefield, 32.2794, -92.7547
+Lakeland, 30.6006, -91.3972
+Lakeshore, 32.5000, -92.0833
+Lakeside(Cameron), 30.0833, -92.6667
+Lakeside(Rapides), 31.3167, -92.4167
+Lakeside Hospital, 29.9964, -90.1867
+Lakeview(Natchitoches), 31.5783, -92.9525
+Lakeview(Orleans), 30.0000, -90.1000
+Lakewood Hospital, 29.7078, -91.2011
+Lamar, 32.3106, -91.5403
+Lamkin, 32.5825, -92.0728
+Lamourie, 31.1333, -92.4167
+Lampman, 29.9667, -92.1167
+Landay Gautreaux, 29.7833, -90.8333
+Landry, 29.8692, -91.6653
+Lane Memorial Hospital, 30.6489, -91.1372
+Langston, 32.6761, -93.1522
+Lapeyrouse, 29.3975, -90.5856
+Lapine, 32.5167, -92.1500
+Laplace, 30.0664, -90.4800
+Laran, 32.9736, -92.4853
+Larose, 29.5722, -90.3817
+Larto, 31.3725, -91.9044
+Lasalle, 29.9756, -91.9475
+Latanier, 31.2019, -92.3561
+Latex, 32.6044, -94.0428
+Lauderdale(Allen), 30.4811, -92.7750
+Lauderdale(St James), 30.0861, -90.9144
+Laurel Grove, 29.8236, -90.8789
+Laurel Grove Plantation, 29.8272, -90.8786
+Laurel Hill, 30.9533, -91.3403
+Laurel Lea, 30.4167, -91.1500
+Laurel Ridge, 30.1622, -91.1169
+Laurel Ridge Plantation, 29.9894, -90.7903
+Laurel Valley Plantation, 29.8122, -90.7717
+Lawhon, 32.3764, -93.2203
+Lawtell, 30.5183, -92.1847
+Lazy Acres, 29.6675, -90.7772
+Le Blanc, 30.5089, -92.9489
+Le Bleu, 30.2758, -93.0811
+Le Moyen, 30.7853, -92.0403
+Leander, 31.1483, -92.8464
+Leavel, 30.7056, -91.4886
+Lebeau, 30.7311, -91.9769
+LeBlanc, 30.2386, -91.0856
+Leche, 29.8617, -90.9656
+Lecompte, 31.0944, -92.4003
+Ledoux, 30.6189, -92.1900
+Lee Bayou, 31.7631, -91.5603
+Lee Heights, 31.3647, -92.4361
+Lees Creek, 30.7419, -89.8747
+Lees Landing, 30.4042, -90.3236
+Leesville, 31.1433, -93.2608
+Leeville, 29.2478, -90.2075
+Lefleurs, 30.6333, -92.4167
+Legonier, 30.9733, -91.7939
+Leighton, 29.7964, -90.8578
+Lejeune, 30.4828, -91.2817
+Lela, 32.9742, -93.6817
+Leland, 31.8231, -91.7214
+Leleux(Iberia), 29.9789, -91.9411
+Leleux(Vermilion), 30.0683, -92.3608
+Lemannville, 30.1092, -90.9203
+Lena, 31.4606, -92.7706
+Lenwil, 32.4372, -92.2244
+Leonville, 30.4703, -91.9783
+Leroy, 30.0786, -92.1922
+Leslie, 32.5886, -93.4831
+Leton, 32.8600, -93.2525
+Lettsworth, 30.9333, -91.7047
+Levert, 30.1569, -91.8211
+Levins, 31.6333, -91.5333
+Lewisburg(St Landry), 30.4492, -92.1689
+Lewisburg(St Tammany), 30.3694, -90.1031
+Lewiston, 30.9333, -90.5167
+Lewistown, 29.7383, -90.6169
+Liberty, 32.0725, -93.1972
+Liberty Hill, 32.3375, -92.8919
+Libuse, 31.3539, -92.3333
+Liddieville, 32.1356, -91.8456
+Lillie, 32.9319, -92.6567
+Lincecum, 31.6872, -92.3925
+Lincoln General Hospital, 32.5172, -92.6333
+Linda Lee, 30.4167, -90.9000
+Lindsay, 30.7175, -91.2178
+Link, 30.3500, -92.2667
+Linton, 32.6878, -93.6364
+Linville, 32.8419, -92.1928
+Linwood(Plaquemines), 29.7897, -90.0083
+Linwood(St Mary), 29.8692, -91.5256
+Lions, 30.0542, -90.5892
+Lisbon, 32.7958, -92.8650
+Lismore, 31.5156, -91.7719
+Litroe, 32.9933, -92.1961
+Little Caillou, 29.4500, -90.6000
+Little Creek, 31.7194, -92.2942
+Little Farms, 29.9667, -90.2167
+Little Prairie, 30.3233, -90.9222
+Little Texas, 29.8806, -91.0192
+Little Valley Plantation, 29.9203, -91.7675
+Little Woods, 30.0750, -89.9442
+Live Oak, 29.7547, -90.0286
+Live Oak Manor, 29.9500, -90.2386
+Liverpool, 30.9150, -90.6803
+Livingston, 30.5019, -90.7478
+Livonia, 30.5589, -91.5558
+Lobdell, 30.4958, -91.2606
+Loch Lomond, 32.6764, -92.1419
+Lockhart(Livingston), 30.4903, -90.9044
+Lockhart(Union), 33.0081, -92.5831
+Lockmoor, 30.2367, -93.2917
+Lockport, 29.6458, -90.5392
+Lockport Heights, 29.6503, -90.5464
+Loco, 32.9481, -92.1653
+Locust Ridge, 31.8764, -91.3417
+Lofton, 31.7267, -92.7572
+Log Cabin, 32.8328, -91.8775
+Logansport, 31.9753, -93.9978
+Loggy Bayou, 32.3167, -93.5333
+Logtown, 32.3350, -92.0886
+Loisel, 29.9381, -91.6944
+Lone Pine(Cameron), 29.9958, -93.6306
+Lone Pine(Evangeline), 30.9556, -92.3194
+Lone Star(St Charles), 29.9275, -90.3406
+Lone Star(Iberville), 30.1019, -91.2169
+Long Bridge(Lafayette), 30.2397, -91.9658
+Long Bridge(Avoyelles), 31.0139, -92.0183
+Long Springs, 32.6739, -93.3364
+Long Straw, 32.5333, -92.5167
+Longlake, 32.1000, -92.0833
+Longleaf, 31.0064, -92.5525
+Longstreet, 32.0975, -93.9519
+Longview, 32.2619, -91.5781
+Longville, 30.6050, -93.2317
+Longwood(Caddo), 32.5592, -93.9783
+Longwood(East Baton Rouge), 30.3400, -91.1369
+Loranger, 30.6356, -90.3981
+Loreauville, 30.0564, -91.7369
+Lorelein, 32.0939, -91.5528
+Loring, 31.6025, -93.6006
+Lorraine(Caddo), 32.4725, -94.0425
+Lorraine(Tangipahoa), 30.5058, -90.2783
+Lottie, 30.5561, -91.6417
+Lotus, 31.4853, -93.1303
+Louisiana and Arkansas Junction, 31.9167, -92.6333
+Louisiana Junction, 32.5333, -93.7000
+Louisiana State University Medical Center, 29.9586, -90.0825
+Louisville(Ascension), 30.2247, -91.0008
+Louisville(Ouachita), 32.5000, -92.0833
+Lower Bonne Idee, 32.6333, -91.7667
+Lower Texas, 29.8339, -91.0392
+Lower Vacherie, 29.9361, -90.6786
+Lowlands, 29.7692, -90.8989
+Lowry, 30.0239, -92.7708
+Loyds Bridge, 31.0167, -92.2833
+Lozes, 30.0414, -91.9594
+Lucas(Caddo), 32.4006, -93.6911
+Lucas(Calcasieu), 30.3739, -93.5622
+Lucerne, 31.5833, -91.4333
+Lucknow, 32.4667, -91.7500
+Lucky, 32.2550, -92.9967
+Lucy, 30.0467, -90.5075
+Ludevine, 29.5853, -90.4275
+Ludger, 29.9486, -91.8644
+Ludington, 30.8739, -93.2850
+Ludivine Plantation, 29.5833, -90.4167
+Ludvine, 29.6500, -90.5333
+Luella, 31.7756, -92.9950
+Luke Landing, 29.5972, -91.5417
+Lukeville, 30.3794, -91.2436
+Lula(Assumption), 30.0478, -91.0675
+Lula(De Soto), 31.8531, -93.7814
+Luling, 29.9319, -90.3664
+Lums, 32.3956, -91.1547
+Luna, 32.3250, -92.2219
+Lunita, 30.3583, -93.5944
+Lutcher, 30.0403, -90.6989
+Lydia, 29.9192, -91.7953
+Lynch, 30.3978, -91.3564
+Lyons(Jackson), 32.1597, -92.4839
+Lyons(Iberia), 29.8839, -91.6997
+Lyons Point, 30.0944, -92.3781

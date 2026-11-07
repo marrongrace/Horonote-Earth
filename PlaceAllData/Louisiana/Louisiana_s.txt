@@ -1,0 +1,260 @@
+Sabine Medical Center, 31.5600, -93.4711
+Sacksonia, 32.4664, -91.6019
+Sadie, 32.9892, -92.2308
+Sadou, 30.2372, -92.1428
+Sailes, 32.4253, -93.1081
+Saline, 32.1644, -92.9742
+Salix, 29.9261, -90.3092
+Salsburg, 30.0914, -90.9158
+Sambo, 30.7039, -91.8283
+Sampusand, 31.4883, -92.9128
+Samstown, 30.1350, -91.1592
+Samtown, 31.2717, -92.4364
+San Francisco Plantation, 30.0667, -90.5500
+Sand Spur, 31.5794, -92.4133
+Sandager, 29.9572, -91.7222
+Sandel, 31.3808, -93.4364
+Sandra, 33.0033, -94.0128
+Sandy Hill, 31.1333, -93.2667
+Santiague, 29.9847, -91.9042
+Sarah, 29.7700, -90.0300
+Sarah Plantation, 29.4819, -90.5786
+Saranac, 32.0092, -91.3528
+Sardis, 31.7508, -93.6447
+Sarepta, 32.8928, -93.4483
+Satsuma, 30.5025, -90.8003
+Savage Fork, 31.0319, -93.3533
+Savoie, 29.6453, -90.6872
+Savoy, 30.5072, -92.3194
+Savoy Hospital, 30.6414, -92.4167
+Scarsdale, 29.8450, -89.9778
+Schriever, 29.7419, -90.8103
+Schumpert Medical Center, 32.4953, -93.7498
+Scotlandville, 30.5203, -91.1786
+Scott, 30.2356, -92.0944
+Scott Landing, 32.4342, -91.4872
+Scottsville(Scotland Station), 32.9372, -92.7667
+Seale, 30.5617, -93.4358
+Searcy, 31.7050, -92.2281
+Sebastopol, 29.8675, -89.8728
+Security, 31.5342, -91.8164
+Segura, 30.0383, -91.8578
+Sellers, 29.9989, -90.4267
+Selma, 31.7411, -92.3869
+Sentell, 32.6481, -93.7975
+Serena, 31.4333, -91.8667
+Seven Runs Crossing, 32.1978, -92.2669
+Seymourville, 30.2772, -91.2236
+Shady Grove, 31.9611, -91.4247
+Shady Oaks, 31.3058, -92.3467
+Shadyside, 29.7339, -91.3903
+Shamrock, 31.7086, -93.3306
+Sharkey, 30.3700, -90.4206
+Sharon, 32.7717, -92.7639
+Sharon Hills, 30.5167, -91.1500
+Sharp(Rapides), 31.4033, -92.7781
+Sharp(East Baton Rouge), 30.4725, -91.0575
+Shaw, 31.1914, -91.6311
+Shear, 30.8081, -93.3628
+Shelburn, 32.8842, -91.2256
+Shell Beach, 29.8531, -89.6794
+Sheltons, 32.8292, -91.9072
+Sherburne, 30.5147, -91.7189
+Sheridan, 30.8683, -90.0031
+Sherwood, 31.8503, -91.9478
+Shexnayder, 30.7289, -91.4519
+Shiloh(Union), 32.7933, -92.5892
+Shiloh(Tangipahoa), 30.6869, -90.5078
+Shiloh Landing, 32.9661, -92.0881
+Shongaloo, 32.9414, -93.2986
+Shops, 32.5000, -92.0833
+Shoreline, 32.8000, -93.9783
+Shreve Island, 32.4667, -93.7167
+Shreveport, 32.5250, -93.7500
+Shrewsbury, 29.9708, -90.1422
+Shrine Hospital, 32.4811, -93.7575
+Shuteston, 30.4281, -92.1003
+Sibley(Webster), 32.5392, -93.2961
+Sibley(Lincoln), 32.5756, -92.4672
+Sicard, 32.5264, -92.0414
+Sicily Island, 31.8464, -91.6561
+Siegen, 30.3733, -91.0711
+Siegle, 32.4894, -92.1750
+Sieper, 31.2108, -92.8081
+Sieps, 31.3217, -92.4614
+Sikes, 32.0808, -92.4867
+Silverwood, 30.1894, -92.5978
+Simmesport, 30.9833, -91.8000
+Simmons Settlement, 30.6761, -92.8919
+Simms, 31.4611, -92.4233
+Simpson, 31.2633, -93.0089
+Simsboro, 32.5344, -92.7883
+Singer, 30.6547, -93.4122
+Siracusaville, 29.6869, -91.1481
+Skidder, 32.1006, -93.0569
+Slacks, 30.4656, -91.4933
+Slagle, 31.2022, -93.1272
+Slaughter, 30.7172, -91.1414
+Slidell, 30.2750, -89.7811
+Slidell Memorial Hospital, 30.2836, -89.7697
+Sligo, 32.4508, -93.5814
+Slocum, 31.2828, -91.6386
+Slone, 32.1222, -93.6603
+Smiley Heights, 30.4706, -91.1303
+Smith Ridge, 29.6000, -90.7167
+Smithfield, 30.5453, -91.2944
+Smithland, 30.9100, -91.6636
+Smithville, 31.3244, -92.4100
+Smoke Bend, 30.1083, -91.0203
+Smurney, 32.6067, -92.3753
+Socola, 29.4667, -89.7000
+Soileau, 30.6511, -92.1167
+Solitude, 30.8322, -91.4250
+Solley Hill, 32.8672, -94.0361
+Somerset, 32.1761, -91.2339
+Sondheimer, 32.5500, -91.1758
+Soniat, 30.1667, -91.1500
+Sorrel, 29.8889, -91.6167
+Sorrell, 29.8833, -91.6167
+Sorrento, 30.1842, -90.8592
+Soulouque, 30.2719, -91.1553
+South Acres, 30.2167, -93.3500
+South Bend, 29.6300, -91.5356
+South Coast, 29.8000, -91.5000
+South Fort Polk, 31.0500, -93.2000
+South Kenner, 29.9586, -90.2706
+South Lafourche, 29.7833, -90.8333
+South Mansfield, 32.0217, -93.7142
+South Park, 31.2833, -92.4833
+South Park Trailer Court, 31.1333, -93.2667
+South Pass, 29.2833, -89.3500
+South Point, 30.1428, -89.8844
+Southdown, 29.5867, -90.7389
+Southdown Plantation, 29.9828, -90.7283
+Southeast, 30.4167, -91.1500
+Southeast Louisiana Hospital, 30.3519, -90.0181
+Southern, 30.5000, -91.1833
+Southern Baptist Hospital, 29.9372, -90.1042
+Southfield, 32.4667, -93.7167
+Southport, 29.9622, -90.1428
+Southwestern, 30.2167, -92.0333
+Southwood, 30.2189, -91.0492
+Spanish Fort, 30.0208, -90.0825
+Sparks, 30.4986, -91.5272
+Sparta, 32.3672, -93.0794
+Spaulding, 31.9475, -92.1825
+Spearsville, 32.9358, -92.6050
+Spencer, 32.7400, -92.1317
+Spillman, 30.9297, -91.2836
+Splane Place, 32.5167, -92.1500
+Spokane, 31.6992, -91.4603
+Spring Bayou Landing, 31.1411, -92.0364
+Spring Creek, 30.9119, -90.4469
+Spring Lake, 32.7333, -93.0550
+Spring Ridge(Sabine), 31.7806, -93.5089
+Spring Ridge(Caddo), 32.3119, -93.9444
+Springfield, 30.4289, -90.5486
+Springhill(Webster), 33.0058, -93.4667
+Springhill(Washington), 30.8078, -90.1000
+Springhill Community Hospital, 33.0103, -93.4436
+Springville(Red River), 32.0333, -93.3333
+Springville(Livingston), 30.4353, -90.6831
+Spyker, 32.7422, -91.9536
+Squealer Point Landing, 30.9753, -92.4164
+St Amant, 30.2244, -90.8689
+St Benedict, 30.5267, -90.1125
+St Bernard, 29.8669, -89.8586
+St Bernard Grove, 29.9225, -89.9122
+St Charles, 29.7167, -90.6000
+St Charles General Hospital, 29.9258, -90.0947
+St Clair, 29.8697, -89.9689
+St Claude Heights, 29.9622, -89.9942
+St Delphine, 30.3667, -91.2667
+St Elmo(Ascension), 30.1197, -90.9606
+St Elmo(St James), 30.0225, -90.7347
+St Frances Cabrini Hospital, 31.2825, -92.4614
+St Francis Sanitarium, 32.4992, -92.1150
+St Francisville, 30.7797, -91.3764
+St Gabriel, 30.2575, -91.0992
+St Genevieve, 31.5264, -91.5256
+St James, 29.9817, -90.8317
+St James Plantation, 29.9981, -90.7517
+St Joe, 30.3444, -89.7561
+St John(St Martin), 30.1586, -91.8086
+St John(Lafourche), 29.7833, -90.8333
+St Joseph, 31.9183, -91.2333
+St Joseph Hospital, 29.7956, -90.8092
+St Jude Medical Center, 30.0256, -90.2714
+St Landry, 30.8442, -92.2578
+St Louis(St Landry), 30.8053, -92.1744
+St Louis(Iberville), 30.2564, -91.2308
+St Louis Plantation, 30.2658, -91.2156
+St Martinville, 30.1250, -91.8333
+St Maurice, 31.7594, -92.9589
+St Patricks Hospital, 30.2169, -93.2269
+St Rosalie, 29.6636, -89.9694
+St Rose, 29.9467, -90.3231
+St Rose Plantation, 29.8286, -90.9211
+St Tammany, 30.3939, -89.8950
+St Tammany Corner, 30.4269, -89.8856
+St Tammany Parish Hospital, 30.4686, -90.1131
+St Thomas, 29.8933, -91.0067
+Stacy, 31.6025, -91.6903
+Stacy Landing, 32.7731, -94.0211
+Stampley, 32.8217, -91.7797
+Standard(Vernon), 31.1556, -93.3608
+Standard(La Salle), 31.9175, -92.2200
+Stanley(De Soto), 31.9608, -93.8978
+Stanley(Allen), 30.4978, -92.8978
+Stanton, 29.9172, -89.9408
+Staples, 32.3642, -93.8164
+Star, 29.7500, -90.0000
+Starhill, 30.7619, -91.3069
+Starks(Calcasieu), 30.3153, -93.6617
+Starns(Livingston), 30.5614, -90.6589
+Start, 32.4864, -91.8592
+State Line, 30.8500, -90.1500
+Stay, 31.4722, -92.4919
+Stegall, 30.2367, -93.4292
+Stein, 30.6903, -89.9392
+Stekey, 30.3200, -92.0092
+Stella, 29.8192, -89.9958
+Stephenville, 29.7781, -91.1658
+Sterlington, 32.6961, -92.0858
+Steven, 32.4961, -92.1672
+Stevensdale, 30.4783, -90.9997
+Stevenson, 32.9208, -91.9431
+Stille, 31.2314, -92.8297
+Stones Landing, 32.0847, -91.5669
+Stonewall, 32.2817, -93.8239
+Stonewell Plantation, 30.7253, -91.5039
+Stoney Point, 30.8500, -90.1500
+Stonypoint, 30.5833, -91.0000
+Strader, 30.3233, -90.4075
+Sugar Creek, 32.6681, -92.8867
+Sugartown, 30.8397, -93.0147
+Sugrue, 30.9619, -93.0442
+Sulphur, 30.2364, -93.3772
+Summer Grove, 32.4022, -93.8144
+Summerfield(Claiborne), 32.9125, -92.8292
+Summerfield(Grant), 31.5797, -92.7214
+Summerville, 31.7553, -92.1622
+Summit, 32.3981, -92.1767
+Sun, 30.6489, -89.8925
+Sun Spur, 32.4667, -91.4833
+Sunny Hill, 30.9242, -90.3272
+Sunnybrook, 30.4928, -91.0869
+Sunrise, 30.4772, -91.2022
+Sunrise Landing, 32.2850, -91.5267
+Sunset, 30.4111, -92.0683
+Sunshine, 30.2786, -91.1306
+Superior, 32.8247, -93.9786
+Supreme, 29.8592, -90.9811
+Susan Park, 29.9833, -90.2500
+Swampers, 32.1908, -91.5708
+Swartz, 32.5686, -91.9850
+Swayze Lake, 30.6400, -91.8267
+Sweet Home, 30.0119, -91.0306
+Sweet Lake, 29.9839, -93.1292
+Swindleville, 32.7892, -93.7206
+Swords, 30.5125, -92.2622

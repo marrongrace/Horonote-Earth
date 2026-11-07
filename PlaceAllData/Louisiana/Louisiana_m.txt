@@ -1,0 +1,221 @@
+Mack, 29.9647, -92.0736
+Madewood, 29.9319, -90.9894
+Madison Park, 32.4667, -93.7167
+Madisonville, 30.4042, -90.1569
+Magenta(Bossier), 32.3736, -93.5783
+Magenta(Ouachita), 32.4992, -92.0453
+Magnolia(Livingston), 30.5600, -90.7061
+Magnolia(Assumption), 30.0039, -91.0644
+Magnolia(East Baton Rouge), 30.5361, -90.9881
+Magnolia(Terrebonne), 29.7194, -90.8119
+Magnolia(Natchitoches), 31.5483, -92.9414
+Magnolia(Plaquemines), 29.5544, -89.7806
+Magnolia(Red River), 32.0397, -93.4325
+Magnolia Landing, 30.3036, -90.6303
+Magnolia Plantation, 29.7142, -90.8172
+Magnolia Woods, 30.4167, -91.1500
+Mahan, 32.8911, -93.0453
+Maidco, 32.4011, -92.1108
+Maitland Landing, 31.7581, -91.6064
+Majors, 30.6003, -91.4372
+Mallard Junction, 30.2383, -93.1550
+Mamou, 30.6336, -92.4192
+Manchac, 30.2914, -90.4019
+Manchester, 30.1942, -93.0969
+Mandalay, 29.5658, -90.7711
+Mandeville, 30.3581, -90.0656
+Mangham, 32.3089, -91.7747
+Manifest, 31.7100, -91.9619
+Mansfield, 32.0375, -93.7000
+Mansford, 32.4653, -91.1442
+Mansura, 31.0578, -92.0489
+Many, 31.5686, -93.4839
+Maplewood, 30.2311, -93.3161
+Marcarco, 32.7172, -91.9908
+Marce, 29.9425, -91.8842
+Marco, 31.5092, -92.7647
+Marguerite, 29.8761, -91.6778
+Maringouin, 30.4911, -91.5194
+Marion, 32.9014, -92.2419
+Mark, 30.3503, -91.2519
+Markee, 30.9267, -93.1153
+Marksville, 31.1278, -92.0661
+Marksville General Hospital, 31.1425, -92.0639
+Marrero, 29.8992, -90.1003
+Mars Hill, 31.8000, -92.7500
+Marsalis, 32.6631, -92.9567
+Martello Castle, 29.9450, -89.8350
+Marthaville, 31.7386, -93.3964
+Martin, 32.0853, -93.2200
+Martin Junction, 32.4667, -93.2667
+Martin Park, 31.2833, -92.4833
+Martins Landing, 31.8342, -91.5689
+Maryland(East Baton Rouge), 30.5458, -91.1758
+Maryland(St Mary), 29.8000, -91.5000
+Maryland(Tensas), 31.9225, -91.3686
+Mason, 32.1667, -91.7167
+Masters, 29.8831, -91.6906
+Mathews, 29.6861, -90.5467
+Matilda, 29.8844, -91.6039
+Maude, 30.3728, -89.8125
+Maurepas, 30.2967, -90.6639
+Maurice, 30.1083, -92.1244
+Maxie, 30.3250, -92.4078
+Mayers, 32.4081, -93.6214
+Mayfair, 30.4167, -91.1500
+Mayflower, 31.9514, -91.3914
+Mayhew Landing, 31.7608, -91.5894
+Mayna, 31.4261, -91.8614
+Mayo, 31.1992, -93.0333
+McBride, 29.6631, -90.8197
+McCall, 30.1158, -91.0433
+McClane City, 30.2564, -89.7711
+McClendon, 30.8500, -90.1500
+McCrea, 30.8689, -91.7894
+McDade, 32.3233, -93.5281
+McDonoghville, 29.9256, -90.0461
+McElroy, 30.1403, -90.7914
+McGinty, 33.0017, -91.6289
+McHugh, 30.6242, -91.1647
+McIlhenny, 29.9167, -91.9167
+McIntyre, 32.5869, -93.3683
+McKenzie, 32.8444, -93.0972
+McKneeley, 30.6000, -91.6167
+McKnight Crossing, 30.7472, -90.8964
+McLain, 32.3681, -92.1117
+McLeod, 29.6464, -90.5178
+McManus, 30.8342, -91.1361
+McNary, 30.9872, -92.5761
+McNeely, 31.5056, -92.6833
+McNutt, 31.3139, -92.6475
+McVeigh, 30.4000, -91.9333
+Meadow Park Heights, 32.4500, -93.7833
+Meadowbrook, 29.9000, -90.0500
+Meadowcrest Hospital, 29.8842, -90.0272
+Meadowview Park, 32.5333, -93.7000
+Meaux, 30.0206, -92.1825
+Mechanicsville, 29.6000, -90.7167
+Meeker, 31.0564, -92.3806
+Melder, 31.1050, -92.6364
+Melodia Plantation, 29.7731, -90.7281
+Melrose, 31.5986, -92.9669
+Melville, 30.6928, -91.7439
+Menefee Junction, 31.9522, -92.5658
+Mengel Landing, 30.5125, -91.1947
+Mer Rouge, 32.7750, -91.7925
+Meraux, 29.9328, -89.9497
+Mercy Hospital, 29.9725, -90.0931
+Meridian, 30.9253, -92.4053
+Merlin, 30.3883, -91.2897
+Mermentau, 30.1897, -92.5825
+Merryville, 30.7542, -93.5403
+Merryville General Hospital, 30.7558, -93.5464
+Messick, 31.9703, -93.1861
+Mestayer, 30.0667, -91.6925
+Metairie, 29.9839, -90.1528
+Methvin, 32.1611, -93.2433
+Metropolis, 31.9633, -91.6911
+Michoud, 30.0300, -89.9258
+Mid City, 29.9833, -90.0833
+Mid-city Annex, 32.5000, -93.7667
+Midland, 30.1806, -92.5028
+Midway(Bossier), 32.7144, -93.5933
+Midway(La Salle), 31.6919, -92.1522
+Midway(Rapides), 31.0611, -92.4725
+Midway(Webster), 32.9219, -93.4533
+Midway(St Mary), 29.6550, -91.4914
+Migues, 29.9625, -91.8658
+Milburn, 30.8675, -92.2117
+Miles, 30.1392, -91.0853
+Mill, 32.1225, -92.8428
+Mill Creek, 31.9167, -92.6333
+Mill Haven, 32.4953, -91.9903
+Milldale, 30.6675, -91.0275
+Millerton, 33.0003, -93.2214
+Millerville(Acadia), 30.3328, -92.6164
+Millerville(East Baton Rouge), 30.4511, -91.0244
+Millikin, 32.9617, -91.2258
+Milly Plantation, 30.2833, -91.2333
+Milton, 30.1036, -92.0764
+Mimosa Park, 29.9061, -90.3561
+Minden, 32.6153, -93.2867
+Minden Medical Center, 32.6167, -93.2861
+Mineral Springs, 32.4583, -92.3592
+Minerva, 29.6000, -90.7167
+Minerva Plantation, 29.7089, -90.8161
+Mink, 31.3947, -93.0706
+Minorca, 31.5792, -91.4817
+Mira, 32.9419, -93.8889
+Mire, 30.2997, -92.1936
+Missionary, 33.0031, -93.8325
+Mitchell, 31.7908, -93.6278
+Mitchiner, 32.5814, -91.4861
+Mittie, 30.7067, -92.9067
+Mix, 30.6575, -91.4850
+Modeste, 30.1708, -91.0147
+Moncla, 31.1333, -92.0667
+Monette Ferry, 31.4667, -92.7667
+Monks Hammock, 31.2600, -93.4783
+Monroe, 32.5092, -92.1192
+Montcalm, 32.5333, -92.7833
+Montcla, 31.2028, -92.1194
+Montecello, 31.8000, -91.3833
+Montegut(St John the Baptist), 30.0706, -90.5019
+Montegut(Terrebonne), 29.4742, -90.5569
+Monterey, 31.4497, -91.7181
+Montgomery, 31.6672, -92.8906
+Monticello, 32.5964, -91.3939
+Montpelier, 30.6808, -90.6489
+Montrose, 31.5706, -92.9917
+Montz, 30.0067, -90.4686
+Moore, 31.8411, -92.5842
+Mooringsport, 32.6875, -93.9608
+Mora, 31.3731, -92.9478
+Morameal, 32.3667, -93.5700
+Morbihan, 30.0117, -91.7744
+Moreauville, 31.0344, -91.9756
+Morehouse General Hospital, 32.7747, -91.9172
+Moreland, 31.1967, -92.4231
+Morgan Bluff, 30.3286, -89.7125
+Morgan City, 29.6992, -91.2067
+Morgan City Beach, 29.6936, -91.1019
+Morganza, 30.7383, -91.5942
+Morganza Landing, 30.7408, -91.5878
+Morningside, 32.4500, -93.7833
+Morrison, 30.7125, -91.5286
+Morrisonville, 30.3219, -91.2247
+Morrow, 30.8297, -92.0800
+Morse, 30.1217, -92.4981
+Morvant, 29.8125, -90.8969
+Morville, 31.5833, -91.4333
+Moss, 32.3144, -93.5842
+Moss Bluff, 30.3025, -93.1906
+Moss Lake, 30.1136, -93.3408
+Mossville, 30.2475, -93.3089
+Mot, 32.9067, -93.5711
+Mound, 32.3392, -91.0239
+Mount Airy, 30.0511, -90.6378
+Mount Carmel, 31.4692, -93.3803
+Mount Hermon, 30.9600, -90.2958
+Mount Houmas, 30.2019, -91.0111
+Mount Lawrence, 29.8500, -91.0000
+Mount Lebanon, 32.5036, -93.0489
+Mount Moriah, 32.2867, -92.4133
+Mount Olive, 32.3311, -92.8039
+Mount Pleasant, 30.6456, -91.2864
+Mount Sinai, 32.9667, -93.1333
+Mount Union, 32.9333, -92.6000
+Mount Zion(Red River), 32.0333, -93.3333
+Mount Zion(Winn), 31.6667, -92.8833
+Mouton, 30.2739, -92.0331
+Mowata, 30.3917, -92.4094
+Mudville, 31.7128, -92.3961
+Mulatto Bend Landing, 30.5108, -91.2322
+Mulberry, 29.5544, -90.7194
+Mulnix, 32.6944, -93.0389
+Mulvey, 30.0061, -92.4039
+Murray Junction, 31.8958, -92.4878
+Musson, 30.4392, -91.5192
+Myrtis, 32.9247, -93.9914
+Myrtle Grove, 29.6372, -89.9492
+Myrtle Grove Plantation, 30.2914, -91.2628

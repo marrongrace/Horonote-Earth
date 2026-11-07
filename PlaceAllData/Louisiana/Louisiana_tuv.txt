@@ -1,0 +1,161 @@
+T B Hospital, 30.2139, -92.0283
+Tabatiere Perdue, 29.7269, -90.3397
+Taconey, 31.5753, -91.4681v
+Taft, 29.9911, -90.4481
+Talbot Landing, 32.0889, -91.5606
+Talisheek, 30.5325, -89.8767
+Talla Bena, 32.4917, -91.1533
+Tallulah, 32.4083, -91.1867
+Tally Ho, 30.2053, -91.1844
+Tangipahoa, 30.8758, -90.5119
+Tanglewood(Rapides), 31.2833, -92.4833
+Tanglewood(East Baton Rouge), 30.5378, -91.0750
+Tannehill, 31.9978, -92.6550
+Tansey, 31.8264, -92.3819
+Tate Cove, 30.7439, -92.2469
+Taterville, 30.8069, -91.9539
+Taylor, 32.5456, -93.1192
+Taylor Hill, 31.4667, -92.7667
+Taylortown, 32.3864, -93.5958
+Taylorville, 32.9864, -92.6006
+Tech, 32.5333, -92.6333
+Teddy, 30.9842, -90.9767
+Temple, 31.2781, -92.9553
+Tendal, 32.4322, -91.3667
+Tensas Bluff, 32.1617, -91.4056
+Tensas Bluff Landing, 32.1647, -91.4042
+Tepetate, 30.4142, -92.5525
+Terry, 32.9294, -91.3486
+Terrytown, 29.9100, -90.0325
+Texas, 30.1717, -91.1381
+The Parks, 30.2214, -91.3167
+The Pines Sanatorium, 32.4531, -93.8689
+The Y, 30.6833, -92.2833
+Theall, 29.8767, -92.2169
+Theriot(Lafourche), 29.7503, -90.6319
+Theriot(Terrebonne), 29.4611, -90.7514
+Thibodaux, 29.7956, -90.8228
+Thibodaux Junction, 29.7528, -90.7994
+Thirteen Points Landing, 32.9564, -92.0856
+Thistlewaite, 30.6167, -92.0667
+Thomas, 30.9678, -90.0286
+Thomastown, 32.3572, -91.0697
+Thornwell, 30.0983, -92.7972
+Three Oaks, 29.9500, -90.0000
+Three States, 33.0192, -94.0425
+Thronwell, 30.0833, -92.6667
+Tickfaw, 30.5772, -90.4831
+Tiger Bluff Landing, 30.3053, -90.6594
+Tigerville, 30.0425, -90.5433
+Timber Trails, 31.2833, -92.4833
+Timberlane, 29.9000, -90.0500
+Timon, 31.8897, -93.2383
+Tioga, 31.3869, -92.4256
+Toca, 29.8664, -89.8364
+Tony, 30.0414, -91.7333
+Toomey, 30.1525, -93.6497
+Topsy, 30.4092, -93.1222
+Torbert, 30.5542, -91.4903
+Toro, 31.2803, -93.5439
+Torras, 30.9894, -91.6789
+Torras Landing, 30.9694, -91.6669
+Tortue, 30.1797, -92.4475
+Touro Infirmary, 29.9253, -90.0931
+Tower Park, 31.1333, -93.2667
+Town and Country, 32.5000, -92.0833
+Traino Landing, 30.4058, -90.2625
+Transylvania, 32.6783, -91.1825
+Treat, 32.7933, -93.4086
+Trees, 32.7875, -94.0308
+Tremont, 32.5192, -92.4547
+Trenton, 31.9500, -93.7192
+Trinity(Iberville), 30.4333, -91.4500
+Trinity(Catahoula), 31.6319, -91.8108
+Triumph, 29.3392, -89.4767
+Tropical Bend, 29.4011, -89.6069
+Trout, 31.6956, -92.1786
+Troy(East Feliciana), 30.9667, -91.1000
+Troy(Tensas), 31.8125, -91.4508
+Truxno, 32.9475, -92.4058
+Tulane University Medical Center, 29.9550, -90.0769
+Tulip, 32.6817, -92.9864
+Tulla, 30.7403, -93.2503
+Tullis, 32.2706, -93.2858
+Tullos, 31.8192, -92.3297
+Tunica, 30.9292, -91.5550
+Tunica Landing, 30.9228, -91.5561
+Turkey Creek, 30.8769, -92.4131
+Turnbull, 30.9544, -91.4669
+Turnerville, 30.2942, -91.2389
+Turps, 30.4181, -93.2003
+Turtle Lake, 31.6333, -91.5333
+Twin Oaks, 32.8925, -91.7903
+Tyrone, 30.4969, -92.5111
+U and I Landing, 31.7694, -91.5611
+Ulyssee, 30.0181, -91.8764
+Unatex, 30.4939, -92.5258
+Uncle Sam, 30.5833, -91.1833
+Uneedus, 30.6172, -90.2611
+Union, 30.0869, -90.9047
+Union Church, 32.3500, -92.7167
+Union Hill, 30.9944, -92.7311
+Union Landing, 30.3211, -90.6944
+Union Point, 31.2206, -91.6256
+Union Springs, 31.8303, -93.7897
+Unionville, 32.6692, -92.6414
+United Medical Center, 29.9669, -90.0389
+University, 30.4167, -91.1833
+University Place, 30.1719, -93.2208
+Upco, 32.7644, -92.1356
+Upland, 32.7311, -91.8831
+Upper Texas, 29.8689, -91.0903
+Upstream, 29.9667, -90.2167
+Urania, 31.8636, -92.2958
+Ursa, 29.6672, -91.0636
+Uscarco, 32.7547, -91.9336
+Utility, 31.6022, -91.8886
+Vacherie, 30.0108, -90.7194
+Valentine, 29.5944, -90.4672
+Vallier, 29.8725, -90.4483
+Valmar, 29.9500, -89.9333
+Valverda, 30.5414, -91.5519
+Vanceville, 32.6008, -93.7342
+Varnado, 30.8936, -89.8294
+Vatican, 30.3092, -92.1164
+Vaughn, 32.9519, -91.9631
+Veazie, 30.5294, -92.1389
+Velma, 30.7000, -90.5833
+Veltin, 30.4953, -92.0889
+Vencor Hospital, 30.2242, -90.9147
+Venetian Isles, 30.0669, -89.8128
+Venice, 29.2769, -89.3547
+Ventress, 30.6817, -91.4081
+Verda, 31.6997, -92.7728
+Verdun, 30.3394, -90.7344
+Verdunville, 29.7539, -91.4008
+Vernon, 32.3886, -92.5714
+Verret(Calcasieu), 30.1564, -92.9289
+Verret(St Bernard), 29.8617, -89.7797
+Veterans Administration Hospital(Caddo), 32.5000, -93.7500
+Veterans Administration Hospital(Orleans), 29.9533, -90.0767
+Veterans Administration Hospital(Rapides), 31.3547, -92.4372
+Vick, 31.2300, -92.1056
+Victoria, 31.6639, -93.2253
+Vida, 30.0339, -91.7303
+Vidalia, 31.5653, -91.4258
+Vidrine, 30.6925, -92.3981
+Vienna, 32.5908, -92.6478
+Vieux Carre, 29.9603, -90.0647
+Village de l'Est, 30.0369, -89.9286
+Village St George, 30.4167, -91.1500
+Ville Platte, 30.6878, -92.2714
+Vincent, 30.2167, -93.3500
+Vincent Landing, 30.1556, -93.3319
+Vincent Park, 29.9500, -89.9333
+Vinton, 30.1906, -93.5811
+Violet, 29.8956, -89.8978
+Viva, 30.7350, -91.6403
+Vivian, 32.8714, -93.9872
+Vixen, 32.2342, -92.2686
+Voorhies, 31.0769, -91.9314
+Vowells Mill, 31.5672, -93.2839

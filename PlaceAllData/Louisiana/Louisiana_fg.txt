@@ -1,0 +1,272 @@
+F Edward Hebert Hospital, 29.9511, -90.0364
+Fair Grounds, 32.4667, -93.8167
+Fairbanks, 32.6442, -92.0364
+Faircloth, 31.6142, -92.6047
+Fairfax, 29.8000, -91.5000
+Fairland, 29.6836, -90.7867
+Fairlane, 29.6000, -90.7167
+Fairmont, 31.5167, -92.7000
+Fairview, 31.3250, -91.5322
+Falgoust, 29.9833, -90.8333
+Farmers, 29.8619, -91.6369
+Farmerville, 32.7733, -92.4056
+Fazendeville, 29.9500, -90.0167
+Felixville, 30.9422, -90.8767
+Fellowship, 31.7000, -92.1833
+Felps, 30.9769, -90.9186
+Fenton, 30.3669, -92.9181
+Ferguson, 32.5506, -93.6753
+Fern, 31.5108, -92.8953
+Ferriday, 31.6300, -91.5544
+Ferry Lake, 32.7394, -94.0075
+Ferry Newlight Landing, 32.1039, -91.4292
+Fields, 30.5261, -93.5747
+Fifth Ward, 31.1300, -92.1728
+Fillmore, 32.5628, -93.5150
+Fisher, 31.4936, -93.4656
+Fisherville, 31.3353, -93.1408
+Fishville, 31.5214, -92.3619
+Fiske, 32.8867, -91.4922
+Five Forks, 31.8114, -92.6958
+Fivemile Oaks, 29.5583, -91.3856
+Flat Creek, 31.9711, -92.3908
+Flatwoods, 31.4025, -92.8681
+Flora Weaver Station, 31.6122, -93.0975
+Florence, 29.7875, -91.7236
+Florence Landing, 29.9194, -92.5131
+Florenville, 30.4164, -89.8317
+Florien, 31.4436, -93.4572
+Florrissant, 29.8333, -89.8667
+Flournoy, 32.4492, -93.9000
+Flower Hill, 30.8817, -91.4167
+Floyd, 32.6775, -91.4058
+Floyd Landing, 32.6794, -91.4031
+Fluker, 30.8214, -90.5108
+Flynn, 30.5333, -92.0833
+Foley(Allen), 30.6606, -92.7422
+Foley(Assumption), 29.9231, -91.0247
+Folsom, 30.6300, -90.1872
+Fondale, 32.3544, -92.1078
+Fontenot, 30.4381, -92.8772
+Forbing, 32.3925, -93.7272
+Fordoche, 30.5958, -91.6164
+Fords, 32.5481, -92.9953
+Foreman, 30.3689, -91.0097
+Foremans Hall, 30.1861, -92.9292
+Forest, 32.7919, -91.4133
+Forest Glen, 30.3167, -89.9333
+Forest Hill, 31.0417, -92.5311
+Forest Oaks, 30.4500, -91.0667
+Forest Park, 32.5167, -92.1500
+Forked Island, 29.8311, -92.3000
+Forksville, 32.5075, -92.3236
+Fort Buhlow, 31.3275, -92.4494
+Fort de Russy, 31.1333, -92.0667
+Fort Jackson, 29.3575, -89.4550
+Fort Jesup, 31.6128, -93.4028
+Fort Macomb, 30.0647, -89.8039
+Fort Necessity, 32.0478, -91.8178
+Fort Polk, 31.0667, -93.1833
+Fort Randolph, 31.3233, -92.4486
+Fort Saint Leon, 29.7500, -90.0000
+Fort Saint Phillip, 29.3622, -89.4647
+Fortier Heights, 29.9000, -90.1500
+Fortune Fork, 32.3592, -91.1258
+Fosters, 32.5264, -93.6706
+Fosters Canal, 29.5283, -89.7500
+Fouborge, 30.7139, -92.1689
+Foules, 31.8222, -91.5950
+Fountain Place, 30.5167, -91.1500
+Four Corners, 29.8489, -91.6397
+Four Forks, 32.2236, -93.9847
+Fourborge, 30.6833, -92.2833
+Fowler, 32.6567, -92.0328
+Frances Place, 29.9175, -89.9097
+Francis Place, 29.9500, -89.9333
+Franklin, 29.7958, -91.5014
+Franklin Parish Hospital, 32.1586, -91.7067
+Franklinton, 30.8469, -90.1531
+Fred, 30.6486, -91.1053
+Freeland, 30.7781, -91.2669
+Freetown(Assumption), 29.8569, -90.9750
+Freetown(St Mary), 29.7839, -91.6661
+Frellsen, 29.9703, -90.2900
+French Settlement, 30.2950, -90.7950
+Frenier, 30.1075, -90.4267
+Frey, 30.4019, -92.4447
+Friendship, 32.2394, -92.8825
+Frierson, 32.2517, -93.6897
+Frisco, 30.5856, -91.5256
+Frogmore(Concordia), 31.6031, -91.6703
+Frogmore(Pointe Coupee), 30.5192, -91.5242
+Frost, 30.4039, -90.7392
+Frost Town, 31.9000, -92.2500
+Frozard, 30.4058, -91.9933
+Fryeburg, 32.4128, -93.2342
+Fullerton, 30.9931, -92.9819
+Fulton, 30.5125, -93.2006
+Funston, 32.0497, -93.9689
+Gaars Mill, 32.0833, -92.6667
+Gahagan, 32.0397, -93.4064
+Gahn, 29.8608, -91.6556
+Gajan, 29.9908, -91.7758
+Galbraith, 31.5000, -92.8167
+Galion, 32.8594, -91.7531
+Gall, 29.9431, -91.8228
+Galliano, 29.4419, -90.2992
+Galva, 30.2797, -90.3989
+Galvez, 30.2989, -90.9047
+Gandy, 31.4025, -93.4475
+Gandy Spur, 31.4500, -93.4500
+Ganeyville, 31.7200, -92.2811
+Gansville, 32.1353, -92.7342
+Garden City, 29.7653, -91.4656
+Gardere, 30.3456, -91.1400
+Gardner, 31.2694, -92.6928
+Garland, 30.7269, -92.0722
+Gary Memorial Hospital, 30.2828, -91.8894
+Garyville, 30.0558, -90.6192
+Gassoway, 32.9897, -91.2247
+Gatbraith, 31.4911, -92.8122
+Gayles, 32.3478, -93.6258
+Gaytine, 30.4478, -93.2011
+Gecko, 30.2956, -91.9350
+Ged, 30.1394, -93.5925
+Geismar, 30.2042, -91.0225
+General Hospital, 30.5447, -92.0756
+Genessee, 30.5597, -90.4828
+Gentilly, 30.0000, -90.0833
+Georgetown, 31.7608, -92.3844
+Georgeville, 30.6494, -90.6219
+Georgia, 29.8400, -90.9883
+Gheens, 29.6792, -90.4625
+Gibbs, 30.5431, -91.9919
+Gibbstown, 29.8167, -93.1167
+Gibsland, 32.5439, -93.0528
+Gibson, 29.6867, -90.9906
+Gibson Landing, 31.6894, -91.4042
+Gifford, 32.5933, -93.3347
+Gilark, 32.6386, -93.3094
+Gilbert, 32.0492, -91.6581
+Gilead, 30.7942, -90.8619
+Gilliam, 32.8269, -93.8450
+Gillis, 30.3736, -93.2008
+Gillyville, 32.3061, -91.8936
+Girard, 32.4817, -91.8064
+Glade Bayou Landing, 32.1028, -91.3931
+Glen Dale, 30.0500, -90.5167
+Glencoe, 29.8056, -91.6678
+Glenmora, 30.9764, -92.5850
+Glenmore, 30.2044, -91.1972
+Glenwild, 29.7142, -91.2542
+Glenwood, 29.9514, -91.0436
+Glenwood Hospital, 32.5125, -92.1564
+Glenwood Regional Medical Center, 32.5125, -92.1564
+Gloria(Plaquemines), 29.7369, -90.0119
+Gloria(Lafayette), 30.2978, -92.0389
+Gloster, 32.1908, -93.8147
+Glynn, 30.6264, -91.3553
+Godchaux, 29.7167, -90.6000
+Godchaux Community, 30.0667, -90.4833
+Gold Dust, 30.8572, -92.1994
+Gold Mine, 29.8361, -91.5997
+Golden Meadow, 29.3789, -90.2600
+Golden Star Plantation, 29.9292, -90.6625
+Goldman, 31.8283, -91.3806
+Goldman Landing, 31.8231, -91.3553
+Goldonna, 32.0167, -92.9092
+Goldridge, 30.1156, -91.1903
+Gonzales, 30.2383, -90.9200
+Good Hope, 29.9911, -90.4006
+Good Pine, 31.6931, -92.1619
+Goodbee, 30.4956, -90.1975
+Goodwill(Webster), 32.5886, -93.4325
+Goodwill(West Carroll), 32.7789, -91.5617
+Goodwood(East Baton Rouge), 30.4444, -91.1108
+Goodwood(St Landry), 30.7306, -91.7639
+Goosport, 30.2567, -93.1803
+Gordon(Beauregard), 30.4842, -93.3231
+Gordon(Claiborne), 32.9872, -93.0333
+Gordon(St Landry), 30.8294, -91.8100
+Gordy, 29.6072, -91.5386
+Gorhamtown, 31.9333, -92.6000
+Gorum, 31.4328, -92.9433
+Goss(Calcasieu), 30.3067, -93.1497
+Goss(De Soto), 32.0611, -93.5578
+Goudeau, 30.8717, -92.0142
+Gouldsboro, 29.9000, -90.0500
+Gowan, 32.6542, -91.4608
+Gradney Island, 30.5333, -92.0833
+Grambling, 32.5275, -92.7139
+Grambling Corners, 32.5058, -92.7178
+Gramercy, 30.0472, -90.6897
+Grand Annse, 30.3428, -91.7964
+Grand Bayou(Assumption), 30.0150, -91.1306
+Grand Bayou(Plaquemines), 29.5111, -89.7653
+Grand Bayou(Red River), 32.0867, -93.4731
+Grand Caillou, 29.6000, -90.7167
+Grand Cane, 32.0839, -93.8100
+Grand Chenier, 29.7667, -92.9750
+Grand Coteau, 30.4197, -92.0464
+Grand Ecore, 31.8156, -93.0847
+Grand Isle, 29.2506, -89.9642
+Grand Lake, 30.0306, -93.2719
+Grand Point, 30.0611, -90.7533
+Grand Prairie, 30.6831, -92.1475
+Grand River, 30.2264, -91.4183
+Grandbois, 29.5525, -90.5381
+Grande Ecaille, 29.3789, -89.7806
+Grandstaff, 31.7744, -92.3628
+Grangeville, 30.7422, -90.8336
+Grant, 30.7883, -92.9483
+Grappes Bluff, 31.9156, -93.2042
+Gravel, 32.9322, -92.1517
+Gray, 29.6975, -90.7864
+Gray Clinic, 33.0044, -93.4597
+Gray Point, 30.7136, -92.4281
+Grays, 30.8483, -91.0503
+Grayson, 32.0497, -92.1092
+Green Acres(Concordia), 31.5833, -91.4333
+Green Acres(St Charles), 29.8092, -90.4253
+Green Acres(East Baton Rouge), 30.5167, -91.1500
+Green Gables, 31.3833, -92.3375
+Green Lawn, 29.9833, -90.2500
+Green Lawn Terrace, 29.9833, -90.2500
+Greenacres, 32.5333, -93.7000
+Greendale, 30.5069, -91.1153
+Greenfield, 32.7581, -91.2283
+Greenlaw, 30.9719, -90.4875
+Greens Ditch, 30.1136, -89.7611
+Greensburg, 30.8306, -90.6717
+Greenville, 31.7928, -91.5792
+Greenwell Springs, 30.5794, -90.9942
+Greenwell Springs Sanatorium, 30.5786, -90.9900
+Greenwich Village, 30.2167, -93.2000
+Greenwood(St Mary), 29.6867, -91.1542
+Greenwood(Terrebonne), 29.6203, -90.9036
+Greenwood(Caddo), 32.4428, -93.9728
+Greenwood(Plaquemines), 29.7814, -90.0136
+Greenwood Park, 32.4500, -93.7833
+Greewood Plantation, 29.8139, -90.8689
+Greig, 29.9486, -91.8297
+Greinwich Terrace, 30.2167, -93.2000
+Greinwich Village, 30.1944, -93.1831
+Gretna, 29.9144, -90.0539
+Gretna Green, 31.8792, -91.4633
+Griffin, 32.0375, -91.5669
+Grim, 32.7025, -93.3731
+Grimes, 32.6558, -91.1817
+Grosse Isle, 29.9650, -92.0908
+Grosse Tete, 30.4108, -91.4336
+Grove, 32.7375, -93.3311
+Gueydan, 30.0258, -92.5083
+Gulf Crossing, 32.2058, -92.4731
+Gullett, 30.7144, -90.5064
+Gum Bayou Landing, 30.3031, -89.7139
+Gum Ridge, 32.6258, -91.8114
+Gurley, 30.8692, -91.1339
+Guthrie, 32.6811, -92.0200
+Guy, 30.6167, -92.7667
+Guynes, 32.2033, -93.1122
+Guyton, 32.4131, -92.3772
+Gypsy, 30.0317, -90.4675

@@ -1,0 +1,291 @@
+Pace, 32.6000, -93.3167
+Packton, 31.7975, -92.5767
+Paincourtville, 29.9833, -91.0500
+Palmer Landing, 32.3278, -93.6764
+Palmetto(Bossier), 32.3969, -93.5575
+Palmetto(St Landry), 30.7172, -91.9092
+Palo Alto, 30.0917, -91.0381
+Panchoville, 30.3650, -92.6511
+Panola(Concordia), 31.6333, -91.5333
+Panola(East Carroll), 32.9075, -91.2258
+Paradis, 29.8794, -90.4339
+Paradise, 31.3839, -92.4069
+Paradise Manor, 29.9667, -90.2167
+Parhams, 31.4675, -91.7864
+Park Manor, 30.0000, -90.2167
+Parkland Hospital, 30.4203, -91.1314
+Parks, 30.2142, -91.8319
+Parkside Manor, 29.9667, -90.2167
+Parkview Medical Clinic, 30.7819, -89.8722
+Parlange, 30.6281, -91.4875
+Patin(Pointe Coupee), 30.6897, -91.4061
+Patin(St Martin), 30.2903, -91.8375
+Patoutville, 29.9033, -91.7336
+Patterson, 29.6931, -91.3019
+Paulina, 30.0261, -90.7131
+Pawnee, 30.8903, -92.6269
+Pearl, 30.9047, -92.6200
+Pearl River, 30.3758, -89.7483
+Peason, 31.4136, -93.2944
+Pecan Grove, 29.9000, -90.1500
+Pecan Island, 29.6464, -92.4531
+Pecan Landing, 32.1025, -91.4133
+Pecan Place, 30.2833, -91.2333
+Pecaniere, 30.4842, -91.9381
+Peck, 31.9250, -91.6611
+Pelba, 30.3417, -91.7325
+Pelican, 31.8822, -93.5858
+Percle, 29.8683, -91.0117
+Perkins, 30.3931, -93.4117
+Perry, 29.9483, -92.1569
+Perryville, 32.7078, -92.0053
+Pertuits Store, 29.9833, -90.8333
+Petetin, 30.3831, -92.0553
+Peveto Beach, 29.7608, -93.5583
+Philadelphia Point, 30.1575, -91.0128
+Phoenix, 29.6458, -89.9397
+Pickering, 31.0339, -93.2706
+Pickett, 32.6397, -93.7886
+Piermont, 31.9514, -93.2822
+Pierre Part, 29.9650, -91.2031
+Pigeon, 30.0767, -91.2994
+Pikes Peak, 29.9803, -90.8081
+Pilette, 30.1683, -91.9992
+Pilottown, 29.1814, -89.2575
+Pine, 30.9075, -90.0136
+Pine Cliff, 30.7828, -90.1233
+Pine Coupee, 31.3742, -92.8989
+Pine Grove(Ouachita), 32.4533, -92.0511
+Pine Grove(St Helena), 30.7097, -90.7539
+Pine Island, 30.3497, -92.7747
+Pine Oak Terrace, 32.4500, -93.7833
+Pine Prairie, 30.7836, -92.4253
+Pineville, 31.3222, -92.4342
+Pineville Junction, 31.3119, -92.4272
+Pioneer, 32.7361, -91.4333
+Pitkin, 30.9361, -92.9361
+Pitreville, 30.4797, -92.2614
+Plain Dealing, 32.9050, -93.6967
+Plaincourtville, 29.9892, -91.0586
+Plains, 30.6900, -91.2056
+Plainview(Livingston), 30.5397, -90.9700
+Plainview(Washington), 30.7833, -89.8500
+Plaisance, 30.6122, -92.1261
+Plantation Acres, 31.2833, -92.4833
+Plantation Park, 32.5333, -93.7000
+Plaquemine, 30.2889, -91.2342
+Plattenville, 29.9886, -91.0219
+Plaucheville, 30.9653, -91.9817
+Pleasant Hill(Bienville), 32.5167, -93.0500
+Pleasant Hill(Sabine), 31.8197, -93.5142
+Pleasant Hills, 30.5167, -91.1500
+Pleasant Ridge, 31.9000, -92.2333
+Plettenberg, 30.8778, -91.4922
+Ploup, 30.7050, -91.4828
+Plum Orchard Landing, 32.4142, -93.3761
+Point, 32.6608, -92.2775
+Point Au Chien, 29.4833, -90.5500
+Point Barre, 29.4256, -90.5675
+Point Blue, 30.6269, -92.3022
+Point Breeze, 31.0547, -91.5736
+Point Celeste, 29.5981, -89.8481
+Point Pleasant(Claiborne), 32.6878, -92.9728
+Point Pleasant(Morehouse), 32.7717, -91.9525
+Pointe a la Hache, 29.5761, -89.7917
+Pointe Claire, 30.4378, -91.9581
+Pointe Coupee, 30.7342, -91.4331
+Pointe Coupee General Hospital, 30.6833, -91.4617
+Pointe Cypress, 29.9003, -90.5194
+Poland, 31.1669, -92.2756
+Pollock, 31.5256, -92.4069
+Ponchatoula, 30.4386, -90.4414
+Ponchatoula Beach, 30.4333, -90.4333
+Pont Des Mouton, 30.2719, -91.9833
+Pontchartrain Beach, 30.0331, -90.0619
+Poole, 32.2864, -93.4919
+Poplar Grove(St Landry), 30.5361, -91.9986
+Poplar Grove(West Baton Rouge), 30.4667, -91.2167
+Poplar Grove Plantation, 30.4897, -91.2072
+Port Allen, 30.4519, -91.2100
+Port Allen Landing, 30.4528, -91.2003
+Port Barre, 30.5600, -91.9539
+Port Barrow, 30.1000, -91.0000
+Port Boliver, 32.4256, -93.3478
+Port Eads, 29.0164, -89.1617
+Port Hickey, 30.6608, -91.2903
+Port Hickey Landing, 30.6569, -91.2922
+Port Hudson, 30.6781, -91.2694
+Port of New Iberia, 29.9419, -91.8417
+Port Sulphur, 29.4803, -89.6939
+Port Vincent, 30.3336, -90.8494
+Portage, 30.4122, -91.8614
+Porters Curve, 30.9589, -90.3169
+Porters River Landing, 30.3619, -89.7319
+Porterville, 32.9458, -93.4578
+Post Trailer Park, 31.1333, -93.2667
+Pot Cove, 30.5167, -92.1833
+Potash, 29.4928, -89.7056
+Poufette, 29.9431, -91.9308
+Powell, 30.7392, -91.3297
+Powhatan, 31.8728, -93.2011
+Poydras, 29.8692, -89.8889
+Prairie Laurent, 30.4850, -92.0411
+Prairie Ronde, 30.5767, -92.1883
+Prairieville, 30.3028, -90.9719
+Pratt, 32.4914, -92.9892
+Presquille, 29.5636, -90.6461
+Preston, 32.2556, -93.8772
+Prevost, 29.8414, -91.6014
+Price Crossing, 31.1656, -92.8042
+Pricetown, 29.9136, -90.2100
+Pride, 30.6936, -90.9781
+Prien, 30.1817, -93.2736
+Princeton, 32.5892, -93.5150
+Promised Land, 29.7953, -90.0044
+Provencal, 31.6528, -93.2019
+Providence, 29.9833, -90.2500
+Prudhomme, 30.4722, -92.3250
+Puckett, 30.5683, -91.0481
+Pumpkin Center, 30.4547, -90.5419
+Punkin Center, 32.3003, -92.7008
+Quachita City, 32.7258, -92.0714
+Quaid, 31.6167, -91.8167
+Quarantine, 29.2000, -89.2667
+Quebec, 32.4267, -91.3028
+Quick, 30.5553, -91.5789
+Quigley, 32.8547, -92.3047
+Quimby, 32.2353, -91.2164
+Quinton, 30.8222, -91.7050
+Quitman, 32.3486, -92.7214
+Raceland, 29.7272, -90.5989
+Raceland Junction, 29.7478, -90.5731
+Ragley, 30.5125, -93.2322
+Ramah, 30.4022, -91.5072
+Rambin, 31.9517, -93.4542
+Ramos, 29.6769, -91.1386
+Ramsay, 30.5256, -90.1258
+Randall, 30.5333, -92.0833
+Randolph, 32.9864, -92.6903
+Rapides, 31.3633, -92.5867
+Rapides Regional Medical Center, 31.3150, -92.4489
+Ratliff, 29.9442, -91.0236
+Rattan, 31.3472, -93.5278
+Ravenswood, 30.6719, -91.6894
+Raymond, 30.3497, -92.7056
+Rayne, 30.2347, -92.2683
+Rayne-Branch Hospital, 30.2333, -92.2631
+Rayville, 32.4772, -91.7547
+Readheimer, 32.1153, -92.9872
+Readhimer, 32.0500, -93.0167
+Rebecca, 29.6000, -90.7167
+Rebecca Plantation, 29.6917, -90.8128
+Red Chute, 32.5558, -93.6131
+Red Fish, 30.9833, -91.8167
+Red Gum, 31.7500, -91.5333
+Red Oak, 30.4656, -91.0675
+Red River Landing, 30.9592, -91.6650
+Reddell, 30.6739, -92.4261
+Redich, 30.4161, -92.5644
+Redland, 32.9561, -93.6150
+Redoak, 31.9461, -93.2722
+Reedton, 30.6333, -92.4167
+Reeves(Reaves School), 30.5208, -93.0475
+Reggio, 29.8311, -89.7544
+Rehabilitation Hospital of Baton Rouge, 30.4103, -91.0986
+Reids, 30.9333, -92.9333
+Reiley, 30.7436, -90.9692
+Reimer Crossing, 30.7431, -90.9217
+Reisor, 32.4114, -93.8508
+Remolina Landing, 32.1100, -91.4019
+Remy, 30.0206, -90.7411
+Reserve, 30.0536, -90.5517
+Retreat, 30.9719, -91.4850
+Reveille, 30.2714, -91.1875
+Reynolds, 31.2167, -92.2278
+Rhinehart, 31.6375, -92.0067
+Rhodes, 30.3061, -91.1214
+Rhymes, 32.3789, -91.8989
+Riceville, 30.0761, -92.5142
+Richard(Acadia), 30.4217, -92.3128
+Richard(St Mary), 29.8281, -91.5969
+Richardson, 30.8544, -90.2131
+Richardson Landing, 30.7608, -89.8314
+Richland(Iberville), 30.1444, -91.1797
+Richland(St Mary), 29.7861, -91.6950
+Richland(Tensas), 31.8364, -91.4511
+Richland Parish Hospital-Delhi, 32.4525, -91.4933
+Richland Parish Hospital-Rayville, 32.4631, -91.7492
+Richmond, 32.4167, -91.1833
+Richwood, 32.5000, -92.0833
+Ricohoc, 29.7075, -91.3833
+Riddle, 30.7194, -91.3097
+Rideau Settlement, 30.6836, -91.9033
+Ridge, 30.1589, -92.1761
+Ridgecrest, 31.6000, -91.5333
+Ridgewood, 30.5833, -91.0000
+Rienzi Plantation, 29.8139, -90.8103
+Rigolets, 30.1486, -89.6422
+Rigolette, 31.3833, -92.4000
+Rilla, 32.4153, -92.1008
+Ringgold, 32.3283, -93.2797
+Ringwood, 31.9839, -92.5231
+Rio, 30.6928, -89.8900
+Risinger Woods, 32.5500, -93.7833
+Rita, 29.6478, -90.5339
+River Bend, 29.8814, -89.8928
+River Oaks Psychiatric Hospital, 29.9611, -90.1989
+River Ridge, 29.9667, -90.2167
+River West Medical Center, 30.2619, -91.2447
+Riverland Heights, 30.0744, -90.4903
+Riverland Medical Center, 31.6467, -91.5547
+Riverlands, 30.0667, -90.4833
+Riverside Medical Center, 30.8339, -90.1528
+Riverton, 32.1606, -92.0961
+Riverview Medical Center, 30.2097, -90.9311
+Riverwood, 30.4833, -90.1000
+Roanoke, 30.2367, -92.7469
+Robeline, 31.6903, -93.3044
+Robert, 30.5061, -90.3408
+Robinson, 32.9889, -91.8900
+Robson, 32.3617, -93.6428
+Rochelle, 31.7900, -92.3694
+Rock(Rock Quarry), 31.4369, -92.7344
+Rock Hill, 31.4469, -92.5708
+Rockfield, 32.2908, -92.7250
+Rocky Branch, 32.6786, -92.2031
+Rocky Mount, 32.8144, -93.6292
+Rodessa, 32.9711, -93.9947
+Rodriquez, 29.8325, -91.5678
+Rogers(La Salle), 31.5322, -92.2250
+Rogers(Morehouse), 32.9314, -91.9758
+Rogillioville, 30.9250, -91.2311
+Romeville, 30.0622, -90.8467
+Roosevelt, 32.5719, -91.1822
+Rork, 30.4394, -92.4111
+Rosa, 30.7550, -92.0072
+Rosaryville, 30.4228, -90.5194
+Rose Hill, 29.9169, -92.1281
+Rosebank, 30.9231, -91.4414
+Rosedale(Assumption), 29.9214, -90.9736
+Rosedale(Tangipahoa), 30.4411, -91.4519
+Rosefield, 31.8908, -91.9986
+Roseland, 30.7647, -90.5117
+Rosepine, 30.9197, -93.2822
+Rosewood, 30.9978, -91.8833
+Rossignol, 30.1181, -92.9967
+Rougon, 30.6089, -91.3742
+Rousseau, 29.7633, -90.7225
+Routon, 31.6833, -92.1167
+Rowes Landing, 30.9233, -91.5614
+Roxana, 31.1186, -92.2586
+Roy, 32.2239, -93.1519
+Ruby, 31.1892, -92.2486
+Ruddock, 30.2042, -90.4250
+Rum Center, 32.9900, -92.6517
+Ruple, 32.9667, -93.1333
+Rural Park, 29.9667, -90.2167
+Ruston, 32.5231, -92.6378
+Ruston Sanitarium, 32.5344, -92.7406
+Ruth, 30.2378, -91.8817
+Rycade, 30.2625, -91.6031
+Rynella, 29.9464, -91.8758

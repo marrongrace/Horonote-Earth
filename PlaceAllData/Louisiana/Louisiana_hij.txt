@@ -1,0 +1,240 @@
+Haas, 30.9481, -92.2592
+Haaswood, 30.3286, -89.7444
+Hackberry, 29.9958, -93.3419
+Hackley, 30.9758, -90.0856
+Haddens, 31.1861, -93.5331
+Hagewood, 31.7167, -93.2167
+Hahnville, 29.9764, -90.4089
+Haile, 32.8308, -92.1461
+Haire, 30.0000, -92.2833
+Half Way, 30.1000, -91.0000
+Halfway, 32.1097, -93.3675
+Hall Summit, 32.1772, -93.3022
+Hamburg, 31.0306, -91.9314
+Hammet, 31.5833, -91.4333
+Hammock(reduced usage), 32.6364, -92.0378
+Hammond, 30.5042, -90.4611
+Hampton, 30.5900, -92.6717
+Hancock, 32.5958, -91.9553
+Hanna, 31.9611, -93.3475
+Happy Jack, 29.5217, -89.7336
+Harahan, 29.9403, -90.2031
+Harahan Junction, 29.9731, -90.1933
+Hardtner Medical Center, 31.8606, -92.2753
+Hardwood, 30.8061, -91.3839
+Harelson, 30.4339, -91.0658
+Hargis, 31.6842, -92.8297
+Hargrove, 30.4781, -93.4603
+Harlem(Plaquemines), 29.6228, -89.9006
+Harlem(Vermilion), 29.9667, -92.1167
+Harmon, 32.0658, -93.4303
+Harmony, 30.5958, -92.9136
+Harold Park, 29.9833, -90.2500
+Harris, 31.9122, -93.4147
+Harris Landing, 32.1106, -91.5872
+Harrisonburg, 31.7719, -91.8214
+Harvey, 29.9033, -90.0772
+Hatchersville, 30.8294, -90.8675
+Hatches, 31.7833, -93.7000
+Hatfield, 31.9117, -92.6467
+Hathaway, 30.3494, -92.6714
+Haughton, 32.5325, -93.5039
+Hawthorne, 31.1842, -93.2883
+Hayes, 30.1086, -92.9200
+Haynes Landing, 32.9717, -91.6967
+Haynesville, 32.9619, -93.1400
+Hayti, 32.7119, -93.8353
+Hazelwood, 30.5472, -91.9172
+Head of Island, 30.2694, -90.7533
+Hearn Island, 32.1000, -92.0833
+Hebert, 32.1825, -91.9908
+Hecker, 30.3550, -93.0881
+Hedgeland Landing, 31.8697, -91.5808
+Heflin, 32.4561, -93.2639
+Helena, 31.8711, -91.3933
+Helme, 30.4131, -93.4978
+Helvetia, 30.0772, -90.8675
+Hemphill, 31.2492, -92.7744
+Henderson, 30.3131, -91.7903
+Henfer Park, 29.9667, -90.2167
+Henry, 29.8831, -92.0783
+Hermitage, 30.6450, -91.3383
+Hessmer, 31.0594, -92.1211
+Hester, 30.0167, -90.7667
+Hester Landing, 30.9578, -92.4894
+Hewes, 30.6167, -91.4667
+Hi-Land, 29.9086, -89.9036
+Hickory(St Tammany), 30.4161, -89.7850
+Hickory(Avoyelles), 30.9514, -92.0208
+Hickory Grove, 31.3500, -92.1667
+Hickory Valley, 32.0833, -92.4833
+Hicks, 31.1847, -93.0158
+Hicks Crossing, 31.2275, -92.9403
+Hico, 32.7447, -92.7136
+Higginbotham, 30.3456, -92.1933
+High Island, 32.2697, -93.4350
+High Mount, 30.2167, -93.2000
+Highland(East Carroll), 32.8561, -91.2183
+Highland(Tensas), 31.8378, -91.4856
+Highland Acres, 29.9667, -90.2167
+Highland Hospital, 32.5022, -93.7392
+Highland Park(Ouachita), 32.5000, -92.0833
+Highland Park(Terrebonne), 29.6486, -90.7650
+Highland Park Heights, 30.4167, -91.1500
+Highway Park, 29.9833, -90.2500
+Hillaryville, 30.1356, -90.9522
+Hillsdale, 30.7444, -90.6208
+Hillside, 30.3858, -91.1125
+Hilltop, 32.3408, -92.7017
+Hilly, 32.6483, -92.6783
+Himalaya, 29.8492, -90.9972
+Hineston, 31.1433, -92.7586
+Hinkle, 32.5319, -93.7181
+Hipple, 30.2278, -93.1469
+Hite, 30.8225, -93.3236
+Hobart, 30.3222, -90.9389
+Hodge, 32.2767, -92.7233
+Hohen Solms, 30.1989, -91.0439
+Holden, 30.5042, -90.6692
+Hollingsworth, 31.9775, -93.3625
+Holloway, 31.3903, -92.2297
+Holly, 32.1372, -93.7014
+Holly Beach, 29.7706, -93.4592
+Holly Grove, 31.9278, -91.7033
+Holly Ridge(Ricjland), 32.4675, -91.6267
+Holly Ridge(Tensas), 31.8956, -91.4717
+Hollybrook, 32.7350, -91.1797
+Hollywood(Calcasieu), 30.2275, -93.3258
+Hollywood(Terrebonne), 29.6000, -90.7581
+Hollywood(West Feliciana), 30.9497, -91.4089
+Holmesville, 30.9033, -92.1944
+Holmwood, 30.1258, -93.0797
+Holsey, 32.8000, -92.8667
+Holton, 30.7442, -90.3642
+Holum, 31.9967, -92.0833
+Home Place(Plaquemines), 29.4625, -89.6833
+Home Place(St Mary), 29.8236, -91.6644
+Homer, 32.7917, -93.0556
+Honore, 32.5564, -93.7328
+Hood, 32.5500, -92.9167
+Hood Camp, 31.3833, -92.9500
+Hope, 29.9447, -91.7081
+Hope Villa, 30.3428, -90.9825
+Hopedale, 29.8203, -89.6567
+Hopewell Landing, 32.1275, -91.3928
+Hornbeck, 31.3256, -93.3983
+Horse Bluff Landing, 30.3658, -90.6272
+Hortman, 32.7286, -93.3772
+Hosston, 32.8875, -93.8783
+Hot Wells, 31.3392, -92.7133
+Houltonville, 30.4067, -90.1422
+Houma, 29.5956, -90.7194
+Houston River, 30.2500, -93.2500
+Howard, 32.2264, -93.4825
+Howcott, 31.6561, -92.3889
+Howell, 30.5236, -91.1442
+Howze Beach, 30.2094, -89.7900
+Hubertville, 29.9272, -91.6794
+Hudson, 32.0369, -92.5850
+Huey Long Hospital, 31.3203, -92.4400
+Hughes, 32.7878, -93.7097
+Humana Hospital of Marksville, 31.1425, -92.0639
+Humana Hospital Springhill, 33.0103, -93.4436
+Humana Hospital Ville Platte, 30.6819, -92.2828
+Humana Hospital Winn Parish, 31.9253, -92.6458
+Humphreys(Morehouse), 32.9967, -91.9661
+Humphreys(Terrebonne), 29.6086, -90.8567
+Humphries, 30.1925, -90.9983
+Hundley, 30.4408, -92.3661
+Hunt, 32.8439, -92.6575
+Hunter, 31.8969, -93.8511
+Hunter Landing, 31.7531, -91.5831
+Huron, 30.4000, -91.9333
+Hurricane, 32.6175, -92.9400
+Husser, 30.6792, -90.3372
+Hutton, 31.3303, -93.0322
+Hyams, 31.8369, -93.1203
+Hyde, 30.9833, -91.8167
+Hydell, 30.3008, -91.1142
+Hydropolis, 31.0667, -92.0500
+Hymel, 30.0447, -90.8467
+Iberia General Hospital, 29.9889, -91.7839
+Iberville(Bayou Paul Station), 30.2958, -91.1167
+Ida, 33.0042, -93.8947
+Idlewild(St Mary), 29.6781, -91.2933
+Idlewild(Terrebonne), 29.6419, -90.7575
+Ikes, 30.8739, -93.2175
+Illinois Plant, 30.0392, -92.9114
+Independence, 30.6353, -90.5008
+Independent, 30.0322, -91.8506
+Indian Bayou, 30.1258, -92.2425
+Indian Beach, 30.0189, -90.1411
+Indian Landing, 32.2800, -91.5233
+Indian Mound, 30.5833, -91.0000
+Indian Village(Iberville), 30.2572, -91.3139
+Indian Village(Ouachita), 32.5167, -92.3667
+Indian Village(Allen), 30.4489, -92.9717
+Industrial, 32.5500, -93.7833
+Ingleside, 29.8981, -90.9875
+Inglewood, 31.2297, -92.4211
+Innis, 30.8778, -91.6806
+Inniswold, 30.4047, -91.0833
+Intracoastal City, 29.7842, -92.1561
+Invincible, 32.7872, -93.4075
+Iota, 30.3311, -92.4956
+Iowa, 30.2367, -93.0136
+Irene, 30.6122, -91.2300
+Irish Bend, 29.8186, -91.4531
+Irma, 31.7997, -93.0122
+Ironton, 29.6486, -89.9614
+Isabel, 30.6933, -89.9861
+Island, 30.6764, -91.3908
+Isle Labbe, 30.1653, -91.7764
+Istrouma, 30.4789, -91.1597
+Ithra, 30.4611, -91.2747
+Ivan, 32.7942, -93.5353
+Ivanhoe, 29.7825, -91.7397
+Jack, 30.7381, -90.7122
+Jackson, 30.8372, -91.2175
+Jackson Landing, 32.3483, -91.4997
+Jacoby, 30.9150, -91.7892
+Jamestown, 32.3439, -93.2117
+Janie, 31.4625, -92.8864
+Jarreau, 30.6206, -91.4508
+Jay, 29.6000, -90.4667
+Jean Lafitte, 29.6833, -90.1000
+Jeanerette, 29.9108, -91.6633
+Jefferson, 29.9667, -90.1667
+Jefferson Heights, 29.9636, -90.1650
+Jefferson Island, 29.9725, -91.9756
+Jefferson Terrace, 30.4167, -91.1500
+Jena, 31.6831, -92.1336
+Jenkins, 30.8119, -90.1369
+Jennings, 30.2222, -92.6569
+Jennings American Legion Hospital, 30.2394, -92.6625
+Jericho, 31.2672, -92.8664
+Jesuit Bend, 29.7481, -90.0258
+Jewella(historical), 32.4686, -93.8061
+Jigger, 32.0347, -91.7467
+Johnson, 30.0164, -90.6347
+Johnson, 29.6939, -91.4622
+Johnson Bayou Landing, 29.8019, -93.7528
+Johnson Landing, 30.9672, -92.4344
+Johnson Ridge, 29.7656, -90.8161
+Johnson's Bayou, 29.8000, -93.6167
+Jones, 32.9675, -91.6481
+Jones Creek, 30.4125, -91.0147
+Jones Landing, 31.8825, -91.7783
+Jones Park, 29.9833, -90.2500
+Jonesboro, 32.2411, -92.7158
+Jonesburg, 32.5250, -91.7567
+Jonesville, 31.6264, -91.8181
+Jordon Hill, 31.8539, -92.5225
+Joyce, 31.9392, -92.5986
+Juanita, 30.6183, -93.4250
+Judd, 30.3628, -92.4039
+Julien, 29.8572, -91.6322
+Junction, 30.8378, -93.5089
+Junction City, 33.0136, -92.7250
+Jungle Gardens, 29.9083, -91.9117
+Justina, 31.9772, -91.4294

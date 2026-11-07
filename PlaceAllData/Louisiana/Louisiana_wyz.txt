@@ -1,0 +1,156 @@
+Wadely Landing, 31.6833, -92.1167
+Wadesboro, 30.4242, -90.4853
+Waggaman, 29.9183, -90.2108
+Wakefield, 30.8892, -91.3500
+Waldheim, 30.5561, -90.0119
+Walding, 31.2039, -92.7678
+Walet, 30.1025, -91.7264
+Walker(Jackson), 32.1900, -92.5836
+Walker(Livingston), 30.4878, -90.8614
+Walkertown, 29.8900, -90.1136
+Wall Lake, 32.5167, -92.1500
+Wallace, 30.0431, -90.6672
+Wallace Ridge, 31.7094, -91.8272
+Waller Landing, 32.0414, -91.6269
+Walls, 30.5869, -91.3261
+Walnut Hill, 31.2000, -93.1333
+Walroy, 30.1972, -91.9986
+Walsh, 32.3708, -92.9133
+Walters, 31.5472, -91.9958
+War Memorial Hospital, 31.1375, -93.2689
+Ward, 30.7403, -92.7022
+Warden, 32.5375, -91.4969
+Wardview, 32.9647, -93.7942
+Wardville(Rapides), 31.3092, -92.4064
+Wardville(Morehouse), 32.8747, -91.9050
+Warnerton, 30.9900, -90.1831
+Warsaw Landing(Franklin), 32.2950, -91.5294
+Warsaw Landing(Livingston), 30.3847, -90.5533
+Washburn, 32.1833, -93.9167
+Washington, 30.6161, -92.0569
+Washington-Saint Tammany Charity Hospital, 30.7892, -89.8606
+Waterford, 29.9964, -90.4731
+Waterloo, 30.6944, -91.3572
+Waterproof(Terrebonne), 29.5628, -90.7950
+Waterproof(Tensas), 31.8047, -91.3833
+Watson, 30.5756, -90.9531
+Waverly, 32.4461, -91.4114
+Waxia, 30.6653, -91.9589
+Webb Quarters, 31.6725, -92.1564
+Weber City, 30.2292, -90.8889
+Webre, 30.4183, -91.4469
+Webre Steib Plantation, 29.9589, -90.7078
+Weeks, 29.8075, -91.8069
+Weil, 31.3117, -92.5606
+Weiss, 30.6469, -90.9056
+Welcome, 30.0592, -90.8683
+Weldon, 32.8594, -92.7253
+Welsh, 30.2358, -92.8225
+Welsh General Hospital, 30.2283, -92.8164
+Wemple, 32.0122, -93.4794
+West Carroll Memorial Hospital, 32.8681, -91.3822
+West Erath, 29.9606, -92.0436
+West Monroe, 32.5183, -92.1475
+West Point, 29.4639, -89.2108
+West Pointe a la Hache, 29.5694, -89.8006
+Westdale, 32.1647, -93.4797
+Westfield, 29.9842, -91.0794
+Westgate, 30.0025, -90.2253
+Westlake, 30.2419, -93.2506
+Westminster, 30.4167, -91.1000
+Weston, 32.2439, -92.6133
+Westover, 30.4908, -91.2744
+Westport, 30.9333, -92.9333
+Westwego, 29.9058, -90.1422
+Westwood, 32.1850, -91.3200
+Weyanoke, 30.9467, -91.4611
+Wham, 32.6261, -91.9233
+Whatley Landing, 31.7000, -92.1833
+Wheeling, 31.7461, -92.8392
+White, 29.7833, -90.8333
+White Castle, 30.1697, -91.1469
+White Hall, 30.0792, -90.9014
+White Hills, 30.5833, -91.1667
+White Kitchen, 30.2278, -89.6772
+White Plantation, 29.8161, -90.9117
+White Sulphur Springs, 31.6014, -92.2731
+Whitehall(La Salle), 31.6242, -92.0417
+Whitehall(Livingston), 30.2883, -90.7003
+Whiteville, 30.7881, -92.1475
+Whittington, 31.2833, -92.4833
+Wickland Terrace, 30.4500, -91.0667
+Wickliffe, 30.6864, -91.3975
+Wilda, 31.2981, -92.7397
+Wildcat, 32.1386, -91.3622
+Wilds, 32.4319, -92.1750
+Wildsville, 31.6156, -91.7839
+Wildwood(Assumption), 29.9119, -91.0564
+Wildwood(Catahoula), 31.7858, -91.5764
+Wildwood(East Baton Rouge), 30.4167, -91.1500
+Wilhite, 32.6167, -92.2803
+Willetts, 31.5083, -91.5272
+Willhite, 31.9000, -92.2500
+Williams(Acadia), 30.4656, -92.4661
+Williams(Red River), 32.1939, -93.4808
+Williamsport, 30.8950, -91.6672
+Williana, 31.6700, -92.5661
+Willis, 30.7364, -90.0667
+Willis-Knighton Memorial Hospital, 32.4842, -93.7792
+Willow Chute, 32.6642, -93.7475
+Willow Glen, 31.2464, -92.4322
+Willowdale, 30.0058, -90.1947
+Wills Point, 29.7467, -90.0058
+Willswood, 29.9261, -90.2289
+Wilmer, 30.8139, -90.3625
+Wilshire Park, 31.2833, -92.4833
+Wilson, 30.9200, -91.1156
+Wilson Point, 31.1456, -92.2544
+Wilsona, 31.9167, -91.2333
+Wilsonia, 31.9328, -91.3142
+Wilsons Landing, 29.7211, -91.2939
+Wilton, 32.5500, -93.7833
+Windsor, 32.6525, -91.8861
+Winnfield, 31.9253, -92.6394
+Winnsboro, 32.1631, -91.7206
+Wisner, 31.9808, -91.6556
+Womack(Jackson), 32.2381, -92.4728
+Womack(Red River), 32.1881, -93.2422
+Womans Hospital, 30.4433, -91.0906
+Wood Junction, 32.3419, -92.4114
+Wood Lake, 29.8072, -89.7642
+Woodardville, 32.2597, -93.2800
+Woodchuck, 32.3292, -93.6033
+Woodhaven, 30.5833, -90.4833
+Woodland(East Feliciana), 30.9472, -90.9361
+Woodland(Plaquemines), 29.5847, -89.8253
+Woodland Hills Hospital, 32.5161, -92.1950
+Woodlawn(Assumption), 29.9131, -90.9742
+Woodlawn(Jefferson Davis), 30.2928, -92.9583
+Woodlawn(Plaquemines), 29.8667, -89.9500
+Woodlawn(Terrebonne), 29.5539, -90.6725
+Woodside(St Landry), 30.8431, -91.8200
+Woodside(Rapides), 31.2833, -92.4833
+Woodville, 32.4575, -92.6983
+Woodworth, 31.1464, -92.4972
+Worsham Crossing, 31.7606, -92.7239
+Wright(Haire Station), 30.0072, -92.4286
+Wyandotte, 29.6897, -91.1711
+Wyatt, 32.1553, -92.7031
+Yattan, 30.6011, -91.3211
+Yellow Bayou, 30.9911, -91.8406
+Yellow Pine, 32.4769, -93.3242
+Young Landing, 31.7689, -91.5592
+Youngs, 29.9675, -92.1161
+Youngsville, 30.0994, -91.9900
+Yscloskey, 29.8417, -89.6883
+Yucatan Landing, 32.0797, -91.1539
+Zachary, 30.6483, -91.1564
+Zebedee, 32.4667, -91.7500
+Zenora, 31.7461, -92.3367
+Zenoria, 31.7000, -92.1833
+Zimmerman, 31.4156, -92.7028
+Zion, 31.7828, -92.4894
+Zion City, 30.5178, -91.1364
+Zona, 30.7481, -90.0811
+Zwolle, 31.6314, -93.6439
+Zylks, 33.0017, -94.0114

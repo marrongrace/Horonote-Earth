@@ -1,0 +1,274 @@
+Bagdad, 31.4664, -92.5936
+Bains, 30.8306, -91.3867
+Baker, 30.5881, -91.1681
+Bakers, 32.3411, -91.5211
+Baldwin, 29.8378, -91.5442
+Ball, 31.4153, -92.4117
+Balmoral, 32.1147, -91.2239
+Bancker, 29.8850, -92.1242
+Bancroft, 30.5650, -93.6853
+Banker Plantation, 30.1353, -91.7800
+Bankers, 30.1392, -91.7425
+Banks, 30.5500, -91.1667
+Banks Springs, 32.0819, -92.0928
+Baptist, 30.5047, -90.5331
+Barataria, 29.7231, -90.1236
+Barber, 30.6917, -92.4261
+Barbreck, 30.8100, -92.1986
+Barcelona, 31.8525, -91.4228
+Bardel, 32.5508, -91.7575
+Barksdale Air Force Base, 32.5000, -93.6333
+Barmen, 30.1622, -90.8161
+Barnes, 32.3792, -91.1231
+Barnet Springs, 32.5075, -92.6758
+Barnsdall, 30.4806, -92.6550
+Barrett, 31.3669, -92.5133
+Barron, 31.3367, -92.2494
+Barso, 32.7447, -93.7275
+Barton, 30.0861, -91.0544
+Basile, 30.4850, -92.5958
+Baskin, 32.2589, -91.7475
+Baskinton, 32.3111, -91.6806
+Bassa Bassa, 29.3636, -89.9944
+Bastrop, 32.7786, -91.9142
+Bat, 30.7167, -91.8981
+Batchelor, 30.8403, -91.6614
+Bates, 30.4214, -92.3983
+Baton Rouge, 30.4506, -91.1544
+Baton Rouge Medical Center(Bluebonnet Blvd), 30.4425, -91.0006
+Baton Rouge Medical Center(Picardy Ave), 30.4253, -91.0019
+Batree, 30.0000, -90.7864
+Battle, 30.8264, -91.0814
+Bawcomville, 32.4703, -92.1672
+Bayou Barbary, 30.5000, -90.7500
+Bayou Blue, 29.6000, -90.7167
+Bayou Boeuf(Kraemer P O), 29.8692, -90.5967
+Bayou Cane, 29.6333, -90.7500
+Bayou Chene, 30.1408, -91.5369
+Bayou Chicot, 30.8169, -92.3508
+Bayou Corne, 30.0144, -91.1550
+Bayou Crab, 29.8672, -91.0761
+Bayou Current, 30.7975, -91.8017
+Bayou Gauche, 29.7872, -90.4131
+Bayou Geneve, 29.8161, -91.1042
+Bayou Goula, 30.2097, -91.1689
+Bayou Jack, 30.8381, -91.9636
+Bayou Paul, 30.3119, -91.1092
+Bayou Pigeon, 30.2833, -91.2333
+Bayou Sale, 29.7439, -91.4361
+Bayou Sorrel, 30.1617, -91.3356
+Bayou Vista, 29.6894, -91.2708
+Baywood, 30.6908, -90.8831
+Beachview, 29.9833, -90.2500
+Beachwood, 30.8597, -91.3686
+Beal Crossing, 31.7539, -92.6931
+Bear Creek, 32.3144, -92.7586
+Bear Skin, 32.6817, -91.5961
+Beasley Crossing, 31.5672, -93.1308
+Beaud, 30.7067, -91.4933
+Beaulieu, 30.4239, -91.2161
+Beauregard Memorial Hospital, 30.8414, -93.2883
+Beaver, 30.7956, -92.5719
+Bedford, 32.2408, -91.0150
+Bee Bayou, 32.4731, -91.6956
+Beech Springs, 32.3067, -92.6467
+Beekman, 32.9236, -91.8842
+Beggs, 30.6803, -92.0528
+Bel, 30.5197, -93.0844
+Belair, 29.7203, -89.9822
+Belair Cove, 30.6483, -92.2264
+Belcher, 32.7486, -93.8328
+Belfield, 30.3389, -93.2006
+Bell City, 30.1131, -92.9625
+Bell Helene, 30.2000, -91.0167
+Belle Alliance, 30.0511, -91.0203
+Belle Amie, 29.4939, -90.3278
+Belle Chasse, 29.8547, -89.9906
+Belle d'Eau, 31.0842, -92.1917
+Belle Place, 30.0156, -91.7267
+Belle Point, 30.0667, -90.5500
+Belle River, 29.7000, -91.2333
+Belle Rose, 30.0503, -91.0414
+Belle Terre, 30.0694, -91.0158
+Belleview, 30.5333, -92.0833
+Bellevue(Plaquemines), 29.6183, -89.8903
+Bellevue(Bossier), 32.6731, -93.5219
+Bellevue(Calcasieu), 30.1922, -93.0842
+Bellevue(Caldwell), 32.1128, -92.0492
+Bellewood, 29.9067, -91.0681
+Bellfontaine, 30.4500, -91.0667
+Bellview(Caldwell), 32.1000, -92.0833
+Bellview(Jefferson), 29.9000, -90.0500
+Bellview(St Mary), 29.8000, -91.5000
+Bellwood, 31.5272, -93.2053
+Belmont(Sabine), 31.7161, -93.5089
+Belmont(West Baton Rouge), 30.4986, -91.2356
+Belmont(Hester P O), 30.0189, -90.7792
+Belmont Landing, 30.5081, -91.2431
+Bemis, 32.9569, -92.1783
+Bend, 30.0208, -90.7525
+Bennett Bay Landing, 30.9622, -92.4617
+Benson, 31.8661, -93.6936
+Bentley, 31.5156, -92.4881
+Benton, 32.6947, -93.7417
+Berard, 29.9889, -91.7883
+Bermuda, 31.6622, -93.0036
+Bernice, 32.8219, -92.6578
+Bertie, 29.9192, -90.9878
+Bertrandville, 29.7747, -90.0169
+Berwick, 29.6944, -91.2189
+Beshel, 29.5597, -89.7708
+Bessie K, 29.9828, -90.7878
+Bethany, 32.3731, -94.0425
+Bethel, 31.7892, -93.0511
+Bethlehem, 32.0053, -92.7733
+Bickham, 30.8672, -90.2156
+Bienville, 32.3567, -92.9803
+Bienville General Hospital, 32.5536, -92.9131
+Big A Plenty Landing, 31.8942, -91.5719
+Big Bend, 31.0736, -91.7919
+Big Branch, 30.3336, -89.9928
+Big Cane, 30.8203, -92.0094
+Big Creek, 32.2917, -91.7631
+Big Island, 31.3369, -92.1653
+Big Ridge, 32.1000, -92.0833
+Big Woods, 30.2856, -93.5631
+Bijou, 31.1078, -92.2425
+Billeaud, 30.1356, -91.9456
+Billy Goat Hill, 31.0886, -93.2706
+Bird, 30.4742, -91.1231
+Bissonet Plaza, 30.0133, -90.2164
+Bivens, 30.6297, -93.6061
+Black Hawk, 31.1556, -91.6358
+Blackburn, 32.8467, -93.2044
+Blade, 31.6542, -92.0528
+Blairstown, 30.7525, -90.9625
+Blanchard, 32.5808, -93.8925
+Blanche, 30.9200, -92.6122
+Blanks, 30.5531, -91.6003
+Blankston, 32.2419, -92.1322
+Blond, 30.5972, -90.1011
+Blue Lake Landing, 30.9811, -92.4428
+Bluff Creek, 30.7464, -90.8572
+Blume, 32.2714, -92.9903
+Blythwood, 30.1994, -91.2075
+Bob Acres, 29.9483, -91.9653
+Bodcau, 32.5342, -93.5956
+Bodin, 29.8378, -91.6125
+Bodoc, 30.9189, -91.9906
+Boeuf, 29.6611, -91.0961
+Bogalusa, 30.7908, -89.8486
+Bogalusa Community Medical Center, 30.7781, -89.8694
+Bogalusa Mental Health Clinic, 30.7825, -89.8711
+Bohemian, 29.5436, -89.7556
+Bolden, 30.6786, -91.9308
+Boleyn, 31.7333, -93.4000
+Bolinger, 32.9442, -93.6975
+Bolivar, 30.8689, -90.3947
+Bon Air, 30.1906, -93.0256
+Bon Ami, 30.8075, -93.2950
+Bon Secour, 29.9833, -90.8333
+Bon Secours Plantation, 29.9942, -90.8411
+Bonaire, 30.4167, -91.1500
+Bond, 30.6908, -92.6128
+Bonfouca, 30.2689, -89.8444
+Bonham Landing, 32.7556, -94.0369
+Bonita, 32.9192, -91.6769
+Bonnabel Place, 29.9969, -90.1431
+Bonvillain, 29.8000, -91.6686
+Book, 31.3372, -91.8714
+Boothville, 29.3433, -89.4197
+Bordelonville, 31.1053, -91.9072
+Bordenax, 32.5817, -91.7636
+Borgne Mouth, 29.9000, -89.9000
+Borodino, 31.0658, -91.9508
+Bosco, 32.2900, -92.0889
+Boscoville, 30.5292, -92.0247
+Bossier City, 32.5158, -93.7319
+Boston, 29.8831, -92.0556
+Boudreaux(Iberia), 29.9139, -91.7847
+Boudreaux(Terrebonne), 29.4147, -90.7000
+Boudreaux Canal, 29.4500, -90.6000
+Bougere, 31.5833, -91.4333
+Bourg, 29.5533, -90.6022
+Bourgeois Landing, 29.9756, -91.6392
+Boutte, 29.9022, -90.3881
+Bowie(Lafourche), 29.7458, -90.5944
+Bowie(East Carroll), 32.7581, -91.2681
+Boyce, 31.3903, -92.6692
+Braithwaite, 29.8661, -89.9436
+Brake, 30.9228, -91.5439
+Branch, 30.3486, -92.2675
+Brandon(West Feliciana), 30.9042, -91.5189
+Brannon(Iberia), 29.9853, -91.8458
+Brantley Landing, 32.9978, -92.0733
+Breard, 32.5364, -92.0817
+Breaux Bridge, 30.2733, -91.8992
+Breezy Hill, 31.6603, -92.4367
+Breton, 29.4939, -89.1739
+Bridge City, 29.9331, -90.1700
+Bridge Junction, 30.2636, -93.1969
+Brignac, 30.2697, -90.8700
+Brimstone, 30.2494, -93.4019
+Bringhurst, 31.0747, -92.5203
+Bristol, 30.3708, -92.1383
+Brittany, 30.2119, -90.8814
+Broadmoor(East Baton Rouge), 30.4469, -91.0850
+Broadmoor(Orleans), 29.9500, -90.1000
+Broadmoor(Terrebonne), 29.6322, -90.7469
+Bronson, 30.0694, -91.7358
+Brooks, 30.7281, -91.4853
+Brookstown, 30.4933, -91.1283
+Brouillette, 31.2122, -92.0214
+Broussard, 30.1469, -91.9611
+Broussard Landing, 30.3219, -91.1986
+Brousville, 29.9628, -91.9381
+Brown, 32.1775, -93.0508
+Brown Heights, 30.5900, -91.1167
+Brownell, 32.1164, -91.7419
+Brownfields, 30.5500, -91.1667
+Brownlee, 32.5756, -93.7264
+Browns, 30.8047, -91.1125
+Brownsville, 32.4869, -92.1542
+Brownview, 30.7267, -91.5858
+Brownville, 32.1000, -92.0833
+Brule, 29.8219, -90.9686
+Brule Guillot, 29.7833, -90.8333
+Brule Labadie, 29.8333, -90.9500
+Brulie Maurin, 30.0456, -90.9883
+Bruly La Croix, 30.1506, -91.1942
+Bruly McCall, 30.1078, -91.0897
+Bruly Saint Martin, 30.0458, -91.0972
+Bruns, 30.2281, -91.0664
+Brusle Saint Vincent, 29.9597, -91.0703
+Brusly, 30.3942, -91.2536
+Brusly Landing, 30.3833, -91.2331
+Bryceland, 32.4508, -92.9792
+Buckeye, 31.3661, -92.1889
+Buckner, 32.3008, -91.9386
+Bucktown, 30.0147, -90.1411
+Bueche, 30.5708, -91.3483
+Buhler, 30.3328, -93.3619
+Buie, 32.0500, -91.8583
+Bull Run, 29.6533, -90.8736
+Buller, 30.3797, -93.0183
+Bullion, 30.3278, -90.9972
+Buncombe(historical), 32.4581, -93.8456
+Bunkie, 30.9531, -92.1825
+Buras, 29.3517, -89.5242
+Burke, 30.0608, -91.8819
+Burkplace, 32.2500, -93.1667
+Burns, 29.5733, -91.5328
+Burnside, 30.1386, -90.9239
+Burnstown, 31.2822, -92.9347
+Burr Ferry, 31.0667, -93.5000
+Burroughs, 32.1000, -92.0833
+Burrwood, 29.2833, -89.3500
+Burton Landing, 30.1019, -93.3292
+Burton Lane, 30.0244, -90.8406
+Burtville, 30.3322, -91.1344
+Bush, 30.6086, -89.9000
+Bushes, 32.2172, -91.6161
+Bushville, 30.3711, -91.8969
+Butte La Rose, 30.2775, -91.6867
+Bywaters, 29.9667, -90.0667

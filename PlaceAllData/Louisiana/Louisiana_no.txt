@@ -1,0 +1,164 @@
+Naborton, 32.0417, -93.5831
+Naff, 32.9350, -91.9183
+Nairn, 29.4278, -89.6108
+Naka, 30.4883, -92.0897
+Naomi, 29.7100, -89.9922
+Napoleonville, 29.9403, -91.0247
+Napoleonville Junction, 29.7833, -90.8333
+Naquin, 29.7897, -90.8414
+Natalbany, 30.5461, -90.4847
+Natchez, 31.6753, -93.0444
+Natchitoches, 31.7606, -93.0861
+Natchitoches Outpatient Clinic, 31.7803, -93.1022
+Natchitoches Parish Hospital, 31.7525, -93.0778
+Naylor, 32.3478, -93.6536
+Neal Landing, 30.3728, -90.6472
+Neale, 30.7731, -93.4583
+Neame, 30.9744, -93.2817
+Nebo, 31.5886, -92.1417
+Negreet, 31.4692, -93.5747
+Neita, 30.8356, -91.8108
+Nero, 29.6114, -89.8683
+Nesser, 30.3981, -91.0519
+Nestor, 29.4969, -89.6961
+New Belledeau, 31.0500, -92.1167
+New California, 30.8483, -91.7450
+New Era, 31.3669, -91.8272
+New Flanders, 30.1092, -92.0325
+New Friendship, 32.2642, -92.8725
+New Hope, 32.1444, -93.4247
+New Iberia, 30.0033, -91.8186
+New Landgrove Landing, 32.9325, -91.7247
+New Light, 32.2611, -91.7836
+New Moore, 31.8528, -92.5883
+New Orleans, 29.9544, -90.0750
+New Orleans Adolescent Hospital, 29.9169, -90.1256
+New Orleans General Hospital, 29.9219, -90.0728
+New Quarters, 32.1536, -91.4253
+New Roads, 30.7014, -91.4361
+New Sarpy, 29.9778, -90.3878
+New Verda, 31.6922, -92.7642
+Newellton, 32.0725, -91.2408
+Newhlock, 32.7967, -91.8986
+Newhope, 32.6817, -91.5275
+Newlight, 32.1033, -91.4333
+Newllano, 31.1147, -93.2714
+Newton, 30.3114, -93.2003
+Niblett, 30.1028, -92.8536
+Niblett Bluff, 30.1986, -93.6797
+Nicholas, 29.9639, -91.8789
+Nicholls University, 29.7833, -90.8333
+Nichols(historical), 32.4492, -93.8742
+Nickel, 31.8092, -92.0539
+Nina Station, 30.3050, -91.8411
+Nine Forks, 32.5900, -93.2044
+Ninock, 32.2467, -93.4569
+Noble, 31.6894, -93.6839
+Noble Manor, 29.8706, -89.9972
+Nobrac, 30.9728, -92.3972
+Noel, 30.1308, -91.0706
+Noles Landing, 32.4636, -93.3489
+Norah, 29.6139, -90.4911
+Norbert, 29.9789, -91.8969
+Norco, 29.9989, -90.4122
+Norma, 31.0419, -92.1336
+Normandy Park, 29.9000, -90.1500
+North Bend, 29.6825, -91.4697
+North Fort Polk, 31.1144, -93.1678
+North Highlands(Caddo), 32.5692, -93.7897
+North Highlands(East Baton Rouge), 30.4933, -91.1403
+North Hodge, 32.2833, -92.7167
+North Island, 29.7133, -92.7344
+North Maryland, 30.5536, -91.1986
+North Merrydale, 30.4833, -91.1500
+North Monroe, 32.5000, -92.0833
+North Monroe Community Hospital, 32.5767, -92.0719
+North Point, 31.3000, -92.1547
+North Rodessa, 32.9808, -94.0014
+North Shore, 30.2175, -89.8208
+North Shore Beach, 30.2247, -89.8464
+North Shreveport, 32.5500, -93.8000
+North Side, 30.1592, -89.6000
+North Slidell, 30.3044, -89.7781
+Northeast, 32.5000, -92.0833
+Northeast Louisiana Surgical Center, 32.4944, -92.1136
+Northshore Regional Medical Center, 30.2858, -89.7439
+Norton, 32.3331, -93.6964
+Norton Corner, 32.9486, -93.2253
+Norton Shop, 32.9333, -93.3000
+Norwood, 30.9675, -91.1039
+Notleyville, 30.5056, -92.0106
+Notnac, 32.1031, -91.2022
+Nuba, 30.5872, -92.0703
+Nugent(Avoyelles), 30.8631, -91.9561
+Nugent(Grant), 31.4408, -92.4211
+Numa, 29.9767, -91.8917
+Nunez, 29.9911, -92.2286
+Oak Alley, 29.9867, -90.7706
+Oak Dale Landing, 31.8286, -91.5681
+Oak Forest, 29.6314, -90.9328
+Oak Grove(Ascension), 30.3178, -90.9747
+Oak Grove(Sabine), 31.7872, -93.6447
+Oak Grove(Cameron), 29.7567, -93.1139
+Oak Grove(Grant), 31.5833, -92.5333
+Oak Grove(Lincoln), 32.5333, -92.7833
+Oak Grove(West Carroll), 32.8608, -91.3883
+Oak Hills Place, 30.4167, -91.1500
+Oak Landing, 32.9614, -91.7172
+Oak Manor, 30.4500, -91.0667
+Oak Point, 29.7500, -90.0000
+Oak Ridge, 32.6239, -91.7728
+Oakbluff, 29.8000, -91.5000
+Oakdale(Allen), 30.8158, -92.6603
+Oakdale(Jefferson), 29.8833, -90.0833
+Oakland(Pointe Coupee), 30.5944, -91.4089
+Oakland(Bossier), 32.4681, -93.5094
+Oakland(Union), 32.9956, -92.3506
+Oaklawn(St Tammany), 30.2986, -89.9211
+Oaklawn(St Mary), 29.8411, -91.4525
+Oakley(Assumption), 29.8736, -91.0119
+Oakley(Franklin), 31.9981, -91.6197
+Oakley(Iberville), 30.2689, -91.1039
+Oakley Landing, 32.0311, -91.6197
+Oaknolia, 30.7328, -90.9906
+Oaks, 32.9200, -93.1186
+Oakshire Manor, 29.6467, -90.7567
+Oakville, 29.7828, -90.0264
+Oakwood Landing, 32.0606, -91.5747
+Oberlin, 30.6200, -92.7625
+Odenburg, 30.9203, -91.8106
+Odra, 31.5969, -92.8361
+Oil Center, 30.2167, -92.0333
+Oil City, 32.7439, -93.9714
+OK Landing, 31.7694, -91.5606
+Okaloosa, 32.3800, -92.3278
+Old Athens, 32.6456, -93.0575
+Old Lafitte, 29.6833, -90.1000
+Old Shell Beach, 29.8664, -89.6783
+Old Shongaloo, 32.9917, -93.3100
+Oldfield, 30.5000, -90.8500
+Olga, 29.3333, -89.4167
+Olive Branch, 30.7439, -91.0619
+Olivier, 29.9817, -91.7525
+Olla, 31.9028, -92.2431
+Ollie, 29.7428, -90.0175
+Olympic Landing, 31.7578, -91.5506
+Omega(Concordia), 31.5717, -91.8033
+Omega(Madison), 32.5164, -91.1394
+Oneida, 30.0192, -90.7978
+Opelousas, 30.5333, -92.0814
+Orange Grove Plantation, 29.8489, -90.8114
+Orchard, 29.2686, -89.3544
+Oretta, 30.5258, -93.4372
+Ormond, 29.9500, -90.3667
+Oscar, 30.6150, -91.4611
+Osceola(Tangipahoa), 30.6506, -90.3114
+Osceola(Tensas), 31.9694, -91.2528
+Ossun, 30.2758, -92.1122
+Ostrica, 29.3681, -89.5292
+Otis, 31.2153, -92.7278
+Ouachita, 32.7000, -92.0667
+Oubre, 30.0622, -91.7367
+Our Lady of the Lake Regional Medical Center, 30.3953, -91.1064
+Oxford(De Soto), 31.9233, -93.6278
+Oxford(St Mary), 29.8539, -91.4786
