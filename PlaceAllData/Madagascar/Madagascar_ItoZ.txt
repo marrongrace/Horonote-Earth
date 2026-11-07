@@ -3,8 +3,8 @@ Ifanadiana, -21.3167, 47.6500
 Ihorombe, -23.0000, 47.5500
 Ihosy, -22.4000, 46.1333
 Ikalamavony, -21.1500, 46.5833
-Ilaka, -20.3333, 47.1500
-Ilaka, -19.5500, 48.8667
+Ilaka(Fianarantsoa), -20.3333, 47.1500
+Ilaka(Toamasina), -19.5500, 48.8667
 Imanombo, -24.4333, 45.8167
 Imerimandroso, -17.3833, 48.6333
 Isoanala, -23.8333, 45.7333
@@ -31,8 +31,8 @@ Madirobe, -16.0667, 46.2500
 Madirovalo, -16.4333, 46.5000
 Maevatanana, -16.9333, 46.8167
 Mahabe, -17.0833, 45.3333
-Mahabo, -20.3833, 44.6667
-Mahabo, -23.6667, 46.1333
+Mahabo(Menabe,Toliara), -20.3833, 44.6667
+Mahabo(Ihorombe,Toliara), -23.6667, 46.1333
 Mahajanga, -15.7167, 46.3167
 Mahanoro, -19.9000, 48.8000
 Mahasoa, -22.2000, 46.1000
@@ -53,8 +53,8 @@ Mananjary, -21.2167, 48.3333
 Manantenina, -24.2833, 47.3167
 Manapatrana, -21.6667, 47.5833
 Manaravolo, -23.9833, 45.6500
-Mandabe, -20.9167, 45.8167
-Mandabe, -21.0500, 44.9167
+Mandabe(Fianarantsoa), -20.9167, 45.8167
+Mandabe(Toliara), -21.0500, 44.9167
 Mandoto, -19.5667, 46.2833
 Mandritsara, -15.8333, 48.8167
 Mandronarivo, -21.1167, 45.6333
@@ -74,17 +74,17 @@ Maromandia, -14.2167, 48.1333
 Maroseranana, -18.5333, 48.8500
 Marotandrano, -16.1667, 48.8333
 Marotolana, -14.0167, 48.6167
-Marovato, -15.8000, 48.0833
-Marovato, -13.9833, 48.6000
-Marovato, -16.4667, 48.4167
+Marovato(Mahajanga), -15.8000, 48.0833
+Marovato(Antsiranana), -13.9833, 48.6000
+Marovato(Toamasina), -16.4667, 48.4167
 Marovoay, -16.1000, 46.6500
 Marovoay Nord, -16.9500, 44.5667
 Masoala, -15.9833, 50.1667
 Masoarivo, -19.0500, 44.3167
 Masomeloka, -20.2833, 48.6167
 Miandrivazo, -19.5167, 45.4667
-Miarinarivo, -16.6333, 48.2500
-Miarinarivo, -18.9500, 46.9167
+Miarinarivo(Toamasina), -16.6333, 48.2500
+Miarinarivo(Antananarivo), -18.9500, 46.9167
 Miarinavaratra, -20.2167, 47.5167
 Midongy Nord, -20.7500, 46.2167
 Midongy Sud, -23.5833, 47.0167
@@ -99,8 +99,8 @@ Port Bergé, -15.5500, 47.6667
 Port Choiseul, -15.4000, 49.8500
 Poste Ramartina, -19.6333, 45.9667
 Ranohira, -22.4833, 45.4000
-Ranomafana, -18.9500, 48.8333
-Ranomafana, -24.6000, 46.9667
+Ranomafana(Toamasina), -18.9500, 48.8333
+Ranomafana(Toliara), -24.6000, 46.9667
 Ranomena, -23.4167, 47.2833
 Ranopiso, -25.0500, 46.6667
 Ranotsara Nord, -22.8000, 46.6000
