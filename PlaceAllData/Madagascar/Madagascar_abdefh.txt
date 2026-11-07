@@ -28,8 +28,8 @@ Ambinanytelo, -15.3500, 49.5833
 Ambinda, -16.4167, 45.8667
 Ambivy, -21.5167, 44.0333
 Amboahangy, -24.2500, 46.3667
-Amboasary, -25.0333, 46.3833
-Amboasary, -18.4333, 48.2667
+Amboasary(Toliara), -25.0333, 46.3833
+Amboasary(Toamasina), -18.4333, 48.2667
 Ambodifototra, -16.9833, 49.8667
 Ambodilazana, -18.1000, 49.1667
 Ambodiriana, -17.9167, 49.3000
@@ -46,8 +46,8 @@ Ambovombe, -25.1833, 46.0833
 Ampanavoana, -15.6833, 50.3667
 Ampanihy, -24.7000, 44.7500
 Amparafaravola, -17.5833, 48.2167
-Amparihy, -23.9500, 47.3333
-Amparihy, -16.6667, 44.8167
+Amparihy(Fianarantsoa), -23.9500, 47.3333
+Amparihy(Mahajanga), -16.6667, 44.8167
 Ampasibe, -22.9333, 46.9667
 Ampasinambo, -20.5167, 48.0000
 Ampisikina, -12.9500, 49.8167
@@ -107,9 +107,9 @@ Antsakabary, -15.0500, 48.9333
 Antsalova, -18.6667, 44.6167
 Antsenavolo, -21.4000, 48.0500
 Antsiafabositra, -17.3000, 46.9500
-Antsirabe, -19.8500, 47.0333
-Antsirabe, -14.0000, 49.9833
-Antsirabe, -15.9500, 48.9667
+Antsirabe(Antananarivo), -19.8500, 47.0333
+Antsirabe(Antsiranana), -14.0000, 49.9833
+Antsirabe(Mahajanga), -15.9500, 48.9667
 Antsiranana, -12.2667, 49.2833
 Antsirane > Diégo-Suarez, -12.2667, 49.2833
 Antsohihy, -14.8667, 47.9833
@@ -118,14 +118,14 @@ Bandabe, -15.5167, 49.0667
 Basibasy, -22.1667, 43.6667
 Bealanana, -14.5500, 48.7333
 Bebao, -17.3667, 44.5500
-Befandriana, -15.2667, 48.5333
-Befandriana, -22.1000, 43.9000
+Befandriana(Mahajanga), -15.2667, 48.5333
+Befandriana(Toliara), -22.1000, 43.9000
 Befandriana Atsimo, -22.1000, 43.9000
 Befasy, -20.5500, 44.3833
-Befotaka, -14.5333, 48.0167
-Befotaka, -23.8167, 46.9833
-Befotaka, -21.4833, 44.7333
-Befotaka, -13.2500, 48.2667
+Befotaka(Mahajanga), -14.5333, 48.0167
+Befotaka(Fianarantsoa), -23.8167, 46.9833
+Befotaka(Toliara), -21.4833, 44.7333
+Befotaka(Antsiranana), -13.2500, 48.2667
 Bekily, -24.2167, 45.3167
 Bekisopa, -21.6667, 45.9000
 Bekitro, -24.5500, 45.3000
@@ -135,22 +135,22 @@ Belavenona, -24.8333, 47.0667
 Belo, -19.7000, 44.5500
 Belo sur Mer, -20.7333, 44.0000
 Beloha, -25.1667, 45.0500
-Bemarivo, -16.9333, 44.3500
-Bemarivo, -21.7500, 44.7500
+Bemarivo(Mahajanga), -16.9333, 44.3500
+Bemarivo(Toliara), -21.7500, 44.7500
 Bemavo, -21.6167, 45.4000
 Bemolanga, -17.7333, 45.1000
 Benenitra, -23.4500, 45.0833
-Beraketa, -24.1833, 45.7000
-Beraketa, -23.1167, 44.4167
+Beraketa(Bekily), -24.1833, 45.7000
+Beraketa(Sakaraha), -23.1167, 44.4167
 Beramanja, -13.2167, 48.9333
 Beravina, -18.1667, 45.2333
-Berevo, -17.2333, 44.2833
-Berevo, -19.7333, 44.9667
+Berevo(Mahajanga), -17.2333, 44.2833
+Berevo(Toliara), -19.7333, 44.9667
 Beroroha, -21.6833, 45.1667
 Besalampy, -16.7500, 44.5000
 Betafo, -19.8333, 46.8500
-Betioky, -22.4500, 43.7333
-Betioky, -23.7000, 44.3667
+Betioky(Betioky-Atsimo), -22.4500, 43.7333
+Betioky(Commune Area), -23.7000, 44.3667
 Betroka, -23.2667, 46.1000
 Betsioky, -21.5167, 44.4667
 Bevoalavo, -25.2167, 45.4333
@@ -171,9 +171,9 @@ Farafangana, -22.8167, 47.8333
 Farahalana, -14.4333, 50.1667
 Faratsiho, -19.4000, 46.9500
 Faux Cap, -25.5500, 45.5333
-Fenoarivo, -18.4333, 46.5667
-Fenoarivo, -20.8667, 46.8833
-Fenoarivo, -21.7167, 46.4000
+Fenoarivo(Antananarivo), -18.4333, 46.5667
+Fenoarivo(Amoron'i Mania), -20.8667, 46.8833
+Fenoarivo(Haute Matsiatra), -21.7167, 46.4000
 Fenoarivo Atsinanana, -17.3667, 49.4167
 Fianarantsoa, -21.4333, 47.0833
 Fiantsonana, -19.1500, 46.2000
