@@ -1,0 +1,34 @@
+Basse-Pointe, 14.8667, -61.1167
+Bellefontaine, 14.6667, -61.1667
+Carbet, 14.7167, -61.1833
+Case-Pilote, 14.6333, -61.1333
+Diamant, 14.4833, -61.0333
+Ducos, 14.5667, -60.9667
+Fort-de-France, 14.6000, -61.0833
+Grand' Rivière, 14.8667, -61.1833
+Gros-Morne, 14.7167, -61.0167
+La Trinité, 14.7333, -60.9667
+Lamentin, 14.6167, -61.0167
+Le Carbet, 14.7167, -61.1833
+Le Diamant, 14.4833, -61.0333
+Le François, 14.6167, -60.9000
+Le Lamentin, 14.6167, -61.0167
+Le Lorrain, 14.8333, -61.0667
+Le Marin, 14.4667, -60.8833
+Le Prêcheur, 14.8000, -61.2333
+Le Robert, 14.6833, -60.9500
+Le Saint-Esprit, 14.5667, -60.9500
+Le Vauclin, 14.5500, -60.8500
+Les Anses-d'Arlets, 14.4833, -61.0833
+Marin, 14.4667, -60.8833
+Morne-Rouge, 14.7667, -61.1333
+Rivière-Pilote, 14.4833, -60.9000
+Rivière-Salée, 14.5333, -60.9833
+St-Esprit, 14.5667, -60.9500
+St-Joseph, 14.6667, -61.0500
+St-Pierre, 14.7500, -61.1833
+Ste-Anne, 14.4333, -60.8833
+Ste-Luce, 14.4667, -60.9333
+Ste-Marie, 14.7833, -61.0000
+Trinité, 14.7333, -60.9667
+Trois-Îlets, 14.5333, -61.0333
