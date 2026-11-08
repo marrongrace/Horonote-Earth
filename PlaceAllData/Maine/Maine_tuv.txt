@@ -1,0 +1,100 @@
+Tacoma, 44.1922, -69.9697
+Tainter Corner, 44.5875, -70.3658
+Tallwood, 44.3433, -69.9556
+Talmadge, 45.3333, -67.7333
+Tarratine, 45.6169, -69.8489
+Tatnic, 43.2769, -70.6844
+Tattle Corner, 43.4725, -70.4147
+Taylor Hospital, 44.8206, -68.7639
+Tea Kettle Corner, 43.4428, -70.4414
+Temple, 44.6850, -70.2269
+Temple Heights, 44.3453, -68.9508
+Temple Intervale, 44.7069, -70.2581
+Ten Degree, 44.7928, -70.7106
+Tenants Harbor, 43.9672, -69.2086
+Thayer Hospital, 44.5650, -69.6472
+The Crossing, 46.1356, -68.9183
+The Forks, 45.3361, -69.9678
+The Highlands, 45.4811, -69.5850
+The Landing, 45.0736, -70.5883
+The Ledges, 43.8000, -70.2000
+The Pines, 45.1942, -67.9928
+The Ridge, 44.0500, -70.7167
+Thomaston, 44.0789, -69.1822
+Thompson, 44.8567, -69.4378
+Thompson Corner, 44.8550, -69.4750
+Thompson's Point, 43.9667, -70.6167
+Thorndike, 44.5781, -69.2764
+Thorndike Center, 44.5833, -69.2833
+Thornton Heights, 43.6217, -70.3056
+Three Streams, 45.5103, -70.2458
+Thurstons Corner, 44.4669, -69.3383
+Tibbettstown, 44.6500, -67.7333
+Tilton Corner, 44.7922, -69.4922
+Timoney, 46.1203, -68.0972
+Tobeys Corner, 43.1183, -70.7925
+Togus, 44.2744, -69.7036
+Tomah, 45.5464, -67.6503
+Topsfield, 45.4189, -67.7361
+Topsham, 43.9275, -69.9764
+Tory Hill, 43.6053, -70.5367
+Toulouse Corner, 44.6069, -69.6969
+Town Farm Hill, 44.1167, -70.6833
+Town Hill, 44.3986, -68.3342
+Town House Corners, 43.3811, -70.4778
+Town Landing, 43.5447, -70.3336
+Townhouse Corner, 44.3128, -69.0883
+Tracy Corners, 44.6167, -67.7500
+Trafton, 46.6333, -68.4000
+Trainor Corner, 44.2197, -69.6589
+Trap Corner, 44.3314, -70.5558
+Trefethen, 43.6686, -70.1911
+Tremont, 44.2667, -68.3833
+Trenton, 44.4389, -68.3706
+Trevett, 43.8847, -69.6733
+Troutdale, 45.2928, -69.8364
+Troy, 44.6647, -69.2414
+Troy Center, 44.6825, -69.2572
+Trull Hospital, 43.4917, -70.4669
+Tunk Lake, 44.5489, -68.1142
+Turbats Creek, 43.3544, -70.4506
+Turner, 44.2564, -70.2567
+Turner Center, 44.2714, -70.2194
+Turners Corner, 44.0314, -69.4175
+Twelve Corners, 44.4628, -70.1161
+Twin Brook, 45.0256, -69.1061
+Twitchell Corner, 44.6911, -69.3672
+Two Lights, 43.6333, -70.2667
+Two Trails, 43.7319, -70.5903
+Tyler Corner, 44.5928, -69.7600
+Tylers Corner, 43.6400, -70.6092
+Union, 44.2114, -69.2747
+Union Falls, 43.5708, -70.5603
+Unionville, 44.5789, -67.9908
+United States Marine Hospital, 43.6881, -70.2475
+Unity, 44.6111, -69.3350
+Unity College, 44.6667, -69.2333
+Unity Plantation, 44.5333, -69.7167
+Upper Abbot, 45.2050, -69.4642
+Upper Dam, 44.8839, -70.8622
+Upper Frenchville, 47.2800, -68.4250
+Upper Gloucester, 43.9892, -70.2950
+Upper Landing, 43.3294, -70.5672
+Upper Shirley Corner, 45.3753, -69.5958
+Upton, 44.6942, -71.0111
+Van Buren, 47.1572, -67.9358
+Vanceboro, 45.5633, -67.4303
+Varney Corner, 44.1025, -69.9700
+Varney Crossing, 43.2936, -70.7439
+Vassalboro, 44.4592, -69.6781
+Veazie, 44.8386, -68.7058
+Verona, 44.5653, -68.7908
+Verona Park, 44.5525, -68.8017
+Vickerys Corner, 44.4017, -69.1133
+Vienna, 44.5333, -69.9853
+Viking Village, 44.4167, -70.8000
+Villa Vaughn, 44.8972, -68.7625
+Vinalhaven, 44.0481, -68.8322
+Violette, 47.1500, -67.9333
+Violette Settlement, 47.2194, -68.6497
+Virginia, 44.5306, -70.5464

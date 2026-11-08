@@ -1,0 +1,181 @@
+Iceboro, 44.1122, -69.7792
+Indian Island, 44.9333, -68.6667
+Indian Landing, 45.2081, -67.8683
+Indian Point(Hancock), 44.3828, -68.3608
+Indian Point(Washington), 45.1667, -67.2667
+Indian River, 44.5719, -67.6433
+Indian Township Passamaquodd, 45.2167, -67.5667
+Industrial, 46.7000, -68.0000
+Industry, 44.7500, -70.0500
+Ingall's Hill, 44.0500, -70.7167
+Ingalls, 43.9853, -70.7261
+Intervale, 43.9519, -70.2633
+Ireland Corner, 43.8117, -70.3767
+Irish Settlement, 45.6578, -67.9122
+Island Falls, 46.0092, -68.2719
+Island Park, 44.3211, -69.8881
+Isle Au Haut, 44.0753, -68.6339
+Isle of Springs, 43.8500, -69.6333
+Islesboro, 44.3083, -68.9039
+Islesford, 44.2619, -68.2344
+Jackins Settlement, 46.0164, -67.8211
+Jackman, 45.6369, -70.2639
+Jackman Mill, 45.6461, -70.2456
+Jackman Station, 45.6228, -70.2531
+Jackson, 44.6147, -69.1214
+Jacksonville, 44.7606, -67.3958
+Jay, 44.5039, -70.2167
+Jefferson, 44.2067, -69.4531
+Jemtland, 47.0072, -68.1444
+Jenks Landing, 43.7172, -70.1158
+Jewells Corner, 46.3406, -67.8431
+Jewett, 43.2122, -70.7900
+Johnson Corner, 44.9097, -69.3219
+Jones Corner, 44.2608, -69.4606
+Jones Mill, 47.1006, -68.8478
+Jones Wharf, 43.6558, -70.2003
+Jonesboro, 44.6625, -67.5731
+Jonesport, 44.5328, -67.5989
+Jordan Mills, 45.5533, -68.3797
+Joyville, 44.5556, -68.4753
+Jumbo Landing, 45.2144, -67.8764
+Kalers Corner, 44.0958, -69.3850
+Kamankeag, 45.0119, -70.7947
+Katen Corner, 44.9850, -69.2803
+Keegan, 47.1869, -67.9581
+Keenes Corner, 44.2200, -70.0925
+Kellyland, 45.2675, -67.4781
+Kendalls Corner, 44.4517, -69.0867
+Kenduskeag, 44.9194, -68.9322
+Kennard Corner, 43.1267, -70.7969
+Kennebago, 45.1075, -70.7719
+Kennebago Lake, 44.9667, -70.6500
+Kennebago Settlement, 45.1003, -70.5628
+Kennebec, 44.6683, -67.4644
+Kennebunk, 43.3839, -70.5453
+Kennebunk Beach, 43.3450, -70.5028
+Kennebunk Landing, 43.3778, -70.5092
+Kennebunk Lower Village, 43.3667, -70.4833
+Kennebunkport, 43.3617, -70.4772
+Kennedy Corner, 44.1939, -69.4253
+Kennedy Terrace, 47.1500, -67.9333
+Kents Hill, 44.4050, -70.0014
+Keough, 45.5561, -70.5619
+Ketchum, 44.5028, -70.9156
+Keyes Corner, 44.2492, -69.6356
+Kezar Falls, 43.8078, -70.8894
+Kimbles Corner, 43.6847, -70.5658
+Kingfield, 44.9592, -70.1544
+Kingman, 45.5494, -68.2000
+Kings Grant, 43.6333, -70.2667
+Kingsbury, 45.1194, -69.6497
+Kinney Cove, 45.6667, -67.8667
+Kinney Shores, 43.4931, -70.3881
+Kittery, 43.0881, -70.7367
+Kittery Foreside, 43.0861, -70.7439
+Kittery Point, 43.0858, -70.6975
+Knight Corner, 45.0364, -69.1733
+Knights Corner, 44.3356, -69.1786
+Knights Landing, 45.3608, -68.9514
+Knightville, 43.6306, -70.2567
+Knowles Corner, 46.2061, -68.3342
+Knowlton Corner, 44.0481, -69.4864
+Knowltons Corner, 44.6100, -70.1261
+Knox Center, 44.5231, -69.2431
+Knox Corner, 44.5325, -69.2711
+Knox Hill Corner, 44.9886, -69.2583
+Knox Ledge Corner, 44.5572, -69.2186
+Kokadjo, 45.6711, -69.4475
+La Croix Depot, 46.0842, -70.2678
+Lac Frontiere, 46.6953, -69.9939
+Lagrange, 45.1667, -68.8450
+Lake City, 44.2450, -69.0964
+Lake Moxie, 45.3511, -69.8847
+Lake Parlin, 45.5186, -70.0942
+Lake View, 45.3233, -68.9264
+Lakeside Landing, 44.9303, -68.8067
+Lakeville Plantation, 45.3500, -68.0667
+Lakewood(Hancock), 44.6300, -68.4350
+Lakewood(Somerset), 44.8314, -69.7786
+Lamb Place, 45.2503, -67.5233
+Lambert Lake, 45.5500, -67.5333
+Lambs Corner, 44.5028, -69.5594
+Lamoine, 44.4789, -68.3444
+Lamoine Beach, 44.4506, -68.2928
+Langtown Mill, 45.0664, -70.5772
+Larone, 44.6814, -69.7256
+Larrabee, 44.6681, -67.3933
+Lawry, 44.0056, -69.3436
+Leathers Corner, 44.8297, -68.9314
+Lebanon, 43.3944, -70.8514
+Lee, 45.3600, -68.2869
+Leeds, 44.3033, -70.1200
+Leeds Junction, 44.2064, -70.0794
+Levant, 44.8692, -68.9353
+Lewiston, 44.1003, -70.2153
+Lewiston Junction, 44.0461, -70.2989
+Libby Corner, 45.3214, -68.4858
+Libby Hill, 44.1825, -69.8261
+Libbytown, 43.6558, -70.2861
+Liberty, 44.3892, -69.3033
+Liberty Corner, 44.0192, -70.8594
+Ligonia, 43.6375, -70.2928
+Lille, 47.2800, -68.1103
+Limerick, 43.6883, -70.7942
+Limerick Mills, 43.6958, -70.7886
+Limestone, 46.9086, -67.8264
+Limington, 43.7317, -70.7114
+Lincoln, 45.3622, -68.5056
+Lincoln Center, 45.3869, -68.4703
+Lincoln Compact, 45.3667, -68.5000
+Lincoln Mills, 44.9550, -69.2767
+Lincoln Plantation, 44.9333, -71.0333
+Lincolnville, 44.2811, -69.0092
+Lincolnville Center, 44.2978, -69.1081
+Linekin, 43.8392, -69.5917
+Linneus, 46.0386, -67.9606
+Lisbon, 44.0314, -70.1050
+Lisbon Center, 44.0197, -70.0939
+Lisbon Falls, 43.9961, -70.0611
+Litchfield Corners, 44.1331, -69.9656
+Litchfield Plains, 44.1506, -69.9306
+Little Canada, 46.2950, -68.1878
+Little Deer Isle, 44.2864, -68.6964
+Little Diamond Island Landing, 43.6628, -70.2106
+Little Falls, 43.7314, -70.4281
+Little Machias, 44.6472, -67.2419
+Littlefield Corner, 44.0667, -70.2711
+Littlejohn Island, 43.7550, -70.1350
+Littleton, 46.2308, -67.8417
+Livermore, 44.3839, -70.2497
+Livermore Center, 44.4089, -70.1803
+Livermore Falls, 44.4753, -70.1886
+Locke Mills, 44.4000, -70.7025
+Locks Corner, 44.4500, -69.9503
+Long Beach(Cumberland), 43.8414, -70.6217
+Long Beach(York), 43.1672, -70.6228
+Long Island, 43.6842, -70.1717
+Long Island Plantation, 44.1833, -68.3500
+Long Pond, 45.6214, -70.0869
+Longcove, 44.0167, -69.2000
+Lookout, 44.0833, -68.6333
+Loring Air Force Base, 46.9167, -67.8333
+Loudville, 43.9286, -69.4314
+Lovell, 44.1267, -70.8922
+Lowell, 45.1878, -68.4683
+Lowelltown, 45.5139, -70.6453
+Lower Beddington, 44.8014, -68.0464
+Lower Dennysville, 44.9297, -67.2275
+Lower Landing, 43.3194, -70.5703
+Lower Mill, 44.8528, -69.7406
+Lower Shirley Corner, 45.3514, -69.5886
+Lower Village, 43.3578, -70.4803
+Lubec, 44.8606, -66.9847
+Lucas Corner, 44.2833, -69.3344
+Lucerne-in-Maine, 44.6997, -68.6011
+Lucky Landing, 44.9106, -68.8039
+Ludlow, 46.1406, -68.0406
+Lunts Corner, 43.6858, -70.2689
+Lyford Corner, 44.9247, -69.3306
+Lyman, 43.4833, -70.6333
+Lynchville, 44.2442, -70.7850

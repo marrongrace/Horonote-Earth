@@ -1,0 +1,248 @@
+Calais, 45.1889, -67.2792
+Caldwell Corner, 44.1719, -70.4589
+California, 47.0692, -68.1064
+Cambridge, 45.0242, -69.4744
+Camden, 44.2097, -69.0653
+Camp Ellis, 43.4636, -70.3808
+Camp Wavus, 44.1858, -69.4914
+Campbell, 46.7731, -67.9619
+Campbells, 45.1667, -67.2667
+Canaan, 44.7617, -69.5619
+Canton, 44.4406, -70.3158
+Canton Point, 44.4692, -70.2983
+Cape Cottage, 43.6269, -70.2167
+Cape Cottage Woods, 43.6333, -70.2667
+Cape Elizabeth, 43.5636, -70.2006
+Cape Junction, 44.4833, -68.9833
+Cape Neddick, 43.1936, -70.6214
+Cape Porpoise, 43.3725, -70.4386
+Cape Rosier, 44.3314, -68.7994
+Capitol Island, 43.8500, -69.6333
+Caratunk, 45.2339, -69.9906
+Caratunk Plantation, 45.2000, -69.9000
+Cardville, 45.0558, -68.5994
+Caribou, 46.8606, -68.0125
+Carmel, 44.7975, -69.0517
+Carr Corner, 45.0283, -69.2375
+Carrabassett, 45.0778, -70.2125
+Carrabassett Valley, 44.9500, -70.1500
+Carriveau Mill, 47.2161, -68.3686
+Carroll, 45.4144, -68.0386
+Carrs Corner, 44.4400, -69.4094
+Carson, 46.8436, -68.1347
+Carthage, 44.6242, -70.4736
+Carvers Corner, 44.2883, -69.0306
+Cary, 45.9953, -67.8625
+Carys Mills, 46.1019, -67.8728
+Casco, 44.0067, -70.5233
+Cash Corner, 43.6300, -70.2928
+Cass Corner, 44.9036, -69.6994
+Castine, 44.3878, -68.8003
+Castle Harmony, 44.9411, -69.5089
+Castle Hill, 46.7000, -68.2167
+Caswell Plantation, 47.0000, -67.8333
+Cathance, 43.9586, -69.9303
+Cedar, 45.0581, -67.4644
+Cedar Groves, 44.1161, -69.7636
+Center Belmont, 44.3758, -69.1231
+Center Lebanon, 43.4147, -70.9178
+Center Lovell, 44.1794, -70.8925
+Center Minot, 44.1336, -70.3164
+Center Montville, 44.4467, -69.2467
+Center Vassalboro, 44.4100, -69.6306
+Centerville, 44.7056, -67.6794
+Central Landing, 43.7361, -70.1081
+Central Maine Sanatorium, 44.6067, -69.6064
+Chamberlain, 43.8919, -69.4778
+Chambers Corner, 44.0775, -70.5506
+Chandler Cove Landing, 43.7158, -70.1267
+Chapman, 46.6481, -68.1614
+Charles Chase Corner, 43.2942, -70.5894
+Charleston, 45.0850, -69.0411
+Charlotte, 45.0211, -67.2458
+Chase Corner, 44.7475, -70.4386
+Chase Mills, 44.2597, -70.2919
+Chase Mills, 44.7561, -67.3606
+Chases Pond, 43.1881, -70.6525
+Chebeague Island, 43.7408, -70.1086
+Chelsea, 44.2503, -69.7178
+Cherryfield, 44.6072, -67.9264
+Chester, 45.4086, -68.5003
+Chesterville, 44.5511, -70.0867
+Chesuncook, 46.0603, -69.4100
+Chicopee, 43.7006, -70.5539
+China, 44.4786, -69.5178
+Chisholm, 44.4814, -70.2000
+Christmas Cove, 43.8469, -69.5542
+Cider Hill, 43.1556, -70.6892
+City Camp Landing, 45.9003, -68.0828
+City Point, 44.4511, -69.0356
+Clapboard Island, 43.7000, -70.2500
+Clark Island, 43.9922, -69.1828
+Clarks Corner, 44.4044, -69.3267
+Clarks Mill, 43.5789, -70.6036
+Clay Hill, 43.1667, -70.6000
+Clayton Lake, 46.6108, -69.5228
+Cleaves Landing, 43.7061, -70.1425
+Cleveland, 47.2600, -68.2594
+Cliff Island, 43.6961, -70.1083
+Cliff Island Landing, 43.6950, -70.1106
+Clifton, 44.8167, -68.5117
+Clinton, 44.6378, -69.5036
+Clock Farm Corner, 43.4050, -70.4275
+Cobb Cove, 44.0711, -70.5033
+Coburn, 44.8881, -69.2258
+Coburn Gore, 45.2167, -70.5000
+Codyville, 45.4397, -67.6947
+Colby, 46.9003, -68.1364
+Cold Brook, 44.7800, -68.8692
+Cole Corner, 45.1725, -69.5161
+Coles, 44.4536, -69.4969
+Coles Corner, 44.6333, -68.8500
+Columbia, 44.6581, -67.7750
+Columbia Falls, 44.6536, -67.7281
+Concordville, 43.1703, -70.5967
+Connors Corner, 44.3742, -69.2819
+Convene, 43.8878, -70.7289
+Cook Mills, 43.9856, -70.5569
+Cooks Corner(Waldo), 44.6789, -69.2803
+Cooks Corner(Cumberland), 43.9078, -69.9158
+Coolidge Corner, 45.0400, -69.2486
+Cooper, 44.9594, -67.4403
+Coopers Corner, 43.3597, -70.4819
+Coopers Mills, 44.2589, -69.5525
+Coos Canyon, 44.7203, -70.6325
+Coplin Plantation, 45.1000, -70.4667
+Corea, 44.4008, -67.9756
+Corinna, 44.9211, -69.2622
+Corinna Center, 44.9514, -69.2472
+Corinth, 44.9833, -69.0167
+Cornish, 43.8047, -70.8017
+Cornville, 44.8367, -69.6736
+Corson Corner, 44.8994, -69.6028
+Corsons Corner, 44.9797, -69.6822
+Costigan, 45.0128, -68.6400
+Costons Corner, 44.8833, -69.4500
+Cote Corner, 46.8994, -67.8739
+Cousins Island, 43.7589, -70.1442
+Cozy Corners, 43.3439, -70.5622
+Crams Corner, 43.1267, -70.8103
+Cranberry Isles, 44.2483, -68.2608
+Cranes Corners, 44.5492, -68.7419
+Crawford, 45.0528, -67.5519
+Crescent Beach, 44.0681, -69.0692
+Crescent Beach, 43.6333, -70.2667
+Crescent Lake, 43.9861, -70.4775
+Criehaven, 43.8339, -68.8897
+Crocker Turn, 45.0119, -68.4669
+Crockertown, 45.3950, -68.2972
+Crockett Corner, 43.8667, -70.2128
+Crocketts Corner, 43.6300, -70.3122
+Crocketts Neck, 43.0833, -70.6833
+Croperly Turn, 45.6894, -67.8908
+Crossman Corner, 43.9814, -70.0592
+Crouseville, 46.7550, -68.0969
+Crows Nest, 44.3089, -68.9633
+Crystal, 45.9592, -68.3608
+Cumberland Center, 43.7964, -70.2594
+Cumberland Center Station, 43.7758, -70.2544
+Cumberland Foreside, 43.7700, -70.1981
+Cumberland Mills, 43.6814, -70.3436
+Cummings, 43.2397, -70.8169
+Cundys Harbor, 43.7969, -69.8936
+Cupsuptie, 44.9667, -70.7833
+Curtis Corner, 44.2661, -70.0931
+Cushing, 44.0192, -69.2403
+Cushing Briggs, 43.8308, -70.1017
+Cushing Island, 43.6411, -70.2083
+Cutler, 44.6575, -67.2044
+Cutts Island, 43.0908, -70.6656
+Cyr Plantation, 47.1000, -67.9667
+Cyrs, 44.9497, -69.4736
+Daaquam, 46.5983, -70.0117
+Daggett, 46.7000, -68.0000
+Daigle, 47.1894, -68.4614
+Daigle Mill, 47.2364, -68.1247
+Dallas, 44.9969, -70.5564
+Damariscotta, 44.0328, -69.5192
+Damariscotta Mills, 44.0619, -69.5242
+Damascus, 44.8122, -69.0811
+Dane Corner, 44.8156, -69.9714
+Danforth, 45.6603, -67.8689
+Danville(Danville Junction), 44.0222, -70.2661
+Danville Corner, 44.0361, -70.2564
+Dark Harbor, 44.2606, -68.9142
+Davenport Cove, 45.6667, -67.8667
+Davidson, 45.8367, -68.4967
+Davis Corner, 44.1475, -69.3747
+Davis Island, 43.9833, -69.6500
+Davis Town, 45.0872, -70.7861
+Days Ferry, 43.9489, -69.8100
+Days Mill, 43.4578, -70.6097
+Dayton, 43.5500, -70.5833
+Deadmans Corner, 46.5289, -68.0767
+Deadwater, 45.1372, -69.8019
+Deblois, 44.7414, -68.0153
+Decker Corner, 44.6933, -69.5869
+Dedham, 44.6917, -68.6625
+Deep Cut, 43.9103, -70.0150
+Deer Isle, 44.2239, -68.6781
+Deering(Cumberland), 43.6758, -70.2989
+Deering(Aroostook), 46.7000, -68.0000
+Deering Junction, 43.6869, -70.2908
+Delano Park, 43.6161, -70.2142
+Denmark, 43.9703, -70.8039
+Dennistown Plantation, 45.6667, -70.3333
+Dennysville, 44.9036, -67.2292
+Derby, 45.2364, -68.9808
+Detroit, 44.7925, -69.2972
+Dexter, 45.0239, -69.2903
+Dickey, 47.1094, -69.0869
+Dickvale, 44.4856, -70.4808
+Dirigo Corner, 44.4092, -69.5211
+Dixfield, 44.5339, -70.4564
+Dixfield Center, 44.5408, -70.3828
+Dixie Corner, 44.9497, -69.3231
+Dixmont, 44.6803, -69.1633
+Dixmont Center, 44.6894, -69.1208
+Dixon Corner, 44.7117, -69.4939
+Dodge Corner, 44.5444, -68.9778
+Dog Corner, 43.7636, -70.4753
+Dog Corners, 44.7883, -68.2008
+Dog Island Corner, 44.4014, -69.0319
+Dog Town, 44.7231, -67.3800
+Dogtown, 44.7986, -69.3592
+Dolby, 45.6333, -68.6047
+Dolley Corner, 43.8339, -70.4094
+Dorman, 44.6167, -67.8517
+Double A Landing, 44.9003, -68.8031
+Doughty Landing, 43.6986, -70.1517
+Douglas Hill, 43.8797, -70.6997
+Dover, 43.9231, -69.6383
+Dover South Mills, 45.1103, -69.1872
+Dover-Foxcroft, 45.1833, -69.2275
+Dow Airport, 44.8167, -68.7500
+Dow Corner(Cumberland), 43.7200, -70.5908
+Dow Corner(Somerset), 44.9061, -69.3517
+Dow Pines, 44.9531, -68.2839
+Drake Corner, 44.2889, -69.0986
+Drake Place, 45.3683, -68.1319
+Drakes Island, 43.3256, -70.5539
+Dresden Mills, 44.1072, -69.7247
+Drew Plantation, 45.6000, -68.0667
+Drinkwater Corner, 44.1108, -70.0908
+Dry Mills, 43.9192, -70.3586
+Dryden, 44.5867, -70.2103
+Ducktrap, 44.2953, -69.0083
+Dudley, 46.1714, -68.1603
+Dunham Corner, 45.2117, -69.3014
+Dunkertown, 44.0453, -70.5156
+Dunns, 43.8561, -70.2153
+Dunns Corner, 44.4144, -69.9181
+Durbin Corner, 45.0497, -69.1869
+Durgintown, 43.8275, -70.8247
+Durham, 43.9667, -70.1167
+Dyer Brook, 46.0814, -68.1839
+Dyer Corner, 43.8739, -69.9481
+Dyer Cove, 43.8211, -69.9211
+Dyerville, 45.6414, -70.3069

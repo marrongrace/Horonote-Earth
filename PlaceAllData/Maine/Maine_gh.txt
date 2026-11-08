@@ -1,0 +1,225 @@
+Gag Corner, 43.7422, -70.4536
+Gantners Landing, 45.7733, -68.4475
+Gardiner, 44.2300, -69.7758
+Garfield Plantation, 46.6167, -68.4667
+Garland, 45.0383, -69.1608
+Georges River, 44.1167, -69.2500
+Georgetown, 43.8044, -69.7472
+Gerrish Corner, 44.6375, -69.2786
+Gerrishville, 44.4014, -68.1019
+Gerry, 45.0169, -68.8189
+Getchell Corner, 44.4592, -69.6653
+Ghent, 44.3361, -69.2006
+Gilbertville, 44.4569, -70.3072
+Gilead, 44.3942, -70.9733
+Gilford, 45.3642, -68.6689
+Gilman Corner, 45.0964, -69.2697
+Glantz Corner, 43.8428, -70.4003
+Glen Cove, 44.1336, -69.0947
+Glenburn Center, 44.9106, -68.8478
+Glendon, 44.1011, -69.4511
+Glenmere, 43.9514, -69.2583
+Glenwood, 45.7744, -68.1186
+Glenwood Plantation, 45.8000, -68.1000
+Globe, 44.2269, -69.3889
+Goffs Corner, 45.2139, -69.2403
+Good Will Farm, 44.6833, -69.6333
+Goodale Corner, 44.7003, -68.7514
+Goodell Corner, 45.2828, -69.4264
+Goodings, 46.7000, -68.0000
+Goodrich, 46.8453, -67.8475
+Goodrich Corner, 44.7211, -70.0575
+Goodwin(Aroostook), 46.8136, -67.8894
+Goodwin(Hancock), 44.5433, -68.0669
+Goodwin Corner(Kennebec), 44.6197, -69.5769
+Goodwin Corner(Somerset), 44.8189, -69.3083
+Goodwins Mills, 43.5086, -70.5822
+Goose Falls, 44.3533, -68.8100
+Goose Rocks, 44.1353, -68.8322
+Goose Rocks Beach, 43.4022, -70.4097
+Gordon, 45.5300, -68.2847
+Gordon Corner, 45.0331, -69.2017
+Gorham, 43.6794, -70.4447
+Gotts Island, 44.2667, -68.3167
+Gould Corner(York), 43.1739, -70.8100
+Gould Corner(Somerset), 44.8464, -69.6111
+Gould Corner(Cumberland), 44.0700, -70.5436
+Gould Landing(Penobscot), 44.8972, -68.7886
+Gould Landing(Washington), 45.1650, -67.7442
+Goulds Hospital, 44.2236, -69.2028
+Gouldsboro, 44.4783, -68.0389
+Grand Beach, 43.5378, -70.3514
+Grand Falls Plantation, 45.1667, -68.3333
+Grand Isle, 47.3053, -68.1525
+Grand Lake Stream, 45.1794, -67.7750
+Grange Corner, 44.3383, -69.0561
+Granite Hill, 44.2667, -69.7833
+Grants, 45.1033, -70.7503
+Grants Camps, 45.1031, -70.7494
+Grants Turn, 44.2611, -69.1336
+Grass Corner, 46.9142, -67.8742
+Grassy Landing, 46.5669, -68.5858
+Gray, 43.8856, -70.3322
+Grays Corner(Hancock), 44.3803, -68.6603
+Grays Corner(York), 43.3086, -70.6547
+Great Diamond Island, 44.8500, -68.3333
+Great Diamond Island Landing, 43.6706, -70.2003
+Great Pond, 44.9403, -68.2825
+Great Works(Penobscot), 44.9172, -68.6392
+Great Works(York), 43.2197, -70.7978
+Greeley Landing, 45.2511, -69.2372
+Greely Corner, 44.3764, -69.4492
+Green Acre, 43.1119, -70.7958
+Green Lake, 44.6711, -68.5553
+Greenbush, 45.0803, -68.6514
+Greene, 44.1897, -70.1408
+Greene Corner, 44.1781, -70.1683
+Greenfield, 45.0472, -68.4819
+Greenlaw Chopping Landing, 45.1658, -67.7250
+Greenlaw Crossing, 46.6617, -68.6286
+Greenlaws Corner, 44.3747, -69.0308
+Greens Corner, 44.6586, -69.2953
+Greenville, 45.4594, -69.5911
+Greenville Junction, 45.4608, -69.6167
+Greenwood, 44.3183, -70.6514
+Greers Corner, 44.3744, -69.1306
+Gregorys Corner, 44.4928, -69.3075
+Grimes Mill, 46.8464, -67.9436
+Grindstone(Penobscot), 45.7361, -68.5872
+Grindstone(Aroostook), 46.5761, -68.0881
+Grindstone Neck, 44.4000, -68.0833
+Griswold, 46.4097, -68.2986
+Grove, 45.0000, -67.4331
+Groveville, 43.6636, -70.5206
+Growstown, 43.8997, -70.0008
+Guerette, 47.1294, -68.3178
+Guilford, 45.1689, -69.3850
+Guilford Center, 45.1928, -69.3489
+Guillemette, 43.4333, -70.7667
+Guinea Corner, 43.4553, -70.4294
+Guiou, 46.7000, -68.0000
+Gushees Corner, 44.2831, -69.2453
+Hackett Mills, 44.0858, -70.3361
+Haines Corner, 44.4222, -70.1447
+Hale, 44.5900, -70.5619
+Hales Corner, 44.6633, -69.2569
+Hall Corner, 44.2692, -69.5728
+Hall Quarry, 44.3358, -68.3219
+Halldale, 44.5078, -69.2797
+Hallowell, 44.2858, -69.7914
+Halls Corner(Aroostook), 46.1239, -68.3967
+Halls Corner(Waldo), 44.3775, -69.0781
+Halls Mills, 44.7703, -67.2653
+Hamlin, 47.0658, -67.7944
+Hammond Plantation, 46.2167, -67.9500
+Hampden, 44.7444, -68.8375
+Hampden Center, 44.7489, -68.8872
+Hampden Highlands, 44.7322, -68.8417
+Hampden Station, 44.7464, -68.8647
+Hancock, 44.5292, -68.2542
+Hancock Point, 44.4694, -68.2314
+Hanford, 46.9133, -68.2594
+Hanover, 44.4967, -70.6947
+Happy Corner, 45.1689, -69.5744
+Harborside, 44.3489, -68.8153
+Harding, 43.9125, -69.8767
+Hardy, 45.3311, -68.8203
+Hardy Hill, 44.7556, -68.8200
+Harmon Beach, 43.8044, -70.5497
+Harmons Corner, 44.0397, -70.2231
+Harmony, 44.9739, -69.5467
+Harpswell Center, 43.8017, -69.9847
+Harrimans Point, 44.0000, -69.6667
+Harrington, 44.6192, -67.8108
+Harrington Corner, 44.0733, -69.4953
+Harrison, 44.1103, -70.6797
+Hartford, 44.3728, -70.3472
+Hartland, 44.8833, -69.4481
+Harts Neck, 43.9667, -69.2000
+Harvey, 46.3467, -67.9081
+Harwards, 44.0342, -69.8272
+Haseltine Corner, 45.0700, -69.2383
+Haskell Corner, 44.0775, -70.2919
+Hastings, 44.3547, -70.9906
+Hasty Corner, 44.8242, -69.2578
+Hatchs Corner, 44.0478, -69.7619
+Haven, 44.2664, -68.5869
+Hawkins, 46.3783, -68.2822
+Hay Brook, 45.7656, -68.5742
+Hayden Corner, 44.5247, -69.6194
+Hayden Landing, 45.3075, -70.1789
+Hayford Corner, 44.4111, -69.0722
+Haynesville, 45.8261, -67.9917
+Head of the Tide, 44.4486, -69.0544
+Head of Tide, 44.4333, -69.0167
+Head Tide, 44.1144, -69.6219
+Heads Corner, 43.9781, -70.7844
+Heals Corner, 44.3222, -69.0708
+Hebron, 44.1981, -70.4069
+Hendricks Harbor, 43.8167, -69.6833
+Hermon, 44.8100, -68.9139
+Hermon Center, 44.7964, -68.8883
+Hermon Pond, 44.7828, -68.9556
+Heron Island, 43.8303, -69.5675
+Herricks, 44.3153, -68.7067
+Herricks Corner, 44.3553, -69.0133
+Hersey, 46.0667, -68.3833
+Hibberts Corner, 44.3042, -69.4078
+Hicks Corner, 45.0481, -69.0978
+Higgins Beach, 43.5600, -70.2803
+Higgins Corner(Cumberland), 43.7375, -70.6344
+Higgins Corner(Androscoggin), 44.0389, -70.0342
+Higginsville, 44.9386, -68.9536
+High Landing(Penobscot), 45.7892, -68.4539
+High Landing(Aroostook), 46.8364, -68.6969
+High Pasture, 43.2303, -70.5856
+Highland, 44.1167, -69.2500
+Highland Lake, 43.7436, -70.3553
+Highland Lake Vista, 43.7333, -70.4333
+Highland Park, 44.0431, -70.9419
+Highland Plantation, 45.0500, -70.0833
+Highlands, 43.6683, -70.2914
+Highpine, 43.3558, -70.6544
+Hildreths Mill, 44.6739, -70.3694
+Hill, 46.2731, -67.8419
+Hillman, 46.2047, -68.1606
+Hills Beach, 43.4583, -70.3786
+Hillside, 43.9458, -70.7161
+Hinckley, 44.6856, -69.6331
+Hiram, 43.8786, -70.8039
+Hobbs Crossing, 43.3675, -70.6347
+Hodgdon, 46.0539, -67.8672
+Hodgdon Corners, 46.0422, -67.8597
+Holden, 44.7528, -68.6794
+Holeb, 45.5772, -70.4569
+Holiday Beach, 44.0750, -69.0561
+Hollandville, 43.6833, -70.8000
+Hollis Center, 43.6050, -70.5936
+Holmes Mill, 44.4447, -69.0617
+Holway Corner, 44.6339, -69.6803
+Hope, 44.2650, -69.1594
+Houghton, 44.7650, -70.6500
+Houghtonville, 46.8419, -67.8753
+Houlton, 46.1261, -67.8408
+Houston Corner, 44.7950, -69.3386
+Howard Corner, 45.1661, -69.3058
+Howe Brook, 46.3050, -68.1947
+Howes Corner, 44.3319, -70.2186
+Howes Corners, 44.7667, -69.2167
+Howland, 45.2386, -68.6642
+Hoxies, 44.6506, -69.7422
+Hoyttown, 44.7228, -67.4450
+Hudson, 45.0011, -68.8811
+Huff Corner, 45.0753, -69.6078
+Hulls Cove, 44.4192, -68.2511
+Hunnewell Hill, 43.5833, -70.3500
+Huntington Mill, 45.1067, -68.9303
+Hunts Corner, 44.3019, -70.7497
+Hurd, 46.8447, -67.9519
+Hurd Corner(Piscataquis), 45.1283, -69.1864
+Hurd Corner(Somerset), 44.8047, -69.3136
+Hurds Corner(Hancock), 44.6156, -68.5267
+Hurds Corner(Waldo), 44.3536, -69.0525
+Huson Landing, 46.5125, -68.1942
+Hutchins Corner(Piscataquis), 45.0336, -69.6178
+Hutchins Corner(Waldo), 44.4847, -69.3778

@@ -1,0 +1,208 @@
+E Plantation, 46.4833, -67.9333
+Eagle Island, 44.2000, -68.7000
+Eagle Lake, 47.0400, -68.5900
+Earley Landing, 45.3044, -69.3514
+Earnest Corner, 45.0328, -69.1353
+East Andover, 44.6161, -70.7153
+East Auburn, 44.1428, -70.2275
+East Baldwin, 43.8000, -70.6667
+East Baldwin Mattocks Station, 43.8031, -70.6786
+East Bangor, 44.8528, -68.8128
+East Benton, 44.5833, -69.4722
+East Bethel, 44.4669, -70.7139
+East Blue Hill, 44.4175, -68.5231
+East Boothbay, 43.8650, -69.5869
+East Brownfield, 43.9447, -70.8889
+East Buckfield, 44.2942, -70.3258
+East Bucksport, 44.6744, -68.7025
+East Corinth, 45.0025, -69.0242
+East Deering, 43.6819, -70.2567
+East Denmark, 43.9914, -70.7742
+East Dixfield, 44.5733, -70.3042
+East Dixmont, 44.6706, -69.0706
+East Dover, 45.1867, -69.1706
+East Eddington, 44.7919, -68.5833
+East Edgecomb, 43.9439, -69.6003
+East Eliot, 43.1506, -70.7628
+East End, 43.6650, -70.2481
+East Exeter, 44.9608, -69.1019
+East Franklin, 44.5681, -68.1953
+East Friendship, 44.0086, -69.2969
+East Fryeburg, 44.0436, -70.8739
+East Gray, 43.8889, -70.2942
+East Hampden, 44.7706, -68.7956
+East Harpswell, 43.8336, -69.8989
+East Hebron, 44.2244, -70.3189
+East Hiram, 43.8811, -70.7917
+East Hodgdon, 46.0914, -67.8089
+East Holden Station, 44.7375, -68.6336
+East Knox, 44.5067, -69.2128
+East Lamoine, 44.4647, -68.3169
+East Lebanon, 43.4125, -70.8678
+East Limington, 43.7339, -70.6583
+East Livermore, 44.4131, -70.1444
+East Lowell, 45.2050, -68.4536
+East Lyndon, 46.8325, -67.9397
+East Machias, 44.7392, -67.3906
+East Madison, 44.8494, -69.7569
+East Madrid, 44.9106, -70.3847
+East Mercer, 44.6806, -69.8917
+East Millinocket, 45.6275, -68.5750
+East Milton, 44.4544, -70.5994
+East Monmouth, 44.2428, -69.9789
+East New Portland, 44.9017, -70.0239
+East Newport, 44.8208, -69.2231
+East Northport, 44.3819, -68.9806
+East Orland, 44.5667, -68.6803
+East Orrington, 44.7356, -68.7681
+East Otisfield, 44.0944, -70.5261
+East Palermo, 44.3703, -69.3922
+East Parsonsfield, 43.7333, -70.8439
+East Peru, 44.4883, -70.3794
+East Pittston, 44.1742, -69.6736
+East Poland(Empire Rd Station), 44.0706, -70.3286
+East Raymond, 43.9342, -70.4433
+East Sangerville, 45.1525, -69.2919
+East Sebago, 43.8553, -70.6400
+East Steuben, 44.5028, -67.9261
+East Stoneham, 44.2503, -70.8131
+East Sullivan, 44.5036, -68.1528
+East Sumner, 44.3567, -70.3769
+East Surry, 44.4969, -68.4439
+East Sweden, 44.1444, -70.7811
+East Thorndike, 44.5917, -69.2017
+East Troy, 44.6706, -69.2061
+East Union, 44.2131, -69.2236
+East Vassalboro, 44.4478, -69.6064
+East Wales, 44.1575, -70.0411
+East Warren, 44.1322, -69.2008
+East Waterboro, 43.5714, -70.6794
+East Waterford, 44.2117, -70.6825
+East Wilton, 44.6158, -70.1933
+East Windham, 43.7333, -70.4333
+East Winn, 45.4258, -68.3069
+East Winslow, 44.5442, -69.5386
+East Winthrop, 44.3217, -69.8969
+Eastbrook, 44.6786, -68.2650
+Eastern Maine Medical Center, 44.8083, -68.7514
+Easton, 46.6411, -67.9100
+Easton Center, 46.6439, -67.8672
+Easton Station, 46.6611, -67.9103
+Eastport, 44.9061, -66.9906
+Eaton, 45.6053, -67.8061
+Eddington, 44.8261, -68.6939
+Eden, 44.4308, -68.3214
+Edes Corner, 45.2114, -69.3881
+Edes Falls, 43.9989, -70.5692
+Edgecomb, 43.9583, -69.6311
+Edinburg, 45.1833, -68.6667
+Edmunds, 44.8719, -67.1647
+Eggemoggin, 44.3061, -68.7342
+Egypt, 44.5589, -68.2814
+Eight Corners, 43.6186, -70.3450
+Eliot, 43.1531, -70.8006
+Elizabeth Park, 43.5939, -70.2358
+Ellingswood Corner, 44.6333, -68.8500
+Ellingwood Corner, 44.6750, -68.9189
+Elliot Landing, 44.8936, -68.7728
+Elliottsville Plantation, 45.4000, -69.4333
+Ellis Corner, 44.9653, -69.2525
+Ellis Corner, 44.8028, -69.8300
+Ellis Pond, 44.6167, -70.5833
+Ellsworth, 44.5433, -68.4200
+Ellsworth Falls, 44.5622, -68.4392
+Elmore, 43.9603, -69.1964
+Elms, 43.3411, -70.5644
+Elmwood, 43.7225, -70.5672
+Elsemore Landing, 45.1811, -67.8986
+Embden, 44.9181, -69.8672
+Emerson Corner, 44.7986, -69.4747
+Emery Mills, 43.4944, -70.8436
+Emerys Bridge, 43.2464, -70.7275
+Emerys Corner, 43.7256, -70.7625
+Emory Corner, 43.6122, -70.5414
+Empire, 44.0539, -70.3247
+Enfield, 45.2489, -68.5689
+English, 46.7000, -68.0000
+Epping, 44.6819, -67.7667
+Estabrook Settlement, 45.9203, -67.8850
+Estcourt, 47.4594, -69.2253
+Estes Hill, 43.3708, -70.8014
+Estes Lake, 43.4333, -70.7667
+Etna, 44.8208, -69.1117
+Etna Center, 44.7867, -69.1064
+Eugley Corner, 44.0667, -69.4011
+Eustis, 45.2172, -70.4789
+Evans Corner, 44.4906, -69.1003
+Evergreen Landing, 43.6733, -70.1878
+Exeter Center, 44.9700, -69.1406
+Exeter Corners, 44.9864, -69.1442
+Exeter Mills, 44.9700, -69.0792
+Fairbanks, 44.7031, -70.1633
+Fairfield, 44.5883, -69.5992
+Fairfield Center, 44.6061, -69.6633
+Fairmount, 46.6964, -67.8681
+Falmouth, 43.7294, -70.2425
+Falmouth Foreside, 43.7347, -70.2083
+Farmingdale, 44.2444, -69.7719
+Farmington, 44.6706, -70.1517
+Farmington Falls, 44.6208, -70.0758
+Farwells Corner, 44.5772, -69.3083
+Fayette, 44.4089, -70.0342
+Fayette Corner, 44.4206, -70.0725
+Felch Corner, 43.6789, -70.7867
+Fernald Shore, 43.4339, -70.9581
+Ferry Beach, 43.4711, -70.3864
+Feylers Corner, 44.1372, -69.3711
+Five Corners(York), 43.3281, -70.7658
+Five Corners(Somerset), 44.9167, -69.4167
+Five Islands, 43.8239, -69.7117
+Five Mile Corners, 44.5589, -68.7031
+Five Points, 43.4831, -70.4711
+Flanders Corner, 44.1900, -69.4047
+Flat Landing, 44.3586, -68.7700
+Fletcher Field, 45.0350, -67.8908
+Fletchers Landing, 44.6056, -68.3933
+Foggs Corner(Androscoggin), 44.1603, -70.1844
+Foggs Corner(Cumberland), 43.9372, -70.2483
+Forest, 45.5711, -67.7283
+Forest City, 45.6597, -67.7303
+Forest City Landing, 45.6592, -67.7042
+Foristall Corners, 43.2131, -70.6647
+Fort Baldwin, 43.7489, -69.7886
+Fort Edgecomb, 43.9947, -69.6581
+Fort Fairfield, 46.7722, -67.8344
+Fort George, 44.3908, -68.8058
+Fort Gorges, 43.6628, -70.2217
+Fort Hill, 43.4833, -70.4500
+Fort Kent, 47.2586, -68.5900
+Fort Kent Mills, 47.2389, -68.5844
+Fort Kent Village, 47.2456, -68.6081
+Fort Levett, 43.6431, -70.1958
+Fort Lyon, 43.6914, -70.1847
+Fort Popham, 43.7550, -69.7839
+Fort Preble, 43.6483, -70.2264
+Fort Scammel, 43.6503, -70.2133
+Fort Williams, 43.6333, -70.2667
+Fortunes Rocks, 43.4242, -70.3783
+Fosters Corner(Cumberland), 43.8036, -70.4075
+Fosters Corner(Waldo), 44.4975, -69.1889
+Four Corners, 46.8781, -67.8253
+Four Corners, 43.3544, -70.5058
+Fournier, 47.3467, -68.2622
+Fowler Landing, 44.7781, -68.9375
+Frankfort, 44.6097, -68.8772
+Franklin, 44.5869, -68.2328
+Franklin Road, 44.5394, -68.3189
+Freedom, 44.5303, -69.2983
+Freeport, 43.8569, -70.1036
+French Mill, 44.9517, -69.1367
+French Settlement, 44.9697, -68.7267
+Frenchboro, 44.1181, -68.3631
+Frenchs Corner, 44.2364, -69.8878
+Frenchville, 46.6811, -68.3336
+Friendship, 43.9836, -69.3344
+Frye, 44.6214, -70.5806
+Fryeburg, 44.0164, -70.9811
+Fryeburg Center, 44.0694, -70.9453
+Fryeburg Harbor, 44.0167, -70.9833

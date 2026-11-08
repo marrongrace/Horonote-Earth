@@ -1,0 +1,294 @@
+Sabattus, 44.1197, -70.1081
+Sabbathday Lake, 44.0333, -70.3667
+Sabino, 43.8547, -69.8636
+Saco, 43.5008, -70.4433
+Sagamore Village, 43.6769, -70.3217
+Salem, 44.9006, -70.2786
+Salmon Falls(York), 43.5961, -70.5542
+Salmon Falls(Washington), 45.1667, -67.2667
+Salsbury Cove, 44.4306, -68.2842
+Sanborn Corner, 44.8786, -69.3347
+Sanderson Corners, 44.4289, -70.0531
+Sandhill Corner, 44.3097, -69.4586
+Sandy Beach, 44.9214, -68.8069
+Sandy Brook, 43.5472, -70.4886
+Sandy Creek, 44.0217, -70.7083
+Sandy Point, 44.5147, -68.8133
+Sandy River, 44.7261, -69.8861
+Sandy River Beach, 44.5333, -67.6167
+Sandy River Plantation, 44.9167, -70.5500
+Sanford, 43.4392, -70.7747
+Sangerville, 45.1647, -69.3569
+Saponac, 45.1708, -68.3186
+Sargentville, 44.3014, -68.6731
+Saunders, 46.7000, -68.0000
+Sawpit Corner, 44.3072, -69.3008
+Sawyer Corner, 46.7681, -67.9408
+Saywards Corner, 43.3622, -70.6692
+Scarborough, 43.5781, -70.3222
+Schoodic(Piscataquis), 45.4356, -68.9594
+Schoodic(Hancock), 44.5631, -68.1450
+Scituate, 43.1683, -70.6786
+Scotland(Cumberland), 43.7906, -70.3561
+Scotland(York), 43.1619, -70.7069
+Scott, 46.7000, -68.0000
+Scribners Mill, 44.0858, -70.6067
+Seabury, 43.1233, -70.6517
+Seal Cove, 44.2858, -68.3992
+Seal Harbor, 44.3031, -68.2408
+Sealand, 44.5075, -67.5461
+Searsmont, 44.3617, -69.1956
+Searsport, 44.4583, -68.9247
+Seavey Island, 43.0808, -70.7350
+Seaveys Corner, 44.5247, -70.0342
+Seawall, 44.2528, -68.2956
+Seaward Mills, 44.4025, -69.6369
+Sebago Center, 43.8919, -70.6989
+Sebago Lake, 43.7608, -70.5261
+Sebasco, 43.7817, -69.8683
+Sebasco Estates, 43.7667, -69.8600
+Sebec, 45.2714, -69.1172
+Sebec Corners, 45.2297, -69.1022
+Sebec Lake, 45.2997, -69.3389
+Seboeis, 45.3631, -68.7117
+Seboomook, 45.8806, -69.7256
+Sedgwick, 44.3036, -68.6167
+Selden, 45.7725, -67.9075
+Sennetts Corner, 44.4883, -69.4422
+Shady Nook, 43.6133, -70.9258
+Shaker Village, 43.9867, -70.3706
+Shapleigh, 43.5406, -70.8486
+Sharp, 46.2867, -67.8428
+Shaw Mills, 43.7403, -70.5222
+Shawmut, 44.6278, -69.5869
+Sheepscot, 44.0494, -69.6067
+Shepherds Hill, 43.0983, -70.7394
+Sheridan, 46.6572, -68.4056
+Sherman, 45.8711, -68.4183
+Sherman Mills, 45.8731, -68.3853
+Sherman Station, 45.8992, -68.4300
+Shermans Corner, 44.4581, -69.0069
+Shermans Mill, 44.2794, -69.2353
+Sherwood Acres, 43.6333, -70.2667
+Shiloh, 43.9761, -70.0469
+Shin Pond, 46.1053, -68.5572
+Shirley, 45.3667, -69.6167
+Shirley Mills, 45.3656, -69.6186
+Shore Acres, 43.6333, -70.2667
+Shorey, 46.2269, -68.1500
+Shy Corner, 44.4628, -70.1794
+Siberia, 45.8758, -68.4639
+Sibley Corner, 44.5056, -69.3550
+Sidney, 44.4131, -69.7294
+Silver Ridge, 45.8064, -68.3253
+Silvers Mills, 45.0850, -69.2450
+Simonton Corners, 44.1958, -69.1039
+Simpsons Corner, 44.4175, -69.0431
+Sinclair, 47.1667, -68.2700
+Six Mile Falls, 44.8592, -68.8286
+Skerry, 46.6975, -68.4847
+Skillings Corner, 44.1989, -70.2739
+Skinner, 45.5281, -70.5958
+Skowhegan, 44.7650, -69.7197
+Slab City(Waldo), 44.3039, -69.0561
+Slab City(Oxford), 44.2111, -70.8692
+Small Point, 43.7381, -69.8408
+Small Point Beach, 43.7208, -69.8372
+Smarts Corner, 44.6761, -69.2944
+Smith Crossing, 44.5394, -70.5239
+Smith Landing, 44.8017, -67.6008
+Smithfield, 44.6303, -69.8300
+Smiths Mills, 43.7667, -70.5333
+Smithton, 44.4775, -69.3353
+Smithville, 44.5369, -67.9578
+Smyrna Center, 46.1600, -68.1019
+Smyrna Mills, 46.1294, -68.1647
+Snow Corner, 44.8247, -68.8914
+Snow Settlement, 46.4122, -67.8117
+Sodom, 43.8231, -70.1608
+Sodom, 44.1853, -70.6336
+Soldier Pond, 47.1561, -68.5764
+Solon, 44.9494, -69.8589
+Somers Corner, 46.8767, -67.9167
+Somerset Junction, 45.6072, -69.7981
+Somerville, 44.3092, -69.4894
+Somerville Plantation, 44.3000, -69.4667
+Somesville(Mount Desert PO), 44.3622, -68.3347
+Songo Lock, 43.9325, -70.5706
+Sorrento, 44.4733, -68.1778
+Soule Mill, 44.9433, -70.2272
+Sound, 44.3667, -68.3333
+South Acton, 43.5050, -70.9036
+South Addison, 44.5133, -67.7172
+South Albion, 44.5028, -69.4861
+South Andover, 44.5939, -70.7372
+South Arm, 44.7553, -70.8461
+South Bancroft, 45.7208, -67.9858
+South Berwick, 43.2344, -70.8100
+South Blue Hill, 44.3539, -68.5492
+South Brewer, 44.7703, -68.7806
+South Bridgton, 43.9914, -70.7086
+South Bristol, 43.8639, -69.5617
+South Brooksville, 44.3417, -68.7397
+South Buxton, 43.6206, -70.4792
+South Casco, 43.9147, -70.5183
+South China, 44.3956, -69.5717
+South Corinth, 44.9689, -68.9744
+South Cushing, 43.9944, -69.2811
+South Deer Island, 44.1939, -68.6631
+South Dover, 45.1433, -69.1383
+South Dresden, 44.0492, -69.7725
+South Durham, 43.9419, -70.0747
+South Effingham, 43.7019, -70.9822
+South Eliot, 43.1081, -70.7781
+South Etna, 44.8167, -69.1167
+South Exeter, 44.9439, -69.1389
+South Freeport, 43.8197, -70.1100
+South Gardiner, 44.1800, -69.7572
+South Gorham, 43.6411, -70.4206
+South Gouldsboro, 44.4297, -68.1081
+South Gray, 43.8486, -70.3222
+South Hancock, 44.5006, -68.2556
+South Harpswell, 43.7417, -70.0150
+South Hiram, 43.8128, -70.8781
+South Hollis, 43.5697, -70.6333
+South Hope, 44.2144, -69.1922
+South Jefferson, 44.1639, -69.5475
+South Lagrange, 45.1161, -68.8156
+South Lebanon, 43.3375, -70.9428
+South Leeds, 44.2533, -70.1314
+South Levant, 44.8575, -69.0111
+South Lewiston, 44.0656, -70.1431
+South Liberty, 44.3233, -69.3594
+South Limington, 43.7086, -70.7000
+South Lincoln, 45.3344, -68.5822
+South Livermore, 44.3683, -70.2056
+South Lubec, 44.8242, -66.9933
+South Monmouth, 44.1817, -69.9931
+South Montville, 44.3744, -69.2675
+South Naples, 43.9275, -70.6142
+South Newburgh, 44.6897, -69.0122
+South Newcastle, 44.0031, -69.6128
+South Orland, 44.5067, -68.7594
+South Orrington, 44.6933, -68.8178
+South Paris, 44.2236, -70.5139
+South Parsonsfield, 43.6958, -70.9003
+South Penobscot, 44.4508, -68.7031
+South Poland, 44.0228, -70.3653
+South Portland, 43.6414, -70.2414
+South Portland Gardens, 43.6389, -70.3158
+South Portland Heights, 43.6333, -70.2667
+South Princeton, 45.1494, -67.5008
+South Rangeley, 44.9375, -70.7500
+South Robbinston, 45.0572, -67.1206
+South Rumford, 44.5258, -70.5347
+South Sanford, 43.4111, -70.7431
+South Sebec, 45.2081, -69.0842
+South Side, 43.1344, -70.6806
+South Solon, 44.9131, -69.7789
+South Springfield, 45.3661, -68.0964
+South Standish, 43.6667, -70.6000
+South Strong, 44.7669, -70.2100
+South Surry, 44.4125, -68.4628
+South Thomaston, 44.0514, -69.1283
+South Trescott, 44.7692, -67.0747
+South Turner, 44.2125, -70.2358
+South Union, 44.1969, -69.2642
+South Vassalboro, 44.3850, -69.6156
+South Waldoboro, 44.0414, -69.3303
+South Warren, 44.0756, -69.2233
+South Waterford, 44.1664, -70.7172
+South West Bend, 43.9806, -70.1261
+South Windham, 43.7361, -70.4242
+South Windsor, 44.2792, -69.5992
+South Woodstock, 44.3547, -70.5578
+South Woodville, 45.4847, -68.4833
+Southport, 43.8408, -69.6592
+Southwest Harbor, 44.2797, -68.3256
+Spang Mills, 43.4789, -70.6358
+Spaulding, 46.8781, -68.2406
+Spears Corner, 44.2044, -69.8839
+Split Hill, 44.8269, -67.0433
+Spooners Mill, 45.0075, -69.2675
+Sprague City, 43.6261, -70.8400
+Sprague Corner, 44.0683, -69.4417
+Sprague Mill, 44.1939, -70.1161
+Spragues Mill, 44.9119, -69.2489
+Spragueville, 46.6272, -68.0131
+Spring Lake, 45.2300, -70.2850
+Spring Lake Landing, 45.2508, -70.2236
+Springfield, 45.3961, -68.1361
+Springvale, 43.4667, -70.7942
+Spruce Head, 44.0114, -69.1333
+Spruce Point, 43.8500, -69.6333
+Spruce Shores, 43.8281, -69.5961
+Spurrs Corner, 44.0564, -70.5567
+Squa Pan, 46.5631, -68.3786
+Squirrel Island, 43.8000, -69.6333
+St Agatha, 47.2431, -68.3142
+St Albans, 44.9100, -69.4106
+St Andres Hospital, 43.4778, -70.4153
+St Croix Junction, 45.1489, -67.2939
+St David, 47.3394, -68.2319
+St Francis, 47.1711, -68.8903
+St Francis College, 43.4833, -70.4500
+St George, 44.0164, -69.1994
+St John, 47.2083, -68.8078
+St John Plantation, 47.2167, -68.7667
+St Joseph Hospital, 44.8142, -68.7733
+St Josephs College, 43.8333, -70.4333
+Stacyville, 45.8636, -68.5058
+Standish, 43.7358, -70.5525
+Stanwood Park, 43.6197, -70.2700
+Starbird Corner, 44.0839, -69.9842
+Starbirds, 45.1358, -69.2347
+Starboard, 44.6108, -67.3972
+Starks, 44.7306, -69.9667
+State Road, 46.7311, -68.1528
+Steadman Landing, 45.2594, -69.2053
+Stebbins, 46.7667, -67.8333
+Steep Falls, 43.7939, -70.6531
+Steep Landing, 44.7881, -68.1675
+Stephensons Landing, 45.7008, -68.9792
+Stetson, 44.8917, -69.1433
+Steuben, 44.5106, -67.9658
+Stevens Corner(York), 43.6572, -70.9675
+Stevens Corner(Waldo), 44.2806, -69.0461
+Stevens Mill, 44.0878, -70.2625
+Stevensville, 46.7961, -67.8650
+Stickney Corner, 44.2453, -69.3825
+Stillwater, 44.9083, -68.6869
+Stillwater Avenue, 44.8406, -68.7450
+Stockholm, 47.0422, -68.1400
+Stockton Springs, 44.4894, -68.8575
+Stoneham, 44.2667, -70.8500
+Stones Corner, 44.5025, -70.1789
+Stonington, 44.1561, -68.6672
+Stores Corner, 45.1314, -68.8914
+Stover Corner, 44.4053, -68.7467
+Stovers Corner, 44.3300, -69.2617
+Stow, 44.1606, -70.9856
+Stratton, 45.1411, -70.4411
+Stricklands, 44.3733, -70.1433
+Strong, 44.8075, -70.2214
+Stronghold, 44.9167, -69.4711
+Stroudwater, 43.6561, -70.3153
+Stubbs Corner, 44.9642, -69.1819
+Sturtevant Hill, 44.3394, -69.9917
+Suckerville, 43.9261, -70.3942
+Sugar Hill, 46.4358, -67.8028
+Sullivan, 44.5203, -68.1972
+Summer Harbor, 44.4156, -68.1064
+Summerhaven, 44.3900, -69.8114
+Sumner, 44.3919, -70.4389
+Sunset, 44.2058, -68.7053
+Sunset Landing, 43.7267, -70.1392
+Sunset Park, 43.6172, -70.3133
+Sunshine, 44.1972, -68.5817
+Surfside, 43.5289, -70.3631
+Surry, 44.4958, -68.5022
+Sutton Island, 44.3000, -68.2833
+Swans Island, 44.1450, -68.4522
+Swanville, 44.5211, -68.9983
+Sweden(Aroostook), 46.9417, -68.1400
+Sweden(Oxford), 44.1333, -70.8231

@@ -1,0 +1,218 @@
+Wade, 46.8000, -68.2167
+Waite, 45.3256, -67.6908
+Waites Landing, 43.7061, -70.2178
+Waldo, 44.5125, -69.0767
+Waldoboro, 44.0953, -69.3761
+Wales Corner, 44.1836, -70.0656
+Walker, 46.6075, -68.2439
+Walker Corner, 44.5661, -69.2194
+Walker Settlement, 46.0322, -68.2114
+Walkers Mill, 44.4167, -70.8000
+Wallagrass, 47.1294, -68.5978
+Walnut Hill(York), 43.2372, -70.5950
+Walnut Hill(Cumberland), 43.8244, -70.2472
+Walpole, 43.9558, -69.5592
+Waltham, 44.7092, -68.3389
+Waltons Mill, 44.8514, -69.6503
+Wards Cove, 43.8314, -70.6078
+Wardtown, 43.8667, -70.1000
+Warren, 44.1203, -69.2406
+Washburn, 46.7900, -68.1581
+Washburn Junction, 46.6939, -67.9914
+Washington, 44.2736, -69.3678
+Washington Junction, 44.5533, -68.3811
+Waterboro, 43.5356, -70.7156
+Waterboro Center, 43.5892, -70.7103
+Waterford, 44.1814, -70.7178
+Waterman Beach, 44.0000, -69.1167
+Waterville, 44.5519, -69.6322
+Wattons Mill, 44.1731, -69.2344
+Waukeag, 44.5233, -68.2392
+Waverley, 44.7950, -69.3811
+Wayne, 44.3486, -70.0667
+Webb Hill, 45.5289, -68.3472
+Webber Hospital, 43.4864, -70.4706
+Webster(Androscoggin), 44.1167, -70.1000
+Webster(Penobscot), 44.8875, -68.6633
+Webster Corner, 44.0600, -70.0864
+Webster Plantation, 45.4667, -68.1500
+Weeks Corner, 44.7717, -69.4678
+Weeks Mills(Kennebec), 44.3589, -69.5433
+Weeks Mills(Franklin), 44.6750, -70.0464
+Weeksboro, 46.2569, -68.1586
+Welchville, 44.1336, -70.4644
+Weld, 44.6986, -70.4219
+Weld Corner, 44.7200, -70.4589
+Wellington, 45.0397, -69.5978
+Wells, 43.3219, -70.5814
+Wells Beach, 43.3025, -70.5678
+Wells Beach Station, 43.3239, -70.5919
+Wells Branch, 43.3736, -70.6003
+Wesley, 44.9522, -67.6614
+West Appleton, 44.3511, -69.2611
+West Athens, 44.9533, -69.7114
+West Auburn, 44.1567, -70.2814
+West Baldwin, 43.8331, -70.7783
+West Bangor, 44.7950, -68.8339
+West Bath, 43.8833, -69.8500
+West Bethel, 44.4019, -70.8617
+West Boothbay Harbor, 43.8489, -69.6439
+West Bowdoin, 44.0472, -70.0253
+West Bridgton, 44.0642, -70.8308
+West Bristol, 43.9289, -69.5578
+West Brooklin, 44.2919, -68.6164
+West Brooksville, 44.3983, -68.7583
+West Brownfield, 43.9175, -70.9792
+West Buxton, 43.6669, -70.6036
+West Castine, 44.4200, -68.8114
+West Charleston, 45.0658, -69.0689
+West Corinth, 44.9542, -69.0242
+West Cumberland, 43.8156, -70.3147
+West Denmark, 43.9925, -70.8711
+West Dover, 45.1144, -69.2394
+West Dresden, 44.0878, -69.7731
+West Durham, 43.9492, -70.1478
+West Ellsworth, 44.5572, -68.5469
+West End, 43.6506, -70.2750
+West Enfield, 45.2433, -68.6503
+West Falmouth Corner, 43.7464, -70.3036
+West Farmington, 44.6628, -70.1558
+West Forks, 45.3969, -70.0367
+West Franklin, 44.5836, -68.2608
+West Fryeburg, 44.0639, -70.9806
+West Gardiner, 44.2167, -69.8667
+West Georgetown, 43.8069, -69.7736
+West Glenburn, 44.8753, -68.8797
+West Gorham, 43.6936, -70.4925
+West Gouldsboro, 44.4694, -68.0908
+West Gray, 43.8592, -70.3758
+West Hampden, 44.7492, -68.9275
+West Harpswell, 43.7667, -70.0117
+West Harrington, 44.5961, -67.8425
+West Hollis, 43.6261, -70.6569
+West Jonesport, 44.5289, -67.6217
+West Kennebunk, 43.4086, -70.5819
+West Lebanon, 43.3822, -70.9511
+West Leeds, 44.2928, -70.1689
+West Levant, 44.9025, -69.0114
+West Lovell, 44.1333, -70.8833
+West Lubec, 44.8147, -67.0706
+West Mills, 44.7639, -70.0167
+West Minot, 44.1711, -70.3664
+West Montville, 44.4800, -69.2989
+West Mount Vernon, 44.4531, -70.0158
+West Newfield, 43.6439, -70.9242
+West Old Town, 44.9847, -68.7806
+West Palmyra, 44.8322, -69.4089
+West Paris, 44.3242, -70.5744
+West Pembroke, 44.9475, -67.1786
+West Penobscot, 44.4742, -68.7797
+West Peru, 44.5211, -70.4678
+West Point, 43.7469, -69.8650
+West Poland, 44.0356, -70.4392
+West Pownal, 43.9006, -70.2375
+West Princeton, 45.1886, -67.5900
+West Ripley, 44.9861, -69.4253
+West Rockport, 44.1819, -69.1358
+West Scarborough, 43.5703, -70.3883
+West Searsmont, 44.3997, -69.2461
+West Sebago, 43.9486, -70.7350
+West Seboeis, 45.5275, -68.8797
+West Sidney, 44.3956, -69.8028
+West Southport, 43.8231, -69.6792
+West Stonington, 44.1664, -68.6919
+West Sullivan, 44.5306, -68.2317
+West Sumner, 44.3647, -70.4581
+West Tremont, 44.2628, -68.3911
+West Trenton, 44.4356, -68.3975
+West Waldoboro, 44.0789, -69.3983
+West Washington, 44.2608, -69.4414
+West Windsor, 44.3383, -69.6067
+West Winterport, 44.6208, -68.9531
+Westbrook, 43.6769, -70.3717
+Western Landing, 43.7139, -70.1200
+Western Maine Sanatorium, 44.1975, -70.3822
+Westfield, 46.5703, -67.9231
+Weston, 45.7331, -67.8786
+Westport, 43.8992, -69.7089
+Westport Island, 43.9333, -69.7000
+Wheelock, 47.2247, -68.7439
+Wheelock Mill, 46.9994, -68.8972
+Whitcombs Corner, 44.4419, -69.1047
+White Oak Corner, 44.1553, -69.2903
+White Rock, 43.7525, -70.4683
+White School Corner, 44.8147, -69.7642
+Whitefield, 44.1700, -69.6258
+Whites Corner(Cumberland), 43.9397, -70.3053
+Whites Corner(Waldo), 44.4469, -69.3039
+Whiting, 44.7908, -67.1761
+Whitlocks Mill, 45.1608, -67.2275
+Whitney Corner, 44.1631, -69.3106
+Whitneyville, 44.7219, -67.5239
+Wildes Corner, 43.3569, -70.4700
+Wildes District, 43.3625, -70.4536
+Wildwood, 44.9058, -69.4647
+Wildwood Park, 43.7500, -70.3000
+Wiley Corner, 44.0167, -69.2000
+Willard, 43.6333, -70.2667
+Williamsburg, 45.3800, -69.1164
+Willimantic, 45.3067, -69.4089
+Willis Corners, 44.1025, -69.1744
+Willis Mill, 44.3122, -70.6794
+Wilson Corner, 44.6444, -68.5578
+Wilsons Mills, 44.9381, -71.0358
+Wilton, 44.5928, -70.2286
+Wilton Intervale, 44.6336, -70.2928
+Windemere, 44.6314, -69.3244
+Windham Center, 43.7894, -70.4089
+Windham Hill, 43.7978, -70.4261
+Windsor, 44.3106, -69.5811
+Windsorville, 44.2994, -69.5517
+Wings Mills, 44.4325, -69.9053
+Winkumpaugh Corners, 44.6264, -68.6289
+Winn, 45.4856, -68.3728
+Winnecook, 44.6544, -69.3883
+Winnegance, 43.8722, -69.8197
+Winslow, 44.5469, -69.6217
+Winslow Hill, 44.0950, -69.4608
+Winslows Mills, 44.1203, -69.4103
+Winter Harbor, 44.3953, -68.0836
+Winterport, 44.6378, -68.8456
+Winterville, 46.9703, -68.5717
+Winthrop, 44.3050, -69.9775
+Winthrop Center, 44.3047, -69.9219
+Wiscasset, 44.0028, -69.6661
+Witham Corner, 44.7133, -69.9475
+Wonderland, 44.2333, -68.3200
+Wonsqueak Harbor, 44.3833, -68.0500
+Woodard, 45.4069, -68.5847
+Woodbridge Corner, 45.8703, -68.3303
+Woodfords, 43.6733, -70.2819
+Woodfords Corner, 43.6703, -70.2847
+Woodland, 45.1569, -67.4053
+Woodland Center, 46.8853, -68.1425
+Woodland Junction, 45.1703, -67.4072
+Woodmans Mills, 44.3656, -69.2536
+Woodstock, 44.3833, -70.5833
+Woodville, 45.5000, -68.4667
+Woolwich, 43.9186, -69.8017
+Worthley Pond, 44.4681, -70.3889
+Wright Corner, 44.0914, -70.5367
+Wrightville, 46.6500, -68.4000
+Wyman, 44.5078, -67.8597
+Wytopitlock, 45.6406, -68.0761
+Yagger, 44.2108, -70.6353
+Yarmouth, 43.8006, -70.1872
+Yarmouth Junction, 43.8136, -70.1942
+York, 43.1667, -70.6667
+York Beach, 43.1714, -70.6094
+York Center, 43.1500, -70.6333
+York Cliffs, 43.1911, -70.6033
+York Corner, 43.1508, -70.6667
+York Harbor, 43.1367, -70.6461
+York Heights, 43.1486, -70.6425
+York Landing, 43.7286, -70.2094
+York Village, 43.1436, -70.6514
+Yorks Corner, 44.4992, -69.0067
+Youngs Corner, 44.1272, -70.2717
+Youngtown, 44.2686, -69.0981

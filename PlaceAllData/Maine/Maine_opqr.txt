@@ -1,0 +1,253 @@
+Oak Hill(Androscoggin), 44.0503, -79.4092
+Oak Hill(Cumberland), 43.5897, -70.3344
+Oak Hill(Hancock), 44.3961, -68.6892
+Oak Hill(Lincoln), 43.8950, -69.6806
+Oak Ridge, 43.4356, -70.4303
+Oak Terrace, 43.0892, -70.7583
+Oakdale, 43.6608, -70.2817
+Oakes Corner, 44.2872, -69.2700
+Oakfield, 46.0989, -68.1506
+Oakland, 44.5403, -69.7225
+Oakwood, 44.6489, -69.3544
+Ocean Park, 43.5006, -70.3867
+Ocean Point, 43.8158, -69.5964
+Oceanside, 43.1833, -70.6167
+Oceanview Harbor, 43.5833, -70.3500
+Oceanville, 44.1864, -68.6225
+Ogontz, 45.8203, -69.7136
+Ogren, 46.9108, -68.0564
+Ogunquit, 43.2489, -70.5997
+Olamon, 45.1208, -68.6111
+Old City, 46.0122, -68.8669
+Old Orchard Beach, 43.5172, -70.3781
+Old Town, 44.9342, -68.6458
+Old Town Landing, 44.9425, -68.7925
+Olde Mill Brook, 43.5833, -70.3500
+Oliver Hill Corner, 45.0658, -69.1733
+Onawa, 45.3667, -69.3722
+Oquossoc, 44.9664, -70.7742
+Orffs Corner, 44.1636, -69.4153
+Orient, 45.8169, -67.8406
+Orland, 44.5703, -68.7364
+Orono, 44.8831, -68.6725
+Orrington, 44.7311, -68.8269
+Orrington Center, 44.7211, -68.7892
+Orrs Island, 43.7606, -69.9767
+Osborn Plantation, 44.7833, -68.2667
+Ossipee Mills, 43.6508, -70.7611
+Otis, 44.7122, -68.4533
+Otisfield, 44.0833, -70.5500
+Otisfield Gore, 44.1483, -70.5644
+Otter Creek, 44.3183, -68.2081
+Ouellette, 47.1708, -68.3933
+Overlake, 44.7419, -70.0900
+Owls Head, 44.0822, -69.0578
+Oxbow, 46.4186, -68.4906
+Oxford, 44.1317, -70.4936
+Oxford Station, 44.1447, -70.4628
+Packard Landing, 45.2967, -69.3342
+Packards, 45.4811, -68.9394
+Paine Corner, 44.1581, -70.4314
+Paines Corner, 44.5125, -69.5744
+Palermo, 44.4078, -69.4744
+Palmyra, 44.8464, -69.3592
+Parent, 47.2336, -68.0294
+Paris, 44.2597, -70.5011
+Parker Head, 43.7844, -69.8031
+Parkers, 45.1917, -68.8989
+Parkhurst, 46.7483, -67.9572
+Parkman, 45.1336, -69.4336
+Parkview Memorial Hospital, 43.8956, -69.9686
+Parrot, 45.2550, -69.5544
+Parson Landing, 45.2614, -69.1883
+Parsonage Corner, 43.3081, -70.6867
+Parsonsfield, 43.7269, -70.9292
+Passadumkeag, 45.1853, -68.6172
+Pattee Corner, 44.5869, -69.0828
+Patten, 45.9964, -68.4467
+Patten June, 45.9133, -68.4133
+Pauls, 46.8453, -68.0461
+Pauls Corner, 44.3800, -69.2178
+Payneton, 43.1783, -70.7283
+Payson Corner, 44.2514, -69.1550
+Pea Cove, 44.9858, -68.6942
+Pea Ridge, 45.4228, -68.5253
+Peabbles Cove, 43.6333, -70.2667
+Peaks Island, 43.6569, -70.1967
+Pease Corner, 44.2750, -69.2875
+Pejepscot, 43.9600, -70.0156
+Pelton Hill, 44.3211, -69.8294
+Pemaquid, 43.9067, -69.5156
+Pemaquid Beach, 43.8744, -69.5219
+Pemaquid Harbor, 43.8922, -69.5250
+Pemaquid Point, 43.8406, -69.5103
+Pembroke, 44.9536, -67.1625
+Penley Corner, 44.0511, -70.2006
+Pennellville, 43.8603, -69.9619
+Penobscot, 44.4644, -68.7117
+Penobscot Indian Reservation, 46.3500, -68.5667
+Perham, 46.8442, -68.1978
+Perham Junction, 44.9211, -70.4108
+Perkins, 45.6128, -68.8175
+Perkins Town, 43.3383, -70.7050
+Perry(Aroostook), 46.7000, -68.0000
+Perry(Washington), 44.9750, -67.0764
+Perry Cove, 43.8397, -69.8447
+Perrys Corner, 43.7003, -70.8217
+Peru, 44.5067, -70.4058
+Peter Dana Point, 45.2117, -67.6306
+Phair, 46.6269, -67.9539
+Phillips, 44.8231, -70.3400
+Phillips Corner, 44.8125, -69.4428
+Phippsburg, 43.8206, -69.8153
+Pierre, 47.2325, -68.6739
+Pigeon Hill, 44.4442, -67.8881
+Pike Corner, 43.9828, -70.5175
+Pine Cliff, 43.8308, -69.6508
+Pine Corner, 44.9956, -67.2953
+Pine Hill, 43.2314, -70.5978
+Pine Knoll, 46.1822, -69.0250
+Pine Park, 43.5167, -70.3833
+Pine Point, 43.5411, -70.3447
+Pineland Hospital And Training Center, 43.9033, -70.2575
+Pingree Center, 45.1122, -69.4483
+Pishon Ferry, 44.6869, -69.6286
+Pitmans Corner, 44.3075, -69.2442
+Pittsfield, 44.7825, -69.3839
+Pittston, 44.1833, -69.7000
+Pittston Farm, 45.9000, -69.9667
+Plaisted, 47.0978, -68.5908
+Plantation No 21, 45.1500, -67.6167
+Plantation No 33, 44.9667, -68.3000
+Pleasant Beach, 44.0000, -69.1167
+Pleasant Hill, 43.7142, -70.2669
+Pleasant Island, 44.9978, -70.8372
+Pleasant Lake, 45.1333, -67.3167
+Pleasant Point(Washington), 44.9572, -67.0428
+Pleasant Point(Knox), 43.9722, -69.2842
+Pleasant Point Indian Reservation, 44.9667, -67.0833
+Pleasant Pond, 45.2567, -69.9422
+Pleasant Ridge Plantation, 45.0833, -69.9833
+Pleasant Vale Corner, 44.9286, -69.3039
+Pleasantdale, 43.6331, -70.2692
+Pleasantville, 44.1167, -69.2500
+Plourde Mill, 47.1656, -68.6167
+Plummer Corner, 44.7803, -69.2881
+Plummer Island, 43.5833, -70.3500
+Plummer Landing, 44.0594, -70.6836
+Plummer Mill, 43.9836, -70.1014
+Plymouth, 44.7672, -69.2108
+Poland, 44.0606, -70.3942
+Poland Spring, 44.0278, -70.3600
+Polands Corner, 44.4717, -69.2600
+Ponce Landing, 43.6894, -70.1686
+Pond Cove, 43.5964, -70.2292
+Pools Landing, 43.9411, -69.5903
+Poors Mill, 44.4281, -69.1008
+Popeville, 43.7844, -70.4197
+Popham Beach, 43.7519, -69.7850
+Poplar Ripps, 45.6989, -69.8706
+Port Clyde, 43.9272, -69.2533
+Portage, 46.7631, -68.4764
+Porter, 43.7958, -70.9331
+Porter Landing, 43.8444, -70.1000
+Porterfield, 43.8761, -70.9133
+Portland, 43.6614, -70.2558
+Powers Corner, 46.6733, -67.8469
+Pownal Center, 43.8922, -70.1858
+Prairie, 45.4086, -69.0644
+Pratt Corner, 44.1583, -70.4408
+Preble Corner, 45.0456, -69.2142
+Prentiss, 45.4917, -68.0822
+Prentiss Plantation, 45.5000, -68.1167
+Presque Isle, 46.6811, -68.0164
+Presque Isle Junction, 46.7083, -68.0278
+Pretty Marsh, 44.3403, -68.3997
+Pride, 46.3506, -68.2731
+Prides Corner, 43.7136, -70.3342
+Princeton, 45.2233, -67.5728
+Pripet, 44.3686, -68.8706
+Proctors Corner, 44.3033, -69.2892
+Promenade Mall, 44.1000, -70.2000
+Promised Land, 44.0678, -70.4392
+Prospect, 44.5531, -68.8653
+Prospect Ferry, 44.5669, -68.8058
+Prospect Harbor, 44.4089, -68.0267
+Prouts Neck, 43.5333, -70.3150
+Pulpit Harbor, 44.1586, -68.8842
+Pumpkin Valley, 44.0500, -70.7167
+Purgatory, 44.2156, -69.9344
+Quimby, 46.9622, -68.6086
+Quoddy, 44.9294, -67.0308
+Rand Landing, 46.5783, -68.6894
+Randolph, 44.2303, -69.7672
+Rands, 46.7194, -68.0344
+Rangeley, 44.9664, -70.6433
+Rankins Mill, 43.8792, -70.7722
+Ray Corner, 44.5122, -69.1828
+Raymond, 43.9014, -70.4708
+Rayville, 44.1031, -70.5542
+Razorville, 44.2764, -69.3975
+Reach, 44.2492, -68.6242
+Readfield, 44.3878, -69.9672
+Readfield Depot, 44.3792, -69.9403
+Red Beach, 45.1203, -67.1472
+Red Beach Landing, 45.1322, -67.6964
+Red Rock Corner, 44.4056, -68.3458
+Redbank Village, 43.6333, -70.2667
+Redding, 44.4111, -70.5111
+Redington, 44.9844, -70.4358
+Reed, 45.7236, -68.1428
+Reeds, 44.8867, -70.4108
+Regional Memorial Hospital, 43.8983, -69.9800
+Remick Corners, 43.1019, -70.7436
+Reynolds Corner, 44.6597, -69.3606
+Rice Corner, 44.9247, -69.7519
+Richmond, 44.0872, -69.7994
+Richmond Corner, 44.1033, -69.8911
+Richmond Mill, 44.3908, -70.0697
+Richville, 43.7853, -70.5661
+Ridge, 44.8408, -67.0158
+Ridlonville, 44.5553, -70.5400
+Riley, 44.5050, -70.2472
+Ring Hill, 44.1389, -69.8964
+Ripley(Somerset), 44.9911, -69.3722
+Ripley(Washington), 44.5214, -67.7975
+Rivers End, 44.8106, -67.6464
+Riverside, 44.3981, -69.7103
+Riverton, 43.6994, -70.3167
+Riverview, 46.7000, -68.0000
+Robbinston, 45.0781, -67.1100
+Roberts, 46.7889, -67.9586
+Roberts Corner, 43.6150, -70.5267
+Robinhood, 43.8531, -69.7375
+Robinson, 46.5167, -67.8667
+Robinson Corner, 44.0758, -70.1156
+Robinsons, 46.4733, -67.8408
+Robyville, 44.9408, -68.9700
+Rockland, 44.1036, -69.1094
+Rockport, 44.1844, -69.0767
+Rockville, 44.1547, -69.1169
+Rockwood, 45.6778, -69.7414
+Rogers Corners, 44.6667, -69.2333
+Rollins Mill, 45.0519, -69.0303
+Rollins Mills, 44.7294, -69.1461
+Rome, 44.5850, -69.8697
+Rome Corner, 44.5722, -69.9039
+Roque Bluffs, 44.6128, -67.4803
+Rosemary, 43.1578, -70.7897
+Rosemont, 43.6708, -70.3014
+Ross Corner, 43.5856, -70.8017
+Round Mountain, 46.5944, -68.7950
+Round Pond, 43.9478, -69.4617
+Rowe Corner(Androscoggin), 44.0533, -70.2272
+Rowe Corner(Penobscot), 44.8603, -69.2856
+Roxbury, 44.6697, -70.5939
+Royal Corner, 44.0186, -70.2394
+Royal Junction, 43.7994, -70.2225
+Rumford, 44.5536, -70.5514
+Rumford Center, 44.5131, -70.6192
+Rumford Corner, 44.4947, -70.6736
+Rumford Junction, 44.0542, -70.2503
+Rumford Point, 44.5006, -70.6717
+Russell Crossing, 46.6558, -68.7333

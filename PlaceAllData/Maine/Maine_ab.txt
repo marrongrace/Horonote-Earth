@@ -1,0 +1,245 @@
+Abbot, 45.2000, -69.4667
+Abbot Village, 45.1864, -69.4525
+Abbotts Mill, 44.4758, -70.6325
+Acadia, 46.9861, -68.0322
+Acadia Terrace, 47.1500, -67.9333
+Acton, 43.5342, -70.9103
+Adaline, 46.7619, -68.1244
+Adams, 45.3275, -68.9011
+Adams Corner, 43.4125, -70.4417
+Addison, 44.6183, -67.7447
+Admiralty Village, 43.0925, -70.7303
+Agamenticus Station, 43.2439, -70.7756
+Agamenticus Village, 43.2153, -70.6706
+Albion, 44.5322, -69.4431
+Alewife, 43.4528, -70.6103
+Alexander, 45.0886, -67.4689
+Alfred, 43.4764, -70.7189
+Alfred Mills, 43.4639, -70.7025
+Allagash Plantation, 47.1000, -69.0667
+Allens Mills, 44.7161, -70.0817
+Alna, 44.1061, -69.6042
+Alna Center, 44.0808, -69.6186
+Alton, 45.0333, -68.7333
+Amherst, 44.8333, -68.3647
+Amity, 45.9167, -67.8333
+Andover, 44.6356, -70.7517
+Anson, 44.7983, -69.8897
+Appleton, 44.2892, -69.2514
+Archers Corners, 44.8314, -68.4450
+Arey, 44.7228, -68.8722
+Arnold Corner, 44.7383, -69.0653
+Arnolds Landing, 44.9567, -69.8700
+Aroostook Farm, 46.7000, -68.0000
+Arrowsic, 43.8497, -69.7786
+Arundel, 43.3825, -70.4783
+Ash Point, 44.0556, -69.0872
+Ashdale, 43.7675, -69.8394
+Ashland, 46.6311, -68.4067
+Ashville, 44.4878, -68.1217
+Asticou, 44.3039, -68.2822
+Athearns Corner, 44.2731, -69.1664
+Athens, 44.9231, -69.6733
+Atkinson, 45.1667, -69.0667
+Atkinson Corner, 45.1833, -69.2167
+Atkinson Mills, 45.1597, -69.0828
+Atlantic, 44.1717, -68.4247
+Attean, 45.5747, -70.3186
+Attean Landing, 45.5875, -70.2781
+Auburn, 44.0978, -70.2317
+Auburn Plains, 44.1758, -70.2322
+Augusta, 44.3106, -69.7800
+Augusta State Hospital, 44.3019, -69.7686
+Aurora, 44.8542, -68.3286
+Avon, 44.8061, -70.2717
+Avon Corner, 44.8003, -70.2661
+Ayers, 44.9844, -67.2386
+Babb Corner, 43.6297, -70.4506
+Back Narrows, 43.8928, -69.5925
+Back Settlement(Aroostook), 47.1564, -68.8706
+Back Settlement(Penobscot), 45.5386, -68.3192
+Bailey Corner, 44.1722, -69.7450
+Bailey Island, 43.7275, -69.9956
+Baileyville, 45.1333, -67.4000
+Baker Corner, 43.8247, -70.3889
+Balch Pond, 43.6167, -71.0167
+Bald Head, 43.2208, -70.5778
+Bald Head Cliff, 43.2500, -70.6000
+Bald Hill Crossing, 43.3425, -70.6733
+Bald Mountain, 44.9547, -70.7911
+Baldwin, 43.8333, -70.7000
+Baldwin Corners, 44.2469, -68.3592
+Bancroft, 45.6736, -68.0314
+Bangor, 44.8011, -68.7783
+Bangor State Hospital, 44.8175, -68.7417
+Bangs Beach, 44.4725, -69.7753
+Bar Harbor, 44.3875, -68.2044
+Bar Mills, 43.6131, -70.5503
+Baring, 45.1361, -67.3172
+Barnard, 45.3664, -69.2075
+Barnard Corner, 45.3072, -69.1236
+Barnard Plantation, 45.3167, -69.1500
+Barnjum, 44.9414, -70.3656
+Barrett, 46.8667, -68.0167
+Barretts, 46.8975, -68.0161
+Barron Corner, 44.8208, -69.8450
+Bartlett Mills, 43.3994, -70.5297
+Basin, 44.6167, -67.7500
+Basin Mills, 44.8744, -68.6669
+Bass Harbor, 44.2400, -68.3444
+Batchelders Crossing, 44.1897, -69.9403
+Batesville, 46.1256, -68.3475
+Bath, 43.9106, -69.8211
+Bauneg Beg, 43.4333, -70.7667
+Bay Point, 43.7564, -69.7753
+Bay View, 43.4878, -70.3875
+Bayside(Hancock), 44.4639, -68.4242
+Bayside(Waldo), 44.3797, -68.9692
+Bayville, 43.8597, -69.6033
+Beacon Corner, 43.4292, -70.4544
+Beals, 44.5197, -67.6156
+Beans Corner(Waldo), 44.4569, -69.2625
+Beans Corner(Franklin), 44.5778, -70.1758
+Bear Frap Landing, 45.2436, -67.7933
+Beaver Dam, 43.2667, -70.8667
+Beddington, 44.8481, -68.0625
+Bedell Crossing, 43.1028, -70.6761
+Beech Ridge, 43.1494, -70.7200
+Belfast, 44.4258, -69.0069
+Belgrade, 44.4472, -69.8331
+Belgrade Lakes, 44.5264, -69.8875
+Belmont, 44.3833, -69.1167
+Belmont Corner, 44.3972, -69.1361
+Bemis, 44.8578, -70.7308
+Benedicta, 45.8017, -68.4122
+Benner Corner, 44.1564, -69.3194
+Bennett, 46.1133, -68.1117
+Benson, 45.3594, -69.2961
+Benton, 44.5861, -69.5514
+Benton Falls, 44.5772, -69.5536
+Benton Station, 44.5892, -69.5856
+Bernard, 44.2411, -68.3564
+Bernier, 43.4333, -70.7667
+Berry Mills, 44.6292, -70.4500
+Berrys Corner, 45.0981, -69.1772
+Berwick, 43.2658, -70.8650
+Bethel, 44.4042, -70.7911
+Bickfords Corner, 44.3628, -69.1492
+Biddeford, 43.4925, -70.4539
+Biddeford Pool, 43.4447, -70.3419
+Bigelow, 45.0808, -70.3211
+Billings Hill, 44.8361, -69.1983
+Bingham, 45.0586, -69.8828
+Bingo, 45.3489, -67.6769
+Birch Harbor, 44.3886, -68.0378
+Birch Island, 43.9167, -69.9667
+Bishop, 46.8406, -67.9353
+Black Corner, 44.3428, -68.6744
+Black Point, 43.5833, -70.3500
+Blackinton Corners, 44.1233, -69.1178
+Blackstone, 46.9556, -68.2344
+Blackstrap, 43.7686, -70.3311
+Blackwater, 46.4272, -68.3083
+Blackwell, 44.8000, -69.8833
+Blackwell Corner, 44.8353, -69.8167
+Blaine, 46.5047, -67.8692
+Blair, 45.6331, -70.1758
+Blaisdell Corners, 43.3478, -70.9281
+Blake Corner, 44.0117, -70.1181
+Blanchard, 45.2675, -69.5842
+Blanchard Corner, 45.0056, -67.2753
+Blanchard Plantation, 45.2500, -69.6167
+Blue Hill, 44.4139, -68.5872
+Blue Hill Falls, 44.3808, -68.5656
+Blue Point, 43.5522, -70.3569
+Boat Landing Camp, 47.2414, -69.2208
+Bodfish, 45.3742, -69.4306
+Bog Corner, 44.8428, -69.3236
+Bogues Corner, 44.1678, -69.3789
+Bolsters Mills, 44.1156, -70.5978
+Bonny Eagle, 43.6897, -70.6150
+Boothbay, 43.8764, -69.6342
+Boothbay Harbor, 43.8522, -69.6286
+Boothbay Park, 43.5669, -70.4492
+Bowden, 45.6750, -68.6717
+Bowdoin Center, 44.0367, -69.9733
+Bowdoinham, 44.0100, -69.8989
+Bowerbank(Piscataquis), 45.2728, -69.2125
+Bowerbank(Penobscot), 45.3964, -68.5997
+Boyd Corner, 43.2964, -70.7142
+Boyd Lake, 45.1872, -68.8919
+Bradbury, 47.1944, -68.8444
+Bradburys, 47.2378, -68.5783
+Bradford, 45.0667, -68.9383
+Bradford Center, 45.0722, -68.8967
+Bradley, 44.9208, -68.6286
+Bradleys Corner, 43.6592, -70.2975
+Braeburn, 43.2247, -70.5811
+Brannen, 46.6833, -68.1667
+Brassua, 45.6267, -69.9128
+Bremen, 44.0000, -69.4333
+Brentwood Acres, 43.6333, -70.2667
+Brewer, 44.7967, -68.7619
+Brewer Lake, 44.7333, -68.8333
+Brewster Corner, 44.7950, -67.8114
+Brickett Place, 44.2675, -71.0047
+Bridgewater, 46.4278, -67.8439
+Bridgewater Corner, 46.4511, -67.8522
+Bridgton, 44.0547, -70.7133
+Briggs Corner, 43.1006, -70.7125
+Brighams Cove, 43.8394, -69.8483
+Brighton, 45.0453, -69.6953
+Brighton Corner, 43.6664, -70.2964
+Brighton Plantation, 45.0500, -69.7000
+Brightwater, 43.8050, -69.8608
+Brimstone Corner, 44.2075, -70.4972
+Bristol, 43.9575, -69.5097
+Brixham, 43.1858, -70.7447
+Brixham Lower Corners, 43.1806, -70.7367
+Brixham Upper Corners, 43.1500, -70.6500
+Broad Cove(Cumberland), 43.6333, -70.2667
+Broad Cove(Lincoln), 44.0378, -69.4153
+Broadview Park, 43.6181, -70.2767
+Brooklin, 44.2661, -68.5697
+Brooks, 44.5503, -69.1214
+Brooksville, 44.3467, -68.6842
+Brookton, 45.5297, -67.7661
+Brown Corner(Waldo), 44.5406, -68.9156
+Brown Corner(Aroostook), 46.8983, -67.9283
+Brownfield, 43.9381, -70.9092
+Browning, 43.4333, -70.7667
+Browns Corner(Somerset), 44.8192, -69.5633
+Browns Corner(Kennebec), 44.2258, -69.8983
+Brownville, 45.3069, -69.0339
+Brownville Junction, 45.3500, -69.0528
+Brunswick, 43.9144, -69.9658
+Brunswick Naval Air Station, 43.9000, -69.9333
+Bryant Pond, 44.3783, -70.6464
+Bryants Corner, 44.4378, -69.0283
+Buckfield, 44.2894, -70.3658
+Bucks Harbor, 44.6419, -67.3889
+Bucks Mills, 44.6267, -68.7300
+Bucksport, 44.5736, -68.7961
+Bucksport Center, 44.6311, -68.8344
+Buffalo, 46.8269, -68.4864
+Buffum Hill, 43.2964, -70.5881
+Bugbee, 46.7789, -68.1556
+Buggy Meetinghouse, 43.5833, -70.3500
+Bullen Mills, 44.6958, -70.0692
+Bunganuc Landing, 43.8639, -70.0225
+Bunker Hill, 44.0333, -69.5500
+Bunkers Harbor, 44.3833, -68.0500
+Burdin Corner, 45.0936, -69.5314
+Burkettville, 44.2981, -69.3183
+Burlington, 45.2092, -68.4272
+Burnham(Burnham Junction), 44.6928, -69.4281
+Burnt Landing, 47.0864, -68.3681
+Burnt Meadow Ponp, 43.9333, -70.9167
+Burnt Mill, 47.1414, -68.7042
+Burton Corner, 44.8333, -69.4764
+Bustins Island, 43.7989, -70.0703
+Butlers Corner, 44.4075, -69.1017
+Butterfield Landing, 45.7106, -67.8600
+Buxton, 43.6378, -70.5194
+Buxton Center, 43.6486, -70.5417
+Byron, 44.7219, -70.6311

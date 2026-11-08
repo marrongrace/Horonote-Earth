@@ -1,0 +1,160 @@
+Machias, 44.7150, -67.4619
+Machiasport, 44.6986, -67.3953
+Mackamp, 45.6147, -70.0056
+Mackworth Point, 43.7000, -70.2500
+MacMahan, 43.8406, -69.7094
+MacQuillis Corner, 44.6058, -70.1644
+Macwahoc, 45.6283, -68.2633
+Macy, 44.9286, -70.7533
+Madawaska, 46.8842, -67.9478
+Madawaska Lake, 47.0500, -68.1333
+Maddocks Corner, 44.3444, -69.2922
+Madison, 44.7975, -69.8803
+Madrid, 44.8644, -70.4625
+Madrid Junction, 44.8697, -70.4003
+Magalloway Plantation, 44.8667, -71.0167
+Maine, 46.8200, -67.9236
+Maine Coast Mall, 44.5500, -68.4500
+Maine Coast Memorial Hospital, 44.5469, -68.4167
+Maine Mall, 43.6333, -70.2667
+Maine Medical Center, 43.6531, -70.2761
+Mainstream, 44.9694, -69.5075
+Malbons Mills, 44.7961, -69.6858
+Mallison Falls, 43.7333, -70.4333
+Manchester, 44.3244, -69.8608
+Manks Corner, 44.1739, -69.3339
+Manset, 44.2681, -68.3133
+Manson Corner, 44.8622, -69.4747
+Maple Grove, 46.7289, -67.8639
+Mapleton, 46.6819, -68.1633
+Maplewood, 43.6742, -70.9114
+Maranacook, 44.3469, -69.9586
+Margison, 46.9169, -68.1389
+Mariaville, 44.7206, -68.4161
+Mariner, 43.6969, -70.1514
+Marion, 44.8783, -67.3175
+Marks Corner, 44.4958, -68.6456
+Marlboro, 44.4756, -68.2706
+Marrtown, 43.7944, -69.7819
+Mars Hill, 46.5158, -67.8669
+Marsh Corner, 44.8814, -69.3175
+Marshfield, 44.7331, -67.4781
+Marshville, 44.6161, -67.7850
+Marston Corner, 44.0506, -70.2767
+Martin, 43.9706, -69.3594
+Martin Corner, 44.8069, -69.8072
+Martins Corner, 44.3147, -69.2533
+Martinsville, 43.9433, -69.2267
+Masardis, 46.5036, -68.3617
+Mason Bay, 44.5333, -67.6167
+Mast Landing, 43.8575, -70.0842
+Matinicus, 43.8650, -68.8875
+Mattawamkeag, 45.5136, -68.3550
+Mattimo Place, 44.8225, -67.6408
+Maxfield, 45.2833, -68.7500
+Mayberry Hill, 44.0000, -70.5333
+Mayfield Corner, 45.1036, -69.6936
+Maysville, 46.7781, -67.9703
+Mayville, 44.4206, -70.7983
+McCarty, 46.0711, -69.0136
+McCoy Crossing, 44.4369, -69.6411
+McFarlands Corner, 44.4161, -69.3231
+McGray, 46.8156, -67.9839
+McGregor Mill, 44.9864, -69.0544
+McKeen Crossing, 46.6039, -68.7217
+McNally, 46.9233, -68.5836
+McShea, 46.7619, -67.8539
+Meadowbrook, 43.8306, -69.8489
+Meadowview, 44.4708, -70.2725
+Meadowville, 45.5203, -68.3528
+Mechanic Falls, 44.1117, -70.3922
+Meddybemps, 45.0383, -67.3564
+Medford, 45.2853, -68.8522
+Medford Center, 45.2486, -68.8297
+Medomak, 44.0006, -69.4058
+Medway, 45.6089, -68.5314
+Mee Corners, 43.6439, -70.9472
+Melvin Heights, 44.2178, -69.1017
+Mercer, 44.6781, -69.9369
+Mercy Hospital, 43.6514, -70.2656
+Merepoint, 43.8247, -70.0258
+Merrill, 46.1667, -68.2500
+Merrill Corner, 43.9264, -70.9458
+Merrow Landing, 44.0719, -70.6114
+Mexico, 44.5608, -70.5458
+Michigan Settlement, 47.2311, -68.5258
+Middle Dam, 44.7800, -70.9228
+Middle Intervale, 44.4628, -70.7878
+Milbridge, 44.5353, -67.8814
+Miles Corner, 44.8578, -69.3006
+Milford, 44.9461, -68.6444
+Mill Brook, 45.3719, -69.0222
+Miller Corner(Somerset), 44.8750, -69.3564
+Miller Corner(York), 43.4789, -70.9464
+Millers Crossing, 43.4058, -70.4892
+Milliken Mills, 43.5444, -70.3928
+Millinocket, 45.6572, -68.7103
+Milltown, 45.1697, -67.2911
+Millvale, 44.6286, -68.7706
+Milo, 45.2536, -68.9864
+Milton, 44.4478, -70.6536
+Mingo Springs, 44.9553, -70.7147
+Minot, 44.0856, -70.3206
+Minturn, 44.1500, -68.4333
+Minunn, 44.1425, -68.4369
+Mitchell Corner(Waldo), 44.6739, -69.2672
+Mitchell Corner(Somerset), 44.8322, -69.6058
+Molunkus, 45.6153, -68.3039
+Monarda, 45.7969, -68.3244
+Monhegan, 43.7622, -69.3208
+Monmouth, 44.2386, -70.0361
+Monroe, 44.6150, -69.0186
+Monroe Center, 44.6000, -69.0392
+Monsapec, 44.6089, -67.6017
+Monson, 45.2869, -69.5017
+Monson Junction, 45.2153, -69.4719
+Monticello, 46.3083, -67.8431
+Montsweag, 43.9622, -69.7244
+Montville, 44.4500, -69.2667
+Moody(York), 43.2750, -70.5975
+Moody(Penobscot), 44.9803, -69.3006
+Moody Beach, 43.2756, -70.5833
+Moody Corner, 45.0047, -69.7258
+Moody Mountain, 44.2167, -69.2833
+Moody Point, 43.2864, -70.5728
+Mooresville, 45.4142, -69.1003
+Moose River, 45.6528, -70.2667
+Moosehead, 45.5833, -69.7142
+Moosehorn(Franklin), 45.3856, -70.7947
+Moosehorn(Piscataquis), 45.2286, -69.4864
+Moosehorn Crossing, 46.3314, -68.7817
+Mooselookmeguntic, 44.9633, -70.7933
+Morang Corner, 44.2639, -69.2750
+Morey Brow, 46.2933, -67.9581
+Morgan Beach, 45.2706, -68.5556
+Morkill, 45.4264, -69.4981
+Moro Plantation, 46.1667, -68.3500
+Morrill, 44.4431, -69.1497
+Morrills Corner, 43.6875, -70.2936
+Morris Corner, 46.8775, -67.8519
+Morrison Corner, 44.6633, -69.5778
+Morse Corners, 44.9167, -69.2667
+Moscow(Wyman Dam P O), 45.0706, -69.8917
+Mosher Corner(Cumberland), 43.6908, -70.4028
+Mosher Corner(Somerset), 44.7825, -69.4197
+Mount Chase Plantation, 46.0500, -68.4667
+Mount Desert, 44.3667, -68.3333
+Mount Pisgah, 43.8531, -69.6222
+Mount Vernon, 44.5011, -69.9881
+Mountainview, 44.9672, -70.7622
+Mountainview Park, 43.6297, -70.2264
+Mountainville, 44.2119, -68.6294
+Mousam Lake, 43.5333, -70.9167
+Moussam, 44.0803, -70.3414
+Mud Landing, 44.8569, -67.4478
+Munjoy Hill, 43.6672, -70.2494
+Murphy Corner, 44.0408, -70.2339
+Murphys Corner, 43.9267, -69.7344
+Muscongus, 43.9694, -69.4439
+Muscongus Bay, 44.0833, -69.4833
+Myra, 44.9803, -68.3969
