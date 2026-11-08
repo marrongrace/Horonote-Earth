@@ -1,0 +1,166 @@
+Machang, 5.7667, 102.2167
+Malaka > Melaka, 2.2000, 102.2500
+Malim Nawar, 4.3500, 101.1167
+Manek Urai, 5.3833, 102.2333
+Manong, 4.6000, 100.8833
+Mantin, 2.8167, 101.9000
+Maran, 3.5833, 102.7667
+Marang, 5.2000, 103.2167
+Marudi, 4.1833, 114.3167
+Masai, 1.4833, 103.8833
+Masjid Tanah, 2.3500, 102.1167
+Matang, 4.8167, 100.6833
+Matu, 2.6833, 111.5333
+Mawai, 1.8667, 103.9500
+Melaka, 2.2000, 102.2500
+Melalap, 5.2333, 116.0000
+Meluan, 1.8667, 111.9333
+Mengkibol, 1.9667, 103.3333
+Mengkuang, 3.1833, 102.4000
+Mentekab, 3.4833, 102.3500
+Merapoh, 4.6833, 101.9833
+Merotai Besar, 4.4333, 117.7667
+Mersing, 2.4333, 103.8333
+Miri, 4.3833, 113.9833
+Morib, 2.7500, 101.4333
+Mostyn, 4.6667, 118.1833
+Muar(Bandar Maharani), 2.0333, 102.5667
+Mukah, 2.9000, 112.1000
+Nenasi, 3.1333, 103.4500
+Niah, 3.8667, 113.7333
+Nibong Tebal, 5.1667, 100.4833
+Niyor, 2.0833, 103.2833
+Nyalas, 2.4333, 102.4667
+Oya, 2.8667, 111.8833
+Padang Besar, 6.6667, 100.3167
+Padang Endau, 2.6667, 103.6167
+Padang Tungku, 4.2333, 101.9833
+Pahi, 5.4667, 102.2167
+Paka, 4.6500, 103.4333
+Paloh(Sarawak), 2.4167, 111.2500
+Paloh(Johor), 2.1833, 103.2000
+Panchor, 2.1667, 102.7167
+Pandan, 3.1500, 113.3667
+Pandasan, 6.4667, 116.5333
+Papar, 5.7333, 115.9333
+Parit Bunga, 2.0667, 102.5500
+Parit Buntar, 5.1167, 100.5000
+Parit Jawa, 1.9500, 102.6500
+Pasir Gudang, 1.4500, 103.8833
+Pasir Mas, 6.0333, 102.1333
+Pasir Puteh(Johor), 1.4333, 103.9333
+Pasir Puteh(Kelantan), 5.8333, 102.4000
+Paya Besar, 3.7833, 103.2667
+Pedas, 2.6167, 102.0667
+Pekan, 3.5000, 103.4167
+Pelabuhan Kelang, 3.0000, 101.4000
+Pelawan, 2.7833, 102.9167
+Pengkalan Baharu, 4.4667, 100.6333
+Pensiangan, 4.5500, 116.3167
+Peringat, 6.0333, 102.2833
+Petaling Jaya, 3.0833, 101.6500
+Petoh, 2.8833, 103.2500
+Pinang > George Town, 5.4167, 100.3333
+Pinangah, 5.2000, 116.8333
+Pintasan, 5.4333, 117.7167
+Pokok Sena, 6.1667, 100.5333
+Pondok Tanjong, 5.0000, 100.7333
+Pontian Kechil, 1.4833, 103.3833
+Port Dickson, 2.5167, 101.8000
+Port Swettenham, 3.0000, 101.3833
+Port Weld, 4.8333, 100.6333
+Prai > Kota(Kedah), 5.5833, 100.3833
+Pusa, 1.6000, 111.2833
+Ranau, 5.9667, 116.6833
+Rantau, 2.5833, 101.9667
+Raub, 3.8000, 101.8667
+Rawang, 3.3167, 101.5833
+Redang Panjang, 5.1167, 100.7833
+Rembau, 2.5833, 102.1000
+Rembia, 2.3333, 102.2167
+Rengam, 1.8833, 103.4000
+Rengit, 1.6833, 103.1500
+Ringlet, 4.4167, 101.3833
+Rompin(Negari Sembilan), 2.7000, 102.5167
+Rompin(Pahang), 2.8000, 103.4833
+Sabak Bernam, 3.7667, 100.9833
+Sandakan, 5.8333, 118.1167
+Saratok, 1.7333, 111.3333
+Sarikei, 2.1167, 111.5167
+Sebuyau, 1.5167, 110.9333
+Segamat, 2.5000, 102.8167
+Sekudai, 1.5333, 103.6667
+Selama, 5.2167, 100.7000
+Selim, 3.8500, 101.4833
+Selim River, 3.8333, 101.4000
+Semanggol, 4.9500, 100.6333
+Sematan, 1.8000, 109.7667
+Semenyih, 2.9500, 101.8500
+Semporna, 4.4667, 118.6000
+Senai, 1.6000, 103.6500
+Senaja, 6.7500, 117.0500
+Senggarang, 1.7500, 103.0500
+Sepang, 2.7000, 101.7500
+Seremban, 2.7167, 101.9333
+Serian, 1.1667, 110.5667
+Setapak, 3.1833, 101.7000
+Sibu, 2.3000, 111.8167
+Sibuti, 4.0500, 113.8000
+Sik, 5.8167, 100.7333
+Sikuati, 6.8833, 116.6667
+Simanggang, 1.2500, 111.4333
+Simpang Empat, 6.3333, 100.1833
+Simpang Rengam, 1.8333, 103.3167
+Simunjan, 1.3833, 110.7500
+Sipitang, 5.0833, 115.5500
+Song, 2.0167, 112.5500
+Suai, 3.8000, 113.6333
+Sukau, 5.5333, 118.2833
+Sundar, 4.9000, 115.2000
+Sungai Bayor, 5.2500, 100.7833
+Sungai Lembing, 3.9167, 103.0333
+Sungai Petani, 5.6500, 100.5000
+Sungai Siput, 4.8167, 101.0667
+Sungkai, 4.0000, 101.3167
+Susui, 4.9333, 116.6833
+Taiping, 4.8500, 100.7333
+Tambunan, 5.6667, 116.3667
+Tampin, 2.4667, 102.2333
+Tanah Merah(Negari Sembilan), 2.6000, 101.8000
+Tanah Merah(Kelantan), 5.8000, 102.1500
+Tangkak, 2.2667, 102.5500
+Tanjong Dawai, 5.6833, 100.3667
+Tanjong Malim, 3.6833, 101.5167
+Tapah, 4.1833, 101.2667
+Tapah Road, 4.1667, 101.2000
+Tawau, 4.2500, 117.9000
+Tebakang, 1.1000, 110.5000
+Telaga, 6.8500, 117.0500
+Telok Anson, 4.0333, 101.0167
+Telok Datok, 2.8167, 101.5167
+Temangan Baharu, 5.7000, 102.1500
+Tembeling, 4.0667, 102.3167
+Temengor, 5.3167, 101.3667
+Temerloh, 3.4500, 102.4167
+Tenghilan, 6.2333, 116.3167
+Tenom, 5.1333, 115.9500
+Teranum, 3.7333, 101.8167
+Teras, 3.7500, 101.8167
+Teriang, 3.2333, 102.4167
+Terolak, 3.8833, 101.3833
+Terong, 4.7167, 100.7333
+Titi Karangan, 5.5167, 100.6167
+Tokai, 6.0167, 100.4000
+Tomani, 4.8333, 115.9167
+Tuaran, 6.1833, 116.2333
+Tubau, 3.1333, 113.7000
+Tumpat, 6.2000, 102.1667
+Tungku, 5.0167, 118.8833
+Tunjang, 6.2667, 100.3500
+Ulu Tiram, 1.6000, 103.8167
+Ulu Yam, 3.4500, 101.6333
+Umbai, 2.1667, 102.3333
+Victoria, 5.2833, 115.2500
+Weston, 5.2167, 115.6000
+Yan, 5.8000, 100.3667
+Yong Peng, 2.0167, 103.0667

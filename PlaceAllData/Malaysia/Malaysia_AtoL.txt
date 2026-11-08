@@ -1,0 +1,211 @@
+Abai, 5.6833, 118.3833
+Adjan, 2.1833, 113.2000
+Ajil, 5.0833, 103.0833
+Alor Gajah, 2.3833, 102.2167
+Alor Setar, 6.1167, 100.3667
+Alor Star > Alor Setar, 6.1167, 100.3667
+Arau, 6.4333, 100.2667
+Asahan, 2.3833, 102.5500
+Ayer Baloi, 1.5833, 103.3333
+Ayer Hitam(Johor), 1.9167, 103.1833
+Ayer Hitam(Negari Sembilan), 2.9333, 102.4000
+Ayer Jerneh, 4.4000, 103.4000
+Ayer Kuning Selatan, 2.5000, 102.4667
+Bachok, 6.0667, 102.4000
+Bagan Datoh, 3.9833, 100.7833
+Bagan Serai, 5.0167, 100.5333
+Bahau, 2.8167, 102.4167
+Bakap, 4.4333, 101.0667
+Baling, 5.6667, 100.9167
+Balingian, 2.9167, 112.5333
+Bandar Baharu, 5.1333, 100.5000
+Bandar Maharani, 2.0500, 103.5500
+Bandar Penggaram > Batu Pahat, 1.8500, 102.9333Banting, 2.8167, 101.5000
+Bareo, 3.7500, 115.4500
+Batang Berjuntai, 3.3833, 101.4167
+Batang Kali, 3.4667, 101.6333
+Batang Melaka, 2.4667, 102.4167
+Batu Arang, 3.3167, 101.4667
+Batu Caves, 3.2333, 101.6667
+Batu Enam, 2.5833, 102.7167
+Batu Gajah, 4.4667, 101.0500
+Batu Laut, 2.6833, 101.5167
+Batu Pahat(Bandar Penggaram), 1.8500, 102.9333
+Batu Rakit, 5.4500, 103.0500
+Bau, 1.4167, 110.1333
+Beaufort, 5.3333, 115.7500
+Bedong, 5.7333, 100.5167
+Bekok, 2.3000, 103.1333
+Belaga, 2.7000, 113.7833
+Beluran, 5.9000, 117.5500
+Bemban, 2.2667, 102.3833
+Benta, 4.0167, 101.9667
+Bentong, 3.5333, 101.9167
+Benut, 1.6333, 103.2667
+Beroga, 2.9333, 101.9167
+Bertam, 5.1500, 102.0500
+Beruas, 4.5000, 100.7833
+Beserah, 3.8667, 103.3667
+Betong, 1.4000, 111.5167
+Bidor, 4.1167, 101.2833
+Bintulu, 3.1667, 113.0333
+Bongon, 6.5833, 116.8667
+Bukit Betong, 4.2500, 101.9333
+Bukit Fraser, 3.7167, 101.7500
+Bukit Kachi, 6.4000, 100.5333
+Bukit Mertajam, 5.3667, 100.4667
+Bukit Serok, 2.9167, 102.8333
+Butterworth, 5.4167, 100.4000
+Cameron Highlands, 4.4833, 101.4500
+Chabang Tiga, 5.3167, 103.1333
+Changlun, 6.4333, 100.4333
+Chegar Perah, 4.4167, 101.9333
+Chemor, 4.7167, 101.1167
+Chenderiang, 4.2667, 101.2333
+Chodoi, 2.8333, 101.4500
+Chukai, 4.2500, 103.4167
+Dabong, 5.3833, 102.0167
+Dalat, 2.7333, 111.9333
+Degong, 4.0833, 101.1333
+Durian Tipus, 3.1167, 102.2167
+Gambang, 3.7167, 103.1000
+Gemas, 2.5833, 102.6167
+Genuang, 2.4833, 102.8833
+George Town(Pinang), 5.4167, 100.3333
+Gerik, 5.4167, 101.1333
+Gopeng, 4.4667, 101.1667
+Gua Musang, 4.8833, 101.9667
+Guar Chempedak, 5.8667, 100.4667
+Gurun, 5.8167, 100.4833
+Gusi, 6.1167, 117.1333
+Hutan Melintang, 3.8833, 100.9333
+Igan, 2.8167, 111.7167
+Ipoh, 4.5833, 101.0833
+Jabi, 2.5333, 102.8000
+Jasin, 2.3167, 102.4333
+Jemaluang, 2.2833, 103.8667
+Jendarata, 3.9167, 100.9500
+Jeniang, 5.8167, 100.6333
+Jeransang, 3.8667, 102.3667
+Jerantut, 3.9333, 102.3667
+Jerteh, 5.7500, 102.5000
+Jesselton > Kota Kinabalu, 5.9833, 116.0667
+Jitra, 6.2667, 100.4167
+Johol, 2.6000, 102.2667
+Johor Baharu, 1.4667, 103.7500
+Kajang, 2.9833, 101.7833
+Kalabakan, 4.4167, 117.4833
+Kampar, 4.3000, 101.1500
+Kampong Ayer Puteh, 4.2667, 103.2000
+Kampong Baharu, 3.7167, 103.2833
+Kampong Benta, 3.5333, 103.3667
+Kampong Buloh, 5.5333, 102.7500
+Kampong Chenor, 3.4833, 102.6000
+Kampong Dong, 3.9000, 101.9000
+Kampong Guchil, 5.5500, 102.2333
+Kampong Jabor, 3.9500, 103.3333
+Kampong Jerangau, 4.8500, 103.2000
+Kampong Kandang, 2.1833, 102.3000
+Kampong Kenyam, 4.5167, 102.4667
+Kampong Kuala Kemaman, 4.2333, 103.4500
+Kampong Lamir, 3.6000, 103.3500
+Kampong Lawa, 5.6667, 101.7000
+Kampong Mengkarak, 3.3167, 102.4500
+Kampong Merang, 5.5333, 102.9500
+Kampong Nuri, 5.0333, 102.3833
+Kampong Penarek, 5.6167, 102.8000
+Kampong Raja, 5.8000, 102.5833
+Kampong Renggong, 4.5500, 102.5833
+Kampong Sekendi, 3.7167, 100.9333
+Kampong Surau, 5.8167, 100.9000
+Kampong Tanjong Batu, 3.2000, 103.4500
+Kampong Tebing Runtoh, 1.4333, 103.6667
+Kampong Ulu Chalok, 5.4333, 102.8333
+Kangar, 6.4333, 100.2000
+Kangkar Lenggor, 2.2667, 103.7333
+Kangkar Teberau, 1.5333, 103.7500
+Kanowit, 2.1000, 112.1500
+Kapit, 2.0167, 112.9333
+Karak, 3.4000, 102.0333
+Kejaman, 2.6500, 113.7500
+Kelanang, 2.8000, 101.4333
+Kelang, 3.0333, 101.4500
+Keluang, 2.0333, 103.3167
+Kemasik, 4.4167, 103.4500
+Kemayan, 3.1333, 102.3667
+Kemubu, 5.3000, 102.0167
+Keningau, 5.3333, 116.1667
+Kepala Batas, 5.5167, 100.4333
+Kerling, 3.5833, 101.6000
+Keroh, 5.7167, 101.0000
+Kerteh, 4.5167, 103.4500
+Kijal, 4.3500, 103.4833
+Klagan, 5.9667, 117.4500
+Kelang, 3.0333, 101.4500
+Keluang, 2.0333, 103.3167
+Kemasik, 4.4167, 103.4500
+Kemayan, 3.1333, 102.3667
+Kemubu, 5.3000, 102.0167
+Keningau, 5.3333, 116.1667
+Kepala Batas, 5.5167, 100.4333
+Kerling, 3.5833, 101.6000
+Keroh, 5.7167, 101.0000
+Kerteh, 4.5167, 103.4500
+Kijal, 4.3500, 103.4833
+Klagan, 5.9667, 117.4500
+Klang > Kelang, 3.0333, 101.4500
+Kodiang, 6.4000, 100.3000
+Kota(Kedah), 5.5833, 100.3833
+Kota(Negari Sembilan), 2.5167, 102.1667
+Kota Baharu, 6.1333, 102.2500
+Kota Kinabalu(Jesseleton), 5.9833, 116.0667
+Kota Sarang Semut, 5.9833, 100.4000
+Kota Tinggi, 1.7333, 103.9000
+Kuah, 6.3167, 99.8500
+Kuala Berang, 5.0667, 103.0167
+Kuala Dungun, 4.7833, 103.4333
+Kuala Kangsar, 4.7667, 100.9333
+Kuala Kedah, 6.1000, 100.3000
+Kuala Kelawang, 2.9333, 102.0833
+Kuala Kerai, 5.5333, 102.2000
+Kuala Kerau, 3.7167, 102.3667
+Kuala Ketil, 5.6000, 100.6500
+Kuala Kubu Baharu, 3.5667, 101.6500
+Kuala Kurau, 5.0167, 100.4333
+Kuala Lipis, 4.1833, 102.0500
+Kuala Lumpur, 3.1667, 101.7000
+Kuala Nerang, 6.2500, 100.6000
+Kuala Pilah, 2.7333, 102.2500
+Kuala Selangor, 3.3500, 101.2500
+Kuala Terengganu, 5.3333, 103.1333
+Kuamut, 5.2167, 117.5000
+Kuantan, 3.8000, 103.3333
+Kubu Gajah, 5.1667, 100.6833
+Kuching, 1.5500, 110.3333
+Kudat, 6.8833, 116.8333
+Kukup, 1.3167, 103.4500
+Kulai, 1.6667, 103.6000
+Kulim, 5.3667, 100.5667
+Labis, 2.3833, 103.0333
+Labuan, 5.2833, 115.2500
+Ladang Jagor, 4.7000, 101.5833
+Lahad Datu, 5.0333, 118.3167
+Lahat, 4.5500, 101.0333
+Lamag, 5.4833, 117.8167
+Lanas, 5.3333, 116.5000
+Lanchang, 3.5000, 102.1833
+Lawin, 5.3000, 101.0667
+Layang Layang, 1.8167, 103.4833
+Lekir, 4.1167, 100.7333
+Lenga, 2.2833, 102.8167
+Limbang, 4.7500, 115.0000
+Lio Matoh, 3.1667, 115.2333
+Litang, 5.3333, 118.5167
+Lombong, 1.8000, 103.8500
+Long Akah, 3.3167, 114.7833
+Long Belepai, 2.7500, 114.0667
+Long Lama, 3.7667, 114.4000
+Long Teru, 3.8667, 114.2500
+Lubok China, 2.4500, 102.0667
+Lumut, 4.2333, 100.6333
+Lutong, 4.4667, 114.0000
