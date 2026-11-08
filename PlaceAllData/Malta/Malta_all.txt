@@ -1,0 +1,10 @@
+Birzebbuga, 35.8167, 14.5333
+Citta Vecchia, 35.8833, 14.4000
+La Valette > Valletta, 35.9000, 14.5167
+Medina, 35.8833, 14.4000
+Notavbile, 35.8833, 14.4000
+Rabat, 35.8667, 14.4167
+Rabat(Victoria), 36.0333, 14.2333
+Valletta, 35.9000, 14.5167
+Vecchia, 35.8833, 14.4000
+Zeitun, 35.8500, 14.5333
