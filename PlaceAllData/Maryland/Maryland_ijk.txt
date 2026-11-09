@@ -1,0 +1,169 @@
+Idlewilde, 38.8500, -76.4964
+Idlewylde, 39.3753, -76.5900
+Iglehart, 39.0117, -76.5678
+Ijamsville, 39.3603, -77.3231
+Ilchester, 39.2508, -76.7650
+Indian Hammock, 37.9964, -75.7700
+Indian Head, 38.6000, -77.1625
+Indian Head Manor, 38.6328, -77.0611
+Indian Head Plant, 38.5833, -77.2000
+Indian Queen East, 38.7833, -76.9667
+Indian Queen Estates, 38.7833, -76.9667
+Indian Spring Terrace, 39.0128, -77.0125
+Indian Spring Village, 39.0189, -77.0036
+Indian Springs(Frederick), 39.4647, -77.4478
+Indian Springs(Washington), 39.6464, -78.0019
+Indian Town, 39.1189, -76.0953
+Indianbone, 38.4900, -76.0128
+Indiantown(St Mary's), 38.3650, -76.8350
+Indiantown(Worcester), 38.1886, -75.4078
+Ingleside, 39.0922, -75.8772
+Inverness, 39.2625, -76.4925
+Inverness Forest, 39.0500, -77.1667
+Inverness Village, 39.0500, -77.1667
+Inwood, 39.3022, -77.0206
+Iron Hill, 39.6456, -75.7908
+Iron Pot Landing, 38.7931, -76.7208
+Ironshire, 38.2839, -75.2314
+Ironsides, 38.4917, -77.1600
+Irvington, 39.2828, -76.6864
+Island Creek, 38.4489, -76.5608
+Island View Beach, 39.2667, -76.3969
+Issue, 38.2833, -76.8833
+Iverness, 38.1350, -75.8114
+Ivory, 39.2825, -76.9789
+Ivory Mill, 39.6742, -76.5367
+Ivy Hills, 39.2667, -76.8167
+Ivytown, 38.7667, -76.0667
+Jackson, 39.5825, -76.0422
+Jackson, 39.5167, -77.5500
+Jackson Landing, 38.7728, -76.7103
+Jacksonville(Baltimore), 39.5181, -76.5597
+Jacksonville(Somerset), 37.9833, -75.8500
+Jacktown, 38.5667, -76.0833
+Jacobsville, 39.1214, -76.5178
+James, 38.5856, -76.2589
+Jarrettsville, 39.6044, -76.4781
+Jasontown, 39.5681, -77.0703
+Jefferson, 39.3619, -77.5319
+Jefferson Heights(Prince George's), 38.9000, -76.9000
+Jefferson Heights(Frederick), 39.3667, -77.5333
+Jenkins, 39.4819, -76.4811
+Jenkins Corner, 38.7864, -76.8975
+Jenkins Landing, 38.4011, -75.7719
+Jennings, 39.6464, -79.1828
+Jericho Park, 39.0178, -76.7653
+Jersey, 37.9742, -75.8611
+Jerusalem(Baltimore), 39.4628, -76.3894
+Jerusalem(Frederick), 39.5242, -77.5803
+Jerusalem, 39.1592, -77.4064
+Jessup, 39.1492, -76.7756
+Jesterville, 38.2867, -75.8961
+Jewell, 38.7547, -76.6189
+Jimtown, 39.5992, -77.3931
+Johnny Landing, 38.1658, -76.4767
+Johns Hopkins Hospital, 39.2969, -76.5919
+Johnsons, 39.7000, -78.9833
+Johnsontown, 39.1375, -76.1169
+Johnstown, 38.3289, -76.4639
+Johnsville(Carroll), 39.4164, -76.9575
+Johnsville(Frederick), 39.5339, -77.2311
+Jones, 39.0561, -76.5294
+Jones Landing, 39.2592, -75.8544
+Jonestown(Caroline), 38.7294, -75.8917
+Jonestown(Howard), 39.2219, -76.8078
+Jonestown(St Mary's), 38.2561, -76.4392
+Jonesville, 39.1575, -77.3975
+Joppa, 39.4336, -76.3581
+Joppa Heights, 39.4019, -76.5464
+Joppa Manor, 39.3967, -76.5319
+Joppa Springs, 39.3833, -76.5500
+Joppatowne, 39.4167, -76.3500
+Josenhans, 39.3161, -76.4492
+Joyce, 39.0247, -76.5203
+Joyce Lane, 39.0500, -76.5000
+Jugtown, 39.6125, -77.5942
+Jumptown, 38.9611, -75.9189
+Kaese Mill, 39.6503, -79.2964
+Kalmia, 39.6053, -76.3044
+Kalten Acres, 39.5667, -76.9833
+Kane Crossroads, 39.1200, -75.8097
+Kastle Acres, 38.7833, -76.8833
+Kaywood Gardens, 38.9431, -76.9694
+Kearney, 39.3431, -79.3225
+Keedysville, 39.4861, -77.7000
+Keeler Glade, 39.6500, -79.4000
+Keifers, 39.5308, -78.4661
+Keller, 39.3358, -77.4436
+Kemp Mill, 39.0333, -77.0167
+Kemp Mill Estates, 39.0422, -77.0222
+Kemps, 39.6136, -77.8136
+Kempton, 39.2067, -79.4856
+Kemptown, 39.3364, -77.2281
+Ken Gar, 39.0314, -77.0783
+Kendall, 39.6333, -79.4178
+Kenilworth Park, 39.3542, -76.5983
+Kenmore, 38.9333, -76.8833
+Kennedyville, 39.3053, -75.9953
+Kensington, 39.0256, -77.0767
+Kensington Estates, 39.0272, -77.0844
+Kensington Heights, 39.0328, -77.0642
+Kensington Knolls, 39.0433, -77.0736
+Kensington View, 39.0397, -77.0600
+Kent, 38.9167, -76.8500
+Kent Island, 38.9500, -76.3167
+Kent Island Estates, 38.9833, -76.3167
+Kent Village, 38.9250, -76.8844
+Kentland, 38.9236, -76.8803
+Kentmore Park, 39.3664, -75.9678
+Kentmorr, 38.9833, -76.3167
+Kenwood(Baltimore), 39.2714, -76.7111
+Kenwood(Montgomery), 38.9708, -77.1056
+Kenwood Beach, 38.4978, -76.5036
+Kenwood Park, 38.9775, -77.1183
+Kerby Hill, 38.7803, -77.0025
+Kerby Hills, 38.8000, -76.9833
+Kernan Hospital, 39.3153, -76.7092
+Kettering, 38.7833, -76.8667
+Keymar, 39.5994, -77.2372
+Keysers Ridge, 39.7000, -79.1667
+Keysville, 39.6339, -77.2589
+Kidmore Lane, 38.9667, -76.8500
+Kidwells Corner, 38.8958, -76.7189
+Kifer, 39.5667, -78.4833
+Kilby Corner, 39.6775, -76.1594
+Kilmarock, 38.9883, -76.9986
+Kimberley, 38.9806, -77.1503
+Kings County, 39.4833, -76.3833
+Kings Grove, 39.7167, -78.7333
+Kings Manor, 38.6000, -76.9500
+Kings Ridge, 39.3850, -76.5442
+Kings Valley, 39.2686, -77.2353
+Kingsley, 39.2647, -77.2789
+Kingston, 38.0744, -75.7283
+Kingston Landing, 38.7817, -75.9656
+Kingstown, 39.2047, -76.0517
+Kingsville, 39.4486, -76.4181
+Kirby Landing, 39.2492, -75.8758
+Kirkham, 38.7625, -76.1444
+Kirkwood, 38.9594, -76.9686
+Kitts Hill, 38.3322, -75.1872
+Kittys Corner, 38.8461, -75.9842
+Kitzmiller, 39.3878, -79.1825
+Klej Grange, 38.0667, -75.5667
+Kline Mill, 39.5506, -77.6789
+Klondike, 39.6092, -78.9628
+Knapps Meadow, 39.5667, -78.9833
+Knettishall, 39.3928, -76.5700
+Knoebel, 39.4897, -76.5231
+Knoebels Corner, 39.4500, -76.5000
+Knollview, 39.2667, -76.8167
+Knollwood(Howard), 39.2636, -77.0261
+Knollwood(Prince George's), 39.0258, -76.9583
+Knollwood(Baltimore), 39.3875, -76.5950
+Knotts Crossing, 38.5942, -77.1219
+Knoxville, 39.3269, -77.6644
+Kolbes Corner, 38.9003, -76.7928
+Kraft Corner, 39.3331, -76.8222
+Kreigbaum, 39.6922, -78.7861
+Kump Station, 39.6667, -77.1667

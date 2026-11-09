@@ -1,0 +1,189 @@
+Table Rock, 39.3000, -79.3500
+Takoma Park, 38.9778, -77.0078
+Tall Timbers, 38.1689, -76.5453
+Tammany Manor, 39.6000, -77.8167
+Taneytown, 39.6578, -77.1747
+Tangier, 38.1500, -75.9167
+Tanglewood, 38.9992, -76.4372
+Tannery, 39.5706, -76.9483
+Tantallon, 38.7239, -77.0100
+Tanterra, 39.1833, -77.0500
+Tanyard, 38.7506, -75.9769
+Tappers Corner, 38.8856, -75.9611
+Taylor, 39.5761, -76.5175
+Taylor Landing, 38.0753, -75.3658
+Taylors Island, 38.4689, -76.2994
+Taylors Landing, 39.4989, -77.7678
+Taylorsville, 39.4578, -77.0869
+Taylorville, 38.3583, -75.1686
+TB, 38.7011, -76.8747
+Temple Heights, 38.8167, -76.9333
+Temple Hills, 38.8139, -76.9458
+Temple Hills Park, 38.8094, -76.9444
+Temple Woods, 38.8167, -76.9333
+Templeton Knolls, 38.9667, -76.9167
+Templeton Manor, 38.9667, -76.9167
+Templeville, 39.1361, -75.7664
+Ten Hills, 39.2842, -76.7014
+Terrace Gardens, 39.0403, -76.5111
+Texas, 39.4636, -76.6439
+Thayerville, 39.5017, -79.3269
+The Downs, 39.0500, -76.5000
+The Elbow, 39.5833, -79.0500
+The Glen, 39.0500, -77.1667
+The Hamlet, 38.9867, -77.0739
+The Oaks, 39.2667, -76.8167
+The Orchards, 39.2667, -76.8167
+The Pines, 38.7833, -76.8667
+Theodore, 39.6386, -76.0103
+Thistle, 39.2536, -76.7672
+Thomas, 38.5714, -76.2772
+Thomas Choice, 39.1333, -77.2000
+Thomas Run, 39.5906, -76.2839
+Thomas Town, 38.9169, -75.9286
+Thompkinsville, 38.3167, -76.8833
+Thompson, 38.5358, -76.0311
+Thompson Corner, 38.4494, -76.7861
+Thompsons Corner, 39.2422, -77.3264
+Thompsontown, 38.5747, -75.9006
+Thomson Estates, 39.6167, -75.8333
+Thornleigh, 39.3833, -76.6333
+Thorwood Park, 39.3833, -76.5500
+Threemile Oak Corner, 38.9861, -76.5478
+Thrift, 38.7192, -76.9328
+Thurmont, 39.6236, -77.4111
+Thurston, 39.2800, -77.3583
+Tilden Woods, 39.0469, -77.1408
+Tilghman, 38.7169, -76.3347
+Tilghman Island Landing, 38.7086, -76.3303
+Tilghmanton, 39.5333, -77.7411
+Timber Grove, 39.4333, -76.8000
+Timber Ridge, 39.2000, -76.7167
+Timberview, 39.2500, -76.6833
+Timmonstown, 38.3417, -75.3036
+Timonium, 39.4369, -76.6200
+Tintop Hill, 38.3222, -76.6189
+Tippett, 38.7472, -76.9325
+Tobytown, 39.1333, -77.2000
+Toddville, 38.2997, -76.0708
+Tolchester Beach, 39.2206, -76.2361
+Tollgate, 39.4333, -76.8000
+Tompkinsville, 38.3217, -76.8928
+Tonytank, 38.3667, -75.6000
+Tower Acres, 39.0833, -76.9667
+Tower Garden on the Bay, 38.9833, -76.3167
+Town Creek(Allegany), 39.5256, -78.5392
+Town Creek(St Mary's), 38.3217, -76.4797
+Town Creek Manor, 38.2500, -76.4500
+Town Point, 39.4956, -75.8967
+Townshend, 38.6650, -76.8672
+Towson, 39.4014, -76.6022
+Towson Estates, 39.3975, -76.5792
+Towson Park, 39.4072, -76.6056
+Tracys Landing, 38.7800, -76.5961
+Trappe(St Mary's), 38.1500, -76.3667
+Trappe(Talbot), 38.6583, -76.0583
+Trappe(Worcester), 38.3142, -75.1911
+Trappe Landing, 38.6561, -76.0853
+Trappe Station, 38.6833, -76.1667
+Travilah, 39.0689, -77.2633
+Treasure Cove, 38.7833, -76.9667
+Trego, 39.4331, -77.6783
+Trent Hall, 38.4333, -76.7333
+Trenton, 39.5789, -76.8081
+Trenton Mill, 39.5753, -76.8114
+Trevanion, 39.6244, -77.1397
+Trinity, 38.2936, -75.7467
+Triple Lakes, 39.5811, -78.8469
+Troupe Springs, 39.6742, -77.7931
+Troutville, 39.5533, -77.3375
+Troyer, 39.6050, -76.5783
+Truitt, 38.3467, -75.3656
+Truitt Landing, 38.0992, -75.3386
+Truxton Heights, 38.9667, -76.5061
+Tulip Hill(Montgomery), 38.9672, -77.1339
+Tulip Hill(Frederick), 39.4333, -77.4500
+Tulls Corner, 38.0153, -75.7544
+Tunis Mills, 38.8203, -76.1667
+Turkey Point, 38.9061, -76.4967
+Turner, 39.2447, -76.5150
+Tuscarora, 39.2567, -77.4706
+Tuxedo, 38.9208, -76.9194
+Tuxedo Colony, 38.9122, -76.9111
+Twiggs Corner, 38.3100, -75.7042
+Twiggtown, 39.6394, -78.6558
+Twin Brook, 39.0744, -77.1203
+Twin Brook Forest, 39.0808, -77.1178
+Twin River Beach, 39.3333, -76.4500
+Twinkling Acres, 38.7833, -76.8833
+Two Locks, 39.6150, -77.9242
+Tyaskin, 38.3219, -75.8739
+Tydings On The Bay, 39.0361, -76.4114
+Tyler, 39.4275, -76.8536
+Tyler Heights, 38.9594, -76.4983
+Tylerton, 37.9678, -76.0233
+Tyrone, 39.6186, -77.0939
+U S Public Health Service Hospital, 39.3247, -76.6242
+Unicorn, 39.2481, -75.8633
+Union Bridge, 39.5689, -77.1772
+Union Corner, 39.0333, -75.7833
+Union Hospital, 39.6083, -75.8331
+Union Memorial Hospital, 39.3289, -76.6144
+Union Mills, 39.6697, -77.0250
+Union Street, 39.6500, -78.7167
+Uniontown, 39.5933, -77.1164
+Unionville(Baltimore), 39.4667, -76.5167
+Unionville(Frederick), 39.4747, -77.1858
+Unionville(Talbot), 38.8133, -76.1400
+Unionville(Worcester), 38.0606, -75.5994
+Unity, 39.1833, -77.0500
+University, 39.2261, -77.0697
+University Gardens, 38.9814, -76.9703
+University Hills, 38.9833, -76.9667
+University Hospital, 39.2881, -76.6244
+University Park, 38.9703, -76.9422
+Upper Crossroads, 39.5422, -76.4744
+Upper Fairmount, 38.1039, -75.7917
+Upper Falls, 39.4372, -76.4036
+Upper Ferry Estates, 38.3667, -75.6000
+Upper Hill, 38.1117, -75.7906
+Upper Homewood, 39.6333, -78.8000
+Upper Marlboro, 38.8158, -76.7500
+Upperco, 39.5628, -76.8356
+Urbana, 39.3258, -77.3517
+Utica, 39.5258, -77.3942
+Utica Mills Estates, 39.6333, -77.4167
+Vale, 39.5333, -76.3917
+Vale Summit, 39.6186, -78.9064
+Valley Crest, 39.4364, -76.6019
+Valley Lee, 38.1958, -76.5131
+Valley Mede, 39.2667, -76.8167
+Valley Mill, 39.6733, -76.6928
+Valley Stream, 39.3767, -76.6861
+Valley Stream Estates, 39.1081, -76.9222
+Valley View(Howard), 39.2667, -76.8167
+Valley View(Prince George's), 38.7833, -76.9667
+Valleywood, 38.3667, -75.6000
+Van Bibber, 39.4436, -76.3022
+Van Bibber Manor, 39.3833, -76.2500
+Van Lear Manor, 39.6000, -77.8167
+Vansville, 39.0433, -76.8958
+Vardo, 39.6164, -77.7394
+Venice on the Bay, 39.1553, -76.4794
+Venton(Somerset), 38.1967, -75.7794
+Vernon(Baltimore), 39.6372, -76.5981
+Verona, 39.5600, -76.6561
+Victor Cullen State Hospital, 39.7122, -77.4583
+Victor Haven, 38.9539, -76.4931
+Victory Villa, 39.3411, -76.4572
+Vienna, 38.4847, -75.8250
+Viers Mill Village, 39.0558, -77.0822
+View More Acres, 39.4333, -77.4500
+Villa Cresta, 39.3775, -76.5458
+Villa Heights, 38.9372, -76.9189
+Villa Maria, 39.2500, -76.6833
+Villa Monticello, 39.3167, -77.0167
+Villa Nova, 39.3514, -76.7339
+Village Square North, 39.0833, -76.9667
+Violetville, 39.2675, -76.6747
+Vista Raceway, 38.9558, -76.8272

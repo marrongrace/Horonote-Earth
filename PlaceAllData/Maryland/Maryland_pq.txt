@@ -1,0 +1,243 @@
+Padonia, 39.4558, -76.6331
+Pagetts Corner, 38.7931, -76.9286
+Paint Branch Estates, 39.0667, -76.9833
+Paint Branch Farm, 39.0667, -76.9833
+Paint Branch Farms, 39.0806, -76.9942
+Palmer Park, 38.9208, -76.8719
+Palmers, 38.2336, -76.7578
+Palmers Corner, 38.7756, -76.9581
+Palmetto, 38.2239, -75.6461
+Paradise, 39.2694, -76.7183
+Paradise Beach, 39.1483, -76.4639
+Paramount, 39.6831, -77.6964
+Paramount Manor, 39.6500, -77.7333
+Paris, 38.7025, -76.5831
+Park Hall(Washington), 39.4550, -77.6478
+Park Hall(St Mary's), 38.2167, -76.4333
+Park Head, 39.6631, -78.0628
+Park Mills, 39.2978, -77.4081
+Park Overlook, 39.1000, -77.1833
+Park Ridge, 39.1333, -77.2000
+Parker Creek, 38.5256, -76.5333
+Parker Wharf, 38.4244, -76.5672
+Parkertown, 38.3869, -75.1864
+Parkland, 38.8503, -76.9053
+Parkland Apartments, 38.8500, -76.9000
+Parkland Terrace, 38.8419, -76.9267
+Parkside, 39.0275, -77.1042
+Parkside Estates, 39.1000, -77.1833
+Parkton, 39.6408, -76.6594
+Parktowne, 39.3833, -76.5500
+Parkview, 38.7833, -76.8833
+Parkview Estates, 39.0053, -77.0667
+Parkview Gardens, 38.9667, -76.9167
+Parkville, 39.3772, -76.5400
+Parkville Heights, 39.3806, -76.5517
+Parkwood, 39.0197, -77.0917
+Parole, 38.9794, -76.5308
+Parran, 38.6028, -76.5706
+Parrsville, 39.3628, -77.1542
+Parsons, 38.3833, -75.5500
+Parsonsburg, 38.3875, -75.4714
+Parsonville, 37.9922, -75.7847
+Partridge Place, 39.1333, -77.2000
+Pasadena, 39.1072, -76.5714
+Passapae Landing, 38.9242, -75.8258
+Patapsco(Anne Arundel), 39.2136, -76.6881
+Patapsco(Carroll), 39.5386, -76.8922
+Patricks Landing, 38.3450, -75.6619
+Patterson, 39.2833, -76.5833
+Patuxent(Charles), 38.5392, -76.7489
+Patuxent(Anne Arundel), 39.0547, -76.7364
+Patuxent Beach, 38.3000, -76.5167
+Patuxent Palisades, 38.7167, -76.6667
+Patuxent Park, 38.2500, -76.4500
+Patuxent River, 38.3000, -76.4333
+Pauls Corner, 38.0406, -75.7436
+Pea Hill, 38.3083, -75.7483
+Peach Orchard Heights, 39.1022, -76.9581
+Peachwood, 39.0667, -76.9833
+Peacock Corners, 39.2550, -75.8125
+Pealiquor Landing, 38.8550, -75.8456
+Pearl, 39.4333, -77.4500
+Pearre, 39.6364, -78.3228
+Pecktonville, 39.6697, -78.0444
+Pekin, 39.5333, -79.0000
+Pen Mar, 39.7178, -77.5067
+Pendennis Mount, 38.9983, -76.4764
+Pepper Mill Village, 38.9000, -76.9000
+Perry Hall, 39.4125, -76.4639
+Perry Hall Estates, 39.3833, -76.5000
+Perry Hall Manor, 39.4000, -76.4833
+Perry Point, 39.5542, -76.0722
+Perry Wright, 38.5967, -77.1522
+Perryman, 39.4694, -76.2047
+Perrys Corner, 38.9667, -76.2167
+Perryville, 39.5600, -76.0717
+Perrywood Estates, 39.0983, -76.9447
+Peters Corners, 39.1961, -75.7892
+Petersburg, 38.6036, -75.8569
+Petersville, 39.3464, -77.6111
+Pfeiffer Corners, 39.1972, -76.7942
+Phelps, 38.8497, -76.8714
+Phelps Corner, 38.8056, -76.9733
+Phoenix, 39.5164, -76.6164
+Picketts Corner, 39.4081, -77.0536
+Pigeon House Corner, 38.9914, -76.7036
+Pike, 39.0667, -77.1500
+Pikesville, 39.3742, -76.7228
+Pilot, 39.7039, -76.2017
+Pimlico Race Track, 39.3667, -76.6833
+Pindell, 38.7756, -76.6833
+Pine Bluff Sanitarium, 38.3433, -75.6272
+Pine Cliff, 39.4333, -77.4500
+Pine Grove Village, 39.1500, -76.5500
+Pine Hill, 39.0431, -76.9781
+Pine Knoll, 39.5667, -76.9833
+Pine Knolls, 39.0364, -77.1939
+Pine Landing, 38.1647, -76.4783
+Pine Orchard, 39.2775, -76.8614
+Pine Ridge, 39.4158, -76.5244
+Pine Valley, 39.4333, -76.6167
+Pine Whiff Beach, 38.9406, -76.5517
+Pinecrest, 38.9833, -77.0167
+Pinefield, 38.6333, -76.8833
+Pinehurst(Anne Arundel), 39.1175, -76.4339
+Pinehurst(Baltimore), 39.3733, -76.6189
+Pinehurst Estates, 38.8000, -76.9833
+Pinel Clinic Hospital, 39.2564, -76.7956
+Pines-on-Severn, 39.0203, -76.5014
+Pinesburg, 39.6292, -77.8583
+Pinewood Hill, 38.7833, -76.9667
+Piney Glen Farms, 39.0500, -77.1667
+Piney Grove(Allegany), 39.7058, -78.3775
+Piney Grove(Garrett), 39.6847, -79.0733
+Piney Grove(Kent), 39.1808, -76.0758
+Piney Hill, 39.5697, -76.6586
+Piney Point, 38.1422, -76.5078
+Pinto, 39.5697, -78.8394
+Pioneer City, 39.1500, -76.6667
+Pipe Creek Mill, 39.6678, -77.1028
+Piscataway, 38.7006, -76.9725
+Piscataway Hills, 38.7075, -76.9978
+Pisgah, 38.5461, -77.1350
+Pittsville, 38.3953, -75.4133
+Plainfield, 38.3667, -75.6000
+Plane Number Four, 39.3667, -77.1500
+Pleasant Grove, 39.5439, -76.7983
+Pleasant Hill(Cecil), 39.6703, -75.9025
+Pleasant Hill(Baltimore), 39.4333, -76.8000
+Pleasant Hills, 39.4833, -76.3833
+Pleasant Springs, 38.6906, -76.9019
+Pleasant Valley(Carroll), 39.6331, -77.0464
+Pleasant Valley(Washington), 39.6364, -77.5361
+Pleasant Valley(Allegany), 39.7097, -78.6408
+Pleasant View(Howard), 39.2667, -76.8167
+Pleasant View(Frederick), 39.2828, -77.4942
+Pleasant Walk, 39.5397, -77.5864
+Pleasantville(Harford), 39.5456, -76.4419
+Pleasantville(Washington), 39.3397, -77.7381
+Plum Point, 38.6142, -76.5125
+Plyers Mill Estates, 39.0275, -77.0511
+Pocomoke, 38.0833, -75.5667
+Pocomoke City, 38.0756, -75.5683
+Point Landing, 38.5447, -77.2306
+Point Lookout, 38.0833, -76.3500
+Point of Rocks, 39.2758, -77.5394
+Point of Rocks Estates, 39.2833, -77.5333
+Point Pleasant, 39.1786, -76.5878
+Pointer Ridge, 38.5000, -75.8667
+Polk Landing, 38.2650, -75.7208
+Polk Road, 38.2606, -75.7458
+Pomfret, 38.5772, -77.0308
+Pomona, 39.1622, -76.1097
+Pomonkey, 38.6078, -77.0719
+Pomonkey Landing, 38.6339, -77.0981
+Ponder Cove, 38.8989, -76.5203
+Pondsville, 39.6206, -77.5881
+Pondtown, 39.2139, -75.9133
+Pooks Hill, 39.0139, -77.1064
+Poole, 39.6411, -76.2561
+Poolesville, 39.1458, -77.4172
+Popes Creek, 38.3989, -76.9914
+Poplar, 39.3542, -76.4528
+Poplar Grove, 39.6369, -76.2678
+Poplar Hill, 38.6222, -76.7414
+Poplar Hill Estates, 38.7833, -76.8833
+Poplar Knob, 39.6333, -77.4167
+Poplar Neck, 38.4083, -75.3875
+Poplar Springs, 39.3433, -77.0967
+Poplars, 38.6725, -76.5511
+Port Deposit, 39.6047, -76.1156
+Port Herman, 39.5019, -75.9025
+Port Republic, 38.5008, -76.5297
+Port Tobacco, 38.5136, -77.0186
+Port Tobacco Riviera, 38.5108, -77.0300
+Porters Crossing, 38.2228, -75.3636
+Porters Park, 39.2550, -76.4064
+Porterstown, 39.4658, -77.7133
+Pot Spring, 39.4472, -76.5981
+Potomac, 39.5675, -78.8392
+Potomac, 39.0181, -77.2089
+Potomac Falls, 39.0133, -77.2308
+Potomac Green, 39.0500, -77.1667
+Potomac Heights, 38.6086, -77.1408
+Potomac Heights, 39.6500, -77.7333
+Potomac Hunt Acres, 39.0347, -77.2403
+Potomac Manors, 39.0169, -77.2214
+Potomac Park, 39.6117, -78.8061
+Potomac Ranch, 39.0500, -77.1667
+Potomac Shores, 38.5167, -77.0167
+Potomac Valley, 38.9667, -77.1333
+Potomac Valley Nursing Home, 39.0733, -77.1603
+Potomac View, 38.2833, -76.8958
+Potomac Woods, 39.0628, -77.1706
+Potters Landing, 38.8317, -75.8547
+Powder Mill Estates, 39.0356, -76.9453
+Powder Mill Village, 39.0333, -76.9167
+Powellville, 38.3286, -75.3758
+Powhatan Beach, 39.1381, -76.5650
+Powhattan Mill, 39.3333, -76.7167
+Prathertown, 39.1969, -77.1989
+Pratt, 39.6906, -78.5067
+Preston, 38.7117, -75.9086
+Preston Manor, 39.4667, -76.2833
+Prettyboy, 39.6058, -76.7206
+Price, 39.0975, -75.9592
+Priceville, 39.5450, -76.6694
+Primrose Acres, 38.9586, -76.5042
+Prince Frederick, 38.5403, -76.5847
+Prince Georges Hospital, 38.9303, -76.9211
+Prince Georges Plaza, 38.9500, -76.9500
+Princess Anne, 38.2028, -75.6928
+Princeton, 38.8167, -76.9333
+Principio Furnace, 39.5750, -76.0392
+Prospect, 39.6903, -76.3031
+Prospect Knolls, 38.9500, -76.7833
+Providence(Baltimore), 39.4239, -76.5628
+Providence(Cecil), 39.6903, -75.8764
+Providence(Talbot), 38.7703, -75.9661
+Providence Landing, 38.7636, -75.9761
+Public Landing, 38.1489, -75.2878
+Pumphrey, 39.2172, -76.6375
+Pumpkin Center, 39.6217, -78.5656
+Puncheon Landing, 38.0764, -75.6072
+Purdum, 39.2844, -77.2406
+Pusey Landing, 39.0736, -76.0961
+Putnam, 39.5653, -76.4606
+Putty Hill, 39.3767, -76.5064
+Pylesville, 39.6897, -76.3733
+Quail Run, 39.1333, -77.2000
+Quaint Acres, 39.0461, -76.9972
+Quaker Neck Landing, 39.1300, -76.0969
+Quaker Ridge, 38.7833, -76.8667
+Quantico, 38.3742, -75.7428
+Queen Anne, 38.9208, -75.9556
+Queen Anne Colony, 38.9833, -76.3167
+Queen Tree Landing, 38.4219, -76.6239
+Queens Chapel, 38.9667, -76.9667
+Queens Chapel Manor, 38.9586, -76.9614
+Queenstown(Prince George's), 38.9506, -76.9650
+Queenstown(Queen Anne's), 38.9906, -76.1581
+Quince Orchard, 39.1178, -77.2528
+Quincy Manor, 38.9667, -76.8833

@@ -1,0 +1,176 @@
+Fair Hill, 39.7022, -75.8683
+Fairbank, 38.6856, -76.3383
+Fairfield(Carroll), 39.5667, -76.9833
+Fairfield(Wicomico), 38.3667, -75.6000
+Fairfield(Baltimore City), 39.2378, -76.5794
+Fairfield Knolls, 38.8500, -76.9000
+Fairgreen Acres, 39.6500, -77.7333
+Fairhaven, 38.7442, -76.5581
+Fairhaven-on-the-Bay, 38.7517, -76.5564
+Fairidge, 39.1333, -77.2000
+Fairknoll, 39.0761, -76.9831
+Fairland, 39.0761, -76.9581
+Fairland Acres, 39.1167, -76.9333
+Fairland Heights, 39.0847, -76.9617
+Fairlee, 39.2225, -76.1722
+Fairmont, 39.5333, -76.3500
+Fairmount, 38.0903, -75.8178
+Fairmount Heights, 38.9008, -76.9158
+Fairplay(Washington), 39.5364, -77.7478
+Fairplay(Allegany), 39.5219, -78.4644
+Fairtown, 39.2728, -76.5228
+Fairview(Anne Arundel), 39.1536, -76.4958
+Fairview(Garrett), 39.5933, -79.1464
+Fairview(Washington), 39.7036, -78.1781
+Fairview Estates, 39.0650, -76.9867
+Fairview Mill, 39.7006, -77.8306
+Fairway(Harford), 39.5333, -76.3500
+Fairway(Montgomery), 39.0189, -77.0192
+Fairway Hills, 38.9706, -77.1383
+Falls Orchard, 39.0656, -77.1719
+Fallstaff, 39.3683, -76.7069
+Fallston, 39.5144, -76.4114
+Farmington(Cecil), 39.6786, -76.0325
+Farmington(Montgomery), 38.9833, -77.0833
+Faulkner, 38.4389, -76.9786
+Faulkner Ridge, 39.2667, -76.8167
+Fawsett Farms, 38.9978, -77.2222
+Feagaville, 39.3858, -77.4758
+Federal Hill, 39.6408, -76.4717
+Federalsburg, 38.6942, -75.7739
+Feesersburg, 39.5933, -77.2028
+Felicity Cove, 38.8472, -76.4942
+Fellowship Forest, 39.3914, -76.5869
+Fenby, 39.5272, -76.9928
+Fenwick, 38.6428, -77.1083
+Ferncliff, 39.6214, -76.4011
+Ferndale, 39.1831, -76.6406
+Fernglen Manor, 39.1667, -76.6167
+Fernwood, 39.0181, -77.1375
+Ferry Farms, 38.9942, -76.4792
+Ferry Road, 38.2994, -75.6908
+Fiddlesburg, 39.6575, -77.6889
+Figgs Landing, 38.1208, -75.2964
+Finchville, 38.6319, -75.7714
+Finksburg, 39.4928, -76.8897
+Finzel, 39.7144, -78.9456
+Fishing Creek, 38.3333, -76.2333
+Five Forks(Baltimore), 39.6789, -76.6583
+Five Forks(Frederick), 39.5489, -77.5014
+Fleishman Village, 38.8333, -76.9167
+Flickersville, 39.4503, -77.7025
+Flint, 39.6578, -77.4439
+Flint Hill, 39.3136, -77.3975
+Flintstone, 39.7031, -78.5681
+Flohrville, 39.3919, -76.9656
+Florence, 39.3103, -77.1089
+Flower Avenue Park, 38.9833, -77.0167
+Flower Valley Estates, 39.0833, -77.1167
+Floyd, 39.5042, -79.1558
+Font Hill, 39.2667, -76.8167
+Ford Landing, 39.2461, -75.8947
+Foremans Corner, 39.1858, -76.5519
+Forest Estates, 39.0211, -77.0400
+Forest Glen, 39.0144, -77.0550
+Forest Glen Park, 39.0114, -77.0594
+Forest Greens, 39.5167, -76.1667
+Forest Grove, 38.3728, -75.4744
+Forest Heights, 38.8094, -76.9983
+Forest Hill, 39.5850, -76.3881
+Forest Knolls, 39.0167, -77.0000
+Forest Lake, 39.5833, -76.3833
+Forest Manor, 38.8394, -76.8833
+Forest Park(Washington), 39.7028, -78.2997
+Forest Park(Baltimore City), 39.3258, -76.6822
+Forest Spring Park, 39.2833, -76.7167
+Forest Villa, 38.9722, -76.5219
+Foreston, 39.6136, -76.7556
+Forestville, 38.8450, -76.8753
+Forestville Estates, 38.8500, -76.9000
+Forestville Phelps Addition, 38.8500, -76.9000
+Forge Acres, 39.3833, -76.4333
+Forge Heights, 39.4000, -76.4833
+Fork, 39.4681, -76.4422
+Forrest Hall, 38.4333, -76.7333
+Forsythe, 39.6764, -77.9881
+Fort Carroll, 39.2139, -76.5192
+Fort Deterick, 39.4353, -77.4289
+Fort Detrick, 39.4333, -77.4500
+Fort Foote, 38.7667, -77.0278
+Fort Foote Estates, 38.8500, -76.9000
+Fort Foote Village, 38.7697, -77.0178
+Fort George G Meade, 39.1083, -76.7275
+Fort Holabird, 39.2667, -76.5336
+Fort Howard, 39.2072, -76.4453
+Fort Howard Veterans Hospital, 39.1992, -76.4458
+Fort McHenry, 39.2631, -76.5800
+Fort Meade, 39.1083, -76.7275
+Fort Meade Junction, 39.1258, -76.7894
+Fort Pendleton, 39.2953, -79.3744
+Fort Ritchie, 39.7000, -77.5000
+Fort Sumner, 38.9500, -77.1000
+Fort Washington Estates, 38.7833, -76.9667
+Fort Washington Forest, 38.7833, -76.9667
+Foundry Siding, 39.4833, -79.0500
+Fountain Green, 39.5472, -76.3139
+Fountain Green Heights, 39.5333, -76.3500
+Fountain Head, 39.7000, -77.7167
+Fountain Mills, 39.3414, -77.2683
+Fountain Rock, 39.4747, -77.3722
+Fountain Valley, 39.5969, -77.0467
+Fountaindale, 39.4333, -77.5500
+Four Corners(Caroline), 38.9633, -75.7653
+Four Corners(Montgomery), 39.0203, -77.0131
+Four Locks, 39.6156, -77.9475
+Four Winds, 39.3956, -76.6319
+Fourpoints, 39.6717, -77.2994
+Fowblesburg, 39.5439, -76.8378
+Fox Chapel, 39.1667, -77.2667
+Fox Hills, 39.0403, -77.1714
+Fox Hole Landing, 39.3739, -75.8297
+Fox Rest Woods, 39.0833, -76.9667
+Fox Trailer Village, 39.3333, -76.4500
+Foxhall, 39.0697, -77.0589
+Foxley Manor, 39.2167, -76.0667
+Foxtown, 39.6325, -79.2386
+Foxville, 39.6364, -77.4972
+Franklin(Allegany), 39.4981, -79.0464
+Franklin(Carroll), 39.4667, -77.0667
+Franklin Knolls, 39.0147, -76.9981
+Franklin Manor, 38.8014, -76.5150
+Franklin Manor-on-the-Bay, 38.8014, -76.5150
+Franklin Park, 39.0536, -77.0961
+Franklintown, 39.3044, -76.7119
+Franklinville(Baltimore), 39.4478, -76.3850
+Franklinville(Carroll), 39.4589, -77.0994
+Frederick, 39.4142, -77.4108
+Frederick Junction, 39.3717, -77.3886
+Fredericktown, 39.3661, -75.8842
+Freedom, 39.4094, -76.9725
+Freeland, 39.7047, -76.6842
+Frenchtown(Somerset), 38.0831, -75.8625
+Frenchtown(Cecil), 39.5753, -76.0819
+Fricks Crossing, 39.4114, -79.3336
+Friendly, 38.7517, -76.9789
+Friendly Farms, 38.7353, -76.9764
+Friends Creek, 39.7144, -77.4036
+Friendship(Montgomery), 39.3069, -77.1975
+Friendship(Worcester), 38.3717, -75.2117
+Friendship(Anne Arundel), 38.7367, -76.5897
+Friendship Heights, 38.9633, -77.0894
+Friendship Park, 39.6500, -77.7333
+Friendsville, 39.6636, -79.4056
+Frizzellburg, 39.6050, -77.0628
+Frogeye, 38.0275, -75.6906
+Frogtown, 39.5581, -76.3706
+Frostburg, 39.6581, -78.9286
+Frostown, 39.4831, -77.5897
+Fruitland, 38.3219, -75.6206
+Fuller, 39.4136, -77.4706
+Fullerton, 39.3717, -76.5114
+Fulton, 39.1508, -76.9233
+Funkstown, 39.6089, -77.7047
+Furnace(Harford), 39.5833, -76.4956
+Furnace(Worcester), 38.2042, -75.4719
+Furnace Branch, 39.1814, -76.6139
+Furnace Ford, 39.2431, -77.4397

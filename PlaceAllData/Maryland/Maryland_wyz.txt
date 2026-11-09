@@ -1,0 +1,302 @@
+Waddells Corner, 38.6514, -75.9033
+Waggaman Heights, 38.8069, -76.9425
+Wagner Landing, 38.2758, -75.7300
+Wagner Park, 39.5667, -76.9833
+Wagners Crossroads, 39.5739, -77.6467
+Wagners Mill, 39.5614, -77.0558
+Wakefield(Baltimore), 39.4478, -76.5925
+Wakefield(Carroll), 39.5553, -77.0739
+Wakefield Meadows, 39.5333, -76.3500
+Wakefield Mill, 39.5669, -77.0656
+Walbrook, 39.3089, -76.6717
+Walden Farms, 39.5989, -77.2117
+Waldon Woods, 38.7833, -76.8833
+Waldorf, 38.6244, -76.9394
+Walker, 39.6594, -76.6719
+Walker Mill, 38.8667, -76.9167
+Walkersville, 39.4861, -77.3522
+Wallman, 39.3169, -79.2842
+Wallville, 38.4153, -76.5056
+Walnut, 38.3192, -75.6642
+Walnut Grove Mills, 39.5086, -76.9297
+Walnut Hill, 39.1333, -77.2000
+Walnut Landing, 38.4206, -76.2464
+Walnut Ridge, 39.5667, -76.9833
+Walnut Woods, 39.0514, -77.1489
+Walston, 38.3853, -75.5053
+Walter Heights, 38.8167, -76.9333
+Wango, 38.3214, -75.4503
+Wardour, 38.9942, -76.4986
+Wardour Bluffs, 38.9950, -76.4950
+Wards Chapel, 39.3667, -76.7500
+Warfieldsburg, 39.5264, -77.0331
+Warington Hills, 38.5958, -77.1603
+Warlinda, 38.5333, -76.9833
+Warren, 39.4761, -76.6169
+Warwick, 39.4167, -75.7786
+Washington Grove, 39.1397, -77.1756
+Washington Junction, 39.2725, -77.5319
+Washington Sanitarium, 38.9861, -77.0019
+Waterbury, 39.0475, -76.6269
+Waterford, 38.8500, -76.9000
+Waterloo, 39.1719, -76.7853
+Wateroak Point, 39.1500, -76.5500
+Watersville, 39.3675, -77.1039
+Watervale, 39.5283, -76.3731
+Waterview, 38.2469, -75.9033
+Watkins Glen, 39.0500, -77.1667
+Waverly, 39.3283, -76.6064
+Wayside, 38.3833, -76.9500
+Weaverton, 39.3328, -77.6819
+Webster, 39.5733, -76.1567
+Webster Village, 39.5500, -76.1000
+Weems Creek, 38.9981, -76.5194
+Weidman, 39.1508, -75.9097
+Weisburg, 39.6167, -76.6333
+Welbourne, 38.0200, -75.4547
+Welcome, 38.4833, -77.1000
+Weldon, 39.4786, -77.1181
+Welhams, 39.1667, -76.6167
+Wellington, 38.1564, -75.6097
+Wellington Beach, 38.3661, -77.1958
+Wellington Estates, 39.0833, -76.9667
+Wells Corner, 38.8242, -76.7286
+Wellwood, 39.3767, -76.6914
+Wenona, 38.1389, -75.9506
+Wentz, 39.7083, -76.9167
+Wesley(Worcester), 38.2100, -75.3450
+Wesley(Dorchester), 38.3469, -76.0836
+Wesley Grove, 39.1869, -76.7597
+Wesmond, 39.1500, -77.4167
+West, 38.2000, -75.6833
+West Annapolis, 38.9908, -76.5000
+West Arlington, 39.3367, -76.6953
+West Baltimore, 39.2558, -76.6592
+West Beach, 38.6950, -76.5339
+West Bethesda, 39.0000, -77.1333
+West Bowie, 38.9500, -76.7833
+West Chevy Chase Heights, 38.9925, -77.0875
+West Denton, 38.8889, -75.8394
+West Edmondale, 39.2833, -76.6833
+West Elkridge, 39.2069, -76.7272
+West End, 39.0500, -76.5000
+West End Park, 39.0858, -77.1653
+West Forest Park, 39.3250, -76.6928
+West Friendship, 39.3025, -76.9531
+West Gate Woods, 38.9667, -76.8500
+West Hills(Baltimore), 39.2956, -76.7136
+West Hills(Frederick), 39.4333, -77.4500
+West Hyattsville, 38.9667, -76.9667
+West Lanham Hills, 38.9492, -76.8781
+West Laurel, 39.1167, -76.8833
+West Laurel Acres, 39.1083, -76.9019
+West Liberty, 39.6844, -76.5975
+West Nottingham, 39.6694, -76.0767
+West Oakland, 39.4167, -79.4500
+West Ocean City, 38.3314, -75.1072
+West Princess Anne, 38.2000, -75.7167
+West River, 38.8503, -76.5964
+West Riverdale, 38.9631, -76.9431
+West Severna Park, 39.0739, -76.5594
+West Shadyside, 38.8469, -76.5111
+West Shoreham, 38.8989, -76.4975
+West Springbrook, 39.0500, -77.0500
+West Twin River, 39.3797, -76.3583
+West Twin River Beach, 39.3333, -76.4500
+West View Shores, 39.4292, -75.9967
+West Vindex, 39.4175, -79.2058
+Westboro, 38.9892, -77.0917
+Westchester, 39.0500, -77.0500
+Westchester Estates, 38.8167, -76.9333
+Westchester Park, 39.0000, -76.9167
+Western Run, 39.5150, -76.6797
+Western Shores Estates, 38.5000, -76.5333
+Westernport, 39.4853, -79.0450
+Westgate(Prince George's), 38.9569, -76.8578
+Westgate(Montgomery), 38.9550, -77.1022
+Westlake, 38.3667, -75.6000
+Westminster, 39.5753, -76.9961
+Westmore, 39.0964, -77.1536
+Westmoreland Hills, 38.9489, -77.1058
+Westover, 38.1239, -75.7067
+Westowne, 39.2875, -76.7186
+Westphalia, 38.8453, -76.8114
+Westphalia Estates, 38.7833, -76.8667
+Westphalia Woods, 38.7833, -76.8667
+Westport, 39.2619, -76.6358
+Westview Park, 39.2833, -76.7167
+Westwood(Montgomery), 38.9661, -77.1089
+Westwood(Prince George's), 38.6564, -76.7400
+Westwood Estates, 38.7833, -76.8667
+Wetheredsville, 39.3153, -76.7036
+Wetipquin, 38.3367, -75.8475
+Weverton, 39.3333, -77.6167
+Wexford, 39.0500, -76.5000
+Whaleysville, 38.3967, -75.3025
+Wheaton, 39.0397, -77.0556
+Wheaton Crest, 39.0486, -77.0569
+Wheaton Forest, 39.0381, -77.0475
+Wheaton Hills, 39.0456, -77.0606
+Wheaton View, 39.0500, -77.0500
+Wheaton Woods, 39.0719, -77.0847
+Whiskey Bottom, 39.0833, -76.9667
+White Crystal Beach, 39.4167, -75.9167
+White Hall(Prince Goerge's), 38.6861, -76.9892
+White Hall(Baltimore), 39.6217, -76.6289
+White House Heights, 38.9133, -76.8906
+White Landing, 38.6700, -76.7025
+White Marsh, 39.3836, -76.4325
+White Marsh Station, 39.3800, -76.4278
+White Oak, 39.0397, -76.9933
+White Oak Manor, 39.0164, -76.9628
+White Oak Shopping Center, 39.0667, -76.9833
+White Plains, 38.5903, -76.9406
+White Point Beach, 38.2236, -76.6206
+White Rock, 39.4333, -77.4500
+White Sands, 38.4167, -76.4500
+Whiteburg, 38.1850, -75.5381
+Whitefield Knolls, 38.9667, -76.8500
+Whitefield Woods, 38.9667, -76.8500
+Whiteford, 39.7089, -76.3458
+Whitehall Manor, 38.9825, -77.1103
+Whitehaven, 38.2692, -75.7914
+Whitehouse(Baltimore), 39.6017, -76.7744
+Whitehouse(Prince George's), 39.0236, -76.9242
+Whiteley, 38.9469, -76.9283
+Whiteleysburg, 38.9567, -75.7328
+Whitneys Landing, 39.0742, -76.5883
+Whiton, 38.2894, -75.3772
+Whittemore Park, 39.2500, -76.6833
+Wickford, 39.0372, -77.1083
+Wicomico, 38.4133, -76.8769
+Wicomico Beach, 38.3833, -76.9500
+Widgeon, 38.2511, -75.7694
+Wilburn Estates, 38.9000, -76.9000
+Wild Rose Shores, 38.9500, -76.4833
+Wild Wood Beach, 39.3167, -76.4667
+Wilde Lake, 39.2667, -76.8167
+Wildercroft, 38.9692, -76.8947
+Wildwood Estates, 38.7833, -76.8833
+Wildwood Hills, 39.0192, -77.1500
+Wildwood Manor, 39.0236, -77.1186
+Wilelinor Estates, 38.9333, -76.5500
+Wilhelm Park, 39.2747, -76.6642
+Willards, 38.3911, -75.3489
+Willerburn Acres, 39.0514, -77.1603
+Williams Wharf, 38.4667, -76.5000
+Williamsburg, 38.6578, -75.8294
+Williamsburg Estates, 39.0083, -77.2006
+Williamsburg Village, 39.1500, -77.0833
+Williamsport, 39.6006, -77.8208
+Williston, 38.8311, -75.8514
+Willoughby, 38.9342, -76.0186
+Willoughby Beach, 39.3833, -76.2500
+Willow Beach Colony, 38.6286, -76.5178
+Willow Grove, 38.0925, -75.5031
+Willowbrook, 39.0500, -77.1667
+Willows, 38.6275, -76.5381
+Willows of Riverbend, 38.7833, -76.9667
+Wills Creek, 39.7000, -78.7333
+Willson Hills, 39.0953, -77.0414
+Wilmers, 39.1550, -76.0492
+Wilna, 39.4833, -76.3742
+Wilson(Calvert), 38.6031, -76.5222
+Wilson(Garrett), 39.2536, -79.3992
+Wilson(Washington), 39.6581, -77.8489
+Wilson Hills, 39.0667, -77.0667
+Wilson Mill, 39.6167, -76.2022
+Wilson Point, 39.3333, -76.4500
+Wilsons, 39.6500, -77.8667
+Wilton Farm Acres, 39.2667, -76.8167
+Wiltondale, 39.3864, -76.6014
+Winchester(Garrett), 39.6306, -78.8375
+Winchester(Anne Arundel), 39.0136, -76.4936
+Winchester Park, 39.5667, -76.9833
+Winchester-on-the-Severn, 39.0150, -76.5111
+Windbrook, 38.7833, -76.8833
+Windermere, 39.0667, -77.1500
+Windham Manor, 39.0617, -76.9967
+Winding Brook Village, 39.6167, -75.8333
+Windmere Acres, 39.1333, -76.8167
+Windsor Heights, 39.5667, -76.9833
+Windsor Hills, 39.3139, -76.6814
+Windsor Terrace, 39.3103, -76.7078
+Windyhill, 38.6814, -75.9778
+Winfield, 39.4472, -77.0553
+Wingate, 38.2819, -76.0822
+Wingates Point, 38.3000, -76.1000
+Wings Landing, 38.7839, -75.9381
+Wiseburg, 39.6219, -76.6581
+Wittman, 38.7936, -76.2944
+Wolf Acres, 39.0708, -77.0086
+Wolfe Mill, 39.6733, -78.7250
+Wolfs Mill, 39.6583, -77.1225
+Wolfsville, 39.5742, -77.5508
+Wolfsville Crossing, 39.5328, -77.5953
+Womans Hospital, 39.3075, -76.6244
+Wood Acres, 38.9681, -77.1239
+Wood Lane, 38.9667, -76.8500
+Wood Point, 39.6606, -77.7389
+Woodberry, 39.3317, -76.6497
+Woodberry Beach, 38.3228, -76.8581
+Woodberry Forest, 38.8167, -76.9333
+Woodbine, 39.3597, -77.0628
+Woodbrook, 39.3794, -76.6275
+Woodburn, 38.9733, -77.1269
+Woodcrest, 39.1997, -76.6194
+Woodcroft, 39.3922, -76.5383
+Woodensburg, 39.5056, -76.8344
+Woodfield, 39.2467, -77.1908
+Woodhaven, 38.9936, -77.1336
+Woodhaven Park, 38.5333, -76.9833
+Woodhome Heights, 39.3697, -76.5458
+Woodland(Allegany), 39.6083, -78.9511
+Woodland(Talbot), 38.8394, -76.0258
+Woodland Acres, 38.4167, -76.5500
+Woodland Beach, 38.9322, -76.5536
+Woodland Point, 38.2761, -76.8819
+Woodland Village, 38.6000, -77.1667
+Woodlark, 38.9667, -76.8500
+Woodlawn(Baltimore), 39.3228, -76.7283
+Woodlawn(Cecil), 39.6342, -76.0761
+Woodlawn(Prince George's), 38.9494, -76.8917
+Woodlawn Heights, 39.1925, -76.6494
+Woodley Gardens, 39.0983, -77.1731
+Woodmont(Washington), 39.6317, -78.3044
+Woodmont(Montgomery), 38.9897, -77.0989
+Woodmoor(Baltimore), 39.3500, -76.7333
+Woodmoor(Montgomery), 39.0239, -77.0114
+Woodmore, 38.9211, -76.8033
+Woods Corner, 38.8217, -76.9211
+Woodsboro, 39.5331, -77.3150
+Woodside, 39.0033, -77.0381
+Woodside Forest, 39.0089, -77.0350
+Woodside Park, 39.0064, -77.0306
+Woodstock, 39.3286, -76.8722
+Woodville, 39.4100, -77.1781
+Woodyard, 38.7858, -76.8431
+Woolerys, 39.5167, -76.9333
+Woolford, 38.5025, -76.1836
+Worthington, 39.4600, -76.7542
+Worthington Valley, 39.4833, -76.8167
+Worton, 39.2744, -76.0925
+Worton Point Orchard, 39.3264, -76.1508
+Wrights, 38.5822, -76.2347
+Wrights Crossing, 39.6394, -78.9294
+Wrights Landing, 38.3594, -76.0894
+Wye Landing, 38.8922, -76.1031
+Wye Mills, 38.9411, -76.0808
+Wyngate, 39.0106, -77.1225
+Wynne, 38.1097, -76.4056
+Wynnewood, 39.2500, -76.6833
+Yarrowsburg, 39.3744, -77.6839
+Yellow Springs, 39.4794, -77.4603
+Yeoho, 39.5714, -76.7219
+Yonkers, 39.6950, -78.6492
+Yorkleigh, 39.3867, -76.6064
+Yorkshire Knolls, 38.8911, -76.8861
+Yorktown, 39.3836, -76.6069
+Yorktown Village, 39.0167, -77.1333
+Zihlman, 39.6681, -78.9153
+Zion, 39.6756, -75.9653
+Zittlestown, 39.4853, -77.6242

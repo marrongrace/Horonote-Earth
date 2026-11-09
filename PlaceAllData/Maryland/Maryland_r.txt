@@ -1,0 +1,192 @@
+Rabbit Town, 38.4892, -75.8319
+Radiant Valley, 38.9364, -76.8928
+Ralph, 38.5069, -75.8306
+Ralston, 39.3708, -76.7269
+Ramblewood, 39.3628, -76.5872
+Ramblewood Village, 38.7833, -76.8833
+Ramgate, 38.7833, -76.9667
+Ramona Beach, 39.2292, -76.4003
+Ranchleigh, 39.3758, -76.6744
+Randalia, 39.5194, -75.8722
+Randallstown, 39.3672, -76.7956
+Randle Cliff Beach, 38.6650, -76.5308
+Randolph, 39.0333, -77.1000
+Randolph Farms, 39.0833, -77.1167
+Randolph Hills, 39.0506, -77.0950
+Randolph Village, 38.8894, -76.8631
+Random View, 39.5667, -76.9833
+Raspeburg, 39.3500, -76.5333
+Rawlings, 39.5344, -78.8836
+Rawlings Heights, 39.5333, -78.8833
+Raynor Heights, 39.2267, -76.6603
+Rayville, 39.6492, -76.7011
+Reckford, 39.4789, -76.4281
+Red Hill(Washington), 39.4681, -77.6975
+Red Hill(Allegany), 39.6386, -78.8572
+Red Landing, 38.1522, -75.4408
+Red Point, 39.5233, -75.9789
+Reddings Corner, 39.2833, -76.1000
+Redford Estates, 38.7833, -76.9667
+Redgate, 38.2564, -76.5989
+Redhill, 38.5661, -77.1292
+Redhouse, 39.3086, -79.4542
+Redland, 39.1453, -77.1444
+Reeder Development, 39.4333, -77.4500
+Reels Mill, 39.3611, -77.3689
+Reese, 39.5428, -76.9381
+Regal Estates, 38.7167, -76.6667
+Regency Estates, 39.0481, -77.1703
+Regent Park, 39.0500, -77.1667
+Regent Square, 39.0833, -77.1667
+Rehobeth, 38.0389, -75.6633
+Reid, 39.7122, -77.6794
+Reids Grove, 38.5336, -75.8278
+Reisterstown, 39.4694, -76.8297
+Relay, 39.2278, -76.7033
+Reliance, 38.6353, -75.7075
+Remsburg Heights, 39.4333, -77.4500
+Rest Haven, 38.7781, -76.5400
+Revell, 39.0428, -76.5217
+Rewastico, 38.4061, -75.7653
+Reynolds, 39.5092, -79.0281
+Rhodes Point, 37.9742, -76.0414
+Rhodesdale, 38.5761, -75.8364
+Richards Oak, 39.6942, -76.1144
+Richardsmere, 39.6892, -76.1267
+Riderwood, 39.4092, -76.6489
+Riderwood Hills, 39.4117, -76.6222
+Ridge, 38.1192, -76.3742
+Ridge Grove, 39.3803, -76.5267
+Ridgelake, 39.2667, -76.8167
+Ridgeleigh, 39.3950, -76.5608
+Ridgely, 38.9478, -75.8847
+Ridgeview, 39.1500, -76.7000
+Ridgeville, 39.3650, -77.1658
+Ridgeway(Anne Arundel), 39.1147, -76.6839
+Ridgeway(Baltimore), 39.2742, -76.7625
+Ridgley Park, 39.4000, -76.9333
+Riggins Corner, 38.4133, -76.1842
+Ringgold, 39.7094, -77.5669
+Rio Vista, 38.7833, -76.2167
+Ripley, 38.5447, -77.0786
+Rippling Estates, 39.1667, -76.6167
+Rippling Ridge, 39.1667, -76.6167
+Rising Sun, 39.6978, -76.0631
+Rison, 38.5489, -77.1775
+Ritchie, 38.8706, -76.8558
+Ritchie Heights, 38.8500, -76.9000
+Ritchie Manor, 38.8500, -76.9000
+Riva, 38.9519, -76.5783
+River Bend, 38.7833, -76.9667
+River Bend Estates, 38.8500, -76.9000
+River Club Estates, 38.9061, -76.5300
+River Falls, 39.0500, -77.1667
+River Forest, 38.7833, -76.9667
+River Meadows, 39.2667, -76.8167
+River Ridge Estates, 38.7864, -77.0031
+River Springs, 38.2461, -76.7778
+Riverdale(Anne Arundel), 39.0992, -76.5361
+Riverdale(Prince George's), 38.9633, -76.9319
+Riverdale Gardens, 38.9686, -76.9136
+Riverdale Heights, 38.9639, -76.9153
+Riverdale Hills, 38.9633, -76.9094
+Riverside, 38.3878, -77.1467
+Riverton, 38.5111, -75.7547
+Riverview(Prince George's), 38.7239, -77.0281
+Riverview(Queen Anne's), 39.1450, -76.0644
+Riverview Village, 38.6056, -77.1661
+Riviera Beach, 39.1667, -76.5083
+Robbins, 38.3756, -76.0758
+Robbins Landing, 38.3769, -76.0583
+Roberts(Queen Anne's), 39.1172, -75.9186
+Roberts(Allegany), 39.6311, -78.8039
+Roberts Glen, 39.0500, -77.1667
+Robindale, 39.0633, -77.0936
+Robinson, 39.0789, -76.5533
+Robinwood, 39.6500, -77.7333
+Rock Creek Forest, 38.9908, -77.0567
+Rock Creek Gardens, 38.9931, -77.0472
+Rock Creek Hills, 39.0147, -77.0711
+Rock Creek Knolls, 38.9972, -77.0658
+Rock Creek Manor, 39.0833, -77.1167
+Rock Creek Palisades, 39.0356, -77.0769
+Rock Creek Village, 39.0811, -77.1028
+Rock Hall(Frederick), 39.2686, -77.5264
+Rock Hall(Kent), 39.1381, -76.2353
+Rock Hill Beach, 39.1500, -76.5189
+Rock Point, 38.2719, -76.8411
+Rock Run, 39.6081, -76.1433
+Rock Springs, 39.7150, -76.1589
+Rockaway Beach, 39.2947, -76.3994
+Rockcrest, 39.0756, -77.1308
+Rockdale(Baltimore), 39.3561, -76.7658
+Rockdale(Washington), 39.7011, -77.8442
+Rockland(Baltimore), 39.4014, -76.6681
+Rockland(Howard), 39.2989, -76.8136
+Rockland(Montgomery), 39.0725, -77.1267
+Rocks, 39.6333, -76.4167
+Rockview Beach, 39.1431, -76.5153
+Rockville, 39.0839, -77.1531
+Rockwell, 39.2833, -76.7167
+Rocky Acres, 39.6333, -77.4167
+Rocky Brook Park, 39.0511, -76.9972
+Rocky Forge, 39.7183, -77.6053
+Rocky Gorge Estates, 39.1108, -76.8858
+Rocky Hook, 38.4839, -75.9278
+Rocky Ridge, 39.6050, -77.3178
+Rocky Springs, 39.4478, -77.4536
+Rodgers Forge, 39.3778, -76.6139
+Rogers Heights, 38.9486, -76.9222
+Rogers Mill, 38.4936, -76.9314
+Rognel Heights, 39.2939, -76.6861
+Rohrersville, 39.4333, -77.6631
+Rohrersville Station, 39.4311, -77.6781
+Roland Park, 39.3544, -76.6344
+Roller, 39.6969, -76.8069
+Rolling Acres(Carrll), 39.5667, -76.9833
+Rolling Acres(Montgomery), 39.0572, -76.9708
+Rolling Ridge, 38.9000, -76.9000
+Rolling Terrace, 38.9833, -77.0167
+Rolling View, 38.9531, -76.8536
+Rollingwood, 38.9833, -77.0689
+Rollins Park, 39.0603, -77.1306
+Rolph Landing, 38.8989, -75.9464
+Rolphs, 39.1742, -76.0364
+Romancoke, 38.8811, -76.3367
+Romancoke on the Bay, 38.9833, -76.3167
+Roop Mill, 39.5900, -77.0314
+Rosaryville, 38.7567, -76.8100
+Rosaryville Estates, 38.7833, -76.8667
+Rose Haven, 38.7256, -76.5392
+Rose Hill Estates, 39.0108, -77.1575
+Rose Valley Estates, 38.7833, -76.9667
+Rosecroft Gardens, 38.7833, -76.9667
+Rosecroft Park, 38.7833, -76.9667
+Rosedale, 39.3200, -76.5158
+Rosedale Estates, 38.7833, -76.9667
+Rosedale Park(Montgomery), 38.9914, -77.0917
+Rosedale Park(Prince Geroge's), 39.0261, -76.8969
+Rosemary Hills, 38.9975, -77.0439
+Rosemont(Baltimore), 39.2372, -76.6350
+Rosemont(Frederick), 39.3292, -77.6228
+Rossville, 39.3383, -76.4800
+Round Bay, 39.0619, -76.5375
+Round Hill, 39.4333, -77.4500
+Roundtop, 39.7000, -78.1833
+Rowlandsville, 39.6611, -76.1472
+Roxbury, 39.5544, -77.7039
+Roxbury Mills, 39.2581, -77.0536
+Royal Beach, 39.1064, -76.5428
+Royal Oak, 38.3497, -75.7931
+Royal Oak, 38.7422, -76.1781
+Royal View, 39.0833, -77.1167
+Rugby Hall, 39.0403, -76.5322
+Ruhl, 39.7078, -76.7344
+Rumbley, 38.0933, -75.8586
+Rush, 39.6636, -78.6114
+Rushville, 39.0703, -77.3278
+Ruthsburg, 39.0031, -75.9583
+Rutledge, 39.5569, -76.4964
+Ruxton, 39.4000, -76.6450
+Ryans Glade, 39.3000, -79.4333
+Rycerville, 38.4356, -76.8308

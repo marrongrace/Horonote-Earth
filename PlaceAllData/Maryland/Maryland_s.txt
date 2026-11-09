@@ -1,0 +1,334 @@
+Sabillasville, 39.7000, -77.4567
+Sackertown, 37.9722, -75.8431
+Salem, 38.5158, -75.9128
+Salisbury, 38.3606, -75.5997
+Samples Manor, 39.3719, -77.7203
+Sams Creek, 39.5500, -77.1000
+Sand Spring, 39.6725, -79.4597
+Sanders Park, 39.1475, -76.5019
+Sandgates, 38.4128, -76.6156
+Sandy Acres, 38.5667, -76.0833
+Sandy Bottom, 39.1931, -76.1844
+Sandy Hook, 39.3258, -77.7108
+Sandy Spring, 39.1494, -77.0272
+Sandyville, 39.5247, -76.9256
+Sanford, 39.0192, -77.0417
+Sang Run, 39.5500, -79.3667
+Sanmar, 39.5508, -77.6447
+Sansbury Park, 38.8500, -76.9000
+Santo Domingo, 38.5114, -75.7231
+Sassafras, 39.3731, -75.8028
+Satyr Hill, 39.3833, -76.5500
+Saunders Point, 38.8875, -76.4925
+Savage, 39.1378, -76.8242
+Scaggsville, 39.1450, -76.9006
+Scarboro(Harford), 39.6461, -76.2956
+Scarboro(Worcester), 38.1333, -75.3953
+Scarboro Landing, 38.0692, -75.3669
+Schell, 39.3419, -79.2600
+Schultz, 38.7833, -76.8833
+Scientists Cliffs, 38.5175, -76.5136
+Scotland(St Mary's), 38.0889, -76.3622
+Scotland(Montgomery), 39.0406, -77.1594
+Scotland Beach, 38.0714, -76.3300
+Scott Landing, 38.0989, -75.3156
+Scotts Landing, 38.0836, -75.2161
+Scotts Level, 39.3661, -76.7583
+Scrabbletown, 38.9000, -76.5000
+Seabrook, 38.9678, -76.8453
+Seabrook Acres, 38.9758, -76.8414
+Seabrook Park Estates, 38.9667, -76.8500
+Seat Pleasant, 38.8961, -76.9069
+Sebring, 39.2667, -76.8167
+Secretary, 38.6092, -75.9478
+Security, 39.6511, -77.6911
+Selby Beach, 38.9069, -76.5164
+Selby-on-the-Bay, 38.9167, -76.5167
+Selbys Landing, 38.7511, -76.6994
+Selbysport, 39.6864, -79.3806
+Sellman, 39.2083, -77.3786
+Seneca, 39.0786, -77.3394
+Seneca Park, 39.3236, -76.3753
+Seton Institute, 39.3494, -76.7081
+Seven Oaks, 39.0069, -77.0156
+Severn, 39.1369, -76.6986
+Severn Crossroads, 39.0597, -76.6281
+Severn Grove, 39.0067, -76.5336
+Severn Heights, 39.0833, -76.5667
+Severna Forest, 39.0833, -76.5667
+Severna Park, 39.0703, -76.5456
+Severnside, 39.0017, -76.4867
+Seward, 38.4469, -76.0811
+Sewell Mills, 38.9964, -75.7794
+Shad Landing, 38.1428, -75.4403
+Shad Point, 38.3397, -75.6325
+Shady Bower, 39.6589, -77.8972
+Shady Oaks, 38.8267, -76.5500
+Shady Side, 38.8417, -76.5125
+Shaft, 39.6333, -78.9500
+Shallmar, 39.3794, -79.2050
+Shane, 39.6692, -76.5922
+Sharewood Acres, 39.1500, -76.7833
+Sharon, 39.6039, -76.4114
+Sharonville, 39.1250, -76.5211
+Sharperville, 38.6725, -76.9747
+Sharpsburg, 39.4575, -77.7492
+Sharpstown, 39.1364, -76.2189
+Sharptown, 38.5425, -75.7197
+Shavox, 38.3561, -75.4639
+Shawan, 39.4956, -76.7086
+Shawsville, 39.6378, -76.5553
+Shawsville Acres, 39.6167, -76.6333
+Shelltown, 37.9797, -75.6403
+Sheppard-Pratt Hospital, 39.3911, -76.6197
+Shepperd, 39.5933, -76.5694
+Shervettes Corner, 39.3967, -76.8956
+Sherwood, 38.7614, -76.3192
+Sherwood Forest(Anne Arundel), 39.0275, -76.5442
+Sherwood Forest(Montgomery), 39.0786, -77.0128
+Sherwood Manor, 38.5000, -75.8667
+Shetland Hills, 39.4261, -76.6083
+Shiloh(Dorchester), 38.6333, -75.8667
+Shiloh(Carroll), 39.5981, -76.8853
+Shiloh(Charles), 38.3642, -76.9256
+Shingle Landing, 38.4053, -75.1958
+Shipley, 39.1986, -76.6567
+Shipley Corner, 39.1589, -76.7139
+Shipyard Landing, 39.1625, -76.1911
+Shookstown, 39.4356, -77.4675
+Shore Acres, 39.0556, -76.4597
+Shoreham Beach, 38.9000, -76.4950
+Shorewood Gardens, 39.3500, -75.8833
+Shorewood Gardens Estates, 39.3333, -75.7833
+Showell, 38.3978, -75.2153
+Silesia, 38.7422, -76.9992
+Siloam, 38.3278, -75.6833
+Silver Grove, 39.6500, -77.7333
+Silver Hill, 38.8417, -76.9461
+Silver Hill Park, 38.8367, -76.9489
+Silver Rock, 39.0811, -77.1278
+Silver Run, 39.6828, -77.0444
+Silver Spring, 38.9906, -77.0264
+Silver Spring Heights, 39.5333, -76.3500
+Silver Spring Park, 38.9933, -77.0200
+Simms Landing, 38.4861, -77.0294
+Simpsons Mill, 39.5842, -77.2250
+Simpsonville, 39.1867, -76.8822
+Sinepuxent, 38.3131, -75.1522
+Singer, 39.4744, -76.3392
+Singerly, 39.6489, -75.8442
+Sixmile House, 39.6381, -78.8486
+Skidmore, 39.0211, -76.4156
+Skipton, 38.8953, -76.0592
+Skyline, 38.8333, -76.9167
+Skyline Estates, 39.4333, -77.4500
+Slabtown(Allegany), 39.6828, -78.8867
+Slabtown(Frederick), 39.3511, -77.5967
+Slacks Corner, 39.3197, -76.9486
+Slidell, 39.2194, -77.3322
+Sligo Park Hills, 38.9919, -77.0108
+Sligo Woods, 39.0264, -77.0256
+Smallwood, 39.5128, -76.9747
+Smith Island, 38.0333, -76.0000
+Smith Landing, 38.9122, -75.8292
+Smithsburg, 39.6547, -77.5731
+Smithville(Dorchester), 38.4717, -76.2725
+Smithville(Kent), 39.2975, -76.1083
+Smithville(Caroline), 38.7739, -75.7331
+Smoketown, 39.5167, -77.6500
+Sniders Estates, 39.1122, -76.9917
+Snow Hill, 38.1769, -75.3931
+Snow Hill Manor, 39.0833, -76.8494
+Snowden Manor, 39.5667, -76.9833
+Snug Harbor(Worcester), 38.3167, -75.2167
+Snug Harbor(Anne Arundel), 38.8364, -76.4961
+Snyders Landing, 39.4653, -77.7781
+Snydersburg, 39.6189, -76.8961
+Society Hill, 38.2678, -76.6658
+Sollers, 38.3883, -76.4928
+Sollers Point, 39.2333, -76.5167
+Solley, 39.1708, -76.5547
+Solomons, 38.3167, -76.4500
+Solomons Island, 38.4167, -76.4833
+Somerset, 38.9658, -77.0964
+Somerset Heights, 38.9689, -77.0950
+Sonoma, 39.0011, -77.1139
+Sotterley, 38.3783, -76.5333
+South, 39.2667, -76.6333
+South Baltimore, 39.2728, -76.6058
+South Cheverly Forest, 38.9667, -76.8833
+South Cumberland, 39.6325, -78.7561
+South Down Shores, 38.9383, -76.5708
+South Gate, 39.1333, -76.6167
+South Haven, 38.9631, -76.5828
+South Kensington, 39.0167, -77.0833
+South Laurel, 39.0667, -76.8500
+South Lawn, 38.7928, -76.9922
+South Layhill, 39.0667, -77.0667
+South Piscataway, 38.6858, -76.9806
+South River, 38.9031, -76.5608
+South River Manor, 38.9706, -76.5786
+South River Park, 38.9333, -76.5500
+South Salisbury, 38.3667, -75.6000
+South Woodside Park, 39.0050, -77.0203
+Southeast Landing, 39.1575, -76.0264
+Southern Garden Apartments, 38.8333, -77.0000
+Southland Hills, 39.3986, -76.6108
+Southview Apartments, 38.8000, -76.9833
+Sparks, 39.5308, -76.6461
+Sparks Glencoe, 39.5333, -76.6500
+Sparrows Point, 39.2192, -76.4764
+Spaulding Heights, 38.8500, -76.9000
+Spauldings, 38.8333, -76.9167
+Spence, 38.1619, -75.3100
+Spencerville, 39.1142, -76.9786
+Spickler, 39.6581, -77.8703
+Spielman, 39.5369, -77.7642
+Spoolsville, 39.4500, -77.5617
+Spring Gap, 39.5653, -78.7167
+Spring Garden Estates, 39.4833, -77.3500
+Spring Grove, 38.4883, -75.7517
+Spring Grove State Hospital, 39.2647, -76.7217
+Spring Hill(Wicomico), 38.4167, -75.6833
+Spring Hill(Montgomery), 39.0039, -77.0722
+Spring Lake Park, 39.0592, -77.1153
+Spring Mills, 39.5547, -77.0125
+Spring Valley, 39.6500, -77.7333
+Springbrook, 39.0536, -76.9950
+Springbrook Forest, 39.0525, -77.0181
+Springbrook Manor, 39.0497, -76.9883
+Springbrook Terrace, 38.9553, -76.9178
+Springbrook Village, 39.0667, -76.9833
+Springdale Gardens, 38.9358, -76.8517
+Springfield(Prince George's), 38.9928, -76.7997
+Springfield(Montgomery), 38.9672, -77.1150
+Springfield State Hospital, 39.3794, -76.9614
+Springhill, 38.5044, -76.9850
+Springhill Acres, 38.3667, -75.6000
+Springhill Lake, 39.0019, -76.9033
+Springlake, 39.0000, -77.1333
+Springwood, 39.0633, -77.0203
+Spry Landing, 39.2439, -75.9531
+St Agnes Hospital, 39.2728, -76.6728
+St Andrews Estates, 38.3000, -76.5167
+St Anthony, 39.6764, -77.3564
+St Aubins Heights, 38.7833, -76.0722
+St Augustine, 39.4942, -75.8092
+St Charles, 38.6031, -76.9389
+St Clements Shores, 38.2800, -76.7050
+St Denis, 39.2225, -76.7050
+St George Island, 38.1200, -76.4839
+St George Park, 38.1589, -76.5183
+St Georges, 39.4661, -76.8081
+St Helena, 39.2600, -76.5256
+St Inigoes, 38.1500, -76.3833
+St James(Washington), 39.5625, -77.7583
+St James(Worcester), 38.0667, -75.5667
+St James(St Mary's), 38.1986, -76.3953
+St Jeromes, 38.1500, -76.3667
+St Johns Manor, 39.2667, -76.8167
+St Johns Village, 39.2667, -76.8167
+St Josephs Hospital, 39.3067, -76.5983
+St Leonard, 38.4742, -76.5067
+St Margarets, 39.0208, -76.4631
+St Mark's, 39.3333, -77.6167
+St Martin, 38.3719, -75.2483
+St Marys City, 38.1869, -76.4347
+St Michaels, 38.7850, -76.2247
+St Peters, 38.1833, -75.8167
+St Stephen, 38.1872, -75.8403
+Stablersville, 39.6506, -76.6161
+Stafford(Harford), 39.6333, -76.2000
+Stafford(Prince George's), 38.9717, -76.8878
+Stanbrook, 39.2333, -76.5167
+Standard, 39.4150, -79.1756
+Stansbury Estates, 39.3197, -76.4197
+Stansbury Manor, 39.3333, -76.4500
+Starkeys Corner, 39.1206, -76.0147
+Starr, 38.9781, -76.0106
+State of Maryland Health Center, 39.3167, -76.6169
+Stella Maris Hospice, 39.4592, -76.5964
+Stemmers Run, 39.3306, -76.4722
+Stephen Knolls, 39.0308, -77.0517
+Stepney, 39.5167, -76.1667
+Steuart Corner, 38.9336, -76.5694
+Steuart Level, 38.9283, -76.5719
+Stevens Corner, 39.1447, -75.8986
+Stevenson, 39.4103, -76.7133
+Stevensville, 38.9806, -76.3147
+Stewart Corner, 39.1364, -76.6858
+Stewart Town, 39.1792, -77.1900
+Steyer, 39.3056, -79.3111
+Still Pond, 39.3292, -76.0458
+Stillmeadows, 39.1500, -76.6667
+Stoakley, 38.5583, -76.5978
+Stockton(Worcester), 38.0536, -75.4103
+Stockton(Harford), 39.4747, -76.3806
+Stone Cross, 38.2086, -76.7450
+Stonecrest, 39.2667, -76.8167
+Stonegate, 39.0667, -76.9833
+Stoneleigh, 39.3806, -76.6033
+Stoney Brook, 39.0628, -77.0914
+Stoney Brook Estates, 39.0656, -77.0822
+Stony Beach, 39.1728, -76.5189
+Stony Run, 39.1817, -76.6975
+Straits, 38.2667, -76.0667
+Stratford, 39.4481, -76.6194
+Strathmore at Bel Pre, 39.0667, -77.0667
+Stratton Woods, 39.0158, -77.1353
+Strawberry Hills Estates, 38.6333, -77.0667
+Strawleigh, 39.4333, -77.4500
+Strawn, 39.7211, -79.2969
+Strecker, 39.4750, -79.1911
+Street, 39.6689, -76.3797
+Stringtown, 39.5544, -76.7192
+Stronghold, 39.2514, -77.3933
+Stulls Ford, 39.5786, -77.3317
+Stumptown(Carroll), 39.6497, -77.1411
+Stumptown(Talbot), 38.7225, -76.0689
+Suburban Hospital, 38.9975, -77.1103
+Sudbrook Park, 39.3672, -76.7283
+Sudlersville, 39.1869, -75.8592
+Sudley, 38.8167, -76.5786
+Sugarland, 39.0994, -77.3914
+Sugarloaf, 38.3481, -76.0339
+Suitland, 38.8486, -76.9242
+Suitland Manor, 38.8533, -76.9264
+Sullivan Heights, 39.5667, -76.9833
+Summerfield Farms, 39.4317, -76.5289
+Summerhill, 39.1500, -77.4167
+Summit Farms, 39.3333, -76.5167
+Summit Knoll, 39.1036, -76.5364
+Summit Park, 39.3789, -76.6817
+Sumner, 38.9553, -77.1153
+Sunderland, 38.6711, -76.5983
+Sunny Acres, 38.8500, -76.9000
+Sunny Isle of Kent, 38.9833, -76.3167
+Sunnybrook, 39.5042, -76.5717
+Sunnybrook Hills, 39.5167, -76.6167
+Sunrise, 39.5667, -76.9833
+Sunrise Beach, 39.0697, -76.5908
+Sunset Acres, 39.6500, -77.7333
+Sunset Beach, 39.1583, -76.5228
+Sunset Hills, 39.4333, -77.4500
+Sunset Knoll, 39.1500, -76.5500
+Sunset Terrace, 39.0194, -77.0275
+Sunset View, 39.7172, -76.7072
+Sunshine, 39.2211, -77.0603
+Sunyar, 38.3667, -75.6000
+Surratts, 38.7667, -76.8833
+Surratts Gardens, 38.7833, -76.8833
+Susquehanna Hills, 39.5500, -76.1000
+Sutton Acres, 38.5167, -77.0167
+Swan Creek, 39.5231, -76.1378
+Swan Point, 39.2333, -76.4031
+Swanton, 39.4589, -79.2311
+Sweet Air, 39.5122, -76.5375
+Sycamore Acres, 39.1172, -77.0903
+Sycamore Creek, 39.0922, -77.0961
+Sydenham Hospital, 39.3389, -76.5808
+Sykesville, 39.3736, -76.9681
+Sylmar, 39.7214, -76.0281
+Sylvan Grove, 39.6644, -77.7972
+Sylvan Shores, 38.9528, -76.5814
+Sylvan View, 39.1500, -76.5500

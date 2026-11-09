@@ -1,0 +1,377 @@
+Bachman Mills, 39.6625, -76.9472
+Back Bay Beach, 38.8314, -76.5356
+Back River, 39.3006, -76.4936
+Back River Highlands, 39.3167, -76.4667
+Bacon Hall, 39.5714, -76.6822
+Bacon Hill, 39.6039, -75.8928
+Baden, 38.6592, -76.7781
+Bagley, 39.4983, -76.3981
+Bagtown, 39.5817, -77.6108
+Baile, 39.5150, -77.0583
+Bailes Mill, 39.5311, -77.0583
+Bainbridge, 39.6022, -76.1056
+Bakersville, 39.5147, -77.7578
+Bald Eagle, 38.6764, -76.7228
+Baldwin, 39.4947, -76.4706
+Ballard, 38.7667, -76.8814
+Ballard Gardens, 39.3333, -76.4500
+Ballenger, 39.3833, -77.4833
+Baltimore, 39.2903, -76.6125
+Baltimore City Hospitals, 39.2914, -76.5492
+Baltimore Corner, 39.0581, -75.8450
+Baltimore Highlands, 39.2331, -76.6369
+Banks o'Dee, 38.3833, -76.9500
+Bannockburn, 38.9733, -77.1419
+Bannockburn Estates, 38.9836, -77.1475
+Bannockburn Heights, 38.9811, -77.1428
+Bar Harbor, 39.1575, -76.5081
+Bar Neck, 38.7167, -76.3333
+Barber, 38.6419, -76.0203
+Barclay, 39.1442, -75.8644
+Bare Hills, 39.3811, -76.6536
+Bark Hill, 39.5867, -77.1528
+Barksdale, 39.6689, -75.8150
+Barnaby Manor Oaks, 38.8181, -76.9681
+Barnaby Village, 38.7833, -76.9667
+Barnes Corner, 39.6750, -76.0658
+Barnes Landing, 38.3903, -76.1053
+Barnesville, 39.2206, -77.3778
+Barrelville, 39.7017, -78.8428
+Barren Creek, 38.4667, -75.7667
+Barrett, 39.4075, -77.0167
+Barstow, 38.5253, -76.6164
+Bartholows, 39.3739, -77.2322
+Barton, 39.5306, -79.0178
+Bartonsville, 39.3925, -77.3583
+Battery Park, 38.9894, -77.1078
+Battle Grove, 39.2719, -76.4775
+Bay, 38.2833, -76.4667
+Bay City, 38.9833, -76.3167
+Bay Hundred, 38.7500, -76.3167
+Bay Ridge, 38.9378, -76.4603
+Bay Ridge Junction, 38.9786, -76.5047
+Bay Shore Acres, 38.3428, -75.1039
+Bay View, 39.6433, -75.9617
+Bay View Estates, 39.4167, -75.9167
+Bayberry, 39.0614, -76.4736
+Baynard, 38.8456, -76.6775
+Baynesville, 39.4000, -76.5622
+Bayside Beach, 39.1364, -76.4436
+Beachville, 38.1486, -76.4161
+Beachwood Forest, 39.1017, -76.5278
+Beachwood Grove, 39.1058, -76.5325
+Beacon Heights, 38.9667, -76.9167
+Beacon Hill, 39.0422, -76.4203
+Beallsville, 39.1789, -77.4131
+Beantown(Charles), 38.6144, -76.9417
+Beantown(Montgomery), 39.0953, -77.1403
+Bear Creek Junction, 39.2447, -76.4672
+Beaufort Park, 39.1667, -76.9000
+Beaumont Park, 39.3556, -76.6100
+Beauvue, 38.2528, -76.6269
+Beaver Creek, 39.5839, -77.6422
+Beaver Dam, 38.0667, -75.5667
+Beaver Heights, 38.9000, -76.9000
+Beaverbrook, 39.2667, -76.8167
+Beaverdam Estates, 38.9333, -76.8833
+Beckleysville, 39.6417, -76.7783
+Becks Landing, 39.1650, -76.1428
+Bedfordshire Estates, 39.0500, -77.1667
+Beechwood on the Burley, 38.9989, -76.4494
+Beelers Summit, 39.4125, -77.6703
+Beetree, 39.6836, -76.6672
+Bel Air(Allegany), 39.6333, -78.8000
+Bel Air(Harford), 39.5358, -76.3486
+Bel Air Acres(Harford), 39.5333, -76.3500
+Bel Air Acres(Charles), 38.6308, -76.9256
+Bel Alton(Cox Station), 38.4639, -76.9831
+Bel Pre Farms, 39.0911, -77.0625
+Bel Pre Woods, 39.0833, -77.1167
+Belair, 38.9500, -76.7833
+Belair Buckingham, 38.9500, -76.7833
+Belair Chapel Forge, 38.9500, -76.7833
+Belair Foxhill, 38.9500, -76.7833
+Belair Heather Hills, 38.9500, -76.7833
+Belair Idlewild, 38.9500, -76.7833
+Belair Kenilworth, 38.9500, -76.7833
+Belair Longridge, 38.9500, -76.7833
+Belair Overbrook, 38.9500, -76.7833
+Belair Rockledge, 38.9500, -76.7833
+Belair Somerset, 38.9500, -76.7833
+Belair Tulip Grove, 38.9500, -76.7833
+Belair White Hall, 38.9500, -76.7833
+Belair Yorktown, 38.9500, -76.7833
+Belcamp, 39.4689, -76.2336
+Belfast, 39.5478, -76.6789
+Belgravia, 39.3508, -76.5344
+Bell, 38.9700, -76.8017
+Belle Farm Estates, 39.3667, -76.7167
+Bellefonte, 38.7833, -76.8833
+Bellegrove, 39.7067, -78.3383
+Bellemead, 38.9419, -76.8864
+Bellevue, 38.7033, -76.1847
+Bellevue Estates, 38.6667, -77.0333
+Bellhaven Beach, 39.1500, -76.5500
+Bells Mill(Montgomery), 39.0211, -77.1625
+Bells Mill(Frederick), 39.3328, -77.5778
+Belltown, 39.4269, -76.8053
+Bellwood Park, 38.6333, -76.8833
+Belmar, 39.3456, -76.5408
+Belmont, 39.3072, -76.7542
+Beltsville, 39.0347, -76.9078
+Beltsville Heights, 39.0333, -76.9167
+Belvedere, 39.5969, -76.0228
+Belvedere Heights, 39.0558, -76.5025
+Belvoir Manor, 39.0233, -76.5828
+Bembe Beach, 38.9636, -76.4758
+Ben Oaks, 39.0833, -76.5667
+Benedict, 38.5092, -76.6800
+Benevola, 39.5456, -77.6764
+Benfield, 39.0886, -76.6225
+Bengies, 39.3450, -76.4269
+Bennsville, 38.6092, -77.0125
+Benson, 39.5053, -76.3867
+Bentley Springs, 39.6736, -76.6711
+Bentons Pleasure, 38.9667, -76.2833
+Benville, 38.6333, -76.8833
+Berean, 39.5711, -76.7406
+Berkley, 39.6614, -76.2092
+Berkshire, 38.8506, -76.8942
+Berlin, 38.3225, -75.2181
+Berrett, 39.4167, -77.0167
+Berry, 38.6486, -76.9572
+Bertha, 38.3906, -76.4333
+Berwyn, 38.9950, -76.9267
+Berwyn Heights, 38.9939, -76.9108
+Bessen Landing, 38.0214, -75.3819
+Bestgate, 38.9917, -76.5469
+Bestpitch, 38.4169, -75.9911
+Bethany Manor, 39.2667, -76.8167
+Bethel(Carroll), 39.5461, -76.9194
+Bethel(Cecil), 39.5333, -75.7828
+Bethel(Frederick), 39.5700, -77.2097
+Bethel(Garrett), 39.4450, -79.1189
+Bethesda, 38.9806, -77.1006
+Bethgate, 39.2667, -76.8167
+Bethlehem, 38.7461, -75.9444
+Betterton, 39.3658, -76.0625
+Beulah, 38.6778, -75.8994
+Bevansville, 39.6542, -79.1931
+Beverley Beach, 38.8806, -76.5092
+Beverly Farms, 39.0536, -77.1808
+Bier, 39.5419, -78.8761
+Big Pines, 39.0844, -77.2267
+Big Pool, 39.6236, -78.0161
+Big Spring(Baltimore), 39.4953, -76.7403
+Big Spring(Washington), 39.6292, -77.9397
+Bigwoods, 39.2856, -76.0428
+Birchwood City, 38.8167, -76.9833
+Bird Hill, 39.4883, -76.9708
+Bird River Beach, 39.3333, -76.4500
+Birdsville, 38.9000, -76.5917
+Birmingham Estates, 39.0333, -76.9167
+Bishop, 38.4275, -75.2214
+Bishops Head, 38.2681, -76.0681
+Bishopville, 38.4425, -75.1939
+Bittinger, 39.6022, -79.2236
+Bivalve, 38.3061, -75.8894
+Bixler, 39.6311, -76.9775
+Black Bay Beach, 38.8500, -76.6000
+Black Oak, 39.4992, -78.9192
+Black Rock Estates, 39.1667, -77.2667
+Blackhorse, 39.6239, -76.5514
+Blackrock Mill, 39.1267, -77.3144
+Blacks Corner, 39.7058, -77.1028
+Blackwater, 38.3853, -76.1425
+Bladensburg, 38.9392, -76.9342
+Bladenwoods, 38.9500, -76.9333
+Blair, 39.0000, -77.0333
+Blair Portal, 38.9922, -77.0361
+Blake, 39.7156, -75.9169
+Blandford Village, 38.7175, -76.8906
+Blenheim, 39.4894, -76.5464
+Blocktown, 39.1950, -77.3267
+Bloom, 39.4781, -77.0292
+Bloomfield(Frederick), 39.4756, -77.4217
+Bloomfield(Talbot), 38.7769, -76.1072
+Blooming Rose Settlement, 39.6500, -79.4000
+Bloomington, 39.4800, -79.0714
+Bloomsbury, 39.2639, -76.7300
+Blue Hill, 39.6981, -78.1939
+Blue Mount, 39.6022, -76.6219
+Blue Mountain, 39.5975, -77.4194
+Blue Ridge Manor, 39.0500, -77.0500
+Blue Ridge View, 39.5667, -76.9833
+Blueball, 39.7000, -75.9317
+Blueberry Hills, 39.1000, -77.1833
+Blythedale, 39.5881, -76.0639
+Bodt Corner, 39.5419, -76.2347
+Bohemias Mills, 39.4661, -75.7786
+Bolivar, 39.4664, -77.5919
+Bolton, 38.6444, -76.9878
+Bon Haven, 38.9672, -76.5919
+Bon Secours Hospital, 39.2889, -76.6500
+Bond Mill Woods, 39.0833, -76.9667
+Bonds, 38.6667, -77.0333
+Bonnie Acres, 39.2667, -76.8167
+Bonnie Brae, 39.4000, -76.9333
+Bonnie Knob, 39.5333, -77.3167
+Booker Heights, 38.9000, -76.9000
+Boonsboro(Caroline), 38.9500, -75.8603
+Boonsboro(Washington), 39.5061, -77.6528
+Bootjack, 39.2739, -77.1558
+Borden Shaft, 39.6269, -78.9369
+Borden Yard, 39.6500, -78.9167
+Boring, 39.5317, -76.8231
+Bostetter, 39.6644, -77.7539
+Boulevard Heights, 38.8697, -76.9336
+Bowens, 38.4953, -76.6225
+Bowie, 39.0067, -76.7794
+Bowleys Quarters, 39.3353, -76.3906
+Bowling Alley, 38.4833, -76.7833
+Bowling Green, 39.6236, -78.8047
+Bowmans Mill, 39.6844, -77.6147
+Boxiron, 38.1150, -75.3494
+Boxwood Village, 39.0097, -76.8889
+Boyds, 39.1836, -77.3131
+Bozman, 38.7700, -76.2714
+Bradbury Heights, 38.8636, -76.9314
+Bradbury Park, 38.8578, -76.9244
+Braddock, 39.4208, -77.4772
+Braddock Estates, 39.6500, -78.9167
+Braddock Heights, 39.4186, -77.5039
+Bradley Farms, 39.0067, -77.1911
+Bradley Hills, 38.9797, -77.1081
+Bradley Hills Grove, 39.0031, -77.1350
+Bradley Woods, 38.9922, -77.1211
+Bradmoor, 38.9944, -77.1194
+Bradshaw, 39.4231, -76.3814
+Brady, 39.5922, -78.8219
+Bramble Hills, 39.5667, -76.9833
+Branchville, 38.9989, -76.9244
+Brandywine, 38.6967, -76.8481
+Brandywine Heights, 38.6894, -76.8553
+Brandywine Woods, 38.7833, -76.8667
+Breathedsville, 39.5436, -77.7183
+Breezewood Farms, 39.3333, -76.8667
+Breezy Point, 38.6219, -76.5161
+Breezy Point Beach, 39.2775, -76.3847
+Brentland, 38.4653, -77.0411
+Brentwood, 38.9431, -76.9569
+Breton Beach, 38.2372, -76.6872
+Briarcrest Heights, 39.3667, -77.5333
+Briarwood, 39.0833, -76.9667
+Brice, 38.5586, -76.9433
+Brick House Landing, 38.4283, -75.9583
+Brick Wall Landing, 38.9294, -75.8342
+Briddletown, 38.3347, -75.1953
+Bridgeport(Garrett), 39.6422, -77.6783
+Bridgeport(Frederick), 39.6792, -77.2381
+Bridgetown, 39.0344, -75.8744
+Bridlewood, 39.4236, -76.6128
+Brighton(Baltimore City), 39.3522, -76.7069
+Brighton(Howard), 39.1928, -77.0267
+Brightseat, 38.9136, -76.8611
+Brightwood Acres, 39.6500, -77.7333
+Brink, 39.2100, -77.2400
+Brinkleigh, 39.2667, -76.8167
+Brinkleigh Manor, 39.2667, -76.8167
+Brinkley Manor, 38.8167, -76.9333
+Brinkleys, 38.0333, -75.7167
+Brinklow, 39.1658, -77.0158
+Bristol, 38.7922, -76.6683
+Bristol Landing, 38.7922, -76.7047
+Britton, 38.2600, -76.6453
+Broad Creek, 39.7167, -76.3500
+Broad Run, 39.3936, -77.5978
+Broadfording, 39.6858, -77.8031
+Broadmoor, 39.4822, -76.6675
+Broadview, 38.8125, -76.9269
+Broadview Acres, 39.4333, -77.4500
+Broadwater, 38.7928, -76.5347
+Broadwater Estates, 38.7414, -77.0131
+Broadwood Manor, 39.0786, -77.1192
+Brock Bridge, 39.0833, -76.9667
+Brock Hall, 38.7833, -76.8667
+Brook Hill, 39.4333, -77.4500
+Brookdale, 38.9592, -77.0919
+Brooke Manor, 38.7769, -77.0033
+Brookeville, 39.1806, -77.0594
+Brookfield, 39.1181, -76.5392
+Brookhaven, 39.0833, -77.1167
+Brookland, 38.9911, -76.8203
+Brooklandville, 39.4203, -76.6703
+Brooklyn, 39.2303, -76.6025
+Brooklyn Park, 39.2283, -76.6167
+Brookmont, 38.9419, -77.1206
+Brookside Forest, 39.0072, -77.0050
+Brookside Manor, 38.9647, -76.9767
+Brookview, 38.5753, -75.7964
+Brookville Knolls, 39.1833, -77.0500
+Brookwood, 38.7833, -76.8667
+Broomes Island, 38.4181, -76.5444
+Brown(Prince George's), 38.8528, -76.8025
+Brown(Montgomery), 39.1458, -77.2181
+Brown Landing, 38.6467, -75.8144
+Browningsville, 39.3072, -77.2433
+Browns Corner(Queen Anne's), 39.0500, -76.0667
+Browns Corner(Montgomery), 39.1222, -76.9892
+Browns Woods, 39.0058, -76.4683
+Brownstown, 39.1411, -77.2947
+Brownsville(Queen Anne's), 39.0467, -76.1094
+Brownsville(Washington), 39.3819, -77.6606
+Bruceville(Carroll), 39.6097, -77.2353
+Bruceville(Talbot), 38.6711, -75.9842
+Brummel, 39.6028, -76.9214
+Brunswick, 39.3142, -77.6281
+Bryans Road, 38.6269, -77.0733
+Bryantown(Charles), 38.5550, -76.8422
+Bryantown(Queen Anne's), 38.9417, -76.1703
+Buck Lodge, 39.0083, -76.9631
+Buck Neck Landing, 39.2744, -76.1683
+Buckeystown, 39.3347, -77.4319
+Buckeystown Station, 39.3317, -77.4486
+Buckingham View, 39.5667, -76.9833
+Bucklodge, 39.1925, -77.3356
+Bucktown, 38.4592, -76.0311
+Budd Landing, 39.3733, -75.8386
+Budds Creek, 38.4333, -76.7333
+Budds Landing, 38.3875, -76.8800
+Buena Vista(Calvert), 38.5278, -76.6519
+Buena Vista(Prince George's), 38.9567, -76.8250
+Buffalo Run, 39.6500, -79.4000
+Bull Run, 38.3378, -76.7917
+Burch, 38.5092, -76.6625
+Burdette, 39.1994, -77.3053
+Bureau, 38.8158, -75.8556
+Burgundy Estates, 39.0833, -77.1167
+Burgundy Knolls, 39.0833, -77.1667
+Burgundy Village, 39.0833, -77.1667
+Burkittsville, 39.3936, -77.6292
+Burleytown, 39.1517, -76.6694
+Burnbrae, 39.3989, -76.6197
+Burning Tree Estates, 39.0078, -77.1561
+Burning Tree Manor, 39.0000, -77.1333
+Burns Corner, 39.5275, -76.1711
+Burnt Hill, 39.2333, -77.2833
+Burnt Mills, 39.0336, -77.0047
+Burnt Mills Hills, 39.0328, -76.9944
+Burnt Mills Knolls, 39.0314, -76.9881
+Burnt Mills Manor, 39.0356, -77.0047
+Burnt Mills Village, 39.0378, -77.0053
+Burrisville, 39.0969, -76.0694
+Burrsville, 38.8939, -75.7292
+Burtner, 39.5239, -77.7203
+Burtonsville, 39.1111, -76.9328
+Bush, 39.4736, -76.2644
+Bush River, 39.4411, -76.2378
+Bushs Corner, 39.6719, -76.4094
+Bushwood, 38.2964, -76.7794
+Buteaux Crossing, 38.5914, -77.1114
+Butler, 39.5353, -76.7283
+Butlers Beach, 38.4569, -75.8364
+Butlertown, 39.2825, -76.1047
+Byeforde, 39.0114, -77.0844
+Bynum, 39.5656, -76.3650
+Bynum Ridge, 39.5833, -76.3833
+Byrdtown, 37.9594, -75.8403
