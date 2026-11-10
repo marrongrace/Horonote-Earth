@@ -1,0 +1,175 @@
+Daley Corner, 42.0667, -71.0875
+Dalton, 42.4736, -73.1667
+Dana, 42.4333, -72.2667
+Dana(historical) Center, 42.4222, -72.2250
+Danvers, 42.5750, -70.9306
+Danvers Center, 42.5722, -70.9611
+Danvers Insane Asylum, 42.5811, -70.9750
+Danvers State Hospital, 42.5811, -70.9750
+Danversport, 42.5483, -70.9208
+Dartmouth, 41.6167, -70.9667
+Davisville, 41.5514, -70.5639
+Dawson, 42.3397, -71.8514
+Dayville, 42.3028, -72.9056
+Dedham, 42.2417, -71.1667
+Dedham Island, 42.2667, -71.1778
+Deerfield, 42.5444, -72.6061
+Dell, 42.6708, -72.8486
+Dennis, 41.7353, -70.1944
+Dennis Port, 41.6583, -70.1292
+Derby Wharf, 42.5194, -70.8856
+Devenscrest, 42.5500, -71.5667
+Devereux, 42.5000, -70.8667
+Dighton, 41.8139, -71.1208
+Dingley Dell, 42.1189, -72.2583
+Division Street, 41.6167, -70.9167
+Doctors Hospital, 42.2769, -71.7956
+Dodge, 42.1619, -71.9333
+Dodge Corner, 42.6000, -72.8431
+Dodgeville, 41.9208, -71.2972
+Dogtown Commons, 42.6361, -70.6653
+Doles Corner, 42.7264, -70.9028
+Dorchester, 42.2972, -71.0750
+Dorchester Center, 42.2917, -71.0722
+Dorchester Heights, 42.3333, -71.0444
+Dorothy Manor, 42.2167, -71.7564
+Dorothy Pond, 42.2206, -71.7603
+Douglas, 42.0542, -71.7400
+Douglas Corner, 41.7753, -70.7919
+Dover, 42.2458, -71.2833
+Downtown Crossing, 42.3544, -71.0583
+Dracut, 42.6703, -71.3025
+Drury, 42.6522, -72.9981
+Drury Square, 42.2061, -71.8361
+Dry Pond, 42.1333, -71.1000
+Duckville, 42.2167, -72.3444
+Dudley, 42.0450, -71.9306
+Dudley Hill, 42.0500, -71.9000
+Dudleyville, 42.4853, -72.4464
+Duncan Knoll, 42.2056, -72.5542
+Dunstable, 42.6750, -71.4833
+Duxbury, 42.0417, -70.6728
+Dwight, 42.3278, -72.4500
+Eagle Hill, 42.7000, -70.8167
+Eaglesville, 42.5500, -72.2708
+East Acton, 42.4750, -71.4100
+East Arlington, 42.4042, -71.1472
+East Berlin, 42.3897, -71.6000
+East Billerica, 42.5814, -71.2375
+East Blackstone, 42.0417, -71.5125
+East Bolton, 42.4458, -71.5625
+East Boston, 42.3750, -71.0397
+East Boxford, 42.6917, -70.9806
+East Braintree, 42.2250, -70.9750
+East Brewster, 41.7681, -70.0603
+East Bridgewater, 42.0333, -70.9597
+East Brimfield, 42.1111, -72.1489
+East Brookfield, 42.2278, -72.0472
+East Cambridge, 42.3667, -71.0806
+East Carver, 41.9272, -70.7514
+East Charlemont, 42.6222, -72.7903
+East Chelmsford, 42.6167, -71.3667
+East Chop, 41.4683, -70.5694
+East Dedham, 42.2500, -71.1583
+East Deerfield, 42.5667, -72.5658
+East Dennis, 41.7425, -70.1625
+East Douglas, 42.0722, -71.7139
+East Douglas Station, 42.0611, -71.7106
+East Everett, 42.4167, -71.0500
+East Fairhaven, 41.6486, -70.8617
+East Falmouth, 41.5783, -70.5592
+East Farms, 42.1861, -72.7486
+East Fitchburg, 42.5833, -71.8000
+East Forest Park, 42.0972, -72.5375
+East Foxboro, 42.0611, -71.2014
+East Freetown, 41.7750, -70.9583
+East Gardner, 42.5778, -71.9528
+East Gloucester, 42.6111, -70.6486
+East Greenfield, 42.5750, -72.5819
+East Groton, 42.6417, -71.5000
+East Hadley, 42.3286, -72.5600
+East Harwich, 41.7000, -70.0278
+East Haverhill, 42.7833, -71.0833
+East Holliston, 42.2125, -71.4208
+East Junction, 41.9083, -71.3083
+East Lee, 42.2972, -73.2250
+East Leverett, 42.4397, -72.4806
+East Lexington, 42.4272, -71.2042
+East Littleton, 42.5600, -71.4542
+East Longmeadow, 42.0644, -72.5131
+East Lynn, 42.4694, -70.9278
+East Mansfield, 42.0231, -71.1778
+East Marion, 41.7125, -70.7458
+East Middleboro, 41.8500, -70.9333
+East Millbury, 42.2278, -71.7458
+East Milton, 42.2583, -71.0431
+East Natick, 42.3042, -71.3250
+East Northfield, 42.6931, -72.4389
+East Northfield Station, 42.7250, -72.4611
+East Norton, 41.9750, -71.1708
+East Orleans, 41.7850, -69.9708
+East Otis, 42.1733, -73.0350
+East Parish, 42.6639, -71.0167
+East Pembroke, 42.0792, -70.7625
+East Pepperell, 42.6653, -71.5736
+East Princeton, 42.4728, -71.8394
+East Sandwich, 41.7417, -70.4522
+East Sharon, 42.1350, -71.1617
+East Sheffield, 42.0478, -73.3014
+East Shelburne, 42.6353, -72.6672
+East Somerville, 42.3856, -71.0861
+East Springfield, 42.1417, -72.5625
+East Sudbury, 42.3833, -71.4167
+East Sudbury Station, 42.3603, -71.4022
+East Sutton, 42.1625, -71.7022
+East Swansea, 41.7500, -71.2167
+East Taunton, 41.8833, -71.0292
+East Templeton, 42.5631, -72.0375
+East Village(Worcester), 42.0611, -71.8644
+East Village(Hampshire), 42.3772, -72.4981
+East Walpole, 42.1619, -71.2111
+East Wareham, 41.7581, -70.6742
+East Watertown, 42.3694, -71.1625
+East Weymouth, 42.2139, -70.9208
+East Whately, 42.4458, -72.6153
+East Wilbraham, 42.1542, -72.3958
+East Windsor, 42.4778, -72.9861
+East Woburn, 42.4833, -71.1500
+Eastham, 41.8300, -69.9744
+Easthampton, 42.2667, -72.6694
+Eastland Heights, 41.8500, -70.5458
+Easton, 42.0244, -71.1292
+Easton Center, 42.0361, -71.0972
+Easton Green, 42.0417, -71.0786
+Easton Station, 42.0383, -71.0950
+Eastondale, 42.0361, -71.0694
+Eastview Park, 42.4008, -71.2153
+Eastville(Dukes), 41.4611, -70.5792
+Eastville(Plymouth), 42.0378, -70.9222
+Ebenville, 42.4375, -71.7028
+Eddyville, 41.9242, -70.8478
+Edgartown, 41.3889, -70.5139
+Edgemere, 42.2486, -71.7417
+Edgewater Estates, 42.0667, -70.8167
+Edgeworth, 42.4189, -71.0806
+Egremont, 42.1667, -73.4500
+Egremont Plain, 42.1847, -73.4144
+Egypt, 42.2125, -70.7589
+Egypt Beach, 42.2200, -70.7453
+Eliot, 42.3194, -71.2139
+Ellis, 42.2139, -71.1917
+Ellisville, 41.8444, -70.5422
+Elm Grove, 42.7097, -72.7042
+Elm Square, 42.0167, -71.0208
+Elmdale, 42.0833, -71.6333
+Elmwood(Hampden), 42.1958, -72.6250
+Elmwood(Plymouth), 42.0097, -70.9625
+Elmwood Station, 42.0183, -70.9708
+Emerson Hospital, 42.4522, -71.3758
+Endicott, 42.2317, -71.1583
+Enfield(historical), 42.3167, -72.3333
+Englewood, 41.6458, -70.2472
+Erving, 42.6000, -72.3986
+Essex, 42.6319, -70.7833
+Essex Falls, 42.6250, -70.7917
+Everett, 42.4083, -71.0542

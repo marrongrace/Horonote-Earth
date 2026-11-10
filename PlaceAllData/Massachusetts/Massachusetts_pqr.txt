@@ -1,0 +1,224 @@
+Packard Heights, 42.6333, -72.2297
+Packardville, 42.3458, -72.3847
+Padanaram Village, 41.6167, -70.9667
+Pages Beach, 42.6333, -71.9000
+Pakachoag, 42.2250, -71.8139
+Palmer, 42.1583, -72.3292
+Palmer Center, 42.1811, -72.3153
+Paper Mill Village(Plymouth), 41.9903, -70.9425
+Paper Mill Village(Middlesex), 42.6253, -71.5933
+Park Street, 42.4167, -71.1167
+Parkers Station, 42.6417, -72.1125
+Parkerville, 42.5522, -71.4389
+Parkwood Beach, 41.7458, -70.7000
+Partridgeville, 42.5478, -72.0478
+Pattenville, 42.5792, -71.2267
+Patuisset, 41.6833, -70.6269
+Pawtucketville, 42.6583, -71.3306
+Paxton, 42.3111, -71.9286
+Payson Park, 42.3792, -71.1667
+Peabody, 42.5278, -70.9292
+Pelham, 42.3931, -72.4042
+Pemberton, 42.3056, -70.9175
+Pembroke, 42.0714, -70.8097
+Pembroke Heights, 42.1000, -70.8000
+Pembroke Pines, 42.0500, -70.8500
+Pepperell, 42.6658, -71.5889
+Pequoig, 42.6667, -72.0125
+Perrins Crossing, 41.8861, -71.3222
+Perry Manor, 42.2000, -72.5542
+Perrys Corner, 41.8433, -71.2014
+Perryville(Worcester), 42.0250, -71.8881
+Perryville(Btristol), 41.8625, -71.2583
+Peru, 42.4381, -73.0464
+Petersham, 42.4875, -72.1875
+Phelps Mills, 42.5333, -70.9500
+Phillips Point, 42.4639, -70.8958
+Phillipston, 42.5486, -72.1333
+Phillipston Four Corners, 42.5694, -72.1333
+Pierces Bridge, 42.4333, -71.2333
+Pierceville, 41.7833, -70.7667
+Piety Corner, 42.3903, -71.2397
+Pigeon Cove, 42.6736, -70.6333
+Pilgrim Heights, 42.0569, -70.1153
+Pilgrim Pines Estates, 42.0500, -70.8500
+Pilgrim Village, 42.0833, -71.4667
+Pine Bluffs, 41.8250, -70.9236
+Pine Grove(Hampshire), 42.3014, -72.7069
+Pine Grove(Norfolk), 42.1611, -70.9306
+Pine Hill Acres, 41.7139, -70.9472
+Pine Island, 42.7758, -70.8278
+Pine Island Lake, 42.3333, -72.6667
+Pine Lake, 42.3958, -71.4542
+Pine Point, 42.1208, -72.5292
+Pine Rest, 42.3889, -71.4375
+Pine Tree Corner, 41.6186, -70.4872
+Pinecrest, 42.2533, -71.7528
+Pinedale, 42.6125, -72.2375
+Pinefield, 42.6889, -70.9028
+Pinehurst, 42.5292, -71.2286
+Pinehurst Beach, 41.7467, -70.7103
+Pines, The, 42.5436, -71.2272
+Piney Point Beach, 41.6958, -70.7222
+Pingryville, 42.5517, -71.5369
+Pitcherville, 42.5264, -72.0314
+Pittsfield, 42.4500, -73.2458
+Plainfield(Hampshire), 42.5153, -72.9167
+Plainfield(Nantucket), 41.2750, -69.9833
+Plainville(Norfolk), 42.0042, -71.3333
+Plainville(Bristol), 41.6819, -70.9611
+Plainville(Hampshire), 42.3775, -72.5500
+Pleasant Hills, 42.4556, -71.0139
+Pleasant Lake, 41.7139, -70.0828
+Pleasant Valley, 42.3556, -71.7694
+Plimptonville, 42.1597, -71.2375
+Plowed Neck, 41.7417, -70.4417
+Plum Island, 42.8125, -70.8139
+Plumbush, 42.7972, -70.8292
+Plummer Corner, 42.1222, -71.6481
+Plymouth, 41.9583, -70.6678
+Plymouth County Hospital, 42.0464, -70.8750
+Plympton, 41.9528, -70.8150
+Pocasset, 41.6861, -70.6167
+Pocasset Station, 41.6933, -70.6158
+Pocomo, 41.3139, -70.0208
+Podunk, 42.2333, -72.0500
+Point Allerton, 42.2833, -70.8833
+Point Independence, 41.7417, -70.6500
+Point of Pines, 42.4400, -70.9667
+Point Pleasant, 42.0500, -71.9000
+Point Shirley, 42.3597, -70.9708
+Polpis, 41.2983, -70.0133
+Ponakin Mill, 42.4811, -71.6875
+Pond Village, 42.0306, -70.0944
+Pondsville, 41.6850, -70.4208
+Pondville(Norfolk), 42.0903, -71.2911
+Pondville(Plymouth), 41.8000, -70.5992
+Pondville(Worcester), 42.1958, -71.8219
+Pondville State Hospital, 42.0847, -71.2883
+Ponkapoag, 42.1917, -71.1181
+Pontoosuc, 42.4792, -73.2458
+Pontoosuc Gardens, 42.4944, -73.2375
+Pope Beach, 41.6319, -70.8792
+Popponesset Beach, 41.5736, -70.4625
+Post Island, 42.2625, -70.9744
+Pottersville, 41.7500, -71.1417
+Pratt Junction, 42.4686, -71.7417
+Pratts Corner(Bristol), 42.0172, -71.0950
+Pratts Corner(Franklin), 42.4175, -72.4750
+Prattville, 41.9389, -71.0806
+Precinct, 41.8556, -70.9806
+Prentice Corner, 42.1094, -71.6961
+Prentice Gardens, 42.1167, -71.6667
+Prescott(historical), 42.3917, -72.3458
+Prides Crossing, 42.5597, -70.8250
+Princeton, 42.4486, -71.8778
+Princeton Station, 42.4481, -71.9250
+Priscilla Beach, 41.9319, -70.5667
+Proctor, 42.5347, -70.9528
+Proctors corner, 42.2550, -71.9653
+Prospect Hill, 41.9439, -70.8236
+Prospectville, 42.3958, -71.2639
+Provincetown, 42.0583, -70.1792
+Prudential Center, 42.3167, -71.0833
+Purdy Corner, 42.0064, -71.2492
+Putnamville, 42.5861, -70.9375
+Quaise, 41.2939, -70.0361
+Quansoo, 41.3500, -70.6625
+Quidnet, 41.3042, -69.9806
+Quinapoxet, 42.3778, -71.8514
+Quincy, 42.2528, -71.0028
+Quincy Center, 42.2458, -71.0083
+Quincy Neck, 42.2411, -70.9708
+Quincy Point, 42.2458, -70.9833
+Quinsigamond Village, 42.2292, -71.7972
+Quissett, 41.5433, -70.6500
+Quitnesset, 41.6564, -69.9625
+Racing Beach, 41.5542, -70.6550
+Raddin Station, 42.4597, -70.9792
+Rakeville, 42.0256, -71.4653
+Randolph, 42.1625, -71.0417
+Raynham, 41.9486, -71.0736
+Raynham Center, 41.9236, -71.0528
+Reading, 42.5256, -71.0958
+Reading Highlands, 42.5250, -71.1125
+Readville, 42.2403, -71.1375
+Readville Manor, 42.2292, -71.1444
+Readyville Manor, 42.2333, -71.1667
+Red Bridge, 42.1750, -72.4108
+Redgate Corner, 41.6042, -70.9444
+Redstone Shopping Center, 42.4833, -71.1000
+Reeds Corner, 42.2217, -70.8083
+Rehoboth, 41.8403, -71.2500
+Renfrew, 42.6378, -73.1131
+Reservoir, 42.3353, -71.1486
+Revere, 42.4083, -71.0125
+Revere Beach, 42.4167, -71.0000
+Revere Memorial Hospital, 42.4144, -71.0189
+Rexhame, 42.1139, -70.6750
+Rial Side, 42.5500, -70.8958
+Rice Square, 42.2458, -71.7889
+Richardson Corners, 42.1511, -71.9256
+Richmond, 42.3731, -73.3681
+Richmond Furnace, 42.3611, -73.3811
+Rings Island, 42.8167, -70.8667
+Ringville, 42.3694, -72.9103
+Rio Vista, 42.5431, -71.3056
+Risingdale, 42.2486, -73.3556
+River Pines, 42.5639, -71.2889
+Riverdale(Essex), 42.6333, -70.6750
+Riverdale(Hampden), 42.1167, -72.6250
+Riverdale(Norfolk), 42.2722, -71.1778
+Riverdale(Worcester), 42.1383, -71.6397
+Riverdale Station, 42.6417, -70.6722
+Rivermoor, 42.1750, -70.7167
+Riverside(Berkshire), 42.7167, -73.2000
+Riverside(Essex), 42.7639, -71.0500
+Riverside(Franklin), 42.6111, -72.5472
+Riverside(Middlesex), 42.5361, -71.3042
+Riverside(Plymouth), 41.7500, -70.6556
+Riverview(Essex), 42.6319, -70.6819
+Riverview(Middlesex), 42.3722, -71.2444
+Riverview Landing, 42.6278, -70.6889
+Roaring Brook Camp, 42.4814, -72.6689
+Roberts, 42.3833, -71.2333
+Robin Hill, 42.3606, -71.5964
+Robinson Crusoe Camp, 42.0931, -72.0956
+Robinsonville, 42.0125, -71.2667
+Rochdale, 42.1944, -71.9064
+Rochester, 41.7317, -70.8206
+Rock, 41.8417, -70.8619
+Rock Harbor, 41.7972, -70.0042
+Rock Island, 42.2622, -70.9625
+Rock Landing, 41.5650, -70.4694
+Rock Valley, 42.1939, -72.6764
+Rockdale(Berkshire), 42.2667, -73.3667
+Rockdale(Bristol), 41.6517, -70.9600
+Rockdale Mills, 42.2911, -73.3767
+Rockland, 42.1306, -70.9167
+Rockport, 42.6556, -70.6208
+Rocks Village, 42.8097, -71.0028
+Rockville, 42.1406, -71.3597
+Rocky Hill, 42.1522, -71.4878
+Rocky Neck, 42.6056, -70.6583
+Rocky Nook, 41.9875, -70.7008
+Rocky Nook Park, 41.9936, -70.7014
+Rocky Nook Point, 41.9986, -70.7075
+Rolling Acres Estates, 42.6167, -71.4167
+Roosterville, 42.0792, -73.0731
+Rooty Plain, 42.7028, -70.9514
+Rosemont, 42.8036, -71.1117
+Roslindale, 42.2911, -71.1250
+Rowe, 42.6933, -72.9000
+Rowley, 42.7167, -70.8792
+Roxbury, 42.3250, -71.0958
+Roxbury Crossing, 42.3306, -71.0917
+Royalston, 42.6775, -72.1883
+Ruralville, 42.3900, -71.8767
+Russell, 42.1897, -72.8597
+Russells Mills, 41.5722, -71.0069
+Russellville, 42.2019, -72.7686
+Rust Craft, 42.2333, -71.1667
+Rutland, 42.3694, -71.9486
+Rutland Heights Hospital, 42.4311, -71.9628
+Rye Hill, 42.0861, -70.9083

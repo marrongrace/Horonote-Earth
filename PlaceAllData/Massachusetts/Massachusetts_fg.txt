@@ -1,0 +1,182 @@
+Factory Hollow, 42.4153, -72.5192
+Fairhaven, 41.6375, -70.9042
+Fairlawn, 42.2750, -71.7417
+Fairlawn Hospital, 42.2603, -71.8361
+Fairmount, 42.2514, -71.1153
+Fairview, 42.2042, -72.5750
+Fall River, 41.7014, -71.1556
+Fall River Station, 41.7139, -71.1542
+Falls Mall Shopping Center, 42.2500, -72.5833
+Falmouth, 41.5514, -70.6153
+Falmouth Heights, 41.5458, -70.5958
+Faneuil, 42.3556, -71.1639
+Farley, 42.6000, -72.4394
+Farm Hill, 42.4833, -71.1000
+Farm Street Station, 42.2108, -71.3147
+Farmersville, 41.6903, -70.4442
+Farnams, 42.5417, -73.1861
+Farnumsville, 42.1769, -71.6814
+Farren Memorial Hospital, 42.5861, -72.5767
+Faulkner, 42.4292, -71.0556
+Faulkner Hospital, 42.3064, -71.1300
+Faunce Corner, 41.6792, -70.9889
+Fayville, 42.2944, -71.5061
+Feeding Hills, 42.0681, -72.6792
+Felchville, 42.2978, -71.3597
+Fells, 42.4417, -71.0717
+Fellsway, 42.4167, -71.1167
+Fennerville, 42.0375, -71.8833
+Fentonville, 42.1403, -72.2736
+Ferncroft, 42.5792, -70.9583
+Ferry Hill, 42.1394, -70.6997
+Fiberloid, 42.1514, -72.5333
+Fields Corner, 42.3000, -71.0583
+Fieldston, 42.1072, -70.6644
+Fighting Rock Corner, 41.7347, -71.0903
+Findlen, 42.2333, -71.1667
+Finnville, 42.1944, -70.8994
+Fireworks, 42.1042, -70.8722
+First Cliff, 42.1994, -70.7167
+First Encounter, 41.8333, -69.9667
+First Encounter Beach, 41.8228, -70.0042
+Fishermans Landing, 41.9061, -70.5472
+Fishers Landing, 41.2936, -70.1797
+Fisherville, 42.1750, -71.6931
+Fiskdale, 42.1161, -72.1139
+Fitchburg, 42.5833, -71.8028
+Five Corners(Norfolk), 42.2289, -71.0200
+Five Corners(Plymouth), 41.7997, -70.7653
+Five Corners(Worcester), 42.4436, -71.6667
+Five Corners(Bristol), 42.0236, -71.1208
+Five Pound Island, 42.6136, -70.6539
+Flint, 41.7000, -71.1333
+Flint Village, 41.6889, -71.1306
+Flints Corner, 42.6550, -71.4333
+Florence, 42.3356, -72.6722
+Florida, 42.6667, -73.0117
+Follen Heights, 42.4325, -71.2139
+Fomer, 42.2450, -72.7944
+Forbes Wharf, 42.2667, -71.0608
+Fore River, 42.2500, -71.0000
+Forest Hills, 42.2967, -71.1042
+Forest Lake, 42.1500, -72.3333
+Forest Park(Hampden), 42.0903, -72.5708
+Forest Park(Norfolk), 42.0972, -71.4819
+Forest River, 42.5167, -70.9000
+Forestdale, 41.6917, -70.5000
+Forestdale Estates, 42.0667, -70.8167
+Forge Village, 42.5800, -71.4875
+Fort Andrews, 42.2997, -70.9289
+Fort Bellingham, 42.0833, -71.4667
+Fort Dawes, 42.3500, -70.9569
+Fort Devens, 42.5500, -71.6000
+Fort Duvall, 42.3000, -70.8964
+Fort Heath, 42.3667, -70.9833
+Fort Hill, 42.2375, -70.9042
+Fort Independence, 42.3381, -71.0122
+Fort Revere, 42.3061, -70.9083
+Fort Standish, 41.9972, -70.6292
+Fort Warren, 42.3194, -70.9292
+Fort Winthrop, 42.3519, -71.0125
+Foundry Village, 42.6736, -72.7189
+Four Corners, 42.1858, -72.3486
+Four Corners, 42.6744, -71.5778
+Fourth Cliff, 42.1600, -70.7050
+Foxboro, 42.0583, -71.2500
+Foxvale, 42.0425, -71.2347
+Framingham, 42.2792, -71.4167
+Framingham Center, 42.2972, -71.4375
+Franklin, 42.0833, -71.3972
+Franklin County Hospital, 42.5958, -72.5917
+Franklin Park, 42.4417, -71.0167
+Frederick Corner, 42.6483, -71.4750
+Freeman Knoll, 42.1981, -72.5500
+Freetown, 41.7667, -70.9667
+Fresh Brook, 41.8933, -69.9875
+Fresh Pond, 42.3833, -71.1333
+Freshwater Cove, 42.6167, -70.6667
+Freshwater Cove Village, 42.5958, -70.6875
+Fryeville, 42.6278, -72.2256
+Fryville, 42.4083, -71.6203
+Fuller Memorial Sanitarium, 41.9214, -71.3597
+Fuller Shores, 41.8181, -70.9403
+Furnace, 42.3458, -72.1611
+Furnace Pond Colony, 42.0667, -70.8167
+Furnace Village, 42.0333, -71.1000
+Further Creek, 41.2806, -70.2278
+Gannett Corners, 42.2186, -70.7875
+Gardner, 42.5750, -71.9986
+Gardner State Hospital, 42.5806, -71.9417
+Gates Crossing, 42.4958, -71.7375
+Gay Head, 41.3436, -70.8153
+Georgetown, 42.7250, -70.9917
+Germantown(Essex), 42.2556, -70.9625
+Germantown(Norfolk), 42.2625, -71.1547
+Gibbs Crossing, 42.2372, -72.2889
+Gibbs Grove, 41.8681, -70.8619
+Gidleys Corner, 41.5819, -71.0403
+Giffords Corner, 41.6222, -71.0806
+Gilbertville, 42.3125, -72.2083
+Gill, 42.6403, -72.5000
+Gill Station, 42.6500, -72.4644
+Gillett Corner, 42.0256, -72.7861
+Ginty Corner, 42.0147, -71.1628
+Gleasondale, 42.4061, -71.5272
+Gleasondale Station, 42.3958, -71.5239
+Glen Echo, 42.1333, -71.1000
+Glen Grove, 42.1653, -71.9944
+Glen Grove Annex, 42.1583, -71.9875
+Glen Heights, 42.1569, -71.9931
+Glen Mills, 42.7375, -70.9167
+Glenallen, 42.6817, -72.0256
+Glendale(Middlesex), 42.4139, -71.0486
+Glendale(Berkshire), 42.2833, -73.3444
+Glenridge, 42.2458, -71.3219
+Glenwood, 42.4167, -71.1167
+Globe Village(Bristol), 41.6819, -71.1861
+Globe Village(Worcester), 42.0833, -72.0478
+Gloucester, 42.6158, -70.6625
+Glover Memorial Hospital, 42.2772, -71.2372
+Glynn Memorial Hospital, 42.7639, -71.0467
+Goddard Memorial Hospital, 42.1000, -71.0819
+Golden Ring Camp, 42.0500, -70.8444
+Gooch Corners, 42.2272, -71.4269
+Goodrichville, 42.5978, -71.7028
+Goshen, 42.4403, -72.8000
+Gosnold, 41.4500, -70.8000
+Goss Heights, 42.2625, -72.8736
+Goulding Village, 42.5417, -72.1103
+Gowards Corner, 42.0250, -71.0672
+Graceland Park, 42.7722, -71.1603
+Grafton, 42.2069, -71.6861
+Grafton State Hospital, 42.2669, -71.6369
+Granby, 42.2564, -72.5167
+Graniteville, 42.5958, -71.4625
+Grantville, 42.3125, -71.2750
+Granville, 42.0667, -72.8619
+Granville Center, 42.0672, -72.8792
+Gray Gables, 41.7333, -70.6208
+Great Barrington, 42.1958, -73.3625
+Great Brook Valley, 42.3069, -71.7722
+Great Neck, 41.5375, -70.9917
+Great Swamp, 42.2444, -72.6139
+Green Harbor, 42.0778, -70.6500
+Green Ridge Park, 42.4517, -73.1883
+Green, The, 41.9067, -70.8861
+Greenbush, 42.1792, -70.7500
+Greendale, 42.3069, -71.7958
+Greenfield, 42.5875, -72.6000
+Greenlodge, 42.2222, -71.1597
+Greenville, 42.2042, -71.9167
+Greenwich(historical), 42.3583, -72.2967
+Greenwich Village(historical), 42.3833, -72.2750
+Greenwood, 42.4819, -71.0625
+Greenwood Manor Estates, 42.0667, -70.8167
+Greylock, 42.6964, -73.1519
+Griswoldville, 42.6564, -72.7144
+Grosvenor Corner, 42.7767, -71.1742
+Groton, 42.6111, -71.5750
+Grounts Corner, 42.5778, -72.4944
+Grove Hall, 42.3111, -71.0750
+Groveland, 42.7603, -71.0319
+Gurneys Corner, 42.0431, -70.8550

@@ -1,0 +1,256 @@
+Cable Memorial Hospital, 42.6661, -70.8375
+Cabot, 42.3500, -71.2000
+Cadys Corners, 42.1681, -72.5056
+Cahoon Hollow, 41.9444, -69.9861
+Cambridge(Middlesex), 42.3667, -71.1000
+Cambridge(Worcester), 42.2444, -71.8125
+Cambridge City Hospital, 42.3742, -71.1044
+Cambridge City Infirmary, 42.3894, -71.1489
+Cambridgeport, 42.3583, -71.1042
+Camp Ashmere, 42.4442, -73.0792
+Camp Avoda, 41.8661, -70.8642
+Camp Barton, 42.1542, -71.8958
+Camp Becket, 42.2917, -73.0792
+Camp Bement, 42.1806, -71.9650
+Camp Berkshire, 42.0314, -72.7611
+Camp Bob White, 42.2264, -71.4689
+Camp Breezy Meadow, 42.1739, -71.4436
+Camp Burgess, 41.6978, -70.4556
+Camp Cabot, 42.4000, -71.2325
+Camp Caravan, 42.6428, -72.1547
+Camp Chacalot, 41.8119, -70.6500
+Camp Chappa Challa, 42.0500, -70.6667
+Camp Chimney Corners, 42.2811, -73.0722
+Camp Cielo Celeste, 42.6019, -71.4458
+Camp Collier, 42.6189, -71.9644
+Camp Danbee, 42.4428, -73.0758
+Camp Edwards, 41.6569, -70.5444
+Camp Emerson, 42.4325, -73.1333
+Camp Glenmere, 42.1861, -73.1936
+Camp Green Eyrie, 42.4972, -71.5972
+Camp Greylock, 42.3000, -73.0681
+Camp Grounds, 42.4000, -71.7667
+Camp Herbron, 41.9097, -71.3014
+Camp Howe, 42.4519, -72.7931
+Camp Immaculate Heart, 42.6458, -71.4950
+Camp Jayson, 42.1875, -73.1981
+Camp Kingsmont, 42.3014, -73.4144
+Camp Kinneywood, 42.2972, -71.8625
+Camp Kiwanis(Plymouth), 42.0583, -70.8500
+Camp Kiwanis(Middlesex), 42.6961, -71.3772
+Camp Lenore, 42.4397, -73.0931
+Camp Lincoln Hill, 42.0708, -71.2153
+Camp Mah-Kee-Nac, 42.3403, -73.3097
+Camp Mar Vel, 41.9319, -70.0228
+Camp Marion White, 42.4153, -73.3167
+Camp Mary Day, 42.3272, -71.3264
+Camp Massapoag, 42.6500, -71.4983
+Camp Meadowlark, 42.2069, -73.2111
+Camp Merrill, 42.4889, -73.2453
+Camp Merriwood, 41.7931, -71.1042
+Camp Mishannock, 41.9556, -70.7389
+Camp Mohawk, 42.5336, -73.2008
+Camp Muriel Flagg, 42.7411, -73.1856
+Camp Nashoba, 42.6028, -71.4481
+Camp Neyati, 42.1972, -71.9431
+Camp Noquochoke, 41.5958, -71.0633
+Camp Norse, 41.9367, -70.7458
+Camp Ousamequin, 42.0069, -70.8506
+Camp Resolute, 42.4222, -71.5875
+Camp Rockne, 41.8525, -70.6772
+Camp Romaca, 42.4269, -73.1331
+Camp Rowe, 42.6894, -72.8981
+Camp Russell, 42.4117, -73.3236
+Camp Sayre, 42.2333, -71.0944
+Camp Sea Haven, 42.7375, -70.7889
+Camp Snipatuit, 41.7650, -70.8722
+Camp Spruce Hill, 42.0436, -73.0250
+Camp Squanto, 41.8308, -70.6375
+Camp Stevenson, 42.4758, -73.2828
+Camp Sumner, 42.4875, -73.2417
+Camp Taconic, 42.4528, -73.0917
+Camp Ted, 42.3972, -71.2286
+Camp Titicut, 41.9333, -70.9994
+Camp Virginia, 42.4250, -71.5806
+Camp Wakitatina, 42.6003, -71.4508
+Camp Wampatuck, 42.0639, -70.8631
+Camp Warwick, 42.6986, -72.3181
+Camp Welch, 41.8167, -71.0875
+Camp Witawentin, 42.4750, -73.2864
+Camp Woronoak, 42.1533, -72.8708
+Camp Wyoma, 42.4283, -73.1258
+Camp Yomechas, 41.8597, -70.8597
+Camp, Cedar Hill, 42.3900, -71.2186
+Campbells Station, 42.1306, -71.2986
+Campello, 42.0542, -71.0208
+Campground Landing, 41.8528, -70.0069
+Canada Mills, 42.3731, -71.8278
+Canedys Corner, 41.8014, -70.9764
+Cannonville, 41.6597, -70.7986
+Canterbury Estates, 41.7667, -70.5000
+Canton, 42.1583, -71.1453
+Canton Junction, 42.1625, -71.1625
+Cape Cod Hospital, 41.6528, -70.2722
+Cape Cod Mall, 41.6500, -70.2833
+Cardinal Cushing Hospital, 42.0981, -71.0628
+Carey Corner, 42.3733, -73.3464
+Carletonville, 42.5167, -70.9000
+Carlisle, 42.5292, -71.3583
+Carlisle Station, 42.5361, -71.3975
+Carterville, 42.3883, -71.6458
+Carver, 41.8833, -70.7631
+Caryville, 42.1333, -71.4483
+Castle Hill, 42.5167, -70.9000
+Castleton Mall, 42.1333, -71.1000
+Cataumet, 41.6661, -70.6203
+Cataumet Station, 41.6656, -70.6139
+Cathedral, 42.3333, -71.0667
+Cayenne, 42.1306, -72.6375
+Cedar, 42.1231, -71.2639
+Cedar Bushes, 41.8972, -70.5500
+Cedar Grove, 42.2806, -71.0583
+Cedar Hill, 42.1333, -71.2833
+Cedarville, 41.8103, -70.5558
+Cedarville Landing, 41.8139, -70.5417
+Cedarwood, 42.3708, -71.2631
+Center, 42.4833, -71.1500
+Centerville(Barnstable), 41.6486, -70.3486
+Centerville(Essex), 42.5806, -70.8417
+Centerville(Worcester), 42.0731, -71.6131
+Central New England Sanatorium, 42.3844, -71.9686
+Central Square, 42.4911, -71.1511
+Central Village, 41.5736, -71.0917
+Centralville, 42.6556, -71.3056
+Centre Mills, 41.9750, -71.1853
+Chadwick Square, 42.2903, -71.8097
+Chadwicks Folly, 41.3197, -69.9903
+Chaffin, 42.3500, -71.8500
+Chaffinville, 42.3361, -71.8333
+Chandler Hill, 42.2736, -71.7917
+Chapel Hill Estates, 42.0667, -70.8167
+Chapinville, 42.3369, -71.6250
+Chappaquiddick, 41.3872, -70.5050
+Chappaquiddick Island, 41.3833, -70.5167
+Chappaquoit, 41.6042, -70.6500
+Charlemont, 42.6278, -72.8703
+Charles River, 42.2833, -71.2333
+Charles River Grove, 42.0917, -71.4736
+Charles River Station, 42.2622, -71.2631
+Charles River Village, 42.2606, -71.2617
+Charlestown, 42.3778, -71.0625
+Charlton, 42.1356, -71.9706
+Charlton City, 42.1458, -71.9889
+Charlton Depot, 42.1731, -71.9792
+Chartley, 41.9486, -71.2264
+Chaseville, 42.0417, -71.8972
+Chatham, 41.6819, -69.9603
+Chatham Port, 41.7028, -69.9700
+Cheapside, 42.5722, -72.5861
+Chelmsford, 42.6000, -71.3500
+Chelmsford Center, 42.5958, -71.2028
+Chelsea, 42.3917, -71.0333
+Cherry Brook, 42.3667, -71.3000
+Cherry Valley, 42.2431, -71.8736
+Cheshire, 42.5619, -73.1633
+Cheshire Harbor, 42.5939, -73.1419
+Chester, 42.2792, -72.9792
+Chester Center, 42.2903, -72.9250
+Chesterfield, 42.3917, -72.8403
+Chestnut Hill, 42.3306, -71.1667
+Chestnut Hill Meeting House, 42.0450, -71.5786
+Chicopee, 42.1486, -72.6083
+Chicopee Falls, 42.1519, -72.5764
+Chilmark, 41.3431, -70.7453
+Chiltonville, 41.9375, -70.6292
+Choate Memorial Hospital, 42.4758, -71.1550
+Churchill Landing, 41.9014, -70.5444
+Churchill Shores, 41.8056, -70.9583
+Cisco, 41.2542, -70.1542
+City Mills, 42.1083, -71.3550
+City Point, 42.3361, -71.0292
+Clapps Corner, 42.2000, -70.8131
+Clarendon Hill, 42.2750, -71.1250
+Clarendon Hills, 42.2750, -71.1236
+Clarksburg, 42.7167, -73.0833
+Clayton, 42.0431, -73.2875
+Cleghorn, 42.5833, -71.8000
+Clematis Brook, 42.3833, -71.2333
+Clematis Brook Station, 42.3817, -71.2111
+Clevelandtown, 41.3833, -70.5194
+Clicquot, 42.1714, -71.3528
+Clifford, 41.7264, -70.9417
+Clifton, 42.4833, -70.8806
+Clifton Heights, 42.0569, -71.0306
+Cliftondale, 42.4486, -71.0111
+Clinton, 42.4167, -71.6833
+Clinton Hospital, 42.4278, -71.6931
+Clover Hill Hospital, 42.7211, -71.1647
+Cobbs Village, 41.7083, -70.2917
+Coburnville, 42.2728, -71.4361
+Cochesett, 42.0167, -71.0389
+Cochituate, 42.3208, -71.3647
+Codfish Park, 41.2797, -69.9625
+Cohasset, 42.2417, -70.8042
+Cold Spring(Berkshire), 42.1542, -73.0750
+Cold Spring(Franklin), 42.6625, -72.5139
+Cold Spring(Hampshire), 42.2467, -72.3561
+Coldbrook Springs, 42.3944, -72.0472
+Cole Corner, 42.2236, -70.8861
+Cole Mill, 41.9264, -70.7992
+College Hill, 42.2333, -71.8111
+Collins Corner, 41.7111, -71.1069
+Collinsville, 42.6833, -71.3528
+Colonial Acres, 41.6478, -70.2561
+Colonial Park, 42.0272, -71.8319
+Colrain, 42.6731, -72.6972
+Colton Hollow, 42.1097, -72.3542
+Coltsville, 42.4675, -73.2042
+Columbus Park, 42.2556, -71.8347
+Cominsville, 42.1869, -71.8958
+Community Hospital, 42.3792, -70.9917
+Community Park, 42.1153, -71.9083
+Concord, 42.4603, -71.3494
+Congamond, 42.0194, -72.7700
+Conomo, 42.6333, -70.7833
+Conway, 42.5097, -72.7000
+Cook Street, 42.3500, -71.2000
+Cooks Brook Beach, 41.8644, -70.0083
+Cooks Corner, 42.2778, -72.4708
+Cooley Dickinson Hospital, 42.3306, -72.6542
+Cooleyville, 42.4631, -72.3731
+Coolidge Corner, 42.3458, -71.1250
+Copper Works, 41.9483, -71.1792
+Cordage, 41.9792, -70.6917
+Cordaville, 42.2689, -71.5244
+Coskata, 41.3542, -70.0208
+Cotley, 41.9000, -71.1000
+Cottage Hill, 42.3681, -70.9694
+Cottage Park, 42.3708, -70.9875
+Cotuit, 41.6167, -70.4375
+Cotuit Highlands, 41.6083, -70.4375
+Country View Estates, 42.0958, -71.4375
+Countryside, 42.4419, -71.1944
+Court Park, 42.3728, -70.9953
+Coury Heights, 41.6958, -70.9250
+Cow Yard, 41.5319, -70.9667
+Cowen Corner, 41.7689, -70.8433
+Cox Corner, 42.0589, -70.6917
+Coxs Corner, 42.0806, -70.8875
+Craigville, 41.6394, -70.3356
+Craigville Beach, 41.6367, -70.3458
+Cranberry Bog Corner, 41.5625, -70.9861
+Crane Lake Camp, 42.3381, -73.3792
+Cranes Station, 41.9519, -71.1467
+Crescent Beach(Plymouth), 41.6542, -70.7872
+Crescent Beach(Suffolk), 42.4056, -70.9917
+Crescent Mills, 42.2194, -72.8606
+Crooks Corner, 42.0250, -71.4908
+Crow Point, 42.2617, -70.8958
+Crownridge Estates, 42.1883, -71.3214
+Cummaquid, 41.7017, -70.2736
+Cummingsville, 42.4811, -71.1750
+Cummington, 42.4617, -72.8944
+Curtis Crossing, 42.1028, -70.8236
+Curzon Mill, 42.8208, -70.9375
+Cushman, 42.4139, -72.5069
+Cuttyhunk, 41.4208, -70.9297

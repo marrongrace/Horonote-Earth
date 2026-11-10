@@ -1,0 +1,299 @@
+Saconesset Hills, 41.5778, -70.6403
+Sagamore, 41.7700, -70.5289
+Sagamore Beach, 41.7983, -70.5294
+Sagamore Highlands, 41.8067, -70.5361
+Salem, 42.5194, -70.8972
+Salem Hospital, 42.5103, -70.9083
+Salem Neck, 42.5333, -70.8681
+Salem State College, 42.5167, -70.9000
+Salisbury, 42.8417, -70.8611
+Salisbury Beach, 42.8431, -70.8181
+Salisbury Heights, 42.2939, -71.8458
+Salisbury Plains, 42.8694, -70.8833
+Salisbury Point, 42.8417, -70.9125
+Salters Point, 41.6167, -70.9667
+Sampsons Corner, 41.8500, -70.9458
+Sand Hill, 42.2000, -70.7333
+Sand Hills, 42.2097, -70.7256
+Sandersdale, 42.0694, -72.0125
+Sandisfield, 42.1125, -73.1436
+Sandwich, 41.7589, -70.4944
+Sandy Beach(Norfolk), 42.2333, -70.8000
+Sandy Beach(Worcester), 42.3389, -71.9444
+Sandy Hill, 42.1542, -72.6069
+Santuit, 41.6375, -70.4511
+Satans Kingdom, 42.7125, -72.4806
+Saugus, 42.4647, -71.0106
+Saugus General Hospital, 42.4575, -70.9922
+Saundersville, 42.1814, -71.7047
+Savin Hill, 42.3125, -71.0583
+Savoy, 42.5667, -73.0292
+Savoy Center, 42.6069, -73.0431
+Saxonville, 42.3264, -71.4000
+Schoosett, 42.1042, -70.7986
+Scituate, 42.1958, -70.7264
+Scituate Center, 42.2042, -70.7611
+Scituate Station, 42.1931, -70.7417
+Scorton Shores, 41.7417, -70.4125
+Scotland, 41.9722, -71.0069
+Scott Corners, 42.1819, -72.5061
+Scott Hill Acres, 42.0681, -71.4708
+Sea View, 42.1394, -70.7139
+Searstown, 42.5333, -71.7667
+Searsville, 42.4008, -72.7458
+Second Cliff, 42.1917, -70.7183
+Seekonk, 41.8083, -71.3375
+Segreganset, 41.8367, -71.1139
+Sesachacha, 41.2833, -69.9833
+Shaker Village(Berkshire), 42.4314, -73.3375
+Shaker Village(Middlesex), 42.5292, -71.6500
+Shakerhill, 42.4583, -71.1806
+Shallow Pond, 41.2933, -70.1317
+Sharon, 42.1236, -71.1792
+Sharon Heights, 42.1083, -71.1972
+Shattuckville, 42.6375, -72.7269
+Shawkemo, 41.2944, -70.0583
+Shawsheen Heights, 42.6756, -71.1597
+Shawsheen Village, 42.6722, -71.1444
+Shea Corner, 42.0417, -72.7014
+Sheffield, 42.1103, -73.3556
+Shelburne, 42.5897, -72.6889
+Shelburne Falls, 42.6042, -72.7397
+Sheldonville, 42.0347, -71.3875
+Shell Beach, 41.6414, -70.8061
+Shepardville, 42.0231, -71.3089
+Sherborn, 42.2389, -71.3703
+Sherman Corner, 42.1842, -70.7786
+Sherwood Forest(Bristol), 41.7069, -70.9278
+Sherwood Forest(Berkshire), 42.3333, -73.0833
+Sherwood Plaza, 42.2833, -71.3500
+Shimmo, 41.2861, -70.0750
+Shirkshire, 42.5514, -72.7269
+Shirley, 42.5436, -71.6500
+Shirley Center, 42.5722, -71.6514
+Shooters Island, 41.6236, -69.9778
+Shoppers' World, 42.3000, -71.4167
+Shore Acres(Plymouth), 42.2144, -70.7389
+Shore Acres(Bristol), 41.5569, -70.9403
+Shrewsbury, 42.2958, -71.7133
+Shrewsbury Street, 42.2681, -71.7875
+Shriners Hospital, 42.1208, -72.5931
+Shutesbury, 42.4564, -72.4103
+Shutleff Corner, 41.9111, -70.7692
+Siasconset, 41.2625, -69.9667
+Sibleys Corner, 42.2517, -71.9772
+Silver Beach, 42.6403, -70.6375
+Silver Hill, 42.3958, -71.3028
+Silver Lake(Plymouth), 42.0042, -70.7936
+Silver Lake(Middlesex), 42.5694, -71.1917
+Silver Shell Beach, 41.6083, -70.8653
+Silver Spring Beach, 41.8667, -69.9833
+Sippewisset, 41.5653, -70.6469
+Sissons Corner, 41.6194, -71.0528
+Sixteen Acres, 42.1167, -72.5014
+Sky Farm, 42.6400, -72.4203
+Skyland, 42.0714, -73.0475
+Slades Corner, 41.5694, -71.0331
+Slades Ferry, 41.7208, -71.1583
+Slocums Corner, 41.5444, -71.0097
+Smalltown, 41.5958, -70.5381
+Smith Highlands, 42.1944, -72.5889
+Smith Mills, 41.6389, -70.9917
+Smiths(historical), 42.3292, -72.3267
+Smiths Ferry, 42.2583, -72.6147
+Smithville, 42.3944, -72.0542
+Smooth Hummocks, 41.2500, -70.1417
+Snell Corner, 41.5861, -71.0819
+Snug Harbor, 42.0333, -70.6667
+Soldiers Field, 42.3667, -71.1333
+Soldiers Home, 42.1986, -72.6417
+Solemar Hospital, 41.5997, -70.9325
+Somerset, 41.7694, -71.1292
+Somerville, 42.3875, -71.1000
+Somerville Central Hospital, 42.3850, -71.1069
+South, 41.6833, -71.1667
+South Acton, 42.4583, -71.4542
+South Amherst, 42.3403, -72.5056
+South Ashburnham, 42.6103, -71.9394
+South Ashfield, 42.5106, -72.7769
+South Athol, 42.5314, -72.2625
+South Attleboro, 41.9083, -71.3625
+South Barre, 42.3853, -72.0958
+South Bellingham, 42.0417, -71.4767
+South Berlin, 42.3597, -71.6292
+South Billerica, 42.5278, -71.2806
+South Bolton, 42.3967, -71.6056
+South Boston, 42.3333, -71.0500
+South Braintree, 42.2000, -71.0000
+South Brewster, 41.7472, -70.0603
+South Bridgewater, 41.9456, -70.9475
+South Byfield, 42.7486, -70.9042
+South Carver, 41.8406, -70.7472
+South Charlton, 42.0981, -71.9250
+South Chatham, 41.6792, -70.0250
+South Chelmsford, 42.5708, -71.3764
+South Commons, 42.2369, -70.9875
+South Dartmouth, 41.5917, -70.9417
+South Deerfield, 42.4772, -72.6083
+South Dennis, 41.6894, -70.1569
+South Duxbury, 42.0231, -70.6833
+South Easton, 42.0472, -71.0819
+South Egremont, 42.1606, -73.4167
+South End, 42.0958, -72.5833
+South Essex, 42.6292, -70.7694
+South Factory Village, 42.0722, -72.3278
+South Fitchburg, 42.5644, -71.7833
+South Foxboro, 42.0367, -71.2708
+South Framingham, 42.3000, -71.4167
+South Gardner, 42.5583, -71.9792
+South Georgetown, 42.7097, -70.9917
+South Grafton, 42.2500, -71.6833
+South Grafton Street, 42.2403, -71.7542
+South Groveland, 42.7403, -71.0456
+South Hadley, 42.2583, -72.5750
+South Hadley Falls, 42.2167, -72.6000
+South Halifax, 41.9556, -70.8667
+South Hamilton, 42.6069, -70.8792
+South Hanover, 42.0972, -70.8500
+South Hanson, 42.0431, -70.8806
+South Harwich, 41.6750, -70.0444
+South Hawley, 42.5464, -72.9050
+South Hingham, 42.1958, -70.8750
+South Hyannis, 41.6500, -70.2833
+South Lakeville, 41.8500, -70.9333
+South Lancaster, 42.4444, -71.6875
+South Lawrence, 42.6958, -71.1542
+South Lee, 42.2778, -73.2778
+South Lincoln, 42.4139, -71.3264
+South Lowell, 42.6194, -71.2875
+South Lynnfield, 42.5167, -71.0019
+South Mashpee, 41.5825, -70.4775
+South Middleboro, 41.8242, -70.8281
+South Middleton, 42.5708, -71.0292
+South Milford, 42.1028, -71.5047
+South Monson, 42.0917, -72.3111
+South Natick, 42.2736, -71.3167
+South Orleans, 41.7506, -69.9917
+South Pasture, 41.2583, -70.0667
+South Peabody, 42.5097, -70.9500
+South Pocasset, 41.6750, -70.6092
+South Pond, 41.9069, -70.6417
+South Quarter, 42.1417, -72.8625
+South Quincy, 42.2389, -71.0083
+South Rehoboth, 41.8042, -71.2825
+South Row, 42.6333, -71.7036
+South Royalston, 42.6306, -72.1478
+South Salem, 42.5111, -70.8931
+South Sandisfield, 42.0683, -73.1600
+South Sandwich, 41.7667, -70.5000
+South Seekonk, 41.7889, -71.3194
+South Sherborn, 42.2236, -71.3556
+South Shrewsbury, 42.2764, -71.7167
+South Spencer, 42.2186, -72.0153
+South Stoughton, 42.1153, -71.0806
+South Sudbury, 42.3625, -71.4139
+South Sutton, 42.1000, -71.7125
+South Swansea, 41.7181, -71.2042
+South Truro, 41.9667, -70.0667
+South Uxbridge, 42.0833, -71.6333
+South Village, 42.6667, -71.8250
+South Walpole, 42.1042, -71.2617
+South Waltham, 42.3833, -71.2333
+South Wareham, 41.7722, -70.7500
+South Wellfleet, 41.9181, -69.9958
+South Wendell, 42.5208, -72.3917
+South Westport, 41.5708, -71.0583
+South Weymouth, 42.1750, -70.9500
+South Williamstown, 42.6606, -73.2419
+South Wilmington, 42.5153, -71.1569
+South Worcester, 42.2458, -71.8444
+South Worthington, 42.3436, -72.8903
+South Yarmouth, 41.6667, -70.1853
+Southampton, 42.2292, -72.7306
+Southborough, 42.3056, -71.5250
+Southbridge, 42.0750, -72.0339
+Southeast Quarter, 41.2500, -70.0167
+Southfield, 42.1014, -73.2333
+Southlawn Cemetery, 42.6600, -73.2389
+Southville, 42.2667, -71.5369
+Southwick, 42.0547, -72.7708
+Spencer, 42.2439, -71.9928
+Spindleville, 42.1147, -71.5300
+Spring Hill, 42.3883, -71.1097
+Spring Hill Hospital, 42.3903, -71.1103
+Springdale(Norfolk), 42.1533, -71.1297
+Springdale(Hampden), 42.1917, -72.6208
+Springfield, 42.1014, -72.5903
+Springfield Boys Camp, 42.1119, -72.1806
+Springfield Girls Camp, 42.0764, -72.1694
+Springfield Hospital, 42.1208, -72.6042
+Springfield Municipal Hospital, 42.1208, -72.5478
+Springs, The, 41.7472, -70.4792
+Spruce Corner, 42.5022, -72.8472
+Squam, 41.3167, -69.9917
+Squantum, 42.2958, -71.0125
+Squibnocket, 41.3069, -70.7750
+St Camillus Hospital, 42.1214, -71.6722
+St Hyacinth College Seminary, 42.2667, -72.5167
+St Johns Hospital, 42.6456, -71.3119
+St Josephs Hospital, 42.6500, -71.3247
+St Lukes Hospital(Bristol), 41.6261, -70.9389
+St Lukes Hospital(Berkshire), 42.4472, -73.2458
+St Vincent Hospital, 42.2492, -71.7083
+Standish, 42.1069, -70.7556
+Stanley, 42.0033, -70.9819
+Staples Corner, 41.8611, -70.9389
+Staples Shore, 41.8528, -70.9250
+State House, 42.3167, -71.0833
+State Line(Berkshire), 42.3478, -73.4097
+State Line(Hampden), 42.0319, -72.3225
+Stearnsville, 42.4403, -73.3000
+Steep Brook, 41.7417, -71.1292
+Sterling, 42.4375, -71.7611
+Sterling Camp Grounds, 42.4069, -71.7625
+Sterling Junction, 42.4042, -71.7708
+Stetson Road, 42.0667, -70.8167
+Stevens Corner, 42.3994, -73.3317
+Stevens Crossing, 42.6922, -71.1111
+Stewartville, 42.7111, -72.6736
+Still River, 42.4917, -71.6181
+Stockbridge, 42.2875, -73.3208
+Stone Haven, 42.2333, -71.1667
+Stoneham, 42.4800, -71.1000
+Stoneville(Franklin), 42.5958, -72.3833
+Stoneville(Worcester), 42.2167, -71.8464
+Stony Beach, 42.3069, -70.9022
+Stony Brook, 42.3667, -71.3000
+Stonybrook Village, 42.2522, -71.1431
+Stoughton, 42.1250, -71.1028
+Stoughton Junction, 42.0972, -71.0964
+Stow, 42.4369, -71.5061
+Straits Pond, 42.2681, -70.8458
+Sturbridge, 42.1083, -72.0792
+Sturdy Memorial Hospital, 41.9422, -71.2753
+Sturtevant Mill, 41.7061, -70.8406
+Suburban Park, 41.6444, -71.0653
+Sudbury, 42.3833, -71.4167
+Suffield Corner, 42.0625, -72.6319
+Suffolk Downs Station, 42.3897, -70.9983
+Summer Heights, 42.1792, -71.1472
+Summit, 42.3333, -71.7917
+Summit Grove, 41.6375, -70.9972
+Sunderland(Franklin), 42.4667, -72.5792
+Sunderland(Worcester), 42.2444, -71.7722
+Sunnyside, 42.0625, -71.8861
+Surfside(Plymouth), 42.2833, -70.8833
+Surfside(Nantucket), 41.2444, -70.0883
+Sutton, 42.1500, -71.7633
+Suttons Mills, 42.7069, -71.1333
+Swampscott, 42.4708, -70.9181
+Swan Avenue, 42.2583, -71.8486
+Swan Corner, 42.6517, -71.4361
+Swansea, 41.7481, -71.1903
+Swansea Center, 41.7417, -71.1933
+Swanson Corners, 42.1981, -72.7269
+Sweets Corner, 42.6783, -73.2111
+Swift River, 42.4472, -72.8583
+Swifts Beach, 41.7417, -70.7208
+Symmes Corner, 42.4431, -71.1333
+Symmes Hospital, 42.4233, -71.1622

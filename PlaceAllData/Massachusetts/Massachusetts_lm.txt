@@ -1,0 +1,288 @@
+Lagoon Heights, 41.4500, -70.5797
+Lake Forest Park, 42.3083, -71.3542
+Lake Hiawatha, 42.0833, -71.4667
+Lake Mattawa, 42.5833, -72.3167
+Lake Pearl, 42.0667, -71.3333
+Lake Pleasant, 42.5564, -72.5186
+Lake Street, 42.4167, -71.1667
+Lakeside(Bristol), 41.6667, -71.1083
+Lakeside(Plymouth), 41.8514, -70.9097
+Lakeview(Middlesex), 42.4028, -71.2417
+Lakeview(Worcester), 42.2667, -71.7597
+Lakeview Heights, 41.8014, -70.9569
+Lakeview Terrace, 42.4917, -73.2406
+Lakeville, 41.8458, -70.9500
+Lakeville State Hospital, 41.8756, -70.9281
+Lakewood, 42.4494, -73.2264
+Lakewood Hills, 41.7500, -70.4500
+Lakewood Park, 42.5292, -71.8792
+Lambs Grove, 42.2750, -71.9683
+Lancaster, 42.4556, -71.6736
+Lands End, 42.6403, -70.6000
+Lane Village, 42.6603, -71.9372
+Lanesborough, 42.5172, -73.2286
+Lanesville, 42.6778, -70.6597
+Larrywaug, 42.3000, -73.3347
+Laurel Park, 42.3583, -72.6417
+Lawrence, 42.7069, -71.1636
+Lawrence Memorial Hospital, 42.4258, -71.1119
+Le Count Hollow, 41.9236, -69.9778
+Lee, 42.3042, -73.2486
+Leeds, 42.3514, -72.7000
+Leicester, 42.2458, -71.9092
+Leightons Corner, 42.7236, -70.9361
+Leino Park, 42.5250, -71.8778
+Lenox, 42.3564, -73.2853
+Lenox Dale, 42.3361, -73.2458
+Lenox Station, 42.3500, -73.2450
+Leominster, 42.5250, -71.7603
+Leverett, 42.4519, -72.5019
+Leverett Station, 42.4506, -72.5231
+Lexington, 42.4472, -71.2250
+Leyden, 42.7000, -72.6306
+Liberty Heights, 42.1228, -72.5958
+Liberty Plain, 42.1889, -70.8833
+Lincoln, 42.4258, -71.3044
+Lincoln Heights, 42.2236, -70.9194
+Linden, 42.4333, -71.0319
+Lindenwood, 42.4833, -71.1083
+Linebrook, 42.6800, -70.9292
+Linwood, 42.0972, -71.6453
+Lithia, 42.4561, -72.8356
+Little Acres, 42.0500, -70.8500
+Little Bridge, 42.1600, -70.7436
+Little Egypt, 42.6056, -73.0814
+Little Harbor Beach, 41.7667, -70.7167
+Little Nahant, 42.4361, -70.9333
+Little Neck(Bristol), 41.7500, -71.2167
+Little Neck(Essex), 42.6958, -70.7931
+Little Rest, 42.1406, -72.1875
+Little River, 42.1000, -72.7200
+Littleton, 42.5375, -71.5125
+Littleton Common, 42.5458, -71.4750
+Littleville, 42.2875, -72.8917
+Lobsterville, 41.3500, -70.7981
+Lockerville, 42.2833, -71.3500
+Locks Village, 42.5000, -72.4347
+Lokerville, 42.2889, -71.3972
+Long Beach, 42.6167, -70.6667
+Long Hill Acres, 42.1000, -70.8000
+Long Island, 42.2500, -71.0000
+Long Island Hospital, 42.3228, -70.9631
+Long Josephs Point, 41.2458, -70.1000
+Long Plain, 41.7375, -70.8958
+Long Pond Park, 42.6958, -71.3639
+Long Pond Village, 41.7500, -70.6000
+Longmeadow, 42.0500, -72.5833
+Longwood, 42.3417, -71.1125
+Loudville, 42.2875, -72.7381
+Lovell Corners, 42.1967, -70.9269
+Lovellville, 42.3708, -71.8511
+Lovering Colony State Hospital, 41.9042, -71.1269
+Lowell, 42.6333, -71.3167
+Lowell General Hospital, 42.6467, -71.3425
+Lowell Junction, 42.6139, -71.1625
+Lower Mills, 42.2750, -71.0708
+Lower Village, 42.4333, -71.4850
+Lower Wire Village, 42.2639, -71.9939
+Ludlow(Hampden), 42.1600, -72.4764
+Ludlow(Worcester), 42.2397, -71.8486
+Ludlow Center, 42.1917, -72.4597
+Ludlow City, 42.2203, -72.4994
+Lunds Corner, 41.6833, -70.9333
+Lunenburg, 42.5944, -71.7250
+Lunenburg Station, 42.5361, -71.7042
+Luther Corner, 41.7447, -71.2236
+Luthers Corners, 41.8092, -71.3375
+Lynn, 42.4667, -70.9500
+Lynn Hospital, 42.4697, -70.9594
+Lynnfield, 42.5389, -71.0486
+Lynnhurst, 42.4708, -70.9958
+Lyonsville, 42.6722, -72.7158
+M I T, 42.3667, -71.1000
+Macomber Corner, 41.5931, -70.9806
+Macombers Corner, 41.5694, -71.1069
+Madaket, 41.2728, -70.1986
+Maddequet, 41.2875, -70.1917
+Magnolia, 42.5736, -70.7111
+Mahkeenac Heights, 42.3264, -73.3125
+Malden, 42.4250, -71.0667
+Malden City Infirmary, 42.4414, -71.0567
+Malden Hospital, 42.4286, -71.0889
+Manchaug, 42.0944, -71.7481
+Manchester, 42.5778, -70.7694
+Manchester-by-the-Sea, 42.5778, -70.7694
+Manleys Corner, 42.0417, -71.0583
+Mann Hill Beach, 42.2228, -70.7500
+Manomet, 41.9186, -70.5667
+Manomet Beach, 41.8922, -70.5347
+Manomet Bluffs, 41.9125, -70.5486
+Manomet Heights, 41.9250, -70.5542
+Mansfield, 42.0333, -71.2194
+Manson Corner, 42.2014, -70.7839
+Mantyranta, 42.5389, -71.8825
+Maple Grove, 42.6147, -73.1292
+Maple Park, 42.7683, -71.1625
+Maple Ridge, 42.0750, -71.4806
+Maplewood(Worcester), 42.2272, -71.7250
+Maplewood(Middlesex), 42.4361, -71.0514
+Mara Vista, 41.5472, -70.5872
+Marble Ridge Station, 42.6792, -71.0983
+Marblehead, 42.5000, -70.8583
+Marblehead Lighthouse, 42.5061, -70.8344
+Marblehead Neck, 42.5000, -70.8375
+Marion, 41.7000, -70.7633
+Marions Camp, 42.1556, -71.7728
+Marks Garrison, 42.2347, -72.1597
+Marlboro, 42.7167, -70.9736
+Marlborough, 42.3458, -71.5528
+Marlborough Junction, 42.3314, -71.5417
+Marsh Corner, 42.7278, -71.2319
+Marshall Corner, 42.0597, -71.0667
+Marshfield, 42.0917, -70.7061
+Marshfield Center, 42.1167, -70.7167
+Marshfield Hills, 42.1458, -70.7403
+Marston Corners, 42.7417, -71.1686
+Marstons Mills, 41.6561, -70.4167
+Martha's Vineyard, 41.4167, -70.6667
+Mary A Alley Hospital, 42.4944, -70.8708
+Mashpee, 41.6483, -70.4817
+Masonic Hospital, 42.3069, -71.7125
+Masons Corner, 41.7667, -70.9431
+Massachusetts State Hospital(Middlesex), 42.2792, -71.4333
+Massachusetts State Hospital(Worcester), 42.2792, -71.7708
+Massachusetts State Hospital(Hampden), 42.1444, -72.3269
+Massasoit, 42.2394, -71.7828
+Matfield, 42.0333, -70.9972
+Matfield Corner, 42.0300, -71.0092
+Matfield Junction, 42.0353, -70.9881
+Mathies Manor, 42.1903, -72.5653
+Mattapan, 42.2722, -71.0875
+Mattapoisett, 41.6583, -70.8167
+Maushop Village, 41.5639, -70.4717
+Maxim Corner, 41.8772, -70.8053
+Mayflower Grove, 42.0417, -70.8431
+Mayflower Heights, 42.0639, -70.1528
+Maynard, 42.4333, -71.4500
+Mayo Beach, 41.9306, -70.0417
+Mayo Corners, 42.6833, -72.3117
+McKnight and Bay, 42.1167, -72.5667
+McLean Hospital, 42.3936, -71.1914
+Meadow Brook, 41.9375, -71.1681
+Meads Corner, 42.3539, -72.4236
+Medfield, 42.1875, -71.3069
+Medfield Junction, 42.1972, -71.3264
+Medfield State Hospital, 42.2114, -71.3347
+Medford, 42.4183, -71.1067
+Medford Hillside, 42.4125, -71.1258
+Medway, 42.1417, -71.3972
+Meeting House Hill, 42.3069, -71.0625
+Megansett, 41.6528, -70.6208
+Melrose, 42.4583, -71.0667
+Melrose Highlands, 42.4708, -71.0619
+Memorial Hospital(Suffolk), 42.3917, -71.0294
+Memorial Hospital(Worcester), 42.5858, -72.2094
+Menauhant, 41.5542, -70.5506
+Mendon, 42.1056, -71.5528
+Menemsha, 41.3517, -70.7647
+Mercer Square, 42.1319, -70.8592
+Mercy Hospital, 42.1153, -72.5956
+Meriams Corner, 42.4597, -71.3250
+Merino Village, 42.0500, -71.8903
+Merrick, 42.1167, -72.6250
+Merrimac, 42.8306, -71.0028
+Merrimac Terrace, 42.4822, -71.0042
+Merrimack College, 42.7000, -71.1333
+Merrimacport, 42.8278, -70.9889
+Merrymount, 42.2625, -70.9958
+Metcalf, 42.1833, -71.4458
+Methuen, 42.7261, -71.1914
+Metropolitan State Hospital, 42.4067, -71.2125
+Middle Pasture, 41.2708, -70.0167
+Middleboro, 41.8931, -70.9117
+Middlefield, 42.3483, -73.0156
+Middlesex County Hospital, 42.4092, -71.2275
+Middlesex Village, 42.6347, -71.3472
+Middleton, 42.5950, -71.0167
+Middleton Colony, 42.5903, -70.9931
+Midland, 42.0931, -71.4819
+Mikas Pond, 41.2833, -70.1036
+Mileoak Corner, 42.1078, -72.4372
+Miles Bridge, 41.7722, -71.2833
+Milford, 42.1397, -71.5167
+Milford County Home, 42.1372, -71.5536
+Mill River(Berkshire), 42.1139, -73.2681
+Mill River(Franklin), 42.5014, -72.6417
+Mill Street, 42.2653, -71.8500
+Mill Valley, 42.3556, -72.5208
+Mill Village, 42.4333, -72.1028
+Millbrook, 42.0486, -70.6875
+Millbury, 42.1939, -71.7606
+Millbury Junction, 42.2347, -71.7333
+Millers Falls, 42.5819, -72.4931
+Millerville, 42.0208, -71.5000
+Millington, 42.4764, -72.3000
+Millis, 42.1675, -71.3583
+Millville, 42.0278, -71.5814
+Milton, 42.2500, -71.0667
+Milton Center, 42.2542, -71.0806
+Milton Hill, 42.2650, -71.0583
+Milton Upper Mills, 42.2611, -71.0958
+Milton Village, 42.2667, -71.0722
+Minot, 42.2403, -70.7625
+Miramar, 42.0064, -70.7208
+Mishaum Point, 41.6167, -70.9667
+Mishawum, 42.5025, -71.1417
+Mittineague, 42.1042, -72.6458
+Monomoy, 41.2778, -70.0817
+Monponsett, 42.0183, -70.8472
+Monroe, 42.7167, -72.9833
+Monroe Bridge, 42.7222, -72.9417
+Monroes, 41.7756, -71.3167
+Monson, 42.1042, -72.3194
+Montague, 42.5356, -72.5356
+Montague City, 42.5867, -72.5750
+Montague Station, 42.5439, -72.5356
+Montclair, 42.2708, -71.0361
+Montello, 42.1083, -71.0167
+Monterey, 42.1792, -73.2125
+Montgomery, 42.2067, -72.8056
+Montrose, 42.5158, -71.0542
+Montserrat, 42.5625, -70.8667
+Montvale, 42.4778, -71.1250
+Montville, 42.1186, -73.1264
+Monument Beach, 41.7194, -70.6125
+Moody Corner, 42.2806, -72.5592
+Moores Corner, 42.4944, -72.4689
+Moores Corners, 42.4333, -71.8125
+Morningdale, 42.3139, -71.7583
+Morrills, 42.1833, -71.2000
+Morris Corner, 42.0403, -71.0908
+Morse Corner, 42.0500, -71.0853
+Morse Hospital, 42.2797, -71.3369
+Morse Village, 42.5431, -72.3375
+Morseville(Worcester), 42.1453, -71.9694
+Morseville(Middlesex), 42.2583, -71.3417
+Morton Hospital, 41.9067, -71.0950
+Mount Auburn, 42.3750, -71.1500
+Mount Auburn Hospital, 42.3739, -71.1358
+Mount Bowdoin, 42.3042, -71.0750
+Mount Hermon, 42.6681, -72.4858
+Mount Hermon Station, 42.6839, -72.4919
+Mount Hope, 42.2833, -71.1250
+Mount Ida, 42.3042, -71.0633
+Mount Pleasant, 41.6625, -70.9528
+Mount Saint James, 42.2500, -71.8167
+Mount Tom, 42.2861, -72.6167
+Mount Vernon Park, 42.6875, -71.1667
+Mount Washington, 42.1000, -73.4667
+Mountain Farms Mall, 42.3500, -72.5833
+Mountain Park, 42.2436, -72.6319
+Mundale, 42.1183, -72.8117
+Mungo Corner, 42.1944, -70.7814
+Munns Ferry, 42.6542, -72.4667
+Munroe Station, 42.4406, -71.2131
+Muschopauge, 42.3975, -71.9208
+Myricks, 41.8306, -71.0278
+Mystic Grove, 42.1819, -72.0028
+Mystic Junction, 42.3833, -71.1000

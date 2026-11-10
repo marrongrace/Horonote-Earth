@@ -1,0 +1,186 @@
+Hadley, 42.3417, -72.5889
+Haggetts, 42.6433, -71.2078
+Hahnemann Hospital, 42.2850, -71.7908
+Hale Hospital, 42.7764, -71.0647
+Hales Crossing, 42.6542, -72.5644
+Halfway House, 42.0619, -71.6708
+Halfway Pond, 41.7500, -70.6000
+Halifax, 41.9911, -70.8625
+Halifax Beach, 42.0000, -70.8528
+Hallockville, 42.5525, -72.9422
+Hamilton(Essex), 42.6167, -70.8500
+Hamilton(Worcester), 42.2561, -71.7681
+Hamilton Beach, 41.7433, -70.7125
+Hampden, 42.0639, -72.4139
+Hampton Mills, 42.2667, -72.6500
+Hancock, 42.5431, -73.3242
+Hancock Village, 42.3000, -71.1542
+Handy Four Corners, 41.5708, -71.0764
+Hanleys Corner, 42.0417, -71.0583
+Hanover, 42.1131, -70.8125
+Hanover Center, 42.1167, -70.8417
+Hanscom Air Force Base, 42.4833, -71.2833
+Hanson, 42.0750, -70.8806
+Happy Hills, 42.1158, -71.4747
+Harbor Beach, 41.6689, -70.7625
+Harbor View, 41.6292, -70.8931
+Harding, 42.2036, -71.3244
+Harding Estates, 42.1833, -71.3000
+Hardwick, 42.3500, -72.2000
+Harlows Landing, 41.8483, -70.5317
+Harrington Memorial Hospital, 42.0778, -72.0428
+Harris, 41.8139, -71.3125
+Harrisville, 42.7103, -72.0853
+Harrubs Corner, 41.9881, -70.8031
+Harthaven, 41.4431, -70.5569
+Hartsville(Berkshire), 42.1597, -73.2589
+Hartsville(Dukes), 41.4414, -70.5553
+Harvard, 42.5000, -71.5833
+Harvard Station, 42.5222, -71.6000
+Harwich, 41.6861, -70.0764
+Harwich Port, 41.6667, -70.0792
+Harwood, 42.5333, -71.5167
+Hastings, 42.3875, -71.2897
+Hatchville, 41.6292, -70.5639
+Hatfield, 42.3708, -72.5986
+Hatherly, 42.1567, -70.9250
+Hatherly Beach, 42.2125, -70.7333
+Hathorne, 42.5861, -70.9750
+Havenville, 42.5022, -71.2111
+Haverhill, 42.7761, -71.0778
+Hawley, 42.5644, -72.8783
+Hayden Row, 42.2042, -71.5111
+Haydenville, 42.3750, -72.7014
+Hayward Corner, 42.6483, -71.4522
+Head of Plains, 41.2667, -70.1833
+Head of Westport, 41.6208, -71.0625
+Heald Village, 42.4250, -72.0958
+Heard Street, 42.2306, -71.8431
+Heath, 42.6733, -72.8222
+Heaven Heights, 41.7861, -70.9500
+Hemlocks, 41.8111, -70.9403
+Hendersonville, 42.4042, -71.0667
+Hephzibah Heights, 42.1667, -73.1903
+Herbonville, 41.9028, -71.3208
+Heywood, 42.5667, -72.0000
+Heywood Memorial Hospital, 42.5861, -71.9875
+Hicksville, 41.6167, -70.9667
+Highland(Hampden), 42.1167, -72.5500
+Highland(Suffolk), 42.2853, -71.1572
+Highland Lake, 42.1264, -71.3103
+Highland Park, 42.2222, -72.6208
+Highlands(Hampden), 42.2194, -72.6250
+Highlands(Middlesex), 42.6306, -71.3375
+Hillcrest, 41.6542, -71.0750
+Hillcrest Acres, 41.6167, -71.0667
+Hillcrest Hospital, 42.4578, -73.2806
+Hillsville, 42.2611, -72.0111
+Hilltop Acres, 41.7986, -70.9569
+Hingham, 42.2417, -70.8903
+Hingham Center, 42.2333, -70.8806
+Hinsdale, 42.4386, -73.1258
+Hinsdale Estates, 42.0833, -71.4667
+Hixville, 41.6817, -71.0319
+Hockanum, 42.2931, -72.6042
+Hodges Village, 42.1181, -71.8814
+Hoicks Hollow, 41.2875, -69.9722
+Holbrook, 42.1550, -71.0092
+Holbrook Grove, 42.1500, -71.0167
+Holden, 42.3517, -71.8639
+Holden Center, 42.3500, -71.8583
+Holden District Hospital, 42.3486, -71.8556
+Holland, 42.0639, -72.1578
+Holliston, 42.2000, -71.4250
+Holly Woods, 41.6589, -70.7589
+Holy Ghost Hospital, 42.3756, -71.1081
+Holyoke, 42.2042, -72.6167
+Hoosac Tunnel, 42.6692, -72.9933
+Hoosac Tunnel Station, 42.6683, -72.9875
+Hopedale, 42.1306, -71.5417
+Hopkinton, 42.2286, -71.5231
+Horseneck Beach, 41.6167, -71.0667
+Hortonville, 41.7750, -71.2000
+Hosmer Corner, 42.0644, -72.7250
+Houghs Neck, 42.2667, -70.9583
+Houghtonville, 42.7128, -73.0750
+Housatonic, 42.2542, -73.3667
+Hovey Corner, 42.6794, -71.6014
+Hovey's Corner, 42.6500, -71.5833
+Howe, 42.5944, -70.9986
+Howlands, 41.7972, -70.8458
+Hubbard Corner, 42.0436, -72.6361
+Hubbard Hospital, 42.0272, -71.8522
+Hubbardston, 42.4736, -72.0067
+Hubbardston Station, 42.4847, -71.9867
+Huckleberry Corner, 41.8333, -70.7708
+Huckleberry Shores, 41.8236, -70.9500
+Huckleyberry Shores, 41.8500, -70.9333
+Hudson, 42.3917, -71.5667
+Hull, 42.3019, -70.9083
+Humarock, 42.1361, -70.6906
+Hundred Acre Lot, 42.0972, -71.6694
+Hunt Memorial Hospital, 42.5736, -70.9444
+Huntington, 42.2361, -72.8764
+Hussey Hospital, 41.7147, -71.1369
+Hyannis, 41.6528, -70.2833
+Hyannis Park, 41.6458, -70.2694
+Hyannis Port, 41.6356, -70.3000
+Hyde Park, 42.2556, -71.1250
+Hydeville, 42.6828, -72.0722
+Idlewell, 42.2306, -70.9556
+Idlewood, 41.6361, -70.9806
+Indian Lands, 41.3333, -70.8167
+Indian Mound Beach, 41.7500, -70.6000
+Indian Orchard, 42.1583, -72.5000
+Indian Shore, 41.8236, -70.9153
+Ingleside, 42.1750, -72.6333
+Inland Park, 41.7347, -70.9458
+Inman Square, 42.3667, -71.1000
+Interlaken, 42.3144, -73.3311
+Ipswich, 42.6792, -70.8417
+Ironstone, 42.0283, -71.6111
+Island, 42.2472, -71.8042
+Island Creek, 42.0125, -70.7250
+Islington, 42.2236, -71.1903
+Isolation Hospital, 42.4661, -70.9844
+Jabez Corner, 41.9458, -70.6467
+Jamaica Plain, 42.3097, -71.1208
+Jamesville, 42.2361, -71.8542
+Jefferson, 42.3639, -71.8814
+Jefferson Shores, 41.7500, -70.6000
+Jeffries Point, 42.3653, -71.0333
+Jerneganville, 41.4017, -70.5558
+John Fitzgerald Kennedy, 42.3167, -71.0833
+Johnson Corner, 42.0667, -72.6944
+Joppa, 42.8056, -70.8583
+Jordan Hospital, 41.9436, -70.6458
+Judson, 41.9167, -71.0050
+June Street, 42.2686, -71.8356
+Katama, 41.3583, -70.5075
+Kearney Square, 42.6333, -71.3000
+Kelly Corner, 42.4750, -71.4542
+Kempton Croft, 41.6403, -71.0097
+Kenberma, 42.2833, -70.8750
+Kendal Green, 42.3797, -71.2822
+Kendall Square, 42.3667, -71.0833
+Kenmore, 42.3500, -71.1000
+Kent Corner, 42.7056, -70.9097
+Kent Park, 42.1083, -70.6903
+Kenwood, 42.6611, -71.2639
+Kettle Cove Village, 42.5800, -70.7300
+King Corner, 42.5647, -72.9506
+Kingdom Hall, 41.5778, -70.5461
+Kings Forest, 42.6889, -70.9806
+Kings Landing, 42.1583, -70.7672
+Kingsbury Beach, 41.8375, -70.0042
+Kingston, 41.9944, -70.7250
+Kingston Plaza, 41.9667, -70.6667
+Kingston Shores, 41.9981, -70.7042
+Kinsman Corner, 42.6375, -70.9750
+Kirby Corner, 41.6028, -71.0861
+Kittville, 42.1897, -71.6564
+Knights Corner, 42.3519, -72.4036
+Knights Crossing, 42.7750, -70.8889
+Knightville, 42.2833, -72.8667
+Knollmere, 41.6353, -70.8600
+Konkapot, 42.0772, -73.1625

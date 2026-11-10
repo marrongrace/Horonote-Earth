@@ -1,0 +1,256 @@
+Aberdeen, 42.3444, -71.1500
+Abington, 42.1047, -70.9458
+Acapesket, 41.5500, -70.5764
+Accord, 42.1744, -70.8842
+Acoaxet, 41.5069, -71.0972
+Acorn Terrace, 42.0944, -71.3722
+Acton, 42.4850, -71.4333
+Acushnet, 41.6806, -70.9083
+Acushnet Station, 41.6750, -70.9400
+Adams, 42.6242, -73.1181
+Adams Junction, 42.4583, -73.2083
+Adams Shore, 42.2639, -70.9847
+Adamsdale, 41.9278, -71.3708
+Adamsville, 42.6814, -72.7486
+Addison Gilbert Hospital, 42.6250, -70.6811
+Agawam, 42.0694, -72.6153
+Agawam Beach, 41.7667, -70.7167
+Alander, 42.0561, -73.4667
+Aldenville, 42.1728, -72.5986
+Aldrich Mills, 42.2819, -72.5383
+Alford, 42.2356, -73.4139
+Algerie Four Corners, 42.2186, -73.0311
+Algers Corner, 42.0106, -71.0667
+Allendale, 42.4500, -73.2500
+Allerton, 42.3042, -70.8839
+Alley Hospital, 42.4944, -70.8708
+Allston, 42.3583, -71.1264
+Alms House, 41.6675, -70.7633
+Amesbury, 42.8583, -70.9306
+Amherst, 42.3736, -72.5208
+Amostown, 42.1264, -72.6597
+Amrita, 41.6597, -70.6194
+Andover, 42.6583, -71.1375
+Annisquam, 42.6583, -70.6778
+Antassawamock, 41.6253, -70.8078
+Antassawamock Beach, 41.6667, -70.8167
+Apponagansett, 41.6014, -70.9625
+Apponagansett Village, 41.6167, -70.9667
+Arlington, 42.4153, -71.1569
+Arlington Heights, 42.4203, -71.1806
+Arnoldsville, 42.5881, -73.1342
+Asbury Grove, 42.6222, -70.8847
+Ashburnham, 42.6361, -71.9083
+Ashby, 42.6778, -71.8208
+Ashcroft, 42.2333, -71.1500
+Ashdod, 42.0686, -70.7514
+Ashfield, 42.5264, -72.7889
+Ashland, 42.2611, -71.4639
+Ashley Falls, 42.0561, -73.3356
+Ashley Heights, 41.7792, -70.9208
+Ashleyville, 42.1583, -72.6333
+Ashmont, 42.2833, -71.0694
+Assinippi, 42.1583, -70.8514
+Assonet, 41.7958, -71.0683
+Assonet Bay Shores, 41.7958, -71.0903
+Assumption College, 42.2667, -71.8167
+Astor, 42.3167, -71.0833
+Athol, 42.5958, -72.2272
+Athol Junction, 42.1278, -72.5625
+Atlantic(Norfolk), 42.2806, -71.0292
+Atlantic(Plymouth), 42.2669, -70.8483
+Attitash, 42.8500, -70.9333
+Attleboro, 41.9444, -71.2861
+Attleboro Falls, 41.9708, -71.3167
+Attleborough City, 41.9250, -71.3500
+Auburn, 42.1944, -71.8361
+Auburndale, 42.3472, -71.2500
+Auburnville, 42.0694, -70.9639
+Avon, 42.1306, -71.0417
+Axtell Corner, 42.2319, -71.6842
+Ayer, 42.5611, -71.5903
+Ayers Village, 42.7869, -71.1694
+Ayres City, 42.6250, -71.3125
+Babbatasset Village, 42.6667, -71.5792
+Babson Park, 42.2986, -71.2600
+Back Bay, 42.3500, -71.0875
+Back Bay Annex, 42.3167, -71.0833
+Baconville, 42.4231, -72.4422
+Baileys Corner, 42.0250, -70.6981
+Baird Four Corners, 42.1208, -72.9319
+Baker Bridge, 42.4278, -71.3369
+Bakers Grove, 42.5353, -71.8833
+Bakers Island, 42.5167, -70.9000
+Baldwinville, 42.6083, -72.0764
+Ballardvale, 42.6250, -71.1611
+Bancroft, 42.3092, -73.0292
+Baptist Corner, 42.5519, -72.7633
+Baptist Corners, 42.6994, -72.2700
+Baptist Village, 42.0472, -72.4708
+Bardwell(Hampshire), 42.2183, -72.3694
+Bardwell(Franklin), 42.5567, -72.6786
+Barkerville, 42.4225, -73.3092
+Barlows Landing, 41.6908, -70.6256
+Barneyville, 41.7717, -71.2861
+Barnstable, 41.7000, -70.3000
+Barnstable County Hospital, 41.6861, -70.6019
+Barre, 42.4228, -72.1056
+Barre Falls, 42.4292, -72.0267
+Barre Plains, 42.3778, -72.1097
+Barrowsville, 41.9458, -71.2042
+Bass Point, 42.4333, -70.9333
+Bass River, 41.6528, -70.2042
+Bass Rocks, 42.6142, -70.6358
+Bassets Corner, 42.4814, -72.1292
+Bay State, 42.3222, -72.6639
+Bay View, 42.6700, -70.6653
+Bayside, 42.3000, -70.8833
+Bayside Beach, 41.8667, -70.5322
+Bayview, 41.5736, -70.9500
+Beach, 42.4167, -71.0000
+Beach Bluff, 42.4792, -70.8861
+Beach Park, 41.9403, -70.6206
+Beach Point, 42.0333, -70.1000
+Beachmont, 42.3958, -70.9875
+Beachwood, 42.3250, -73.3208
+Beacon Hill, 42.3586, -71.0683
+Beaconsfield, 42.3367, -71.1417
+Beaver Brook(Worcester), 42.2639, -71.8292
+Beaver Brook(Essex), 42.5792, -70.9583
+Beaver Brook Station, 42.3792, -71.2208
+Becket, 42.3319, -73.0833
+Becket Center, 42.2833, -73.0639
+Bedford, 42.4906, -71.2767
+Bedford Springs, 42.5161, -71.2714
+Beechwood, 42.2097, -70.8194
+Belcher Square, 42.2000, -73.3472
+Belchertown, 42.2769, -72.4014
+Beldingville, 42.5375, -72.7703
+Bell Rock, 42.4333, -71.0667
+Bellevue, 42.2875, -71.1458
+Bellingham, 42.0867, -71.4750
+Belmont, 42.3958, -71.1792
+Belmont Hill, 42.2708, -71.7972
+Belmont Hospital, 42.2750, -71.7792
+Belvidere, 42.6389, -71.2903
+Bemis, 42.3686, -71.2042
+Bennetts Corner, 42.0186, -71.0147
+Berkley, 41.8458, -71.0833
+Berkley Bridge, 41.8333, -71.1067
+Berkshire, 42.5125, -73.1933
+Berkshire Christian College, 42.3500, -73.2833
+Berkshire Heights, 42.1889, -73.3694
+Berlin, 42.3811, -71.6375
+Bernardston, 42.6708, -72.5500
+Berryman Corner, 41.6500, -71.0667
+Beulah Corners, 41.6611, -71.0847
+Beverly, 42.5583, -70.8806
+Beverly Cove, 42.5533, -70.8542
+Beverly Farms, 42.5639, -70.8111
+Beverly Road, 42.2986, -71.7833
+Big Pond, 42.1667, -73.0333
+Billerica, 42.5583, -71.2694
+Birds Hill, 42.2750, -71.2125
+Bisbee Corner, 41.7908, -70.8692
+Bisbee Mill, 42.3744, -72.8194
+Black Rock, 42.2436, -70.8292
+Blackburn Village, 42.6269, -71.8811
+Blackinton, 42.7042, -73.1667
+Blackstone, 42.0178, -71.5417
+Blanchardville, 42.1458, -72.3042
+Blandford, 42.1806, -72.9278
+Bleachery, 42.6278, -71.3042
+Bliss Corner, 41.6117, -70.9389
+Blissville, 42.6725, -72.2750
+Bloomingdale, 42.2639, -71.7708
+Blue Hills, 42.2431, -71.0986
+Blush Hollow, 42.3500, -73.0167
+Bolton, 42.4333, -71.6083
+Bolton Station, 42.4189, -71.6600
+Bon Secours Hospital, 42.7278, -71.1683
+Bondsville, 42.2125, -72.3458
+Bonny Rigg Corners, 42.2639, -73.0514
+Booth Corner, 41.5875, -71.0889
+Boston, 42.3583, -71.0603
+Boston College, 42.3167, -71.1667
+Boston University, 42.3500, -71.1000
+Bourne, 41.7411, -70.5994
+Bourne Corners, 41.7511, -70.6083
+Bournedale, 41.7753, -70.5628
+Bowens Corners, 42.6158, -73.1075
+Bowenville, 41.7250, -71.1467
+Boxboro, 42.4917, -71.5278
+Boxboro Station, 42.5042, -71.4933
+Boxborough, 42.4833, -71.5167
+Boxford, 42.6611, -70.9972
+Boxford Station, 42.6456, -71.0583
+Boylston, 42.3917, -71.7042
+Boylston Center, 42.3528, -71.7356
+Bradford, 42.7694, -71.0764
+Bradstreet, 42.4106, -72.5922
+Braggville, 42.1667, -71.4806
+Braggville Station, 42.1625, -71.4750
+Braintree, 42.2222, -71.0000
+Braintree Highlands, 42.1792, -71.0125
+Braleys, 41.7375, -70.9708
+Bramanville, 42.1806, -71.7708
+Brant Rock, 42.0861, -70.6417
+Brattle, 42.4217, -71.1683
+Brayton Point, 41.7139, -71.1833
+Braytonville, 42.6983, -73.1306
+Breezy Hill, 42.0319, -70.8444
+Brewster, 41.7600, -70.0833
+Briarwood Beach, 41.7375, -70.7417
+Bridgewater, 41.9903, -70.9756
+Brier, 42.5894, -72.9944
+Brier Neck, 42.6167, -70.6667
+Brigadoon Village, 42.5847, -71.0153
+Briggs Corner, 41.9125, -71.2597
+Briggsville, 42.7156, -73.0808
+Brighton, 42.3500, -71.1569
+Brightside, 42.1625, -72.6333
+Brightwood, 42.1186, -72.6167
+Brimfield, 42.1228, -72.2014
+Brimstone Corner, 42.0589, -70.7839
+Britanniaville, 41.9186, -71.1061
+Brittan Square, 42.2861, -71.7875
+Broadway, 42.4333, -71.0667
+Brockton, 42.0833, -71.0189
+Brockton Heights, 42.0889, -71.0653
+Brockway Corner, 42.4428, -71.5611
+Brookfield, 42.2139, -72.1028
+Brookline, 42.3317, -71.1217
+Brookline Hill, 42.3306, -71.1333
+Brookline Village, 42.3328, -71.1167
+Brooks, 42.4139, -71.8986
+Brooks Hospital, 42.3433, -71.1369
+Brooks Place, 42.0375, -71.0208
+Brooks Village, 42.5625, -72.1078
+Brookside Station, 42.6083, -71.4117
+Brookville, 42.1250, -71.0097
+Brownell Corner, 41.6267, -71.1025
+Browns Corner, 42.4000, -71.5944
+Browns Point, 42.8389, -70.8306
+Brush Hollow, 42.3417, -73.0333
+Brushwood, 42.1028, -71.4297
+Bryant Four Corners, 42.4686, -72.9325
+Bryantville, 42.0439, -70.8431
+Buckland, 42.5922, -72.7922
+Buckland Four Corners, 42.5647, -72.8042
+Buena Vista Shores, 41.8097, -70.9556
+Buffington Corner, 41.7847, -71.0319
+Buffumville, 42.1189, -71.9000
+Bullardville, 42.6981, -72.0853
+Burbank Hospital, 42.5978, -71.8056
+Burke Memorial Hospital, 42.7133, -71.1394
+Burkville, 42.5064, -72.7125
+Burleys Corner, 42.5772, -70.9903
+Burlington, 42.5047, -71.1961
+Burncoat, 42.3097, -71.7861
+Burnt Swamp Corner, 42.0189, -71.3811
+Burrage, 42.0292, -70.8561
+Burrage Corner, 42.5208, -72.2250
+Burtts Crossing, 42.6031, -71.1917
+Butlerville, 42.1528, -72.4042
+Buzzards Bay, 41.7453, -70.6186
+Byfield, 42.7597, -70.9486
