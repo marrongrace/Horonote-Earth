@@ -1,0 +1,8 @@
+Curepipe, -20.3167, 57.5167
+Mahébourg, -20.4000, 57.7000
+Port Louis, -20.1667, 57.5000
+Riviére du Rempart, -20.1000, 57.6833
+Rose Hill, -20.2333, 57.4500
+Royal Alfred Observatory, -20.1000, 57.5500
+Triolet, -20.0500, 57.5333
+Vacoas, -20.3000, 57.4833
