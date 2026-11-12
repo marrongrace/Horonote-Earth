@@ -1,0 +1,181 @@
+Macedonio Alcalá, 17.8667, -96.0333
+Maclovio Herrera, 29.0833, -105.1333
+Macuspana, 17.7667, -92.6000
+Madera, 29.2000, -108.1167
+Magdalena, 20.9167, -103.9500
+Magdalena de Kino, 30.6333, -110.9500
+Magdalena Peñasco, 17.2333, -97.5667
+Magdalena Tequisistlán, 16.3667, -95.2500
+Magiscatzin, 22.8000, -98.7000
+Maijoma, 28.9167, -104.3500
+Malinaltepec, 17.0500, -98.6667
+Malpaso, 22.6167, -102.7667
+Maltrata, 18.8000, -97.2667
+Mamulique, 26.1333, -100.3333
+Manuel, 22.7333, -98.3167
+Manuel Benavides, 29.0833, -103.9167
+Manuel M. Diéguez, 19.5667, -102.9167
+Manzanillo, 19.0500, -104.3333
+Mapastepec, 15.4333, -92.9000
+Mapimí, 25.8167, -103.8500
+Maravatío de Ocampo, 19.9000, -100.4500
+Maravillas, 27.3667, -104.4833
+Martínez de la Torre, 20.0667, -97.0500
+Marín, 25.8667, -100.0500
+Mascota, 20.5333, -104.8167
+Mata Ortiz, 30.1333, -108.0500
+Matamoros, 25.8833, -97.5000
+Matamoros de la Laguna, 25.5333, -103.2500
+Matanzas, 21.6167, -101.6333
+Matehuala, 23.6500, -100.6500
+Matlapa, 21.3333, -98.8333
+Matías Romero, 16.8833, -95.0333
+Maxcanú, 20.5833, -89.9833
+Mazamitla, 19.9167, -103.0333
+Mazatlán, 23.2167, -106.4167
+Mazatlán de Flores, 18.0333, -96.9000
+Mecatlán, 20.2167, -97.6833
+Mecatán, 21.5333, -105.1333
+Mecoacán, 18.3833, -93.1167
+Melchor Ocampo, 26.0500, -99.5500
+Meoqui, 28.2833, -105.4833
+Mesa de Santa Rita, 23.0667, -105.5167
+Mesa del Nayar, 22.2667, -104.5833
+Mesillas(Zacatecas), 23.5500, -103.5833
+Mesillas(Sinaloa), 23.2333, -106.0500
+Metepec(México), 19.2500, -99.6000
+Metepec(Puebla), 18.9333, -98.4667
+Metlatonoc, 17.1833, -98.3333
+Metztitlán, 20.6167, -98.7667
+Mexicali, 32.6667, -115.4833
+Mexico City > Ciudad de México, 19.4000, -99.1500
+Mexico > Ciudad de México, 19.4000, -99.1500
+Mexticacán, 21.2167, -102.7167
+Mezquital, 23.4833, -104.3833
+Mezquital del Oro, 21.1667, -103.3833
+Mezquitic, 22.3833, -103.6833
+Miacatlán, 18.7667, -99.3667
+Miahuatlán de Porfirio Díaz, 16.3333, -96.6000
+Michoacanejo, 21.5500, -102.6000
+Michoacán, 32.4667, -115.3333
+Mier y Noriega, 23.4167, -100.1167
+Miguel Auza, 24.3000, -103.4167
+Mina, 26.0167, -100.5333
+Minas de Barroterán, 27.6667, -101.3333
+Minatitlán, 17.9833, -94.5167
+Mineral del Monte, 20.1333, -98.6667
+Mineral del Oro, 19.8000, -100.1333
+Miquihuana, 23.5667, -99.7833
+Misantla, 19.9333, -96.8333
+Mixquiahuala, 20.2333, -99.2167
+Mixtlán, 20.4333, -104.4167
+Mixtán, 17.9167, -95.8500
+Mochitlán, 17.5000, -99.3000
+Mocorito, 25.4833, -107.9167
+Moctezuma(Sonora), 29.8000, -109.7000
+Moctezuma(San Luis Potosí), 22.7500, -101.0833
+Momax, 21.9333, -103.3167
+Monclova, 26.9000, -101.4167
+Monte Escobedo, 22.3000, -103.5833
+Montemorelos, 25.2000, -99.8167
+Monterrey(Chiapas), 16.0833, -93.3833
+Monterrey(Nuevo León), 25.6667, -100.3167
+Morelia, 19.7000, -101.1167
+Morelos(Chihuahua), 26.7000, -107.6667
+Morelos(Zacatecas), 22.8833, -102.6167
+Morelos(Coahuila), 28.4167, -100.8833
+Moroleón, 20.1333, -101.2000
+Morro de Mazatán, 16.1167, -95.4500
+Motozintla de Mendoza, 15.3667, -92.2333
+Moyahua, 21.2667, -103.1667
+Mulatos, 28.6500, -108.8500
+Mulegé, 26.8833, -112.0167
+Multé, 17.6833, -91.4000
+Muna, 20.4833, -89.7167
+Mérida(Yucatán), 20.9667, -89.6167
+Mérida(Baja California Norte), 32.6500, -114.9667
+Móvano, 26.7000, -103.6500
+Nabogame, 26.2333, -106.9500
+Nacajuca, 18.1333, -93.0167
+Nacastillo, 19.5833, -104.9167
+Naco, 31.3333, -109.9333
+Nacozari(de García), 30.4000, -109.6500
+Nahuatzén, 19.7000, -101.8333
+Naicá, 27.8833, -105.5167
+Nanacamilpa, 19.4833, -98.5500
+Nanchital, 18.0667, -94.4000
+Naolinco de Victoria, 19.6500, -96.8500
+Naranjos, 21.3500, -97.6833
+Naucalpan > Ciudad de Naucalpan de Juárez, 19.4667, -99.2333
+Nautla, 20.2167, -96.7833
+Nava, 28.4167, -100.7667
+Navidad, 20.5833, -104.7000
+Navojoa, 27.1000, -109.4333
+Navolato, 24.7833, -107.7000
+Nayarit, 32.3333, -115.3167
+Nazas, 25.2333, -104.1333
+Nejapa de Madero, 16.6167, -95.9833
+Nicolás Bravo, 18.3500, -93.1667
+Nieves, 24.0000, -103.0167
+Niltepec, 16.5667, -94.6167
+Nochistlán, 21.3667, -102.8500
+Nocupétaro, 18.8000, -101.0667
+Nogales(Sonora), 31.3333, -110.9333
+Nogales(Veracruz), 18.8167, -97.1667
+Nombre de Dios(Chihuahua), 28.6833, -106.0833
+Nombre de Dios(Durango), 23.8500, -104.2333
+Nonoava, 27.4667, -106.7333
+Nopaltepec, 18.2833, -95.9833
+Norogachic, 27.2500, -107.1167
+Nueva Atzacoalco, 19.4667, -99.0500
+Nueva Casas Grandes, 30.4167, -107.9167
+Nueva Ciudad Guerrero, 26.5833, -99.2500
+Nueva Cuadrilla, 18.0667, -101.5500
+Nueva Italia de Ruiz, 19.0167, -102.1000
+Nueva Rosita, 27.9500, -101.2167
+Nuevo Camarón, 27.0833, -99.9167
+Nuevo Laredo, 27.5000, -99.5167
+Nuevo Léon, 32.3333, -115.2000
+Nuevo Morelos, 17.5167, -95.0333
+Nuevo Necaxa, 20.2167, -98.0000
+Nuevo Poblado el Oro, 26.8333, -101.3167
+Nuevo Primero de Mayo, 26.0167, -98.0333
+Nuevo Progreso, 18.6333, -92.3000
+Nuevo Saucillo, 27.3333, -104.9000
+Numarán, 20.2500, -101.9333
+Nunkiní, 20.3333, -90.1833
+Nuri, 28.0333, -109.3667
+Nácori Chico, 29.6500, -109.0167
+Oaxaca(de Juárez), 17.0500, -96.7167
+Ocampo(Chihuahua), 28.1833, -108.3833
+Ocampo(Coahuila), 27.3333, -102.3500
+Ocampo(Guanajuato), 21.6500, -101.5000
+Ocotepec, 17.2167, -93.1500
+Ocotlán, 20.3500, -102.7667
+Ocotlán de Morelos, 16.8000, -96.6667
+Ocoyoacac, 19.2667, -99.4333
+Ocozingo, 16.9000, -92.1167
+Ocozocoautla(de Espinosa), 16.7667, -93.3667
+Ocuilán de Arteaga, 18.9667, -99.4167
+Ojinaga, 29.5667, -104.4167
+Ojitlán, 18.0667, -96.3833
+Ojo Caliente, 22.5667, -102.2500
+Ojo de Agua de Alférez, 22.8500, -99.7000
+Ojo de la Casa, 31.3833, -106.5333
+Ojuelos de Jalisco, 21.8667, -101.5833
+Olinalá, 17.8333, -98.8500
+Oluta, 17.9167, -94.9000
+Ometepec, 16.6833, -98.4167
+Opopeo, 19.4000, -101.6000
+Oriental, 19.3667, -97.6167
+Orizaba, 18.8500, -97.1000
+Oropeo, 18.8333, -101.8000
+Ortiz, 28.2833, -110.7167
+Ostuacán, 17.4167, -93.3000
+Ostula, 18.5000, -103.4667
+Otatitlán, 18.2000, -96.0333
+Oteapan, 18.0000, -94.6500
+Otinapa, 24.1833, -105.0333
+Oyameles, 19.7167, -97.5333
+Ozuluama, 21.6667, -97.8500
+Ozumba de Alzate, 19.0500, -98.8000

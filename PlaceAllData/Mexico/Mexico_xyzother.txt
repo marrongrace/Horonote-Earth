@@ -1,0 +1,67 @@
+X-Can, 20.8333, -87.7167
+Xadani, 15.9333, -96.0667
+Xalpatláhuac, 17.0167, -99.3000
+Xaltianguis, 17.0667, -99.8333
+Xico, 19.4167, -97.0000
+Xicotepec de Juárez, 20.2833, -97.9500
+Xicoténcatl, 23.0000, -98.9333
+Xilitla, 21.3333, -98.9667
+Xkalak, 18.2667, -87.8333
+Xochapa, 17.6500, -95.7667
+Xochimilco, 19.2500, -99.1333
+Xochipala, 17.8000, -99.6500
+Xochistlahuaca, 16.7833, -98.2500
+Xochitlán, 19.9833, -97.6000
+Xoxocotla, 18.6833, -99.2500
+Yago, 21.8333, -105.0667
+Yahualica, 21.1333, -102.8500
+Yanga, 18.8333, -96.8000
+Yaqui, 27.3167, -110.0167
+Yautepec, 18.8833, -99.0667
+Yavaros, 26.7000, -109.5167
+Yecapixtla, 18.8833, -98.8667
+Yepachic, 28.4333, -108.3833
+Yuriria, 20.2000, -101.1500
+Yurécuaro, 20.3333, -102.3000
+Yécora, 28.3333, -108.9667
+Zaachila, 16.9500, -96.7500
+Zacapoaxtla, 19.8833, -97.5833
+Zacapú, 19.8333, -101.7167
+Zacatecas, 22.7833, -102.5833
+Zacatepec, 18.6500, -99.2000
+Zacatlán, 19.9333, -97.9667
+Zacatongo, 20.8167, -104.5500
+Zacoalco de Torres, 20.2333, -103.5833
+Zacpa, 21.6333, -102.9667
+Zacualpan(Nayarit), 21.2500, -105.1667
+Zacualpan(Veracruz), 20.4667, -98.3667
+Zacualtipán, 20.6500, -98.6000
+Zamora de Hidalgo, 19.9833, -102.2667
+Zanatepec, 16.4833, -94.3500
+Zapopan, 20.7167, -103.4000
+Zapotiltic, 19.6167, -103.4333
+Zapotitlán, 19.5167, -103.7333
+Zapotitlán Tablas, 17.4167, -98.7500
+Zapotlanejo, 20.6333, -103.0667
+Zaragoza(Coahuila), 28.4833, -100.9167
+Zaragoza(Puebla), 19.7667, -97.5500
+Zaragoza(San Luis Potosí), 22.0333, -100.7333
+Zaragoza(Noevo León), 23.9667, -99.7667
+Zaragoza(Chihuahua), 31.6500, -106.3333
+Zempoala, 19.4000, -96.4000
+Zicapa, 17.9500, -99.0333
+Zihuatanejo, 17.6333, -101.5500
+Zimapán, 20.7500, -99.3500
+Zimatlán de Álvarez, 16.8667, -96.7833
+Zinacatepec, 18.3333, -97.2500
+Zinapécuaro(de Figueroa), 19.8667, -100.8167
+Zirándaro, 18.4500, -100.9833
+Zitlala, 17.6333, -99.0833
+Zitlaltepec, 19.2000, -97.9000
+Zitácuaro, 19.4000, -100.3667
+Zumpango, 19.8000, -99.1000
+Zumpango del Río, 17.6500, -99.5000
+Álamo, 20.9167, -97.6833
+Álvaro Obregón, 19.8333, -101.0833
+Ángel R. Cabada, 18.5833, -95.4333
+Ébano, 22.2167, -98.3667

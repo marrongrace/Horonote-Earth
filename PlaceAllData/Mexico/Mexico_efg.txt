@@ -1,0 +1,190 @@
+Ecatepec de Morelos, 19.5833, -99.0667
+Ecuandureo, 20.1667, -102.1833
+Ejutla de Crespo, 16.5667, -96.7333
+El Arco, 28.0000, -113.4167
+El Arenal, 20.7833, -103.7000
+El Avión, 24.1333, -106.9833
+El Barreal, 31.2833, -107.1667
+El Barril, 23.0333, -102.1333
+El Barrio, 16.8000, -95.2500
+El Bosque, 17.0667, -92.7333
+El Capomo, 21.2833, -105.2167
+El Carmen(Chiapas), 15.5833, -93.0833
+El Carmen(Puebla), 19.3167, -97.6667
+El Carricito, 28.4000, -103.3833
+El Carrizal, 23.0000, -97.8333
+El Carrizo, 29.9667, -105.2667
+El Casco, 25.5667, -104.5833
+El Cedrito, 29.1833, -101.9833
+El Centinela, 32.6333, -115.6667
+El Chamal, 23.9333, -97.9000
+El Chante, 19.6833, -104.1667
+El Charco Largo, 24.1667, -97.9667
+El Ciprés, 31.8333, -116.6333
+El Coacoyul, 17.6167, -101.4333
+El Consuelo, 31.0333, -111.8833
+El Coyote, 30.8333, -112.6667
+El Cozón, 31.3000, -112.4833
+El Cuidado, 22.3333, -103.1167
+El Depósito, 17.7333, -94.3833
+El Descanso, 32.2000, -116.9167
+El Desemboque, 30.5000, -112.9833
+El Dorado, 24.2833, -107.3500
+El Dátil, 30.1167, -112.2500
+El Estribo, 22.2667, -99.1167
+El Fuerte, 26.4167, -108.6500
+El Golfo de Santa Clara, 31.7000, -114.5000
+El Grullo, 19.8000, -104.2167
+El Guaje, 27.8667, -103.3000
+El Higo, 21.7667, -98.4667
+El Jaralito, 26.1167, -104.1667
+El Limón(Guerrero), 18.0833, -101.9833
+El Limón(Jalisco), 19.8167, -104.1833
+El Limón de Talleaché, 24.2667, -107.0667
+El Lucero, 25.8833, -103.4167
+El Maneadero, 31.7500, -116.5833
+El Meco, 22.5833, -99.3333
+El Mimbre, 25.6667, -102.3333
+El Molinito, 19.4500, -99.2500
+El Moral, 28.8500, -100.6500
+El Mulato, 29.3667, -104.1667
+El Médano, 24.4167, -111.5000
+El Naranjo, 22.5000, -98.6333
+El Pacayal, 15.6167, -92.0333
+El Paraíso, 17.4167, -100.2500
+El Peñuelo, 24.5667, -100.7667
+El Placer, 23.5500, -106.1667
+El Platanillo, 18.4667, -101.8667
+El Plomo, 31.2500, -112.0667
+El Porvenir(Northern Border area,Chihuahua), 31.2500, -105.8500
+El Porvenir(Baja California Norte), 32.0833, -116.6333
+El Porvenir(Chiapas), 15.7333, -93.3667
+El Porvenir(Central/Southern area,Chihuahua), 27.5500, -104.9500
+El Potosí, 24.8500, -100.3167
+El Potrero, 26.3833, -100.4500
+El Quelite, 23.5333, -106.4667
+El Ranchito, 18.6667, -103.6833
+El Remolino(Veracruz), 17.6500, -94.2167
+El Remolino(Coahuila), 28.7333, -101.1167
+El Roble, 23.5333, -106.2333
+El Rucio, 23.3833, -102.0833
+El Sahuaro, 31.0833, -112.9167
+El Salto(Durango), 23.7833, -105.3667
+El Salto(Jalisco), 20.5333, -103.1833
+El Sauz, 29.0333, -106.2667
+El Sauzal, 31.9000, -116.6833
+El Sueco, 29.9000, -106.4000
+El Tanque, 26.4667, -99.6333
+El Tapextle, 23.8667, -105.5500
+El Terrero, 18.9667, -102.4667
+El Timbiriche, 18.6333, -101.5167
+El Triunfo, 23.7833, -110.1333
+El Tuito, 20.3167, -105.3667
+El Verde, 23.3500, -106.1500
+El Zapotal, 15.4500, -93.1667
+El Zapote de Calabacillas, 25.7000, -106.5333
+El Zapotán, 18.6833, -103.6500
+El Álamo(Nuevo León), 26.4833, -99.7667
+El Álamo(Coahuila), 27.5333, -100.8667
+El Álamo(Baja California Norte), 31.5667, -116.0333
+Emiliano Zapata, 17.7500, -91.7667
+Empalme, 27.9667, -110.8500
+Empalme Escobedo, 20.6833, -100.7333
+Empalme Purísima, 23.9167, -105.0833
+Encarnación de Díaz, 21.5167, -102.2333
+Enchilayas, 30.8333, -112.8333
+Encinas, 25.6667, -101.1333
+Encrucijada, 18.3000, -93.4833
+Enmedio, 29.0667, -103.4833
+Ensenada, 31.8667, -116.6167
+Ermita de los Correa, 22.9000, -103.0167
+Escalón, 26.7500, -104.3333
+Escobedo, 27.2167, -101.3500
+Escuinapa(de Hidalgo), 22.8500, -105.8000
+Escuintla, 15.3333, -92.6333
+Escárcega de Matamoros, 18.6167, -90.7167
+Esmeralda, 25.6667, -103.5000
+Esperanza(Sonora), 27.5833, -109.9333
+Esperanza(Puebla), 18.8667, -97.4000
+Espinal, 16.4833, -95.0500
+Espinazo, 26.2667, -101.1000
+Espinos de Judio, 19.8667, -104.5833
+Espita, 21.0167, -88.3167
+Estancia de los López, 20.8833, -104.5167
+Etchojoa, 26.9167, -109.6333
+Etchoropo, 26.6833, -109.6667
+Etzatlán, 20.7667, -104.0833
+Felipe Carrillo Puerto, 19.5833, -88.0500
+Fernández Leal, 30.8500, -108.2833
+Filisola, 17.8333, -94.3167
+Filomeno Mata, 20.2000, -97.7000
+Finisterre, 25.9833, -103.2500
+Fortín de las Flores, 18.9000, -97.0000
+Fracción del Refugio, 21.9500, -100.0333
+Francisco González Villarreal, 25.3667, -97.8833
+Francisco I. Madero(Coahuila), 25.7500, -103.3500
+Francisco I. Madero(Durango), 24.5333, -104.3667
+Francisco I. Madero(Chiapas), 16.8333, -93.8333
+Francisco I. Madero(Nayarit), 21.6000, -104.8167
+Francisco Primo Verdad, 21.8000, -101.9167
+Francisco Zarco, 32.1000, -116.5000
+Fresnillo, 23.1667, -102.8833
+Frontera, 18.5333, -92.6333
+Fronteras, 30.9333, -109.5167
+Fuente, 28.6667, -100.5333
+Fundición de Avalos, 28.5833, -106.0000
+Félix Gómez, 29.8333, -111.5000
+Félix U. Gómez, 30.5833, -105.8333
+Gabriel Zamora, 19.0833, -102.0833
+Galeana(Nuevo León), 24.8333, -100.0667
+Galeana(Chihuahua), 30.1167, -107.6333
+García, 29.9833, -108.3333
+García de la Cadena, 21.1500, -103.4667
+Garza Ayala, 26.4833, -100.0333
+General Bravo, 25.8000, -99.1667
+General Cepeda, 25.3833, -101.4500
+General Escobedo(Durango), 25.5000, -105.2500
+General Escobedo(Nuevo León), 25.8167, -100.3333
+General Pánfilo Natera, 22.6667, -102.1000
+General Terán, 25.2667, -99.6833
+General Treviño, 26.2333, -99.4833
+General Zuazua, 25.9000, -100.1167
+Germán, 25.1667, -97.9000
+González Ortega, 32.6667, -115.3833
+Guachinango, 20.5333, -104.4000
+Guachochic, 26.8500, -107.0833
+Guadalajara, 20.6667, -103.3333
+Guadalcázar, 22.6167, -100.4000
+Guadalupe(Chiapas), 16.2667, -91.4500
+Guadalupe(Nuevo León), 25.6833, -100.2500
+Guadalupe(Zacatecas), 22.7500, -102.5167
+Guadalupe(Coahuila), 28.1500, -100.6000
+Guadalupe(Bravos,Chihuahua), 31.3833, -106.1167
+Guadalupe de Ramírez, 17.7500, -98.1667
+Guadalupe Garzarón, 24.5833, -101.2500
+Guadalupe Victoria(Durango), 24.4500, -104.1167
+Guadalupe Victoria(Puebla), 19.2833, -97.3500
+Guadalupe Victoria(Coahuila), 27.7833, -101.0667
+Guamúchil, 23.9167, -106.0833
+Guanaceví, 25.9333, -105.9500
+Guanajuato, 21.0167, -101.2500
+Guardado de Abajo, 26.3667, -98.9500
+Guasave, 25.5667, -108.4500
+Guayabo, 26.0000, -107.4333
+Guayabo Colorado, 19.0333, -101.5833
+Guayameo, 18.2000, -101.3167
+Guaycora, 28.8333, -109.3500
+Guaymas, 27.9333, -110.9000
+Guazapares, 27.3667, -108.2500
+Guazárachic, 26.9500, -106.7167
+Guerrero, 28.3333, -100.3833
+Guichicovi, 16.9667, -95.1000
+Gustavo Madero, 19.4833, -99.1333
+Gutiérrez Zamora, 20.4500, -97.0833
+Guzmán(Chihuahua), 31.2167, -107.4500
+Guzmán(Jalisco) > Ciudad Guzmán, 19.6833, -103.4833
+Gámbara, 18.9167, -102.0833
+Gómez Farías(Chihuahua), 29.3000, -107.6667
+Gómez Farías(Jalisco), 19.7833, -103.4833
+Gómez Palacio, 25.5667, -103.5000
+Güemes, 23.9333, -99.0000

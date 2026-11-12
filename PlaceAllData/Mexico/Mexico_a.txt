@@ -1,0 +1,141 @@
+Abasolo(Coahuila), 27.2000, -101.4000
+Abasolo(Baja California Norte), 32.6500, -115.3500
+Abasolo(Tamaulipas), 25.9500, -100.4000
+Abasolo(Nuevo León), 25.3000, -104.6667
+Acacio, 24.8333, -102.7333
+Acajete, 19.1000, -97.9500
+Acala, 16.5667, -92.8000
+Acaponeta, 22.5000, -105.3667
+Acapulco(de Juárez), 16.8500, -99.9167
+Acatic, 20.7833, -102.8833
+Acatlán(Higalgo), 20.1500, -98.4500
+Acatlán(de Pérez Figueroa), 18.5333, -96.6167
+Acatlán de Juárez, 20.4333, -103.6333
+Acatlán de Osorio, 18.2000, -98.0500
+Acatzingo(de Hidalgo), 18.9833, -97.7833
+Acayucan, 17.9500, -94.9167
+Acebuches, 28.2500, -102.7167
+Aconchi, 29.8333, -110.2000
+Actopan, 20.2667, -98.9333
+Acuitzio del Canje, 19.4833, -101.3333
+Acámbaro, 20.0333, -100.7333
+Adolfo Ruíz Cortines, 25.6667, -108.6667
+Agostitlán, 19.5500, -100.6833
+Agrícola Oriental, 19.4000, -99.0500
+Agua Caliente, 23.3333, -105.3333
+Agua Caliente de Chínipas, 27.4500, -108.5333
+Agua Caliente Grande de Gastelum, 26.5167, -108.3667
+Agua Dulce, 18.1333, -94.1333
+Agua Escondida, 19.1333, -103.4500
+Agua Prieta, 31.3000, -109.5667
+Agua Zarca(Durango), 23.1667, -104.4667
+Agua Zarca(Sonora), 31.1667, -110.9833
+Agualeguas, 26.3000, -99.5667
+Aguapepito, 24.5500, -107.6500
+Aguaruto, 24.7833, -107.4833
+Aguascalientes(Baja California Norte), 32.3000, -115.1667
+Aguascalientes(Aquascalientes), 21.8833, -102.3000
+Aguililla, 18.7333, -102.7333
+Agujita, 27.8833, -101.1500
+Ahuacatlán(Nayarit), 21.0500, -104.4833
+Ahuacatlán(Puebla), 20.0000, -97.8667
+Ahuacuotzingo, 17.7000, -98.9333
+Ahualulco de Mercado, 20.7000, -103.9833
+Ahuijullo, 19.0833, -103.0833
+Ahumada, 32.5000, -115.5000
+Ajalpan, 18.3667, -97.2500
+Ajijic, 20.3000, -103.2833
+Ajoya, 24.0667, -106.3667
+Ajuchitlán del Progreso, 18.1500, -100.4833
+Ajusco, 31.5833, -116.4167
+Alamillo, 31.0333, -110.5833
+Alamos(Nuevo León), 26.4167, -100.4167
+Alamos(Sonora), 27.0167, -108.9333
+Alaquines, 22.1333, -99.6000
+Albarradas, 16.8333, -96.2500
+Alcihuatl, 19.9167, -104.5667
+Alcomunga, 18.4167, -97.0333
+Aldama(Chihuahua), 28.8500, -105.9000
+Aldama(tamaulipas), 22.9167, -98.0667
+Alfredo M. Terrazas, 21.4667, -98.8500
+Allende(Varacruz), 18.1500, -94.2667
+Allende(Coahulia), 28.3333, -100.8500
+Allende(Nuevo León), 25.2833, -100.0167
+Altamira, 22.4000, -97.9167
+Altamirano, 25.9167, -97.7833
+Altar, 30.7167, -111.7333
+Altata, 24.6333, -107.9167
+Alto Lucero, 19.6167, -96.7167
+Altotonga, 19.7667, -97.2333
+Alvarado, 18.7667, -95.7667
+Amadores, 22.8500, -99.7167
+Amatenango de la Frontera, 15.4333, -92.1167
+Amatitán, 20.8333, -103.7167
+Amatlán de Cañas, 20.8667, -104.4500
+Amatlán de los Reyes, 18.8333, -96.9167
+Ameca, 20.5500, -104.0333
+Amecameca(de Juáres), 19.1167, -98.7667
+Amixtlán, 20.0500, -97.8000
+Amozoc, 19.0333, -98.0500
+Amusgos, 16.6500, -98.1000
+Ancón, 22.5833, -101.1833
+Angamacutiro(de la Unión), 20.1667, -101.6833
+Angangueo, 19.6167, -100.3000
+Angel Albino Corzo, 16.1667, -93.2500
+Angostura, 25.3667, -108.1833
+Antiguo Morelos, 22.5500, -99.0833
+Antonio Amaro, 24.2667, -104.0167
+Antonio Escobedo, 20.7667, -103.9500
+Anáhuac(Tamaulipas), 25.8000, -97.7500
+Anáhuac(Chihuahua), 28.4167, -106.6667
+Apam, 19.7167, -98.4167
+Apango, 17.7333, -99.3333
+Apaseo el Grande, 20.5500, -100.6833
+Apatzingánó(de la Constitución), 19.0833, -102.3500
+Apaxtla de Castrejón, 18.1500, -99.8667
+Apipilulco, 18.1833, -99.6833
+Apizaco, 19.4167, -98.1500
+Apizolaya, 24.8333, -102.2500
+Apo, 19.4167, -102.4167
+Aporo, 19.6833, -100.4167
+Apozolco, 21.3667, -104.0000
+Aquila, 18.6000, -103.5000
+Aquiles Serdán, 28.6000, -105.8833
+Aramberri, 24.1000, -99.8167
+Arandas, 20.7000, -102.3500
+Arcelia, 18.2833, -100.2667
+Ario de Rosales, 19.2000, -101.7167
+Arista(Chiapas), 15.9333, -93.8000
+Arista(San Luis Potasí), 22.6500, -100.8333
+Arizpe, 30.3333, -110.1667
+Armería, 18.9333, -103.9667
+Arriaga, 16.2333, -93.9000
+Arroyo Frío, 17.4333, -100.5833
+Arteaga, 18.4667, -102.4167
+Ascensión(Nuevo reón), 24.3333, -99.9167
+Ascensión(Chihuahua), 31.1000, -107.9833
+Asunción Nochixtlán, 17.4667, -97.2333
+Atemajac de Brizuela, 20.1833, -103.7000
+Atemajac del Valle, 20.7500, -103.3667
+Atenango del Río, 18.0833, -99.1000
+Atencingo, 18.5000, -98.6000
+Atenguillo, 20.4167, -104.5167
+Atenquique, 19.5167, -103.5000
+Atil, 30.8333, -111.5833
+Atlacomulco de Fabela, 19.8000, -99.8833
+Atlixco, 18.9000, -98.4333
+Atotonilco, 23.5833, -104.3333
+Atotonilco de los Martínez, 24.2500, -102.7500
+Atotonilco de Tula, 20.0000, -99.2167
+Atotonilco el Alto, 20.5500, -102.5167
+Atoyac, 20.0167, -103.5333
+Atoyac de Alvarez, 17.2000, -100.4333
+Atzacán, 18.9000, -97.0833
+Autlán de Navarro, 19.7667, -104.3667
+Axochiapan, 18.5000, -98.7667
+Ayo el Chico, 20.5333, -102.3500
+Ayoquezco, 16.6833, -96.8333
+Ayutla(Jalisco), 20.1167, -104.3667
+Ayutla(de Los Libres), 16.9000, -99.2167
+Azcapotzalco, 19.4667, -99.2333
+Azoyú, 16.7167, -98.7333

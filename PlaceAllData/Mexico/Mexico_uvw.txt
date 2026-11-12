@@ -1,0 +1,97 @@
+Umán, 20.8833, -89.7500
+Unión de San Antonio, 21.1000, -101.9667
+Unión de Tula, 19.9667, -104.2667
+Unión Hidalgo, 16.4667, -94.8333
+Ures, 29.4333, -110.4000
+Uriangato, 20.1500, -101.1833
+Urique, 27.2167, -107.9167
+Uruapan(Baja California Norte), 31.6333, -116.2500
+Uruapan(del Progreso,Michoacán), 19.4167, -102.0667
+Usmajac, 19.8667, -103.5667
+Uxmal, 20.3667, -89.7667
+Uña de Gato, 25.9667, -99.6833
+Vado de Cedillos, 31.0833, -105.8333
+Vado de Piedra, 29.8333, -104.6667
+Vado Hondo, 31.1500, -111.3667
+Valadeces, 26.2333, -98.6667
+Valladares, 26.8833, -100.6167
+Valladolid, 20.6833, -88.2000
+Valle de Bravo, 19.1833, -100.1333
+Valle de Guadalupe, 21.0000, -102.6167
+Valle de Juárez, 19.8833, -102.8500
+Valle de Olivos, 27.2000, -106.2833
+Valle de San José, 23.3333, -98.4000
+Valle de Santiago, 20.3833, -101.2000
+Valle de Zaragoza, 27.4667, -105.8167
+Valle Hermoso, 25.6500, -97.8667
+Valle Redondo, 32.5167, -116.7667
+Vallecillo, 26.6667, -99.9667
+Valles > Ciudad de Valles, 21.9833, -99.0167
+Valparaíso, 22.7667, -103.5667
+Valtierrilla, 20.5333, -101.1333
+Vanegas, 23.8500, -100.8667
+Velardeña, 25.0667, -103.7333
+Venado, 22.9333, -101.0833
+Venustiano Carranza(Chiapas), 16.3500, -92.5500
+Venustiano Carranza(Jalisco), 19.7333, -103.7833
+Veracruz(Baja California Norte), 32.4167, -115.0833
+Veracruz(Llave,Veracruz), 19.2000, -96.1333
+Vergel, 25.6500, -103.5333
+Vicente Guerrero(Baja California Norte), 30.7500, -116.0000
+Vicente Guerrero(Tabasco), 18.4000, -92.8833
+Vicente Guerrero(Tlaxcala), 19.1333, -98.1667
+Victor Manuel Bueno, 24.3333, -98.9667
+Victoria > Ciudad Victoria(Tamaulipas), 23.7333, -99.1333
+Victoria de Durango > Durango, 24.0333, -104.6667
+Viesca, 25.3500, -102.8000
+Villa Acuña > Ciudad Acuña, 29.3000, -100.9167
+Villa Ahumada, 30.6167, -106.5167
+Villa Alta, 17.3500, -96.1500
+Villa Colón, 20.8000, -100.0500
+Villa Corona, 20.4167, -103.6833
+Villa Cuauhtémoc(México), 19.4000, -99.5667
+Villa Cuauhtémoc(Veracruz), 22.1833, -97.8333
+Villa de Apaseo el Alto, 20.4500, -100.6167
+Villa de Arriaga, 21.9000, -101.3833
+Villa de Comaltitlán, 15.2167, -92.5833
+Villa de Cos, 23.2833, -102.3500
+Villa de García, 25.8167, -100.5833
+Villa de Guadalupe, 23.3667, -100.7667
+Villa de Méndez, 25.1167, -98.5667
+Villa de Reyes, 21.8000, -100.9333
+Villa del Pueblito, 20.5333, -100.4500
+Villa Escalante, 19.4000, -101.6500
+Villa Flores, 16.2333, -93.2333
+Villa Frontera, 26.9333, -101.4500
+Villa García, 22.1667, -101.9500
+Villa González, 22.8333, -98.4500
+Villa González Ortega, 22.5000, -101.9167
+Villa Guerrero(México), 18.8667, -99.6500
+Villa Guerrero(Jalisco), 21.9833, -103.6000
+Villa Hidalgo(Baja California Note), 30.9833, -116.1667
+Villa Hidalgo(Jalisco), 21.6667, -102.6000
+Villa Hidalgo(Nayarit), 21.7333, -105.2500
+Villa Jiménez, 19.9167, -101.5833
+Villa Juárez(Sonora), 27.1667, -109.8333
+Villa Juárez(San Luis Potosí), 22.3333, -100.2833
+Villa López, 27.0000, -105.0333
+Villa Madero, 19.4000, -101.2667
+Villa Mainero, 24.5333, -99.6333
+Villa Morelos, 20.0000, -101.4167
+Villa Obregón(Jalisco), 21.1167, -102.7000
+Villa Obregón(District Federal), 19.3500, -99.1833
+Villa Orestes Pereyra, 26.5167, -105.6667
+Villa Unión(Sinaloa), 23.2000, -106.2333
+Villa Unión(Durango), 23.9667, -104.0333
+Villa Unión(Coahuila), 28.2500, -100.7167
+Villa Vicente Guerrero, 23.7500, -103.9833
+Villa Victoria, 18.7833, -103.4000
+Villagrán(Guanajuato), 20.5167, -100.9833
+Villagrán(Tamaulipas), 24.4833, -99.4833
+Villahermosa, 17.9833, -92.9167
+Villanueva, 22.5167, -102.8833
+Villarreales, 26.1167, -100.3333
+Virulento, 28.8667, -104.3500
+Vista Hermosa(Jalisco), 19.6333, -103.3667
+Vista Hermosa(Michoacán), 20.2667, -102.4833
+Walamo, 23.1167, -106.2500

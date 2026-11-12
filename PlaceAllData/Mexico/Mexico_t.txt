@@ -1,0 +1,207 @@
+Tabasco, 32.5833, -114.9167
+Tacotalpa, 17.6000, -92.8167
+Tacubaya, 28.3333, -104.5667
+Tacámbaro de Codallos, 19.2333, -101.4667
+Tajitos, 30.9667, -112.3000
+Tala, 20.6667, -103.7000
+Talia, 25.7333, -102.4333
+Talpa de Allende, 20.3833, -104.8500
+Tamapatz, 21.5833, -99.1500
+Tamazula, 24.9500, -106.9500
+Tamazula de Gordiano, 19.6333, -103.2500
+Tamazulapán(del Progreso), 17.6833, -97.5667
+Tamazunchale, 21.2667, -98.7833
+Tameapa, 25.6500, -107.3667
+Tamiahua, 21.2667, -97.4500
+Tampico, 22.2167, -97.8500
+Tamuín, 21.9833, -98.7500
+Tancítaro, 19.3333, -102.3667
+Tangamandapio, 19.9500, -102.4333
+Tangancícuaro(de Arista), 19.9000, -102.1333
+Tanhuato, 20.2833, -102.3333
+Tanque de Dolores, 23.6667, -101.1667
+Tantoyuca, 21.3500, -98.2333
+Tapachula, 14.9000, -92.2833
+Tapalpa, 19.9500, -103.7667
+Tapilula, 17.2333, -93.0333
+Tarandacuao, 19.9833, -100.5333
+Tarimoro, 20.2833, -100.7500
+Tastiota, 28.3667, -111.3833
+Tatahuicapan, 18.2333, -94.7500
+Taxco de Alarcón, 18.5500, -99.6000
+Tayoltita, 24.0833, -105.9333
+Teacapán, 22.5500, -105.7500
+Teapa, 17.5500, -92.9500
+Tecalitlán, 19.4333, -103.2500
+Tecamachalco, 18.8833, -97.7333
+Tecate, 32.5667, -116.6333
+Tecolotlán, 20.2167, -104.0500
+Tecomaxtlahuaca, 17.3500, -98.0333
+Tecominoacán, 17.8833, -93.6167
+Tecomán, 18.9167, -103.8833
+Tecozautla, 20.5333, -99.6333
+Tecpan de Galeana, 17.2500, -100.6833
+Tecpatán, 17.1333, -93.3000
+Tecuala, 22.3833, -105.4500
+Tehuacán, 18.4500, -97.3833
+Tehuantepec(Michoacán), 18.6833, -103.2833
+Tehuantepec(Oaxaca), 16.3333, -95.2333
+Tehuipango, 18.5167, -97.0667
+Tehuitzingo, 18.3500, -98.2833
+Teita, 17.0833, -97.4167
+Teitipac, 16.9000, -96.5667
+Tejamén, 24.8000, -105.1167
+Tejupilco de Hidalgo, 18.9000, -100.1500
+Tekax de Álvaro Obregón, 20.2000, -89.2833
+Telixtlahuaca, 17.3000, -96.9000
+Teloloapan, 18.3500, -99.8500
+Temalacacingo, 17.8667, -98.6833
+Temascal(Durango), 23.4000, -104.2333
+Temascal(Oaxaca), 18.2500, -96.3333
+Temastián, 21.8833, -103.4667
+Temax, 21.1500, -88.9333
+Temixco, 18.8333, -99.2333
+Temoaya, 19.4667, -99.5833
+Tempoal, 21.5167, -98.3833
+Temósachic, 28.9500, -107.8500
+Tenabó, 20.0500, -90.2333
+Tenamaxtlán, 20.2167, -104.1667
+Tenancingo(de Degollado), 18.9667, -99.6000
+Tenango de Río Blanco, 18.8333, -97.1500
+Tenango del Valle, 19.1167, -99.5500
+Tenexpa, 17.1833, -100.7167
+Tenextepango, 18.7167, -98.9500
+Tenosique de Pino Suárez, 17.4833, -91.4333
+Teocaltiche, 21.4333, -102.5833
+Teocelo, 19.3833, -96.9667
+Teocuitatlán de Corona, 20.1167, -103.4000
+Teocuitlapa, 17.3667, -98.9667
+Teotitlán del Camino, 18.1333, -97.0833
+Teotitlán del Valle, 17.0333, -96.5000
+Tepalcatepec, 19.1833, -102.8500
+Tepalcingo, 18.6000, -98.8500
+Tepatepec, 20.2333, -99.0833
+Tepatitlán(de Morelos), 20.8167, -102.7333
+Tepatlaxco(de Hidalgo), 19.0667, -97.9667
+Tepeaca, 18.9667, -97.9000
+Tepeapulco, 19.7833, -98.5500
+Tepechitlán, 21.6667, -103.3333
+Tepecoacuilco(de Trujano), 18.3000, -99.4833
+Tepeguaje(Nuevo León), 25.6667, -99.8333
+Tepeguaje(Tamaulipas), 23.5000, -97.8333
+Tepehuanes, 25.3500, -105.7333
+Tepeji del Río, 19.9000, -99.3500
+Tepelmeme(de Morelos), 17.8500, -97.3500
+Tepetixtla, 17.2167, -100.1333
+Tepetlixpa, 19.0333, -98.8167
+Tepic, 21.5000, -104.9000
+Teposcolula, 17.5167, -97.4833
+Tepuzhuacán, 20.8833, -104.5500
+Tequila, 20.9000, -103.7833
+Tequisquiac, 19.9167, -99.1500
+Terán, 16.7500, -93.1667
+Tetla, 19.4333, -98.1000
+Texcaltitlán, 18.9000, -99.9167
+Texcoco(de Mora), 19.5167, -98.8833
+Texistepec, 17.8833, -94.7833
+Teziutlán, 19.8167, -97.3500
+Tezoatlán(de Segura y Luna), 17.7000, -97.8167
+Teúl de González Ortega, 21.4667, -103.4833
+Ticul, 20.4000, -89.5333
+Tierra Blanca(Veracruz), 18.4167, -96.3333
+Tierra Blanca(Chihuahua), 27.2000, -104.8833
+Tierra Colorada(Guerrro), 17.1667, -99.5833
+Tierra Colorada(Tabasco), 17.9333, -92.6500
+Tierra Nueva, 17.7833, -93.4667
+Tierras Coloradas, 22.4000, -104.5833
+Tihuatlán, 20.7167, -97.5333
+Tijuana, 32.5333, -117.0167
+Tilzapotla, 18.4833, -99.2667
+Timilpan, 19.8667, -99.7500
+Tingambato, 19.5000, -101.8667
+Tingüindín, 19.7500, -102.4833
+Tiquicheo, 18.8833, -100.7333
+Tiradero, 17.7833, -91.1667
+Tixtla(de Guerrero), 17.5833, -99.4333
+Tizapán el Alto, 20.1667, -103.0667
+Tizayuca, 19.8333, -98.9833
+Tizimín, 21.1667, -88.1667
+Tizoc, 25.6833, -101.9833
+Tlachichuca, 19.1000, -97.4167
+Tlacoapa, 17.1500, -98.8667
+Tlacolula(de Matamoros), 16.9500, -96.4833
+Tlacotalpan, 18.6167, -95.6667
+Tlacotepec, 17.7667, -99.9833
+Tlacuitapa, 21.2333, -102.2000
+Tlahualilo de Zaragoza, 26.1167, -103.4500
+Tlahuelilpa de Ocampo, 20.1333, -99.2333
+Tlahuitoltepec, 17.0667, -95.9833
+Tlajomulco de Zúñiga, 20.4667, -103.4500
+Tlalchapa, 18.4000, -100.4667
+Tlalcozotitlán, 17.9000, -99.2500
+Tlalixtac de Cabrera, 17.0667, -96.6500
+Tlalixtaquilla, 17.3500, -98.4667
+Tlalnepantla, 19.5500, -99.2000
+Tlalpan, 19.2833, -99.1833
+Tlalpujahua, 19.8000, -100.1667
+Tlaltenango de Sánchez Román, 21.7833, -103.3167
+Tlapa, 17.5500, -98.5500
+Tlapacoyan, 19.9667, -97.2167
+Tlapehuala, 18.2167, -100.5167
+Tlaquepaque, 20.6500, -103.3167
+Tlatlauqui, 19.8500, -97.4833
+Tlaxcala(de Xicoténcatl), 19.3167, -98.2333
+Tlaxco(de Morelos), 19.6167, -98.1167
+Tlaxcoapan, 20.0833, -99.2167
+Tlaxiaco, 17.2667, -97.6833
+Tlaxmalac, 18.3500, -99.4167
+Tlazazalca, 19.9667, -102.0667
+Toahayaná, 26.1333, -107.7333
+Tochimilco, 18.9000, -98.5667
+Todos Santos, 23.4500, -110.2167
+Tolimán, 19.6000, -103.9167
+Tolimán, 20.9167, -99.9333
+Toluca(de Lerdo), 19.2833, -99.6667
+Tomatlán, 19.9333, -105.2500
+Tonalá(Chiapas), 16.0667, -93.7500
+Tonalá(Jalisco), 20.6167, -103.2333
+Tonatico, 18.7833, -99.6833
+Tonila, 19.4333, -103.5167
+Topia, 25.2167, -106.5667
+Topolobampo, 25.6000, -109.0500
+Torreón, 25.5500, -103.4333
+Torín, 27.5667, -110.2333
+Totatiche, 21.9333, -103.4500
+Tototlán, 20.5500, -102.8000
+Trancoso, 22.7333, -102.3667
+Tres Picos, 15.8667, -93.5333
+Tres Valles, 18.2500, -96.1333
+Trincheras(Sonora), 30.4000, -111.5333
+Trincheras(Coahuila), 25.6167, -101.9167
+Trinitaria, 16.1167, -92.0500
+Triunfo de Madero, 16.8667, -93.8000
+Tubutama, 30.8833, -111.4833
+Tuitán, 21.1333, -103.8000
+Tula, 23.0000, -99.7167
+Tula de Allende, 20.0500, -99.3500
+Tulancingo, 20.0833, -98.3667
+Tulcingo de Valle, 18.0500, -98.4333
+Tulillo, 22.5000, -104.0833
+Tultepec, 19.6833, -99.1333
+Tultitlán de Mariano Escobedo, 19.6500, -99.1500
+Tulum, 20.2167, -87.4667
+Tumbiscatio de Ruiz, 18.5167, -102.3500
+Tunkás, 20.9000, -88.7500
+Tututepec, 16.1500, -97.6333
+Tuxpan(Jalisco South), 19.5500, -103.4000
+Tuxpan(Nayarit), 21.9500, -105.3000
+Tuxpan(Michoacán), 19.5667, -100.4667
+Tuxpan(Jalisco Bolaños/North), 21.6167, -104.1167
+Tuxpan de Rodríguez Cano, 20.9500, -97.4000
+Tuxtepec, 18.1000, -96.1167
+Tuxtla Chico, 14.9500, -92.1667
+Tuxtla Gutiérrez, 16.7500, -93.1167
+Tuzamapan, 19.4000, -96.8500
+Tzimol, 16.2667, -92.2667
+Tzucacab, 20.0667, -89.0500
+Tónichi, 28.5833, -109.5667

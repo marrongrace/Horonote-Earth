@@ -1,0 +1,278 @@
+Sabancuy, 18.9667, -91.1833
+Sabanilla, 25.1333, -101.7333
+Sabinas, 27.8500, -101.1167
+Sabinas Hidalgo, 26.5000, -100.1667
+Sahuaripa, 29.0500, -109.2333
+Sahuayo, 20.0667, -102.7167
+Salamanca, 20.5667, -101.2000
+Salina Cruz, 16.1667, -95.2000
+Salinas de Hidalgo, 22.6333, -101.7167
+Salinas del Rey, 27.6333, -102.4000
+Salinas Victoria, 25.8833, -100.3167
+Saltillo, 25.4167, -101.0000
+Salvatierra, 20.2167, -100.8833
+Samalayuca, 31.3500, -106.4667
+San Agustín Atenango, 17.6333, -97.9833
+San Agustín Loxicha, 16.0167, -96.6333
+San Agustín Oapan, 17.9667, -99.4500
+San Agustín Tlaxiaca, 20.1167, -98.8833
+San Alberto, 27.5000, -101.3333
+San Andrés, 27.2333, -114.2333
+San Andrés Cohamiata, 22.2000, -104.0500
+San Andrés Tuxtla, 18.4500, -95.2167
+San Antonio de Bravo, 30.1667, -104.7000
+San Antonio de las Alazanas, 25.2667, -100.6000
+San Antonio de Padua, 22.5833, -104.5000
+San Antonio Eloxochitlán, 18.1833, -96.8667
+San Antonio Nogalar, 23.0667, -98.3667
+San Antonio Zomeyucan, 19.4500, -99.2667
+San Bartolo Morelos, 19.6833, -99.4833
+San Bartolomé Ayautla, 18.0333, -96.6667
+San Bernardo, 25.9833, -105.5500
+San Blas(Sinaloa), 26.0833, -108.7667
+San Blas(Nayarit), 21.5167, -105.2667
+San Blas Atempa, 16.2667, -95.1667
+San Buenaventura, 27.0833, -101.5333
+San Carlos(Coahuila), 29.0167, -100.8500
+San Carlos(Tamaulipas), 24.5833, -98.9333
+San Ciro de Acosta, 21.6333, -99.8167
+San Cosme Xalostoc, 19.4000, -98.0500
+San Cristóbal de la Barranca, 21.0500, -103.4333
+San Cristóbal de las Casas, 16.7500, -92.6333
+San Diego de la Unión, 21.4667, -100.8667
+San Felipe(Guanajuato), 21.4833, -101.2167
+San Felipe(Baja California Norte), 31.0000, -114.8667
+San Felipe Aztatán, 22.3833, -105.4000
+San Felipe Nuevo Mercurio, 24.3667, -102.1000
+San Fermín, 26.3333, -104.8167
+San Fernando(Tamaulipas), 24.8333, -98.1667
+San Fernando(Chiapas), 16.8667, -93.2167
+San Fernando(Coahuila), 28.5333, -100.9000
+San Fernando(Sonora), 31.2667, -110.6000
+San Francisco de Arriba, 26.2500, -102.8333
+San Francisco de Borja, 27.8833, -106.6833
+San Francisco de Horizonte, 25.9333, -103.4333
+San Francisco del Mar, 16.2333, -94.6500
+San Francisco del Oro, 26.8667, -105.8500
+San Francisco del Rincón, 21.0167, -101.8500
+San Francisco Ixhuatán, 16.3667, -94.4833
+San Francisco Tlalcilalcalpa, 19.3000, -99.7667
+San Gabriel Chilac, 18.3167, -97.3500
+San Ignacio(Sinaloa), 23.9167, -106.4167
+San Ignacio(San Luis Potosí), 23.2000, -100.2000
+San Ignacio(Baja California Sur), 27.4500, -112.8500
+San Isidro(San Luis Potosí), 21.9167, -100.2500
+San Isidro(Chihuahua), 31.5167, -106.3000
+San Jacinto, 25.4833, -103.7333
+San Javier, 26.2667, -99.4500
+San Jerónimo de Juárez, 17.1333, -100.4667
+San José(Sonora), 27.5333, -110.1500
+San José(Coahuila), 28.2667, -100.2500
+San José Ayuquila, 17.9667, -97.9500
+San José de Aura, 27.5667, -101.3833
+San José de Gracia, 20.6667, -102.5833
+San José de la Parilla, 23.7333, -104.1167
+San José de la Popa, 26.1667, -100.7833
+San José de las Flores, 17.3333, -95.4000
+San José de Llanetes, 22.9167, -103.2667
+San José de Lourdes, 23.3000, -103.0167
+San José de Raíces, 24.5833, -100.2333
+San José del Cabo, 23.0500, -109.6833
+San José Iturbide, 21.0000, -100.3833
+San Juan(Coahuila), 27.7833, -103.9500
+San Juan(Chihuahua), 29.5667, -104.6000
+San Juan Bautista, 26.9667, -101.4000
+San Juan Bautista Cuicatlán, 17.8000, -96.9667
+San Juan Colorado, 16.5333, -97.9167
+San Juan de Abajo, 20.8000, -105.2167
+San Juan de Guadalupe, 24.6333, -102.7333
+San Juan de la Vega, 20.6333, -100.7667
+San Juan de los Lagos, 21.2500, -102.3000
+San Juan de Sabinas, 27.9167, -101.3000
+San Juan del Río(Durango), 24.7833, -104.4500
+San Juan del Río(Querétaro), 20.3833, -100.0000
+San Juan del Salado, 23.3000, -101.9333
+San Juan Evangelista, 17.9000, -95.1333
+San Juan Ixcaquixtla, 18.4500, -97.8167
+San Juan Lachao, 16.2333, -97.1500
+San Juan Mazatlán, 17.0333, -95.4167
+San Juan Peyotán, 22.4000, -104.3500
+San Juan Quiahije, 16.2833, -97.3333
+San Juan Sayultepec, 17.4500, -97.2833
+San Judas, 23.2500, -100.8667
+San Julián, 21.0167, -102.1667
+San Leonardo, 27.4667, -104.9167
+San Lorenzo(Tamaulipas), 25.6167, -97.5833
+San Lorenzo(Cpahuila), 25.5333, -102.1833
+San Lucas(Baja California Sur), 22.8833, -109.9000
+San Lucas(Zacatecas), 24.2167, -103.0667
+San Luis Acatlán, 16.8000, -98.7500
+San Luis de la Loma, 17.3000, -100.9167
+San Luis de la Paz, 21.3000, -100.5167
+San Luis del Cordero, 25.4333, -104.3000
+San Luis Gonzaga, 24.9167, -111.2667
+San Luis Potosí, 22.1500, -100.9833
+San Luis Río Colorado, 32.4833, -114.8000
+San Luis Soyatlán, 20.2000, -103.3000
+San Manuel, 17.6167, -93.4000
+San Marcos(Jalisco), 20.7833, -104.1833
+San Marcos(Guerrero), 16.8000, -99.3500
+San Marcos(Hidalgo), 20.0333, -99.3333
+San Marcos Arteaga, 17.7500, -97.9667
+San Martín(de las Pirámides), 19.7000, -98.8333
+San Martín de Bolaños, 21.4833, -103.9667
+San Martín de las Vacas, 25.5000, -101.3333
+San Martín Hidalgo, 20.4500, -103.9500
+San Martín Peras, 17.3167, -98.2500
+San Mateo, 22.9833, -103.5000
+San Mateo Atenco, 19.2667, -99.5333
+San Mateo del Mar, 16.2000, -95.0000
+San Miguel(Tamaulipas), 23.3833, -98.1667
+San Miguel(o San Graciano,Coahuila), 29.1667, -101.4667
+San Miguel Canoa, 19.1500, -98.0833
+San Miguel Chimalapa, 16.7167, -94.6833
+San Miguel de Allende, 20.9167, -100.7500
+San Miguel de Cruces, 24.4167, -105.8500
+San Miguel el Alto, 21.0167, -102.3500
+San Miguel Octopan, 20.5667, -100.7333
+San Miguel Talea de Castro, 17.3667, -96.2500
+San Miguel Tenango, 16.2667, -95.6000
+San Miguel Totolapan, 18.1333, -100.3833
+San Nicolas, 19.0833, -101.1167
+San Nicolás, 16.4333, -98.5333
+San Nicolás de los Garzas, 25.7500, -100.3000
+San Pablo Autopan, 19.3500, -99.6667
+San Pablo Balleza, 26.9500, -106.3500
+San Pablo Huitzo, 17.2500, -96.8667
+San Pablo Huixtepec, 16.8333, -96.7667
+San Pablo Villa de Mitla, 16.9167, -96.4000
+San Pedro Apóstol, 16.7333, -96.7333
+San Pedro de la Cueva, 29.3000, -109.7333
+San Pedro de las Colonias, 25.7500, -102.9833
+San Pedro del Gallo, 25.5500, -104.3000
+San Pedro El Alto, 16.0167, -96.4667
+San Pedro Huamelula, 16.0333, -95.6667
+San Pedro Jicayán, 16.4167, -97.9833
+San Pedro Juchatengo, 16.3500, -97.1000
+San Pedro Mixtepec, 16.0000, -97.1167
+San Pedro Piedra Gorda, 22.4500, -102.3500
+San Pedro Tapanatepec, 16.3500, -94.2000
+San Pedro Xalostoc, 19.5333, -99.0833
+San Rafael(Veracruz), 20.2000, -96.8500
+San Rafael(Sonora), 28.5667, -111.7000
+San Rafael(Nuevo León), 25.0167, -100.5500
+San Rafael de Arriba, 31.0833, -116.0833
+San Rafael de las Tortillas, 26.8167, -99.5333
+San Salvador el Seco, 19.1333, -97.6500
+San Sebastián(Coahuila), 25.6333, -103.4167
+San Sebastián(Jalisco), 20.7833, -104.8500
+San Sebastián del Alamo, 21.4333, -102.3500
+San Simon, 30.5000, -115.9667
+San Vicente, 31.3333, -116.2500
+San Vicente Tancuayalab, 21.7333, -98.5667
+Santa Ana(Tlaxcala), 19.3167, -98.1833
+Santa Ana(Tabasco), 18.2500, -93.4667
+Santa Ana(Sonora), 30.5500, -111.1167
+Santa Ana(Nuevo León), 24.0667, -100.5000
+Santa Ana Pacueco, 20.3667, -102.0000
+Santa Anita, 20.5500, -103.4500
+Santa Apolonia, 25.6333, -97.9833
+Santa Bárbara(Chihuahua), 26.8000, -105.8167
+Santa Bárbara(Michoacán), 18.8667, -101.1167
+Santa Catarina(Michoacán), 19.3000, -101.1667
+Santa Catarina(Nuevo León), 25.6833, -100.4667
+Santa Catarina(Chihuahua), 31.6167, -115.8000
+Santa Catarina Yosonotú, 16.9833, -97.6500
+Santa Clara(Chihuahua), 29.2833, -107.0167
+Santa Clara(Michoacán), 19.6833, -102.5000
+Santa Clara Coatitla, 19.5667, -99.0667
+Santa Cruz(Sonora), 31.2333, -110.5833
+Santa Cruz(Tamaulipas), 23Nuevo León.0833, -97.8333
+Santa Cruz de Bravo, 19.5833, -88.0333
+Santa Cruz de Juventino Rosas, 20.6500, -101.0000
+Santa Cruz Tacache Mina, 17.8500, -98.1167
+Santa Elena(Coahuila), 27.4667, -102.5500
+Santa Elena(Michoacán), 18.6500, -101.5667
+Santa Elena(Chihuahua), 27.9833, -103.9333
+Santa Gertrudis, 26.1500, -98.7333
+Santa Inés Ahuatempan, 18.4167, -98.0167
+Santa Inés Zacatelco, 19.2167, -98.2333
+Santa María, 28.0333, -101.6333
+Santa María Ajoloapan, 19.9667, -99.0500
+Santa María Chimalapa, 16.9167, -94.6833
+Santa María Colotepec, 15.8833, -96.9167
+Santa María de los Ángeles, 22.1833, -103.2333
+Santa María del Oro, 25.9333, -105.3667
+Santa María del Refugio, 23.7333, -101.2333
+Santa María del Río, 21.8000, -100.7500
+Santa María del Valle, 20.9000, -102.3667
+Santa María Jalapa(del Marqués), 16.5000, -95.4667
+Santa María Magdalena(Cahuacán), 19.6333, -99.4167
+Santa María Tulpetlac, 19.5667, -99.0500
+Santa María Zoquitlán, 16.5500, -96.3833
+Santa Mónica, 28.2000, -100.6167
+Santa Rita, 27.4833, -100.5500
+Santa Rita del Rucio, 23.0667, -100.3167
+Santa Rosa(México), 19.6833, -100.0333
+Santa Rosa(Nayarit), 22.3000, -104.4000
+Santa Rosa(Baja California Norte), 31.9833, -116.7500
+Santa Rosa Jáuregui, 20.7333, -100.4500
+Santa Rosalía(Tamaulipas), 26.1333, -98.9833
+Santa Rosalía(Baja California Sur), 27.3167, -112.2833
+Santa Teresa(Nayarit), 22.4667, -104.7333
+Santa Teresa(Chihuahua), 29.5667, -104.6500
+Santa Teresa(Sonora), 30.8667, -111.5500
+Santander Jiménez, 24.2167, -98.4667
+Santiago(Baja California Sur), 23.4667, -109.7167
+Santiago(Nuevo León), 25.4167, -100.1500
+Santiago Apóstol, 16.8167, -96.7000
+Santiago de la Peña, 20.9500, -97.4000
+Santiago Ixcuintla, 21.8167, -105.2167
+Santiago Ixtayutla, 16.5500, -97.6500
+Santiago Lachiguirí, 16.6833, -95.5333
+Santiago Maravatío, 20.1667, -101.0000
+Santiago Papasquiaro, 25.0500, -105.4167
+Santiago Tulantepec, 20.0333, -98.3667
+Santiago Tutla, 17.1667, -95.4333
+Santiago Tuxtla, 18.4667, -95.3000
+Santiago Yaveo, 17.3167, -95.7000
+Santiago Zacatepec, 17.1833, -95.8500
+Santo Domingo(Baja California Sur), 25.5333, -112.0333
+Santo Domingo(San Luis Potosí), 23.3333, -101.7333
+Santo Domingo(Durango), 25.8000, -104.4667
+Santo Domingo(Coahuila), 25.6333, -101.0833
+Santo Domingo Nuxaá, 17.1333, -97.0333
+Santo Domingo Teojomulco, 16.6000, -97.2333
+Santo Tomás, 31.5500, -116.4000
+Santo Tomás Ocotepec, 17.1333, -97.7667
+Sarabia, 20.5167, -101.0833
+Saucillo, 28.0167, -105.2833
+Sauzal, 31.6167, -106.3000
+Sayula(Sonora), 29.3667, -111.5500
+Sayula(Jalisco), 19.8667, -103.6167
+Sayula de Alemán, 17.8667, -94.9500
+Saín Alto, 23.5833, -103.2500
+Senecú, 31.7167, -106.3833
+Seybaplaya, 19.6500, -90.6667
+Sierra Mojada, 27.2833, -103.7000
+Sifón Villanueva, 27.2833, -100.2833
+Silacayoapan, 17.5000, -98.1500
+Silao, 20.9333, -101.4333
+Simojovel de Allende, 17.2000, -92.6333
+Socoltenango, 16.2167, -92.2500
+Sola de Vega, 16.5167, -96.9833
+Soledad de Doblado, 19.0500, -96.4167
+Soledad Díez Gutiérrez, 22.2000, -100.9500
+Soliseño, 26.0167, -97.8000
+Sombrerete, 23.6333, -103.6500
+Sombreretillo, 26.3167, -99.9667
+Sonoita, 31.8500, -112.8333
+Soto la Marina, 23.7667, -98.2167
+Suaqui Grande, 28.4000, -109.9000
+Suchiapa, 16.6167, -93.0833
+Suchilquitongo, 17.2500, -96.8833
+Suchitlán, 19.3667, -103.7167
+Sánchez Magallanes, 18.2333, -93.8667
+Sáric, 31.1333, -111.3833
+Sásabe, 31.4500, -111.5167
+Súchil, 23.6333, -103.9167

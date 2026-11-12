@@ -1,0 +1,163 @@
+Pabellón de Arteaga, 22.1667, -102.3500
+Pachuca(de Soto), 20.1167, -98.7333
+Pahuatlán de Valle, 20.2833, -98.1500
+Pajacuarán, 20.1167, -102.5667
+Pajapan, 18.2500, -94.7000
+Palau, 27.9000, -101.4333
+Palenque, 17.5167, -91.9667
+Palestina, 29.1667, -100.9167
+Palizada, 18.2500, -92.0833
+Palma Pegada, 22.7000, -101.8000
+Palmar de Sepúlveda, 25.7167, -107.9167
+Palmarito(Tochapan), 18.9000, -97.6167
+Palmira, 28.9667, -100.7833
+Palo Alto, 26.5333, -99.7500
+Palo Blanco, 26.7500, -101.5333
+Palomas(Chihuahua Northern Border), 31.7333, -107.6167
+Palomas(Chihuahua East), 28.7167, -103.7500
+Panabá, 21.2833, -88.2667
+Panindícuaro, 19.9833, -101.7667
+Papanoa, 17.3500, -101.0333
+Papantla(de Olarte), 20.4500, -97.3167
+Paracho(de Verduzco), 19.6500, -102.0667
+Paraíso, 18.4000, -93.2333
+Paraíso Novillero, 18.2667, -95.9833
+Paredón, 25.9333, -100.9667
+Parral > Hidalgo del Parral, 26.9333, -105.6667
+Parras de la Fuente, 25.4167, -102.1833
+Parácuaro, 20.1500, -100.7667
+Parás, 26.5000, -99.5167
+Paso de Ovejas, 19.2833, -96.4333
+Paso de San Antonio, 29.0833, -103.9167
+Paso del Macho, 18.9667, -96.7167
+Paso del Toro, 19.0333, -96.1167
+Paso Hondo, 15.8167, -92.0333
+Paso Real de Sarabia, 17.0500, -95.0167
+Patamban, 19.8000, -102.3000
+Pedernales, 19.1333, -101.4667
+Pedriceña, 25.1000, -103.7833
+Pegueros, 20.9500, -102.6667
+Pejelagartero, 18.0667, -93.7500
+Penjamillo(de Degollado), 20.1000, -101.9000
+Peotillos, 22.5000, -100.6167
+Peribán de Ramos, 19.5333, -102.4667
+Pericos, 25.0500, -107.7000
+Perote, 19.5667, -97.2333
+Pesquería, 25.7833, -100.0500
+Petalcingo, 17.2833, -92.4500
+Petatlán, 17.5167, -101.2667
+Petlalcingo, 18.0833, -97.9000
+Peto, 20.1333, -88.9167
+Peñoles, 25.6500, -104.5000
+Peñón Blanco, 24.7833, -104.0333
+Pichucalco, 17.5167, -93.1500
+Pichátaro, 19.5000, -101.7667
+Pico de Oro, 18.0167, -93.6167
+Piedra Blanca, 29.0833, -102.3167
+Piedras Negras, 28.7000, -100.5167
+Pihuamo, 19.2500, -103.3833
+Pijijiapan, 15.7000, -93.2333
+Pilares, 30.4000, -104.8667
+Pinos, 22.3000, -101.5667
+Pinotepa de Don Luis, 16.4167, -97.9167
+Pinotepa Nacional, 16.3167, -98.0167
+Pitillal del Norte, 20.6667, -105.0167
+Pitiquito, 30.7000, -112.0333
+Placeres de Picacho, 23.1833, -105.7000
+Platón Sánchez, 21.2833, -98.3667
+Playa Azul, 17.9833, -102.4000
+Playa del Carmen, 20.6000, -87.1000
+Playa Vicente, 17.8333, -95.8167
+Pluma Hidalgo, 15.9167, -96.4167
+Pochutla, 15.7333, -96.4667
+Poncitlán, 20.3667, -102.9167
+Portezuelo, 20.4167, -102.5167
+Potrero de Gallegos, 22.6333, -103.6833
+Potrero del Llano, 29.2000, -104.4667
+Potrero Grande, 24.9833, -106.4333
+Poza Grande, 25.8333, -112.0833
+Poza Rica de Hidalgo, 20.5500, -97.4500
+Pozos, 21.2333, -100.4833
+Primero de Mayo, 27.2000, -101.2500
+Progreso(Yucatán), 21.2833, -89.6667
+Progreso(Coahuila), 27.4667, -100.9833
+Progreso Industrial, 19.6333, -99.3500
+Providencia, 27.1000, -103.5333
+Puebla(de Zaragoza), 19.0500, -98.2000
+Pueblo Nuevo, 20.5167, -101.3667
+Pueblo Viejo(Guerrero), 17.5500, -100.0833
+Pueblo Viejo(Veracruz), 17.4000, -93.7833
+Puente de Camotlán, 21.5333, -104.2000
+Puente de Ixtla, 18.6167, -99.3333
+Puente Negro, 27.9167, -101.0167
+Puerto de San Juan de Dios, 22.3167, -99.5500
+Puerto Escondido, 15.8333, -97.1667
+Puerto Juárez, 21.1833, -86.8167
+Puerto Libertad, 29.9167, -112.7167
+Puerto Morelos, 20.8333, -86.8667
+Puerto Peñasco, 31.3333, -113.5500
+Puerto Vallarta, 20.6167, -105.2500
+Puerto Ángel, 15.6667, -96.4833
+Punta Prieta, 28.9667, -114.2833
+Purificación, 19.7167, -104.6333
+Puruarán, 19.1000, -101.5333
+Puruándiro, 20.0833, -101.5000
+Purépero, 19.9167, -102.0167
+Purísima(Coahuila), 29.1500, -100.7667
+Purísima(Durango), 25.4167, -105.4333
+Purísima de Bustos, 21.0333, -101.8667
+Putla de Guerrero, 17.0333, -97.9333
+Pánuco, 22.0500, -98.1667
+Pátzcuaro, 19.5167, -101.6000
+Pénjamo, 20.4333, -101.7333
+Pómaro, 18.3333, -103.3000
+Pótam, 27.6000, -110.3833
+Quecholac, 18.9500, -97.6667
+Quechultenango, 17.4167, -99.2167
+Querobabi, 30.0500, -111.0167
+Querétaro, 20.6000, -100.3833
+Quilá, 24.3833, -107.2167
+Quimichis, 22.3500, -105.5333
+Quiroga, 19.6667, -101.5333
+Ramos, 22.8333, -101.9167
+Ramos Arizpe, 25.5500, -100.9667
+Ramírez(Coahuila), 27.3333, -100.9667
+Ramírez(Tamaulipas), 25.9500, -97.7667
+Rancho Nuevo(Nuevo León), 26.3667, -99.9000
+Rancho Nuevo(tamaulipas), 23.2000, -97.8000
+Rayones, 25.0167, -100.0833
+Rayón(Sonora), 29.7167, -110.5833
+Rayón(Chiapas), 17.2000, -93.0000
+Rayón(San Luis Potosí), 21.8500, -99.6667
+Real del Castillo, 31.9667, -116.3167
+Reata, 26.1333, -101.0833
+Reforma de Pineda, 16.4000, -94.4667
+Repueblo de Oriente, 25.8500, -99.6500
+Resurrección, 19.1000, -98.1167
+Reynosa, 26.1167, -98.3000
+Ricardo Flores Magón, 29.9667, -106.9667
+Rinconada, 25.7000, -100.7167
+Rincón de Romos, 22.2333, -102.3000
+Rincón de Tamayo, 20.4167, -100.7500
+Rodeo, 25.1833, -104.5667
+Rodríguez, 27.1667, -100.0167
+Romita, 20.8667, -101.5167
+Rosales, 28.2000, -105.5500
+Rosamorada, 22.1333, -105.2000
+Rosario(Baja California Norte), 30.0167, -115.6667
+Rosario(Sinaloa), 23.0000, -105.8667
+Rosarito(Baja California Norte), 32.3333, -117.0333
+Rosarito(Baja California Sur), 26.4500, -111.6333
+Rosarito Beach, 32.3333, -117.0333
+Rosas, 26.1500, -103.4500
+Ruiz, 21.9500, -105.1500
+Río Balsas, 17.9833, -99.7833
+Río Blanco(Tenango de Rio Blanco), 18.8333, -97.1500
+Río Bravo(Coahuila), 28.2833, -100.9167
+Río Bravo(Tamaulipas), 25.9833, -98.1000
+Río de las Playas, 17.8500, -94.0333
+Río Grande(Oaxaca), 15.9833, -97.4500
+Río Grande(Zacatecas), 23.8333, -103.0333
+Río Hondo, 19.4167, -99.2667
+Río Lagartos, 21.6000, -88.1667
+Río Verde, 21.9333, -99.9833

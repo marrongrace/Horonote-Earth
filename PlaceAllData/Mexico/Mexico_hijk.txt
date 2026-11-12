@@ -1,0 +1,147 @@
+Halachó, 20.4833, -90.0833
+Hecelchakán, 20.1667, -90.1333
+Hechiceros, 28.5500, -103.6333
+Hermanas, 27.2167, -101.2333
+Hermosillo(Sonora), 29.0667, -110.9667
+Hermosillo(Baja California Norte), 32.5000, -114.9833
+Hernández, 23.0167, -102.0167
+Heroica Caborca, 30.6167, -112.1000
+Heroica Nogales, 31.3333, -110.9333
+Hidalgo(Zacatecas), 23.1667, -103.2167
+Hidalgo(Tamaulips), 24.2500, -99.4333
+Hidalgo(Nuevo León), 25.9833, -100.4500
+Hidalgo(Coahuila), 27.7833, -99.8667
+Hidalgo del Parral, 26.9333, -105.6667
+Hidalgo Yalalag, 17.1833, -96.1833
+Higuera Blanca, 19.7000, -105.1667
+Higuera de Zaragoza, 25.9833, -109.2667
+Higuera Gorda, 22.0667, -104.4833
+Higueras, 25.9667, -100.0167
+Hipólito, 25.6833, -101.4333
+Hopelchén, 19.7667, -89.8500
+Hostotipaquillo, 21.0667, -104.0667
+Huajimic, 21.7000, -104.3333
+Huajintepec, 16.6000, -98.2333
+Huajuapan de León, 17.8000, -97.7667
+Hualahuises, 24.8833, -99.6833
+Huamantla, 19.3167, -97.9333
+Huamuxtitlán, 17.8167, -98.5667
+Huandacareo, 19.9833, -101.2833
+Huaniqueo(de Morales), 19.9000, -101.4333
+Huasamota, 22.5000, -104.5000
+Huatabampo, 26.8333, -109.6333
+Huatusco de Chicuellar, 19.1500, -96.9500
+Huauchinango, 20.1833, -98.0500
+Huautla, 21.0333, -98.2833
+Huautla de Jiménez, 18.1333, -96.8500
+Huazolotitlán, 16.2833, -97.9333
+Huehuetlán el Chico, 18.3500, -98.7000
+Huehuetán, 15.0167, -92.3667
+Huejuquilla el Alto, 22.6000, -103.8667
+Huejutla de Reyes, 21.1333, -98.4167
+Huejúcar, 22.3500, -103.2167
+Huetamo de Núñez, 18.5833, -100.8833
+Hueyapan, 18.8667, -98.6667
+Hueyapan de Ocampo, 18.1167, -95.1500
+Huichapan, 20.3833, -99.6500
+Huimanguillo, 17.8500, -93.3833
+Huisachal, 26.7833, -101.1167
+Huistepec, 16.6500, -98.3333
+Huitiupan, 17.2167, -92.6500
+Huitzilán, 19.9667, -97.6833
+Huitzuco de los Figueroa, 18.3000, -99.3500
+Huixtla, 15.1500, -92.4667
+Huizache, 22.9167, -100.4167
+Hunucmá, 21.0167, -89.8667
+Huásabas, 29.7833, -109.3000
+Icamole, 25.9167, -100.7167
+Ignacio de la Llave, 18.7167, -95.9833
+Ignacio Zaragoza(Chihuahua), 29.5833, -107.5000
+Ignacio Zaragoza(Zacatecas), 23.9167, -103.7000
+Iguala, 18.3500, -99.5333
+Iliatenco, 16.9667, -98.6667
+Illescas, 23.2167, -102.1167
+Imuris, 30.7833, -110.8667
+Indaparapeo, 19.7833, -100.9667
+Indé, 25.9000, -105.2167
+Inmaculadita, 29.9167, -111.8000
+Irapuato, 20.6833, -101.3500
+Irámuco, 19.9500, -100.9167
+Isla, 18.0167, -95.5000
+Isla Mujeres, 21.2000, -86.7167
+Iturbide, 19.6667, -89.6167
+Ixhuatlán del Café, 19.0667, -96.9833
+Ixmiquilpan, 20.4833, -99.2333
+Ixtacalco, 19.3833, -99.1333
+Ixtaltepec, 16.5000, -95.0500
+Ixtapalapa, 19.3500, -99.0833
+Ixtapan de la Sal, 18.8333, -99.6833
+Ixtlahuacán del Río, 20.8667, -103.2500
+Ixtlán, 20.1833, -102.4000
+Ixtlán de Juárez, 17.3333, -96.4833
+Ixtlán del Río, 21.0333, -104.3667
+Izúcar de Matamoros, 18.6000, -98.4667
+Jaboncillos, 28.9500, -102.6500
+Jacala de Ledesma, 21.0167, -99.1833
+Jacona de Plancarte, 19.9500, -102.2667
+Jala, 21.0833, -104.4333
+Jalacingo, 19.8000, -97.3000
+Jalapa, 17.7167, -92.8167
+Jalapa de Díaz, 18.0667, -96.5333
+Jalapa Enríquez, 19.5333, -96.9167
+Jalcocotán, 21.4667, -105.1167
+Jalea de Catalán, 17.4333, -99.8500
+Jalisco, 21.4500, -104.9000
+Jalostotitlán, 21.2000, -102.4667
+Jalpa, 21.6333, -102.9667
+Jalpa de Méndez, 18.1333, -93.0833
+Jalpan, 21.2333, -99.4833
+Jaltenango de la Paz, 15.9167, -92.7167
+Jaltocán, 21.1500, -98.5333
+Jamay, 20.3000, -102.7167
+Jamiltepec, 16.2833, -97.8167
+Janos, 30.9000, -108.1667
+Jantetelco, 18.7000, -98.7667
+Jaral del Progreso, 20.3667, -101.0667
+Jaumave, 23.4167, -99.3833
+Jerez de García Salinas, 22.6500, -103.0000
+Jerécuaro, 20.1500, -100.5167
+Jesús Carranza, 17.4333, -95.0333
+Jesús María(Aguascalientes), 21.9667, -102.3500
+Jesús María(Sinaloa), 25.1000, -107.4667
+Jilotepec de Abasolo, 19.9667, -99.5333
+Jilotlán de los Dolores, 19.2333, -102.9833
+Jiménez, 29.0333, -100.6833
+Jiménez del Teúl, 23.1667, -104.0833
+Jiquilpan de Juárez, 19.9833, -102.7167
+Jiquipilas, 16.6667, -93.6500
+Jiquipilco, 19.5333, -99.6000
+Jitotol, 17.0333, -92.8667
+Jocotepec, 20.3000, -103.4333
+Jocotitlán, 19.7000, -99.8000
+Jocuixtita, 24.2500, -106.2667
+Jojutla, 18.6167, -99.1833
+Jonacatepec, 18.6833, -98.8000
+Jonuta, 18.0833, -92.1333
+Joquicingo, 19.0500, -99.5500
+José Cardel, 19.3667, -96.3667
+Juan Aldama, 24.3167, -103.3500
+Juan Díaz Covarrubias, 18.1167, -95.1500
+Juan Eugenio, 25.1667, -103.3333
+Juan Rodríguez Clara, 18.0000, -95.4167
+Juanacatlán, 20.5167, -103.1667
+Juanita, 17.7833, -95.1500
+Juchipila, 21.4167, -103.1167
+Juchitepec, 19.1000, -98.8833
+Juchitlán(de Zaragoza), 20.0833, -104.1167
+Juchitán, 16.4333, -95.0167
+Juile, 17.7500, -94.9833
+Julimes, 28.4167, -105.4500
+Jungapeo, 19.4500, -100.4833
+Juquila, 16.2333, -97.3000
+Juxtlahuaca, 17.3333, -98.0167
+Juárez(Coahuila), 27.6167, -100.7333
+Juárez(Chiapas), 17.6500, -93.1667
+Juárez(Chihuahua) > Ciudad Juárez, 31.7333, -106.4833
+Jáltipan, 17.9667, -94.7000
+Kantunilkín, 21.1000, -87.4833

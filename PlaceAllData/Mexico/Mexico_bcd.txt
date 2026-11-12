@@ -1,0 +1,331 @@
+Bacerac, 30.3000, -108.8333
+Bachíniva, 28.7500, -107.2500
+Bacoachi, 30.6333, -109.9333
+Badiraguato, 25.3667, -107.5167
+Bahía Kino, 28.8333, -111.9167
+Baja California, 32.3000, -115.2000
+Bajos del Balsamar, 17.5667, -100.8000
+Baján, 26.5333, -101.2500
+Banderas, 31.0167, -105.5833
+Banderilla, 19.6000, -96.9333
+Barcelona, 26.2000, -103.4167
+Barranco Azul, 29.3500, -104.2833
+Barranco de Guadalupe, 30.0333, -104.7333
+Batuc, 29.2500, -109.7333
+Bavispe, 30.4000, -108.8333
+Bañón, 23.1833, -102.4833
+Becal, 20.4500, -90.0333
+Belén del Refugio, 21.5167, -102.4167
+Benito Juárez(Tabasco), 17.8333, -92.5333
+Benito Juárez(Michoacán), 19.2333, -100.4667
+Benjamín Hill, 30.1667, -111.1667
+Bermejillo, 25.8833, -103.6167
+Berriozábal, 16.8000, -93.2667
+Boca del Río, 19.1000, -96.1000
+Bochil, 16.9833, -92.9167
+Bolaños, 21.6833, -103.7833
+Bolonchén de Rejón, 20.0000, -89.8167
+Boquilla del Refugio, 25.5500, -102.4667
+Boquillas del Carmen, 29.2833, -102.8833
+Briseñas de Matamoros, 20.2667, -102.5500
+Brittingham, 25.7500, -103.4000
+Buen Día, 26.3500, -104.5333
+Buena Vista, 32.5333, -116.7333
+Buenaventura, 29.8500, -107.4833
+Buenavista, 22.5000, -103.1667
+Buenavista de Cuéllar, 18.4500, -99.4167
+Buenavista Revolución Mexicana, 16.0500, -93.0667
+Buenavista Tomatlán, 19.2000, -102.6000
+Burgos, 24.9500, -98.7833
+Bustamante(Nuevo León), 26.5500, -100.5000
+Bustamante(Tamaulipas), 23.4333, -99.7833
+Bácum, 27.5500, -110.0833
+Cabo San Lucas, 22.8833, -109.9000
+Cabrel, 20.1000, -105.2333
+Cacahoatán, 14.9833, -92.1667
+Cacaluta, 20.0500, -104.8667
+Cadereyta Jiménez, 25.6000, -100.0000
+Calabacillas, 23.2167, -99.7500
+Calera Víctor Rosales, 22.9500, -102.7000
+Caliente Race Track, 32.5333, -117.0000
+Calihualá, 17.5833, -98.1667
+Calnalí, 20.9167, -98.5833
+Calpan, 19.1000, -98.4500
+Calpulalpan, 19.5833, -98.5833
+Calvillo, 21.8500, -102.7167
+Camacho, 24.4167, -102.3000
+Campeche, 19.8500, -90.5333
+Campo Morado, 17.5833, -100.0833
+Canachal, 24.0667, -107.0833
+Canalejas, 19.9500, -99.6500
+Cananea, 30.9500, -110.3000
+Canatlán, 24.5167, -104.7833
+Cancún, 21.0833, -86.7667
+Candela, 26.8333, -100.6667
+Candelaria Loxicha, 15.9000, -96.5167
+Cantabria, 19.8333, -101.7333
+Caobanal, 17.6167, -93.3667
+Carbó, 29.7000, -110.9667
+Carichic, 27.9333, -107.0500
+Carmen > Ciudad del Carmen, 18.6333, -91.8333
+Carrillo, 26.9000, -103.9167
+Carrillo Puerto(Michoacán), 19.1333, -102.7000
+Carrillo Puerto(Nayarit), 21.1500, -104.8667
+Carácuaro de Morelos, 18.7667, -101.0333
+Casas, 23.7333, -98.7500
+Casimiro Castillo, 19.6333, -104.4667
+Castillo Velasco, 16.7500, -96.5833
+Catemaco, 18.4167, -95.1167
+Catorce, 23.7000, -100.9000
+Cañada de Caracheo, 20.3667, -100.9500
+Cañitas de Felipe Pescador, 23.6000, -102.7167
+Ceballos, 23.3833, -104.8333
+Ceceda, 26.0667, -103.4167
+Cedral, 23.8000, -100.7333
+Cedros, 24.6833, -101.7833
+Celaya, 20.5167, -100.8167
+Celestún, 20.8667, -90.4000
+Centinela, 28.7833, -100.5667
+Cerano, 20.1167, -101.3833
+Cerralvo, 26.1000, -99.6167
+Cerritos, 22.4333, -100.2833
+Cerro Azul, 21.2000, -97.7333
+Cerro Prieto, 32.4500, -115.2833
+Chacaltianguis, 18.3333, -95.8333
+Chahuites, 16.2833, -94.1833
+Chalcatongo de Hidalgo, 17.0333, -97.5833
+Chalchihuites, 23.4833, -103.8833
+Chalco(de Díaz Covarrubias), 19.2667, -98.9000
+Chalihuey, 22.7167, -104.0667
+Chamela, 19.5333, -105.0833
+Champotón, 19.3500, -90.7167
+Chapala, 20.3000, -103.2000
+Chapo, 29.2833, -104.3333
+Chapultepec(Ensenada,Baja California Norte), 31.8333, -116.6333
+Chapultepec(Mexicali,Baja California Norte), 32.3667, -115.0833
+Charapán, 19.6833, -102.1000
+Charcas, 23.1333, -101.1167
+Charcos de Figueroa, 27.7500, -102.1833
+Charcos de Risa, 26.2500, -103.1667
+Charo, 19.7500, -101.0500
+Chavinda, 20.0167, -102.4500
+Chazumba, 18.2000, -97.6667
+Chemax, 20.6500, -87.9333
+Cherán, 19.6833, -101.9500
+Chetumal, 18.5000, -88.3000
+Chiapa de Corzo, 16.7000, -93.0000
+Chiautla de Tapia, 18.2833, -98.6000
+Chiautzingo, 19.2000, -98.4667
+Chichigapa, 17.7833, -94.4167
+Chichihualco, 17.6833, -99.6500
+Chichimilá, 20.6167, -88.2167
+Chichén Itzá, 20.6667, -88.5667
+Chicomuselo, 15.7667, -92.2667
+Chicontepec, 20.9667, -98.1667
+Chicorato, 26.0333, -107.9000
+Chicualoque, 20.3833, -97.6500
+Chicxulub, 21.1333, -89.5167
+Chietla, 18.5167, -98.5833
+Chignahuapan, 19.8333, -98.0333
+Chihuahua, 28.6333, -106.0833
+Chikindzonot, 20.3333, -88.4833
+Chila, 18.9167, -102.4667
+Chilacachapa, 18.2833, -99.7167
+Chilapa de Alvarez, 17.6000, -99.1667
+Chilapa de Díaz, 17.5167, -97.6833
+Chilchota, 19.8500, -102.1333
+Chilpancingo(de los Bravos), 17.5500, -99.5000
+Chilón, 17.2333, -92.4167
+Chimaltitán, 21.5500, -103.8333
+China, 25.7000, -99.2333
+Chinitos, 25.0167, -107.9000
+Chiquihuitlán de Juárez, 17.9833, -96.8000
+Choapan, 17.3333, -95.9500
+Chocamán, 18.9833, -97.0167
+Choix, 26.7167, -108.2833
+Cholula(de Rivadabia), 19.0667, -98.3000
+Chuhuichupa, 29.6333, -108.3667
+Chunhuás, 19.2000, -88.9167
+Chupaderos, 23.8333, -102.3333
+Churintzio, 20.1500, -102.0667
+Churumuco, 18.6167, -101.6333
+Cibuta, 31.0667, -110.9000
+Cihuatlán, 19.2333, -104.5833
+Cinco de Mayo, 25.7667, -104.3167
+Cintalapa de Figueroa, 16.7333, -93.7167
+Ciudad, 23.7333, -105.7000
+Ciudad Acuña, 29.3000, -100.9167
+Ciudad Altamirano, 18.3333, -100.6667
+Ciudad Anáhuac, 27.2333, -100.1500
+Ciudad Camargo(Chihuahua), 27.6667, -105.1667
+Ciudad Camargo(Tamaulipas), 26.3167, -98.8333
+Ciudad Chetumal, 18.5000, -88.3000
+Ciudad de México(Mexico City), 19.4000, -99.1500
+Ciudad de Naucalpan de Juárez, 19.4667, -99.2333
+Ciudad de Valles, 21.9833, -99.0167
+Ciudad de Villaldama, 26.5000, -100.4333
+Ciudad del Carmen, 18.6333, -91.8333
+Ciudad del Maíz, 22.4000, -99.6000
+Ciudad Guerrero, 28.5500, -107.5000
+Ciudad Guzmán, 19.6833, -103.4833
+Ciudad Hidalgo(Chiapas), 14.6833, -92.1500
+Ciudad Hidalgo(Michoacán), 19.6833, -100.5667
+Ciudad Ixtepec, 16.5667, -95.1000
+Ciudad Jiménez, 27.1333, -104.9167
+Ciudad Juárez, 31.7333, -106.4833
+Ciudad Lerdo, 25.5333, -103.5333
+Ciudad López Mateos, 19.5500, -99.2500
+Ciudad Madero, 22.2667, -97.8333
+Ciudad Mante, 22.7333, -98.9500
+Ciudad Manuel Doblado, 20.7333, -101.9333
+Ciudad Melchor Múzquiz, 27.8833, -101.5167
+Ciudad Mendoza, 18.8000, -97.1833
+Ciudad Mier, 26.4333, -99.1500
+Ciudad Miguel Alemán, 26.3833, -99.0167
+Ciudad Morelos, 32.6333, -114.8667
+Ciudad Obregón, 27.4833, -109.9333
+Ciudad Ocampo, 22.8333, -99.3333
+Ciudad Sahagún, 19.7833, -98.5500
+Ciudad Santos, 21.6000, -98.9667
+Ciudad Serdán, 18.9833, -97.4500
+Ciudad Victoria(Baja California Norte), 32.3333, -115.1000
+Ciudad Victoria(Tamaulipas), 23.7333, -99.1333
+Ciénega de Flores, 25.9500, -100.1833
+Cloete, 27.9167, -101.1667
+Coacalco de Berriozábal, 19.6167, -99.0833
+Coacoyole, 24.5167, -106.5667
+Coacuilco, 21.1167, -98.5833
+Coahuayana, 18.7333, -103.6833
+Coahuayutla de Guerrero, 18.3167, -101.8167
+Coahuila, 32.2000, -114.9833
+Coalcomán de Matamoros, 18.7833, -103.1500
+Coapilla, 17.1333, -93.1667
+Coatepec, 19.4500, -96.9667
+Coatepec de Harinas, 18.9000, -99.7167
+Coatzacoalcos, 18.1500, -94.4167
+Coatzintla, 20.4833, -97.4500
+Cocotitlán, 19.2333, -98.8667
+Cocula(Jalisco), 20.3833, -103.8333
+Cocula(Guerrero), 18.2333, -99.6667
+Coeneo(de la Libertad), 19.8167, -101.5833
+Coixtlahuaca, 17.7167, -97.3167
+Cojumatlán de Régules, 20.1167, -102.8333
+Colima(Coalima), 19.2333, -103.7167
+Colima(Baja California Norte), 32.4167, -115.0833
+Colmeneros, 18.1000, -101.6667
+Colombia, 27.7000, -99.7500
+Colonet, 31.0833, -116.1667
+Colonia Cristóbal Obregón, 16.3333, -93.5000
+Colonia Guadalupe, 32.0667, -116.6167
+Colonia Morelos, 30.8333, -109.1667
+Colonia Progreso(Baja California Norte), 32.5833, -115.6167
+Colonia Progreso(Zacatecas), 23.8000, -103.3000
+Colorado de Abajo, 26.4667, -99.9000
+Colorines, 19.1167, -100.2000
+Colotlipa, 17.4167, -99.1500
+Colotlán(de Domínguez), 22.1000, -103.2667
+Comala, 19.3167, -103.7500
+Comalcalco, 18.2667, -93.2167
+Comales, 26.1667, -98.9333
+Comanja de Corona, 21.3167, -101.7000
+Comitán, 16.2500, -92.1333
+Comondú, 26.0500, -111.7667
+Comonfort, 20.7167, -100.7667
+Compostela, 21.2500, -104.8833
+Concepción de Buenos Aires, 19.9667, -103.2667
+Concepcíón del Oro, 24.6333, -101.4167
+Concordia(Coahuila), 25.7833, -103.1167
+Concordia(Sinaloa), 23.2833, -106.0667
+Congregación Cuauhtémoc, 22.6333, -98.1333
+Congregación Ignacio Zaragoza, 23.2500, -98.8333
+Conitaca, 24.1667, -106.7167
+Copainalá, 17.0833, -93.2000
+Copala, 16.6167, -98.9667
+Copalillo, 18.0333, -99.1167
+Copalquín, 25.4833, -107.0000
+Copanatoyac, 17.2500, -98.7500
+Copándaro de Galeana, 19.8833, -101.2167
+Coquimatlán, 19.2000, -103.8000
+Corerepe, 25.6667, -108.6667
+Coronado, 22.9167, -100.9333
+Corongoros, 19.2833, -102.8000
+Corralitos, 26.9500, -104.6500
+Cortazar, 20.4833, -100.9333
+Cosamaloapan(de Carpio), 18.3667, -95.8000
+Coscomatepec(de Bravo), 19.0667, -97.0333
+Cosoleacaque, 18.0000, -94.6167
+Costa Rica, 28.9167, -111.6000
+Cotija de la Paz, 19.8167, -102.7167
+Coxquihui, 20.1833, -97.5833
+Coyame, 29.4667, -105.1000
+Coyoacán, 19.3333, -99.1667
+Coyotepec, 19.7667, -99.2000
+Coyuca de Benítez, 17.0333, -100.0667
+Coyuca de Catalán, 18.3333, -100.6500
+Coyutla, 20.2500, -97.6500
+Cozoyoapan, 16.7667, -98.2500
+Cozumel, 20.5167, -86.9167
+Creel, 27.7500, -107.6333
+Cruces, 29.4333, -107.4000
+Cruillas, 24.7500, -98.5167
+Cruz de Elorza, 23.8167, -100.4833
+Cruz Grande, 16.7333, -99.1333
+Cuacnopalan, 18.8167, -97.5000
+Cuajinicuilapa, 16.4667, -98.4167
+Cuapiaxtla, 19.3000, -97.7667
+Cuatro Ciénegas(de Carranza), 26.9833, -102.0833
+Cuauhtémoc(Chihuahua), 28.4167, -106.8667
+Cuauhtémoc(Coalima), 19.3333, -103.6000
+Cuautepec(de Hinojosa), 20.0333, -98.3000
+Cuautitlán(Jalisco), 19.4333, -104.3833
+Cuautitlán(de Romero Rubio,México), 19.6667, -99.1833
+Cuautla, 20.1833, -104.3500
+Cuautla Morelos, 18.8000, -98.9500
+Cucharas, 22.8667, -105.3167
+Cucurpé, 30.3333, -110.7167
+Cuencamé(de Ceniceros), 24.8833, -103.7000
+Cuernavaca, 18.9167, -99.2500
+Cuerámaro, 20.6167, -101.7167
+Cuetzala del Progreso, 18.1167, -99.8333
+Cuetzalán del Progreso, 20.0333, -97.5167
+Cuichapa, 17.9833, -94.2500
+Cuitláhuac, 18.8167, -96.7167
+Cuitzeo del Porvenir, 19.9833, -101.1500
+Cuitzmala, 19.3833, -104.9833
+Culiacancito, 24.8333, -107.5333
+Culiacán, 24.8000, -107.4000
+Cumeral Nuevo, 30.9000, -110.8500
+Cumpas, 30.0333, -109.8000
+Cumuripa, 28.1333, -109.8833
+Cuquío, 20.9167, -103.0333
+Curimeo, 20.0167, -101.7000
+Cusihuiriáchic, 28.2333, -106.8333
+Cutzamalá de Pinzón, 18.4667, -100.5667
+Cutzío, 18.6500, -100.9000
+Cándido Aguilar, 25.5000, -98.0333
+Cárdenas(San Luis Potosí), 22.0000, -99.6667
+Cárdenas(Tabasco), 17.9833, -93.3667
+Córdoba, 18.8833, -96.9333
+Degollado, 20.4667, -102.1500
+Delicias, 28.2167, -105.4667
+Delta, 32.3667, -115.2000
+Derrame, 26.3167, -104.3833
+Dieciocho de Marzo, 25.6333, -97.8333
+Diez de Octubre, 24.7333, -104.6500
+Dinamita, 25.7167, -103.6333
+Doce de Octubre, 25.6333, -97.7833
+Doctor Arroyo, 23.6667, -100.1833
+Doctor Coss, 25.9167, -99.1833
+Doctor González, 25.8667, -99.9500
+Dolores(Chihuahua), 28.8833, -108.4500
+Dolores(Coahuila), 26.3333, -101.4833
+Dolores Hidalgo, 21.1667, -100.9333
+Don Martín, 27.5333, -100.6167
+Dos Arroyos, 17.0333, -99.6667
+Dulce Grande, 22.9833, -102.2333
+Durango, 24.0333, -104.6667
+Dzemul, 21.2000, -89.3000
+Dzibalchén, 19.5167, -89.7500
+Dzilam González, 21.2833, -88.9333
+Dzitbalché, 20.3167, -90.0500
+Dzitás, 20.8500, -88.5167
