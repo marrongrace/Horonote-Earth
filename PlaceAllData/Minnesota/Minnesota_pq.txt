@@ -1,0 +1,164 @@
+Paddock, 46.6667, -95.2167
+Padua, 45.6142, -95.0567
+Page, 45.8875, -93.6633
+Palisade, 46.7133, -93.4883
+Palmdale, 45.4556, -92.7333
+Palmer(Sherburne), 45.5167, -93.9333
+Palmer(Waseca), 44.1531, -93.5417
+Palmers, 46.9247, -91.8506
+Palmville, 48.6000, -95.7667
+Palmyra, 44.6667, -94.8000
+Palo, 47.4153, -92.2594
+Parent, 45.6325, -93.9861
+Park, 46.3000, -92.4833
+Park Rapids, 46.9222, -95.0583
+Parkdale, 46.2333, -96.0125
+Parke, 46.7667, -96.2500
+Parkers Prairie, 46.1531, -95.3286
+Parkville, 47.5311, -92.5789
+Partridge, 46.2000, -92.7333
+Paupores, 46.8725, -92.7642
+Paxton, 44.5000, -95.0500
+Payne, 47.0961, -92.5992
+Paynesville, 45.3806, -94.7117
+Peace, 46.0167, -93.2500
+Pearl Lake, 45.3167, -94.3000
+Peary, 47.3719, -92.5561
+Pease, 45.6981, -93.6478
+Pelan, 48.6436, -96.3931
+Pelican Lake, 46.0833, -95.8500
+Pelican Lakes, 46.6167, -94.2000
+Pelican Rapids, 46.5708, -96.0828
+Pelland, 48.5228, -93.5750
+Pemberton, 44.0086, -93.7831
+Pembina, 47.2833, -96.0000
+Penasse, 49.3678, -94.9586
+Pencer, 48.6992, -95.6375
+Pengilly, 47.3328, -93.1969
+Penn, 44.6667, -94.3167
+Pennington, 47.4836, -94.4797
+Pennock, 45.1489, -95.1761
+Pepin, 44.3833, -92.1333
+Pepperton, 45.6333, -96.0667
+Pequaywan Lake, 46.8333, -92.1000
+Pequot Lakes, 46.6031, -94.3092
+Perault, 47.8125, -96.2897
+Percy, 48.7667, -96.6000
+Perham, 46.5944, -95.5722
+Perkins, 43.7831, -91.6442
+Perley, 47.1778, -96.8050
+Perry, 45.1167, -96.2833
+Perry Lake, 46.5833, -93.9667
+Perth, 44.0797, -94.3586
+Petersburg, 43.5303, -94.9186
+Peterson, 43.7864, -91.8347
+Petran, 43.6567, -93.2089
+Peyla, 47.7853, -92.3631
+Pfingsten, 43.8056, -95.6733
+Phelps, 46.3803, -95.8203
+Philbin, 47.1600, -93.3411
+Philbrook, 46.2833, -94.7167
+Pickerel Lake, 43.6333, -93.4833
+Pickwick, 43.9817, -91.4944
+Pierz, 45.9817, -94.1044
+Pigeon River, 48.0167, -89.7000
+Pike, 47.6667, -92.3667
+Pike Bay, 47.3667, -94.6167
+Pike Creek, 45.9833, -94.4500
+Pike Lake, 46.8000, -92.1333
+Pillager, 46.3300, -94.4739
+Pillsbury(Todd), 45.9333, -94.6833
+Pillsbury(Swift), 45.2000, -95.3000
+Pilot Grove, 43.5292, -94.2275
+Pilotmound, 43.8167, -92.0167
+Pine Bend(Dakota), 44.7792, -93.0347
+Pine Bend(Mahnomen), 47.4264, -95.5908
+Pine Brook, 45.5869, -93.3883
+Pine Center, 46.2144, -93.9142
+Pine City, 45.8261, -92.9683
+Pine Creek, 43.8453, -91.4033
+Pine Island, 44.2014, -92.6461
+Pine Knoll, 46.5772, -93.7575
+Pine Point, 46.9778, -95.3833
+Pine River, 46.7181, -94.4039
+Pine Springs, 45.0358, -92.9542
+Pinecreek, 48.9783, -95.9425
+Pinetop, 47.9058, -94.1017
+Pineville, 47.5361, -92.2939
+Pinewood, 47.5972, -95.1275
+Pioneer, 44.9667, -93.0833
+Pipestone, 44.0006, -96.3172
+Pitt, 48.7175, -94.7358
+Plainview, 44.1650, -92.1714
+Plato, 44.7744, -94.0397
+Platte, 46.1056, -94.0819
+Platte Lake, 46.2167, -94.0000
+Pleasant Beach, 45.7781, -94.7350
+Pleasant Grove, 43.8692, -92.3856
+Pleasant Hill, 43.9000, -91.5333
+Pleasant Lake, 45.4978, -94.2864
+Pleasant Mound, 43.8833, -94.3000
+Pleasant Prairie, 43.6333, -94.3000
+Pleasant Valley(Mower), 43.8000, -92.6333
+Pleasant Valley(Carlton), 46.5383, -92.3847
+Pleasant View, 47.3667, -96.5333
+Pliny, 46.2833, -93.2500
+Plummer, 47.9114, -96.0414
+Plymouth, 45.0106, -93.4553
+Pohlitz, 48.9333, -96.0667
+Point Douglas, 44.7511, -92.8178
+Pokegama, 45.8667, -93.0333
+Polk Centre, 48.0000, -96.4167
+Polonia, 48.7667, -96.3167
+Pomme de Terre, 46.0667, -95.9500
+Pomroy, 47.8175, -93.9928
+Ponemah, 48.0206, -94.9136
+Ponsford, 46.9700, -95.3836
+Ponsford Landing, 47.3314, -95.4547
+Ponto Lake, 46.8333, -94.3500
+Pontoria, 46.8633, -94.3364
+Poor Farm Landing, 44.3289, -94.2408
+Poplar, 46.5867, -94.6964
+Poplar Grove, 48.5833, -95.9333
+Poplar River, 47.8000, -96.0333
+Popple, 47.5500, -95.5000
+Popple Creek, 45.6619, -94.0242
+Popple Grove, 47.2000, -96.0000
+Poppleton, 48.8500, -96.7333
+Port Cargill, 44.7883, -93.3308
+Port Hope, 47.6333, -94.7500
+Portage, 48.1333, -92.5833
+Porter, 44.6364, -96.1653
+Posen, 44.5833, -95.5333
+Post Town, 44.0906, -92.6386
+Potsdam, 44.1656, -92.3389
+Powderhorn, 44.9333, -93.2500
+Powers, 46.8333, -94.4667
+Prairie Island Indian Reservation, 44.6500, -92.6333
+Prairie Lake, 46.8000, -92.9667
+Prairie Portage, 48.0508, -91.4386
+Prairie View, 46.5833, -96.3500
+Prairieville(Rice), 44.2839, -93.1919
+Prairieville(Brown), 44.3333, -94.8000
+Pratt, 44.0225, -93.1592
+Preble, 43.6333, -91.7833
+Predmore, 43.9381, -92.3286
+Prescott, 43.7167, -94.0667
+Preston, 43.6703, -92.0831
+Preston Lake, 44.7500, -94.5667
+Priam, 45.0683, -95.1406
+Princeton, 45.5700, -93.5814
+Prinsburg, 44.9339, -95.1872
+Prior, 45.4500, -96.5500
+Prior Lake, 44.7133, -93.4225
+Prior Lake Indian Reservation, 47.5333, -94.8167
+Proctor, 46.7472, -92.2253
+Prosit, 46.9981, -92.6175
+Prosper, 43.5078, -91.8694
+Providence, 44.8344, -96.1128
+Pulaski, 46.1167, -94.0000
+Puposky, 47.6778, -94.9069
+Quamba, 45.9156, -93.1731
+Queen, 47.6333, -95.6167
+Quincy, 44.0500, -92.1333
+Quiring, 47.8825, -94.6994

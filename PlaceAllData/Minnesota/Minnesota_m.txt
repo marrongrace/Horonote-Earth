@@ -1,0 +1,258 @@
+Mabel, 43.5206, -91.7694
+Macsville, 45.8167, -96.0667
+Macville, 46.9000, -93.6333
+Madelia, 44.0508, -94.4181
+Madison, 45.0097, -96.1956
+Madison Lake, 44.2044, -93.8153
+Mae, 46.8322, -93.8653
+Magnolia, 43.6453, -96.0789
+Mahkonce, 47.3244, -95.6153
+Mahnomen, 47.3153, -95.9683
+Mahoning, 47.4492, -92.9719
+Mahtomedi, 45.0697, -92.9514
+Mahtowa, 46.5739, -92.6317
+Maine, 46.4122, -95.8169
+Maine Prairie, 45.3667, -94.3167
+Makinen, 47.3572, -92.3675
+Malcolm, 48.3244, -95.3353
+Mallory, 47.8767, -96.9114
+Malmo, 46.3339, -93.5192
+Malta, 45.4500, -96.3000
+Malung, 48.7725, -95.7239
+Mamre, 45.2000, -95.1833
+Manannah, 45.2536, -94.6172
+Manchester, 43.7256, -93.4517
+Mandt, 45.1000, -95.6833
+Maney, 46.9903, -92.6078
+Manfred, 44.8500, -96.4000
+Manganese, 46.5275, -94.0094
+Manhattan Beach, 46.7283, -94.1344
+Manitoba Junction, 46.9067, -96.2472
+Manitou(Hennepin), 44.9000, -93.5667
+Manitou(Koochiching), 48.6283, -93.9928
+Manitou Junction, 47.5686, -91.2583
+Mankato, 44.1636, -93.9992
+Manley, 43.5903, -96.4308
+Mansfield, 43.5725, -93.6086
+Manston, 46.5000, -96.4667
+Mantorville, 44.0692, -92.7556
+Mantrap, 47.0167, -94.8500
+Manyaska, 43.6333, -94.6667
+Maple(Carver), 44.8817, -93.8156
+Maple(Cass), 46.5833, -94.4333
+Maple(Lake), 47.4581, -91.1517
+Maple Bay, 47.6358, -96.2247
+Maple Grove, 45.0725, -93.4556
+Maple Hill, 47.8078, -90.3047
+Maple Island(Freeborn), 43.7617, -93.1636
+Maple Island(Washington), 45.1742, -92.8550
+Maple Lake, 45.2292, -94.0017
+Maple Plain, 45.0072, -93.6556
+Maple Springs, 44.4097, -92.1617
+Mapleton, 43.9289, -93.9558
+Mapleview, 43.6889, -92.9792
+Maplewood, 44.9531, -92.9950
+Marble, 47.3206, -93.2983
+Marcell, 47.5931, -93.6906
+March, 48.1950, -96.8969
+Margie, 48.0953, -93.9397
+Marietta, 45.0083, -96.4172
+Marine on Saint Croix, 45.3667, -92.7708
+Marion, 43.9436, -92.3481
+Markham, 47.2992, -92.2183
+Markville, 46.0919, -92.3306
+Marna, 43.6058, -94.0075
+Marsh Creek, 47.3667, -95.9833
+Marsh Grove, 48.3333, -96.4333
+Marshall, 44.4469, -95.7881
+Marshan, 44.6667, -92.8500
+Marshfield, 44.3333, -96.1333
+Martin, 43.5500, -96.4000
+Martin Lake, 45.3811, -93.0947
+Martin Landing, 47.7450, -91.3036
+Martinsburg, 44.6667, -94.6833
+Marty, 45.3997, -94.3325
+Mary, 47.2000, -96.6167
+Marysburg, 44.2403, -93.8167
+Marysland, 45.2833, -95.8167
+Marystown, 44.7208, -93.5411
+Marysville, 45.1000, -93.9500
+Mason, 44.0667, -95.7667
+Matawan, 43.8581, -93.6358
+Mattson, 48.6894, -97.0733
+Mavie, 48.1447, -95.9386
+Max, 47.6147, -94.0678
+Maxwell, 44.8500, -96.0333
+Mayer, 44.8850, -93.8875
+Mayfield, 48.0000, -95.9000
+Mayhew, 45.7133, -94.1106
+Mayhew Lake, 45.6833, -94.0667
+Maynard, 44.9069, -95.4686
+Mayo Clinic, 44.0222, -92.4656
+Mayville(Mower), 43.7639, -92.9092
+Mayville(Houston), 43.6333, -91.4333
+Maywood, 45.7000, -93.8167
+Mazeppa, 44.2731, -92.5447
+McCauleyville, 46.4417, -96.7075
+McComber, 47.8489, -92.0653
+McCrea, 48.2333, -96.7000
+McDavitt, 47.3167, -92.6167
+McDonaldsville, 47.2833, -96.5000
+McGrath, 46.2400, -93.2722
+McGregor, 46.6067, -93.3136
+McIntosh, 47.6369, -95.8861
+McKee, 44.9167, -93.2333
+McKinley, 47.5128, -92.4108
+McNair, 47.3200, -91.6725
+McPherson, 44.0667, -93.8333
+Meadow, 46.6833, -94.9667
+Meadow Brook(Cass), 46.4833, -94.6333
+Meadow Brook(St Louis), 47.8628, -92.9544
+Meadowlands, 47.0719, -92.7322
+Meadows, 46.4167, -96.4667
+Medford, 44.1742, -93.2461
+Medicine Lake, 44.9953, -93.4153
+Medina, 45.0333, -93.5833
+Medo, 43.9833, -93.8333
+Mehurin, 44.9333, -96.4000
+Meire Grove, 45.6297, -94.8689
+Melby, 46.0639, -95.7356
+Melrose, 45.6747, -94.8072
+Melrude, 47.2456, -92.4169
+Melville, 44.7667, -94.8167
+Melvin, 47.6208, -96.3889
+Menahga, 46.7539, -95.0978
+Mendota, 44.8872, -93.1642
+Mendota Heights, 44.8836, -93.1381
+Mentor, 47.6983, -96.1408
+Mercy Hospital, 45.1828, -93.3694
+Meriden, 44.0742, -93.3867
+Merriam, 44.7378, -93.5942
+Merrifield, 46.4650, -94.1725
+Merton, 44.1461, -93.1464
+Mesaba, 47.5689, -92.1317
+Methodist Hospital, 44.9294, -93.3622
+Meyhew Lake, 45.5833, -94.1667
+Mickinock, 48.6667, -95.6833
+Middle River, 48.4342, -96.1639
+Middletown, 43.5500, -95.0833
+Middleville, 45.1167, -94.0667
+Midland Junction, 44.3211, -92.0014
+Midvale, 44.9717, -92.9947
+Midway(Becker), 46.7819, -95.2600
+Midway(Ramsey), 44.9500, -93.1667
+Midway(St Louis), 47.4911, -92.5256
+Midway Hospital, 44.9542, -93.1708
+Miesville, 44.6006, -92.8128
+Milaca, 45.7558, -93.6542
+Milan, 45.1086, -95.9131
+Mildred, 46.7550, -94.4644
+Milford, 44.3333, -94.8833
+Mille Lacs Indian Reservation, 46.0500, -92.4667
+Miller Hospital(St Louis), 46.7931, -92.0933
+Miller Hospital(Ramsey), 44.9486, -93.1039
+Millersburg, 44.4278, -93.3317
+Millerville, 46.0675, -95.5622
+Millstone Landing, 43.5392, -91.2756
+Millville, 44.2447, -92.2956
+Millwood, 45.7167, -94.7000
+Milo, 45.6833, -93.7000
+Miloma, 43.7628, -95.3681
+Milroy, 44.4178, -95.5531
+Milton, 44.1500, -92.7333
+Miltona, 46.0442, -95.2911
+Minden, 45.6000, -94.0833
+Mineral Springs Sanatorium, 44.5244, -92.8425
+Minerva, 47.3692, -95.3819
+Minneapolis, 44.9800, -93.2636
+Minnehaha, 44.9500, -93.2333
+Minneiska, 44.1950, -91.8717
+Minneola, 44.3167, -92.7333
+Minneota, 44.5667, -95.9833
+Minnesota, 44.5589, -95.9853
+Minnesota Boys Town, 45.5567, -93.1764
+Minnesota City, 44.0939, -91.7494
+Minnesota Falls, 44.7667, -95.5333
+Minnesota Lake, 43.8419, -93.8317
+Minnesota Transfer, 44.9500, -93.1833
+Minnetonka, 44.9133, -93.5031
+Minnetonka Beach, 44.9397, -93.5764
+Minnetonka Mills, 44.9411, -93.4417
+Minnetrista, 44.9333, -93.7000
+Minnewana, 46.6000, -93.3167
+Minnewaska, 45.6500, -95.4833
+Minnewawa, 46.6986, -93.2747
+Minnie, 48.3167, -95.2667
+Missabe Junction, 46.7594, -92.1283
+Missabe Mountain, 47.5000, -92.4833
+Mission, 46.5881, -94.0508
+Mission Creek, 45.9703, -92.9497
+Mission Farms, 45.0183, -93.4239
+Mitchell(St Louis), 47.4456, -92.8950
+Mitchell(Wilkin), 46.5000, -96.5833
+Mizpah, 47.9242, -94.2036
+Moe, 45.8833, -95.5833
+Moland(Steele), 44.1967, -93.0614
+Moland(Clay), 46.9333, -96.6167
+Moltke, 44.5833, -94.5667
+Money Creek, 43.8214, -91.6133
+Monroe, 44.2333, -95.6667
+Monson, 45.8833, -96.5000
+Monterey, 43.7500, -94.7167
+Montevideo, 44.9425, -95.7233
+Montgomery, 44.4389, -93.5811
+Monticello, 45.3056, -93.7939
+Montrose, 45.0650, -93.9108
+Moonshine, 45.5333, -96.3000
+Moore, 45.4667, -95.8000
+Moorhead, 46.8739, -96.7672
+Moose, 48.8500, -96.0667
+Moose Creek, 47.4667, -95.2333
+Moose Lake, 46.4542, -92.7617
+Moose Park, 47.7167, -94.3500
+Moose River, 48.5000, -95.8167
+Mora, 45.8769, -93.2936
+Moran, 46.2333, -94.8333
+Moranville, 48.8500, -95.3000
+Morcom, 47.7667, -93.0167
+Morgan, 44.4169, -94.9253
+Morgan Park, 46.6883, -92.2100
+Morken, 47.0167, -96.6333
+Morningside, 44.9167, -93.3333
+Morrill, 45.8389, -93.9694
+Morris, 45.5861, -95.9136
+Morrison, 46.6167, -93.6167
+Morristown, 44.2272, -93.4444
+Mort, 45.3606, -93.1853
+Morton, 44.5514, -94.9842
+Moscow, 43.7072, -93.0981
+Motley, 46.3367, -94.6458
+Moulton, 43.9000, -95.9833
+Mound, 44.9367, -93.6658
+Mound Prairie, 43.7833, -91.4333
+Mounds Park Hospital, 44.9478, -93.0542
+Mounds View, 45.1050, -93.2083
+Mount Morris, 45.9500, -93.8667
+Mount Olivet Home for the Aged, 44.9028, -93.2878
+Mount Pleasant, 44.4167, -92.3667
+Mount Royal, 46.8333, -92.1000
+Mount Sinai Hospital, 44.9603, -93.2631
+Mount Vernon, 44.1500, -91.9000
+Mountain Iron, 47.5325, -92.6233
+Mountain Lake, 43.9389, -94.9294
+Moyer, 45.2833, -95.9167
+Moylan, 48.2333, -95.7833
+Muckland, 43.7447, -93.1889
+Mudbaden, 44.6917, -93.6175
+Mudgett, 45.9333, -93.5833
+Mulligan, 44.1667, -94.8000
+Munch, 45.9333, -92.8333
+Munger, 46.8008, -92.3436
+Munson, 45.4500, -94.5833
+Murdock, 45.2239, -95.3931
+Murphy City, 47.5097, -91.3244
+Murray(Murray), 44.0667, -95.6500
+Murray(St Louis), 47.8161, -92.1803
+Murtaugh, 43.6000, -93.3281
+Muskoda, 46.8617, -96.4064
+Myrtle, 43.5644, -93.1633

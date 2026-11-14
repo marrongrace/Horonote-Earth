@@ -1,0 +1,209 @@
+Nakoda, 48.5150, -93.4581
+Nansen, 44.3503, -92.9317
+Nary, 47.3669, -94.8231
+Nashua, 46.0375, -96.3078
+Nashville Center, 43.8342, -94.3075
+Nashwauk, 47.3803, -93.1681
+Nassau, 45.0664, -96.4394
+Navarre, 44.9667, -93.6000
+Naytahwaush, 47.2628, -95.6258
+Nebish, 47.7714, -94.8472
+Nelson, 45.8894, -95.2639
+Nelson Park, 48.5000, -96.5833
+Nemadji, 46.4794, -92.5944
+Nereson, 48.6833, -95.9500
+Nerstrand, 44.3419, -93.0678
+Nesbit, 47.8833, -96.8000
+Ness, 46.9833, -92.7500
+Nessel, 45.6833, -93.0667
+Nett Lake, 48.1111, -93.0939
+Nett Lake Indian Reservation, 48.1111, -93.0939
+Nett River, 48.2000, -93.3667
+Nevada, 43.5500, -92.8667
+Nevis, 46.9653, -94.8392
+New Auburn, 44.6736, -94.2294
+New Avon, 44.4167, -95.1667
+New Brighton, 45.0656, -93.2017
+New Dosey, 46.1833, -92.3667
+New Duluth, 46.6600, -92.2261
+New Germany, 44.8842, -93.9703
+New Hartford, 43.8786, -91.4756
+New Haven, 44.1500, -92.6167
+New Hope, 45.0381, -93.3864
+New Independence, 46.9667, -92.4833
+New London, 45.3011, -94.9439
+New Maine, 48.4167, -96.3167
+New Market, 44.5731, -93.3533
+New Munich, 45.6303, -94.7533
+New Prague, 44.5433, -93.5758
+New Prairie, 45.6333, -95.7000
+New Richland, 43.8939, -93.4936
+New Rome, 44.5433, -94.0922
+New Scandia, 45.2500, -92.8333
+New Solum, 48.2333, -96.3000
+New Sweden, 44.4075, -94.1897
+New Trier, 44.6014, -92.9339
+New Ulm, 44.3125, -94.4603
+New York Mills, 46.5181, -95.3758
+Newburg, 43.5672, -91.8144
+Newfolden, 48.3556, -96.3297
+Newhouse, 43.5250, -91.7000
+Newport, 44.8664, -93.0003
+Newry, 43.8000, -93.0833
+Newton, 46.5000, -95.3333
+Nichols(Aitkin), 46.3269, -93.7847
+Nichols(St Loui), 47.5000, -92.6000
+Nickerson, 46.4108, -92.4992
+Nicollet, 44.2761, -94.1872
+Nicollet Landing, 44.2828, -94.2161
+Nicols, 44.8222, -93.2203
+Nicolville, 43.6747, -92.8781
+Nidaros, 46.2333, -95.5833
+Nielsville, 47.5275, -96.8147
+Nilsen, 46.3333, -96.4667
+Nimrod, 46.6389, -94.8806
+Nininger, 44.7692, -92.9019
+Nisswa, 46.5206, -94.2883
+Nodine, 43.9050, -91.4361
+Nokay Lake, 46.3833, -94.0000
+Nokomis, 44.9000, -93.2500
+Nopeming, 46.7000, -92.2667
+Norcross, 45.8692, -96.1972
+Norden, 48.1333, -96.3000
+Nordick, 46.4167, -96.5833
+Nore, 47.8167, -94.3500
+Norfolk, 44.6667, -94.9167
+Normandale, 44.8833, -93.3500
+Normania, 44.6467, -95.8083
+Normanna, 47.0167, -91.9833
+Norseland, 44.4128, -94.1164
+Norshor Junction, 47.3667, -91.6256
+North, 48.1333, -96.1667
+North Benton, 45.7794, -93.9458
+North Branch, 45.5114, -92.9800
+North Cross Lake, 46.6833, -94.1333
+North Douglas, 45.0167, -93.3500
+North Fork, 45.5500, -95.0667
+North Germany, 46.5833, -94.9667
+North Hero, 44.2333, -95.4167
+North Hibbing, 47.4167, -92.9167
+North Mankato, 44.1733, -94.0336
+North Memorial Hospital, 45.0139, -93.3219
+North Oaks, 45.1028, -93.0789
+North Ottawa, 45.9833, -96.2000
+North Prairie, 45.8008, -94.3492
+North Red River, 48.7667, -97.1000
+North Redwood, 44.5633, -95.0942
+North Saint Paul, 45.0125, -92.9917
+North Shore, 45.8028, -94.7378
+North Star(Brown), 44.2333, -95.0500
+North Star(Nicollet), 44.2906, -94.0792
+Northcote, 48.8453, -97.0008
+Northdale, 45.1786, -93.2800
+Northern, 47.5500, -94.8500
+Northern Pacific Hospital, 44.9578, -93.1642
+Northfield, 44.4583, -93.1614
+Northome, 47.8725, -94.2803
+Northrop, 43.7364, -94.4361
+Northside, 43.6500, -93.3667
+Northwest Terminal, 45.0167, -93.2500
+Northwestern Hospital, 44.9544, -93.2619
+Norton, 44.0667, -91.9000
+Norway Lake, 45.2836, -95.1347
+Norwegian Grove, 46.6092, -96.2203
+Norwood, 44.7681, -93.9272
+Nowthen, 45.3281, -93.4700
+Noyes, 48.9975, -97.2042
+Noyes Junction, 47.7947, -96.6053
+Numedal, 48.1500, -96.4333
+Nunda, 43.5500, -93.4833
+Nymore, 47.5333, -94.8167
+O'Brien, 47.8000, -94.7167
+Oak, 45.6333, -94.7000
+Oak Center, 44.3539, -92.4003
+Oak Grove, 45.3333, -93.3333
+Oak Island, 49.3167, -94.8500
+Oak Knoll, 44.9714, -93.4278
+Oak Lawn, 46.3667, -93.3333
+Oak Park(Benton), 45.6978, -93.8178
+Oak Park(Anoka), 45.1681, -93.2656
+Oak Park Heights, 45.0314, -92.7928
+Oak Terrace, 44.8961, -93.4703
+Oak Valley, 46.3333, -95.2167
+Oakbury, 44.9489, -92.9336
+Oakdale, 44.9833, -92.9667
+Oakhill, 45.9833, -94.8500
+Oakland, 43.6739, -93.0886
+Oakport, 46.9333, -96.7500
+Oakridge, 44.1208, -91.9197
+Oaks Corner, 48.4244, -94.9497
+Oakwood, 44.2333, -92.2500
+Odessa, 45.2597, -96.3286
+Odin, 43.8664, -94.7425
+Ogema, 47.1028, -95.9247
+Ogilvie, 45.8322, -93.4261
+Okabena, 43.7394, -95.3156
+Oklee, 47.8392, -95.8542
+Old Frontenac, 44.5261, -92.3319
+Old Mesaba, 47.5822, -92.1322
+Olga, 47.6872, -95.6633
+Olivia, 44.7764, -94.9894
+Olmsted Community Hospital, 44.0203, -92.4394
+Olney, 43.6333, -95.8667
+Omro, 44.7667, -96.0333
+Onamia, 46.0706, -93.6675
+Onega, 47.3186, -92.8272
+Oneka, 45.1667, -92.9500
+Oneota, 46.7464, -92.1658
+Onigum, 47.1094, -94.5444
+Onstad, 47.6333, -96.3833
+Opole, 45.7467, -94.3686
+Opstead, 46.2339, -93.4719
+Orange, 45.8000, -95.2000
+Orchard Garden, 44.7256, -93.2958
+Orchard Lake, 44.6833, -93.2500
+Oreland, 46.4508, -93.9186
+Org, 43.5814, -95.6514
+Orion, 43.8833, -92.2500
+Orleans, 48.9261, -96.9364
+Ormsby, 43.8483, -94.6975
+Orono, 44.9714, -93.6042
+Oronoco, 44.1661, -92.5347
+Orr, 48.0536, -92.8308
+Orrock, 45.4439, -93.7361
+Orth, 47.8392, -94.3150
+Orton, 46.6667, -94.8500
+Ortonville, 45.3047, -96.4444
+Orwell, 46.2333, -96.2000
+Osage, 46.9203, -95.2567
+Osakis, 45.8669, -95.1519
+Osborne, 43.8833, -96.1167
+Oscar, 46.4167, -96.2167
+Osceola, 44.8500, -94.8167
+Oshawa(Cass), 46.8039, -94.6386
+Oshawa(Nicollet), 44.3003, -94.1050
+Oshkosh, 44.7667, -96.1500
+Oslo(Dodge), 43.8922, -92.7383
+Oslo(Marshall), 48.1953, -97.1317
+Oslund, 47.6556, -94.0331
+Osseo, 45.1194, -93.4022
+Oster, 44.9800, -93.9819
+Ostrander, 43.6136, -92.4278
+Oteneagen, 47.4667, -94.1167
+Otisco, 43.9786, -93.5019
+Otisville, 45.2469, -92.7647
+Otrey, 45.3667, -96.3000
+Otsego, 45.2897, -93.6133
+Ottawa, 44.3822, -93.9456
+Otter Creek, 46.6253, -92.5386
+Ottertail, 46.4256, -95.5569
+Otto(Beltrami), 48.0881, -94.6072
+Otto(Otter Tail), 46.5000, -95.4667
+Outing, 46.8206, -93.9478
+Owanka, 44.1261, -95.6756
+Owatonna, 44.0839, -93.2258
+Owens, 47.8333, -92.6167
+Oxboro, 44.8264, -93.2917
+Oxford, 45.4500, -93.1667
+Oxlip, 45.5003, -93.3886
+Oylen, 46.5747, -94.7983

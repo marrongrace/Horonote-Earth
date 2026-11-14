@@ -1,0 +1,238 @@
+Cable, 45.5117, -94.0739
+Cairo, 44.5000, -94.6833
+Caledonia, 43.6347, -91.4967
+Calhoun Beach, 44.9497, -93.3153
+Callaway, 46.9825, -95.9094
+Calumet, 47.3219, -93.2767
+Cambria, 44.2386, -94.3142
+Cambridge, 45.5728, -93.2242
+Camden(Hennepin), 45.0167, -93.3000
+Camden(Carver), 44.8500, -93.9500
+Cameron, 44.0667, -96.0000
+Camp, 44.5167, -94.8000
+Camp Lake, 45.3667, -95.4500
+Camp Release, 44.9333, -95.8167
+Camp Ripley, 46.0703, -94.3281
+Campbell, 46.0978, -96.4044
+Canby, 44.7089, -96.2761
+Candor, 46.6667, -95.8500
+Canisteo(Dodge), 43.9833, -92.7333
+Canisteo(Itasca), 47.2878, -93.4539
+Cannon, 48.8500, -96.6000
+Cannon City, 44.3292, -93.2111
+Cannon Falls, 44.5069, -92.9053
+Cannon Lake, 44.2833, -93.2667
+Canosia, 46.9000, -92.2333
+Canton, 43.5297, -91.9297
+Canyon, 47.0400, -92.4706
+Cardigan Junction, 45.0528, -93.1092
+Caribou, 48.9825, -96.4492
+Carimona, 43.6603, -92.1575
+Carlisle, 46.3683, -96.1894
+Carlos, 45.9725, -95.2919
+Carlston, 43.7167, -93.5833
+Carlton, 46.6639, -92.4247
+Carmel, 48.2817, -95.4442
+Carmody, 45.6517, -93.4711
+Carnelian Junction, 45.1247, -92.8300
+Carp, 48.5053, -94.6469
+Carpenter, 47.8500, -93.2667
+Carpenters Corner, 48.1581, -96.4372
+Carrolton, 43.7167, -92.0167
+Carson, 43.9833, -95.0500
+Carsonville, 46.9333, -95.3500
+Carver, 44.7636, -93.6256
+Carver Beach, 44.8781, -93.5375
+Cascade, 44.0667, -92.4667
+Casco, 47.2581, -92.7017
+Casey, 45.0661, -94.4411
+Cashel, 45.2000, -95.5333
+Cashtown, 45.2986, -96.4389
+Casino, 46.4269, -94.5400
+Casperson, 48.5761, -95.6869
+Cass Lake, 47.3794, -94.6039
+Castle Danger, 47.1208, -91.5031
+Castle Rock, 44.5439, -93.1522
+Cazenovia, 44.0669, -96.3675
+Cedar, 45.3197, -93.2858
+Cedar Beach, 44.1617, -92.4647
+Cedar Grove, 44.8047, -93.2100
+Cedar Lake, 44.5872, -93.4400
+Cedar Mills, 44.9431, -94.5222
+Cedar Valley, 47.1167, -93.0000
+Cedarbend, 48.8333, -95.3833
+Cee Jefferson, 43.5142, -91.2803
+Celina, 47.8658, -93.0617
+Center, 46.5000, -94.1500
+Center City, 45.3939, -92.8164
+Center Creek, 43.7167, -94.3000
+Centerville(Winona), 43.9431, -91.6356
+Centerville(Anoka), 45.1631, -93.0556
+Central, 48.6994, -94.3428
+Central Lakes, 47.4667, -92.5500
+Central Point, 44.4667, -92.2833
+Ceresco, 43.9833, -94.3000
+Cerro Gordo, 45.0525, -96.0317
+Ceylon, 43.5336, -94.6314
+Chamberlain, 46.9053, -94.7214
+Champion, 46.0667, -96.3333
+Champlin, 45.1889, -93.3972
+Chanarambie, 43.9833, -96.0000
+Chandler, 43.9292, -95.9469
+Chanhassen, 44.8622, -93.5306
+Charlestown, 44.2333, -95.1500
+Charlesville, 45.9492, -96.2683
+Chaska, 44.7894, -93.6019
+Chatfield, 43.8456, -92.1889
+Chatham, 45.1667, -93.9500
+Chemolite, 44.8333, -92.9333
+Chengwatana, 45.8667, -92.8667
+Cherry, 47.4008, -92.7069
+Cherry Grove(Goodhue), 44.2333, -92.8667
+Cherry Grove(Fillmore), 43.5875, -92.2886
+Chester, 44.0069, -92.3450
+Chicago Bay, 47.8333, -89.9667
+Chicago Lake, 44.9333, -93.2500
+Chickamaw Beach, 46.7436, -94.3850
+Chief, 47.3667, -95.8667
+Childs, 46.0656, -96.5342
+Chippewa City, 47.7597, -90.3019
+Chippewa Falls, 45.5333, -95.3333
+Chisago City, 45.3736, -92.8897
+Chisago Lake, 45.3667, -92.8500
+Chisholm, 47.4892, -92.8836
+Choice, 43.6597, -91.7906
+Chokio, 45.5717, -96.1731
+Chowens Corner, 44.9667, -93.5000
+Christiania, 43.8000, -95.0833
+Churchill(Chippewa), 45.0219, -95.8667
+Churchill(Renville), 44.8183, -94.6706
+Circle Pines, 45.1486, -93.1514
+City, 44.0333, -92.4667
+Civic Center, 46.7833, -92.1000
+Clappers, 47.4356, -91.9647
+Clara City, 44.9550, -95.3661
+Claremont, 44.0444, -92.9975
+Clarissa, 46.1303, -94.9483
+Clarkfield, 44.7906, -95.8083
+Clarks Grove, 43.7639, -93.3289
+Claybank, 44.4417, -92.6317
+Clayton, 43.6333, -92.6333
+Clear Lake, 47.6400, -91.1194
+Clearbrook, 47.6919, -95.4308
+Clearwater, 45.4194, -94.0486
+Clements, 44.3817, -95.0522
+Clementson, 48.6908, -94.4361
+Cleveland, 44.3256, -93.8375
+Cliff, 44.9167, -93.1167
+Clifton, 46.8814, -91.9203
+Climax, 47.6078, -96.8167
+Clinton, 45.4603, -96.4333
+Clinton Falls, 44.1389, -93.2467
+Clitherall, 46.2750, -95.6308
+Clontarf, 45.3764, -95.6783
+Cloquet, 46.7217, -92.4592
+Clotho, 46.0197, -95.0425
+Clough, 46.1500, -94.5000
+Clover Leaf, 48.1333, -95.9167
+Cloverdale, 46.0122, -92.7397
+Cloverton, 46.1681, -92.3194
+Clow, 48.9333, -97.0000
+Clyde, 43.8947, -91.9792
+Coates, 44.7172, -93.0344
+Cobden, 44.2864, -94.8486
+Coffee Pot Landing, 47.3494, -95.1828
+Cohasset, 47.2636, -93.6200
+Coin, 45.7350, -93.3064
+Cokato, 45.0758, -94.1897
+Colby, 47.5419, -92.1697
+Cold Spring, 45.4558, -94.4286
+Coleraine, 47.2889, -93.4275
+Coleraine Junction, 46.9672, -92.5722
+Colfax, 45.3667, -95.0667
+Collegeville, 45.5944, -94.3628
+Collins, 44.7667, -94.4333
+Collinwood, 45.0333, -94.3000
+Collis, 45.6467, -96.4253
+Cologne, 44.7717, -93.7811
+Columbia, 47.5500, -95.6167
+Columbia Heights, 45.0408, -93.2628
+Columbus, 45.2667, -93.0833
+Colvin, 47.3333, -92.2167
+Comfort, 45.8667, -93.2000
+Comfrey, 44.1103, -94.9044
+Commerce, 44.9667, -93.2667
+Como(Marshall), 48.5000, -96.0667
+Como(Ramsey), 45.0000, -93.1833
+Compton, 46.4167, -95.2167
+Comstock, 46.6594, -96.7481
+Comus, 44.3850, -93.2572
+Conception, 44.2656, -92.1097
+Concord, 44.1475, -92.8361
+Conger, 43.6150, -93.5281
+Connelly, 46.3333, -96.5667
+Constance, 45.2553, -93.2853
+Cook, 47.8525, -92.6894
+Cooley, 47.3583, -93.1919
+Coon Creek(Anoka), 45.1517, -93.3008
+Coon Creek(Lyon), 44.3167, -96.0167
+Coon Lake Beach, 45.3081, -93.1558
+Coon Rapids, 45.1200, -93.2875
+Coopers Corner, 45.3992, -93.2344
+Copas, 45.2347, -92.7644
+Copley, 47.5500, -95.3833
+Corcoran, 45.0953, -93.5472
+Cordova, 44.3364, -93.6714
+Corinna, 45.2833, -94.0833
+Cormant, 47.8667, -94.6167
+Cormorant, 46.7306, -96.0653
+Corning, 43.7611, -93.0492
+Corona, 46.6706, -92.7661
+Correll, 45.2308, -96.1592
+Cort, 47.3328, -93.2469
+Corvuso, 44.9361, -94.6044
+Cosmos, 44.9361, -94.6964
+Cottage Grove, 44.8278, -92.9436
+Cottage Wood, 44.9000, -93.5667
+Cotton, 47.1694, -92.4761
+Cottonwood, 44.6089, -95.6739
+Courtland, 44.2683, -94.3400
+Cove, 46.1086, -93.6183
+Craigville, 47.9031, -93.6128
+Cramer, 47.5272, -91.0900
+Crane Lake, 48.2667, -92.4883
+Crate, 45.0000, -95.4333
+Credit River, 44.6744, -93.3789
+Crescent Beach, 44.9144, -93.5983
+Cresson, 44.1111, -96.4350
+Croftville, 47.7650, -90.2756
+Croke, 45.7167, -96.4333
+Cromwell, 46.6808, -92.8839
+Crooked Creek, 43.6000, -91.3333
+Crooked Lake, 46.8333, -94.0000
+Crooks, 44.8500, -95.1833
+Crookston, 47.7742, -96.6078
+Crookston Junction, 47.7564, -96.6219
+Crosby, 46.4822, -93.9575
+Crosby Beach, 46.4717, -93.9494
+Cross Lake, 46.6594, -94.1136
+Crow Lake, 45.4500, -95.0667
+Crow River, 45.2439, -94.7242
+Crow Wing, 46.2800, -94.2922
+Crow Wing Lake, 46.8500, -94.8667
+Crown, 45.4447, -93.4600
+Crystal, 45.0328, -93.3600
+Crystal Bay(Lake), 47.6167, -91.2167
+Crystal Bay(Hennepin), 44.9531, -93.5761
+Crystal Spring, 44.0747, -91.9861
+Cuba, 46.9333, -96.1167
+Culdrum, 45.9833, -94.5667
+Culver, 46.9258, -92.5583
+Cummingsville, 43.8747, -92.2600
+Current Lake, 44.1386, -95.9431
+Currie, 44.0714, -95.6661
+Cushing, 46.1397, -94.5767
+Cusson, 48.1019, -92.8428
+Custer, 44.2333, -95.7833
+Cuyuna, 46.5169, -93.9228
+Cyrus, 45.6147, -95.7378

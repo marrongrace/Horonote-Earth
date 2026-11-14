@@ -1,0 +1,292 @@
+Fahlun, 45.0167, -94.9333
+Fairbanks, 47.3706, -91.9264
+Fairfax, 44.5292, -94.7206
+Fairfield, 45.3839, -95.9733
+Fairhaven, 45.3217, -94.2111
+Fairland, 48.4675, -94.1544
+Fairmont, 43.6522, -94.4608
+Fairview Hospital, 44.9681, -93.2381
+Fairview-Southdale Hospital, 44.8861, -93.3267
+Faith, 47.2869, -96.0986
+Falcon Heights, 44.9917, -93.1661
+Falk, 47.4500, -95.4833
+Fall Lake, 48.0000, -91.6500
+Falls Junction, 48.6028, -93.3428
+Falun, 48.7500, -95.5500
+Fanny, 47.9000, -96.6667
+Farden, 47.3667, -94.7500
+Faribault, 44.2950, -93.2686
+Farley, 48.1333, -96.8333
+Farm Island, 46.4667, -93.7333
+Farming, 45.5153, -94.5978
+Farmington, 44.6403, -93.1433
+Farris, 47.3767, -94.7025
+Farwell, 45.7522, -95.6169
+Faunce, 48.5931, -94.9522
+Fawn Lake, 46.2333, -94.7167
+Faxon, 44.6500, -93.8333
+Fayal, 47.4333, -92.4833
+Featherstone, 44.5000, -92.6000
+Federal Dam, 47.2453, -94.2108
+Feeley, 47.1667, -93.2833
+Felton, 47.0786, -96.5061
+Fenton, 43.9000, -95.8833
+Fergus Falls, 46.2831, -96.0772
+Fergus Falls State Hospital, 46.2997, -96.0811
+Fern, 47.3667, -95.1167
+Fernando, 44.6517, -94.4575
+Fertile, 47.5361, -96.2800
+Field, 47.8500, -92.7500
+Fieldon, 43.9833, -94.4333
+Fifty Lakes, 46.7392, -94.0928
+Fillmore, 43.7486, -92.2681
+Fine Lakes, 46.8000, -92.8833
+Finkle, 46.8139, -96.7469
+Finland, 47.4147, -91.2489
+Finlayson, 46.2017, -92.9158
+Fish Lake, 45.5833, -93.0833
+Fisher, 47.8003, -96.8011
+Five Corners, 46.8078, -92.2797
+Five Points, 45.6078, -94.2608
+Flaming, 47.4567, -96.2703
+Flensburg, 45.9553, -94.5347
+Fletcher, 45.1725, -93.5411
+Flom, 47.1661, -96.1306
+Floodwood, 46.9292, -92.9194
+Flora, 44.6667, -95.1667
+Florence, 44.2372, -96.0517
+Florenton, 47.6544, -92.4219
+Florian, 48.4422, -96.6278
+Florida, 44.7667, -96.3833
+Flowing, 47.0167, -96.5167
+Foldahl, 48.3333, -96.5667
+Folden, 46.3500, -95.4333
+Foley, 45.6647, -93.9094
+Folsom, 46.0667, -95.0833
+Fond du Lac, 46.6597, -92.2731
+Fond du Lac Hospital, 46.7136, -92.4878
+Fond Du Lac Indian Reservation, 46.7167, -92.5333
+Forada, 45.7922, -95.3553
+Forbes, 47.3717, -92.6039
+Ford, 46.1167, -93.2333
+Fordson, 44.9167, -93.2333
+Forest, 44.4167, -93.3333
+Forest Center, 47.7950, -91.3075
+Forest City, 45.2064, -94.4661
+Forest Grove, 47.9767, -94.2311
+Forest Lake, 45.2789, -92.9850
+Forest Mills, 44.2978, -92.6406
+Forest Prairie, 45.2833, -94.4500
+Foreston, 45.7344, -93.7103
+Forestville, 43.6428, -92.2147
+Fork, 48.4167, -97.1000
+Forsman, 47.7081, -92.5786
+Fort Ripley, 46.1661, -94.3600
+Fort Saint Charles, 49.3619, -94.9806
+Fort Snelling, 44.9000, -93.2333
+Fortier, 44.6833, -96.4000
+Fosston, 47.5764, -95.7511
+Fossum, 47.2386, -96.1758
+Foster, 45.4164, -96.6756
+Fountain, 43.7400, -92.1361
+Fountain Prairie, 44.1500, -96.2500
+Four Corners, 46.8533, -92.2800
+Four Town, 48.2811, -95.3353
+Fox, 48.8389, -95.8986
+Fox Lake, 43.6767, -94.6586
+Foxhome, 46.2772, -96.3097
+Frames Landing Campground, 46.6297, -94.8689
+Framnas, 45.6167, -95.8167
+Franconia, 45.3703, -92.6914
+Frankford, 43.7333, -92.5167
+Frankfort, 45.2167, -93.6833
+Franklin(Renville), 44.5283, -94.8803
+Franklin(St Louis), 47.5378, -92.5189
+Frazee, 46.7281, -95.7006
+Fredenberg, 46.9739, -92.2169
+Freeborn, 43.7658, -93.5639
+Freeburg, 43.6111, -91.3642
+Freedhem, 46.0564, -94.2083
+Freedom, 43.9833, -93.7000
+Freeland, 44.8500, -96.2667
+Freeman(Freeborn), 43.5500, -93.3500
+Freeman(Polk), 47.8194, -96.7606
+Freeport, 45.6628, -94.6897
+Freiheit Spring, 43.7058, -92.3172
+Fremont, 43.9139, -91.8989
+French(Otter Tail), 46.2881, -96.2014
+French(St Louis), 47.6667, -93.0167
+French Lake, 45.2000, -94.1853
+French River, 46.8981, -91.8969
+Friberg, 46.4167, -95.9667
+Fridley, 45.0861, -93.2631
+Friendship, 44.7667, -95.8000
+Friesland, 46.0856, -92.9294
+Frogner, 46.5542, -92.3064
+Frohn, 47.4500, -94.7333
+Frontenac, 44.5111, -92.3564
+Frontier, 48.6564, -94.2564
+Frost, 43.5864, -93.9264
+Fruitville, 45.7131, -94.0792
+Fulda, 43.8706, -95.6000
+Funkley, 47.7836, -94.4311
+Gail Lake, 46.7833, -94.2000
+Galena, 43.8000, -94.6833
+Gales, 44.3333, -95.5333
+Gappas Landing Campground, 48.4394, -93.0225
+Garden, 47.5500, -96.1333
+Garden City, 44.0472, -94.1647
+Garfield, 45.9408, -95.4917
+Garnes, 47.9064, -95.8806
+Garrison, 46.2944, -93.8267
+Garvin, 44.2144, -95.7556
+Gary(Norman), 47.3714, -96.2672
+Gary(St Louis), 46.6703, -92.2256
+Gates Corner(Beltrami), 48.4528, -95.3189
+Gates Corner(Koochiching), 48.2192, -94.1025
+Gatzke, 48.4244, -95.7839
+Gaylord, 44.5531, -94.2203
+Gem Lake, 45.0575, -93.0322
+Gemmell, 47.9733, -94.1236
+Geneva, 43.8233, -93.2675
+Gennessee, 45.1167, -94.8167
+Genoa(Olmsted), 44.1100, -92.6072
+Genoa(St Louis), 47.4644, -92.5086
+Genola, 45.9603, -94.1161
+Gentilly, 47.7892, -96.4489
+Georgetown, 47.0800, -96.7939
+Georgeville, 45.4286, -94.9269
+Germania, 46.2333, -94.9500
+Germantown, 44.1500, -95.1667
+Gervais, 47.8833, -96.1667
+Getty, 45.6333, -94.9500
+Gheen, 47.9681, -92.8081
+Gheen Corner, 47.9642, -92.8289
+Ghent, 44.5128, -95.8908
+Gibbon, 44.5339, -94.5261
+Giese, 46.2161, -93.1164
+Gilbert, 47.4889, -92.4647
+Gilchrist, 45.4500, -95.3167
+Gilfillan, 44.4592, -94.9942
+Gillette State Hospital, 44.9817, -93.0578
+Gillford, 44.3333, -92.3667
+Gilman, 45.7353, -93.9489
+Gilmanton, 45.7000, -93.9667
+Girard(Otter Tail), 46.3667, -95.5833
+Girard(Polk), 47.7286, -96.6739
+Gladstone, 45.0017, -93.0303
+Glasgow, 44.3333, -92.1333
+Glen, 46.4186, -93.5150
+Glen Lake, 44.9033, -93.4672
+Glen Lake State Sanatorium, 44.8931, -93.4642
+Glencoe, 44.7692, -94.1514
+Glendale, 48.0325, -92.8308
+Glendorado, 45.5781, -93.7694
+Glenville, 43.5725, -93.2811
+Glenwood, 45.6503, -95.3894
+Glenwood Hills Hospital, 44.9964, -93.3308
+Glenwood Junction, 44.9872, -93.3325
+Glory, 46.4175, -93.6003
+Gloster, 45.0014, -93.0442
+Gluek(Wesota Station), 44.9853, -95.4731
+Glyndon, 46.8753, -96.5786
+Gnesen, 47.0000, -92.1167
+Godahl, 44.1089, -94.6397
+Godfrey, 47.6333, -96.2333
+Golden Hill, 43.9883, -92.4681
+Golden Hills, 44.9500, -93.3500
+Golden Valley, 45.0097, -93.3489
+Goldenrod, 47.0944, -95.2339
+Gonvick, 47.7375, -95.5133
+Good Thunder, 44.0047, -94.0656
+Goodhue, 44.4006, -92.6236
+Goodland, 47.1619, -93.1356
+Goodridge, 48.1433, -95.8092
+Goodview, 44.0625, -91.6956
+Goose Prairie, 47.0167, -96.2667
+Gordon, 45.8833, -95.0667
+Gordonsville, 43.5128, -93.2533
+Gorman, 46.6667, -95.6000
+Gorton, 45.8833, -96.1833
+Gotha, 44.7172, -93.7883
+Gould, 47.1833, -94.2000
+Gowan, 46.8642, -92.8469
+Grace, 45.1167, -95.5500
+Gracelock, 45.0506, -95.5803
+Graceton, 48.7411, -94.8361
+Graceville, 45.5692, -96.4342
+Graff, 46.5725, -94.5467
+Grafton, 44.6667, -94.5667
+Graham, 45.7667, -94.0833
+Graham Lakes, 43.7000, -95.4667
+Grainwood, 44.7222, -93.4392
+Granada, 43.6956, -94.3475
+Granby, 44.3500, -94.2000
+Grand Falls, 48.1986, -93.7925
+Grand Forks, 47.9833, -97.0333
+Grand Lake, 46.8667, -92.4678
+Grand Marais, 47.7506, -90.3342
+Grand Meadow, 43.7058, -92.5719
+Grand Plain, 48.2167, -95.9167
+Grand Portage, 47.9639, -89.6847
+Grand Portage Indian Reservation, 47.9667, -89.7000
+Grand Prairie, 43.5500, -96.0000
+Grand Rapids, 47.2372, -93.5300
+Grand View Heights, 46.6133, -95.5228
+Grandview, 44.5000, -95.9167
+Grandy, 45.6353, -93.1950
+Grange, 44.0667, -96.2500
+Granger, 43.5022, -92.1386
+Granite, 46.0333, -94.0167
+Granite Falls, 44.8100, -95.5453
+Granite Ledge, 45.7667, -93.8167
+Granite Rock, 44.4167, -95.4167
+Grant(Washington), 45.0833, -92.9000
+Grant(St Louis), 47.4933, -92.7972
+Grant Valley, 47.4500, -94.9833
+Granville, 48.8500, -96.8667
+Grass Lake, 45.7781, -93.1675
+Grasston, 45.7947, -93.1489
+Grattan, 47.8000, -94.1000
+Gray, 43.9833, -96.2333
+Grayling, 46.6292, -93.2106
+Greaney, 47.9672, -93.0208
+Great Bend, 43.9000, -95.1500
+Great Scott, 47.5333, -92.7333
+Greater Leech Lake Indian Reservation, 47.3333, -94.2000
+Greely, 45.7447, -93.0681
+Green Isle, 44.6792, -94.0081
+Green Lake, 45.2000, -94.9500
+Green Meadow, 47.3667, -96.3833
+Green Prairie, 46.0500, -94.3667
+Green Valley, 44.5269, -95.7569
+Greenbush, 48.7006, -96.1814
+Greenfield, 45.0500, -93.6333
+Greenland, 44.2067, -93.7272
+Greenleaf, 44.9964, -94.4992
+Greenleafton, 43.5803, -92.2092
+Greenvale, 44.5000, -93.2167
+Greenview, 47.6258, -96.5603
+Greenwald, 45.6017, -94.8597
+Greenway, 47.3167, -93.2833
+Greenwood, 44.9150, -93.5531
+Greenwood Junction, 47.4408, -91.5797
+Gregory(Mahnomen), 47.4500, -95.8667
+Gregory(Morrison), 45.9394, -94.3561
+Grey Cloud Island, 44.8000, -93.0000
+Grey Eagle, 45.8253, -94.7464
+Grimstad, 48.6833, -95.7833
+Grogan, 44.0164, -94.5364
+Groningen, 46.1508, -92.9239
+Grove, 45.6333, -94.8333
+Grove City, 45.1506, -94.6828
+Grove Lake, 45.6142, -95.1572
+Grove Park, 47.7000, -96.1667
+Groveland, 44.9417, -93.4858
+Grow, 45.2500, -93.3333
+Grygla, 48.3008, -95.6181
+Guckeen, 43.6514, -94.2247
+Gully, 47.7686, -95.6225
+Gunn, 47.2161, -93.4750
+Gutches Grove, 45.9442, -94.9592
+Guthrie, 47.3003, -94.7908

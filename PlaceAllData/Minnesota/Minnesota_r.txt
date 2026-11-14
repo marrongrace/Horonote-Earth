@@ -1,0 +1,171 @@
+Rabbit Lake, 46.5333, -93.8500
+Racine, 43.7761, -92.4828
+Radium, 48.2294, -96.6133
+Rail Prairie, 46.2667, -94.4000
+Rainy Junction, 47.4986, -92.5450
+Ramey, 45.8353, -93.9375
+Ramsey(Mower), 43.7097, -92.9694
+Ramsey(Anoka), 45.2667, -93.4333
+Ramshaw, 47.4275, -92.5811
+Randall, 46.0911, -94.5033
+Randolph, 44.5261, -93.0197
+Ranier, 48.6131, -93.3486
+Ransom, 43.5439, -95.7939
+Ranum, 47.4556, -96.1314
+Rapidan, 44.0944, -94.0683
+Rasset, 45.1522, -93.9917
+Rauch, 47.9589, -93.1456
+Ravenna, 44.6833, -92.7500
+Ray, 48.4108, -93.2103
+Raymond, 45.0158, -95.2383
+Reading, 43.7036, -95.7128
+Reads Landing, 44.4022, -92.0789
+Red Eye, 46.6833, -95.1000
+Red Lake, 47.8764, -95.0167
+Red Lake Falls, 47.8822, -96.2739
+Red Lake Indian Reservation, 47.8833, -95.0167
+Red Rock(Cook), 47.9208, -89.7383
+Red Rock(Mower), 43.7167, -92.8667
+Red Wing, 44.5625, -92.5336
+Redby, 47.8786, -94.9128
+Redore, 47.4436, -92.8989
+Redpath, 45.9000, -96.3167
+Redtop, 46.1761, -93.3972
+Redwood Falls, 44.5394, -95.1167
+Reformatory, 45.5333, -94.2167
+Regal, 45.4072, -94.8453
+Reine, 48.5667, -95.5333
+Reiner, 48.1333, -95.6667
+Reis, 47.5500, -96.5167
+Remer, 47.0561, -93.9158
+Rendsville, 45.7167, -95.9333
+Reno(Houston), 43.6011, -91.2750
+Reno(St Louis), 47.4181, -91.9503
+Renova, 43.7386, -92.7656
+Renville, 44.7892, -95.2114
+Revere, 44.2239, -95.3642
+Reynolds, 45.9833, -94.9667
+Rheiderland, 44.9333, -95.3000
+Rhinehart, 47.9000, -97.0167
+Rice, 45.7519, -94.2200
+Rice Junction, 45.5333, -94.2167
+Rice Lake(St Louis), 46.8667, -92.1167
+Rice Lake(Steee), 44.1106, -93.0458
+Rice Lake(Wright), 45.0142, -94.1442
+Rice River, 46.4833, -93.2333
+Riceford, 43.5761, -91.7267
+Riceland, 43.7167, -93.2000
+Riceville, 47.0167, -96.0000
+Rich Valley(Dakota), 44.7461, -93.0436
+Rich Valley(McLeod), 44.8500, -94.1833
+Richards, 46.8361, -95.9119
+Richardson, 46.1167, -93.8833
+Richardville, 48.9333, -96.8667
+Richdale, 46.5547, -95.4747
+Richfield, 44.8833, -93.2828
+Richland, 44.2333, -93.1000
+Richmond, 45.4542, -94.5181
+Richville, 46.5067, -95.6253
+Richwood, 46.9747, -95.8225
+Ridge, 47.6225, -92.0358
+Ridgely, 44.4333, -94.6667
+Ridgeway, 43.9119, -91.5600
+Riley, 47.3631, -92.9297
+Rindal, 47.4994, -96.1311
+Ringe, 44.1081, -92.3992
+River, 47.9500, -96.1667
+River Falls, 48.0000, -96.1500
+River Junction, 43.8461, -91.2972
+River Point, 43.9392, -93.2450
+River Valley, 48.0203, -95.7819
+Riverdale, 44.0667, -94.5667
+Riverside(Lac Qui Parle), 44.9333, -96.0333
+Riverside(Hennepin), 44.9667, -93.2667
+Riverside(St Louis), 46.7100, -92.2039
+Riverside Heights, 43.6647, -94.1103
+Riverton, 46.4600, -94.0517
+Riverview, 44.9167, -93.0833
+Roan, 48.1500, -96.7431
+Robbin, 48.5728, -97.1422
+Robbinsdale, 45.0322, -93.3383
+Roberts, 46.5000, -96.6833
+Robinson, 47.8594, -92.0417
+Rochert, 46.8600, -95.6875
+Rochester, 44.0217, -92.4697
+Rochester State Hospital, 44.0239, -92.4367
+Rock, 44.0667, -96.1167
+Rock Creek, 45.7575, -92.9622
+Rock Dell, 43.9208, -92.6383
+Rock Lake, 44.2333, -95.9000
+Rockford, 45.0883, -93.7342
+Rocksbury, 48.0667, -96.1500
+Rockville, 45.4719, -94.3406
+Rockwell, 47.1833, -96.3833
+Rogers(Hennepin), 45.1889, -93.5528
+Rogers(Le Sueur), 44.2606, -93.5783
+Roland, 47.9442, -95.7786
+Rollag, 46.7400, -96.2378
+Rolling Forks, 45.4500, -95.4333
+Rolling Green, 43.6333, -94.5500
+Rollingstone, 44.0978, -91.8167
+Rollins, 47.2567, -91.8450
+Rollis, 48.4167, -95.8000
+Rome, 43.5500, -93.9333
+Ronald, 46.4472, -93.0550
+Ronneby, 45.6814, -93.8644
+Roome, 47.7000, -96.8000
+Roosevelt, 48.8036, -95.0967
+Rosby, 47.4100, -94.8064
+Roscoe(Goodhue), 44.2253, -92.7714
+Roscoe(Stearns), 45.4339, -94.6394
+Roscoe Center, 44.2611, -92.7269
+Rose City, 46.0775, -95.1664
+Rose Creek, 43.6036, -92.8317
+Rose Dell, 43.8000, -96.3667
+Rose Hill, 43.9667, -95.4000
+Roseau, 48.8461, -95.7625
+Rosebud, 47.5500, -95.7333
+Rosedale, 47.3167, -95.9667
+Roseland, 44.9353, -95.1050
+Rosemount, 44.7394, -93.1256
+Rosen, 45.1536, -96.4011
+Rosendale, 45.0406, -94.7064
+Roseport, 44.7758, -93.0494
+Roseville, 45.0061, -93.1564
+Rosewood, 48.1894, -96.2900
+Rosing, 46.3000, -94.4333
+Ross(Polk), 47.7975, -96.7394
+Ross(Roseau), 48.9061, -95.9200
+Ross Lake, 46.6667, -93.8500
+Rossburg, 46.5353, -93.5797
+Rost, 43.6453, -95.2944
+Rosy, 47.6581, -94.3058
+Rothman, 47.7661, -91.9642
+Rothsay, 46.4750, -96.2803
+Round Grove, 44.6833, -94.4333
+Round Lake, 43.5406, -95.4681
+Round Prairie, 45.9044, -94.8853
+Rowena, 44.3897, -95.1519
+Rowland, 44.8603, -93.4253
+Roy Lake, 47.3253, -95.5514
+Royal, 44.5000, -96.2500
+Royalton, 45.8300, -94.2933
+Ruby Junction, 47.4350, -92.9192
+Runeberg, 46.7667, -95.2167
+Rush City, 45.6856, -92.9653
+Rush Lake, 46.5167, -95.6167
+Rush Point, 45.6586, -93.1039
+Rush River, 44.4672, -94.0506
+Rushford, 43.8083, -91.7528
+Rushford Village, 43.8067, -91.7914
+Rushmore, 43.6194, -95.8003
+Rushseba, 45.6833, -92.9333
+Ruskin, 44.2675, -93.1617
+Russell, 44.3192, -95.9514
+Russia, 47.6333, -96.5167
+Rustad, 46.7333, -96.7444
+Ruthton, 44.1767, -96.1036
+Rutland, 43.7167, -94.4167
+Rutledge, 46.2644, -92.8672
+Ryan, 44.4239, -92.7153
+Ryan Village, 47.3589, -94.2889

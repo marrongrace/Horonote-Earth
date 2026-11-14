@@ -1,0 +1,344 @@
+Sabin, 46.7797, -96.6528
+Saco, 44.0044, -93.2661
+Sacred Heart, 44.7869, -95.3514
+Saga Hill, 44.9547, -93.6397
+Saginaw, 46.8592, -92.4442
+Sago, 47.0667, -93.2833
+Salem Corners, 43.9858, -92.6078
+Salida, 45.3567, -93.8192
+Salo, 46.5500, -93.1167
+Salo Corner, 47.6611, -92.2778
+Salol, 48.8661, -95.5706
+San Francisco, 44.7000, -93.7167
+Sanborn, 44.2097, -95.1283
+Sand Creek, 44.6833, -93.5833
+Sand Lake, 47.6333, -93.9667
+Sanders, 48.0667, -96.3000
+Sandnes, 44.6667, -95.6500
+Sandstone, 46.1311, -92.8672
+Sandsville, 48.1333, -96.9500
+Sandy, 47.6667, -92.5000
+Sanford, 45.9667, -95.9500
+Sanford Memorial Hospital, 44.6408, -93.1342
+Santiago, 45.5392, -93.8197
+Saratoga, 43.8919, -92.0697
+Sargeant, 43.8053, -92.8019
+Sartell, 45.6217, -94.2067
+Sauk Centre, 45.7375, -94.9522
+Sauk Rapids, 45.5919, -94.1658
+Saum, 47.9747, -94.6767
+Savage, 44.7792, -93.3361
+Savannah(Becker), 47.1000, -95.2333
+Savannah(Itasca), 47.3167, -93.4000
+Sawbill Landing, 47.7153, -91.2678
+Sawyer, 46.6714, -92.6331
+Sax, 47.2117, -92.6028
+Scambler, 46.6667, -96.1167
+Scandia(Washington), 45.2536, -92.8056
+Scandia(Polk), 47.5333, -96.6333
+Scandia Valley, 46.2500, -94.5667
+Scanlon, 46.7067, -92.4281
+Schechs Mill, 43.6675, -91.5808
+Schley, 47.3689, -94.4158
+Schoolcraft, 47.2833, -94.9833
+Schroeder, 47.5444, -90.8917
+Sciota, 44.5167, -93.0667
+Scott(Stevens), 45.5500, -96.0500
+Scott(St Louis), 47.4497, -92.7694
+Scott Junction, 47.4083, -91.6103
+Scotts Corner, 46.5981, -92.4286
+Scranton, 47.4258, -92.9489
+Scribner, 47.5344, -95.0122
+Seaforth, 44.4772, -95.3261
+Searles, 44.2286, -94.4344
+Seavey, 46.2833, -93.3667
+Sebeka, 46.6300, -95.0886
+Section Thirty, 47.9103, -91.7803
+Sedan, 45.5756, -95.2478
+Sedil, 44.7533, -92.9731
+Seely, 43.5500, -93.8833
+Selma, 44.0667, -94.9167
+Severance, 44.5000, -94.5500
+Seward, 43.8167, -95.6500
+Shafer, 45.3869, -92.7475
+Shakopee, 44.7981, -93.5267
+Shamrock, 46.7167, -93.2167
+Shanty Town, 43.9742, -92.6397
+Shaokatan, 44.4167, -96.3833
+Sharon, 44.4167, -93.8167
+Shaw, 47.1133, -92.3528
+Sheffield Mill, 44.2833, -93.2667
+Shelburne, 44.2500, -96.0333
+Shelby, 43.8833, -94.1833
+Sheldon, 43.6783, -91.5931
+Shell Lake, 46.9333, -95.4833
+Shell River, 46.7667, -94.9833
+Shell Rock, 43.5500, -93.2167
+Shelly, 47.4581, -96.8181
+Sheltering Arms Hospital, 44.9244, -93.2058
+Shephard, 46.2139, -94.1039
+Sherack, 48.0208, -96.7814
+Sherburn, 43.6522, -94.7267
+Sheridan, 44.5000, -95.2833
+Sherman(Redwood), 44.4833, -94.9333
+Sherman(McLeod), 44.9478, -94.1333
+Shermans Corner, 47.7792, -92.6561
+Sherwood, 47.4517, -92.7408
+Sheshebee, 46.7047, -93.2422
+Shetek, 44.1667, -95.6333
+Shevlin, 47.5303, -95.2583
+Shible, 45.2833, -96.0500
+Shieldsville, 44.3661, -93.4086
+Shingobee, 47.0500, -94.6000
+Shirley, 47.8689, -96.6142
+Shooks, 47.8742, -94.4381
+Shoreham, 46.7575, -95.8986
+Shoreview, 45.0792, -93.1469
+Shorewood, 44.9008, -93.5889
+Shotley, 48.0489, -94.6386
+Shovel Lake, 46.9575, -93.7533
+Side Lake, 47.6653, -93.0156
+Siegel, 45.0156, -92.8067
+Sigel, 44.2500, -94.5500
+Sigsbee, 43.6933, -93.2086
+Silica, 47.2647, -93.0206
+Silo, 43.9833, -91.8667
+Silver, 46.4500, -92.8667
+Silver Bay, 47.2944, -91.2572
+Silver Brook, 46.6167, -92.4333
+Silver Creek(Lake), 47.1125, -91.6011
+Silver Creek(Wright), 45.3150, -93.9794
+Silver Lake, 44.9033, -94.1953
+Silver Leaf, 46.7500, -95.6000
+Silver Rapids, 47.9039, -91.7553
+Silverdale, 47.9861, -93.1094
+Silverton, 48.1333, -96.0500
+Silverwood, 47.3178, -93.3094
+Simar, 46.8131, -92.3436
+Simpson, 43.9239, -92.4097
+Sinclair, 47.7167, -95.2667
+Sinnott, 48.5000, -96.8500
+Sioux Agency, 44.6833, -95.4167
+Sioux Valley, 43.5439, -95.3044
+Six Mile Grove, 45.2833, -95.6833
+Skagen, 48.7500, -96.0833
+Skandia, 44.1500, -95.8833
+Skane, 48.6667, -96.9667
+Skelton, 46.5333, -92.7167
+Skibo, 47.4856, -91.9942
+Skime, 48.5469, -95.6025
+Skree, 46.7500, -96.3333
+Skyberg, 44.2114, -92.9319
+Skyburg, 44.2667, -92.9833
+Skyline, 44.1422, -94.0306
+Slater, 47.0833, -93.9833
+Slayton, 43.9878, -95.7556
+Sleepy Eye, 44.2972, -94.7239
+Sletten, 47.5333, -95.8833
+Smiley, 48.0667, -96.0500
+Smith Lake, 45.0831, -94.1147
+Smiths Mill, 44.1378, -93.7678
+Smithville, 46.7036, -92.2161
+Smoky Hollow, 46.9500, -93.8167
+Snellman, 46.8894, -95.4128
+Snowden, 47.4553, -92.5503
+Sobieski, 45.9244, -94.4589
+Soderville, 45.2881, -93.2347
+Sodus, 44.3333, -95.7833
+Sogn, 44.4064, -92.9278
+Solana, 46.3178, -93.1531
+Solem, 45.8000, -95.7000
+Soler, 48.8333, -96.1833
+Solway, 47.5200, -95.1289
+Somerset, 43.9833, -93.2333
+Soudan, 47.8158, -92.2375
+South Bend, 44.1333, -94.0833
+South Branch, 43.8839, -94.5492
+South Fork, 45.7833, -93.4667
+South Grove, 44.8833, -93.0500
+South Harbor, 46.1000, -93.6333
+South Haven, 45.2925, -94.2117
+South Hollandale, 43.7208, -93.1894
+South International Falls, 48.5867, -93.3989
+South Red River, 48.6667, -97.0667
+South Ridge, 43.8253, -91.4269
+South Rushford, 43.7961, -91.7550
+South Saint Paul, 44.8928, -93.0347
+South Silver Lake, 44.8850, -94.1989
+South Troy, 44.2056, -92.4325
+Southbrook, 43.9000, -95.4000
+Southdale, 44.8833, -93.3500
+Southside, 45.2833, -94.2000
+Spafford, 43.6161, -95.3717
+Spalding, 46.5500, -93.2500
+Spang, 47.0667, -93.6500
+Sparta(Chippewa), 44.9500, -95.7000
+Sparta(St Louis), 47.4675, -92.4772
+Spaulding, 45.7761, -94.8525
+Spectacle Lake, 45.5667, -93.2167
+Spencer, 46.5333, -93.6333
+Spencer Brook, 45.5219, -93.4403
+Spicer, 45.2331, -94.9397
+Split Rock, 46.4667, -92.9833
+Spooner, 48.7167, -94.6000
+Spring Brook, 48.5833, -96.7167
+Spring Creek, 44.7181, -95.8483
+Spring Grove, 43.5611, -91.6358
+Spring Hill, 45.5247, -94.8292
+Spring Lake(Scott), 44.7064, -93.4631
+Spring Lake(Itasca), 47.6425, -93.8678
+Spring Lake(Isanti), 45.5422, -93.0656
+Spring Lake Park, 45.1078, -93.2378
+Spring Park, 44.9353, -93.6319
+Spring Prairie, 46.8333, -96.5000
+Spring Valley, 43.6869, -92.3889
+Springdale, 44.2500, -95.5333
+Springfield, 44.2389, -94.9756
+Springsteel Island, 48.9000, -95.3167
+Springvale, 45.6306, -93.3067
+Springwater, 43.7167, -96.3667
+Spruce(Roseau), 48.8333, -95.6833
+Spruce(St Louis), 47.4275, -92.5628
+Spruce Center, 46.0706, -95.2233
+Spruce Hill, 46.0667, -95.2333
+Spruce Valley, 48.4167, -96.1833
+Squaw Lake, 47.6325, -94.1361
+Squier, 46.1375, -96.0814
+St Anna, 45.6617, -94.4750
+St Ansgar Hospital, 46.8833, -96.7631
+St Anthony(Hennepin), 45.0206, -93.2178
+St Anthony(Stearns), 45.6867, -94.6119
+St Anthony Falls, 44.9833, -93.2333
+St Augusta, 45.4786, -94.1539
+St Barnabas Hospital, 44.9719, -93.2586
+St Benedict, 44.5881, -93.6136
+St Bonifacius, 44.9056, -93.7472
+St Charles, 43.9694, -92.0642
+St Clair(Ramsey), 44.9333, -93.1667
+St Clair(Blue Earth), 44.0819, -93.8575
+St Clair Junction, 47.4706, -92.8444
+St Cloud, 45.5608, -94.1622
+St Croix Junction, 44.6667, -92.8333
+St Francis(Stearns), 45.7600, -94.5847
+St Francis(Anoka), 45.3869, -93.3592
+St Francis Hospital, 47.7764, -96.5911
+St Gabriels Hospital, 45.9669, -94.3614
+St George, 44.3894, -94.5322
+St Henry, 44.3842, -93.7883
+St Hilaire, 48.0139, -96.2144
+St James, 43.9825, -94.6267
+St Johns, 45.1167, -95.1833
+St Johns Hospital, 44.9569, -93.0736
+St Johns Landing Camp, 45.9875, -92.5267
+St Joseph, 45.5650, -94.3181
+St Josephs Hospital(Blue Earth), 44.1636, -93.9839
+St Josephs Hospital(Crow Wing), 46.3617, -94.2056
+St Killian, 43.7903, -95.8708
+St Lawrence, 44.6500, -93.6833
+St Leo, 44.7172, -96.0519
+St Louis Park, 44.9483, -93.3478
+St Lukes Hospital, 46.7972, -92.0872
+St Martin, 45.5019, -94.6686
+St Mary, 44.0283, -93.6017
+St Marys Hospital(Hennepin), 44.9675, -93.2369
+St Marys Hospital(St Louis), 46.7936, -92.0956
+St Marys Hospital(Olmsted), 44.0211, -92.4808
+St Marys Point, 44.9144, -92.7656
+St Mathias, 46.2228, -94.2508
+St Michael, 45.2100, -93.6647
+St Nicholas, 45.3808, -94.4364
+St Olaf, 46.2333, -95.8333
+St Patrick, 44.5947, -93.5019
+St Paul, 44.9444, -93.0931
+St Paul Church, 46.7850, -92.2114
+St Paul Park, 44.8422, -92.9911
+St Peter, 44.3236, -93.9578
+St Peter State Hospital, 44.3053, -93.9775
+St Rosa, 45.7306, -94.7156
+St Stephen, 45.7028, -94.2742
+St Stephens, 45.7000, -94.2667
+St Thomas, 44.4978, -93.7572
+St Vincent, 48.9678, -97.2247
+St Vincent Junction, 48.9736, -97.1986
+St Wendel, 45.6661, -94.3775
+Stacy, 45.3981, -92.9872
+Stafford, 48.7667, -95.8167
+Stanchfield, 45.6733, -93.1831
+Stanchfield Corner, 45.6736, -93.1928
+Stanford, 45.4333, -93.4000
+Stanley(Isanti), 45.5506, -93.1525
+Stanley(Lyon), 44.5000, -95.6667
+Stanton, 44.4719, -93.0228
+Staples, 46.3556, -94.7919
+Star, 48.0667, -95.6667
+Star Lake, 46.5833, -95.8500
+Starbuck, 45.6144, -95.5308
+Stark(Chisago), 45.5806, -93.0603
+Stark(Brown), 44.2394, -94.6494
+Stately, 44.1500, -95.0333
+Steele Center, 43.9894, -93.2261
+Steelton, 46.6703, -92.2203
+Steen, 43.5147, -96.2628
+Steenerson, 48.2333, -95.2833
+Stephen, 48.4500, -96.8722
+Sterling Center, 43.9061, -94.0769
+Stevens, 45.4667, -96.1833
+Stevenson, 47.4367, -93.0578
+Stewart(Lake), 47.1033, -91.7092
+Stewart(McLeod), 44.7247, -94.4856
+Stewartville, 43.8556, -92.4883
+Stillwater, 45.0564, -92.8058
+Stockholm, 45.0364, -94.2208
+Stockton, 44.0275, -91.7697
+Stoneham, 44.9333, -95.4333
+Stoney Brook, 46.8167, -92.6000
+Stony Brook, 46.0667, -96.0833
+Stony Run, 44.8500, -95.6500
+Storden, 44.0667, -95.2833
+Stowe Prairie, 46.3000, -95.0833
+Straight River, 46.8500, -95.1000
+Strand, 47.3667, -96.2500
+Strandquist, 48.4903, -96.4469
+Strathcona, 48.5539, -96.1686
+Stroden, 44.0378, -95.3181
+Stroms, 44.6294, -92.6614
+Strout, 45.0300, -94.5942
+Stubbs Bay, 44.9750, -93.6144
+Stuntz, 47.4000, -92.9500
+Sturgeon, 47.7767, -92.8686
+Sturgeon Lake, 46.3811, -92.8236
+Sturgeon River Landing, 48.2125, -93.8861
+Sugarloaf, 44.0267, -91.6231
+Sullivan, 47.9833, -96.9333
+Sultan, 48.9908, -97.1775
+Summit, 43.9208, -93.1853
+Summit Lake, 43.7167, -95.7333
+Sumner, 43.8000, -92.3833
+Sumter, 44.7394, -94.2631
+Sunburg, 45.3478, -95.2381
+Sundal, 47.4564, -96.1981
+Sundown, 44.3333, -95.0500
+Sunfish Lake, 44.8708, -93.0983
+Sunnyrest Sanatorium, 47.7711, -96.6242
+Sunnyside, 46.2333, -96.4500
+Sunrise, 45.5469, -92.8547
+Suomi, 47.4833, -93.7411
+Svea, 45.0033, -95.0211
+Sveadahl, 44.0742, -94.7392
+Sverdrup, 46.3333, -95.8333
+Swan Lake, 45.7167, -95.8167
+Swan River, 47.0867, -93.1947
+Swanburg, 46.7403, -94.1753
+Swanville, 45.9103, -94.6433
+Swatara, 46.8956, -93.6739
+Swede Grove, 45.2000, -94.7000
+Swede Prairie, 44.6667, -95.9167
+Swedes Forest, 44.6500, -95.3167
+Swedish Hospital, 44.9711, -93.2594
+Sweet, 43.9833, -96.3667
+Swenoda, 45.2000, -95.6833
+Swift, 48.8533, -95.2211
+Swift Falls, 45.3989, -95.4236
+Sylvan, 46.3350, -94.4064
+Synnes, 45.4667, -96.0500
+Syre, 47.1803, -96.2583

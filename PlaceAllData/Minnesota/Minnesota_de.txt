@@ -1,0 +1,263 @@
+Dads Corner, 46.3328, -93.2589
+Dagget Brook, 46.2167, -94.1167
+Dahlgren, 44.7767, -93.6833
+Dailey, 45.9500, -93.6833
+Dakomin, 45.7250, -96.6717
+Dakota, 43.9136, -91.3597
+Dakota Junction, 48.1589, -96.1942
+Dalbo, 45.6589, -93.3986
+Dale(Clay), 46.9053, -96.2194
+Dale(Cottonwood), 43.9833, -95.1500
+Dalton, 46.1739, -95.9153
+Dane Prairie, 46.2333, -95.9500
+Danesville, 44.0939, -92.6786
+Danforth, 46.1333, -92.6333
+Danielson, 45.0167, -94.6833
+Danube, 44.7919, -95.0969
+Danvers, 45.2819, -95.7517
+Danville, 43.9000, -93.8333
+Darby Junction, 47.3594, -91.6319
+Darfur, 44.0514, -94.8378
+Darling, 46.0667, -94.4333
+Darnen, 45.5500, -95.9333
+Darwin, 45.0964, -94.4106
+Dassel, 45.0817, -94.3067
+Davidson, 47.8767, -96.8469
+Davies, 46.6006, -95.3108
+Davis, 48.5833, -96.8333
+Dawson, 44.9328, -96.0542
+Day, 45.7092, -93.3792
+Days High Landing, 47.2522, -93.8056
+Dayton, 45.2439, -93.5147
+Daytons Bluff, 44.9667, -93.0667
+De Forest, 47.4600, -92.5792
+De Graff, 45.2633, -95.4675
+Deaconess Hospital, 44.9594, -93.2539
+Dead Lake, 46.5000, -95.7167
+Dean Lake, 46.6000, -93.8000
+Debs, 47.7314, -95.1278
+Decoria, 44.0667, -93.9333
+Deephaven, 44.9297, -93.5222
+Deer, 48.5833, -96.2000
+Deer Creek, 46.3911, -95.3211
+Deer Lane, 47.0400, -94.9778
+Deer Park(Dakota), 44.7019, -93.3175
+Deer Park(Pennington), 48.0000, -95.7833
+Deer River, 47.3331, -93.7925
+Deerfield, 44.1675, -93.3594
+Deerhorn, 46.5833, -96.6000
+Deerwood, 46.4736, -93.8986
+Delafield, 43.8167, -95.2000
+Delano, 45.0419, -93.7889
+Delavan, 43.7678, -94.0194
+Delaware, 45.8833, -96.0667
+Delft, 43.9864, -95.0886
+Delhi, 44.5992, -95.2108
+Dell, 43.6242, -93.9147
+Dell Grove, 46.2000, -92.9167
+Dellwood, 45.0900, -92.9722
+Delorme, 47.7647, -96.2889
+Delton, 44.0667, -95.0333
+Denham, 46.3639, -92.9428
+Denmark, 44.7500, -92.8500
+Dennison, 44.4069, -93.0392
+Dent, 46.5536, -95.7161
+Denver, 43.8000, -96.2333
+Derrynane, 44.5000, -93.7000
+Des Moines, 43.6333, -95.0833
+Des Moines River, 43.9833, -95.5167
+Detroit, 46.8333, -95.8500
+Detroit Lakes, 46.8172, -95.8450
+Dewald, 43.6333, -95.7500
+Dewey, 48.6833, -96.3000
+Dexter, 43.7189, -92.7044
+Diamond Corner, 43.9939, -96.1036
+Diamond Lake(Hennepin), 44.9000, -93.3000
+Diamond Lake(Lincoln), 44.3333, -96.2667
+Dieter, 48.9333, -95.9667
+Dilworth, 46.8767, -96.7031
+Ditter, 45.0139, -93.5222
+Dodge Center, 44.0281, -92.8544
+Dollymount, 45.7167, -96.3333
+Domaas, 48.1156, -94.5500
+Donaldson, 48.5722, -96.8961
+Donehower, 43.9611, -91.4064
+Donnelly, 45.6906, -96.0122
+Dora, 46.5833, -95.8500
+Dora Lake, 47.7386, -94.0400
+Doran, 46.1842, -96.4822
+Dorothy, 47.9278, -96.4464
+Dorset, 46.9564, -94.9522
+Dotson, 44.1719, -94.9944
+Douglas, 44.1081, -92.5736
+Dover, 43.9736, -92.1389
+Dovray, 44.0528, -95.5497
+Dovre, 45.2000, -95.0667
+Downer, 46.7542, -96.4867
+Doyle, 44.3703, -93.5747
+Drammen, 44.3333, -96.3833
+Dresbach, 43.8956, -91.3431
+Dryden, 44.6000, -94.1833
+Dublin, 45.2000, -95.4333
+Dudley(Lyon), 44.4250, -95.6911
+Dudley(Clearwater), 47.6333, -95.2333
+Duelm, 45.5722, -93.9342
+Duesler, 46.5119, -92.5083
+Dugdale, 47.7017, -96.2661
+Duluth, 46.7833, -92.1064
+Duluth Heights, 46.8008, -92.1317
+Duluth Junction, 45.0767, -92.8997
+Dumblane, 47.1469, -92.6147
+Dumfries, 44.3450, -92.1200
+Dumont, 45.7158, -96.4256
+Dunbar(Faribault), 43.8000, -93.7667
+Dunbar(Itasca), 47.6583, -94.2244
+Dundas, 44.4294, -93.2017
+Dundee, 43.8469, -95.4667
+Dunn, 46.5500, -96.0000
+Dunnell, 43.5594, -94.7742
+Dunvilla, 46.6631, -96.0158
+Dunwoody Junction, 47.4519, -92.8672
+Dupont, 45.0958, -93.5986
+Duquette, 46.3697, -92.5531
+Durand, 47.6833, -94.8833
+Duxbury, 46.1278, -92.5086
+Eagan, 44.8167, -93.1833
+Eagle Bend, 46.1650, -95.0389
+Eagle Creek, 44.7667, -93.4667
+Eagle Lake, 44.1650, -93.8811
+Eagle Point, 48.5000, -97.1167
+Eagle Valley, 46.1500, -94.9500
+Eagles Nest, 47.8400, -92.0964
+East Beaver Bay, 47.2678, -91.2828
+East Bethel, 45.3194, -93.2022
+East Chain, 43.5589, -94.3650
+East Cottage Grove, 44.8417, -92.8814
+East End, 46.7833, -92.1000
+East Grand Forks, 47.9300, -97.0242
+East Gull Lake, 46.4081, -94.3556
+East Hastings, 44.6667, -92.8333
+East Lake, 46.5383, -93.2833
+East Lake Francis Shores, 45.5039, -93.3236
+East Lake Lillian, 44.9333, -94.8167
+East Park, 48.5000, -96.3167
+East Prairieville, 44.2833, -93.2667
+East Side, 46.2167, -93.4833
+East Union, 44.7181, -93.6814
+East Valley, 48.3333, -96.0833
+Eastern, 46.1500, -95.2000
+Eastern Heights, 44.9667, -93.0167
+Easton, 43.7658, -93.9008
+Ebro, 47.4956, -95.5292
+Echo, 44.6169, -95.4172
+Echols, 43.9239, -94.6747
+Eckles, 47.5500, -94.9833
+Eckvoll, 48.3167, -95.7833
+Eddsville, 44.7667, -94.8833
+Eddy, 47.6333, -95.5000
+Eden, 44.0881, -92.8847
+Eden Lake, 45.3667, -94.5833
+Eden Prairie, 44.8547, -93.4706
+Eden Valley, 45.3261, -94.5458
+Edgerton, 43.8725, -96.1283
+Edgewood, 45.5364, -93.2306
+Edina, 44.8897, -93.3497
+Edison, 45.1833, -95.9000
+Edna, 46.5833, -95.7333
+Edwards(Kandiyohi), 45.0167, -95.1833
+Edwards(Otter Tail), 46.4489, -95.9886
+Effie, 47.8403, -93.6428
+Effington, 46.2333, -95.4500
+Eggleston, 44.6200, -92.6719
+Eglon, 46.8500, -96.2500
+Eidsvold, 44.5833, -96.0333
+Eidswold, 44.5619, -93.2836
+Eitel Hospital, 44.9694, -93.2814
+Eitzen, 43.5081, -91.4614
+Elba, 44.0886, -92.0186
+Elbow Lake, 45.9942, -95.9764
+Elbow Lake Village, 47.1467, -95.5517
+Elcor, 47.5053, -92.4408
+Eldes Corner, 46.7100, -92.2797
+Eldorado, 45.7167, -96.1833
+Eldred, 47.6828, -96.7800
+Elevenmile Corner, 47.1958, -93.9561
+Elgin, 44.1303, -92.2514
+Elizabeth, 46.3797, -96.1289
+Elk, 43.7167, -95.6333
+Elk Lake, 45.8833, -95.8167
+Elk River, 45.3039, -93.5669
+Elkland, 44.2833, -93.2667
+Elko, 44.5647, -93.3267
+Elkton, 43.6628, -92.7083
+Ellendale, 43.8728, -93.3011
+Ellerth, 48.3550, -96.4772
+Ellington, 44.1500, -92.9833
+Ellis, 46.5142, -94.6967
+Ellsborough, 44.1500, -96.0000
+Ellsburg, 47.2500, -92.4167
+Ellson, 46.3175, -93.0111
+Ellsworth, 43.5181, -96.0181
+Elm Creek, 43.7167, -94.8000
+Elm Park, 45.6731, -93.2758
+Elmdale, 45.8333, -94.4922
+Elmer, 47.1036, -92.7769
+Elmira, 43.8833, -92.1333
+Elmo, 46.2333, -95.3333
+Elmore, 43.5050, -94.0878
+Elmwood(Hennepin), 44.9500, -93.3500
+Elmwood(Clay), 46.6667, -96.6000
+Elrosa, 45.5628, -94.9469
+Elway, 44.9167, -93.1667
+Ely, 47.9033, -91.8669
+Elysian, 44.1986, -93.6736
+Elysian, Lake, 44.1486, -93.7133
+Emardville, 47.8833, -96.0333
+Embarrass, 47.6592, -92.1978
+Emco, 47.5167, -92.1500
+Emerald, 43.6333, -93.9500
+Emily, 46.7311, -93.9578
+Emmaville, 47.0656, -94.9803
+Emmet, 44.7500, -95.1667
+Emmons, 43.5019, -93.4881
+Empire, 44.6592, -93.0144
+Enfield, 45.3575, -93.9311
+Englund, 48.4858, -96.6278
+Enok, 48.6539, -96.7581
+Enstrom, 48.8500, -95.5500
+Enterprise, 43.7167, -94.9167
+Eppard Hospital, 46.7175, -92.4575
+Epsom, 44.2622, -93.0558
+Equality, 47.9000, -95.7833
+Erdahl, 45.9919, -95.8175
+Erhard, 46.4856, -96.0983
+Erhards Grove, 46.5000, -96.1000
+Ericksonville, 46.0667, -93.6667
+Ericsburg, 48.4878, -93.3311
+Ericson, 44.8500, -95.3000
+Erie(Becker), 46.8500, -95.7167
+Erie(Pennington), 48.1500, -95.8000
+Erin, 44.4167, -93.4500
+Erskine, 47.6675, -96.0097
+Esko, 46.7058, -92.3631
+Espelie, 48.2236, -95.6800
+Essig, 44.3242, -94.6042
+Esterdy, 46.4767, -94.7322
+Estes Brook, 45.6489, -93.7369
+Esther, 48.0667, -97.0500
+Etna, 43.6022, -92.3467
+Etter, 44.6617, -92.7436
+Euclid, 47.9719, -96.6386
+Eureka, 44.9011, -93.6042
+Eureka Center, 44.5872, -93.2178
+Evan, 44.3542, -94.8411
+Evansville, 46.0042, -95.6825
+Eveleth, 47.4625, -92.5397
+Everdell, 46.2675, -96.4078
+Everglade, 45.6333, -96.1833
+Evergreen, 46.7600, -95.4506
+Everts, 46.3333, -95.7167
+Ewington, 43.6333, -95.4000
+Excel, 48.2167, -96.1667
+Excelsior, 44.9033, -93.5661
+Eyota, 43.9883, -92.2283

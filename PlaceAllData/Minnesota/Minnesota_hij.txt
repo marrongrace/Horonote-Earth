@@ -1,0 +1,275 @@
+Hackensack, 46.9308, -94.5203
+Hackett, 48.8158, -94.7183
+Hader, 44.3656, -92.8008
+Hadler, 47.3686, -96.5350
+Hadley, 44.0011, -95.8536
+Hagali, 47.7167, -94.7333
+Hagan(Chippewa), 45.1486, -95.7758
+Hagen(Clay), 47.1000, -96.3667
+Halden, 46.9000, -92.9833
+Hale, 44.9333, -94.2000
+Haley, 47.9211, -92.7325
+Hallock, 48.7744, -96.9461
+Halma, 48.6611, -96.6000
+Halstad, 47.3517, -96.8283
+Ham Lake, 45.2661, -93.2342
+Hamburg, 44.7333, -93.9669
+Hamden, 46.9333, -95.9833
+Hamel, 45.0411, -93.5253
+Hamilton, 43.7617, -92.4483
+Hamlin, 44.9333, -96.1667
+Hammer, 44.7667, -96.2833
+Hammond, 44.2222, -92.3733
+Hampden, 48.8500, -97.0000
+Hampton, 44.6103, -93.0019
+Hamre, 48.2500, -95.4167
+Hancock, 45.4975, -95.7964
+Hangaard, 47.8833, -95.5333
+Hanley Falls, 44.6928, -95.6217
+Hanover, 45.1558, -93.6661
+Hanska, 44.1489, -94.4939
+Hansonville, 44.5833, -96.3833
+Hantho, 45.1167, -96.0667
+Happyland, 48.4000, -93.5667
+Harding, 46.1161, -94.0406
+Hardwick, 43.7750, -96.1992
+Harlis, 46.4122, -92.3125
+Harliss, 44.5825, -92.6553
+Harmony, 43.5553, -92.0100
+Harnell Park, 46.8875, -92.3961
+Harney, 46.7217, -92.3333
+Harold, 47.7022, -96.4972
+Harris, 45.5864, -92.9744
+Harrison, 45.2000, -94.8167
+Hart, 43.9000, -91.7833
+Hart Lake, 47.2833, -94.7500
+Hartford, 46.0667, -94.8333
+Hartland, 43.8039, -93.4867
+Hartley Spur, 46.9969, -93.0250
+Harvey, 45.2000, -94.5667
+Hassan, 45.1833, -93.5833
+Hassan Valley, 44.8500, -94.3000
+Hassman, 46.6019, -93.6128
+Hastings, 44.7433, -92.8522
+Hasty, 45.3711, -93.9728
+Hatfield, 43.9575, -96.1950
+Haug, 48.8197, -96.1842
+Haugen, 46.7167, -93.1167
+Havana, 44.0664, -93.1461
+Havelock, 45.0167, -95.5500
+Haven, 45.5167, -94.0667
+Hawick, 45.3478, -94.8269
+Hawk Creek, 44.7667, -95.4167
+Hawley, 46.8808, -96.3164
+Hay Brook, 46.1167, -93.3667
+Hay Creek, 44.4919, -92.5436
+Haydenville, 45.0094, -96.3094
+Hayes, 45.3000, -95.4000
+Hayfield, 43.8906, -92.8475
+Hayland, 45.8500, -93.5833
+Haypoint, 46.8997, -93.6136
+Hayward, 43.6506, -93.2439
+Hazel, 48.0200, -96.1150
+Hazel Park, 44.9875, -92.9844
+Hazel Run, 44.7519, -95.7147
+Hazeltine, 44.8369, -93.6011
+Hazelton, 44.9567, -93.9514
+Hazelwood, 44.5225, -93.2858
+Heatwole, 44.8342, -94.3994
+Hector, 44.7439, -94.7153
+Hegbert, 45.3667, -96.0667
+Hegne, 47.2833, -96.6167
+Heiberg, 47.2831, -96.2756
+Heidelberg, 44.4914, -93.6261
+Heier, 47.4500, -95.7333
+Height of Land, 46.8667, -95.6000
+Heinola, 46.4561, -95.4069
+Helen, 44.7667, -94.0667
+Helena, 44.5833, -93.5833
+Helga, 47.3667, -94.8500
+Helgeland, 48.1333, -96.5833
+Henderson, 44.5283, -93.9075
+Hendricks, 44.5072, -96.4239
+Hendrickson, 47.2833, -94.8500
+Hendrickson Landing, 48.3000, -93.8200
+Hendrum, 47.2644, -96.8111
+Henning, 46.3217, -95.4450
+Henrietta, 46.9333, -94.9833
+Henriette, 45.8717, -93.1172
+Henrytown, 43.5944, -91.9292
+Henryville, 44.6667, -95.0500
+Hereim, 48.6833, -96.2000
+Herman, 45.8086, -96.1431
+Hermantown, 46.8000, -92.1333
+Heron Lake, 43.7950, -95.3200
+Hersey, 43.7167, -95.5167
+Hewitt, 46.3256, -95.0864
+Hiawatha Spur, 44.9000, -93.2333
+Hibbing, 47.4167, -92.9297
+Hickory, 47.9833, -95.6500
+Hidden Valley, 45.2667, -92.9833
+Higdem, 48.1333, -97.1000
+High Forest, 43.8450, -92.5497
+High Landing, 48.0494, -95.8083
+Highland(Hennepin), 45.0000, -93.3000
+Highland(Lake), 47.2050, -91.7192
+Highland(Wright), 45.1231, -94.0325
+Highland(Fillmore), 43.6808, -91.8700
+Highland Grove, 46.9167, -96.2333
+Highland Park, 44.9167, -93.1667
+Highwater, 44.1500, -95.2667
+Highwood, 44.9147, -93.0142
+Hill, 48.8500, -97.1167
+Hill City, 46.9933, -93.5983
+Hill Lake, 46.9833, -93.6167
+Hill River, 47.7167, -95.7667
+Hillman, 46.0042, -93.8936
+Hills, 43.5281, -96.3583
+Hillsdale, 44.0500, -91.7833
+Hillside, 46.8000, -92.1000
+Hilltop, 45.0533, -93.2472
+Hillview, 46.6803, -95.2575
+Hinckley, 46.0114, -92.9442
+Hines, 47.6861, -94.6325
+Hinsdale, 47.6011, -92.1478
+Hiram, 46.9500, -94.5667
+Hitterdal, 46.9775, -96.2589
+Hixon, 47.8175, -96.6753
+Hobart, 46.1500, -95.8333
+Hodges, 45.5500, -95.8000
+Hoff, 45.5500, -95.6833
+Hoffman, 45.8294, -95.7917
+Hoffmans Corner, 45.0503, -93.0317
+Hokah, 43.7594, -91.3464
+Holden, 44.3333, -92.9833
+Holding, 45.7167, -94.4500
+Holdingford, 45.7311, -94.4697
+Holland, 44.0917, -96.1883
+Hollandale, 43.7608, -93.2039
+Hollandale Junction, 43.6636, -93.1892
+Holloway, 45.2486, -95.9078
+Holly, 44.1500, -95.5167
+Hollywood, 44.9058, -93.9711
+Holman, 47.3100, -93.3714
+Holmes City, 45.8336, -95.5408
+Holmesville, 46.9333, -95.7333
+Holst, 47.6333, -95.5000
+Holt, 48.2919, -96.1922
+Holy Cross, 46.6667, -96.7167
+Holyoke, 46.4675, -92.3883
+Home, 44.3500, -94.7000
+Home Brook, 46.4667, -94.4500
+Home Lake, 47.1833, -96.2500
+Homer, 44.0214, -91.5564
+Homestead, 46.5833, -95.3333
+Honner, 44.5500, -95.0667
+Hoot Lake, 46.3000, -96.1000
+Hope, 43.9619, -93.2758
+Hopkins, 44.9250, -93.4625
+Hopper, 47.5100, -92.5808
+Hornby, 47.3433, -91.9019
+Hornet, 47.8000, -94.5000
+Horton(Hubbard), 46.8111, -95.0969
+Horton(Stevens), 45.4833, -95.9333
+Houpt, 47.8006, -94.3911
+Houston, 43.7633, -91.5683
+Hovland, 47.8389, -89.9719
+Howard Lake, 45.0608, -94.0731
+Hoyt Lakes, 47.5197, -92.1383
+Hubbard, 46.8367, -95.0100
+Hudson, 45.8167, -95.3333
+Hugo, 45.1600, -92.9931
+Hull, 47.1975, -92.9231
+Humboldt, 48.9211, -97.0931
+Hunter, 43.6333, -95.2000
+Hunters Park, 46.8292, -92.0731
+Huntersville, 46.7758, -94.8925
+Huntley, 43.7317, -94.2372
+Huntly, 48.5000, -96.2000
+Huntsville, 47.8833, -96.9500
+Huot, 47.8653, -96.4231
+Husby Spur, 45.0667, -93.1667
+Huss, 48.5833, -96.0667
+Hutchinson, 44.8878, -94.3694
+Hutton, 43.6161, -92.0447
+Hyde Park, 44.2667, -92.3500
+Hydes Lake, 44.8189, -93.8492
+Iberia, 44.2392, -94.6950
+Ida, 45.9833, -95.4667
+Ideal, 46.6667, -94.1500
+Ideal Corners, 46.6000, -94.1833
+Idington, 47.7333, -92.6517
+Idun, 46.2167, -93.3667
+Ihlen, 43.9072, -96.3669
+Illgen City, 47.3469, -91.1894
+Immanuel Hospital, 44.1686, -93.9953
+Imogene, 43.6603, -94.3453
+Independence(St Louis), 46.9583, -92.4603
+Independence(Hennepin), 45.0253, -93.7072
+Indian Lake, 43.5500, -95.5167
+Indus, 48.6253, -93.8375
+Industrial(Ramsey), 44.9500, -93.1667
+Industrial(St Louis), 46.8833, -92.4833
+Inez, 47.8603, -94.5800
+Inger, 47.5542, -93.9850
+Inguadona, 46.9833, -94.1333
+Inman, 46.3333, -95.3167
+Interlachen, 44.9333, -93.4167
+International Falls, 48.6011, -93.4108
+Inver Grove Heights, 44.8481, -93.0425
+Iona(Iona Lake Station), 43.9156, -95.7839
+Iosco, 44.1500, -93.6000
+Iron, 47.4167, -92.6000
+Iron Junction, 47.4189, -92.6033
+Iron Range, 47.3500, -93.4000
+Irondale, 46.4667, -94.0167
+Ironhub, 46.5333, -93.7000
+Ironton, 46.4775, -93.9775
+Irving, 45.2833, -94.8167
+Isabella, 47.6172, -91.3547
+Isanti, 45.4903, -93.2475
+Isinours, 43.7103, -92.0556
+Island, 46.9861, -93.0133
+Island Lake, 47.7889, -95.0178
+Island Park, 44.9247, -93.6381
+Island View, 48.5953, -93.1667
+Isle, 46.1381, -93.4706
+Isle Harbor, 46.1000, -93.5000
+Itasca, 47.2833, -95.2333
+Ivanhoe, 44.4633, -96.2469
+Iverson, 46.6664, -92.5292
+Jack Pine, 47.3833, -95.5203
+Jackson, 43.6208, -94.9883
+Jacobs Prairie, 45.4869, -94.3928
+Jacobson, 47.0008, -93.2672
+Jadis, 48.8667, -95.8000
+Jakeville, 45.7503, -93.9864
+Jameson, 48.6039, -93.3658
+Jamestown, 44.2167, -93.8333
+Janesville, 44.1161, -93.7078
+Jarrett, 44.2361, -92.3389
+Jasper, 43.8500, -96.3983
+Jay, 43.6333, -94.8000
+Jay See Landing, 47.5458, -91.4778
+Jeffers, 44.0558, -95.1964
+Jefferson, 43.5333, -91.3333
+Jelle, 48.2381, -95.4000
+Jenkins, 46.6461, -94.3344
+Jennie, 45.0078, -94.3478
+Jessenland, 44.5719, -93.9231
+Jessie Lake, 47.6011, -93.8169
+Jevne, 46.6167, -93.3667
+Jo Daviess, 43.6333, -94.1833
+Johnsburg, 43.5056, -92.7689
+Johnsdale, 46.0328, -93.7883
+Johnson, 45.5728, -96.2950
+Johnsonville, 44.3333, -95.4167
+Johnsville, 45.1972, -93.2342
+Jonathan, 44.8000, -93.6167
+Jones, 47.4667, -95.1167
+Jordan(Scott), 44.6669, -93.6267
+Jordan(Lake), 47.3764, -91.6300
+Judge, 43.8992, -92.4758
+Judson, 44.1964, -94.1950
+Jupiter, 48.6667, -96.7167
+Jurgenson, 47.3322, -93.2294

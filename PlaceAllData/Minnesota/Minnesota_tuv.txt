@@ -1,0 +1,153 @@
+Tabor, 48.0792, -96.8625
+Taconite, 47.3128, -93.3819
+Taconite Harbor, 47.5225, -90.9286
+Taft, 46.9944, -92.3325
+Talmoon, 47.6000, -93.7736
+Tamarac, 48.4167, -96.8333
+Tamarack, 46.6444, -93.1269
+Tanberg, 46.5000, -96.3500
+Tansem, 46.6753, -96.2358
+Taopi, 43.5581, -92.6425
+Taunton, 44.5936, -96.0656
+Tawney, 43.6164, -91.7897
+Taylor, 45.9833, -96.5000
+Taylors Falls, 45.4019, -92.6522
+Tegner, 48.6667, -96.8500
+Teien, 48.5833, -97.0833
+Ten Lake, 47.4500, -94.6167
+Ten Mile Lake, 44.8500, -95.9000
+Tenhassen, 43.5500, -94.5333
+Tenmile Corner, 43.9786, -94.4289
+Tenney, 46.0444, -96.4531
+Tenstrike, 47.6567, -94.6744
+Terrace, 45.5100, -95.3197
+Terrebonne, 47.8325, -96.1331
+The Arches, 43.9833, -91.8667
+Theilman, 44.2892, -92.1919
+Thief Lake, 48.5000, -95.9500
+Thief River Falls, 48.1192, -96.1808
+Third Crow Wing Lake, 46.9667, -94.8500
+Third River, 47.6333, -94.3500
+Thomastown, 46.4167, -94.8500
+Thompson, 48.7667, -96.8667
+Thompson Grove, 44.8333, -92.9333
+Thompson Heights, 45.1831, -93.3375
+Thompson Park, 45.1667, -93.2667
+Thompson Riverview Terrace, 45.1575, -93.3317
+Thomson, 46.6636, -92.3978
+Thor, 46.4761, -93.4206
+Thorhult, 48.2303, -95.2478
+Thorpe, 47.1000, -94.8667
+Three Lakes, 44.4000, -95.0500
+Thunder Lake, 46.9333, -94.0167
+Tilden, 47.5500, -96.3833
+Tilden Junction, 47.7022, -96.2886
+Timothy, 46.7333, -94.1167
+Tintah, 46.0097, -96.3222
+Toad Lake, 46.8500, -95.4667
+Tobique, 47.1156, -94.0394
+Todd, 46.9500, -95.1000
+Tofte, 47.5739, -90.8361
+Togo, 47.8214, -93.1558
+Toimi, 47.4006, -91.7675
+Toivola, 47.1669, -92.8108
+Tonka Bay, 44.9086, -93.5928
+Toqua, 45.5500, -96.5500
+Tordenskjold, 46.2333, -95.8333
+Torfin, 48.5978, -95.7333
+Torning, 45.3000, -95.5667
+Torrey, 47.1833, -93.8500
+Tower, 47.8056, -92.2744
+Tower Junction, 47.8050, -92.2561
+Tracy, 44.2333, -95.6189
+Traffic, 44.9667, -93.2833
+Trail, 47.7800, -95.6919
+Trails End, 47.7500, -90.3333
+Transit, 44.5833, -94.3167
+Traverse, 44.3486, -94.0172
+Trelipe, 46.9667, -94.1167
+Trimont, 43.7622, -94.7069
+Triumph, 43.7500, -94.7167
+Trommald, 46.5053, -94.0181
+Trondhjem, 46.5000, -96.2167
+Trondjem, 44.4792, -93.3928
+Trosky, 43.8892, -96.2567
+Trout Brook, 44.5500, -92.5333
+Trout Lake, 47.2333, -93.4000
+Troy, 43.8708, -92.0678
+Truman, 43.8278, -94.4369
+Tumuli, 46.1500, -95.9500
+Tunsberg, 45.0333, -95.7833
+Turner, 46.8000, -93.2500
+Turtle Creek, 46.1500, -94.7167
+Turtle River, 47.5875, -94.7514
+Twig, 46.8944, -92.3644
+Twig Station, 46.8778, -92.3461
+Twin Cities, 44.9000, -93.2333
+Twin Grove, 43.7028, -93.1881
+Twin Lakes, 43.5597, -93.4228
+Twin Valley, 47.2603, -96.2586
+Two Harbors, 47.0228, -91.6706
+Two Inlets, 47.0528, -95.2172
+Two Rivers, 45.8167, -94.3833
+Tyler, 44.2783, -96.1344
+Tynsid, 47.7167, -96.9000
+Tyro, 44.7667, -95.9167
+Tyrone, 44.5000, -93.8167
+Udolpho, 43.8000, -92.9833
+Ulen, 47.0789, -96.2586
+Underwood, 46.2853, -95.8706
+Union(Steele), 43.8919, -93.1253
+Union(Houston), 43.7000, -91.4167
+Union Grove, 45.2833, -94.7000
+Union Hill, 44.5436, -93.6669
+Union Hospital, 44.3058, -94.4544
+Unity Hospital, 45.1064, -93.2567
+University, 44.9833, -93.2333
+Upper Nicollet, 44.9667, -93.2833
+Upper Sioux Indian Reservation, 44.7667, -95.5000
+Upsala, 45.8108, -94.5711
+Uptown, 44.9500, -93.2833
+Urbank, 46.1228, -95.5117
+Urness, 45.8833, -95.7000
+Utica, 43.9756, -91.9547
+Vadnais Heights, 45.0575, -93.0736
+Vail, 44.4167, -95.2833
+Vallers, 44.5833, -95.7833
+Valley, 48.3167, -95.6667
+Valley Ridge, 44.7833, -93.2500
+Van Buren, 46.9667, -92.8833
+Varco, 43.6058, -92.9564
+Vasa, 44.5033, -92.7222
+Vawter, 45.9122, -94.2447
+Vega, 48.2333, -96.9500
+Veldt, 48.4167, -95.6833
+Verdi, 44.2086, -96.3519
+Verdon, 46.9000, -93.3667
+Vergas, 46.6567, -95.8050
+Vermilion Lake, 47.7500, -92.3667
+Vermillion, 44.6736, -92.9669
+Vermillion Dam, 48.0500, -92.8333
+Vermillion Lake Indian Reservation, 47.8333, -92.3000
+Vern, 47.3039, -95.2142
+Verndale, 46.3983, -95.0144
+Vernon, 43.9033, -92.7381
+Vernon Center, 43.9619, -94.1689
+Verona, 43.7167, -94.1833
+Veseli, 44.5150, -93.4597
+Vesta, 44.5078, -95.4161
+Victor, 45.0167, -94.0667
+Victoria, 44.8586, -93.6614
+Viding, 47.1000, -96.6333
+Vienna, 43.7167, -96.1167
+Viking, 48.2186, -96.4056
+Villard, 45.7156, -95.2689
+Vineland(Polk), 47.6333, -96.8167
+Vineland(Mille Lacs), 46.1636, -93.7572
+Vining, 46.2631, -95.5367
+Viola, 44.0633, -92.2681
+Virginia, 47.5233, -92.5364
+Visgers Landing Public Access, 43.5244, -91.2800
+Vista, 43.9572, -93.4664
+Vivian, 43.8833, -93.6667
+Vlasaty, 43.9647, -92.8489

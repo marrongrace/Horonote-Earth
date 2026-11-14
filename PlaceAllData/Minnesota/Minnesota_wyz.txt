@@ -1,0 +1,233 @@
+Waasa, 47.6667, -92.1167
+Wabana, 47.4000, -93.5167
+Wabasha, 44.3839, -92.0328
+Wabasso, 44.4019, -95.2556
+Wabedo, 46.9206, -94.1878
+Waconia, 44.8508, -93.7867
+Wacouta, 44.5450, -92.4347
+Wacouta Beach, 44.5458, -92.4103
+Wadena, 46.4425, -95.1358
+Wagner, 46.2167, -93.1000
+Wahkon, 46.1183, -93.5208
+Wahlsten, 47.7358, -92.2833
+Wahnena, 47.2500, -93.9000
+Waite Park, 45.5572, -94.2239
+Wakefield, 45.4667, -94.4500
+Wakemup, 47.9242, -92.6450
+Walbo, 45.5872, -93.3267
+Walcott, 44.2500, -93.2167
+Waldeck, 46.6744, -93.6075
+Waldo, 47.0661, -91.6989
+Waldorf, 43.9350, -93.6972
+Wales, 47.0333, -91.6833
+Walker, 47.1014, -94.5869
+Wall Lake, 46.2908, -95.9644
+Walls, 45.7167, -96.5667
+Walnut Grove, 44.2231, -95.4692
+Walnut Lake, 43.7167, -93.8833
+Walter, 45.1167, -96.4000
+Walters, 43.6058, -93.6731
+Waltham, 43.8217, -92.8769
+Walworth, 47.1000, -96.1333
+Wanamingo, 44.3044, -92.7903
+Wanda, 44.3164, -95.2114
+Wang, 44.8500, -95.4167
+Wanger, 48.4167, -96.7167
+Wangs, 44.4067, -92.9794
+Wannaska, 48.6583, -95.7344
+Warba, 47.1289, -93.2664
+Ward, 46.1500, -94.8333
+Ward Springs, 45.7919, -94.8047
+Warman, 46.0583, -93.2842
+Warren, 48.1967, -96.7725
+Warrenton, 48.2333, -96.8167
+Warroad, 48.9053, -95.3142
+Warsaw, 44.2494, -93.3936
+Waseca, 44.0778, -93.5072
+Washington(Fillmore), 43.7758, -92.3386
+Washington(Le Sueur), 44.2500, -93.8000
+Washington Lake, 44.6667, -93.9500
+Wasioja, 44.0803, -92.8192
+Waskish, 48.1614, -94.5122
+Wastedo, 44.4047, -92.8511
+Watab, 45.6764, -94.1808
+Waterbury, 44.3333, -95.2833
+Waterford, 44.4839, -93.1428
+Watertown, 44.9636, -93.8469
+Waterville, 44.2189, -93.5678
+Watkins, 45.3153, -94.4083
+Watopa, 44.2333, -92.0000
+Watson, 45.0097, -95.8011
+Waubun, 47.1806, -95.9389
+Waukenabo, 46.7400, -93.6000
+Waukon, 47.3689, -96.1308
+Waverly, 45.0667, -93.9661
+Wawina, 47.0531, -93.1189
+Wayland, 48.4683, -94.3203
+Wayzata, 44.9694, -93.5139
+Wealthwood, 46.3631, -93.6539
+Weaver, 44.2150, -91.9286
+Weber, 45.4750, -93.1239
+Webster, 44.5297, -93.3525
+Wegdahl, 44.8900, -95.6450
+Weimer, 43.8167, -95.2667
+Welch, 44.5683, -92.7383
+Welcome, 43.6669, -94.6192
+Wellington, 44.5833, -94.6833
+Wells, 43.7461, -93.7286
+Weme, 47.6442, -95.5378
+Wendell, 46.0356, -96.1008
+Wergeland, 44.6833, -96.1500
+Werner, 47.6164, -94.9225
+Wescott, 44.8197, -93.1056
+West Albany, 44.3014, -92.2853
+West Albion, 45.1958, -94.1347
+West Bank, 45.2000, -95.8000
+West Concord, 44.1536, -92.8994
+West Coon Rapids, 45.1597, -93.3494
+West Duluth, 46.7356, -92.1861
+West End, 44.9333, -93.1167
+West Heron Lake, 43.7167, -95.3167
+West Lake Francis Shores, 45.5078, -93.3372
+West Lakeland, 44.9667, -92.8167
+West Newton(Nicollet), 44.4167, -94.5500
+West Newton(Wabasha), 44.2650, -91.9006
+West Point, 45.5578, -93.3889
+West Red Wing, 44.5500, -92.5333
+West Rock, 45.8333, -92.9667
+West Saint Paul, 44.9161, -93.1014
+West Union, 45.8008, -95.0831
+West Valley, 48.4167, -96.4500
+West Virginia, 47.5156, -92.5700
+Westbrook, 44.0422, -95.4358
+Westbury, 46.9172, -95.9094
+Westerheim, 44.5833, -95.9167
+Western, 46.1519, -96.1828
+Westfield, 43.9000, -92.9833
+Westford, 43.8000, -94.4333
+Westline, 44.4167, -95.5333
+Weston, 45.1889, -92.9844
+Westport, 45.7150, -95.1669
+Westside, 43.6333, -96.0000
+Whalan, 43.7322, -91.9264
+Wheatland, 44.4647, -93.4833
+Wheaton, 45.8044, -96.4989
+Wheeler Landing, 47.7258, -91.2900
+Wheelers Point, 48.8378, -94.6975
+Wheeling, 44.3333, -93.1000
+Whipholt, 47.0489, -94.3650
+White, 47.4667, -92.2500
+White Bear, 45.0833, -93.0167
+White Bear Beach, 45.0997, -92.9889
+White Bear Lake, 45.0847, -93.0097
+White Earth, 47.0967, -95.8431
+White Earth Indian Reservation, 47.1000, -95.8500
+White Hawk, 46.3981, -93.8253
+White Iron, 47.9033, -91.7767
+White Oak, 46.9333, -94.7167
+White Pine, 46.3667, -93.2500
+White Rock, 44.4564, -92.7669
+White Willow, 44.3642, -92.6511
+Whited, 45.9333, -93.2000
+Whiteface, 47.1867, -92.3661
+Whitefield, 45.1333, -95.0333
+Whiteford, 48.4167, -95.9000
+Whitewater, 44.1500, -92.0167
+Whitman, 44.1533, -91.8058
+Whyte, 47.4517, -91.5619
+Wig Wam Bay, 46.0667, -93.6667
+Wilbert, 43.5439, -94.5392
+Wild Rice, 47.2833, -96.2500
+Wildcat Landing Public Access, 43.6869, -91.2728
+Wilder, 43.8267, -95.1972
+Wilds, 47.7456, -96.6358
+Wildwood, 47.8906, -93.9667
+Wilkinson, 47.2508, -94.6275
+Willernie, 45.0542, -92.9564
+Williams, 48.7683, -94.9550
+Willington Grove, 43.5783, -91.5789
+Willmar, 45.1219, -95.0431
+Willmar State Hospital, 45.1417, -95.0167
+Willow Creek, 43.8947, -94.2683
+Willow Lake, 44.3333, -95.1667
+Willow River, 46.3183, -92.8411
+Willow Valley, 47.9333, -92.8833
+Wilma, 46.1333, -92.4667
+Wilmington, 43.5469, -91.5422
+Wilmont, 43.7647, -95.8269
+Wilno, 44.4997, -96.2311
+Wilpen, 47.4406, -92.8278
+Wilson, 43.9600, -91.6844
+Wilton(Beltrami), 47.5036, -95.0008
+Wilton(Waseca), 44.0139, -93.5342
+Winchester, 47.2000, -96.5000
+Windemere, 46.3833, -92.7333
+Windom, 43.8664, -95.1167
+Windsor, 45.6833, -96.6833
+Winfield, 44.8500, -95.0500
+Wing River, 46.5000, -94.9667
+Winger, 47.5361, -95.9881
+Winnebago(Faribault), 43.7678, -94.1656
+Winnebago(Houston), 43.6333, -91.4833
+Winner, 48.5978, -95.4397
+Winnipeg Junction, 46.8958, -96.2464
+Winona, 44.0500, -91.6392
+Winsor, 47.8000, -95.5000
+Winsted, 44.9639, -94.0472
+Winter, 47.5272, -91.4903
+Winthrop, 44.5431, -94.3661
+Winton, 47.9264, -91.8006
+Wirock, 43.8869, -95.7033
+Wirt, 47.7306, -93.9597
+Wisconsin, 43.6333, -94.9167
+Wiscoy, 43.9000, -91.6500
+Wisner, 48.3069, -93.6761
+Withrow, 45.1242, -92.8972
+Witoka, 43.9333, -91.6200
+Wolf, 47.4506, -92.6086
+Wolf Lake, 46.8031, -95.3522
+Wolford, 46.5456, -93.9789
+Wolverton, 46.5633, -96.7333
+Wood Lake, 44.6528, -95.5381
+Woodbury(Carlton), 46.6792, -92.9597
+Woodbury(Washington), 44.9239, -92.9592
+Woodland(Hennepin), 44.9469, -93.5039
+Woodland(Kanabec), 46.1158, -93.2839
+Woodland(St Louis), 46.8461, -92.0822
+Woodland Park, 46.3167, -95.4333
+Woodrow, 46.3883, -94.0742
+Woods, 45.1000, -95.3000
+Woodstock, 44.0092, -96.1003
+Woodville, 44.0667, -93.4667
+Woodward Brook, 45.6761, -93.5850
+Workman, 46.7167, -93.3833
+Worthington, 43.6200, -95.5961
+Wouri, 47.6000, -92.4833
+Wrenshall, 46.6169, -92.3822
+Wright, 46.6692, -93.0067
+Wrightstown, 46.2739, -95.1858
+Wyandotte, 48.0000, -96.0500
+Wyanett, 45.5869, -93.4506
+Wyattville, 43.9408, -91.7900
+Wykeham, 46.1500, -95.0833
+Wykoff, 43.7072, -92.2681
+Wylie, 47.9619, -96.3528
+Wyman, 47.5325, -92.1075
+Wyoming, 45.3364, -92.9969
+Yankeetown, 45.4911, -96.7397
+Yellow Bank, 45.2000, -96.4000
+Yola, 47.2322, -95.0119
+York(Fillmore), 43.5331, -92.2689
+York(Lake), 47.1269, -91.7033
+Yorktown, 44.8833, -93.3500
+Young America, 44.7828, -93.9133
+Yucatan, 43.6806, -91.6886
+Zemple, 47.3231, -93.7853
+Zerkel, 47.3108, -95.3814
+Zim, 47.3069, -92.6031
+Zimmerman, 45.4500, -93.5833
+Zion, 45.4500, -94.7000
+Zumbra Heights, 44.9000, -93.5667
+Zumbro, 44.2333, -92.4000
+Zumbro Falls, 44.2833, -92.4219
+Zumbrota, 44.2942, -92.6689
