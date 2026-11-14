@@ -1,0 +1,7 @@
+Eastern Island, 28.2000, -177.3333
+Middle Ground, 28.2500, -177.4167
+Midway Islands, 28.2167, -177.3667
+Midway Naval Station, 28.2167, -177.4333
+North Breakers, 28.2333, -177.4167
+Sand Island, 28.2000, -177.3833
+Sand Islet, 28.2667, -177.3833
