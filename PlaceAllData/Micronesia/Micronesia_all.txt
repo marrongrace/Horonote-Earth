@@ -1,0 +1,70 @@
+Anipaj, 6.8333, 158.3167
+Anipen, 6.8167, 158.2333
+Auak, 6.9667, 158.2667
+Aumar, 6.9500, 158.1667
+Colonia, 9.5167, 138.1333
+Eauripik Island, 6.7000, 143.0500
+Eten Anchorage, 7.3667, 151.9000
+Faal, 9.6167, 138.1667
+Fais Island, 9.7667, 140.5167
+Falalu Island, 7.6333, 151.6833
+Gachpar, 9.5500, 138.1667
+Gaferut Island, 9.2333, 145.3833
+Gagil, 9.5500, 138.1667
+Gorror, 9.4500, 138.0667
+Gurror, 9.4500, 138.0667
+Ifalik Island, 7.2500, 144.4500
+Ipat, 6.9667, 158.2000
+Jelatak, 6.9333, 158.2833
+Kanif, 9.5167, 138.0833
+Kanifay, 9.5167, 138.0833
+Kapingamarangi Island, 1.0667, 154.7667
+Kolonia, 6.9667, 158.2167
+Kosrae Island, 5.3167, 162.9833
+Lamotrek Island, 7.5000, 146.3333
+Losap Island, 6.9000, 152.7333
+Lot, 6.8167, 158.3000
+Lukop, 6.9000, 158.3167
+Majijo, 6.9167, 158.3167
+Mechol, 9.6167, 138.1667
+Meilap, 6.9000, 158.1500
+Meitik, 6.9500, 158.2333
+Meqruur, 9.5167, 138.1500
+Mesa, 7.3500, 151.8500
+Metalanim, 6.8833, 158.2667
+Mokil Island, 6.6667, 159.7833
+Murilo Island, 8.6667, 152.1833
+Namoi Islands, 5.4500, 153.6667
+Namoluk Island, 5.9167, 153.1333
+Namonuito Island, 8.7667, 150.0333
+Ngatik Island, 5.8500, 157.2667
+Ngulu Island, 8.4500, 137.4833
+Nif, 9.4667, 138.0667
+Nukan, 7.3833, 151.8833
+Nukuoro Island, 3.8500, 154.9667
+Okau, 9.5333, 138.1000
+Olimarao Island, 7.6833, 145.8667
+Omin, 9.6000, 138.1667
+Oroluk Island, 7.5333, 155.3000
+Pakin Island, 7.0667, 157.8000
+Pikelot Island, 8.0833, 147.6333
+Pingelap Island, 6.2167, 160.7000
+Pohnpei, 6.9667, 158.2167
+Pohnpei Island, 6.9167, 158.2500
+Pok, 6.8167, 158.2000
+Ponape > Pohnpei, 6.9667, 158.2167
+Ponape State Hospital, 6.9500, 158.2000
+Pulap Island, 7.5833, 149.4000
+Pulusuk Island, 6.7000, 149.3167
+Reu, 6.8167, 158.2667
+Roi, 6.9333, 158.2833
+Ronkiti, 6.8167, 158.1667
+Runu, 9.5833, 138.1500
+Sapou, 7.3000, 151.8833
+Senyavin Islands, 6.9167, 158.0000
+Sorol Island, 8.1333, 140.3833
+Tabunifi, 9.4667, 138.0833
+Ulithi Island, 9.9667, 139.6667
+Ulul Island, 8.5833, 149.6667
+Woleai Island, 7.3500, 143.8667
+Yap Island, 9.5167, 138.1000
