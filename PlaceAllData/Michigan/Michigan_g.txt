@@ -1,0 +1,184 @@
+Gaastra, 46.0583, -88.6058
+Gagetown, 43.6572, -83.2450
+Gaines, 42.8725, -83.9142
+Galesburg, 42.2886, -85.4181
+Galewood, 42.9167, -85.7000
+Galien, 41.7981, -86.4992
+Galloway, 43.3317, -84.3694
+Ganges, 42.5769, -86.2103
+Garden, 45.7747, -86.5506
+Garden City, 42.3256, -83.3311
+Garden Corners, 45.8903, -86.5367
+Gardendale, 43.0386, -82.4925
+Gardenville, 46.4625, -84.3014
+Gardner, 45.5364, -87.7078
+Gardners Corners, 42.1292, -85.3531
+Garfield, 43.3514, -84.1339
+Garland Village, 44.8594, -84.3031
+Garnet, 46.1583, -85.3067
+Garth, 45.9000, -86.9492
+Gay, 47.2275, -88.1636
+Gaylord, 45.0275, -84.6747
+Geddes, 42.2669, -83.6678
+Geels, 44.4219, -84.4836
+General Hospital, 43.2389, -86.2022
+Genesee, 43.1125, -83.6178
+Genesee Hospital, 43.0111, -83.7358
+Geneva, 41.9581, -84.2806
+Genoa, 42.5667, -83.8333
+Gentian, 46.4311, -87.4667
+Georgetown, 42.9000, -85.8333
+Gera, 43.3872, -83.7386
+Germfask, 46.2494, -85.9258
+Gerrish, 44.4667, -84.6833
+Giauque Beach, 45.4836, -84.5942
+Gibbs City, 46.2258, -88.7006
+Gibbs Corners, 43.8572, -85.1472
+Gibraltar, 42.0950, -83.1897
+Gibson, 43.9500, -84.1000
+Gibson Lake, 46.2031, -88.4300
+Gidding, 46.8167, -88.6333
+Giddings, 44.5844, -85.1961
+Gilbert, 44.3756, -85.4186
+Gilchrist, 46.1428, -85.3847
+Gilead, 41.8008, -85.1556
+Gilford, 43.4942, -83.6219
+Gillet Landing, 46.8711, -87.7783
+Gingell, 42.6833, -83.3333
+Gingellville, 42.7217, -83.3078
+Girard, 42.0294, -85.0014
+Gitchel, 42.7822, -85.8417
+Gladstone, 45.8528, -87.0217
+Gladwin, 43.9808, -84.4864
+Glen Arbor, 44.8975, -85.9853
+Glen Haven, 44.9019, -86.0275
+Glen Lord, 42.0411, -86.5061
+Glencoe, 43.9642, -82.8858
+Glendale, 42.3028, -85.9564
+Glendora, 41.8850, -86.4869
+Glengary(Wexford), 44.4231, -85.7211
+Glengary(Oakland), 42.5650, -83.5042
+Glenn, 42.5203, -86.2275
+Glenn Stores, 42.4983, -86.2356
+Glennie, 44.5606, -83.7258
+Glenwood, 42.0550, -86.0331
+Glenwood Beach, 44.0569, -83.6056
+Glenwood Forest, 42.9000, -85.6333
+Glovers Corner, 46.8950, -88.1083
+Gobles, 42.3608, -85.8794
+Goddyne, 43.6167, -83.8500
+Godwin, 42.9167, -85.7000
+Godwin Heights, 42.9167, -85.7000
+Goetzville, 46.0581, -84.0922
+Gogebic, 46.3525, -89.5025
+Gogebic County Home, 46.4653, -89.9642
+Golden(Oceana), 43.6833, -86.4500
+Golden(Dickinson), 46.1428, -88.0206
+Golden(Midland), 43.6100, -84.1683
+Golfcrest, 41.9428, -83.3703
+Golfside, 42.2667, -83.7167
+Gomins, 44.8058, -84.0514
+Good Hart, 45.5672, -85.1131
+Goodar, 44.5011, -83.8964
+Goodells, 42.9811, -82.6658
+Gooding, 43.1667, -85.7000
+Goodison, 42.7328, -83.1625
+Goodland, 43.0947, -83.0725
+Goodrich, 42.9169, -83.5064
+Goodwell, 43.6000, -85.6167
+Gordon, 46.4844, -87.2272
+Gordon Beach, 41.8281, -86.7031
+Gordonville, 43.5678, -84.3694
+Gore, 43.9667, -82.7500
+Gormer, 44.1000, -85.1500
+Gotts, 43.9333, -83.2667
+Gould City, 46.0953, -85.6967
+Gourley, 45.5950, -87.4239
+Gowen, 43.2517, -85.3019
+Graafschap, 42.7542, -86.1364
+Grace, 45.5514, -84.1294
+Grace Hospital(Wayne,Northwest), 42.4281, -83.1700
+Grace Hospital(Wayne,Central/Midtown), 42.3528, -83.0578
+Grafton, 42.0367, -83.3897
+Graham Lake, 42.3333, -85.1833
+Grand Beach, 41.7733, -86.7975
+Grand Blanc, 42.9275, -83.6300
+Grand Circus Park, 42.3333, -83.0500
+Grand Haven, 43.0631, -86.2283
+Grand Island, 46.5000, -86.6667
+Grand Junction, 42.4042, -86.0731
+Grand Ledge, 42.7533, -84.7464
+Grand Marais, 46.6708, -85.9850
+Grand Rapids, 42.9633, -85.6681
+Grand River, 42.3500, -83.1000
+Grand Valley, 42.9744, -85.8697
+Grand Valley State College, 42.9667, -85.9500
+Grand View(Cheboygan), 45.4003, -84.6642
+Grand View(Monroe), 41.8419, -83.4028
+Grand View Acres, 42.4261, -83.4467
+Grand View Beach, 45.4569, -84.5856
+Grandale Gardens, 42.3833, -83.2833
+Grande Pointe, 42.5994, -82.5453
+Grandview Beach, 41.8667, -83.4500
+Grandview Hospital, 46.4817, -90.1069
+Grandville, 42.9097, -85.7631
+Grandvue Hospital, 45.1792, -85.1386
+Grange Corners, 42.5775, -86.1906
+Granite Bluff, 45.9394, -88.0536
+Grant, 43.3361, -85.8108
+Grant Center, 43.7708, -85.4028
+Grape, 41.9636, -83.5394
+Grass Lake, 42.2508, -84.2131
+Gratiot, 42.3500, -83.0167
+Grattan, 43.0842, -85.3811
+Gravel Lake, 42.1667, -85.8500
+Grawn, 44.6625, -85.6936
+Grayling, 44.6614, -84.7147
+Great Lake Beach, 43.2667, -82.5333
+Great Lakes Beach, 43.2169, -82.5222
+Great Western, 46.1000, -88.3333
+Greeley, 45.0833, -83.7167
+Green, 46.8375, -89.4397
+Green Garden, 46.4386, -87.2792
+Green Haven, 46.5389, -86.0156
+Green Lake(Allegan), 42.7833, -85.5167
+Green Lake(Grand Traverse), 44.6500, -85.7500
+Green Oak, 42.4925, -83.6981
+Green River, 44.9892, -85.0553
+Green Timbers, 45.1717, -84.5411
+Greenbush, 44.5878, -83.3164
+Greendale, 43.6000, -84.5333
+Greenfield Park, 42.3350, -85.1372
+Greenfield Village, 42.3053, -83.2247
+Greenland, 46.7794, -89.1017
+Greenleaf, 43.6333, -83.0667
+Greenville, 43.1775, -85.2528
+Greenwood(Marquette), 46.4872, -87.7558
+Greenwood(Ogemaw), 44.1761, -84.1567
+Gregory, 42.4583, -84.0844
+Greilickville(Rennies Station), 44.7831, -85.6386
+Gresham, 42.6414, -84.8953
+Grim, 44.0000, -84.2333
+Grind Stone City, 44.0503, -82.9008
+Groos, 45.8117, -87.1031
+Gros Cap, 45.8833, -84.8167
+Gros Gap, 45.8703, -84.8278
+Grosse Ile, 42.1333, -83.1333
+Grosse Pointe, 42.3861, -82.9119
+Grosse Pointe Farms, 42.4092, -82.8919
+Grosse Pointe Park, 42.3758, -82.9375
+Grosse Pointe Shores, 42.4367, -82.8769
+Grosse Pointe Woods, 42.4436, -82.9069
+Grosvenor, 41.8333, -83.8667
+Grout, 43.9500, -84.5500
+Groveland, 42.8333, -83.5167
+Groveland Corners, 42.8161, -83.5478
+Groveton, 43.2425, -84.1292
+Gull Lake, 42.3708, -85.3867
+Gulliver, 45.9931, -86.0119
+Gun Lake, 44.1000, -86.2167
+Gunnisonville, 42.8131, -84.5231
+Gunplain, 42.4500, -85.6000
+Gustin, 44.6272, -83.4144
+Guthrie, 42.3025, -84.0692
+Gwinn, 46.2811, -87.4408

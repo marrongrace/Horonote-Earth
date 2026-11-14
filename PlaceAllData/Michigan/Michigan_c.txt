@@ -1,0 +1,315 @@
+Cableton, 42.4000, -86.2667
+Cadillac, 44.2519, -85.4011
+Cadmus, 41.8739, -84.1606
+Cady, 42.5603, -82.9644
+Caffey, 46.1689, -85.1853
+Caffey Corner, 46.1619, -85.1853
+Calcite, 45.4089, -83.7867
+Calderwood, 46.4097, -89.0853
+Caldwell, 44.3833, -85.2833
+Caledonia, 42.7892, -85.5167
+California, 41.7964, -84.8833
+Calumet, 47.2467, -88.4539
+Calvin Center, 41.8458, -85.9350
+Cambria, 41.8219, -84.6650
+Cambridge, 42.0333, -84.1833
+Cambridge Junction, 42.0589, -84.2211
+Camden, 41.7522, -84.7578
+Camp Lake, 43.1667, -85.7000
+Camp Lu Lay Lea, 44.3369, -84.0081
+Campau, 42.9667, -82.4833
+Campbell(Delta), 46.0172, -87.1311
+Campbell(Ionia), 42.8167, -85.2500
+Campbell Corners, 42.8058, -85.2322
+Campbells Corner, 42.7997, -83.1336
+Campbells Corners, 44.3131, -84.1456
+Canada Corners, 43.2353, -85.8492
+Canada Creek Ranch, 45.0000, -84.1500
+Canada Shores, 41.8078, -84.9625
+Canal, 46.4833, -84.3500
+Canandaigua, 41.7986, -84.2344
+Canfield Beach, 45.4606, -84.2217
+Cannon, 43.0667, -85.5000
+Cannonburg, 43.0539, -85.4697
+Cannonsburg, 43.0500, -85.4667
+Canton, 42.3167, -83.4667
+Capac, 43.0125, -82.9281
+Carbondale, 45.2783, -87.6158
+Caribou Lake, 46.0000, -83.9000
+Carland, 43.0581, -84.3047
+Carleton, 42.0592, -83.3908
+Carlisle(Eaton), 42.5531, -84.9664
+Carlisle(Kent), 42.8264, -85.6833
+Carlshend, 46.3108, -87.2208
+Carlson, 46.7833, -88.5000
+Carlton, 42.7267, -85.2514
+Carmel, 42.5500, -84.9000
+Carney, 45.5867, -87.5572
+Caro, 43.4911, -83.3969
+Caro State Hospital, 43.4464, -83.4478
+Carp Lake, 45.6972, -84.7500
+Carp Lake Landing, 46.8303, -89.7164
+Carpenter Lake, 41.8333, -84.7500
+Carpenter Landing, 46.2897, -85.7578
+Carr, 43.8736, -86.0383
+Carrollton, 43.4586, -83.9303
+Carrs, 43.9333, -86.0333
+Carson City, 43.1769, -84.8464
+Carsonville, 43.4269, -82.6714
+Cascade(Kent), 42.9122, -85.4981
+Cascade(Marquette), 46.4469, -87.4853
+Casco, 42.7525, -82.6717
+Case, 45.2833, -84.0667
+Caseville, 43.9411, -83.2714
+Cash, 43.3483, -82.7864
+Casnovia, 43.2347, -85.7906
+Caspian, 46.0642, -88.6314
+Cass City, 43.6008, -83.1747
+Cassopolis, 41.9117, -86.0100
+Castle, 43.4167, -83.9500
+Castle Park, 42.7481, -86.2069
+Castleton, 42.6333, -85.1333
+Cathro, 45.1589, -83.5544
+Cato, 43.4333, -85.2667
+Cedar(Osceola), 43.9500, -85.3833
+Cedar(Leelanau), 44.8478, -85.7956
+Cedar Bank, 46.2969, -87.2667
+Cedar Bend, 42.7333, -84.4333
+Cedar Bluff, 42.4856, -86.2461
+Cedar Creek, 42.5203, -85.3275
+Cedar Haven, 44.1761, -83.5625
+Cedar Lake(Van Buren), 42.0167, -85.8167
+Cedar Lake(Montcalm), 43.4061, -84.9750
+Cedar River, 45.4111, -87.3544
+Cedar Run, 44.7619, -85.8203
+Cedar Springs, 43.2233, -85.5514
+Cedarville(Mackinac), 45.9981, -84.3631
+Cedarville(Menominee), 45.4833, -87.3833
+Cement City, 42.0700, -84.3306
+Centennial, 47.2583, -88.4286
+Centennial Heights, 47.2606, -88.4444
+Center, 45.6000, -84.9000
+Center Line, 42.4850, -83.0278
+Centerville, 44.9000, -85.7500
+Central, 47.4072, -88.2006
+Central Lake, 45.0700, -85.2644
+Central Park, 42.7833, -86.1167
+Centreville, 41.9233, -85.5283
+Ceresco, 42.2719, -85.0614
+Chaison, 45.8769, -87.0647
+Chalkerville, 42.4322, -84.0186
+Chamberlain, 42.0658, -85.7428
+Champion, 46.5139, -87.9633
+Champion Mine, 47.0347, -88.6708
+Chandler, 45.8700, -87.1558
+Channing, 46.1417, -88.0939
+Chapin, 43.1322, -84.3047
+Charing Cross, 42.5717, -83.2214
+Charing Cross Estates, 42.5667, -83.2667
+Charles, 46.0144, -84.6925
+Charleston(Kalamazoo), 42.3000, -85.3500
+Charleston(Sanilac), 43.6592, -82.6861
+Charlesworth, 42.4506, -84.6894
+Charlevoix, 45.3181, -85.2583
+Charlotte, 42.5636, -84.8358
+Charlotte Landing, 42.3922, -84.7758
+Charlton, 44.9833, -84.4333
+Chase, 43.8892, -85.6356
+Chassell, 47.0283, -88.5250
+Chatham, 46.3478, -86.9289
+Chauncey, 43.0503, -85.5503
+Cheboygan, 45.6469, -84.4744
+Chelsea, 42.3181, -84.0206
+Cherry Beach, 42.6847, -82.5097
+Cherry Bend, 44.7936, -85.6475
+Cherry Grove, 44.2167, -85.5167
+Cherry Hill, 42.3061, -83.5361
+Cherry Island, 42.0806, -83.1947
+Cherry Valley, 43.9500, -85.7500
+Chesaning, 43.1847, -84.1150
+Cheshire, 42.4667, -85.9500
+Cheshire Center, 42.4517, -85.9344
+Chester, 42.6058, -84.9147
+Chesterfield, 42.6628, -82.8425
+Chesterfield Shores, 42.6700, -82.7614
+Chestonia, 45.0603, -85.0775
+Cheviers, 44.5681, -83.7369
+Chicagon, 46.0953, -88.5072
+Chicagon Lake, 46.1000, -88.3333
+Chicora, 42.4767, -85.9736
+Chief Lake, 44.3667, -86.0167
+Chikaming, 41.8500, -86.6333
+Childrens Center for Handicapped, 43.2411, -86.2217
+Childsdale, 43.1047, -85.5803
+Chilson, 42.5269, -83.8617
+China, 42.7833, -82.5333
+Chippewa Beach, 45.4403, -84.6392
+Chippewa Lake, 43.7439, -85.2972
+Chippewa Vista, 43.7383, -85.0994
+Choate, 46.5333, -89.2833
+Chocolay, 46.4667, -87.3000
+Christie Lake, 42.1167, -85.9667
+Christmas, 46.4369, -86.7014
+Chums Corner, 44.6719, -85.6564
+Church Street, 43.0167, -83.7000
+Churchill(Muskegon), 43.2000, -86.2667
+Churchill(Ogemaw), 44.3000, -84.0667
+Circle Pine Center, 42.5739, -85.4606
+Cisco Lake, 46.2167, -89.1833
+Clair Haven, 42.6000, -82.8167
+Clam Lake, 44.2000, -85.4000
+Clam River, 44.9453, -85.2803
+Clam Union, 44.2167, -85.0333
+Clare, 43.8194, -84.7686
+Claremont, 43.2000, -86.2667
+Clarence Center, 42.3811, -84.7681
+Clarenceville, 42.4483, -83.3372
+Clarendon, 42.1303, -84.8658
+Clarion, 45.2783, -84.9233
+Clark, 46.0167, -84.3667
+Clark Bayshore, 44.2461, -83.5400
+Clark Corners, 43.0228, -86.1450
+Clarklake, 42.1214, -84.3450
+Clarksburg, 46.4919, -87.8519
+Clarkston, 42.7358, -83.4189
+Clarksville, 42.8422, -85.2425
+Clausedale, 43.2925, -84.0594
+Clawson, 42.5333, -83.1464
+Clay, 42.6333, -82.5833
+Claybanks, 43.5167, -86.4333
+Clays Landing, 42.5517, -82.6044
+Clayton, 41.8633, -84.2364
+Clear Lake(Ogemaw), 44.2833, -84.2333
+Clear Lake(St Joseph), 41.9500, -85.6333
+Clearwater, 44.8167, -85.2667
+Clement, 44.1333, -84.3333
+Cleon, 44.4667, -85.8667
+Cleveland, 44.9167, -85.8667
+Clifford, 43.3147, -83.1792
+Clifton Mill, 42.7850, -83.0861
+Climax, 42.2383, -85.3350
+Clinton, 42.0719, -83.9717
+Clinton River Meadows, 42.5667, -83.0333
+Clinton Village, 42.7958, -84.5314
+Clintonville, 42.6903, -83.3561
+Clio, 43.1775, -83.7342
+Cloverdale, 42.5333, -85.3833
+Cloverville, 43.1906, -86.1653
+Clowry, 46.5233, -87.8981
+Clyde, 42.6808, -83.6181
+Coal Dock, 46.5500, -87.4000
+Coalwood, 46.3406, -86.7317
+Coats Grove, 42.6831, -85.1922
+Coddes Beach, 45.4428, -84.2192
+Cody, 43.0000, -83.6500
+Coe, 43.4806, -84.6422
+Cohoctah, 42.7597, -83.9486
+Cohoctah Center, 42.7550, -83.9869
+Colberry Park, 42.5667, -83.2667
+Cold Springs(Cheboygan), 45.4603, -84.5900
+Cold Springs(Kalkaska), 44.8167, -85.0333
+Coldwater, 41.9403, -85.0006
+Coleman, 43.7567, -84.5858
+Colfax, 43.7433, -86.0792
+College Park, 42.4167, -83.1500
+College Town, 43.6000, -83.9000
+Collens Landing, 44.6450, -84.7714
+Colling, 43.6111, -83.4092
+Collins, 42.9292, -84.9439
+Collins Corner, 42.2083, -85.4822
+Coloma, 42.1861, -86.3083
+Colon, 41.9583, -85.3250
+Colonville, 43.8442, -84.7058
+Columbia, 42.1167, -84.3000
+Columbiaville, 43.1567, -83.4106
+Columbus, 42.8822, -82.6625
+Columbus Grove, 41.8000, -83.4500
+Colwood, 43.6117, -83.3522
+Comins, 44.7333, -84.0333
+Commerce, 42.5911, -83.4908
+Community Hospital, 42.3292, -85.1839
+Comstock, 42.2867, -85.5133
+Comstock Park, 43.0386, -85.6700
+Concord, 42.1778, -84.6431
+Condit, 42.1883, -84.7867
+Cone, 42.0319, -83.7531
+Conklin, 43.1289, -85.8814
+Connorville, 46.5519, -89.9308
+Constantine, 41.8411, -85.6686
+Convis, 42.3833, -85.0000
+Conway(Emmet), 45.4167, -84.8669
+Conway(Livingston), 42.7333, -84.1000
+Cooks, 45.9178, -86.4761
+Cooks Corners, 43.0883, -85.2625
+Cooks Mill, 42.2200, -85.4239
+Cooper, 42.3764, -85.6103
+Cooper Center, 42.3667, -85.5667
+Coopersville, 43.0639, -85.9347
+Cooperton, 44.1575, -84.7858
+Copeland Corner, 42.6725, -82.6225
+Copemish, 44.4817, -85.9225
+Copenhagen, 45.9667, -86.2500
+Copenhagen Beach, 45.9836, -86.2942
+Copper City, 47.2836, -88.3869
+Copper Falls, 47.4300, -88.1986
+Copper Harbor, 47.4689, -87.8883
+Coral, 43.3628, -85.4028
+Cordell, 46.1897, -84.8478
+Corey, 41.9028, -85.7608
+Corey Lake, 41.9500, -85.6333
+Corinne, 46.0867, -85.7219
+Corinth, 42.7828, -85.6636
+Cornell, 45.9014, -87.2222
+Corning, 42.7247, -85.6008
+Corunna, 42.9819, -84.1178
+Corwith, 45.1500, -84.6500
+Coryell Islands, 46.0000, -84.3667
+Cottage Grove, 44.5000, -84.6000
+Cottage Park, 46.3667, -84.4333
+Cotton, 44.6992, -85.0533
+Cottrellville, 42.7000, -82.5667
+Court, 42.2833, -85.5833
+Courtland, 43.1667, -85.5000
+Covert, 42.2936, -86.2622
+Covington, 46.5414, -88.5369
+Craigsmere, 46.4214, -89.2408
+Cranbrook, 42.5667, -83.2667
+Crapo, 43.8500, -85.4500
+Crawford, 43.5239, -84.7869
+Creighton, 46.3467, -86.2778
+Crescent Lake Estates, 42.6500, -83.4000
+Cressey, 42.4281, -85.4714
+Creswell, 45.0194, -85.3525
+Crisp, 42.8853, -86.0803
+Crockery, 43.0833, -86.0833
+Crofton, 44.6733, -85.2367
+Crooked Lake(Livingston), 42.5333, -83.7833
+Crooked Lake(Barry), 42.5000, -85.4000
+Cross Village, 45.6422, -85.0375
+Croswell, 43.2756, -82.6211
+Crotch Lake, 41.8000, -85.4167
+Croton, 43.4389, -85.6608
+Croton Heights, 43.4564, -85.6347
+Crow Island, 43.4697, -83.9039
+Crump, 43.7539, -84.0872
+Crystal, 43.2631, -84.9147
+Crystal Beach(Branch), 41.8369, -84.9711
+Crystal Beach(Van Buren), 42.3567, -86.2981
+Crystal Falls, 46.0981, -88.3339
+Crystal Lake, 44.6333, -86.2000
+Crystal Spring, 44.8244, -85.6486
+Crystal Valley, 43.7739, -86.2375
+Crystall Falls, 46.0833, -88.3333
+Crystallia, 44.6731, -86.2475
+Cumber, 43.6214, -82.9775
+Cumming, 44.3833, -84.0667
+Cunard, 45.7381, -87.6667
+Curran, 44.7147, -83.8078
+Curtis(Alcona), 44.5500, -83.7167
+Curtis(Mackinac), 46.2058, -85.7453
+Curtis(Midland), 43.7992, -84.4858
+Curtisville, 44.5597, -83.8672
+Cusino, 46.4450, -86.3586
+Custer, 43.9519, -86.2194
+Cutcheon, 44.4103, -85.1267
+Cutlerville, 42.8408, -85.6636

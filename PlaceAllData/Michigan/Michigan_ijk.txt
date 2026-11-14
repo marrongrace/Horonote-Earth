@@ -1,0 +1,183 @@
+Ida, 41.9108, -83.5736
+Ida Center, 41.8661, -83.5714
+Idlewild, 43.8869, -85.8025
+Imlay City, 43.0247, -83.0778
+Imperial Heights, 46.5336, -88.1311
+Ina, 44.1169, -85.2867
+Independence, 42.7333, -83.3833
+Indian Grove, 42.3886, -86.2828
+Indian Lake, 41.9833, -86.2000
+Indian River, 45.4125, -84.6125
+Indian Town, 46.4089, -86.5631
+Indian Village, 43.2000, -86.2667
+Indianfield, 42.2167, -85.5833
+Indianfields, 43.4667, -83.4000
+Indiantown(Menominee), 45.7028, -87.3661
+Indiantown(Saginaw), 43.4722, -83.8367
+Industrial Home, 41.9000, -84.0333
+Ingalls, 45.3769, -87.6111
+Ingallston, 45.2114, -87.5275
+Ingersoll, 43.5167, -84.2333
+Ingham, 42.5500, -84.2833
+Ingham Hospital, 42.7039, -84.5561
+Ingleside, 45.6333, -84.7833
+Inkster, 42.2942, -83.3100
+Inland(Benzie), 44.6500, -85.8833
+Inland(Schoolcraft), 46.0381, -85.8689
+Inland Corners, 44.6500, -85.7667
+Interior, 46.4333, -89.0500
+Interlaken, 43.2667, -86.2667
+Interlochen, 44.6447, -85.7672
+Inverness, 45.5833, -84.5167
+Inwood, 46.0500, -86.4500
+Ionia, 42.9872, -85.0711
+Ionia State Hospital, 42.9625, -85.0872
+Iosco, 42.5500, -84.0833
+Ira, 42.7000, -82.6667
+Iron Mountain, 45.8203, -88.0658
+Iron River, 46.0928, -88.6422
+Irons, 44.1400, -85.9158
+Ironton, 45.2561, -85.1867
+Ironwood, 46.4547, -90.1708
+Irving, 42.6883, -85.4181
+Isabella(Isabella), 43.6833, -84.7833
+Isabella(Delta), 45.8975, -86.6056
+Isadore, 44.8778, -85.7736
+Ishaward, 44.8133, -84.8394
+Ishpeming, 46.4886, -87.6675
+Island Lake, 41.9833, -83.8333
+Island Park, 42.3833, -85.4500
+Island View, 45.6394, -87.1975
+Isle Royale, 48.0000, -88.9000
+Isle Royale National Park, 48.0000, -88.9000
+Ithaca, 43.2917, -84.6075
+Iva, 43.4633, -84.2694
+Ivanhoe, 43.7056, -83.0942
+Ivanrest, 42.9000, -85.7333
+Jacks Landing, 44.6725, -85.4542
+Jackson, 42.2458, -84.4014
+Jacobsville, 46.9808, -88.4100
+Jam, 43.4167, -84.3333
+James, 43.3667, -84.0500
+Jamestown, 42.8256, -85.8425
+Jasper, 41.7933, -84.0406
+Jeddo, 43.1517, -82.5833
+Jefferson(Jackson), 42.1089, -84.2900
+Jefferson(Wayne), 42.3667, -82.9833
+Jenison, 42.9072, -85.7919
+Jenison Park, 42.7833, -86.1167
+Jennings, 44.3328, -85.2981
+Jerico, 41.9719, -86.5333
+Jerome(Hillsdale), 42.0269, -84.4694
+Jerome(Midland), 43.6833, -84.4167
+Jerusalem, 42.2747, -83.9819
+Jessieville, 46.4547, -90.1311
+Johannesburg, 44.9856, -84.4558
+Johnsons Landing, 45.2733, -87.4656
+Johnstown, 42.4667, -85.2500
+Johnswood, 45.9508, -83.6222
+Jones, 41.9025, -85.7994
+Jonesfield, 43.4333, -84.3333
+Jonesville, 41.9842, -84.6619
+Joppa, 42.1881, -85.2175
+Jordan(Antrim), 45.0833, -85.0333
+Jordan(Isabella), 43.6553, -84.7281
+Jossman Acres, 42.7647, -83.4708
+Joyfield(Wayne), 42.3500, -83.2167
+Joyfield(Benzie), 44.5500, -86.1000
+Juddville, 43.0586, -83.9875
+Jugville, 43.5342, -85.8606
+Juhl, 43.3597, -82.9464
+Junet, 46.5094, -90.1978
+Juniata, 43.3497, -83.4622
+Juniper, 46.3581, -86.5903
+K I Sawyer Air Force Base, 46.3333, -87.3667
+Kaiserville, 42.4317, -84.0303
+Kalamazoo, 42.2917, -85.5872
+Kalamazoo State Hospital, 42.2792, -85.6044
+Kalamo, 42.5428, -85.0128
+Kaleva, 44.3733, -86.0103
+Kalkaska, 44.7342, -85.1758
+Karlin, 44.5783, -85.7833
+Karrs Corner, 43.4514, -83.5814
+Kasson, 44.8167, -85.8833
+Katakitckon Indian Village, 46.1514, -89.0908
+Kawkawlin, 43.6519, -83.9431
+Kearney, 45.0000, -85.1333
+Kearsarge, 47.2750, -88.4161
+Keego Harbor, 42.6081, -83.3439
+Keelans Corner, 44.3378, -85.0756
+Keeler, 42.1128, -86.1667
+Keene, 42.9833, -85.2500
+Keewahdin, 43.0397, -82.4444
+Keewahdin Beach, 42.9667, -82.4833
+Kegomic, 45.3667, -84.9500
+Kelden, 46.2158, -84.2903
+Kellogg, 42.5500, -85.7667
+Kelloggsville, 42.6500, -85.2833
+Kells, 45.4344, -87.7089
+Kellys Corners, 43.2000, -85.9500
+Kelso Junction, 46.1472, -88.2536
+Kendall, 42.3617, -85.8133
+Kenneth, 46.0986, -84.9311
+Keno, 44.4722, -84.4106
+Kenockee, 43.0333, -82.6833
+Kensington, 42.4000, -82.9333
+Kent City, 43.2200, -85.7511
+Kent Oaks Hospital, 42.9767, -85.6350
+Kenton, 46.4856, -88.8939
+Kentucky, 46.2653, -86.6308
+Kentwood, 42.8694, -85.6447
+Kerby, 42.9994, -84.0692
+Kercheval, 42.3833, -82.9500
+Kerns Corner, 44.7333, -85.1833
+Kerr Hill, 42.8961, -83.3961
+Kessington, 41.7767, -85.8969
+Keswick, 44.9289, -85.6536
+Kew, 45.1586, -87.6158
+Kewadin, 44.9286, -85.3731
+Keweenaw Bay, 46.8603, -88.4817
+Keystone, 44.7500, -85.6167
+Kibbie, 42.4189, -86.1875
+Kiernan, 46.1456, -88.1797
+Killarney Beach, 43.6922, -83.9225
+Killmaster, 44.6317, -83.4514
+Kilmanagh, 43.7561, -83.3569
+Kimball, 42.9481, -82.5625
+Kimball Location, 46.0881, -88.3294
+Kimball Sanitorium, 42.3081, -85.1275
+Kincheloe, 46.2667, -84.4833
+Kincheloe Air Force Base, 46.2333, -84.4667
+Kinde, 43.9394, -82.9969
+Kinderhook, 41.7967, -85.0053
+Kings Corner, 43.2492, -85.0733
+Kings Landing, 42.0436, -86.3975
+Kings Mill, 43.1422, -83.1728
+Kingsford, 45.7950, -88.0719
+Kingsland, 42.5889, -84.6517
+Kingsley(Grand Traverse), 44.5847, -85.5358
+Kingsley(Delta), 45.9258, -87.2631
+Kingston, 43.4144, -83.1858
+Kinneville, 42.4664, -84.5711
+Kinney, 43.0158, -85.7683
+Kinross, 46.2750, -84.5147
+Kipling, 45.8733, -87.0117
+Kissipee, 44.9833, -84.4500
+Kisslers Corner, 43.2000, -85.9500
+Kiva, 46.2539, -87.0844
+Klacking, 44.3833, -84.1833
+Klinger Lake, 41.8000, -85.4167
+Klingers, 41.7931, -85.5261
+Klingville, 46.9678, -88.4778
+Kloman, 45.6833, -87.5333
+Klondike, 43.5667, -86.0333
+Kneeland, 44.7106, -84.0914
+Knights Mill, 44.1200, -83.9511
+Knollwood Park, 42.2333, -84.4000
+Kochville, 43.5011, -83.9456
+Koehler, 45.4167, -84.5167
+Koss, 45.3906, -87.7064
+Koylton, 43.3667, -83.1667
+Krakow, 45.2833, -83.5833
+Kurtz, 44.5611, -83.6456
+Kyro, 46.8167, -88.6333

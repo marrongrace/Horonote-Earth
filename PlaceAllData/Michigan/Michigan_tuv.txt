@@ -1,0 +1,191 @@
+Tacoma Park, 42.5667, -83.0333
+Taffeltown, 44.5406, -85.1750
+Talbot, 45.5106, -87.5975
+Tallmadge, 42.9925, -85.8342
+Tallman, 43.9847, -86.1122
+Tamarack(Houghton), 47.2481, -88.4683
+Tamarack(Gogebic), 46.2958, -89.0431
+Tamarack Lake, 46.1500, -88.7667
+Tapiola, 46.9247, -88.6264
+Tappan, 42.9661, -82.4828
+Tarryton, 42.5667, -83.0333
+Tasmas Corners, 42.8047, -86.1569
+Tawas, 44.2694, -83.5147
+Tawas Center, 44.2833, -83.5667
+Tawas City, 44.2694, -83.5147
+Taylor, 42.2408, -83.2697
+Taylor Park(Kalamazoo), 42.3000, -85.6167
+Taylor Park(Wayne), 42.2333, -83.2667
+Taymouth, 43.2428, -83.8739
+Teapot Dome, 42.2108, -85.9661
+Tecumseh, 42.0039, -83.9450
+Teeterville, 43.4950, -84.4164
+Tekonsha, 42.0933, -84.9858
+Teleford, 42.3167, -83.2667
+Telreka, 42.2333, -83.2667
+Temperance, 41.7792, -83.5689
+Temple, 44.0308, -85.0283
+Tent City, 44.5011, -84.8231
+Tesch, 45.7511, -87.2842
+Texas, 42.2000, -85.7000
+Texas Corners, 42.2011, -85.6867
+Thayer, 46.3292, -89.4619
+The Finger Board Corner, 45.3667, -84.5000
+The Haven Sanitarium, 42.6844, -83.1711
+The Heights, 42.0825, -84.2028
+The Jackpines, 44.4536, -83.7981
+The Mission, 46.4000, -84.5667
+Theilers, 46.4636, -89.6986
+Theodore, 46.0014, -87.8367
+Thetford Center, 43.1792, -83.6403
+Thomas(Saginaw), 43.4167, -84.0833
+Thomas(Tuscola), 43.7006, -83.5481
+Thomas(Oakland), 42.8794, -83.2972
+Thomaston, 46.5164, -89.9272
+Thompson, 45.9050, -86.3303
+Thompsonville, 44.5203, -85.9439
+Thornapple, 42.7167, -85.4833
+Thornton, 42.9167, -82.6000
+Thornville, 42.9425, -83.2239
+Thorton, 42.9686, -82.6175
+Three Churches Corner, 43.6675, -84.0086
+Three Lakes, 46.5544, -88.2011
+Three Mile Lake, 42.2167, -85.8833
+Three Oaks, 41.7986, -86.6106
+Three Rivers, 41.9439, -85.6325
+Tift Corner, 43.3958, -85.6228
+Tilden, 46.4000, -87.6667
+Timberlost, 46.5614, -85.1706
+Tioga, 46.5583, -88.3486
+Tipton, 42.0167, -84.0642
+Tittabawassee, 43.5167, -84.1167
+Titus, 43.6683, -85.1069
+Tobacco, 43.8500, -84.4333
+Tobico Beach, 43.6764, -83.9122
+Tobin Location, 46.0925, -88.3561
+Toivola, 46.9992, -88.7700
+Tompkins, 42.3731, -84.5417
+Tonquish, 42.3000, -83.3833
+Topaz, 46.5711, -89.4689
+Topinabee, 45.4839, -84.5953
+Toquin, 42.2575, -86.2231
+Torch Lake, 45.0753, -85.3586
+Torch Lake Village, 45.1167, -85.3500
+Torch River, 44.8511, -85.3239
+Towar Gardens, 42.7333, -84.4667
+Tower, 45.3553, -84.3006
+Tower Hill, 41.8833, -86.6167
+Tower Hill Shorelands, 41.9017, -86.6108
+Town Corners, 43.5500, -86.3500
+Traunik, 46.2608, -86.9694
+Traverse, 47.2553, -88.2642
+Traverse Bay, 47.1944, -88.2339
+Traverse City, 44.7631, -85.6206
+Tremaine Corners, 42.9006, -85.0747
+Trenary, 46.1953, -86.9697
+Trent, 43.2833, -85.8167
+Trenton, 42.1394, -83.1783
+Triangle Park, 44.5000, -84.6000
+Trimountain, 47.0553, -88.6606
+Trips, 42.6167, -83.4333
+Trist, 42.3361, -84.2003
+Trombly, 46.0431, -87.1481
+Trout Creek, 46.4822, -89.0117
+Trout Lake, 46.1936, -85.0189
+Trowbridge(Allegan), 42.4667, -85.8333
+Trowbridge(Ingham), 42.7333, -84.4667
+Trowbridge(Cheboygan), 45.2294, -84.5864
+Trowbridge Park, 46.5567, -87.4372
+Troy(Newaygo), 43.7431, -86.0192
+Troy(Oakland), 42.6056, -83.1500
+Trufant, 43.3139, -85.3544
+Tula, 46.5464, -89.8147
+Tunis, 46.4433, -88.6175
+Turin, 46.2000, -87.2500
+Turk Lake, 43.2708, -85.2564
+Turner(Dickinson), 46.1328, -87.9000
+Turner(Arenac), 44.1425, -83.7878
+Turner Shores, 41.8603, -86.6597
+Turners Corner, 42.4272, -85.4256
+Turtle, 44.1908, -83.7425
+Tuscarora, 45.4167, -84.6333
+Tuscola, 43.3264, -83.6572
+Tustin, 44.1025, -85.4589
+Twelve Corners, 42.1447, -86.3786
+Twin Beach, 42.5333, -83.4500
+Twin Lake, 43.3628, -86.1647
+Twin Lakes(Cass), 41.9833, -86.1167
+Twin Lakes(Houghton), 46.8972, -88.8508
+Twining, 44.1131, -83.8075
+Two Rivers, 43.6250, -84.9519
+Tyre, 43.6750, -82.8911
+Tyrone Lake, 42.8167, -83.7167
+Ubly, 43.7100, -82.9317
+Udell, 44.2336, -86.0914
+Unadilla, 42.4286, -84.0567
+Union, 41.7861, -85.8678
+Union City, 42.0667, -85.1361
+Union Lake, 42.6147, -83.4469
+Union Pier, 41.8281, -86.6925
+Union Plains, 42.8297, -84.0128
+Unionville, 43.6536, -83.4661
+University of Michigan, 42.2833, -83.7333
+University of Michigan Medical Center, 42.2828, -83.7308
+Updyke, 43.1861, -86.1064
+Upjohn, 42.2167, -85.5833
+Urbandale(Calhoun), 42.3522, -85.2442
+Urbandale(Ingham), 42.6833, -84.5500
+Utica, 42.6261, -83.0336
+Vail, 46.3367, -86.7728
+Valley, 42.5500, -85.9667
+Valley Center, 43.1850, -82.9186
+Valley Farms, 42.7842, -84.5428
+Valley Island, 43.7922, -83.4281
+Van, 45.5939, -84.7825
+Van Buren, 42.2167, -83.4833
+Van Dyke, 42.4667, -83.0000
+Van Etten Lake, 44.4167, -83.3333
+Van Meer, 46.4194, -86.4697
+Van Pelham, 42.2833, -83.2833
+Vandalia, 41.9169, -85.9147
+Vanderbilt, 45.1428, -84.6603
+Vandercook Lake, 42.1933, -84.3911
+Vantown, 42.6006, -84.2236
+Vassar, 43.3719, -83.5833
+Vega, 45.7858, -87.6031
+Venice, 43.0000, -83.9833
+Ventnor Manor, 42.5667, -83.0333
+Vergennes, 42.9833, -85.3667
+Vermilac, 46.5308, -88.4589
+Vermilion, 46.7625, -85.1500
+Vermontville, 42.6289, -85.0242
+Vernon, 42.9392, -84.0294
+Vernon City, 43.8333, -84.7667
+Verona(Calhoun), 42.3303, -85.1556
+Verona(Gogebic), 46.4775, -89.9889
+Verona(Huron), 43.8058, -82.8811
+Verona Park, 42.3500, -85.1500
+Vestaburg, 43.3992, -84.9056
+Veterans Administration Hospital(Dickinson), 45.8000, -88.0667
+Veterans Administration Hospital(Calamazoo), 42.3453, -85.2908
+Vevay, 42.5500, -84.4167
+Vick, 46.3247, -87.1578
+Vickery Landing, 42.5039, -85.2714
+Vickeryville, 43.1922, -84.9653
+Vicksburg, 42.1200, -85.5328
+Victor, 42.9000, -84.4167
+Victoria, 46.6992, -89.2294
+Victory, 44.0333, -86.3500
+Vienna, 41.7869, -83.4781
+Vienna Corners, 44.9703, -84.3708
+Vienna Junction(Monroe), 41.7500, -83.5050
+Vienna Junction(Montmorency), 44.8797, -84.3236
+Villa Marillac Hospital, 42.5058, -83.3206
+Vineland, 42.0614, -86.4703
+Virgil Location, 46.1078, -88.6364
+Virginia Park, 42.7722, -86.1761
+Vogel Center, 44.1925, -85.0525
+Volinia, 42.0117, -85.9547
+Volney, 43.6994, -86.0197
+Vriesland, 42.8119, -85.9403
+Vulcan, 45.7806, -87.8625

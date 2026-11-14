@@ -1,0 +1,171 @@
+Rabbit Bay, 47.0636, -88.3553
+Raber, 46.0892, -84.0714
+Raco, 46.3756, -84.7228
+Racy, 43.1950, -84.3061
+Rainbow Bend, 44.1286, -84.9217
+Rainy Beach, 45.4506, -84.2153
+Raisin, 41.9500, -83.9667
+Raisin Center, 41.9289, -83.9533
+Raisinville, 41.9667, -83.5167
+Ralph, 46.1086, -87.7836
+Rambaultown, 47.2500, -88.4500
+Ramona, 43.6042, -85.8019
+Ramona Park(Kalamazoo), 42.1897, -85.5411
+Ramona Park(Emmet), 45.4258, -84.9450
+Ramsay, 46.4703, -89.9964
+Ranch Acres, 43.0667, -86.1833
+Randall Beach, 42.6333, -83.2333
+Randall Lake, 41.9500, -85.0000
+Randville, 45.9917, -88.0569
+Rankin, 42.9144, -83.7506
+Ransom, 41.7753, -84.5342
+Rapid City, 44.8344, -85.2825
+Rapid River, 45.9269, -86.9669
+Rapson, 43.8561, -82.8825
+Rasmus, 44.6300, -84.7750
+Rathbone, 43.3358, -84.4297
+Rattle Run, 42.8664, -82.5997
+Ravema, 43.1894, -85.9369
+Ravenna, 43.1833, -85.9333
+Ravenswood, 42.7333, -84.6000
+Ravenswood Heights, 42.2833, -85.5667
+Ravenwood, 41.9167, -83.3833
+Rawsonville, 42.2153, -83.5517
+Ray(Macomb), 42.7500, -82.9167
+Ray(Branch), 41.7597, -84.8719
+Ray Center, 42.7617, -82.9014
+Raymond Corners, 44.0333, -85.6833
+Rea, 41.9500, -83.6667
+Reade, 46.0597, -87.5617
+Reading, 41.8394, -84.7481
+Readmond, 45.6000, -85.0333
+Recreation Park(Muskegon), 43.2000, -86.2333
+Recreation Park(Kalamazoo), 42.2333, -85.5833
+Red Oak, 44.7097, -84.2922
+Red Park, 44.3519, -86.2428
+Redding, 44.0333, -85.0333
+Redford, 42.3833, -83.3000
+Redman, 43.9292, -82.8342
+Redridge, 47.1506, -88.7622
+Redstone, 43.4814, -84.4689
+Reed City, 43.8750, -85.5100
+Reeder, 44.3000, -85.1667
+Reeds Lake, 42.9333, -85.6167
+Reeman, 43.4450, -86.0086
+Reese, 43.4506, -83.6964
+Remus, 43.5967, -85.1447
+Reno(Iosco), 44.3000, -83.8167
+Reno(Ottawa), 43.0750, -85.8386
+Republic, 46.4067, -87.9756
+Rescue, 43.6500, -83.2500
+Resort, 45.3333, -85.0167
+Rexton, 46.1586, -85.2400
+Reynolds, 43.4333, -85.5000
+Rhodes, 43.9017, -84.1761
+Rice Creek, 42.3344, -84.8286
+Rich, 43.2833, -83.2833
+Richfield Center, 43.0928, -83.5183
+Richland, 42.3761, -85.4550
+Richland Junction, 42.4011, -85.4969
+Richmond, 42.8092, -82.7558
+Richmondville, 43.5733, -82.5936
+Richville, 43.4092, -83.6772
+Ridgeville, 41.7572, -84.0217
+Ridgeway, 41.9939, -83.8628
+Ridgewood Hospital, 42.2747, -83.5639
+Riga, 41.8092, -83.8250
+Riggsville, 45.5700, -84.6106
+Riley, 42.9150, -84.6806
+Riley Center, 42.9408, -82.8417
+Ripley, 47.1267, -88.5536
+Ritter Hills, 43.2000, -86.2667
+River Bluff, 41.8333, -86.2500
+River District Hospital, 42.7797, -82.4797
+River Forest Nursing Home, 41.9928, -85.6369
+River Raisin, 42.1181, -83.9792
+River Rouge, 42.2733, -83.1344
+Riverdale, 43.3856, -84.8356
+Riverland, 45.7967, -87.2267
+Riverside(Berrien), 42.1833, -86.3828
+Riverside(St Clair), 42.5589, -82.6303
+Riverside(Jackson), 42.2500, -84.4000
+Riverside(Missaukee), 44.2167, -85.1500
+Riverton, 43.8667, -86.3333
+Riverview(Wayne), 42.1742, -83.1794
+Riverview(Newaygo), 43.4481, -85.6525
+Rives, 42.3833, -84.4167
+Rives Junction, 42.3858, -84.4617
+Roaring Brook, 45.4286, -84.9458
+Robbins, 46.3819, -89.2256
+Roberts Corner, 46.3033, -85.4886
+Roberts Corners, 46.3500, -85.5000
+Roberts Landing, 42.6597, -82.5158
+Robinson, 42.9867, -86.0842
+Rochester, 42.6806, -83.1339
+Rock, 46.0689, -87.1658
+Rock Harbor Lodge, 48.1458, -88.4836
+Rock River, 46.4639, -86.9131
+Rockford, 43.1200, -85.5600
+Rockland, 46.7381, -89.1794
+Rockport, 45.2039, -83.3856
+Rockview, 46.0858, -84.3628
+Rockwood, 42.0708, -83.2467
+Rodney, 43.6736, -85.3283
+Rogers(Iron), 46.1000, -88.6500
+Rogers(Presque Isle), 45.4500, -83.8667
+Rogers City, 45.4214, -83.8183
+Rogers Corner, 42.2389, -83.9742
+Rogers Heights, 42.9167, -85.7000
+Rogers Location, 46.1061, -88.5847
+Rogersville, 43.1228, -83.5769
+Rolland Center, 43.5242, -84.9961
+Rollin, 41.9119, -84.3236
+Rome Center, 41.9436, -84.1878
+Romeo, 42.8028, -83.0131
+Romulus, 42.2222, -83.3967
+Ronald, 43.0833, -85.0167
+Rondo, 45.3167, -84.6244
+Roodmont, 43.2000, -86.2667
+Roosevelt, 43.3492, -84.1903
+Roosevelt Park, 43.2000, -86.2667
+Roots, 42.3356, -84.3222
+Roscommon, 44.4983, -84.5919
+Rose Center, 42.7833, -83.6167
+Rose City, 44.4214, -84.1167
+Rose Corners, 42.7394, -83.6667
+Rose Island, 43.7828, -83.4314
+Rose Lake, 44.0167, -85.4000
+Roseburg, 43.1900, -82.7439
+Rosebush, 43.6992, -84.7678
+Rosedale, 46.3761, -84.3219
+Rosemary Beach, 41.9819, -86.5636
+Roseville, 42.4972, -82.9372
+Ross, 42.7825, -85.6944
+Rosy Mound, 43.0300, -86.2228
+Rothbury, 43.5072, -86.3475
+Roulo, 42.1900, -83.4833
+Round Lake(Lenawee), 41.9833, -84.2833
+Round Lake(Mason), 44.0500, -86.1833
+Rousseau, 46.7094, -88.9697
+Rowes Corner, 42.1917, -84.0328
+Roxand, 42.7167, -84.9000
+Royal Oak, 42.4894, -83.1447
+Royal Oak Beach, 45.4919, -84.5778
+Royalton, 42.0167, -86.4333
+Royalton Heights, 42.0833, -86.5000
+Royston, 45.1594, -83.8931
+Rubicon, 43.9000, -82.7167
+Ruby, 43.0422, -82.6075
+Rudds Mill, 42.7678, -83.2183
+Rudyard, 46.2325, -84.6003
+Rumely, 46.3483, -87.0331
+Rush, 43.0833, -84.2333
+Rushton, 42.4519, -83.6961
+Rusk, 42.9575, -86.0125
+Russell Island, 42.6167, -82.5333
+Russellville, 43.0917, -83.5583
+Rust, 44.9867, -83.9486
+Rustford, 43.5125, -85.3428
+Ruth, 43.7153, -82.7403
+Rutland, 42.6500, -85.3667
+Ryan, 43.4736, -84.3694

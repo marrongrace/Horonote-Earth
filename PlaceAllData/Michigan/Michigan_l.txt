@@ -1,0 +1,226 @@
+L'Anse, 46.7567, -88.4528
+La Branch, 45.8000, -87.3667
+La Grange, 41.9542, -86.0417
+La Grange Park, 43.9000, -85.8500
+La Salle, 41.8678, -83.4522
+La Salle Gardens, 42.6500, -83.4000
+Labarge, 42.8119, -85.4875
+LaBranche, 45.8775, -87.4689
+Lac La Belle, 47.3844, -88.0186
+Lacey, 42.4931, -85.1911
+Lachine, 45.0775, -83.7161
+Lacota, 42.4136, -86.1297
+Ladoga, 46.2819, -87.0547
+Lafayette, 43.3333, -84.4333
+LaFayette Landing, 46.7992, -89.8406
+Lagoon Beach, 43.6611, -83.8900
+Laing, 43.5206, -82.9339
+Laingsburg, 42.8903, -84.3514
+Laird, 46.7000, -88.8000
+Lake, 43.8519, -85.0053
+Lake Angeline, 46.4783, -87.6758
+Lake Angelus, 42.6986, -83.3167
+Lake Ann, 44.7239, -85.8431
+Lake City, 44.3353, -85.2150
+Lake Fenton, 42.8167, -83.7167
+Lake George, 43.9633, -84.9469
+Lake Gerald, 46.9333, -88.8167
+Lake Harbor, 43.2000, -86.2667
+Lake Harbor Estates, 43.2000, -86.2667
+Lake Harbor Hills, 43.2000, -86.2667
+Lake Harbor Point, 43.2000, -86.2667
+Lake Huron Beach, 44.2331, -83.5475
+Lake Lansing, 42.7500, -84.4000
+Lake Leelanau, 44.9808, -85.7150
+Lake Linden, 47.1942, -88.4072
+Lake Margrethe, 44.6417, -84.7703
+Lake Michigan Beach, 42.2208, -86.3694
+Lake Michigan Estates, 43.2000, -86.2667
+Lake Mine, 46.7753, -89.0458
+Lake Nepessing, 43.0500, -83.3167
+Lake Odessa, 42.7847, -85.1383
+Lake of the Woods, 41.9500, -85.0000
+Lake Orion, 42.7844, -83.2397
+Lake Orion Heights, 42.7703, -83.2642
+Lake Pleasant, 43.0333, -83.1667
+Lake Roland, 46.8844, -88.8639
+Lake Sherwood, 42.6000, -83.4833
+Lake Shore, 42.6500, -86.2000
+Lakefield, 43.3464, -84.3306
+Lakeland, 42.4633, -83.8442
+Lakeport, 43.1150, -82.4903
+Lakeside(Genesee), 42.8358, -83.7067
+Lakeside(Huron), 44.0500, -83.0000
+Lakeside(Berrien), 41.8492, -86.6678
+Lakeside(Macomb), 42.5650, -82.8392
+Lakeside Hospital, 42.3333, -83.0356
+Laketon(Luce), 46.3428, -85.7483
+Laketon(Muskegon), 43.2667, -86.3000
+Laketown, 42.7333, -86.1667
+Lakeview(Berrien), 41.8333, -86.6928
+Lakeview(Calhoun), 42.2983, -85.2111
+Lakeview(Moncalm), 43.4464, -85.2742
+Lakeville, 42.8214, -83.1503
+Lakewood(Alpena), 45.1908, -83.4339
+Lakewood(Muskegon), 43.3767, -86.2364
+Lakewood(Kalamazoo), 42.2786, -85.5408
+Lakewood(Marquette), 46.4969, -87.3450
+Lakewood(Monroe), 41.8000, -83.4500
+Lakewood Club, 43.3667, -86.2500
+Lakewood Point, 42.1833, -86.3167
+Lamar, 42.9167, -85.7000
+Lamb, 42.9833, -82.6667
+Lambert, 45.8408, -87.1111
+Lambertville, 41.7658, -83.6281
+Lambs, 42.9328, -82.7083
+Lamont, 43.0086, -85.9061
+Lamotte, 43.4667, -83.0333
+Lanewood, 42.3272, -84.0225
+Langport, 43.3650, -84.3897
+Langston, 43.3139, -85.2439
+Lansing, 42.7325, -84.5556
+Lapeer, 43.0514, -83.3189
+Lapeer Heights, 43.0086, -83.5950
+Laporte, 43.4964, -84.1889
+Larch, 45.7897, -87.0644
+Larkin, 43.7228, -84.2472
+Larson Beach, 44.8008, -83.5236
+Lathrop, 46.1481, -87.2219
+Lathrup Village, 42.4964, -83.2228
+Laurel, 43.4167, -82.8333
+Laurium, 47.2375, -88.4431
+Lavender Corner, 46.5017, -85.9397
+Lawndale(Kalamazoo), 42.2864, -85.4622
+Lawndale(Saginaw), 43.4808, -84.0344
+Lawnel, 43.2000, -86.2667
+Lawrence, 42.2192, -86.0514
+Lawson, 46.3297, -87.1364
+Lawton, 42.1672, -85.8469
+Layton Corners, 43.1758, -83.9883
+Le Roy, 44.0381, -85.4539
+Leapers, 45.7872, -87.6944
+Leaton, 43.6700, -84.7083
+Leavitt, 43.6833, -86.1000
+Lebanon, 43.0667, -84.7833
+Lee, 42.4508, -86.0908
+Lee Center, 42.4069, -84.8886
+Leedys Gardens, 41.9167, -83.3833
+Leelanau Schools, 44.9153, -85.9708
+Leelanau Shores, 44.8922, -85.6933
+Leer, 45.1978, -83.7394
+Leetsville, 44.7933, -85.1447
+Legrand, 45.4036, -84.4503
+LeGraph, 42.2833, -83.2833
+Leighton, 42.7333, -85.6000
+Leila Hospital, 42.3314, -85.1792
+Leisure, 42.4694, -86.1683
+Leland, 45.0231, -85.7597
+Lemon Park, 42.1522, -85.4986
+Lenawee Junction, 41.8844, -83.9439
+Lencel, 46.3503, -85.4294
+Lennon, 42.9856, -83.9283
+Lenox, 42.7667, -82.8000
+Leo, 46.5333, -88.5333
+Leonard, 42.8653, -83.1428
+Leoni, 42.2439, -84.2692
+Leonidas, 42.0228, -85.3519
+Leota, 44.1394, -84.8894
+Leroy, 45.2200, -83.5208
+Les Cheneaux Club, 45.9833, -84.3667
+Leslie, 42.4514, -84.4325
+Lesterville, 42.9578, -82.9056
+Level Park, 42.3603, -85.2725
+Levering, 45.6358, -84.7869
+Lewer Pewabic, 47.1517, -88.5603
+Lewiston, 44.8839, -84.3056
+Lewisville, 43.9444, -82.8350
+Lexington, 43.2681, -82.5308
+Lexington Heights, 43.2250, -82.5247
+Liberty, 42.1022, -84.4006
+Liberty Corners, 41.7497, -83.5872
+Lickly Corners, 41.7964, -84.4583
+Lidke's Corners, 43.9500, -86.2833
+Lilley, 43.7708, -85.8506
+Lima Center, 42.2958, -83.9575
+Lime Creek, 41.7656, -84.3297
+Lime Island, 46.0500, -84.0833
+Limestone, 46.2608, -86.9292
+Liminga, 47.1561, -88.6981
+Lincoln(Washtenaw), 42.1572, -83.6011
+Lincoln(Chippewa), 45.9739, -83.6564
+Lincoln(Alcona), 44.6847, -83.4122
+Lincoln Estates, 43.2000, -86.2667
+Lincoln Junction, 44.4925, -83.3533
+Lincoln Meadows, 43.2000, -86.2667
+Lincoln Park(Wayne), 42.2506, -83.1786
+Lincoln Park(Muskegon), 43.2000, -86.2667
+Linden, 42.8144, -83.7825
+Linden Hills, 42.3042, -86.3247
+Lindland's, 43.2000, -86.2667
+Linkville, 43.7581, -83.2672
+Linwood(Bay), 43.7392, -83.9622
+Linwood(Wayne), 42.3833, -83.1167
+Linwood Beach, 43.7239, -83.9436
+Lisbon, 43.1333, -85.8667
+Liske, 45.3342, -83.7411
+Litchfield, 42.0439, -84.7575
+Little Killarney Beach, 43.6842, -83.9178
+Little Lake, 46.2889, -87.3417
+Little Manistee, 44.0956, -85.9092
+Little Paw Paw Lake, 42.2194, -86.2839
+Little Point Sable, 43.6347, -86.5375
+Little Summer Island, 45.6167, -86.6833
+Little Traverse, 45.4333, -84.9167
+Little Traverse Hospital, 45.3731, -84.9703
+Little Venice, 42.6906, -84.9558
+Littlefield, 45.4333, -84.8000
+Livernois, 42.3333, -83.1333
+Livingston(Berrien), 41.9683, -86.5431
+Livingston(Otsego), 45.0667, -84.6833
+Livonia, 42.3683, -83.3528
+Loch Alpine, 42.2833, -83.7500
+Locke, 42.7333, -84.2000
+Lockport(St Joseph), 41.9500, -85.6000
+Lockport(Midland), 43.5247, -84.2494
+Lockwood, 41.8836, -85.0489
+Lockwood Beach, 43.8428, -84.3356
+Locust Corners, 41.8839, -84.4203
+Lodi(Kalkaska), 44.6406, -85.1753
+Lodi(Washtenaw), 42.2167, -83.8333
+Loehme, 43.6903, -84.0678
+London, 42.0200, -83.6133
+Long Beach, 43.2000, -86.2667
+Long Lake(Clare), 44.0167, -84.8000
+Long Lake(Iosco), 44.4197, -83.8719
+Long Lake(Ionia), 43.0667, -85.1333
+Long Lake(Grand Traverse), 44.7333, -85.7500
+Long Lake(Hillsdale), 41.8333, -84.7500
+Long Lake Heights, 44.0992, -84.7744
+Long Point, 45.5214, -84.5481
+Long Rapids, 45.1258, -83.7225
+Longrie, 45.4058, -87.7250
+Loomis, 43.7936, -84.6661
+Loon Lake, 42.5500, -83.5000
+Loretto, 45.7772, -87.8150
+Lost Lake Woods, 44.7769, -83.4244
+Lottivue, 42.6594, -82.7619
+Loud, 44.9000, -84.0667
+Louis Cabin Landing, 44.6650, -84.6367
+Lovells, 44.8031, -84.4819
+Lowell, 42.9336, -85.3419
+Lower Chub Landing, 44.8908, -84.5844
+Lower Pewabic, 47.1333, -88.6000
+Lucas, 44.2183, -85.2850
+Luce, 43.2342, -84.0300
+Ludington, 43.9553, -86.4525
+Lulu, 41.8797, -83.6108
+Lum, 43.0994, -83.1511
+Luna Pier, 41.8069, -83.4425
+Lupton, 44.4311, -84.0258
+Luther, 44.0403, -85.6825
+Luzerne, 44.6158, -84.2711
+Lyndon Center, 42.3814, -84.0831
+Lynn, 43.1167, -82.9333
+Lyon Lake, 42.2667, -84.9667
+Lyon Manor, 44.4614, -84.7439
+Lyons, 42.9819, -84.9469

@@ -1,0 +1,256 @@
+Nadeau, 45.6089, -87.5528
+Nagel Corner, 45.3000, -83.8833
+Nahma, 45.8417, -86.6639
+Nahma Junction, 45.8972, -86.7083
+Nankin Mills, 42.3167, -83.3667
+Naomi, 42.0428, -86.2711
+Napier, 42.0936, -86.2803
+Napoleon, 42.1606, -84.2461
+Narenta, 45.7264, -87.2425
+Nashville, 42.6028, -85.0931
+Natalie, 46.3469, -85.5775
+Nathan, 45.5792, -87.7069
+National City, 44.2342, -83.7233
+National Mine, 46.4586, -87.6814
+Naubinway, 46.0925, -85.4475
+Naults, 45.9917, -88.3939
+Nazareth, 42.3167, -85.5500
+Neebish Island, 46.2667, -84.1500
+Needmore, 42.6833, -84.8561
+Neeley, 42.5000, -85.5544
+Negaunee, 46.4992, -87.6117
+Nellsville, 44.3358, -84.8133
+Nelson(Kent), 43.2500, -85.5000
+Nelson(Saginaw), 43.3342, -84.2297
+Nepco Camp No 7, 47.4033, -88.1444
+Nessen City, 44.5200, -85.8781
+Nester, 44.2000, -84.4833
+Nestoria, 46.5703, -88.2636
+New Allouez, 47.3000, -88.4000
+New Baltimore, 42.6811, -82.7369
+New Boston, 42.1625, -83.4031
+New Bradford, 42.5667, -83.0333
+New Bristol, 46.1044, -88.3864
+New Buffalo, 41.7939, -86.7439
+New Dalton, 46.3919, -87.1997
+New Era, 43.5592, -86.3456
+New Greenleaf, 43.6617, -83.0783
+New Groningen, 42.7833, -86.1167
+New Haven(Macomb), 42.7294, -82.8014
+New Haven(Shiawassee), 43.0936, -84.1533
+New Haven Center, 43.2489, -84.7772
+New Holland, 42.8561, -86.0789
+New Hudson, 42.5108, -83.6156
+New Lothrop, 43.1167, -83.9700
+New Richmond, 42.6478, -86.1056
+New Salem, 42.7539, -85.8019
+New Swanzy, 46.2775, -87.4258
+New Troy, 41.8764, -86.5497
+Newark(Montcalm), 43.2486, -84.7097
+Newark(Oakland), 42.8600, -83.6253
+Newaygo, 43.4197, -85.8000
+Newberg, 41.9333, -85.8167
+Newberry, 46.3550, -85.5094
+Newberry State Hospital, 46.3308, -85.4997
+Newburg(Lenawee), 42.0422, -83.9683
+Newburg(Shiawassee), 42.9089, -84.0692
+Newfield, 43.5833, -86.1000
+Newkirk, 44.0667, -85.7333
+Newland, 44.2500, -86.3167
+Newport, 42.0022, -83.3086
+Nicholson, 42.7769, -84.1239
+Nicholsville, 42.0436, -85.8961
+Nickel Plate, 42.9833, -85.0667
+Niles, 41.8297, -86.2542
+Nine Mile, 43.8767, -84.0653
+Nirvana, 43.9025, -85.7119
+Nisula, 46.7650, -88.7944
+Noble, 41.7833, -85.2333
+Nonesuch, 46.7553, -89.6194
+Noordeloos, 42.8414, -86.0583
+Norman, 44.2167, -85.9500
+Norrie, 46.4464, -90.1628
+North Adams, 41.9708, -84.5258
+North Allis, 45.4000, -84.2000
+North Arms, 44.9711, -85.2314
+North Aurelius, 42.5819, -84.5431
+North Bell, 42.8500, -85.2500
+North Bessemer, 46.5094, -90.0661
+North Blendon, 42.9289, -85.9622
+North Bradley, 43.7114, -84.4900
+North Branch, 43.2294, -83.1967
+North Byron, 42.8450, -85.7328
+North Dorr, 42.7686, -85.7619
+North End, 42.3500, -83.0500
+North Epworth, 43.9781, -86.4667
+North Escanaba, 45.7500, -87.0667
+North Farmington, 42.5278, -83.3797
+North Fox Island, 45.4833, -85.7833
+North Ironwood, 46.5108, -90.1553
+North Lake(Lapeer), 43.2167, -83.4667
+North Lake(Marquette), 46.4936, -87.7275
+North Lake(Van Buren), 42.3667, -85.8833
+North Lakeport, 43.1372, -82.4969
+North Lansing, 42.7333, -84.5833
+North Leslie, 42.4806, -84.4442
+North Manitou, 45.1203, -85.9792
+North Morenci, 41.7636, -84.2236
+North Muskegon, 43.2561, -86.2675
+North Niles, 41.8667, -86.2500
+North Paynesville, 46.5642, -89.1156
+North Plains, 43.0833, -84.9000
+North Shade, 43.1667, -84.7833
+North Shores, 41.8364, -83.4075
+North Side, 43.0667, -83.7000
+North Star, 43.2483, -84.5433
+North Street, 43.0500, -82.5333
+North Unity, 44.8500, -85.8500
+North Wheeler, 43.4661, -84.4286
+North Williams, 43.6397, -84.0889
+Northeastern, 42.3333, -83.1833
+Northern Michigan Sanitorium, 45.0458, -84.6689
+Northfield(Monroe), 41.9167, -83.3833
+Northfield(Washtenaw), 42.3439, -83.7264
+Northfield Hills, 42.5667, -83.1500
+Northgate, 43.0000, -85.6333
+Northland, 46.0731, -87.5956
+Northland Center, 42.4667, -83.2333
+Northport, 45.1314, -85.6167
+Northville(Wayne), 42.4311, -83.4833
+Northville(Kent), 43.0000, -85.6333
+Northville State Hospital, 42.4197, -83.4469
+Northwestern, 42.3667, -83.1333
+Northwood, 42.3328, -85.5897
+Norton, 42.3761, -83.3142
+Norton Oaks, 43.2000, -86.2667
+Norton Shores, 43.1689, -86.2639
+Nortondale, 43.2000, -86.2667
+Norvell, 42.1575, -84.1842
+Norwalk, 44.3417, -86.1622
+Norway, 45.7869, -87.9036
+Norwayne, 42.3000, -83.3833
+Norwood, 45.2167, -85.3814
+Nottawa, 41.9189, -85.4489
+Notten, 42.2786, -84.1233
+Novesta, 43.5500, -83.1667
+Novi, 42.4806, -83.4756
+Nowesco, 46.2000, -84.7333
+Nunda, 45.2500, -84.4833
+Nunica, 43.0797, -86.0672
+O'Neil, 44.6414, -85.0739
+Oak, 42.3803, -83.2344
+Oak Grove(Livingston), 42.7003, -83.9319
+Oak Grove(Otsego), 44.9725, -84.6825
+Oak Grove(Newaygo), 43.4167, -85.7833
+Oak Grove(Oakland), 42.6203, -83.2392
+Oak Hill, 44.2244, -86.3039
+Oak Island, 42.5333, -83.4500
+Oak Park(Kalamazoo), 42.3583, -85.2569
+Oak Park(Oakland), 42.4594, -83.1828
+Oak Point, 42.1928, -84.2558
+Oak Ridge(Chippewa), 46.2886, -84.2100
+Oak Ridge(Oakland), 42.5167, -83.1500
+Oak Shade Park, 42.0683, -84.1606
+Oak Wood Shores, 44.2117, -83.5536
+Oakdale, 43.2000, -86.2333
+Oakfield, 43.1667, -85.3667
+Oakfield Center, 43.1833, -85.2500
+Oakhurst, 43.6397, -83.6061
+Oakland(Oakland), 42.7500, -83.1500
+Oakland(Allegan), 42.6833, -86.0000
+Oaklawn, 42.7833, -86.1167
+Oaklawn Beechwood, 42.8050, -86.1144
+Oakley, 43.1397, -84.1681
+Oakley Park, 42.5689, -83.4967
+Oakville, 42.0814, -83.5808
+Oakwood(Kalamazoo), 42.2564, -85.6200
+Oakwood(Oakland), 42.8675, -83.3367
+Oakwood(St Joseph), 41.7956, -85.5519
+Oakwood(Wayne), 42.2833, -83.1833
+Oakwood Junction, 42.2500, -83.2167
+Oberlin, 44.0744, -84.5061
+Oceola, 42.6500, -83.8500
+Ocqueoc, 45.4083, -84.0900
+Oden, 45.4236, -84.8281
+Odessa, 42.8167, -85.1333
+Odessac, 45.4333, -84.0667
+Odgers, 41.9833, -84.3500
+Odgers Location, 46.0975, -88.3489
+Ogden, 41.8178, -83.9800
+Ogden Center, 41.7719, -83.9597
+Ogemaw, 44.3000, -84.3000
+Ogemaw Springs, 44.3036, -84.2925
+Ogontz, 45.8683, -86.7908
+Oil City, 43.6108, -84.5883
+Ojibway, 47.3394, -88.3278
+Okemos, 42.7222, -84.4275
+Ola, 43.1833, -84.4833
+Old Mill Gardens, 42.2681, -85.1989
+Old Mission, 44.9622, -85.4853
+Old Saugatuck, 42.6664, -86.2128
+Old Squaw Skin Landing, 42.6414, -86.0692
+Oldport, 41.9947, -83.2867
+Olive Center, 42.9142, -86.0814
+Olive Hills, 42.9167, -86.1500
+Oliver Memorial Hospital, 44.6372, -86.2428
+Olivers, 43.8825, -85.5822
+Olivet, 42.4414, -84.9242
+Olney Corners, 43.1281, -84.3447
+Olson, 43.6256, -84.4292
+Omena, 45.0556, -85.5889
+Omer, 44.0475, -83.8544
+Onaway, 45.3575, -84.2239
+Oneida, 42.7333, -84.7667
+Onekama, 44.3636, -86.2050
+Onekama Junction, 44.3369, -86.2025
+Onondaga, 42.4442, -84.5622
+Onota, 46.4711, -86.9958
+Onsted, 42.0061, -84.1900
+Ontonagon, 46.8711, -89.3139
+Ontwa, 41.7833, -86.0500
+Orangeville, 42.5528, -85.5192
+Orchard Beach, 45.5569, -84.4644
+Orchard Lake, 42.5831, -83.3594
+Orchard Lake Village, 42.5833, -83.3667
+Orchard Park, 42.3408, -85.1856
+Orchard Point, 45.2158, -83.4950
+Oregon, 43.1000, -83.4000
+Orient, 43.8667, -85.1500
+Orion, 42.7333, -83.2833
+Orlando Park, 43.0000, -85.6333
+Orleans, 43.0686, -85.1350
+Oronoko, 41.9500, -86.3833
+Orr, 43.3803, -84.1703
+Ortonville, 42.8522, -83.4431
+Osceola, 47.2314, -88.4536
+Oscoda, 44.4203, -83.3308
+Oshtemo, 42.2589, -85.6775
+Osier, 45.9333, -86.9667
+Oskar, 47.1747, -88.6483
+Ossawinamakee Beach, 45.9981, -86.2936
+Osseo, 41.8858, -84.5442
+Ossineke, 44.9022, -83.4425
+Osteopathic Hospital, 44.7564, -85.5772
+Osterhout Lake, 42.4000, -86.0667
+Otisco, 43.0667, -85.2667
+Otisville, 43.1661, -83.5244
+Otsego, 42.4606, -85.6964
+Otsego Lake, 44.9169, -84.6925
+Ottawa, 41.7672, -83.5214
+Ottawa Beach, 42.7833, -86.1167
+Ottawa Center, 43.0294, -86.0311
+Ottawa Lake, 41.7667, -83.7500
+Otter Lake, 43.2133, -83.4544
+Otterburn, 42.9833, -83.7833
+Otto, 43.5167, -86.2167
+Overisel, 42.7283, -86.0097
+Ovid, 43.0058, -84.3717
+Owasippe, 43.3667, -86.1667
+Owendale, 43.7292, -83.2681
+Owosso, 42.9978, -84.1767
+Oxbow(Berrien), 42.0217, -86.3869
+Oxbow(Newaygo), 43.4825, -85.6228
+Oxbow(Oakland), 42.6406, -83.4731
+Oxbow Park, 43.5072, -85.6019
+Oxford, 42.8247, -83.2647
+Ozark, 46.1419, -84.9656

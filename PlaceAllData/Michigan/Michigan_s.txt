@@ -1,0 +1,358 @@
+Sac Bay, 45.6500, -86.6917
+Saddle Lake, 42.4000, -86.0667
+Saganing, 43.9289, -83.9103
+Sage, 44.0167, -84.5500
+Saginaw, 43.4194, -83.9508
+Saginaw Community Hospital, 43.4550, -84.0497
+Sagola, 46.0903, -88.0775
+Salem, 42.4061, -83.5800
+Saline, 42.1667, -83.7817
+Salisbury, 46.4750, -87.6769
+Salmon Trout, 47.1106, -88.7403
+Salva, 45.8878, -87.2044
+Salzburg, 43.6000, -83.9000
+Samaria, 41.8081, -83.5783
+Samaritan Hospital, 43.5942, -83.8833
+Sanborn, 44.9167, -83.4500
+Sand Beach, 43.8167, -82.6833
+Sand Creek, 41.8258, -84.1017
+Sand Hill, 43.4333, -84.0000
+Sand Lake(Iosco), 44.3192, -83.6847
+Sand Lake(Kent), 43.3000, -85.5167
+Sand Lake Corners, 42.0000, -84.1833
+Sand River, 46.4906, -87.1156
+Sands, 46.4208, -87.4067
+Sandstone, 42.2519, -84.5178
+Sandusky, 43.4203, -82.8297
+Sandy Beach(St Joseph), 41.8081, -85.5306
+Sandy Beach(Cass), 42.0511, -86.1883
+Sanford, 43.6728, -84.3806
+Sanilac, 43.4000, -82.5833
+Sans Souci, 42.5792, -82.5642
+Sans Souci Beach, 41.8306, -84.9700
+Santiago, 44.1128, -83.7006
+Saranac, 42.9294, -85.2131
+Sauble, 44.0342, -85.9992
+Saugatuck, 42.6550, -86.2019
+Sault Sainte Marie, 46.4953, -84.3453
+Sawyer, 41.8853, -86.5894
+Sawyer Air Force Base, 46.3333, -87.3667
+Sawyer Lake, 46.1500, -88.0833
+Schaffer, 45.7611, -87.2986
+Schmidt Corner, 47.1558, -88.6428
+Schomberg, 44.9214, -85.7739
+Schoolcraft, 42.1142, -85.6378
+Schultz, 42.5806, -85.3464
+Scio, 42.3256, -83.8394
+Sciota, 42.9000, -84.3167
+Scipio, 42.0333, -84.6500
+Scofield, 42.0214, -83.4819
+Scott Lake, 46.0219, -88.5767
+Scottdale, 42.0419, -86.4353
+Scotts, 42.1958, -85.4131
+Scottville, 43.9547, -86.2800
+Sears, 43.8983, -85.1847
+Seaway Hospital, 42.1167, -83.2139
+Sebewa, 42.8167, -85.0167
+Sebewa Center, 42.8667, -84.9000
+Sebewa Corners, 42.7994, -84.9558
+Sebewaing, 43.7322, -83.4511
+Sebille Manor, 42.6611, -82.8122
+Secord, 44.0153, -84.3478
+Seewhy, 46.3528, -85.0947
+Segwun, 42.9239, -85.3428
+Seidler Corners, 43.6000, -84.0833
+Seidlers, 43.6828, -84.0878
+Selfridge Air Force Base, 42.6167, -82.8167
+Selkirk, 44.3131, -84.0672
+Selma(Marquette), 46.3622, -87.1819
+Selma(Wexford), 44.2833, -85.5333
+Seminole Park, 43.2000, -86.2667
+Seneca(Keweenaw), 47.3139, -88.3617
+Seneca(Lenawee), 41.7875, -84.1767
+Seneca Location, 47.3000, -88.4333
+Seney, 46.3456, -85.9453
+Senter, 47.1056, -88.4356
+Sethton, 43.2197, -84.7775
+Seven Harbors, 42.6719, -83.5722
+Seven Oaks, 42.4333, -83.2000
+Seville, 43.4167, -84.7833
+Seymour Square, 42.9667, -85.6667
+Shabbona, 43.5314, -83.0542
+Shady Shores, 44.4064, -83.9744
+Shadyside, 41.8228, -84.5364
+Shafer Location, 46.0850, -88.3572
+Shaftsburg, 42.8047, -84.2931
+Shallows, 46.4747, -84.4442
+Shanghai Corners, 42.0333, -86.3283
+Sharon(Kalkaska), 44.5836, -85.0739
+Sharon(Washtenaw), 42.2000, -84.0667
+Sharon Hollow, 42.1783, -84.0939
+Sharps Corners, 44.4211, -84.6836
+Shattuckville, 43.4519, -84.0514
+Shaytown, 42.7042, -84.9761
+Sheffield, 43.1939, -85.4908
+Shelby, 43.6086, -86.3639
+Shelby Village, 42.6167, -83.0333
+Shelbyville, 42.5942, -85.6372
+Sheldon, 42.2747, -83.4758
+Shelldrake, 46.6778, -85.0336
+Shepardsville, 43.0044, -84.4258
+Shepherd, 43.5244, -84.6947
+Sheridan, 43.2122, -85.0736
+Sherman, 44.4239, -85.6967
+Sherman City, 43.7267, -85.0772
+Sherman Lake, 42.3333, -85.3500
+Sherman Manor, 43.2000, -86.2667
+Sherman Park, 42.4919, -86.0819
+Sherman Woods, 42.9667, -82.4833
+Sherwood, 42.0014, -85.2386
+Sherwood Corners, 44.6500, -84.1333
+Sherwood Park, 42.2833, -85.5667
+Shiawassee, 42.9294, -84.0794
+Shiawasseetown, 42.9294, -84.0794
+Shields, 43.4153, -84.0564
+Shiloh, 43.1047, -85.0850
+Shingleton, 46.3483, -86.4700
+Shore Line Junction, 47.1333, -88.6000
+Shorecrest, 42.5064, -86.2444
+Shoreham, 42.0650, -86.4950
+Shorewood, 42.6506, -86.2219
+Shorewood Hills, 41.8958, -86.6158
+Sibley, 42.1333, -83.2167
+Sickles, 43.2778, -84.4489
+Sidnaw, 46.5047, -88.7083
+Sidney, 43.2500, -85.1331
+Siemens, 46.4750, -90.1033
+Sigel, 43.8167, -82.8167
+Sigma, 44.6700, -85.0533
+Silver Beach, 45.5486, -84.5322
+Silver City, 46.8303, -89.5703
+Silver Creek(Allegan), 42.4500, -85.6500
+Silver Creek(Cass), 42.0333, -86.1667
+Silver Lake, 43.1167, -85.5667
+Silverwood, 43.3233, -83.2481
+Simar, 46.7500, -89.0833
+Simmons, 46.0961, -84.5964
+Sims, 44.0667, -83.6333
+Sinai Hospital, 42.4178, -83.1947
+Sister Lakes, 42.0722, -86.1997
+Sitka, 43.3811, -86.0186
+Six Lakes, 43.4250, -85.1500
+Skandia, 46.3775, -87.2414
+Skanee, 46.8733, -88.2139
+Skeels, 44.0900, -84.5867
+Skidmore, 45.7919, -88.0736
+Skidway Lake, 44.1833, -84.0353
+Skookum, 44.0806, -85.6436
+Skyline Village, 44.5711, -84.7022
+Slagle, 44.3000, -85.7667
+Slapneck, 46.3428, -86.8864
+Slaybaugh Corner, 43.9444, -85.4253
+Sleepy Hollow, 46.4047, -89.2408
+Slocum, 43.2222, -85.9097
+Sly Farms, 42.5333, -83.2833
+Smith Corners, 43.7000, -86.3667
+Smith Crossing, 43.0264, -84.2231
+Smiths Creek, 42.9139, -82.6039
+Smithville, 44.5242, -85.1742
+Smyrna, 43.0594, -85.2628
+Snover, 43.4611, -82.9708
+Snow, 41.9244, -86.4831
+Snowshoe, 47.2306, -88.2414
+Snowville, 46.4997, -87.8192
+Snug Harbor(Ottawa), 43.0344, -86.1775
+Snug Harbor(Chippewa), 46.5553, -85.0697
+Snyderville, 42.8367, -82.6714
+Sodus, 42.0436, -86.3692
+Sokol Camp, 41.8156, -86.7217
+Solon, 44.8094, -85.7611
+Solon Center, 43.2486, -85.6114
+Somerset, 42.0483, -84.3767
+Somerset Center, 42.0511, -84.4136
+Sonoma, 42.2328, -85.2281
+Soo, 46.5000, -84.3500
+Soo Corner, 46.3167, -85.2500
+Soo Junction, 46.3356, -85.2594
+South Arm, 45.1667, -85.1667
+South Blendon, 42.8850, -85.9208
+South Boardman, 44.6414, -85.2797
+South Branch, 44.4667, -83.8889
+South Butler, 42.0222, -84.8850
+South Camden, 41.7833, -84.8000
+South Fairfield, 41.7286, -83.9772
+South Fox Island, 45.4167, -85.8500
+South Greenwood, 46.4731, -87.7864
+South Haven, 42.4031, -86.2736
+South Haven Community Hospital, 42.3911, -86.2633
+South Haven Highlands, 42.4517, -86.2564
+South Ionia, 42.9689, -85.0694
+South Jackson, 42.1603, -84.4278
+South Lyon, 42.4606, -83.6517
+South Manitou, 45.0167, -85.7500
+South Monroe, 41.9000, -83.4167
+South Monterey, 42.6025, -85.8436
+South Park, 42.9428, -82.4564
+South Range, 47.0700, -88.6431
+South Riley, 42.8600, -84.6614
+South Rockwood, 42.0639, -83.2611
+South Whitehall, 43.3983, -86.3483
+Southfield, 42.4733, -83.2219
+Southgate, 42.2139, -83.1939
+Southkent, 42.9000, -85.6333
+Southland(Lenawee), 41.7308, -83.7831
+Southland(Jackson), 42.2333, -84.4000
+Spalding, 45.6958, -87.5108
+Sparlingville, 42.9644, -82.5231
+Sparr, 45.0414, -84.5725
+Sparta, 43.1608, -85.7100
+Spaulding, 43.3667, -83.9667
+Speaker, 43.2050, -82.8042
+Spencer(kalkaska), 44.6414, -85.1147
+Spencer(Kent), 43.2500, -85.3667
+Spinks Corners, 42.0939, -86.3208
+Spratt, 45.0086, -83.7481
+Spring Arbor, 42.2050, -84.5528
+Spring Beach, 41.9072, -85.9583
+Spring Grove, 42.5056, -86.1683
+Spring Lake, 43.0769, -86.1969
+Springbrook Nursing Home, 42.9214, -85.5825
+Springdale, 44.4833, -86.0000
+Springer, 45.9206, -86.4022
+Springfield(Oakland), 42.7494, -83.4736
+Springfield(Calhoun), 42.3264, -85.2392
+Springfield Place, 42.3083, -85.2192
+Springport, 42.3783, -84.6986
+Springvale, 45.3500, -84.8000
+Springville(Wexford), 44.3833, -85.7667
+Springville(Lenawee), 42.0333, -84.1711
+Springwell Heights, 45.4336, -84.6900
+Springwells, 42.3167, -83.1167
+Spruce(Alcona), 44.8442, -83.4658
+Spruce(Dickinson), 45.9858, -87.7772
+Spurr, 46.5500, -88.2000
+St Anthony, 41.7992, -83.6558
+St Charles, 43.2969, -84.1406
+St Clair, 42.8208, -82.4861
+St Clair Flats, 42.5833, -82.5667
+St Clair Haven, 42.5833, -82.7903
+St Clair Shores, 42.4969, -82.8889
+St Elmo, 43.5836, -84.4700
+St Francis Hospital, 45.7353, -87.0653
+St Helen, 44.3636, -84.4103
+St Huberts, 43.5425, -86.0850
+St Ignace, 45.8686, -84.7278
+St Jacques, 45.8953, -86.7425
+St James, 45.7511, -85.5156
+St Johns, 43.0011, -84.5592
+St Joseph, 42.1097, -86.4800
+St Joseph Hospital(Washtenaw), 42.2833, -83.7381
+St Joseph Hospital(Genesee), 43.0233, -83.6675
+St Joseph Hospital(Macomb), 42.6067, -82.8808
+St Joseph Hospital(Oakland), 42.6150, -83.2767
+St Louis, 43.4083, -84.6067
+St Luke Hospital, 46.5542, -87.3989
+St Lukes Hospital, 43.4306, -83.9522
+St Martin Island, 45.5000, -86.7667
+St Mary Hospital, 42.3942, -83.4044
+St Marys Hospital(Saginaw), 43.4242, -83.9372
+St Marys Hospital(Kent), 42.9589, -85.6622
+St Marys Junction, 47.1333, -88.6000
+St Marys Lake, 42.3333, -85.1833
+St Nicholas, 45.9856, -87.2267
+Stager, 45.9908, -88.3481
+Stalls Corner, 42.6411, -84.8950
+Stalwart, 46.0981, -84.2386
+Stambaugh, 46.0811, -88.6269
+Standale, 42.9725, -85.7764
+Standish, 43.9831, -83.9589
+Stanley, 42.2667, -85.0667
+Stanley Corners, 42.2175, -85.1378
+Stannard, 46.6000, -89.1667
+Stanton, 43.2925, -85.0814
+Stanwood, 43.5786, -85.4492
+Star(Antrim), 45.0000, -84.9167
+Star(Alger), 46.3472, -86.3922
+Star City, 44.3711, -84.9850
+Star Corners, 44.2167, -85.9667
+Stark, 42.3758, -83.3728
+Starville, 42.6811, -82.5878
+Steamburg, 41.8758, -84.6125
+Steiner, 41.9889, -83.3875
+Stephenson, 45.4153, -87.6075
+Sterling, 44.0333, -84.0228
+Sterling Heights, 42.5803, -83.0303
+Steuben, 46.1833, -86.4500
+Stevensville, 42.0144, -86.5194
+Stickley, 46.3131, -89.3947
+Stillman, 46.3425, -86.7511
+Stirlingville, 46.1872, -84.3211
+Stittsville, 44.4517, -85.0750
+Stockbridge, 42.4511, -84.1806
+Stoneport, 45.2961, -83.4242
+Stoney Corners, 44.1936, -85.2847
+Stoney Point, 42.0808, -84.5842
+Stonington(Houghton), 46.9744, -88.7836
+Stonington(Delta), 45.7231, -86.9764
+Stony Creek(Oakland), 42.6961, -83.1119
+Stony Creek(Washtenaw), 42.1558, -83.6528
+Stony Creek(Monroe), 41.9642, -83.3342
+Stony Lake, 43.5597, -86.5000
+Stony Point(Monroe), 41.9414, -83.2650
+Stony Point(Barry), 42.4969, -85.4267
+Stoughton Corners, 42.2294, -86.1664
+Strasburg, 41.9142, -83.5025
+Strathmoor, 42.3833, -83.1833
+Strawberry Point, 43.0667, -86.1833
+Strickland, 43.4950, -84.8353
+Stringtown, 41.8836, -84.8347
+Stronach, 44.2133, -86.2753
+Strongs, 46.3578, -84.9694
+Strongs Corner, 46.3461, -84.9692
+Stuart Lake, 42.2667, -84.9667
+Sturgeon Point, 44.6500, -83.3000
+Sturgeon River, 45.9333, -86.9667
+Sturgis, 41.7992, -85.4192
+Stutsmanville, 45.5081, -85.0067
+Sugar Grove, 44.0050, -86.2794
+Sugar Island, 46.4667, -84.2000
+Sugar Loaf, 46.5892, -87.4450
+Sugar Rapids, 44.0881, -84.4078
+Sullivan, 43.1836, -86.0531
+Sullivans Landing, 46.6486, -86.1964
+Sulphur Springs, 42.4161, -86.2350
+Summer Haven, 43.2000, -86.2667
+Summer Island, 45.5667, -86.6500
+Summerton, 43.4664, -84.7261
+Summit City, 44.5508, -85.5150
+Summit Heights, 44.3000, -84.7500
+Sumner, 43.3069, -84.8158
+Sumnerville, 41.9117, -86.2075
+Sumpter, 42.1500, -83.4833
+Sun, 43.3333, -85.8167
+Suncrest Hospital, 43.0692, -83.3333
+Sundell, 46.3472, -87.0797
+Sunfield, 42.7622, -84.9925
+Sunnyside(Wayne), 42.2622, -83.3236
+Sunnyside(St Clair), 42.9833, -82.6667
+Sunrise Heights, 42.3000, -85.1667
+Sunrise Landing, 46.5289, -86.0883
+Sunset Beach(Jackson), 42.0872, -84.2036
+Sunset Beach(Schoolcraft), 45.9625, -86.3164
+Sunshine Beach, 47.0889, -88.5156
+Superior(Houghton), 47.0753, -88.5978
+Superior(Washtenaw), 42.2631, -83.6378
+Surrey, 43.8667, -84.9000
+Suttons Bay, 44.9767, -85.6506
+Swains Lake, 42.1667, -84.6500
+Swan Creek, 43.3797, -84.0911
+Swanson, 45.4747, -87.7086
+Swanzy, 46.3028, -87.3739
+Swartz Creek, 42.9572, -83.8306
+Swedetown, 47.2364, -88.4647
+Sweetwater, 43.9500, -85.9833
+Sylvan, 42.3167, -84.0167
+Sylvan Beach, 43.3719, -86.4236
+Sylvan Center, 42.2861, -84.0778
+Sylvan Lake, 42.6114, -83.3286
+Sylvester, 43.5397, -85.2544

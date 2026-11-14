@@ -1,0 +1,171 @@
+Fabius, 41.9106, -85.7217
+Factoryville, 42.0167, -85.3500
+Fair Haven, 42.6792, -82.6539
+Fair Plain, 42.0869, -86.4558
+Fairbanks, 45.6667, -86.6667
+Fairfax, 41.9553, -85.3661
+Fairfield, 41.8128, -84.0411
+Fairfield Addition, 43.2000, -86.2333
+Fairgrove, 43.5236, -83.5433
+Fairhaven, 43.8000, -83.4000
+Fairland, 41.8992, -86.2822
+Fairmount Hospital, 42.3011, -85.6072
+Fairport, 45.6211, -86.6583
+Fairview, 44.7250, -84.0511
+Faithorn, 45.6797, -87.7519
+Fallassburg, 42.9822, -85.3228
+Falmouth, 44.2433, -85.0869
+Fargo, 43.1031, -82.6592
+Farmers Creek, 42.9628, -83.3400
+Farmington, 42.4644, -83.3764
+Farmington Acres, 42.4450, -83.3856
+Farmington Hills, 42.4667, -83.3833
+Farmwood, 43.2000, -86.2667
+Farrandville, 43.1942, -83.7267
+Farrar Landing, 44.8767, -84.6044
+Farwell, 43.8350, -84.8669
+Faunus, 45.8925, -87.5089
+Fawn River, 41.7817, -85.3444
+Fayette(Delta), 45.7175, -86.6678
+Fayette(Hillsdale), 41.9667, -84.6667
+Fayettes Corner, 44.4069, -84.0961
+Federal Station, 42.6333, -83.2833
+Felch, 45.9972, -87.8256
+Felch Mountain, 46.0011, -87.8319
+Fenkell, 42.4000, -83.1333
+Fenmore, 43.1728, -84.3453
+Fennville, 42.5939, -86.1017
+Fenton, 42.7978, -83.7050
+Fenwick, 43.1492, -85.0803
+Fern, 43.8464, -86.2181
+Ferndale(Oakland), 42.4606, -83.1347
+Ferndale(Muskegon), 43.2000, -86.2333
+Ferris, 43.3333, -84.9000
+Ferry, 43.5842, -86.2247
+Ferrysburg, 43.0844, -86.2203
+Fibre, 46.2056, -84.7286
+Fife Lake, 44.5769, -85.3506
+Filer City, 44.2153, -86.2872
+Filion, 43.8956, -83.0036
+Fillmore, 42.7211, -86.0414
+Findley, 41.8942, -85.3717
+Fingerboard Corner, 45.3736, -84.4503
+Firesteel, 46.8664, -89.2183
+Fish Lake, 41.8000, -85.4167
+Fisher(Branch), 41.8844, -84.8831
+Fisher(Kent), 42.9167, -85.7000
+Fisher Building, 42.3667, -83.0667
+Fishers Lake, 41.9500, -85.6333
+Fisherville, 43.6042, -84.1089
+Fitchburg, 42.4392, -84.2778
+Five Corners, 44.6369, -84.5283
+Five Lakes, 43.1428, -83.2319
+Five Points(Shiawassee), 42.9978, -84.2258
+Five Points(Oakland), 42.8139, -83.6103
+Five Points(Wayne), 42.3833, -83.2833
+Five Points Corner, 42.5092, -84.8356
+Five Points North, 43.0736, -84.1675
+Fivemile Corner, 44.7467, -85.5228
+Flanders, 45.0600, -83.7467
+Flat Rock(Delta), 45.8258, -87.1833
+Flat Rock(Wayne), 42.0964, -83.2919
+Fleming, 42.6436, -84.0133
+Fletcher, 44.5394, -84.9522
+Flint, 43.0125, -83.6875
+Floodwood, 46.2228, -88.0092
+Florence, 41.8667, -85.6000
+Florida, 47.2500, -88.4500
+Flowerfield, 42.0658, -85.6581
+Floyd, 43.5892, -84.4092
+Flushing, 43.0631, -83.8511
+Flynn, 43.2833, -82.9167
+Foote Site Village, 44.4267, -83.4447
+Forbes, 46.1000, -88.6500
+Forbes Location, 46.1203, -88.6478
+Forbush Corner, 44.7856, -84.7064
+Ford Hospital, 42.3669, -83.0850
+Ford Lake, 44.0500, -86.1833
+Ford River, 45.6794, -87.1400
+Fordney, 43.2731, -84.3094
+Forest Beach, 45.4333, -84.9833
+Forest Green Estates, 42.8150, -84.2703
+Forest Grove, 42.7967, -85.8617
+Forest Grove Station, 42.8111, -85.8817
+Forest Hill, 43.4367, -84.6856
+Forest Hills(Ingham), 42.7114, -84.4033
+Forest Hills(Kent), 42.9333, -85.5833
+Forest Home, 44.9833, -85.2500
+Forest Lake, 46.3333, -86.8500
+Forester, 43.4992, -82.5694
+Forestville, 43.6619, -82.6094
+Fork, 43.7667, -85.1500
+Forster, 42.5611, -82.6183
+Forsyth, 46.2833, -87.4000
+Fort Dearborn, 42.3000, -83.2500
+Fort Gratiot, 43.0333, -82.4667
+Fort Holmes, 45.8583, -84.6164
+Fort Mackinac, 45.8531, -84.6178
+Fort Shelby, 42.3667, -83.0667
+Fort Wayne, 42.2994, -83.0961
+Fort Wayne Junction, 41.9833, -84.6667
+Fortune Lake, 46.0947, -88.4161
+Foster(Ogenaw), 44.3833, -84.3000
+Foster(Washtenaw), 42.3144, -83.7811
+Foster City, 45.9633, -87.7439
+Fosters, 43.2981, -83.9164
+Fostoria, 43.2533, -83.3719
+Fouch, 44.8339, -85.7211
+Fountain, 44.0467, -86.1786
+Fountain Park, 41.8314, -84.5292
+Fountain Point, 44.9694, -85.7053
+Four Towns, 42.6178, -83.4136
+Fourmile Corner, 46.4192, -85.5106
+Fourmile Lake, 42.3250, -83.9667
+Fowler, 43.0017, -84.7397
+Fowlerville, 42.6606, -84.0731
+Fox, 45.4844, -87.3031
+Frain Lake, 42.3292, -83.6169
+Francis Grove, 43.7208, -84.3900
+Francisco, 42.2772, -84.1406
+Frandor, 42.7333, -84.5167
+Frankenlust, 43.5500, -83.9833
+Frankenmuth, 43.3317, -83.7381
+Frankentrost, 43.4072, -83.7919
+Frankfort, 44.6336, -86.2344
+Franklin, 42.5222, -83.3061
+Franklin Knolls, 42.5333, -83.2833
+Franklin Mine, 47.1400, -88.5731
+Fraser, 42.5392, -82.9494
+Freda, 47.1353, -88.8186
+Frederic, 44.7786, -84.7544
+Fredonia, 42.2000, -85.0000
+Freedom(Cheboygan), 45.7361, -84.6411
+Freedom(Washtenaw), 42.2167, -83.9500
+Freeland, 43.5250, -84.1228
+Freeman, 43.9500, -85.0167
+Freeman Landing, 46.6189, -87.4661
+Freeport, 42.7661, -85.3133
+Freesoil, 44.1069, -86.2167
+Freiburgers, 43.7000, -82.9333
+Freidberger, 43.6233, -82.9175
+Fremont, 43.4675, -85.9419
+French Landing, 42.2100, -83.4397
+French Town, 43.7708, -86.4372
+Frenchtown(Marquette), 46.4733, -87.6789
+Frenchtown(Monroe), 41.9500, -83.3667
+Friendship, 45.5167, -85.0333
+Friendsville, 42.3078, -86.2236
+Fritzburg, 42.1269, -86.0481
+Frontier, 41.7817, -84.6047
+Frost(Clare), 44.1000, -84.7833
+Frost(Houghton), 46.6050, -88.8731
+Frost(Saginaw), 43.4528, -84.1214
+Frost Corners, 42.8428, -84.8667
+Fruit Ridge Center, 43.1181, -85.7692
+Fruitland, 43.3500, -86.3333
+Fruitport, 43.1319, -86.1547
+Fuller, 46.2969, -89.1036
+Fulton(Kalamazoo), 42.1150, -85.3525
+Fulton(Keweenaw), 47.2989, -88.3600
+Fulton(Gratiot), 43.1667, -84.6667
+Fulton Center, 43.1833, -84.6833

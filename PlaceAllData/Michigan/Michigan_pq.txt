@@ -1,0 +1,231 @@
+vPaavola, 47.1503, -88.5442
+Packard, 42.6822, -84.6031
+Paines, 43.3997, -84.0389
+Painesdale, 47.0433, -88.6722
+Paint Creek, 42.1575, -83.5817
+Palatka, 46.0497, -88.6239
+Palestine, 45.4056, -87.5333
+Palisades Park, 42.3125, -86.3211
+Palmer, 46.4408, -87.5931
+Palms, 43.6136, -82.7683
+Palmyra, 41.8597, -83.9358
+Palo, 43.1125, -84.9856
+Panola, 46.0494, -88.3286
+Papin, 46.8167, -88.6333
+Paradise, 46.6275, -85.0375
+Parchment, 42.3281, -85.5697
+Paris(Huron), 43.7333, -82.8167
+Paris(Mecosta), 43.7733, -85.5025
+Parishfield, 42.4967, -83.8300
+Parisville, 43.7139, -82.7994
+Park, 42.9833, -85.7000
+Park Community Hospital, 42.3736, -83.0839
+Park Grove, 42.4333, -82.9833
+Park Lake(Huron), 42.8167, -84.4500
+Park Lake(Osceola), 44.1458, -85.2061
+Park Lake Corner, 44.1000, -85.1500
+Park Plaza, 42.2333, -83.1833
+Park Shore Resort, 41.9167, -86.0000
+Parkdale, 44.2675, -86.3028
+Parkers Corners, 42.5681, -84.1133
+Parkington, 46.0111, -85.9472
+Parks, 43.7667, -85.5000
+Parkview Terrace, 43.2000, -86.2333
+Parkville, 42.0158, -85.5478
+Parma, 42.2583, -84.5997
+Parmelee, 42.7544, -85.4742
+Parnell, 43.0433, -85.4114
+Parshallburg(Havana), 43.1464, -84.1361
+Parshallville, 42.6919, -83.7822
+Partello, 42.4044, -84.8478
+Patons Corner, 45.4717, -84.9944
+Patrick Landing, 45.9847, -84.3772
+Patterson Gardens, 41.9183, -83.4306
+Patterson Lake, 42.4500, -83.9500
+Paulding, 46.4014, -89.1797
+Pavillion, 42.1722, -85.4592
+Pavillion Center, 42.2008, -85.4819
+Pavlovic Corner, 44.5689, -85.7533
+Paw Paw, 42.2178, -85.8911
+Paw Paw Lake, 42.2122, -86.2719
+Paxton, 45.0544, -83.6142
+Payment, 46.5303, -84.1403
+Paynesville, 46.5236, -89.1164
+Peacock, 44.0461, -85.8886
+Peaine, 45.6667, -85.5333
+Pearl, 42.5419, -86.0928
+Pearl Beach(Branch), 41.8242, -84.9864
+Pearl Beach(St Clair), 42.6267, -82.5978
+Pearl Grange, 42.0911, -86.3589
+Pearline, 42.9722, -85.9242
+Pearll City, 44.9819, -84.6836
+Peatville, 43.6378, -82.8175
+Peck, 43.2586, -82.8175
+Pelkie, 46.8133, -88.6364
+Pellston, 45.5528, -84.7839
+Pemberthy Crossing, 44.6328, -84.9083
+Penford, 42.2333, -83.2667
+Peninsula, 44.8667, -85.5333
+Penn, 41.9469, -85.9358
+Pennellwood, 41.9258, -86.3347
+Pennfield, 42.3733, -85.1025
+Penobscot, 42.3333, -83.0500
+Pentland, 46.3000, -85.4667
+Pentoga, 46.0031, -88.4944
+Pentwater, 43.7817, -86.4331
+Pequaming, 46.8519, -88.4003
+Perch Point, 42.6650, -82.6203
+Pere Cheney, 44.5775, -84.6378
+Pere Marquette, 43.9500, -86.4167
+Perkins, 45.9778, -87.0717
+Perrinton, 43.1828, -84.6792
+Perronville, 45.7986, -87.3531
+Perry, 42.8264, -84.2194
+Perry Lake Heights, 42.8278, -83.4011
+Peshawbestown, 45.0242, -85.6008
+Peters, 42.7444, -82.6317
+Petersburg, 41.9011, -83.7150
+Petersburg Junction, 41.8853, -83.7025
+Petoskey, 45.3733, -84.9553
+Petrieville, 42.5356, -84.6214
+Pettysville, 42.4753, -83.8694
+Pewabic, 47.1400, -88.5631
+Pewamo, 43.0011, -84.8469
+Phelps(Charlevoix), 45.2208, -85.2611
+Phelps(Clare), 43.9150, -84.9236
+Phillipsville, 47.2797, -88.4133
+Phoenix, 47.3889, -88.2775
+Pickford, 46.1578, -84.3636
+Pier Cove, 42.5858, -86.2261
+Pierport, 44.4267, -86.2400
+Pierson, 43.3197, -85.4978
+Pigeon, 43.8300, -83.2700
+Pike Lake, 46.1000, -85.7000
+Pilgrim(Houghton), 47.0997, -88.5169
+Pilgrim(Benzie), 44.6650, -86.2458
+Pinckney, 42.4567, -83.9464
+Pinconning, 43.8536, -83.9650
+Pine, 43.3333, -85.2667
+Pine Bluffs, 44.5000, -84.6000
+Pine Creek(Calhoun), 42.1656, -85.2561
+Pine Creek(Ottawa), 42.8278, -86.1375
+Pine Grove, 42.3539, -85.8628
+Pine Grove Beach, 43.8219, -85.9619
+Pine Rest Hospital Complex, 42.8389, -85.6586
+Pine Ridge(Delta), 45.7386, -87.1733
+Pine Ridge(St Joseph), 42.0347, -85.6356
+Pine River(Arenac), 43.9833, -83.8886
+Pine River(Gratiot), 43.4167, -84.6667
+Pine Run, 43.1778, -83.7142
+Pine Stump Junction, 46.5692, -85.5914
+Pine Wood Park, 44.1611, -83.5681
+Piney Ridge, 44.0153, -86.4717
+Piney Woods, 44.0733, -84.8083
+Pinnebog, 43.9353, -83.1039
+Pinora, 43.9500, -85.6167
+Pioneer, 44.4675, -85.1558
+Pipestone, 42.0333, -86.2833
+Pisgah Heights, 44.0944, -85.2261
+Pittsburg, 42.8925, -84.2219
+Pittsfield, 42.2103, -83.7242
+Pittsford, 41.8622, -84.4769
+Plainfield, 42.4969, -84.1075
+Plainfield Heights, 43.0000, -85.6333
+Plains, 46.3256, -87.4047
+Plainwell, 42.4400, -85.6489
+Planter, 46.5111, -89.9736
+Platte, 44.7333, -86.0167
+Plaza, 42.2667, -85.2000
+Pleasant Lake(Hillsdale), 41.8833, -84.5500
+Pleasant Lake(Jackson), 42.3800, -84.3492
+Pleasant Plains, 43.8667, -85.8500
+Pleasant Ridge, 42.4711, -83.1422
+Pleasant Valley(Antrim), 45.0578, -85.1603
+Pleasant Valley(Midland), 43.5097, -84.5881
+Pleasant View, 45.5072, -84.9144
+Pleasanton, 44.4736, -86.1208
+Plumbrook Estates, 42.5667, -83.0333
+Plumbrook Farms, 42.5667, -83.0333
+Plumbrook Village, 42.5667, -83.0333
+Plymouth(Wayne), 42.3714, -83.4703
+Plymouth(Gogebic), 46.4647, -89.9794
+Podunk(Washtenaw), 42.1500, -84.0333
+Podunk(Gladwin), 44.0528, -84.5658
+Podunk(Barry), 42.6089, -85.3583
+Pogy, 43.7989, -85.3444
+Point au Gres, 44.0500, -83.6833
+Point Lakeview, 42.6558, -82.7792
+Point Mills, 47.0950, -88.4706
+Point Nipigon, 45.7083, -84.5667
+Pointe aux Barques, 44.0631, -82.9583
+Pointe aux Chenes, 42.6108, -82.5394
+Pointe aux Peaux Farms, 41.9667, -83.2500
+Pointe aux Pins, 45.7325, -84.4778
+Pointe aux Tremble, 42.6214, -82.5711
+Pokagon, 41.9125, -86.1764
+Polaski, 45.2336, -83.6583
+Polkton, 43.0667, -85.9833
+Pollok, 42.6150, -84.3392
+Pomeroy, 42.1936, -85.4822
+Pomona, 44.4708, -85.8797
+Pompeii, 43.1839, -84.6008
+Ponshewaing, 45.4211, -84.8033
+Pontchartrain Shores, 46.0294, -84.5917
+Pontiac, 42.6389, -83.2911
+Pontiac Lake, 42.6500, -83.4000
+Pontiac State Hospital, 42.6453, -83.3153
+Poplar Beach, 42.4500, -85.2333
+Popple, 43.7711, -83.0961
+Pori, 46.6797, -88.9600
+Port Austin, 44.0461, -82.9942
+Port Crescent, 44.0019, -83.0553
+Port Dolomite, 45.9847, -84.2750
+Port Gypsum, 44.2667, -83.5167
+Port Hope, 43.9408, -82.7128
+Port Huron, 42.9708, -82.4250
+Port Inland, 45.9708, -85.8722
+Port Oneida, 44.9478, -85.9456
+Port Sanilac, 43.4308, -82.5425
+Port Sheldon, 42.8994, -86.1997
+Portage, 42.2011, -85.5800
+Portage Entry, 46.9822, -88.4406
+Portage Lake, 42.0000, -85.4500
+Portage Point, 44.3667, -86.2333
+Porter, 43.5186, -84.4664
+Portland, 42.8692, -84.9031
+Portsmouth, 43.5667, -83.8500
+Posen, 45.2619, -83.6989
+Poseyville, 43.5397, -84.2494
+Potters Corners, 42.9333, -85.2167
+Potters Lake, 43.0500, -83.3167
+Potterville, 42.6292, -84.7389
+Poverty Island, 45.5333, -86.6667
+Powell, 46.7833, -87.6833
+Powers, 45.6900, -87.5258
+Prairie, 42.9847, -85.0342
+Prairie Creek, 42.9833, -85.0667
+Prairie Farm, 43.3000, -84.1500
+Prairie Ronde, 42.1167, -85.7167
+Prairie View, 42.2667, -85.2000
+Prairieville, 42.5047, -85.4550
+Prattville, 41.7822, -84.3997
+Prescott, 44.1919, -83.9308
+Presque Isle, 45.3042, -83.4769
+Preston Corners, 42.6994, -82.9958
+Price, 42.9289, -84.4836
+Princeton, 46.2889, -87.4750
+Prosper, 44.2428, -85.0331
+Prudenville, 44.2983, -84.6519
+Pulaski, 42.1150, -84.6425
+Pulawski, 45.3333, -83.7167
+Pullman, 42.4836, -86.0914
+Pullman Corners, 41.8000, -86.0833
+Putnam, 42.4667, -83.9667
+Quakertown, 42.4861, -83.3778
+Quanicassee, 43.5833, -83.6808
+Quarry, 43.8500, -83.3833
+Quincy, 41.9442, -84.8839
+Quincy Mill, 47.1481, -88.4586
+Quincy Mine, 47.1333, -88.6000
+Quinnesec, 45.8064, -87.9883
+Qumby, 42.6103, -85.2278

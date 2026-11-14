@@ -1,0 +1,260 @@
+Wabaningo, 43.3706, -86.4217
+Wacousta, 42.8278, -84.7008
+Wadhams, 42.9872, -82.5386
+Wagarville, 44.0308, -84.4675
+Wagner Beach, 44.1147, -83.5672
+Wahjamega, 43.4556, -83.4397
+Wainola, 46.7303, -89.0314
+Wakefield, 46.4753, -89.9397
+Wakelee, 41.9839, -85.8789
+Wakeshma, 42.1167, -85.3500
+Waldenburg, 42.6572, -82.9375
+Waldron, 41.7278, -84.4189
+Wales Center, 42.9419, -82.6783
+Walhalla, 43.9536, -86.1147
+Walker, 43.0014, -85.7681
+Walkers Point, 44.8000, -82.9167
+Walkerville, 43.7144, -86.1244
+Wall Lake, 42.5000, -85.4000
+Wallace(Alcona), 44.5319, -83.6656
+Wallace(Menominee), 45.3261, -87.6139
+Walled Lake, 42.5378, -83.4811
+Wallin, 44.5708, -85.8889
+Walloon Lake, 45.2661, -84.9336
+Walnut Lake, 42.5333, -83.2833
+Walnut Point, 42.3503, -84.9853
+Walsh, 46.3456, -86.1842
+Walters, 42.7639, -83.3414
+Walton(Eaton), 42.4667, -84.9000
+Walton(Grand Traverse), 44.5208, -85.3994
+Walton Junction, 44.5275, -85.4019
+Waltz, 42.1003, -83.3922
+Wardcliff, 42.7333, -84.4667
+Warner, 45.0667, -84.9000
+Warren, 42.4775, -83.0278
+Wasepi, 41.9408, -85.4617
+Washington, 42.7244, -83.0361
+Waterford, 42.7022, -83.4028
+Waterloo, 42.3531, -84.1403
+Watermill Lake, 43.9000, -85.7667
+Waters, 44.8797, -84.6986
+Watersmeet, 46.2678, -89.1778
+Watertown, 43.3411, -82.8283
+Watervale, 44.5536, -86.2144
+Watervliet, 42.1867, -86.2606
+Watrousville, 43.4522, -83.5231
+Watson(Allegan), 42.5369, -85.7017
+Watson(Marquette), 46.0192, -87.4144
+Wattles Park, 42.3006, -85.1108
+Watton, 46.5375, -88.6064
+Wauban Beach, 45.4489, -84.6333
+Waucedah, 45.7631, -87.7453
+Waukuzoo, 42.7833, -86.1167
+Waverland Beach, 41.9881, -86.5617
+Waverly(Eaton), 42.7333, -84.6000
+Waverly(Ottawa), 42.8019, -86.0872
+Wawatam Beach, 45.7833, -84.7333
+Wayland, 42.6739, -85.6447
+Wayne, 42.2814, -83.3864
+Weadlock, 45.6333, -84.7833
+Weadock, 45.6214, -84.6308
+Weale, 43.8119, -83.3972
+Weare, 43.7464, -86.3394
+Webber, 43.9500, -85.8500
+Webberville, 42.6669, -84.1742
+Webster, 42.3953, -83.8047
+Weesaw, 41.8667, -86.5333
+Weidman, 43.6875, -84.9689
+Weimer, 44.0164, -86.4561
+Welcome Corner, 42.6969, -85.2914
+Weldon, 44.5661, -86.0631
+Wellington(Alpena), 45.1500, -83.8167
+Wellington(Gogebic), 46.3308, -89.6569
+Wells, 45.7772, -87.0794
+Wellston, 44.2169, -85.9578
+Wellsville, 41.8844, -83.8856
+Wequetonsing, 45.4281, -84.9675
+West Acres, 42.6000, -83.4333
+West Bangor, 42.3078, -86.1867
+West Bloomfield, 42.5667, -83.3667
+West Branch, 44.2764, -84.2386
+West Gladstone, 45.8406, -87.0625
+West Highland, 42.6361, -83.6622
+West Ishpeming, 46.4836, -87.7008
+West Kinderhook, 41.7819, -85.0542
+West Leroy, 42.2169, -85.2858
+West Millbrook, 43.5167, -85.0833
+West Novi, 42.5500, -83.5000
+West Olive, 42.9214, -86.1464
+West Plains, 43.2000, -86.2667
+West Roodmont, 43.2000, -86.2667
+West Sebewa, 42.8431, -85.0539
+West Sumpter, 42.1225, -83.5094
+West Tamarack, 47.2575, -88.4758
+West Tappan, 42.9703, -82.5433
+West Traverse, 45.4500, -85.0167
+West Willow, 42.2500, -83.6167
+West Windsor, 42.6472, -84.6972
+Westchester Heights, 42.9192, -84.3811
+Westchester Village, 43.2500, -83.8000
+Western Location, 46.1014, -88.3142
+Westgate, 43.0500, -85.6833
+Westland, 42.3242, -83.4003
+Weston, 41.7703, -84.0978
+Westons Iroquois Beach, 46.4858, -84.6725
+Westphalia, 42.9294, -84.7986
+Westville, 43.3578, -85.0836
+Westwood(Muskegon), 43.2000, -86.2667
+Westwood(Kalkaska), 44.8517, -85.1019
+Westwood(Kalamazoo), 42.3028, -85.6336
+Wetmore, 46.3797, -86.6203
+Wetmore Landing, 46.6167, -87.4650
+Wetzel, 44.9314, -85.0303
+Wexford, 44.4667, -85.7667
+Wexford Corner, 44.5128, -85.6961
+Whaley Drain, 42.6533, -84.6764
+Wheatfield, 42.6500, -84.3000
+Wheatland, 41.9711, -84.4011
+Wheeler, 43.4128, -84.4378
+Wheelock Memorial Hospital, 42.9253, -83.5042
+White, 46.7669, -88.8269
+White City(Gogebic), 46.4114, -89.5369
+White City(Houghton), 46.9822, -88.4250
+White Cloud, 43.5503, -85.7719
+White Lake, 42.6917, -83.5542
+White Lake Center, 42.6167, -83.4333
+White Oak, 42.5242, -84.1908
+White Pigeon, 41.7981, -85.6433
+White Pine, 46.7539, -89.5839
+White River, 43.4333, -86.4167
+White Rock(Iosco), 44.2525, -83.6839
+White Rock(Huron), 43.7100, -82.6097
+White Star, 43.9806, -84.3658
+Whitefish, 46.5833, -85.1167
+Whitefish Point, 46.7658, -84.9653
+Whiteford Center, 41.7767, -83.6831
+Whitehall, 43.4100, -86.3486
+Whitehouse Landing, 46.5519, -85.1717
+Whites Beach, 43.9294, -83.8911
+Whites Landing, 44.9072, -84.5725
+Whitestone Point, 44.1086, -83.5658
+Whitewater, 44.7833, -85.3833
+Whitmore Lake, 42.4394, -83.7439
+Whitney(Arenac), 44.1167, -83.6167
+Whitney(Menominee), 45.8222, -87.3878
+Whitneyville, 42.8717, -85.4589
+Whittaker, 42.1281, -83.5997
+Whittemore, 44.2336, -83.8031
+Wic-a-te-wah, 44.3558, -86.2239
+Wickware, 43.6050, -83.0372
+Wico, 46.4658, -89.9633
+Wilber, 44.3897, -83.4878
+Wilcox, 43.6000, -85.7500
+Wilder Center, 43.0297, -85.7306
+Wildwood(Charlevoix), 45.2653, -85.0022
+Wildwood(Cheboygan), 45.3631, -84.7108
+Wildwood(Muskegon), 43.2000, -86.2667
+Wildwood(Van Buren), 42.3664, -86.2947
+Wildwood(Crawford), 44.6847, -84.5464
+Wildwood(Manistee), 44.4167, -86.1833
+Wiley, 43.8611, -86.2789
+Willard, 43.6683, -84.1083
+Williams, 43.6167, -84.1333
+Williams Crossing, 46.4403, -86.4392
+Williams Landing, 46.4511, -86.6708
+Williamsburg, 44.7736, -85.4039
+Williamston, 42.6889, -84.2831
+Williamsville(Cass), 41.8667, -85.8642
+Williamsville(Livingston), 42.4389, -84.0967
+Willis, 42.1583, -83.5581
+Willow, 42.1153, -83.3956
+Willow Run, 42.2542, -83.5806
+Willwalk, 46.4833, -84.3500
+Wilmot(Cheboygan), 45.2500, -84.6667
+Wilmot(Tuscola), 43.4639, -83.1903
+Wilson, 45.7053, -87.4381
+Winchester Hospital, 43.0411, -83.7683
+Winchester Village, 42.9833, -83.7833
+Winde, 45.9686, -87.0969
+Windemere, 42.7333, -84.6000
+Windiate, 42.7000, -83.4000
+Windigo, 47.9119, -89.1567
+Windmill Island, 42.7833, -86.1167
+Windsor, 42.6333, -84.6667
+Winegars, 43.9447, -84.3658
+Winfield, 43.4167, -85.3833
+Wing Lake Shores, 42.5333, -83.2833
+Winn, 43.5233, -84.9017
+Winona, 46.8744, -88.9072
+Winsor, 43.8000, -83.3000
+Winterfield, 44.1167, -85.0333
+Winters, 46.1667, -86.9667
+Winthrop Junction, 46.4761, -87.6869
+Wise, 43.7283, -84.6472
+Wisner, 43.6164, -83.5842
+Witbeck, 46.3153, -88.0042
+Witch Lake, 46.2756, -88.0189
+Wixom, 42.5247, -83.5364
+Wobic, 46.5028, -87.9528
+Wojciechowski, 43.6000, -83.9000
+Wolcott Mills, 42.7689, -82.9269
+Wolf Crossing, 43.0428, -84.2456
+Wolf Lake(Muskegon), 43.2547, -86.1097
+Wolf Lake(Jackson), 42.2500, -84.4000
+Wolf Lake(Lake), 43.9000, -85.8500
+Wolverine(Cheboygan), 45.2733, -84.6044
+Wolverine(Houghton), 47.2697, -88.4194
+Wolverine Lake, 42.5567, -83.4739
+Wood Creek Farms, 42.5078, -83.3289
+Wood Spur, 46.8667, -89.3000
+Woodard Lake, 43.1500, -85.0833
+Woodbridge, 41.7833, -84.6500
+Woodbury, 42.7611, -85.0744
+Wooden Shoe Village, 43.9789, -84.3561
+Woodhaven, 42.1389, -83.2417
+Woodhull, 42.8167, -84.3167
+Woodland, 42.7267, -85.1336
+Woodland Beach(Van Buren), 42.0819, -86.1917
+Woodland Beach(Monroe), 41.9400, -83.3133
+Woodland Park, 43.7147, -85.8614
+Woodlawn, 45.9444, -87.3003
+Woodlawn Beach, 42.4219, -85.4175
+Woods, 43.7556, -84.8883
+Woods Corner, 43.8333, -84.8667
+Woods Corners, 43.0761, -85.0750
+Woodside, 47.1167, -88.5167
+Woodstock, 42.0333, -84.3000
+Woodville(Newaygo), 43.6658, -85.6811
+Woodville(Bay), 43.8672, -84.0253
+Woodville(Jackson), 42.2586, -84.4836
+Wooster, 43.5106, -85.8739
+Worden, 42.3878, -83.6450
+Worth(Sanilac), 43.2167, -82.5500
+Worth(Arenac), 43.9253, -83.9656
+Wright, 43.1108, -85.8086
+Wrights Corners, 42.2036, -84.9619
+Wurtsmith Air Force Base, 44.4500, -83.4000
+Wyandotte(Houghton), 46.8900, -88.8753
+Wyandotte(Wayne), 42.2142, -83.1500
+Wyman, 43.4550, -85.0431
+Wyoming, 42.9133, -85.7053
+Wyoming Park, 42.9167, -85.7000
+Yale(Gogebic), 46.4667, -90.0631
+Yale(St Clair), 43.1300, -82.7983
+Yankee Springs, 42.6500, -85.5000
+Yargerville, 41.8383, -83.5319
+Yates(Lake), 43.8667, -85.7833
+Yates(Oakland), 42.6736, -83.0958
+Yellow Jacket, 47.2500, -88.4500
+York, 42.1333, -83.7167
+Yorkville, 42.3753, -85.4017
+Ypsilanti, 42.2411, -83.6131
+Ypsilanti State Hospital, 42.1653, -83.6961
+Yuba, 44.8233, -85.4592
+Yuma, 44.3467, -85.7547
+Zeba, 46.8025, -88.4144
+Zeeland, 42.8125, -86.0186
+Zenith Heights, 45.3061, -85.0356
+Zieger Hospital, 42.3322, -83.1211
+Zilwaukee, 43.4764, -83.9206
+Zutphen, 42.8258, -85.8819

@@ -1,0 +1,168 @@
+Abbottsford, 43.0200, -82.6333
+Abscota, 42.1000, -85.0833
+Ackerson Lake, 42.2500, -84.4000
+Acme, 44.7719, -85.5014
+Ada, 42.9542, -85.4889
+Adair, 42.7981, -82.6339
+Adams Park, 42.1539, -85.4728
+Adamsville, 41.7853, -85.9939
+Addison, 41.9864, -84.3472
+Addison Junction, 41.9936, -84.3256
+Adrian, 41.8975, -84.0372
+Advance, 45.2214, -85.0775
+Aetna, 43.5678, -85.9208
+Afton, 45.3739, -84.4967
+Agate, 46.4742, -89.0700
+Agnew, 42.9650, -86.1767
+Ahgosatown, 45.0811, -85.5917
+Ahmeek, 47.2989, -88.3964
+Ainger, 42.4828, -84.9344
+Akron, 43.5681, -83.5142
+Alabaster, 44.1864, -83.5581
+Alabaster Junction, 44.2458, -83.5636
+Alaiedon, 42.6333, -84.4167
+Alamando, 43.7428, -84.5267
+Alamo, 42.3753, -85.7078
+Alanson, 45.4442, -84.7867
+Alaska, 42.8400, -85.4781
+Alba, 44.9747, -84.9686
+Albee, 43.2667, -83.9833
+Albert, 44.8833, -84.2833
+Alberta, 46.6436, -88.4794
+Albion(Calhoun), 42.2431, -84.7531
+Albion(Houghton), 47.2500, -88.4500
+Albion Landing, 42.3819, -84.7842
+Alcona, 44.7600, -83.2978
+Alden, 44.8811, -85.2756
+Alder, 46.7894, -87.6972
+Alembic, 43.5975, -84.6683
+Alfred, 46.0839, -87.6325
+Algansee, 41.8325, -84.8808
+Alger, 44.1256, -84.1211
+Algoma, 43.1667, -85.6167
+Algonac, 42.6183, -82.5311
+Algonquin Lake, 42.6500, -85.2833
+Alicia, 43.2708, -84.0325
+Allegan, 42.5292, -85.8553
+Allen, 41.9569, -84.7678
+Allen Park, 42.2575, -83.2111
+Allendale(Clare), 44.0039, -84.7850
+Allendale(Ottawa), 42.9722, -85.9536
+Allens Cove, 41.8000, -83.4500
+Allenton(Cass), 41.7664, -85.9747
+Allenton(St Clair), 42.9194, -82.9456
+Allenville, 45.9847, -84.8206
+Allis, 45.2833, -84.2000
+Allouez, 47.2872, -88.4094
+Alma, 43.3789, -84.6597
+Almeda Beach(Bay), 43.8175, -83.9231
+Almeda Beach(Roscommon), 44.5000, -84.6000
+Almena, 42.2647, -85.8253
+Almer, 43.5167, -83.4000
+Almira, 44.7333, -85.8833
+Almont, 42.9206, -83.0450
+Aloha, 45.5264, -84.4667
+Alpena, 45.0617, -83.4328
+Alpena Junction, 45.0586, -83.4561
+Alpha, 46.0439, -88.3769
+Alpine, 43.0728, -85.6850
+Alston, 46.7683, -88.7531
+Alto, 42.8567, -85.3803
+Alton(Delta), 45.8831, -86.8842
+Alton(Kent), 43.0164, -85.3517
+Altona, 43.5397, -85.3136
+Alverno, 45.5586, -84.3917
+Alvin, 44.5244, -83.4425
+Amadore, 43.1950, -82.5858
+Amasa, 46.2328, -88.4486
+Amber, 43.9667, -86.3500
+Amble, 43.4314, -85.3886
+Amboy, 41.7167, -84.6000
+Amelith, 43.6000, -83.9000
+Amsden, 43.1706, -85.1236
+Anchor Bay Gardens, 42.6428, -82.8125
+Anchor Bay Harbor, 42.6553, -82.7992
+Anchor Bay Shores, 42.6356, -82.8167
+Anchorville, 42.6911, -82.6886
+Anderson(Livingston), 42.4708, -84.0061
+Anderson(Midland), 43.6167, -84.2000
+Anderson Bayview, 44.2367, -83.5453
+Andersonville, 42.7300, -83.4925
+Andrews, 41.9500, -86.3333
+Angling, 44.6700, -85.0092
+Ann Arbor, 42.2833, -83.7458
+Antioch, 44.3833, -85.6333
+Antlers, 46.7544, -87.6558
+Antoine, 45.8375, -88.0619
+Antrim, 44.8900, -85.0739
+Antrim Center, 42.8136, -84.1144
+Antwerp, 42.2000, -85.8333
+Anvil, 46.4703, -90.0183
+Aplin Beach, 43.6508, -83.8708
+Applegate, 43.3553, -82.6372
+Arbela, 43.2500, -83.6333
+Arbutus Beach, 44.9461, -84.6833
+Arcada, 43.3333, -84.6667
+Arcadia, 44.4931, -86.2317
+Arden, 41.9858, -86.3919
+Arenac, 44.0056, -83.8581
+Argenta, 42.4500, -85.6500
+Argentine, 42.7914, -83.8464
+Argyle, 43.5642, -82.9361
+Arlene, 44.3900, -85.2867
+Arlington, 42.3000, -86.0500
+Armada, 42.8442, -82.8844
+Armstrong Corners, 42.2167, -85.8833
+Arnheim, 46.9169, -88.4825
+Arnold, 46.0508, -87.4919
+Artesia Beach, 44.3564, -84.4917
+Arthur, 43.9500, -84.6667
+Arthur Bay, 45.3089, -87.4356
+Arvon, 46.8333, -88.2000
+Ash, 42.0500, -83.3500
+Ash Acres, 44.0378, -84.8119
+Ashland(Alpena), 45.2031, -83.4511
+Ashland(Newaygo), 43.3078, -85.8111
+Ashland Center, 43.3364, -85.8517
+Ashley, 43.1867, -84.4744
+Ashmore, 43.6500, -83.4667
+Ashton, 43.9731, -85.5036
+Askel, 46.8167, -88.6333
+Assinins, 46.8103, -88.4772
+Assyria, 42.4644, -85.1314
+Athens, 42.0886, -85.2347
+Atkins, 43.0631, -82.5769
+Atlanta, 45.0047, -84.1439
+Atlantic Mine, 47.0972, -88.6275
+Atlas, 42.9378, -83.5344
+Attica, 43.0303, -83.1661
+Atwood, 45.1792, -85.3453
+Au Gres, 44.0486, -83.6958
+Au Sable, 44.4108, -83.3322
+Au Sable River Park, 44.4033, -84.4603
+Au Train, 46.4303, -86.8367
+Auburn, 43.6033, -84.0697
+Auburn Heights, 42.6336, -83.2228
+Augusta, 42.3364, -85.3522
+Aura, 46.8628, -88.3186
+Aurelius, 42.5242, -84.5222
+Aurora, 46.4489, -90.1458
+Austin(Hillsdale), 41.7372, -84.6942
+Austin(Marquette), 46.2844, -87.4569
+Austin Center, 43.6225, -82.9375
+Austin Corners, 42.7878, -83.5081
+Austin Lake, 42.2167, -85.5833
+Auvinen Corner, 46.5203, -90.0961
+Avalon Beach(Monroe), 41.8572, -83.3928
+Avalon Beach(St Clair), 42.6889, -82.5083
+Avalon Lake, 45.0667, -83.9000
+Averill, 43.6656, -84.3419
+Avery(Berrien), 41.8000, -86.6167
+Avery(Montgomery), 44.9575, -84.0314
+Avoca, 43.0619, -82.6911
+Avon, 42.6667, -83.1500
+Avon Center Hospital, 42.6678, -83.1325
+Avondale(Muskegon), 43.2000, -86.2333
+Avondale(Osceola), 44.0158, -85.2267
+Ayr, 45.4922, -84.8533
+Azalia, 42.0189, -83.6658

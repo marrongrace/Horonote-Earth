@@ -1,0 +1,283 @@
+Dafter, 46.3600, -84.4272
+Daggett, 45.4636, -87.6064
+Dailey, 41.8869, -86.0892
+Dale, 43.8578, -84.4347
+Dallas, 42.9833, -84.7833
+Dalton, 43.3186, -86.2617
+Damon, 44.4775, -84.2283
+Danaher, 46.3436, -85.7808
+Danak, 43.6000, -83.9000
+Danby, 42.8167, -84.9000
+Danish Landing, 44.6575, -84.7800
+Dansville, 42.5558, -84.3033
+Darragh, 44.7717, -85.0519
+Daugherty Corners, 42.2833, -85.5667
+Davis, 42.7308, -82.9603
+Davisburg, 42.7522, -83.5414
+Davison, 43.0347, -83.5181
+Day, 43.3333, -85.0333
+Dayton(Berrien), 41.7983, -86.4394
+Dayton(Tuscola), 43.4617, -83.2875
+Dayton Center, 43.5106, -85.9800
+Daytona, 43.4833, -83.4000
+Daytona Branch, 43.4592, -83.2911
+De Tour Village, 45.9944, -83.9028
+Deaconess Hospital, 42.3419, -83.0153
+Dealno, 44.0500, -83.6833
+Dean, 43.5925, -84.2139
+Dearborn, 42.3222, -83.1764
+Dearborn Heights, 42.3369, -83.2733
+Decatur, 42.1081, -85.9744
+Decker, 43.4589, -83.0508
+Deckerville, 43.5267, -82.7353
+Deep River, 44.0333, -83.9833
+Deer Creek, 42.7600, -83.9072
+Deer Park, 46.6744, -85.6161
+Deerfield, 41.8889, -83.7789
+Deerfield Center(Isabella), 43.5975, -84.9078
+Deerfield Center(Livingston), 42.7336, -83.8622
+Deerheart Valley, 44.5369, -84.5706
+Deerton, 46.4744, -87.0419
+Deford, 43.5133, -83.1925
+Deibert, 44.5839, -85.2325
+Delano, 44.0997, -83.6261
+Delaware(Keweenaw), 47.4211, -88.0958
+Delaware(Sanilac), 43.6500, -82.6833
+Delaware Mine, 47.3000, -88.4333
+Delhi(Ingham), 42.6333, -84.5333
+Delhi(Washtenaw), 42.2833, -83.7500
+Delhi Mills, 42.3303, -83.8111
+Delray, 42.3000, -83.1333
+Delta Center, 42.7264, -84.6622
+Delta Mills, 42.7650, -84.6475
+Delton, 42.4997, -85.4081
+Delwin, 43.6972, -84.6781
+Denmark Junction, 43.4158, -83.6550
+Dennison, 43.0733, -85.9872
+Denton, 42.2578, -83.5242
+Derby, 42.0147, -86.4819
+Detroit, 42.3314, -83.0458
+Detroit Beach, 41.9311, -83.3269
+Detroit River, 42.3667, -83.0667
+Devereaux, 42.3200, -84.7086
+Devils Corner, 45.7375, -86.6050
+Devils Elbow, 44.6867, -85.4819
+Devils Lake, 42.0078, -84.2925
+Deward, 44.8406, -84.8267
+DeWitt, 42.8422, -84.5692
+Dexter, 42.3383, -83.8886
+Diamond Lake, 43.5500, -85.7667
+Diamond Shores, 41.8981, -85.9681
+Diamond Springs, 42.6806, -85.8969
+Diann, 41.9319, -83.6372
+Dice, 43.4667, -84.1117
+Dice Corners, 43.6125, -84.3694
+Dick, 46.1908, -84.8314
+Dickson, 44.3000, -85.9333
+Diffin, 46.2100, -87.0339
+Dighton, 44.0878, -85.3450
+Dimondale, 42.6456, -84.6489
+Dinca, 44.2789, -85.0542
+Diorite, 46.5092, -87.8303
+Disco, 42.6839, -83.0344
+Dixboro, 42.3122, -83.6561
+Dixon, 46.3325, -86.8531
+Doctors Hospital, 42.3389, -83.0203
+Dodgeville, 47.0942, -88.5811
+Dollar Bay, 47.1197, -88.5114
+Dollar Settlement, 46.4617, -84.7392
+Dollarville, 46.3514, -85.5419
+Dolph, 44.2333, -84.8792
+Dominican, 41.9000, -84.0333
+Donahue Beach, 43.6567, -83.8797
+Donaldson, 46.4833, -84.3500
+Donken, 46.9417, -88.7944
+Donnelly, 44.9936, -84.3128
+Dorgans Crossing, 46.3964, -84.6139
+Dorr, 42.7253, -85.7225
+Dorrance, 41.9500, -85.0000
+Dorsey, 46.3397, -87.0844
+Doster, 42.4658, -85.5417
+Doty, 46.3628, -86.5353
+Doughertys Corners, 42.2956, -85.7164
+Douglas(Manistee), 44.3222, -86.2233
+Douglas(Allegan), 42.6433, -86.2006
+Douglass, 43.3333, -85.1500
+Dover(Clare), 43.8875, -84.7478
+Dover(Washtenaw), 42.4025, -83.9108
+Dowagiac, 41.9842, -86.1086
+Dowling, 42.5225, -85.2531
+Downington, 43.5167, -82.7333
+Doyle, 46.1667, -86.0500
+Drayton Plains, 42.6842, -83.3772
+Dreamland, 47.0978, -88.4131
+Drenthe, 42.7828, -85.9400
+Dresden Village, 42.5667, -83.0333
+Drew, 43.6631, -85.0275
+Drummond, 45.9833, -83.7167
+Drummond Island, 46.0167, -83.7333
+Dryburg, 46.2106, -84.6772
+Dryden, 42.9461, -83.1239
+Dublin, 44.1794, -85.9314
+Duck Lake(Allegan), 42.3667, -85.8833
+Duck Lake(Calhoun), 42.4000, -84.7822
+Duel, 43.7119, -84.1469
+Duffield, 42.9281, -83.9100
+Dukes, 46.3478, -87.1578
+Dumont Lake, 42.5333, -85.8500
+Duncan(Houghton), 46.5167, -88.8333
+Duncan(Cheboygan), 44.8000, -82.9167
+Dundee, 41.9572, -83.6597
+Dunham, 46.3822, -89.7858
+Dunn Location, 46.0681, -88.3747
+Dunningville, 42.6128, -85.9486
+Duplain, 43.0467, -84.4525
+Durand, 42.9119, -83.9847
+Dutton, 42.8411, -85.5850
+Dwight, 43.9833, -82.9500
+Eagle, 42.8078, -84.7886
+Eagle Harbor, 47.4583, -88.1622
+Eagle Lake, 41.8000, -86.0667
+Eagle Mills, 46.5128, -87.5336
+Eagle Nest, 47.4075, -88.2775
+Eagle Point, 41.8953, -85.9831
+Eagle River, 47.4139, -88.2956
+Eagles Nest, 45.1906, -87.6114
+Eames, 42.6833, -83.3333
+East Bay, 44.7167, -85.5333
+East China, 42.7667, -82.4833
+East Comstock, 42.2861, -85.4897
+East Cooper, 42.3494, -85.5517
+East Dayton, 43.4108, -83.2853
+East Detroit, 42.4683, -82.9556
+East DeWitt, 42.8542, -84.5431
+East Gilead, 41.7819, -85.0831
+East Grand Rapids, 42.9411, -85.6100
+East Highland, 42.6550, -83.5717
+East Houghton, 46.3167, -87.0500
+East Jordan, 45.1581, -85.1242
+East Kingsford, 45.7950, -88.0644
+East Lake, 44.2444, -86.2961
+East Lansing, 42.7369, -84.4839
+East Leroy, 42.1661, -85.2175
+East Melvindale, 42.2833, -83.1833
+East Paris, 42.9100, -85.5683
+East Rockwood, 42.0483, -83.2108
+East Saugatuck, 42.6817, -86.0931
+East Sebwa, 42.7667, -85.0000
+East Side, 43.0333, -83.7000
+East Tawas, 44.2794, -83.4903
+East Thetford, 43.1333, -83.7333
+Eastern Heights, 42.9000, -85.6333
+Eastland Center, 42.4167, -82.9000
+Eastlawn, 42.2356, -83.5881
+Eastmanville, 43.0169, -85.9564
+Eastmont, 42.9511, -85.5558
+Easton(Ionia), 43.0000, -85.1167
+Easton(Shiawassee), 43.1139, -84.0883
+Eastover Farms, 42.5667, -83.2667
+Eastport, 45.1072, -85.3500
+Eastview, 42.8000, -83.0167
+Eastwood, 42.3031, -85.5503
+Eaton, 42.5500, -84.7667
+Eaton Rapids, 42.5092, -84.6558
+Eau Claire, 41.9850, -86.2997
+Eben Junction, 46.3550, -86.9700
+Echo, 45.0667, -85.1500
+Eckerman, 46.3653, -85.0353
+Eckerman Corner, 46.3458, -85.0306
+Eckerman Corner Lookout Tower, 46.3408, -85.0172
+Eckford, 42.2019, -84.8664
+Ecorse, 42.2444, -83.1458
+Eden, 42.5239, -84.4283
+Edenville, 43.7994, -84.3817
+Edgemont Park, 42.7333, -84.6000
+Edgerton, 43.1608, -85.5658
+Edgewater, 42.0833, -86.5000
+Edgewater Beach, 45.7686, -84.7250
+Edgewater Heights, 42.2039, -83.5119
+Edgewood(Gratiot), 43.2919, -84.4289
+Edgewood(Muskegon), 43.2000, -86.2333
+Edmore, 43.4081, -85.0386
+Edwards, 44.1764, -84.2667
+Edwards Corners, 42.0167, -85.8167
+Edwardsburg, 41.7956, -86.0808
+Egelston, 43.2333, -86.1000
+Eight Point Lake, 43.8500, -85.0000
+Eightmile Corner, 46.4189, -85.5939
+Elba, 43.0364, -83.4400
+Elberta, 44.6194, -86.2264
+Elbow Lake, 44.2153, -84.0356
+Elbridge, 43.6858, -86.2189
+Eldorado, 44.5917, -84.4008
+Elizabeth Lake Estates, 42.6500, -83.4000
+Elk Rapids, 44.8956, -85.4164
+Elkhorn, 45.9547, -86.4067
+Elkland, 43.6333, -83.1833
+Elkton, 43.8194, -83.1808
+Ellington, 43.5539, -83.3214
+Ellis, 45.3333, -84.5500
+Ellsworth, 45.1656, -85.2461
+Elm, 42.3767, -83.3314
+Elm Grove, 43.8333, -84.7667
+Elm Hall, 43.3650, -84.8353
+Elm River, 46.9000, -88.8500
+Elmdale, 42.8536, -85.3111
+Elmer, 43.4197, -82.9292
+Elmhurst, 45.4961, -84.6886
+Elmira, 45.0644, -84.8561
+Elmwood(Iron), 46.2222, -88.9097
+Elmwood(Tuscola), 43.5847, -83.2833
+Elo, 46.8733, -88.6369
+Eloise, 42.2858, -83.3389
+Elsie, 43.0886, -84.3869
+Elwell, 43.3875, -84.7458
+Ely, 46.4500, -87.8000
+Emerald, 43.9000, -85.2667
+Emerson(Gratiot), 43.3333, -84.5500
+Emerson(Chippewa), 46.5564, -85.0292
+Emerson Highlands, 43.2000, -86.2333
+Emerson Station, 45.0642, -83.6542
+Emery, 42.3600, -83.6831
+Emmett, 42.9906, -82.7650
+Empire, 44.8111, -86.0600
+Engadine, 46.1167, -85.5708
+Englishville, 43.1167, -85.6903
+Ensign, 45.8975, -86.8689
+Ensley Center, 43.3378, -85.6228
+Enterprise, 44.3833, -84.9167
+Entrican, 43.3503, -85.1536
+Epoufette, 46.0556, -85.1683
+Epsilon, 45.3628, -84.8019
+Erickson Landing, 46.1417, -88.4042
+Erie, 41.7942, -83.4964
+Erwin, 46.3833, -90.0833
+Escanaba, 45.7453, -87.0644
+Essex, 43.0833, -84.6667
+Essexville, 43.6153, -83.8419
+Estey, 43.8700, -84.2056
+Estral Beach, 41.9842, -83.2358
+Ethelwood, 46.4872, -89.7244
+Euclid Center, 42.1000, -86.4500
+Eugene, 43.2922, -84.7069
+Eureka(Clinton), 43.1036, -84.5139
+Eureka(Montcalm), 43.1667, -85.2667
+Eureka Place, 43.1864, -85.2031
+Eustis, 45.7586, -87.3353
+Evangeline, 45.2500, -85.0167
+Evans, 43.1953, -85.4553
+Evans Lake, 42.0167, -84.0667
+Evart, 43.9006, -85.2581
+Eveline, 45.2333, -85.1500
+Evelyn, 46.3669, -86.5342
+Everett, 43.5167, -85.7500
+Evergreen Acres, 41.9072, -83.4311
+Evergreen Beach, 45.4936, -83.9786
+Evergreen Park, 43.0667, -86.1833
+Evergreen Shores(Schoolcraft), 45.9739, -86.3108
+Evergreen Shores(Mackinac), 45.9008, -84.7364
+Ewen, 46.5353, -89.2811
+Ewing, 46.0833, -87.3000
+Excelsior, 44.7333, -85.0333
+Exeter, 42.0500, -83.4667
+Eyedylwild Beach, 44.9619, -84.7042

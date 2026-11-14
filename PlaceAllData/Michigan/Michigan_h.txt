@@ -1,0 +1,216 @@
+Haakwood, 45.2667, -84.6000
+Hackley Hospital, 43.2222, -86.2422
+Hadley, 42.9544, -83.4033
+Hagar, 42.1833, -86.3833
+Hagar Shores, 42.2000, -86.3333
+Hagensville, 45.3333, -83.7819
+Hagerman Lake, 46.1000, -88.6500
+Haight, 46.4000, -89.1833
+Hale, 44.3778, -83.8047
+Hallers Corners, 42.6947, -83.7036
+Halls Corner, 43.5397, -85.2247
+Hamar, 46.7833, -88.5000
+Hamburg, 42.4486, -83.8017
+Hamilton, 42.6772, -86.0061
+Hamlin Lake, 44.0225, -86.4556
+Hammell Beach, 44.0939, -83.5803
+Hammond, 45.4972, -84.0369
+Hammond Bay, 45.4000, -84.0833
+Hampton, 43.6000, -83.8167
+Hamtramck, 42.3928, -83.0497
+Hancock, 47.1269, -88.5808
+Hand, 42.2536, -83.2731
+Handy, 42.6333, -84.1000
+Hangore Heights, 45.4394, -84.2953
+Hannah, 44.5847, -85.6356
+Hannahville, 45.6525, -87.3461
+Hanover, 42.1011, -84.5519
+Hansen, 45.2394, -87.6131
+Harbert, 41.8719, -86.6289
+Harbor Beach, 43.8447, -82.6514
+Harbor Haven, 43.2000, -86.2667
+Harbor Hills, 43.2000, -86.2667
+Harbor Park, 43.2000, -86.2667
+Harbor Point, 45.4219, -84.9864
+Harbor Springs, 45.4317, -84.9919
+Harbor View, 45.3428, -83.4869
+Hard Luck, 44.0717, -84.1931
+Hardwood, 45.9617, -87.6911
+Haring, 44.2986, -85.4131
+Harlan, 44.4569, -85.8194
+Harlem, 42.8706, -86.1136
+Harmon City Heights, 44.1336, -83.5692
+Harper, 42.4000, -83.0000
+Harper Hospital, 42.3492, -83.0583
+Harper Woods, 42.4331, -82.9242
+Harrietta, 44.3100, -85.6978
+Harris, 45.7036, -87.3453
+Harrisburg, 43.1919, -85.8739
+Harrison, 44.0192, -84.7994
+Harrison Beach, 45.9806, -86.3014
+Harrisville, 44.6564, -83.2947
+Harsens Island, 42.5833, -82.5667
+Hart, 43.6983, -86.3639
+Hartford, 42.2067, -86.1667
+Hartland, 42.6567, -83.7531
+Hartley, 46.3911, -89.8158
+Hartman, 42.0144, -86.3244
+Hartwick, 44.0333, -85.2333
+Harvard, 43.1944, -85.4167
+Harvey, 46.4947, -87.3542
+Harwood, 45.9500, -87.7000
+Haslett, 42.7469, -84.4011
+Hastings, 42.6458, -85.2908
+Hatchs, 44.8264, -85.6822
+Hatmaker, 41.8475, -85.1214
+Hatton, 43.9228, -84.8186
+Hautala Corner, 46.5208, -90.1556
+Havana, 43.1333, -84.1667
+Hawes, 44.7333, -83.5000
+Hawkhead, 42.4694, -86.2072
+Hawkins, 43.8006, -85.6031
+Hawks, 45.3019, -83.8875
+Hawthorne, 42.7733, -82.4728
+Hay, 43.9667, -84.3167
+Haynes, 44.7333, -83.3333
+Hazel, 46.1481, -88.7444
+Hazel Park, 42.4625, -83.1042
+Hazelhurst, 41.8783, -86.6286
+Hazelhurst Camp, 41.8667, -86.6333
+Hazelton, 43.0833, -83.9833
+Heath, 42.6500, -85.9500
+Hebards, 47.2850, -88.2972
+Hebron, 45.6833, -84.6667
+Heimforth, 44.8575, -85.7089
+Helena(Marquette), 46.2183, -87.2722
+Helena(Antrim), 44.9000, -85.2500
+Helena(Huron), 43.7747, -82.6908
+Hell, 42.4347, -83.9850
+Helmer, 46.2664, -85.7156
+Helps, 45.9308, -87.5986
+Hemans, 43.4617, -83.0894
+Hematite, 46.3000, -88.4833
+Hemlock, 43.4147, -84.2306
+Henderson(Shiawassee), 43.0864, -84.1953
+Henderson(Wexford), 44.2000, -85.6333
+Hendricks(Delta), 45.9806, -87.3531
+Hendricks(Meckinac), 46.1500, -85.1833
+Henrietta, 42.3833, -84.3000
+Herman, 46.6669, -88.3669
+Hermansville, 45.7111, -87.6019
+Herrick, 43.8006, -84.7067
+Herrington, 43.0603, -85.8283
+Herron, 45.0231, -83.6469
+Hersey, 43.8486, -85.4444
+Hesperia, 43.5689, -86.0394
+Hessel, 46.0042, -84.4258
+Hetherton, 45.0125, -84.3700
+Hiawatha(Iron), 46.1000, -88.6500
+Hiawatha(Schoolcraft), 46.1175, -86.2617
+Hiawatha Location, 46.0739, -88.6447
+Hickory Corners, 42.4414, -85.3756
+Hickory Heights, 42.5667, -83.2667
+Hickory Island, 42.1333, -83.1500
+Hickory Ridge, 42.6797, -83.6650
+Higbee Corner, 43.5422, -85.3925
+Higgins, 44.4333, -84.5500
+Higgins Lake, 44.4836, -84.7797
+High Island, 45.7333, -85.6833
+Highland(Oakland), 42.6381, -83.6172
+Highland(Osceola), 44.1456, -85.2664
+Highland Park(Kalamazoo), 42.3958, -85.4197
+Highland Park(Wayne), 42.4056, -83.0969
+Highland View, 43.2000, -86.2667
+Highway, 47.2500, -88.4500
+Highwood, 43.9272, -84.3064
+Higman Park, 42.1306, -86.4689
+Hill, 44.3833, -83.9500
+Hillcrest(Gogebic), 46.4922, -90.1561
+Hillcrest(Roscommon), 44.4647, -84.7731
+Hillcrest Orchard, 41.8494, -83.4767
+Hilliards, 42.6747, -85.7283
+Hillman, 45.0592, -83.9011
+Hills and Dales, 43.0000, -85.6333
+Hills Corners, 41.8850, -86.4753
+Hillsdale, 41.9200, -84.6306
+Hillside Gardens, 42.2500, -84.4000
+Hilltop, 44.6117, -85.6561
+Hinchman, 41.9722, -86.4272
+Hinton, 43.5167, -85.2667
+Hobart, 44.1828, -85.4483
+Hockaday, 44.0878, -84.4272
+Hodunk, 42.0147, -85.0617
+Holland, 42.7875, -86.1089
+Holloway, 41.9350, -83.9144
+Holly, 42.7919, -83.6278
+Hollywood(Allegan), 42.4928, -86.2389
+Hollywood(Berrien), 42.0144, -86.4558
+Holmes, 45.5333, -87.7333
+Holt, 42.6406, -84.5153
+Holton, 43.4133, -86.0794
+Holy Corners, 42.8117, -85.5267
+Home Acres(Kent), 42.9000, -85.6333
+Home Acres(Muskegon), 43.2000, -86.2333
+Homeier, 46.7725, -87.6797
+Homer(Calhoun), 42.1458, -84.8089
+Homer(Iron), 46.1000, -88.6500
+Homer Location, 46.1167, -88.6583
+Homestead(Benzie), 44.6500, -85.9833
+Homestead(Chippewa), 46.3381, -84.1225
+Hongore Bay, 45.3500, -84.2167
+Honor, 44.6639, -86.0181
+Hooks Corner, 41.8278, -86.6683
+Hooper, 42.5103, -85.5628
+Hoovers Corners, 43.1003, -84.3056
+Hope, 43.7644, -84.3381
+Hopkins, 42.6236, -85.7603
+Hopkinsburg, 42.6189, -85.7028
+Hopwood Acres, 42.7333, -84.5167
+Horr, 43.6836, -85.0475
+Horton(Jackson), 42.1503, -84.5172
+Horton(Ogemaw), 44.2000, -84.1833
+Horton Bay, 45.2844, -85.0789
+Houghton, 47.1219, -88.5689
+Houghton Lake, 44.3147, -84.7647
+Houghton Lake Heights, 44.3275, -84.7744
+Houghton Point, 44.3722, -84.7592
+Houle, 45.7056, -87.3967
+Houseman, 44.6131, -85.3083
+Houserville, 43.3833, -84.6500
+Howard, 41.8500, -86.1833
+Howard City, 43.3956, -85.4678
+Howardsville, 42.0250, -85.7183
+Howell, 42.6072, -83.9294
+Howell State Hospital, 42.5872, -83.9786
+Howlandsburg, 42.3350, -85.4036
+Hoxeyville, 44.1939, -85.7144
+Hoytville, 42.7411, -84.8961
+Hubbard Lake, 44.8736, -83.5872
+Hubbardston, 43.0922, -84.8422
+Hubbell, 47.1733, -88.4292
+Huber, 43.6119, -85.9992
+Hudson, 41.8550, -84.3539
+Hudson Mills, 42.3872, -83.9169
+Hudsonville, 42.8708, -85.8650
+Hulbert, 46.3542, -85.1500
+Humboldt, 46.4956, -87.8869
+Humboldt Mine, 46.4839, -87.8978
+Hume, 43.9667, -83.0500
+Humphrey, 44.4719, -86.0603
+Hunters Creek, 42.9856, -83.2939
+Huntington Woods, 42.4806, -83.1669
+Huntspur, 46.0419, -85.8542
+Hurley Hospital, 43.0211, -83.7050
+Huron Beach, 45.5000, -84.1000
+Huron City, 44.0292, -82.8328
+Huron Gardens, 42.6500, -83.4000
+Huron Heights, 44.1400, -83.5692
+Huron Mountain, 46.8872, -87.8653
+Huron Oaks, 44.2269, -83.5500
+Huronia Heights, 43.2122, -82.5228
+Hurontown, 47.1103, -88.5739
+Hutula, 46.5333, -88.6000
+Hutzel Hospital, 42.3575, -83.0589
+Hyde, 45.7336, -87.2025
+Hyde Park, 44.2169, -83.5528
+Hylas, 45.9572, -87.6794
