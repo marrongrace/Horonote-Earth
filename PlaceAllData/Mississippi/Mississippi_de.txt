@@ -1,0 +1,206 @@
+D'Iberville, 30.4261, -88.8908
+D'Lo, 31.9856, -89.9011
+Dabney Crossroads, 32.0861, -90.4278
+Dahomey, 33.6500, -91.0167
+Daisy-Vestry, 30.7833, -89.1333
+Dale, 30.8347, -88.7831
+Daleville, 32.5697, -88.6761
+Dallas Jones Crossing, 34.2219, -89.6428
+Dalys Hospital, 31.2517, -89.8331
+Damascus(Scott), 32.5553, -89.3883
+Damascus(Kemper), 32.6575, -88.8339
+Dancy, 33.6694, -89.0589
+Danforth, 34.4639, -90.5039
+Daniel, 32.1281, -89.7208
+Dantzler, 30.7128, -88.8756
+Darbun, 31.2761, -90.0469
+Darden, 34.5031, -89.1936
+Darling, 34.3589, -90.2742
+Darlove, 33.2319, -90.7844
+Darracott, 33.8333, -88.5500
+Darrington, 31.3067, -91.2356
+Davenport, 34.2000, -90.5667
+Davis, 32.6917, -90.0231
+Davo, 31.1058, -90.1111
+Days, 34.9111, -90.0778
+De Kalb, 32.7675, -88.6508
+De Lisle, 30.3792, -89.2644
+De Soto, 31.9736, -88.7133
+Dean Landing, 30.7811, -88.4725
+Deasonville, 32.7922, -90.0928
+Decatur, 32.4389, -89.1083
+Deemer, 32.7453, -89.1181
+Deen, 31.5533, -89.6781
+Deep Creek, 30.9197, -88.9164
+Deerbrook, 33.2353, -88.4867
+Dees Landing, 30.5236, -88.6808
+Deeson, 34.0231, -90.8594
+Delay, 34.2489, -89.4039
+Delta(Coahoma), 34.4044, -90.5722
+Delta(Panola), 34.4231, -90.1289
+Delta City, 33.0739, -90.7950
+Delta Drive, 32.3167, -90.1833
+Delta Medical Center, 33.4108, -91.0339
+Delta State College, 33.7333, -90.7167
+Denham, 31.6536, -88.5256
+Denmark, 34.3108, -89.3467
+Dennis, 34.5586, -88.2261
+Dennis Crossroads, 31.7581, -90.9594
+Dennis Landing, 34.0186, -90.9281
+Dennis Settlement, 32.3608, -89.3492
+Denton, 34.1461, -90.3125
+Dentontown, 33.7408, -89.4428
+Dentville, 31.9597, -90.5553
+Deovolente, 33.2192, -90.4500
+Derby, 30.7594, -89.5831
+Derma, 33.8556, -89.2844
+DeWeese, 32.7100, -88.9375
+Dexter, 31.0742, -89.9928
+Diamondhead, 30.3167, -89.3333
+Dickerson, 34.3211, -90.6364
+Dillon, 31.0222, -90.2233
+Dinan, 31.2172, -90.1925
+Dinsmore, 33.0889, -88.3531
+Distall, 33.8583, -90.1814
+District Two Community Hospital, 33.0814, -89.8553
+Dixie, 31.0239, -89.2022
+Dixie, 34.1075, -90.8458
+Dixie Pine, 31.2947, -89.2700
+Dixon(Forrest), 32.3256, -90.2525
+Dixon(Bolivar), 32.6653, -89.2206
+Dockery, 33.7286, -90.6167
+Doctors Hospital, 32.3364, -90.1661
+Doddsville, 33.6575, -90.5247
+Dogtown, 34.2647, -89.2858
+Dogwood Landing, 32.9528, -90.7850
+Doloroso, 31.3050, -91.3594
+Domascus, 32.7667, -88.6500
+Donegal, 31.0558, -91.3769
+Donohoe, 32.3514, -89.3825
+Dooley, 34.6706, -90.2369
+Doolittle, 32.3167, -89.1667
+Dorsey, 34.2519, -88.5097
+Doskie, 34.9058, -88.2950
+Dossville, 32.9306, -89.5497
+Double Springs, 33.4814, -89.0608
+Dover(Neshoba), 32.5842, -89.2142
+Dover(Yazoo), 32.6983, -90.3239
+Dowdville, 32.6858, -89.3036
+Dowell, 32.9011, -89.5633
+Dragon, 31.3775, -89.2664
+Drew, 33.8094, -90.5264
+Drew Health Clinic, 33.8122, -90.5281
+Dry Creek, 31.6333, -89.5500
+Dry Grove, 32.1289, -90.4364
+Dubard, 33.7764, -89.9186
+Dubbs, 34.5683, -90.3736
+Dublin, 34.0722, -90.4906
+Duck Hill, 33.6331, -89.7111
+Dueitt, 31.1506, -88.5344
+Duffee, 32.4892, -88.9269
+Duke, 32.1128, -90.7172
+Dulweber, 33.3417, -90.2372
+Dumas, 34.6403, -88.8439
+Duncan, 34.0444, -90.7447
+Dundee, 34.5242, -90.4556
+Dunkirk, 33.4572, -90.8817
+Dunleith, 33.4358, -90.8206
+Durant, 33.0750, -89.8544
+Dwiggins, 33.8456, -90.5814
+Dwyer, 33.5642, -90.5286
+Dykes Crossing, 31.0978, -90.2853
+Eagle Bend, 32.5203, -91.0067
+Eagle Lake, 32.3333, -90.8667
+Eagle Landing, 34.5344, -90.5447
+Eagles Nest, 34.2919, -90.4672
+Early Grove, 34.9758, -89.3847
+East Aberdeen, 33.8217, -88.5164
+East Fork, 31.2031, -90.6683
+East Lincoln, 31.4850, -90.2919
+East Mississippi Insane Asylum, 32.3761, -88.7292
+East Mississippi State Hospital, 32.3761, -88.7292
+East Moss Point, 30.4000, -88.5167
+East Side, 31.3547, -88.9111
+East Tupelo, 34.2500, -88.7167
+Eastabuchie, 31.4353, -89.2833
+Eastland, 33.6506, -90.5219
+Eastlawn, 30.3833, -88.5333
+Eastman, 34.3383, -88.2361
+Eastport, 34.8856, -88.1006
+Eastside, 30.4000, -88.5167
+Eastview, 31.6969, -89.0911
+Eatonville, 31.4139, -89.3292
+Ebenezer, 32.9706, -90.0908
+Ecru, 34.3531, -89.0231
+Eddiceton, 31.5019, -90.7914
+Eden, 32.9847, -90.3233
+Edgewater Park, 30.3933, -88.9869
+Edinburg, 32.7992, -89.3361
+Edwards, 32.3300, -90.6056
+Effie, 33.9347, -90.1772
+Eggville, 34.3308, -88.5683
+Egremont, 32.8606, -90.9033
+Egypt(Chickasaw), 33.8983, -88.7297
+Egypt(Holmes), 33.3411, -90.2772
+Egypt Hill, 32.0100, -90.2622
+Eldorado, 32.5794, -90.6594
+Eldridge, 34.1114, -90.8411
+Electric Mills, 32.7692, -88.4639
+Elizabeth, 33.4236, -90.8811
+Ellard, 34.0158, -89.4147
+Elliott, 33.6833, -89.7492
+Ellis Cliffs, 31.4014, -91.4519
+Ellistown, 34.4447, -88.8408
+Ellisville, 31.6039, -89.1956
+Ellisville Municipal Hospital, 31.6028, -89.1942
+Ellwood Landing, 32.7056, -90.6872
+Elsie, 33.8833, -89.1833
+Elton, 32.2208, -90.2192
+Elwood, 32.0181, -88.8017
+Embry, 33.6561, -89.3689
+Emerald, 31.0769, -90.3636
+Eminence, 31.6128, -89.4339
+Emory, 33.2525, -89.9239
+Empire, 33.2189, -90.8314
+Endville, 34.3222, -88.8831
+Energy, 32.1794, -88.5497
+Enid, 34.1164, -89.9397
+Enola, 32.7272, -90.5847
+Enola Landing, 32.7272, -90.5889
+Enon, 31.3036, -90.2231
+Enondale, 32.6353, -88.4683
+Enterprise(Lincoln), 31.4733, -90.3853
+Enterprise(Union), 34.4669, -89.1572
+Enterprise(Amite), 31.1647, -90.8781
+Enterprise(Clarke), 32.1742, -88.8314
+Enzor, 32.4667, -88.6667
+Epley, 31.3764, -89.5111
+Epps, 31.1308, -89.1958
+Eret, 31.4700, -88.4822
+Errata, 31.7586, -89.0600
+Erwin, 33.1039, -91.0436
+Escatawpa, 30.4403, -88.5436
+Eset, 31.4333, -88.4667
+Eskridge, 33.5753, -89.7008
+Esperanza, 34.3578, -89.1608
+Essex, 34.3297, -90.2747
+Estes, 33.0611, -89.0492
+Estesmill, 32.6506, -89.4700
+Estill, 33.2181, -90.8708
+Ethel, 33.1203, -89.4658
+Etta, 34.4703, -89.2275
+Eucutta, 31.8050, -88.8722
+Eudora, 34.8303, -90.1492
+Eulogy, 33.0336, -90.1747
+Eunice, 31.2892, -90.9744
+Eupora, 33.5406, -89.2669
+Eureka Springs, 34.2436, -89.8644
+Eutaw, 33.6586, -91.1506
+Eutaw Landing, 33.6517, -91.1700
+Evans, 32.8531, -90.1747
+Evanston, 30.9072, -88.5636
+Evansville, 34.6403, -90.3886
+Everett, 32.0275, -89.8222
+Evergreen(Harrison), 30.4000, -89.0833
+Evergreen(Itawamba), 34.1619, -88.5114
+Expose, 31.3228, -89.8633

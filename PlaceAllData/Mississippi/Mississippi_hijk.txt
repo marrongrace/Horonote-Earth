@@ -1,0 +1,277 @@
+H C Watkins Memorial Hospital, 32.0306, -88.7261
+Hale, 31.9636, -88.7756
+Hall, 33.8886, -89.0683
+Halltown, 34.5242, -88.8125
+Halstead, 33.7039, -90.6414
+Hamage, 31.2256, -89.9442
+Hamburg, 31.5786, -91.0667
+Hamilton, 33.7403, -88.4111
+Hamlin, 34.5031, -90.4572
+Hampton, 33.0308, -91.0019
+Hancock General Hospital, 30.3250, -89.3375
+Hancock Medical Center, 30.3153, -89.3592
+Hand, 32.4667, -88.7167
+Handle, 32.9608, -88.8744
+Handsboro, 30.3983, -89.0269
+Handy Corner, 34.9622, -89.7419
+Haney, 31.8158, -89.0094
+Hankinson, 32.1064, -90.8794
+Hannah, 33.6369, -91.0256
+Harbert Landing, 34.6536, -90.5572
+Hard Cash, 33.1833, -90.4833
+Hardee, 32.5931, -90.8550
+Hardy, 33.8819, -89.8294
+Hardy Wilson Memorial Hospital, 31.8692, -90.4003
+Harleston, 30.7225, -88.5089
+Harmontown, 34.5403, -89.6483
+Harmony(Clarke), 31.9853, -88.8161
+Harmony(Lincoln), 31.5222, -90.2681
+Harperville, 32.4942, -89.4894
+Harriston, 31.7250, -91.0322
+Harrisville, 31.9722, -90.0778
+Hartman, 31.5136, -90.4367
+Harvey, 31.3311, -89.2622
+Hathorn, 31.3931, -89.9192
+Hatley, 33.9767, -88.4206
+Hattiesburg, 31.3269, -89.2903
+Hawkes, 31.7547, -89.0761
+Hawthorne, 30.6497, -89.6425
+Hayes Crossing, 34.4494, -89.7614
+Haynes Bluff, 32.5161, -90.7853
+Hays, 32.5372, -89.3611
+Hazel, 32.3811, -89.3014
+Hazlehurst, 31.8603, -90.3958
+Heads, 33.4706, -90.8464
+Heater, 32.0586, -89.6394
+Heathman, 33.4400, -90.7203
+Hebron(Jones), 31.7061, -89.3708
+Hebron(Jefferson Davis), 31.7233, -89.9522
+Heidelberg, 31.8867, -88.9839
+Helena, 30.4944, -88.4958
+Helm, 33.5008, -90.8344
+Henderson Point, 30.3086, -89.2869
+Hendrix, 33.4664, -89.6281
+Henley, 32.8333, -88.4833
+Henleyfield, 30.6969, -89.7639
+Herbert Springs, 32.6033, -88.9286
+Hermanville, 31.9592, -90.8400
+Hernando, 34.8239, -89.9936
+Hero, 32.3167, -89.1667
+Hesterville, 33.1606, -89.6542
+Heucks, 31.5833, -90.4500
+Hickman Landing, 32.9350, -90.7789
+Hickory, 32.3175, -89.0256
+Hickory Flat, 34.6158, -89.1883
+Hickory Grove(Oktibbeha), 33.4667, -88.8167
+Hickory Grove(Pearl River), 30.9975, -89.4075
+Hickory Grove(Lamar), 31.3944, -89.6461
+Hicks, 31.7167, -91.0667
+Hidi, 33.0244, -90.3853
+Higdon, 34.7681, -89.3869
+Higgins, 31.4231, -89.5975
+High Hill, 32.7667, -89.1167
+High Point, 34.9614, -88.2392
+Highlandale, 33.6806, -90.3439
+Highpoint, 33.1881, -89.1461
+Hightown, 34.8217, -88.6728
+Highway Village, 31.1000, -91.3000
+Hillhouse, 34.1256, -90.8181
+Hillman, 31.1333, -88.6328
+Hillsboro, 32.4592, -89.5114
+Hillsdale, 30.9278, -89.4972
+Hinchcliff, 34.3097, -90.2736
+Hinds General Hospital, 32.2872, -90.2542
+Hinkle, 34.7667, -88.5333
+Hintonville, 31.2608, -88.9219
+Hinze, 33.0328, -89.2703
+Hiram(Tallahatchie), 34.0633, -90.2811
+Hiram(Wilkinson), 31.2283, -91.1261
+Hiwannee, 31.8100, -88.6906
+Hobo Station, 34.5608, -88.4661
+Hoffman, 33.1458, -89.8089
+Hohenlinden, 33.7289, -89.1636
+Holcomb, 33.7611, -89.9758
+Holcut, 34.7297, -88.3058
+Holland Landing, 32.9647, -90.7806
+Hollandale, 33.1689, -90.8539
+Hollis, 33.8833, -89.1833
+Hollis Creek, 31.5308, -88.8336
+Holly Bluff, 32.8214, -90.7089
+Holly Grove, 33.4108, -90.1700
+Holly Landing, 30.7147, -88.7111
+Holly Ridge, 33.4456, -90.7533
+Holly Springs(Marion), 31.3156, -89.9778
+Holly Springs(Marshall), 34.7675, -89.4486
+Hollyknowe, 33.4014, -90.8303
+Hollywood, 34.7453, -90.3581
+Holmesville, 31.2033, -90.3086
+Holts, 34.8333, -88.3167
+Home Landing, 33.6642, -91.1133
+Homewood, 32.2400, -89.5061
+Homochitto, 31.3197, -90.9839
+Honey Island, 33.1833, -90.2167
+Hoodtown, 31.9778, -90.6047
+Hookston, 32.4317, -88.7906
+Hoover Lake and Park, 32.1500, -90.1333
+Hope, 32.7472, -89.2453
+Hopedale, 32.9569, -91.0125
+Hopewell(Benton), 34.9681, -89.0481
+Hopewell(Copiah), 31.9472, -90.2153
+Hopoca, 32.8342, -89.5064
+Hopson, 34.1586, -90.5464
+Horatio, 34.4378, -90.0556
+Horn, 31.9317, -88.5397
+Horn Lake, 34.9667, -90.0333
+Horn Place Landing, 32.7494, -90.7003
+Horseshoe(Scott), 32.5531, -89.4119
+Horseshoe(Holmes), 33.2508, -90.2839
+Hortontown, 34.3519, -89.0789
+Hot Coffee, 31.7333, -89.4500
+Houlka, 34.0381, -89.0219
+House, 32.6286, -88.9947
+Houston, 33.8983, -88.9992
+Houston Community Hospital, 33.8936, -88.9856
+Hovey, 30.6144, -89.1333
+Howard, 33.1228, -90.1908
+Howard Memorial Hospital, 30.4111, -88.9078
+Howison, 30.6653, -89.1383
+Hoy, 31.7647, -89.1325
+Hub, 31.1453, -89.7500
+Hubbard, 32.2125, -90.6600
+Hubbard Creek, 34.1619, -89.8794
+Hudsonville, 34.8611, -89.3750
+Hudspeth Retardation Center, 32.2408, -90.0833
+Humana Hospital of Natchez, 31.5214, -91.3906
+Humber, 34.2000, -90.5667
+Humphreys, 32.0803, -90.8408
+Humphreys County Memorial Hospital, 33.1825, -90.4703
+Huntsville, 33.3481, -89.4611
+Hurley, 30.6608, -88.4942
+Huron, 31.1000, -90.6414
+Hurricane, 34.3511, -89.1478
+Hurricane Branch, 33.7994, -89.7017
+Hurricane Creek, 32.2108, -88.4544
+Hushpuckena, 34.0047, -90.7531
+Hustler, 31.2819, -90.6975
+Hutchins Landing, 31.3917, -91.4581
+Improve, 31.3428, -89.7003
+Increase, 32.2569, -88.5589
+Inda, 30.7833, -89.1333
+Independence(Scott), 32.3500, -89.6500
+Independence(Tate), 34.7050, -89.8089
+Indian Hills, 34.3175, -88.6844
+Indian Springs(Alcorn), 34.8403, -88.4147
+Indian Springs(Perry), 31.2975, -89.1378
+Indianola, 33.4508, -90.6550
+Industrial, 30.5761, -89.7633
+Ingleside, 32.0356, -90.9828
+Ingomar, 34.4092, -89.0367
+Ingrams Mill, 34.8242, -89.7683
+Insmore, 32.0139, -90.7319
+Inverness, 33.3536, -90.5925
+Inwood, 33.5058, -90.5247
+Iowana, 30.4000, -88.6333
+Ireland, 31.3469, -91.2225
+Irene, 31.2833, -90.4667
+Isola, 33.2619, -90.5922
+Issaquena, 32.7775, -90.9339
+Itawamba County Hospital, 34.2606, -88.3992
+Itta Bena, 33.4950, -90.3197
+Iuka, 34.8117, -88.1900
+Ivy Memorial Hospital, 33.6042, -88.6525
+Jacinto, 34.7597, -88.4283
+Jack, 32.0172, -90.5700
+Jackson, 32.2986, -90.1847
+Jackson Landing, 30.2061, -89.5733
+Jago, 34.9361, -89.9767
+Jaketown, 33.2503, -90.4794
+James, 33.2036, -91.0572
+Jamestown, 31.1833, -89.8553
+Janice, 31.0253, -89.0367
+Jaquith, 33.7681, -90.5358
+Jasper General Hospital, 31.9769, -89.2917
+Jayess, 31.3647, -90.2058
+Jeannette, 31.4864, -91.2447
+Jeff, 32.4211, -89.1278
+Jeff Anderson Regional Medical Center, 32.3711, -88.6994
+Jeff Davis, 32.1928, -90.8792
+Jeff Davis Hospital, 31.5275, -91.3911
+Jefferson, 33.6325, -89.8950
+Jefferson Davis County Hospital, 31.5944, -89.8722
+Jefferson Davis Memorial Hospital, 31.5275, -91.3911
+Jeffries, 34.5047, -90.5386
+Jenkins, 31.5939, -89.1553
+Jennings, 31.1500, -90.4500
+Jericho, 34.5111, -88.7544
+Jobes, 34.8614, -88.4997
+Johns, 32.1308, -89.8381
+Johnson, 31.5389, -89.1433
+Johnstons Station, 31.3483, -90.4542
+Johnsville, 31.5503, -91.3492
+Jonathan, 31.2225, -88.6375
+Jones County Community Hospital, 31.6847, -89.1406
+Jones Crossing, 33.1194, -90.1361
+Jones Mill, 30.3978, -89.1844
+Jonestown(Alcorn), 34.8708, -88.6667
+Jonestown(Coahoma), 34.3194, -90.4556
+Jonestown(Yazoo), 32.8417, -90.4306
+Joseph, 32.9756, -89.7278
+Jug Fork, 34.4264, -88.7892
+Jumpertown, 34.7108, -88.6639
+Junction City, 31.9608, -88.5731
+Kalem, 32.3500, -89.6500
+Kansas Landing, 32.7472, -90.7125
+Katzenmeyer, 32.5206, -90.8256
+Kearney, 32.7531, -90.7289
+Kearney Park, 32.5889, -90.3153
+Keel, 34.4128, -89.3678
+Keesler Air Force Base, 30.4167, -88.9167
+Keesler Medical Center, 30.4125, -88.9097
+Keirn, 33.2744, -90.2242
+Kelley's Crossing, 34.7278, -90.1050
+Kellis Store, 32.9333, -88.7333
+Kelona, 31.9333, -88.9333
+Kelso, 32.6692, -90.9036
+Kendrick, 34.9703, -88.3817
+Keownville, 34.5414, -88.9119
+Kerin, 33.3167, -90.2333
+Kerr, 33.1272, -89.2697
+Kewanee, 32.4239, -88.4383
+Key Field, 32.4667, -88.6667
+Kienstra, 31.2258, -91.6058
+Kilmichael, 33.4433, -89.5717
+Kiln, 30.4089, -89.4350
+Kimball Lake, 33.7653, -90.8000
+Kimberly, 32.1581, -90.9433
+Kincaid, 33.7506, -89.6553
+King, 32.0872, -90.1303
+King And Anderson, 34.2950, -90.6050
+Kings, 32.3969, -90.8564
+Kings Corner, 34.4964, -90.0572
+Kings Daughter Hospital(Lincoln), 31.5889, -90.4578
+Kings Daughter Hospital(Yazoo), 32.8586, -90.4042
+Kings Daughters Hospital, 33.4036, -91.0500
+Kingston, 31.4053, -91.2775
+Kinlock, 33.3094, -90.7075
+Kioto, 31.1639, -90.2456
+Kirby, 31.5114, -90.9808
+Kirklin, 31.0478, -90.1158
+Kirkman Landing, 33.8506, -89.7614
+Kirkville(Itawamba), 34.4514, -88.4897
+Kirkville(Pike), 31.2131, -90.4969
+Kitchener, 32.5819, -89.2850
+Kittrell(Greene), 31.4303, -88.5631
+Kittrell(Perry), 31.2069, -88.9133
+Klondike, 32.6222, -88.7561
+Knobtown, 31.3781, -88.5233
+Knoxo, 31.1353, -90.0461
+Knoxville, 31.3786, -91.1208
+Koch, 32.4956, -89.8864
+Kokomo, 31.1972, -90.0028
+Kola, 31.6250, -89.5272
+Kolola Springs, 33.6539, -88.4089
+Kosciusko, 33.0575, -89.5875
+Kossuth, 34.8719, -88.6458
+Kreole, 30.4058, -88.4947
+Kuhn Hospital, 32.3547, -90.8700
+Kuhn Memorial State Hospital, 32.3547, -90.8700

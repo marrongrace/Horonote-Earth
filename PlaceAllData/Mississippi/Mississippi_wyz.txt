@@ -1,0 +1,164 @@
+Waco, 33.3500, -90.5833
+Waddell, 33.5803, -88.8711
+Wade(Jackson), 30.6422, -88.5697
+Wade(Sunflower), 33.8167, -90.5333
+Wahalak, 32.9056, -88.5297
+Waites, 34.7006, -89.3689
+Wakefield, 34.7431, -89.7408
+Wakeland, 33.6186, -90.1994
+Waldo, 32.7372, -89.2769
+Waldrup, 31.9650, -89.1078
+Walker Siding, 34.8319, -88.2889
+Wallace Creek, 34.1603, -89.8922
+Wallerville, 34.4417, -88.9458
+Wallfield, 34.1092, -89.0269
+Wallhill, 34.7144, -89.7039
+Wallis(reduced Usage), 31.1553, -89.2383
+Walls, 34.9578, -90.1517
+Walnut(Tippah), 34.9461, -88.8997
+Walnut(Quitman), 34.1489, -90.3989
+Walnut Grove(Coahoma), 34.1403, -90.7694
+Walnut Grove(Leake), 32.5903, -89.4583
+Walsh, 32.5711, -90.8394
+Walters, 31.6433, -89.1781
+Waltersville, 32.3794, -90.8678
+Walthall, 33.6072, -89.2772
+Walthall County Hospital, 31.1206, -90.1556
+Wanilla, 31.6428, -90.1317
+Wardwell(Calhoun), 33.8833, -89.1833
+Wardwell(Lamar), 31.3428, -89.3756
+Warrenton, 32.2472, -90.9283
+Warsaw(Marshall), 34.8308, -89.6861
+Warsaw(Washington), 33.1942, -90.8650
+Washington, 31.5786, -91.2992
+Water Oak, 31.6833, -88.6500
+Water Valley, 34.1514, -89.6314
+Water Valley Landing, 34.1492, -89.7733
+Waterford, 34.6475, -89.4572
+Waters Landing, 30.7906, -88.4647
+Watson, 34.7875, -89.6886
+Watson Center, 34.7875, -89.6708
+Wautubbee, 32.1161, -88.8583
+Waveland, 30.2867, -89.3761
+Waverly, 33.5675, -88.5039
+Waxhaw, 33.9175, -90.9692
+Way, 32.7439, -90.0331
+Wayne General Hospital, 31.6728, -88.6342
+Waynesboro, 31.6747, -88.6461
+Wayside, 33.2689, -91.0336
+Weathersby, 31.9392, -89.8317
+Webb, 33.9472, -90.3442
+Webster, 33.2175, -88.9836
+Webster General Hospital, 33.5333, -89.2667
+Weir, 33.2667, -89.2908
+Wellman, 31.4583, -90.3606
+Wells(Lowndes), 33.5978, -88.3944
+Wells(Rankin), 32.3208, -90.1078
+Wells Town, 31.0228, -89.4747
+Wenasoga, 34.9869, -88.5906
+Wesson, 31.7011, -90.3975
+West(Holmes), 33.1969, -89.7772
+West(Lauderdale), 32.4667, -88.6667
+West Biloxi, 30.4167, -88.9167
+West Days, 34.9114, -90.0958
+West Gulfport, 30.4039, -89.0942
+West Hill, 33.1022, -89.9147
+West Jackson, 32.3167, -90.1833
+West King, 31.7506, -88.7008
+West Lincoln, 31.4928, -90.5692
+West Marks, 34.2647, -90.3053
+West Point, 33.6075, -88.6503
+West Poplarville, 30.8342, -89.5714
+West Scott Baptist Hospital, 32.3489, -89.6547
+West Union, 34.5500, -89.1167
+Westfield, 33.1258, -90.2608
+Westland, 32.3167, -90.1833
+Westside, 31.9050, -91.1286
+Whaley, 33.6236, -90.1061
+Wheeler, 34.5803, -88.6075
+Whistle, 31.6969, -88.8044
+White Apple, 31.4569, -91.0742
+White Bluff, 31.3647, -89.9658
+White Cap, 31.2153, -90.9744
+White House Landing, 32.9336, -90.7603
+White Oak, 32.0706, -89.6878
+White Sand, 30.7992, -89.6581
+Whitebury, 33.4294, -88.3764
+Whitehead, 33.8486, -90.2986
+Whites(Rankin), 32.0864, -90.1925
+Whites(Clay), 33.6603, -88.6208
+Whites Crossing, 30.8481, -89.0403
+Whitesand, 31.6011, -89.9183
+Whitfield(Jones), 31.4450, -89.0744
+Whitfield(Rankin), 32.2353, -90.0719
+Whitney, 33.8478, -90.5161
+Whittaker, 31.0253, -91.1036
+Whitten Town, 34.7769, -89.0592
+Whynot, 32.4667, -88.6667
+Wickware, 32.3167, -89.1667
+Wiggins(Leake), 32.7019, -89.6367
+Wiggins(Stone), 30.8581, -89.1353
+Wildwood, 33.6192, -90.2411
+Wilkinson(Lincoln), 31.3903, -90.4094
+Wilkinson(Wilkinson), 31.2222, -91.2389
+Willet, 33.1203, -90.7508
+Williams(Choctaw), 33.3944, -89.1697
+Williams(Lincoln), 31.5531, -90.6156
+Williamsburg, 31.6192, -89.6106
+Williamsville(Neshoba), 32.7589, -89.1436
+Williamsville(Attala), 33.0267, -89.5669
+Willing, 31.9608, -90.6042
+Willis Heights, 34.2500, -88.7167
+Willowood, 32.3167, -90.1833
+Willows, 32.0361, -90.8961
+Wilmot, 33.3050, -90.8925
+Wiltshire, 33.3333, -89.7500
+Winborn, 34.6311, -89.2731
+Winchester, 31.6175, -88.5906
+Windsor Park, 30.4333, -88.8167
+Wingate, 31.2025, -89.0014
+Winona, 33.4819, -89.7281
+Winston County Community Hospital, 33.1236, -89.0361
+Winston County Medical Center, 33.1236, -89.0361
+Winstonville, 33.9100, -90.7514
+Winterville, 33.5017, -91.0583
+Wise Gap, 33.8989, -88.3317
+Wisner, 31.8417, -89.4706
+Wolf Springs, 32.4667, -88.6667
+Womans Hospital, 32.3294, -90.1011
+Wood Springs, 33.4381, -89.3594
+Woodburn, 33.4500, -90.6500
+Woodland(Chickasaw), 33.7786, -89.0514
+Woodland(Pontotoc), 34.1600, -88.8981
+Woodland Lake, 34.8333, -89.9833
+Woodlawn(Yazoo), 32.8608, -90.2806
+Woodlawn(Warren), 32.3764, -90.8106
+Woodside, 33.0153, -90.9744
+Woodville, 31.1044, -91.2994
+Woodwards, 31.6936, -88.6639
+Wool Market, 30.4833, -89.0167
+Woolworth, 31.6331, -90.2733
+Wortham, 30.5544, -89.1325
+Wren, 33.9717, -88.5997
+Wright, 33.8844, -90.9986
+Wyatt, 33.2331, -90.2203
+Wyatte, 34.6417, -89.6942
+X-Prairie, 33.1469, -88.4647
+Yalobusha General Hospital, 34.1325, -89.6419
+Yazoo City, 32.8550, -90.4056
+Yazoo Junction, 32.8881, -90.3894
+Yocona, 34.2781, -89.4147
+Yokena, 32.1750, -90.9419
+Young, 30.9978, -89.3692
+Youngs, 33.8531, -89.5344
+Youngton, 32.4475, -90.6203
+Zama, 32.9750, -89.3800
+Zeiglerville, 32.9503, -90.1700
+Zelleria, 32.9636, -90.3494
+Zemuly, 32.9492, -89.7217
+Zero, 32.3000, -88.6506
+Zetus, 31.5636, -90.5294
+Zieglerville, 32.8333, -90.2500
+Zion, 34.2058, -88.8861
+Zion Hill, 31.3147, -90.8267
+Zumbro, 33.7794, -90.6761

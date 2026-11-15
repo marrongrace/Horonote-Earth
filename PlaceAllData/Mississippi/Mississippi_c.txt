@@ -1,0 +1,231 @@
+Cadamy, 34.1814, -88.2592
+Cadaretta, 33.7061, -89.4511
+Cadillac, 31.6514, -91.1103
+Caesar, 30.5842, -89.5467
+Caile, 33.3000, -90.5900
+Cairo, 34.7267, -88.3481
+Caledonia, 33.6828, -88.3244
+Calhoun(Jones), 31.6958, -89.2053
+Calhoun(Newton), 32.3167, -89.1667
+Calhoun City, 33.8553, -89.3114
+Calyx, 32.9503, -88.4950
+Cambridge, 34.4167, -89.6167
+Camden, 32.7822, -89.8386
+Cameron, 32.8356, -89.8839
+Cameta, 33.0078, -90.8411
+Campbell, 34.7333, -88.9500
+Campbellville, 32.8122, -90.6953
+Camphill, 34.9500, -88.9000
+Canaan, 34.9303, -89.1267
+Candlestick, 32.3167, -90.1833
+Cannonsburg, 31.6336, -91.2111
+Canton, 32.6125, -90.0367
+Cantwell Mill, 31.5089, -89.6900
+Capell, 31.0247, -90.9878
+Cardsville, 34.1556, -88.4025
+Carlisle, 32.0025, -90.7844
+Carlos, 31.6181, -90.3792
+Carmack, 33.3333, -89.7500
+Carmich, 31.3839, -89.9850
+Carmichael(Hinds), 32.0697, -90.5314
+Carmichael(Perry), 31.1667, -88.9167
+Carmichael(Clarke), 31.9514, -88.5847
+Carnes, 30.9933, -89.2597
+Carolina, 34.1183, -88.4819
+Carpenter, 32.0339, -90.6803
+Carriere, 30.6167, -89.6525
+Carrollton, 33.5081, -89.9203
+Carson, 31.5378, -89.7950
+Carter, 32.9889, -90.4492
+Carter Branch, 34.6628, -88.1644
+Carters, 32.7608, -88.5619
+Carterville, 31.3197, -89.2461
+Carthage(Adams), 31.5264, -91.4458
+Carthage(Leake), 32.7325, -89.5361
+Carto, 31.1211, -90.0781
+Cary, 32.8058, -90.9267
+Cascilla, 33.8567, -90.0042
+Caseyville, 31.6728, -90.6556
+Cassels, 31.2000, -91.0167
+Castleman, 33.2036, -90.5186
+Catfish Point Landing, 33.7022, -91.1633
+Cato, 32.0900, -89.8781
+Cayce, 34.9553, -89.6181
+Cayuga, 32.1592, -90.6939
+Cecil, 33.2000, -89.7833
+Cedar Bluff, 33.5867, -88.8322
+Cedar Hill(Montgomery), 33.5650, -89.5867
+Cedar Hill(Madison), 32.4831, -90.1758
+Cedar Lake, 30.4681, -88.9381
+Cedars, 32.2506, -90.9253
+Cedarview, 34.9136, -89.8319
+Center(Union), 34.4658, -88.9269
+Center(Attala), 32.9453, -89.4308
+Center Hill, 32.5222, -88.7644
+Center Point, 31.3994, -90.6158
+Center Ridge(Smith), 31.9469, -89.4769
+Center Ridge(Winston), 33.0722, -89.0650
+Centerville, 34.3642, -88.5092
+Centralgrove, 33.8333, -88.5500
+Centreville, 31.0894, -91.0683
+Cerebral Palsy Hospital, 32.3317, -90.1744
+Cessions Landing, 34.0969, -90.8803
+Chalybeate, 34.9303, -88.8681
+Champion Hill, 32.3500, -90.5372
+Chancy, 34.1208, -90.2811
+Chapel Hill, 32.1142, -90.5136
+Chapel Landing, 32.9389, -90.7869
+Chapeltown, 34.2617, -90.0283
+Chapelville, 34.4400, -88.5908
+Charity Hospital, 31.5728, -91.3956
+Charleston, 34.0067, -90.0567
+Charlton, 32.5817, -90.1283
+Chatawa, 31.0603, -90.4722
+Chatham, 33.1006, -91.0978
+Cheraw, 31.1556, -89.8433
+Cherry Creek, 34.3506, -88.9875
+Chester, 33.3586, -89.2383
+Chesterville, 34.2864, -88.8256
+Chicora, 31.5636, -88.5753
+Chipwood, 30.4167, -88.9167
+Chiwapa, 34.1814, -88.9308
+Choctaw(Bolivar), 33.5578, -90.8131
+Choctaw(Grenada), 33.8303, -89.6464
+Choctaw(Holmes), 33.1728, -90.3044
+Choctaw(Jones), 31.7000, -89.1333
+Choctaw County Hospital, 33.3125, -89.1742
+Choctaw Indian Reservation, 32.8000, -89.2333
+Choctaw Landing, 32.8697, -90.8089
+Christmas, 33.7764, -90.9783
+Chulahoma, 34.6536, -89.6303
+Chunky, 32.3256, -88.9281
+Church Hill, 31.7167, -91.2333
+Clack, 34.8458, -90.2931
+Claiborne County Hospital, 31.9461, -90.9847
+Clara, 31.5803, -88.6964
+Claremont, 34.1206, -90.5239
+Clark(Greene), 31.2881, -88.5739
+Clark(Jefferson), 31.8833, -90.8833
+Clarksburg, 32.3300, -89.7294
+Clarksdale, 34.2000, -90.5708
+Clarkson, 33.6353, -89.1494
+Clarmont, 34.2000, -90.5667
+Clarysville, 34.6439, -88.9117
+Clay, 34.2700, -88.3372
+Clay County Medical Center, 33.6194, -88.6625
+Clayton, 34.6000, -90.4164
+Clayton Village, 33.4739, -88.7558
+Claytown, 32.9764, -88.9664
+Clear Springs, 32.1439, -89.3439
+Cleary, 32.1653, -90.1806
+Clem, 31.7108, -89.7878
+Cleo, 31.7003, -89.0367
+Clermont Harbor, 30.2614, -89.4161
+Cleveland(Bolivar), 33.7439, -90.7247
+Cleveland(Kemper), 32.7511, -88.8300
+Cleveland Crossing, 33.7472, -90.7975
+Clifton, 32.4661, -89.5664
+Cliftonville, 33.2356, -88.4250
+Clinton, 32.3414, -90.3217
+Clove Hill, 34.2167, -90.5333
+Clover Hill, 34.2750, -90.5442
+Cloverdale, 31.4978, -91.4206
+Clyde, 31.3500, -89.4678
+Coahoma, 34.3667, -90.5231
+Coahoma County Hospital, 34.1956, -90.5517
+Coal Oil Corner, 34.8683, -89.6706
+Coats, 31.8458, -89.7047
+Cobbs, 31.5597, -90.5744
+Cobbville, 32.6719, -90.0067
+Cockrum, 34.8028, -89.8119
+Coffeeville, 33.9767, -89.6756
+Cohay, 31.9281, -89.5969
+Coila, 33.3953, -89.9711
+Colby, 32.8783, -90.6858
+Coldwater(Neshoba), 32.7147, -89.2142
+Coldwater(Tate), 34.6917, -89.9772
+Coles, 31.2772, -91.0317
+Coles Creek, 33.8500, -89.4167
+Coll Town, 30.5119, -88.5506
+College, 33.5667, -88.4167
+College Hill, 34.4217, -89.5706
+Collins, 31.6453, -89.5553
+Collins Crossing, 34.8075, -88.7242
+Collinstown, 34.8075, -88.7328
+Collinsville, 32.4978, -88.8458
+Colonial, 32.3167, -90.1833
+Colony Town, 33.5000, -90.3333
+Colsub, 33.9833, -88.4833
+Columbia, 31.2517, -89.8375
+Columbus, 33.4956, -88.4272
+Columbus Air Force Base, 33.6500, -88.4500
+Columbus Hospital, 33.5219, -88.4272
+Commerce, 34.8178, -90.3708
+Commerce Landing, 34.8319, -90.3847
+Community Hospital, 34.9367, -88.5131
+Community Hospital of Calhoun County, 33.9617, -89.3428
+Como, 34.5106, -89.9397
+Compromise, 31.2006, -90.8864
+Concord, 34.5536, -88.9825
+Concordia, 33.9775, -90.9506
+Conehatta, 32.4511, -89.2853
+Conerly, 31.1747, -90.2894
+Conn, 31.8978, -90.7100
+Conway, 32.8561, -89.5900
+Cooks Landing, 34.9311, -88.1667
+Cooksville, 32.9836, -88.3589
+Cooperville, 32.2406, -89.7131
+Coosa, 32.8422, -89.4222
+Coral, 31.3861, -89.5297
+Corinth(Perry), 31.3436, -89.1397
+Corinth(Alcorn), 34.9342, -88.5222
+Corinth Sanitarium, 34.9356, -88.5200
+Cormorant, Lake, 34.9042, -90.2144
+Cornersville, 34.5389, -89.2556
+Corrona, 34.4700, -88.7672
+Cotton Plant, 34.6003, -89.0044
+Cottondale, 33.6900, -90.5428
+Cottonville, 34.6833, -89.9833
+Counts, 34.0694, -90.5597
+County Line, 31.4333, -88.4667
+Courtland, 34.2408, -89.9428
+Covington County Hospital, 31.6350, -89.5483
+Cowart, 34.0000, -90.0500
+Coxburg, 32.9983, -90.2100
+Coxs Ferry, 32.3500, -90.4667
+Coy, 32.9033, -88.9147
+Craig, 32.9300, -90.5958
+Craig Springs, 33.3150, -88.9228
+Craigside, 33.5886, -90.1936
+Crandall, 31.9744, -88.5322
+Crane Creek, 30.7833, -89.1333
+Cranfield, 31.5439, -91.2058
+Crawford, 33.3014, -88.6147
+Crenfree, 33.5808, -90.1117
+Crenshaw, 34.5025, -90.1986
+Crockett, 34.6167, -89.9667
+Crosby, 31.2836, -91.0631
+Crosby Memorial Hospital, 30.5294, -89.6881
+Cross Roads(Tishomingo), 34.9242, -88.2558
+Cross Roads(Rankin), 32.3167, -89.7833
+Crossroad(Leake), 32.8839, -89.4944
+Crossroad(Tate), 34.6119, -89.8369
+Crossroads(Washington), 33.4167, -91.0000
+Crossroads(Neshoba), 32.7589, -88.9483
+Crossroads(Pearl River), 30.7825, -89.7747
+Crossroads(George), 30.8850, -88.7106
+Crotts, 31.6000, -89.2000
+Crowder, 34.1733, -90.1375
+Cruger, 33.3208, -90.2322
+Crumtown, 34.8392, -88.7333
+Crupp, 32.7853, -90.4664
+Crystal Springs, 31.9872, -90.3569
+Cub Lake, 34.7864, -90.1492
+Cuevas, 30.3167, -89.2333
+Cullum, 32.6406, -88.6081
+Cumberland, 33.6203, -89.0792
+Currie, 31.6314, -89.1469
+Curtis Station, 34.3400, -90.1392
+Cybur, 30.6278, -89.7708
+Cynthia, 32.4028, -90.2489
+Cypress Corner, 34.5542, -90.0931

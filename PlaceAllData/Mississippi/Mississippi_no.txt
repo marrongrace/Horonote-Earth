@@ -1,0 +1,147 @@
+Nancy, 31.9433, -88.8425
+Nanih Waiya, 32.9214, -88.9486
+Napanee, 33.5061, -90.8708
+Napoleon, 30.3261, -89.6275
+Nason, 33.7231, -89.8986
+Natchez, 31.5603, -91.4031
+Natcole, 31.1739, -89.8497
+National Cemetery, 32.3333, -90.8667
+Naval Air Station, 32.4667, -88.6667
+Necaise, 30.6017, -89.4142
+Neely, 31.1647, -88.7547
+Negro Crossroads, 31.9833, -90.3667
+Neil, 34.5961, -88.2303
+Nellieburg, 32.4067, -88.7772
+Nesbit, 34.8817, -90.0086
+Neshoba, 32.6233, -89.1381
+Neshoba County General Hospital, 32.7572, -89.1067
+Nettleton, 34.0889, -88.6222
+Nevada, 32.5239, -90.4681
+Neville, 32.5836, -89.2478
+New Albany, 34.4942, -89.0078
+New Augusta, 31.2022, -89.0347
+New Byram, 32.1853, -90.2594
+New Canaan, 34.9475, -89.1178
+New Fitler, 32.6167, -91.0167
+New Hamilton, 33.7378, -88.4447
+New Harmony, 34.3939, -88.9197
+New Hebron, 31.7308, -89.9786
+New Hope(Franklin), 31.5533, -90.8328
+New Hope(Harrison), 30.4381, -89.1364
+New Hope(Lowndes), 33.4681, -88.3267
+New Hope(Prentiss), 34.6261, -88.3922
+New Salem, 34.1394, -88.3586
+New Sight, 31.6542, -90.4483
+New Site, 34.5592, -88.4094
+New Town, 34.6119, -89.9150
+New Wren, 33.9717, -88.6133
+Newman, 32.2356, -90.6972
+Newmans, 32.3508, -90.7528
+Newmans Grove, 32.3458, -90.7708
+Newport, 32.9369, -89.7644
+Newsom, 31.3261, -89.9342
+Newton, 32.3211, -89.1633
+Newton Hospital, 32.3194, -89.1628
+Newtonia, 31.0403, -91.2058
+Niblett Landing, 33.7031, -91.0378
+Nichols, 33.3178, -90.4128
+Nicholson, 30.4769, -89.6936
+Nida, 33.0833, -90.4333
+Niles, 33.8553, -90.9572
+Nitta Yuma, 33.0242, -90.8492
+Nixon(Pontotoc), 34.2867, -88.9722
+Nixon(Humphreys), 33.0500, -90.5667
+Nod, 32.7564, -90.2306
+Nogan, 32.2478, -90.2128
+Nola, 31.6142, -90.2381
+Norfield, 31.4075, -90.4672
+Norfolk, 34.9514, -90.2306
+Norris, 32.2939, -89.4358
+North(Lauderdale), 32.4667, -88.6667
+North(Hinds), 32.3167, -90.1833
+North Bend, 32.7667, -89.1167
+North Carrollton, 33.5181, -89.9206
+North County Hospital, 34.4344, -89.8956
+North Crossroads, 34.8167, -88.1833
+North Gulfport, 30.4000, -89.0833
+North Haven, 34.4833, -89.0167
+North Junction, 34.2569, -89.0153
+North Mississippi Medical Center, 34.2428, -88.7167
+North Mississippi Retardation Center, 34.3286, -89.5133
+North Panola Regional Hospital, 34.4344, -89.8956
+North Sunflower County Hospital, 33.7344, -90.5456
+North Tunica, 34.7000, -90.3833
+Northeast Mississippi Hospital, 34.6578, -88.5653
+Northwest Junior College, 34.6167, -89.9667
+Northwest Mississippi Regional Medical Center, 34.1956, -90.5517
+Northwood Hills, 30.4000, -89.0833
+Norway, 32.9039, -90.3981
+Noxapater, 32.9922, -89.0661
+Noxubee General Hospital, 33.1217, -88.5583
+Nugent, 30.4703, -89.1036
+O'Neil, 31.3036, -90.8844
+O'Reilly, 33.6672, -90.7292
+Oak Bowery, 31.6192, -89.3892
+Oak Grove(Holmes), 33.2508, -90.3092
+Oak Grove(Jones), 31.5361, -89.2078
+Oak Grove(Lamar), 31.2858, -89.4144
+Oak Grove(Perry), 31.0361, -88.9742
+Oak Grove(Kemper), 32.6742, -88.5644
+Oak Ridge, 32.4811, -90.7064
+Oak Vale, 31.4383, -89.9644
+Oakland(Itawamba), 34.2828, -88.2325
+Oakland(Pike), 31.2614, -90.5006
+Oakland(Yalobusha), 34.0556, -89.9164
+Oaklawn, 32.0050, -90.9978
+Oakley, 32.2175, -90.5031
+Oaks, 32.7997, -89.9769
+Obadiah, 32.5122, -88.7267
+Ocean Springs, 30.4111, -88.8278
+Ocean Springs Hospital, 30.4142, -88.7642
+Ocobla, 32.7547, -89.0253
+Ofahoma, 32.7072, -89.7006
+Oil City, 32.6911, -90.4339
+Okahola, 31.2069, -89.3864
+Oklahoma, 33.3336, -90.1683
+Okolona, 34.0017, -88.7553
+Okolona Community Hospital, 34.0028, -88.7581
+Oktibbeha, 33.5500, -89.0833
+Oktibbeha County Hospital, 33.4761, -88.8203
+Oktoc, 33.3322, -88.7578
+Old Americus, 30.7092, -88.5958
+Old Avera, 31.3608, -88.5669
+Old Cairo, 34.6667, -88.5667
+Old Dominion, 33.3944, -90.3864
+Old Hamilton, 33.7333, -88.4500
+Old Houlka, 34.0381, -88.9942
+Old Myrtle, 34.5275, -89.1225
+Old Union, 34.1475, -88.7367
+Oldenburg, 31.5739, -90.9744
+Oldham, 34.7731, -88.1283
+Olio, 31.0544, -90.9211
+Olive Branch, 34.9617, -89.8294
+Oloh, 31.2967, -89.5900
+Oma, 31.7267, -90.1447
+Omega, 33.1233, -90.3131
+Onward, 32.7253, -90.9419
+Ora, 31.6575, -89.5744
+Orange(Jasper), 32.0950, -88.9206
+Orange(Franklin), 31.5275, -91.0725
+Orange Grove(Harrison), 30.4544, -89.0883
+Orange Grove(Jackson), 30.4206, -88.4586
+Orange Hill, 32.3500, -90.4667
+Orion, 34.7153, -89.6519
+Orvisburg, 30.9128, -89.5253
+Orwood, 34.3667, -89.5167
+Osborn, 33.5214, -88.7222
+Osborne Creek, 34.6667, -88.5667
+Osyka, 31.0067, -90.4722
+Overby, 33.1436, -90.8533
+Ovett, 31.4853, -89.0328
+Owens Wells, 33.0950, -89.9678
+Oxberry, 33.7850, -90.0356
+Oxford(Lafayette), 34.3664, -89.5192
+Oxford(Amite), 31.2678, -90.8981
+Oxford-Lafayette County Hospital, 34.3483, -89.5194
+Oxford-Lafayette Medical Center, 34.3483, -89.5194
+Ozona, 30.5844, -89.6636

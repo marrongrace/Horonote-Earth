@@ -1,0 +1,230 @@
+Maben, 33.5553, -89.0847
+Macedonia(Forrest), 31.3819, -89.1686
+Macedonia(Lee), 34.3625, -88.7956
+Macedonia(Nuxubee), 33.0214, -88.6728
+Macedonia(Union), 34.5028, -89.2086
+Macel, 33.8222, -90.1631
+Mack, 34.8383, -89.4800
+Macon, 33.1053, -88.5608
+Madden, 32.6789, -89.3481
+Maddox, 31.8886, -89.6694
+Madison, 32.4617, -90.1153
+Madisonville, 32.5267, -89.9775
+Magee, 31.8736, -89.7336
+Magee General Hospital, 31.8711, -89.7294
+Magenta, 33.4311, -90.9633
+Magna Vista, 32.6581, -91.0617
+Magnolia, 31.1431, -90.4586
+Magnolia Hospital, 34.9356, -88.5597
+Mahned, 31.2089, -89.0808
+Mahon, 34.8147, -89.5153
+Malmaison, 33.5222, -90.0072
+Malone, 34.5761, -89.4778
+Malone Landing, 34.1336, -90.8411
+Malvina, 33.8494, -90.9172
+Mannassa, 31.9972, -88.5764
+Mannsdale, 32.5233, -90.1917
+Mantachie, 34.3242, -88.4911
+Mantee, 33.7314, -89.0553
+Marathon, 33.0653, -91.0192
+Marcella, 33.1294, -90.2975
+Marianna, 34.7175, -89.5989
+Marie, 33.4500, -90.6500
+Marienette, 34.8719, -90.2181
+Marietta, 34.5019, -88.4689
+Marine Hospital, 32.3417, -90.8858
+Marion, 32.4172, -88.6478
+Marion County General Hospital, 31.2542, -89.8064
+Maris Town, 32.6167, -90.0333
+Marks, 34.2564, -90.2719
+Marksville, 33.3092, -90.2803
+Markwald, 31.8261, -89.0025
+Mars Hill, 31.3031, -90.6281
+Marshall County Hospital, 34.7728, -89.4347
+Martin, 32.5494, -88.8450
+Martinsville, 31.7908, -90.4069
+Martintown, 34.4583, -89.0544
+Martinville, 31.9733, -89.7539
+Marydell, 32.8853, -89.3836
+Mashulaville, 33.0867, -88.7442
+Mason Landing, 34.0219, -90.8958
+Matagorda, 34.3381, -90.4569
+Matherville, 31.8772, -88.5689
+Mathews Crossing, 33.3364, -90.3944
+Mathiston, 33.5400, -89.1242
+Matthews, 34.0925, -89.2183
+Mattoon, 33.4511, -90.4711
+Mattson, 34.0978, -90.5100
+Matty Hersee Hospital, 32.3642, -88.7297
+Maud, 34.5619, -90.4369
+Maxie, 30.9778, -89.1958
+Maybank, 31.4075, -89.3697
+Maybell, 31.6000, -89.2000
+Mayday, 33.3608, -90.3139
+Mayersville, 32.9019, -91.0511
+Mayhew, 33.4847, -88.6344
+Mayton, 32.1067, -89.7472
+Maywood, 34.9500, -89.8167
+McAdams, 33.0211, -89.6883
+McAfee, 32.7425, -89.4961
+McBride, 31.7656, -90.7822
+McCall Creek, 31.5125, -90.6986
+McCall Landing, 30.5244, -88.6792
+McCallum, 31.2375, -89.2108
+McCarley, 33.5231, -89.8339
+McComb, 31.2436, -90.4531
+McCondy, 33.8222, -88.8425
+McCool, 33.2019, -89.3450
+McCrary, 33.4639, -88.2836
+McCutcheon, 33.3500, -90.9333
+McDonald, 32.6603, -89.1328
+McElveen, 31.2008, -90.5956
+McGhee, 34.5392, -89.9494
+McHenry, 30.7075, -89.1383
+McLain, 31.1086, -88.8272
+McLaurin, 31.1678, -89.2172
+McLaurin Heights, 32.2831, -90.1089
+McLaurlin Heights, 32.3167, -90.1500
+McLeod, 33.0922, -88.4517
+McMillan(Holmes), 33.1025, -89.9425
+McMillan(Winston), 33.1700, -89.1092
+McNair, 31.6383, -91.0419
+McNeal, 32.0414, -89.1536
+McNeill, 30.6686, -89.6383
+McRae Hosital, 34.9367, -88.5131
+McRaney, 31.6094, -89.7172
+McRaven, 32.3036, -90.3269
+McSwain, 31.3144, -88.9769
+McVille, 32.9314, -89.6219
+McWillie, 32.3167, -90.1833
+Meadowview Hospital, 32.3061, -89.1650
+Meadville, 31.4722, -90.8967
+Mechanicsburg, 32.6325, -90.5028
+Meehan, 32.3281, -88.8664
+Meeks, 33.2994, -90.1892
+Mehr, 33.8036, -90.1492
+Melba, 31.4447, -89.6456
+Melis, 31.2297, -90.1125
+Melton, 31.7864, -91.0569
+Meltonia, 33.6025, -90.8861
+Meltonville, 32.5164, -90.0378
+Memphis Junction, 33.8006, -89.7967
+Mendenhall, 31.9617, -89.8700
+Mer Regional Hospital, 32.4092, -88.6758
+Mercy Hospital, 32.3486, -90.8589
+Mercy Regional Medical Center, 32.3486, -90.8589
+Meridian, 32.3642, -88.7036
+Merigold, 33.8389, -90.7261
+Merit, 31.9278, -89.9086
+Merrill, 30.9789, -88.7206
+Mesa, 31.1472, -90.2003
+Metcalfe, 33.4539, -91.0072
+Methodist Hospital, 31.3161, -89.2858
+Methodist Hospital, 31.3269, -89.3667
+Methodist Hospital of Middle Mississippi, 33.1119, -90.0639
+Methodist Hospital of Stone County, 30.8444, -89.1164
+Meyers, 31.3000, -89.3000
+Mhoon Landing, 34.7417, -90.4419
+Mhoons Valley, 33.5797, -88.7542
+Michigan City, 34.9808, -89.2506
+Middleton, 32.1636, -88.6122
+Midnight, 33.0494, -90.5733
+Midway(Leake), 32.8075, -89.4408
+Midway(Scott), 32.5461, -89.5317
+Midway(Copiah), 31.7167, -90.5564
+Midway(Hinds), 32.1689, -90.3756
+Midway(Tishomingo), 34.7311, -88.2247
+Midway(Yazoo), 32.8864, -90.1922
+Mikoma, 33.9503, -90.2839
+Mildred, 31.1478, -89.8419
+Mile Branch, 31.4667, -90.9000
+Mileston, 33.1103, -90.2733
+Mill Creek(Jones), 31.6933, -88.9608
+Mill Creek(Pearl Eiver), 30.6706, -89.7025
+Mill Creek Cabin Area, 34.8167, -88.1833
+Mill Town, 32.6167, -90.0333
+Millard, 30.7222, -89.5983
+Millcreek, 33.1567, -88.9489
+Miller, 34.9175, -89.7686
+Miller Landing, 32.7081, -90.6931
+Millers Landing, 32.9169, -91.0608
+Millington, 32.8811, -88.4158
+Mimms, 34.3167, -89.9500
+Mims, 34.2292, -90.1289
+Mineral Wells, 34.9906, -89.8656
+Minerva, 33.5283, -89.5792
+Mingo, 34.6319, -88.1503
+Minot, 33.9419, -90.4897
+Minter City, 33.7533, -90.2944
+Missala, 30.4578, -88.4000
+Missionary, 32.1500, -89.0000
+Mississippi Baptist Medical Center, 32.3133, -90.1783
+Mississippi City, 30.3817, -89.0439
+Mississippi College, 32.8500, -89.6000
+Mississippi State Hospital, 32.2411, -90.0817
+Mississippi State Mental Hospital, 32.2411, -90.0817
+Mississippi Valley State College, 33.5000, -90.3333
+Misterton, 33.7078, -89.5822
+Mitchell, 34.7094, -88.8431
+Mixon, 31.1272, -90.5750
+Mize, 31.8683, -89.5558
+Mocarter, 34.8167, -90.3167
+Molino, 34.5753, -88.8925
+Moncure, 32.0553, -90.2594
+Money, 33.6511, -90.2092
+Monroe, 31.4714, -90.8267
+Mont Helena, 32.9456, -90.8639
+Monterey, 32.1847, -90.0808
+Montevista, 33.7050, -89.2356
+Montfort Jones Memorial Hospital, 33.0658, -89.5983
+Montgomery(Lincoln), 31.6417, -90.4194
+Montgomery(Holmes), 33.2972, -90.3267
+Monticello, 31.5536, -90.1072
+Montpelier, 33.7178, -88.9478
+Montrose, 32.1242, -89.2356
+Moon, 34.4219, -90.4883
+Moores Mill, 34.4819, -88.3264
+Mooreville, 34.2675, -88.5767
+Moorhead, 33.4500, -90.5056
+Morgan City, 33.3806, -90.3503
+Morgans Store, 32.0933, -90.3722
+Morgantown(Adams), 31.5725, -91.3475
+Morgantown(Marion), 31.3122, -89.9158
+Morgantown(Oktibbeha), 33.3056, -88.9969
+Morning Star, 32.2197, -90.5736
+Morris, 31.4622, -89.6614
+Morriston, 31.4156, -89.1961
+Morton, 32.3536, -89.6544
+Moscow, 32.7100, -88.8000
+Moselle, 31.5022, -89.2789
+Moss(Mossville Station), 31.8150, -89.1778
+Moss Point, 30.4114, -88.5344
+Mound Bayou, 33.8781, -90.7272
+Mound City(Union), 34.4522, -88.9189
+Mound City(Bolivar), 33.7792, -90.9153
+Mound Landing, 33.6072, -91.1269
+Mount Carmel, 31.6450, -89.7897
+Mount Olive(Covington), 31.7611, -89.6550
+Mount Olive(Franklin), 31.3550, -90.9353
+Mount Olive(Jones), 31.7442, -89.0522
+Mount Olive(Amite), 31.3436, -90.7100
+Mount Pleasant(Marshall), 34.9558, -89.5158
+Mount Pleasant(Itawamba), 34.2333, -88.2667
+Mount Vernon, 34.3300, -88.7536
+Mount Zion(Jones), 31.6453, -89.2478
+Mount Zion(Simpsons), 31.8667, -89.7333
+Movella, 30.7639, -88.5064
+Mulberry, 31.4769, -88.8478
+Muldon, 33.7322, -88.6539
+Muldrow, 33.5467, -88.7044
+Mullins Store, 34.3667, -89.5167
+Murdock Crossing, 33.4169, -90.3064
+Murphreesboro, 33.9833, -89.9000
+Murphy, 33.1208, -90.7014
+Murry, 34.7333, -88.9500
+Muskedine, 33.2244, -90.9836
+Muskegon, 32.3481, -89.3522
+Myles, 32.0197, -90.7064
+Myrick, 31.6608, -88.9942
+Myrleville, 32.7131, -90.2775
+Myrtle, 34.5583, -89.1192

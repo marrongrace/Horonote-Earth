@@ -1,0 +1,215 @@
+Fair Oak Springs, 31.5544, -90.3203
+Fair River, 31.5458, -90.2692
+Fairchilds Crossroads, 32.2047, -90.4728
+Fairfield, 34.4219, -88.8417
+Fairground, 32.7667, -89.1167
+Fairhaven, 34.9500, -89.8167
+Fairhill, 32.9442, -88.6650
+Fairview(Itawamba), 34.3644, -88.3172
+Fairview(Neshoba), 32.7539, -89.1756
+Fairview(Sunflower), 33.5092, -90.7467
+Fairview Landing, 32.7483, -90.7017
+Falcon, 34.3931, -90.2564
+Falkner, 34.8419, -88.9342
+Fame, 33.5500, -89.2667
+Famosla, 33.2386, -90.3900
+Fannin, 32.4172, -89.9567
+Farmhaven, 32.6475, -89.8106
+Farmington, 34.9300, -88.4522
+Farrell, 34.2642, -90.6722
+Fayette, 31.7114, -91.0606
+Fearns Springs, 33.0069, -88.8458
+Fenton, 30.4147, -89.3808
+Fentress, 33.2967, -89.2222
+Fenwick, 31.5558, -91.2489
+Ferguson(Lawrence), 31.6322, -90.0817
+Ferguson(Perry), 31.1939, -88.9756
+Fernwood, 31.1853, -90.4489
+Field Memorial Community Hospital, 31.0903, -91.0681
+Fikestown, 32.3033, -89.4036
+Fitler, 32.7253, -91.0336
+Fitzhugh, 33.8883, -90.5086
+Flatwood, 34.3889, -89.1286
+Flora, 32.5431, -90.3092
+Florence, 32.1533, -90.1311
+Flowerdale, 34.2850, -88.7375
+Floweree, 32.5442, -90.8500
+Flowers(Walthall), 31.0567, -90.0136
+Flowers(Warren), 32.3892, -90.6739
+Flowood, 32.3094, -90.1389
+Floyd, 34.8333, -89.1833
+Fondren, 32.3167, -90.1833
+Fontainbleau, 30.4019, -88.7197
+Fontainebleau, 30.4333, -88.8167
+Foote, 33.0914, -91.0328
+Ford, 30.4250, -88.5231
+Fords Creek, 30.9483, -89.6897
+Fordyke, 32.9050, -90.1275
+Forest, 32.3644, -89.4742
+Forest Hill, 32.2653, -90.2808
+Forestdale, 32.7789, -88.9489
+Forkland, 33.5264, -91.0142
+Forkville, 32.4606, -89.6608
+Forrest County General Hospital, 31.3183, -89.3300
+Forreston, 33.3372, -88.3136
+Fort Adams, 31.0864, -91.5481
+Fort Loring Landing, 33.4892, -90.2467
+Fort Stephens, 32.4667, -88.7167
+Fortenberry, 31.3072, -89.8553
+Foster, 31.6003, -91.3289
+Fouke, 32.0289, -89.1161
+Four Corners, 33.0500, -89.5833
+Four Forks, 31.6281, -91.1275
+Four Mile, 33.2872, -90.4722
+Four Points, 31.2511, -89.1861
+Fox, 33.5169, -89.6650
+Foxworth, 31.2381, -89.8686
+Francis, 34.0817, -90.8547
+Franklin(Franklin), 31.4214, -91.0981
+Franklin(Holmes), 33.0358, -90.0019
+Franklin County Memorial Hospital, 31.4733, -90.8847
+Frankstown, 34.5764, -88.6297
+Frazier, 33.5669, -90.7319
+Free Trade, 32.6961, -89.4150
+Freeny, 32.7008, -89.4814
+Freerun, 32.8500, -90.4000
+Freewoods, 31.3456, -91.0747
+Freeze Corner, 34.8333, -89.9833
+French Camp, 33.2931, -89.3994
+Friars Point, 34.3694, -90.6389
+Friendship(Pontotoc), 34.3239, -89.0375
+Friendship(Lincoln), 31.5833, -90.4500
+Frog Island, 34.3653, -88.7564
+Frostbridge, 31.6833, -88.6500
+Fruitland Park, 30.9158, -89.1711
+Fugate, 32.7489, -90.2019
+Fulcher, 33.3381, -89.1231
+Fulton, 34.2739, -88.4092
+Furrs, 34.2350, -88.8600
+Furry, 33.5203, -90.5297
+Futheyville, 33.7811, -89.7761
+Gadsden Park Community Hospital, 30.3672, -89.1156
+Gainesville, 30.3508, -89.6397
+Galena, 34.6569, -89.5522
+Gallatin, 31.8506, -90.4536
+Gallman, 31.9319, -90.3892
+Galloway, 32.0664, -90.9667
+Gandsi, 31.5706, -89.4989
+Garden City, 31.3669, -91.1278
+Garlandville, 32.2194, -89.1225
+Gaston, 34.7042, -88.5981
+Gatesville, 31.9978, -90.2433
+Gatewood, 33.9747, -89.7644
+Gattman, 33.8853, -88.2353
+Gautier, 30.3856, -88.6117
+Geeslin Corner, 33.8239, -89.8389
+Geeville, 34.5761, -88.6908
+Geneill, 33.3889, -90.7994
+George, 32.8500, -90.7017
+George County Hospital, 30.9217, -88.5936
+Georgetown, 31.8714, -90.1644
+Gerlach Mill, 34.5028, -90.3328
+Germania, 32.6061, -90.5922
+Gershorn, 34.0886, -89.0267
+Gholson, 32.9364, -88.7339
+Gibbons, 32.8000, -90.9333
+Gibson, 33.8400, -88.6844
+Gibson Landing, 30.7672, -88.6703
+Gift, 34.9456, -88.6411
+Giles, 32.8308, -88.3800
+Gill(Bolivar), 33.8056, -90.9764
+Gill(Leake), 32.6794, -89.5317
+Gillsburg, 31.0250, -90.6558
+Gilmore, 31.7797, -89.4917
+Gilmore Hospital, 33.9775, -88.4761
+Gilmore Memorial Hospital, 33.9775, -88.4761
+Gilton, 34.7194, -89.4481
+Gitano, 31.7781, -89.3244
+Glade, 31.6550, -89.1072
+Gladhurst, 31.0294, -90.3742
+Glading, 31.1425, -90.6403
+Glancy, 31.8183, -90.4964
+Glen, 34.8667, -88.5167
+Glen Allan, 33.0239, -91.0300
+Glen Aubin, 34.3411, -90.6106
+Glendale, 31.3644, -89.3061
+Glendora, 33.8292, -90.2931
+Glenfield, 34.5111, -89.0336
+Glens Glen(P O), 34.8661, -88.4139
+Glenville, 34.5283, -89.7400
+Glenwild, 33.7208, -89.7819
+Gloster, 31.1972, -91.0217
+Glover, 34.9325, -90.1800
+Gluckstadt, 32.5164, -90.1008
+Golden, 34.4883, -88.1886
+Golden Grove, 32.6308, -89.0897
+Golden Triangle Regional Medical Center, 33.5258, -88.4264
+Goldfield, 33.8167, -90.5333
+Good Hope(Holmes), 33.1017, -90.3003
+Good Hope(Leake), 32.6281, -89.6289
+Good Hope(Neshoba), 32.7278, -89.1569
+Good Hope(Perry), 31.4042, -88.9489
+Gooden Lake, 33.1381, -90.6069
+Goodfood, 34.2500, -89.0167
+Goodford, 34.1086, -88.9425
+Goodluck, 31.3267, -89.1564
+Goodman, 32.9700, -89.9122
+Goodwater, 31.9161, -88.8600
+Goodyear, 30.5333, -89.6667
+Gordon, 31.8967, -90.9722
+Gore Springs, 33.7542, -89.6164
+Goshen Springs, 32.4706, -89.9158
+Goss, 31.3553, -89.8886
+Grace, 32.9994, -90.9564
+Grady, 33.5128, -89.3086
+Graham(Lauderdale), 32.3425, -88.8492
+Graham(Union), 34.5494, -88.7933
+Grand Gulf, 32.0331, -91.0525
+Grange, 31.7333, -89.9833
+Grange Hall, 32.3333, -90.8667
+Grapeland, 33.6169, -90.9875
+Grass Lake, 33.1706, -90.3833
+Gravel Hill, 33.4014, -90.0461
+Gravel Siding, 34.8167, -88.1833
+Graves, 34.4514, -88.7769
+Gravestown, 34.7486, -89.0833
+Gray, 32.9111, -89.4469
+Graysport Crossing, 33.8164, -89.6136
+Green Crossing, 32.4375, -90.2653
+Green Grove, 34.1628, -90.7608
+Greenbrier Park, 30.5333, -89.6667
+Greene County Hospital, 31.1542, -88.5625
+Greenfield(Newton), 32.4500, -89.2833
+Greenfield(Rankin), 32.2492, -90.0528
+Greenfield Addition, 33.4167, -91.0000
+Greenland, 32.5511, -89.0528
+Greenville, 33.4100, -91.0617
+Greenwood(Itawamba), 34.2178, -88.5100
+Greenwood(Leflore), 33.5161, -90.1794
+Greenwood Springs, 33.8869, -88.3089
+Greenwood-Leflore Hospital, 33.5175, -90.1994
+Grenada, 33.7689, -89.8083
+Grenada Junction, 33.5392, -90.1647
+Grenada Lake Medical Center, 33.7614, -89.8200
+Grenada Landing, 33.8039, -89.7672
+Gretna, 31.7594, -88.5019
+Gridley, 32.0597, -89.1125
+Griffith, 33.6350, -88.8281
+Gulde, 32.2986, -89.8633
+Gulf Coast Community Hospital, 30.3889, -88.9978
+Gulf Hills, 30.4303, -88.8422
+Gulf Hills Country Club, 30.4333, -88.8167
+Gulf Oaks Hospital, 30.3917, -88.9989
+Gulf Park Estates, 30.4333, -88.8167
+Gulfport, 30.3672, -89.0928
+Gulfport Memorial Hospital, 30.3675, -89.1147
+Gum Grove, 33.0775, -90.4269
+Gum Springs(Scott), 32.4594, -89.4508
+Gum Springs(Winston), 33.2336, -89.0522
+Gums, 33.9275, -89.6289
+Gums Crossing, 33.9106, -89.6292
+Gunn, 32.0667, -89.6833
+Gunnison, 33.9442, -90.9450
+Guntown, 34.4431, -88.6597
+Gwin, 33.1736, -90.2233
+Gwinville, 31.7514, -89.8992

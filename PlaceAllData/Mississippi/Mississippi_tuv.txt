@@ -1,0 +1,165 @@
+Tabbville, 33.8472, -89.0867
+Tallahala, 31.3864, -89.1231
+Tallahatchie General Hospital, 34.0039, -90.0592
+Tallula, 32.7794, -91.1144
+Talowah, 31.0758, -89.4303
+Tamola, 32.5867, -88.4769
+Tanglewood, 32.2756, -89.3047
+Taska, 34.9189, -89.5653
+Tatum, 31.1489, -91.0436
+Tawanta, 31.5475, -89.2494
+Taylor, 34.2722, -89.5886
+Taylorsville(Hinds), 32.2258, -90.2386
+Taylorsville(Smith), 31.8294, -89.4281
+Tchula, 33.1828, -90.2228
+Teasdale, 34.1167, -89.9333
+Teckville, 34.5064, -89.6628
+Ted, 32.0833, -89.2500
+Ten Mile, 30.7653, -89.1436
+Teoc, 33.5792, -90.0553
+Terrell, 31.5992, -89.7317
+Terrene Landing, 33.8906, -91.0403
+Terry, 32.0961, -90.2942
+Terrys Creek, 31.0686, -90.5281
+Terza, 34.3167, -89.9500
+Texas, 30.8858, -89.2719
+Thaxton, 34.3075, -89.1781
+Thayer, 31.4900, -90.4478
+The Mall, 32.3333, -90.8667
+Theadville, 32.0500, -88.7167
+Thelma, 33.9875, -89.0264
+Theo, 34.9308, -88.6975
+Thomastown, 32.8639, -89.6694
+Thomasville, 32.1564, -90.0128
+Thompson(Hinds), 32.2978, -90.3664
+Thompson(Amite), 31.2567, -90.6381
+Thompsonville, 32.0592, -90.4592
+Thorn, 33.9425, -89.1025
+Thornton, 33.0792, -90.3225
+Thrashers, 34.7194, -88.5339
+Threadville, 31.9742, -88.5114
+Three Rivers, 30.5867, -88.5625
+Thyatira, 34.6336, -89.7544
+Tibbee, 33.5283, -88.6314
+Tibbs, 34.4672, -90.3100
+Tie Plant, 33.7414, -89.7900
+Tilden, 34.1867, -88.3519
+Tillatoba, 33.9847, -89.8967
+Tillman(Copiah), 31.8925, -90.4464
+Tillman(Claiborne), 31.8544, -90.9161
+Tilton, 31.4147, -90.0208
+Tinnin, 32.4242, -90.3453
+Tinsley, 32.7319, -90.4603
+Tiplersville, 34.8956, -88.9075
+Tippah, 34.8333, -89.1833
+Tippah County Hospital, 34.7389, -88.9511
+Tippo, 33.9119, -90.1806
+Tisdell Landing, 32.9322, -90.7567
+Tishomingo, 34.6367, -88.2317
+Tishomingo County Hospital, 34.8106, -88.2036
+Toccopola, 34.2564, -89.2356
+Tocowa, 34.2500, -89.9333
+Tolarville, 33.0472, -90.2186
+Tollison, 33.2533, -89.1914
+Tomnolen, 33.4847, -89.3606
+Toomsuba, 32.4183, -88.5069
+Topeka, 31.4150, -90.1883
+Topisaw, 31.2897, -90.2731
+Topton, 32.4672, -88.6022
+Touchstone, 31.9983, -90.0344
+Tougaloo, 32.3975, -90.1589
+Townsend, 32.7553, -88.5489
+Tralake, 33.2703, -90.7947
+Trapp, 32.7394, -89.2136
+Traxler, 32.0097, -89.6494
+Trebloc, 33.8411, -88.8303
+Tremont, 34.2347, -88.2586
+Trenton, 32.1692, -89.6108
+Triangle-Hospital, 30.4333, -88.9000
+Tribbett, 33.3514, -90.7983
+Trinity(De Soto), 34.8092, -90.1753
+Trinity(Lowndes), 33.3458, -88.4622
+Trotter Landing, 34.5436, -90.5331
+Troy, 34.1189, -88.8850
+Truitt, 32.8069, -89.9089
+Tryus, 31.6914, -90.1992
+Tucker(Jones), 31.6333, -89.1000
+Tucker(Neshoba), 32.7064, -89.0539
+Tuckers Crossing(Jones), 31.6272, -89.0900
+Tuckers Crossing(Leake), 32.6539, -89.5739
+Tula, 34.2328, -89.3622
+Tunica, 34.6844, -90.3828
+Tunica County Hospital, 34.6967, -90.3764
+Tupelo, 34.2575, -88.7033
+Turkey Creek, 33.8875, -89.6819
+Turnbull, 31.0222, -91.2919
+Turnerville, 32.0256, -89.2033
+Turon, 34.1042, -88.3250
+Tuscan, 33.3122, -89.1544
+Tuscola, 32.6200, -89.5278
+Tutwiler, 34.0147, -90.4317
+Twin, 30.9667, -89.8167
+Twin Lake, 32.4889, -90.8200
+Tyler, 30.7072, -89.6061
+Tyler Holmes Memorial Hospital, 33.4908, -89.7389
+Tylertown, 31.1158, -90.1419
+Tyro, 34.5836, -89.7053
+Tyson, 33.9339, -89.5333
+U S Naval Construction Battalion, 30.4000, -89.0833
+Una, 33.7969, -88.8069
+Union(Jones), 31.4792, -89.2011
+Union(Lee), 34.1608, -88.6317
+Union(Newton), 32.5714, -89.1214
+Union(Simpson), 31.8806, -90.0839
+Union Church, 31.6833, -90.7833
+Union County General Hospital, 34.4975, -89.0278
+Union Hall, 31.5833, -90.4500
+Union Hill, 34.4864, -88.9519
+Unity, 34.3900, -88.5689
+University Hospital, 32.3294, -90.1739
+University of Mississippi, 34.3500, -89.5333
+University of Mississippi Medical Center, 32.3294, -90.1739
+Updike, 33.0594, -90.7686
+Upton, 31.9900, -89.7039
+Usrytown, 32.3864, -89.3811
+Ustane, 31.2867, -90.8314
+Utica, 32.1094, -90.6233
+Utica Junior College, 32.1000, -90.6167
+Vaiden, 33.3319, -89.7411
+Valewood, 33.0333, -91.0333
+Valley, 32.7597, -90.4803
+Valley Hill, 33.5000, -89.9167
+Valley Park, 32.6333, -90.8667
+Value, 32.2875, -89.9956
+Van Buren, 34.1917, -88.4114
+Van Vleet, 33.9869, -88.9003
+Van Winkle, 32.2986, -90.2636
+Vance, 34.0728, -90.3508
+Vancleave, 30.5333, -88.7000
+Vardaman, 33.8756, -89.1772
+Varnado, 31.3386, -89.3578
+Vaughan(George), 30.8589, -88.5156
+Vaughan(Yazoo), 32.8064, -90.0417
+Vaughn, 31.5769, -90.5733
+Vaughts, 31.1692, -90.2628
+Velma, 34.0603, -89.6444
+Verna, 31.3731, -90.2425
+Vernal, 31.0383, -88.6108
+Vernon(Jasper), 31.9100, -89.1533
+Vernon(Madison), 32.5894, -90.3297
+Vernon(Winston), 32.9856, -88.9314
+Verona, 34.1942, -88.7197
+Vestry, 30.7267, -88.7758
+Vickland, 33.0428, -90.8478
+Vicksburg, 32.3525, -90.8778
+Victor, 33.7769, -90.8250
+Victoria, 34.8461, -89.6181
+Vidalia, 30.4986, -89.3394
+Villa Ridge, 31.0000, -89.4500
+Villanova, 32.4336, -90.7728
+Vimville, 32.3300, -88.5728
+Vinton, 33.6583, -88.5233
+Violet, 31.8206, -90.8528
+Virlilia, 32.6261, -90.1314
+Vossburg, 31.9286, -88.9408
+Vowell, 32.9828, -89.3075

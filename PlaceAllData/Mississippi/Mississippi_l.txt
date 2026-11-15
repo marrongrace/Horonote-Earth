@@ -1,0 +1,147 @@
+Lackey, 33.8031, -88.4622
+Lafayette Springs, 34.3172, -89.2611
+Laird Hospital, 32.5717, -89.1150
+Lake, 32.3431, -89.3286
+Lake Charles Landing, 34.1428, -90.8725
+Lake City(Humphreys), 32.9231, -90.4931
+Lake City(Prentiss), 34.6419, -88.5497
+Lake Como, 31.9622, -89.2125
+Lake Cormorant, 34.9000, -90.2167
+Lake Hospital, 32.3658, -89.4697
+Lake of Hills, 34.8333, -89.9833
+Lake View, 34.9889, -90.1397
+Lake Vista, 33.6089, -91.0628
+Lakeland, 32.2228, -90.1567
+Lakeshore, 30.2464, -89.4358
+Lakeside, 34.1611, -89.8086
+Lamar, 34.9172, -89.3178
+Lamar Park, 31.3192, -89.3603
+Lambert, 34.2017, -90.2833
+Lamkin, 33.0425, -90.4656
+Lamont, 33.5353, -91.0761
+Lampton, 31.1931, -89.7981
+Landon, 30.4378, -89.1028
+Laneheart, 31.1933, -91.3683
+Langford, 32.3464, -89.9722
+Langsdale, 31.8889, -88.5844
+Lanham, 31.5831, -89.0969
+Lantrip, 34.0000, -89.3500
+Larue, 30.6242, -88.8483
+Latimer, 30.4333, -88.8167
+Latonia, 30.9167, -88.5833
+Lauderdale, 32.5206, -88.5117
+Laughlin, 33.7183, -90.7978
+Laughter Flat Landing, 30.5719, -88.4169
+Laurel, 31.6939, -89.1306
+Laurel Hill, 32.7311, -89.3164
+Lawrence, 32.3250, -89.2328
+Lawrence County Hospital, 31.5542, -90.0997
+Laws Hill, 34.5794, -89.5739
+Le Tourneau, 32.2142, -90.9383
+Leaf, 31.0256, -88.7956
+Leake County Memorial Hospital, 32.7411, -89.5189
+Leakesville, 31.1556, -88.5578
+Learned, 32.1967, -90.5472
+Leavell Woods, 32.3167, -90.1833
+Lebanon(Hinds), 32.1667, -90.5128
+Lebanon(Marshall), 34.6500, -89.3000
+Leedy, 34.7953, -88.3611
+Leesburg, 32.4403, -89.7603
+Leesdale, 31.5467, -91.1578
+Leeville, 31.3939, -89.2564
+Leflore, 33.6936, -90.0547
+Leggett, 31.1353, -90.3039
+Lehr, 31.0339, -90.1808
+Leland, 33.4053, -90.8975
+Lemon, 32.1358, -89.5014
+Lena, 32.5942, -89.6119
+Leotis, 34.0672, -88.7433
+Lessley, 31.1611, -91.4294
+Leverett, 33.8828, -90.0756
+Lewisburg, 34.8619, -89.8333
+Lexie, 31.0786, -90.1708
+Lexington, 33.1131, -90.0531
+Liberty(Amite), 31.1581, -90.8122
+Liberty(Kemper), 32.6611, -88.7589
+Lightsey, 31.7356, -88.9358
+Lilac, 33.6694, -89.5883
+Lillian, 32.5050, -89.5453
+Limbert, 31.7000, -89.1333
+Limerick, 32.7550, -90.5622
+Lincoln County Health Center, 31.5764, -90.4406
+Lines, 32.9333, -88.7333
+Lingle, 32.1956, -89.5772
+Linn, 33.6597, -90.6164
+Linton, 32.0342, -88.5875
+Linwood(Neshoba), 32.6603, -89.1508
+Linwood(Adams), 31.5108, -91.4139
+Linwood(Yazoo), 32.7922, -90.1450
+Little Creek, 31.1667, -88.9167
+Little Rock, 32.5258, -89.0253
+Little Springs, 31.4022, -90.7267
+Little Texas, 34.6272, -90.2819
+Little Yazoo, 32.7078, -90.3725
+Litton, 33.6458, -90.8372
+Livingston, 32.5528, -90.2161
+Lizana, 30.5375, -89.2522
+Lizelia, 32.5356, -88.6600
+Lobdell, 33.7183, -90.9822
+Lobutcha, 33.2000, -89.3333
+Loch Leven, 31.2086, -91.5750
+Loch Lomond, 32.8692, -90.6961
+Locke Station, 34.3167, -89.9500
+Lockhart, 32.4894, -88.5858
+Locum, 34.5931, -88.8436
+Lodi(Coahoma), 33.0464, -90.4100
+Lodi(Warren), 33.5503, -89.5208
+Logtown, 30.2828, -89.6211
+Lombardy, 33.9056, -90.6069
+Lone Pine, 34.9711, -88.7425
+Lone Star, 31.6386, -89.7378
+Long, 33.4431, -90.7944
+Long Beach, 30.3503, -89.1528
+Long Branch, 34.1347, -89.8467
+Long Lake(Pontotoc), 34.3681, -90.5778
+Long Lake(Oktibbeha), 32.4086, -90.8833
+Longino, 32.8050, -89.1039
+Longshot, 33.6453, -90.9025
+Longstreet, 34.1133, -90.3297
+Longtown, 34.5108, -90.1242
+Longview, 34.2811, -88.8953
+Longview, 33.4039, -88.9211
+Longwood, 33.1469, -91.0661
+Looxahoma, 34.5972, -89.8369
+Lorena, 32.1828, -89.5094
+Lorenzen, 32.9486, -90.9064
+Loring, 32.7803, -89.9378
+Lorman, 31.8203, -91.0500
+Lorraine, 30.4553, -89.0253
+Lost Gap, 32.3417, -88.8069
+Lost Lake, 34.7836, -90.2439
+Louin, 32.0711, -89.2608
+Louise, 32.9822, -90.5886
+Louisville, 33.1236, -89.0550
+Love, 34.7533, -89.9700
+Lovelace, 31.2122, -89.8592
+Lowrey, 34.6792, -89.0275
+Loyd, 33.9581, -89.2219
+Loyd Star, 31.6264, -90.5500
+Lucas, 31.5878, -89.9583
+Lucedale, 30.9250, -88.5900
+Lucern, 32.5167, -89.2292
+Lucien, 31.5167, -90.6639
+Luckney, 32.3414, -90.0756
+Ludlow, 32.5717, -89.7128
+Lula, 34.4531, -90.4786
+Lumberton, 31.0011, -89.4522
+Lumberton Citizens Hospital, 31.0003, -89.4583
+Lurand, 34.1358, -90.5278
+Lurline, 34.7431, -89.8458
+Luther, 32.7333, -89.5333
+Lux, 31.4450, -89.4008
+Lyman, 30.4972, -89.1108
+Lynchburg(Hinds), 32.4400, -90.5489
+Lynchburg(De Soto), 34.9622, -90.0958
+Lynn Creek, 33.2333, -88.7306
+Lynville, 32.8550, -88.8156
+Lyon, 34.2178, -90.5419

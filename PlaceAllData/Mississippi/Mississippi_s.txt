@@ -1,0 +1,241 @@
+S E Lackey Hospital, 32.3658, -89.4697
+Sabino, 34.2042, -90.4072
+Sable, 32.2011, -88.6878
+Sabougla, 33.7758, -89.4642
+Sago, 33.0319, -90.9119
+Saints Rest, 33.4500, -90.6500
+Salem(Leake), 32.5972, -89.3489
+Salem(Covington), 31.6803, -89.5303
+Salem(Walthall), 31.2297, -90.1172
+Salem(Hinds), 32.1681, -90.5411
+Sallis, 33.0222, -89.7653
+Saltillo, 34.3764, -88.6817
+Sanatorium, 31.8986, -89.7775
+Sand Hill(Greene), 31.3467, -88.7636
+Sand Hill(Jones), 31.6206, -89.2817
+Sand Hill(Copiah), 31.7333, -90.3058
+Sand Hill(Rankin), 32.4875, -89.8803
+Sand Hill Hospital, 30.3933, -89.0939
+Sandersville, 31.7864, -89.0322
+Sandpoint, 32.0167, -89.4500
+Sandtown, 32.7947, -89.0017
+Sandy Creek, 34.9922, -88.2572
+Sandy Hook, 31.0361, -89.8047
+Sandy Ridge, 33.7125, -90.2189
+Sandy Springs, 34.4328, -88.3750
+Sanford, 31.4867, -89.4269
+Santa Rosa, 30.4294, -89.6478
+Sapa, 33.5475, -89.2019
+Sarah, 34.5694, -90.2103
+Saratoga, 31.7969, -89.6775
+Sardis(Copiah), 31.8008, -90.3242
+Sardis(Panola), 34.4369, -89.9158
+Sarepta, 34.1244, -89.2875
+Sartinsville, 31.3269, -90.1161
+Satartia, 32.6708, -90.5442
+Saucier, 30.6356, -89.1350
+Saukum, 31.2311, -91.1847
+Sauls, 31.3833, -90.3167
+Savage, 34.6297, -90.2231
+Savannah, 30.7394, -89.4908
+Savannah Grove, 32.3450, -88.7444
+Savoy, 32.2706, -88.7697
+Sawyer, 33.5253, -89.7364
+Schamberville, 32.4742, -88.8636
+Schlater, 33.6406, -90.3481
+Schley, 31.7872, -90.0942
+Sciples Mill, 32.8669, -88.7261
+Scobey, 33.9414, -89.8658
+Scooba, 32.8281, -88.4764
+Scotland, 32.7053, -90.2211
+Scotland Fork, 32.7131, -90.2239
+Scott, 33.5917, -91.0742
+Scott County Hospital, 32.3439, -89.6725
+Scott County Nursing Home, 32.3447, -89.6478
+Searcy Town, 34.8175, -88.4936
+Sebastopol, 32.5728, -89.3350
+Sellers, 30.5914, -89.3575
+Selma, 31.6014, -91.2789
+Sels Prairie, 31.9381, -88.6308
+Seminary, 31.5622, -89.4975
+Senatobia, 34.6175, -89.9686
+Senatobia Community Hospital, 34.6244, -89.9564
+Seneca, 31.0392, -89.4394
+Service, 31.7356, -89.2233
+Sessions, 34.3414, -90.6314
+Sessums, 33.4161, -88.7142
+Seven Pines, 33.3703, -90.0947
+Seven Springs, 32.2158, -90.3736
+Shackleford, 33.1472, -90.2364
+Shady Grove(Copiah), 31.8653, -90.3500
+Shady Grove(Jones), 31.7525, -89.1539
+Shannon, 34.1161, -88.7117
+Shari, 34.5161, -89.0456
+Sharkey, 34.0000, -90.0500
+Sharkey-Issaquena Community Hospital, 32.9044, -90.8844
+Sharon(Jones), 31.7894, -89.0986
+Sharon(Madison), 32.6583, -89.9361
+Sharpsburg, 32.7558, -89.9894
+Shaw, 33.6017, -90.7736
+Shelby, 33.9508, -90.7678
+Shelby Community Hospital, 33.9519, -90.7675
+Shellmound, 33.6064, -90.2797
+Shelton, 31.4922, -89.3492
+Shepherd, 33.9692, -89.3994
+Sheppardtown, 33.3914, -90.3133
+Sherard, 34.2156, -90.7061
+Sherman, 34.3592, -88.8411
+Sherwood, 33.4878, -89.1339
+Sherwood Forest, 32.2083, -89.9669
+Shiloh(Clarke), 32.0103, -88.4969
+Shiloh(Itawamba), 34.3233, -88.5272
+Shiloh(Rankin), 32.3167, -89.7833
+Shipman, 30.8772, -88.4750
+Shivers, 31.7964, -89.9875
+Shoccoe, 32.6097, -89.9011
+Shongelo, 32.1028, -89.5131
+Shrock, 32.9667, -89.9167
+Shubuta, 31.8600, -88.6994
+Shucktown(Franklin), 31.5925, -90.6628
+Shucktown(Lauderdale), 32.5442, -88.7703
+Shuford, 34.2222, -89.8069
+Shuqualak, 32.9783, -88.5700
+Sibleton, 33.4333, -89.5667
+Sibley, 31.3792, -91.3986
+Sibleyton, 33.4381, -89.5250
+Sidon, 33.4081, -90.2039
+Signal, 32.4008, -90.8539
+Siloam, 33.6367, -88.7575
+Silver City, 33.0964, -90.4967
+Silver Creek, 31.6050, -89.9983
+Silver Run, 30.7333, -89.3456
+Simonds, 31.0097, -90.1803
+Simpson County General Hospital, 31.9689, -89.8861
+Simrall, 32.2017, -90.9453
+Sinai, 32.1225, -90.1869
+Singing River Hospital, 30.3756, -88.5333
+Singleton, 32.8861, -89.5367
+Singleton Settlement, 32.3833, -89.4089
+Sipsey Fork, 33.9492, -88.2436
+Sisloff Junction, 33.7653, -90.2267
+Siwell, 32.2469, -90.3028
+Skene, 33.7036, -90.7942
+Skuna, 33.9581, -89.4553
+Skyline, 34.2636, -88.6411
+Slate Spring, 33.7406, -89.3711
+Slayden, 34.9469, -89.4408
+Sledge, 34.4319, -90.2208
+Sloan, 32.5600, -90.0597
+Smalco, 34.5322, -89.0792
+Smedes, 32.6936, -90.9206
+Smith(Covington), 31.7569, -89.5697
+Smith(Lauderdale), 32.4242, -88.4750
+Smith County General Hospital, 31.9994, -89.5194
+Smithburg, 31.0283, -90.2903
+Smithdale, 31.3394, -90.6828
+Smiths, 32.3392, -90.6731
+Smithtown, 31.4372, -88.7158
+Smithville, 34.0700, -88.3911
+Smyrna(Attala), 32.9886, -89.4853
+Smyrna(Copiah), 31.8700, -90.5092
+Snave, 32.6167, -91.0167
+Snell, 32.1917, -88.5017
+Snow Lake Shores, 34.8333, -89.1833
+Society Hill, 31.4086, -89.8889
+Somerville, 33.7919, -90.2656
+Sonora, 33.9333, -89.0000
+Sontag, 31.6522, -90.2042
+Sorghum Lake, 33.7097, -90.1278
+Soso, 31.7567, -89.2742
+South Amory, 33.9833, -88.4833
+South County Hospital, 34.3122, -89.9319
+South McComb, 31.2333, -90.4667
+South Mississippi Charity Hospital, 31.7222, -89.1278
+South Mississippi Infirmary, 31.3231, -89.2886
+South Mississippi State Hospital, 31.7222, -89.1278
+South Panola Community Hospital, 34.3122, -89.9319
+South Sunflower County Hospital, 33.4575, -90.6494
+South Washington County Hospital, 33.1678, -90.8442
+Southaven, 34.9833, -90.0167
+Southern, 31.3000, -89.3000
+Southern Mississippi Retardation Center, 30.3425, -89.1844
+Southwest Mississippi Mental Health Complex, 31.5881, -90.4586
+Southwest Mississippi Regional Medical Center, 31.2508, -90.4733
+Spanish Fort, 32.7594, -90.7347
+Sparta, 33.7686, -88.9792
+Spay, 33.2000, -89.3333
+Spearman, 33.9272, -89.5933
+Splunge, 33.9689, -88.2686
+Spraggins, 34.5547, -89.4856
+Spring Cottage, 31.0894, -89.7664
+Spring Creek, 32.8322, -89.0397
+Spring Hill(Benton), 34.9328, -89.2111
+Spring Hill(Lafayette), 34.2500, -89.2333
+Spring Hill(Neshoba), 32.7200, -89.1025
+Spring Ridge, 32.1875, -90.3297
+Springdale, 34.2217, -89.6092
+Springhill, 31.7444, -89.2142
+Springville, 34.2317, -89.1036
+St Ann, 32.7828, -89.6603
+St Dominic Hospital, 32.3325, -90.1653
+St Elmo, 31.9950, -90.8103
+St Francis Island Landing, 34.6867, -90.5411
+St Martin, 30.4333, -88.9000
+Stafford Springs, 31.9047, -88.9333
+Stage, 32.2825, -89.6350
+Stallo, 32.9200, -89.1006
+Stampley, 31.6369, -91.1311
+Standing Pine, 32.7333, -89.5333
+Stanton, 31.6158, -91.2403
+Star, 32.0939, -90.0461
+Starkville, 33.4503, -88.8183
+State College, 33.4500, -88.7833
+State Line, 31.4361, -88.4744
+Steel, 32.3667, -89.4667
+Steens, 33.5633, -88.3161
+Steiner, 33.6161, -90.6178
+Stella, 31.1839, -90.3447
+Stephen, 33.5625, -88.5447
+Stewart, 33.4506, -89.4361
+Stokes, 32.5950, -90.2039
+Stoneville, 33.4239, -90.9150
+Stonewall(Clarke), 32.1317, -88.7933
+Stonewall(De Soto), 34.8594, -89.7619
+Stonewall(Holmes), 33.0833, -90.3703
+Stonington, 31.7589, -91.0172
+Stout, 32.3003, -90.8992
+Stovall, 34.2967, -90.6447
+Stover, 34.0478, -90.2786
+Straight Bayou, 32.9667, -90.8333
+Stratton, 32.4994, -89.1342
+Strayhorn, 34.6122, -90.1439
+Strengthford, 31.6136, -88.8847
+Strickland, 34.8783, -88.4414
+Stringer, 31.8667, -89.2633
+Stringtown, 33.5747, -90.9844
+Strong, 33.6953, -88.6044
+Stronghope, 31.7439, -90.2633
+Strongs, 33.8333, -88.5500
+Sturgis, 33.3444, -89.0453
+Sucarnoochee, 32.7311, -88.4731
+Success, 30.6106, -89.0517
+Sumbax, 31.2353, -89.9231
+Summerland, 31.7992, -89.3603
+Summit, 31.2836, -90.4683
+Sumner, 33.9708, -90.3686
+Sumrall, 31.4172, -89.5422
+Sunflower(Sunflower), 33.5428, -90.5369
+Sunflower(Prentiss), 34.6639, -88.5514
+Sunflower Landing, 34.1661, -90.8019
+Sunnycrest, 33.7833, -89.8000
+Sunnyside, 33.6964, -90.2950
+Sunrise(Forrest), 31.3122, -89.2139
+Sunrise(Leake), 32.7706, -89.4389
+Suqualena, 32.4433, -88.8264
+Swan Lake, 33.8747, -90.2833
+Sweatman, 33.6342, -89.5797
+Swiftown, 33.3056, -90.4250
+Swiftwater, 33.3375, -91.0597
+Sykes, 32.0939, -88.5922
+Sylvarena, 32.0108, -89.3806
+Symonds, 33.8339, -90.8903

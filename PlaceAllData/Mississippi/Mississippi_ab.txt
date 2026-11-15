@@ -1,0 +1,333 @@
+Abbeville, 34.5031, -89.5031
+Abbott, 33.6800, -88.7744
+Aberdeen, 33.8250, -88.5436
+Aberdeen-Monroe County Hospital, 33.8200, -88.5403
+Abney, 34.2133, -88.4869
+Ackerman, 33.3100, -89.1728
+Acme, 31.9675, -89.1733
+Acona, 33.2717, -90.0161
+Adair, 33.3136, -90.0906
+Adams, 32.1597, -90.5606
+Adams Landing, 32.5703, -90.7267
+Adaton, 33.4772, -88.9214
+Addie, 32.9872, -91.0758
+Aderdeen Junction, 33.0325, -89.8775
+Agricola, 30.8075, -88.5200
+Aiken, 34.6308, -89.7397
+Airey, 30.6483, -89.0772
+Akron, 32.7408, -88.5247
+Alamucha, 32.3586, -88.4686
+Albin, 33.9133, -90.3297
+Alcorn, 31.8778, -91.1392
+Alcorn State University, 31.8167, -91.0500
+Aldens, 34.9333, -90.0247
+Alesville, 34.3667, -89.5167
+Algoma, 34.1761, -89.0311
+Alice, 32.9108, -89.2800
+Allen(Quitman), 34.1458, -90.2339
+Allen(Copiah), 31.7483, -90.6583
+Allen(nanachehaw,Warren), 32.1078, -90.9581
+Allentown, 34.8572, -88.6050
+Alligator, 34.0894, -90.7194
+Alma, 34.4333, -88.6667
+Alonzo, 32.0503, -90.2153
+Alphaba, 34.7739, -89.8736
+Alpine, 34.4953, -88.7978
+Altitude, 34.6683, -88.4431
+Altus, 34.3408, -89.3961
+Alva, 33.6378, -89.5072
+Amistead, 34.3667, -90.6333
+Amory, 33.9842, -88.4881
+Anchor, 33.8267, -89.0381
+Anchorage, 32.9314, -90.6142
+Anderson Landing, 34.1397, -90.8667
+Anding, 32.6919, -90.3978
+Anguilla, 32.9739, -90.8244
+Anna, 31.6967, -91.3514
+Annandale, 32.5147, -90.1883
+Anse, 32.1189, -90.1008
+Ansley, 30.2250, -89.4836
+Antioch(Tate), 34.6992, -89.8711
+Antioch(Jones), 31.6336, -89.0581
+Anvil, 34.9000, -88.9000
+Apple Ridge, 32.3167, -90.1833
+Arbo, 31.7267, -89.6339
+Arcola, 33.2697, -90.8797
+Ariel, 31.1006, -90.9872
+Arkabutla, 34.6989, -90.1222
+Arlington(Lincoln), 31.4183, -90.5567
+Arlington(Neshoba), 32.8767, -89.1772
+Arm, 31.5028, -90.0161
+Armistead, 34.3642, -90.6122
+Arnold Line, 31.3350, -89.3733
+Artesia, 33.4153, -88.6439
+Artonish, 31.1897, -91.5836
+Arunde, 32.3031, -88.7622
+Asa, 34.2689, -90.0711
+Ashland(Jefferson), 31.8000, -91.3481
+Ashland(Benton), 34.8328, -89.1758
+Ashley, 31.8019, -90.2631
+Ashley Crossing, 33.4175, -90.9889
+Ashwood, 31.0447, -91.2969
+Askew, 34.5369, -90.1933
+Athens, 33.8722, -88.4417
+Atlanta, 33.7983, -89.1475
+Atway, 34.8658, -89.4128
+Aubrey, 33.1475, -88.3322
+Auburn(Lee), 34.2847, -88.6317
+Auburn(Lincoln), 31.3592, -90.6078
+Austin, 34.6406, -90.4492
+Australia Landing, 34.0656, -90.8778
+Avalon, 33.6550, -90.0856
+Avent, 30.9814, -88.7792
+Avent Station, 31.0017, -88.7731
+Avera, 31.2958, -88.7414
+Avon, 33.2300, -91.0472
+Bacots, 31.2333, -90.4667
+Bailey, 32.4675, -88.7228
+Baird, 33.4333, -90.5833
+Baker, 34.5025, -88.9472
+Bald Hill, 34.4131, -89.0853
+Baldwyn, 34.5094, -88.6353
+Baldwyn Hospital, 34.5008, -88.6428
+Ballard, 32.6028, -90.0786
+Ballardsville, 34.2425, -88.5381
+Ballentine, 34.3942, -90.0964
+Ballground, 32.5375, -90.7467
+Baltzer, 33.9819, -90.5947
+Banks, 34.8258, -90.2297
+Bankston, 33.2667, -89.2833
+Banner, 34.0886, -89.3847
+Baptist Hospital, 32.3133, -90.1783
+Baptist Memorial Hospital, 34.6578, -88.5653
+Barbara, 30.9919, -88.9783
+Barfoot, 32.5808, -89.1800
+Barksdale, 34.2239, -90.3947
+Barland, 31.8875, -90.8106
+Barlow, 31.8225, -90.6492
+Barnes, 32.9022, -89.5017
+Barnes Prairie, 32.4214, -90.0142
+Barnett, 31.9867, -88.9050
+Barr, 34.6244, -89.7800
+Barron, 31.1481, -89.1647
+Barrontown, 31.3753, -89.2175
+Bartahatchie, 33.6833, -88.3167
+Barth, 30.8333, -89.5333
+Bartlett, 32.2583, -89.3167
+Barto, 31.1756, -90.3114
+Barton, 34.9639, -89.6892
+Basic, 32.2183, -88.7692
+Basin, 30.9167, -88.5833
+Bassfield, 31.4964, -89.7394
+Batesville, 34.3114, -89.9442
+Batson, 31.2689, -89.1958
+Batt Place, 30.9753, -88.9792
+Battle Field, 32.5000, -88.8500
+Battlefield, 32.3167, -90.1833
+Battles, 31.5017, -88.5094
+Baugh, 34.2167, -90.7167
+Baxter, 32.1911, -89.1697
+Baxterville, 31.0839, -89.5903
+Bay Saint Louis, 30.3086, -89.3300
+Bay Springs, 31.9789, -89.2872
+Bay View Plaza, 30.4167, -88.9167
+Bayland, 32.8872, -90.6583
+Bayside Park, 30.2825, -89.4367
+Beacham Memorial Hospital, 31.1458, -90.4592
+Beacon Hill, 34.4569, -88.9758
+Beans Ferry, 34.2097, -88.3850
+Bear Creek, 32.0636, -90.5194
+Bear Garden, 33.1833, -90.8500
+Bear Town, 31.2228, -90.4603
+Beardens, 31.1828, -90.3300
+Beasley, 33.5833, -88.9500
+Beatline, 32.6731, -89.0750
+Beatrice(Clarke), 32.0711, -88.8808
+Beatrice(Stone), 30.7389, -88.9469
+Beatty, 33.2697, -89.7389
+Beaumont, 31.1692, -88.9200
+Beauregard, 31.7217, -90.3822
+Beauvoir, 30.3936, -88.9672
+Becker, 33.9331, -88.4811
+Bee Lake, 33.0469, -90.3253
+Beech Grove, 31.9933, -90.2572
+Beech Springs, 34.3214, -88.7061
+Beechwood(Amite), 31.1203, -90.8622
+Beechwood(Warren), 32.3275, -90.8267
+Belden, 34.3103, -88.7883
+Belen, 34.2731, -90.3542
+Belle Isle, 30.2500, -89.6167
+Belle Prairie, 33.0050, -90.3861
+Bellefontaine, 33.6486, -89.3100
+Belleville, 31.2122, -89.1264
+Bellewood, 33.2317, -90.5592
+Bells School, 33.4667, -88.8167
+Belmont(Tishomingo), 34.5097, -88.2092
+Belmont(Wayne), 31.5686, -88.4839
+Belzoni, 33.1842, -90.4892
+Benndale, 30.8108, -88.7544
+Benoit, 33.6514, -91.0094
+Benson, 31.5483, -89.2189
+Bent Oak, 33.4386, -88.5428
+Bentley, 33.7333, -89.0667
+Benton, 32.8264, -90.2594
+Bentonia, 32.6408, -90.3647
+Benwood, 33.9406, -89.5158
+Berclair, 33.4717, -90.3650
+Bernard, 32.1131, -90.2586
+Berryville, 32.7486, -90.1661
+Bertice, 32.6000, -89.5833
+Berwick, 31.1097, -90.9294
+Bet, 34.6833, -89.9833
+Bethany, 34.5053, -88.7292
+Betheden, 33.2197, -88.9408
+Bethel(Newton), 32.3167, -89.1667
+Bethel(Benton), 34.7228, -89.1358
+Bethesda, 32.1369, -90.3703
+Bethlehem, 34.5783, -89.3275
+Bethsaida, 32.6761, -89.0347
+Bett, 34.6922, -89.7575
+Beulah(Bolivar), 33.7867, -90.9797
+Beulah(Newton), 32.5083, -89.0300
+Beverly(Davenport Station), 34.1739, -90.6419
+Bew Springs, 33.7861, -89.8947
+Bewelcome, 31.2186, -90.9386
+Bexley, 30.9664, -88.6742
+Big Black, 32.2156, -90.8397
+Big Creek, 33.8525, -89.4111
+Big Eddy Landing, 32.9394, -90.7703
+Big Level, 30.8114, -89.0514
+Big Point, 30.5867, -88.4819
+Bigbee, 34.0161, -88.5192
+Bigbee Valley, 33.2481, -88.3497
+Biggersville, 34.8356, -88.5586
+Billups, 33.4306, -88.5850
+Biloxi, 30.3958, -88.8853
+Biloxi Regional Medical Center, 30.4117, -88.9078
+Binford, 33.7531, -88.5808
+Binnsville, 32.9131, -88.3828
+Birdie, 34.3919, -90.3819
+Birmingham, 34.4083, -88.7692
+Bissell, 34.2461, -88.7828
+Black Bayou Junction, 33.7989, -90.2692
+Black Hawk, 33.3261, -90.0117
+Blackjack, 33.4667, -88.8167
+Blackland, 34.6400, -88.6658
+Blackmonton, 33.3333, -89.7500
+Blackwater(Kemper), 32.6189, -88.6825
+Blackwater(Marshall), 34.5553, -89.5967
+Blaine, 33.6078, -90.5225
+Blair, 34.4511, -88.7369
+Blakely, 32.4436, -90.8222
+Blanton, 32.7486, -90.9306
+Blissdale, 33.0869, -90.2208
+Blodgett, 31.4614, -88.9864
+Bloody Springs, 34.5883, -88.1408
+Bloomfield(Neshoba), 32.7336, -89.0181
+Bloomfield(Kemper), 32.7947, -88.7386
+Blue Hill, 31.7628, -90.8575
+Blue Hills, 31.8833, -90.8833
+Blue Lake, 33.8167, -90.5333
+Blue Mountain, 34.6708, -89.0264
+Blue Springs, 34.4017, -88.8728
+Blueberry Hill, 31.4025, -90.4442
+Bluff, 34.6133, -88.9558
+Bluff Springs, 32.7808, -88.8153
+Blythe Crossing, 34.7942, -88.1683
+Bobo(Coahoma), 34.1319, -90.6756
+Bobo(Quitman), 34.2842, -90.1758
+Boggan Bend, 34.4514, -88.7539
+Bogue Chitto, 31.4386, -90.4522
+Boice, 31.7475, -88.6547
+Bolatusha, 32.9228, -89.7022
+Bolivar, 33.6597, -91.0531
+Bolivar County Hospital, 33.7486, -90.7083
+Bolivar Landing, 33.6664, -91.0544
+Bolton, 32.3492, -90.4600
+Bond(Neshoba), 32.8586, -88.9872
+Bond(Stone), 30.8942, -89.1686
+Bonhomie, 31.2889, -89.3097
+Bonita, 32.3653, -88.6658
+Bonner, 31.8136, -89.0489
+Boon, 33.1006, -88.9564
+Boone, 34.2000, -90.5667
+Booneville, 34.6581, -88.5667
+Booth, 32.9606, -90.9317
+Bothwell, 31.3275, -88.7433
+Bounds, 33.8992, -89.4569
+Bounds Crossroads, 34.3292, -88.2122
+Bourbon, 33.3242, -90.7986
+Bovina, 32.3519, -90.7347
+Bowdre, 34.7967, -90.3322
+Bowerton, 31.7561, -90.5694
+Bowie, 31.3928, -89.3717
+Bowles, 33.3364, -90.5897
+Bowling Green, 33.1625, -89.9131
+Bowman, 34.6994, -89.8456
+Boyer, 33.5367, -90.6378
+Boyette, 33.0219, -89.8331
+Boyle, 33.7039, -90.7264
+Bradie, 32.2817, -90.2531
+Bradley(Greene), 31.1750, -88.6714
+Bradley(Oktibbeha), 33.3744, -88.9800
+Branch, 32.4667, -89.7333
+Brandon, 32.2731, -89.9858
+Branyan, 34.4514, -88.8011
+Brasfield, 31.8167, -91.0500
+Braxton, 32.0250, -89.9703
+Brazil, 34.0264, -90.2806
+Brewer(Perry), 31.3725, -88.8664
+Brewer(Clarke), 31.9747, -88.6061
+Brewer(Lee), 34.1478, -88.6836
+Bridgeport, 31.8236, -90.0908
+Bright, 34.8469, -89.9203
+Bright Corner(reduced Usage), 33.5547, -90.1172
+Bristers Store, 31.3667, -90.2000
+Brody, 34.9319, -89.0700
+Brook Hollow, 32.3167, -90.1833
+Brookhaven, 31.5789, -90.4406
+Brooklyn(Forrest), 31.0561, -89.1861
+Brooklyn(Humphreys), 33.1725, -90.4864
+Brooks, 33.7961, -90.4606
+Brookside, 31.2997, -90.7525
+Brooksville, 33.2344, -88.5822
+Brownfield, 34.9900, -88.8925
+Browning, 33.5181, -90.1197
+Brownsville, 32.4486, -90.4369
+Browntown, 31.0711, -88.4367
+Brozville, 33.0331, -90.1122
+Bruce, 33.9919, -89.3489
+Bruce Junction, 33.9644, -89.6847
+Bruinsburg, 31.9422, -91.1572
+Brunswick, 32.5544, -91.0617
+Bryant, 33.9256, -89.7033
+Buchannan, 34.3389, -89.0994
+Buckatunna, 31.5389, -88.5289
+Buckhorn, 34.0925, -89.1575
+Buckleytown, 32.3036, -89.3608
+Bude, 31.4628, -90.8500
+Buena Vista(Tippah), 34.6667, -88.9150
+Buena Vista(Chickasaw), 33.8844, -88.8381
+Bugh, 33.3661, -89.0017
+Bunker Hill, 31.3875, -89.8033
+Bunkley, 31.3622, -90.9908
+Burdette, 33.3483, -90.9147
+Burgess, 34.3667, -89.5167
+Burke Landing, 34.2703, -90.7883
+Burnell, 31.8089, -90.7475
+Burns, 32.1353, -89.5478
+Burnside, 32.8533, -89.1033
+Burnsville, 34.8406, -88.3147
+Burrow, 34.9000, -88.9000
+Burt, 34.4956, -89.3333
+Burton, 34.6381, -88.3394
+Busey, 33.5586, -90.8633
+Bush, 31.8619, -89.9867
+Busy Corner, 31.2786, -90.8633
+Butler, 33.2275, -90.2989
+Buxton, 34.5478, -90.1978
+Byhalia, 34.8722, -89.6906
+Bynum, 31.3942, -89.5419
+Byram, 32.1792, -90.2453
+Byrd, 31.2200, -88.7397
+Bywy, 33.4372, -89.2411
