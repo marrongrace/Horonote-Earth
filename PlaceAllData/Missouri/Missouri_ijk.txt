@@ -1,0 +1,195 @@
+Iantha, 37.5169, -94.3975
+Iatan, 39.4753, -94.9825
+Iberia, 38.0903, -92.2925
+Iconium, 38.1058, -93.5444
+Idalia, 36.8639, -89.8608
+Idlewild(Crawford), 38.0128, -91.3969
+Idlewild(Stoddard), 37.0036, -90.1039
+Ike, 36.7500, -93.3833
+Ilasco, 39.6714, -91.3106
+Illmo, 37.2197, -89.5089
+Imperial, 38.3697, -90.3783
+Independence, 39.0911, -94.4153
+Index, 38.6167, -94.1500
+Indian, 39.2667, -91.3500
+Indian Creek, 39.5944, -91.7767
+Indian Grove, 39.5106, -93.0347
+Indian Lake, 38.0667, -91.4000
+Indian Village, 38.9650, -94.5881
+Ink, 37.2581, -91.4836
+Inza, 39.7167, -94.8667
+Ionia, 38.5042, -93.3239
+Ipley, 36.2947, -90.0286
+Ira, 37.8728, -92.8494
+Irena, 40.5497, -94.3911
+Iron Gates, 37.0669, -94.5542
+Iron Mountain, 37.6953, -90.6403
+Iron Mountain Lake, 37.6931, -90.6225
+Irondale, 37.8319, -90.6781
+Ironton, 37.5972, -90.6272
+Irwin, 37.5886, -94.2853
+Isabella, 36.5808, -92.6125
+Isadora, 40.5258, -94.5175
+Island City, 40.1456, -94.5708
+Iuka Springs, 38.0975, -93.9211
+Ives, 36.7853, -90.1642
+Ivory, 38.5267, -90.2769
+J & G Junction, 37.0667, -94.5000
+Jack, 37.5761, -91.6211
+Jacket, 36.5103, -94.1078
+Jackson, 37.3822, -89.6661
+Jackson Mill, 36.8972, -92.7733
+Jacksonville(Laclede), 37.5583, -92.4225
+Jacksonville(Randolph), 39.5883, -92.4711
+Jacobs, 38.7064, -90.6025
+Jadwin, 37.4867, -91.5708
+Jake Prairie, 38.1633, -91.5111
+James, 36.6333, -93.4167
+James Bayou, 36.6333, -89.2667
+James Crews, 39.0833, -94.5500
+Jameson, 40.0053, -93.9792
+Jamesport, 39.9747, -93.8008
+Jamestown, 38.7656, -92.4806
+Jamesville, 36.9600, -93.3708
+Jane, 36.5472, -94.3050
+Japan, 38.2392, -91.3058
+Jarvis, 38.2681, -90.4942
+Jasper, 37.3361, -94.3011
+Jaudon, 38.7594, -94.5892
+Jaywye, 36.4825, -89.7011
+Jedburgh, 38.5381, -90.5819
+Jeddo, 40.0833, -92.0000
+Jeff, 36.5075, -91.3881
+Jefferson, 39.8500, -94.8333
+Jefferson Barracks, 38.4942, -90.2803
+Jefferson Barracks Veterans Hospital, 38.4939, -90.2833
+Jefferson City, 38.5767, -92.1733
+Jefferson Hospital, 38.1972, -90.3936
+Jefferson Memorial, 38.6333, -90.2000
+Jeffreys, 38.9281, -94.5311
+Jeffriesburg, 38.4403, -91.0881
+Jenkins, 36.7786, -93.6858
+Jennings, 38.7192, -90.2603
+Jerico, 37.1747, -92.6728
+Jerico Springs, 37.6242, -94.0097
+Jerktail, 37.4242, -92.4367
+Jerome, 37.9261, -91.9775
+Jesse M Donaldson, 38.7500, -92.4333
+Jewett, 37.3803, -90.5014
+Jewish Hospital, 38.6400, -90.2639
+Jim Henry, 38.3000, -92.3000
+Joachim, 38.2500, -90.4333
+Joanna, 39.5408, -91.6692
+Jobe, 36.5836, -91.2514
+Johnson City, 38.1169, -93.9278
+Johnson Ford, 38.1322, -91.8894
+Johnson Mill, 36.1856, -90.1314
+Johnston, 40.0000, -92.3667
+Johnston Ford, 37.3606, -92.7958
+Johnstown(Bates), 38.3100, -94.0822
+Johnstown(Jasper), 37.1500, -94.4333
+Johnstown(Linn), 39.9033, -92.9742
+Jolly, 36.8958, -94.0700
+Jonesburg, 38.8533, -91.3058
+Joplin, 37.0842, -94.5131
+Jordan, 38.0214, -93.1411
+Jordan W Chambers, 38.6500, -90.2000Joy, 37.5144, -91.6742
+Judge, 38.4206, -91.7806
+Junction City, 37.5667, -90.2833
+Junction Ferry, 37.1900, -91.2678
+Junction Lookout, 37.6183, -91.3578
+Junland, 36.7686, -90.2808
+Kahoka, 40.4203, -91.7194
+Kaiser, 38.1336, -92.5897
+Kampville, 38.8525, -90.5458
+Kampville Beach, 38.7833, -90.5000
+Kampville Court, 38.7833, -90.5000
+Kansas City, 39.0997, -94.5783
+Kaolin, 37.6667, -90.8833
+Karlin, 37.5542, -93.4139
+Kaseyville, 39.6244, -92.6631
+Kearney, 39.3678, -94.3619
+Keener, 36.9303, -90.5286
+Keeners, 36.9231, -90.5056
+Keethtown, 38.0431, -92.4239
+Kellerville, 39.8219, -92.1347
+Kelley, 36.7667, -90.9667
+Kelley Springs, 36.7153, -94.4197
+Kellogg, 39.7961, -92.4422
+Kelso, 37.1906, -89.5494
+Keltner, 36.9689, -92.9481
+Kendall, 39.7167, -91.9169
+Kendricktown, 37.1947, -94.3097
+Kenmoor, 39.6508, -94.9394
+Kennett, 36.2361, -90.0556
+Kenoma, 37.4394, -94.1972
+Kenwood, 40.1956, -92.2869
+Keota, 39.7075, -92.5764
+Kern, 39.7756, -92.7008
+Kerr, 39.7500, -94.2333
+Kerrville, 39.3783, -94.6950
+Kersey Coates, 39.0500, -94.5667
+Kewanee, 36.6711, -89.5739
+Keyes Summit, 38.5672, -90.4628
+Keystone, 39.6917, -94.3158
+Keysville, 37.8753, -91.3889
+Keytesville, 39.4344, -92.9381
+Kidder, 39.7803, -94.1022
+Kiddoo, 36.8667, -94.3667
+Kiel, 38.5217, -91.2436
+Killarney Shores, 37.5950, -90.5653
+Kilwinning, 40.5269, -92.3369
+Kimberling City, 36.7500, -93.3833
+Kimberling Hills, 36.7500, -93.3833
+Kimberly, 39.4317, -92.4889
+Kimble, 37.5769, -91.8411
+Kime, 37.0511, -90.3997
+Kimmswick, 38.3653, -90.3628
+Kinder, 37.0158, -90.0781
+Kinderpost, 37.5731, -91.9447
+Kinfolks Ridge, 36.1242, -89.6450
+King, 36.7833, -91.2000
+King City, 40.0514, -94.5239
+King Prairie, 36.8833, -93.8667
+Kingdom City, 38.9597, -91.9319
+Kings Lake, 39.0683, -90.7436
+Kings Point, 37.3211, -93.9344
+Kingston, 39.6442, -94.0383
+Kingsville, 38.7431, -94.0697
+Kinloch, 38.7400, -90.3264
+Kinsey, 38.0311, -90.3000
+Kirby, 39.8456, -92.1144
+Kirbyville, 36.6231, -93.1639
+Kirk, 36.2542, -89.9708
+Kirksville, 40.1947, -92.5831
+Kirkwood, 38.5833, -90.4067
+Kirschner, 39.7142, -94.8833
+Kissee Mills, 36.6836, -93.0497
+Kissenger, 39.3050, -90.8583
+Kissick, 37.1078, -93.2572
+Klein Ford, 37.8914, -91.4539
+Klendike, 37.4406, -90.2247
+Kliever, 38.6972, -92.5033
+Klondike(Jasper), 37.1450, -94.5992
+Klondike(St Charles), 38.5783, -90.8425
+Knights, 37.1403, -94.2511
+Knob Lick, 37.6753, -90.3672
+Knob Noster, 38.7650, -93.5564
+Knobby, 38.1525, -93.0953
+Knobtown, 38.9656, -94.4289
+Knobview, 38.0667, -91.4833
+Knorpp, 38.0883, -90.4628
+Knox, 37.4744, -93.6103
+Knox City(Knox Station), 40.1436, -92.0092
+Knoxville, 39.4461, -94.0167
+Koch Hospital, 38.4825, -90.2856
+Kodiak, 39.9519, -94.7569
+Koeltztown, 38.3247, -92.0419
+Koenig, 38.3561, -91.7681
+Koester, 38.0222, -90.4094
+Kohl City, 38.5983, -91.3644
+Koshkonong, 36.5958, -91.6456
+Krakow, 38.4975, -91.0456
+Krueger Ford, 38.5047, -91.6086
+Kurreville, 37.4753, -89.8214
+Kyle, 39.6864, -94.8322

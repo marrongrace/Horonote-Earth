@@ -1,0 +1,415 @@
+Sabula, 37.4047, -90.6961
+Sac, 37.5167, -93.7667
+Sac-o-Sage Heights, 37.9833, -93.8167
+Saco, 37.3656, -90.4392
+Sacville, 37.3939, -93.4289
+Sadler, 39.4386, -94.9417
+Safe, 38.0883, -91.6519
+Sage Hill, 36.9247, -93.6836
+Saginaw, 37.0239, -94.4681
+Sagrada, 38.2217, -93.0531
+Salcedo, 36.8889, -89.6833
+Salem(Dent), 37.6456, -91.5358
+Salem(Coffey P O and Station,Daviess), 40.1047, -94.0064
+Salem Memorial Hospital, 37.6603, -91.5689
+Saline, 40.5269, -93.7278
+Saline City, 39.1403, -92.9431
+Saline Junction, 37.7889, -89.8867
+Saling, 39.3133, -92.1583
+Salisbury, 39.4239, -92.8014
+Salt Creek, 39.5667, -93.0333
+Salt Fork, 39.0167, -93.1500
+Salt Pond, 39.0000, -93.4333
+Salt River, 39.5828, -91.3053
+Salt Spring, 39.4333, -92.5500
+Salt Springs, 39.1122, -93.3472
+Samford, 36.0742, -89.9142
+Samos, 36.8681, -89.2764
+Sampsell, 39.8139, -93.7083
+Sampson, 37.4417, -92.8422
+Samtown, 38.0367, -92.4239
+San Antonio, 39.7769, -94.6833
+Sand Hill, 40.3114, -92.1278
+Sandy Hook, 38.7483, -92.4083
+Sandywoods, 36.9833, -89.5167
+Sank, 37.1717, -90.0136
+Sankey, 37.9769, -91.3436
+Santa Fe, 39.3689, -91.8189
+Santa Rosa, 39.9797, -94.2053
+Santiago, 38.4269, -93.4567
+Sapp, 38.8250, -92.3517
+Sappington, 38.5369, -90.3797
+Saratoga, 36.5414, -94.5564
+Sarcoxie, 37.0692, -94.1164
+Sargent(Texas), 37.0867, -92.0269
+Sargent(Scott), 36.9008, -89.5058
+Savannah, 39.9417, -94.8300
+Saverton, 39.6464, -91.2681
+Saxton, 39.7225, -94.7589
+Scearces, 39.5814, -94.5083
+Schell City, 38.0200, -94.1156
+Schlatitz, 37.1000, -89.9167
+Schluersburg, 38.6306, -90.8597
+Schmitt Ford, 38.3636, -91.1783
+Schnurbusch, 37.6119, -89.7517
+Schofield, 37.5522, -93.2064
+Scholten, 36.8497, -93.6294
+Schubert, 38.5175, -92.0494
+Schuermann Heights, 38.7231, -90.3658
+Schundler, 38.0064, -91.5964
+Scobeville, 36.1853, -90.0744
+Scopus, 37.4333, -89.9333
+Scotia, 38.0278, -91.2136
+Scotland, 37.0831, -94.3769
+Scott(Taney), 36.5500, -93.1000
+Scott(Cole), 38.6189, -92.2769
+Scott City, 37.2167, -89.5244
+Scott Ford, 37.9781, -91.4556
+Scotts Corner, 39.1628, -91.6478
+Scrivner, 38.4547, -92.3794
+Scruggs, 38.5622, -92.2822
+Seaton, 37.8078, -91.6022
+Sebree, 39.1269, -92.5308
+Seckman, 38.4022, -90.4333
+Sedalia, 38.7044, -93.2281
+Sedgewickville, 37.5161, -89.9069
+Seeburger, 38.8653, -90.5106
+Seligman, 36.5225, -93.9394
+Sellers, 40.0664, -91.6733
+Selma, 38.1497, -90.3414
+Selmore, 36.9681, -93.2300
+Selsa, 39.0514, -94.3419
+Senate Grove, 38.6000, -91.2167
+Senath, 36.1342, -90.1597
+Seneca, 36.8414, -94.6108
+Sentinel, 37.7936, -93.2956
+Seopus, 37.3989, -89.9206
+Sequiota, 37.1475, -93.2389
+Sereno, 37.7978, -89.8511
+Seven Pines, 38.6667, -90.4333
+Seventysix, 37.7200, -89.6122
+Sewell Ford, 38.1886, -91.5639
+Seybert, 37.5186, -93.7736
+Seymour, 37.1464, -92.7686
+Shackleford, 39.1103, -93.2956
+Shackleford Crossing, 38.8919, -93.0333
+Shade, 36.1756, -89.7667
+Shady Dell(Stoddard), 36.9639, -89.8225
+Shady Dell(Butler), 36.7678, -90.4419
+Shady Grove(Christian), 37.0000, -93.0833
+Shady Grove(Pulaski), 37.8586, -92.2778
+Shafter, 39.9839, -93.2847
+Shamrock, 39.0028, -91.6942
+Shannondale(Shannon), 37.3900, -91.4375
+Shannondale(Chariton), 39.3592, -92.8497
+Sharon, 39.3006, -93.1331
+Shaver Ford, 39.5217, -91.6894
+Shaw, 38.9736, -92.2031
+Shawan, 36.9639, -89.7797
+Shawnee Mound, 38.5297, -93.7617
+Shawneetown, 37.5511, -89.6519
+Shearwood, 39.9833, -93.8000
+Sheil, 39.6339, -91.5983
+Shelbina, 39.6939, -92.0428
+Shelby(Linn), 39.9686, -93.0181
+Shelby(Oregon), 36.5036, -91.5222
+Shelbyville, 39.8058, -92.0414
+Sheldon, 37.6581, -94.2925
+Shell Knob, 36.6322, -93.6342
+Shelton, 40.0833, -92.2667
+Shelton Ford, 37.3514, -90.4792
+Sheridan, 40.5181, -94.6119
+Sherley, 36.6333, -90.9333
+Sherman, 38.5378, -90.5919
+Sherrill, 37.5886, -91.8761
+Shibboleth, 38.0056, -90.7053
+Shibleys Point, 40.3133, -92.7608
+Shirley, 37.9150, -90.9192
+Shoal, 39.7000, -94.2667
+Shoal Creek, 37.0167, -94.5000
+Shoal Creek Drive, 37.0408, -94.5192
+Shook, 37.0428, -90.3089
+Short Bend, 37.7464, -91.4339
+Shoveltown, 38.8156, -90.2806
+Shrewsbury, 38.5903, -90.3367
+Shriner Hospital, 38.6333, -90.2628
+Shriners Hospital, 38.6264, -90.4069
+Shrum, 37.3839, -90.0150
+Sibley, 39.1786, -94.1931
+Sidney, 40.3542, -92.8189
+Sigsbee, 39.9075, -91.8686
+Sikeston, 36.8767, -89.5878
+Silex, 39.1233, -91.0542
+Silica, 38.2347, -90.4275
+Siloam Springs, 36.7956, -92.0753
+Silva, 37.1761, -90.4636
+Silver Creek, 37.0406, -94.4725
+Silver Dollar City, 36.6500, -93.2167
+Silver Lake, 37.6836, -89.9900
+Silver Mine, 37.5500, -90.2833
+Silver Springs, 37.9992, -90.5244
+Simcoe, 36.7217, -94.1672
+Simmons, 37.2306, -92.0153
+Simpson, 38.8833, -93.6667
+Sinking, 37.4667, -91.2833
+Sinsabaugh, 36.5044, -90.7019
+Sisson, 36.8500, -91.7667
+Sitze Store, 37.2667, -90.1167
+Six Flags Over Mid-America, 38.5000, -90.6167
+Skaggs Community Hospital, 36.6508, -93.2208
+Skidmore, 40.2889, -95.0811
+Skinner, 39.2664, -91.9889
+Slabtown(Madison), 37.5764, -90.3244
+Slabtown(Texas), 37.5631, -92.0194
+Slagle, 37.5322, -93.3750
+Slater, 39.2181, -93.0689
+Sledd, 39.2314, -90.8906
+Sleeper, 37.7606, -92.5928
+Sligo, 37.7739, -91.3775
+Sloan Ford, 36.5808, -91.5497
+Smallett, 36.8486, -92.7139
+Smileyville, 39.8669, -91.5628
+Smith Ford, 37.8322, -92.8481
+Smithfield, 37.1689, -94.6028
+Smithton, 38.6800, -93.0928
+Smithville, 39.3869, -94.5808
+Smoky Hollow, 37.6222, -91.6928
+Snadon Ford, 37.3406, -93.7892
+Sni Mills, 38.9408, -94.1322
+Snow Hill, 39.0500, -90.8833
+Snow Hollow Lake, 37.6289, -90.6853
+Snyder, 39.5164, -93.2400
+Solo, 37.2333, -91.9531
+Somerset, 40.5167, -93.4333
+Sorrell, 40.2150, -93.0203
+Souder, 36.7889, -92.4583
+Soulard, 38.6333, -90.2500
+South, 37.3167, -93.7833
+South Benton, 37.6167, -93.1000
+South Carrollton, 39.3411, -93.4953
+South Cedar City, 38.6000, -92.1667
+South Fork, 36.6278, -91.9625
+South Galloway, 36.8667, -93.2833
+South Gifford, 40.0333, -92.6833
+South Gorin, 40.3667, -92.0167
+South Greenfield, 37.3761, -93.8408
+South Lee, 38.8889, -94.3778
+South Liberty, 39.2011, -94.3889
+South Lineville, 40.5789, -93.5236
+South Moniteau, 38.7167, -92.6667
+South Morgan, 37.4833, -93.6667
+South Point, 38.5500, -91.0167
+South River, 39.8325, -91.4478
+South Shore, 38.8653, -90.5231
+South Side, 37.2000, -93.3000
+South Sugar Creek, 39.4167, -92.4000
+South Troost, 38.9667, -94.5833
+South Troy, 38.9572, -90.9942
+South Van Buren, 36.9881, -91.0136
+South West, 37.4167, -94.5500
+South West City, 36.5147, -94.6111
+Southard, 37.5392, -92.3375
+Southeast, 38.9667, -94.5333
+Southern Aire, 38.4333, -90.3833
+Southhampton, 38.5933, -90.2953
+Southwest, 38.6000, -90.2833
+Spalding, 39.6186, -91.5264
+Spanish Lake, 38.7878, -90.2158
+Sparta, 37.0011, -93.0814
+Speed, 38.8481, -92.8031
+Speedwell, 37.9500, -93.9667
+Spencer, 37.1844, -93.7022
+Spencerburg, 39.4217, -91.3875
+Sperry, 40.2797, -92.4883
+Spickard, 40.2439, -93.5942
+Splitlog, 36.7078, -94.4586
+Spokane, 36.8681, -93.2967
+Sprague, 38.0956, -94.4594
+Spring Bluff, 38.2956, -91.2378
+Spring Branch, 39.1000, -94.4333
+Spring City, 36.9867, -94.5339
+Spring Creek, 37.7625, -92.0239
+Spring Forest, 38.4053, -90.4169
+Spring Fork, 38.5786, -93.2383
+Spring Garden, 38.3853, -92.4225
+Spring Grove, 37.5519, -93.0375
+Spring Hill, 39.8736, -93.6436
+Spring Hollow, 37.6667, -92.8000
+Spring River, 36.9667, -93.8167
+Spring Valley, 36.5500, -94.5000
+Springfield, 37.2153, -93.2981
+Springtown, 37.9236, -90.7606
+Sprott, 37.8639, -90.3283
+Spruce, 38.2664, -94.1331
+Spurgeon, 36.9344, -94.4714
+Squires, 36.8514, -92.6247
+St Albans, 38.5800, -90.7728
+St Ann, 38.7272, -90.3831
+St Anthony, 38.1556, -92.2739
+St Anthonys Hospital, 38.5869, -90.2439
+St Aubert, 38.6500, -91.8564
+St Boniface Hospital, 38.5869, -90.2439
+St Catharine, 39.7958, -92.9936
+St Charles, 38.7839, -90.4811
+St Clair, 38.3453, -90.9808
+St Clement, 39.2833, -91.2092
+St Cloud(Ray), 39.2928, -94.0181
+St Cloud(Crawford), 38.1686, -91.2175
+St Elizabeth, 38.2558, -92.2678
+St Ferdinand, 38.7500, -90.2333
+St Francisville, 40.4583, -91.5689
+St Francois, 37.8667, -90.5167
+St George(Wright), 37.3808, -92.4419
+St George(St Louis), 38.5367, -90.3147
+St James, 37.9972, -91.6142
+St James Hospital, 38.0125, -91.6028
+St John(Pulaski), 37.8892, -92.3794
+St John(Putnam), 40.5400, -93.1889
+St Johns, 38.7153, -90.3450
+St Johns Hospital(Greene), 37.1789, -93.2750
+St Johns Hospital(St Louis), 38.6453, -90.4461
+St Johns Hospital(Jasper), 37.0678, -94.5256
+St Joseph, 39.7686, -94.8464
+St Joseph Hill Infirmary for Aged and Chronic Incurable M, 38.4142, -90.6875
+St Joseph Hospital(St Louis), 38.5728, -90.4269
+St Joseph Hospital(St Charles), 38.7806, -90.4839
+St Josephs Hill Infirmary, 38.4142, -90.6875
+St Josephs Hospital, 39.0689, -94.5531
+St Jude Acres, 37.9667, -90.0500
+St Louis, 38.6272, -90.1978
+St Louis Altenheim, 38.5622, -90.2406
+St Lukes Hospital(Jackson), 39.0478, -94.5894
+St Lukes Hospital(St Louis City), 38.6539, -90.2800
+St Martins, 38.5942, -92.3369
+St Marys, 37.8789, -89.9492
+St Marys Hospital(Cole), 38.5792, -92.1839
+St Marys Hospital(St Louis), 38.6311, -90.3111
+St Michael, 37.5500, -90.2833
+St Patrick, 40.2644, -91.6275
+St Paul, 38.8614, -90.7417
+St Peters, 38.8003, -90.6264
+St Pius Hospital, 38.5869, -90.2439
+St Robert, 37.8281, -92.1775
+St Thomas, 38.3683, -92.2167
+St Vincent Sanitarium, 38.6925, -90.3075
+St Vincents Asylum for the Insane, 38.6925, -90.3075
+St Vincents Institute, 38.6925, -90.3075
+Stahl, 40.2914, -92.7889
+Stanberry, 40.2178, -94.5381
+Standish, 39.3844, -93.4292
+Stanhope, 39.1875, -93.2603
+Stanley, 36.3372, -89.7011
+Stanton, 38.2744, -91.1056
+Star, 36.8978, -90.2286
+Star City, 36.7703, -93.8136
+Starfield, 39.6453, -94.5175
+Stark(Hickory), 37.9333, -93.1667
+Stark(Pike), 39.3725, -91.0247
+Stark City, 36.8622, -94.1856
+Starkenburg, 38.7358, -91.5519
+Starland, 37.7092, -89.5853
+State Hospital for the Insane, 37.7678, -90.4372
+State Hospital No 1, 38.8453, -91.9350
+State Hospital No 2, 39.7736, -94.8086
+State Hospital No 4, 37.7678, -90.4372
+Ste Genevieve, 37.9814, -90.0417
+Steedman, 38.7047, -91.8178
+Steele, 36.0839, -89.8292
+Steeles, 36.6806, -90.7914
+Steelville, 37.9681, -91.3547
+Steffenville, 39.9706, -91.8819
+Steinmetz, 39.2350, -92.7575
+Stella, 36.7614, -94.1911
+Stepanek Crossing, 39.0206, -91.0653
+Stephens, 39.0289, -92.2661
+Sterling, 37.0439, -92.0081
+Sterling Landing, 39.1131, -90.6942
+Stet, 39.4231, -93.7586
+Stewart, 36.3725, -89.6164
+Stewartsville, 39.7508, -94.4964
+Sticklerville, 40.1606, -92.8936
+Stickney, 38.0675, -91.9353
+Still Hospital, 38.5658, -92.1825
+Stillhouse Ford, 39.0725, -91.2597
+Stillhouse Springs, 37.8011, -92.3344
+Stillings, 39.3197, -94.8878
+Stinson, 37.2464, -93.7522
+Stockbridge, 39.7514, -94.6664
+Stockdale, 39.2908, -94.3422
+Stockton, 37.6989, -93.7958
+Stockyards(Jackson), 39.1000, -94.6000
+Stockyards(Buchanan), 39.7167, -94.8500
+Stoddard, 36.7914, -90.0342
+Stokes Mound, 39.5667, -93.4833
+Stokley, 38.8394, -93.4694
+Stone Hill, 37.6017, -91.3419
+Stones Corner, 37.0667, -94.5000
+Stony Hill, 38.5428, -91.3736
+Stotesbury, 37.9719, -94.5633
+Stotts City, 37.1036, -93.9494
+Stoutland, 37.8142, -92.5139
+Stoutsville, 39.5472, -91.8583
+Stover, 38.4408, -92.9917
+Strafford, 37.2683, -93.1169
+Strain, 38.2917, -91.3028
+Strasburg, 38.7600, -94.1661
+Stringtown(Cole), 38.5228, -92.3539
+Stringtown(Jasper), 37.1703, -94.5797
+Stringtown(Madison), 37.5733, -90.2878
+Stringtown(Butler), 36.7528, -90.5828
+Strother, 39.4256, -91.8883
+Stubbs, 39.4250, -94.7508
+Stubtown, 36.1761, -89.6992
+Stults, 36.7500, -93.3833
+Sturdivant, 37.0494, -90.0139
+Sturgeon, 39.2342, -92.2806
+Sturges, 39.8772, -93.5008
+Stutts, 36.7653, -93.3472
+Sublette, 40.3006, -92.5714
+Success, 37.4436, -92.0875
+Sudheimer, 38.1331, -92.1786
+Sue City, 39.9672, -92.3650
+Suelthaus Ford, 38.4075, -91.5958
+Sugar Beach, 36.6036, -94.3667
+Sugar Creek, 39.1097, -94.4444
+Sugar Lake, 39.5833, -95.0167
+Sugartree, 39.2719, -93.5975
+Sugartree, 37.9678, -91.9706
+Sullivan, 38.2081, -91.1603
+Sulphur Springs, 38.3361, -90.3739
+Sumach, 36.4000, -90.0167
+Summerfield, 38.2836, -91.8047
+Summersville, 37.1792, -91.6567
+Summit, 37.9119, -90.7081
+Summit City, 36.7392, -92.6136
+Sumner, 39.6525, -93.2444
+Sunland Hills, 38.8000, -90.3333
+Sunlight, 37.7817, -90.9050
+Sunny Slope, 39.0333, -94.5667
+Sunnyside, 38.3483, -90.3694
+Sunnyvale, 37.0508, -94.4950
+Sunrise, 36.0603, -90.0306
+Sunrise Beach, 38.1758, -92.7842
+Sunset Hills, 38.5389, -90.4072
+Sutherland, 38.5850, -93.5925
+Svenite, 37.6767, -90.3917
+Swan, 36.7953, -93.0625
+Swanwick, 39.3142, -94.0308
+Swart, 37.7511, -94.5833
+Swedeborg, 37.9139, -92.3317
+Sweden, 36.8775, -92.5008
+Sweet Hollow Ford, 37.8342, -92.8403
+Sweet Home, 40.5167, -91.6667
+Sweet Springs, 38.9636, -93.4147
+Sweetwater(Reynolds), 37.6833, -90.2000
+Sweetwater(Newton), 36.8267, -94.2656
+Swift, 36.3278, -89.7517
+Swinton, 37.0278, -89.9447
+Swiss, 38.5628, -91.4711
+Switzler, 39.0100, -92.2756
+Sycamore, 36.7033, -92.2742
+Sycamore Hills, 38.7008, -90.3497
+Syenite, 37.6833, -90.3667
+Sylvania(Scott), 37.1000, -89.7000
+Sylvania(Dade), 37.5078, -94.0225
+Syracuse, 38.6700, -92.8731

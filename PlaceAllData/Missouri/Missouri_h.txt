@@ -1,0 +1,261 @@
+H S Jewell, 37.2000, -93.3000
+Hacienda Rest Home, 37.7689, -90.3978
+Hackleman Corner, 37.8511, -93.8747
+Hackler Ford, 37.6928, -92.9744
+Hadley(Reynolds), 37.0728, -90.7981
+Hadley(St Louis), 38.6500, -90.3167
+Hadsell, 38.6983, -94.1367
+Hagers Grove, 39.8311, -92.2231
+Hahatonka, 37.9728, -92.7683
+Hahn, 37.2053, -90.0697
+Hahns Mill, 37.5586, -90.1550
+Hailey, 36.7108, -93.7072
+Hale, 39.6036, -93.3422
+Hale Crossing, 36.8822, -92.1872
+Half Rock, 40.2731, -93.4356
+Half Way, 37.6164, -93.2444
+Halifax, 38.0119, -90.4897
+Halls, 39.6333, -94.9731
+Hallsville, 39.1169, -92.2206
+Halltown, 37.1933, -93.6253
+Halston Mill, 37.4544, -93.7317
+Hamburg, 38.6697, -90.7317
+Hamden, 39.5772, -92.8231
+Hamilton, 39.7436, -93.9981
+Hamlin Farm, 36.2333, -89.7500
+Hammond, 36.6756, -92.6442
+Hampton, 39.2814, -94.7331
+Hams Prairie, 38.7672, -91.9189
+Hancock, 37.9864, -92.1817
+Handley(Dallas), 37.5283, -92.9294
+Handley(Vernon), 37.8822, -94.1972
+Handy, 36.8092, -91.1069
+Hanley Hills, 38.6858, -90.3239
+Hanleyville, 36.6886, -90.2900
+Hanna, 37.7350, -92.2467
+Hannibal, 39.7083, -91.3583
+Hannon, 37.6225, -94.4939
+Happy Hollow, 38.0014, -90.7250
+Hardeman, 39.0894, -93.0103
+Hardenville, 36.5892, -92.3711
+Hardin, 39.2708, -93.8342
+Hardyville, 37.8944, -93.7600
+Harg, 38.9267, -92.2311
+Hargrove, 36.0658, -90.3203
+Harkes, 39.3483, -92.4806
+Harlem, 39.1178, -94.5867
+Harlow Ford, 37.0722, -91.7050
+Harmony, 37.8167, -91.0000
+Harold, 37.3778, -93.5153
+Harper, 38.0625, -93.5183
+Harrelson, 38.7689, -94.4911
+Harrill Ford, 37.7269, -92.4642
+Harris, 40.3058, -93.3500
+Harrisburg, 39.1417, -92.4625
+Harrisonville, 38.6533, -94.3486
+Harry S Truman, 39.0667, -94.4167
+Hart(Macon), 39.8364, -92.8231
+Hart(Wright), 37.2000, -92.4667
+Hart(McDonald), 36.7372, -94.6056
+Hartford(Pike), 39.1833, -91.2833
+Hartford(Putnam), 40.4697, -92.8356
+Hartle Ford, 37.4331, -89.8531
+Hartsburg, 38.6950, -92.3086
+Hartshorn, 37.2647, -91.6703
+Hartville, 37.2508, -92.5103
+Hartwell, 38.4353, -93.9344
+Hartzell, 36.4853, -89.8558
+Harvester, 38.7458, -90.5806
+Harvey, 38.4433, -93.8539
+Harviell, 36.6647, -90.4722
+Harwood, 37.9561, -94.1542
+Haseltine, 37.2094, -93.3858
+Hassard, 39.6569, -91.6594
+Hastain, 38.2019, -93.1761
+Hatch, 39.5889, -91.6178
+Hatfield, 40.5289, -94.1547
+Hattie, 37.0797, -91.7733
+Hatton, 39.0242, -92.0261
+Havenhurst, 36.5833, -94.3742
+Haw Creek, 38.4500, -92.9667
+Hawk Point, 38.9708, -91.1311
+Hawkeye, 38.0056, -92.3928
+Hayden, 38.0750, -91.9767
+Haydite, 39.4975, -94.8017
+Hayes Park, 39.1833, -94.2000
+Haynesville, 39.4614, -94.3156
+Hayti, 36.2336, -89.7494
+Hayti Heights, 36.2339, -89.7694
+Hayward, 36.3986, -89.6700
+Hayward City, 37.0081, -89.6011
+Haywood City, 37.0333, -89.6333
+Hazel Hill, 38.8833, -93.7833
+Hazel Run, 37.9469, -90.4656
+Hazelgreen, 37.7678, -92.4278
+Hazelwood, 38.7714, -90.3708
+Hazleton, 37.5250, -92.0247
+Head Ford, 37.3061, -90.4658
+Heagy, 37.0383, -89.8028
+Heaths Creek, 38.8667, -93.1167
+Heatonville, 37.1883, -93.7992
+Hebron, 36.7333, -91.8667
+Hecla, 39.9397, -93.3039
+Hedge City, 40.0300, -92.1367
+Helena, 39.9128, -94.6492
+Helm, 37.9842, -92.1542
+Helton, 39.7747, -91.4211
+Heman Park, 38.6667, -90.3000
+Hematite, 38.2019, -90.4808
+Hemenway, 36.5483, -90.6517
+Hemple, 39.7256, -94.5614
+Henderson, 37.1411, -93.0597
+Henderson Ford, 38.1778, -91.8644
+Henderson Mound, 36.7667, -89.5833
+Hendrickson, 36.9044, -90.4689
+Henley, 38.3444, -92.3222
+Henrietta, 39.2342, -93.9353
+Henry, 38.0000, -94.5500
+Henson, 36.8561, -89.2525
+Herculaneum, 38.2683, -90.3800
+Hercules, 36.7075, -92.8728
+Hereford, 38.9917, -92.0936
+Hermann, 38.7042, -91.4372
+Hermitage, 37.9414, -93.3161
+Hermondale, 36.0161, -89.9147
+Herndon, 39.0042, -93.2700
+Herrick Ford, 37.8608, -92.9125
+Hester, 39.9108, -91.6267
+Hickman, 36.9906, -90.1169
+Hickman Mills, 38.9194, -94.5183
+Hickory, 40.0833, -95.1000
+Hickory Barren, 37.3478, -93.2211
+Hickory Creek, 39.9997, -93.6656
+Hickory Grove, 38.8000, -91.0000
+Hickory Hill, 38.4006, -92.3594
+Higbee, 39.3047, -92.5125
+Higdon, 37.5928, -90.1678
+Higginsville, 39.0725, -93.7169
+High Gate, 38.1578, -91.6747
+High Hill, 38.8783, -91.3833
+High Place Lookout Tower, 36.7150, -92.1669
+High Point, 38.4844, -92.5906
+High Prairie, 37.3000, -92.7500
+High Ridge, 38.4589, -90.5364
+Highland, 37.6644, -89.8914
+Highlandville, 36.9328, -93.2803
+Highley Heights, 37.8819, -90.5222
+Hilda, 36.6636, -92.9819
+Hilderorand, 37.5756, -89.8539
+Hill, 39.5667, -93.5833
+Hill City, 36.6661, -93.6717
+Hill Top, 36.6408, -90.8017
+Hilldale, 39.0631, -92.5611
+Hillhouse Addition, 37.8667, -92.4000
+Hilliard, 36.8253, -90.4167
+Hills Store, 36.7197, -89.8089
+Hillsboro, 38.2322, -90.5628
+Hillsdale, 38.6833, -90.2839
+Hilltop, 36.6542, -93.8558
+Himmel, 36.9761, -89.7528
+Hinch, 38.0628, -91.1553
+Hine, 38.6831, -90.5233
+Hines Landing, 37.5578, -89.5264
+Hinton, 39.0536, -92.3403
+Hiram, 37.1789, -90.3147
+Hitt, 40.5636, -92.2556
+Hobart, 39.2108, -91.0989
+Hoberg, 37.0697, -93.8486
+Hobson, 37.7556, -91.6319
+Hocomo, 36.6147, -92.0039
+Hodge, 39.2236, -93.6267
+Hoecker, 38.3319, -92.2903
+Hoene Spring, 38.4514, -90.6144
+Hofflins, 38.0958, -91.3606
+Hoffman, 38.8436, -92.9450
+Hoffman Junction, 37.9100, -90.5564
+Hogan, 37.5111, -90.6958
+Holcomb, 36.3992, -90.0236
+Holden, 38.7142, -93.9911
+Holiday Shores, 37.7392, -90.6744
+Holland, 36.0558, -89.8708
+Holliday, 39.4944, -92.1286
+Holliday Landing, 37.0361, -90.4228
+Hollister, 36.6211, -93.2153
+Hollow, 38.5500, -90.7081
+Hollywood, 36.0542, -90.1861
+Holman, 37.2731, -93.0531
+Holmes Park, 38.9525, -94.5356
+Holmes Place, 36.5386, -90.1933
+Holstein, 38.6553, -91.1711
+Holt, 39.4528, -94.3419
+Holts Summit, 38.6403, -92.1222
+Homer, 38.2667, -94.5667
+Homer G Phillips Hospital, 38.6589, -90.2358
+Homestead Village, 39.3333, -94.2167
+Homestown, 36.3319, -89.8258
+Honey Creek(Cole), 38.5333, -92.1667
+Honey Creek(Henry), 38.4333, -93.8500
+Hooker(Laclede), 37.7667, -92.7667
+Hooker(Pulaski), 37.8600, -92.0606
+Hoover, 39.3689, -94.6667
+Hope(Pike), 39.5956, -91.2019
+Hope(Osage), 38.5283, -91.6711
+Hopewell(Warren), 38.6886, -91.1406
+Hopewell(Washington), 37.8875, -90.7028
+Hopkins, 40.5508, -94.8192
+Hopkinsville, 39.1742, -91.1056
+Horine, 38.2667, -90.4244
+Hornersville, 36.0417, -90.1139
+Hornersville Junction, 36.0397, -90.0836
+Hornet, 36.9619, -94.5569
+Hortense, 38.3833, -93.7667
+Horton, 37.9747, -94.3650
+Hough, 36.7333, -89.4667
+House Creek, 37.0175, -91.0625
+House Springs, 38.4089, -90.5700
+Houston, 37.3261, -91.9558
+Houston Lake, 39.1928, -94.6200
+Houstonia, 38.8989, -93.3581
+Howard County Infirmary, 39.1883, -92.5317
+Howards Ridge, 36.5289, -92.3319
+Howardville, 36.5681, -89.6006
+Howell(Howell), 36.7167, -91.8333
+Howell(St Charles), 38.7431, -90.6108
+Howes, 37.7094, -91.5144
+Howes Mill, 37.6344, -91.2589
+Howland, 40.5347, -92.9572
+Hubbard, 39.5825, -92.6928
+Hubbells, 36.5675, -90.5572
+Hubble, 37.2833, -89.7167
+Huben, 37.5872, -92.7514
+Huber, 38.6883, -94.3367
+Huckaby, 37.7894, -93.2497
+Hudson, 38.2036, -94.0900
+Huggins(Gentry), 40.2667, -94.4333
+Huggins(Texas), 37.3200, -92.1983
+Hughes, 40.2000, -95.0000
+Hughesville, 38.8386, -93.2953
+Hugo, 37.9953, -92.6589
+Huiskamp, 39.8161, -91.4406
+Humansville, 37.7944, -93.5778
+Hume, 38.0900, -94.5836
+Humphreys, 40.1256, -93.3189
+Hunnewell, 39.6681, -91.8617
+Hunter, 36.8906, -90.8489
+Hunter Crossing, 36.6786, -91.6672
+Hunterville, 36.8206, -89.8075
+Huntingdale, 38.4767, -93.8169
+Huntington, 39.6614, -91.5986
+Huntleigh, 38.6158, -90.4106
+Huntsdale, 38.9117, -92.4722
+Huntsville, 39.4406, -92.5450
+Hurdland, 40.1500, -92.3019
+Hurley, 36.9314, -93.4989
+Hurlingen, 39.7983, -94.6364
+Huron, 37.7158, -93.3531
+Hurricane, 37.4161, -90.0119
+Hurricane Deck, 38.1317, -92.7936
+Hurryville, 37.8400, -90.4581
+Hutchison, 39.3458, -91.6425
+Hutton Valley, 36.9617, -91.8831
+Huzzah, 37.9042, -91.1572

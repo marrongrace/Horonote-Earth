@@ -1,0 +1,215 @@
+Taber, 38.0500, -94.0000
+Taberville, 38.0083, -93.9944
+Table Rock, 37.9636, -91.9964
+Table Rock Townsite, 36.6500, -93.2167
+Tackner, 38.2358, -93.4297
+Taft, 36.6350, -90.5378
+Taitsville, 39.4844, -93.9578
+Tallapoosa, 36.5081, -89.8192
+Tallent, 37.4653, -90.0683
+Taneyville, 36.7414, -93.0342
+Tanner, 36.9181, -89.6833
+Tanyard, 37.0667, -94.5000
+Taos(Buchanan), 39.5775, -94.8347
+Taos(Cole), 38.5064, -92.0708
+Tapawingo, Lake, 39.0214, -94.3114
+Tara, 38.5667, -90.3333
+Tarkio, 40.4403, -95.3775
+Tarrant, 39.3567, -91.1828
+Tarrytown, 39.2844, -94.6778
+Tarsney, 38.9414, -94.2156
+Tarsney Lakes, 38.9497, -94.2036
+Tauria, 36.7500, -93.3833
+Tavern, 38.1625, -92.1294
+Taylor, 39.9381, -91.5236
+Tea, 38.3000, -91.3964
+Tebbetts, 38.6206, -91.9622
+Tebo, 38.5000, -93.6667
+Tecamseh, 36.5867, -92.2864
+Tecumseh, 36.5833, -92.2833
+Temples Corner, 36.0306, -89.9589
+Templeton, 40.3833, -95.6167
+Tempo, 38.6667, -90.4333
+Ten Brook, 38.4336, -90.3500
+Ten Mile, 39.8083, -92.3764
+Teresita, 36.9847, -91.6286
+Terre DuLac, 37.9167, -90.5500
+Terre Haute, 40.4394, -93.2339
+Terrell, 37.0828, -93.4189
+Texas, 37.5667, -91.6833
+Thayer, 36.5244, -91.5381
+Theodosia, 36.5828, -92.6758
+Theodosia Hills, 36.5833, -92.6667
+Third Creek, 38.4000, -91.5667
+Thirtyfour Corner, 36.7767, -89.2108
+Thomas, 36.5500, -90.6333
+Thomas Hill, 39.5208, -92.6556
+Thomasville, 36.7892, -91.5319
+Thompson, 39.1886, -91.9828
+Thoms, 37.1442, -94.5558
+Thomson, 40.4667, -92.0167
+Thomure, 38.0039, -90.0594
+Thornfield, 36.7086, -92.6592
+Thorpe, 37.4858, -92.9981
+Thrush, 38.3833, -93.7667
+Tiff, 38.0192, -90.6528
+Tiff City, 36.6683, -94.6169
+Tiffany Springs, 39.2614, -94.6961
+Tiffin, 37.9550, -93.9381
+Tiger Fork, 39.8833, -91.9000
+Tightwad, 38.3094, -93.5469
+Tigris, 37.0228, -92.7711
+Tillman, 37.0553, -89.8642
+Tilsit, 37.3303, -89.7419
+Timber, 37.3631, -91.4264
+Times Beach, 38.5086, -90.6025
+Tin Town, 37.4539, -93.1931
+Tina, 39.5361, -93.4400
+Tindall, 40.1611, -93.6081
+Tinkerville, 36.1906, -89.9597
+Tinney Grove, 39.5042, -93.8053
+Tip Top, 37.5833, -90.6333
+Tipperary, 40.1917, -92.7097
+Tipton, 38.6556, -92.7797
+Tipton Ford, 36.9767, -94.4258
+Tobin, 40.3500, -92.2000
+Toga, 37.1161, -89.8847
+Toledo(Callaway), 38.8406, -91.8181
+Toledo(Ozark), 36.7744, -92.6853
+Tolona, 40.0431, -91.7483
+Tom, 38.2500, -93.4333
+Tom Hollow Ford, 37.8461, -92.8514
+Topaz, 36.9456, -92.2028
+Toppertown, 36.9631, -89.8411
+Torch, 36.5364, -90.6761
+Toronto, 38.0036, -92.5253
+Tower Grove, 38.6225, -90.2661
+Town and Country, 38.6122, -90.4633
+Town N Four Village, 38.6667, -90.4333
+Townley, 36.6167, -89.9697
+Tracy(Platte), 39.3769, -94.7928
+Tracy(St Clair), 37.9800, -93.6550
+Trail, 36.7681, -92.2956
+Trail Creek, 40.3333, -93.8167
+Trask, 36.9775, -91.8014
+Treloar, 38.6444, -91.1878
+Tremont, 39.6667, -94.6500
+Trenton, 40.0789, -93.6164
+Trimble, 39.4711, -94.5644
+Trinity Hospital, 39.0722, -94.5864
+Triplett, 39.4981, -93.1936
+Trotter, 39.4000, -93.5833
+Troutt, 37.9333, -90.7833
+Troy, 38.9794, -90.9806
+Truesdale, 38.8117, -91.1303
+Truman Corners, 38.9081, -94.5194
+Truxton, 39.0019, -91.2397
+Tuberculosis Hospital, 39.0458, -94.4978
+Tuckahoe, 37.1286, -94.5292
+Tucker, 36.5447, -91.0711
+Tuckers Corner, 37.3306, -94.4844
+Tulip, 39.3428, -92.1569
+Tunas, 37.8497, -93.0275
+Turkey Ridge, 37.8217, -92.3267
+Turley, 37.4467, -92.1819
+Turnback, 37.1167, -93.6500
+Turner Ford, 37.8472, -92.8736
+Turners(Turners Station), 37.1808, -93.1553
+Turners Mill, 36.7664, -91.2664
+Turnerville, 37.0406, -91.7392
+Turney, 39.6358, -94.3211
+Turtle, 37.5233, -91.4122
+Tuscumbia, 38.2331, -92.4583
+Tuxedo Park, 38.6000, -90.3333
+Twelve Mile, 37.3667, -90.4167
+Twin Groves, 37.2167, -94.5667
+Twin Oaks, 38.5647, -90.4964
+Twin Springs, 38.2719, -91.0736
+Tyler(Hickory), 36.0339, -89.7372
+Tyler(Texas), 37.8500, -93.4167
+Tyrone, 37.2033, -91.8764
+Tyson, 38.5369, -90.5617
+Udall, 36.5439, -92.2586
+Udall Landing, 36.5431, -92.2889
+Ulman, 38.1531, -92.4439
+Umber, 37.6247, -93.7553
+Union(Ray), 39.4333, -94.1667
+Union(Franklin), 38.4456, -91.0056
+Union City, 36.9789, -93.4656
+Union Star, 39.9806, -94.5942
+Uniontown, 37.6147, -89.7139
+Unionville, 40.4769, -93.0031
+United States Medical Center, 37.1781, -93.3247
+Unity Village(Unity), 38.9514, -94.4014
+University City, 38.6667, -90.3333
+University Hospital, 38.9386, -92.3281
+University Park, 38.6558, -90.3092
+Upalika, 36.9367, -90.6392
+Uplands Park, 38.6931, -90.2822
+Upper Loutre, 39.1000, -91.5333
+Upton, 37.3689, -92.1639
+Urbana, 37.8422, -93.1667
+Urbandale, 39.3950, -92.4439
+Urich, 38.4597, -94.0006
+Utica, 39.7436, -93.6264
+Vada, 37.4717, -92.0508
+Vale, 38.9436, -94.4375
+Valentine Ford, 38.4114, -91.6381
+Valle, 38.1000, -90.5500
+Valles Mines, 38.0419, -90.4997
+Valley, 39.8333, -92.6833
+Valley City, 38.8656, -93.6117
+Valley Park, 38.5492, -90.4925
+Valley Plaza, 36.7667, -90.4000
+Valley Ridge, 36.5647, -90.0836
+Valley View(Benton), 38.2061, -93.4281
+Valley View(Ste Genevieve), 38.0167, -90.2167
+Valley Water Mills, 37.2658, -93.2478
+Van, 37.5614, -93.2869
+Van Buren, 36.9956, -91.0144
+Van Cleve, 38.2350, -92.1572
+Van Horn, 39.4833, -93.4667
+Vance, 37.4394, -92.7797
+Vandalia, 39.3108, -91.4883
+Vandiver, 39.1631, -91.8433
+Vanduser, 36.9906, -89.6856
+Vanzant, 36.9697, -92.3028
+Varner, 36.6000, -90.6833
+Varsh Ford, 37.3739, -90.4542
+Vastus, 36.5511, -90.4081
+Velda, 38.6900, -90.2944
+Velda Village Hills, 38.6906, -90.2872
+Venice, 37.2078, -91.3997
+Venus, 38.1803, -92.0339
+Vera, 39.3783, -91.1450
+Vera Cruz, 36.9139, -92.4933
+Verdella, 37.6064, -94.4383
+Vernon, 40.3500, -91.4833
+Verona, 36.9639, -93.7956
+Versailles, 38.4314, -92.8408
+Vest, 40.4667, -92.2833
+Veterans Hospital, 39.0667, -94.5500
+Vibbard, 39.3806, -94.1461
+Viburnum, 37.7153, -91.1350
+Vichy, 38.1114, -91.7603
+Victor, 39.4542, -91.8292
+Victoria, 38.1778, -90.5258
+Vida, 37.8569, -91.7994
+Vienna, 38.1867, -91.9469
+Vigus, 38.7356, -90.4647
+Vilander, 38.0964, -91.1314
+Villa Heights, 37.0667, -94.5000
+Villa Ridge, 38.4725, -90.8867
+Vincit, 36.1658, -90.0692
+Vineland, 38.0953, -90.6128
+Vineyard, 37.1167, -93.9833
+Vinita Park, 38.6900, -90.3425
+Vinita Terrace, 38.6856, -90.3292
+Vinson, 36.8000, -89.9667
+Viola, 36.5731, -93.5819
+Violet, 37.6675, -93.3194
+Virgil City, 37.7664, -94.0725
+Virginia(Pemiscot), 36.1000, -89.9000
+Virginia(Bates), 38.2669, -94.4956
+Vista, 37.9883, -93.6639
+Vulcan, 37.3094, -90.6625

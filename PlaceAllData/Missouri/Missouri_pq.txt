@@ -1,0 +1,238 @@
+Pacetown, 37.7533, -93.9953
+Pacific, 38.4819, -90.7414
+Pack, 36.5500, -94.5000
+Page City, 39.1269, -93.7308
+Pagedale, 38.6833, -90.3078
+Painton, 37.0822, -89.7947
+Palace, 37.6203, -92.1397
+Palemon, 39.3181, -93.6103
+Palestine, 38.8500, -92.8333
+Palisades, 38.5333, -90.5833
+Palmer, 37.8394, -90.9958
+Palmetto, 37.1422, -93.0953
+Palmyra, 39.7942, -91.5231
+Palo Pinto, 38.3817, -93.4553
+Panama, 38.0469, -94.3547
+Papin, 38.0678, -90.4706
+Papinsville, 38.0667, -94.0833
+Paradise, 39.4275, -94.5156
+Paris, 39.4808, -92.0011
+Paris Springs, 37.1942, -93.6792
+Parkdale(Platte), 39.1900, -94.6475
+Parkdale(Jefferson), 38.4833, -90.5333
+Parker Lake, 37.6867, -90.0775
+Parkers Landing, 39.0558, -90.7192
+Parkers Park, 39.0436, -90.7208
+Parks, 36.6139, -90.5653
+Parkville, 39.1950, -94.6819
+Parkway(Franklin), 38.3381, -90.9697
+Parkway(Jackson), 39.0167, -94.5333
+Parma, 36.6136, -89.8164
+Parnell, 40.4400, -94.6231
+Parshley, 37.0742, -94.2394
+Parson Creek, 39.7667, -93.3000
+Pasadena Hills, 38.7083, -90.2928
+Pasadena Park, 38.7106, -90.2981
+Pascola, 36.2667, -89.8267
+Pasley, 36.6281, -93.8883
+Passaic, 38.3219, -94.3481
+Passo, 38.2500, -93.3833
+Passover, 38.0808, -92.5989
+Paterson Ford, 36.7333, -90.7333
+Patsy, 37.9619, -91.2722
+Patterson, 37.1883, -90.5506
+Patton, 37.5022, -90.0133
+Patton Junction, 37.5189, -90.0153
+Pattonsburg, 40.0467, -94.1356
+Pattonville, 38.7364, -90.4067
+Paulding, 36.0136, -90.2361
+Pauldingville, 38.7747, -90.9553
+Paulina Hills, 38.4608, -90.4283
+Paw Paw, 40.0911, -93.0875
+Pawnee, 40.5219, -94.0506
+Paydown, 38.2289, -91.8036
+Paydown Ford, 38.2322, -91.8117
+Payne Ford, 38.4606, -92.4525
+Paynesville, 39.2625, -90.9003
+Pea Ridge, 38.1258, -91.0419
+Peace Valley, 36.8744, -91.7311
+Peach Orchard, 36.3656, -89.9339
+Peaksville, 40.5069, -91.6969
+Pearl, 37.3517, -93.4864
+Pease, 37.4947, -92.6325
+Pebble Acres, 38.6667, -90.4333
+Peculiar, 38.7192, -94.4583
+Peerless Park, 38.5433, -90.4950
+Peers, 38.6342, -91.1217
+Pemiscot, 36.0667, -89.7333
+Pendleton(St Francois), 37.7333, -90.4833
+Pendleton(Warren), 38.8272, -91.2350
+Penermon, 36.8000, -89.8167
+Penn, 40.2667, -92.9500
+Pennsboro, 37.3272, -93.8339
+Pennville, 40.3628, -92.9467
+Peno, 39.4833, -91.2833
+Peoria, 37.7561, -90.8842
+Pepsin, 37.0236, -94.2417
+Perche, 39.1000, -92.4167
+Perkins, 37.0947, -89.7753
+Perrin, 39.6603, -94.4022
+Perry, 39.4311, -91.6750
+Perryville, 37.7242, -89.8611
+Pershing, 38.5772, -91.6142
+Peru, 38.2667, -94.3333
+Peruque, 38.8683, -90.6081
+Peters Ford, 38.3744, -91.2075
+Petersburg(Howard), 39.0583, -92.8931
+Petersburg(Henry), 38.5192, -93.8464
+Petersville, 38.5872, -90.7467
+Pettys Hill, 38.5481, -90.5053
+Pevely, 38.2833, -90.3950
+Phelps, 37.1897, -93.9022
+Phelps City, 40.4033, -95.5983
+Phelps County Hospital, 37.9522, -91.7856
+Phenix, 37.3786, -93.5456
+Philadelphia, 39.8386, -91.7389
+Phillips Ford, 38.0614, -93.3231
+Phillipsburg, 37.5539, -92.7847
+Pickering, 40.4508, -94.8419
+Piedmont, 37.1544, -90.6956
+Pierce City, 36.9444, -94.0042
+Pierpont, 38.8622, -92.3147
+Pierre Laclede, 38.6333, -90.2500
+Pilgrim, 37.3575, -93.7753
+Pilot Grove, 38.8747, -92.9114
+Pilot Knob, 37.6211, -90.6403
+Pinckney, 38.6786, -91.2328
+Pine, 36.6167, -90.8167
+Pine City, 36.3825, -90.0239
+Pine Creek, 36.6833, -92.3167
+Pine Crest, 37.0919, -91.6586
+Pine Lawn, 38.6947, -90.2783
+Pine Ridge, 36.8372, -93.1131
+Pineville, 36.5944, -94.3839
+Piney Park, 38.3011, -90.9428
+Pinhook, 36.7389, -89.3100
+Pinkston, 39.6469, -94.8044
+Pioneer, 36.8358, -94.0547
+Piper, 38.3436, -94.0144
+Pippin Place, 37.8453, -92.2500
+Pisgah, 38.7764, -92.6492
+Pitcher, 38.7503, -91.9658
+Pittsburg, 37.8339, -93.3003
+Pittsville, 38.8506, -93.9900
+Plad, 37.7486, -92.9753
+Plainview(Macon), 39.9272, -92.5506
+Plainview(McDonald), 36.6650, -94.2958
+Plano, 37.1928, -93.5508
+Plato, 37.5036, -92.2247
+Platte City, 39.3703, -94.7822
+Platte Gardens, 39.3028, -94.6858
+Platte Woods, 39.2292, -94.6478
+Plattin, 38.1311, -90.4114
+Plattsburg, 39.5656, -94.4478
+Plaza(Jackson), 39.0500, -94.6000
+Plaza(St Louis City), 38.6333, -90.2500
+Pleasant Gap, 38.1728, -94.1819
+Pleasant Green, 38.8061, -92.9625
+Pleasant Grove, 38.8686, -92.5517
+Pleasant Hill, 38.7875, -94.2692
+Pleasant Hope, 37.4631, -93.2725
+Pleasant Ridge(Barry), 36.8964, -93.7914
+Pleasant Ridge(Bates), 38.1833, -94.0333
+Pleasant Valley(Clay), 39.2164, -94.4839
+Pleasant Valley(Jasper), 37.1547, -94.3422
+Plevna, 39.9736, -92.0861
+Plew, 37.1928, -94.0367
+Plum Ford, 38.2775, -90.9972
+Plum Valley, 37.3600, -92.0825
+Plummer, 38.5614, -92.3225
+Plymouth, 39.5967, -93.7017
+Pocahontas, 37.5011, -89.6389
+Pocohontas Crossing, 36.6853, -91.6867
+Point Lookout, 36.6167, -93.2333
+Point Pleasant, 36.4525, -89.5744
+Point Rest, 37.8161, -89.7125
+Polk, 37.7292, -93.2992
+Pollock, 40.3592, -93.0847
+Polo, 39.5522, -94.0406
+Pom-o-sa Heights, 38.1744, -93.3958
+Pomona, 36.8672, -91.9142
+Ponce deLeon, 36.8758, -93.3514
+Pond, 38.5803, -90.6561
+Pond Creek, 37.1333, -93.5667
+Ponder, 36.5839, -90.9889
+Pondfork, 36.7000, -92.7097
+Pontiac, 36.5156, -92.6036
+Poole Ford, 36.5736, -94.4169
+Poplar Bluff, 36.7569, -90.3928
+Port Hudson, 38.4539, -91.2539
+Portage, 36.4500, -89.7833
+Portage Des Sioux, 38.9250, -90.3442
+Portageville, 36.4253, -89.6994
+Porter, 37.0500, -93.3167
+Portia, 37.9083, -94.0747
+Portland, 38.7108, -91.7175
+Possum Trot, 36.9786, -93.4289
+Possum Walk, 40.4944, -95.0842
+Post Oak, 38.5689, -93.7508
+Postal, 38.8975, -93.0831
+Potosi, 37.9364, -90.7878
+Pottersville, 36.6958, -92.0311
+Potts, 38.4742, -91.7836
+Powe, 36.6592, -90.0967
+Powell, 36.6228, -94.1806
+Powellville, 37.8894, -92.0144
+Powersite, 36.6556, -93.1211
+Powersville, 40.5492, -93.3000
+Poynor, 36.5203, -90.9069
+Prairie City, 38.0789, -94.1744
+Prairie Hill, 39.5186, -92.7378
+Prairie Home, 38.8131, -92.5903
+Prairieville, 39.2667, -91.0000
+Prankford, 39.4931, -91.3189
+Prater, 38.4494, -90.7597
+Prathersville(Clay), 39.3125, -94.2722
+Prathersville(Boone), 39.0181, -92.3217
+Pratt, 36.5300, -90.8311
+Prescott, 37.4369, -91.9214
+Preston(Hickory), 37.9408, -93.2075
+Preston(Jasper), 37.2792, -94.3889
+Prettyman, 38.6267, -94.4314
+Price Landing, 37.0369, -89.3783
+Prices Branch, 38.9511, -91.3375
+Princeton, 40.4008, -93.5803
+Principia, 38.6167, -90.4333
+Progress, 38.6333, -90.2500
+Prospect, 37.3833, -92.8333
+Prospect Grove, 40.5264, -91.9819
+Prospect Hill, 38.7375, -90.2192
+Prosperine, 37.7928, -92.7661
+Prosperity, 37.1264, -94.4206
+Protem, 36.5289, -92.8586
+Providence(Boone), 38.8375, -92.4053
+Providence(Dunklin), 36.5164, -89.9717
+Pulaski, 36.6139, -90.7467
+Pulaskifield, 36.9333, -93.9167
+Pumpkin Center(Dallas), 37.7450, -93.0706
+Pumpkin Center(Nodaway), 40.2003, -94.8675
+Punkin Center, 39.2008, -92.5089
+Purcell, 37.2422, -94.4350
+Purdin, 39.9519, -93.1656
+Purdy, 36.8172, -93.9206
+Pure Air, 40.2333, -92.7167
+Purina Farm, 38.4833, -90.8167
+Purman, 36.5228, -90.7467
+Purvis, 38.1639, -92.8172
+Puxico, 36.9497, -90.1583
+Pyletown, 36.7247, -90.0186
+Pyrmont, 38.5089, -93.0194
+Quail, 36.8950, -93.5153
+Quaker, 37.7811, -91.0019
+Quarles, 38.4708, -93.7536
+Queen City, 40.4092, -92.5675
+Quick City, 38.5811, -94.0286
+Quincy, 38.0083, -93.4722
+Quitman, 40.3733, -95.0764
+Qulin, 36.5958, -90.2472
+Quote, 39.5392, -93.6831

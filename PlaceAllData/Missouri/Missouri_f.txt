@@ -1,0 +1,159 @@
+Fabius, 40.2886, -92.1378
+Fagus, 36.5114, -90.2669
+Fair Grounds, 38.6667, -90.2167
+Fair Grove, 37.3839, -93.1511
+Fair Haven, 37.9764, -94.1731
+Fair Play, 37.6300, -93.5731
+Fairdealing, 36.6628, -90.6167
+Fairfax, 40.3386, -95.3931
+Fairfield, 38.1514, -93.3942
+Fairleigh, 39.7833, -94.8000
+Fairmont, 40.3314, -91.9097
+Fairmount, 39.1106, -94.4628
+Fairmount Hospital, 39.0761, -94.5264
+Fairport, 39.9878, -94.3458
+Fairview(Newton), 36.8175, -94.0881
+Fairview(St Louis), 38.7333, -90.2500
+Fairview(Taney), 38.7333, -90.2500
+Fairview Acres, 37.8578, -90.5333
+Fairville, 39.2319, -93.2181
+Faith, 38.0544, -92.3975
+Faith Hospital, 38.6719, -90.2517
+Falcon, 37.6050, -92.3786
+Falling Spring, 36.8500, -91.2833
+Fanchon, 36.7950, -91.7003
+Fanning, 38.0372, -91.4697
+Farber, 39.2725, -91.5744
+Farewell, 36.5011, -91.3614
+Farley, 39.2822, -94.8311
+Farmer, 39.2572, -91.3092
+Farmers City, 40.5531, -95.4489
+Farmersville, 39.9608, -93.5417
+Farmington, 37.7808, -90.4217
+Faro, 37.4472, -90.4375
+Farrar, 37.7022, -89.6886
+Farrenburg, 36.6881, -89.5006
+Faucett, 39.6000, -94.7972
+Fayette, 39.1458, -92.6836
+Fayetteville, 38.8811, -93.7561
+Federal, 37.8419, -90.5047
+Federal Medical Center, 37.1781, -93.3247
+Federal Reserve, 39.0500, -94.5167
+Fegley, 40.2861, -92.6492
+Feigler Ferry, 38.5639, -91.6108
+Femme Osage, 38.6367, -90.9417
+Fenton, 38.5131, -90.4358
+Fenwick, 38.6697, -94.1050
+Ferguson, 38.7442, -90.3061
+Fermin Des Loge Hospital, 38.6228, -90.2386
+Fern Glen, 38.5519, -90.5314
+Fernridge, 38.6808, -90.4775
+Fernview Estates, 38.6667, -90.4333
+Ferrelview, 39.3111, -94.6647
+Fertile, 38.0739, -90.6856
+Festus, 38.2206, -90.3958
+Fiddlers Ford, 37.3839, -93.7989
+Fidelity, 37.0681, -94.3131
+Field, 38.6333, -90.2500
+Fields Creek, 38.4167, -93.7833
+Filley, 37.7589, -93.9489
+Fillmore, 40.0253, -94.9733
+Findley, 37.0167, -92.6833
+Finey, 38.2339, -93.5456
+Finley Falls, 37.1386, -92.8400
+Firma, 38.8892, -90.6758
+Fishertown, 37.0000, -91.3333
+Fisk, 36.7819, -90.2086
+Fisohel Hospital, 38.9675, -92.3394
+Five Mile, 36.9667, -94.5500
+Flag Spring, 38.0250, -91.6036
+Flag Springs, 40.0250, -94.6667
+Flamm City, 38.4169, -90.3567
+Flat, 37.7453, -91.9289
+Flat River, 37.8511, -90.5206
+Flatwood, 37.2211, -91.4475
+Flatwoods, 36.6806, -90.7003
+Fleming, 39.1992, -94.0653
+Flemington, 37.8047, -93.5011
+Fletchall, 40.5167, -94.4000
+Fletcher, 38.1658, -90.7333
+Flinn, 38.9581, -94.5492
+Flint Hill(St Charles), 38.8550, -90.8611
+Flint Hill(Ralls), 39.6239, -91.3831
+Flordell Hills, 38.7175, -90.2656
+Florence, 38.5889, -92.9789
+Florida, 39.4931, -91.7869
+Florissant, 38.7892, -90.3225
+Floyd, 39.1925, -94.1106
+Flucom, 38.1011, -90.4425
+Foil, 36.7561, -92.6353
+Foley, 39.0464, -90.7422
+Folk, 38.4214, -92.0978
+Folker, 40.5333, -91.8833
+Foose, 37.5614, -93.1464
+Forbes, 39.9028, -95.0825
+Ford City, 40.1117, -94.4644
+Fordham, 39.8300, -94.2703
+Fordland, 37.1575, -92.9406
+Forest City, 39.9825, -95.1917
+Forest Green, 39.3150, -92.8375
+Forest Mills, 37.1767, -94.2153
+Forest Park, 36.9333, -93.9167
+Forest Springs, 40.1861, -91.9550
+Foristell, 38.8150, -90.9558
+Forker, 39.7192, -93.1856
+Forkners Hill, 37.4728, -92.9089
+Fornfelt, 37.2167, -89.5167
+Forrest Mill, 37.1167, -94.1667
+Forsyth, 36.6850, -93.1197
+Fort Bellefontaine, 38.8361, -90.2419
+Fort Henry, 39.4636, -92.6075
+Fort Leonard Wood, 37.8333, -92.2000
+Fort Osage, 39.1500, -94.2333
+Fort Wyman Heights, 37.9500, -91.8000
+Fort Zumwalt, 38.8167, -90.7000
+Fortescue, 40.0522, -95.3181
+Fortuna, 38.5667, -92.7978
+Foster, 38.1661, -94.5072
+Fountain Grove, 39.7108, -93.3156
+Four Points, 37.9528, -91.0956
+Fourmile Corner, 38.5111, -91.0461
+Fowkes, 39.4831, -92.0714
+Fowler, 37.2333, -92.2164
+Fox Creek(Harrison), 40.2500, -93.8167
+Fox Creek(St Louis), 38.5711, -90.6889
+Fox Springs, 38.0086, -91.4592
+Frailie, 36.4181, -89.8172
+Frankclay, 37.8617, -90.6150
+Frankenstein, 38.5742, -91.8822
+Frankford, 39.4833, -91.3167
+Franklin, 39.0117, -92.7531
+Franks, 37.9528, -92.0367
+Frazier, 39.6289, -94.6675
+Fredericksburg, 38.6075, -91.6414
+Fredericktown, 37.5597, -90.2939
+Fredville, 36.9094, -94.4125
+Freeborn, 36.4333, -89.9833
+Freeburg, 38.3150, -91.9225
+Freedom(Osage), 38.9833, -93.6167
+Freedom(Cass), 38.4636, -91.6906
+Freeman, 38.6183, -94.5050
+Freeman Hospital, 37.0694, -94.5211
+Freistatt, 37.0183, -93.8975
+Fremont, 36.9522, -91.1642
+French Mills, 37.4558, -90.4892
+French Village, 37.9725, -90.3897
+Friedenburg, 37.7008, -89.7939
+Friedheim, 37.5700, -89.8200
+Frisbee, 36.3500, -90.0286
+Frisco, 36.7589, -89.8622
+Fristoe, 38.1167, -93.2756
+Frohna, 37.6386, -89.6214
+Frontenac, 38.6356, -90.4150
+Fruitland(Cape Girardeau), 37.4486, -89.6386
+Fruitland(Greene), 37.3892, -93.2333
+Frumet, 38.1594, -90.6931
+Fuersville, 38.3936, -91.6747
+Fulton, 38.8467, -91.9478
+Furner, 38.9175, -92.4000
+Fuson, 37.3322, -92.4983

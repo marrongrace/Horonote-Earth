@@ -1,0 +1,226 @@
+La Due, 38.3125, -93.8767
+La Font, 36.5000, -89.6500
+La Forge, 36.6714, -89.5256
+La Grange, 40.0428, -91.4975
+La Russell, 37.1414, -94.0614
+Labadie, 38.5289, -90.8500
+LaBelle, 40.1169, -91.9125
+Laclede, 39.7856, -93.1664
+Lacyville, 38.3972, -94.4822
+Laddonia, 39.2425, -91.6453
+Ladue, 38.6497, -90.3806
+Lafayette, 39.7000, -94.5333
+Laflin, 37.2769, -89.8883
+Lagonda, 39.6569, -92.7328
+Laguna Beach, 38.1303, -92.6514
+Lake, 38.6794, -90.5200
+Lake Adelle, 38.3500, -90.6500
+Lake Arrowhead, 38.3000, -90.8333
+Lake City, 39.1103, -94.2550
+Lake City Arsenal, 39.1000, -94.4333
+Lake Contrary, 39.7667, -94.8500
+Lake Creek, 38.5114, -93.1333
+Lake Fork, 38.4089, -91.7392
+Lake Junction, 38.6056, -90.3328
+Lake Lotawana, 38.9231, -94.2439
+Lake Ozark, 38.1986, -92.6386
+Lake Sherwood, 38.6333, -91.0500
+Lake Spring, 37.7825, -91.6786
+Lake Tapawingo, 39.0167, -94.3167
+Lake Tekakwitha, 38.4833, -90.7333
+Lake Viking, 39.9167, -93.9667
+Lake Waukomis, 39.2333, -94.6333
+Lake Winnebago, 38.8167, -94.3667
+Lake Wittona, 40.1167, -93.5833
+Lake-of-the-Woods, 40.1167, -93.5833
+Lakeland, 38.1833, -92.6333
+Lakenan, 39.6722, -91.9508
+Lakeshire, 38.5386, -90.3350
+Lakeside(Jasper), 37.1589, -94.4147
+Lakeside(Jefferson), 38.4333, -90.3833
+Lakeside(Miller), 38.2167, -92.6000
+Lakeside Hospital, 38.9681, -94.5744
+Lakeview(Miller), 38.2667, -92.6000
+Lakeview(Stone), 36.7500, -93.3833
+Lakeview Heights, 38.2589, -93.1561
+Lamar, 37.4950, -94.2764
+Lamar Heights, 37.4936, -94.2975
+Lambert, 37.1000, -89.5500
+Lamine, 38.9467, -92.8744
+LaMonte(Lamonte Station), 38.7742, -93.4244
+LaMotte, 39.5606, -91.1794
+Lampe, 36.5636, -93.4378
+Lanagan, 36.6081, -94.4475
+Lancaster, 40.5208, -92.5278
+Lanes Prairie, 38.1861, -91.7289
+Langdon, 40.3564, -95.5794
+Langston, 37.1811, -93.2439
+Lanton, 36.5172, -91.8014
+LaPlata, 40.0233, -92.4914
+Laquey, 37.7703, -92.3033
+Laredo, 40.0256, -93.4464
+Larimore, 38.7733, -90.2069
+Latham, 38.5608, -92.6822
+Latham Mill, 37.2850, -92.3889
+Lathrop, 39.5483, -94.3297
+Latour, 38.6344, -94.1019
+Latty, 37.9878, -90.8506
+Laubinger Ford, 38.3414, -91.2453
+Laurel Heights, 39.0000, -94.4667
+Laurie, 38.2000, -92.8333
+LaValle, 36.6753, -89.7736
+Lawrenceburg, 37.2444, -93.6600
+Lawrenceton, 37.9650, -90.3050
+Lawson, 39.4383, -94.2039
+Layneville, 37.4947, -94.0953
+Le Sieur, 36.4333, -89.6167
+Leachville Junction, 36.0464, -90.1097
+Lead Branch Junction, 37.9036, -91.3756
+Lead Hill, 36.9333, -92.9333
+Leadington, 37.8403, -90.4917
+Leadmine, 37.8367, -92.9619
+Leadwood, 37.8672, -90.5931
+Leann, 36.8128, -93.6900
+Leasburg, 38.0919, -91.2964
+Leawood, 37.0369, -94.4967
+Lebanon, 37.6806, -92.6636
+Lebeck, 37.8897, -93.9131
+Lebo, 36.5203, -91.9086
+Lecoma, 37.7761, -91.7308
+Lee, 39.3167, -94.8500
+Lee's Summit, 38.9108, -94.3819
+Leeds, 39.0558, -94.5083
+Leemon, 37.4642, -89.5883
+Leeper, 37.0750, -90.7078
+Leesville, 38.3483, -93.5453
+Leeton, 38.5831, -93.6944
+Leibig, 36.5486, -90.9514
+Leich Ford, 39.5092, -91.8339
+Lemay, 38.5333, -90.2869
+Lemons, 40.4056, -93.0494
+Lenox, 37.6531, -91.7611
+Lentner, 39.7186, -92.1478
+Leonard, 39.8964, -92.1783
+Leopold, 37.2578, -89.9264
+Leora, 37.0003, -90.0181
+Leota, 36.5314, -92.0375
+Leroy, 37.6000, -94.5500
+Leslie, 38.4178, -91.2319
+Lesterville, 37.4539, -90.8433
+Leta, 39.3706, -93.3283
+Levasy, 39.1356, -94.1328
+Levick Mill, 39.5761, -92.3464
+Lewis, 38.4353, -93.6914
+Lewis and Clark Village, 39.5431, -95.0525
+Lewis Mill, 39.2575, -92.8528
+Lewistown, 40.0861, -91.8131
+Lexington, 39.1847, -93.8797
+Liberal, 37.5581, -94.5197
+Liberty(Clay), 39.2461, -94.4189
+Liberty(Callaway), 38.6892, -91.9592
+Libertyville, 37.7036, -90.2881
+Lick, 38.9667, -92.7500
+Lick Creek, 36.5333, -92.3333
+Licking, 37.4994, -91.8569
+Liege, 39.0000, -91.3500
+Light, 38.0000, -91.6167
+Liguori, 38.3500, -90.4000
+Lilbourn, 36.5922, -89.6153
+Lilly, 39.4700, -94.4442
+Limberlost, 37.8069, -91.3592
+Limekiln Ford, 37.5011, -92.9683
+Lincoln, 38.3908, -93.3344
+Lincoln Beach, 38.5464, -90.5394
+Linda, 36.4108, -89.5469
+Lindale, 38.1533, -94.0436
+Lindbergh, 38.9558, -92.1281
+Linden(Atchison), 40.4864, -95.5372
+Linden(Christian), 37.0464, -93.1339
+Lindenlure Lake, 37.1167, -93.0667
+Lindley(Mercer), 40.5167, -93.7000
+Lindley(Sullivan), 40.0819, -93.3681
+Lindsey, 38.3167, -93.4000
+Lindstrew Ford, 37.2653, -92.9217
+Lingo, 39.7681, -92.8203
+Linkville, 39.3111, -94.6489
+Linn, 38.4858, -91.8503
+Linn Creek, 38.0381, -92.7114
+Linneus, 39.8786, -93.1886
+Lisbon, 39.1064, -92.9061
+Lisle, 38.5494, -94.5944
+Lithium, 37.8333, -89.8858
+Little Blue, 38.9908, -94.4122
+Little Prairie, 36.1500, -89.7167
+Little River, 36.3500, -89.8333
+Little Rock Landing, 38.0050, -90.0600
+Lively, 38.2103, -93.1078
+Livingston, 38.4078, -93.8106
+Livonia, 40.4914, -92.7000
+Lixville, 37.5769, -89.9117
+Locale, 38.3736, -90.6228
+Lockspring, 39.8489, -93.7772
+Lockwood, 37.3856, -93.9531
+Locust, 36.5636, -92.5422
+Locust Creek, 39.8833, -93.1667
+Locust Hill, 40.0258, -92.2756
+Lodi, 37.2564, -90.4528
+Loehr, 38.6150, -90.5411
+Log Cabin Station, 39.3000, -93.6833
+Logan, 37.0144, -93.6158
+Lohman, 38.5431, -92.3642
+Lohmer, 36.6664, -93.7086
+Loimbach Landing, 37.7003, -89.5506
+Lois, 38.1481, -91.7556
+Loma Linda, 36.7933, -90.4369
+Lone Elm(Jasper), 37.1142, -94.5253
+Lone Elm(Cooper), 38.8250, -92.7367
+Lone Hill, 36.7011, -90.5372
+Lone Jack, 38.8722, -94.1728
+Lone Oak, 38.2000, -94.3167
+Lone Star(Gentry), 40.3414, -94.2531
+Lone Star(New Madrid), 36.5153, -89.7367
+Lone Tree, 38.5722, -94.3608
+Lonedell, 38.3081, -90.8275
+Long Beach, 36.7072, -93.1297
+Long Lane, 37.6114, -92.9092
+Long Prairie, 36.8667, -89.4500
+Longrun, 36.6492, -92.7231
+Longtown, 37.6694, -89.7722
+Longview(McDonald), 36.7231, -94.2028
+Longview(Jackson), 38.9042, -94.4044
+Longwood, 38.8992, -93.1697
+Looney, 37.4667, -93.3833
+Loose Creek, 38.5081, -91.9572
+Lopez, 37.6519, -90.6464
+Lorance, 37.3000, -89.9833
+Loring, 37.3447, -92.5744
+Lorwood, 36.6094, -89.8558
+Lost Creek, 37.0333, -90.2833
+Lost Creek Landing, 37.0222, -90.3064
+Loughboro, 37.7783, -90.5219
+Louisburg, 37.7578, -93.1392
+Louisiana, 39.4489, -91.0514
+Louisville, 39.1997, -91.1744
+Low Gap, 36.8669, -93.1047
+Low Wassie, 36.9886, -91.2581
+Lowground, 40.3739, -92.7353
+Lowndes, 37.1489, -90.2633
+Lowry City, 38.1400, -93.7267
+Lucas, 38.4164, -94.0286
+Lucas and Hunt Village, 38.7167, -90.3000
+Lucerne, 40.4639, -93.2919
+Ludlow, 39.6550, -93.7019
+Ludwig, 38.2350, -90.4203
+Luebbering, 38.2703, -90.8192
+Lulu, 36.7000, -91.4000
+Luna, 36.6519, -92.3056
+Lupus, 38.8461, -92.4531
+Luray, 40.4531, -91.8817
+Lusk, 37.0322, -89.3817
+Lutesville, 37.3003, -89.9811
+Lutheran Hospital, 38.5903, -90.2269
+Luystown, 38.5581, -91.8339
+Lyda, 39.9167, -92.4500
+Lynch, 37.4333, -92.0167
+Lynchburg, 37.4931, -92.2942
+Lyon, 38.5117, -91.1739

@@ -1,0 +1,181 @@
+Racine, 36.8961, -94.5272
+Racket, 38.2933, -93.4919
+Racola, 38.0325, -90.7567
+Radar(Marien), 38.1833, -91.9500
+Rader(Webster), 37.4603, -92.7189
+Ralls, 39.6836, -91.4014
+Ralphwhite Ford, 37.8333, -92.8664
+Randles, 37.1378, -89.7675
+Randol, 37.4000, -89.5333
+Randolph, 39.1578, -94.4953
+Randolph Springs, 39.4239, -92.6050
+Raney, 37.9519, -93.7286
+Ranken, 38.5347, -90.5119
+Rapinsville, 38.0672, -94.2267
+Rat, 37.3725, -91.2275
+Ratcliff Ford, 37.0561, -91.6842
+Ravanna, 40.4550, -93.4653
+Ravena, 39.2167, -94.4667
+Ravena Gardens, 39.2167, -94.4667
+Ravenwood, 40.3522, -94.6736
+Rayborn, 37.3044, -92.3575
+Raymondville, 37.3397, -91.8339
+Raymore, 38.8019, -94.4525
+Raytown, 39.0086, -94.4633
+Rayville, 39.3483, -94.0628
+Rea, 40.0619, -94.7644
+Reading, 39.4914, -91.1322
+Readsville, 38.8044, -91.7189
+Rector, 37.4069, -91.5094
+Red Bank, 36.9383, -92.8106
+Red Bridge, 38.9269, -94.5756
+Red Oak, 37.2286, -94.0111
+Red Onion, 35.9961, -90.3422
+Red Top, 37.2997, -93.0103
+Redbird, 38.1817, -91.5703
+Redd, 36.8478, -90.0606
+Reddish, 40.2333, -91.7667
+Redford, 37.3200, -90.8983
+Redings Mill, 37.0217, -94.5219
+Redman, 39.8656, -92.3367
+Redmondville, 37.6256, -90.9692
+Redtop, 37.5036, -93.1439
+Reeds, 37.1161, -94.1656
+Reeds Spring, 36.7497, -93.3778
+Reform, 38.7653, -91.7789
+Regal, 39.4675, -93.8144
+Reger, 40.1439, -93.1925
+Regina, 38.3264, -90.5919
+Renick, 39.3428, -92.4136
+Rensselaer, 39.6706, -91.5478
+Republic, 37.1200, -93.4800
+Rescue, 37.1917, -93.9786
+Revere, 40.4950, -91.6775
+Revisville, 36.8831, -93.6478
+Reynolds, 37.4008, -91.0733
+Reynolds Ford, 37.4278, -89.8361
+Rhineland, 38.7175, -91.5172
+Rhyse, 37.5692, -91.6861
+Rices Corner, 39.2014, -91.5647
+Rich Fountain, 38.3958, -91.8797
+Rich Hill, 38.0964, -94.3608
+Richards, 37.9072, -94.5569
+Richards-Gebaur A F B, 38.9000, -94.5333
+Richie, 39.6608, -94.8136
+Richland, 37.8567, -92.4050
+Richmond, 39.2786, -93.9767
+Richmond Heights, 38.6286, -90.3194
+Richville(Holt), 39.9897, -95.0475
+Richville(Douglas), 36.8403, -92.2392
+Richwood, 36.7000, -94.1167
+Richwoods, 38.1603, -90.8281
+Ridge, 39.4833, -93.3667
+Ridge Prairie, 38.9556, -93.0681
+Ridgedale, 36.5039, -93.2236
+Ridgeley, 39.4558, -94.6381
+Ridgeway, 40.3781, -93.9367
+Ridgley, 36.6972, -94.0200
+Riggs, 39.1711, -92.3453
+Rimby, 37.7600, -93.2364
+Rinehart, 37.9561, -94.4983
+Rington, 35.9978, -90.1853
+Ripley, 39.1342, -94.3144
+Risco, 36.5533, -89.8178
+Ristine, 36.6489, -89.5481
+Ritchey, 36.9442, -94.1847
+Ritter, 37.2636, -93.3836
+River aux Vases, 37.8722, -90.1128
+River Bend Estates, 38.6167, -90.5833
+Riverdale, 36.9953, -93.2897
+Rivermines, 37.8483, -90.5311
+Riverside(Dunklin), 36.0425, -90.3372
+Riverside(Jefferson), 38.2867, -90.3800
+Riverside(Platte), 39.1775, -94.6128
+Riverside Inn, 36.5672, -94.4283
+Riverton, 36.6483, -91.2014
+Riverview(Morgan), 38.2758, -93.0694
+Riverview(St Louis), 38.7478, -90.2114
+Rives, 36.0936, -90.0133
+Roach, 37.9939, -92.8361
+Roads, 39.4667, -93.7011
+Roanoke, 39.3169, -92.6886
+Roaring River, 36.5500, -93.7500
+Roark, 38.6500, -91.4667
+Robberson, 37.3500, -93.3333
+Robbins, 38.9064, -93.8078
+Robertson, 38.7642, -90.3819
+Robertsville, 38.4147, -90.8139
+Roblee, 39.3794, -90.9414
+Roby, 37.5156, -92.1389
+Rocheport, 38.9800, -92.5639
+Rochester, 39.9122, -94.6844
+Rock, 38.4333, -90.4167
+Rock Creek, 38.4397, -90.4975
+Rock Creek Junction, 39.1136, -94.4794
+Rock Ford, 38.3231, -91.2564
+Rock Hill, 38.6075, -90.3783
+Rock Prairie(Dade), 37.3333, -93.6833
+Rock Prairie(Polk), 37.4831, -93.2025
+Rock Springs, 37.7564, -90.4833
+Rockaway Beach, 36.6992, -93.1597
+Rockbridge, 36.7894, -92.4089
+Rockford, 39.3464, -92.9142
+Rockford Beach, 38.4219, -90.5900
+Rockingham, 39.3567, -93.7822
+Rockport, 40.4100, -95.5144
+Rockview, 37.2022, -89.6394
+Rockville, 38.0714, -94.0794
+Rocky Comfort, 36.7464, -94.0903
+Rocky Ford, 38.0358, -94.1944
+Rocky Fork, 39.0833, -92.2500
+Rocky Mount, 38.2947, -92.6975
+Rocky Ridge, 37.8833, -90.2167
+Rodger Ford, 37.9594, -92.8322
+Rogersville, 37.1169, -93.0556
+Rolla, 37.9514, -91.7711
+Romance, 36.7169, -92.5025
+Rombauer, 36.8431, -90.2800
+Rome, 36.8414, -92.7733
+Rondo, 37.7661, -93.4497
+Roosevelt, 36.8306, -92.1233
+Roosterville, 39.2953, -94.4364
+Rosati, 38.0269, -91.5308
+Roscoe, 37.9728, -93.8119
+Rose Hill, 38.6328, -94.0689
+Rosebud, 38.3872, -91.4008
+Roseland, 38.3933, -93.5422
+Roselle, 37.5994, -90.5258
+Rosendale, 40.0444, -94.8206
+Rosewood, 40.4250, -92.9228
+Ross Bridge, 37.6658, -92.0483
+Rossville, 36.7331, -90.2464
+Rothville, 39.6533, -93.0639
+Roubidoux, 37.4225, -92.1478
+Round Bottom Ford, 38.0300, -93.3378
+Round Grove, 37.2667, -93.9050
+Round Prairie, 38.8167, -92.0833
+Round Spring, 37.2806, -91.4111
+Rousertown, 37.7031, -94.2347
+Rover, 36.7217, -91.6208
+Rowena, 39.3258, -92.0575
+Roy, 36.8903, -92.8036
+Royal, 38.1281, -91.5797
+Royal Heights, 37.0667, -94.5000
+Ruble, 37.1483, -90.8961
+Rucker(Bates), 38.1739, -94.5303
+Rucker(Boone), 39.2314, -92.4133
+Rueter, 36.6083, -92.8689
+Rum Branch, 37.1575, -89.8525
+Rush, 39.5667, -95.0333
+Rush Hill, 39.2100, -91.7214
+Rush Tower, 38.2167, -90.4000
+Rushville, 39.5867, -95.0258
+Ruskin, 38.9228, -94.5136
+Ruskin Heights, 38.9214, -94.5050
+Russ, 37.5839, -92.5858
+Russellville(Cole), 38.5117, -92.4400
+Russellville(Ray), 39.4067, -93.8300
+Ruth, 36.7500, -93.3667
+Rutledge, 40.3136, -92.0881
+Ryder, 39.3047, -92.4375
+Ryors, 38.4825, -91.6981

@@ -1,0 +1,144 @@
+Eagle, 39.8167, -92.4500
+Eagle Rock, 36.5481, -93.7542
+Eaglette, 37.0356, -90.0394
+Eagleville, 40.4692, -93.9869
+Earl, 38.9311, -92.0611
+Earnestville, 37.5603, -92.8919
+Easley(Boone), 38.8017, -92.3758
+Easley(Macon), 40.0000, -92.6833
+East Benton, 37.0667, -92.9500
+East Bonne Terre, 37.9211, -90.5275
+East Boone, 38.4333, -94.4500
+East Dallas, 37.2000, -92.9000
+East End, 37.6753, -91.0336
+East Fulton, 38.8333, -91.9000
+East Independence, 39.0956, -94.3550
+East James, 36.6167, -93.3667
+East Kansas City, 39.1667, -94.5000
+East Kirkwood, 38.6167, -90.3500
+East Leavenworth, 39.3144, -94.8517
+East Lynne, 38.6683, -94.2292
+East Mexico, 39.1667, -91.8667
+East Prairie, 36.7797, -89.3856
+East Purdy, 36.8153, -93.8783
+East Trenton Lake, 40.1167, -93.5833
+Easton, 39.7222, -94.6414
+Eastville, 38.9525, -92.0319
+Eastwood, 36.8908, -91.0328
+Ebenezer, 37.3403, -93.3069
+Eccles, 39.4892, -92.8686
+Echo Lake Ranch, 38.4544, -90.5794
+Economy, 39.8892, -92.4206
+Ectonville, 39.3678, -94.4778
+Edgar Springs, 37.7044, -91.8664
+Edgehill, 37.5883, -90.9333
+Edgerton, 39.5050, -94.6331
+Edgerton Junction, 39.4775, -94.6747
+Edgewater Beach, 36.6614, -93.1417
+Edgewood, 39.2717, -91.0747
+Edina, 40.1675, -92.1725
+Edinburg, 40.0814, -93.6936
+Edmonson, 38.3094, -93.2239
+Edmundson, 38.7358, -90.3639
+Edwards, 38.1367, -93.1694
+Egypt, 39.3000, -93.7000
+Egypt Grove, 36.6142, -92.0308
+Egypt Mills, 37.4050, -89.4636
+Elaver, 37.9686, -91.2783
+Eldon, 38.3483, -92.5814
+Eldorado Springs, 37.8769, -94.0211
+Eldridge, 37.8297, -92.7489
+Elijah, 36.6117, -92.1489
+Elk, 36.7000, -89.8167
+Elk Creek(Texas), 37.1889, -91.9969
+Elk Creek(Wright), 37.4167, -92.4667
+Elk Fork, 38.6833, -93.4500
+Elk River, 36.5500, -94.5000
+Elk Springs, 36.5836, -94.4561
+Elkhart, 38.3500, -94.4500
+Elkhead, 37.0136, -92.9303
+Elkhorn, 39.3092, -94.1125
+Elkhurst, 38.8325, -92.2519
+Elkland, 37.4431, -93.0308
+Elko, 40.4150, -92.8647
+Elkton, 37.8525, -93.4258
+Ellendale, 38.6131, -90.3122
+Ellenorah, 40.3386, -94.3317
+Elliff, 36.6978, -94.4322
+Ellington, 37.2417, -90.9686
+Elliot Ford, 36.6625, -91.6222
+Elliott, 37.0428, -93.7475
+Ellis, 37.8247, -94.4483
+Ellis Prairie, 37.4133, -92.0394
+Ellisville, 38.5925, -90.5869
+Ellsinore, 36.9342, -90.7467
+Elm(Johnson), 38.8533, -94.0422
+Elm(Putnam), 40.4167, -92.7667
+Elm Point, 38.8181, -90.4869
+Elmdale Village, 38.7000, -90.3667
+Elmer, 39.9569, -92.6503
+Elmhurst Rest Home, 37.1578, -94.4900
+Elmira, 39.5072, -94.1544
+Elmira Camp, 39.4964, -94.1575
+Elmo, 40.5183, -95.1153
+Elmont, 38.2356, -91.2425
+Elmwood(Pike), 39.4328, -91.0683
+Elmwood(Saline), 39.0686, -93.4328
+Elsberry, 39.1667, -90.7808
+Elsey, 36.8542, -93.5406
+Elston, 38.6128, -92.3250
+Elvins, 37.8367, -90.5328
+Elwood, 37.2281, -93.4311
+Ely, 39.6917, -91.6331
+Embree, 37.4122, -92.2567
+Emden, 39.7964, -91.8628
+Emerson, 39.8894, -91.6975
+Eminence, 37.1506, -91.3575
+Emma, 38.9717, -93.4944
+Empire, 40.0000, -94.6833
+Empire Prairie, 40.0831, -94.6389
+Englewood(Boone), 38.8217, -92.1842
+Englewood(Jackson), 39.0869, -94.4558
+Enon(Moniteau), 38.4569, -92.4894
+Enon(St Charles), 38.8631, -90.8311
+Enough, 37.7072, -90.9167
+Enterprise(Shelby), 39.6489, -92.2600
+Enterprise(Linn), 40.0244, -93.0850
+Enyart, 40.3622, -94.5478
+Eolia, 39.2358, -91.0081
+Epps, 36.8167, -90.5500
+Epworth, 39.8942, -92.0942
+Equality, 38.2500, -92.5000
+Erie, 36.7278, -94.3631
+Ernest, 37.4833, -93.9333
+Ernestville, 38.9322, -93.6300
+Essex, 36.8125, -89.8614
+Estes, 39.2367, -91.3761
+Esther, 37.8503, -90.4986
+Estill, 39.0483, -92.7442
+Ethel, 39.8947, -92.7378
+Ethlyn, 38.9408, -90.8258
+Etlah, 38.6392, -91.2764
+Etna, 40.4175, -91.9792
+Eton, 39.1708, -94.3472
+Etterville, 38.3675, -92.4700
+Eudora, 37.4825, -93.5375
+Eugene, 38.3528, -92.4036
+Eunice, 37.2450, -91.7794
+Eureka, 38.5025, -90.6278
+Europa, 36.0900, -90.1775
+Evans, 36.8958, -92.4406
+Evansville(Buchanan), 39.6961, -94.7203
+Evansville(Monroe), 39.4497, -92.3022
+Eve, 37.8397, -94.5833
+Evening Shade, 37.5756, -92.1414
+Everett, 38.5044, -94.4269
+Eversonville, 39.9089, -93.3597
+Everton, 37.3425, -93.7022
+Evona, 40.1978, -94.3289
+Ewing, 40.0061, -91.7136
+Excello, 39.6361, -92.4753
+Excelsior, 38.4775, -92.7219
+Excelsior Springs, 39.3392, -94.2258
+Excelsior Springs Junction, 39.2378, -94.2403
+Exeter, 36.6722, -93.9408

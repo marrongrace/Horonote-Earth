@@ -1,0 +1,157 @@
+Dadeville, 37.4803, -93.6736
+Daggetts Ford, 38.3247, -91.8478
+Daisy, 37.5236, -89.7931
+Dale(Stoddard), 36.8800, -90.2425
+Dale(Atkison), 40.3333, -95.2667
+Dallas, 38.9397, -94.6028
+Dallion Ford, 37.6861, -92.9886
+Dalton, 39.3975, -92.9897
+Damascus, 38.0000, -93.6333
+Dameron, 39.2181, -90.8003
+Damsel, 38.1097, -92.6900
+Danby, 38.1092, -90.3075
+Danforth, 40.2414, -92.7339
+Danville, 38.9106, -91.5347
+Dardenne, 38.7658, -90.7561
+Darien, 37.5200, -91.5922
+Daris Crossing, 37.8667, -90.5167
+Darksville, 39.5525, -92.5822
+Darlington, 40.1983, -94.3958
+Date, 37.1000, -91.7167
+Daugherty, 38.6036, -94.2814
+Davis(Lincoln), 39.0581, -91.0194
+Davis(St Francois), 37.8217, -90.5911
+Davis Ford, 38.0714, -91.8244
+Davis Store, 36.6667, -90.2500
+Davisville, 37.8078, -91.1850
+Dawn, 39.6683, -93.6353
+Dawson, 37.2569, -92.3078
+Dawsonville, 40.4644, -95.0992
+Dawt, 36.6100, -92.2767
+Dawt Mill, 36.6097, -92.2781
+Day, 36.8131, -93.2436
+Dayton, 38.4853, -94.1936
+Daytown, 37.8592, -90.5814
+De Kalb, 39.5869, -94.9250
+De Lassus, 37.7644, -90.4556
+Deaconess Hospital, 38.6303, -90.2883
+Dean, 39.8711, -94.8317
+Dean Ford(Phelps), 37.9214, -91.6408
+Dean Ford(Vernon), 37.8811, -94.3881
+Dearborn, 39.5219, -94.7697
+Decatur, 38.4525, -92.4197
+Decaturville, 37.9075, -92.6997
+Dederick, 37.8572, -94.1275
+Deep Ford, 36.6097, -94.3511
+Deepwater, 38.2606, -93.7728
+Deer, 38.6219, -91.7967
+Deer Land, 36.1614, -90.0042
+Deer Park, 38.8614, -92.2500
+Deer Ridge, 40.2128, -91.8956
+Deerfield, 37.8386, -94.5058
+Deering, 36.1908, -89.8828
+Deering Junction, 36.1900, -89.9053
+Defiance, 38.6322, -90.7783
+Deicke, 38.5167, -90.6500
+Deimar, 38.3567, -93.9419
+Delaney, 39.6417, -94.4514
+Delaware, 37.1033, -91.4081
+Delbridge, 37.7947, -90.9867
+Dell, 38.1719, -93.3086
+Dell Junction, 38.1744, -93.3181
+Dellwood, 38.7494, -90.2856
+Delmar(Henry), 38.3833, -93.7667
+Delmar(Laclede), 37.7825, -92.5500
+Delmo, 36.8103, -89.6811
+Delta, 37.1967, -89.7361
+Denlow, 36.9808, -92.3733
+Dennis Acres, 37.0467, -94.5053
+Dent, 37.6667, -91.0667
+Dent Ford, 37.7008, -91.4464
+Denton(Johnson), 38.6133, -93.9289
+Denton(Pemiscot), 36.0897, -89.8914
+Denver, 40.3972, -94.3225
+DePaul Hospital, 38.6683, -90.2589
+Derby, 37.8250, -90.5386
+Derrahs, 40.2231, -91.6639
+Des Arc, 37.2825, -90.6372
+Des Moines, 40.4167, -91.5500
+Des Peres, 38.6008, -90.4328
+Desloge, 37.8728, -90.5278
+DeSoto, 38.1394, -90.5550
+Dessa, 36.8069, -94.5214
+Detmold, 38.5428, -91.2903
+Deventer, 36.8222, -89.2117
+Devils Elbow, 37.8458, -92.0636
+DeWitt, 39.3844, -93.2208
+Dexter, 36.7958, -89.9578
+Diamond, 36.9953, -94.3158
+Dickens, 36.7275, -93.0472
+Dickerson, 40.1000, -91.6500
+Diehlstadt, 36.9583, -89.4308
+Diggins, 37.1725, -92.8542
+Dilday Mill, 37.3253, -93.7806
+Dillard, 37.7367, -91.2042
+Dillman, 36.1847, -90.1047
+Dillon, 37.9719, -91.6978
+Dissen, 38.5597, -91.2758
+Dittmer, 38.3356, -90.6881
+Dixie, 38.7189, -92.0092
+Dixon, 37.9917, -92.0936
+Dockery, 39.3611, -93.9883
+Doctors Hospital, 39.0811, -94.5778
+Dodds, 36.6019, -89.6739
+Dodson, 38.9750, -94.5528
+Doe Run, 37.7428, -90.4975
+Dogwood(Mississippi), 36.8253, -89.4536
+Dogwood(Douglas), 37.0378, -92.8308
+Dolan, 38.6167, -94.5000
+Dongola, 37.1681, -89.9597
+Doniphan, 36.6208, -90.8233
+Doolittle, 37.9403, -91.8808
+Dora, 36.7769, -92.2172
+Dorena, 36.6161, -89.2372
+Dorena Landing, 36.5842, -89.2172
+Doss, 37.5761, -91.4847
+Dove, 37.7908, -92.6825
+Dover(Lafayette), 39.1933, -93.6875
+Dover(Lewis), 40.0122, -91.5961
+Dover Station, 39.2081, -93.6989
+Downing, 40.4875, -92.3692
+Doyal, 37.9667, -93.6833
+Doylesport, 37.6000, -94.2167
+Drake, 38.4683, -91.4644
+Dresden, 38.7511, -93.3347
+Drew, 37.5481, -92.4681
+Drewel Ford, 38.3992, -91.6383
+Drexel, 38.4794, -94.6083
+Dripping Spring, 38.9667, -92.2167
+Drum, 37.1886, -89.8936
+Drury, 36.9300, -92.3225
+Dry Valley, 37.0250, -94.0414
+Drynob, 37.6417, -92.4503
+Drywood, 37.7000, -94.3333
+Duck Creek, 36.8833, -90.1500
+Dudenville, 37.3056, -94.0831
+Dudley, 36.7886, -90.0931
+Duenweg, 37.0836, -94.4133
+Dugginsville, 36.5097, -92.6953
+Duke, 37.6603, -92.0106
+Dun(Impo P O), 37.1411, -92.1903
+Duncan(Webster), 37.2817, -92.6917
+Duncan(Sullivan), 40.0833, -93.1833
+Duncans Bridge, 39.5756, -92.2636
+Dundee, 38.5933, -91.1244
+Dunksburg, 38.8992, -93.4975
+Dunlap, 40.1083, -93.4822
+Dunn, 37.1333, -92.2667
+Dunnegan, 37.7081, -93.5767
+Duquesne, 37.0767, -94.4592
+Durbin, 37.3758, -92.5014
+Durham, 39.9761, -91.6678
+Durnell, 37.0167, -89.8167
+Dutchtown, 37.2528, -89.6597
+Dutzow, 38.6056, -90.9944
+Duval, 37.3000, -94.4500
+Dye, 39.4850, -94.9286
+Dykes, 37.3336, -92.1156

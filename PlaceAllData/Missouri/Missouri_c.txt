@@ -1,0 +1,367 @@
+Cabanne, 38.6333, -90.2500
+Cabool, 37.1239, -92.1011
+Caddo, 37.3419, -93.0469
+Cadet, 37.9875, -90.6883
+Caffeyville, 37.6019, -92.7122
+Cainsville, 40.4383, -93.7761
+Cairo, 39.5119, -92.4403
+Caldwell, 38.7167, -92.0000
+Caledonia, 37.7633, -90.7728
+Calhoun, 38.4672, -93.6261
+California, 38.6275, -92.5664
+Caligoa, 36.6014, -90.1503
+Callao, 39.7608, -92.6231
+Callaway, 38.7500, -90.8667
+Calm, 36.5517, -91.1617
+Calumet, 39.3269, -91.0119
+Calverton Park, 38.7647, -90.3136
+Calvey, 38.4000, -90.7833
+Calwood, 38.9203, -91.8525
+Cambridge, 39.2578, -92.9486
+Camden, 39.1972, -94.0228
+Camden Junction, 39.1917, -94.0386
+Camden Point, 39.4528, -94.7414
+Camdenton, 38.0081, -92.7444
+Camdenton Medical Center, 38.0281, -92.7678
+Cameron, 39.7403, -94.2408
+Camp Clark, 37.8500, -94.3500
+Camp Lakewood, 37.9483, -90.9303
+Camp Wyman, 38.5239, -90.6681
+Campbell, 36.4933, -90.0750
+Campbellton, 38.5400, -91.1606
+Canaan, 38.3122, -91.5589
+Canalou, 36.7550, -89.6869
+Cane Creek, 36.8833, -90.5833
+Cane Hill, 37.5789, -93.7314
+Caney Creek, 37.1294, -89.6875
+Cannon Mines, 38.0533, -90.6981
+Canton, 40.1250, -91.6250
+Cantwell, 37.8725, -90.5117
+Cap au Gris, 38.9989, -90.6917
+Cape Fair, 36.7300, -93.5100
+Cape Girardeau, 37.3058, -89.5181
+Caplinger Mills, 37.7942, -93.8042
+Cappeln, 38.6842, -90.9389
+Capps, 38.2422, -92.3208
+Capps Creek, 36.9000, -94.0167
+Carbon Center, 38.0461, -94.3217
+Cardinal Acres, 37.0553, -91.6683
+Cardwell, 36.0469, -90.2928
+Cardy, 40.0017, -92.5953
+Carl Junction, 37.1767, -94.5653
+Carlow, 39.8808, -93.8322
+Carmack, 40.2408, -94.4258
+Carns Ford, 37.5636, -93.6983
+Carola, 36.5517, -90.3358
+Carondelet, 38.5561, -90.2658
+Carr, 38.8000, -90.3333
+Carr Lane, 36.5078, -93.5656
+Carrington, 38.8081, -92.0594
+Carrol Junction, 37.7386, -92.6017
+Carrollton, 39.3583, -93.4956
+Carsonville, 38.7167, -90.3000
+Carter, 36.9833, -91.0167
+Carterville, 37.1492, -94.4428
+Carthage, 37.1764, -94.3100
+Caruth, 36.1342, -90.0867
+Caruthersville, 36.1931, -89.6556
+Carytown, 37.2661, -94.3092
+Cascade, 37.2994, -90.2692
+Case, 38.7350, -91.3739
+Casey Ford, 37.5942, -92.3597
+Caseyville, 38.2053, -91.0797
+Cash, 39.8589, -92.6339
+Cassidy, 37.0675, -93.2461
+Cassville, 36.6769, -93.8686
+Castle Point, 38.7333, -90.2500
+Castle Rock, 37.0667, -94.5000
+Castlewood, 38.5500, -90.5536
+Catawissa, 38.4247, -90.7825
+Catherine, 37.5500, -90.2833
+Cato, 36.7208, -93.6800
+Catron, 36.6114, -89.7031
+Caulfield, 36.6144, -92.1047
+Cave Spring, 37.3514, -93.4633
+Caverna, 36.4992, -94.2661
+Cawood, 40.1128, -94.7494
+Cazzell, 39.3069, -92.9419
+Cedar Bluff(Oregon), 36.5500, -91.1500
+Cedar Bluff(St Louis), 38.5411, -90.5714
+Cedar City, 38.5972, -92.1794
+Cedar County Memorial Hospital, 37.8603, -94.0178
+Cedar Creek, 36.5789, -92.9975
+Cedar Ford, 37.8947, -91.4797
+Cedar Gap, 37.1056, -92.6694
+Cedar Hill, 38.3500, -90.6500
+Cedar Hill Lakes, 38.3500, -90.6500
+Cedar Ridge, 37.6000, -92.9833
+Cedar Springs, 37.8736, -93.8933
+Cedar Valley, 36.7669, -90.4531
+Cedar Vista, 37.5258, -93.3700
+Cedargrove, 37.4186, -91.6069
+Cedarville, 37.5744, -93.9842
+Celt, 37.8758, -92.9014
+Cement City, 39.1447, -94.4167
+Centaur, 38.6444, -90.6989
+Center, 39.5081, -91.5286
+Centertown, 38.6186, -92.4122
+Centerview, 38.7442, -93.8450
+Centerville, 37.4350, -90.9583
+Central(Jackson), 39.0500, -94.5167
+Central(St Louis City), 38.6333, -90.2500
+Central City, 37.0856, -94.5833
+Central Hospital, 38.6492, -90.2547
+Centralia, 39.2103, -92.1378
+Centropolis, 39.0897, -94.4942
+Chadwick, 36.9333, -93.0500
+Chaffee, 37.1800, -89.6550
+Chain of Rocks, 38.9150, -90.8014
+Chalk Level, 38.0933, -93.8094
+Chambersburg, 40.5239, -91.7992
+Chamois, 38.6753, -91.7694
+Champ, 38.7414, -90.4450
+Champion, 36.9314, -92.3908
+Champion City, 38.3194, -91.2703
+Chandler, 39.3003, -94.3825
+Channel, 36.0597, -89.9408
+Chaonia Landing Recreation Area, 36.9731, -90.3600
+Chapel(Howell), 36.9333, -91.7167
+Chapel(Putnam), 40.5406, -92.7294
+Chapel Hill, 38.9175, -94.0581
+Chapin, 36.6906, -91.7714
+Chariton, 40.5703, -92.7811
+Charity, 37.5153, -93.0161
+Charlack, 38.7025, -90.3433
+Charles Nagel, 38.6667, -90.2500
+Charleston, 36.9208, -89.3506
+Charlotte(), 38.2667, -94.4667
+Charrette(), 38.6500, -91.0833
+Charter Oak, 36.7153, -89.7197
+Cherokee Pass, 37.5333, -90.3167
+Cherry Box, 39.9247, -92.2350
+Cherry Valley, 39.2500, -93.7167
+Cherry Valley Estates, 37.1833, -93.2833
+Cherryville, 37.8519, -91.2767
+Chesapeake, 37.1169, -93.6814
+Chesterfield, 38.6631, -90.5769
+Chestnutridge, 36.8367, -93.2517
+Chicopee, 36.9850, -91.0056
+Childrens Hospital, 39.1069, -94.5603
+Chilhowee, 38.5889, -93.8542
+Chillicothe, 39.7953, -93.5522
+Chilton, 36.9331, -90.9214
+Chitwood, 37.0889, -94.5486
+Chloe, 38.1842, -93.7331
+Chloride, 37.4606, -90.6869
+Chouteau(Clay), 39.2000, -94.4667
+Chouteau(St Louis City), 38.6167, -90.2667
+Chouteau Springs, 38.9250, -92.8947
+Christian Bechtold, 38.6000, -90.2333
+Christian Center, 36.9408, -93.1667
+Christian Hospital(St Louis), 38.7800, -90.3358
+Christian Hospital(St Louis City), 38.6783, -90.2308
+Christopher, 36.7986, -94.2894
+Chula, 39.9217, -93.4742
+Cincinnati, 39.5633, -91.5942
+Cinque Hommes, 37.6500, -89.8500
+Circle City, 36.8567, -89.8022
+Civic Center, 39.1000, -94.5667
+Civil Bend, 39.9972, -94.1000
+Clair, 39.7786, -94.7264
+Clapper, 39.5900, -91.8450
+Clara, 37.2997, -92.0211
+Clarence, 39.7419, -92.2583
+Clark, 39.2811, -92.3425
+Clark City, 40.4208, -91.6814
+Clark Ford, 37.5214, -92.3911
+Clark Fork, 38.8500, -92.7000
+Clarks Fork, 38.8869, -92.6525
+Clarksburg, 38.6592, -92.6633
+Clarksdale, 39.8136, -94.5503
+Clarkson Valley, 38.6183, -90.5892
+Clarksville, 39.3706, -90.9050
+Clarkton, 36.4517, -89.9669
+Claryville, 37.8922, -89.8289
+Claud, 37.8133, -93.7117
+Clay, 40.2275, -92.4522
+Claycomo, 39.2025, -94.4922
+Claysville, 38.6614, -92.2592
+Clayton, 38.6425, -90.3236
+Clear Creek, 38.8333, -92.9333
+Clear Spring, 37.0000, -91.0167
+Clear Springs, 37.0961, -91.8531
+Clearmont, 40.5097, -95.0319
+Clearwater, 37.7667, -90.1333
+Cleavesville, 38.2728, -91.6017
+Clement, 38.0569, -90.1653
+Clementine, 37.8764, -92.0172
+Cleopatra, 40.5486, -93.4042
+Cleveland, 38.6792, -94.5933
+Clever, 37.0303, -93.4728
+Cliff, 37.1686, -89.7883
+Cliff Cave, 38.4617, -90.2875
+Cliff Village, 37.0233, -94.5150
+Clifton, 39.4667, -92.6667
+Clifton City, 38.7647, -93.0411
+Clifton Heights, 38.6092, -90.2861
+Clifton Hill, 39.4381, -92.6661
+Climax Springs, 38.1042, -93.0500
+Clines Island, 36.9039, -89.7936
+Clinton(Phelps), 37.8136, -91.5594
+Clinton(Henry), 38.3686, -93.7781
+Cliquot, 37.6939, -93.4775
+Clover Bottom, 38.5036, -91.1194
+Cloverdale, 37.6000, -92.9833
+Clubb, 37.2144, -90.3456
+Clyde, 40.2692, -94.6683
+Coal, 38.3258, -93.6150
+Coal Hill, 37.8783, -93.9333
+Coatsville, 40.5892, -92.6333
+Cobalt City, 37.5333, -90.2833
+Cobb(St Clair), 37.8944, -93.7544
+Cobb(Stoddard), 36.9175, -90.2133
+Cobbler, 39.1636, -94.3281
+Cockrell(Chariton), 39.5667, -92.8167
+Cockrell(Jackson), 38.8856, -94.2375
+Cody, 37.1186, -93.1192
+Coffey, 40.1000, -94.0000
+Coffeyton, 38.1167, -91.2728
+Coffman, 37.7844, -90.1942
+Cold Spring, 37.8333, -91.7500
+Cold Springs, 38.2314, -93.3831
+Coldspring, 36.9717, -92.4303
+Coldwater, 37.3033, -90.4097
+Cole, 38.3167, -93.2000
+Cole Camp, 38.4600, -93.2025
+Cole Camp Junction, 38.4628, -93.2753
+Cole Junction, 38.6142, -92.2242
+Coleman, 38.7514, -94.3944
+College Mound, 39.6231, -92.5725
+Collins, 37.8911, -93.6228
+Coloma, 39.5314, -93.5231
+Colony, 40.2539, -91.9906
+Columbia, 38.9517, -92.3339
+Columbus, 38.8586, -93.8906
+Combs, 39.4000, -93.3667
+Comet, 37.3972, -93.6322
+Commerce, 37.1589, -89.4428
+Commerce Tower, 39.0500, -94.5167
+Commercial, 37.2333, -93.3000
+Como, 36.6200, -89.7553
+Competition, 37.4836, -92.4289
+Conception, 40.2428, -94.6867
+Conception Junction, 40.2697, -94.6917
+Conclay, 38.6333, -90.3667
+Concord(Callaway), 39.0331, -91.9675
+Concord(St Louis City), 38.5244, -90.3572
+Concord(Pemiscot), 36.2933, -89.7008
+Concord Hill, 38.6503, -91.1361
+Concordia, 38.9833, -93.5683
+Conklin, 37.3853, -93.0189
+Connelsville, 40.2775, -92.7000
+Conrads Mill, 37.5064, -89.8606
+Conran, 36.4833, -89.6467
+Converse, 39.4989, -94.2761
+Conway, 37.5019, -92.8208
+Cook Station, 37.8128, -91.4378
+Cookville, 37.6489, -92.2097
+Cool Valley, 38.7275, -90.3108
+Coon Island, 36.5500, -90.4000
+Cooper, 40.2167, -94.5167
+Cooper Hill, 38.4272, -91.6614
+Cooter, 36.0467, -89.8100
+Copper Mine, 37.9036, -90.1464
+Cora, 40.1097, -93.1303
+Corbin, 38.0658, -93.5964
+Corder, 39.0983, -93.6406
+Corkery, 37.7953, -92.8611
+Cornelia, 38.6436, -93.7392
+Corner Campbell School(Abandoned), 39.7058, -93.4825
+Cornertown, 36.4992, -91.7583
+Corning, 40.2483, -95.4539
+Cornwall, 37.5122, -90.2028
+Corridon, 37.3819, -91.0722
+Corry, 37.4875, -93.7250
+Corsicana, 36.7989, -93.9947
+Corso, 39.1272, -91.1858
+Corticelli, 38.5167, -92.4333
+Cosby, 39.8642, -94.6781
+Cossville, 37.3258, -94.4481
+Cote Sans Dessein, 38.6333, -91.9833
+Cottage Farm, 38.2394, -90.6686
+Cottleville, 38.7461, -90.6539
+Cotton Hill, 36.5667, -90.0000
+Cotton Plant, 36.0900, -90.0911
+Cottonwood Point, 36.0639, -89.6992
+Couch, 36.6061, -91.3831
+Coulstone, 37.5228, -91.7511
+Country Club, 39.0167, -94.5833
+Country Club Hills, 38.7208, -90.2747
+Country Club Village, 39.8322, -94.8214
+Country Life Acres, 38.6239, -90.4561
+Courtney, 39.1556, -94.3933
+Courtois, 37.7647, -91.0719
+Cove, 36.5806, -94.1025
+Covington, 36.1072, -89.8778
+Cowan, 37.2000, -90.3167
+Cowgill, 39.5592, -93.9267
+Cox, 39.6372, -92.3828
+Cox Hospital, 37.2247, -93.2894
+Coy, 36.6611, -94.5319
+Crabbs, 37.1500, -92.7667
+Craddock, 37.6394, -91.8458
+Crag O Lea, 36.6092, -94.3522
+Craig, 40.1947, -95.3708
+Crane, 36.9053, -93.5714
+Crane Creek, 36.8667, -93.6500
+Crawford, 40.4747, -92.2753
+Cream Ridge, 39.7853, -93.4625
+Creek Nation, 37.5139, -90.3881
+Creighton, 38.4947, -94.0731
+Crescent, 38.5211, -90.6061
+Crescent Hill, 38.4322, -94.3472
+Crescent Lake, 39.3256, -94.2403
+Crest, 38.4503, -93.1347
+Crestwood, 38.5569, -90.3817
+Cretcher, 39.0314, -93.3239
+Creve Coeur, 38.6608, -90.4225
+Crider, 36.7181, -92.0781
+Crisp, 37.5697, -93.7878
+Crites Corner, 36.9503, -90.8225
+Crocker, 37.9489, -92.2636
+Crockerville, 38.4428, -93.1042
+Crook, 38.5506, -91.7775
+Crooked Creek, 37.4167, -90.0667
+Crooked River, 39.2833, -93.8333
+Crooks Springs, 37.9169, -93.8411
+Crosno, 36.7975, -89.1772
+Cross Boards, 36.8503, -92.8542
+Cross Keys, 38.8089, -90.2986
+Cross Roads(Stone), 36.8219, -93.5328
+Cross Roads(Ozark), 36.7319, -92.2278
+Cross Roads(Douglas), 36.9667, -92.6667
+Cross Timbers, 38.0247, -93.2267
+Cross Way, 37.3714, -93.0556
+Crossroads School(Abandoned), 38.8000, -94.3200
+Crossroads Store, 37.1894, -92.3925
+Crosstown, 37.7464, -89.7278
+Crowder, 36.9625, -89.6833
+Crown, 37.2644, -92.9511
+Cruise Mill, 38.0825, -90.7328
+Crump, 37.2786, -89.8292
+Crystal City, 38.2211, -90.3789
+Crystal Lake Park, 38.6222, -90.4342
+Cuba, 38.0628, -91.4033
+Cull, 36.7272, -91.6842
+Cullen, 37.8333, -92.1500
+Culp Ford, 36.6444, -91.6017
+Cunningham, 39.6417, -93.2400
+Curdton, 36.9644, -90.0553
+Cureall, 36.6672, -92.0706
+Current River, 36.5333, -90.8333
+Current View, 36.4989, -90.7781
+Curryville, 39.3456, -91.3447
+Custer, 37.5364, -91.5194
+Cyclone, 36.6183, -94.2561
+Cypress, 40.1667, -94.0500
+Cyrene, 39.2864, -91.1064

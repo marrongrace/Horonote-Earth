@@ -1,0 +1,162 @@
+Aaron, 38.4231, -94.1536
+Abadyl, 37.0383, -92.9469
+Abesville, 36.8397, -93.3706
+Abo, 37.6978, -92.4650
+Acorn Corner, 36.0883, -89.7706
+Acorn Ridge, 36.9133, -90.0581
+Adair(Adair), 40.2522, -92.3764
+Adair(Camden), 38.1500, -92.9833
+Adair County Nursing Home, 40.1894, -92.5569
+Adam Ford, 37.6283, -92.3286
+Adonis, 37.7964, -93.3631
+Adrian, 38.3975, -94.3514
+Advance, 37.1044, -89.9106
+Aeiker Ford, 38.3789, -91.0728
+Affton, 38.5506, -90.3331
+Agency, 39.6447, -94.7397
+Agnes, 37.5122, -92.4983
+Aholt, 39.2644, -92.9047
+Aid, 36.8769, -90.0411
+Aikinsville, 38.5581, -92.8361
+Air Line Junction, 39.1219, -94.4975
+Airline Acres, 36.8033, -89.3581
+Airport, 38.7667, -90.4000
+Airport Drive, 37.1425, -94.5106
+Akers, 37.3761, -91.5536
+Akron, 40.5194, -93.8172
+Alanthus, 40.2167, -94.5333
+Alanthus Grove, 40.3069, -94.5439
+Alba, 37.2383, -94.4172
+Albany(Ray), 39.2233, -94.1131
+Albany(Gentry), 40.2486, -94.3308
+Albany Junction, 40.2269, -94.3689
+Albatross, 37.1892, -93.8389
+Alberta, 38.3639, -93.6694
+Aldrich, 37.5475, -93.5544
+Alexander, 38.1333, -93.4333
+Alexandria, 40.3594, -91.4553
+Alexian Brothers Hospital, 38.5833, -90.2289
+Alfalfa Center, 36.9631, -89.2072
+Algonquin, 38.6000, -90.3333
+All Saints Village, 38.7606, -90.6614
+Allbright, 37.3289, -90.2267
+Allen, 40.4333, -94.2833
+Allen Ford, 36.5372, -91.5178
+Allendale, 40.4856, -94.2883
+Allenton, 38.5036, -90.6758
+Allenville, 37.2217, -89.7575
+Alley Spring, 37.1442, -91.4439
+Alliance, 37.5622, -89.9967
+Alma, 39.0953, -93.5450
+Almartha, 36.7642, -92.5169
+Almon, 37.9500, -93.2167
+Alpha, 39.9853, -93.4208
+Alpine, 36.6333, -93.5500
+Altamont, 39.8886, -94.0889
+Altenburg, 37.6308, -89.5853
+Altheim, 38.6314, -90.4878
+Alton, 36.6942, -91.3992
+Altona, 38.3997, -94.2347
+Amazonia, 39.8861, -94.8917
+Americus, 38.7803, -91.5639
+Amity, 39.8708, -94.4356
+Amoret, 38.2553, -94.5875
+Amos, 38.0158, -94.5800
+Amsterdam, 38.3497, -94.5889
+Amy, 36.6056, -92.0036
+Anabel, 39.7458, -92.3331
+Anaconda, 38.3017, -91.0406
+Ancell, 37.2167, -89.5167
+Anderson, 36.6506, -94.4433
+Andover, 40.5650, -93.8950
+Angus, 36.6344, -90.4836
+Ann, 37.0308, -92.1972
+Annada, 39.2611, -90.8275
+Annapolis, 37.3603, -90.6975
+Anniston, 36.8258, -89.3278
+Anson, 40.5772, -91.7658
+Anthonies Mill, 38.0797, -91.0861
+Antioch(Clark), 40.3247, -91.6931
+Antioch(Clay), 39.2000, -94.5333
+Antonia, 38.3625, -90.4656
+Anutt, 37.7158, -91.7197
+Apache Flats, 38.5836, -92.2994
+Apex, 39.1108, -90.7550
+Apple Creek, 37.5333, -89.7667
+Appleton(Old Appleton P O), 37.5972, -89.7128
+Appleton City, 38.1906, -94.0292
+Aptus, 38.0403, -90.8483
+Aquilla, 36.9469, -89.9147
+Arab, 37.0936, -90.0767
+Arbela, 40.4625, -92.0167
+Arbor, 37.1592, -89.8022
+Arbor Terrace, 38.6983, -90.2842
+Arbyrd, 36.0508, -90.2386
+Arcadia, 37.5881, -90.6289
+Archie, 38.4817, -94.3542
+Arcola, 37.5492, -93.8750
+Ardath, 37.6100, -94.6050
+Arden, 36.9853, -92.8044
+Ardeola, 37.0011, -89.8528
+Arditta, 36.6164, -92.0625
+Ardmore, 39.6431, -92.5356
+Argentville, 39.0161, -90.7981
+Argo, 38.1839, -91.3303
+Argyle, 38.2944, -92.0236
+Arkmo, 36.0500, -90.2500
+Arkoe, 40.2581, -94.8275
+Arley, 39.4044, -94.4450
+Arlington, 37.9203, -91.9708
+Armour, 39.5486, -95.0461
+Armstrong, 39.2697, -92.7011
+Arnica, 37.7517, -93.7083
+Arno, 36.9397, -92.7469
+Arnold, 38.4328, -90.3775
+Arnsberg, 37.5697, -89.7775
+Aroma, 36.8636, -94.2644
+Arroll, 37.1075, -91.7264
+Arrow Rock, 39.0697, -92.9464
+Arrowhead Beach, 38.1800, -92.6294
+Arthur, 38.0131, -94.3692
+Arthur Spring Ford, 38.2058, -91.5678
+Asbury, 37.2744, -94.6053
+Ascalon, 38.7008, -90.4094
+Ash(Barry), 36.5500, -94.0333
+Ash(Monroev), 39.5150, -92.2897
+Ash Grove, 37.3153, -93.5850
+Ash Hill, 36.7756, -90.2331
+Ashburn, 39.5447, -91.1686
+Asherville, 36.8986, -90.1872
+Ashland, 38.7744, -92.2569
+Ashley, 39.2511, -91.2203
+Ashley Creek, 37.4031, -91.6883
+Ashton, 40.4461, -91.8075
+Aspenhoff, 38.7014, -91.1514
+Athens(Gentry), 40.2333, -94.3000
+Athens(Clark), 40.5825, -91.6983
+Atherton, 39.1861, -94.3053
+Athol(Jackson), 39.1072, -94.4831
+Athol(Bates), 38.1725, -94.3786
+Atlanta, 39.8986, -92.4808
+Atlas, 37.0950, -94.3858
+Atwell, 38.0383, -92.2125
+Auburn, 39.1267, -90.9739
+Aud, 38.5803, -91.7206
+Augusta, 38.5725, -90.8819
+Aullville, 39.0178, -93.6778
+Aurora, 36.9708, -93.7178
+Aurora Springs, 38.3247, -92.5850
+Austin(Cass), 38.5028, -94.2997
+Austin(Dunklin), 36.1608, -90.1592
+Auxvasse, 39.0181, -91.8969
+Ava, 36.9519, -92.6603
+Avalon, 39.6592, -93.4414
+Avenue City, 39.8633, -94.7569
+Avert, 36.9294, -89.8478
+Avery, 38.0678, -93.3600
+Avilla, 37.1953, -94.1294
+Avon(Cass), 38.8303, -94.3156
+Avon(Ste Genevieve), 37.7514, -90.2233
+Avondale, 39.1542, -94.5467
+Axtell, 39.8244, -92.4728
+Azen, 40.5597, -92.0381
