@@ -1,0 +1,240 @@
+Agaruut, 43.1667, 109.4333
+Ak-Aral, 49.1667, 90.9500
+Altaj(Bayan-Olgiy), 48.3000, 89.5833
+Altaj(Jesönbulag,Govi-Altai), 46.3333, 96.3000
+Altanbulag(Selenge), 50.3167, 106.5000
+Altanbulag(Töv), 47.6833, 106.3667
+Altancögc, 49.0500, 90.4500
+Altanširee, 45.5833, 110.4500
+Arvajcheer, 46.2500, 102.8000
+Baacagaan, 45.5833, 99.4500
+Bajan Agt, 49.0333, 102.0833
+Bajan Chajrchan, 49.3000, 96.3333
+Bajan Dzürch, 50.2000, 98.9667
+Bajan Dün, 49.2167, 113.3833
+Bajan Tümen, 48.0667, 114.4000
+Bajan Uul(Dornod), 49.1667, 112.8333
+Bajan Uul(Zavkhan), 49.6833, 96.3333
+Bajan Uul(Arhangay), 47.6667, 101.5000
+Bajan-Adraga, 48.5333, 111.0500
+Bajan-Enger, 48.4167, 90.8333
+Bajan-Ovoo(Khentiy), 47.7833, 112.0833
+Bajan-Ovoo(Omnogovi), 42.9500, 106.1167
+Bajan-Öndör, 44.7833, 98.6500
+Bajancagaan, 45.0000, 98.9833
+Bajanchongor, 46.1333, 100.7167
+Bajancogt, 45.9000, 106.1667
+Bajandelger(Töv), 47.7333, 108.1167
+Bajandelger(Sukhbaatar), 45.6667, 112.3333
+Bajandzargalan, 45.6667, 107.9833
+Bajango, 48.9167, 106.1000
+Bajangov', 44.7333, 100.4000
+Bajanleg, 44.5500, 100.8333
+Bajannuur, 48.9000, 91.2333
+Baruun Bajan-Ulaan, 45.1667, 101.4000
+Baruun-Urt, 46.7000, 113.2500
+Bat Sûmber, 48.4833, 106.7000
+Batcengel, 47.7833, 101.9667
+Batnorov, 47.9167, 111.5000
+Beger, 45.7000, 97.1667
+Bicigt, 47.1000, 95.0833
+Binder, 48.5833, 110.6000
+Bogd, 45.1833, 100.7167
+Bugat(Arhangay), 47.9167, 101.2667
+Bugat(Bayan-Olgiy), 48.9833, 90.1667
+Bujant(Bayan-Olgiy), 48.5500, 89.5667
+Bujant(Khovd), 48.1667, 91.9167
+Bujant-Ovoo, 44.9667, 107.0833
+Bulgan(Bayan-Olgiy), 46.8833, 91.0833
+Bulgan(Bulgan), 48.7500, 103.5667
+Bulgan(Omnogovi), 44.0833, 103.5333
+Bureg Changaj, 48.2333, 103.9500
+Böchmörön, 49.6667, 90.3333
+Büren, 47.2167, 95.9000
+Büren Chaan, 49.4833, 99.2333
+Candman', 45.3333, 97.9833
+Carüngol, 49.2333, 106.4833
+Cenchermandal, 47.6167, 109.0833
+Cengel, 48.9333, 89.1667
+Chajrchan, 48.5833, 101.9333
+Chajrchandulaan, 45.9500, 102.0500
+Chalchgol, 48.1833, 114.9000
+Chaliun, 48.8333, 103.9833
+Chanbogd, 43.2000, 107.1667
+Chanch, 51.5000, 100.6667
+Chanchongor, 43.8333, 104.4167
+Chandman', 50.0333, 92.0500
+Changaj, 47.8667, 99.4667
+Changal, 49.3167, 104.4000
+Char-Ajrag, 45.8167, 109.2833
+Chatanbulag, 43.1500, 109.1333
+Chatgal, 50.4333, 100.1500
+Chentij, 48.0833, 109.7500
+Chišig Öndör, 48.3167, 103.4167
+Chjargas, 49.5333, 93.8000
+Chongor, 45.9833, 112.7500
+Chovd(Uvs), 49.2667, 90.5000
+Chovd(Khovd), 48.0167, 91.6333
+Chovd(Ovorkhangay), 44.7000, 102.4000
+Choybalsan, 48.0667, 114.5000
+Choyr(Sümber), 46.3500, 108.3333
+Chudzirt, 47.0833, 91.1667
+Chuld, 45.0667, 105.5833
+Chutag, 49.3833, 102.7167
+Chutag Uul, 43.3833, 110.2167
+Chöchmor't, 47.3500, 94.5500
+Chölönbujr, 47.9167, 112.9500
+Chövsgöl, 43.6000, 109.6500
+Chürmen, 43.3333, 104.0833
+Cogt, 45.3333, 96.6333
+Cogt-Ovoo, 44.4167, 105.3333
+Culuunchoroot, 49.6833, 114.2500
+Culuut, 45.8000, 107.0833
+Dadal, 49.0167, 111.6167
+Dalaj, 43.4667, 103.4667
+Dalajchöl, 47.9833, 90.7833
+Dalandzadgad, 43.6167, 104.4833
+Dalandzargalan, 45.9167, 109.0833
+Darchan, 49.4833, 105.9167
+Dariganga, 45.3000, 113.8667
+Dariv, 46.9500, 93.6333
+Davst, 50.6000, 92.4667
+Daš Balbar, 49.5167, 114.3500
+Dašincilen, 47.8500, 104.0500
+Delgerchangaj, 45.2500, 104.8333
+Delgerchet, 45.8667, 110.4333
+Delgercogt, 46.1333, 106.3833
+Delgerech, 45.8000, 111.2000
+Delüün, 47.7000, 90.9833
+Dund-us, 48.1333, 91.3833
+Duut, 47.5000, 91.6667
+Dzaamar, 48.1667, 104.8333
+Dzachuj, 44.9833, 96.6167
+Dzargalant(Khovsgol), 48.5500, 99.3333
+Dzargalant(Arhangay), 48.6667, 100.7167
+Dzargaltchaan, 47.4667, 109.5000
+Dzavchan, 48.8000, 93.1167
+Dzavchan Mandal, 48.3167, 95.1167
+Dzinst, 45.4000, 100.5833
+Dzuunmod, 47.7500, 106.9167
+Dzürch, 48.9167, 100.1667
+Dzüün Changaj, 49.2833, 95.2333
+Dzüün Charaa, 48.8667, 106.4667
+Dzüün Gov, 49.9167, 93.7833
+Dörvöldzin, 48.1333, 93.9667
+Erdene(Töv), 47.8000, 107.9167
+Erdene(Dornogovi), 44.2500, 111.2333
+Erdene(Govi-Altai), 45.1333, 97.7500
+Erdenebulgan, 50.1167, 101.5833
+Erdenebüren, 48.4333, 91.4500
+Erdenedalaj, 46.0333, 104.9167
+Erdenemandal, 48.5000, 101.3500
+Erdenet, 49.0333, 104.0833
+Galt, 48.7667, 99.8833
+Galuut, 48.5500, 113.2000
+Gucin-Us, 45.4500, 102.4167
+Gurvanbulag, 47.6333, 103.5167
+Gurvansajchan, 45.5333, 107.0000
+Gurvantes, 43.4333, 101.6000
+Günnarijn, 45.6333, 102.0167
+Hantaj, 49.5167, 103.2167
+Hujirt, 48.8667, 101.2333
+Hulstay, 48.4167, 114.8667
+Ich Uul(Zavkhan), 48.5500, 98.6667
+Ich Uul(Khovsgol), 49.4500, 101.4500
+Ichdzargalan, 45.5167, 108.8000
+Ichtamir, 47.5000, 100.8667
+Ider, 48.2167, 97.3833
+Idermeg, 47.6667, 111.0833
+Jargalant, 46.9500, 115.2500
+Jaruu, 48.1333, 96.7500
+Jeröö, 49.7500, 106.6667
+Luus, 45.5000, 105.7500
+Lün(Töv), 47.8667, 105.2500
+Lün(Arhangay), 47.4000, 102.8667
+Malcin, 49.7333, 93.3000
+Mandach, 44.4667, 108.1833
+Mandal-Ovoo, 44.5833, 104.0833
+Mandalgov', 45.7500, 106.2000
+Manlaj, 44.1167, 106.8333
+Matad, 46.9667, 115.3000
+Mjangad, 48.2500, 91.9500
+Mogod, 48.4000, 103.0000
+Möngön Mor't, 48.1833, 108.4833
+Mörön(Arhangay), 48.2500, 100.3833
+Mörön(Khentiy), 47.4000, 110.2667
+Mörön(Khovsgol), 49.6333, 100.1667
+Nalajch, 47.7500, 107.2667
+Naran, 48.5667, 98.2833
+Naranbulag, 49.3667, 92.5500
+Narijnteel, 45.9500, 101.4833
+Nogoonnuur, 49.5500, 90.2833
+Nojon, 43.1667, 102.1167
+Nomgon(Dundgovi), 45.4333, 105.1333
+Nomgon(Omnogovi), 42.8333, 105.1167
+Norovlin, 48.6667, 112.0000
+Ojgor, 49.1667, 89.2833
+Ongon, 45.3500, 113.1500
+Onon, 49.1333, 112.6333
+Orchon, 49.1500, 105.3500
+Orchon Tuul, 48.9667, 104.9833
+Otgon, 47.1833, 97.5500
+Rašaant, 49.1167, 101.4167
+Rincinlchümbe, 51.1167, 99.6667
+Sagil, 50.3333, 91.6667
+Sagsaj, 48.9000, 89.6167
+Sajchan, 48.6667, 102.6500
+Sajchan-Ovoo, 45.4500, 103.9000
+Sajchandulaan, 44.6667, 109.0167
+Sajnšand, 44.8667, 110.1500
+Selenge, 49.4167, 103.9833
+Sevrej, 43.5833, 102.2000
+Songino, 48.9000, 95.9000
+Sulincheer, 42.6833, 109.3333
+Süchbaatar, 50.2500, 106.2000
+Tamsagbulag, 47.2333, 117.3500
+Tarialan, 49.7833, 91.9167
+Tariat, 48.1000, 99.5333
+Telmen, 48.6333, 97.6167
+Tes, 50.4500, 93.5000
+Tešig, 49.9333, 102.5667
+Tolbonuur, 48.4167, 90.2833
+Tosontsengel, 48.7833, 98.2500
+Tsachir, 48.1000, 98.8667
+Tsagaan Chajrchan, 49.4167, 94.2500
+Tsagaan Uul, 49.4667, 98.5000
+Tsagaan Üür, 50.5333, 101.5000
+Tsagaan-Ovoo, 45.8500, 105.2833
+Tsagaangol, 48.9500, 89.1167
+Tsagaannuur(Bayan-Olgiy), 49.5333, 89.7000
+Tsagaannuur(Selenge), 50.3333, 105.0500
+Tseel, 45.6000, 95.8500
+Tsetserleg(Arhangay), 47.5000, 101.4500
+Tsetserleg(Khovsgol), 49.5000, 97.6000
+Tsogtcandman', 45.8333, 104.4667
+Tögrög(Govi-Altai), 45.7667, 94.9667
+Tögrög(Ovorkhangay), 45.5333, 102.9833
+Tömörbulag, 49.2667, 100.2500
+Türgen, 50.0667, 91.6000
+Ugtaal Cajdam, 48.2833, 105.4167
+Ulaanbaatar, 47.9167, 106.8833
+Ulaanbadrach, 44.1167, 110.1833
+Ulaanchus, 49.0333, 89.3833
+Ulaangom, 49.9667, 92.0333
+Uliast, 48.9500, 91.2833
+Uliastaj(Dzavchlant), 47.7500, 96.8167
+Un't, 49.1167, 102.8333
+Urgamal, 48.4833, 94.3333
+Öldzijt(Arhangay), 48.1167, 102.5667
+Öldzijt(Dundgovi), 45.3000, 106.2000
+Ölgij(Uvs), 48.9833, 92.0167
+Ölgij(Bayan-Olgiy), 48.9333, 89.9500
+Ömnödelger, 47.8667, 109.9167
+Ömnögov', 49.1000, 91.7167
+Öndör Changaj, 49.3333, 94.8333
+Öndör Ulaan, 48.0500, 100.5000
+Öndör-Önc, 45.8500, 103.1833
+Öndörchaan, 47.3167, 110.6500
+Öndöršireet, 47.4500, 104.8333
+Šaamar, 50.1333, 106.1667
+Šine Ider, 48.9333, 99.5500
