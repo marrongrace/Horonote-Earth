@@ -1,0 +1,77 @@
+Nacala, -14.5667, 40.6833
+Nacala-Velha, -14.5333, 40.6167
+Nalázi, -24.0500, 33.3333
+Namaacha, -25.9667, 32.0833
+Namacurra, -17.4833, 37.0167
+Namapa, -13.7167, 39.8333
+Namarrói, -15.9667, 36.9167
+Nametil, -15.7167, 39.3500
+Nampuecha, -13.9833, 40.3000
+Nampula, -15.1167, 39.2500
+Nangade, -11.0833, 39.6000
+Nantuego, -11.3500, 38.3167
+Nantulo, -12.2833, 39.0500
+Negomano, -11.4500, 38.5167
+Netia, -14.8000, 39.9833
+Nhacoongo, -24.3000, 35.2333
+Nhamacolomo, -18.0833, 34.4333
+Nipepe, -14.0167, 37.9167
+Nova Freixo, -14.8167, 36.5500
+Nova Lusitânia, -19.9000, 34.5833
+Nova Mambone, -20.9833, 35.0167
+Nova Nabúri, -16.7667, 38.9500
+Nova Sofala, -20.1500, 34.7000
+Olivença, -11.7833, 35.2167
+Pafúri, -22.4500, 31.3500
+Palma, -10.7667, 40.4833
+Panda, -24.0333, 34.7500
+Pebane, -17.1667, 38.1333
+Pomene, -22.8833, 35.5500
+Ponte do Púngoè, -19.5000, 34.5333
+Porto Amélia, -12.9667, 40.5000
+Quedas, -19.5000, 33.4833
+Quelimane, -17.8833, 36.8500
+Quinga, -15.8167, 40.2500
+Quionga, -10.6167, 40.5000
+Quissanga, -12.4167, 40.4833
+Quissico, -24.7000, 34.7333
+Quiterajo, -11.8000, 40.4167
+Ribauè, -14.9500, 38.2833
+Rio das Pedras, -23.2000, 35.3833
+Rotanda, -19.5500, 32.8333
+Révia, -13.3833, 36.5167
+Salamanga, -26.4667, 32.6500
+Santaca, -26.6000, 32.5333
+Sena, -17.4500, 35.0000
+Tambara, -16.7500, 34.2500
+Tembuè, -14.8667, 32.9667
+Tete, -16.2167, 33.5833
+Tsangano, -15.1333, 34.5333
+Uampochane, -26.3833, 32.6833
+Unango, -12.8333, 35.3333
+Valadim, -12.3667, 36.1667
+Vandúzi, -18.9500, 33.2667
+Vila Alferes Chamusca, -24.4833, 33.0000
+Vila Cabral, -13.3000, 35.2333
+Vila Caldas Xavier, -15.9833, 34.2000
+Vila Coutinho, -14.6167, 34.3167
+Vila da Maganja, -17.3000, 37.5000
+Vila de Manica, -18.9333, 32.8833
+Vila Fontes, -17.8333, 35.3500
+Vila Gamito, -14.2000, 33.0000
+Vila Gomes da Costa, -24.3167, 33.6333
+Vila Gouveia, -18.0500, 33.1833
+Vila Junqueiro, -15.4167, 36.9667
+Vila Luísa, -25.7333, 32.6667
+Vila Machado, -19.3000, 34.1833
+Vila Paiva de Andrada, -18.7333, 34.0500
+Vila Pery, -19.1333, 33.4833
+Vila Trigo de Morais, -24.6000, 33.0000
+Vila Vasco da Gama, -14.9000, 32.2333
+Vilanculos, -22.0167, 35.3167
+Xinavane, -25.0333, 32.7833
+Zitundo, -26.7500, 32.8333
+Zumbo, -15.6000, 30.4167
+Zune, -18.9833, 35.3000
+Zâmbuè, -15.1667, 30.8333
+Zóbuè, -15.6333, 34.4333
