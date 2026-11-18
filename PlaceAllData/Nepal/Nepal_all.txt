@@ -1,0 +1,78 @@
+Amlekhganj, 27.2833, 84.9833
+Baglung, 28.2667, 83.6000
+Bairia, 27.0000, 85.3833
+Baitadi, 29.5333, 80.4333
+Bandipur, 27.9333, 84.4167
+Bardia, 28.3000, 81.3667
+Bhadgaon > Bhaktapur, 27.7000, 85.4500
+Bhairawa, 27.5167, 83.4000
+Bhaktapur, 27.7000, 85.4500
+Bhatgaon > Bhaktapur, 27.7000, 85.4500
+Bhimphedi, 27.5333, 85.1167
+Bhojpur, 27.1667, 87.0500
+Bijauri, 28.1000, 82.3333
+Bilauri, 28.6833, 80.3500
+Budhathum, 28.0667, 84.8333
+Butwal, 27.7000, 83.4500
+Chautara, 27.7667, 85.7000
+Chisapani, 27.5667, 85.1333
+Dadeldhura, 29.3000, 80.5833
+Dailekh, 28.8333, 81.7333
+Dhading, 27.8667, 84.9167
+Dhangadhi, 28.6833, 80.6000
+Dhankuta, 26.9833, 87.3333
+Dharan Bazar, 26.8167, 87.2833
+Dhulikhel, 27.6167, 85.5500
+Dingla, 27.3500, 87.1333
+Gorkha, 28.0000, 84.6167
+Hanumannagar, 26.5000, 86.8500
+Hariharpur Garhi, 27.3167, 85.4833
+Ilam, 26.9167, 87.9333
+Jajarkot, 28.7000, 82.2000
+Jaleshwar, 26.6333, 85.8000
+Jhapa, 26.4833, 87.8500
+Jhawani, 27.5833, 84.5167
+Jumla, 29.2833, 82.1667
+Kadarbana, 26.7667, 85.3333
+Kalaiya, 27.0333, 85.0000
+Kandrang Garhi, 27.7167, 84.7833
+Kapilavastu, 27.4667, 83.2667
+Kathmandu, 27.7167, 85.3167
+Keware, 27.9500, 83.7833
+Kodari, 27.9333, 85.9333
+Kumbher, 28.2667, 81.4000
+Kunchha, 28.1333, 84.3333
+Kusma, 28.2333, 83.6833
+Lalitpur(patan), 27.6833, 85.3333
+Makaising, 27.8833, 84.6833
+Makwanpur Garhi, 27.4167, 85.1333
+Malangwa, 26.8667, 85.5667
+Manebhanjyang, 27.2000, 86.4333
+Mustang, 29.1833, 83.9667
+Nawakot, 27.9167, 85.1667
+Nepalganj, 28.0500, 81.6167
+Nuwakot, 28.1333, 83.8833
+Okhaldhunga, 27.3167, 86.5000
+Parasi, 27.5333, 83.6667
+Patan > Lalitpur, 27.6833, 85.3333
+Piuthan, 28.1000, 82.9000
+Pokhara, 28.2333, 83.9833
+Ramechhap, 27.3333, 86.0833
+Ridiwajar, 27.9500, 83.4333
+Sallyana, 28.3667, 82.1667
+Silgarhi-Doti, 29.2667, 80.9833
+Simikot, 29.9667, 81.8333
+Sindhuli Garhi, 27.2667, 85.9667
+Siraha, 26.6500, 86.2000
+Talkot, 29.6167, 81.3167
+Tanahun, 28.0333, 84.3333
+Tansing, 27.8667, 83.5500
+Taplejung, 27.3500, 87.6667
+Taulihawa, 27.5333, 83.0500
+Tehrthum, 27.1167, 87.5333
+Thankot, 27.6833, 85.1833
+Udaypur, 26.9333, 86.5167
+Upardang Garhi, 27.7667, 84.5667
+Wahadurganj, 27.5333, 82.8333
+Wiratnagar, 26.4833, 87.2833
+Wirganj, 27.0000, 84.8667
