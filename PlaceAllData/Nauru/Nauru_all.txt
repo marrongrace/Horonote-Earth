@@ -1,0 +1,6 @@
+Anabar, -0.5000, 166.9500
+Government Station, -0.5333, 166.9167
+Ijuw(Ijuh), -0.5000, 166.9500
+Settlement, -0.5333, 166.9333
+Uaboe(Waboe), -0.5167, 166.9167
+Yangor, -0.5167, 166.9000
