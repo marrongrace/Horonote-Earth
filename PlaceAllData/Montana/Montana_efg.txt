@@ -1,0 +1,183 @@
+Eagleton, 48.1833, -110.1000
+East Butte, 46.0114, -112.4958
+East Glacier Park, 48.4414, -113.2172
+East Helena, 46.5897, -111.9147
+East Missoula, 46.8708, -113.9436
+East Portal, 47.3972, -115.6342
+East Powder River, 45.3333, -105.2667
+Eastham Junction, 47.7292, -112.0933
+Eddies Corner, 46.9833, -109.7447
+Eddy, 47.5583, -115.1322
+Eden, 47.2700, -111.2714
+Edgar, 45.4647, -108.8517
+Edilou, 45.8789, -111.1958
+Edwards, 47.1403, -107.3331
+Edwards Crossing, 48.4669, -112.4511
+Ekalaka, 45.8889, -104.5522
+Electric, 45.0786, -110.7811
+Elk Park, 46.1650, -112.3714
+Elkhorn(Beaverhead), 45.4894, -113.0356
+Elkhorn(Jefferson), 46.2747, -111.9450
+Elkhorn Hot Springs, 45.4556, -113.1089
+Elliston, 46.5622, -112.4300
+Elmdale, 48.1500, -104.9167
+Elmo, 47.8306, -114.3486
+Elso, 46.3486, -108.6767
+Elton, 45.6958, -110.3072
+Emerson Junction, 47.5200, -111.3689
+Emigrant, 45.3703, -110.7328
+Enid, 47.6956, -104.7792
+Ennis, 45.3489, -111.7289
+Epsie, 45.4917, -105.6506
+Ermont Mill, 45.2669, -112.9147
+Eskay, 48.1833, -110.1000
+Essex, 48.2781, -113.6117
+Ethridge, 48.5578, -112.1197
+Eureka, 48.8800, -115.0525
+Eustis(Broadwater), 45.9897, -111.4658
+Eustis(Jefferson), 45.9833, -111.9667
+Evans, 47.1736, -111.0917
+Evaro, 47.0322, -114.0906
+Evergreen, 48.2258, -114.2753
+Everson, 47.3167, -109.9500
+Fairfield, 47.6147, -111.9794
+Fairview, 47.8564, -104.0444
+Fallon, 46.8356, -105.1189
+False Summit, 48.3719, -113.2786
+Farmington, 47.8869, -112.1681
+Farralltown, 46.3964, -108.5481
+Fee, 46.0878, -107.6789
+Feely, 45.8767, -112.6883
+Ferdig, 48.7542, -111.7742
+Fergus, 47.3308, -109.0664
+Ferndale, 48.0517, -114.0064
+Fields, 47.4506, -111.2389
+Fife, 47.4558, -111.0222
+Finch, 46.2836, -106.9756
+Findon, 46.6333, -110.3167
+Finlen, 46.0383, -112.7903
+Finn, 46.7661, -112.7028
+First Creek, 47.9333, -107.9833
+Fishtail, 45.4536, -109.5036
+Fishtrap, 45.8722, -113.2286
+Five Mile Creek, 45.3667, -108.8167
+Flathead County Hospital, 48.1817, -114.3011
+Flathead County Nursing Home, 48.1817, -114.3011
+Flathead Indian Reservation, 47.5333, -114.1000
+Flatwillow, 46.8319, -108.3994
+Flaxville, 48.8039, -105.1722
+Floral Park, 45.9861, -112.4928
+Florence, 46.6317, -114.0781
+Floweree, 47.7297, -111.0267
+Flynn, 46.2939, -106.5414
+Foraker, 47.3006, -115.1961
+Ford Place, 46.2531, -110.8031
+Forest Green, 46.7614, -110.7397
+Forest Heights, 46.5783, -112.2956
+Forest Park, 47.1047, -104.7578
+Forestgrove, 46.9914, -109.0794
+Forsyth, 46.2664, -106.6772
+Fort Belknap, 48.2333, -108.6333
+Fort Belknap Agency, 48.4825, -108.7647
+Fort Belknap Indian Reservation, 48.4833, -108.7667
+Fort Benton, 47.8200, -110.6722
+Fort Connah, 47.4056, -114.0872
+Fort Keogh, 46.4000, -105.8333
+Fort Kipp, 48.1467, -104.7153
+Fort Logan, 46.6786, -111.1719
+Fort Missoula, 46.8428, -114.0581
+Fort Peck, 48.0103, -106.4469
+Fort Peck Indian Reservation, 48.0833, -105.6333
+Fort Piegan, 48.6306, -112.6467
+Fort Shaw, 47.5056, -111.8094
+Fort Smith, 45.3128, -107.9364
+Fortine, 48.7644, -114.9022
+Foster, 45.9250, -107.5903
+Four Buttes, 48.8097, -105.6058
+Four Corners, 48.7333, -111.8500
+Four Range, 46.5831, -111.9269
+Fourchette, 47.9333, -107.9833
+Fowler, 48.3158, -111.7842
+Fox, 45.2769, -109.2164
+Fox Crossing, 48.9606, -110.6508
+Francis, 46.1458, -111.0883
+Franklin, 46.3717, -109.2669
+Frazer, 48.0592, -106.0417
+French Town, 45.9372, -112.9908
+Frenchie Place, 45.1114, -112.8792
+Frenchtown, 47.0150, -114.2289
+Fresno, 48.5678, -109.9858
+Fries Place, 45.0608, -112.2489
+Froid, 48.3344, -104.4956
+Fromberg, 45.3922, -108.9058
+Frontier Town, 46.5694, -112.3056
+Fuller, 46.2619, -112.2028
+Gage, 46.4767, -108.3925
+Galata, 48.4756, -111.3514
+Galbraith, 46.5986, -107.4756
+Galen, 46.2356, -112.7753
+Gallatin Gateway, 45.5917, -111.1969
+Gallup City, 48.0939, -112.1122
+Gardiner, 45.0319, -110.7050
+Garland, 46.4000, -105.8333
+Garneill, 46.7525, -109.7519
+Garnet, 46.8253, -113.3381
+Garrison, 46.5233, -112.8108
+Garryowen, 45.5267, -107.4189
+Gateway, 48.9992, -115.1722
+Gearing, 46.7144, -112.1331
+General Hospital, 48.1928, -114.3022
+Genevieve, 48.7267, -107.1625
+George Place, 45.3592, -109.5161
+Georgetown, 46.1994, -113.2456
+Geraldine, 47.6036, -110.2650
+Gerber, 47.4511, -111.1642
+Geyser, 47.2592, -110.4925
+Gibbtown, 46.4136, -108.5550
+Gibson Flats, 47.4697, -111.2461
+Giffen, 47.3139, -111.1858
+Gildford, 48.5694, -110.2989
+Gilman, 47.5092, -112.3644
+Gilroy, 45.6600, -111.1642
+Giltedge, 47.1269, -109.2014
+Girard, 47.8678, -104.4211
+Gird Point, 46.2075, -113.9106
+Glacier, 48.7167, -113.9500
+Glacier Colony, 48.8328, -112.2181
+Glacier National Park, 48.7500, -113.6167
+Glasgow, 48.1969, -106.6361
+Glasgow Air Base, 48.2000, -106.6333
+Gleason Resort, 47.8167, -112.1833
+Glen, 45.4767, -112.6897
+Glendale, 45.6419, -112.7722
+Glendive, 47.1053, -104.7119
+Glengarry, 47.0269, -109.5472
+Glentana, 48.8481, -106.2489
+Gloss Place, 45.3608, -113.2736
+Gloster, 46.7628, -112.3386
+Gold Butte, 48.8736, -111.3850
+Goldcreek, 46.5867, -112.9278
+Golden Ridge, 47.5678, -112.2261
+Goldstone, 48.8997, -110.5317
+Gordon, 47.6294, -111.6458
+Gorus, 46.0628, -114.1711
+Grace, 45.8067, -112.3294
+Grahams Place, 44.8589, -111.5833
+Granite, 46.3175, -113.2436
+Grannis, 45.7567, -110.4956
+Grant, 45.0086, -113.0661
+Grantsdale, 46.2036, -114.1408
+Grass Valley, 46.9358, -114.1394
+Grassrange, 47.0211, -108.8058
+Graying, 45.0467, -112.8200
+Grayling, 44.8056, -111.1936
+Great Falls, 47.5000, -111.3000
+Greenfield, 47.6400, -111.8586
+Greenough, 46.9167, -113.4358
+Greenwood, 45.6772, -111.2114
+Gregson, 46.0481, -112.8086
+Gregson Hot Springs, 46.0431, -112.8092
+Greycliff, 45.7633, -109.7839
+Groveland, 46.4369, -110.3967
+Gunsight, 48.6372, -112.4611
+Guntner Place, 45.1928, -112.4653

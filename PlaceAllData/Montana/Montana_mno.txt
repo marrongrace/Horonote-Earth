@@ -1,0 +1,158 @@
+Macless, 45.8606, -111.2711
+Macon, 48.1097, -105.5183
+Maddux, 48.1406, -109.4172
+Madison County Nursing Home, 45.3522, -111.7308
+Madison Valley, 45.2667, -111.6667
+Madison Valley Hospital, 45.3514, -111.7308
+Madoc, 48.8108, -105.2853
+Maiden, 47.1778, -109.2294
+Maiden Rock, 45.6967, -112.7358
+Malmstrom, 47.5167, -111.2000
+Malmstrom Air Force Base, 47.5167, -111.2000
+Malone, 47.9417, -112.1667
+Malta, 48.3597, -107.8736
+Mammoth, 45.6697, -112.0158
+Manchester, 47.5408, -111.4614
+Manhattan, 45.8567, -111.3317
+Mann, 45.9708, -108.1131
+Manson, 48.2375, -112.0056
+Many Glacier Hotel, 48.8500, -113.4333
+Marion, 48.1056, -114.6622
+Marsh, 46.8833, -104.9333
+Martin City, 48.3917, -114.0372
+Martinsdale, 46.4583, -110.3125
+Martinsdale Colony, 46.4894, -110.2667
+Marysville, 46.7506, -112.2994
+Matthews, 45.6278, -111.0836
+Maudlow, 46.1078, -111.1722
+Maxville, 46.4647, -113.2333
+Mc Allister, 45.4444, -111.7314
+Mc Clave, 46.8086, -109.7733
+Mc Leod, 45.6628, -110.1153
+McCabe, 48.2436, -104.3772
+McClain, 46.7061, -114.0769
+McClellans Creek, 46.6000, -111.9167
+McCloud, 46.9008, -105.5997
+McDonald, 47.3233, -114.4611
+McElroy, 48.8803, -104.6667
+McGlone Heights, 46.0000, -112.5167
+McNamara, 46.9114, -113.6767
+McQueen, 46.0203, -112.4944
+Meaderville, 46.0222, -112.5044
+Medicine Hot Springs, 45.8461, -114.0344
+Medicine Lake, 48.5014, -104.5042
+Medicine Springs, 45.9333, -114.1167
+Melrose, 45.6319, -112.6836
+Melstone, 46.5986, -107.8714
+Melville, 46.1031, -109.9531
+Menard, 45.9739, -111.1733
+Menard Wye, 45.9672, -111.1814
+Merino, 47.2439, -110.3653
+Meriwether, 48.6064, -112.7600
+Merriman, 45.3389, -110.7678
+Meyers Creek, 45.4944, -109.9311
+Mid Canon, 47.1322, -111.8869
+Midale, 47.9042, -108.1614
+Midby, 48.7678, -104.6856
+Midway, 47.5150, -104.3200
+Mildred, 46.6758, -104.9594
+Miles City, 46.4083, -105.8400
+Miles Crossing(Silver Bow), 46.0125, -112.7253
+Miles Crossing(Valley), 48.4817, -107.1511
+Milford Colony, 47.3297, -112.2089
+Mill Creek, 46.1333, -112.9500
+Mill Iron, 45.8536, -104.2189
+Millegan, 47.0206, -111.3689
+Miller, 46.8942, -113.7769
+Miller Colony, 47.9264, -112.2892
+Milltown, 46.8714, -113.8808
+Miner, 45.1992, -110.9078
+Minnie Rahn Place, 45.6339, -110.4361
+Mission Hospital, 47.3164, -114.1028
+Missoula, 46.8722, -113.9931
+Missoula West, 46.8500, -114.0667
+Mizpah, 46.2447, -105.2669
+Moccasin, 47.0533, -109.9097
+Moffit Canyon, 45.6833, -111.0500
+Moiese, 47.3706, -114.2650
+Molt, 45.8614, -108.9272
+Mona, 48.1500, -104.9167
+Monarch, 47.0983, -110.8378
+Monida, 44.5619, -112.3128
+Montague, 47.6792, -110.4533
+Montana City, 46.5378, -111.9319
+Montana State Hospital Galen Campus, 46.2356, -112.7803
+Montanapolis Springs, 45.4167, -110.6333
+Montaqua, 45.5092, -108.9006
+Moon Creek, 46.1500, -105.9833
+Moore, 46.9756, -109.6961
+Moorhead, 45.0650, -105.8706
+Moose Town, 45.7761, -112.5672
+Morel, 46.1506, -112.7669
+Morgan, 49.0000, -107.8333
+Mosby, 46.9922, -107.8831
+Moss Agate, 46.3658, -110.8275
+Mossmain, 45.6847, -108.7103
+Moulton, 47.3458, -109.3539
+Mount Ellis, 45.6833, -111.0500
+Moyne, 46.2564, -110.8744
+Muir, 45.6631, -110.7928
+Murray Place, 47.8067, -107.0653
+Musselshell, 46.5186, -108.0906
+Myers, 46.2508, -107.3397
+Nagos, 46.9917, -114.1119
+Naismith, 48.3864, -111.7736
+Nashua, 48.1322, -106.3558
+Navajo, 48.7922, -105.0597
+Neihart, 46.9333, -110.7350
+Nelson, 46.8169, -111.8083
+New Chicago, 46.6269, -113.1414
+New Rockport Colony, 47.8636, -112.0228
+New Year, 47.1719, -109.2897
+Newcomb, 45.9200, -112.5189
+Newlon Junction, 47.6586, -104.1967
+Newton, 45.9789, -108.0578
+Niarada, 47.8142, -114.6036
+Nibbe, 45.9839, -108.0267
+Nichols, 46.2639, -106.8161
+Nickwall, 48.0492, -105.3064
+Nimrod, 48.2389, -113.5675
+Nimrod, 46.7003, -113.4764
+Nine-mile, 45.9053, -112.4656
+Ninemile, 47.0200, -114.4083
+Nissler, 46.0047, -112.6414
+Nohly, 47.9956, -104.0914
+Norris, 45.5681, -111.6900
+North Country, 46.5667, -109.2000
+North Custer, 46.6333, -105.8167
+North Fork, 48.5861, -109.1103
+North Garfield, 47.4167, -107.2167
+North Havre, 48.5500, -109.6833
+North of The Yellowstone, 46.0333, -109.9000
+North Treasure, 46.2833, -107.3167
+Northern Cheyenne Indian Reservation, 45.6167, -106.6667
+Northridge Heights, 48.2181, -114.3319
+Noxon, 47.9961, -115.7806
+Number Seven, 47.4036, -111.1511
+Nyack, 48.4394, -113.8047
+Nye, 45.4439, -109.8053
+Ohio Camp, 48.8331, -111.8458
+Oilmont, 48.7400, -111.8400
+Old Banks Place, 48.9203, -111.1161
+Old Ford Place, 45.9039, -107.4567
+Old Weiss And French Place, 46.8069, -111.9236
+Old Whitcomb Place, 47.9853, -107.9778
+Olive, 45.5506, -105.5275
+Ollie, 46.5847, -104.0842
+Olney, 48.5486, -114.5772
+Olson Place, 47.4714, -112.0092
+Opheim, 48.8567, -106.4067
+Opportunity, 46.1072, -112.8272
+Orchard Homes, 46.8633, -114.0475
+Orinoco, 46.2961, -106.5914
+Ossette, 48.5833, -106.2000
+Oswego, 48.0586, -105.8806
+Otter, 45.2078, -106.2011
+Outlook, 48.8875, -104.7772
+Ovando, 47.0203, -113.1322
+Ozan, 46.7008, -113.2422

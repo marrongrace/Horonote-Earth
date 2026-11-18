@@ -1,0 +1,200 @@
+Hackney, 46.0314, -112.7917
+Hagans Crossing, 48.4583, -112.5133
+Hale Place, 45.1092, -112.1175
+Halfmoon, 48.3878, -114.2389
+Hall, 46.5853, -113.1958
+Hamen, 46.3097, -110.7000
+Hamilton, 46.2469, -114.1594
+Hammond, 45.2256, -104.9175
+Hammond Valley, 46.2667, -106.6833
+Hanover, 47.1214, -109.5539
+Happy Valley, 48.4000, -114.3333
+Happys Inn, 48.0833, -115.1394
+Hardin, 45.7325, -107.6114
+Hardy, 47.2667, -111.7000
+Harlem, 48.5333, -108.7833
+Harlowton, 46.4356, -109.8336
+Harrison, 45.7008, -111.7856
+Harrison Mill, 45.7189, -111.7581
+Haskell, 46.6131, -113.0433
+Hassel, 46.3053, -111.6644
+Hathaway, 46.2761, -106.1961
+Hauck, 46.9594, -109.8300
+Haugan, 47.3833, -115.3986
+Havre, 48.5500, -109.6833
+Hays, 47.9892, -108.6936
+Heart Butte, 48.2833, -112.8358
+Heath, 46.9958, -109.2664
+Hedgesville, 46.4567, -109.5019
+Helena, 46.5928, -112.0353
+Hellgate, 46.8500, -114.0167
+Helmville, 46.8667, -112.9603
+Henderson, 47.3583, -115.3089
+Heron, 48.0589, -115.9561
+Herron Park, 48.5500, -109.6833
+Hesper, 45.7419, -108.7089
+Higgins, 46.2908, -110.7411
+Highview, 45.9208, -112.4250
+Highwood, 47.5836, -110.7894
+Hilger, 47.2539, -109.3592
+Hillman, 45.8892, -111.1967
+Hillsboro, 45.1000, -108.2322
+Hillside, 46.9111, -106.3994
+Hillside Colony, 48.9792, -112.0675
+Hingham, 48.5550, -110.4214
+Hinsdale, 48.3942, -107.0842
+Hirsch, 45.8178, -108.4131
+Hobson, 47.0006, -109.8742
+Hodges, 46.9836, -104.3872
+Hoffman, 45.5725, -110.7839
+Hoffman Place, 45.1750, -112.4158
+Hoffmanville, 47.5108, -104.3019
+Hogeland, 48.8525, -108.6581
+Holden Place, 45.2153, -112.4150
+Holker, 46.2544, -111.4772
+Holland, 45.7442, -111.2444
+Holt, 48.0822, -114.1089
+Holter Dam, 47.0000, -112.0667
+Homestake, 45.9233, -112.4100
+Homestead, 48.4211, -104.5383
+Hoosac, 47.2758, -109.8394
+Hopp, 48.1833, -110.1000
+Hoppers, 45.6656, -110.7175
+Horton, 46.3414, -106.0614
+Hot Springs, 47.6092, -114.6678
+Howard, 46.2667, -106.6833
+Hoyt, 46.9297, -104.8542
+Hughesville, 47.0833, -110.6317
+Hungry Horse, 48.3858, -114.0600
+Hungry Joe, 47.0961, -104.6989
+Hunters Hot Springs, 45.7581, -110.2558
+Huntley, 45.8994, -108.3008
+Huson, 47.0314, -114.3264
+Hysham, 46.2928, -107.2336
+Iliad, 47.7986, -109.7853
+Independence, 45.2125, -110.2456
+Indian Arrow, 45.7836, -108.1742
+Ingomar, 46.5767, -107.3717
+Intake, 47.2939, -104.5214
+Inverness, 48.5500, -110.6833
+Iris, 46.7256, -113.6364
+Iron, 46.6867, -112.0597
+Ismay, 46.4972, -104.7936
+Iverness, 48.5564, -110.6883
+Jackson, 45.3681, -113.4081
+Janney, 45.9094, -112.4944
+Jardine, 45.0700, -110.6336
+Jeffers, 45.3489, -111.7047
+Jefferson City, 46.3883, -112.0267
+Jefferson Island, 45.8508, -111.9397
+Jellison Place, 46.6733, -110.0714
+Jennings, 48.3656, -115.3436
+Jens, 46.6042, -113.0053
+Jimtown, 45.6789, -106.6875
+Joliet, 45.4853, -108.9697
+Joplin, 48.5608, -110.7717
+Joppa, 46.2761, -106.3314
+Jordan, 47.3208, -106.9094
+Jordan Crossing, 48.5072, -107.2867
+Judith Gap, 46.6772, -109.7511
+Kalispell, 48.1958, -114.3119
+Kalispell Regional Hospital, 48.2133, -114.3150
+Kelley, 46.7642, -108.1775
+Kenilworth, 48.1756, -110.4397
+Kenspur, 46.5936, -114.0911
+Kerns, 45.7117, -111.1439
+Kershaw, 47.8133, -110.7386
+Kevin, 48.7453, -111.9644
+Keystone, 47.2683, -114.9347
+Kidd, 44.8011, -112.7519
+Kila, 48.1203, -114.4558
+Kingley, 45.8986, -107.6011
+Kingrey Place, 45.2267, -112.1450
+Kingston, 47.1297, -109.5967
+Kinsey, 46.5708, -105.6564
+Kintyre, 48.0731, -106.1514
+Kiowa, 48.5478, -113.2700
+Kirby, 45.3325, -106.9811
+Klein, 46.4042, -108.5486
+Knowles, 47.3472, -114.7122
+Knowlton, 46.3436, -105.0875
+Knox, 45.9439, -108.1975
+Kolin, 47.1067, -109.7722
+Kootenai Falls, 48.4481, -115.7817
+Kotke, 45.3386, -110.8969
+Koyl, 47.9003, -112.2619
+Kremlin, 48.5697, -110.0858
+Kuehn, 46.2833, -107.2333
+Kuka Crossing, 48.3139, -112.3922
+La Chapelle Place, 47.3406, -112.2900
+La Hood Park, 45.8531, -111.9214
+La Salle, 48.3131, -114.2431
+Lake Mary Ronan, 47.9431, -114.3936
+Lake McDonald, 48.6208, -113.8708
+Lakeside(Flathead), 48.0194, -114.2236
+Lakeside(Lewis and Clark), 46.6781, -111.8339
+Lakeside(Roosevelt), 48.0753, -104.1772
+Lakeview(Beaverhead), 44.5994, -111.8097
+Lakeview(Gallatin), 44.8047, -111.2400
+Lambert, 47.6836, -104.6203
+Lame Deer, 45.6231, -106.6661
+Lanark, 48.1347, -104.3617
+Lander Crossing, 47.6431, -110.9325
+Landusky, 47.8978, -108.6217
+Larchwood, 47.8503, -115.6269
+Laredo, 48.4314, -109.8825
+Larslan, 48.5833, -106.2000
+Laurel, 45.6692, -108.7708
+Laurin, 45.3528, -112.1172
+Lavina, 46.2947, -108.9372
+Lavon, 45.4667, -112.7167
+Leadville, 46.3144, -112.5422
+Leary Place, 45.0231, -112.0636
+Lebo, 46.3444, -110.3933
+Ledger, 48.2603, -111.8222
+Lehigh, 47.0433, -110.2064
+Leiterville, 45.5550, -112.1219
+Lennep, 46.4161, -110.5425
+Leonard Place, 45.2314, -112.1706
+Leroy, 47.8742, -109.3178
+Lewis and Clark Camp Hospital, 46.6222, -112.0369
+Lewistown, 47.0625, -109.4275
+Lewistown Junction, 47.0536, -109.4158
+Libby, 48.3883, -115.5550
+Lima, 44.6369, -112.5911
+Limestone, 45.4778, -109.9017
+Lincoln, 46.9550, -112.6808
+Lindisfarne(Camp Marshall), 47.8089, -114.2275
+Lindsay, 47.2189, -105.1533
+Lingshire, 46.8411, -111.4067
+Lippard, 47.9517, -110.3903
+Little Missouri, 45.3500, -104.6000
+Living Springs, 46.5922, -109.5356
+Livingston, 45.6625, -110.5603
+Lloyd, 48.2903, -109.3614
+Locate, 46.4333, -105.3000
+Lockwood, 45.7833, -108.5000
+Lodge Grass, 45.3144, -107.3625
+Lodge Pole, 48.0347, -108.5325
+Logan, 45.8844, -111.4267
+Lohman, 48.5897, -109.4044
+Lolo, 46.7589, -114.0800
+Lolo Hot Springs, 46.7278, -114.5297
+Loma, 47.9369, -110.5028
+Lombard, 46.1075, -111.3981
+Lonepine, 47.7031, -114.6358
+Loring, 48.7922, -107.8611
+Lost Creek, 46.1758, -112.9483
+Lothair, 48.4717, -111.2314
+Lothrop, 46.9908, -114.4461
+Lotts Hospital, 45.6600, -110.5628
+Louisville, 46.5628, -111.7950
+Lower Ellis Place, 47.2833, -112.2917
+Lower Sun River, 47.5000, -111.2833
+Loweth, 46.3689, -110.7069
+Lowry, 47.5125, -112.0089
+Lozeau, 47.1175, -114.7792
+Ludington, 47.8261, -104.0611
+Lupfer, 48.4836, -114.5103
+Lustre, 48.4000, -105.8833
+Luther, 45.2844, -109.4281

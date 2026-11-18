@@ -1,0 +1,153 @@
+Pablo, 47.6003, -114.1181
+Pacific Junction, 48.5564, -109.7592
+Pack and Lacey Crossing, 47.5447, -110.8992
+Packers Roost, 48.7458, -113.7792
+Paisley, 48.2319, -106.7239
+Pappas Place, 45.9714, -112.3581
+Paradise, 47.3894, -114.8011
+Paragon, 46.3653, -106.0028
+Park City(Stillwater), 45.6328, -108.9172
+Park City(Lewis and Clark), 46.5414, -112.1086
+Park Grove, 48.0303, -106.4447
+Park Hospital, 45.6597, -110.5606
+Parker, 46.1797, -111.6069
+Patterson, 45.6281, -111.0514
+Patterson Corner, 45.7875, -112.8914
+Peerless, 48.7825, -105.8306
+Pendroy, 48.0736, -112.2981
+Perma, 47.3639, -114.5839
+Peterson Place, 45.3739, -109.4553
+Petrolia, 47.0000, -108.3500
+Philipsburg, 46.3322, -113.2933
+Phillips, 48.0936, -108.1633
+Piche, 47.6086, -104.2303
+Piedmont, 45.8358, -112.1333
+Piegan, 48.4347, -112.6936
+Pierce Crossing, 48.3475, -112.4889
+Piltzville, 46.8614, -113.8617
+Pine Creek, 45.5075, -110.5633
+Pinegrove, 46.8803, -113.9022
+Pinnacle, 48.3561, -113.6522
+Pioneer(Powell), 46.5125, -112.9653
+Pioneer(Yellowstone), 45.7833, -108.5667
+Pioneer Junction, 48.3361, -115.5175
+Piper, 46.9900, -109.1997
+Pipestone, 45.9053, -112.2194
+Pipestone Hot Springs, 45.8942, -112.2300
+Plains, 47.4603, -114.8819
+Pleasant Prairie, 48.5922, -105.0819
+Pleasant Valley, 48.1000, -114.6667
+Pleasant View, 47.0361, -104.9294
+Plentywood, 48.7747, -104.5619
+Plevna, 46.4181, -104.5200
+Plum Creek, 47.2333, -109.7167
+Polaris, 45.3697, -113.1186
+Polebridge, 48.7653, -114.2842
+Polson, 47.6936, -114.1622
+Pompeys Pillar, 45.9914, -107.9514
+Pony, 45.6586, -111.8936
+Poplar, 48.1131, -105.1978
+Portage, 47.6528, -111.1239
+Portal, 46.3375, -112.1175
+Porters Corner, 46.2519, -113.3311
+Post Creek, 47.3992, -114.0958
+Potomac, 46.8817, -113.5786
+Powderville, 45.7589, -105.1147
+Power, 47.7158, -111.6861
+Powers, 45.7967, -111.1581
+Pownal, 47.4125, -110.1939
+Pray, 45.3803, -110.6808
+Primrose, 46.9272, -114.1658
+Princeton, 46.4169, -113.1647
+Proctor, 47.8925, -114.3044
+Pryor, 45.4297, -108.5325
+Quartz, 47.0519, -114.7683
+Quast, 46.3275, -114.1028
+Quebec, 45.7267, -109.6586
+Queen, 46.2514, -111.9642
+Queens Point, 46.5689, -107.9761
+Quietus, 45.0964, -106.2825
+Quigley, 46.6122, -113.6475
+Quinn, 45.6942, -112.7408
+Quinns, 47.3247, -114.8008
+Quintonkon, 48.0264, -113.7061
+Racetrack, 46.4000, -112.7333
+Radersburg, 46.1958, -111.6311
+Radnor, 48.6100, -114.6597
+Rainbow, 47.5383, -111.1992
+Ramsay, 46.0058, -112.6853
+Rankin Place, 45.2617, -109.4917
+Rapelje, 45.9719, -109.2544
+Rattlesnake(Missoula), 46.8833, -113.9667
+Rattlesnake(Blaine), 48.0981, -109.0481
+Ravalli, 47.2772, -114.1797
+Ravenna, 46.7144, -113.5306
+Raymond, 48.8764, -104.5797
+Raynesford, 47.2700, -110.7292
+Red Bluff, 45.5886, -111.6472
+Red Lodge, 45.1858, -109.2461
+Red Rock, 44.9006, -112.8181
+Red Rock Point, 48.6953, -113.8153
+Red Top, 47.4125, -104.8111
+Redstone, 48.8217, -104.9436
+Reed Point(Reedpoint P O), 45.7094, -109.5414
+Reeder Place, 45.0497, -112.0011
+Regina, 47.9067, -107.9211
+Renova, 45.8156, -112.1269
+Reserve, 48.6056, -104.4592
+Rexford, 48.8728, -115.2228
+Reynolds City, 46.8211, -113.2861
+Rhodes, 48.2792, -114.4733
+Riceville, 47.2147, -110.9328
+Richel Lodge, 45.0819, -109.3747
+Richey, 47.6439, -105.0744
+Richland, 48.8208, -106.0506
+Ridge, 45.0469, -105.0197
+Ridgelawn, 47.7919, -104.0858
+Ridgeway, 45.4853, -104.5114
+Riebeling, 47.5044, -112.1481
+Rim Rock Colony, 48.8958, -112.0944
+Rimini, 46.4881, -112.2458
+Rimrock, 45.8022, -108.7022
+Ringling, 46.2717, -110.8064
+Ripley, 48.3847, -115.4511
+Rising Sun, 48.6964, -113.5169
+Riverdale, 47.3467, -111.5919
+Riverside(Musselshell), 46.4317, -108.5719
+Riverside(Ravalli), 46.2747, -114.1572
+Riverside(The Barns,Gallatin), 44.6597, -111.0708
+Riverview, 47.6742, -104.1744
+Rivulet, 47.0000, -114.4833
+Roanwood, 48.9414, -106.4972
+Robere, 48.3256, -112.5511
+Roberts, 45.3597, -109.1669
+Robinson, 46.4739, -110.6675
+Rochester, 45.6128, -112.5050
+Rock Crossing, 48.4925, -104.3469
+Rock Springs, 46.8169, -106.2464
+Rocker, 46.0033, -112.6053
+Rockvale, 45.5225, -108.8611
+Rocky Boy, 48.2561, -109.7875
+Rocky Boys Indian Reservation, 48.3167, -110.0167
+Rocky Crossing, 48.2661, -110.0692
+Rodgers Hill, 47.5653, -106.0192
+Rogers, 47.5433, -110.9956
+Rollins, 47.9061, -114.1975
+Ronan, 47.5289, -114.1006
+Roosville, 48.9992, -115.0556
+Roscoe, 45.3497, -109.4958
+Rose Crossing, 48.2550, -114.2756
+Rosebud, 46.2744, -106.4442
+Ross Fork, 47.0772, -109.6922
+Ross Hall, 47.2094, -107.9369
+Round Butte, 47.5297, -114.2617
+Round Prairie, 48.4011, -114.4308
+Roundup, 46.4453, -108.5411
+Roundup Memorial Hospital, 46.4542, -108.5442
+Rowley, 45.7264, -107.7747
+Roy, 47.3314, -108.9592
+Roy-Winifred Junction, 47.0889, -109.4339
+Ruby, 45.3283, -112.0856
+Rudyard, 48.5600, -110.5533
+Rumsey, 46.2919, -113.2511
+Ryegate, 46.2972, -109.2581

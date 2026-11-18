@@ -1,0 +1,211 @@
+Saco, 48.4572, -107.3419
+Sage Creek Colony, 48.9294, -110.9736
+Salem, 47.5372, -111.0394
+Salmon Prairie, 47.6300, -113.7844
+Saltese, 47.4103, -115.5086
+Samples Crossing, 47.2736, -109.7194
+Sand Coulee, 47.3994, -111.1669
+Sand Creek, 48.1000, -105.6500
+Sand Springs, 47.1008, -107.4850
+Sanders, 46.2914, -107.0961
+Santa Rita, 48.7006, -112.3192
+Sapphire Village, 46.8892, -110.2506
+Sappington, 45.7950, -111.7667
+Sarpy, 45.8000, -107.2833
+Saugus, 46.6917, -105.4917
+Savage, 47.4536, -104.3422
+Savoy, 48.4742, -108.5431
+Sayle, 45.2269, -105.9950
+Saypo, 47.8089, -112.5653
+Schilling, 46.9642, -114.2008
+Schley, 47.1033, -114.0531
+Scholtztown, 47.0378, -110.2261
+Schusters Place, 44.8742, -111.5444
+Sciuchetti Place, 45.9431, -112.7725
+Scobey, 48.7925, -105.4203
+Seaver Park, 46.5833, -112.0333
+Sedan, 45.9589, -110.8503
+Seeley Lake, 47.1794, -113.4836
+Selmes, 45.3919, -109.1314
+Shambo Springs, 48.2931, -109.6650
+Shaw Place, 45.6458, -110.4575
+Shawmut, 46.3425, -109.5242
+Shaws, 45.6628, -111.7786
+Sheffels, 47.5947, -111.1494
+Sheffield, 46.3328, -106.1389
+Shelby, 48.5053, -111.8561
+Shepherd, 45.9436, -108.3417
+Shepherd Crossing, 47.6069, -110.8919
+Sheridan, 45.4556, -112.1961
+Sherry One, 46.5528, -113.2172
+Shields, 45.9569, -110.6400
+Shields Crossing, 48.4722, -112.3575
+Shields Valley, 45.9167, -110.6500
+Shirley, 46.5914, -105.5794
+Shonkin, 47.6289, -110.5719
+Sidney, 47.7167, -104.1558
+Sieben, 46.8986, -112.1264
+Silca, 46.1053, -112.8828
+Silesia, 45.5567, -108.8408
+Silver Bow, 46.0036, -112.6669
+Silver Bow Park, 46.0006, -112.4964
+Silver City, 46.7556, -112.1689
+Silver Gate, 45.0069, -109.9889
+Silver Star, 45.6903, -112.2822
+Simms, 47.4917, -111.9272
+Simpkins Place, 45.3133, -109.4072
+Simpson, 48.9286, -110.2053
+Sinclair, 46.4000, -112.7333
+Singleshot, 48.2472, -113.4797
+Sioux Crossing, 45.8714, -110.2436
+Sioux Pass, 47.9225, -104.3253
+Sipple, 46.9236, -109.7617
+Sixmile Crossing, 45.6906, -105.1936
+Sixteen, 46.2153, -110.9969
+Siyeh Bend, 48.7017, -113.6667
+Skones, 45.9633, -112.4614
+Skyline, 46.6511, -112.2844
+Slab Crossing, 48.2878, -104.6978
+Slayton Junction, 46.2981, -109.0608
+Sloan, 47.4928, -114.3283
+Smelter Hill, 47.5333, -111.2833
+Snider, 47.6039, -115.2175
+Snowden, 48.0269, -104.0836
+Snowslip, 48.2594, -113.4544
+Soda Springs, 45.5656, -108.2717
+Sodak Mill, 45.4283, -112.6000
+Sohon, 47.4428, -115.7019
+Somers, 48.0803, -114.2206
+Sonnette, 45.4131, -105.8308
+Soudan, 47.0264, -114.4000
+Sourdough, 45.9019, -109.8136
+South Butte, 45.9333, -112.4833
+South Fork, 48.3833, -114.0000
+South Garfield, 47.0667, -106.7500
+South of The Yellowstone, 45.6667, -110.0333
+South Toole, 48.5000, -111.7500
+South Treasure, 46.0833, -107.1500
+South Yellowstone, 45.7167, -108.4833
+Southern Cross, 46.1333, -112.9500
+Spear, 45.1997, -107.3786
+Sperry Chalets, 48.6050, -113.7847
+Sphinx, 45.1711, -110.8772
+Spion Kop, 47.2850, -110.6164
+Split Rock Junction, 47.5153, -112.4575
+Spring Creek Colony, 47.0667, -109.4333
+Spring Creek Junction, 47.1272, -109.5733
+Spring Gulch, 47.2303, -114.9797
+Springdale, 45.7383, -110.2264
+Springdale Colony, 46.4619, -111.0156
+Springhill, 45.8261, -111.1158
+Springtime, 45.6983, -109.3867
+Springtown, 46.7997, -113.2786
+Sprole, 48.1072, -105.0628
+Spurling, 45.6506, -108.8447
+Square Butte, 47.5150, -110.1975
+St Ignatius, 47.3200, -114.0931
+St James Hospital, 46.0089, -112.5444
+St Johns, 48.7992, -110.0064
+St Labre Mission, 45.4500, -106.0833
+St Mary, 48.7439, -113.4286
+St Peter, 47.2667, -111.7000
+St Regis, 47.2994, -115.1017
+St Vincent Hospital, 45.7933, -108.5189
+St Xavier, 45.4611, -107.7211
+Stacey, 45.7200, -105.8906
+Staley Place, 46.2436, -110.6558
+Stanford, 47.1536, -110.2175
+Stark, 47.1256, -114.5042
+Starr School, 48.5892, -113.1397
+State Capitol, 46.5833, -112.0333
+Staton, 46.0900, -112.8739
+Stemple, 46.8167, -112.2667
+Sterling, 45.5653, -111.7586
+Stevensville, 46.5100, -114.0922
+Steves Fork, 47.2731, -107.3364
+Stipek, 47.2122, -104.6644
+Stockett, 47.3567, -111.1644
+Stone, 46.5053, -113.2253
+Stonehill, 48.7461, -115.2994
+Stoner Place, 47.5144, -112.7292
+Story, 45.7269, -111.0814
+Stranahan, 47.9956, -110.3206
+Straw, 46.8167, -109.8333
+Stryker, 48.6742, -114.7692
+Stuart, 46.0858, -112.7969
+Stump Town, 46.1508, -113.0400
+Suffolk, 47.4669, -109.3550
+Sula, 45.8367, -113.9808
+Sumatra, 46.6183, -107.5506
+Summit(Glacier), 48.3194, -113.3525
+Summit(Madison), 45.2189, -111.9300
+Summit Valley, 45.7706, -111.8917
+Sumner, 48.7797, -108.1036
+Sun Prairie, 47.8456, -107.7458
+Sun River, 47.5333, -111.7206
+Sunburst, 48.8828, -111.9106
+Sundance, 48.6339, -112.5328
+Sunlight, 45.9000, -112.0167
+Sunnyside, 46.1156, -112.9928
+Sunset, 46.9381, -113.4658
+Superior, 47.1917, -114.8908
+Swan Lake, 47.9292, -113.8439
+Sweetgrass, 48.9961, -111.9597
+Swiftcurrent, 48.7975, -113.6681
+Sylvanite, 48.7164, -115.8733
+Taft, 47.4192, -115.5972
+Talc, 47.7203, -115.4344
+Tampico, 48.3047, -106.8264
+Tarkio, 47.0214, -114.7381
+Tate Place, 45.0539, -112.0161
+Tattnall, 48.6272, -107.5422
+Teigen, 47.0367, -108.5961
+Terminal Annex, 45.7833, -108.5000
+Terry, 46.7931, -105.3117
+The Pines, 47.4667, -114.8833
+Thebes, 46.5292, -107.2453
+Theony, 48.8769, -106.9169
+Thompson Falls, 47.5972, -115.3433
+Three Forks(Flathaed), 48.1136, -113.3078
+Three Forks(Gallatin), 45.8925, -111.5514
+Three Forks(Cascade), 47.2817, -111.0894
+Three Forks Junction, 45.8986, -111.5989
+Thurlow, 46.2878, -106.3056
+Tiber, 48.5089, -111.0800
+Tiber Dam Camp, 48.3103, -111.0867
+Tippet Place, 45.9258, -112.1822
+Tobacco, 48.8311, -114.9761
+Tobin, 46.6381, -112.1036
+Toluca, 45.7472, -107.8714
+Toole, 47.3261, -115.0219
+Top O'Deep, 46.8244, -113.2583
+Toston, 46.1728, -111.4403
+Townsend, 46.3192, -111.5200
+Tracy, 47.4131, -111.1533
+Trailcreek, 48.9192, -114.4064
+Trask, 46.1028, -112.4164
+Trego, 48.7053, -114.8683
+Trident, 45.9475, -111.4758
+Trout Creek, 47.8369, -115.5972
+Troy, 48.4633, -115.8886
+Truchot Hill, 47.8364, -112.1914
+Truly, 47.3558, -111.4406
+Tucker, 46.3708, -114.1417
+Tunis, 47.8069, -110.8419
+Turah, 46.8361, -113.8292
+Turner, 48.8436, -108.4064
+Tuscor, 47.9033, -115.6900
+Tusler, 46.5058, -105.7253
+Twin Bridges, 45.5444, -112.3303
+Twin Creeks, 46.9128, -113.7131
+Twodot, 46.4244, -110.0722
+Tyman Place, 46.2217, -110.6386
+Ulm, 47.4306, -111.5064
+Ulmer, 46.3544, -105.9289
+Unionville, 46.5414, -112.0842
+University Heights, 46.0336, -114.2147
+Upper Ellis Place, 47.3153, -112.3372
+Upper Yellowstone Valley, 45.5167, -110.6000
+Ural, 48.6097, -115.2533
+Urback Place, 45.6744, -110.4508
+Utica, 46.9683, -110.0917

@@ -1,0 +1,123 @@
+Valentine, 47.3117, -108.4214
+Valier, 48.3078, -112.2489
+Valleytown, 48.7056, -107.2392
+Van Norman, 47.3500, -106.3833
+Vananda, 46.3919, -107.0017
+Vandalia, 48.3547, -106.9092
+Varney, 45.2325, -111.7608
+Vaughn, 47.5606, -111.5450
+Vendome, 45.8178, -112.2417
+Verona, 48.1228, -110.1894
+Victor, 46.4167, -114.1492
+Victor Crossing, 46.4144, -114.1203
+Vida, 47.8319, -105.4925
+Vincent, 45.6958, -111.3592
+Virden, 48.5244, -111.9069
+Virgelle, 48.0153, -110.2497
+Virginia City, 45.2939, -111.9453
+Vista, 48.4633, -114.3936
+Volborg, 45.8428, -105.6806
+Volcour, 48.5486, -115.2167
+Volt, 48.1000, -105.6500
+Waco, 46.0739, -107.7064
+Wade, 45.1586, -108.8186
+Wagner, 48.3706, -108.0769
+Walkerville, 46.0342, -112.5350
+Wall City, 46.5439, -112.9378
+Waltham, 47.5697, -110.8900
+Wan-i-gan, 45.4167, -110.6333
+Ward, 46.1536, -114.1781
+Ware, 47.1844, -109.6672
+Warland, 48.5008, -115.2864
+Warm Spring Creek, 48.1333, -108.2000
+Warm Springs, 46.1814, -112.7839
+Warm Springs State Hospital, 46.1811, -112.7906
+Warren, 45.0600, -108.6578
+Warrick, 48.0717, -109.6053
+Washoe, 45.1639, -109.2125
+Waterloo, 45.7219, -112.1914
+Watkins(McCone), 47.2428, -105.8728
+Watkins(Madison), 45.4217, -111.6569
+Watson, 46.6692, -111.3683
+Wayne, 47.4419, -110.9583
+Webster, 46.3667, -104.2667
+Weed, 46.6489, -112.2542
+Weeksville, 47.5231, -114.9931
+Welch, 45.9311, -112.3142
+Weldon, 47.4167, -105.5833
+West End(Mineral), 47.3167, -115.1667
+West End(Gallatin), 45.6658, -110.8247
+West Fork, 48.6869, -105.9111
+West Gallatin, 45.7028, -111.2181
+West Glacier, 48.5000, -113.9778
+West Lewistown, 47.0983, -109.4642
+West Park Plaza, 45.7833, -108.5667
+West Riverside, 46.8772, -113.8889
+West Shore, 47.8500, -114.3500
+West Valley, 46.1519, -113.0217
+West Yellowstone, 44.6622, -111.1033
+Westby, 48.8703, -104.0514
+Westfall, 47.1211, -114.7869
+Westlake, 45.7294, -111.3400
+Westmore, 46.4742, -104.6444
+Wetzel, 48.7533, -113.1639
+Whately, 48.1628, -106.5108
+Wheeler, 48.0094, -106.5056
+White, 45.8108, -111.3228
+White City, 45.3039, -110.6856
+White Haven, 48.3450, -115.5164
+White Pine, 47.7436, -115.4814
+White Sulphur Springs, 46.5483, -110.9014
+Whitefish, 48.4111, -114.3367
+Whitefish Lake, 48.4000, -114.4167
+Whitehall, 45.8708, -112.0967
+Whites City, 46.6342, -111.4422
+Whitetail, 48.8950, -105.1628
+Whitewater, 48.7594, -107.6269
+Whitlash, 48.9083, -111.2522
+Wibaux, 46.9850, -104.1878
+Wickes, 46.3497, -112.1025
+Wilborn, 46.8836, -112.3422
+Willard, 46.1939, -104.3694
+Williams, 48.2753, -112.1294
+Williamsburg, 45.9919, -112.5564
+Willow Creek, 45.8253, -111.6439
+Willow Crossing, 45.5272, -106.1869
+Wilsall, 45.9939, -110.6594
+Windham, 47.0786, -110.1397
+Winifred, 47.5578, -109.3742
+Winnett, 47.0028, -108.3514
+Winston, 46.4767, -111.6581
+Wisdom, 45.6181, -113.4500
+Wise River, 45.7914, -112.9486
+Wisner Crossing, 45.7769, -111.0814
+Wolf Creek, 47.0061, -112.0683
+Wolf Point, 48.0906, -105.6400
+Wood Place, 45.7228, -106.4236
+Woodin, 45.8114, -112.7081
+Woods Bay, 48.0017, -114.0494
+Woods Crossing, 47.8778, -111.2672
+Woods Place(Park), 45.6942, -110.2606
+Woods Place(Petroleum), 47.5025, -108.1450
+Woodside, 46.3133, -114.1542
+Woodside Crossing, 46.3128, -114.1442
+Woodville, 46.0522, -112.4453
+Woodward Place, 45.1328, -111.7628
+Woodworth, 47.1064, -113.3017
+Wooley, 47.7650, -104.1053
+Worden, 45.9600, -108.1603
+Wurtz Hill, 48.9039, -114.3894
+Wyola, 45.1294, -107.3925
+X Crossing, 47.7033, -107.7819
+Yaak, 48.8331, -115.7078
+Yakt, 48.5456, -115.9678
+Yarnell, 48.4708, -115.2914
+Yates, 46.9511, -104.1300
+Yegen, 45.7236, -108.6219
+Yellowtail, 45.7333, -107.6167
+Yogo Crossing, 46.8556, -110.3158
+York, 46.7217, -111.7511
+Yreka, 46.8614, -113.3300
+Zero, 46.6692, -105.4881
+Zortman, 47.9178, -108.5256
+Zurich, 48.5844, -109.0297
