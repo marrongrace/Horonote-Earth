@@ -1,0 +1,199 @@
+Nacora, 42.3186, -96.6606
+Naper, 42.9636, -99.0964
+Naponee, 40.0767, -99.1411
+Nashville, 41.4064, -95.9964
+Natick, 41.9558, -100.4392
+Nebraska City, 40.6767, -95.8589
+Nehawka, 40.8294, -95.9914
+Neligh, 42.1286, -98.0294
+Nelson, 40.2017, -98.0675
+Nemaha, 40.3383, -95.6728
+Nenzel, 42.9278, -101.1025
+Nevens, 41.1850, -101.4239
+New Era, 40.3000, -99.6833
+New Helena, 41.6114, -99.7508
+New York, 40.9167, -97.5333
+Newark, 40.6411, -98.9628
+Newcastle, 42.6514, -96.8733
+Newman, 41.1833, -96.8500
+Newman Grove, 41.7500, -97.7750
+Newport, 42.6014, -99.3269
+Newton, 40.0500, -96.9667
+Nickerson, 41.5344, -96.4700
+Nim City, 40.0439, -95.8694
+Nimburg, 41.3653, -96.9469
+Niobrara, 42.7547, -98.0283
+Noble, 41.7000, -98.8500
+Nonpareil, 42.3722, -103.1808
+Nora, 40.1617, -97.9700
+Norden, 42.8686, -100.0736
+Norfolk, 42.0333, -97.4167
+Norfolk State Hospital, 42.0519, -97.3844
+Norman, 40.4797, -98.7919
+North Auburn, 40.3833, -95.8500
+North Bend, 41.4619, -96.7794
+North Bluff, 40.9167, -96.6167
+North Cedar, 41.4167, -96.6167
+North Crawford, 42.7833, -103.4333
+North Deer Creek, 42.0667, -97.6500
+North Dry Creek, 42.4000, -97.7833
+North Fork, 40.4833, -97.2000
+North Franklin, 40.3000, -98.7833
+North Loup, 41.4953, -98.7728
+North Mc Williams, 40.5833, -96.0667
+North Oaks, 41.3167, -96.0333
+North Omaha, 41.3167, -95.9500
+North Palmyra, 40.7333, -96.4000
+North Platte, 41.1239, -100.7650
+North Rosedale, 41.3333, -100.9167
+North Russell, 40.7333, -96.2833
+North Shore, 42.4406, -96.4414
+North Star(Frontier), 40.4833, -100.5000
+North Star(Nance), 41.3733, -98.1344
+North Syracuse, 40.6667, -96.1833
+North Valley, 40.3000, -100.2333
+Northport, 41.6822, -103.0869
+Northwest, 41.3000, -96.0333
+Norway, 41.9989, -100.7178
+Nowell, 41.0833, -100.9833
+Nysted, 41.1344, -98.6142
+O'Connor, 41.5106, -98.4736
+O'Fallons, 41.1603, -101.0767
+O'Neill, 42.4578, -98.6472
+Oak, 40.2369, -97.9031
+Oak Grove, 40.0500, -99.0167
+Oak Mill, 40.2258, -97.8756
+Oakdale, 42.0697, -97.9689
+Oakland, 41.8358, -96.4667
+Obert, 42.6897, -97.0278
+Oconee, 41.4700, -97.5186
+Oconto, 41.1411, -99.7628
+Octavia, 41.3481, -97.0586
+Odell, 40.0500, -96.8031
+Odessa, 40.7017, -99.2564
+Offutt Air Force Base, 41.1500, -95.9500
+Ogallala, 41.1281, -101.7192
+Ohio, 40.1333, -95.6167
+Ohiowa, 40.4144, -97.4525
+Old Mill, 41.3000, -96.0333
+Olean(Colfax), 41.7361, -96.9450
+Olean(Valley), 41.5608, -98.8072
+Olive Branch, 40.5667, -96.8500
+Oliver, 41.2294, -103.7875
+Omadi, 42.4000, -96.4833
+Omaha, 41.2586, -95.9375
+Omaha Indian Reservation, 42.1167, -96.4667
+Oneida, 40.4000, -99.1000
+Ong, 40.3986, -97.8356
+Opportunity, 42.5961, -98.5008
+Orafino, 40.4972, -100.2286
+Orange, 42.6500, -103.3833
+Orchard, 42.3356, -98.2425
+Ord, 41.6033, -98.9258
+Ordville, 41.2500, -103.0500
+Oreapolis, 41.0475, -95.9181
+Orella, 42.8933, -103.5000
+Orleans, 40.1292, -99.4550
+Orum, 41.5458, -96.2703
+Orville, 40.7333, -98.0000
+Osage, 40.5667, -96.1833
+Osborn, 40.4000, -100.7333
+Osceola, 41.1797, -97.5472
+Osgood, 41.0833, -100.7667
+Oshkosh, 41.4050, -102.3439
+Osmond, 42.3600, -97.5964
+Otis, 41.0000, -97.8833
+Otoe, 40.7236, -96.1167
+Otter Creek, 42.4500, -96.7500
+Ough, 40.3222, -101.5122
+Overland, 41.0775, -97.9858
+Overton, 40.7386, -99.5372
+Ovina, 40.9686, -98.4550
+Owasco, 41.2394, -103.5744
+Oxford, 40.2483, -99.6331
+Oxford Junction, 40.2350, -99.5986
+Paddock(Holt), 42.7781, -98.6186
+Paddock(Merrick), 41.0817, -98.0603
+Palisade, 40.3492, -101.1072
+Palmer, 41.2222, -98.2569
+Palmyra, 40.7044, -96.3872
+Panama, 40.5978, -96.5106
+Panhandle, 42.4333, -103.9500
+Papillion, 41.1544, -96.0419
+Park, 41.2833, -102.1500
+Parks, 40.0417, -101.7247
+Parkview, 40.9028, -98.3472
+Paul, 40.5953, -95.8964
+Pauline, 40.4164, -98.3453
+Pawnee City, 40.1083, -96.1542
+Pawnee Village, 40.0586, -98.4039
+Paxton, 41.1242, -101.3558
+Payne, 41.0500, -100.6000
+Pearl, 40.6667, -101.6333
+Pebble, 41.7000, -96.7333
+Peckham, 40.9333, -100.2833
+Pelton, 41.9208, -103.8328
+Pender, 42.1142, -96.7069
+Penn, 41.4000, -102.3500
+Peoria, 42.6500, -97.6667
+Perrin, 41.8125, -103.2458
+Perry, 40.2103, -100.7225
+Pershing, 41.7833, -96.5000
+Peru, 40.4742, -95.7333
+Petersburg, 41.8533, -98.0783
+Pewaukee, 42.1833, -99.5667
+Phillips, 40.8972, -98.2144
+Pickrell, 40.3786, -96.7283
+Pierce, 42.1992, -97.5264
+Pigeon Creek, 42.4000, -96.6833
+Pilger, 42.0086, -97.0536
+Pine, 42.5500, -99.7000
+Pine Creek, 42.3333, -102.4000
+Pine Glen, 42.6833, -99.7500
+Pine Lake, 40.7444, -96.6117
+Pine Ridge, 42.4944, -103.4717
+Piper, 41.7597, -103.2581
+Pishelville, 42.7269, -98.2119
+Plainview, 42.3497, -97.7917
+Plant, 41.0000, -100.6833
+Platte Center, 41.5375, -97.4881
+Platte Valley, 41.3500, -96.3500
+Plattsmouth, 41.0114, -95.8819
+Pleasant, 40.1333, -96.9667
+Pleasant Dale, 40.7922, -96.9292
+Pleasant Hill(Custer), 41.4803, -100.0781
+Pleasant Hill(Saline), 40.5867, -97.0814
+Pleasant Home, 41.1000, -97.7500
+Pleasant Valley(Ceder), 42.6128, -97.4264
+Pleasant Valley(Dodge), 41.6167, -96.8500
+Pleasanton, 40.9675, -99.0861
+Plum Grove, 42.4000, -97.5500
+Plymouth, 40.3031, -96.9886
+Pohocco, 41.3667, -96.5167
+Point of Rocks, 41.2103, -103.2456
+Polk, 41.0767, -97.7836
+Ponca(Dixon), 42.5625, -96.7053
+Ponca(Knox), 42.7119, -98.0742
+Ponce Indian Reservation, 42.7167, -98.0667
+Poole, 40.9797, -98.9694
+Portal, 41.1764, -96.0806
+Porter, 40.2167, -95.8500
+Posen, 41.2167, -98.6667
+Potsdam, 40.3000, -98.4500
+Potter, 41.2175, -103.3153
+Powell, 40.2208, -97.2844
+Prague, 41.3103, -96.8081
+Prairie, 40.4000, -99.3667
+Prairie Center, 40.8589, -99.0547
+Prairie Dog, 40.0333, -99.3667
+Prairie Home, 40.8647, -96.5206
+Prairie Island, 41.1500, -97.8667
+Precept, 40.0678, -99.7328
+Preston, 40.0344, -95.5169
+Primrose, 41.6231, -98.2378
+Princeton, 40.5736, -96.7044
+Prosser, 40.6872, -98.5764
+Providence Hospital, 40.8039, -96.6553
+Purdum, 42.0650, -100.2581
+Quick, 40.4392, -100.6472
+Quinnebaugh, 41.9500, -96.2000

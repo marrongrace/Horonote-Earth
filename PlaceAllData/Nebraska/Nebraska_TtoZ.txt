@@ -1,0 +1,184 @@
+Table Rock, 40.1783, -96.0964
+Tabor, 41.8333, -103.5167
+Talmage, 40.5306, -96.0214
+Tamora, 40.8939, -97.2247
+Tangeman, 40.5586, -96.0861
+Tarnov, 41.6158, -97.5019
+Taylor, 41.7703, -99.3783
+Tecumseh, 40.3667, -96.1958
+Tekamah, 41.7783, -96.2208
+Telbasta, 41.5817, -96.3858
+Terrytown, 41.8475, -103.6611
+Tewsville, 42.7569, -97.7394
+Thatcher, 42.8061, -100.4658
+Thayer, 41.2097, -97.4975
+The Mall, 41.1333, -100.7667
+Thedford, 41.9783, -100.5758
+Thomas Place, 42.3489, -100.3325
+Thompson(Fillmore), 40.0683, -97.2583
+Thompson(Pierce), 42.3833, -97.6500
+Thornburg, 40.4833, -100.8333
+Thornton, 40.8333, -99.0000
+Thune, 41.4833, -101.4500
+Thurman, 42.4833, -99.5333
+Thurston, 42.1772, -96.7006
+Tilden, 42.0472, -97.8336
+Timber Creek, 41.4481, -98.1956
+Tipton, 40.8333, -96.4000
+Tobias, 40.4181, -97.3358
+Todd, 40.8811, -95.9300
+Todd Creek, 40.3167, -96.1333
+Tony, 41.8306, -103.3953
+Touhy, 41.1331, -96.8228
+Townhall, 40.5464, -97.4256
+Townsend, 42.0833, -104.0167
+Trenton, 40.1756, -101.0125
+Triumph, 41.3833, -100.0000
+Trognitz, 41.3667, -103.3000
+Trout, 41.8964, -103.6028
+Trued, 40.7278, -99.4639
+Trumbull, 40.6794, -98.2731
+Tryon, 41.5528, -100.9572
+Tyrone, 40.1333, -100.2500
+Uehling, 41.7342, -96.5047
+Ulysses, 41.0719, -97.2017
+Unadilla, 40.6833, -96.2694
+Union, 40.8133, -95.9225
+Union Creek, 41.8667, -97.3000
+Union Valley, 41.4000, -102.9000
+University Place, 40.8408, -96.6550
+Upland, 40.3186, -98.9008
+Upper Driftwood, 40.0500, -101.0500
+Utica, 40.8994, -97.3992
+Valentine, 42.8728, -100.5506
+Valley, 41.3128, -96.3458
+Valley Grange, 40.1500, -100.6000
+Valparaiso, 41.0814, -96.8314
+Vance, 41.7772, -103.1128
+Velma, 41.6314, -101.9414
+Venango, 40.7636, -102.0403
+Venice, 41.2339, -96.3533
+Venus, 42.4572, -98.2675
+Verdel, 42.8111, -98.1922
+Verdigre, 42.5969, -98.0333
+Verdon, 40.1483, -95.7125
+Vernon, Mount, 41.1067, -103.1992
+Verona(Adams), 40.6500, -98.5500
+Verona(Clay), 40.5536, -97.9658
+Vesta, 40.3564, -96.3372
+Veterans Administration Hospital, 41.2500, -95.9667
+Veterans Hospital, 41.2428, -95.9739
+Victor, 40.3000, -98.2167
+Victoria, 41.6167, -99.8000
+Vieregg, 40.9500, -98.2500
+Vincent, 40.2167, -100.0167
+Vinton, 41.5167, -99.0333
+Virginia, 40.2458, -96.4967
+Vothees, 41.6483, -97.8889
+Vroman, 40.9669, -100.2569
+Wabash, 40.8864, -96.2542
+Waco, 41.7331, -97.4631
+Wagners Lake, 41.4219, -97.3853
+Wahoo, 41.2114, -96.6200
+Wakefield, 42.2692, -96.8647
+Wallace, 40.8383, -101.1644
+Walnut, 42.5494, -98.2086
+Walnut Creek, 40.0500, -98.6667
+Walnut Grove, 42.5167, -98.2500
+Walthill, 42.1483, -96.4881
+Walton, 40.7986, -96.5617
+Walworth, 41.6528, -99.5772
+Wanda, 40.5667, -98.6667
+Wann, 41.1467, -96.3556
+Warbonnet, 42.8167, -103.9167
+Ware, 42.9833, -98.7667
+Warnerville, 41.9600, -97.4458
+Warsaw, 41.2000, -98.5667
+Washington, 41.3975, -96.2078
+Waterbury, 42.4578, -96.7344
+Waterloo, 41.2869, -96.2853
+Wauneta, 40.4183, -101.3708
+Wausa, 42.4994, -97.5417
+Waverly, 40.9175, -96.5281
+Wayne, 42.2306, -97.0175
+Wayside, 42.9500, -103.3333
+Webster, 41.5972, -96.7897
+Wee Town, 42.2067, -97.4258
+Weeping Water, 40.8700, -96.1403
+Weir, 42.0381, -101.3664
+Weissert, 41.4672, -99.4428
+Weitzel, 41.7000, -97.8833
+Well, 40.8833, -100.7000
+Wellfleet, 40.7522, -100.7294
+Wells, 42.2833, -101.0333
+Wescott, 41.5389, -99.2697
+West Branch, 40.0500, -96.2833
+West Chadron, 42.8500, -103.0667
+West Dodge, 41.2667, -95.9667
+West Gordon, 42.8167, -102.2667
+West Lincoln, 40.8378, -96.7308
+West Mirage, 42.4500, -102.7000
+West Newman, 41.3000, -98.0333
+West Oak, 41.0000, -96.8500
+West Ogallala, 41.1167, -101.7833
+West Omaha, 41.2667, -96.0500
+West Point, 41.8417, -96.7083
+West Rock Bluffs, 40.9167, -95.9500
+West Union, 41.6833, -99.5000
+West Winters Creek, 41.8833, -103.7000
+Western, 40.3936, -97.1978
+Westerville, 41.3961, -99.3806
+Westmark, 40.5978, -99.5297
+Weston, 41.1942, -96.7425
+Westside, 40.6333, -99.5833
+Weyerts, 41.1500, -102.6333
+Whistle Creek, 42.4167, -103.5667
+White River, 42.6167, -103.5333
+Whiteclay, 42.9969, -102.5542
+Whitetail, 41.2667, -101.6000
+Whitewater, 41.6500, -101.2833
+Whitman, 42.0419, -101.5228
+Whitney, 42.7828, -103.2556
+Whittier, 41.3667, -100.5167
+Wilber, 40.4814, -96.9603
+Wilbur, 42.3000, -97.0833
+Wilcox, 40.3650, -99.1697
+Williamsburg, 40.6500, -99.4500
+Willis, 42.4753, -96.6286
+Willow Creek, 42.2333, -97.7667
+Willow Grove, 40.2333, -100.5833
+Willow Island, 40.8886, -100.0711
+Willow Springs, 41.8500, -99.0833
+Willowdale, 42.5667, -98.4167
+Wilson Ranch, 42.6950, -99.0769
+Wilsonville, 40.1119, -100.1067
+Winnebago, 42.2358, -96.4722
+Winnebago Indian Reservation, 42.2333, -96.4667
+Winnetoon, 42.5125, -97.9606
+Winside, 42.1764, -97.1747
+Winslow, 41.6092, -96.5042
+Wisner, 41.9872, -96.9139
+Wolbach, 41.3969, -98.3939
+Wood Lake, 42.6386, -100.2378
+Wood River, 40.8206, -98.5997
+Woodcliff, 41.3817, -96.4714
+Woodlawn, 40.8800, -96.7789
+Woodson, 40.9500, -101.3667
+Woodville, 41.5667, -97.7667
+Worden, 41.6500, -101.0667
+Worms, 41.0972, -98.2686
+Wounded Knee, 42.9500, -102.2333
+Wright, 42.1000, -103.0500
+Wrights, 41.6167, -103.4833
+Wymore, 40.1222, -96.6622
+Wynot, 42.7403, -97.1689
+Wyoming, 40.7356, -95.9192
+Yale, 41.4333, -99.0333
+Yankee, 40.7833, -101.4000
+Yankee Hill, 40.7667, -96.7333
+Yockey, 41.7500, -103.1833
+York, 40.8681, -97.5917
+Yossem's Paradise Valley, 41.3000, -96.0333
+Yutan, 41.2450, -96.3969
+Zero, 40.4000, -98.4500
+Zimmer, 40.4833, -100.7167
