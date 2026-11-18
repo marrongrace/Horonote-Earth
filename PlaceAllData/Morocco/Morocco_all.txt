@@ -1,0 +1,166 @@
+Aazanèn, 35.2167, -3.1667
+Agadir, 30.4333, -9.6000
+Ahfir, 34.9500, -2.2833
+Ait Youssef ou Ali, 35.2167, -3.9167
+Akka, 29.3667, -8.2333
+Aknoul, 34.7167, -3.8167
+Al-Hajeb, 33.7167, -5.2167
+Al-Hoceïma, 35.2500, -3.916
+Alcazarquivir(Er-Rachidia) > Er-Rachidia, 31.9667, -4.4167
+Alcazarquivir(Larache) > Ksar el-Kebir, 35.0167, -5.9000
+Amerzgane, 31.0000, -7.1667
+Amizmiz, 31.2333, -8.2333
+Arbaoua, 34.9000, -5.9333
+Asilah, 35.5333, -6.0000
+Asni, 31.2333, -7.9167
+Assa, 28.5667, -9.4500
+Azemmour, 33.3333, -8.4167
+Azilal, 31.9667, -6.5667
+Azrou, 33.4500, -5.2333
+Aït-Melloul, 30.3500, -9.5167
+Aït-Ourir, 31.6333, -7.7000
+Bab Taza, 35.0500, -5.2333
+Ben-Slimane, 33.6833, -7.1667
+Benahmed, 33.1167, -7.2833
+Benguerir, 32.2333, -7.9500
+Beni-Mellal, 32.3667, -6.4833
+Berguent, 34.0500, -2.0333
+Berkane, 34.9833, -2.3333
+Berrechid, 33.2833, -7.5833
+Bine el Ouidane, 32.1167, -6.4333
+Bou Anane, 32.0500, -3.0500
+Bou Arfa, 32.5000, -1.9833
+Bou Izakarn, 29.1500, -9.7333
+Boudenib, 31.9500, -4.6333
+Boudnib, 31.9500, -4.6333
+Boujad, 32.8000, -6.4333
+Boulmane, 33.3667, -4.7500
+Boumalne, 31.3500, -5.9833
+Casablanca(Dal-El-Beida), 33.6500, -7.5833
+Chaouèn, 35.1667, -5.2667
+Chechaouene(Xauen), 35.1667, -5.2667
+Chemaïa(Marrakech), 31.5000, -8.7833
+Chemaïa(Safi), 32.0833, -8.6167
+Dakhla, 23.7167, -15.9500
+Dar-Beni-Kriche-Bahri, 35.5000, -5.3333
+Dar-Ould-Zidouh, 32.3667, -6.8167
+Dardara, 35.1333, -5.2500
+Demnat, 31.7333, -6.9833
+Demnate, 31.7333, -6.9833
+El Aaiún, 27.1500, -13.2000
+El Kelâa des Srarhna, 32.0333, -7.3833
+El-Borj, 35.7167, -5.6667
+El-Borouj, 32.5000, -7.1667
+El-Hajeb, 33.7167, -5.2167
+El-Jadida(Mazagan), 33.2667, -8.5000
+El-Jebha, 35.2167, -4.6333
+Er-Rachidia, 31.9667, -4.4167
+Erfoud, 31.4667, -4.1667
+Essaouira(Mogador), 31.5000, -9.7833
+Figuig, 32.1667, -1.2500
+Fkih Ben Salah, 32.5333, -6.6667
+Foum el Hassane, 28.9833, -8.9167
+Foum Zguid, 30.0667, -6.9000
+Foum-El-Hisn, 28.9833, -8.9167
+Fès, 34.0833, -4.9500
+Goulmima, 31.7000, -4.9500
+Guelmime, 28.9333, -10.0667
+Guelta Zemmur, 25.2500, -12.3333
+Guercif, 34.2500, -3.3500
+Güera, 20.8000, -17.1333
+Hawza, 27.1000, -10.9167
+Ifrane, 33.5333, -5.1000
+Imi n'Tanout, 31.1667, -8.8333
+Jerada, 34.2833, -2.2167
+Karia-Ba-Mohammed, 34.3167, -5.1667
+Kasba Tadla, 32.5667, -6.3000
+Kenitra(Port-Lyautey), 34.2667, -6.6667
+Ketama, 34.8333, -4.6167
+Khemisset, 33.8333, -6.0500
+Khenifra, 33.0000, -5.6667
+Khouribga, 32.9000, -6.9500
+Ksar el-Kebir, 35.0167, -5.9000
+Ksar es-Seghir, 35.8333, -5.5333
+Ksar es-Souk, 31.9667, -4.4167
+Larache, 35.2000, -6.1667
+Louis Gentli > Youssoufia, 32.2667, -8.5500
+Mahbés, 27.2167, -9.7333
+Marrakech, 31.6333, -8.0000
+Martil, 35.6167, -5.2833
+Mazagan > El-Jadida, 33.2667, -8.5000
+Mechra Safsaf, 34.8667, -2.6000
+Meknès, 33.8833, -5.6167
+Mesied, 26.6000, -13.0000
+Mestasa, 35.1167, -4.4167
+Midar, 34.9667, -3.5000
+Midelt, 32.6833, -4.7167
+Mogador > Essaouira, 31.5000, -9.7833
+Mohammedia(Fedala), 33.7333, -7.4000
+Mokrisset, 34.9833, -5.3333
+Moulay Bou Selham, 34.8833, -6.2500
+Moulay-Idriss, 34.0333, -5.4500
+Nador, 35.2000, -2.9167
+Oualidia, 32.7333, -9.1333
+Ouarzazate, 30.9500, -6.8333
+Oued Zem, 32.9167, -6.5500
+Ouezzane, 34.8667, -5.5833
+Oujda, 34.6833, -1.7500
+Ounara, 31.5500, -9.4667
+Port-Lyautey > Kenitra, 34.2667, -6.6667
+Rabat, 34.0333, -6.8500
+Regaïa, 35.6333, -5.7667
+Restinga, 35.7000, -5.3833
+Rissani, 31.3833, -4.1500
+Rommani, 33.5333, -6.6167
+Safi, 32.3333, -9.2833
+Salé, 34.0667, -6.8333
+Saïdia, 35.0667, -2.2500
+Sefrou, 33.8333, -4.8333
+Segangane, 35.1500, -3.0000
+Selouane, 35.0667, -2.9667
+Semara, 26.7333, -11.6833
+Settat, 33.0667, -7.6167
+Sidi Ifni, 29.4000, -10.2000
+Sidi Kacem, 34.2500, -5.6500
+Sidi Smaïl, 32.8167, -8.5000
+Sidi-Bennour, 32.5000, -8.5000
+Sidi-Slimane, 34.2500, -5.8167
+Souk Khemis du Sahel, 35.2833, -6.0833
+Souk Larbat Gharb, 34.7167, -6.0167
+Souk-el-Arba-des-Beni-Hassan, 35.2667, -5.3333
+Souk-el-Arba-du-Rharb, 34.7167, -6.0167
+Tafraout, 29.6667, -8.9667
+Tafraoute, 29.6667, -8.9667
+Tagounit, 29.9667, -5.6000
+Tahala, 34.0667, -4.3333
+Tahanaoute, 31.4000, -7.9000
+Tahnaout, 31.4000, -7.9000
+Taliouine, 30.6000, -7.8167
+Tamanar, 31.0000, -9.5833
+Tamelelt, 31.8333, -7.4833
+Tamri, 30.7167, -9.7167
+Tan Tan, 28.4333, -11.1000
+Tanger(Tangier), 35.8000, -5.7500
+Taounate, 34.4167, -4.6500
+Taourirt, 34.4167, -2.8833
+Tarfaya, 27.9667, -12.9167
+Targa, 35.4000, -5.0167
+Targuist, 34.9500, -4.3000
+Tarhjicht, 29.0833, -9.4000
+Tarhjijt, 29.0833, -9.4000
+Taroudant, 30.5167, -8.9167
+Tata, 29.7333, -7.9333
+Taza, 34.2667, -4.0167
+Tazenakht, 30.5833, -7.2000
+Tendrara, 33.0667, -1.9833
+Tichla, 21.5833, -14.9667
+Tiglit, 28.5167, -10.2500
+Tinrhir, 31.4667, -5.5000
+Tiznit, 29.7167, -9.7333
+Torres de Alcalá, 35.1667, -4.3167
+Tétouan, 35.5667, -5.3833
+Villa Cisneros, 23.6667, -15.9167
+Xauen > Chechaouene, 35.1667, -5.2667
+Youssoufia(Louis Gentli), 32.2667, -8.5500
+Zagora, 30.3667, -5.8333
+Zaouia Bouhamed, 35.4167, -5.0000
