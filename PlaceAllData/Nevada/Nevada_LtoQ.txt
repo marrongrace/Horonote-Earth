@@ -1,0 +1,156 @@
+Lake, 40.4000, -118.3333
+Lake Mead Base, 36.2000, -115.0833
+Lake Tahoe, 39.0167, -119.9500
+Lakeridge, 39.0364, -119.9472
+Lakeview, 39.2083, -119.8044
+Lamoille, 40.7281, -115.4775
+Lane, 39.2631, -114.9406
+Lane City, 39.2606, -114.9306
+Las Vegas, 36.1750, -115.1364
+Las Vegas Highlands, 36.2000, -115.1333
+Lathrop Wells, 36.6439, -116.3994
+Laughlin, 35.1678, -114.5722
+Lavon, 39.3278, -114.7958
+Lawton, 39.5122, -119.9056
+Lee, 40.5667, -115.6000
+Lee Canyon Camp, 36.3106, -115.6742
+Leeland, 36.5861, -116.5853
+Lemmon Valley, 39.5167, -119.8167
+Lida, 37.4583, -117.4972
+Lincoln County Medical Clinic, 37.6231, -114.5136
+Lincoln County Memorial Hospital, 37.6228, -114.5133
+Lincoln Park, 39.0397, -119.9472
+Lockes, 38.5550, -115.7742
+Lockwood, 39.5072, -119.6456
+Logan, 36.6167, -114.4333
+Logandale, 36.5967, -114.4833
+Longacres Park, 36.1833, -115.1167
+Loray, 41.1422, -114.3172
+Lovell, 36.2914, -115.0422
+Lovelock, 40.1794, -118.4725
+Lower Rochester, 40.2858, -118.2000
+Lucky Boy, 38.4603, -118.6781
+Lund, 38.8567, -115.0069
+Luning, 38.5064, -118.1806
+Lux, 39.1272, -119.1128
+Lyman Crossing, 37.1589, -114.4728
+Majors Place, 39.0250, -114.5811
+Manhattan, 38.5389, -117.0725
+Marietta, 38.2433, -118.3378
+Martin, 39.6042, -119.8708
+Mason, 38.9500, -119.1892
+Mason Valley, 38.9833, -119.1333
+Massie, 39.5969, -118.9750
+McCoy, 40.3203, -117.2242
+McDermitt, 41.9975, -117.7172
+McGill, 39.4050, -114.7778
+McGill Junction, 39.3722, -114.8003
+McLeans, 38.0478, -117.6511
+Melandco, 41.2833, -114.8356
+Mellan, 37.7125, -116.5939
+Mendha, 37.9561, -114.5136
+Mercury, 36.6606, -115.9936
+Mesquite, 36.8056, -114.0664
+Metropolis, 41.1000, -114.9667
+Midas, 41.2442, -116.7958
+Middlegate, 39.2878, -118.0256
+Midway, 38.7236, -118.3003
+Mill City, 40.6836, -118.0694
+Millens Landing, 39.6267, -118.5219
+Millers, 38.1367, -117.4567
+Mina, 38.3906, -118.1078
+Minden, 38.9542, -119.7647
+Mine Mountain Junction, 36.9733, -116.1725
+Mineral, 40.1736, -116.1858
+Minerva, 38.8283, -114.3914
+Miriam, 39.9586, -118.6869
+Mizpah, 40.3958, -114.6625
+Moapa, 36.6758, -114.6200
+Moapa River, 39.1500, -119.7833
+Mogul, 39.5139, -119.9250
+Moleen, 40.7386, -115.9467
+Montello, 41.2614, -114.1933
+Montezuma, 37.7039, -117.3681
+Montezuma Wells, 38.1719, -117.4156
+Moor, 41.1172, -114.8142
+Morey, 38.6667, -116.2561
+Mosel, 40.6739, -116.6483
+Mosier, 39.2606, -114.8261
+Mote, 40.7425, -117.0597
+Mottsville, 38.9286, -119.8367
+Mount Airy, 39.5036, -117.3786
+Mount Grant General Hospital, 38.5169, -118.6267
+Mount Montgomery, 37.9797, -118.3206
+Mountain City, 41.8386, -115.9644
+Mountain Springs, 36.0208, -115.5081
+Mud Springs, 38.2800, -114.1347
+Mustang, 39.5219, -119.6275
+Narrow Landing, 39.6347, -118.4958
+Nellis, 36.2333, -115.0500
+Nellis Air Force Base, 36.2000, -115.0833
+Nelson, 35.7081, -114.8239
+Nelsons Landing, 35.7078, -114.7125
+Nevada Mental Health Institute, 39.5297, -119.7756
+Nevada State Hospital, 39.5297, -119.7756
+New Empire, 39.1797, -119.7242
+New River, 39.5000, -118.7667
+New Washoe City, 39.2964, -119.7747
+Nightingale, 40.0108, -119.2250
+Ninemile Rocks, 37.7825, -114.2247
+Nixon, 39.8319, -119.3569
+Nordyke, 38.8914, -119.1861
+North Battle Mountain, 40.7167, -116.9000
+North Fork, 40.8333, -115.7667
+North Las Vegas, 36.1989, -115.1167
+Nye County Hospital, 38.0617, -117.2214
+Oasis, 41.0333, -114.4833
+Ocala, 39.9103, -118.7344
+Ola, 40.7214, -114.1458
+Old Page Place, 38.5403, -116.4444
+Olinghouse, 39.6583, -119.4281
+Oreana, 40.3344, -118.3214
+Orovada, 41.5700, -117.7844
+Osceola, 39.0906, -114.3847
+Osino, 40.9322, -115.6597
+Overton, 36.5433, -114.4461
+Owyhee, 41.9478, -116.0978
+Pactolus, 38.6692, -117.8014
+Pahrump, 36.2083, -115.9831
+Palisade, 40.6103, -116.1978
+Panaca, 37.7906, -114.3886
+Panther, 39.5956, -119.8350
+Paradise, 36.1167, -115.1333
+Paradise Hill, 40.9833, -117.7333
+Paradise Palms, 36.1167, -115.1333
+Paradise Valley(Clark), 36.1167, -115.1333
+Paradise Valley(Humboldt), 41.4936, -117.5336
+Park Terrace, 39.1500, -119.7833
+Parran, 39.8014, -118.7722
+Patrick, 39.5472, -119.5783
+Patsville, 41.8103, -115.9567
+Peavine, 39.5167, -119.8000
+Peers Landing, 39.6261, -118.4908
+Pequop, 41.2172, -114.5886
+Pershing County General Hospital and Nursing Home, 40.1778, -118.4808
+Pershing County Hospital, 40.1778, -118.4808
+Perth, 40.1289, -118.5142
+Petersons Mill, 39.5578, -117.4317
+Phil, 40.6428, -119.4683
+Pilot, 40.8183, -114.2336
+Pine Grove, 38.6783, -119.1258
+Pioche, 37.9297, -114.4514
+Pittman, 36.0500, -114.9833
+Piute, 40.6964, -117.0017
+Pleasant Valley, 39.3525, -119.7750
+Point of Rocks, 41.7772, -115.7942
+Poker Brown, 40.5358, -118.4192
+Poker Brown Crossing, 40.5789, -118.3042
+Pony Springs, 38.3189, -114.6058
+Preble, 40.9767, -117.3972
+Preston, 38.9136, -115.0597
+Primeaux, 40.6489, -116.3008
+Prince, 37.9000, -114.4667
+Proctor, 40.9000, -114.2833
+Pyramid, 40.0750, -119.7008
+Pyramid Lake Indian Reservation, 39.8333, -119.3500
+Quinn River Crossing, 41.5767, -118.4342

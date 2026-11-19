@@ -1,0 +1,173 @@
+Abbotts Fork, 37.9842, -114.6111
+Acoma, 37.5483, -114.1717
+Adaven, 38.1322, -115.5994
+Adelaide, 40.8167, -117.5247
+Adits Mill, 39.2275, -117.1356
+Adverse, 39.3814, -114.7747
+Alamo, 37.3650, -115.1636
+Alazon, 41.1336, -115.0292
+Alkali, 37.8258, -117.3367
+Alpha, 40.0103, -116.1922
+Alunite, 35.9833, -114.9167
+Amador, 39.5597, -117.0808
+Amber, 36.6081, -114.4933
+Anderson, 39.6175, -119.9106
+Andys Place, 41.7944, -119.3844
+Apex, 36.3292, -114.9269
+Appian, 39.3875, -119.2150
+Arabia, 40.3636, -118.3917
+Arden, 36.0181, -115.2300
+Arena Rock, 39.3989, -117.0383
+Argenta, 40.6744, -116.7047
+Argo, 39.5975, -119.1628
+Arrolime, 36.3514, -114.9083
+Arrowhead, 36.6589, -114.5750
+Arthur, 40.7967, -115.1900
+Ash Springs, 37.4606, -115.1922
+Ashton, 36.7203, -116.6717
+Atlanta, 37.9569, -114.4842
+Austin, 39.4933, -117.0686
+Awakening, 41.2756, -117.9525
+Babbitt, 38.5394, -118.6367
+Baker, 39.0133, -114.1219
+Bald Mountain, 41.7333, -119.6833
+Baltimore Mill, 39.2844, -114.8681
+Bango, 39.5006, -119.0400
+Bannock, 40.5167, -117.1003
+Barclay, 37.5136, -114.2597
+Bard, 35.9878, -115.2367
+Barth, 40.5817, -116.2683
+Basalt, 38.0075, -118.2722
+Battle Mountain, 40.6333, -116.9333
+Beatty, 36.9086, -116.7583
+Bellehelen, 38.0683, -116.4650
+Belmont, 38.5961, -116.8733
+Belmont Mill, 39.2764, -115.5136
+Beowawe, 40.5928, -116.4764
+Berlin, 38.8819, -117.6067
+Bernard Place, 41.3850, -119.3794
+Big Trees, 37.9028, -114.5597
+Black Horse, 39.1461, -114.2814
+Black Springs, 39.6097, -119.8550
+Blackburn, 40.2283, -116.1669
+Blair, 37.7931, -117.6483
+Blair Junction, 38.0186, -117.7761
+Bliss, 41.0292, -117.6081
+Blue Diamond, 36.0464, -115.4031
+Bolivia, 39.9925, -117.9122
+Bonanza, 36.2000, -115.1667
+Bonnie Claire, 37.2267, -117.1200
+Bonnie Springs, 36.0592, -115.4525
+Borax, 35.7144, -115.3397
+Border Town, 39.6758, -119.9903
+Boulder City, 35.9786, -114.8317
+Boulder Junction, 36.0811, -115.1972
+Boyd, 37.4378, -114.5664
+Bracken, 36.1075, -115.1903
+Bradys Hot Springs, 39.7833, -119.0333
+Brown, 37.6072, -114.1319
+Brucite, 38.8628, -117.9011
+Brunswick, 39.1764, -119.6875
+Buckeye, 38.9606, -119.7233
+Buckingham Camp, 40.6131, -117.0717
+Bull Fork, 39.0736, -115.7664
+Bullfrog, 36.8903, -116.8328
+Bullion(Elko), 40.5239, -115.9956
+Bullion(Humboldt), 41.5742, -117.4781
+Bunkerville, 36.7731, -114.1272
+Cactus Springs, 36.5778, -115.7267
+Caliente, 37.6150, -114.5111
+Calumet, 39.2631, -114.8758
+Camp Desert Rock, 36.6272, -116.0192
+Canal, 39.5833, -119.2500
+Candelaria Junction(Site), 38.1758, -118.1817
+Carlin, 40.7139, -116.1031
+Carlton Square, 36.2000, -115.1333
+Carp, 37.1119, -114.4919
+Carrara, 36.8008, -116.7114
+Carroll Station, 39.4500, -118.7500
+Carson City, 39.1639, -119.7664
+Carson Hot Springs, 39.1939, -119.7517
+Carson Meadows, 39.1500, -119.7833
+Carson-Tahoe Hospital, 39.1714, -119.7708
+Carver Park, 36.0464, -114.9767
+Carvers, 38.7867, -117.1783
+Caselton, 37.9192, -114.4844
+Caselton Heights, 37.9139, -114.4783
+Castle Place, 41.4336, -116.9072
+Cathcart, 41.9875, -116.9922
+Cavin Place, 41.1983, -119.5711
+Centerville, 38.9106, -119.7783
+Charleston, 41.6708, -115.5097
+Charleston Park, 36.2589, -115.6419
+Cherry Creek, 39.9006, -114.8850
+Chinatown, 41.5317, -119.2050
+Churchill, 39.2717, -119.2800
+Churchill Public Hospital, 39.4764, -118.7808
+Cibola Park, 36.2000, -115.1333
+Clan Alpine, 39.5369, -117.8344
+Clark, 39.5642, -119.4806
+Clifside, 40.9161, -114.2764
+Cluro, 40.5808, -116.3225
+Coaldale, 38.0275, -117.8822
+Coaldale Junction, 38.0317, -117.8861
+Cobre, 41.1119, -114.4000
+Coin, 40.8831, -115.7147
+Colado, 40.2456, -118.3919
+Cold Spring, 37.7514, -114.4239
+Cold Springs, 39.4122, -117.8383
+Columbus, 38.1103, -118.0183
+Como, 39.1725, -119.4756
+Comus, 41.0006, -117.3261
+Conradts Landing, 39.6425, -118.4056
+Contact, 41.7694, -114.7517
+Copper Basin, 40.6031, -117.0456
+Coppereid, 39.8489, -118.2181
+Copperfield, 39.6317, -119.9439
+Cordero, 41.9833, -117.7667
+Cortez, 40.1411, -116.6025
+Cosgrave, 40.7967, -118.0147
+Cottonwood Cove, 35.4667, -114.9167
+Cover City, 41.1000, -114.9667
+Coyote Hole, 37.7633, -117.7250
+Crescent Valley, 40.5833, -116.4833
+Crestline, 37.6636, -114.1253
+Crossroads, 37.5658, -114.2553
+Crows Nest, 38.3517, -115.6625
+Crystal, 36.5014, -114.7619
+Crystal Bay, 39.2261, -120.0031
+Currant, 38.7422, -115.4739
+Currie, 40.2667, -114.7422
+Danville, 38.7694, -116.5175
+Darroughs Hot Springs, 38.8203, -117.1797
+Darwin, 39.5894, -119.1011
+Daveytown, 41.2950, -117.9022
+Dayton, 39.2372, -119.5919
+Decoy, 40.6717, -114.4869
+Deep Creek, 41.5664, -116.1433
+Deeth, 41.0656, -115.2739
+Del Monte, 38.2944, -118.9292
+Delamar, 37.4581, -114.7692
+Delaplain, 41.9317, -114.6550
+Denio, 41.9900, -118.6333
+Denio Junction, 41.9517, -118.6239
+Desert Inn Country Club, 36.1167, -115.1333
+Desert View Point, 36.3122, -115.5853
+Dewitt Mill, 40.6342, -117.1072
+Dike, 36.3014, -115.0125
+Dinner Station, 41.1000, -115.8653
+Dixie, 39.8739, -118.0150
+Dixie Valley, 39.6878, -118.0797
+Dodge, 39.6708, -119.3111
+Dolly Varden, 40.5447, -114.5344
+Douglas, 38.8544, -115.1436
+Downtown, 36.1833, -115.1167
+Dresslerville, 38.8981, -119.7158
+Dry Lake, 36.4567, -114.8422
+Duck Valley, 41.9500, -116.1000
+Duckwater, 38.9000, -115.6833
+Duckwater Indian Reservation, 38.9000, -115.6833
+Dun Glen, 40.7419, -117.9211
+Dunphy, 40.7089, -116.5292
+Dyer, 37.6783, -118.0836
+Dyke, 41.5747, -118.5714

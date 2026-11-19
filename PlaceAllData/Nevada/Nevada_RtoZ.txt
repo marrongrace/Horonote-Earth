@@ -1,0 +1,186 @@
+Raglan, 40.9094, -117.9692
+Raleigh Heights, 39.5903, -119.8397
+Ralston, 37.5561, -117.1519
+Rawhide, 39.0208, -118.3931
+Red House(Humboldt), 40.9969, -117.2472
+Red House(), 39.2058, -119.8728
+Reese River, 39.5000, -117.0667
+Reipetown, 39.2833, -114.9833
+Rennox, 40.6981, -116.8792
+Reno, 39.5297, -119.8128
+Reynard, 40.4967, -119.6408
+Rhyolite, 36.9039, -116.8283
+Rice Landing, 39.6242, -118.4344
+Riepetown, 39.2644, -115.0108
+Ripley, 35.7981, -115.6008
+Riverside, 36.7361, -114.2197
+Rixies, 40.6978, -116.5506
+Roach, 35.6408, -115.3583
+Rochester, 40.2889, -118.1664
+Rock House, 41.9842, -115.6614
+Rockland, 38.6522, -119.0933
+Rose Creek, 40.8900, -117.8942
+Rose Valley, 37.9381, -114.2517
+Rose-De Lima Hospital, 36.0389, -114.9836
+Rosny, 40.6125, -116.8375
+Round Mountain, 38.7111, -117.0667
+Rowland, 41.9367, -115.6778
+Rox, 36.8808, -114.6664
+Ruby, 40.9606, -114.9492
+Ruby Valley, 40.5000, -115.3500
+Ruppes Place, 38.7542, -115.0597
+Russells, 40.7767, -116.9936
+Ruth, 39.2783, -114.9883
+Rye Patch, 40.4475, -118.2886
+Ryndon, 40.9419, -115.5947
+Sage, 40.7703, -114.5458
+Salt Wells, 39.3833, -118.5833
+San Jacinto, 41.8686, -114.6756
+Sand Pass, 40.2617, -119.7783
+Sandy, 35.8042, -115.6042
+Sano, 40.3417, -119.6828
+Schoer Place, 41.4817, -114.9272
+Schurz, 38.9508, -118.8103
+Scossa, 40.7400, -118.5956
+Scottys Junction, 37.2989, -117.0519
+Scraper Springs, 41.3378, -116.6803
+Searchlight, 35.4653, -114.9189
+Seven Troughs, 40.4625, -118.8167
+Shafter, 40.8547, -114.4439
+Shannon, 40.1003, -116.2008
+Shanty Town, 40.1619, -115.5019
+Sheridan, 38.8981, -119.8217
+Shermantown, 39.2028, -115.5036
+Shores, 41.5403, -114.7986
+Shoshone, 40.6975, -116.5561
+Sierra, 39.6000, -119.9000
+Silver City, 39.2636, -119.6394
+Silver Springs, 39.4156, -119.2236
+Silver Zone, 40.9203, -114.3525
+Silverbow, 37.8881, -116.4911
+Silverpeak, 37.7550, -117.6339
+Simpson, 38.8694, -119.3983
+Skyland, 39.0225, -119.9472
+Sloan, 35.9436, -115.2164
+Smith, 38.8006, -119.3264
+Smith Valley, 38.7667, -119.2833
+Smoke Creek, 40.4475, -119.6658
+Sodaville, 38.3411, -118.1019
+South Swan Landing, 39.6528, -118.4583
+Southern Memorial Hospital, 36.1594, -115.1664
+Southern Nevada Memorial Hospital, 36.5403, -114.4428
+Sparks, 39.5350, -119.7517
+Spooner Junction, 39.1008, -119.9094
+Springdale, 37.0300, -116.7542
+Spruce, 40.7983, -114.6575
+Sprucemont, 40.5506, -114.8714
+St Marys Hospital, 39.5322, -119.8169
+Stagecoach, 39.4167, -119.2333
+Stateline(Douglas), 39.0167, -119.9500
+Stateline(Clark), 35.7833, -115.3333
+Steamboat, 39.3833, -119.7333
+Steigmeyer Mill, 38.7342, -117.0567
+Steptoe, 39.4069, -114.7631
+Steptoe Valley Hospital, 39.2556, -114.8589
+Stewart, 39.1164, -119.7575
+Stewarts Point, 36.5500, -114.4500
+Stillwater, 39.5217, -118.5461
+Stine, 37.4953, -114.5881
+Sugar Bunker, 36.8394, -115.9603
+Sulfur, 38.6197, -119.2528
+Sulphur, 40.8747, -118.7356
+Summit Lake, 41.5833, -119.0833
+Sun Valley, 39.6000, -119.7833
+Sunnyside, 38.4233, -115.0203
+Sunrise Hospital, 36.1328, -115.1344
+Sunrise Manor, 36.1833, -115.0500
+Sutcliffe, 39.9503, -119.5994
+Sutro, 39.2800, -119.5831
+Swedes Place, 41.2169, -119.4953
+Tahoe, 39.0167, -119.9500
+Tahoe Village, 38.9703, -119.9350
+Talapoosa, 39.4542, -119.2750
+Tecoma, 41.3203, -114.0806
+Tempiute, 37.6525, -115.6350
+Tenabo, 40.3144, -116.6758
+The Crossing, 37.8697, -117.9706
+Thisbe, 39.5883, -119.4203
+Thomas Place, 40.5011, -116.2269
+Thorne, 38.6019, -118.5906
+Thousand Springs, 41.1000, -114.9667
+Tippett, 39.8686, -114.3489
+Tokop, 37.3017, -117.2603
+Tonka, 40.7172, -116.0092
+Tonopah, 38.0672, -117.2292
+Tonopah Junction, 38.2644, -118.0950
+Topaz Lake, 38.8167, -119.6833
+Topaz Ranch Estates, 38.7500, -119.3833
+Toulon, 40.0628, -118.6439
+Toy, 40.0169, -118.6722
+Tracy-Clark, 39.6000, -119.7500
+Trego, 40.7647, -119.1428
+Tulasco, 41.1297, -115.1217
+Tule, 41.0242, -117.6492
+Tule Lake Landing, 39.6322, -118.4917
+Tungsten, 40.7792, -118.1242
+Tuscarora, 41.3142, -116.2208
+Tybo, 38.3700, -116.4003
+Tyrol, 40.6783, -116.1531
+Union(Eureka), 40.1675, -116.0236
+Union(Humboldt), 41.0667, -117.8833
+University, 39.5500, -119.8333
+Ursine, 37.9847, -114.2144
+Ute, 36.5661, -114.7147
+Valley, 36.2742, -115.0706
+Valley View, 38.0683, -117.2236
+Valmy, 40.7928, -117.1258
+Van Riper Place, 41.4042, -119.3817
+Vegas Creek, 36.1500, -115.0833
+Vegas View, 36.2000, -115.1333
+Ventosa, 40.8572, -114.8033
+Verdi, 39.5183, -119.9878
+Vernon, 40.4261, -118.7886
+Victory Village, 36.0500, -114.9833
+Virginia City, 39.3097, -119.6486
+Vista, 39.5264, -119.6997
+Vivian, 40.7250, -116.0556
+Vya, 41.5922, -119.8594
+Wabuska, 39.1439, -119.1822
+Wadsworth, 39.6339, -119.2844
+Walker River Hospital, 38.9531, -118.8156
+Walker River Indian Reservation, 38.9500, -118.8167
+Walleys Hot Springs, 38.9811, -119.8333
+Wann, 36.2333, -115.1125
+Warm Springs(White Pine), 39.6533, -114.8017
+Warm Springs(Nye), 38.1906, -116.3692
+Washington, 39.5333, -119.8333
+Washoe City, 39.3203, -119.8086
+Washoe-Dresslerville Indian Reservation, 38.9167, -119.7500
+Weed Heights, 38.9872, -119.2081
+Weepah, 37.9303, -117.5586
+Welcome, 41.1003, -115.1036
+Wellington, 38.7564, -119.3750
+Wells, 41.1117, -114.9636
+Wendover, 40.7333, -114.0333
+Weso, 41.0114, -117.6906
+West Reno, 39.5153, -119.8500
+West Spring, 37.7222, -117.2697
+Whitney, 36.1000, -115.0500
+Wild Horse Crossing, 41.7261, -115.8964
+Wilkins, 41.4253, -114.7508
+William Bee Ririe Hospital, 39.2556, -114.8589
+Williams Cabin, 41.7172, -115.6703
+Willow Beach, 35.9667, -114.8333
+Willow Grove, 39.0225, -115.2675
+Wimer Place, 41.7983, -119.7253
+Winchester, 36.1333, -115.1167
+Winnemucca, 40.9731, -117.7347
+Womens Hospital, 36.1436, -115.1261
+Woolsey, 40.2811, -118.3636
+Yankee Blade, 39.5319, -117.0503
+Yerington, 38.9858, -119.1619
+Yerington Indian Reservation, 39.0500, -119.1833
+Yomba Indian Reservation, 39.1333, -117.4167
+Youngs Crossing, 38.7936, -119.6928
+Zenobia, 40.1564, -119.7392
+Zephyr Cove, 39.0022, -119.9550

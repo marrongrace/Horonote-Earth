@@ -1,0 +1,138 @@
+East Ely, 39.2550, -114.8683
+East Fork, 38.9667, -119.7500
+East Las Vegas, 36.0944, -115.0411
+East Line, 40.5167, -114.2833
+Eastgate, 39.3056, -117.8781
+Eberhardt, 39.1950, -115.4797
+Eccles, 37.6153, -114.4308
+Echo Bay, 36.5500, -114.4500
+Edgewood, 38.9608, -119.9408
+Elburz, 40.9292, -115.5042
+Elgin, 37.3519, -114.5350
+Elko, 40.8325, -115.7622
+Elks Point, 39.0000, -119.9500
+Ellison, 40.8489, -117.0975
+Ely, 39.2475, -114.8878
+Empire(Washoe), 40.5758, -119.3411
+Empire(Carson City), 39.1850, -119.7122
+Erie, 35.8706, -115.2361
+Esmeralda, 38.8500, -117.1167
+Etna, 37.5553, -114.5706
+Eunice Place, 39.5642, -115.9044
+Eureka, 39.5128, -115.9597
+Eureka County Hospital, 39.4972, -115.9561
+Fallon, 39.4736, -118.7764
+Fallon Indian Reservation, 39.5333, -118.6167
+Fallon Station, 39.4333, -118.7167
+Farrier, 36.8128, -114.6531
+Fay, 37.9081, -114.0692
+Federal, 36.1833, -115.1167
+Fenelon, 41.2022, -114.6622
+Fernley, 39.6081, -119.2508
+Flanigan, 40.1708, -119.8856
+Fleish, 39.4814, -119.9928
+Fletcher, 38.3569, -118.8975
+Florence Hill, 37.7078, -117.2178
+Fort McDermitt Indian Reservation, 42.0000, -117.7167
+Franktown, 39.2717, -119.8397
+Frenchman, 39.2794, -118.2692
+Gaar Place, 41.9375, -115.2669
+Gabbs, 38.8689, -117.9211
+Galena(Lander), 40.5644, -117.1292
+Galena(Washoe), 39.5167, -119.8167
+Galt, 37.0175, -114.6050
+Gardnerville, 38.9414, -119.7486
+Gardnerville Ranchos, 38.8167, -119.6833
+Garnet, 36.3886, -114.8703
+Garside, 36.1667, -115.2000
+Gemfield, 37.7397, -117.2942
+Genoa, 39.0044, -119.8461
+Gerald, 40.5836, -116.2486
+Gerlach, 40.6517, -119.3542
+Gilbert, 38.1961, -117.6958
+Gilpin, 39.5981, -119.3347
+Glassand, 36.5569, -114.4639
+Glenbrook, 39.0894, -119.9381
+Glendale(Clark), 36.6653, -114.5683
+Glendale(Washoe), 39.5206, -119.7394
+Glenn, 39.4864, -114.8294
+Golconda, 40.9533, -117.4883
+Gold Acres, 40.2622, -116.7317
+Gold Bar, 36.9381, -116.8925
+Gold Butte, 36.2803, -114.1997
+Gold Center, 36.8683, -116.7664
+Gold Hill, 39.2906, -119.6564
+Gold Hit, 37.9336, -118.2792
+Gold Point, 37.3547, -117.3642
+Gold Run, 41.0500, -117.2500
+Golden, 38.6458, -117.5550
+Golden Arrow, 37.9978, -116.6053
+Goldfield, 37.7086, -117.2347
+Goldquartz, 40.3108, -116.6994
+Goldyke, 38.7369, -117.8686
+Goodsprings, 35.8325, -115.4333
+Goose Landing, 39.6211, -118.4286
+Goshute, 40.1708, -114.7086
+Goshute Indian Reservation, 39.8833, -114.0000
+Gouge Eye, 41.5714, -117.4697
+Granite Point, 40.0964, -118.5792
+Grantsville, 38.8456, -117.5722
+Greenbrae, 39.6000, -119.7500
+Greenbrae School, 39.5486, -119.7467
+Greens, 40.0361, -114.7467
+Hafed, 39.5147, -119.6294
+Halleck, 40.9508, -115.4519
+Hamilton, 39.2531, -115.4856
+Harney, 40.5775, -116.3239
+Hawthorne, 38.5247, -118.6236
+Hazen, 39.5653, -119.0453
+Helene, 37.4811, -114.7758
+Henderson, 36.0397, -114.9811
+Henry, 41.6969, -114.8256
+Herrin, 40.8878, -117.2192
+Hidden Valley, 39.5167, -119.8000
+Hiko, 37.5969, -115.2233
+Hilltop, 40.4147, -116.7994
+Hogan, 40.7442, -114.5981
+Hogum, 39.0564, -114.4106
+Holborn, 41.1744, -114.7081
+Holbrook Junction, 38.7339, -119.5539
+Horseshoe Bend, 37.6842, -114.1286
+Hoya, 36.9469, -114.6514
+Huffakers, 39.5167, -119.8000
+Humboldt, 40.6031, -118.2508
+Humboldt City, 40.5844, -118.2108
+Humboldt County General Hospital, 40.9714, -117.7264
+Hunter, 40.7528, -115.9025
+Huntridge, 36.1500, -115.1333
+Huxley, 39.8706, -118.7714
+Imlay, 40.6608, -118.1494
+Incline Village, 39.2514, -119.9719
+Indian Cove, 37.6553, -114.4944
+Indian Springs, 36.5697, -115.6697
+Ione, 38.9483, -117.5867
+Iron Point, 40.9478, -117.2758
+Islen, 37.5297, -114.3208
+Jackman, 36.6422, -114.5394
+Jackpot, 41.9833, -114.6739
+Jarbidge, 41.8736, -115.4311
+Jean, 35.7789, -115.3231
+Jefferson, 38.7133, -116.9817
+Jenkins, 40.6842, -116.8586
+Jessup, 39.9486, -118.8739
+Jiggs, 40.4258, -115.6644
+Johnnie, 36.4197, -116.0708
+Joseco, 37.5019, -114.2283
+Jungo, 40.9172, -118.3828
+Kampos, 40.6958, -116.7008
+Keystone(Nye), 38.4450, -116.3825
+Keystone(White Pine), 39.2819, -114.9675
+Keystone Junction, 39.2831, -114.9631
+Kimberly, 39.2633, -115.0217
+Kingston, 39.5000, -117.0667
+Kinkaid, 38.5450, -118.3939
+Knight, 40.9056, -117.1539
+Kodak, 40.2275, -118.4194
+Kogan Place, 39.4675, -114.9950
+Kyle, 37.3144, -114.4897
+Kyle Hot Springs, 40.4064, -117.8825
