@@ -1,0 +1,161 @@
+'s-Gravendeel, 51.7667, 4.6167
+'s-Gravenhage(The Hague), 52.1000, 4.3000
+'s-Gravenzande, 52.0000, 4.1667
+'s-Heerenberg, 51.8833, 6.2500
+'s-Heerenhoek, 51.4500, 3.7667
+'s-Hertogenbosch, 51.6833, 5.3167
+'t Harde, 52.4167, 5.8833
+Aalsmeer, 52.2667, 4.7500
+Aalst, 51.3833, 5.4833
+Aalten, 51.9333, 6.5833
+Aardenburg, 51.2667, 3.4500
+Aarle-Rixtel, 51.5167, 5.6333
+Abcoude, 52.2667, 4.9667
+Achthuizen, 51.7000, 4.2667
+Aduard, 53.2500, 6.4333
+Akersloot, 52.5667, 4.7333
+Akkerwoude, 53.2833, 5.9667
+Akkrum, 53.0500, 5.8333
+Alblasserdam, 51.8667, 4.6667
+Alkmaar, 52.6167, 4.7333
+Almelo, 52.3500, 6.6500
+Alphen aan den Rijn, 52.1167, 4.6667
+Amby, 50.8833, 5.7333
+America, 51.4333, 5.9833
+Amerongen, 52.0000, 5.4500
+Amersfoort, 52.1500, 5.4000
+Amstelveen, 52.3000, 4.8500
+Amsterdam, 52.3667, 4.9000
+Andijk, 52.7500, 5.2000
+Angeren, 51.9167, 5.9667
+Apeldoorn, 52.2167, 5.9667
+Appingedam, 53.3000, 6.8667
+Arcen, 51.4833, 6.1833
+Arnemuiden, 51.5000, 3.6833
+Arnhem, 51.9833, 5.9167
+Assen, 52.9833, 6.5667
+Assendelft, 52.4500, 4.7500
+Asten, 51.4000, 5.7500
+Austerlitz, 52.0833, 5.3167
+Axel, 51.2667, 3.9167
+Baarle-Nassau, 51.4500, 4.8833
+Baarlo, 51.3333, 6.0833
+Baarn, 52.2167, 5.2667
+Badhoevedorp, 52.3500, 4.7667
+Bakkeveen, 53.0833, 6.2500
+Balk, 52.9000, 5.5667
+Balkbrug, 52.6000, 6.4000
+Barendrecht, 51.8500, 4.5333
+Barneveld, 52.1333, 5.5833
+Bedum, 53.2833, 6.6000
+Beek(Noord-Brabant), 51.5333, 5.6333
+Beek(Gelderland), 51.8500, 5.9000
+Beek(Limburg), 50.9333, 5.8167
+Beerta, 53.1667, 7.0833
+Beetsterzwaag, 53.0500, 6.0833
+Beilen, 52.8667, 6.5167
+Belfeld, 51.3167, 6.1000
+Bellingwolde, 53.1167, 7.1500
+Bemmel, 51.9000, 5.9000
+Bennekom, 52.0000, 5.6667
+Bergambacht, 51.9333, 4.7667
+Bergeijk, 51.3167, 5.3667
+Bergen, 52.6667, 4.6833
+Bergen aan Zee, 52.6333, 4.6167
+Bergen op Zoom, 51.5000, 4.2833
+Berghem, 51.7667, 5.5667
+Bergum, 53.1833, 5.9833
+Berlicum, 51.7000, 5.3833
+Berlikum, 53.2500, 5.6500
+Best, 51.5167, 5.4000
+Beverwijk, 52.4667, 4.6667
+Bilthoven, 52.1167, 5.2000
+Bladel, 51.3833, 5.2167
+Blaricum, 52.2667, 5.2500
+Blerick, 51.3833, 6.1667
+Bloemendaal, 52.4000, 4.6167
+Blokzijl, 52.7333, 5.9500
+Bocholtz, 50.8167, 6.0000
+Bodegraven, 52.0833, 4.7500
+Boekelo, 52.2167, 6.7833
+Bolsward, 53.0500, 5.5167
+Borculo, 52.1167, 6.5167
+Borger, 52.9167, 6.7667
+Borne, 52.3000, 6.7500
+Boskoop, 52.0667, 4.6500
+Bourtange, 53.0000, 7.1833
+Bovenkarspel, 52.7000, 5.2500
+Boxmeer, 51.6500, 5.9500
+Boxtel, 51.5833, 5.3333
+Bozum, 53.0833, 5.7000
+Breda, 51.5833, 4.7667
+Breskens, 51.4000, 3.5667
+Breukelen, 52.1667, 5.0000
+Brielle, 51.9000, 4.1667
+Broek op Langendijk, 52.6667, 4.8000
+Brouwershaven, 51.7333, 3.9000
+Bruinisse, 51.6667, 4.1000
+Brummen, 52.0833, 6.1500
+Brunssum, 50.9333, 5.9833
+Budel, 51.2833, 5.5833
+Buinen, 52.9167, 6.8333
+Buitenpost, 53.2500, 6.1500
+Bunde, 50.9000, 5.7500
+Bunnik, 52.0667, 5.2000
+Bunschoten, 52.2333, 5.3667
+Bussum, 52.2667, 5.1667
+Cadzand, 51.3667, 3.4167
+Callantsoog, 52.8167, 4.6833
+Capelle aan de IJssel, 51.9167, 4.5833
+Castricum, 52.5500, 4.6500
+Chaam, 51.5167, 4.8667
+Coevorden, 52.6667, 6.7500
+Colijnsplaat, 51.7667, 3.8500
+Creil, 52.7500, 5.6667
+Culemborg, 51.9333, 5.2167
+Cuyk, 51.7333, 5.8667
+Dalfsen, 52.5000, 6.2667
+De Bilt, 52.1000, 5.1667
+De Cocksdorp, 53.1333, 4.8667
+De Koog, 53.0833, 4.7500
+De Krim, 52.6333, 6.6333
+De Lier, 51.9500, 4.2500
+De Rijp, 52.5667, 4.8333
+De Steeg, 52.0333, 6.0667
+Dedemsvaart, 52.6000, 6.4667
+Delden, 52.2667, 6.7000
+Delft, 52.0000, 4.3500
+Delfzijl, 53.3333, 6.9167
+Den Burg, 53.0500, 4.8000
+Den Haag > 's-Gravenhage, 52.1000, 4.3000
+Den Helder, 52.9500, 4.7500
+Den Oever, 52.9333, 5.0333
+Denekamp, 52.3833, 7.0000
+Deurne, 51.4667, 5.7833
+Deventer, 52.2500, 6.1667
+Didam, 51.9333, 6.1333
+Diemen, 52.3333, 4.9667
+Diepenheim, 52.2000, 6.5500
+Diepenveen, 52.3000, 6.1333
+Dieren, 52.0500, 6.1000
+Diever, 52.8667, 6.3167
+Dinteloord, 51.6167, 4.3667
+Dinxperlo, 51.8667, 6.4833
+Dirkshorn, 52.7500, 4.7500
+Dirksland, 51.7333, 4.1000
+Doesburg, 52.0167, 6.1500
+Doetinchem, 51.9667, 6.2833
+Dokkum, 53.3167, 6.0000
+Domburg, 51.5667, 3.5000
+Dongen, 51.6167, 4.9333
+Donk, 51.5500, 5.6167
+Doorn, 52.0500, 5.3500
+Dordrecht, 51.8167, 4.6667
+Dort > Dordrecht, 51.8167, 4.6667
+Drachten, 53.1000, 6.0833
+Driebergen, 52.0500, 5.2667
+Dronrijp, 53.1833, 5.6333
+Drunen, 51.7000, 5.1333
+Druten, 51.9000, 5.6000
+Dubbeldam, 51.7833, 4.7000
+Dwingeloo, 52.8333, 6.3500
