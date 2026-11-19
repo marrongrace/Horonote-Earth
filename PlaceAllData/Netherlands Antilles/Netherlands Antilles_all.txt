@@ -1,0 +1,17 @@
+Aruba Island, 12.5000, -68.9667
+Bonaire Island, 12.1667, -68.2500
+Bottom, 17.6167, -63.2333
+Bushiribana, 12.5500, -69.9667
+Curaçao Island, 12.1833, -69.0000
+Hato, 12.2000, -68.9500
+Kralendijk, 12.1667, -68.2833
+Newport, 12.0500, -68.8167
+Oranjestad, 12.5500, -70.1000
+Philipsburg, 17.9833, -63.1667
+Rincón, 12.2500, -68.3333
+Saba Island, 17.6333, -63.1667
+Sint Kruis, 12.3000, -69.1333
+Sint Maarten Island, 18.0667, -63.0667
+Sint Nicolaas, 12.4500, -69.8667
+St Martin Island, 18.0667, -63.0667
+Willemstad, 12.1000, -68.9333
