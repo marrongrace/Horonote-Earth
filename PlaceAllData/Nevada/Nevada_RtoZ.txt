@@ -3,7 +3,7 @@ Raleigh Heights, 39.5903, -119.8397
 Ralston, 37.5561, -117.1519
 Rawhide, 39.0208, -118.3931
 Red House(Humboldt), 40.9969, -117.2472
-Red House(), 39.2058, -119.8728
+Red House(Washoe), 39.2058, -119.8728
 Reese River, 39.5000, -117.0667
 Reipetown, 39.2833, -114.9833
 Rennox, 40.6981, -116.8792
