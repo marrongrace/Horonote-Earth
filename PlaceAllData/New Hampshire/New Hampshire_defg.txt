@@ -1,0 +1,178 @@
+Dalton, 44.4158, -71.6953
+Danbury, 43.5256, -71.8622
+Danville, 42.9125, -71.1250
+Davis, 42.7556, -71.8722
+Davis, 43.4133, -71.1406
+Davisville(Hillsborough), 42.8558, -71.7883
+Davisville(Merrimack), 43.2519, -71.7328
+Deephaven, 43.7697, -71.5392
+Deerfield(Rockingham), 43.1461, -71.2169
+Deerfield(Grafton), 44.2306, -71.6175
+Deerfield Center, 43.1325, -71.2417
+Deerfield Parade, 43.1439, -71.2344
+Deering, 43.0731, -71.8450
+Derry, 42.8806, -71.3278
+Derry Village, 42.8917, -71.3125
+Dexter Corner, 43.3692, -71.1589
+Dimond, 43.2456, -71.7539
+Dingit Corner, 43.2967, -71.6906
+Dixville, 44.8833, -71.2667
+Dixville Notch, 44.8708, -71.3064
+Dockham Shore, 43.5947, -71.4194
+Dodge Hollow, 43.2028, -72.2181
+Dodge Tavern, 43.1039, -72.3894
+Dole Junction, 42.7544, -72.4694
+Dorchester, 43.7567, -71.9492
+Dorrs Corner, 43.7525, -71.1794
+Dover, 43.1978, -70.8742
+Dover Point, 43.2000, -70.8833
+Dows Corner, 42.9703, -70.8986
+Drewsville, 43.1281, -72.3925
+Drury, 42.8444, -71.9650
+Dublin, 42.9075, -72.0631
+Ducks Head, 44.1408, -71.1883
+Dummer, 44.6667, -71.2500
+Dunbarton, 43.1025, -71.6169
+Dunbarton Center, 43.1025, -71.6169
+Dundee, 44.1397, -71.1322
+Durham, 43.1339, -70.9269
+East Acworth, 43.2206, -72.2372
+East Alstead, 43.1239, -72.2794
+East Alton, 43.5181, -71.2003
+East Andover(Halcyon Station), 43.4594, -71.7481
+East Barrington, 43.2156, -71.0072
+East Bear Island, 43.6431, -71.3942
+East Candia, 43.0481, -71.2492
+East Concord, 43.2419, -71.5386
+East Conway, 44.0225, -71.0058
+East Deering, 43.0739, -71.8136
+East Derry, 42.8944, -71.2917
+East Dummer, 44.5667, -71.1833
+East Freedom, 43.7931, -70.9928
+East Grafton, 43.5686, -71.9281
+East Grantham, 43.4867, -72.1183
+East Hampstead, 42.8911, -71.1436
+East Haverhill, 44.0267, -71.9717
+East Hebron, 43.6933, -71.7700
+East Holderness, 43.7167, -71.5314
+East Kingston, 42.9256, -71.0172
+East Lempster, 43.2250, -72.1789
+East Madison, 43.8606, -71.0886
+East Milford, 42.8233, -71.6261
+East Plainfield, 43.5764, -72.2261
+East Rindge, 42.7375, -71.9664
+East Rochester, 43.3331, -70.9419
+East Sandwich, 43.7167, -71.4667
+East Springfield, 43.4864, -71.9789
+East Sullivan, 42.9939, -72.1961
+East Sutton, 43.3011, -71.8561
+East Swanzey, 42.8514, -72.2589
+East Tilton, 43.4797, -71.5408
+East Unity, 43.2978, -72.1964
+East Wakefield, 43.6142, -71.0056
+East Washington, 43.1911, -72.0189
+East Westmoreland, 42.9903, -72.3908
+East Wilder, 43.6819, -72.2953
+East Wolfeboro, 43.6100, -71.1086
+Eastman, 43.4833, -72.1333
+Eastman Corners, 42.9069, -70.9269
+Eastman Hospital, 42.8767, -71.3186
+Eastman Point, 42.9167, -70.8222
+Easton, 44.1461, -71.7906
+Eastview, 42.9319, -72.0375
+Eaton Center, 43.9092, -71.0842
+Edgemont, 43.3403, -72.0603
+Effingham, 43.7611, -70.9969
+Effingham Falls, 43.7958, -71.0553
+Elkins, 43.4208, -71.9378
+Elliot Hospital, 42.9842, -71.4392
+Ellisville, 43.0192, -72.2000
+Ellsworth, 43.8739, -71.7369
+Elmwood(Hillsborough), 42.9719, -71.9556
+Elmwood(Merrimack), 43.5178, -71.8417
+Elmwood Corners, 42.9308, -70.8286
+Elwyn Park, 43.0381, -70.7742
+Enfield, 43.6406, -72.1444
+Enfield Center, 43.5900, -72.1114
+Epping, 43.0333, -71.0747
+Epsom, 43.2228, -71.3325
+Epsom Circle, 43.2278, -71.3608
+Errol, 44.7814, -71.1383
+Etna, 43.6928, -72.2222
+Exeter, 42.9814, -70.9483
+Fabyan, 44.2633, -71.4589
+Fairhill Manor, 43.0314, -70.7258
+Fairview, 44.0153, -71.6778
+Farmington, 43.3897, -71.0656
+Federal Corner, 43.6622, -71.2294
+Fernald, 43.6133, -71.1697
+Ferncroft, 43.9122, -71.3603
+Fernwood, 43.4081, -72.0650
+Fitzwilliam, 42.7806, -72.1422
+Fitzwilliam Depot, 42.7647, -72.1514
+Five Corners(Rockingham), 42.9386, -70.9253
+Five Corners(Grafton), 44.2442, -71.6342
+Fogg Corner, 42.9617, -70.8275
+Fogg Corners, 42.9031, -70.8769
+Fords Crossing, 43.5478, -71.8908
+Fords Mill, 43.5414, -71.9003
+Forest Lake, 42.7667, -72.3833
+Forest Ridge, 42.7500, -71.4833
+Foster Corners, 42.7692, -71.2047
+Foundry, 43.2517, -70.8553
+Four Corners, 43.0633, -70.9697
+Foyes Corner, 43.0458, -70.7472
+Francestown, 42.9875, -71.8131
+Franconia, 44.2269, -71.7483
+Franklin, 43.4442, -71.6478
+Franklin Pierce College, 42.7667, -72.0333
+Freedom, 43.8122, -71.0361
+Fremont, 42.9908, -71.1431
+Fremont Station, 42.9797, -71.1242
+Gardners Grove, 43.4583, -71.5319
+Gates Corner, 43.2217, -70.8867
+Gaza, 43.5219, -71.5950
+Gee Mill, 43.1522, -72.2039
+Georges Mills, 43.4317, -72.0678
+Gerrish, 43.3614, -71.6511
+Gerrish Corner, 43.2658, -71.6983
+Gibson Four Corners, 42.7283, -71.8506
+Gilboa, 42.9953, -72.3906
+Gilford, 43.5475, -71.4072
+Gilmans Corner, 43.9025, -71.9903
+Gilmanton, 43.4242, -71.4150
+Gilmanton Ironworks, 43.4172, -71.2978
+Gilsum, 43.0483, -72.2633
+Glen, 44.1100, -71.1831
+Glen House, 44.2883, -71.2258
+Glencliff, 43.9828, -71.8939
+Glencliff State Sanatorium, 44.0017, -71.8806
+Glendale, 43.5825, -71.3875
+Glenmere, 43.0994, -71.0064
+Goffs Falls, 42.9319, -71.4531
+Goffstown, 43.0203, -71.6008
+Gonic, 43.2744, -70.9786
+Gooch Corner, 42.9689, -70.9858
+Goodrich Falls, 44.1281, -71.1900
+Goose Hollow, 43.8811, -71.5983
+Gorham, 44.3878, -71.1736
+Goshen, 43.3011, -72.1483
+Goshen Four Corners, 43.2783, -72.1314
+Gosport, 42.9775, -70.6153
+Gossville, 43.2264, -71.3514
+Grafton, 43.5586, -71.9444
+Grafton Center, 43.5739, -71.9739
+Grandliden, 43.4022, -72.0742
+Grange, 44.4861, -71.5253
+Granite, 43.6911, -71.0592
+Grantham, 43.4894, -72.1381
+Grape Corner, 43.6867, -71.0222
+Grasmere, 43.0222, -71.5436
+Great Boars Head, 42.9203, -70.7997
+Greenfield, 42.9506, -71.8728
+Greenland, 43.0361, -70.8333
+Greenland Station, 43.0439, -70.8242
+Greenville, 42.7672, -71.8128
+Groton, 43.7017, -71.8361
+Groveton, 44.5986, -71.5117
+Guild, 43.3767, -72.1386

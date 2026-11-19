@@ -1,0 +1,143 @@
+Hadley, 42.8347, -71.9883
+Hampshire Road, 42.7431, -71.2017
+Hampstead, 42.8744, -71.1817
+Hampton, 42.9375, -70.8394
+Hampton Beach, 42.9072, -70.8125
+Hampton Falls, 42.9161, -70.8642
+Hampton Landing, 42.9244, -70.8364
+Hancock, 42.9725, -71.9847
+Hanover, 43.7022, -72.2900
+Hanover Center, 43.7256, -72.1933
+Happy Corner, 45.0864, -71.3133
+Happy Valley, 42.9175, -71.9169
+Hardscrabble, 43.8317, -72.1178
+Harrisville, 42.9450, -72.0969
+Harts Location, 44.1333, -71.3667
+Hastings, 43.4011, -72.0319
+Hatfield Corner, 43.1806, -71.7419
+Haven Hill, 43.3000, -70.9833
+Haverhill, 44.0344, -72.0644
+Hayes, 43.3000, -70.9833
+Hayes Corner, 43.4083, -71.0250
+Haynes Corner, 42.9769, -70.9219
+Hays, 42.9833, -70.9500
+Hazens, 44.3689, -71.5619
+Hebron, 43.6939, -71.8061
+Hedding, 43.0333, -71.0667
+Hell Hollow, 43.5231, -72.3253
+Hemlock Center, 43.2356, -72.3858
+Henniker, 43.1797, -71.8228
+Henniker Junction, 43.1744, -71.8042
+High Bridge, 42.7508, -71.8275
+Highlands, 44.3728, -71.4389
+Hill, 43.5242, -71.7014
+Hill Center, 43.5236, -71.7400
+Hills Corner(Strafford), 43.3339, -71.1453
+Hills Corner(Merrimack), 43.3925, -71.4975
+Hillsboro, 43.1139, -71.8958
+Hillsboro Center, 43.1450, -71.9342
+Hillsboro Lower Village, 43.1122, -71.9447
+Hillsboro Upper Village, 43.1306, -71.9764
+Hinsdale, 42.7861, -72.4869
+Holderness, 43.7319, -71.5889
+Hollis, 42.7431, -71.5922
+Hollis Depot, 42.7128, -71.5492
+Holton, 43.0811, -71.9083
+Hooks Crossing, 43.0250, -71.3308
+Hooksett, 43.0967, -71.4656
+Hopkinton, 43.1914, -71.6758
+Hornetown, 43.3672, -71.1158
+Horse Corner, 43.2336, -71.4422
+Howards Grove, 42.8725, -71.2214
+Hoyts Corner, 43.2667, -71.9500
+Hubbard, 42.8822, -71.2456
+Hudson, 42.7647, -71.4403
+Hudson Center, 42.7717, -71.4083
+Huggins Hospital, 43.5817, -71.2033
+Idlewilde, 45.1514, -71.1794
+Interlaken Park, 43.6028, -71.4553
+Intervale, 44.0742, -71.1406
+Ireland, 44.1594, -71.8939
+Jackson, 44.1442, -71.1814
+Jackson Falls, 44.1481, -71.1817
+Jady Hill, 42.9858, -70.9439
+Jaffrey, 42.8139, -72.0236
+Jaffrey Center, 42.8278, -72.0556
+Jefferson, 44.4189, -71.4750
+Jefferson Highland, 44.3850, -71.4225
+Jenness Beach, 42.9833, -70.7667
+Jericho(Carroll), 44.1078, -71.2044
+Jericho(Grafton), 44.1439, -71.8494
+Jockey Hill, 44.1864, -71.9061
+Johnson Corner, 42.8886, -71.7347
+Jones Corner, 42.7372, -72.0228
+Joslin, 42.9092, -72.2561
+Kearsarge, 44.0753, -71.1181
+Keene, 42.9336, -72.2786
+Keewayden, 43.6017, -71.2517
+Kelleys Corner, 43.3683, -71.3547
+Kellyville, 43.3600, -72.2242
+Kelwyn Park, 43.2250, -70.8808
+Kensington, 42.9269, -70.9444
+Keyes Hollow, 43.2503, -72.2281
+Kezer Seminary, 43.3447, -71.5111
+Kidderville, 44.8764, -71.3769
+Kingston, 42.9364, -71.0539
+Klondike Corner, 42.9556, -71.6214
+Laconia, 43.5278, -71.4708
+Lake Shore Park, 43.5750, -71.3483
+Lakeport, 43.5472, -71.4631
+Lakeside, 43.4103, -72.0317
+Lamprey Corners, 42.9183, -70.9303
+Lancaster, 44.4889, -71.5697
+Landaff Center, 44.1750, -71.8875
+Langdon, 43.1669, -72.3800
+Langs Corner, 43.0258, -70.7547
+Laskey Corner, 43.4808, -70.9958
+Laurel Lake, 42.7833, -72.1500
+Lawrence Corner, 42.8472, -71.5239
+Leavitt Park, 43.6778, -71.4542
+Leavitts Hill, 43.1197, -71.2908
+Lebanon, 43.6422, -72.2522
+Lee, 43.1231, -71.0119
+Lee Five Corners, 43.1506, -70.9769
+Lee's, 42.9833, -70.9500
+Lees Mill, 43.7392, -71.3903
+Leighton Corners, 43.3086, -71.1911
+Lempster, 43.2383, -72.2111
+Leominster Corner, 43.0692, -72.1900
+Lincoln, 44.0456, -71.6706
+Lincoln Park, 42.7572, -71.5086
+Lisbon, 44.2133, -71.9114
+Litchfield, 42.8442, -71.4803
+Little Boars Head, 42.9581, -70.7767
+Little Island Pond, 42.7333, -71.3167
+Littlefield, 43.0386, -70.9978
+Littleton, 44.3061, -71.7706
+Livermore, 44.0753, -71.3756
+Livermore Falls, 43.7500, -71.6833
+Lochmere, 43.4711, -71.5306
+Lockehaven, 43.6500, -72.1500
+Lockes Corner, 43.3614, -71.1825
+Lockhaven, 43.6106, -72.0883
+Londonderry, 42.8650, -71.3744
+Long Sands, 43.7828, -71.1133
+Loon Cove, 43.4969, -71.2597
+Lost Nation, 44.5094, -71.4919
+Lost River, 44.0369, -71.7847
+Loudon, 43.2856, -71.4678
+Loudon Center, 43.3358, -71.4022
+Louisburg Square, 42.7500, -71.4833
+Lovejoy Sands, 43.6489, -71.4272
+Loverens Mill, 43.0728, -72.0189
+Lower Bartlett, 44.1022, -71.1506
+Lower Gilmanton, 43.3808, -71.3544
+Lower Shaker Village, 43.6200, -72.1467
+Lower Village(Cheshire), 43.0381, -72.2703
+Lower Village(Merimack), 43.2742, -71.7939
+Lyford Crossing, 43.0111, -71.0994
+Lyman, 44.2667, -71.9333
+Lyme, 43.8094, -72.1564
+Lyme Center, 43.7992, -72.1233
+Lyndeborough, 42.9075, -71.7669
+Lynn, 43.2194, -72.2800

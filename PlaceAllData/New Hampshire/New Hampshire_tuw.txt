@@ -1,0 +1,144 @@
+Tamworth, 43.8597, -71.2636
+Tappan Corners, 42.9106, -70.9903
+Tavern Village, 43.0392, -71.7039
+Temple, 42.8181, -71.8519
+The Five Corners, 42.9381, -70.8200
+The Glen, 45.1042, -71.2583
+The Plains, 43.4633, -71.5494
+The Plantation, 42.9292, -70.8067
+The Willows, 42.9114, -70.8247
+Thomas, 42.7494, -72.0439
+Thompson Corner, 43.3969, -71.7181
+Thornton, 43.8928, -71.6764
+Thorntons Ferry, 42.8419, -71.4931
+Tilton, 43.4422, -71.5894
+Tinkerville, 44.2722, -71.9356
+Tinkerville, 44.7806, -71.5839
+Towles Corner, 42.8950, -70.9283
+Town Hall Corner, 42.9214, -70.8733
+Town House, 43.4411, -70.9853
+Trapshire, 43.1950, -72.4389
+Tripoli Mill, 43.9981, -71.5778
+Troy, 42.8239, -72.1817
+Tuftonboro, 43.6964, -71.2225
+Twin Lakes Village, 43.4411, -72.0114
+Twin Mountain, 44.2722, -71.5394
+Tyler, 43.2344, -71.6900
+Union, 43.4914, -71.0236
+Union Wharf, 43.6519, -71.2828
+Unity, 43.2939, -72.2608
+Upper Kidderville, 44.8825, -71.3650
+Upper Shaker Village, 43.6117, -72.1386
+Upper Village(Coos), 44.3981, -71.1956
+Upper Village(Grafton), 44.1772, -71.9447
+Wadley Falls, 43.0919, -71.0083
+Wakefield, 43.5681, -71.0306
+Wallis Sands, 43.0239, -70.7328
+Walpole, 43.0794, -72.4264
+Walton Landing, 42.8872, -70.8417
+Warner, 43.2806, -71.8172
+Warren, 43.9231, -71.8925
+Washburn Corner, 43.5244, -72.0808
+Washington, 43.1758, -72.0972
+Water Village, 43.6825, -71.1850
+Waterloo, 43.2894, -71.8553
+Waterville Estates, 43.8667, -71.6333
+Waterville Valley, 43.9500, -71.5000
+Waumbeck Junction, 44.3739, -71.5203
+Wawbeek, 43.6719, -71.2978
+Weare, 43.0947, -71.7311
+Weare Corner, 42.8981, -70.9117
+Weares Mill, 42.9025, -70.9017
+Webb, 42.8742, -72.2131
+Webster, 43.3289, -71.7183
+Webster Lake, 43.4600, -71.6828
+Webster Place, 43.4064, -71.6553
+Websters Mill, 43.2783, -71.3458
+Weirs Beach, 43.6089, -71.4611
+Welshs Corner, 43.3344, -71.1317
+Wendell, 43.3736, -72.2503
+Wentworth, 43.8717, -71.9147
+Wentworth Acres, 43.0892, -70.7844
+Wentworth By The Sea, 43.0667, -70.7167
+Wentworth Hill, 43.7914, -71.4136
+Wentworth Location, 44.8581, -71.0558
+Wentworth Terrace, 43.1239, -70.8317
+Wentworth-Dover Hospital, 43.2131, -70.8750
+West Alton, 43.5511, -71.3117
+West Andover, 43.4442, -71.8772
+West Barrington, 43.2047, -71.1050
+West Bath, 44.1742, -71.9878
+West Brentwood, 42.9333, -71.0500
+West Brookline, 42.7361, -71.6797
+West Campton, 43.8472, -71.6664
+West Canaan, 43.6494, -72.0967
+West Center Harbor, 43.7000, -71.6333
+West Chesterfield, 42.9042, -72.5161
+West Claremont, 43.3961, -72.3697
+West Concord, 43.2436, -71.5733
+West Deering, 43.0647, -71.9053
+West Derry, 42.8733, -71.3381
+West Drummer, 44.4500, -71.1833
+West Epping, 43.0372, -71.1231
+West Franklin, 43.4500, -71.6500
+West Gonic, 43.2786, -70.9831
+West Hampstead, 42.9036, -71.2172
+West Henniker, 43.1833, -71.8167
+West Henniker Emerson Station, 43.1700, -71.8436
+West Hollis, 42.7056, -71.6214
+West Hopkinton, 43.1919, -71.7486
+West Kingston, 42.9100, -71.0689
+West Lebanon, 43.6492, -72.3108
+West Milan, 44.5986, -71.3047
+West Nottingham, 43.1736, -71.1408
+West Ossipee, 43.8247, -71.2053
+West Peterborough, 42.8872, -71.9858
+West Plymouth, 43.7703, -71.7628
+West Rindge, 42.7633, -72.0319
+West Rumney, 43.8136, -71.8711
+West Rye, 43.0011, -70.7983
+West Salisbury, 43.3989, -71.7808
+West Springfield, 43.4986, -72.0583
+West Stewartstown, 44.9953, -71.5317
+West Swanzey, 42.8700, -72.3222
+West Thornton, 43.9358, -71.6881
+West Unity, 43.2881, -72.3169
+West Wilton, 42.8303, -71.8064
+West Windham, 42.8025, -71.3525
+Westmoreland, 42.9619, -72.4428
+Westmoreland Depot, 43.0019, -72.4339
+Westport, 42.8417, -72.3481
+Westville, 42.8275, -71.1175
+Whiteface, 43.8667, -71.3986
+Whitefield, 44.3731, -71.6106
+Whittier, 43.8319, -71.2672
+Wilder, 42.7872, -71.9292
+Wildwood, 44.0783, -71.8008
+Willey House, 44.0833, -71.2833
+Wilmot, 43.4517, -71.9142
+Wilmot Flat, 43.4178, -71.8956
+Wilson, 42.9169, -71.3683
+Wilson Corners, 42.7922, -71.1867
+Wilton, 42.8433, -71.7356
+Wilton Center, 42.8328, -71.7775
+Winchester, 42.7733, -72.3836
+Windham, 42.8006, -71.3047
+Windham Depot, 42.8414, -71.3003
+Windsor, 43.1333, -72.0167
+Winniconic, 43.0222, -70.8764
+Winnicut Mills, 43.0108, -70.8744
+Winnipesaukee, 43.6742, -71.3356
+Winnisquam, 43.5014, -71.5125
+Winona, 43.6661, -71.5586
+Wolfeboro, 43.5839, -71.2078
+Wolfeboro Center, 43.6194, -71.1722
+Wolfeboro Falls, 43.5919, -71.2061
+Wonalancet, 43.9072, -71.3511
+Woodland Park, 42.8708, -71.5125
+Woodlands, 43.5311, -71.2694
+Woodman, 43.6347, -70.9833
+Woodmere, 42.7833, -72.0086
+Woods Mill, 43.0417, -72.1547
+Woodstock, 43.9775, -71.6856
+Woodsville, 44.1522, -72.0378
+Wright Hospital, 43.3722, -72.1681

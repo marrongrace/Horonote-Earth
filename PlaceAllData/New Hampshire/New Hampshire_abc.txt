@@ -1,0 +1,198 @@
+Ackerman's Trailer Park, 42.7833, -71.2000
+Acworth, 43.2178, -72.2925
+Albany, 43.9578, -71.1681
+Alderbrook, 44.3267, -71.6969
+Alexandria, 43.6333, -71.8333
+Allens Mills, 43.4083, -71.4519
+Allenstown, 43.1578, -71.4061
+Alstead, 43.1489, -72.3611
+Alstead Center, 43.1186, -72.3264
+Alton, 43.4522, -71.2181
+Alton Bay, 43.4686, -71.2325
+Ames, 43.5625, -71.3353
+Amherst, 42.8614, -71.6258
+Andover, 43.4369, -71.8239
+Antrim, 43.0308, -71.9394
+Antrim Center, 43.0503, -71.9661
+Appalachia, 44.3711, -71.2897
+Apthorp, 44.3078, -71.7428
+Arlington Park, 42.8303, -71.2244
+Ashland, 43.6953, -71.6311
+Ashuelot, 42.7775, -72.4242
+Atkinson, 42.8383, -71.1475
+Atkinson Heights, 42.8233, -71.1658
+Atlantic, 42.8711, -70.8617
+Atlantic Heights, 43.0922, -70.7731
+Auburn, 43.0044, -71.3489
+Austin Corners, 42.9111, -70.9647
+Baboosic Lake, 42.8667, -71.6333
+Baglett Grove, 42.8831, -71.1797
+Bagley, 43.2667, -71.7792
+Baileys, 44.4072, -71.5056
+Baileys Corner, 43.1056, -71.5817
+Baker Corner, 43.1375, -72.2494
+Ballock, 43.4322, -72.3925
+Bank, 42.7503, -71.8375
+Bank Village, 42.7000, -71.8500
+Barnstead, 43.3339, -71.2933
+Barrett, 44.2581, -71.8292
+Barrington, 43.2228, -71.0475
+Barryvilla, 43.3000, -70.9833
+Bartlett, 44.0781, -71.2833
+Base, 44.2667, -71.5500
+Bath, 44.1669, -71.9667
+Bayside, 43.0514, -70.8681
+Bean Island, 43.0631, -71.2433
+Bear Island, 43.6572, -71.4178
+Beatties, 44.7078, -71.5953
+Beaver Lake, 42.9000, -71.3167
+Bedford, 42.9464, -71.5164
+Beebe River, 43.8286, -71.6514
+Belmont, 43.4453, -71.4783
+Bennett Corners, 43.8275, -71.3283
+Bennington, 43.0031, -71.9250
+Benton, 44.1031, -71.9022
+Berlin, 44.4686, -71.1856
+Berrys Corner, 43.2750, -71.0694
+Bersum Gardens, 43.0831, -70.7706
+Bethlehem, 44.2803, -71.6886
+Big Rock Corner, 43.7811, -71.4497
+Birch Hill, 43.4500, -71.2167
+Black Mountain Cabin, 44.1975, -71.1722
+Blackwater, 43.2456, -70.9142
+Blair, 43.8100, -71.6656
+Blais Park, 44.4500, -71.1833
+Blodgett Landing, 43.3736, -72.0425
+Bonds Corner, 42.9017, -72.0250
+Boscawen, 43.3150, -71.6214
+Boutin Corner, 44.0981, -71.8764
+Bow Bog, 43.1206, -71.5119
+Bow Center, 43.1319, -71.5497
+Bow Junction, 43.1764, -71.5264
+Bow Lake Village(Strafford), 43.2414, -71.1511
+Bow Mills, 43.1669, -71.5336
+Bowkerville, 42.8058, -72.1647
+Bowman, 44.3586, -71.3528
+Box Corner, 43.2608, -72.0294
+Boyce, 43.2953, -71.5772
+Bradford, 43.2700, -71.9606
+Bradford Center, 43.2372, -71.9719
+Breakfast Hill, 43.0106, -70.8161
+Breezy Point, 43.9661, -71.8353
+Brentwood, 42.9786, -71.0733
+Brentwood Corners, 43.0083, -71.0767
+Bretton Woods, 44.2581, -71.4417
+Brick School Corner, 42.9392, -70.9503
+Bridgewater, 43.6383, -71.7369
+Bristol, 43.5911, -71.7372
+Broad Acres, 42.7689, -71.5072
+Brookfield, 43.5589, -71.0658
+Brookhurst, 43.5081, -71.2644
+Brookline, 42.7347, -71.6586
+Browns Corner, 42.9789, -71.6114
+Bucks Corner, 43.7378, -71.9486
+Bungy, 44.8439, -71.3933
+Burkehaven, 43.3756, -72.0714
+Cable Road, 42.9914, -70.7650
+Cambridge, 44.6667, -71.1333
+Camp Forest Lake, 42.7886, -72.3600
+Camp Gundalow, 43.0300, -70.8478
+Camp Hedding, 43.0428, -71.0322
+Camp Notre Dame, 42.9200, -72.4378
+Campton, 43.8333, -71.6500
+Campton Hollow, 43.8233, -71.6414
+Campton Lower Village, 43.8589, -71.6333
+Campton Station, 43.8536, -71.6514
+Campton Upper Village, 43.8658, -71.6386
+Canaan, 43.6475, -72.0122
+Canaan Center, 43.6803, -72.0531
+Canaan Street, 43.6653, -72.0428
+Candia, 43.0778, -71.2772
+Candia Four Corners, 43.0614, -71.2889
+Candia Village, 42.8000, -71.2500
+Canobie Lake, 42.8056, -71.2456
+Canterbury, 43.3369, -71.5658
+Canterbury Station, 43.3286, -71.6092
+Carroll, 44.2983, -71.5411
+Cascade, 44.4494, -71.1931
+Cedre Pond, 44.5667, -71.1833
+Cemetery Corners, 42.9631, -70.8408
+Center Barnstead, 43.3392, -71.2600
+Center Conway, 43.9947, -71.0614
+Center Effingham, 43.7394, -71.0094
+Center Harbor, 43.7097, -71.4608
+Center Haverhill, 44.0769, -71.9861
+Center Ossipee, 43.7550, -71.1525
+Center Sandwich, 43.8075, -71.4397
+Center Strafford, 43.2700, -71.1258
+Center Tuftonboro, 43.6542, -71.2478
+Central Park, 43.2333, -70.8825
+Chandlers Mills, 43.3581, -72.2483
+Charlestown, 43.2386, -72.4250
+Chase Village, 43.1106, -71.7514
+Chases Grove, 42.8617, -71.2172
+Chases Mill, 43.7211, -71.0031
+Chateau Richelieu, 42.7500, -71.4833
+Chatham, 44.1644, -71.0117
+Cheever, 43.7989, -71.9108
+Chesham, 42.9306, -72.1492
+Chester, 42.9567, -71.2578
+Chesterfield, 42.8872, -72.4708
+Chichester, 43.2492, -71.4003
+Chicks Corner, 43.8028, -71.4733
+Chickville, 43.7300, -71.1567
+Chocorua, 43.8789, -71.2203
+Christian Hollow, 43.0367, -72.3900
+Christian Shore, 43.0864, -70.7706
+Cilleyville, 43.4306, -71.8667
+Claremont, 43.3767, -72.3472
+Claremont Junction, 43.3683, -72.3783
+Clark Hill, 43.0464, -70.9553
+Clark Landing, 43.7081, -71.3492
+Clarks Landing, 43.7167, -71.4667
+Clarksville, 45.0167, -71.3500
+Clinton Grove, 43.0781, -71.7589
+Clinton Village, 43.0408, -71.9647
+Clovelly, 42.7500, -71.4833
+Cluffs Crossing, 42.7653, -71.2181
+Coburn, 43.4589, -71.1325
+Coburn Woods, 42.7500, -71.4833
+Cocheco, 43.2297, -70.9392
+Coffins Mill, 42.9431, -70.8758
+Colby, 43.1494, -71.7692
+Cold River, 43.1222, -72.4278
+Colebrook, 44.8944, -71.4964
+Collettes Grove, 42.8769, -71.2147
+Columbia, 44.8333, -71.4833
+Columbia Valley, 44.9000, -71.5000
+Concord, 43.2081, -71.5381
+Concord Heights, 43.2125, -71.5103
+Cones, 44.8197, -71.5664
+Conleys Grove, 42.8575, -71.2086
+Contoocook, 43.2219, -71.7144
+Converseville, 42.7392, -71.9808
+Conway, 43.9792, -71.1208
+Cooks Crossing, 44.0897, -71.2061
+Coos Junction, 44.5061, -71.5683
+Copperville, 44.5344, -71.2397
+Cornish Center, 43.4828, -72.3200
+Cornish City, 43.4667, -72.3506
+Cornish Flat, 43.4972, -72.2800
+Cornish Mills, 43.4644, -72.3694
+Cotoocook Lake, 42.8167, -72.0167
+Cottage Hospital, 44.1350, -72.0236
+Cowbell Corners, 42.8492, -71.2158
+Crane Crossing, 42.8581, -71.0781
+Crawford Notch, 44.2667, -71.5500
+Creek Area, 43.0758, -70.7756
+Crescent Lake, 43.2661, -72.2561
+Cricket Corner, 42.8419, -71.5961
+Crockett Corner, 43.3992, -71.9617
+Crocketts Crossing, 43.2406, -70.8489
+Croydon, 43.4506, -72.1636
+Croydon Flat, 43.4150, -72.1875
+Crystal, 44.6189, -71.3303
+Curits Corner, 42.7425, -72.3883
+Curtis Corner, 42.8744, -71.7464
+Cushman, 44.4058, -71.7231
+Cutter Hill, 42.7486, -71.9900

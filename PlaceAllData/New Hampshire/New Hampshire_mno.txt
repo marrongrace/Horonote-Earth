@@ -1,0 +1,149 @@
+MacDowell Colony, 42.8900, -71.9544
+Madbury, 43.1692, -70.9244
+Madison, 43.8992, -71.1489
+Manchester, 42.9956, -71.4553
+Mapleton, 44.6486, -71.5528
+Maplewood(Grafton), 44.2819, -71.6578
+Maplewood(Hillsborough), 43.0667, -71.6333
+Marlborough, 42.9042, -72.2083
+Marlow, 43.1158, -72.1975
+Marlow Junction, 43.1672, -72.2203
+Marshall Corner, 42.9925, -71.0147
+Marshfield Station, 44.2692, -71.3572
+Martin, 43.0433, -71.4547
+Martin Crossing, 43.0208, -71.0864
+Martins Corner, 43.0481, -71.4328
+Mascoma, 43.6511, -72.1828
+Mason, 42.7436, -71.7694
+Masons, 44.6861, -71.5892
+Massabesic, 43.0036, -71.3931
+Meaderboro Corner, 43.2986, -71.0297
+Meadowbrook, 43.0686, -70.7783
+Meadows, 44.3667, -71.4667
+Melrose Beach, 43.1767, -71.1703
+Melrose Corner, 43.3481, -70.9758
+Melvin Mills, 43.2689, -71.9139
+Melvin Village, 43.6889, -71.3047
+Meredith, 43.6575, -71.5008
+Meredith Center, 43.6142, -71.5297
+Meriden, 43.5439, -72.2531
+Merrill Corners, 43.3244, -71.0719
+Merrimack, 42.8650, -71.4939
+Merriwood Camp, 43.9033, -71.9917
+Middleton Corners, 43.4761, -71.0700
+Milan, 44.5733, -71.1856
+Milford, 42.8353, -71.6494
+Mill Hollow(Cheshire), 43.1228, -72.2989
+Mill Hollow(Sullivan), 43.5533, -72.2658
+Mill Village(Cheshire), 43.0775, -72.0931
+Mill Village(Sullivan), 43.5342, -72.3364
+Millsfield, 44.7833, -71.2500
+Millville, 42.8025, -71.2150
+Millville Lake, 42.7833, -71.2000
+Milton, 43.4097, -70.9889
+Milton Mills, 43.5011, -70.9642
+Mirror Lake, 43.6225, -71.2767
+Mitchel Memorial Hospital, 43.0122, -71.0531
+Monahan Corner, 42.9214, -70.9922
+Monroe, 44.2603, -72.0553
+Mont Vernon, 42.8944, -71.6747
+Moore General Hospital, 43.0083, -71.5392
+Moultonboro, 43.7547, -71.3972
+Moultonborough Falls, 43.7439, -71.4111
+Moultonville, 43.7544, -71.1703
+Mount Major, 43.5222, -71.2717
+Mount Saint Mary College, 43.0500, -71.4500
+Mount Sunapee, 43.3406, -72.0714
+Mount Washington, 44.2667, -71.3000
+Mountain Base, 42.9864, -71.5792
+Mountain View Estates, 42.7500, -71.4833
+Munsonville, 43.0142, -72.1492
+Murray Hill, 43.5422, -71.7958
+Nashua, 42.7653, -71.4681
+Nason Corners, 42.9200, -70.9089
+Nelson, 42.9906, -72.1314
+New Boston, 42.9761, -71.6944
+New Castle, 43.0722, -70.7167
+New Durham, 43.4367, -71.1728
+New Durham Corner, 43.4219, -71.1250
+New Hampshire State Hospital, 43.1989, -71.5447
+New Hampton, 43.6056, -71.6547
+New Ipswich, 42.7481, -71.8547
+New Ipswich Center, 42.7581, -71.8522
+New London, 43.4139, -71.9856
+New Portsmouth, 43.5050, -71.0542
+New Rye, 43.1839, -71.3639
+Newbury, 43.3214, -72.0364
+Newfields, 43.0369, -70.9389
+Newington, 43.1000, -70.8342
+Newington Station, 43.1122, -70.8219
+Newmarket(Rockingham), 43.0828, -70.9356
+Newmarket(Merrimack), 43.2778, -71.8739
+Newport, 43.3653, -72.1739
+Newton, 42.8694, -71.0350
+Newton Junction, 42.8672, -71.0664
+Noone, 42.8597, -71.9650
+North Barnstead, 43.3500, -71.2667
+North Beach, 42.9339, -70.7989
+North Branch, 43.0806, -71.9778
+North Brookline, 42.7592, -71.6756
+North Charleston, 43.3083, -72.3875
+North Charlestown, 43.2333, -72.4167
+North Chatham, 44.2422, -71.0172
+North Chester, 43.0039, -71.2758
+North Chichester, 43.2575, -71.3731
+North Conway, 44.0536, -71.1289
+North Danville, 42.9456, -71.1139
+North Dorchester, 43.8025, -71.9714
+North Epping, 43.0714, -71.0608
+North Grantham, 43.5289, -72.1314
+North Groton, 43.7597, -71.8703
+North Hampton, 42.9725, -70.8303
+North Hampton Center, 42.9764, -70.8483
+North Haverhill, 44.0903, -72.0269
+North Hinsdale, 42.8250, -72.5192
+North Holderness, 43.7500, -71.6833
+North Littleton, 44.3597, -71.8025
+North Londonderry, 42.9181, -71.3994
+North Newport, 43.3886, -72.2150
+North Nottingham, 43.1669, -71.1061
+North Pelham, 42.7736, -71.3531
+North Pembroke, 43.2028, -71.4286
+North Richmond, 42.7931, -72.2725
+North Rochester(Hayes Station), 43.3728, -70.9861
+North Salem, 42.8369, -71.2211
+North Sanbornton, 43.5519, -71.6100
+North Sandwich, 43.8406, -71.3975
+North Stratford, 44.7517, -71.6292
+North Sutton, 43.3639, -71.9400
+North Swanzey, 42.9333, -72.2833
+North Village, 42.8989, -71.9394
+North Wakefield, 43.6361, -71.0553
+North Walpole, 43.1389, -72.4486
+North Weare, 43.1144, -71.7383
+North Wilmot, 43.4964, -71.9344
+North Wolfeboro, 43.6536, -71.1347
+North Woodstock, 44.0303, -71.6864
+Northfield, 43.4331, -71.5928
+Northumberland, 44.5633, -71.5592
+Northwood, 43.1942, -71.1514
+Northwood Center, 43.2172, -71.2072
+Northwood Narrows, 43.2258, -71.2444
+Northwood Ridge, 43.2094, -71.1806
+Notchland, 44.1156, -71.3556
+Nottingham, 43.1144, -71.1003
+Nottingham Square, 43.1031, -71.1111
+Noyes Terrace, 42.7544, -71.2033
+Nutter, 44.1447, -71.9453
+Nuttings Beach, 43.6625, -71.7906
+Odell, 44.7333, -71.3833
+Old Millstream Estates, 42.9833, -70.9500
+Old Northwood, 43.2000, -71.1000
+Onway Lake, 43.0342, -71.2167
+Orange, 43.6544, -71.9719
+Orford, 43.9053, -72.1406
+Orfordville, 43.8833, -72.1028
+Ossipee, 43.6853, -71.1172
+Ossipee Lake Shores, 43.8025, -71.0942
+Ossipee Valley, 43.7919, -71.1781
+Otterville, 43.4294, -72.0461
