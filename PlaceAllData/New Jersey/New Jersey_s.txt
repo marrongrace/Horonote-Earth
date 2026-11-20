@@ -1,0 +1,299 @@
+Saddle Brook, 40.8989, -74.0931
+Saddle River, 41.0317, -74.1025
+Salem, 39.5717, -75.4675
+Salem Hill, 40.1583, -74.2122
+Salina, 39.7731, -75.1244
+Sally Marshall Crossing, 39.0014, -74.8922
+Samptown, 40.5814, -74.4306
+Sand Brook, 40.4692, -74.9172
+Sand Hills(Middlesex), 40.5250, -74.3197
+Sand Hills(Sussex), 41.1919, -74.5092
+Sands Point, 40.3264, -74.0036
+Sandtown, 39.9069, -74.7886
+Sandy Point, 40.0333, -74.1167
+Sandy Ridge, 40.4231, -74.9528
+Sandyston, 41.2167, -74.8167
+Sarepta, 40.8567, -75.0300
+Saxton Falls, 40.8897, -74.7964
+Sayerwood South, 40.3972, -74.3250
+Sayre Woods, 40.4611, -74.2917
+Sayres Neck, 39.3333, -75.2000
+Sayreville, 40.4592, -74.3614
+Sayreville Junction, 40.4653, -74.3308
+Sayreville Station, 40.4728, -74.3542
+Schalks, 40.3425, -74.5922
+Schellenger Landing, 38.9486, -74.9056
+Schepps Valley, 39.4786, -75.3589
+Schooleys Mountain, 40.7992, -74.8142
+Scobeyville, 40.2969, -74.1436
+Scotch Bonnet, 39.0683, -74.7883
+Scotch Plains, 40.6553, -74.3903
+Scow Landing, 39.5981, -74.3400
+Scrapetown, 39.9478, -74.6925
+Scrappy Corner, 40.7619, -74.8486
+Scratch Ridge, 39.9692, -74.7333
+Scudders Falls, 40.2592, -74.8372
+Scull Landing, 39.3656, -74.7142
+Scullville, 39.3350, -74.6433
+Sea Breeze, 39.3211, -75.3206
+Sea Bright, 40.3614, -73.9744
+Sea Girt, 40.1319, -74.0350
+Sea Isle City, 39.1533, -74.6933
+Seaboard, 40.7667, -74.1500
+Seabrook, 39.5017, -75.2194
+Seabrook Farms, 39.5000, -75.2167
+Seaside Heights, 39.9442, -74.0733
+Seaside Heights Harbor, 39.9647, -74.1283
+Seaside Park, 39.9267, -74.0775
+Seaview Park, 39.4422, -74.4778
+Seaville, 39.2083, -74.7044
+Secaucus, 40.7894, -74.0569
+Sedgefield, 40.8333, -74.4833
+Seeley, 39.4819, -75.2581
+Sergeantsville, 40.4458, -74.9439
+Serviss Acres, 40.4167, -74.3833
+Seven Stars(Ocean), 40.0572, -74.2203
+Seven Stars(Salem), 39.6856, -75.3392
+Sewaren, 40.5519, -74.2592
+Sewell, 39.7664, -75.1447
+Shacks Corner, 40.2269, -74.1950
+Shady Lawn Manor, 40.7719, -74.4364
+Shafto Corners, 40.2333, -74.2167
+Shamong, 39.7833, -74.7500
+Shark River Hills, 40.1939, -74.0492
+Sharon, 40.2064, -74.5364
+Sharp, 40.0922, -74.7428
+Sharps Corner, 39.7997, -74.9664
+Sharptown, 39.6556, -75.3656
+Shawcrest, 38.9875, -74.8383
+Shaws Mill, 39.3106, -75.1567
+Shaytown, 41.2583, -74.7917
+Shell Pile, 39.2403, -75.0247
+Shellbed Landing, 39.0625, -74.8194
+Shelter Cove, 39.9333, -74.2167
+Sheppards Mill, 39.4103, -75.3183
+Sherbrook Estates, 40.3144, -74.6150
+Sherwood Green, 39.8167, -75.1333
+Shiloh(Warren), 40.9175, -74.9311
+Shiloh(Cumberland), 39.4589, -75.2994
+Shiloh Crossing, 39.4667, -75.2500
+Shimer Manor, 40.6833, -75.1667
+Shinntown, 39.9000, -74.8444
+Ship Bottom, 39.6428, -74.1808
+Shippenport, 40.8983, -74.6694
+Shirley, 39.5694, -75.2386
+Shongum, 40.8442, -74.5333
+Shongum Mountain Sanatorium, 40.8308, -74.5242
+Shore Acres, 40.0253, -74.1019
+Shore Crest, 40.5833, -74.3167
+Shore Hills, 40.9108, -74.6567
+Shore Memorial Hospital, 39.3144, -74.5942
+Shore Road Estates, 40.3611, -74.3931
+Shore View, 40.5903, -74.3283
+Short Hills, 40.7478, -74.3258
+Shrewsbury, 40.3294, -74.0619
+Sicklerville, 39.7172, -74.9697
+Sidney, 40.6042, -74.9225
+Siloam, 40.1861, -74.3483
+Silver Bay, 40.0033, -74.1233
+Silver Beach, 39.9958, -74.0625
+Silver Lake(Essex), 40.8000, -74.1667
+Silver Lake(Warren), 40.9833, -74.9500
+Silver Ridge, 39.9592, -74.2189
+Silver Springs, 40.9156, -74.6539
+Silverton, 40.0158, -74.1453
+Silverton Estates, 40.0106, -74.1492
+Silverton Pine Terrace, 40.0094, -74.1300
+Sim Place, 39.7358, -74.4211
+Singac, 40.8867, -74.2414
+Sinnickson Landing, 39.5697, -75.4961
+Six Points, 39.5314, -75.1078
+Sixmile Run, 40.4575, -74.5119
+Skillman, 40.4200, -74.7150
+Skin Corner, 40.0128, -74.9353
+Sky Line Lake, 41.0333, -74.3000
+Sky View Manor, 39.9778, -74.1458
+Skylands, 41.1269, -74.2372
+Slackwood, 40.2531, -74.7350
+Slapes Corner, 39.6397, -75.4361
+Sloop Creek Estates, 39.9167, -74.1500
+Sloping Hills, 40.7000, -74.5500
+Smalleytown, 40.6558, -74.4786
+Smith Tract, 39.6167, -74.2000
+Smithburg, 40.2089, -74.3533
+Smiths Mills, 41.0144, -74.3733
+Smithtown, 40.4719, -75.0694
+Smithville(Atlantic), 39.4939, -74.4575
+Smithville(Burlington), 39.9858, -74.7489
+Smocks Corners, 40.3564, -74.2361
+Smoke Rise, 40.9953, -74.4028
+Snow Hill, 39.8700, -75.0331
+Snug Harbor, 39.9917, -74.1444
+Snydertown, 40.3986, -74.8342
+Soho, 40.8000, -74.1667
+Somerdale, 39.8439, -75.0231
+Somers Point, 39.3175, -74.5950
+Somerset, 40.2761, -74.8494
+Somerset Hospital, 40.5672, -74.5947
+Somerset Park, 40.0478, -74.8917
+Somersetin, 40.7400, -74.5767
+Somerville, 40.5742, -74.6103
+Sooy Place, 39.8675, -74.6525
+South, 40.7167, -74.1833
+South Amboy, 40.4778, -74.2911
+South Amboy Junction, 40.4917, -74.2836
+South Belmar, 40.1708, -74.0278
+South Bound Brook, 40.5533, -74.5319
+South Branch, 40.5439, -74.6972
+South Brunswick, 40.3833, -74.5333
+South Brunswick Terrace, 40.3792, -74.5667
+South Camden, 39.9167, -75.1000
+South Dennis, 39.1783, -74.8203
+South Egg Harbor, 39.5211, -74.6519
+South Glassboro, 39.7000, -75.1167
+South Hackensack, 40.8625, -74.0483
+South Harrison, 39.7000, -75.2667
+South Kearny, 40.7667, -74.1500
+South Lakewood, 40.0717, -74.2458
+South Livingston, 40.7833, -74.3167
+South Mantoloking, 40.0500, -74.0500
+South Mantoloking Beach, 40.0228, -74.0553
+South Merchantville, 39.9500, -75.0500
+South Ogdensburg, 41.0747, -74.5967
+South Old Bridge, 40.4081, -74.3547
+South Orange, 40.7500, -74.2500
+South Orange Village, 40.7906, -74.2597
+South Park, 39.8261, -74.6047
+South Paterson, 40.9000, -74.1500
+South Pemberton, 39.9675, -74.6853
+South Penns Grove, 39.7217, -75.4597
+South Plainfield, 40.5792, -74.4119
+South River, 40.4464, -74.3864
+South Seaside Park, 39.9106, -74.0803
+South Seaville, 39.1789, -74.7603
+South Toms River, 39.9419, -74.2047
+South Vineland, 39.4458, -75.0292
+South Westville, 39.8606, -75.1319
+South Woodstown, 39.6500, -75.3333
+Southampton, 39.9167, -74.7167
+Southard, 40.1383, -74.2253
+Southtown, 40.9378, -74.8950
+Southwest Vineland, 39.4833, -75.0167
+Sparta, 41.0333, -74.6389
+Sparta Junction, 41.0642, -74.6717
+Sparta Lake, 41.0500, -74.5667
+Speedwell, 39.7631, -74.5458
+Sperry Springs, 40.9556, -74.6489
+Spotswood, 40.3917, -74.3989
+Spotswood Manor, 40.3778, -74.3833
+Spraguetown, 39.6500, -74.3058
+Spray Beach, 39.5783, -74.2300
+Spring Gardens, 40.2333, -74.7833
+Spring Lake, 40.1533, -74.0286
+Spring Lake Heights, 40.1503, -74.0314
+Spring Mill, 40.1742, -74.6031
+Spring Mills, 40.5942, -75.1169
+Spring Valley(Monmouth), 40.3708, -74.2781
+Spring Valley(Warren), 41.0058, -74.9400
+Springdale(Camden), 39.9025, -74.9667
+Springdale(Somerset), 40.6069, -74.5092
+Springdale(Sussex), 41.0203, -74.7694
+Springfield(Burlignton), 40.0431, -74.6458
+Springfield(Union), 40.7231, -74.3111
+Springside, 40.0603, -74.8508
+Springtown(Morris), 40.7925, -74.7928
+Springtown(Warren), 40.6486, -75.1481
+Springtown(Cumberland), 39.4142, -75.3319
+Springville, 39.9372, -74.8683
+Spruce Gardens, 40.0692, -74.2094
+Spruce Run, 40.7086, -74.9225
+Squankum, 40.1661, -74.1542
+St Cloud, 40.7750, -74.2742
+St Josephs Hospital, 40.9022, -74.1664
+St Josephs Village, 41.0058, -73.9353
+St Marys Hospital(Hudson), 40.7439, -74.0342
+St Marys Hospital(Essex), 40.7681, -74.2311
+St Marys Hospital(Passaic), 40.8514, -74.1286
+St Michaels Hospital, 40.7444, -74.1756
+St Peters Hospital, 40.5011, -74.4594
+St Vincents Hospital, 40.8081, -74.2144
+St Vladimirs, 40.1147, -74.3911
+Stafford, 39.6833, -74.2667
+Stafford Forge, 39.6669, -74.3197
+Staffordville, 39.6661, -74.2811
+Staffordville Public Landing, 39.6558, -74.2706
+Stanhope, 40.9028, -74.7094
+Stanton, 40.5750, -74.8381
+Stanwick, 39.9731, -74.9369
+Stanwick Glen, 39.9792, -74.9394
+Star Cross, 39.6464, -75.0156
+State Hospital, 40.2167, -74.7667
+Staten Island Junction, 40.6589, -74.2875
+Steelman Landing, 39.3778, -74.7322
+Steelmantown, 39.2667, -74.8019
+Steelmanville, 39.3342, -74.5947
+Steels Corner, 39.5814, -75.1925
+Stelton, 40.5142, -74.4039
+Stephensburg, 40.7931, -74.8733
+Stephenville, 40.5333, -74.3667
+Sterling Woods, 40.1056, -74.0850
+Stevens, 40.0886, -74.8253
+Stewartsville, 40.6936, -75.1114
+Still Valley, 40.6739, -75.1389
+Stillwater, 41.0358, -74.8786
+Stirling, 40.6719, -74.4953
+Stockholm, 41.0894, -74.5175
+Stockington, 39.5650, -75.3194
+Stockton, 40.4078, -74.9786
+Stone Church, 40.3981, -74.0203
+Stone Harbor, 39.0508, -74.7583
+Stone Harbor Manor, 39.0597, -74.7700
+Stone Mill, 40.6814, -74.8800
+Stone Tavern, 40.1889, -74.4717
+Stonehurst East, 40.2300, -74.2875
+Stonehurst West, 40.2300, -74.3042
+Stonetown, 41.0950, -74.3039
+Stoney Brook Estates, 39.8167, -75.1333
+Stony Hill, 40.6703, -74.4278
+Stoutsburg, 40.3986, -74.7358
+Stow Acres, 39.9103, -74.9144
+Stow Creek, 39.4500, -75.3500
+Stow Creek Landing, 39.4425, -75.4089
+Stoys Landing, 39.9164, -75.0347
+Stratford, 39.8267, -75.0158
+Strathmere, 39.1956, -74.6583
+Strathmore, 40.3958, -74.2139
+Sturwood Hamlet, 40.2733, -74.7425
+Styertowne, 40.8500, -74.1500
+Suburban, 40.3500, -74.0500
+Suburban Park, 39.9661, -74.2319
+Succasunna, 40.8683, -74.6408
+Summerfield, 40.7875, -75.0433
+Summit, 40.7414, -74.3600
+Summit Avenue, 40.7667, -74.0333
+Summit East, 39.9778, -74.2444
+Sunbury, 39.9667, -74.6833
+Sunnyside, 40.5817, -74.8800
+Sunrise Beach, 39.8333, -74.1833
+Sunrise Park, 40.8667, -74.6333
+Sunset Beach(Cape May), 38.9458, -74.9708
+Sunset Beach(Gloucester), 39.8139, -75.0961
+Sunset Hill, 40.3500, -74.6500
+Sunset Hill Garden, 40.4367, -74.5875
+Surf City, 39.6619, -74.1656
+Surrey Place, 39.9322, -74.9961
+Sussex, 41.2097, -74.6081
+Sussex Mills, 41.0514, -74.6808
+Sutton Park, 40.8250, -74.7056
+Swain, 39.1253, -74.8006
+Swainton, 39.1314, -74.7778
+Swartswood, 41.0869, -74.8275
+Swartswood Lake, 41.0500, -74.7500
+Swayzes Mills, 40.8967, -74.9975
+Swedesboro, 39.7475, -75.3108
+Sweetman, 40.2194, -74.3881
+Sweetwater, 39.6264, -74.6497
+Swinesburg, 40.6386, -75.0578
+Sykesville, 40.0636, -74.6189
+Sylvan Glen, 40.1783, -74.7050
+Sylvan Lake, 40.0833, -74.8500

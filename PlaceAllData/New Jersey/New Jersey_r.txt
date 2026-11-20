@@ -1,0 +1,136 @@
+Radburn, 40.9425, -74.1169
+Rahway, 40.6081, -74.2781
+Rainbow Lakes, 40.8833, -74.4833
+Raines Corner, 39.7119, -75.4500
+Ralston, 40.7711, -74.6256
+Ramblewood, 39.9286, -74.9442
+Rammel Mill, 39.4692, -75.2425
+Ramsey, 41.0572, -74.1414
+Ramseyburg, 40.8833, -75.0597
+Ramtown, 40.1208, -74.1442
+Rancocas, 40.0106, -74.8672
+Rancocas Heights, 39.9822, -74.8481
+Rancocas Valley Hospital, 40.0464, -74.8808
+Rancocas Woods, 39.9889, -74.8606
+Randolph, 40.8500, -74.5833
+Randolphville, 40.5394, -74.4522
+Raritan, 40.5694, -74.6333
+Raritan Gardens, 40.4864, -74.4192
+Raritan Manor, 40.5364, -74.3369
+Raritan River RR Junction, 40.4833, -74.2833
+Raven Rock, 40.4108, -75.0336
+Readingsburg, 40.6819, -74.8772
+Readington, 40.5686, -74.7381
+Reaville, 40.4783, -74.8169
+Rebel Hill, 40.7000, -74.5500
+Red Bank(Gloucester), 39.8728, -75.1731
+Red Bank(Monmouth), 40.3469, -74.0647
+Red Hill, 40.3842, -74.1317
+Red Lion(Middlesex), 40.4436, -74.4708
+Red Lion(Burlington), 39.8894, -74.7450
+Red Mill, 40.7192, -74.9211
+Red Oak Grove, 39.8353, -74.4097
+Red Valley, 40.1617, -74.4708
+Redshaw Corner, 40.3567, -74.3553
+Reed Crossing, 39.7981, -74.9328
+Reeds Beach, 39.1169, -74.8914
+Reega, 39.4325, -74.6611
+Reevytown, 40.2406, -74.1053
+Remsen Mill, 40.1981, -74.0703
+Remsterville, 39.5597, -75.3378
+Repaupo, 39.7997, -75.2992
+Retreat, 39.9164, -74.7131
+Revere Run, 39.7756, -75.0386
+Richard Mine, 40.9172, -74.5583
+Richfield, 40.8689, -74.1731
+Richland, 39.4917, -74.8711
+Richmantown, 39.6272, -75.2939
+Richwood, 39.7225, -75.1658
+Riddleton, 39.5944, -75.3531
+Ridge Acres, 40.7000, -74.5500
+Ridgedale Park, 40.7667, -74.4122
+Ridgefield, 40.8342, -74.0092
+Ridgefield Park, 40.8569, -74.0219
+Ridgeway, 40.0314, -74.2844
+Ridgewood, 40.9792, -74.1169
+Ridgewood Junction, 40.9694, -74.1269
+Riegel Ridge, 40.6097, -75.1203
+Riegelsville, 40.5936, -75.1956
+Rileyville, 40.4250, -74.7922
+Ringoes, 40.4289, -74.8681
+Ringwood, 41.1133, -74.2458
+Rio Grande, 39.0144, -74.8819
+Ritz, 40.8833, -74.1000
+River Bank, 39.9336, -74.1575
+River Edge, 40.9286, -74.0403
+River Edge Manor, 40.9333, -74.0167
+River Vale, 40.9953, -74.0125
+Rivercrest Manor, 39.9833, -74.2042
+Riverdale, 40.9939, -74.3039
+Riverside(Hunterdon), 40.5097, -74.7844
+Riverside(Burlington), 40.0322, -74.9578
+Riverside(Passaic), 40.9356, -74.1519
+Riverside Park, 40.0375, -74.9750
+Riverton, 40.0114, -75.0153
+Riverview Estates, 39.9603, -74.2233
+Riverview Hospital, 40.3539, -74.0631
+Riverview Manor, 40.5153, -74.4750
+Riviera Beach, 40.0978, -74.1006
+Riviera on the Barnegat, 39.8492, -74.1750
+Riviera on the Bay, 40.0022, -74.1292
+Roadstown, 39.4408, -75.3186
+Robanna, 39.6853, -75.0183
+Robbinsville, 40.2144, -74.6197
+Robert Barry Apartments, 39.8333, -75.1500
+Robertsville, 40.3461, -74.2883
+Robin Estates, 40.1333, -74.3333
+Robin Hood Homes, 40.0500, -74.9333
+Robinsville, 40.2064, -74.4783
+Robinvale, 40.5431, -74.3522
+Rochelle Park, 40.9072, -74.0756
+Rock Mill, 40.4375, -74.7433
+Rock Ridge Lake, 40.8833, -74.4833
+Rockaway, 40.9011, -74.5147
+Rockaway Neck, 40.8667, -74.4167
+Rockaway Valley, 40.9281, -74.4447
+Rockefellows Mills, 40.5197, -74.8211
+Rockingham, 40.3978, -74.6194
+Rockleigh, 41.0003, -73.9308
+Rockport(Sussex), 41.3092, -74.5986
+Rockport(Warren), 40.8236, -74.8772
+Rocktown, 40.4058, -74.8617
+Rockwood, 39.6944, -74.6917
+Rocky Hill, 40.3997, -74.6347
+Roebling, 40.1158, -74.7867
+Roosevelt, 40.2200, -74.4736
+Roosevelt City, 39.9381, -74.3894
+Roosevelt Hospital, 40.5514, -74.3372
+Roosevelt Park, 39.3781, -75.0253
+Rose Hill Heights, 40.6833, -75.1667
+Rosedale(Atlantic), 39.6500, -74.8267
+Rosedale(Mercer), 40.3381, -74.7222
+Rosedale Village, 40.7681, -74.3958
+Roseland, 40.8206, -74.2942
+Roselle, 40.6642, -74.2636
+Roselle Park, 40.6644, -74.2647
+Rosemont(Hunterdon), 40.4272, -74.9903
+Rosemont(Mercer), 40.2392, -74.6944
+Rosenhayn, 39.4781, -75.1317
+Roseville(Sussex), 40.9575, -74.6919
+Roseville(Essex), 40.7550, -74.1911
+Ross Corner, 41.1200, -74.7131
+Round Top, 40.6197, -74.5453
+Rowland Mills, 40.5567, -74.8542
+Roxburg, 40.7800, -75.1000
+Roxbury, 40.8667, -74.6500
+Royal Estates, 40.4167, -74.3833
+Royce Valley, 40.5353, -74.6122
+Roys, 41.1706, -74.6581
+Rudeville, 41.1494, -74.5450
+Rulon Road, 39.7597, -75.2969
+Rumson, 40.3719, -73.9994
+Runnemede, 39.8522, -75.0683
+Runyon, 40.4342, -74.3325
+Russia, 41.0406, -74.5331
+Rutgers, 40.4881, -74.4111
+Rutherford, 40.8264, -74.1072

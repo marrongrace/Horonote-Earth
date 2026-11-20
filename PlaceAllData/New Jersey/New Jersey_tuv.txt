@@ -1,0 +1,157 @@
+Tabernacle, 39.8439, -74.7106
+Tabor, 40.8711, -74.4803
+Tanners Corner, 40.4381, -74.3931
+Tansboro, 39.7689, -74.9200
+Taunton Lake, 39.8506, -74.8492
+Taurus, 40.7833, -74.0167
+Tavistock, 39.8761, -75.0300
+Taylor Mills, 40.2967, -74.3406
+Taylortown, 40.9378, -74.3950
+Teabo, 40.9000, -74.5833
+Teaneck, 40.8975, -74.0164
+Ten Mile Run, 40.4139, -74.5736
+Tenacre Foundation Hospital, 40.3681, -74.6931
+Tenafly, 40.9253, -73.9633
+Tennent, 40.2794, -74.3347
+Terrestria, 39.7633, -75.0333
+Teterboro, 40.8597, -74.0597
+Tewksbury, 40.7000, -74.7833
+Texas(Middlesex), 40.3606, -74.3697
+Texas(Burlington), 39.9425, -74.9344
+Thachers Hill, 40.5258, -74.8783
+The Acres, 39.7000, -75.1167
+The Dunes, 39.6167, -74.2000
+The Maples, 39.9075, -74.9250
+The Orchards, 40.2389, -74.6975
+The Valley Hospital, 40.9822, -74.1014
+Thelma, 39.4150, -74.6564
+Thompson Beach, 39.2500, -75.1167
+Thompsontown, 39.4164, -74.7092
+Thorofare, 39.8422, -75.1967
+Three Bridges, 40.5197, -74.7997
+Tierneys Corner, 40.9589, -74.5978
+Tilghmans Corner, 40.0606, -74.6325
+Timber Lakes, 39.6833, -75.0000
+Timbuctoo, 40.0031, -74.8144
+Tindells Landing, 39.3764, -75.2458
+Tinton Falls, 40.3042, -74.1008
+Titusville, 40.3094, -74.8808
+Tomlin, 39.7781, -75.2728
+Tomlinsons Mill, 39.8672, -74.8950
+Toms River, 39.9536, -74.1983
+Totowa, 40.9050, -74.2103
+Towaco, 40.9219, -74.3458
+Town Bank, 38.9875, -74.9536
+Town Brook, 40.3922, -74.1000
+Town Estates, 40.0586, -74.8678
+Townley, 40.7000, -74.2667
+Townsbury, 40.8508, -74.9339
+Townsends Inlet, 39.1264, -74.7117
+Tracy, 40.3028, -74.3839
+Tranquility, 40.9561, -74.8089
+Tremley, 40.6131, -74.2303
+Tremley Point, 40.6017, -74.2053
+Tremont Park, 40.7050, -74.3539
+Trenton, 40.2169, -74.7433
+Trenton East, 40.2167, -74.7500
+Trenton Gardens, 40.1972, -74.6997
+Trenton Highlands, 40.2333, -74.7000
+Trenton Naval Air Propulsion, 40.2500, -74.8000
+Troy Hills, 40.8528, -74.3925
+Tuckahoe, 39.2900, -74.7542
+Tuckerton, 39.6031, -74.3406
+Tumble Falls, 40.4536, -75.0625
+Turkey Point Corner, 39.2828, -75.1328
+Turnersville, 39.7731, -75.0517
+Tuttles Corner, 41.1981, -74.8031
+Twin Hill Park, 40.0083, -74.8778
+Twin Rivers, 40.2639, -74.4917
+Two Bridges, 40.8956, -74.2775
+Twombly Landing, 40.9625, -73.9133
+Tyler Park, 40.7833, -74.0167
+Tylertown, 39.6547, -74.6094
+Tyndall Village, 39.8922, -75.0214
+Ukrainian Village, 40.5278, -74.5133
+Undercliff, 40.8881, -73.9411
+Undercliff Junction, 40.8286, -74.0244
+Underwood Hospital, 39.8433, -75.1497
+Union(Hunterdon), 40.6694, -74.9244
+Union(Union), 40.6975, -74.2636
+Union Beach, 40.4464, -74.1786
+Union Center, 40.7000, -74.2667
+Union City, 40.7794, -74.0242
+Union Grove, 39.6408, -75.2825
+Union Hill, 40.8672, -74.5225
+Union Landing, 40.0219, -74.9967
+Union Mills, 39.9722, -74.8564
+Union Square, 40.6586, -74.2028
+Union Valley, 40.3036, -74.4564
+Union Village, 40.6667, -74.4558
+Unionburg, 40.7053, -74.2817
+Uniontown, 40.7206, -75.1408
+Unionville(Atlantic), 39.5269, -74.5017
+Unionville(Burlington), 40.0053, -74.7650
+Unionville(Hunterdon), 40.4286, -74.8400
+Upper, 39.2500, -74.6833
+Upper Berkshire Valley, 40.9000, -74.5833
+Upper Deerfield, 39.4833, -75.2000
+Upper Freehold, 40.2000, -74.5167
+Upper Greenwood Lake, 41.1817, -74.3825
+Upper Harmony, 40.6833, -75.1667
+Upper Longwood, 40.9772, -74.5458
+Upper Macopin, 41.0850, -74.3861
+Upper Mill, 39.9125, -74.5739
+Upper Mohawk, 41.0311, -74.6636
+Upper Montclair, 40.8461, -74.2017
+Upper Montvale, 41.0606, -74.0525
+Upper Penns Neck, 39.7167, -75.4667
+Upper Pittsgrove, 39.6167, -75.2000
+Upper Saddle River, 41.0583, -74.0989
+Upton, 39.9347, -74.5244
+Uptown, 40.7500, -74.0333
+Uttertown, 41.1267, -74.4167
+V A Hospital, 40.7500, -74.2167
+Vail, 40.9628, -75.0206
+Vail Homes, 40.3167, -74.0667
+Vails, 40.9333, -75.1000
+Vailsburg, 40.7500, -74.2333
+Valentine, 40.5308, -74.3258
+Valley(Middlesex), 40.5333, -74.3667
+Valley(Hunterdon), 40.6672, -75.0325
+Valley View Sanatorium, 40.9308, -74.2003
+Van Dorans Mills, 40.7314, -74.5411
+Van Hiseville, 40.1117, -74.3431
+Van Marters Corner, 40.4375, -74.1806
+Van Syckel, 40.6497, -74.9708
+Van Syckles, 41.2708, -74.5783
+Vanada Woods, 40.0333, -74.1167
+Vanderburg, 40.3142, -74.1894
+Vasa Home, 40.8667, -74.8333
+Vauxhall, 40.7314, -74.2833
+Venice Park, 39.3764, -74.4456
+Ventnor City, 39.3403, -74.4778
+Ventnor Heights, 39.3494, -74.4850
+Verga, 39.8611, -75.1592
+Vernon(Camden), 39.8972, -75.0322
+Vernon(Sussex), 41.1983, -74.4836
+Vernoy, 40.7353, -74.8269
+Verona, 40.8297, -74.2406
+Victoria, 39.5500, -75.0167
+Victory Gardens, 40.8758, -74.5428
+Victory Lakes, 39.6833, -75.0000
+Vienna, 40.8686, -74.8894
+Vienna Gardens, 39.5111, -74.6228
+Villa Madonna, 40.9144, -74.8128
+Villa Marie Claire, 41.0136, -74.1019
+Villa Park, 40.1436, -74.0425
+Village of Glen Oaks, 39.8233, -75.0381
+Villas, 39.0286, -74.9389
+Vincentown, 39.9339, -74.7489
+Vineland, 39.4861, -75.0261
+Vineyard Homes, 40.5333, -74.3667
+Vliettown, 40.6822, -74.7172
+Voken Tract, 39.8167, -75.1000
+Voorhees(Camden), 39.8500, -74.9833
+Voorhees(Somerset), 40.4811, -74.4836
+Voorhees Corner, 40.5025, -74.8092
+Vulcanite, 40.6833, -75.1667

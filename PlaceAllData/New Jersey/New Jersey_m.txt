@@ -1,0 +1,277 @@
+MacArthur Manor, 40.4583, -74.3694
+Macedonia, 40.2861, -74.0969
+Macopin, 41.0522, -74.3892
+Madison, 40.7597, -74.4175
+Madison Heights, 40.7536, -74.4322
+Madison Hill, 40.6111, -74.3092
+Madison Park, 40.4514, -74.3083
+Madisonville, 40.7194, -74.5408
+Magnolia(Atlantic), 39.5889, -74.7242
+Magnolia(Burlington), 39.9497, -74.6611
+Magnolia(Camden), 39.8544, -75.0394
+Mahoneyville, 39.6322, -75.5100
+Mahwah, 41.0886, -74.1442
+Malaga, 39.5697, -75.0481
+Malapardis, 40.8294, -74.4322
+Mall, 40.7333, -74.3167
+Manahawkin, 39.6953, -74.2592
+Manahawkin Terrace, 39.7019, -74.2478
+Manalapan, 40.2572, -74.3961
+Manasquan, 40.1261, -74.0497
+Manasquan Park, 40.1000, -74.0750
+Manasquan Shores, 40.1167, -74.0500
+Manchester, 39.9500, -74.4000
+Mandalay, 40.0153, -74.0906
+Manitou Park, 39.9722, -74.1842
+Mannington, 39.6167, -75.4167
+Mannington Mills, 39.5869, -75.4547
+Manor Park, 40.0333, -74.1167
+Mansfield, 40.0911, -74.7142
+Mansfield Square, 40.1161, -74.7061
+Mantoloking, 40.0392, -74.0503
+Mantoloking Estates, 40.0069, -74.0631
+Mantoloking Shores, 40.0181, -74.0583
+Mantua, 39.7939, -75.1725
+Mantua Grove, 39.8175, -75.1942
+Mantua Heights, 39.7667, -75.1667
+Manumuskin, 39.3350, -74.9614
+Manunka Chunk, 40.8614, -75.0486
+Manville, 40.5408, -74.5881
+Maple Grove, 39.6244, -75.2011
+Maple Meade, 40.4436, -74.4758
+Maple Shade(Burlington), 39.9525, -74.9928
+Maple Shade(Ocean), 39.9797, -74.2075
+Maplecrest, 40.7333, -74.2667
+Maplewood, 40.7739, -74.2739
+Marble Hill, 40.8858, -74.9353
+Marcella, 40.9869, -74.4747
+Margate City, 39.3278, -74.5039
+Mariannes Corner, 40.6531, -74.9125
+Marion, 40.7353, -74.0744
+Marksboro, 40.9883, -74.9078
+Marlboro(Burlington), 39.9028, -74.9222
+Marlboro(Cumberland), 39.4850, -75.3283
+Marlboro(Monmouth), 40.3153, -74.2467
+Marlboro State Hospital, 40.3431, -74.2372
+Marlton, 39.8911, -74.9222
+Marlton Heights, 39.6639, -75.3578
+Marlton Hills, 39.9000, -74.9167
+Marlton Lakes, 39.8089, -74.8986
+Marlyn Manor, 39.0169, -74.8739
+Marmora, 39.2667, -74.6453
+Marshalls Corner, 40.3614, -74.7964
+Marshalltown, 39.6375, -75.4536
+Marshallville, 39.2964, -74.7689
+Martha, 39.6819, -74.5108
+Martins, 41.1936, -74.5944
+Martins Beach, 40.0083, -74.8878
+Martins Landing, 40.4931, -74.4000
+Martinsville, 40.6011, -74.5594
+Martland Medical Center, 40.7442, -74.1922
+Maryland, 40.1528, -74.3781
+Maskells Mill, 39.4864, -75.4014
+Masonicus, 41.0828, -74.1267
+Masonville, 39.9783, -74.8706
+Matawan, 40.4147, -74.2300
+Matchaponix, 40.3383, -74.3794
+Matthews, 40.1569, -74.2578
+Maurer, 40.5369, -74.2694
+Maurice River, 39.2317, -75.0292
+Mauricetown, 39.2858, -74.9936
+Maxim, 40.1528, -74.1819
+Maxwell, 39.6692, -74.5464
+Mayetta, 39.6778, -74.2733
+Mayfair At Marlton, 39.9000, -74.9167
+Mayfair Gardens, 39.7500, -75.0667
+Mays Landing, 39.4522, -74.7281
+Mayville, 39.0672, -74.8319
+Maywood, 40.9025, -74.0622
+McAfee, 41.1783, -74.5408
+McCoys Corner, 41.1978, -74.6306
+McCrea Mills, 40.6617, -74.7667
+McDonald, 39.9067, -74.5453
+McDonoughs, 40.4833, -74.2833
+McGuire, 40.0333, -74.5833
+McGuire Air Force Base, 40.0167, -74.6000
+McKee City, 39.4503, -74.6411
+McKinley Hospital, 40.2358, -74.7525
+McPherson, 40.6067, -74.8481
+Meadford Farms, 39.8636, -74.7428
+Meadow Village, 40.8686, -74.2356
+Meadowbrook(Burlington), 39.9786, -74.7964
+Meadowbrook(Camden), 39.9678, -75.0403
+Meadowbrook Village, 40.1333, -74.3333
+Meadows Terrace, 40.2422, -74.6019
+Meadowview, 40.7833, -74.0167
+Mechanicsville(Camden), 39.8111, -75.0686
+Mechanicsville(Middlesex), 40.4872, -74.2953
+Mechlings Corner, 40.6103, -74.9883
+Medford, 39.9008, -74.8239
+Medford Farms, 39.8667, -74.7500
+Medford Lakes, 39.8583, -74.8033
+Melrose(Burlington), 39.8986, -74.8531
+Melrose(Middlesex), 40.4908, -74.2972
+Menantico, 39.3608, -74.9919
+Mendham, 40.7758, -74.6011
+Menlo Park, 40.5650, -74.3378
+Menlo Park Mall, 40.5333, -74.3667
+Menlo Park Terrace, 40.5525, -74.3239
+Mercer Hospital, 40.2308, -74.7783
+Mercerville, 40.2369, -74.6869
+Merchantville, 39.9472, -75.0669
+Meriden, 40.9472, -74.4581
+Merrygold, 39.6061, -74.4508
+Metcalf Hospital, 40.7678, -74.2342
+Metedeconk, 40.0567, -74.0839
+Metedeconk Park, 40.0333, -74.1167
+Metedeconk Pines, 40.0333, -74.1167
+Mettler, 40.4992, -74.5422
+Metuchen, 40.5431, -74.3636
+Meyersville, 40.6897, -74.4708
+Miami Beach, 39.0344, -74.9372
+Mickles Mill, 39.4933, -75.3431
+Mickleton, 39.7900, -75.2381
+Middle, 39.0667, -74.8500
+Middle Valley, 40.7606, -74.8208
+Middlebush, 40.4975, -74.5297
+Middlesex, 40.5725, -74.4931
+Middlesex Downs, 40.2875, -74.4042
+Middletown(Cape May), 39.2711, -74.7439
+Middletown(Monmouth), 40.3942, -74.1175
+Middletown(Morris), 40.9158, -74.5139
+Middleville, 41.0558, -74.8633
+Midland Park, 40.9892, -74.1411
+Midstreams, 40.0333, -74.1167
+Midtown, 40.7333, -74.1833
+Midvale, 41.0333, -74.3000
+Midwood, 40.0972, -74.4186
+Mile Hollow, 40.1608, -74.7003
+Milford, 40.5686, -75.0950
+Military Ocean Terminal, 40.6667, -74.1167
+Mill Brook, 40.8644, -74.5578
+Millbridge, 39.8069, -75.0344
+Millbrook, 41.0733, -74.9633
+Millbrook Park, 40.0250, -74.8894
+Millburn, 40.7394, -74.3044
+Millhurst, 40.2536, -74.3419
+Millington, 40.6772, -74.5181
+Millside Heights, 40.0072, -74.9533
+Millstone(Middlesex), 40.2881, -74.5319
+Millstone(Somerset), 40.4992, -74.5892
+Milltown(Hunterdon), 40.4533, -75.0250
+Milltown(Middlesex), 40.4561, -74.4436
+Milltown(Morris), 40.7797, -74.7208
+Milltown(Salem), 39.6358, -75.2864
+Milltown(Somerset), 40.5686, -74.6833
+Milltown(Union), 40.7019, -74.3169
+Millville(Cumberland), 39.4019, -75.0397
+Millville(Sussex), 41.3131, -74.7803
+Milmay, 39.4392, -74.8572
+Milton, 41.0214, -74.5361
+Mimosa Lake, 39.9000, -74.9167
+Mine Brook, 40.6931, -74.6075
+Mine Hill, 40.8778, -74.5942
+Minotola, 39.5186, -74.9486
+Miramar, 39.2667, -74.6500
+Mizpah, 39.4867, -74.8361
+Moe, 41.1622, -74.3869
+Moerls Corner, 40.3606, -74.3178
+Money Island, 39.9333, -74.2167
+Monitor, 40.7833, -74.0167
+Monks, 41.1228, -74.3000
+Monksville, 41.0333, -74.3000
+Monmouth, 40.3167, -74.0667
+Monmouth Beach, 40.3303, -73.9819
+Monmouth Heights at Manalapa, 40.3008, -74.2939
+Monmouth Heights at Marlboro, 40.3278, -74.2436
+Monmouth Hills, 40.4031, -74.0022
+Monmouth Junction, 40.3789, -74.5469
+Monmouth Memorial Hospital, 40.2953, -73.9867
+Monmouth Park, 40.3167, -74.0167
+Monroe(Morris), 40.8128, -74.4428
+Monroe(Sussex), 41.1144, -74.6344
+Monroeville, 39.6289, -75.1597
+Montague, 41.3031, -74.7939
+Montana, 40.7650, -75.0678
+Montclair, 40.8258, -74.2094
+Montclair Heights, 40.8575, -74.2028
+Monterey Beach, 39.9847, -74.0678
+Montgomery, 40.4783, -74.7542
+Montrose, 40.3017, -74.2217
+Montvale, 41.0467, -74.0233
+Montville, 40.9147, -74.3842
+Moonachie, 40.8411, -74.0456
+Moore, 40.3242, -74.9150
+Moores Corner, 39.5544, -75.4667
+Moores Meadows, 39.9333, -74.7500
+Moores Mill, 39.8614, -74.7256
+Moorestown, 39.9669, -74.9431
+Morehousetown, 40.7967, -74.3414
+Morgan, 40.4667, -74.2686
+Morgan Heights, 40.4625, -74.2636
+Morgan Village, 39.9125, -75.1128
+Morganville, 40.3764, -74.2447
+Morrell Corners, 40.4111, -74.1908
+Morris(Camden), 39.9872, -75.0447
+Morris(Morris), 40.8000, -74.4833
+Morris Beach, 39.3083, -74.6369
+Morris Park, 40.6833, -75.1667
+Morris Plains, 40.8217, -74.4814
+Morristown(Middlesex), 40.4250, -74.2542
+Morristown(Morris), 40.7967, -74.4819
+Morrisville, 39.9722, -75.0492
+Morsemere, 40.8428, -74.0050
+Morses Creek, 40.6333, -74.2500
+Mount, 39.6853, -74.6061
+Mount Airy, 40.3986, -74.9075
+Mount Arlington, 40.9258, -74.6353
+Mount Bethel(Warren), 40.8261, -74.9017
+Mount Bethel(Somerset), 40.6375, -74.5150
+Mount Ephraim, 39.8783, -75.0931
+Mount Fern, 40.8656, -74.5789
+Mount Freedom, 40.8261, -74.5706
+Mount Hermon, 40.9247, -74.9942
+Mount Holly, 39.9928, -74.7881
+Mount Hope, 40.9261, -74.5431
+Mount Hope Mineral Junction, 40.9000, -74.5833
+Mount Horeb, 40.6183, -74.5619
+Mount Joy, 40.5869, -75.1872
+Mount Laurel, 39.9339, -74.8914
+Mount Lebanon, 40.7569, -74.8681
+Mount Misery, 39.9197, -74.5233
+Mount Olive, 40.8514, -74.7333
+Mount Pisgah, 41.1508, -74.7656
+Mount Pleasant(Bergen), 41.0278, -74.0856
+Mount Pleasant(Atlantic), 39.4014, -74.5133
+Mount Pleasant(Monmouth), 40.3742, -74.2175
+Mount Pleasant(Warren), 40.9667, -75.0764
+Mount Pleasant(Cape May), 39.2208, -74.7794
+Mount Pleasant(Hunterdon), 40.5800, -75.0503
+Mount Rose, 40.3692, -74.7394
+Mount Royal, 39.8100, -75.2117
+Mount Salem(Hunterdon), 40.6081, -74.9850
+Mount Salem(Sussex), 41.3144, -74.6164
+Mount Tabor, 40.8833, -74.4833
+Mount Vernon, 40.9953, -75.0331
+Mountain Lake, 40.8333, -75.0833
+Mountain Lakes, 40.8947, -74.4333
+Mountain Spring, 41.0333, -74.3833
+Mountain Spring Lakes, 41.0000, -74.3500
+Mountain Station, 40.7500, -74.2667
+Mountain View, 40.9178, -74.2664
+Mountainside, 40.6722, -74.3578
+Mountainside Hospital, 40.8114, -74.2036
+Mountainville, 40.6906, -74.8119
+Mounts Mills, 40.3256, -74.3614
+Mowers, 39.5867, -75.3631
+Muhlenberg, 40.6167, -74.4167
+Muhlenburg Hospital, 40.6069, -74.4025
+Muirhead, 40.4514, -74.8594
+Mullica, 39.6000, -74.7000
+Mullica Hill, 39.7392, -75.2244
+Munion Field, 39.6644, -74.3922
+Murphy, 39.6544, -74.8325
+Murray Grove, 39.8569, -74.1781
+Murray Hill, 40.6953, -74.4014
+Myrtle Grove, 41.1072, -74.7897
+Mystic Islands, 39.5442, -74.3828

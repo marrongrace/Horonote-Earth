@@ -1,0 +1,252 @@
+Wading River, 39.6153, -74.5044
+Waldwick, 41.0106, -74.1183
+Walkers Forge, 39.4406, -74.7561
+Wall, 40.1667, -74.0833
+Wallace Mill, 40.1072, -74.6311
+Wallington, 40.8531, -74.1142
+Wallkill Lake, 41.2167, -74.6000
+Wallpack Center, 41.1589, -74.8806
+Wallworth Park, 39.8167, -75.1000
+Walnford, 40.1344, -74.5603
+Walnut Valley, 40.9758, -75.0231
+Walt Whitman Homes, 39.8500, -75.2000
+Wanamassa, 40.2317, -74.0258
+Wanaque, 41.0381, -74.2944
+Wantage, 41.2442, -74.5511
+Warbasse, 41.0836, -74.7000
+Waretown, 39.7914, -74.1956
+Waretown Junction, 39.7789, -74.2050
+Warner Village, 40.2336, -74.7261
+Warners, 40.6333, -74.2500
+Warners Mill, 39.3139, -74.8067
+Warren, 40.6333, -74.5000
+Warren Glen, 40.6328, -75.1353
+Warren Grove, 39.7464, -74.3708
+Warren Point, 40.9269, -74.1083
+Warrenville, 40.6150, -74.4964
+Warrington(Warren), 40.9314, -75.0844
+Washington(Burlington), 40.7583, -74.9797
+Washington, 39.6839, -74.5764
+Washington Corner, 40.7681, -74.5633
+Washington Crossing, 40.2967, -74.8672
+Washington Heights, 40.4550, -74.4100
+Washington Park, 40.5139, -74.3986
+Washington Valley, 40.8056, -74.5275
+Washingtonville(Somerset), 40.6167, -74.4167
+Washingtonville(Sussex), 41.0978, -74.7514
+Watchung, 40.6378, -74.4514
+Waterford, 39.7667, -74.8500
+Waterford Works, 39.7231, -74.8494
+Waterloo(Monmouth), 40.3561, -73.9875
+Waterloo(Sussex), 40.9150, -74.7547
+Waterwitch, 40.4064, -73.9978
+Watsessing, 40.8000, -74.1833
+Watson Corner, 39.5686, -75.2900
+Watsons Corner, 39.2944, -75.1650
+Watsontown, 39.8000, -75.0000
+Wawayanda, 41.0114, -74.7386
+Wayne, 40.9253, -74.2769
+Wayside, 40.2567, -74.0750
+Webbs Mill, 39.8897, -74.3803
+Weber Park, 40.2450, -74.7736
+Weehawken, 40.7694, -74.0208
+Weeks Landing, 38.9897, -74.8833
+Weekstown, 39.5919, -74.6033
+Weequahic, 40.7167, -74.2000
+Weirtown, 40.9047, -74.8225
+Welchville, 39.6008, -75.4225
+Weldon, 40.9919, -74.5883
+Wellington Park, 39.9953, -74.9808
+Wells Mills, 39.7942, -74.2761
+Wellwood, 39.9528, -75.0494
+Wenonah, 39.7944, -75.1492
+Wertheins Corner, 40.2517, -74.0403
+Wertsville, 40.4497, -74.7981
+Wescoatville, 39.6397, -74.7203
+West, 40.7333, -74.2000
+West Allenhurst, 40.2383, -74.0122
+West Amwell, 40.3833, -74.8833
+West Arlington, 40.7667, -74.1500
+West Atco, 39.7458, -74.8914
+West Atlantic City, 39.3778, -74.4897
+West Belmar, 40.1692, -74.0358
+West Bergen, 40.7125, -74.0836
+West Berlin, 39.8086, -74.9417
+West Brunswick, 40.4833, -74.4833
+West Caldwell, 40.8408, -74.3022
+West Cape May, 38.9386, -74.9422
+West Carteret, 40.5944, -74.2467
+West Collingswood, 39.9061, -75.0933
+West Collingswood Heights, 39.8942, -75.0969
+West Creek, 39.6344, -74.3075
+West Deal, 40.2417, -74.0292
+West Deptford, 39.8333, -75.1667
+West Egg Harbor, 39.5161, -74.6669
+West End(Gloucester), 39.8347, -75.1658
+West End(Monmouth), 40.2861, -73.9989
+West Englewood, 40.9019, -74.0036
+West Essex, 40.8500, -74.2667
+West Farms, 40.1919, -74.2017
+West Fort Lee, 40.8500, -73.9667
+West Freehold, 40.2419, -74.3017
+West Grove, 40.2111, -74.0364
+West Haddonfield, 39.9017, -75.0411
+West Hoboken, 40.7667, -74.0333
+West Hudson, 40.7667, -74.1500
+West Hudson Hospital, 40.7583, -74.1494
+West Jersey Hospital(Camden City,Camden), 39.9283, -75.1081
+West Jersey Hospital(Berlin,Camden), 39.7817, -74.9203
+West Keansburg, 40.4500, -74.1333
+West Long Branch, 40.2903, -74.0181
+West Mahwah, 41.1028, -74.1519
+West Mantoloking, 40.0442, -74.0736
+West Merchantville, 39.9500, -75.0500
+West Milford, 41.1311, -74.3678
+West Moorestown, 39.9603, -74.9558
+West New York, 40.7878, -74.0147
+West Norwood, 41.0000, -73.9667
+West Ocean City, 39.2667, -74.6500
+West Ocean Grove, 40.2000, -74.0333
+West Orange, 40.7986, -74.2394
+West Paterson, 40.8897, -74.1953
+West Point Island, 39.9667, -74.0667
+West Point Pleasant, 40.0833, -74.0500
+West Portal, 40.6622, -75.0336
+West Shrewsbury, 40.3158, -74.0856
+West Side, 40.7500, -74.0333
+West Trenton, 40.2639, -74.8189
+West Tuckerton, 39.6014, -74.3539
+West Tuckerton Landing, 39.5958, -74.3425
+West View, 40.8650, -74.0281
+West Village, 39.5019, -75.2269
+West Wildwood, 39.0022, -74.8247
+West Windsor, 40.3000, -74.6167
+Westampton, 40.0167, -74.8333
+Westboro, 40.3500, -74.0500
+Westcotville, 39.8261, -75.1158
+Westfield, 40.6589, -74.3478
+Westmont, 39.9097, -75.0483
+Weston, 40.5350, -74.5911
+Westons Mills, 40.4853, -74.4128
+Westville(Essex), 40.8444, -74.3000
+Westville(Gloucester), 39.8678, -75.1319
+Westville Grove, 39.8564, -75.1181
+Westville Oaks, 39.8333, -75.1500
+Westwood, 40.9911, -74.0331
+Wexford East, 39.8972, -74.9628
+Weymouth, 39.5150, -74.7792
+Whale Beach, 39.2000, -74.6500
+Wharton, 40.8931, -74.5822
+Wheat Road, 39.5117, -74.9742
+Wheatland, 39.8950, -74.4342
+Whig Lane, 39.6394, -75.2292
+Whippany, 40.8244, -74.4175
+White, 40.8167, -75.0500
+White Horse, 40.1906, -74.7028
+White Meadow Lake, 40.9167, -74.5167
+White Oak Bottom, 40.0206, -74.1994
+White Oak Ridge, 40.7458, -74.3347
+Whitehall, 40.9644, -74.7397
+Whitehouse, 40.6183, -74.7447
+Whitehouse Station, 40.6153, -74.7708
+Whitesbog, 39.9592, -74.5097
+Whitesboro, 39.0389, -74.8572
+Whitesville(Ocean), 40.0681, -74.2722
+Whitesville(Monmouth), 40.2208, -74.0358
+Whiting, 39.9544, -74.3789
+Whitings, 39.9500, -74.3833
+Whitman Park, 39.9319, -75.1158
+Whitman Square, 39.7458, -75.0347
+Whittier Oaks, 40.3236, -74.3217
+Wickatunk, 40.3500, -74.2483
+Wilburtha, 40.2519, -74.8328
+Wilburtha Manor, 40.2500, -74.8000
+Wilderness Acres, 39.8167, -75.1000
+Wildwood, 38.9917, -74.8153
+Wildwood Crest, 38.9747, -74.8339
+Wildwood Gables, 38.9656, -74.8464
+Wildwood Gardens, 39.0267, -74.8664
+Wildwood Highlands Beach, 39.0131, -74.9467
+Wildwood Junction, 39.0297, -74.8658
+Wileys Corners, 40.2569, -74.0928
+Williamstown, 39.6861, -74.9956
+Williamstown Junction, 39.7467, -74.9289
+Willingboro, 40.0278, -74.8694
+Willis Corner, 39.4347, -75.3761
+Willow Brook, 41.2106, -74.3842
+Willow Grove(Salem), 39.5542, -75.0792
+Willow Grove(Warren), 40.6989, -75.0864
+Willow Ridge, 39.8700, -74.9083
+Willowdale, 39.8806, -74.9822
+Wilsons Landing, 39.4283, -74.7131
+Windor Park, 39.9575, -74.1181
+Windsor, 40.2422, -74.5817
+Windsor Park(Camden), 39.9283, -75.0092
+Windsor Park(Ocean), 39.9533, -74.1500
+Winfield, 40.6425, -74.2858
+Winslow, 39.6572, -74.8628
+Winslow Junction, 39.6650, -74.8478
+Winston Park, 40.1575, -74.2397
+Wintringham Park, 39.9717, -74.2078
+Wolfert, 39.7839, -75.2614
+Wood Acres, 40.5333, -74.3667
+Wood-Lynne, 39.9172, -75.0967
+Wood-Ridge, 40.8456, -74.0883
+Woodair Estates, 40.0883, -74.4000
+Woodbine, 39.2417, -74.8156
+Woodbine Junction, 39.2347, -74.7931
+Woodbourne, 41.2044, -74.6433
+Woodbridge, 40.5575, -74.2850
+Woodbridge Oaks, 40.5825, -74.3339
+Woodbury, 39.8381, -75.1531
+Woodbury Gardens, 39.8417, -75.1375
+Woodbury Heights, 39.8169, -75.1556
+Woodcliff, 40.7833, -74.0167
+Woodcliff Lake, 41.0233, -74.0669
+Woodcrest, 39.8722, -74.9989
+Woodcrest Acres, 39.8592, -74.9819
+Woodfern, 40.5086, -74.7581
+Woodglen, 40.7192, -74.8881
+Woodland, 39.8333, -74.5333
+Woodland Park, 40.7028, -74.3792
+Woodlane, 40.0117, -74.8019
+Woodlawn Estates, 39.9736, -74.2050
+Woodmansie, 39.8678, -74.4669
+Woodmere(Salem), 39.5100, -75.3878
+Woodmere(Ocean), 40.0881, -74.3211
+Woodport, 40.9853, -74.6108
+Woodruff(Ocean), 40.0603, -74.4625
+Woodruff(Cumberland), 39.4686, -75.1861
+Woodruffs, 39.4667, -75.2500
+Woodruffs Gap, 41.0714, -74.6556
+Woods Mills, 39.6214, -75.2589
+Woods Tavern, 40.5022, -74.6450
+Woods Upper Mill, 39.5000, -75.3783
+Woodstock, 40.9953, -74.5264
+Woodstown, 39.6514, -75.3286
+Woodstream, 39.9019, -74.9478
+Woodsville, 40.3803, -74.8292
+Woodville, 39.9883, -74.1478
+Woolwich, 39.7500, -75.3167
+Wortendyke, 40.9975, -74.1506
+Wrangell Brook Park, 39.9600, -74.2842
+Wrights, 40.4500, -74.4167
+Wrights Mill, 39.6847, -75.1764
+Wrightstown, 40.0361, -74.6183
+Wrightsville(Monmouth), 40.1814, -74.5097
+Wrightsville(Burlington), 39.9850, -74.9989
+Wyckoff, 41.0094, -74.1733
+Wyckoff Mills, 40.2033, -74.2561
+Wyckoffs Mills, 40.2797, -74.4861
+Wykertown, 41.1739, -74.7006
+Wynnewood, 40.5667, -74.4500
+Wyoming, 40.7292, -74.2917
+Yardley Village, 40.7697, -74.4133
+Yardville, 40.1811, -74.6647
+Yardville Heights, 40.1833, -74.6861
+Yellow Frame, 41.0500, -74.7500
+York Estates, 40.2667, -74.5333
+Yorktown, 39.6125, -75.3053
+Zarephath, 40.5364, -74.5750
+Zion, 40.4406, -74.7389
+Zurbrugg Memorial Hospital, 40.0397, -74.9558

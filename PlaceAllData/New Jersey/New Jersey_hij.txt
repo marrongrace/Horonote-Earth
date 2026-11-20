@@ -1,0 +1,215 @@
+Hackensack, 40.8858, -74.0439
+Hackensack Hospital, 40.8833, -74.0558
+Hackettstown, 40.8539, -74.8294
+Hacklebarney, 40.7669, -74.7208
+Haddon, 39.8975, -75.0964
+Haddon Heights, 39.8772, -75.0650
+Haddon Hills, 39.9000, -75.0528
+Haddon Leigh, 39.8897, -75.0472
+Haddon Towne, 39.8864, -75.0117
+Haddonfield, 39.8914, -75.0381
+Hagerville, 39.5333, -75.4667
+Haines Corner, 39.8686, -74.9447
+Haines Corner, 40.2058, -74.6511
+Hainesburg, 40.9550, -75.0617
+Hainesport, 39.9836, -74.8275
+Hainesville, 41.2519, -74.8033
+Halberton, 39.2956, -74.9094
+Haledon, 40.9356, -74.1867
+Haleyville, 39.2894, -75.0172
+Half Acre, 40.3206, -74.4528
+Halls Corners, 40.4167, -74.3833
+Halltown, 39.6381, -75.4131
+Halsey, 41.0969, -74.7489
+Hamburg, 41.1533, -74.5767
+Hamden, 40.6033, -74.9008
+Hamilton, 40.5061, -74.6206
+Hamilton, 40.2069, -74.0817
+Hamilton Square, 40.2272, -74.6536
+Hammond Heights, 39.8000, -75.1333
+Hammonton, 39.6364, -74.8028
+Hampton, 40.7069, -74.9564
+Hampton Furnace, 39.7694, -74.6808
+Hampton Gate, 39.8042, -74.6789
+Hampton Junction, 40.7111, -74.9531
+Hampton Lakes, 39.8917, -74.7122
+Hancocks Bridge, 39.5053, -75.4622
+Haneys Mill, 41.1289, -74.9108
+Hanford, 41.2953, -74.5633
+Hanover, 40.8044, -74.3672
+Hanover Furnace, 39.9814, -74.5267
+Hanover Neck, 40.8317, -74.3533
+Harbourton, 40.3522, -74.8525
+Harding, 40.7500, -74.5000
+Harding, 39.6433, -75.1222
+Harding Lakes, 39.4525, -74.7525
+Hardingville, 39.6600, -75.1744
+Hardistonville, 41.1389, -74.5697
+Hardwick, 41.0544, -74.9325
+Hardwick Center, 41.0083, -74.9489
+Hardyston, 41.1167, -74.5667
+Harfield, 40.1333, -74.3333
+Harker Village, 39.8167, -75.1333
+Harlingen, 40.4475, -74.6628
+Harmersville, 39.4989, -75.4347
+Harmony, 40.1519, -74.3011
+Harmony, 39.4992, -75.2881
+Harmony, 40.4189, -74.1247
+Harmony, 40.7467, -75.1378
+Harmony Park, 40.4333, -74.2167
+Harmonyvale, 41.1467, -74.6369
+Harneys Corner, 40.2492, -74.7431
+Harrington Park, 40.9836, -73.9803
+Harrison, 40.7464, -74.1567
+Harrison Mountain Lake, 41.1000, -74.2667
+Harrisonville, 39.6017, -75.4972
+Harrisonville, 39.6850, -75.2664
+Harrisville, 39.6614, -74.5222
+Hartford, 39.9761, -74.8944
+Harts Corner, 40.3089, -74.8131
+Harvey Cedars, 39.7061, -74.1344
+Hasbrouck Heights, 40.8581, -74.0811
+Haskell, 41.0283, -74.2964
+Haven Beach, 39.5933, -74.2161
+Haven Homes, 40.5094, -74.4067
+Haworth, 40.9608, -73.9906
+Hawthorne, 40.9492, -74.1542
+Hawthorne Park, 40.0383, -74.8731
+Hazelton, 40.5883, -74.2911
+Hazen, 40.8142, -75.0433
+Hazlet, 40.4156, -74.1914
+Head of River, 39.2667, -74.7833
+Heath Manor, 40.2589, -74.7631
+Heatherwood, 40.4000, -74.3500
+Hedding, 40.1078, -74.7442
+Heislerville, 39.2231, -74.9928
+Helmetta, 40.3767, -74.4250
+Hemlock Glen, 40.9806, -75.0408
+Hendrickson Corners, 40.4108, -74.1369
+Henningers Mill, 40.3956, -74.2536
+Hensfoot, 40.6294, -74.9694
+Herberts, 40.4358, -74.4233
+Herberts Corner, 40.3308, -74.2611
+Herbertsville, 40.1119, -74.1094
+Heritage Village, 39.8908, -74.9053
+Herman, 39.6175, -74.5947
+Herwood, 39.9378, -75.0056
+Hesstown, 39.3636, -74.9308
+Hewitt, 41.1417, -74.3111
+Hi-Nella, 39.8333, -75.0167
+Hibernia, 40.9439, -74.4931
+Hickory Corner, 40.2719, -74.5569
+Hickory Tree, 40.7464, -74.4325
+Hickstown, 39.7792, -75.0125
+Higbeeville, 39.5153, -74.4569
+Higginsville, 40.5100, -74.7889
+High Bank Landing, 39.4347, -74.7250
+High Bridge, 40.6669, -74.8961
+High Crossing, 39.7692, -74.6444
+High Point, 39.7097, -74.1328
+High Point Manor, 40.4000, -74.3500
+Highland Beach, 40.3667, -73.9833
+Highland Lakes, 41.1772, -74.4692
+Highland Park, 39.8886, -75.1083
+Highland Park, 40.4958, -74.4247
+Highlands, 40.4036, -73.9919
+Highs Beach, 39.0792, -74.9089
+Hightstown, 40.2694, -74.5236
+Highview Park, 40.1167, -74.0500
+Hillcrest, 40.9167, -74.2000
+Hillcrest, 40.2425, -74.7842
+Hillcrest, 40.6833, -75.1667
+Hilliard, 39.7000, -74.2500
+Hillsborough, 40.4775, -74.6272
+Hillsdale, 41.0025, -74.0408
+Hillsdale, 40.3392, -74.2256
+Hillsdale Manor, 41.0117, -74.0425
+Hillside, 40.7011, -74.2306
+Hillside Terrace, 40.2008, -74.6097
+Hilltop, 39.8244, -75.0678
+Hilltop Estates, 39.9758, -74.2417
+Hilltop Terrace, 40.4167, -74.3833
+Hilltown, 40.9211, -74.5511
+Hillwood Lakes, 40.2667, -74.7667
+Hilton, 40.4119, -74.0225
+Hinchman, 39.8167, -75.1000
+Ho-ho-kus, 40.9964, -74.1017
+Hoboken, 40.7439, -74.0328
+Hockamik, 40.0364, -74.5469
+Hoffman, 40.3178, -74.4122
+Hoffmans, 40.7058, -74.8606
+Hoffmans Mill, 39.2589, -74.9100
+Holcomb Mills, 40.5258, -74.8303
+Holgate, 39.5400, -74.2572
+Holiday City, 40.0222, -74.1667
+Holiday Estates, 39.9714, -74.1453
+Holland, 40.5719, -75.1658
+Holland, 40.3908, -74.1456
+Holland, 41.0664, -74.5267
+Holly Brook, 40.0000, -74.7833
+Holly Crest, 40.0333, -74.1167
+Holly Park, 39.8953, -74.1433
+Holmansville, 40.1008, -74.3183
+Holmdel, 40.3450, -74.1844
+Holmeson, 40.1656, -74.4172
+Holy Name Hospital, 40.8828, -74.0111
+Homes Mills, 40.1344, -74.5428
+Homestead, 40.7833, -74.0167
+Homestead Park, 40.6900, -74.4506
+Homestead Village, 40.7000, -74.5500
+Hoot Owl Estates, 39.8828, -74.8475
+Hootens Hollow, 39.8167, -75.1000
+Hoover Village, 39.4667, -75.2500
+Hopatcong, 40.9328, -74.6597
+Hopatcong Heights, 40.9206, -74.6786
+Hopatcong Hills, 40.9439, -74.6711
+Hope, 40.9111, -74.9678
+Hopelawn, 40.5269, -74.2933
+Hopewell, 40.3892, -74.7622
+Hopewell, 41.0492, -74.5500
+Hopkins Corner, 41.1356, -74.6436
+Hornerstown, 40.1061, -74.5144
+Houses Corner, 41.0708, -74.6542
+Howardsville, 39.8128, -74.3653
+Howell, 40.1667, -74.2000
+Hudson City, 40.7500, -74.0667
+Hudson Heights, 40.8069, -74.0042
+Hughesville, 40.6219, -75.1561
+Hunt Tract, 39.8167, -75.1000
+Hunterdon Medical Center, 40.5308, -74.8614
+Hunters Mill, 39.3236, -74.8608
+Huntington, 40.6833, -75.1667
+Huntsburg, 40.9972, -74.8381
+Huntsville, 40.9803, -74.7758
+Hurdtown, 40.9700, -74.5994
+Hurffville, 39.7625, -75.1086
+Husted, 39.5253, -75.1894
+Husted Landing, 39.3514, -75.2575
+Hutchinson, 40.7736, -75.1317
+Hutchinson Mills, 40.2456, -74.7089
+Hutton Park, 40.7792, -74.2508
+Huyler Landing, 40.9264, -73.9253
+Hyson, 40.1408, -74.2669
+Ideal Beach, 40.4500, -74.1333
+Idell, 40.4583, -75.0283
+Imlaystown, 40.1675, -74.5156
+Imperial Manor, 39.8167, -75.1000
+Independence, 40.8833, -74.8833
+Independence Corner, 41.2100, -74.5517
+Indian Cabin, 39.5500, -74.6167
+Indian Lake, 40.8833, -74.4833
+Indian Mills, 39.7939, -74.7447
+Interlaken, 40.2333, -74.0161
+Iona, 39.6014, -75.0675
+Iron Rock, 39.9594, -75.0253
+Ironbound, 40.7167, -74.1667
+Ironia, 40.8228, -74.6261
+Irven Heights, 40.2667, -74.7667
+Irvington, 40.7333, -74.2333
+Irvington Nursing Home, 40.7353, -74.2467
+Iselin, 40.5753, -74.3228
+Island Beach, 39.9333, -74.0833
+Island Beach Heights, 39.9542, -74.1564
+Island Heights, 39.9419, -74.1503
+Ivystone Farms, 39.7672, -74.9056
+Ivywood, 39.9819, -74.9897

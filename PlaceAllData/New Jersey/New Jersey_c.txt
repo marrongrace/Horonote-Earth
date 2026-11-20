@@ -1,0 +1,262 @@
+Caldwell, 40.8397, -74.2769
+Califon, 40.7194, -74.8361
+Callahans, 40.9167, -74.6500
+Calno, 41.0561, -75.0056
+Cambridge, 40.0289, -74.9731
+Camden, 39.9258, -75.1200
+Camelot, 39.9606, -74.2153
+Camp Columbus, 39.8958, -74.3217
+Camp Osborne, 40.0083, -74.0592
+Camp Tecumseh, 40.5833, -74.9667
+Campbells Corner, 39.4858, -75.3192
+Campgaw, 41.0239, -74.2014
+Candlewood, 40.1500, -74.2139
+Candlewyck, 39.8919, -74.9458
+Canton, 39.4708, -75.4153
+Cape Breton, 40.0333, -74.1167
+Cape May, 38.9350, -74.9064
+Cape May Court House, 39.0825, -74.8242
+Cape May Point, 38.9333, -74.9667
+Capitol Hill, 40.0553, -74.9039
+Cardiff, 39.4100, -74.5875
+Carey, 40.8556, -74.6789
+Carlls Corner, 39.4628, -75.2056
+Carlstadt, 40.8403, -74.0911
+Carlton Hill, 40.8464, -74.1111
+Carmantown, 39.5092, -74.6944
+Carmel, 39.4342, -75.1217
+Carmerville, 40.1769, -74.1294
+Carney's Point, 39.7111, -75.4706
+Carpentersville, 40.6358, -75.1889
+Carrs Corner, 40.2331, -74.3708
+Carrs Tavern, 40.1714, -74.4219
+Carsons Mills, 40.2169, -74.5603
+Carteret, 40.5772, -74.2286
+Cassville, 40.1044, -74.3869
+Castle Point, 40.7500, -74.0333
+Catawba, 39.4069, -74.7144
+Cecil, 39.6483, -74.9475
+Cedar Beach(Ocean), 39.8733, -74.1497
+Cedar Beach(Monmouth), 40.4333, -74.1167
+Cedar Bonnet Island, 39.7000, -74.2500
+Cedar Bridge, 40.0558, -74.1286
+Cedar Bridge Manor, 40.0333, -74.1167
+Cedar Brook, 39.7153, -74.9011
+Cedar Crest, 39.9025, -74.3225
+Cedar Crest Manor, 39.6772, -75.4761
+Cedar Croft, 40.0333, -74.1167
+Cedar Glen Lakes, 39.9500, -74.3833
+Cedar Glen West, 40.0419, -74.2931
+Cedar Grove(Essex), 40.8517, -74.2294
+Cedar Grove(Gloucester), 39.7019, -75.2311
+Cedar Grove(Cape May), 39.1625, -74.7669
+Cedar Grove(Mercer), 40.3681, -74.6953
+Cedar Grove(Ocean), 39.9733, -74.1689
+Cedar Heights, 40.6606, -74.8772
+Cedar Knolls, 40.8219, -74.4492
+Cedar Lake(Atlantic), 39.5836, -74.9006
+Cedar Lake(Morris), 40.8833, -74.4833
+Cedar Run, 39.6847, -74.2675
+Cedar Springs, 39.2453, -74.7072
+Cedarville(Cumberland), 39.3325, -75.2000
+Cedarville(Salem), 39.6244, -75.3417
+Cedarwood Park, 40.0497, -74.1306
+Centennial Lake, 39.9000, -74.9167
+Center, 40.2167, -74.7667
+Center Square, 39.7500, -75.3167
+Centerton(Salem), 39.5253, -75.1681
+Centerton(Burlington), 39.9956, -74.8733
+Centerville(Mercer), 40.3464, -74.7644
+Centerville(Hunterdon), 40.5383, -74.7544
+Centerville(Monmouth), 40.4147, -74.1581
+Central, 40.7500, -74.2167
+Central Park(Middlesex), 40.4833, -74.2833
+Central Park(Salem), 39.6597, -75.5150
+Centre City, 39.7758, -75.1811
+Centre Grove, 39.3564, -75.1222
+Ceramics, 40.5333, -74.3667
+Chadwick, 39.9931, -74.0642
+Chadwick Beach, 39.9931, -74.0642
+Chairville, 39.8983, -74.7894
+Chambers Corner, 40.0178, -74.7331
+Chambersburg, 40.2167, -74.7500
+Changewater, 40.7381, -74.9444
+Chapel Heights, 39.7500, -75.0667
+Chapel Hill, 40.3972, -74.0708
+Charcoal Landing, 39.6417, -74.5122
+Charleston, 40.0389, -74.8917
+Charleston East, 39.8894, -74.9789
+Charleston Springs, 40.2006, -74.3736
+Charlestown, 40.6892, -74.9728
+Charlotteburg, 41.0303, -74.4242
+Chatham, 40.7408, -74.3842
+Chatsworth, 39.8175, -74.5353
+Cheesequake, 40.4247, -74.2881
+Chelsea Heights, 39.3556, -74.4631
+Cherry Downs, 39.8892, -74.9561
+Cherry Hill(Bergen), 40.9208, -74.0389
+Cherry Hill(Camden), 39.9347, -75.0311
+Cherry Hill Estates, 39.9333, -75.0194
+Cherry Hill Hospital, 39.9278, -75.0164
+Cherry Quay, 40.0264, -74.1233
+Cherry Ridge(Camden), 39.8167, -75.1000
+Cherry Ridge(Sussex), 41.1606, -74.4458
+Cherry Valley, 39.9369, -74.9911
+Cherryville, 40.5611, -74.9036
+Cherrywood, 39.7983, -75.0256
+Chesilhurst, 39.7322, -74.8814
+Chester, 40.7842, -74.6972
+Chesterfield, 40.1150, -74.6397
+Chestnut, 40.7000, -74.2667
+Chestnut Estates, 40.0539, -74.2147
+Chestnut Ridge, 41.0569, -74.0681
+Chewalla Park, 40.2314, -74.7128
+Chews Landing, 39.8333, -75.0633
+Chimney Rock, 40.5797, -74.5572
+Christ Hospital, 40.7347, -74.0497
+Christopher Mills, 39.8781, -74.8592
+Chrome, 40.5764, -74.2167
+Church Landing, 39.6758, -75.5111
+Churchtown, 39.6719, -75.5103
+Cinnaminson, 39.9967, -74.9931
+Clara Barton, 40.5342, -74.3397
+Clark, 40.6408, -74.3111
+Clarks Landing(Atlantic), 39.5736, -74.5406
+Clarks Landing(Ocean), 40.0906, -74.0611
+Clarks Mill(Atlantic), 39.5175, -74.5064
+Clarks Mill(Cumberland), 39.3597, -75.0175
+Clarks Mills, 40.3169, -74.3506
+Clarksboro, 39.7997, -75.2242
+Clarksburg, 40.1886, -74.4411
+Clarkstown, 39.4350, -74.7156
+Clarksville(Hunterdon), 40.7014, -74.9436
+Clarksville(Mercer), 40.2964, -74.6806
+Clarktown, 39.4500, -74.7333
+Clayton, 39.6600, -75.0925
+Claytons Corner, 40.3286, -74.2869
+Clayville, 39.4333, -75.0311
+Clearwater, 41.0278, -74.7125
+Clementon, 39.8114, -74.9833
+Clements Bridge, 39.8408, -75.0836
+Clermont(Burlington), 39.9906, -74.8000
+Clermont(Cape May), 39.0833, -74.8333
+Cliffdale Park, 40.7833, -74.9167
+Cliffside Park, 40.8214, -73.9881
+Cliffwood, 40.4367, -74.2400
+Cliffwood Beach, 40.4419, -74.2172
+Cliffwood Lake, 41.0833, -74.5167
+Clifton, 40.8583, -74.1642
+Clinton(Essex), 40.8792, -74.3153
+Clinton(Hunterdon), 40.6367, -74.9103
+Clinton(Passaic), 41.0714, -74.4508
+Clinton Hill, 40.7167, -74.2000
+Closter, 40.9731, -73.9619
+Closter Plaza, 40.9667, -73.9667
+Clover Leaf Lakes, 39.4703, -74.7108
+Cloverdale, 39.8833, -75.1000
+Cloverhill, 40.4881, -74.7825
+Clyde, 40.4864, -74.5108
+Cobbs Corner, 40.8706, -74.4192
+Cobbs Mill, 39.5292, -75.3214
+Coffins Corner, 39.8600, -74.9892
+Cohansey, 39.5114, -75.2953
+Cokesbury, 40.6833, -74.8367
+Cold Indian Springs, 40.2422, -74.0667
+Cold Spring, 38.9667, -74.9167
+Coleman Hollow, 40.8122, -74.6078
+Colemantown, 39.9297, -74.8875
+Colestown, 39.9333, -74.9892
+Colesville, 41.2750, -74.6503
+College Town, 39.7000, -75.1167
+Colliers Mills, 40.0675, -74.4497
+Collings Lakes, 39.5956, -74.8819
+Collingswood, 39.9181, -75.0717
+Collingwood Park, 40.2222, -74.1342
+Collinsville, 40.8000, -74.4833
+Cologne, 39.5047, -74.6136
+Colonia, 40.5744, -74.3025
+Colonial Gardens(Middlesex), 40.4833, -74.4500
+Colonial Gardens(Ocean), 39.9778, -74.2103
+Colonial Manor, 39.8550, -75.1517
+Colonial Terrace, 40.2333, -74.0167
+Colts Neck, 40.2875, -74.1728
+Columbia, 40.9261, -75.0931
+Columbia Lakes, 39.9347, -75.0053
+Columbus, 40.0725, -74.7211
+Columbus Hospital, 40.7728, -74.1869
+Colwick, 39.9519, -75.0233
+Comical Corners, 39.9833, -74.6836
+Commercial, 39.2833, -75.0333
+Communipaw, 40.7086, -74.0614
+Community Memorial Hospital, 39.9636, -74.2164
+Congressional Estates, 39.8167, -75.1000
+Conklintown, 41.0333, -74.3000
+Conovertown, 39.4397, -74.4789
+Constable Hook, 40.6667, -74.1167
+Convent Station, 40.7833, -74.4500
+Cooks Mills, 40.2892, -74.1139
+Cookstown, 40.0489, -74.5628
+Cooleys Corner, 40.2147, -74.5167
+Coontown, 40.6186, -74.5186
+Cooper(Gloucester), 39.7992, -75.3331
+Cooper(Passaic), 41.1628, -74.3325
+Cooper Hospital, 39.9403, -75.1175
+Cooper Park Village, 39.8167, -75.1000
+Cooper Village, 39.8200, -75.1178
+Coopers Corner, 40.3719, -74.8483
+Cooperstown, 40.0467, -74.9036
+Coopersville, 40.7069, -75.1094
+Copper Hill, 40.4750, -74.8639
+Corbin City, 39.3033, -74.7561
+Cornish, 40.7975, -75.0350
+Cottageville, 40.4103, -74.4847
+Cottrell Corners, 40.4031, -74.2964
+Country Club Ridge, 40.0167, -74.8958
+Country Lake Estates, 39.9425, -74.5444
+Country Place, 40.0883, -74.2292
+Courses Landing, 39.6611, -75.4094
+Coventry Square, 40.1078, -74.2078
+Coxs Corner(Mercer), 40.3261, -74.6944
+Coxs Corner(Burlington), 39.9206, -74.8792
+Coxstown, 39.6486, -74.2967
+Coytesville, 40.8642, -73.9625
+Cozy Lake, 41.0500, -74.4833
+Cragmere Park, 41.0944, -74.1364
+Cramer Hill, 39.9575, -75.0853
+Cramford Hall Nursing Home, 40.6592, -74.3008
+Cranberry Lake, 40.9542, -74.7469
+Cranbury, 40.3161, -74.5142
+Cranbury Station, 40.3019, -74.4922
+Crandon Lakes, 41.0500, -74.7500
+Crane Square, 40.6819, -74.2086
+Cranford, 40.6583, -74.3000
+Cranford Junction, 40.6619, -74.2917
+Cranmoor Manor, 39.9508, -74.1717
+Crawford Corners, 40.3847, -74.1892
+Cream Ridge, 40.1350, -74.5244
+Creesville, 39.7564, -75.0811
+Crescent Heights, 39.9686, -74.7169
+Crescent Park, 39.8833, -75.1000
+Cresskill, 40.9414, -73.9597
+Crestmoor, 40.7833, -74.7667
+Crestmoore, 40.7483, -74.8269
+Creston, 40.2314, -74.6933
+Crestview, 40.7450, -74.4083
+Crestwood Village, 39.9481, -74.3611
+Cropwell, 39.8936, -74.9358
+Cross Keys, 39.7133, -75.0300
+Crossmans, 40.4850, -74.3217
+Crossroads, 39.9153, -74.8264
+Crosswicks, 40.1533, -74.6481
+Croton, 40.5108, -74.9306
+Crowfoot, 39.7944, -74.8994
+Crowleytown, 39.6283, -74.6181
+Croxton, 40.7397, -74.0633
+Crystal Lake(Bergen), 41.0189, -74.2128
+Crystal Lake(Ocean), 39.8942, -74.1889
+Culvers Inlet, 41.1686, -74.7925
+Culvers Lake, 41.1500, -74.7500
+Cumberland, 39.3697, -74.9411
+Cushetunk, 40.6222, -74.7911
+Cuthbert Manor, 39.9167, -75.0667
+Cyn-Wyd, 40.0833, -74.8500

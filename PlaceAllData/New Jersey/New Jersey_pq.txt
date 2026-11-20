@@ -1,0 +1,220 @@
+Packanack Lake, 40.9425, -74.2567
+Pages Corner, 40.2133, -74.5836
+Pahaquarry, 40.9833, -75.1333
+Palatine, 39.5533, -75.1814
+Palermo, 39.2400, -74.6728
+Palisade, 40.8500, -73.9667
+Palisades Park, 40.8481, -73.9981
+Palmyra(Hunterdon), 40.5614, -75.0156
+Palmyra(Burlington), 40.0069, -75.0286
+Pamrapo, 40.6667, -74.1167
+Pancoast, 39.5225, -74.8711
+Panther Lake, 40.9833, -74.7500
+Papakating, 41.1939, -74.5889
+Paradise, 39.8392, -75.2225
+Paradise Lakes, 39.5264, -75.3392
+Paramus, 40.9444, -74.0758
+Park, 40.9167, -74.1500
+Park Ridge, 41.0375, -74.0411
+Park Ridge Farms, 40.1500, -74.7000
+Park Village, 40.6514, -74.2911
+Parkdale, 39.7211, -74.7603
+Parker, 40.7583, -74.7586
+Parkers Landing(Gloucester), 39.8125, -75.2097
+Parkers Landing(Ocean), 39.5897, -74.3397
+Parkertown, 39.6269, -74.3153
+Parkside(Camden), 39.9283, -75.0969
+Parkside(Warren), 40.6833, -75.1667
+Parkville, 39.8147, -75.1825
+Parkway Manor, 39.9569, -74.2153
+Parkway Pines, 40.1028, -74.1500
+Parkway Village, 40.2592, -74.7889
+Parlin, 40.4619, -74.3386
+Parry, 39.9875, -75.0103
+Parsippany, 40.8578, -74.4264
+Parsonville, 40.1697, -74.6972
+Pasadena, 39.9500, -74.3833
+Passaic, 40.8567, -74.1289
+Passaic Junction, 40.9022, -74.1044
+Passaic Park, 40.8667, -74.1333
+Paterson, 40.9167, -74.1722
+Patricks Corners, 40.4239, -74.4772
+Pattenburg, 40.6361, -75.0167
+Paul Kimball Hospital, 40.0731, -74.2358
+Paulas Corners, 40.4150, -74.4647
+Paulding, 39.6092, -75.2839
+Paulina, 40.9764, -74.9442
+Paulins Kill, 41.0581, -74.8236
+Paulsboro, 39.8303, -75.2408
+Pavonia, 39.9508, -75.0875
+Paynters Crossing, 39.3064, -75.1219
+Peahala Park, 39.6019, -74.2119
+Peapack, 40.7167, -74.6569
+Pebble Beach, 39.7653, -74.1972
+Pecks Corner, 39.5067, -75.3489
+Pedricktown, 39.7672, -75.4150
+Peermont, 39.1000, -74.7333
+Pelican Island, 39.9500, -74.0833
+Pellettown, 41.1614, -74.6750
+Pemberton, 39.9719, -74.6833
+Pemberton Heights, 39.9625, -74.6792
+Penbryn, 39.7625, -74.9431
+Penn Place, 39.7425, -74.4692
+Pennington, 40.3283, -74.7911
+Penns Beach, 39.6419, -75.5278
+Penns Grove, 39.7294, -75.4683
+Penns Neck, 40.3322, -74.6372
+Pennsauken, 39.9500, -75.0500
+Pennsville, 39.6533, -75.5169
+Penny Pot, 39.5719, -74.8225
+Pennypacker Park, 40.0317, -74.8997
+Penton, 39.5783, -75.4019
+Penwell, 40.7781, -74.9028
+Peppermill Farms, 39.8167, -75.1000
+Pequannock, 40.9522, -74.2992
+Pequest, 40.8297, -74.9769
+Perkintown, 39.7333, -75.4231
+Perrineville, 40.2283, -74.4411
+Perryville, 40.6358, -74.9697
+Perth Amboy, 40.5067, -74.2658
+Perth Amboy Junction, 40.5981, -74.2858
+Pestletown, 39.7042, -74.8192
+Petersburg(Cape May), 39.2536, -74.7269
+Petersburg(Morris), 41.0081, -74.5244
+Petersburg(Warren), 40.8794, -74.8581
+Pettys Island, 39.9667, -75.0500
+Phalanx, 40.3175, -74.1383
+Pheasant Run, 39.9931, -74.9639
+Philips Mills, 40.4228, -74.1342
+Phillipsburg, 40.6936, -75.1906
+Phoenix, 40.4778, -74.3133
+Picatinny, 40.8833, -74.5667
+Pierce Heights, 40.6631, -74.8847
+Pierces, 39.0653, -74.8986
+Pierces Point, 39.0839, -74.9058
+Piersonville, 40.2000, -74.6667
+Pilesgrove, 39.6500, -75.3167
+Pill Hill, 40.7006, -74.5911
+Pine Acres(Gloucester), 39.8000, -75.1333
+Pine Acres(Ocean), 40.0419, -74.1939
+Pine Beach, 39.9358, -74.1714
+Pine Brook(Monmouth), 40.2806, -74.0958
+Pine Brook(Morris), 40.8603, -74.3408
+Pine Cliff Lake, 41.1333, -74.3667
+Pine Crest, 39.7964, -74.5814
+Pine Grove, 39.8836, -74.8803
+Pine Hill, 39.7842, -74.9925
+Pine Island, 39.4203, -75.4256
+Pine Lake Park, 40.0031, -74.2569
+Pine Lane, 40.0306, -74.6883
+Pine Tavern, 39.6617, -75.2103
+Pine Terrace, 40.0081, -74.1208
+Pine Valley, 39.7856, -74.9756
+Pinehaven Sanitorium, 39.8939, -74.1956
+Pinehurst, 39.4783, -74.5500
+Pines Lake, 40.9917, -74.2625
+Pinewald, 39.8956, -74.1733
+Piney Hollow, 39.5878, -74.9278
+Pinkneyville, 41.0464, -74.6928
+Pipers Corner, 39.8328, -74.7836
+Piscataway, 40.4992, -74.3994
+Pitman, 39.7328, -75.1319
+Pittsgrove, 39.5333, -75.1333
+Pittstown, 40.5819, -74.9594
+Plainfield, 40.6336, -74.4078
+Plains, 41.1406, -74.7022
+Plainsboro, 40.3333, -74.6008
+Plainville(Gloucester), 39.5925, -75.0158
+Plainville(Somerset), 40.4661, -74.6825
+Plauderville, 40.8833, -74.1000
+Plaza Park, 40.0678, -74.8758
+Pleasant Grove(Morris), 40.7797, -74.8511
+Pleasant Grove(Ocean), 40.1244, -74.3433
+Pleasant Hill, 40.8108, -74.6961
+Pleasant Mills, 39.6397, -74.6617
+Pleasant Plains(Middlesex), 40.4478, -74.5583
+Pleasant Plains(Morris), 40.6975, -74.4975
+Pleasant Plains(Ocean), 40.0033, -74.2139
+Pleasant Run(Hunterdon), 40.5614, -74.7933
+Pleasant Run(Burlington), 40.0000, -75.0000
+Pleasant Terrace, 39.2167, -74.9500
+Pleasant Valley(Morris), 40.7486, -74.6317
+Pleasant Valley(Warren), 40.7514, -75.0086
+Pleasant Valley(Monmouth), 40.3667, -74.2133
+Pleasant Valley Crossroads, 40.3453, -74.1953
+Pleasantdale, 40.8103, -74.2608
+Pleasantview, 40.4775, -74.6558
+Pleasantville(Cumberland), 39.5444, -75.0494
+Pleasantville(Morris), 40.7331, -74.4881
+Pleasantville(Atlantic), 39.3897, -74.5244
+Pleasure Bay, 40.3000, -74.0000
+Pluckemin, 40.6456, -74.6394
+Plumbsock, 41.2186, -74.6711
+Plumsted, 40.0833, -74.5000
+Pohatcong, 40.6667, -75.1667
+Point Airy, 39.6764, -75.3197
+Point Breeze, 40.5061, -74.9647
+Point of Woods, 39.9094, -74.9578
+Point Pleasant(Sussex), 40.9228, -74.6581
+Point Pleasant(Ocean), 40.0831, -74.0686
+Point Pleasant Beach, 40.0911, -74.0483
+Pointers, 39.5939, -75.4456
+Pointville, 40.0036, -74.6033
+Pole Tavern, 39.6167, -75.2294
+Polhemustown, 40.1506, -74.5481
+Polktown, 40.6714, -74.9458
+Polkville, 40.9386, -75.0517
+Pomona, 39.4783, -74.5756
+Pompton, 40.9914, -74.2800
+Pompton Junction, 41.0036, -74.3006
+Pompton Lakes, 41.0053, -74.2911
+Pompton Plains, 40.9681, -74.2961
+Porches Mill, 39.7003, -75.3331
+Porchtown, 39.5944, -75.0833
+Port Colden, 40.7631, -74.9542
+Port Elizabeth, 39.3133, -74.9814
+Port Johnson, 40.6522, -74.1167
+Port Mercer, 40.3042, -74.6853
+Port Monmouth, 40.4300, -74.0989
+Port Morris, 40.9050, -74.6853
+Port Murray, 40.7856, -74.9164
+Port Norris, 39.2458, -75.0356
+Port Reading, 40.5653, -74.2608
+Port Republic, 39.5206, -74.4861
+Port Warren, 40.6947, -75.1408
+Port-au-Peck, 40.3150, -74.0083
+Portertown, 39.6136, -75.3533
+Possumtown, 40.5544, -74.4919
+Post Corner, 40.2828, -74.6375
+Postville, 41.0883, -74.4158
+Potato Island, 39.0833, -74.8625
+Potters, 40.5936, -74.3617
+Potterstown, 40.6422, -74.7989
+Pottersville, 40.7136, -74.7222
+Powerville, 40.9214, -74.4272
+Prallsville, 40.4117, -74.9869
+Preakness, 40.9303, -74.2281
+Presidential Lake Estates, 39.9164, -74.5653
+Presidential Lakes, 39.9667, -74.5667
+Princessville, 40.2925, -74.7081
+Princeton, 40.3486, -74.6594
+Princeton Colonial Park, 40.3019, -74.6194
+Princeton Estates, 40.2981, -74.6128
+Princeton Ivy East, 40.3000, -74.6067
+Princeton Junction, 40.3172, -74.6203
+Prospect, 39.7936, -75.3689
+Prospect Heights, 40.2481, -74.7644
+Prospect Highlands, 40.2667, -74.7667
+Prospect Park(Mercer), 40.2403, -74.7667
+Prospect Park(Passaic), 40.9369, -74.1747
+Prospect Plains, 40.3239, -74.4714
+Prospect Point, 40.9631, -74.6275
+Prospertown, 40.1286, -74.4700
+Prossers Mills, 39.7542, -75.0583
+Pulis Mills, 41.0303, -74.1767
+Pullentown, 40.1722, -74.5481
+Pumptown, 40.5631, -74.3736
+Quaker Gardens, 40.2514, -74.6839
+Quakertown, 40.5656, -74.9419
+Quarryville, 41.2564, -74.5800
+Quinton, 39.5458, -75.4128

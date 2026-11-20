@@ -1,0 +1,366 @@
+Abertown, 41.2508, -74.7850
+Ablett Village, 39.9486, -75.1028
+Absecon, 39.4283, -74.4961
+Absecon Highlands, 39.4467, -74.4744
+Academy, 40.7333, -74.1833
+Academy Estates, 40.8167, -74.4167
+Ackermans Mills, 41.0272, -74.1692
+Ackerson, 41.0822, -74.6683
+Ackors Corner, 40.3347, -74.8494
+Acton, 39.5842, -75.4136
+Adams, 40.4508, -74.4936
+Adamston, 40.0453, -74.0956
+Adelphia, 40.2181, -74.2567
+Afton, 40.7725, -74.3900
+Agasote, 40.2333, -74.7833
+Ajax Park, 40.2333, -74.7833
+Albion, 39.7786, -74.9553
+Albion Place, 40.8911, -74.1761
+Aldene, 40.6633, -74.2733
+Aldine, 39.5689, -75.2753
+Aldrich Estates, 40.2333, -74.2167
+Alexandria, 40.6000, -75.0167
+Alexauken, 40.3894, -74.9394
+Algers Mills, 40.1653, -74.0750
+All Souls Hospital, 40.7892, -74.4906
+Allaire, 40.1583, -74.1258
+Allamuchy, 40.9217, -74.8106
+Allendale, 41.0414, -74.1294
+Allenhurst, 40.2361, -74.0011
+Allens Corner, 40.5467, -74.9389
+Allens Mills, 40.7400, -75.1189
+Allentown, 40.1778, -74.5839
+Allenwood, 40.1414, -74.1003
+Allenwood Hospital, 40.1372, -74.1297
+Allerton, 40.6111, -74.8789
+Alliance, 39.5186, -75.0922
+Alloway, 39.5608, -75.3628
+Alloway Junction, 39.5814, -75.3633
+Alluvium, 39.8350, -74.9422
+Allwood, 40.8425, -74.1592
+Almolind, 39.8167, -75.1333
+Almonesson, 39.8189, -75.0989
+Alpha, 40.6669, -75.1578
+Alphano, 40.9022, -74.8619
+Alpine, 40.9558, -73.9317
+Altura, 40.2675, -74.8167
+Alvater Corner, 40.5658, -74.9703
+Amber Terrace, 39.8000, -75.0000
+Amon Heights, 39.9667, -75.0500
+Ampere, 40.7667, -74.1953
+Amsterdam, 40.5875, -75.1589
+Amwell, 40.4314, -74.7525
+Anchorage, 40.0014, -74.1431
+Ancora, 39.6944, -74.8417
+Ancora State Hospital, 39.6822, -74.8633
+Anderson, 40.7706, -74.9194
+Andover, 40.9858, -74.7425
+Andover Junction, 40.9969, -74.7461
+Andrews, 39.7239, -74.9594
+Anglesea, 39.0186, -74.7953
+Annandale, 40.6408, -74.8817
+Anthony, 40.7483, -74.8817
+Apple Hill, 39.9000, -75.0000
+Applegarth, 40.2783, -74.4731
+Apshawa, 41.0175, -74.3633
+Arbor, 40.5667, -74.4500
+Archers Corner, 40.0883, -74.4558
+Archertown, 40.0653, -74.5003
+Arcola, 40.9258, -74.0897
+Ardena, 40.2114, -74.2331
+Ardmore Estates, 40.2061, -74.2250
+Arlington, 40.7775, -74.1386
+Armstrong, 41.1494, -74.6903
+Arneys Mount, 40.0097, -74.6969
+Arneytown, 40.1014, -74.5664
+Arrowhead Park, 40.0333, -74.1167
+Arrowhead Village, 40.0764, -74.1042
+Asbury(Warren), 40.6958, -75.0106
+Asbury(Gloucester), 39.7725, -75.2842
+Asbury Gardens, 40.2000, -74.0333
+Asbury Park, 40.2203, -74.0125
+Aserdaten, 39.8564, -74.3383
+Ashland, 39.8631, -75.0064
+Atco, 39.7697, -74.8878
+Athenia, 40.8667, -74.1547
+Atlantic City, 39.3642, -74.4233
+Atlantic City Medical Center, 39.4786, -74.5397
+Atlantic Highlands, 40.4078, -74.0347
+Atsion, 39.7425, -74.7264
+Auburn, 39.7108, -75.3681
+Audubon, 39.8908, -75.0733
+Augusta, 41.1289, -74.7286
+Aura, 39.6728, -75.1378
+Avalon, 39.1011, -74.7181
+Avenel, 40.5803, -74.2856
+Avis Mills, 39.6658, -75.2486
+Avon Park, 40.5931, -74.4000
+Avon-by-the-Sea, 40.1922, -74.0164
+Avondale, 40.8147, -74.1506
+Awosting, 41.1544, -74.3369
+Babbitt, 40.8097, -74.0203
+Bacons Neck, 39.4667, -75.2500
+Baileys Corner, 40.1528, -74.0725
+Baileytown, 39.3194, -75.0733
+Bairdsville, 40.2419, -74.3842
+Bakersville(Atlantic), 39.3667, -74.5667
+Bakersville(Mercer), 40.2747, -74.7067
+Baldwins Corner, 40.3139, -74.7864
+Baleville, 41.1042, -74.7600
+Ballingers Mill, 39.5764, -75.2694
+Baltusrol, 40.7244, -74.3283
+Bamber Lake, 39.8333, -74.1833
+Bamberry Estates, 39.9936, -74.2181
+Baptistown, 40.5217, -75.0064
+Barber, 40.5306, -74.2583
+Barbertown, 40.4853, -75.0275
+Barclay Farm, 39.9058, -74.9942
+Bargaintown, 39.3625, -74.5814
+Barkers Corner, 40.8667, -74.9167
+Barley Sheaf, 40.5167, -74.8667
+Barlow, 39.8167, -75.1000
+Barnard, 39.6208, -74.7847
+Barnegat, 39.7531, -74.2233
+Barnegat Bay, 39.7581, -74.1919
+Barnegat Bay Estates, 39.9708, -74.1300
+Barnegat Beach, 39.7786, -74.1911
+Barnegat Estates, 39.7611, -74.2594
+Barnegat Light, 39.7575, -74.1067
+Barnegat Pier, 39.9333, -74.1333
+Barnegat Pines, 39.8961, -74.2103
+Barnert Hospital, 40.9181, -74.1447
+Barnsboro, 39.7617, -75.1603
+Barrington, 39.8647, -75.0556
+Barrington Manor, 39.9000, -75.0333
+Bartles Corners, 40.5367, -74.8578
+Bartley, 40.8225, -74.7186
+Basking Ridge, 40.7061, -74.5497
+Bass River, 39.5925, -74.4431
+Bates Mill, 39.7069, -74.8656
+Batesville, 39.8167, -75.1000
+Batsto, 39.6417, -74.6481
+Battentown, 39.7500, -75.3167
+Bay Harbor Estates, 40.0208, -74.1333
+Bay Head, 40.0717, -74.0547
+Bay Head Junction, 40.0778, -74.0464
+Bay Shore, 39.9508, -74.1136
+Bay Shore West, 38.9333, -74.9167
+Bay Side(Cumberland), 39.3825, -75.4069
+Bay Side(Ocean), 39.6686, -74.2136
+Bayonne, 40.6686, -74.1147
+Bayside Beach, 39.8203, -74.1811
+Bayview Convalescent Center, 39.8936, -74.1956
+Bayview Harbors, 39.9636, -74.1208
+Bayview Shores, 40.0500, -74.0500
+Bayville, 39.9092, -74.1553
+Bayway, 40.6389, -74.2128
+Baywood, 40.0333, -74.1167
+Beach Creek, 39.0000, -74.8167
+Beach Glen, 40.9297, -74.4867
+Beach Haven, 39.5592, -74.2436
+Beach Haven Crest, 39.6125, -74.2033
+Beach Haven Gardens, 39.5822, -74.2275
+Beach Haven Heights, 39.5344, -74.2608
+Beach Haven Park, 39.5975, -74.2131
+Beach Haven Terrace, 39.5861, -74.2239
+Beach Haven West, 39.6697, -74.2322
+Beach View, 39.7247, -74.2431
+Beachwood, 39.9389, -74.1933
+Beals Mill, 39.5286, -75.2661
+Bear Tavern, 40.3089, -74.8489
+Beattystown, 40.8131, -74.8433
+Beaufort, 40.8178, -74.3300
+Beaver Dam, 39.6503, -75.4925
+Beaver Lake, 41.1075, -74.5539
+Beaver Run, 41.1533, -74.6200
+Beaverville, 39.9017, -74.7422
+Beckerville, 40.0167, -74.3167
+Bedminster, 40.6806, -74.6458
+Beechwood Heights, 40.8667, -74.6333
+Beemerville, 41.2106, -74.6919
+Beesleys Point, 39.2767, -74.6367
+Belcoville, 39.4372, -74.7364
+Belford, 40.4258, -74.0872
+Bellcrest Park, 39.9750, -74.1375
+Belle Mead, 40.4667, -74.6611
+Belle Mead Sanitarium, 40.4675, -74.6842
+Belleplain, 39.2686, -74.8669
+Belleville, 40.7936, -74.1506
+Bellmawr, 39.8675, -75.0950
+Bells Crossing, 40.7044, -74.9436
+Bells Lake, 39.7536, -75.0492
+Bellview, 40.0208, -74.9950
+Bellwood Park, 39.8833, -75.1000
+Belmar, 40.1783, -74.0222
+Belvidere, 40.8297, -75.0781
+Belwood Park, 40.8000, -74.1667
+Benders Corner, 40.6803, -74.4117
+Bennett, 38.9833, -74.9017
+Bennetts Mill, 39.4244, -74.9117
+Bennetts Mills, 40.1289, -74.2756
+Bennys Landing, 39.0672, -74.8131
+Berdines Corners, 40.4672, -74.4539
+Bergen, 40.7292, -74.0661
+Bergen Mills, 40.2628, -74.4197
+Bergen Pines County Hospital, 40.9567, -74.0636
+Bergen Point, 40.6475, -74.1417
+Bergenfield, 40.9275, -73.9978
+Bergenline, 40.7667, -74.0333
+Bergerville, 40.2019, -74.2619
+Berkeley, 39.9167, -74.1667
+Berkeley Heights, 40.6833, -74.4431
+Berkeley Shores, 39.9125, -74.1333
+Berkshire Valley, 40.9300, -74.5911
+Berlin, 39.7911, -74.9294
+Berlin Heights, 39.8131, -74.8908
+Bernardsville, 40.7186, -74.5697
+Berryland, 39.6111, -74.9061
+Bertrand Island, 40.9167, -74.6333
+Beth Israel Hospital, 40.7103, -74.2142
+Bethlehem, 40.6667, -75.0167
+Betsytown, 40.6667, -74.2000
+Bevans, 41.1964, -74.8511
+Beverly, 40.0653, -74.9194
+Biddles Landing, 39.6756, -75.4658
+Big Oak, 39.4861, -75.2089
+Big Springs, 41.1278, -74.6222
+Billingsport, 39.8483, -75.2422
+Birch Hills, 40.8094, -74.4319
+Birchfield, 39.9361, -74.9250
+Birchwood Lakes, 39.8661, -74.8128
+Birchwood Park, 40.0333, -74.1167
+Birmingham, 39.9758, -74.7106
+Bishop Wood, 39.7542, -75.0144
+Bishops, 39.7853, -74.9067
+Bissell, 40.6667, -74.7922
+Bivalve, 39.2342, -75.0342
+Black Horse, 40.4181, -74.5025
+Black Horse Pike, 39.8833, -75.0667
+Blackwells Mills, 40.4756, -74.5717
+Blackwood, 39.8022, -75.0644
+Blackwood Terrace, 39.8050, -75.0861
+Blairstown, 40.9828, -74.9608
+Blansingburg, 40.1367, -74.0575
+Blawenburg, 40.4075, -74.7031
+Blenheim, 39.8092, -75.0778
+Bloomfield, 40.8067, -74.1858
+Bloomfield Terrace, 40.4000, -74.3500
+Bloomingdale(Passaic), 41.0019, -74.3269
+Bloomingdale(Somerset), 40.4975, -74.6478
+Bloomsbury, 40.6539, -75.0869
+Blue Anchor, 39.6894, -74.8831
+Blue Bell, 39.5719, -74.9744
+Blue Star, 40.6167, -74.4167
+Bogota, 40.8761, -74.0303
+Bon Air, 39.9692, -75.0233
+Bonaparte Landing, 40.9536, -74.6400
+Bonhamptown, 40.5333, -74.3667
+Bonhamtown, 40.5233, -74.3581
+Boonton, 40.9025, -74.4075
+Bordentown, 40.1461, -74.7122
+Borton Landing, 40.0028, -74.8889
+Bossert Estates, 40.1472, -74.6917
+Bougher, 39.9933, -74.8800
+Bound Brook(Camden), 39.8167, -75.1000
+Bound Brook(Somerset), 40.5683, -74.5389
+Bound Brook Heights, 40.5667, -74.4500
+Bound Brook Junction, 40.5589, -74.5658
+Bowentown, 39.4244, -75.2767
+Bowman Manor, 39.0161, -74.9344
+Bowne, 40.4197, -74.9131
+Boynton Beach, 40.5472, -74.2550
+Bozuretown, 39.8267, -74.6894
+Braddock, 39.7008, -74.8900
+Braddocks Mill, 39.8222, -74.8492
+Bradevelt, 40.3344, -74.2397
+Bradley Beach, 40.2022, -74.0125
+Bradley Gardens, 40.5628, -74.6550
+Bradley Park, 40.2050, -74.0247
+Brady Park, 40.9606, -74.6189
+Braeburn Heights, 40.2567, -74.7686
+Braeburn Park, 40.2667, -74.7667
+Brainards, 40.7736, -75.1700
+Brainy Boro, 40.5333, -74.3667
+Branchburg, 40.5667, -74.7000
+Branchburg Park, 40.5722, -74.6853
+Branchport, 40.3089, -73.9983
+Branchville, 41.1464, -74.7528
+Branchville Junction, 41.0736, -74.7017
+Brant Beach, 39.6208, -74.1975
+Brantwood, 40.7292, -74.3403
+Brass Castle, 40.7647, -75.0114
+Breton Woods, 40.0456, -74.1092
+Briar Manor, 40.2117, -74.6589
+Brick, 40.0667, -74.1167
+Brick Church, 40.7500, -74.2167
+Brick Town, 40.0333, -74.1167
+Bricksboro, 39.3019, -74.9789
+Bridgeboro, 40.0219, -74.9328
+Bridgepoint, 40.4325, -74.6489
+Bridgeport, 39.8008, -75.3478
+Bridgeton, 39.4272, -75.2344
+Bridgeton Junction, 39.4528, -75.2131
+Bridgeville, 40.8367, -75.0264
+Bridgewater, 40.6000, -74.6167
+Brielle, 40.1078, -74.0569
+Brigadoon, 39.8167, -75.1333
+Brigantine, 39.4100, -74.3650
+Brighton, 40.9850, -74.7639
+Brighton Beach, 39.6064, -74.2083
+Brights, 40.4667, -74.3333
+Brimfield Crossing, 39.5708, -74.9081
+Brindletown, 40.0472, -74.5056
+Brisbane State Child Treatment Center, 40.1650, -74.1269
+Broad Lane, 39.6703, -74.9267
+Broadway, 40.7319, -75.0519
+Bromley Place, 40.2167, -74.7333
+Brook Valley, 40.9644, -74.3683
+Brookdale(Camden), 39.8167, -75.1000
+Brookdale(Essex), 40.8336, -74.1833
+Brookfield, 39.8825, -75.0161
+Brookfields, 39.8167, -75.1000
+Brooklawn, 39.8781, -75.1211
+Brookside, 40.7942, -74.5683
+Brookside Heights, 39.9617, -74.1603
+Brookview, 40.4206, -74.4744
+Brookville(Hunterdon), 40.4006, -74.9664
+Brookville(Ocean), 39.7817, -74.3078
+Brookwood, 40.1333, -74.3333
+Brotmanville, 39.5206, -75.0828
+Brownings, 40.9525, -75.1136
+Browns, 41.1567, -74.3486
+Browns Mills, 39.9725, -74.5833
+Browns Mills Junction, 39.9483, -74.5903
+Brownsville, 39.8119, -75.0189
+Browntown, 40.4017, -74.3069
+Brunswick, 40.4833, -74.4500
+Brunswick Gardens, 40.3906, -74.3367
+Buck Landing, 38.9492, -74.9125
+Buckingham, 39.9311, -74.4478
+Buckingham Park, 40.0436, -74.8861
+Buckingham Village, 39.7603, -75.1375
+Bucks Mill, 40.2844, -74.1981
+Buckshutem, 39.3189, -75.0131
+Budd Lake, 40.8711, -74.7344
+Buddtown, 39.9392, -74.7033
+Buena, 39.5136, -74.9250
+Bullock, 39.8817, -74.4500
+Bulltown, 39.6381, -74.5944
+Bunker Hill, 39.7500, -75.0667
+Bunnvale, 40.7017, -74.8836
+Burcliff Farms, 40.2667, -74.7667
+Burkesville, 40.1606, -74.4214
+Burleigh, 39.0456, -74.8519
+Burlington, 40.0711, -74.8653
+Burlington Heights, 40.2717, -74.2361
+Burnt Mills, 40.6358, -74.6872
+Burrs Mill, 39.8883, -74.6503
+Bustleton, 40.0881, -74.7831
+Butler, 41.0036, -74.3419
+Butler Park, 40.7517, -74.9314
+Butlers Place, 39.8542, -74.5083
+Butterworth Farms, 40.8214, -74.5236
+Buttzville, 40.8322, -75.0067
+Byram, 40.9500, -74.7167
+Byram, 40.4236, -75.0600
+Byram Cove, 40.9556, -74.6603

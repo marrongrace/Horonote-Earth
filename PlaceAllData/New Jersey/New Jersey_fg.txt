@@ -1,0 +1,247 @@
+Fair Haven, 40.3606, -74.0386
+Fair Lawn, 40.9403, -74.1322
+Fair Play, 40.2367, -74.4650
+Fairfield(Monmouth), 40.2053, -74.2142
+Fairfield(Essex), 40.8833, -74.2833
+Fairmont Hospital, 40.7194, -74.0667
+Fairmount, 40.7269, -74.7767
+Fairton, 39.3817, -75.2203
+Fairview(Burlington), 40.0175, -74.9503
+Fairview(Camden), 39.9067, -75.1028
+Fairview(Bergen), 40.8125, -73.9994
+Fairview(Somerset), 40.4333, -74.7178
+Fairview(Monmouth), 40.3731, -74.0872
+Fairview Estates, 39.9833, -74.1458
+Fairview Knolls, 40.4292, -74.4264
+Fairwoods, 40.7686, -74.4289
+Falcon Courts North, 40.0167, -74.6333
+Fanwood, 40.6408, -74.3839
+Far Hills, 40.6842, -74.6361
+Fardale, 41.0408, -74.1769
+Farmersville, 40.7261, -74.8072
+Farmingdale(Monmouth), 40.1964, -74.1689
+Farmingdale(Cumberland), 39.3761, -75.1100
+Farmington, 39.3833, -74.5500
+Farnerville, 40.0694, -74.8647
+Farrington Lake Heights, 40.4356, -74.4569
+Fayson Lakes, 40.9758, -74.3575
+Feaster Park, 40.4844, -74.4431
+Febletown, 40.9317, -74.9625
+Fellowship, 39.9275, -74.9669
+Fenwick, 39.6175, -75.3372
+Ferdinands Mills, 41.0256, -74.1931
+Fernwood, 40.2589, -74.7964
+Fernwood Terrace, 40.2333, -74.7833
+Ferrell, 39.6753, -75.1992
+Ferry Road Manor, 40.2533, -74.8047
+Fieldsboro, 40.1364, -74.7292
+Fieldstone, 40.7000, -74.5500
+Fieldville, 40.5472, -74.5069
+Finderne, 40.5631, -74.5781
+Finesville, 40.6083, -75.1714
+Finley, 39.4772, -75.2025
+Firthtown, 40.6833, -75.1667
+Fish House, 39.9667, -75.0500
+Fishing Creek, 39.0228, -74.9342
+Fithians Corner, 39.4269, -75.2919
+Fitkin Memorial Hospital, 40.2083, -74.0414
+Five Corners, 40.7167, -74.0667
+Five Points(Salem), 39.7564, -75.4150
+Five Points(Atlantic), 39.4797, -74.8939
+Five Points(Sussex), 41.0861, -74.8581
+Flagtown, 40.5169, -74.6847
+Flanders, 40.8456, -74.6953
+Flatbrookville, 41.1003, -74.9639
+Flemington, 40.5122, -74.8597
+Flemington Junction, 40.5317, -74.8400
+Floral Hill, 40.7294, -74.4064
+Florence(Burlington), 40.1194, -74.8058
+Florence(Camden), 39.7342, -74.9186
+Florence Station, 40.1083, -74.7844
+Florham Park, 40.7878, -74.3886
+Flyat, 39.8228, -74.7575
+Folsom, 39.6019, -74.8431
+Folwell, 40.0439, -74.7092
+Ford Estates, 39.8167, -75.1333
+Ford Landing, 40.0000, -75.0167
+Fords, 40.5292, -74.3164
+Fordville, 39.4253, -75.1703
+Forest Acres, 39.9614, -74.1736
+Forest Grove, 39.5267, -75.0431
+Forest Hill(Camden), 39.8167, -75.1000
+Forest Hill(Ocean), 39.9167, -74.1500
+Fork Landing, 39.9778, -75.0131
+Forked River, 39.8397, -74.1906
+Forked River Beach, 39.8169, -74.1706
+Forked River Point, 39.8261, -74.1978
+Forrest Lake Estates, 39.5667, -75.0333
+Fort Dix, 40.0297, -74.6189
+Fort Elfsborg, 39.5483, -75.5258
+Fort Hancock, 40.4000, -73.9833
+Fort Lee, 40.8508, -73.9706
+Fort Mercer, 39.8500, -75.1667
+Fort Monmouth, 40.3167, -74.0333
+Fort Mott, 39.5667, -75.4667
+Fort Plains, 40.1833, -74.2547
+Fortescue, 39.2375, -75.1719
+Foster Village, 40.9167, -74.0667
+Fostertown, 39.9428, -74.8178
+Foul Rift, 40.8022, -75.0981
+Four Corners, 41.2881, -74.7631
+Four Mile, 39.8914, -74.5814
+Four Mile Circle, 39.8981, -74.5958
+Fox Chase, 39.8564, -74.7267
+Fox Hill, 40.8775, -74.4444
+Fox Hollow Woods, 39.8789, -74.9564
+Foxs Mill, 39.6133, -75.2542
+Frames Corner, 39.3033, -75.1642
+Francis Mills, 40.1347, -74.3978
+Frankford, 41.1667, -74.7333
+Frankfort, 40.5086, -74.6836
+Franklin(Hunterdon), 40.6253, -74.9256
+Franklin(Morris), 40.8742, -74.5119
+Franklin(Essex), 40.8514, -74.2950
+Franklin(Sussex), 41.1219, -74.5808
+Franklin Corner, 40.2803, -74.7169
+Franklin Grove, 41.0311, -74.9572
+Franklin Lakes, 41.0167, -74.2061
+Franklin Park(Middlesex), 40.4389, -74.5356
+Franklin Park(Burlington), 40.0250, -74.9083
+Franklinville, 39.6181, -75.0761
+Frazier Park, 39.6792, -74.1517
+Fredon, 41.0392, -74.8092
+Free Acres, 40.6606, -74.4442
+Freehold, 40.2600, -74.2742
+Freewood Acres, 40.1689, -74.2383
+Frelinghuysen, 40.9667, -74.8833
+Frenchtown, 40.5261, -75.0619
+Freneau, 40.4017, -74.2381
+Fresh Ponds, 40.4053, -74.4661
+Friars Landing, 39.8292, -75.2278
+Friendship(Cumberland), 39.4833, -75.1942
+Friendship(Burlington), 39.7508, -74.5856
+Friendship Station, 39.7342, -75.4592
+Fries Mill, 39.6561, -75.0456
+Friesburg, 39.5447, -75.2894
+Furmans Corner, 40.4597, -74.7869
+Galilee, 40.3364, -73.9747
+Galloping Hill, 40.7000, -74.5500
+Galloway, 39.4833, -74.5333
+Gandys Beach, 39.2719, -75.2353
+Garden City, 39.7972, -75.0894
+Garden Lake, 39.8000, -75.0000
+Garden State, 40.9500, -74.0667
+Gardens, 39.2667, -74.5833
+Gardenville, 39.8225, -75.1211
+Gardenville Center, 39.8300, -75.1228
+Gardiners Landing, 39.6250, -74.6403
+Garfield, 40.8814, -74.1136
+Garfield Park, 40.0208, -74.8797
+Garfield Park East, 40.0231, -74.8675
+Garfield Park North, 40.0311, -74.8622
+Garrison Corner, 39.4458, -75.3906
+Garton, 39.4686, -75.1694
+Garwood, 40.6594, -74.3233
+Gary Corner, 40.5306, -74.9211
+General Hospital(Middlesex), 40.5189, -74.2811
+General Hospital(Union), 40.6622, -74.2047
+General Lafayette, 40.7167, -74.0667
+Genoa, 40.4167, -74.2333
+Georgetown, 40.0794, -74.6536
+Georgia, 40.1872, -74.2850
+Germania, 39.5117, -74.5997
+Germania Gardens, 39.5033, -74.6094
+Gibbsboro, 39.8381, -74.9653
+Gibbstown, 39.8250, -75.2839
+Gibson Landing, 39.3561, -74.7267
+Giffordtown, 39.6003, -74.3722
+Gigantic City, 39.4964, -74.8239
+Gilford Park, 39.9486, -74.1375
+Gillespie, 40.4519, -74.3564
+Gillette, 40.6739, -74.4664
+Gillilandtown, 40.3969, -74.4200
+Gilman Lake, 39.6333, -75.1667
+Glacier Hills, 40.8333, -74.4833
+Gladstone, 40.7225, -74.6658
+Glassboro, 39.7028, -75.1122
+Glasser, 40.9333, -74.6667
+Glen Alpin, 40.7542, -74.5267
+Glen Cove, 39.8833, -74.1431
+Glen Gardner, 40.6967, -74.9411
+Glen Ridge, 40.8053, -74.2042
+Glen Rock, 40.9628, -74.1333
+Glendale(Camden), 39.8536, -74.9828
+Glendale(Merser), 40.2464, -74.7828
+Glendola, 40.1908, -74.0772
+Glendora, 39.8394, -75.0739
+Glenfield, 40.7431, -74.4056
+Glenmoore, 40.3681, -74.7844
+Glenside, 39.6664, -75.4886
+Glenview, 39.8167, -75.1000
+Glenwood, 41.2511, -74.4900
+Gloucester City, 39.8917, -75.1167
+Gloucester Heights, 39.8978, -75.1047
+Glouster Landing, 39.5847, -74.5669
+Godfrey Manor, 40.0333, -74.1167
+Golden Crest, 40.2083, -74.6647
+Golf Hill, 40.8667, -74.6333
+Golf Manor, 39.6967, -75.4711
+Golf View, 39.7006, -75.4697
+Golf View Manor, 40.2806, -74.5917
+Good Intent, 39.8042, -75.0781
+Goodmans Crossing, 40.6153, -74.3400
+Gordon Lakes, 41.0000, -74.3500
+Gordon's Corner, 40.3178, -74.3058
+Goshen, 39.1414, -74.8533
+Goshen Crossing, 39.1281, -74.8253
+Gouldtown, 39.4206, -75.1847
+Grand Spruce, 39.7614, -75.3381
+Grandin, 40.6175, -74.9342
+Granton Junction, 40.7833, -74.0167
+Grantwood, 40.8267, -73.9875
+Grasselli, 40.6150, -74.2092
+Grassy Sound, 39.0133, -74.8164
+Gravel Hill, 40.2997, -74.4197
+Gravelly Run, 39.4258, -74.7017
+Great Eastern Mills, 40.9000, -74.2000
+Great Meadows, 40.8708, -74.9125
+Great Notch, 40.8744, -74.2081
+Greater Cross Roads, 40.6689, -74.6803
+Green, 40.9833, -74.8000
+Green Acres, 40.2333, -74.7833
+Green Bank, 39.6128, -74.5883
+Green Brook, 40.6000, -74.4833
+Green Creek, 39.0461, -74.9017
+Green Curve Heights, 40.2661, -74.7850
+Green Grove, 40.2342, -74.0778
+Green Hut Park, 40.8833, -74.5667
+Green Knoll, 40.6000, -74.6125
+Green Pond, 41.0172, -74.4781
+Green Pond Junction, 41.0272, -74.4169
+Green Tree, 39.7508, -75.0764
+Green Village, 40.7392, -74.4539
+Green-Fields, 39.8169, -75.1667
+Greendell, 40.9739, -74.8214
+Greenfield, 39.2283, -74.7061
+Greenfield Heights, 39.8097, -75.1686
+Greenhaven, 39.9167, -74.9958
+Greenland, 39.8589, -75.0300
+Greens Bridge, 40.6833, -75.1667
+Greensand, 40.4917, -74.3875
+Greentree Village, 39.9125, -74.9389
+Greenville(Salem), 39.5667, -75.1925
+Greenville(Hudson), 40.7003, -74.0947
+Greenville(Ocean), 40.1017, -74.1722
+Greenwich, 39.3897, -75.3389
+Greenwood Manor, 39.9792, -74.2472
+Greenwood Village, 40.2167, -74.7333
+Grenloch, 39.7856, -75.0561
+Grenloch Terrace, 39.7803, -75.0631
+Greystone Park State Hospital, 40.8347, -74.5056
+Griggstown, 40.4378, -74.6136
+Grove, 40.8000, -74.1833
+Grove Chapel, 39.5500, -75.0167
+Grovers Mill, 40.3167, -74.6097
+Groveville, 40.1697, -74.6719
+Gum Tree Corner, 39.4375, -75.3853
+Guttenberg, 40.7919, -74.0042

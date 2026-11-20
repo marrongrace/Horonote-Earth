@@ -1,0 +1,195 @@
+Natco, 40.4397, -74.1597
+National Park, 39.8658, -75.1792
+Naughright, 40.7967, -74.7461
+Navesink, 40.3994, -74.0358
+Navesink Beach, 40.3894, -73.9758
+Necombtown, 39.3986, -75.0514
+Nejecho Beach, 40.0333, -74.1167
+Nelsonville, 40.1703, -74.5353
+Neptune, 40.2167, -74.0333
+Neptune City, 40.2000, -74.0283
+Nesco, 39.6381, -74.6969
+Neshanic, 40.4978, -74.7203
+Neshanic Station, 40.5081, -74.7306
+Netcong, 40.8989, -74.7069
+Netherwood, 40.6306, -74.4125
+New Albany, 40.0014, -74.9717
+New Bedford, 40.1792, -74.0625
+New Bridge, 40.9167, -74.0286
+New Brooklyn, 39.6931, -74.9431
+New Brunswick, 40.4861, -74.4522
+New Brunswick Heights, 40.5667, -74.4500
+New Canton, 40.1869, -74.5669
+New Dover, 40.5850, -74.3436
+New Durham(Hudson), 40.7847, -74.0333
+New Durham(Middlesex), 40.5436, -74.4064
+New Egypt, 40.0675, -74.5311
+New England Crossroads, 39.3611, -75.2256
+New Freedom(Camden), 39.7586, -74.9269
+New Freedom(Salem), 39.6553, -75.1903
+New Gretna, 39.5922, -74.4514
+New Hampton, 40.7219, -74.9606
+New Hanover, 40.0500, -74.5667
+New Italy, 39.4597, -74.9372
+New Jersey & New York Junction, 40.8333, -74.1000
+New Lisbon, 39.9581, -74.6283
+New Market, 40.5742, -74.4528
+New Milford, 40.9350, -74.0194
+New Monmouth, 40.4119, -74.1036
+New Providence, 40.6983, -74.4019
+New Sharon(Gloucester), 39.8083, -75.1292
+New Sharon(Monmouth), 40.2061, -74.5508
+New Shrewsbury, 40.3306, -74.0903
+New Vernon, 40.7453, -74.4978
+New Village, 40.7172, -75.0828
+New York & Greenwood Lake Junction, 40.7667, -74.1500
+Newark, 40.7356, -74.1728
+Newark Heights, 40.7342, -74.2583
+Newbakers Corners, 40.9833, -74.9500
+Newbolds Corner, 39.9631, -74.7800
+Newcomb Hospital(Burlington), 39.9678, -74.6381
+Newcomb Hospital(Cumberland), 39.4800, -75.0128
+Newfield, 39.5464, -75.0253
+Newfoundland, 41.0464, -74.4356
+Newport(Cumberland), 39.2967, -75.1769
+Newport(Hunterdon), 40.7250, -74.9094
+Newport Landing, 39.2897, -75.1978
+Newstead, 40.7525, -74.2783
+Newstead North, 40.7594, -74.2728
+Newton, 41.0581, -74.7531
+Newton Heights, 40.4328, -74.3983
+Newtonville, 39.5589, -74.8664
+Newtown, 40.5519, -74.4608
+Nixon, 40.5142, -74.3678
+Norburys Landing, 39.0503, -74.9281
+Norma, 39.4961, -75.0883
+Normandie, 40.3797, -73.9756
+Normandy Beach, 40.0025, -74.0608
+Normandy Harbor, 40.0000, -74.0667
+Normanook, 41.1867, -74.8028
+North, 40.7667, -74.1667
+North Arlington, 40.7883, -74.1336
+North Asbury Park, 40.2333, -74.0167
+North Beach, 39.6167, -74.2000
+North Beach Haven, 39.5731, -74.2319
+North Bergen, 40.8042, -74.0125
+North Branch, 40.6019, -74.6778
+North Brunswick, 40.4833, -74.4500
+North Caldwell, 40.8667, -74.2667
+North Cape May, 38.9819, -74.9583
+North Cedarville, 39.3333, -75.2000
+North Center, 40.8000, -74.1833
+North Centerville, 40.4250, -74.1611
+North Church, 41.1000, -74.5833
+North Church Estates, 41.1500, -74.5833
+North Crosswicks, 40.1589, -74.6481
+North Dennis, 39.2011, -74.8544
+North Edison, 40.6000, -74.3778
+North Elizabeth, 40.6667, -74.2167
+North Hackensack, 40.9147, -74.0389
+North Haledon, 40.9550, -74.1864
+North Hanover, 40.0667, -74.4000
+North Hawthorne, 40.9167, -74.1667
+North Highlands Beach, 39.0150, -74.9447
+North Hudson Hospital, 40.7758, -74.0194
+North Long Branch, 40.3131, -73.9844
+North Merchantville, 39.9500, -75.0500
+North Plainfield, 40.6300, -74.4278
+North Port Norris, 39.2686, -75.0272
+North Princeton, 40.3639, -74.6614
+North Stelton, 40.5369, -74.4214
+North Vineland, 39.5261, -75.0228
+North Wildwood, 39.0006, -74.7997
+North Woodbury, 39.8542, -75.1364
+Northfield(Essex), 40.7742, -74.3250
+Northfield(Atlantic), 39.3703, -74.5506
+Northmont, 39.8833, -75.0953
+Northrup, 41.1361, -74.7175
+Northvale, 41.0064, -73.9494
+Northville, 39.5111, -75.2047
+Northwood(Camden), 39.9158, -74.9842
+Northwood(Sussex), 40.9719, -74.6361
+Norton, 40.6572, -74.9794
+Nortonville, 39.7853, -75.4064
+Norwood, 40.9981, -73.9622
+Nottingham, 40.2325, -74.6822
+Nugentown, 39.6114, -74.3558
+Nummytown, 39.0250, -74.8967
+Nutley, 40.8222, -74.1603
+Oak Glen(Monmouth), 40.1692, -74.1978
+Oak Glen(Ocean), 39.9861, -74.1500
+Oak Grove, 40.5342, -74.9547
+Oak Hill(Ocean), 40.0131, -74.1425
+Oak Hill(Monmouth), 40.3667, -74.1347
+Oak Island Junction, 40.7122, -74.1464
+Oak Ridge(Passaic), 41.0461, -74.4864
+Oak Ridge(Ocean), 39.9731, -74.2250
+Oak Ridge Lake, 41.0500, -74.4833
+Oak Shade, 39.8692, -74.7333
+Oak Shades, 40.4167, -74.2333
+Oak Tree, 40.5778, -74.3769
+Oak Valley, 39.8011, -75.1628
+Oakdale, 40.0000, -74.7833
+Oakhurst, 40.2708, -74.0167
+Oakhurst Manor, 40.2603, -74.0125
+Oakland(Bergen), 41.0131, -74.2647
+Oakland(Salem), 39.5986, -75.3417
+Oakland Mills, 40.2331, -74.3447
+Oaklyn, 39.9008, -75.0850
+Oakville, 39.3619, -74.7569
+Oakwood(Ocean), 40.1411, -74.2581
+Oakwood(Burlington), 39.8833, -74.8167
+Oakwood Beach, 39.5550, -75.5189
+Oakwood Lakes, 39.8728, -74.8319
+Oakwood Park, 40.7094, -74.4072
+Ocean, 40.2333, -74.0167
+Ocean Beach, 39.9814, -74.0667
+Ocean City, 39.2775, -74.5750
+Ocean Gate, 39.9267, -74.1342
+Ocean Grove, 40.2119, -74.0069
+Ocean Heights, 39.3292, -74.5878
+Ocean View, 39.1764, -74.7339
+Oceanic, 40.3778, -74.0111
+Oceanport, 40.3181, -74.0156
+Oceanville, 39.4711, -74.4608
+Ogden, 39.8117, -75.2025
+Ogdensburg, 41.0817, -74.5928
+Old Bridge, 40.4147, -74.3658
+Old Charleston Woods, 39.8167, -75.1000
+Old Forge Village, 40.8000, -74.4833
+Old Manor, 40.4333, -74.2167
+Old Mill Farms, 40.3150, -74.6042
+Old Orchard, 39.8167, -75.1000
+Old Tappan, 41.0106, -73.9917
+Oldmans, 39.7567, -75.4306
+Oldwick, 40.6725, -74.7478
+Oliphants Mills, 39.8850, -74.8333
+Olivet, 39.5481, -75.1550
+Ong, 39.9108, -74.6211
+Oradell, 40.9586, -74.0372
+Orange, 40.7706, -74.2331
+Orchard Center, 39.4769, -75.2178
+Orchard Estates, 40.2833, -74.2472
+Orchard Heights, 40.4369, -74.4033
+Orchard View, 40.0658, -74.8744
+Ordmont, 39.7408, -75.4589
+Oriental, 39.8156, -74.7275
+Ormond, 39.3283, -74.9533
+Orston, 39.8833, -75.0667
+Ortley Beach, 39.9539, -74.0719
+Ortley Terrace, 39.9578, -74.0692
+Osage, 39.8503, -75.0072
+Osborn Mills, 40.7217, -74.5311
+Osbornes Mills, 40.1536, -74.0592
+Osbornsville, 40.0383, -74.1081
+Othello, 39.4125, -75.3472
+Outcalt, 40.3772, -74.4078
+Outwater, 40.8833, -74.1000
+Overbrook(Essex), 40.8500, -74.2333
+Overbrook(Camden), 39.8178, -74.9883
+Overbrook Hospital, 40.8506, -74.2433
+Overlook, 40.7125, -74.3519
+Overlook Hospital, 40.7222, -74.3544
+Owens, 41.2636, -74.5283
+Oxford, 40.8031, -74.9900
+Oyster Creek, 39.5042, -74.4169

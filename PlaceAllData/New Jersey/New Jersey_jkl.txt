@@ -1,0 +1,256 @@
+Jackson(Camden), 39.7764, -74.8628
+Jackson(Ocean), 40.1000, -74.3167
+Jacksons Mills, 40.1478, -74.3244
+Jacksonville(Morris), 40.9525, -74.3303
+Jacksonville(Burlington), 40.0503, -74.7639
+Jacobstown, 40.0758, -74.5836
+Jamesburg, 40.3525, -74.4406
+Jamesburg Gardens, 40.3431, -74.4208
+Jamesburg Park, 40.3797, -74.4392
+Janvier, 39.6269, -75.0178
+Jeffers Landing, 39.3181, -74.6522
+Jefferson, 39.7536, -75.2122
+Jeffrey Lane Estates, 39.9167, -74.1500
+Jenkins, 39.6981, -74.5269
+Jericho, 39.4700, -75.3519
+Jericho, 39.8056, -75.1403
+Jersey City, 40.7281, -74.0781
+Jersey Shore Medical Center, 40.2083, -74.0414
+Jerseyville, 40.2392, -74.2297
+Jessups Mill, 39.6617, -75.2308
+Jobstown, 40.0369, -74.6933
+John E. Runnells Hospital, 40.6608, -74.4206
+Johnson Place, 39.8628, -74.6183
+Johnsonburg, 40.9644, -74.8789
+Johnsontown, 39.5236, -74.4603
+Jones Island, 39.3333, -75.2000
+Jones Mill(Burlington), 39.7964, -74.5272
+Jones Mill(Cumberland), 39.3211, -74.9414
+Jordantown, 39.9642, -75.0378
+Journal Square, 40.7333, -74.0667
+Juliustown, 40.0133, -74.6692
+Jumbo, 39.7731, -75.3992
+Jutland, 40.6228, -74.9647
+Kalarama, 40.9658, -74.9925
+Kampe, 41.1669, -74.4567
+Kampfe Lake, 41.0167, -74.3333
+Karrsville, 40.8092, -74.9325
+Kay Gardens, 39.7439, -75.4200
+Keansburg, 40.4417, -74.1303
+Kearny, 40.7683, -74.1458
+Keasbey, 40.5167, -74.3056
+Kendall Park, 40.4208, -74.5611
+Kenilworth, 40.6764, -74.2911
+Kennedy Mills, 40.6608, -75.1136
+Kennedys, 40.6481, -75.1278
+Kenvil, 40.8797, -74.6189
+Kenwood, 39.8167, -75.1000
+Kernan Corner, 39.4533, -75.3333
+Keswick Grove, 39.9506, -74.3444
+Keyport, 40.4331, -74.2000
+Kimbles Beach, 39.1044, -74.8942
+Kimseytown, 39.0011, -74.9350
+King Crab Landing, 39.0769, -74.9106
+Kingfisher Cove, 40.0333, -74.1167
+Kings Hill, 39.8167, -75.1000
+Kings Woods, 40.9517, -73.9258
+Kingsland, 40.8064, -74.1114
+Kingston, 40.3753, -74.6139
+Kingston Estates, 39.9236, -74.9883
+Kingsway Village, 39.8167, -75.1000
+Kingswood, 39.8167, -75.1000
+Kingtown, 40.5936, -74.9467
+Kingwood, 40.4697, -75.0194
+Kinkora, 40.1175, -74.7556
+Kinnelon, 41.0017, -74.3675
+Kirbys Mill, 39.9167, -74.8047
+Kirbys Mills, 40.1286, -74.5394
+Kirkwood, 39.8311, -74.9917
+Kitchell, 41.0069, -74.4650
+Kittatinny Lake, 41.1500, -74.7500
+Klinesville, 40.5414, -74.8814
+Knollwood(Morris), 40.7603, -74.4044
+Knollwood(Camden), 39.8167, -75.1000
+Knowlton, 40.9303, -75.0283
+Kresson, 39.8575, -74.9217
+Lacey, 39.8725, -74.2956
+Lafayette, 41.0983, -74.6889
+Lafayette Mills, 40.3075, -74.3044
+Lahiere, 40.5189, -74.4028
+Lake, 39.5500, -75.0167
+Lake Arrowhead, 40.8833, -74.4833
+Lake Club, 40.1461, -74.2486
+Lake Como, 40.1597, -74.0286
+Lake Denmark, 40.8833, -74.5667
+Lake Forest, 40.9167, -74.6500
+Lake Grinnell, 41.1000, -74.6333
+Lake Hiawatha, 40.8825, -74.3819
+Lake Hopatcong, 40.9483, -74.6175
+Lake Iliff, 41.0500, -74.7500
+Lake Intervale, 40.9000, -74.4167
+Lake Junction, 40.9053, -74.6011
+Lake Lackawanna, 40.9167, -74.7000
+Lake Lenape, 41.0000, -74.7333
+Lake Lookover, 41.1333, -74.3000
+Lake Mohawk, 41.0167, -74.6500
+Lake Nelson, 40.5667, -74.4500
+Lake Owassa, 41.0500, -74.7500
+Lake Parsippany, 40.8500, -74.4292
+Lake Pine, 39.8658, -74.8497
+Lake Ridge, 40.4167, -74.2333
+Lake Riviera, 40.0333, -74.1167
+Lake Shawnee, 40.9000, -74.5833
+Lake Stockholm, 41.0667, -74.5333
+Lake Swannanoa, 41.0500, -74.4833
+Lake Tamarack, 41.0833, -74.5167
+Lake Telemark, 40.9567, -74.4983
+Lake View, 40.8919, -74.1469
+Lake Villa Estates, 39.8167, -74.9667
+Lakehurst, 40.0144, -74.3117
+Lakehurst Naval Air Station, 40.0167, -74.3167
+Lakeland, 39.7853, -75.0758
+Lakeside, 41.1817, -74.3364
+Lakeside Park, 40.1928, -74.6875
+Lakeview, 40.1833, -74.5833
+Lakeview Terrace, 39.7050, -74.2778
+Lakewood, 40.0978, -74.2181
+Lakewood Corner Estates, 40.0311, -74.2297
+Lambertville, 40.3658, -74.9433
+Lambs Terrace, 39.7706, -75.0431
+Lamington, 40.6608, -74.7178
+Land of Pines, 40.1581, -74.2292
+Landing, 40.9050, -74.6656
+Landisville, 39.5247, -74.9386
+Landsdown, 40.6500, -74.8833
+Lanes Mills, 40.0911, -74.1531
+Lanoka Harbor, 39.8667, -74.1683
+Lansdowne, 40.6083, -74.9067
+Larisons Corner, 40.4414, -74.8567
+Larrabees, 40.1144, -74.1967
+Laurel Acres, 40.0333, -74.1167
+Laurel Farms, 40.6931, -74.7811
+Laurel Harbor, 39.8603, -74.1344
+Laurel Homes, 40.5167, -74.2833
+Laurel Lake, 39.3394, -75.0303
+Laurel Manor(Camden), 39.8000, -75.0000
+Laurel Manor(Ocean), 40.0333, -74.1167
+Laurel Park, 40.4569, -74.3139
+Laurel Springs, 39.8200, -75.0067
+Laureldale, 39.4992, -74.6856
+Laurelhurst, 40.0333, -74.1167
+Laurelton, 40.0686, -74.1308
+Laurelton Acres, 40.0333, -74.1167
+Laurelton Heights, 40.0333, -74.1167
+Laurelton Park, 40.0333, -74.1167
+Laurence Harbor, 40.4567, -74.2469
+Lavallette, 39.9703, -74.0692
+Lawnside, 39.8664, -75.0286
+Lawrence, 40.2739, -74.6800
+Lawrence Brook, 40.4167, -74.3833
+Lawrence Brook Manor, 40.4722, -74.4161
+Lawrence Corner, 39.5494, -75.1356
+Lawrenceville, 40.2972, -74.7300
+Layton, 41.2161, -74.8233
+Leamings Mill, 39.4028, -74.9797
+Lebanon, 40.6417, -74.8364
+Lebanon Lake Estates, 39.9069, -74.5650
+Lebanon Lakes, 39.9667, -74.5667
+Lebanon Park, 39.9333, -74.7500
+Ledgewood, 40.8811, -74.6564
+Leeds Point, 39.4919, -74.4294
+Leektown, 39.6244, -74.4675
+Leesburg, 39.2567, -74.9878
+Leesville, 40.1336, -74.3828
+Legler, 40.0506, -74.3353
+Leisure Village, 40.0425, -74.1853
+Leisure World, 40.3500, -74.4333
+Leisuretowne, 39.8922, -74.7025
+Lenola, 39.9622, -74.9828
+Leonardo, 40.4172, -74.0625
+Leonards, 39.8422, -75.2064
+Leonardville, 40.4061, -74.0422
+Leonia, 40.8614, -73.9886
+Levittown, 40.0500, -74.8833
+Lewisburg, 41.1967, -74.6125
+Lewistown, 40.0061, -74.6486
+Lewisville, 40.2889, -74.7264
+Liberty, 40.8667, -74.9500
+Liberty Corner, 40.6647, -74.5778
+Liberty Square, 40.6500, -74.1942
+Libertyville, 41.2397, -74.6547
+Lincoln, 39.6694, -75.2411
+Lincoln Park, 40.5200, -74.3858
+Lincroft, 40.3306, -74.1214
+Linden, 40.6219, -74.2450
+Lindeneau, 40.5333, -74.3667
+Lindenwold, 39.8242, -74.9981
+Lindy Lake, 41.0000, -74.3500
+Linvale, 40.3931, -74.8361
+Linwood(Bergen), 40.8631, -73.9681
+Linwood(Atlantic), 39.3397, -74.5756
+Lippincotts Corner, 39.9292, -74.7775
+Little Brook, 40.7411, -74.8614
+Little Egg Harbor, 39.6167, -74.3500
+Little Falls, 40.8689, -74.2086
+Little Ferry, 40.8528, -74.0425
+Little Rocky Hill, 40.3975, -74.5892
+Little Silver, 40.3367, -74.0475
+Little Silver Point, 40.3356, -74.0292
+Little York, 40.6111, -75.0764
+Littleton, 40.8433, -74.4631
+Littletown, 40.5750, -74.9639
+Livingston, 40.7958, -74.3153
+Livingston Park, 40.4833, -74.4500
+Llewellyn Park, 40.7875, -74.2417
+Loantaka Estates, 40.7722, -74.4406
+Loch Arbour, 40.2328, -74.0014
+Locktown, 40.4847, -74.9703
+Lockwood, 40.9206, -74.7197
+Locust, 40.3944, -74.0267
+Locust Corner, 40.2844, -74.5619
+Locust Grove, 39.8919, -74.9553
+Locust Manor, 40.0500, -74.2328
+Locustwood, 39.9242, -75.0286
+Lodi, 40.8822, -74.0836
+Logan, 39.8000, -75.3500
+Logansville, 40.7258, -74.5222
+Lommasons Glen, 40.7942, -75.0833
+Long Beach, 39.6856, -74.1453
+Long Beach Park, 39.7153, -74.1303
+Long Branch, 40.3042, -73.9928
+Long Bridge, 40.9200, -74.8406
+Long Hill, 40.7078, -74.4300
+Long Valley, 40.7858, -74.7806
+Longport, 39.3142, -74.5253
+Longwood Lake, 41.0500, -74.4833
+Lopatcong, 40.7000, -75.1667
+Lores Mill, 39.2839, -75.0658
+Lorillard Beach, 40.4333, -74.1833
+Lorraine, 40.6667, -74.2667
+Louden, 39.7756, -74.8750
+Loudes Hospital, 39.9275, -75.0953
+Loveladies, 39.7236, -74.1342
+Low Moor, 40.3497, -73.9739
+Lower, 38.9833, -74.9167
+Lower Alloways Creek, 39.4833, -75.4167
+Lower Bank, 39.6033, -74.5483
+Lower Berkshire Valley, 40.9000, -74.5833
+Lower Fairmount, 40.7058, -74.7753
+Lower Forge, 39.7247, -74.6733
+Lower Harmony, 40.7364, -75.1411
+Lower Longwood, 40.9647, -74.5650
+Lower Mill, 39.9444, -74.6092
+Lower Montville, 40.9006, -74.3650
+Lower Squankum, 40.1586, -74.1572
+Lower Valley, 40.7267, -74.8442
+Lows Hollow, 40.7139, -75.1144
+Loyds Corner, 39.3606, -75.3011
+Lozier Park, 40.9500, -74.0333
+Lucaston, 39.8183, -74.9678
+Lumberton, 39.9658, -74.8056
+Lummistown, 39.3508, -75.1794
+Lyndhurst, 40.8119, -74.1247
+Lynn Oaks, 40.5833, -74.3167
+Lynn Woodoaks, 40.5889, -74.3336
+Lyons, 40.6853, -74.5475
+Lyonsville, 40.9567, -74.4400
