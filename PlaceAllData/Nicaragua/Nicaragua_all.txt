@@ -1,0 +1,102 @@
+Acoyapa, 11.9667, -85.1667
+Altagracia, 11.5667, -85.5833
+Barra de Río Grande, 12.9000, -83.5333
+Barra Punta Gorda, 11.5167, -83.7833
+Belén, 11.5000, -85.8833
+Bilwaskarma, 14.7500, -83.8833
+Bluefields, 12.0000, -83.7500
+Boaco, 12.4667, -85.6667
+Bocay, 14.3167, -85.1667
+Bonanza, 14.0167, -84.5833
+Cabo Gracias a Dios, 14.9833, -83.1667
+Camoapa, 12.3833, -85.5167
+Chichigalpa, 12.5667, -87.0333
+Chinandega, 12.6167, -87.1500
+Cinco Pinos, 13.2333, -86.8667
+Ciudad Darío, 12.7167, -86.1333
+Comalapa, 12.2833, -85.5167
+Condega, 13.3500, -86.4000
+Corinto, 12.4833, -87.1667
+Cárdenas, 11.2000, -85.5167
+Diriamba, 11.8500, -86.2333
+Diriomo, 11.8667, -86.0500
+El Bluff, 11.9833, -83.6667
+El Castillo, 11.0167, -84.4000
+El Jícaro, 13.7167, -86.1333
+El Rama, 12.1500, -84.2500
+El Sauce, 12.8833, -86.5333
+El Viejo, 12.6667, -87.1667
+Esquipulas, 12.6667, -85.7833
+Estelí, 13.0833, -86.3833
+Granada, 11.9333, -85.9500
+Greytown > San Juan del Norte, 10.9167, -83.7000
+Jalapa, 13.9167, -86.1333
+Jinotega, 13.1000, -86.0000
+Jinotepe, 11.8500, -86.2000
+Juigalpa, 12.0833, -85.4000
+La Cruz de Río Grande, 13.1000, -84.1667
+La Libertad, 12.2167, -85.1667
+La Paz Centro, 12.3333, -86.6833
+La Trinidad, 12.9667, -86.2333
+Larreynaga, 12.6667, -86.5667
+Las Torres, 13.4667, -85.8000
+León, 12.4333, -86.8833
+Malpaisillo, 12.5833, -86.6833
+Managua, 12.1500, -86.2833
+Masachapa, 11.7833, -86.5167
+Masatepe, 11.9167, -86.1500
+Masaya, 11.9667, -86.1000
+Matagalpa, 12.9167, -85.9167
+Mateare, 12.2333, -86.4333
+Matiguás, 12.8333, -85.4667
+Mina el Limón, 12.7500, -86.7333
+Moyogalpa, 11.5333, -85.7000
+Muelle de los Bueyes, 12.0667, -84.5333
+Muy Muy, 12.7667, -85.6333
+Nagarote, 12.2667, -86.5667
+Nandaime, 11.7667, -86.0500
+Nindirí, 12.0000, -86.1333
+Ocotal, 13.6333, -86.4833
+Prinzapolka, 13.4000, -83.5667
+Pueblo Nuevo, 13.3833, -86.4833
+Puerto Cabezas, 14.0333, -83.3833
+Puerto Morazán, 12.8500, -87.1833
+Puerto Morrito, 11.6167, -85.0833
+Puerto Somoza, 12.2000, -86.7667
+Quilalí, 13.5667, -86.0333
+Raití, 14.5833, -85.0333
+Rivas, 11.4333, -85.8333
+Rosita, 13.8833, -84.4000
+San Carlos, 11.1167, -84.7833
+San Dionisio, 12.7500, -85.8500
+San Franciscó del Carnicero, 12.5000, -86.3000
+San Isidro, 12.9333, -86.2000
+San Jorge, 11.4500, -85.8000
+San José de Achuapa, 13.0500, -86.5833
+San Juan de Limay, 13.1667, -86.6167
+San Juan del Norte, 10.9167, -83.7000
+San Juan del Sur, 11.2500, -85.8667
+San Lorenzo, 12.3833, -85.6667
+San Miguelito, 11.4000, -84.9000
+San Pedro del Norte, 13.0667, -84.5500
+San Rafael del Norte, 13.2000, -86.1000
+San Rafael del Sur, 11.8500, -86.4500
+San Sebastián de Yalí, 13.3000, -86.1833
+San Ubaldo, 11.8500, -85.3333
+Santo Domingo, 12.2667, -85.0833
+Santo Tomás, 12.0667, -85.0833
+Santo Tomás de Nance, 13.1833, -86.9333
+Siuna, 13.7333, -84.7667
+Somotillo, 13.0333, -86.9167
+Somoto, 13.4667, -86.5833
+Sébaco, 12.8500, -86.1000
+Telpaneca, 13.5333, -86.2833
+Tipitapa, 12.2000, -86.1000
+Tisma, 12.0833, -86.0167
+Tungla, 13.3000, -84.4333
+Villa el Carmen, 11.9833, -86.5167
+Villa Somoza, 12.0500, -84.9833
+Villanueva, 12.9667, -86.8167
+Waspam, 14.7333, -83.9667
+Wounta, 13.5500, -83.5333
+Yablis, 14.1667, -83.8167
