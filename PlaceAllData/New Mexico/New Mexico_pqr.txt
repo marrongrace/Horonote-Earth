@@ -1,0 +1,213 @@
+P Simmons Place, 35.2319, -106.1178
+Pacheco Village, 35.9631, -105.3831
+Page, 35.3211, -108.4400
+Paguate, 35.1386, -107.3783
+Pajarita, 35.4719, -105.6444
+Pajarito(Santa Fe), 35.9053, -106.1267
+Pajarito(Bernalillo), 34.9864, -106.6961
+Pajarito Acres, 35.8500, -106.2667
+Palma, 34.9786, -105.4653
+Palmer Plaza, 36.7667, -108.1667
+Palomas, 35.1283, -103.9172
+Paquita, 34.8653, -106.7764
+Paradise Hills, 35.2006, -106.7006
+Paraje(Casa Blanca P O), 35.0553, -107.4750
+Park Springs, 35.2619, -104.9281
+Park View, 36.7294, -106.5706
+Pastura, 34.7828, -104.9442
+Paxton Springs, 35.0392, -108.0661
+Payne Place, 34.5667, -107.3944
+Pecos, 35.5742, -105.6744
+Pecos Valley Medical Center, 35.5742, -105.6744
+Pedernal, 34.6431, -105.6206
+Pen Place Windmill, 32.7711, -103.6539
+Pena Blanca, 35.5728, -106.3364
+Penasco, 36.1694, -105.6858
+Penasco Blanco, 35.8672, -105.3483
+Pendaries, 35.8500, -105.4333
+Penistaja, 35.9686, -107.2203
+Pennington, 36.3053, -103.6328
+Pep, 33.8361, -103.3350
+Peralta, 34.8369, -106.6900
+Perea, 35.5044, -108.5183
+Peruhill, 32.3031, -107.8064
+Pescado, 35.1058, -108.5797
+Petaca, 36.5083, -106.0100
+Peveler Place, 33.1450, -103.4306
+Philadelphia, 35.0394, -107.5111
+Philmont, 36.5167, -104.9167
+Picacho(Dona Ana), 32.3247, -106.8492
+Picacho(Lincoln), 33.3517, -105.1444
+Picuris, 36.1833, -105.7167
+Picuris Indian Reservation, 36.2000, -105.7167
+Picuris Pueblo, 36.2008, -105.7094
+Pie Town, 34.2983, -108.1342
+Piedra de la Aguila, 35.5844, -107.7433
+Piedra Lumbre, 35.1558, -107.2403
+Pierce, 31.4561, -108.3397
+Pierce Canyon Crossing, 32.1892, -103.9775
+Pilar, 36.2697, -105.7875
+Pine, 35.5667, -105.6667
+Pine Lodge, 33.6231, -105.2444
+Pine Springs, 34.9656, -106.2331
+Pine View, 36.1833, -105.6667
+Pinedale, 35.6039, -108.4464
+Pinehaven, 35.3328, -108.6697
+Pines, 35.7803, -106.4364
+Pineywoods Estates, 32.9500, -105.7500
+Pino Place, 34.5703, -107.4450
+Pinon, 32.6181, -105.3939
+Pinon Hills Hospital, 35.6833, -105.9625
+Pinos Altos(Grant), 32.8633, -108.2208
+Pinos Altos(San Miguel), 35.1631, -105.3908
+Pinoswells, 34.3667, -105.7000
+Pintada, 34.8822, -105.0717
+Place Windmill, 34.8169, -107.2481
+Placita, 36.1833, -105.6667
+Placitas(Rio Arriba), 36.4458, -106.4411
+Placitas(Dona Ana), 32.6650, -107.1681
+Placitas(Sierra), 33.3772, -107.4325
+Placitas(Sandoval), 35.3069, -106.4242
+Playas, 31.9689, -108.6081
+Plaza Blanca, 36.7039, -106.6078
+Pleasant Hill, 34.5203, -103.0733
+Pleasanton, 33.2722, -108.8722
+Point of Sands, 32.7469, -106.1953
+Pojoaque, 35.8928, -106.0225
+Pojoaque Indian Reservation, 35.9000, -106.0167
+Pojoaque Valley, 35.6667, -105.9500
+Polich Place, 35.3603, -108.4911
+Polly, 33.5753, -105.9572
+Polvadera, 34.2047, -106.9211
+Ponderosa, 35.6600, -106.6669
+Ponderosa Heights, 33.3444, -105.6831
+Ponderosa Pines, 34.9769, -106.3236
+Portair, 34.4053, -103.3014
+Portales, 34.1861, -103.3339
+Porter(Quay), 35.2156, -103.3128
+Porter(Sandoval), 35.8189, -106.7864
+Pot Creek, 36.4167, -105.5667
+Potato Patch, 33.7553, -108.9078
+Pothook, 31.9747, -108.4944
+Potrillo, 31.8017, -106.9922
+Prairieview, 33.0967, -103.1969
+Presbyterian Hospital, 35.0822, -106.6344
+Prewitt, 35.3628, -108.0433
+Progreso, 34.4778, -105.8806
+Pronto, 32.1242, -107.0625
+Public Health Services Indian Hospital, 35.0839, -106.6150
+Pueblito(Rio Arriba), 36.0747, -106.0767
+Pueblito(Socorro), 34.1219, -106.8781
+Pueblitos, 34.6231, -106.7772
+Pueblo Pintado, 35.9772, -107.6728
+Puertecito(Sandoval), 35.2753, -106.2964
+Puertecito(Socorro), 34.4481, -107.3922
+Puerto De Luna, 34.8319, -104.6208
+Puertocito, 35.9172, -105.3014
+Puertocito Indian Reservation, 34.4500, -107.4000
+Punta de Agua, 34.6000, -106.2833
+Puye, 35.9717, -106.2297
+Quarris Acres, 32.9500, -105.7500
+Quarteles, 35.9919, -106.0131
+Quay, 34.9339, -103.7600
+Queen, 32.1908, -104.7453
+Quemado, 34.3439, -108.4950
+Querinda Park, 36.7000, -105.4000
+Questa, 36.7039, -105.5944
+Questa Health Center, 36.7039, -105.5944
+Radium Springs, 32.5011, -106.9275
+Ragland, 34.8225, -103.7417
+Rain Place, 35.2803, -103.0658
+Rainsville, 35.9786, -105.2086
+Ramah, 35.1331, -108.4911
+Ramah Indian Reservation, 35.0000, -108.3333
+Ramon, 34.2328, -104.8994
+Ramsdale Place, 33.8022, -105.7228
+Ranches of Taos, 36.3586, -105.6089
+Ranchito(Sandoval), 35.3486, -106.5261
+Ranchito(Taos), 36.4042, -105.5972
+Ranchitos, 36.0281, -106.0633
+Rancho del Monte, 35.7997, -105.9214
+Rancho Valle, 35.9856, -106.0086
+Ranchos De Taos, 36.3586, -105.6089
+Ranchos Lake Conchas, 35.3667, -104.1833
+Ranchvale, 34.4925, -103.3183
+Rastus Place, 33.0125, -108.4228
+Raton, 36.9033, -104.4386
+Rattlesnake, 36.7553, -108.8014
+Rayado, 36.3686, -104.9264
+Recheulos, 36.0528, -106.3383
+Red Bluff, 32.0739, -104.0397
+Red Hill, 34.2186, -108.8717
+Red Mill, 34.2953, -106.7494
+Red River, 36.7081, -105.4056
+Red Rock, 35.4542, -108.7553
+Redrock, 32.6861, -108.7375
+Redstone, 32.9392, -108.1969
+Regina, 36.1842, -106.9561
+Rehoboth, 35.5289, -108.6542
+Rehoboth McKinley Christian Hospital, 35.5289, -108.6542
+Rencona, 35.3025, -105.6628
+Reservation, 35.8167, -108.7333
+Reserve, 33.7131, -108.7572
+Reventon, 33.7950, -105.6394
+Ribera, 35.3736, -105.4481
+Ricardo, 34.3906, -104.3847
+Richland, 33.8217, -103.2653
+Riley, 34.3806, -107.2292
+Riley Place, 34.8111, -106.3358
+Rincon, 32.6728, -107.0642
+Rincon Montoso, 35.7667, -105.2500
+Rinconado, 36.2183, -105.8728
+Ring Place, 36.7722, -105.1206
+Rio Chama, 36.2167, -106.2167
+Rio Chiquito, 36.0025, -105.9042
+Rio Grande, 34.1500, -106.8667
+Rio Grande Estates, 34.6667, -106.7667
+Rio Lucio, 36.1956, -105.7250
+Rio Pueblo, 36.1853, -105.6381
+Rio Puerco(Rio Arriba), 36.2108, -106.5839
+Rio Puerco(Valencia), 34.7931, -106.9931
+Rio Rancho, 35.3333, -106.5833
+Rio Rancho Estates, 35.2386, -106.6667
+Rio Valle Recovery center, 35.6869, -105.9372
+Rito de las Sillas, 36.1833, -106.5667
+Rivajana, 35.3381, -106.5353
+River Mill, 33.2933, -104.7547
+Riverside(Eddy), 32.8333, -104.4167
+Riverside(Grant), 32.9317, -108.5953
+Riverside(Lincoln), 33.3328, -105.0597
+Riverside(San Juan), 36.9825, -107.8747
+Riverside(Lio Arriba), 35.9922, -106.0664
+Roberson Place, 33.4775, -106.1511
+Robertson Wells, 33.6994, -103.9217
+Robin Hood Park, 32.9500, -105.7500
+Robsart, 33.7364, -105.8325
+Rociada, 35.8322, -105.4203
+Rock Cabin(Freeman), 31.7231, -108.8694
+Rock Canyon, 33.2236, -107.2089
+Rock Springs, 35.5167, -108.7333
+Rock Wall, 36.1767, -105.6203
+Rodarte, 36.1519, -105.6722
+Rodeo, 31.8353, -109.0306
+Rodey, 32.6567, -107.1353
+Rogers, 33.9817, -103.2300
+Romero, 35.5361, -105.2239
+Romero Place(Torrance), 34.6436, -106.2961
+Romero Place(Cibola), 34.8700, -107.3992
+Romeroville, 35.5228, -105.2442
+Roosevelt General Hospital, 34.1861, -103.3339
+Rosario, 35.4803, -106.2269
+Rose Place, 32.0719, -103.7258
+Rosebud, 35.8411, -103.4450
+Rosebud Farms, 35.8128, -103.4242
+Roswell, 33.3942, -104.5225
+Rouse Place, 33.4467, -107.6189
+Rowe, 35.4917, -105.6747
+Roy, 35.9439, -104.1956
+Royce, 36.4869, -103.3128
+Ruidoso, 33.3317, -105.6725
+Ruidoso Downs, 33.3289, -105.6039
+Rutheron, 36.7186, -106.6111
+Rutter, 32.0214, -106.8744
+Ruyle Place, 33.8497, -108.9203

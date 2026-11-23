@@ -1,0 +1,171 @@
+D Candelaria Place, 34.6147, -106.3614
+Dahlia, 35.1214, -105.2764
+Dalies, 34.7719, -106.8600
+Dalton Pass, 35.6833, -108.1500
+Danvik Place, 34.9633, -106.2222
+Datil, 34.1450, -107.8431
+Davies Place, 34.2175, -108.7825
+Dawson, 36.6642, -104.7742
+Dayton, 32.7314, -104.3847
+De Baca General Hospital, 34.4717, -104.2450
+De Vargas Shopping Center, 35.6667, -105.9500
+Deer, 31.3822, -108.6300
+Deer Creek Landing, 35.7442, -106.7742
+Deer Creek Wells, 31.4344, -108.6906
+Deer Lake, 35.9961, -106.8586
+Deering Place, 33.9544, -104.2897
+Defiance, 35.4906, -108.8958
+Del Norte, 33.3333, -105.6667
+Delphos, 34.0753, -103.4919
+Deming, 32.2686, -107.7581
+Dennison Place, 35.2550, -106.0497
+Derramadero, 34.8281, -105.3342
+Derry, 32.7881, -107.2817
+Des Moines, 36.7611, -103.8336
+Desert Hills Center, 35.1175, -106.7036
+Dexter, 33.1972, -104.3725
+Diamante Mill, 33.3283, -104.8383
+Diener, 35.1747, -108.1267
+Dilia, 35.1931, -105.0631
+Dillon, 36.8656, -104.4558
+Dixon, 36.1986, -105.8881
+Dog Canyon Estates, 32.9167, -105.9500
+Domingo, 35.5108, -106.3208
+Dona, 32.2106, -107.2606
+Dona Ana, 32.3894, -106.8133
+Dora, 33.9386, -103.3361
+Dos Tristes, 35.2553, -107.2364
+Double Adobes, 31.6450, -108.7553
+Double Crossing, 33.5261, -105.4397
+Double Mills, 35.0656, -104.5225
+Douthit Place, 35.2639, -105.6578
+Downtown, 35.0833, -106.6500
+Dr. Dan C. Trigg Memorial Hospital, 35.1717, -103.7244
+Dr. J.I. Dunham Memorial Clinic, 36.9031, -106.5789
+Dulce, 36.9336, -106.9983
+Dummoor, 34.6297, -105.7044
+Dunken, 32.8128, -105.2019
+Dunlap, 34.0847, -104.5281
+Dunn Place(Torrance), 34.9933, -106.1542
+Dunn Place(Sierra), 33.0583, -107.7256
+Duran, 34.4672, -105.3964
+Duranes, 36.2689, -106.0517
+Dusty, 33.6333, -107.6500
+Dwyer(Faywood P O), 32.6283, -107.8664
+E Davis Place, 34.9131, -106.0894
+Eagle Nest(Colfax), 36.5547, -105.2631
+Eagle Nest(McLinley), 35.4383, -107.3239
+Eakins, 31.7208, -108.8242
+East De Baca, 34.3500, -104.1667
+East Grand Plains, 33.3356, -104.4369
+East Pecos, 35.5736, -105.6633
+East Vaughn, 34.6000, -105.2167
+Eastern New Mexico Medical Center, 33.4242, -104.5278
+Eaton Place, 31.6806, -108.9361
+Edgal Place, 32.6808, -108.5811
+Edgewood, 35.0614, -106.1908
+El Alto, 35.9789, -105.3075
+El Ancon, 35.3894, -105.4583
+El Cerrito, 35.3000, -105.3667
+El Cerro, 34.7269, -106.7103
+El Curuco, 36.2069, -106.3225
+El Dado, 35.5156, -107.5167
+El Duende, 36.0742, -106.1194
+El Guacho, 36.0067, -106.0864
+El Huerfano, 36.7167, -107.9833
+El Llanito, 35.3300, -106.5308
+El Llano(Rio Arriba), 36.0156, -106.0439
+El Llano(San Miguel), 35.6461, -105.2697
+El Macho, 35.6747, -105.6897
+El Monte Rojo, 36.3342, -106.4939
+El Morro, 35.0444, -108.3197
+El Ojito, 32.0053, -106.6775
+El Padro, 36.4317, -105.5742
+El Portero, 36.0000, -105.9333
+El Porvenir, 35.6967, -105.3822
+El Prado, 36.4333, -105.5833
+El Pueblo, 35.3667, -105.4500
+El Rancho, 35.8892, -106.0792
+El Rancho Loma Linda, 36.1833, -105.6667
+El Refugio, 35.1175, -106.3375
+El Renz-O-Ranch, 36.5500, -105.2667
+El Rincon de los Trujillos, 36.0000, -105.9333
+El Rito(Taos), 36.8000, -105.5672
+El Rito(Cibola), 34.9992, -107.2994
+El Rito(Rio Arriba), 36.3433, -106.1881
+El Turquillo, 36.0797, -105.2506
+El Vado, 36.5939, -106.7281
+El Valle, 36.1103, -105.7261
+Elephant Butte, 33.1486, -107.1842
+Elida, 33.9467, -103.6561
+Elizaabethtown, 36.6192, -105.2839
+Elk, 32.9431, -105.3339
+Elkins, 33.6944, -104.0544
+Eller Place, 32.0225, -107.9728
+Elwood, 32.2936, -106.1367
+Embudo, 36.2075, -105.9606
+Embudo Presbyterian Hospital, 36.2108, -105.9053
+Emplazado, 35.7394, -105.1889
+En Medio, 35.8258, -105.9039
+Enchanted Hills, 33.3333, -105.6667
+Encinal, 35.1172, -107.4642
+Encino, 34.6511, -105.4611
+Encino Medical Plaza, 35.0883, -106.6314
+Encinoso, 33.6856, -105.4828
+Endee, 35.1378, -103.1072
+Engle, 33.1769, -107.0308
+Ensenada, 36.7272, -106.5328
+Escabosa, 34.9250, -106.2894
+Escondida, 34.1014, -106.8958
+Espanola, 35.9911, -106.0800
+Espanola Hospital, 35.9911, -106.0800
+Espuela, 32.9297, -104.3872
+Estaca, 36.1119, -106.0581
+Estancia, 34.7583, -106.0553
+Estes City, 33.5767, -106.2669
+Estes Place, 32.8853, -108.9206
+Eunice, 32.4372, -103.1586
+Evanola, 34.4158, -104.4936
+Fairacres, 32.3039, -106.8461
+Fairbanks, 33.3531, -104.4850
+Fairview, 36.0097, -106.0639
+Farley, 36.3528, -104.0386
+Farmington, 36.7281, -108.2181
+Farmington Community Health Center, 36.7281, -108.2181
+Faywood, 32.5000, -108.0000
+Faywood Hot Springs, 32.5542, -107.9936
+Fence Lake, 34.6533, -108.6772
+Field, 34.6286, -103.5650
+Fierro, 32.8453, -108.0775
+Five Points, 35.0661, -106.6661
+Fivemile Crossing, 36.6919, -107.7528
+Flora Vista, 36.7944, -108.0797
+Florida(Luna), 32.4158, -107.5761
+Florida(Scorro), 34.0911, -106.8978
+Floyd, 34.2142, -103.5800
+Flume Canyon, 33.3333, -105.6667
+Flying H, 33.0333, -105.1333
+Folsom, 36.8450, -103.9172
+Forest Heights, 33.3333, -105.6667
+Forest Park, 35.1164, -106.3719
+Forrest, 34.7947, -103.6008
+Fort Bayard, 32.7961, -108.1497
+Fort Bayard Hospital, 32.7994, -108.1481
+Fort Bayard State Hospital, 32.7994, -108.1481
+Fort Bayard State Medical Center, 32.7942, -108.1500
+Fort Selden, 32.4836, -106.9125
+Fort Stanton, 33.4958, -105.5225
+Fort Sumner, 34.4717, -104.2450
+Fort Wingate, 35.4678, -108.5406
+Fort Wingate Army Depot, 35.5167, -108.7333
+Four Forks, 32.3903, -104.3597
+Four Points, 32.2650, -106.7856
+Four Wells, 32.3731, -104.7167
+Francisco Rascon Place, 33.0117, -107.6222
+Franks Place, 33.4064, -107.8031
+French, 36.4742, -104.5578
+French Corners, 36.3667, -104.5833
+Frijoles(Bandelier National Monument HQ), 35.7789, -106.2706
+Frijoles Spring, 36.1611, -106.3700
+Frontier Post, 32.6886, -104.3947
+Fruitland, 36.7392, -108.3950

@@ -1,0 +1,192 @@
+Sabinal, 34.4936, -106.8069
+Sabino, 35.9906, -103.9589
+Sabinoso, 35.6989, -104.4075
+Sacramento, 32.7925, -105.5600
+Sais, 34.4653, -106.5122
+Saiz Place, 34.6522, -106.3264
+Salado, 34.5878, -104.4111
+Salem, 32.7075, -107.2125
+Salinas, 33.2350, -106.0597
+Salt Lake, 34.4533, -108.7692
+San Acacia, 34.2553, -106.8989
+San Antonio(Bernalillo), 35.1019, -106.3772
+San Antonio(San Miguel), 35.6286, -105.2447
+San Antonio(Socorro), 33.9178, -106.8653
+San Antonio de Padua del Ran, 35.6667, -105.9500
+San Antonito(Socorro), 33.8928, -106.8739
+San Antonito(Bernalillo), 35.1631, -106.3469
+San Augustin(Lourdes P O), 35.4578, -105.1453
+San Cristobal, 36.5964, -105.6389
+San Cristoval, 35.2667, -106.0167
+San Felipe Indian Reservation, 35.4333, -106.4500
+San Felipe Pueblo, 35.4339, -106.4461
+San Fidel, 35.0822, -107.5986
+San Francisco, 34.3958, -106.8386
+San Francisco Plaza, 33.6933, -108.7656
+San Geronimo(San Miguel), 35.5800, -105.3947
+San Geronimo(Socorro), 34.3342, -106.8725
+San Ignacio(Guadalupe), 34.9133, -104.9453
+San Ignacio(San Miguel), 35.7711, -105.3539
+San Ildefonso, 35.8833, -106.1167
+San Ildefonso Indian Reservation, 35.8833, -106.1167
+San Ildefonso Pueblo, 35.8919, -106.1178
+San Jon, 35.1075, -103.3281
+San Jose(Eddy), 32.4081, -104.2311
+San Jose(San Miguel), 35.3972, -105.4744
+San Jose(Rio Arriba), 36.0392, -106.0975
+San Juan(Grant), 32.7608, -107.9047
+San Juan(San Miguel), 35.1456, -105.3650
+San Juan Indian Reservation, 36.0500, -106.0667
+San Juan Pueblo, 36.0528, -106.0700
+San Juan Regional Medical center, 36.7281, -108.2181
+San Lorenzo(Rio Arriba), 36.0486, -106.2847
+San Lorenzo(Grant), 32.8100, -107.9194
+San Luis, 35.6825, -107.0500
+San Marcial, 33.7000, -106.9867
+San Mateo, 35.3314, -107.6425
+San Mateo Springs, 35.3333, -107.6500
+San Miguel(San Migel), 35.3667, -105.4500
+San Miguel(Dona Ana), 32.1553, -106.7344
+San Miguel(Sandoval), 35.9131, -106.9131
+San Miguel(Rio Arriba), 36.9614, -106.1600
+San Pablo(Sandoval), 35.9450, -106.9106
+San Pablo(San Miguel), 35.5469, -105.3986
+San Pablo(Dona Ana), 32.2494, -106.7722
+San Patricio, 33.4089, -105.3264
+San Pedro(Rio Arriba), 35.9853, -106.0639
+San Pedro(Santa Fe), 35.2397, -106.2089
+San Pedro(Socorro), 33.9103, -106.8417
+San Rafael(Cibola), 35.1125, -107.8819
+San Rafael(San Miguel), 35.4667, -104.4167
+San Ramon, 35.5464, -104.4169
+San Sebastian, 35.5833, -105.9833
+San Vincente, 32.6411, -108.2075
+San Ysidro, 35.5633, -106.7700
+Sanchez, 35.6272, -104.4228
+Sanchez Place(McKinley), 35.3128, -108.3861
+Sanchez Place(Torrance), 34.6256, -106.2919
+Sanctuario, 35.9897, -105.9331
+Sand Corner, 35.0981, -108.3283
+Sand Springs, 35.4722, -103.2828
+Sandia, 34.8253, -106.8381
+Sandia Indian Reservation, 35.2500, -106.5667
+Sandia Knoll, 35.1667, -106.3667
+Sandia Park, 35.1678, -106.3650
+Sandia Pueblo, 35.2558, -106.5714
+Sandia Vista, 35.0847, -106.5228
+Sands, 35.4050, -105.4908
+Sanostee, 36.4247, -108.8736
+Santa Ana, 35.4792, -105.2950
+Santa Ana Indian Reservation, 35.4333, -106.6167
+Santa Ana Pueblo, 35.4289, -106.6183
+Santa Clara, 35.9697, -106.0864
+Santa Clara Indian Reservation, 35.9667, -106.0833
+Santa Clara Pueblo, 35.9656, -106.0881
+Santa Cruz, 35.9922, -106.0467
+Santa Fe, 35.6869, -105.9372
+Santa Rita, 32.8036, -108.0603
+Santa Rosa, 34.9386, -104.6819
+Santana Place, 33.4328, -107.8014
+Santo Domingo, 35.5667, -106.4333
+Santo Domingo Indian Reservation, 35.5167, -106.3667
+Santo Domingo Pueblo, 35.5147, -106.3653
+Santo Nino, 36.0028, -106.0628
+Santo Tomas, 32.1817, -106.7456
+Sapello, 35.7728, -105.2528
+Satathite Place, 33.9081, -107.7328
+Sawyer, 35.1792, -108.2478
+Scholle, 34.4275, -106.4161
+Schomberg, 36.6389, -104.4989
+Seama, 35.0397, -107.5242
+Seboyeta, 35.2011, -107.3886
+Seboyetita, 35.2000, -107.3833
+Sedan, 36.1444, -103.1300
+Sedillo, 35.0997, -106.2950
+Sedillo Hill, 35.0833, -106.3833
+Self Place, 36.9739, -107.5086
+Sena, 35.2983, -105.3922
+Seneca, 36.6283, -103.1261
+Senorito, 35.9781, -106.9142
+Separ, 32.2008, -108.4217
+Serafina, 35.3975, -105.3231
+Servilleta Plaza, 36.3833, -106.0333
+Seton Village, 35.5992, -105.9319
+Seven Lakes, 35.7847, -107.9350
+Seven Rivers, 32.5950, -104.4211
+Seven Springs, 35.9019, -106.7114
+Shady Brook, 36.3700, -105.4672
+Shakespeare, 32.3258, -108.7378
+Sheep Crossing Campground, 36.7519, -105.6714
+Sheep Springs, 36.1433, -108.7067
+Sheridan, 35.4958, -105.2436
+Sherman, 32.7467, -107.8858
+Sherman Place, 33.2872, -104.6294
+Shiprock, 36.7856, -108.6864
+Shiprock Community Health Center, 36.7856, -108.6864
+Shoemaker, 35.8164, -104.8758
+Sid Place, 32.9369, -108.9692
+Sierra Vista, 33.4089, -105.6925
+Sierra Vista Estates, 35.0667, -106.5167
+Sierra Vista Hospital, 33.1283, -107.2522
+Sile, 35.5644, -106.3722
+Silio, 34.5892, -105.9336
+Silver City, 32.7700, -108.2797
+Smith Lake, 35.5222, -108.1392
+Smith Place Windmill, 34.9597, -104.5469
+Smiths Lake, 35.4000, -108.2167
+Socorro, 34.0583, -106.8908
+Socorro General Hospital, 34.0583, -106.8908
+Sofia, 36.4517, -103.8286
+Soham, 35.4156, -105.4936
+Solano, 35.8483, -104.0669
+Solo, 36.3392, -105.9506
+Sombrillo, 35.9800, -106.0394
+South Carmen, 35.8936, -105.3358
+South Chaves, 35.3883, -108.1514
+South Garcia, 34.8808, -107.0803
+South Guam, 35.4750, -108.3786
+South Harding, 35.7500, -103.5667
+South Hidalgo, 31.6833, -108.7167
+South Mill, 33.1672, -104.1439
+South Petaca, 36.4972, -106.0097
+South San Ysidro, 35.4500, -105.5769
+South Spring, 33.3356, -104.4722
+South Spring Acres, 33.3444, -104.4850
+South Springs Acres, 33.3833, -104.5333
+South Valley, 35.0500, -106.6667
+Spalding, 32.4492, -107.9669
+Spears, 31.7297, -108.8169
+Spencerville, 36.8200, -108.0575
+Spiess, 35.4592, -105.9061
+Spindle, 33.5500, -105.5667
+Springer, 36.3611, -104.5947
+Springstead, 35.7667, -108.5833
+Spur Lake, 33.9931, -108.8753
+St Francis Family Medical Center, 32.4222, -104.2300
+St Joseph Northeast Heights General Hospital, 35.1322, -106.5931
+St Joseph West Mesa Hospital, 35.2067, -106.6750
+St Marys Hospital, 33.3758, -104.5217
+St Vincent Hospital, 35.6594, -105.9444
+St Vrain, 34.4161, -103.4892
+St. Anne Hospital, 33.1403, -107.2417
+St. Joseph Medical Center, 35.0861, -106.6381
+St. Joseph Rehabilitation Hospital, 35.0847, -106.6381
+Standing Rock, 35.8031, -108.3603
+Stanley, 35.1475, -105.9764
+Star Lake, 36.0167, -107.0667
+Stead, 36.1000, -103.2000
+Steins, 32.2292, -108.9889
+Stockton Place, 34.8556, -105.7797
+Strauss, 31.8642, -106.6983
+Sublette, 36.9889, -106.2294
+Sugarite, 36.9439, -104.3814
+Sulphur Springs, 35.9075, -106.6153
+Sun Crest Hospital, 36.7281, -108.2181
+Sun Valley, 33.4122, -105.6819
+Sunland Park, 31.8000, -106.5833
+Sunny Side, 36.3636, -104.9014
+Sunset, 33.3394, -105.0747
+Sunshine(Luna), 32.2500, -107.7500
+Sunshine(Taos), 36.8439, -105.6394
+Sunspot, 32.6500, -105.7000
+Suwanee, 34.9350, -107.1367

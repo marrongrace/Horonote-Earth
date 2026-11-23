@@ -1,0 +1,60 @@
+Wagon Mound, 36.0089, -104.7061
+Waldo, 35.4506, -106.1472
+Walker, 33.3833, -104.5333
+Warren, 32.6092, -103.1469
+Water Canyon, 34.0833, -107.0833
+Waterfall, 32.9500, -105.7500
+Waterflow, 36.7500, -108.4500
+Waterloo, 31.9850, -107.7217
+Watrous, 35.7906, -104.9811
+Weber City, 34.6336, -103.6358
+Weed, 32.8025, -105.5169
+West Carlsbad, 32.4261, -104.2542
+West De Baca, 34.4333, -104.6000
+West Las Vegas, 35.6000, -105.2167
+West Village, 35.0525, -107.5817
+Wheatland, 34.9086, -103.3536
+White Lakes, 35.2017, -105.7864
+White Oaks, 33.7475, -105.7358
+White Rock(San Juan), 36.0886, -108.2700
+White Rock(Los Alamos), 35.8275, -106.2033
+White Sands, 32.3808, -106.4789
+White Sands Missile Range, 32.3667, -106.6167
+White Signal, 32.5558, -108.3656
+Whitehorse, 35.8111, -107.7472
+Whites, 32.1833, -104.3667
+Whites City, 32.1756, -104.3761
+Whitetail, 33.2289, -105.5553
+Whitewater, 32.5814, -108.1333
+Wilcox Peak, 33.2808, -108.8158
+Willard, 34.5958, -106.0331
+Williams Acres, 35.5167, -108.7333
+Williamsburg, 33.1161, -107.2928
+Willow Creek, 36.8894, -106.6503
+Willow Mountain, 33.3508, -108.6767
+Wilna, 32.2069, -108.2342
+Wimsatt, 32.9581, -105.6419
+Wimsattville, 32.8056, -108.0839
+Window Rock Junction, 35.5167, -108.7333
+Windy Point, 33.2775, -108.7089
+Wingate, 35.5144, -108.5442
+Winston, 33.3467, -107.6467
+Witt, 34.8406, -106.0525
+Woods Place, 35.3617, -103.3597
+Wright Place, 36.5019, -106.6756
+Yah-ta-hey, 35.6281, -108.7797
+Yankee, 36.9450, -104.3275
+Yarbrough Place, 31.6822, -108.7172
+Yates, 36.1303, -103.9008
+Yerba, 34.1567, -103.3792
+Yeso, 34.4392, -104.6094
+Young Place(San Juan), 36.9944, -107.5175
+Young Place(Santa Fe), 35.2694, -105.7614
+Youngsville, 36.1875, -106.5558
+Yrisarri, 34.9664, -106.2908
+Zamora, 35.1022, -106.3550
+Zia Indian Reservation, 35.5000, -106.7167
+Zia Pueblo, 35.5069, -106.7197
+Zuni, 35.0694, -108.8478
+Zuni Indian Reservation, 35.0667, -108.8500
+Zuni Pueblo, 35.0667, -108.8500

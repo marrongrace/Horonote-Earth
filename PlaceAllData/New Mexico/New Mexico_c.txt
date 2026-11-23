@@ -1,0 +1,190 @@
+C Davis Place, 34.9619, -106.1100
+Caballo, 32.9756, -107.3072
+Cabezon, 35.6264, -107.0972
+Cambray, 32.2253, -107.3169
+Cameo, 34.2875, -103.2228
+Cameron, 34.8167, -103.3167
+Campana, 35.5753, -103.8933
+Campbell, 33.6081, -104.1964
+Campus, 34.0500, -106.9000
+Canada de los Alamos, 35.5931, -105.8606
+Canada Village, 35.0664, -106.5028
+Candelaria Place, 34.6722, -106.3519
+Canjilon, 36.4794, -106.4372
+Cannon, 34.4167, -103.3167
+Cannon Air Force Base, 34.4000, -103.2667
+Canon, 36.3908, -105.5628
+Canon Landing, 35.6681, -106.7439
+Canon Plaza, 36.5500, -106.1500
+Canoncito(Bernalillo), 35.1369, -106.3728
+Canoncito(Rio Arriba), 36.1808, -105.8317
+Canoncito(San Miguel), 35.7989, -105.3219
+Canoncito(Santa Fe), 35.6667, -105.9500
+Canoncito Indian Reservation, 35.0833, -107.0000
+Canones, 36.1881, -106.4389
+Canova, 36.1592, -105.9844
+Cantara, 34.4244, -103.7425
+Canyon, 35.6167, -106.7333
+Canyon Mill, 34.3144, -106.7147
+Canyoncito, 35.5833, -105.7667
+Capitan, 33.5453, -105.5717
+Capitan Hill, 36.6703, -104.7739
+Caprock, 33.3919, -103.7119
+Capulin, 36.7411, -103.9931
+Cardenas, 34.4911, -104.8464
+Care Unit Hospital of Albuquerque, 35.0858, -106.6403
+Carisbrook, 36.9169, -104.3708
+Carlsbad, 32.4206, -104.2283
+Carne, 32.2881, -107.5708
+Carnero, 34.6242, -105.3864
+Carnuel, 35.0639, -106.4567
+Carracas, 36.9986, -107.2444
+Carrie Tingley Hospital, 35.0936, -106.6264
+Carrizo, 33.2836, -105.7064
+Carrizoza Health Center, 33.6417, -105.8767
+Carrizozo, 33.6417, -105.8767
+Carson, 36.3644, -105.7647
+Carthage, 33.8836, -106.6586
+Casa Blanca, 35.0456, -107.4708
+Casa Fria, 35.2636, -107.4664
+Casa Grande, 36.8883, -104.9783
+Casa Loma, 35.1108, -106.3853
+Casa Salazar, 35.4833, -107.1156
+Causey, 33.8792, -103.1261
+Cavasos Place, 35.0847, -106.0261
+Cebolla, 36.5383, -106.4858
+Cedar Creek, 33.3333, -105.6667
+Cedar Crest, 35.1075, -106.3722
+Cedar Grove, 35.1708, -106.1894
+Cedar Hill, 36.9369, -107.8897
+Cedarvale, 34.3667, -105.7000
+Cedarville, 34.3706, -105.7014
+Cedro, 35.0222, -106.3531
+Cedro Village, 35.0833, -106.3833
+Center Mill, 33.2750, -104.7742
+Centerville, 35.7975, -103.0894
+Centerville Corner, 35.7967, -103.1264
+Central, 32.7794, -108.1497
+Central New Mexico Medical Center, 34.9950, -106.0500
+Cerrillos, 35.4375, -106.1244
+Cerrito Colorado, 36.5642, -105.5678
+Cerritos, 35.3000, -105.3667
+Cerro, 36.7539, -105.6122
+Chacon, 36.1442, -105.3672
+Chama, 36.9031, -106.5789
+Chamberino, 32.0497, -106.6747
+Chamisal, 36.1658, -105.7372
+Chamita, 36.0703, -106.0964
+Chamizal, 34.2175, -106.9131
+Chaparral, 32.0000, -106.6000
+Chapelle, 35.3892, -105.2931
+Chaperito, 35.3658, -104.9447
+Chapman Place, 32.8908, -108.9922
+Chappel, 32.1917, -107.1842
+Charter Hospital of Albuquerque, 35.0728, -106.5781
+Chato, 34.6308, -106.3483
+Chaves Place(Sierra), 33.4008, -107.5053
+Chaves Place(Torrance), 34.7417, -106.3742
+Chelwood Park, 35.0961, -106.5064
+Chi Chil Tah, 35.2483, -108.9072
+Chical(Valencia), 34.8683, -106.6678
+Chical(Sandoval), 35.3400, -106.5217
+Chico, 36.4867, -104.1922
+Childres Place, 35.3278, -105.7197
+Chili, 36.1050, -106.1492
+Chilili, 34.8894, -106.2322
+Chimayo, 36.0025, -105.9297
+Chippeway Park, 32.9094, -105.7047
+Chise, 33.2722, -107.5969
+Chisum, 33.2619, -104.4183
+Chloride, 33.3386, -107.6772
+Christopher Place, 36.9208, -107.5136
+Chupadera, 34.2706, -106.3600
+Chupadero, 35.8225, -105.9161
+Church Rock, 35.5339, -108.5992
+Cimarron, 36.5108, -104.9153
+Ciruela, 35.9544, -104.8181
+Clapham, 36.4667, -103.1833
+Clara Peak, 36.0356, -106.2397
+Claud, 34.5942, -103.1786
+Claunch, 34.1419, -105.9939
+Clayton, 36.4517, -103.1836
+Cleveland, 35.9933, -105.3700
+Cliff, 32.9622, -108.6106
+Clines Corners, 35.0094, -105.6686
+Cloud Country Estates, 32.9500, -105.7500
+Cloudcroft, 32.9572, -105.7419
+Cloverdale(Hidalgo), 31.9500, -108.8000
+Cloverdale(Socorro), 31.4169, -108.9292
+Clovis, 34.4047, -103.2047
+Clovis High Plains Hospital, 34.4047, -103.2047
+Coalora, 33.5678, -105.5967
+Coane, 33.8008, -106.3267
+Cobre, 32.7806, -108.1114
+Cochiti, 35.6167, -106.3500
+Cochiti Indian Reservation, 35.6167, -106.3500
+Cochiti Lake, 35.5667, -106.3333
+Cochiti Pueblo, 35.6094, -106.3436
+Cole Place, 32.8203, -104.7431
+Colfax, 36.5967, -104.7378
+Colmor, 36.2206, -104.6489
+Colonias, 35.1097, -104.8467
+Columbine, 36.7000, -105.6000
+Columbus, 31.8275, -107.6394
+Community Center, 35.8500, -106.2667
+Conchas, 35.3667, -104.1833
+Conchas Dam, 35.4667, -104.0833
+Continental Divide, 35.4167, -108.3167
+Contreras, 34.3828, -106.8131
+Coolidge, 35.4469, -108.3628
+Cooney, 33.4228, -108.8072
+Cooper, 33.9300, -105.7853
+Copperas Vista, 33.1183, -108.1969
+Copperton, 35.1461, -108.1494
+Cora Crew, 33.4825, -106.0244
+Corazon, 35.6000, -105.2167
+Cordillera, 35.9822, -105.3589
+Cordova, 36.0072, -105.8600
+Corner Ranch, 31.3561, -108.2106
+Corner Well(Chaves), 33.6422, -103.6306
+Corner Well(Otero), 32.4981, -105.0714
+Corner Windmill(Sierra), 33.1064, -107.0669
+Corner Windmill(De Baca), 34.4125, -104.3389
+Corner Windmill(Guadalupe), 35.0853, -104.4608
+Corona, 34.2508, -105.5961
+Coronado, 35.6667, -105.9500
+Corrales(Sandoval P O), 35.2378, -106.6061
+Correo, 34.9550, -107.1842
+Coruco, 35.3667, -105.4500
+Corugo, 35.3661, -105.4381
+Costilla, 36.9758, -105.5306
+Cottage Sanatorium, 32.8069, -108.2933
+Cotton City, 32.0883, -108.8786
+Cotton Place, 32.2247, -103.6628
+Cottonwood, 36.8739, -108.3925
+Counselor, 36.2092, -107.4572
+Country Club Estates, 35.1667, -106.6500
+Country Club Heights, 33.3333, -105.6667
+Cowles, 35.8119, -105.6592
+Coyote(Rio Arriba), 36.1675, -106.6158
+Coyote(LincolnBrimhall P O), 33.8125, -105.8231
+Coyote Canyon, 35.7747, -108.6203
+Crane Place, 34.8150, -107.3839
+Crocker, 33.3422, -107.0300
+Crossroads, 33.5122, -103.3392
+Crownpoint, 35.6781, -108.1506
+Cruzville, 33.8072, -108.6647
+Crystal, 36.0458, -108.9656
+Cuba, 36.0222, -106.9578
+Cuba Health Center, 36.0222, -106.9578
+Cubero, 35.0858, -107.5175
+Cuchillo, 33.2358, -107.3600
+Cudai, 36.8625, -108.7914
+Cuervo, 35.0311, -104.4081
+Cuervo Crossing, 35.3342, -107.0172
+Cueva de los Novios, 35.3017, -107.3053
+Culebra, 34.6825, -105.7678
+Cummings Place, 35.3000, -103.3817
+Cundiyo, 35.9592, -105.8958
+Cutter, 33.0603, -107.0219
+Cuyamungue, 35.8697, -106.0036

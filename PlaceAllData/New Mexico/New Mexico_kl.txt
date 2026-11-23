@@ -1,0 +1,201 @@
+Kaseman Presbyterian Hospital, 35.0928, -106.5522
+Kearney, 32.9817, -105.9914
+Kelly, 34.0831, -107.2047
+Kelso Place, 33.0536, -107.7531
+Kenna, 33.8422, -103.7714
+Kennedy, 35.4042, -105.9856
+Kenzin, 32.1064, -107.0158
+Keota, 36.9544, -104.4758
+Kermit, 34.0011, -103.5922
+Kimball Place, 32.5147, -107.0444
+Kimbeto, 36.1836, -107.8408
+Kimmons, 33.4908, -106.0189
+Kinebeto, 36.7667, -108.1667
+King Place, 34.7808, -106.3131
+Kingston, 32.9169, -107.7056
+Kingswood, 33.3333, -105.6667
+Kinney, 35.0103, -106.6603
+Kinney Wells, 33.8711, -106.7494
+Kiowa, 36.6539, -104.1072
+Kiowa Village, 36.5792, -105.5964
+Kirtland, 36.7342, -108.3592
+Kirtland Addition, 35.0553, -106.6303
+Kirtland Air Force Base, 35.0333, -106.6167
+Kline Place, 33.4492, -107.8572
+Knowles, 32.8403, -103.1272
+Knowles Place, 32.5589, -104.5792
+Koehler, 36.7408, -104.6178
+Krider, 34.4339, -103.8436
+Kroenigs, 35.7353, -105.0378
+La Bajada, 35.5561, -106.2403
+La Bolsa, 36.2156, -105.9042
+La Borcita, 33.9900, -106.8833
+La Careda, 36.2017, -106.3211
+La Chuachia, 36.0950, -106.1375
+La Cienaga(Rio Arriba), 36.2136, -105.9231
+La Cienega(Santa Fe), 35.5628, -106.1303
+La Clinica del Norte, 36.3433, -106.1881
+La Clinica Del Pueblo De Rio Arriba, 36.7003, -106.5492
+La Constancia, 34.6783, -106.7344
+La Cuesta, 35.0783, -106.5064
+La Cuestecita, 36.1642, -105.8033
+La Cueva(Mora), 35.9417, -105.2486
+La Cueva(Sante Fe), 35.5911, -105.7325
+La Fragua, 35.3147, -105.4061
+La Gotera, 35.3094, -107.1903
+La Huerta, 32.4428, -104.2206
+La Jara(Sandoval), 36.0878, -106.9742
+La Jara(Mora), 36.0497, -105.1828
+La Joya(Santa Fe), 35.5833, -105.7667
+La Joya(Socorro), 34.3461, -106.8450
+La Junta, 36.2114, -105.9164
+La Ladera, 34.8267, -106.6661
+La Lande, 34.4481, -104.1336
+La Liendre, 35.4222, -105.0500
+La Loma(Santa Fe), 35.6194, -105.9300
+La Loma(Guadalupe), 35.1833, -105.1167
+La Luz, 32.9778, -105.9414
+La Madera, 35.2228, -106.3700
+La Manga, 35.5094, -105.2633
+La Mesa, 32.1219, -106.7072
+La Mesilla(Rio Arriba), 35.9483, -106.0700
+La Mesilla(Dona Ana), 32.3000, -106.7833
+La Petra, 33.4331, -107.4206
+La Placita, 36.0353, -106.9581
+La Puebla, 35.9892, -105.9958
+La Puente, 36.7000, -106.6003
+La Union, 31.9506, -106.6611
+La Villita, 36.1033, -106.0475
+Lacy Place, 35.0814, -106.1392
+Laguna, 35.0367, -107.3822
+Laguna Indian Reservation, 35.0333, -107.3833
+Lagunas, 35.5292, -105.3375
+Lagunita, 35.3672, -105.2442
+Lagunitas, 35.9925, -106.9864
+Lake Arthur, 32.9981, -104.3661
+Lake Valley(San Juan), 36.0917, -108.1567
+Lake Valley(Sierra), 32.7178, -107.5672
+Lakeview Pines, 36.5086, -105.3031
+Lakewood, 32.6333, -104.3833
+Lama, 36.6497, -105.6178
+LaMadera, 36.3869, -106.0408
+Lamy, 35.4814, -105.8792
+Lanark, 31.9700, -106.8158
+LaPlata, 36.9286, -108.1897
+Laplata PO, 36.9000, -108.1897
+Largo(De Baca), 34.4469, -104.7111
+Largo(Lincoln), 33.9019, -105.7892
+Las Colonias, 35.3744, -106.4850
+Las Cruces, 32.3122, -106.7778
+Las Dispensas, 35.7453, -105.3592
+Las Dos, 35.7617, -106.0300
+Las Nutrias, 34.4767, -106.7700
+Las Palomas, 33.0625, -107.2978
+Las Placitas, 36.3231, -106.1619
+Las Tablas, 36.5556, -106.0286
+Las Tusas, 35.7653, -105.2825
+Las Vegas, 35.5939, -105.2167
+Las Vegas City, 35.5939, -105.2167
+Las Vegas Medical Center, 35.6083, -105.2417
+Las Vegas Medical Center--forensic, 35.6083, -105.2417
+Las Vegas Town(W Las Vegas), 35.5908, -105.2300
+Lava, 36.9800, -106.0942
+LaVentana, 35.8272, -106.9708
+Lea, 32.5222, -103.5328
+Lea North Central, 32.9500, -103.3667
+Lea Regional Hospital, 32.7025, -103.1356
+Lea South Central, 32.7333, -103.2333
+Leasburg, 32.4539, -106.8825
+Ledoux, 35.9236, -105.3608
+Lee Acres, 35.1486, -106.6464
+Lehew, 34.4575, -108.0358
+Lemitar, 34.1597, -106.9097
+Leon, 35.5711, -107.5994
+Leoncito, 34.6717, -105.1381
+Lesbia, 35.1619, -103.5781
+Levy, 36.0881, -104.6861
+Leyba, 35.2167, -105.5667
+Limitar, 34.1556, -106.8964
+Lincoln, 33.4919, -105.3833
+Lincoln County Medical Center, 33.3317, -105.6725
+Linda Vista, 33.3833, -104.5333
+Lindrith, 36.3044, -107.0444
+Lingo, 33.7883, -103.1142
+Lisbon, 32.2778, -108.5469
+Little Walnut Village, 32.7667, -108.2667
+Little Water, 36.4464, -108.7242
+Lizard, 31.8217, -106.6283
+Llano, 36.1400, -105.6811
+Llano Del Medio, 35.1897, -105.1092
+Llano Largo, 36.1406, -105.6586
+Llano Quemado, 36.3489, -105.6122
+Llano Viejo(La Loma P O), 35.1875, -105.1214
+Llaves, 36.3728, -106.8661
+Lobato, 36.9542, -106.5408
+Loco Hills, 32.8189, -103.9772
+Logan, 35.3653, -103.4103
+Loma Parda, 35.8467, -105.0753
+Lon, 34.1475, -105.1231
+Lone Wolf, 33.6925, -103.8400
+Long Place Windmill, 35.3706, -103.2425
+Lookout Crossing, 32.2253, -104.1186
+Lordsburg, 32.3503, -108.7081
+Los Alamos(San Miguel), 35.7319, -105.1511
+Los Alamos(Los Alamos), 35.8833, -106.3167
+Los Alamos Medical Center, 35.8819, -106.3186
+Los Canderlarias, 35.1233, -106.6633
+Los Chavez, 34.7267, -106.7531
+Los Cisneros, 36.0736, -105.2292
+Los Cocas, 36.1128, -105.2133
+Los Cordovas, 36.3872, -105.6369
+Los Duranes, 35.1086, -106.6769
+Los Febres, 36.1667, -105.0500
+Los Griegos, 35.1394, -106.6503
+Los Huerros, 36.1628, -105.1181
+Los LeFebres, 36.1994, -105.1139
+Los Lentes, 34.8233, -106.7317
+Los Luceros, 36.0833, -106.0500
+Los Lunas, 34.8061, -106.7328
+Los Marias, 35.4136, -105.9425
+Los Medinas, 36.0442, -105.2222
+Los Montoyas, 35.4194, -105.2072
+Los Ojitos, 34.6853, -104.4606
+Los Ojos, 36.7333, -106.5667
+Los Pachecos, 36.0092, -105.9336
+Los Padillas, 34.9692, -106.6953
+Los Pinos(Bernalillo), 35.1158, -106.3161
+Los Pinos(Rio Arriba), 36.9883, -106.0639
+Los Ranchos, 35.0833, -106.6500
+Los Ranchos de Albuquerque, 35.1619, -106.6422
+Los Tanos, 34.9953, -104.5422
+Los Trujillos, 34.6467, -106.7603
+Los Vigiles, 35.6494, -105.2631
+Lost Lodge, 32.9500, -105.7500
+Lourdes, 35.6000, -105.2167
+Lovato, 35.2872, -105.3914
+Lovelace, 33.7681, -106.0408
+Lovelace Clinic, 35.0581, -106.5836
+Lovelace Medical Center, 35.0578, -106.5814
+Lovett, 31.6436, -108.9333
+Loving, 32.2861, -104.0953
+Loving Health Clinic, 32.2861, -104.0953
+Loving Place(abandoned), 33.1867, -104.5100
+Lovington, 32.9439, -103.3481
+Lower Colonias, 35.5417, -105.5831
+Lower La Posada, 35.6381, -105.6786
+Lower Lovett Place, 31.6564, -108.9422
+Lower Nutria, 35.2567, -108.5889
+Lower Pueblo, 35.3264, -105.4294
+Lower Ranchito, 36.5000, -106.0167
+Lower Rociada, 35.8500, -105.4333
+Lower San Francisco Plaza, 33.6628, -108.7867
+Lucero(San Miguel), 35.3911, -105.4611
+Lucero(Mora), 36.0164, -105.2278
+Lucero Place, 36.9019, -107.5894
+Lucy, 34.6519, -105.8364
+Luis Lopez, 33.9833, -106.8833
+Lumberton, 36.9300, -106.9364
+Luna(Catron), 33.8189, -108.9539
+Luna(Lincoln), 33.9686, -105.6989
+Lybrook, 36.2333, -107.5617
+Lyden, 36.1461, -106.0050

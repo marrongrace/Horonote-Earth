@@ -1,0 +1,151 @@
+T-O Ranch, 36.9000, -104.4333
+Taiban, 34.4400, -104.0086
+Tajique, 34.7517, -106.2872
+Talpa, 36.3414, -105.5964
+Taos, 36.4072, -105.5725
+Taos Indian Reservation, 36.4333, -105.5500
+Taos Junction, 36.3625, -105.8961
+Taos Pueblo, 36.4386, -105.5439
+Taos Ski Valley, 36.4167, -105.5667
+Tapicitoes, 36.4592, -107.0133
+Tatum, 33.2569, -103.3172
+Tatum Clinic, 33.2569, -103.3172
+Taylor Springs, 36.3272, -104.4917
+Teague, 32.2808, -103.1856
+Techado, 34.5853, -108.3864
+Tecolote(San Miguel), 35.4603, -105.2800
+Tecolote(Lincoln), 34.0011, -105.6667
+Tecolote(Sandoval), 35.3194, -106.4050
+Tecolotito, 35.2344, -105.1589
+Tejon, 34.5897, -105.2856
+Tekapo, 35.0219, -108.9422
+Tererro, 35.7667, -105.6667
+Tesuque, 35.7636, -105.9319
+Tesuque Indian Reservation, 35.6667, -105.9500
+Tesuque Pueblo, 35.6667, -105.9500
+Texico, 34.3886, -103.0508
+Thomas, 36.2456, -103.2919
+Thompson Place, 34.9439, -106.1361
+Thoreau, 35.4025, -108.2228
+Three Forks, 32.3514, -104.7817
+Three Rivers, 33.3214, -106.0744
+Tierra Amarilla, 36.7003, -106.5492
+Tierra Monte, 35.8592, -105.3469
+Tiffany, 33.7231, -106.9428
+Tijeras, 35.0808, -106.3875
+Timberon, 32.6167, -105.4000
+Tinaja(Colfax), 36.6531, -104.3897
+Tinaja(Cibola), 35.0825, -108.2639
+Tinen Place, 35.2592, -106.0128
+Tingle, 34.6719, -108.5406
+Tinian, 35.8400, -107.3256
+Tinnie, 33.3706, -105.2258
+Tinsley Crossing, 34.1269, -103.4208
+Tiptonville, 35.8206, -104.9969
+Toadlena, 36.2369, -108.8919
+Tocito, 36.3994, -108.7806
+Tohatchi, 35.8589, -108.7608
+Tohlakai, 35.5167, -108.7333
+Tokay, 33.8736, -106.7386
+Tolar, 34.4508, -103.9311
+Toltec(Cibola), 35.2144, -107.9097
+Toltec(Rio Arriba), 36.9828, -106.2717
+Tomasino Mill, 34.2525, -106.6728
+Tome, 34.7408, -106.7278
+Tonuco, 32.5908, -106.9961
+Tony, 34.6150, -105.1817
+Toril, 36.3875, -104.5856
+Tornero, 33.8844, -103.7133
+Torrence, 34.3411, -105.5275
+Torreon(Torrance), 34.7222, -106.2981
+Torreon(Sandoval), 36.0167, -107.0667
+Tortugas, 32.2700, -106.7522
+Totavi, 35.8744, -106.1792
+Trampas, 36.1311, -105.7583
+Trechado, 34.6500, -108.6833
+Trementina, 35.4697, -104.5272
+Tres Lagunas(Catron), 34.3822, -108.0942
+Tres Lagunas(San Miguel), 35.7211, -105.6775
+Tres Piedras, 36.6469, -105.9667
+Tres Ritos, 36.1306, -105.5153
+Trout Springs, 35.6597, -105.3400
+Truchas, 36.0436, -105.8111
+Trujillo, 35.5347, -104.6908
+Truth Or Consequences, 33.1283, -107.2522
+Tsaya, 36.1331, -108.1736
+Tucumcari, 35.1717, -103.7244
+Tularosa, 33.0739, -106.0181
+Tunis, 32.2514, -107.9172
+Turley, 36.7525, -107.7644
+Turn, 34.5739, -106.7486
+Turnerville, 32.8019, -108.0842
+Turquillo, 36.1333, -105.2333
+Turquoise, 32.4450, -106.0322
+Twin Buttes, 35.5044, -108.8467
+Twin Forks Estates, 32.9500, -105.7500
+Twin Lakes, 35.7092, -108.7742
+Twining, 36.5947, -105.4497
+Two Grey Hills, 36.2375, -108.8019
+Tyrone, 32.6581, -108.3594
+Ulibarri Place, 36.9569, -107.5242
+Ulmoris, 32.3289, -108.6317
+Union County General Hospital, 36.4517, -103.1836
+Union Hill, 32.8344, -108.0783
+United States Indian Hospital(McKinley), 35.5078, -108.7292
+United States Indian Hospital(Bernalillo), 35.0886, -106.6150
+University, 34.1833, -103.3333
+University of New Mexico Hospital, 35.0883, -106.6167
+Upham, 32.8864, -107.0017
+Upper Anton Chico, 35.2083, -105.1683
+Upper Colonias, 35.5764, -105.5839
+Upper Dilia, 35.1847, -105.0803
+Upper Frijoles Crossing, 35.8153, -106.3608
+Upper La Jara, 36.1206, -106.9222
+Upper La Posada, 35.6492, -105.6811
+Upper Lovett Place, 31.6539, -108.9489
+Upper Nutria, 35.2697, -108.5703
+Upper Pueblo, 35.3342, -105.4297
+Upper Rociada, 35.8550, -105.4264
+Upshaw Place, 31.6986, -108.7061
+Upton, 34.1553, -103.6525
+Urraca Place, 36.4100, -104.8433
+Ute Mountain Indian Reservation, 36.9167, -108.3333
+Ute Park, 36.5581, -105.1144
+Vadito, 36.1911, -105.6703
+Vado, 32.1117, -106.6619
+Val Verde(Socorro), 33.7031, -106.9303
+Val Verde(Colfax), 36.5500, -105.2667
+Valdez, 36.5344, -105.5833
+Valdez Place, 36.2742, -104.8539
+Valedon, 32.3175, -108.7444
+Valencia, 34.7994, -106.6997
+Valle Escondido, 36.3664, -105.3803
+Vallecito, 36.1575, -105.7839
+Vallecitos(Mora), 35.9942, -105.4086
+Vallecitos(Rio Arriba), 36.4950, -106.1161
+Vallecitos(Taos), 36.2567, -105.6081
+Vallecitos Corrales, 36.0667, -106.3556
+Vallecitos de los Indios, 35.7667, -106.6833
+Valmont, 32.7467, -105.9869
+Valmora, 35.8164, -104.9225
+Van Houten, 36.7922, -104.5653
+Vanadium, 32.7792, -108.1169
+Vander Wagen, 35.2739, -108.7542
+Variadero(Garita P O), 35.3881, -104.4589
+Varney, 34.3047, -105.5639
+Vaughn, 34.6017, -105.2078
+Vegas Junction, 34.9764, -104.9906
+Veguita, 34.5161, -106.7667
+Velarde, 36.1589, -105.9742
+Ventero, 36.9836, -105.4053
+Vermejo Park, 36.9000, -104.4333
+Vest Wells, 33.6353, -103.6994
+Vevay, 31.9186, -106.7594
+Villa de Cubero, 35.0847, -107.5417
+Villa Madonna, 33.4225, -105.7231
+Villanueva, 35.2667, -105.3603
+Virden, 32.6869, -109.0014
+Vista, 31.9653, -108.4383
+Vista Encantada, 35.1108, -106.5675
+Voght Place, 35.6067, -107.7161
+Volcano Cliffs, 35.1833, -106.7000

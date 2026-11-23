@@ -1,0 +1,188 @@
+Gabaldon, 35.4756, -105.2911
+Gage, 32.2294, -108.0856
+Galisteo, 35.3956, -105.9458
+Gallaher, 34.4028, -103.2964
+Gallegos(Harding), 35.6097, -103.7067
+Gallegos(Ojo Caliente P O,Rio Arriba), 36.2886, -106.0500
+Gallina, 36.2333, -106.8500
+Gallinas(Lincoln), 34.1469, -105.6536
+Gallinas(San Miguel), 35.6800, -105.3528
+Gallup, 35.5281, -108.7419
+Gamerco, 35.5722, -108.7647
+Garanbuio, 35.3158, -105.4133
+Garcia, 31.3339, -108.8625
+Garcia Place(San Juan), 36.9761, -107.6036
+Garcia Place(Sierra), 33.1711, -107.4867
+Gardiner, 36.8853, -104.4819
+Garfield, 32.7569, -107.2639
+Garita, 35.2667, -104.4833
+Garrison, 33.8506, -103.2128
+Gary, 32.3242, -108.8178
+Gascon, 35.8867, -105.4456
+Gavilan, 36.3000, -107.0500
+Gerald Champion Memorial Hospital, 32.8994, -105.9597
+Gibbs Place, 34.2678, -106.7294
+Gibson, 31.6367, -108.9386
+Gibson Place, 31.7642, -108.7942
+Gila, 32.9658, -108.5761
+Gila Hot Springs, 33.1953, -108.2067
+Gila Regional Hospital, 32.7700, -108.2797
+Gilman, 35.7161, -106.7594
+Gise, 35.4431, -105.6161
+Gladiola, 33.2572, -103.1794
+Gladstone, 36.3047, -103.9725
+Glen Grove, 33.3333, -105.6667
+Glencoe, 33.4092, -105.4483
+Glenrio, 35.1789, -103.0417
+Glenwood, 33.3167, -108.8825
+Glorieta, 35.5831, -105.7694
+Glover Place, 34.8008, -106.2950
+Gobernador, 36.7167, -107.8333
+Golden, 35.2669, -106.2133
+Golondrinas, 35.8911, -105.1853
+Gonzales, 35.4283, -108.3203
+Gonzales Ranch, 35.2458, -105.4600
+Grady, 34.8214, -103.3169
+Grafton, 33.4306, -107.7456
+Grama, 32.7428, -107.0317
+Gran Quivira, 34.2636, -106.1014
+Grande, 36.6706, -103.7739
+Grants, 35.1522, -107.8425
+Grassie Place, 34.6867, -108.3564
+Green Meadows, 33.3333, -105.6667
+Green Tree, 33.3333, -105.5833
+Greenfield, 33.1653, -104.3486
+Grenville, 36.6000, -103.6167
+Gribble Place, 33.9631, -108.8753
+Grier, 34.4106, -103.3981
+Grubisich Place, 35.3208, -108.4269
+Guachupangue, 35.9828, -106.0836
+Guadalupe(De Baca), 34.5461, -104.4275
+Guadalupe(Sandoval), 35.5414, -107.1508
+Guadalupe County Hospital, 34.9386, -104.6819
+Guadalupe Medical Center, 32.4258, -104.2550
+Guadalupita, 36.1375, -105.2381
+Guagolotes, 35.3000, -105.3667
+Guess Place, 32.1742, -108.2636
+Guique, 36.0878, -106.0736
+Gunn Place(abandoned), 32.8564, -108.8372
+Gutierrezville, 34.0600, -107.9236
+Guy, 36.8144, -103.4319
+Hachita, 31.9181, -108.3197
+Hacienda Acres, 32.3333, -106.7167
+Hagerman, 33.1150, -104.3264
+Hagerman Heights, 32.4161, -104.2208
+Hahn, 35.1306, -106.6342
+Halfway, 32.5517, -103.7350
+Hamilton Terrace, 33.3333, -105.6667
+Hanover, 32.8133, -108.0906
+Hanover Junction, 32.7783, -108.1147
+Happy Valley, 32.4167, -104.2333
+Hard Luck Crossing, 33.5472, -106.9817
+Harden Cienega, 33.1733, -109.0383
+Hargis, 35.1461, -103.8158
+Harkey Crossing, 32.2364, -104.1969
+Harrisburg, 35.0481, -107.5019
+Harroun Crossing, 32.2406, -104.0481
+Hassell, 34.7067, -104.0231
+Hatch, 32.6653, -107.1525
+Hayden, 35.9683, -103.2711
+Health centers of Northern New Mexico Coyote Clinic, 36.1675, -106.6158
+Health Centers of Northern New Mexico Embudo Clinic, 36.2075, -105.9606
+Health Centers of Northern New Mexico Espanola Clinic, 35.9911, -106.0800
+Health centers of Northern New Mexico La Loma Clinic, 35.6194, -105.9300
+Health centers of Northern New Mexico Las Vegas Clinic, 35.6083, -105.2417
+Health Centers of Northern New Mexico Penasco Clinic, 36.1694, -105.6858
+Health Centers of Northern New Mexico Roy Clinic, 35.9439, -104.1872
+Health Centers of Northern New Mexico San Miguel Clinic, 35.3644, -105.4503
+Health Centers of Northern New Mexico Truchas Clinic, 36.0436, -105.8111
+Health Centers of Northern New Mexico Wagon Mound Clinic, 36.0089, -104.7061
+Healthsouth Rehabilitation Center, 35.1875, -106.5853
+Hebron, 36.7386, -104.4653
+Heights Psychiatric Hospital, 35.1328, -106.5931
+Hendricks Place, 35.3378, -103.4983
+Hermanas, 31.8508, -107.9514
+Hermosa, 33.1575, -107.7294
+Hernandez, 36.0628, -106.1189
+Herrera, 35.1922, -107.1142
+Hersey Place, 32.5128, -107.0783
+Hewitt Place, 34.5653, -106.3447
+Hext Place(site), 32.8158, -108.9281
+Higgins Place(abandoned), 33.1794, -104.5244
+High Lonesome Wells, 31.4178, -108.5575
+High Rolls, 32.9508, -105.8350
+Highway Mill, 33.3661, -104.8478
+Hill, 32.4272, -106.8531
+Hillburn City, 33.0856, -103.3158
+Hillsboro, 32.9208, -107.5664
+Hobbies, 35.0833, -106.3833
+Hobbs, 32.7025, -103.1356
+Hockett, 32.6025, -107.2847
+Hoffman Town, 35.1133, -106.5372
+Hogg Place, 34.6892, -108.2517
+Holiday Acres, 33.3333, -105.6667
+Hollene, 34.7775, -103.0903
+Holloman, 32.8667, -106.1000
+Holloman Air Force Base, 32.8667, -106.1000
+Hollywood, 33.3233, -105.6344
+Holman, 36.0383, -105.3831
+Holy Cross Hospital, 36.3942, -105.5808
+Holy Ghost, 35.7600, -105.6919
+Home Place Well, 33.7542, -103.7094
+Hondo, 33.3875, -105.2703
+Hooverville, 35.3761, -104.2172
+Hope, 32.8103, -104.7322
+Horse Springs, 34.1500, -107.8500
+Horton Place, 35.1419, -106.2086
+Hospah, 35.7353, -107.7458
+Hot Springs, 35.6539, -105.2911
+Hot Springs Landing, 33.2072, -107.2100
+House, 34.6500, -103.9000
+Hudson, 35.2642, -103.5325
+Hughes Place, 34.6781, -107.7803
+Humble City, 32.7950, -103.2186
+Hunter Place, 32.8625, -104.7383
+Hurley, 32.6992, -108.1314
+Hyde Park Estates, 35.6667, -105.9500
+Hyde Place, 34.7139, -106.3700
+Hyer, 35.2144, -106.1186
+Idlewild, 36.5494, -105.3047
+Ilfeld, 35.4211, -105.5583
+Inca, 36.8928, -107.9267
+Indian Hills, 33.3333, -105.6667
+Indian Sanitarium, 36.9469, -106.9886
+Inez, 33.9667, -103.1433
+Interface Rehabilitation Center, 36.7281, -108.2181
+Isleta, 34.9072, -106.6886
+Isleta Indian Reservation, 34.9000, -106.6667
+Isleta Pueblo, 34.9069, -106.6803
+Iyanbito, 35.5222, -108.4769
+Jack Canon Place, 35.2889, -105.6269
+Jacona, 35.8906, -106.0417
+Jaconita, 35.8861, -106.0594
+Jal, 32.1131, -103.1931
+Jal Clinic, 32.1131, -103.1931
+Jarales, 34.6131, -106.7631
+Jarett Place, 35.0386, -106.1322
+Jarosa, 36.0467, -106.6844
+Jeffers Place, 34.1956, -107.7739
+Jemez, 35.7167, -106.7167
+Jemez Indian Reservation, 35.6667, -106.7167
+Jemez Pueblo, 35.6139, -106.7253
+Jemez Springs, 35.7489, -106.7094
+Jemez Valley Medical Clinic, 35.7686, -106.6917
+Jewkes Place, 33.4169, -107.5503
+Jicarilla(Lincoln), 33.8689, -105.6625
+Jicarilla(Rio Arriba), 36.8167, -107.1667
+Jicarilla Indian Reservation, 36.9333, -107.0000
+Jim Robinson, 31.7706, -108.8025
+Joe Yarbrough, 31.6661, -108.8317
+Joffre, 34.4872, -105.0439
+Johns Place, 35.0128, -106.0883
+Johnson, 32.3008, -103.1894
+Jones City, 32.4706, -103.1253
+Jordan, 34.7944, -103.8478
+Jornada, 33.1231, -107.0333
+Juan Tomas, 35.0269, -106.2978
+Julian Place, 34.6547, -108.2425
+Junta, 36.2167, -105.9333

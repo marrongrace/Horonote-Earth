@@ -1,0 +1,205 @@
+Abbott, 36.3000, -104.2667
+Abe Yarbrough, 31.6519, -108.8450
+Abeytas, 34.4675, -106.8108
+Abiquiu, 36.2072, -106.3181
+Abo, 34.4558, -106.3325
+Abuelo, 35.9450, -105.3603
+Acme, 33.5922, -104.3281
+Acoma, 35.0833, -107.6000
+Acoma Indian Reservation, 35.0833, -107.6000
+Acoma Pueblo, 34.8964, -107.5811
+Acoma Village, 34.8986, -107.5864
+Acomita, 35.0553, -107.5711
+Adelino, 34.7158, -106.7306
+Aden, 32.1528, -107.1269
+Adero Az, 35.3536, -104.4586
+Adobe, 33.8622, -106.3044
+Adobe Acres, 35.0667, -106.6833
+Afton, 32.0728, -106.9436
+Agua Fria(Colfax), 36.4300, -105.2983
+Agua Fria(Santa Fe), 35.6544, -106.0217
+Agua Zarca, 35.5633, -105.2714
+Agudo, 34.4053, -104.3031
+Air Base City, 32.7697, -103.1947
+Akela, 34.4736, -107.4050
+Akers Place Windmill, 32.0142, -105.0811
+Alameda, 35.1867, -106.6175
+Alamillo, 34.2547, -106.9156
+Alamito, 35.8225, -104.4369
+Alamo, 34.1167, -107.2333
+Alamo Hueco, 31.4406, -108.4269
+Alamogordo, 32.8994, -105.9597
+Alaska, 35.0528, -107.5956
+Albert, 35.9344, -103.8647
+Albuquerque, 35.0844, -106.6506
+Alcalde, 36.0889, -106.0531
+Alexander Place, 34.6861, -106.2536
+Algodones, 35.3806, -106.4786
+Alire, 36.4764, -106.5803
+Alivio, 32.8367, -107.0203
+Alley Place, 34.9725, -106.2497
+Alliance Hospital of Santa Teresa, 31.8628, -106.6358
+Allison, 35.5242, -108.7844
+Alma, 33.3794, -108.9028
+Alpine Village, 33.3333, -105.6667
+Alto, 33.3986, -105.6803
+Alto Crest, 33.3333, -105.6667
+Alvarado, 32.1364, -106.2367
+Amalia, 36.9419, -105.4539
+Amargo, 36.9378, -106.8911
+Ambrosia Lake, 35.4189, -107.8211
+Amistad, 35.9189, -103.1533
+Anaconda, 35.1667, -107.8667
+Anapra, 31.7842, -106.5633
+Ancho, 33.9378, -105.7392
+Ancon, 35.7153, -104.4250
+Ancones, 36.4239, -106.0625
+Anderson Place, 34.6806, -106.3489
+Andrews Place, 32.0325, -103.3975
+Angel Fire, 36.5500, -105.2667
+Angostura(Sandoval), 35.3742, -106.4928
+Angostura(Taos), 36.1017, -105.4858
+Angostura(Dona Ana), 32.6519, -107.0925
+Animas, 31.9489, -108.8067
+Antelope, 31.9569, -108.7133
+Antelope Springs, 34.8322, -106.0675
+Antelope Wells, 31.3489, -108.5083
+Anthony, 32.0039, -106.6053
+Anton Chico, 35.2000, -105.1417
+Anzac, 35.0686, -107.7261
+Apache, 33.3253, -105.9022
+Apache Creek, 33.8331, -108.6244
+Apache Park, 33.3333, -105.6667
+Apache Springs, 35.3722, -105.1925
+Apodaca, 36.1986, -105.8617
+Arabela, 33.5869, -105.1728
+Arabella, 34.8636, -104.7836
+Aragon(Catron), 33.8811, -108.5383
+Aragon(Cibola), 35.1092, -108.1317
+Arch, 34.1133, -103.1419
+Archuleta(Navajo Dam P O), 36.7942, -107.7083
+Arena, 31.8019, -107.4150
+Arenal, 35.0533, -106.7036
+Arenas Valley, 32.7939, -108.1836
+Arkansas Junction, 32.6967, -103.3506
+Armijo, 35.0536, -106.6767
+Arrey, 32.8486, -107.3186
+Arriba, 35.6267, -105.1983
+Arroyo del Agua, 36.1594, -106.6517
+Arroyo Hondo, 36.5358, -105.6692
+Arroyo Seco, 36.5161, -105.5692
+Arsco, 32.2839, -107.7872
+Artesia, 32.8422, -104.4028
+Artesia Camp, 32.8000, -105.5667
+Artesia General Hospital, 32.8422, -104.4028
+Aspen Meadows Hospital, 36.1589, -105.9742
+Aspen Mountain, 33.6981, -108.9650
+Atarque, 34.7364, -108.7025
+Atencio, 36.7714, -103.1253
+Atoka, 32.7694, -104.3883
+Atrisco, 35.0811, -106.6869
+Augustine, 34.9369, -106.1936
+Aurora(San Miguel), 35.1467, -105.4486
+Aurora(Mora), 36.1667, -105.0500
+Avalon, 32.4975, -104.2361
+Avis, 32.7003, -105.4542
+Aztec, 36.8222, -107.9922
+Azul, 34.6939, -106.7578
+Bacaville, 34.6422, -106.7800
+Baird Place, 32.1608, -103.4275
+Banning Place, 36.9222, -105.1286
+Barber Crossing, 32.4853, -104.3961
+Bard, 35.1333, -103.2500
+Barelas, 35.0731, -106.6561
+Barr, 34.9775, -106.6669
+Barranca(Rio Arriba), 36.2036, -106.3453
+Barranca(Toas), 36.2619, -105.8672
+Barranco, 35.3236, -105.4147
+Barton, 35.0831, -106.2464
+Basgal Place, 35.3664, -108.4728
+Bataan Memorial Hospital, 35.0578, -106.5814
+Bates Place, 35.4944, -103.4128
+Bayard, 32.7617, -108.1300
+Beatty Wells, 33.7258, -103.9497
+Becenti, 35.6833, -108.1500
+Becker, 34.4961, -106.6150
+Beenham, 36.2144, -103.6339
+Behavioral Health Services, 35.5281, -108.7419
+Belen, 34.6628, -106.7758
+Bell Ranch, 35.5333, -104.1000
+Bellview, 34.8211, -103.1072
+Bene Dunagan, 31.7139, -108.8222
+Bennett, 32.0678, -103.2106
+Benson Place, 34.6956, -106.3106
+Bent, 33.1586, -105.8564
+Berino, 32.0681, -106.6231
+Bermadez Place, 34.6761, -106.3172
+Bernal, 35.3928, -105.3169
+Bernalillo, 35.3000, -106.5506
+Bernardo, 34.4186, -106.8331
+Bethel, 34.2286, -103.4742
+Beulah, 35.7667, -105.2500
+Bibo, 35.1742, -107.3881
+Big Horn, 36.9892, -106.1817
+Big Mill, 32.6589, -107.9911
+Biklabito, 36.8333, -109.0167
+Bingham, 33.9108, -106.3489
+Birchfield, 31.6308, -108.8514
+Bisti, 36.7667, -108.1667
+Bitlabito, 36.8414, -109.0189
+Black Forest, 33.3333, -105.6667
+Black Lake, 36.2983, -105.2581
+Black River Village, 32.2017, -104.2525
+Black Rock, 35.0883, -108.7906
+Blackwell Place, 35.0994, -106.1428
+Blanchard, 35.3886, -105.3569
+Blanco, 36.7242, -107.8247
+Bland, 35.7575, -106.4647
+Blazers Mill, 33.1564, -105.7869
+Bloodgood Place, 33.0514, -107.9692
+Bloomfield, 36.7111, -107.9839
+Bluewater(Lincoln), 33.5578, -105.1856
+Bluewater(Cibola), 35.2550, -107.9850
+Bluit, 33.6292, -103.1831
+Boaz, 33.7367, -103.9708
+Bodega, 34.5519, -106.6753
+Boles, 32.9167, -105.9500
+Bonito, 33.4506, -105.7083
+Boon Place, 35.2772, -108.3922
+Borica, 34.6753, -104.6472
+Bosque, 34.5600, -106.7886
+Bosque Farms, 35.0667, -106.6833
+Bosquecito, 33.9772, -106.8503
+Box Bar Place, 34.4242, -107.7906
+Boyd, 32.3225, -106.5731
+Boys Ranch, 34.6667, -106.7667
+Bramlett, 31.3342, -108.8433
+Brazos, 36.7514, -106.5608
+Bread Springs, 35.3983, -108.6664
+Briggs Place, 35.1133, -106.1739
+Brilliant, 36.9561, -104.5339
+Brimhall, 35.7833, -108.6167
+Brizendine Place, 34.6697, -106.2894
+Broadmoor, 33.3833, -104.5333
+Broadmoor Shopping Center, 32.7000, -103.1500
+Broadview, 34.8194, -103.2131
+Broadview Acres, 35.1667, -107.8667
+Brockman, 32.1231, -108.4842
+Broncho, 34.5589, -106.1358
+Brown Place(Torrance), 34.7392, -106.3283
+Brown Place(Harding), 35.5356, -103.4186
+Bruce Place( 35.7861, -106.4844
+Buchanan, 34.4319, -104.7919
+Buckeye, 32.8019, -103.5053
+Buckhorn, 33.0369, -108.7078
+Buckman, 35.8319, -106.1561
+Budville, 35.0700, -107.5253
+Buena Ventura, 35.0764, -106.5372
+Buena Vista(Taos), 36.7839, -105.6033
+Buena Vista(Mora), 35.9136, -105.2486
+Buena Vista(Rio Arriba), 36.2028, -106.3381
+Bueyeros, 35.9794, -103.6867
+Buffalo Springs, 35.9347, -108.6533
+Bunk Clay Place, 35.4133, -103.3314
+Burnham, 36.7667, -108.1667
+Butterfield Park, 32.3333, -106.7167

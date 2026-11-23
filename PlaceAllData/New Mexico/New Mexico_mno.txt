@@ -1,0 +1,212 @@
+Mace, 31.6272, -108.9117
+MacImiliano, 35.6000, -105.2167
+Mackey Place, 36.9847, -107.5353
+Madrid, 35.4067, -106.1519
+Madrone, 34.5939, -106.7325
+Maes, 35.6000, -105.2167
+Maez Place, 34.6631, -106.2869
+Magdalena, 34.1167, -107.2433
+Malaga, 32.2239, -104.0719
+Maljamar, 32.8561, -103.7622
+Malpais, 31.7983, -107.2525
+Mangas, 34.1586, -108.3183
+Mangas Springs, 32.8425, -108.5111
+Manuelitas, 35.8006, -105.2781
+Manuelito, 35.4219, -108.9933
+Manuelito Place, 34.1436, -108.7761
+Manzano, 34.6467, -106.3444
+Marcia, 32.8286, -105.7672
+Mariano Lake, 35.5781, -108.3214
+Marmon, 35.0172, -107.3000
+Martin Place, 34.5364, -106.3300
+Martinez, 34.9992, -106.1906
+Martinez Town, 35.0892, -106.6414
+Masons Mill, 32.9403, -108.1900
+Mastodon, 31.8219, -106.6953
+Mater, 35.2894, -103.4672
+Matthew Place(abandoned), 32.8492, -108.8353
+Maxwell, 36.5400, -104.5428
+Mayhill, 32.8894, -105.4775
+Maypens, 32.3603, -103.1522
+McAlister, 34.6922, -103.7758
+McCartys(Cibola), 35.0628, -107.6689
+McCartys(Harding), 35.6167, -103.1000
+McCord Place(Catron), 34.4239, -107.8142
+McCord Place(Cibola), 34.6986, -107.6739
+McCrystal Place, 36.8106, -105.1447
+McCune, 35.5278, -108.5903
+McDaniel Cimarron Place, 36.4683, -104.8461
+McDermott Wells, 33.7722, -104.4536
+McDonald, 33.1406, -103.3169
+McFarlands, 31.4719, -108.3253
+McGaffey, 35.3753, -108.5150
+McGhee Wells, 32.1803, -108.9317
+McGreggor Place, 36.8308, -105.8450
+McIntosh, 34.8647, -106.0511
+McKelvey Place(abandoned), 32.8233, -108.8897
+McKinley Place, 34.6383, -106.3814
+McNess Crossing, 36.6917, -103.0622
+McNierney, 34.1936, -106.9056
+Meadow Lake, 34.8167, -106.7333
+Meadow Vista, 31.8000, -106.5833
+Medanales, 36.1756, -106.1828
+Medlin Place, 32.1228, -103.3722
+Melena, 33.5428, -104.3975
+Melrose, 34.4303, -103.6319
+Memorial Hospital(Chaves) 33.3644, -104.5158
+Memorial Hospital(Bernalillo), 35.0825, -106.6372
+Memorial Medical Center, 32.3000, -106.7389
+Mentmore, 35.5142, -108.8450
+Merrill Place, 35.3456, -108.4842
+Mesa, 33.9842, -104.6772
+Mesa Poleo, 36.1667, -106.6167
+Mesa Village, 35.0897, -106.5425
+Mescalero, 33.1575, -105.7736
+Mescalero Indian Reservation, 33.1500, -105.7667
+Mesilla, 32.2700, -106.8003
+Mesilla Park, 32.2758, -106.7661
+Mesilla Valley Hospital, 32.3583, -106.7717
+Mesita, 35.0183, -107.3122
+Mesquite, 32.1644, -106.6961
+Mexican Springs, 35.7928, -108.8264
+Miami, 36.3500, -104.7925
+Middle Place Windmills, 32.4581, -107.4942
+Middle Wells, 31.6697, -108.8336
+Midway(Roosevelt), 34.2561, -103.2431
+Midway(Chaves), 33.2947, -104.4500
+Miera, 36.0911, -103.5517
+Milagro, 34.9383, -105.2386
+Milan, 35.1697, -107.8903
+Mill Place, 33.9403, -107.2475
+Mills, 36.0853, -104.2547
+Milnesand, 33.6428, -103.3392
+Mimbres(Grant), 32.8561, -107.9792
+Mimbres(Luna), 31.8006, -107.7539
+Mimbres Memorial Hospital, 32.2606, -107.7669
+Mineral Hill, 35.6097, -105.4008
+Minero, 31.9350, -108.3758
+Miners Colfax Medical Center, 36.9033, -104.4386
+Miners Hospital, 36.8944, -104.4469
+Mirage, 32.3300, -107.6600
+Mission Park, 34.8167, -106.7333
+Mitchell Place, 32.2467, -108.6133
+Mogollon, 33.3967, -108.7936
+Moly, 36.6969, -105.4922
+Mondel, 32.2617, -108.9139
+Monero, 36.9019, -106.8547
+Monte Aplanado, 35.9553, -105.3944
+Monte Verde, 36.5500, -105.2667
+Montecito, 36.1900, -105.8544
+Montezuma, 35.6522, -105.2758
+Monticello, 33.3969, -107.4503
+Montoya, 35.0997, -104.0633
+Monument, 32.6239, -103.2639
+Moore Place, 32.8914, -108.9869
+Moorehead Place, 34.6306, -106.2708
+Moquino, 35.1725, -107.3683
+Mora, 35.9742, -105.3294
+Mora Valley Clinic, 36.0031, -105.3750
+Moriarty, 34.9900, -106.0486
+Morine Place, 33.9194, -107.5894
+Moses, 36.7122, -103.0597
+Mosley Place, 35.0825, -106.1619
+Mosquero, 35.7769, -103.9561
+Mossman, 33.0539, -104.3531
+Mount Dora, 36.5167, -103.4833
+Mountain Park, 32.9506, -105.8242
+Mountain View, 33.3400, -104.5228
+Mountainair, 34.5203, -106.2406
+Mountainview, 34.9950, -106.6639
+Mouser Place, 31.7994, -108.9217
+Mule Creek, 33.1219, -108.9556
+Mullen Place, 36.9211, -107.5256
+Murphy Place, 33.0417, -107.7894
+Myers, 35.4400, -105.2133
+Myndus, 32.2600, -107.4567
+Nadine, 32.6239, -103.1269
+Nageezi, 36.2667, -107.7414
+Nambe, 35.8933, -105.9819
+Nambe Indian Reservation, 35.8833, -105.9667
+Nambe Pueblo, 35.8875, -105.9644
+Nara Visa, 35.6075, -103.0992
+Naranjos, 36.1617, -104.9825
+Naschitti, 36.0650, -108.6814
+Navajo(Lincoln), 33.3333, -105.6667
+Navajo(Mc Kinley), 35.0667, -108.8500
+Navajo(Rio Arriba), 36.9461, -107.0625
+Navajo City, 36.7519, -107.6017
+Navajo Dam, 36.9333, -107.9333
+Navajo Indian Reservation, 35.6833, -109.0500
+Navajo Wingate Village, 35.7667, -108.5833
+Navarre Place, 35.3236, -108.4547
+Negra, 34.6639, -105.5367
+Nelson Place, 34.7767, -106.3342
+New Laguna, 35.0408, -107.4214
+New Mexico Rehabilitation Center(Chaves), 33.3181, -104.5208
+New Mexico Rehabilitation Center(San Miguel), 35.6083, -105.2417
+New York, 35.0586, -107.5267
+Newcomb, 36.2847, -108.7053
+Newkirk, 35.0683, -104.2642
+Newman, 32.0033, -106.3225
+No Agua, 36.7206, -105.9686
+Nogal, 33.5581, -105.7072
+Nor Lea General Hospital, 32.9439, -103.3481
+Noria, 31.8047, -106.8628
+North Carmen, 35.9067, -105.3258
+North Chaves, 35.3919, -108.1575
+North Guam, 35.4886, -108.3728
+North Harding, 36.0167, -104.0667
+North Hidalgo, 32.3000, -108.8833
+North Hurley, 32.7000, -108.1333
+North Lucy, 34.8572, -105.5806
+North San Ysidro, 35.4692, -105.5531
+North Valley, 35.1667, -106.6333
+Northeastern Regional Hospital, 35.6083, -105.2417
+Northside Presbyterian, 35.1500, -106.5556
+Norton, 34.9983, -103.5247
+Nutrias, 36.7000, -106.5500
+Nutt, 32.5728, -107.4489
+O'Neil Landing, 35.8664, -106.7950
+Oak Grove, 32.6308, -108.3442
+Oasis, 32.9244, -107.3167
+Obar, 35.5350, -103.2008
+Ocate, 36.1756, -105.0475
+Ochoa, 32.1917, -103.4397
+Oil Center, 32.4992, -103.2608
+Oil City, 32.7094, -104.2125
+Ojita, 35.4986, -105.2450
+Ojito(Taos), 36.1406, -105.7142
+Ojito(Rio Arriba), 36.4297, -107.0872
+Ojitos Frios(Gabaldon P O), 35.5167, -105.3169
+Ojo Caliente(Cibola), 34.9167, -108.9678
+Ojo Caliente(Taos), 36.3031, -106.0461
+Ojo Feliz, 36.0578, -105.1178
+Ojo Sarco, 36.1225, -105.7828
+Old Albuquerque, 35.1000, -106.6667
+Old Campbell Place, 33.8444, -108.8919
+Old Chilili, 34.9064, -106.1967
+Old Hachita, 31.9139, -108.4322
+Old Horner Place, 32.7989, -104.5069
+Old Horse Springs, 33.9244, -108.2272
+Old Isaacs Place, 31.6947, -108.8972
+Old Longbotbam Place, 32.9333, -105.1711
+Old Moses, 36.6839, -103.0772
+Old Picacho, 32.3000, -106.8333
+Old Place Windmill(De Baca), 34.4344, -104.4886
+Old Place Windmill(Guadalupe), 34.7931, -104.7861
+Old Town, 35.0950, -106.6703
+Old Waterman Place, 33.4314, -108.7378
+Old Wright Place, 32.4806, -105.8994
+Olive, 33.9508, -104.0375
+Omega, 34.3231, -108.3739
+Omlee, 32.8369, -105.9711
+Onava, 35.6967, -105.0939
+Optimo, 35.8903, -104.8031
+Orange, 31.8608, -106.6356
+Orchard Place, 34.6928, -107.4764
+Organ, 32.4256, -106.5961
+Orogrande, 32.3711, -106.0839
+Oscura, 33.4861, -106.0517
+Otis, 32.3511, -104.1681
+Otowi, 35.8758, -106.1419
+Otto, 35.0731, -106.0083
