@@ -1,0 +1,138 @@
+Ahaura, -42.3500, 171.5333
+Ahipara, -35.1667, 173.1667
+Akaroa, -43.8000, 172.9667
+Albany, -36.7167, 174.7000
+Albury, -44.2333, 170.8667
+Alexandra, -45.2500, 169.4000
+Amberley, -43.1667, 172.7333
+Apiti, -39.9667, 175.8833
+Arapuni, -38.0667, 175.6500
+Aria, -38.5500, 174.9833
+Arrowtown, -44.9333, 168.8333
+Arthur's Pass, -42.9500, 171.5667
+Ashburton, -43.9167, 171.7500
+Ashhurst, -40.3000, 175.7500
+Athol, -45.5167, 168.5833
+Auckland, -36.8667, 174.7667
+Awakino, -38.6500, 174.6333
+Awanui, -35.0500, 173.2500
+Balclutha, -46.2333, 169.7333
+Balfour, -45.8333, 168.5833
+Bay View, -39.4167, 176.8833
+Beaumont, -45.8167, 169.5333
+Belfast, -43.4500, 172.6333
+Birchwood, -45.9333, 167.8667
+Blenheim, -41.5167, 173.9500
+Bluff, -46.6000, 168.3333
+Brighton, -45.9500, 170.3333
+Broadwood, -35.2667, 173.3833
+Bruce Bay, -43.5833, 169.6833
+Brunner, -42.4500, 171.3167
+Bulls, -40.1667, 175.3833
+Cambridge, -37.8833, 175.4667
+Canvastown, -41.3000, 173.6667
+Cape Pattison, -43.7453, -176.8022
+Carterton, -41.0333, 175.5167
+Castlecliff, -39.9500, 174.9833
+Castlepoint, -40.9000, 176.2167
+Cave, -44.3167, 170.9500
+Chalmers > Port Chalmers, -45.8167, 170.6167
+Charleston, -41.9000, 171.4333
+Chatham Island, -43.8983, -176.5289
+Cheviot, -42.8167, 173.2667
+Christchurch, -43.5333, 172.6333
+Clarence, -42.1667, 173.9333
+Clinton, -46.2000, 169.3667
+Clive, -39.5833, 176.9167
+Clyde, -45.1833, 169.3167
+Coal Creek Flat, -45.4833, 169.3000
+Coalgate, -43.4833, 171.9667
+Collingwood, -40.6667, 172.6833
+Colville, -36.6333, 175.4667
+Coromandel, -36.7667, 175.5000
+Cromwell, -45.0500, 169.2000
+Cronadun, -42.0333, 171.8667
+Culverden, -42.7667, 172.8500
+Cust, -43.3167, 172.3667
+Dannevirke, -40.2000, 176.1167
+Dargaville, -35.9333, 173.8833
+Denniston, -41.7333, 171.8000
+Devonport, -36.8167, 174.8000
+Dipton, -45.9000, 168.3667
+Domett, -42.8500, 173.2167
+Donnellys Crossing, -35.7167, 173.6167
+Drummond, -46.1500, 168.1500
+Dunback, -45.3833, 170.6333
+Dunedin, -45.8667, 170.5000
+Dunsandel, -43.6667, 172.1833
+Duntroon, -44.8667, 170.6833
+East Coast Bays, -36.7500, 174.7667
+Eastbourne, -41.3000, 174.9000
+Edendale, -46.3167, 168.7833
+Edgecumbe, -37.9833, 176.8333
+Edievale, -45.8000, 169.3667
+Eketahuna, -40.6500, 175.7000
+Eltham, -39.4333, 174.3000
+Enfield, -45.0500, 170.8667
+Erua, -39.2333, 175.4000
+Eskdale, -39.4000, 176.8333
+Fairlie, -44.1000, 170.8333
+Featherston, -41.1167, 175.3333
+Feilding, -40.2167, 175.5667
+Fortrose, -46.5667, 168.8000
+Fox Glacier, -43.4667, 170.0000
+Foxton, -40.4667, 175.3000
+Foxton Beach, -40.4667, 175.2167
+Franz Josef Glacier, -43.4000, 170.1833
+Frasertown, -38.9667, 177.4000
+French Pass, -40.9333, 173.8333
+Galatea, -38.4167, 176.7500
+Geraldine, -44.0833, 171.2333
+Gisborne, -38.6667, 178.0167
+Glen Afton, -37.6167, 175.0333
+Glenavy, -44.9167, 171.1000
+Glenhope, -41.6500, 172.6500
+Glenorchy, -44.8500, 168.3833
+Gordonton, -37.6667, 175.3000
+Gore, -46.1000, 168.9667
+Granity, -41.6333, 171.8500
+Green Island, -45.9000, 170.4333
+Greerton, -37.7167, 176.1333
+Greymouth, -42.4667, 171.2000
+Greytown, -41.0833, 175.4500
+Haast, -43.8833, 169.0500
+Halcombe, -40.1500, 175.5000
+Half-Moon Bay, -46.9000, 168.1333
+Hamilton, -37.7833, 175.2833
+Hampden, -45.3167, 170.8167
+Hangatiki, -38.2500, 175.1667
+Hanmer Springs, -42.5167, 172.8167
+Harewood, -43.4833, 172.5833
+Harihari, -43.1500, 170.5500
+Hastings, -39.6333, 176.8500
+Havelock, -41.2833, 173.7667
+Havelock North, -39.6667, 176.8833
+Hawarden, -42.9333, 172.6333
+Hawera, -39.5833, 174.2833
+Hector, -41.6000, 171.8833
+Helensville, -36.6667, 174.4667
+Herbert, -45.2333, 170.7833
+Herekino, -35.2500, 173.2167
+Heriot, -45.8333, 169.2667
+Hexton, -38.6167, 177.9667
+Hicks Bay, -37.6000, 178.3000
+Hikurangi, -35.6000, 174.3000
+Hikutaia, -37.2833, 175.6500
+Hinds, -44.0000, 171.5667
+Hokitika, -42.7167, 170.9667
+Hornby, -43.5500, 172.5333
+Horotiu, -37.7167, 175.2000
+Horrelville, -43.3333, 172.3333
+Hunterville, -39.9333, 175.5667
+Huntly, -37.5500, 175.1667
+Hyde, -45.3000, 170.2500
+Ikamatua, -42.2667, 171.6833
+Inangahua Junction, -41.8500, 171.9500
+Inglewood, -39.1500, 174.2000
+Invercargill, -46.4000, 168.3500
+Johnsonville, -41.2333, 174.7833
