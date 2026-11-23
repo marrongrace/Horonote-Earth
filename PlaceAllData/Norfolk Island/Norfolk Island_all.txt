@@ -1,0 +1,9 @@
+Anson Bay, -29.0167, 167.9167
+Captain Cook Monument, -29.0000, 167.9333
+Kingston, -29.0500, 167.9667
+Melanesian Mission Station, -29.0333, 167.9167
+Nepean Island, -29.0667, 167.9667
+Norfolk Island, -29.0333, 167.9500
+Norfolk Island Aerodrome, -29.0500, 167.9333
+Rocky Point, -29.0500, 167.9167
+Steele's Point, -29.0333, 168.0000
