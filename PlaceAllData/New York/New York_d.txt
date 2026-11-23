@@ -1,0 +1,212 @@
+Dadville, 43.8067, -75.4750
+Dahlia, 41.9000, -74.8333
+Dairyland, 41.7469, -74.5378
+Daisy, 42.0558, -74.0881
+Dale, 42.8192, -78.1731
+Dalton, 42.5408, -77.9528
+Dalton Crossing, 44.8536, -75.1225
+Damascus, 42.0558, -75.6106
+Dams Corner, 43.1314, -75.5800
+Danby, 42.3522, -76.4811
+Danielstown, 43.2589, -73.7850
+Danley Corners, 42.8475, -78.3222
+Dann Corner, 42.9469, -77.6133
+Dannemora, 44.7214, -73.7242
+Dannemora Crossing, 44.8953, -73.7911
+Dansville, 42.5608, -77.6964
+Danube, 42.9833, -74.8000
+Danville, 42.0089, -75.4792
+Darien, 42.9019, -78.3506
+Darien Center, 42.9011, -78.3889
+Darrowsville, 43.6086, -73.8025
+Dashville, 41.8208, -74.0453
+Daughters of Jacob Hospital, 40.8317, -73.9128
+Davenport, 42.4717, -74.8450
+Davenport Center, 42.4481, -74.9194
+Davidson Beach, 43.3403, -77.7711
+Davis Corners, 41.9178, -74.2106
+Davis Crossing, 42.5625, -75.3578
+Davis Park, 40.6839, -73.0053
+Daws, 43.0444, -78.1925
+Day, 43.3167, -74.0000
+Day Center, 43.3089, -74.0169
+Days Corners, 42.9828, -75.1889
+Days Rock, 42.9703, -74.9614
+Daysville, 43.5286, -76.1828
+Daysville Corner, 43.5417, -76.1936
+Dayton, 42.4169, -78.9772
+Daytonville, 42.9772, -75.3433
+De Graff Memorial Hospital, 43.0256, -78.8628
+De Kalb, 44.4989, -75.3431
+De Lancey, 42.2056, -74.9711
+De Peyster, 44.5525, -75.4358
+De Ruyter, 42.7583, -75.8847
+Deaconess Hospital, 42.9086, -78.8450
+Dean, 42.3231, -79.4347
+Deans Corner, 41.3764, -73.6350
+Deans Corners, 43.0489, -73.6778
+Deans Mill, 42.4500, -73.8314
+Deansboro, 42.9950, -75.4289
+Debruce, 41.9136, -74.7275
+Decatur, 42.6442, -74.7256
+Deck, 42.9503, -74.8806
+Deckertown(Schuyler), 42.3436, -76.8322
+Deckertown(Sullivan), 41.9250, -74.8331
+Deer Park, 40.7617, -73.3297
+Deer River, 43.9297, -75.5894
+Deerfield(Oneida), 43.1194, -75.2192
+Deerfield(Suffolk), 40.9358, -72.3650
+Deerfield Heights, 43.1294, -75.2144
+Deerhead, 44.3522, -73.5436
+Deerland, 43.9386, -74.4608
+Deferiet, 44.0356, -75.6842
+Deforest Corners, 41.4453, -73.5500
+Defreestville, 42.6533, -73.6964
+Degrasse, 44.3497, -75.0761
+Degroff, 42.8836, -76.4994
+DeKalb Junction, 44.5050, -75.2742
+Delafield Hospital, 40.8392, -73.9450
+Delanson, 42.7453, -74.1886
+Delaware(Sullivan), 41.7667, -75.0000
+Delaware(Albany), 42.6500, -73.7833
+Delevan, 42.4892, -78.4811
+Delhi, 42.2781, -74.9164
+Dellwood, 42.9167, -78.5786
+Delmar, 42.6219, -73.8331
+Delphi Falls, 42.8764, -75.9139
+Delray, 42.8500, -78.7667
+Dempster Beach, 43.4500, -76.5000
+Dempster Corners, 43.0892, -74.5817
+Demster, 43.4961, -76.3172
+Demster Beach, 43.5142, -76.3092
+Denault Corners, 42.6006, -73.5175
+Denison Corner, 42.8358, -77.5731
+Denmark(Lewis), 43.8997, -75.5828
+Denmark(Steuben), 42.1569, -77.0533
+Dennies Crossing, 43.0736, -74.3100
+Dennies Hollow, 43.1275, -74.2522
+Denning, 41.9508, -74.4894
+Dennison Corners(Chautauqua), 42.4936, -79.1497
+Dennison Corners(Herkimer), 42.9608, -75.0150
+Denniston, 41.4600, -74.1061
+Dennytown, 41.4264, -73.8686
+Denton, 41.4047, -74.4042
+Denton Hills, 40.8833, -73.3667
+Denver, 42.2125, -74.5697
+Depauville, 44.1383, -76.0658
+Depew, 42.9039, -78.6925
+Deposit, 42.0600, -75.4281
+Derby, 42.6814, -78.9756
+Derbys Corners, 44.4083, -75.1528
+Dering Harbor, 41.0928, -72.3472
+Derrick, 44.3667, -74.4800
+Desbrough Park, 43.3025, -76.8314
+Deuels Corners, 42.7833, -78.7500
+Devereaux, 42.3336, -78.5653
+Devon, 40.9914, -72.1075
+Dewey, 43.1833, -77.6500
+Dewey Bridge, 43.4167, -73.4833
+DeWitt, 43.0350, -76.0658
+DeWitt Mills, 41.8556, -73.8833
+Dewittville, 42.2392, -79.4456
+Dexter, 44.0078, -76.0447
+Dexterville, 43.3233, -76.5011
+Diamond Hill, 43.0500, -74.8500
+Diamond Point, 43.4792, -73.6875
+Diana, 43.6000, -75.6833
+Diana Center, 44.0756, -75.4411
+Dibble Corner, 42.4286, -75.7119
+Dibbletown, 43.2803, -75.7106
+Dick-Urban, 42.9167, -78.7000
+Dickersonville, 43.1906, -78.9306
+Dickinson, 44.7483, -74.5650
+Dickinson Center, 44.7175, -74.5531
+Diddell, 41.6233, -73.8525
+Dillen, 43.8881, -75.9492
+Dimmick Corners, 43.2000, -73.6500
+Dineharts, 42.4489, -77.3136
+Dishaw, 44.8386, -75.0406
+Ditch Plains, 41.0406, -71.9183
+Divine Corners, 41.7903, -74.6661
+Divinity Hill, 40.9464, -72.2081
+Dix(Schuyler), 42.3333, -76.9167
+Dix(Oneida), 43.1656, -75.4625
+Dix Hills, 40.8167, -73.3500
+Dobbins Corner, 42.9061, -76.9633
+Dobbs Ferry, 41.0144, -73.8731
+Doctors Crossing, 43.0167, -78.5000
+Doctors Hospital(New York), 40.7758, -73.9447
+Doctors Hospital(Nassau), 40.6525, -73.5944
+Dodge, 42.0011, -79.0908
+Dogtail Corners, 41.6714, -73.5289
+Dogtown, 42.8417, -75.0828
+Dolgeville, 43.1008, -74.7733
+Dongan Hills, 40.5883, -74.0967
+Doodletown, 41.2994, -74.0031
+Doolins Crossing, 44.0847, -75.6783
+Doonan Corners, 42.3333, -74.8000
+Doraville, 42.1503, -75.5847
+Doris Park, 43.2442, -76.0253
+Dorloo, 42.7128, -74.6233
+Dormansville, 42.4994, -73.9950
+Douglas Crossing, 44.1819, -75.8192
+Douglass, 44.5000, -73.4833
+Douglaston, 40.7686, -73.7475
+Dover, 41.6500, -73.5667
+Dover Furnace, 41.6842, -73.5878
+Dover Plains, 41.7411, -73.5769
+Downsville, 42.0808, -74.9961
+Doxtater Corner, 43.1167, -74.7336
+Doyle, 42.8794, -78.7850
+Drakes Corner, 43.3767, -76.3428
+Dresden(Washington), 43.6725, -73.4111
+Dresden(Yates), 42.6839, -76.9561
+Dresden Station, 43.5500, -73.4000
+Dresserville, 42.7036, -76.3281
+Drews Corner, 44.8478, -75.1597
+Drewville Heights, 41.3919, -73.6364
+Driftwood, 42.1239, -79.3294
+Dryden, 42.4908, -76.2975
+Duane(Franklin), 44.6167, -74.2500
+Duane(Schenectady), 42.7542, -74.1489
+Duane Center, 44.6594, -74.2644
+Duanesburg, 42.7619, -74.1342
+Dublin, 42.9947, -76.9225
+Duboise Corner, 42.4978, -76.5578
+Dudley Settlement, 42.3042, -77.3403
+Duells Corner, 42.7469, -78.7486
+Dugway, 43.4614, -76.0819
+Dumbarton, 43.1622, -75.6619
+Dunbar, 42.1100, -75.7214
+Dundee, 42.5233, -76.9769
+Dunewood, 40.6333, -73.1833
+Dunham, 43.1000, -75.2500
+Dunham Hollow, 42.5850, -73.4850
+Dunham Manor, 43.1167, -75.3000
+Dunkirk, 42.4794, -79.3342
+Dunn Brook, 43.3872, -75.3819
+Dunnsville, 42.7397, -74.0147
+Dunraven, 42.1342, -74.6975
+Dunsbach Ferry, 42.7919, -73.7567
+Dunwoodie, 40.9283, -73.8642
+Dunwoodie Heights, 40.9253, -73.8683
+Durham, 42.3994, -74.1728
+Durhamville, 43.1206, -75.6714
+Durkeetown, 43.2467, -73.5328
+Durland, 41.2828, -74.3083
+Durlandville, 41.3506, -74.3886
+Durso Corner, 42.3367, -74.1286
+Dutch Flats, 42.7722, -78.2636
+Dutch Hollow(Orange), 41.2483, -74.2739
+Dutch Hollow(Wyoming), 42.7372, -78.4450
+Dutch Settlement(Oswego), 43.3244, -76.0778
+Dutch Settlement(Jefferson), 44.1167, -75.8092
+Dutcherville, 43.2889, -75.9575
+Dutchess Junction, 41.4744, -73.9792
+Dutchtown, 42.6197, -78.4831
+Dwaarkill, 41.6486, -74.2642
+Dwelly Corners, 42.7700, -74.3369
+Dyke, 42.2233, -77.0242
+Dykemans, 41.4342, -73.6189
+Dyker Heights, 40.6214, -74.0100
+Dysinger, 43.1339, -78.5744

@@ -1,0 +1,698 @@
+Cabinhill, 42.2000, -74.9667
+Cadiz, 42.3206, -78.4675
+Cadosia, 41.9758, -75.2672
+Cadyville, 44.6981, -73.6319
+Cagwin Corners, 43.1497, -75.5758
+Cahoonzie, 41.4500, -74.7125
+Cains Corners, 43.3053, -76.5972
+Cairo, 42.2989, -73.9989
+Cairo Junction, 42.2531, -73.9669
+Calcium, 44.0217, -75.8464
+Calcutta, 42.6328, -74.6767
+Caledonia, 42.9731, -77.8531
+Calico Colony, 42.8500, -73.8000
+Callanans Corners, 42.4667, -73.8000
+Callicoon, 41.7672, -75.0567
+Callicoon Center, 41.8367, -74.9469
+Calverton, 40.9064, -72.7439
+Cambria, 43.2000, -78.8167
+Cambria Center, 43.1778, -78.8197
+Cambria Heights, 40.6944, -73.7389
+Cambridge, 43.0281, -73.3817
+Camby, 41.7258, -73.6644
+Camden, 43.3344, -75.7483
+Cameron, 42.1992, -77.4067
+Cameron Mills, 42.1803, -77.3639
+Camillus, 43.0392, -76.3044
+Camp Hemlock, 41.5500, -74.4333
+Camp Hill, 41.1864, -74.0542
+Camp Lakeland, 42.6678, -79.0603
+Camp Pioneer, 42.6331, -79.0811
+Campbell(Steuben), 42.2331, -77.1978
+Campbell(Madison), 42.8056, -75.6175
+Campbell Hall, 41.4553, -74.2631
+Campbell Hall Junction, 41.4603, -74.2614
+Camps Mills, 43.9367, -76.0717
+Campville, 42.0875, -76.1492
+Camroden, 43.2528, -75.3556
+Canaan, 42.4119, -73.4475
+Canaan Center, 42.3864, -73.4556
+Canada Lake, 43.1742, -74.5119
+Canadice, 42.7369, -77.5419
+Canajoharie, 42.9056, -74.5722
+Canal Street, 40.7167, -74.0000
+Canandaigua, 42.8686, -77.3358
+Canarsie, 40.6436, -73.9011
+Canaseraga, 42.4614, -77.7772
+Canastota, 43.0794, -75.7511
+Canawaugus, 42.9269, -77.7797
+Candor, 42.2328, -76.3428
+Caneadea, 42.3864, -78.1539
+Canisteo, 42.2703, -77.6061
+Canisteo Center, 42.2656, -77.5792
+Cannon Corners, 44.9667, -73.6500
+Canoe Place, 40.8889, -72.5044
+Canoga, 42.8533, -76.7489
+Canoga Springs, 42.8511, -76.7669
+Canterbury Hill, 43.2567, -75.4158
+Canton, 44.5956, -75.1694
+Cape Vincent, 44.1278, -76.3333
+Capitol, 42.6667, -73.7833
+Capitol Hills, 41.3500, -74.1833
+Captain Kidd Estates, 40.9833, -72.5333
+Cardiff, 42.8897, -76.1436
+Cards Corners, 42.9892, -76.2508
+Cardtown, 42.6442, -75.2461
+Cadiz, 42.3206, -78.4675
+Cadosia, 41.9758, -75.2672
+Cadyville, 44.6981, -73.6319
+Cagwin Corners, 43.1497, -75.5758
+Cahoonzie, 41.4500, -74.7125
+Cains Corners, 43.3053, -76.5972
+Cairo, 42.2989, -73.9989
+Cairo Junction, 42.2531, -73.9669
+Calcium, 44.0217, -75.8464
+Calcutta, 42.6328, -74.6767
+Caledonia, 42.9731, -77.8531
+Calico Colony, 42.8500, -73.8000
+Callanans Corners, 42.4667, -73.8000
+Callicoon, 41.7672, -75.0567
+Callicoon Center, 41.8367, -74.9469
+Calverton, 40.9064, -72.7439
+Cambria, 43.2000, -78.8167
+Cambria Center, 43.1778, -78.8197
+Cambria Heights, 40.6944, -73.7389
+Cambridge, 43.0281, -73.3817
+Camby, 41.7258, -73.6644
+Camden, 43.3344, -75.7483
+Cameron, 42.1992, -77.4067
+Cameron Mills, 42.1803, -77.3639
+Camillus, 43.0392, -76.3044
+Camp Hemlock, 41.5500, -74.4333
+Camp Hill, 41.1864, -74.0542
+Camp Lakeland, 42.6678, -79.0603
+Camp Pioneer, 42.6331, -79.0811
+Campbell, 42.2331, -77.1978
+Campbell, 42.8056, -75.6175
+Campbell Hall, 41.4553, -74.2631
+Campbell Hall Junction, 41.4603, -74.2614
+Camps Mills, 43.9367, -76.0717
+Campville, 42.0875, -76.1492
+Camroden, 43.2528, -75.3556
+Canaan, 42.4119, -73.4475
+Canaan Center, 42.3864, -73.4556
+Canada Lake, 43.1742, -74.5119
+Canadice, 42.7369, -77.5419
+Canajoharie, 42.9056, -74.5722
+Canal Street, 40.7167, -74.0000
+Canandaigua, 42.8686, -77.3358
+Canarsie, 40.6436, -73.9011
+Canaseraga, 42.4614, -77.7772
+Canastota, 43.0794, -75.7511
+Canawaugus, 42.9269, -77.7797
+Candor, 42.2328, -76.3428
+Caneadea, 42.3864, -78.1539
+Canisteo, 42.2703, -77.6061
+Canisteo Center, 42.2656, -77.5792
+Cannon Corners, 44.9667, -73.6500
+Canoe Place, 40.8889, -72.5044
+Canoga, 42.8533, -76.7489
+Canoga Springs, 42.8511, -76.7669
+Canterbury Hill, 43.2567, -75.4158
+Canton, 44.5956, -75.1694
+Cape Vincent, 44.1278, -76.3333
+Capitol, 42.6667, -73.7833
+Capitol Hills, 41.3500, -74.1833
+Captain Kidd Estates, 40.9833, -72.5333
+Cardiff, 42.8897, -76.1436
+Cards Corners, 42.9892, -76.2508
+Cardtown, 42.6442, -75.2461
+Careys Corners, 43.1472, -75.2958
+Carle Place, 40.7525, -73.6108
+Carle Terrace, 41.9833, -74.0000
+Carley Mills, 43.3786, -76.1217
+Carlisle, 42.7569, -74.4461
+Carlisle Center, 42.7247, -74.4283
+Carlisle Gardens, 43.1792, -78.6561
+Carlton, 43.3278, -78.1911
+Carman, 42.7706, -73.9339
+Carmel, 41.4300, -73.6806
+Carmel Hills, 41.4044, -73.6711
+Carmel Park Estates, 41.4919, -73.7353
+Carmen, 42.7667, -73.9333
+Carmichael Hill, 43.3392, -75.3383
+Carnegie, 42.7472, -78.8456
+Caroga, 43.1333, -74.4833
+Caroga Lake, 43.1378, -74.4817
+Caroline, 42.3711, -76.4000
+Caroline Center, 42.3519, -76.3189
+Caroline Depot, 42.3700, -76.4039
+Carpenters Corners, 43.2186, -74.1544
+Carroll(Cattaraugus), 42.0064, -78.3281
+Carroll(Chautauqua), 42.0500, -79.1000
+Carrollton, 42.1083, -78.6519
+Carson, 42.2667, -77.6167
+Carson Peck Memorial Hospital, 40.6650, -73.9389
+Carterville, 43.3394, -75.8931
+Carthage, 43.9781, -75.6097
+Cascade, 42.7553, -76.4736
+Cascade Valley, 42.0022, -75.5794
+Case, 42.9000, -76.1000
+Casowasco, 42.7833, -76.4942
+Cass, 42.8833, -78.8167
+Cassadaga, 42.3442, -79.3097
+Cassville, 42.9458, -75.2547
+Castile, 42.6289, -78.0547
+Castle, 40.9167, -73.7833
+Castle Creek, 42.2275, -75.9186
+Castle Hill, 40.8500, -73.8667
+Castle Point, 41.5461, -73.9600
+Castleton Corners, 40.6131, -74.1228
+Castleton-on-Hudson, 42.5183, -73.7517
+Castorland, 43.8883, -75.5117
+Cat Elbow Corner, 42.5442, -76.8489
+Catatonk, 42.1569, -76.3078
+Catawba, 42.4956, -77.1603
+Catfish Corners, 43.3700, -76.2072
+Catharine, 42.3128, -76.7850
+Cathedral, 40.8000, -73.9667
+Catherineville, 44.6294, -74.7675
+Catlin, 42.2500, -76.9167
+Catlin Hill, 42.1047, -76.3381
+Cato, 43.1681, -76.5733
+Caton, 42.0561, -77.0281
+Cator Corners, 43.0939, -77.3022
+Catskill, 42.2172, -73.8650
+Cattaraugus, 42.3292, -78.8683
+Cattaraugus Indian Reservation, 42.4833, -78.9833
+Cattown, 42.7303, -75.0033
+Caughdenoy, 43.2725, -76.2075
+Cauterskill, 42.2200, -73.8917
+Cayuga, 42.9189, -76.7267
+Cayuga Heights, 42.4594, -76.4869
+Cayuga Junction, 42.8697, -76.7053
+Cayuta, 42.2817, -76.6972
+Cayutaville, 42.3897, -76.6975
+Caywood, 42.5653, -76.8642
+Cazenovia, 42.9300, -75.8531
+Cecil Park, 40.9750, -73.8189
+Cedar Bluffs, 43.0392, -73.7136
+Cedar Cliff, 41.5864, -73.9600
+Cedar Flats, 41.2408, -74.0244
+Cedar Hill, 42.5444, -73.7739
+Cedar Knolls, 40.9481, -73.8408
+Cedar Lake, 42.9581, -75.1797
+Cedar Manor, 40.6906, -73.7908
+Cedar Swamp, 43.0258, -77.6306
+Cedarcrest, 42.8056, -77.7008
+Cedarhurst, 40.6228, -73.7247
+Cedars, 44.4911, -75.6369
+Cedarvale, 42.9658, -76.2497
+Cedarville, 42.9306, -75.1131
+Cedarville Station, 42.9028, -75.1211
+Celoron, 42.1094, -79.2833
+Cementon, 42.1350, -73.9250
+Centenary, 41.1778, -73.9661
+Center Berlin, 42.6608, -73.3692
+Center Brunswick, 42.7167, -73.6833
+Center Cambridge, 42.9947, -73.4564
+Center Falls, 43.0992, -73.4589
+Center Lisle, 42.3583, -76.0619
+Center Moriches, 40.8003, -72.7903
+Center Valley, 42.7578, -74.6861
+Center Village, 42.1675, -75.6136
+Center White Creek, 42.9703, -73.3781
+Centerbury Hill, 43.2167, -75.4333
+Centereach, 40.8583, -73.1000
+Centerfield, 42.8814, -77.3592
+Centerport(Cayuga), 43.0408, -76.5931
+Centerport(Suffolk), 40.8853, -73.3767
+Centerville(Delaware), 42.0150, -75.1322
+Centerville(Oswego), 43.5478, -76.0447
+Centerville(Allegany), 42.4797, -78.2500
+Centerville(Suffolk), 40.9694, -72.6922
+Centerville(Ulster), 42.0842, -74.0136
+Central, 40.7000, -73.8000
+Central Bridge, 42.7111, -74.3392
+Central Islip, 40.7906, -73.2022
+Central Islip State Hospital, 40.7786, -73.1961
+Central Nyack, 41.0939, -73.9506
+Central Square, 43.2867, -76.1464
+Central Suffolk Hospital, 40.9339, -72.6742
+Central Valley, 41.3317, -74.1214
+Central White Plains, 41.0167, -73.7833
+Centralia, 42.2586, -79.3481
+Centre Island, 40.9017, -73.5203
+Centuck, 40.9667, -73.8500
+Ceres, 41.9994, -78.2692
+Chace, 42.6653, -78.0661
+Chadwicks, 43.0278, -75.2719
+Chaffee, 42.5681, -78.4792
+Chaffee Hospital, 42.5086, -78.6592
+Chamberlain Corners, 44.7500, -75.1333
+Chambers, 42.2622, -76.9569
+Champion, 43.9622, -75.6906
+Champion Huddle, 43.9833, -75.6167
+Champlain, 44.9864, -73.4469
+Champlain Park, 44.7167, -73.4000
+Chapel Hill Estates, 41.2833, -73.7667
+Chapin, 42.9186, -77.2350
+Chapinville, 42.7350, -75.1828
+Chappaqua, 41.1594, -73.7653
+Charleston(Richmond), 40.5367, -74.2378
+Charleston(Montgomery), 42.8458, -74.3417
+Charleston Four Corners, 42.8028, -74.3994
+Charlesworth Corners, 42.9664, -74.6864
+Charlotte(Chautauqua), 42.3000, -79.2333
+Charlotte(Monroe), 43.2550, -77.6172
+Charlotte Center, 42.3044, -79.2381
+Charlotteville, 42.5453, -74.6650
+Charlton, 42.9333, -73.9694
+Chase, 42.6686, -74.9908
+Chase Lake, 43.7167, -75.4000
+Chase Mills, 44.8489, -75.0811
+Chaseville, 42.5406, -74.8567
+Chasm Falls, 44.7572, -74.2192
+Chateaugay(Franklin), 44.9264, -74.0800
+Chateaugay(Oswego), 43.5739, -75.9625
+Chatfield Corner, 43.1081, -73.9431
+Chatham, 42.3642, -73.5953
+Chatham Center, 42.4181, -73.6144
+Chaumont, 44.0669, -76.1306
+Chauncey, 41.0025, -73.8569
+Chautauqua, 42.2097, -79.4669
+Chazy, 44.8897, -73.4364
+Chazy Lake, 44.9000, -73.8000
+Chazy Landing, 44.8872, -73.3786
+Chedwel, 42.2164, -79.4356
+Cheektowaga, 42.9000, -78.7500
+Chelsea(Dutchess), 41.5536, -73.9672
+Chelsea(Richmond), 40.6006, -74.1953
+Chemung, 42.0083, -76.6242
+Chenango, 42.2000, -75.8833
+Chenango Bridge, 42.1667, -75.8628
+Chenango Forks, 42.2356, -75.8486
+Chenango Hospital, 42.5417, -75.5261
+Chenango Lake, 42.5850, -75.4356
+Cheneys Point, 42.1000, -79.3833
+Cheningo, 42.6597, -75.9989
+Chepachet, 42.9108, -75.1214
+Cherokee, 40.7833, -73.9667
+Cherry Creek, 42.2944, -79.1000
+Cherry Grove, 40.6589, -73.0894
+Cherry Hill, 42.0108, -79.4117
+Cherry Valley, 42.7956, -74.7536
+Cherry Valley Junction, 42.6833, -74.4833
+Cherryplain, 42.6294, -73.3608
+Cherrytown, 41.8250, -74.3297
+Cherrywood Shopping Center, 41.0667, -73.5000
+Cheshire, 42.8214, -77.3278
+Chester, 41.3625, -74.2717
+Chester Hill Park, 40.9233, -73.8228
+Chesterfield, 44.4833, -73.4667
+Chestertown, 43.6525, -73.8014
+Chestnut Hill, 43.1167, -76.2000
+Chestnut Ridge(Niagara), 43.1500, -78.5833
+Chestnut Ridge(Dutchess), 41.7308, -73.6300
+Cheviot, 42.1250, -73.9042
+Chichester, 42.1017, -74.3097
+Childrens Hospital, 42.9094, -78.8758
+Childs, 43.2867, -78.1919
+Childwold, 44.2864, -74.6636
+Chili, 43.1000, -77.7333
+Chili Center, 43.1072, -77.7458
+Chiloway, 41.9672, -75.0439
+Chilson, 43.8772, -73.5292
+Chimney Corners, 41.2297, -73.9086
+China, 42.1447, -75.4006
+Chinatown, 40.7164, -73.9967
+Chipman, 44.7811, -75.1964
+Chipman Corners, 42.6328, -76.3756
+Chipmunk, 42.0569, -78.5756
+Chippewa Bay, 44.4419, -75.7572
+Chittenango, 43.0450, -75.8669
+Chittenango Falls, 42.9783, -75.8372
+Chittenango Springs, 43.0175, -75.8514
+Choconut Center, 42.1428, -75.9439
+Christian Hill(Tompkins), 42.4786, -76.6725
+Christian Hill(Warren), 43.7372, -74.0792
+Chuckery Corners, 43.0322, -75.3294
+Church Corners, 42.9789, -74.2817
+Church Street, 40.7167, -74.0000
+Churchtown, 42.1761, -73.7192
+Churchville(Monroe), 43.1042, -77.8847
+Churchville(Oneida), 43.1897, -75.5767
+Churchville Greene, 43.1000, -77.8833
+Churubusco, 44.9539, -73.9319
+Cicero, 43.1756, -76.1197
+Cicero Center, 43.1789, -76.0411
+Cincinnatus, 42.5422, -75.8961
+Circleville, 41.5142, -74.3839
+City Island, 40.8472, -73.7869
+Clairemont Farms, 43.1167, -76.2000
+Clare, 44.4014, -75.0628
+Claremont Park, 40.8500, -73.9000
+Clarence, 42.9767, -78.5922
+Clarence Center, 43.0106, -78.6378
+Clarendon, 43.1933, -78.0650
+Clark, 42.1244, -79.0986
+Clark Corners(Oswego), 43.4375, -76.4264
+Clark Corners(Lewis), 43.8836, -75.6611
+Clark Heights, 41.7317, -73.8436
+Clark Mills, 43.0922, -75.3800
+Clark Point, 43.8253, -76.2694
+Clarks Corner, 43.2214, -73.6419
+Clarks Corners, 42.1667, -79.1000
+Clarks Mill, 43.1181, -73.5692
+Clarksburg, 42.6197, -78.8317
+Clarkson, 43.2331, -77.9278
+Clarkstown, 41.1000, -73.9333
+Clarksville(Albany), 42.5758, -73.9644
+Clarksville(Allegany), 42.1333, -78.2500
+Clarkville, 43.2433, -74.1233
+Claryville, 41.9183, -74.5728
+Clason Point, 40.8056, -73.9500
+Classon, 40.6833, -73.9667
+Claverack, 42.2250, -73.7350
+Clay, 43.1858, -76.1728
+Clayburg, 44.5964, -73.8386
+Clayton, 44.2394, -76.0861
+Clayton Center, 44.1917, -76.0425
+Clayville, 42.9800, -75.2514
+Clear Creek, 42.2208, -79.0606
+Clear, Lake, 44.3675, -74.2331
+Clearfield, 42.9833, -78.7500
+Cleaver, 42.1806, -75.2358
+Clemons, 43.6364, -73.4458
+Clermont, 42.0850, -73.8275
+Cleveland, 43.2403, -75.8842
+Cleveland Hill, 42.9447, -78.7844
+Cleverdale, 43.4772, -73.6431
+Cliff Haven, 44.6586, -73.4414
+Clifford, 43.3817, -76.2856
+Cliffside, 42.5139, -74.9828
+Clifton(Richmond), 40.6200, -74.0775
+Clifton(Monroe), 43.0522, -77.8150
+Clifton(St Lawrence), 44.1833, -74.9333
+Clifton Gardens, 42.8500, -73.8000
+Clifton Heights, 42.7358, -78.9169
+Clifton Knolls, 42.8500, -73.8000
+Clifton Park, 42.8667, -73.7333
+Clifton Park Center, 42.8583, -73.8208
+Clifton Springs, 42.9617, -77.1403
+Climax, 42.3658, -73.8514
+Clint-Wood Center, 43.1500, -77.5500
+Clinton, 43.0483, -75.3789
+Clinton Corners, 41.8300, -73.7628
+Clinton Heights, 42.6189, -73.7344
+Clinton Hollow, 41.8450, -73.8164
+Clinton Mills, 44.9606, -73.8806
+Clinton Park(Clinton), 44.7000, -73.4333
+Clinton Park(Rensselaer), 42.6242, -73.7289
+Clintondale, 41.6947, -74.0517
+Clintondale Station, 41.7164, -74.0597
+Clintonville(Otsego), 42.6142, -74.9586
+Clintonville(Clinton), 44.4656, -73.5831
+Clintonville(Onondaga), 42.9322, -76.3497
+Clockville, 43.0417, -75.7450
+Clough Corners, 42.3333, -75.9667
+Clove(Schoharie), 42.6822, -74.5825
+Clove(Dutchess), 41.6708, -73.6753
+Clove Valley, 41.6353, -73.6889
+Clover Bank, 42.7472, -78.8900
+Clums Corner, 42.7506, -73.5725
+Cluny Point, 42.8250, -77.7097
+Clyde, 43.0842, -76.8697
+Clymer, 42.0208, -79.6303
+Clymer Center, 42.0533, -79.5781
+Clymer Hill, 42.0608, -79.6153
+Cobb, 40.9011, -72.3556
+Cobbtown, 43.7256, -76.0442
+Cobleskill, 42.6778, -74.4858
+Cochecton, 41.7058, -75.0608
+Cochecton Center, 41.6547, -74.9831
+Coeymans, 42.4739, -73.7928
+Coeymans Hollow, 42.4717, -73.8950
+Coffins Mills, 44.1722, -75.0856
+Cohocton, 42.5022, -77.5075
+Cohoes, 42.7742, -73.7006
+Cohoes Memorial Hospital, 42.7742, -73.7250
+Coila, 43.0358, -73.4014
+Cokertown, 42.0192, -73.8217
+Colburns, 42.1389, -79.3600
+Colchester, 42.1603, -75.0778
+Cold Brook(Herkimer), 43.2417, -75.0392
+Cold Brook(Ulster), 42.0131, -74.2703
+Cold Brook Estates, 42.7667, -73.9333
+Cold Spring(Cayuga), 42.9497, -76.5775
+Cold Spring(Cattaraugus), 42.0969, -78.8650
+Cold Spring(Putnam), 41.4200, -73.9550
+Cold Spring Harbor, 40.8714, -73.4572
+Cold Spring Park, 43.9983, -73.4753
+Cold Spring Terrace, 40.8500, -73.3833
+Cold Springs(Seneca), 42.6056, -76.6769
+Cold Springs(Onondaga), 43.1328, -76.2572
+Cold Springs(Steuben), 42.3744, -77.2828
+Coldbrook(Erie), 43.0167, -78.9500
+Coldbrook(Schenectady), 42.7786, -73.9442
+Colden, 42.6442, -78.6850
+Colden Hill, 41.5167, -74.1167
+Coldenham, 41.5256, -74.1533
+Coldwater, 43.1358, -77.7356
+Colegrave, 42.7361, -78.5550
+Coleman Station, 41.9017, -73.5189
+Colemans Mills, 43.1294, -75.3464
+Coler Memorial Hospital And Home, 40.7711, -73.9419
+Colesville, 42.1667, -75.6667
+Colgate, 42.8167, -75.5500
+Collabar, 41.5342, -74.3172
+Collamer(Monroe), 43.2972, -77.8133
+Collamer(Onondaga), 43.1047, -76.0606
+College, 40.8167, -73.9500
+College Park, 42.0192, -73.8819
+College Point, 40.7875, -73.8464
+Colliersville, 42.4908, -74.9825
+Collingwood, 42.8675, -76.0833
+Collingwood Estates, 43.2289, -79.0483
+Collins, 42.4964, -78.9208
+Collins Center, 42.4936, -78.8517
+Collins Landing, 44.3003, -75.9808
+Collinsville, 43.6103, -75.3844
+Colonial Acres(Albany), 42.6000, -73.7667
+Colonial Acres(Westchester), 40.9753, -73.7603
+Colonial Heights(Westchester), 40.9597, -73.8417
+Colonial Heights(Dutchess), 41.7139, -73.8586
+Colonial Park(Oneida), 43.2208, -75.4361
+Colonial Park(New York), 40.8333, -73.9333
+Colonial Springs, 40.7500, -73.3667
+Colonial Village, 43.1350, -78.9661
+Colonie, 42.7178, -73.8339
+Colosse, 43.4203, -76.1592
+Colton, 44.5531, -74.9400
+Columbia, 42.9333, -75.0333
+Columbia Center, 42.9325, -75.0375
+Columbia Memorial Hospital, 42.2464, -73.7778
+Columbia University, 40.8000, -73.9667
+Columbiaville, 42.3183, -73.7536
+Columbus, 42.6839, -75.3731
+Columbus Circle, 40.8000, -74.1000
+Columbus Quarter, 42.7103, -75.3178
+Colvin, 43.0167, -76.1500
+Commack, 40.8428, -73.2933
+Como, 42.6733, -76.2772
+Comstock, 43.4572, -73.4419
+Comstock Corners, 43.1447, -78.7825
+Comstock Tract, 43.1500, -76.3333
+Concord(Erie), 42.5353, -78.7311
+Concord(Richmond), 40.6081, -74.0847
+Conesus, 42.7189, -77.6767
+Conesus Lake Junction, 42.8556, -77.7058
+Conesville, 42.3872, -74.3767
+Conewango, 42.2386, -79.0314
+Conewango Valley, 42.2408, -79.0611
+Coney Island(St Lawrence), 44.6061, -74.9719
+Coney Island(Kings), 40.5778, -73.9944
+Coney Island Hospital, 40.5853, -73.9653
+Conger Corners, 42.9194, -75.4114
+Congers, 41.1506, -73.9458
+Conifer, 44.2167, -74.6133
+Conklin, 42.0342, -75.8042
+Conklin Center, 42.0561, -75.8072
+Conklin Cove, 42.8422, -76.5053
+Conklin Forks, 42.0236, -75.8569
+Conklin Station, 42.0225, -75.7975
+Conklingville, 43.3156, -73.9353
+Connelly, 41.9100, -73.9917
+Connelly Park, 42.1431, -79.3989
+Conquest, 43.1211, -76.6483
+Constable, 44.9292, -74.2975
+Constableville, 43.5667, -75.4289
+Constantia, 43.2478, -76.0006
+Constantia Center, 43.2806, -75.9222
+Continental Village, 41.3400, -73.9042
+Convalescent Hospital for Children, 43.0800, -77.7031
+Converse, 44.6803, -74.8250
+Cook Corners(Chautauqua), 42.4772, -79.2581
+Cook Corners(Montgomery), 42.9292, -74.5522
+Cook Corners(St Lawrence), 44.2419, -74.8853
+Cooks Falls, 41.9478, -74.9808
+Cooks Mill, 44.9628, -74.1311
+Cooksburg, 42.4206, -74.2056
+Cookville, 43.0097, -78.3269
+Cooley, 41.8717, -74.7094
+Coolidge Beach, 43.3058, -78.8675
+Cooney Crossing, 43.0858, -77.2392
+Coonrod, 43.2483, -75.5236
+Coons, 42.9186, -73.7464
+Cooper, 40.7333, -73.9833
+Coopers Corners, 41.6714, -74.7514
+Coopers Falls, 44.5178, -75.3386
+Coopers Plains, 42.1822, -77.1419
+Cooperstown, 42.7006, -74.9247
+Cooperstown Junction, 42.4917, -74.9575
+Coopersville(Livingston), 42.6036, -77.9117
+Coopersville(Franklin), 44.9431, -73.4083
+Copake, 42.1033, -73.5506
+Copake Falls, 42.1194, -73.5256
+Copake Lake, 42.1833, -73.5833
+Copenhagen, 43.8933, -75.6739
+Copes Corner, 42.4392, -75.3481
+Copiague, 40.6814, -73.4003
+Coram, 40.8686, -73.0019
+Corbett, 42.0433, -75.0222
+Corbettsville, 42.0156, -75.7908
+Corbin Corner, 42.4469, -75.7256
+Cordova, 42.4492, -79.3544
+Coreys, 44.4144, -74.3167
+Corfu, 42.9600, -78.4058
+Corinth, 43.2444, -73.8328
+Cork, 43.0447, -74.4611
+Corners, 42.4667, -76.4833
+Corning, 42.1428, -77.0550
+Corning Manor, 42.1208, -77.0056
+Cornwall, 41.4447, -74.0161
+Cornwall Landing, 41.4433, -74.0008
+Cornwall on the Hudson, 41.4500, -74.0167
+Cornwallville, 42.3681, -74.1586
+Corona, 40.7469, -73.8606
+Corrado Corners, 43.0311, -75.0772
+Correction Hospital, 40.7589, -73.9531
+Cortland, 42.6011, -76.1808
+Cortlandt, 41.2833, -73.9000
+Cortlandville, 42.6000, -76.1667
+Corwin, 43.2525, -78.6936
+Cosmos Heights, 42.5833, -76.2000
+Coss Corners, 42.2814, -77.3658
+Cossayuna, 43.1836, -73.4272
+Coteys Corner, 44.7761, -74.6733
+Cottage, 42.4239, -79.0444
+Cottage City, 42.8111, -77.2597
+Cottage Park, 42.2367, -79.4933
+Cottekill, 41.8514, -74.1025
+Cottons, 43.0417, -75.7822
+Cottonwood Cove, 42.7603, -77.7269
+Cottonwood Point, 42.7506, -77.7267
+Country Knolls, 42.9167, -73.8167
+Country Life Press, 40.7333, -73.6500
+Country Ridge Estates, 41.0000, -73.6667
+County Home and Infirmary, 43.1133, -77.6189
+County Line, 43.3464, -78.4661
+Couse, 42.6194, -73.7025
+Cove Neck, 40.8822, -73.5064
+Covel Corner, 42.7494, -77.3636
+Coventry, 42.3158, -75.6389
+Coventryville, 42.3133, -75.5986
+Covert, 42.5753, -76.6839
+Coveville, 43.0603, -73.5958
+Coveytown Corners, 44.9000, -74.1667
+Covington, 42.8533, -78.0106
+Cowan Corner, 44.0547, -75.5503
+Cowdens Corner, 42.4092, -79.2761
+Cowles Settlement, 42.7881, -75.9261
+Cowlesville, 42.8433, -78.4692
+Coxsackie, 42.3508, -73.8033
+Crab Meadow, 40.9250, -73.3325
+Crafts, 41.3922, -73.6981
+Cragsmoor, 41.6733, -74.3858
+Craigie Clair, 41.9642, -74.8667
+Craigs, 42.8608, -77.9219
+Craigsville, 41.3500, -74.2667
+Craigville, 41.3858, -74.2392
+Crains Mills, 42.7094, -76.0058
+Cranberry Creek, 43.1556, -74.2200
+Cranberry Lake, 44.2225, -74.8367
+Crandall Corners, 42.9550, -73.5719
+Cranes Corners, 42.9856, -75.1242
+Cranesville, 42.9172, -74.1353
+Cranford, 40.9000, -73.8667
+Crary Mills, 44.5775, -75.0672
+Craryville, 42.1747, -73.5833
+Craterclub, 44.2869, -73.3506
+Crawford, 41.6556, -74.3286
+Creedmore State Hospital, 40.7356, -73.7308
+Creek Beach, The, 41.0094, -72.1817
+Creeklocks, 41.8706, -74.0444
+Creekside, 42.6917, -78.7831
+Crescent, 42.8242, -73.7333
+Crescent Beach(Richmond), 40.6333, -74.1000
+Crescent Beach(Monroe), 43.2836, -77.6628
+Crescent Park, 42.9606, -74.1619
+Crescent Station, 42.7983, -73.7342
+Crest View Heights, 42.0717, -76.1175
+Crestview, 42.0972, -78.4872
+Crestwood, 40.9600, -73.8247
+Crestwood Gardens, 40.9681, -73.8208
+Cribbs Corner, 43.3772, -76.2700
+Crittenden(Erie), 42.9461, -78.4850
+Crittenden(Monroe), 43.1036, -77.6411
+Crocketts, 43.3272, -76.6278
+Crofts Corners, 41.3647, -73.8675
+Croghan, 43.8958, -75.3928
+Crompond, 41.2950, -73.8658
+Cronomer Valley, 41.5528, -74.0636
+Cropseyville, 42.7489, -73.5578
+Crosby, 42.5486, -77.0969
+Crosbyside, 43.4181, -73.6969
+Cross County Hospital, 40.9275, -73.8539
+Cross River, 41.2622, -73.6150
+Cross Roads, 42.8778, -76.6836
+Cross Roads Estates, 41.2833, -73.7667
+Croton, 42.2667, -76.8500
+Croton Falls, 41.3472, -73.6614
+Croton Heights, 41.2467, -73.7839
+Croton-on-Hudson, 41.2083, -73.8917
+Crotona Park, 40.8333, -73.8667
+Crotonville, 41.1875, -73.8706
+Crown Point, 43.9503, -73.4375
+Crown Point Center, 43.9417, -73.4694
+Crown Village, 40.8500, -73.4500
+Crowningshield, 44.3206, -73.5136
+Crugers, 41.2333, -73.9231
+Crum Creek, 43.0394, -74.7142
+Crum Town, 42.2553, -76.4450
+Crystal Beach, 42.8136, -77.2639
+Crystal Brook, 40.9478, -73.0425
+Crystal Dale, 43.8214, -75.3333
+Crystal Lake(Cattaraugus), 42.4333, -78.3667
+Crystal Lake(Albany), 42.5167, -74.1333
+Crystal Run, 41.4594, -74.3411
+Crystal Spring, 42.4878, -77.0522
+Cuba, 42.2175, -78.2756
+Cuddebackville, 41.4672, -74.5942
+Cullen, 42.8822, -74.9625
+Culvertown, 41.5575, -74.5572
+Cumberland Hospital, 40.6950, -73.9769
+Cummings Crossing, 42.7739, -76.1197
+Cummingsville, 42.5714, -77.7200
+Curriers, 42.6206, -78.4178
+Curry, 41.8583, -74.5817
+Currytown, 42.8581, -74.4644
+Curtis(Steuben), 42.2072, -77.1700
+Curtis(Herkimer), 43.1731, -74.8114
+Curtis Corner, 42.7894, -77.5431
+Cutchogue, 41.0106, -72.4856
+Cutchogue Station, 41.0214, -72.4983
+Cutting, 42.0242, -79.6961
+Cuyler, 42.7372, -75.9489
+Cuylerville, 42.7769, -77.8711
+Cypress Hills, 40.6833, -73.8667

@@ -1,0 +1,298 @@
+Idaho, 42.8617, -77.5558
+Ideal Hospital, 42.0914, -76.0686
+Idle Hour, 40.7333, -73.1333
+Idlewood, 42.7167, -78.9333
+Igerna, 43.7242, -73.9214
+Ilion, 43.0150, -75.0358
+Inavale, 42.1406, -78.0892
+Independence, 42.0881, -77.7817
+Index, 42.6653, -74.9594
+Indian Castle, 43.0081, -74.7897
+Indian Cove, 42.7717, -76.4681
+Indian Falls, 43.0250, -78.3981
+Indian Hill, 41.2600, -74.1742
+Indian Kettles, 43.7733, -73.4889
+Indian Lake, 43.7825, -74.2722
+Indian Landing, 40.7786, -72.8922
+Indian Park, 41.2083, -74.3125
+Indian River, 43.9764, -75.3692
+Indian Springs, 43.1500, -76.3333
+Indian Village, 42.9439, -76.1628
+Ingalls Crossing, 43.3047, -76.3489
+Ingham Mills, 43.0575, -74.7642
+Ingham Mills Station, 43.0464, -74.7844
+Ingleside, 42.5608, -77.3939
+Ingraham, 44.8108, -73.4350
+Ings, 43.0833, -73.7833
+Inlet, 43.7544, -74.7933
+Inman, 44.5000, -74.1167
+Interlaken, 42.6169, -76.7253
+Interlaken Beach, 42.6264, -76.6875
+International Junction, 42.9667, -78.8500
+Invale, 42.2000, -78.1333
+Inverness, 42.8928, -77.8697
+Inwood(New York), 40.8656, -73.9272
+Inwood(Nassau), 40.6219, -73.7472
+Ionia(Onondaga), 43.0967, -76.3817
+Ionia(Ontario), 42.9314, -77.4922
+Ira, 43.2214, -76.5567
+Ireland Corners, 41.6747, -74.1331
+Irelandville, 42.4025, -76.9092
+Irish Settlement(St Lawrence), 44.4825, -74.8725
+Irish Settlement(Herkimer), 43.1522, -75.0639
+Irishtown, 43.7989, -73.9408
+Iron Furnace, 43.4953, -73.5458
+Irona, 44.9047, -73.7061
+Irondale(Dutchess), 41.9672, -73.5253
+Irondale(Herkimer), 43.1625, -74.7789
+Irondequoit, 43.2167, -77.5833
+Irondequoit Manor, 43.2167, -77.6000
+Irongate, 43.1167, -76.2000
+Ironsides, 42.9208, -76.2136
+Ironton, 44.8983, -74.6858
+Ironville, 43.9225, -73.5361
+Iroquois, 42.5328, -78.9861
+Irvine Mills, 42.0647, -78.6372
+Irving, 42.5675, -79.1131
+Irvington, 41.0389, -73.8656
+Ischua, 42.2475, -78.4000
+Island Cottage Beach, 43.2772, -77.6472
+Island Park, 40.6042, -73.6558
+Isle of San Souci, 40.9008, -73.7683
+Islip, 40.7297, -73.2108
+Islip Manor, 40.7333, -73.2167
+Islip Terrace, 40.7431, -73.1931
+Italy, 42.6117, -77.2922
+Italy Hill, 42.5961, -77.2492
+Itaska, 42.2989, -75.9083
+Ithaca, 42.4406, -76.4969
+Ithaca Junction, 42.9333, -76.5500
+Ivanhoe, 42.2322, -75.3261
+Ives Corner, 42.6856, -73.5261
+Ives Hollow, 43.1422, -74.8258
+Ives Settlement, 42.3844, -75.4639
+Ivory, 42.0706, -79.0972
+Jacks Reef, 43.0992, -76.4244
+Jackson, 43.0667, -73.4000
+Jackson Corners, 42.0167, -73.7453
+Jackson Heights, 40.7556, -73.8858
+Jackson Summit, 43.1342, -74.2844
+Jacksonburg, 43.0142, -74.9156
+Jacksonville(Onondaga), 43.2150, -76.4217
+Jacksonville(Tompkins), 42.5083, -76.6153
+Jamaica, 40.6914, -73.8061
+Jamaica Hospital, 40.7008, -73.8172
+Jamesport, 40.9494, -72.5819
+Jamestown, 42.0969, -79.2356
+Jamestown West, 42.0833, -79.2833
+Jamesville, 42.9919, -76.0719
+Jamison Road, 42.8050, -78.6214
+Janacks Landing Shelter, 44.1117, -74.8919
+Janesville, 42.7061, -74.5786
+Jaquins, 42.0167, -79.6092
+Jasper, 42.1225, -77.5033
+Java, 42.6500, -78.3833
+Java Center, 42.6500, -78.3861
+Java Lake, 42.5333, -78.4333
+Java Village, 42.6725, -78.4364
+Jay, 44.3750, -73.7286
+Jayville, 44.1567, -75.1886
+Jeddo, 43.2553, -78.4575
+Jefferson(Greene), 42.2167, -73.8500
+Jefferson(Schoharie), 42.4811, -74.6108
+Jefferson Heights, 42.2339, -73.8828
+Jefferson Mall, 43.0833, -77.6333
+Jefferson Park, 43.7783, -76.2192
+Jefferson Plaza, 43.0000, -78.1833
+Jefferson Valley, 41.3381, -73.7911
+Jeffersonville, 41.7808, -74.9342
+Jenkinstown, 41.6969, -74.1019
+Jenksville, 42.2697, -76.2436
+Jerden Falls, 44.0128, -75.3225
+Jericho(Suffolk), 40.9542, -72.2042
+Jericho(Nassau), 40.7919, -73.5403
+Jericho(Clinton), 44.7942, -73.6631
+Jericon Corners, 43.0892, -77.9769
+Jersalem, 44.8075, -73.7458
+Jersalem Hill, 42.9775, -75.1464
+Jersey Colony, 41.0667, -72.4333
+Jerusalem, 42.6167, -77.1333
+Jerusalem Corners, 42.6831, -79.0153
+Jewel Manor, 43.1167, -76.2000
+Jewell, 43.2244, -75.8069
+Jewell Corner, 43.1858, -73.6197
+Jewett, 42.2703, -74.3033
+Jewett Center, 42.2364, -74.3178
+Jewettville(Jefferson), 43.9539, -76.0906
+Jewettville(Erie), 42.7236, -78.6817
+Jewish Hospital, 40.6756, -73.9594
+Jewish Hospital for Chronic Diseases, 40.6597, -73.9333
+Jobs Corner, 42.3989, -77.5572
+Jockey Hill, 41.9881, -74.0503
+John F Kennedy Intl Airport, 40.6667, -73.7833
+Johnsburg, 43.6183, -73.9617
+Johnson, 41.3661, -74.5069
+Johnson City, 42.1156, -75.9592
+Johnson Corners, 43.0717, -75.0594
+Johnson Creek, 43.2456, -78.5156
+Johnsonburg, 42.7375, -78.3097
+Johnsonville, 42.9144, -73.5142
+Johnstown, 43.0067, -74.3681
+Jones Beach(Onondaga), 42.9047, -76.3944
+Jones Beach(Orleans), 43.3744, -78.1483
+Jones Corners, 43.4586, -76.3836
+Jones Crossing, 42.6281, -75.0542
+Jones Point(Onondaga), 43.1083, -76.4631
+Jones Point(Rockland), 41.2861, -73.9564
+Jonesville, 42.9100, -73.8242
+Jordan, 43.0653, -76.4733
+Jordanville, 42.9147, -74.9519
+Joscelyn, 41.9536, -74.8608
+Joshua, 42.9158, -76.2433
+Joy, 43.1922, -77.0933
+Juddville, 42.8811, -75.8331
+Junction, 42.9286, -78.0264
+Junction Boulevard, 40.7500, -73.8833
+Junius, 42.9833, -77.1833
+Kabob, 42.2833, -79.3156
+Kaisertown, 41.5072, -74.2844
+Kallops Corners, 41.8603, -74.0706
+Kalurah, 44.1600, -75.2106
+Kanona, 42.3722, -77.3661
+Karlsfeld, 42.6489, -73.8422
+Karner, 42.7233, -73.8578
+Karrdale, 42.3211, -77.8211
+Karter, 44.0228, -75.5092
+Kasoag, 43.4614, -75.9239
+Kast Bridge, 43.0700, -74.9906
+Katonah, 41.2589, -73.6858
+Katsbaan, 42.1108, -73.9686
+Kattellville, 42.2000, -75.8594
+Kattskill Bay, 43.4833, -73.6333
+Kauneonga, 41.6911, -74.8361
+Kauneonga Lake, 41.6833, -74.8333
+Kaydeross Park, 43.0833, -73.7833
+Kayuta Lake, 43.4500, -75.2000
+Keaches Corners, 42.4917, -79.1628
+Kecks Center, 43.0078, -74.4569
+Keefers Corners, 42.5833, -73.8833
+Keene, 44.2561, -73.7925
+Keene Valley, 44.1897, -73.7864
+Keenes, 44.2628, -75.5419
+Keeney, 42.7850, -75.9653
+Keepawa, 43.9575, -74.8397
+Keese Mill, 44.4325, -74.2972
+Keeseville, 44.5050, -73.4806
+Keesler Corners, 42.9175, -74.6800
+Kelleys, 42.7794, -74.0683
+Kellogg, 44.7331, -74.7306
+Kelloggsville, 42.7869, -76.3658
+Kelly Corners, 42.1819, -74.6000
+Kellys Corners, 43.0150, -76.2528
+Kelsey, 42.0453, -75.2986
+Kendaia, 42.7422, -76.8872
+Kendall, 43.3272, -78.0361
+Kendall Mills, 43.2983, -77.9958
+Kenilworth(Erie), 42.9614, -78.8383
+Kenilworth(Nassau), 40.8167, -73.7500
+Kenka Mills, 42.6606, -77.0372
+Kenmore, 42.9658, -78.8703
+Kennedy, 42.1572, -79.1022
+Kennedy Corner, 42.4475, -76.5717
+Kenoza Lake, 41.7333, -74.9500
+Kensington(Erie), 42.9333, -78.8000
+Kensington(Kings), 40.6461, -73.9711
+Kensington(Nassau), 40.7933, -73.7225
+Kent(Putnam), 41.4667, -73.7167
+Kent(Brice Station,Orleans), 43.3278, -78.1356
+Kent Cliffs, 41.4550, -73.7544
+Kent Corners, 41.4683, -73.6606
+Kent Hills, 41.4944, -73.6836
+Kents Corners, 44.4328, -75.2975
+Kenwells, 43.6550, -74.6594
+Kenwood(Albany), 42.6236, -73.7736
+Kenwood(Madison), 43.0581, -75.6125
+Kenwood Estates, 41.4500, -73.6667
+Kenyonville, 43.3111, -78.2808
+Kerhonkson, 41.7747, -74.2986
+Kerleys Corners, 42.0428, -73.8483
+Kernan, 43.1000, -75.2500
+Kerry Siding, 42.0247, -75.2536
+Kerryville, 42.0278, -75.2389
+Ketchums Corners, 43.0100, -73.6950
+Ketchumville, 42.2711, -76.0989
+Keuka, 42.4919, -77.1222
+Keuka Park, 42.6153, -77.0925
+Kew Gardens, 40.7142, -73.8314
+Kiamesha Lake, 41.6831, -74.6611
+Kiantone, 42.0219, -79.1983
+Kidders, 42.6403, -76.6931
+Kildare, 44.3261, -74.5306
+Kill Buck, 42.1583, -78.6811
+Killawog, 42.4006, -76.0211
+Kimball Corners, 43.0556, -74.0489
+Kimball Mill, 44.0856, -75.3483
+Kimball Stand, 42.1747, -79.2553
+Kinderhook, 42.3953, -73.6983
+King Ferry, 42.6653, -76.6169
+King Ferry Station, 42.6581, -76.6631
+Kingdom, 42.9289, -74.9761
+Kings, 43.1508, -73.8547
+Kings Bridge, 40.8786, -73.9056
+Kings Bridge Heights, 40.8722, -73.9011
+Kings County Hospital, 40.6564, -73.9450
+Kings Highway Hospital, 40.6183, -73.9431
+Kings Park, 40.8861, -73.2578
+Kings Park State Hospital, 40.8958, -73.2400
+Kings Point, 40.8197, -73.7356
+Kings School Corner, 42.2603, -79.0808
+Kings Settlement, 42.5333, -75.5167
+Kings Station, 43.1492, -73.7633
+Kingsboro, 43.0672, -74.3417
+Kingsbury, 43.3636, -73.5319
+Kingston, 41.9269, -73.9978
+Kingston Avenue Hospital, 40.6581, -73.9419
+Kingstown, 41.0094, -72.1633
+Kingsway, 40.6000, -73.9500
+Kipps, 41.4256, -74.2950
+Kirk, 42.6047, -75.6417
+Kirkland, 43.0778, -75.3836
+Kirkville, 43.0750, -75.9522
+Kirkwood(Steuben), 42.5333, -77.4656
+Kirkwood(Broome), 42.0397, -75.7975
+Kirkwood Center, 42.0817, -75.8067
+Kirschnerville, 43.8831, -75.3372
+Kisco Park, 41.1833, -73.7333
+Kiskatom, 42.1994, -73.9614
+Kismet, 40.6342, -73.2039
+Kitchawan, 41.2189, -73.7864
+Knapp Creek, 42.0069, -78.5061
+Knapps Corner, 41.6281, -73.9167
+Knappville, 43.2300, -74.6617
+Knickerbocker, 40.7167, -73.9833
+Knickerbocker Corner, 42.9619, -77.0964
+Knight Creek, 42.1292, -78.0178
+Knights Eddy, 41.4250, -74.7858
+Knowelhurst, 43.4439, -74.0206
+Knowlesville, 43.2419, -78.3108
+Knowlesville Station, 43.2281, -78.3072
+Knowsville, 43.9833, -75.9333
+Knox, 42.6711, -74.1161
+Knoxboro, 42.9864, -75.5175
+Koenig's Point, 42.9333, -76.5500
+Kohlertown, 41.7714, -74.9422
+Komar Park, 42.9114, -73.9456
+Kortright, 42.4000, -74.7833
+Kortright Center, 42.4175, -74.7758
+Kortright Station, 42.4061, -74.7961
+Kossuth, 42.0642, -78.1425
+Kosterville, 43.6158, -75.3350
+Kraus Landing, 43.1894, -76.0239
+Kringsbush, 43.0144, -74.6364
+Kripplebush, 41.8403, -74.1944
+Krum Corner, 42.4861, -76.5742
+Krumville, 41.8847, -74.2428
+Kuckville, 43.3606, -78.2658
+Kuneytown, 42.8358, -76.7814
+Kyserike, 41.7975, -74.1733
+Kysorville, 42.6486, -77.7931

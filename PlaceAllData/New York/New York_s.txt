@@ -1,0 +1,834 @@
+Sabael, 43.7283, -74.3061
+Sabattis, 44.0808, -74.7031
+Sabbath Day Point, 43.6675, -73.5144
+Sacandaga, 43.2167, -74.1667
+Sacandaga Park, 43.2161, -74.1897
+Sackets Harbor, 43.9461, -76.1194
+Sacketts Harbor, 42.7964, -77.7211
+Sacketts Lake, 41.6500, -74.7000
+Saddle Rock, 40.7942, -73.7489
+Saddle Rock Estates, 40.7936, -73.7422
+Sag Harbor, 40.9978, -72.2931
+Sagamore, 43.7644, -74.6286
+Sagaponack, 40.9253, -72.2786
+Sages Cottages, 41.1000, -72.3667
+Sages Crossing, 42.5853, -75.3353
+Sagetown, 42.0267, -76.9575
+Sailors Snug Harbor, 40.6333, -74.1000
+Saintsville, 43.0819, -75.9639
+Sala, 43.4358, -76.3314
+Salamanca, 42.1578, -78.7153
+Salem, 43.1722, -73.3281
+Salem Center, 41.3292, -73.5986
+Salem Corner, 42.9544, -75.9581
+Salina, 43.1000, -76.1667
+Salisbury, 43.1342, -74.8244
+Salisbury Center, 43.1425, -74.7869
+Salisbury Mills, 41.4306, -74.1194
+Salmon River, 44.7000, -73.4333
+Salt Point, 41.8067, -73.7936
+Salt Springville, 42.8592, -74.7461
+Saltaire, 40.6361, -73.1972
+Saltvale, 42.7839, -78.1100
+Samaritan Hospital, 42.7333, -73.6731
+Sammonsville, 42.9883, -74.4339
+Sampson, 42.7292, -76.9006
+Sampsonville, 41.8875, -74.2944
+Samsondale, 41.2086, -73.9775
+San Remo, 40.8819, -73.2211
+Sanborn, 43.1367, -78.8850
+Sand Hill(Montgomery), 42.9442, -74.6336
+Sand Hill(Erie), 43.0589, -78.5583
+Sand Hill(Otsego), 42.3786, -75.2625
+Sand Lake, 42.6372, -73.5411
+Sand Point, 42.8339, -77.7036
+Sand Ridge, 43.2500, -76.2333
+Sandfordville, 44.7319, -74.8997
+Sands Point, 40.8517, -73.7192
+Sandusky, 42.4958, -78.3847
+Sandy Bay, 43.2053, -76.0836
+Sandy Beach, 43.0564, -78.9600
+Sandy Creek, 43.6442, -76.0864
+Sandy Harbour Beach, 43.3522, -77.8944
+Sandy Pond, 43.6358, -76.1844
+Sanford(Broome), 42.1022, -75.4839
+Sanford(Allegany), 42.0153, -78.2358
+Sangerfield, 42.9139, -75.3794
+Sanitaria Springs, 42.1600, -75.7656
+Santa Clara, 44.6336, -74.4578
+Santapoque, 40.7167, -73.3667
+Saranac, 44.6514, -73.7439
+Saranac Inn, 44.3461, -74.3181
+Saranac Lake, 44.3294, -74.1317
+Saratoga, 43.0667, -73.6167
+Saratoga Hospital, 43.0853, -73.7972
+Saratoga Lake, 43.0511, -73.7219
+Saratoga Springs, 43.0831, -73.7850
+Sardinia, 42.5411, -78.5083
+Sarles Corners, 41.1842, -73.5697
+Saugerties, 42.0775, -73.9533
+Sauquoit, 43.0042, -75.2603
+Savannah, 43.0672, -76.7600
+Savilton, 41.5831, -74.0689
+Savona, 42.2886, -77.2186
+Saw Mill Convalescent Home, 40.9750, -73.8642
+Sawens, 42.9278, -78.3544
+Sawkill, 41.9856, -74.0311
+Sawyer(Allegany), 42.0694, -78.0947
+Sawyer(Niagara), 43.0647, -78.8450
+Sawyer(Orleans), 43.3394, -78.1608
+Sawyers Corner, 42.9725, -76.5881
+Saxe Corner, 43.7597, -76.1081
+Saxon Park, 40.6833, -73.2167
+Saxton, 42.1578, -73.9947
+Sayville, 40.7358, -73.0825
+Scarborough, 41.1358, -73.8589
+Scarsdale, 41.0050, -73.7850
+Scarsdale Downs, 40.9839, -73.7828
+Scarsdale Park, 40.9833, -73.7936
+Schaghticoke, 42.9000, -73.5858
+Schaghticoke Hill, 42.8786, -73.6061
+Schenectady, 42.8142, -73.9400
+Schenevus, 42.5489, -74.8214
+Schepps Corners, 43.1153, -76.0036
+Schermerhorn Landing, 44.4128, -75.7908
+Schervier Hospital, 40.8819, -73.9194
+Schodack, 42.5333, -73.6833
+Schodack Center, 42.5544, -73.6769
+Schodack Landing, 42.4794, -73.7700
+Schoharie, 42.6658, -74.3100
+Schoharie Junction, 42.7225, -74.3253
+Scholes, 42.3519, -77.9208
+Schonowe, 42.8100, -73.9944
+Schroeppel, 43.2667, -76.2833
+Schroon, 43.8500, -73.7667
+Schroon Falls, 43.8992, -73.7492
+Schroon Lake, 43.8386, -73.7614
+Schultzville, 41.9333, -73.9000
+Schuluski Estates, 42.8000, -73.6833
+Schuyler, 43.1000, -75.1000
+Schuyler Falls, 44.6286, -73.5583
+Schuyler Lake, 42.7803, -75.0283
+Schuylerville, 43.1000, -73.5822
+Scio, 42.1714, -77.9789
+Sciola, 44.8958, -73.5497
+Sciota, 44.8167, -73.5167
+Scipio, 42.8000, -76.5833
+Scipio Center, 42.7836, -76.5594
+Scipioville, 42.7819, -76.6253
+Sconondoa, 43.0958, -75.6239
+Scotch Bush, 42.8575, -74.1958
+Scotch Church, 42.8717, -74.1356
+Scotch Hill, 42.6731, -75.0650
+Scotchbrush, 43.0717, -74.5742
+Scotchbush, 43.0000, -74.6833
+Scotchtown, 41.4814, -74.3606
+Scotia, 42.8264, -73.9647
+Scott, 42.7294, -76.2436
+Scotts Corner, 41.5256, -74.2011
+Scotts Corners(Westchester), 41.1892, -73.5511
+Scotts Corners(Jefferson), 43.8000, -76.0167
+Scottsburg, 42.6642, -77.7144
+Scottsville, 43.0258, -77.7456
+Scranton, 42.7406, -78.8344
+Scriba, 43.4653, -76.4308
+Scribner Corners, 43.0542, -75.6328
+Scuttlehole, 40.9353, -72.3406
+Sea Breeze, 43.2306, -77.5425
+Sea Cliff, 40.8489, -73.6453
+Sea View Hospital, 40.5919, -74.1319
+Seaford, 40.6658, -73.4886
+Seagate, 40.5758, -74.0097
+Seager, 42.0617, -74.5450
+Seamen's Church Institute, 40.7167, -74.0167
+Searingtown, 40.7747, -73.6561
+Sears Corners, 41.4286, -73.5778
+Searsburg, 42.5308, -76.7361
+Searsville, 41.5636, -74.3075
+Seaside, 40.5831, -73.8286
+Seaview, 40.6469, -73.1494
+Second Milo, 42.6147, -77.0389
+Secor Gardens, 40.9944, -73.7614
+Seeley Creek, 42.0144, -76.8928
+Seifert Corners, 43.2253, -75.5367
+Selden, 40.8664, -73.0361
+Selkirk(Oswego), 43.5742, -76.2031
+Selkirk(Albany), 42.5322, -73.7989
+Selkirk Beach, 43.5667, -76.1167
+Sellecks Corners, 44.5500, -74.9333
+Semans Corner, 42.6628, -77.3861
+Sempronius, 42.7294, -76.3156
+Seneca, 42.8333, -77.0833
+Seneca Army Depot, 42.7500, -76.8333
+Seneca Castle, 42.8869, -77.0964
+Seneca Falls, 42.9106, -76.7969
+Seneca Heights, 42.0689, -78.4269
+Seneca Hill, 43.4008, -76.4706
+Seneca Knolls, 43.0667, -76.2333
+Seneca Mills, 42.6611, -77.0056
+Seneca Point, 42.6167, -77.4000
+Sennett, 42.9947, -76.5331
+Sentinel Heights, 42.9500, -76.1153
+Setauket, 40.9350, -73.1189
+Settlers Hill, 41.4333, -73.6000
+Seven Hills, 41.4500, -73.6667
+Seventh Day Hollow, 42.6842, -75.7622
+Severance(Monroe), 43.0503, -77.7283
+Severance(Essex), 43.8758, -73.7308
+Sevey, 44.2975, -74.7172
+Seward, 42.7208, -74.6092
+Shackport, 42.3867, -74.9250
+Shadigee, 43.3750, -78.3892
+Shady, 42.0664, -74.1597
+Shady Corner Curve, 44.2172, -73.9314
+Shaker Crossing, 42.7342, -77.8489
+Shaker Place, 43.3242, -74.5247
+Shakers, 42.7394, -73.8117
+Shamrock, 42.9008, -76.3619
+Shandaken, 42.1200, -74.3958
+Shandelee, 41.8789, -74.8717
+Sharon, 42.7611, -74.5331
+Sharon Center, 42.7800, -74.5869
+Sharon Springs, 42.7958, -74.6175
+Sharon Station, 41.8833, -73.5206
+Shaw Corners, 43.0822, -74.0325
+Shawangunk, 41.6333, -74.2667
+Shawnee, 43.1281, -78.8381
+Sheds, 42.8111, -75.8306
+Sheepshead Bay, 40.5911, -73.9450
+Shekomeko, 41.9281, -73.5994
+Shelby, 43.1833, -78.3833
+Shelby Basin, 43.2158, -78.4308
+Shelby Center, 43.1894, -78.3925
+Sheldon, 42.7372, -78.4189
+Sheldon Center, 42.7378, -78.3886
+Sheldon Corners, 42.7000, -78.4500
+Sheldon Hall, 42.1181, -79.3147
+Sheldrake, 42.6650, -76.7019
+Sheldrake Springs, 42.6583, -76.7550
+Shelter Island, 41.0681, -72.3392
+Shelter Island Heights, 41.0839, -72.3564
+Shenandoah, 41.5286, -73.7897
+Shenorock, 41.3317, -73.7386
+Shepard Settlement, 42.9953, -76.3836
+Shepards Corner, 43.1050, -76.8397
+Sherburne, 42.6781, -75.4989
+Sherburne Four Corners, 42.6481, -75.5469
+Sheridan, 42.4883, -79.2375
+Sheridan Park, 42.8667, -76.9833
+Sherlock Corners, 42.8967, -76.5664
+Sherman, 42.1592, -79.5956
+Sherman Park, 41.1267, -73.7756
+Shermans Bay, 42.0989, -79.3483
+Shermerhorn Landing, 44.4500, -75.7000
+Sherrill, 43.0736, -75.5986
+Sherwood, 42.7608, -76.6217
+Sherwood Knolls, 43.0375, -76.2594
+Sherwood Park, 42.6047, -73.7181
+Shin Hollow, 41.4047, -74.6158
+Shinhopple, 42.0386, -75.0681
+Shinnecock Hills, 40.8908, -72.4642
+Shinnecock Indian Reservation, 40.8667, -72.4167
+Shirley(Suffolk), 40.8014, -72.8681
+Shirley(Erie), 42.5767, -78.9139
+Shokan, 41.9733, -74.2125
+Sholam, 41.8208, -74.4108
+Shongo(Cattaraugus), 42.1386, -78.7783
+Shongo(Allegany), 42.0181, -77.8972
+Shooktown, 43.1594, -78.6633
+Shore Acres(Suffolk), 41.0025, -72.5503
+Shore Acres(Westchester), 40.9469, -73.7244
+Shore Acres(Monroe), 43.3469, -77.8511
+Shore Acres(Chautauqua), 42.1503, -79.3803
+Shore Haven, 42.3139, -79.6419
+Shore Oaks, 43.5186, -76.3575
+Shoreham, 40.9572, -72.9081
+Shorelands, 42.2492, -79.4683
+Shorewood(Suffolk), 40.8833, -73.3667
+Shorewood(Schuyler), 42.4286, -77.1028
+Short Tract, 42.4522, -78.0147
+Shortsville, 42.9558, -77.2211
+Shrub Oak, 41.3275, -73.8200
+Shuetown, 43.6203, -75.3289
+Shultis Corners, 42.0503, -74.0692
+Shumaker Crossing, 42.8944, -76.5700
+Shumla, 42.3867, -79.2989
+Shunpike, 41.8286, -73.7089
+Shurtleff, 44.2553, -74.7450
+Shushan, 43.0903, -73.3433
+Shutter Corners, 42.6753, -74.2533
+Sibleyville, 42.9669, -77.6186
+Sidney, 42.3147, -75.3919
+Sidney Center(Maywood Station), 42.2906, -75.2561
+Siegfield Park, 40.8406, -72.9403
+Siena, 42.7167, -73.7667
+Sierks, 42.8217, -78.3031
+Sigby Corners, 42.8639, -75.4928
+Sillimans Corners, 42.5667, -78.4833
+Siloam, 42.9847, -75.6417
+Silver Bay, 43.6964, -73.5061
+Silver Beach, 41.0503, -72.3567
+Silver Creek, 42.5442, -79.1669
+Silver Lake(Wyoming), 42.7017, -78.0222
+Silver Lake(Otsego), 42.6014, -75.3328
+Silver Lake(Orange), 41.4667, -74.4000
+Silver Lake Junction, 42.6722, -78.0936
+Silver Lake Village, 41.4667, -74.4000
+Silver Springs, 42.6606, -78.0858
+Silvernails, 42.0147, -73.6836
+Simpsonville, 42.5039, -74.7831
+Sinclair Corner, 44.6436, -74.8914
+Sinclairville, 42.2639, -79.2589
+Sisson, 44.7056, -74.9872
+Sissonville, 44.6667, -74.9833
+Sisters Hospital, 42.9281, -78.8475
+Skaneateles, 42.9469, -76.4294
+Skaneateles Falls, 42.9931, -76.4564
+Skaneateles Junction, 43.0111, -76.4578
+Skanondaga Heights, 42.8756, -76.4094
+Skerry, 44.7678, -74.3822
+Skinnerville, 44.7844, -74.8161
+Skunks Corner, 42.3619, -79.0592
+Sky Meadow Farms, 41.0000, -73.6667
+Sky Ranch, 43.1500, -73.9181
+Skytop, 43.0203, -76.1236
+Slab City(Chautauqua), 42.1336, -79.6181
+Slab City(St Lawrence), 44.6697, -75.0925
+Slab City(Cortland), 42.7186, -76.1353
+Slabtown, 42.2000, -76.8000
+Slate Hill, 41.3908, -74.4769
+Slaterville Springs, 42.3956, -76.3508
+Slateville, 43.3306, -73.2897
+Sleepy Hollow Manor, 41.1056, -73.8636
+Sleggs Landing, 42.8064, -77.7172
+Sleightsburg, 41.9167, -73.9769
+Slingerlands, 42.6292, -73.8650
+Sliters, 42.6047, -73.6067
+Sloan, 42.8933, -78.7942
+Sloansville, 42.7569, -74.3308
+Sloatsburg, 41.1544, -74.1933
+Slyboro, 43.4119, -73.3322
+Small Corners, 42.9803, -75.4194
+Smallwood, 41.6653, -74.8197
+Smartville, 43.6414, -75.9628
+Smith Corner, 42.4653, -74.1014
+Smith Corners, 42.9483, -74.8550
+Smith Landing, 42.1322, -73.9158
+Smith Mills, 42.4950, -79.1058
+Smith Valley, 42.4139, -76.7414
+Smithboro, 42.0339, -76.4006
+Smithfield(Madison), 42.9667, -75.6667
+Smithfield(Dutchess), 41.8856, -73.6006
+Smiths Basin, 43.4167, -73.4833
+Smiths Clove, 41.3461, -74.2011
+Smiths Corner(Albany), 42.4333, -74.1333
+Smiths Corner(Wyoming), 42.6317, -78.2525
+Smiths Corners, 43.0642, -74.3761
+Smiths Mills, 42.4667, -79.1667
+Smithtown, 40.8558, -73.2011
+Smithtown General Hospital, 40.8306, -73.2000
+Smithtown Pines, 40.8500, -73.2333
+Smithville(Jefferson), 43.8761, -76.1003
+Smithville(Chenango), 42.4167, -75.7667
+Smithville Center, 42.4122, -75.7286
+Smithville Flats, 42.3950, -75.8083
+Smyrna, 42.6872, -75.5711
+Snake Hill, 43.0033, -73.7347
+Sneden Landing, 41.0114, -73.9039
+Snowdon, 42.7325, -75.0636
+Snufftown, 41.3231, -74.4306
+Snyder, 42.9636, -78.7842
+Snyder Crossing, 43.0753, -75.9914
+Snyders Corner, 42.6700, -73.6208
+Snyders Corners, 42.3589, -78.9142
+Snyders Lake, 42.7167, -73.6833
+Snyderville, 42.0844, -73.7664
+Sodom(Warren), 43.6356, -73.9992
+Sodom(Putnam), 41.4019, -73.5917
+Sodus, 43.2378, -77.0617
+Sodus Center, 43.2047, -77.0247
+Sodus Point, 43.2717, -76.9894
+Soft Maple, 43.9219, -75.2417
+Soldiers Place, 42.9258, -78.8739
+Solon, 42.5969, -76.0172
+Solsville, 42.9106, -75.5181
+Solvay, 43.0581, -76.2078
+Somers, 41.3281, -73.6861
+Somerset, 43.3475, -78.5561
+Somerville, 44.2831, -75.5569
+Sonora, 42.3339, -77.1669
+Sonyea, 42.6789, -77.8275
+Sound Beach, 40.9561, -72.9683
+Soundview, 40.8333, -73.8500
+South, 40.9167, -73.8833
+South Addison, 42.0819, -77.2697
+South Alabama, 43.0736, -78.3358
+South Albany, 42.5514, -73.8461
+South Albion, 43.5167, -76.0000
+South Amenia, 41.7989, -73.5364
+South Amsterdam, 42.9347, -74.1964
+South Apalachin, 42.0192, -76.1556
+South Argyle, 43.1847, -73.4942
+South Attica, 42.7933, -78.2639
+South Avon, 42.8658, -77.7711
+South Barre, 43.1519, -78.1500
+South Bay(Madison), 43.1567, -75.7486
+South Bay(Washington), 43.5219, -73.5081
+South Bay Village, 43.4167, -73.4833
+South Beach, 40.5903, -74.0672
+South Berne, 42.5583, -74.1006
+South Bethlehem, 42.5317, -73.8478
+South Bloomfield, 42.8611, -77.3897
+South Bolivar, 42.0058, -78.1156
+South Bombay, 44.8900, -74.5547
+South Bradford, 42.3111, -77.1272
+South Bristol, 42.7297, -77.3994
+South Brookfield, 42.7533, -75.3111
+South Brooklyn, 40.6839, -73.9958
+South Buffalo, 42.8667, -78.8333
+South Butler, 43.1314, -76.7661
+South Byron, 43.0483, -78.0658
+South Cairo, 42.2769, -73.9572
+South Cambridge, 42.9642, -73.4772
+South Cameron, 42.1739, -77.4306
+South Canisteo, 42.1958, -77.5508
+South Carrollton, 42.1031, -78.6622
+South Centerville, 41.3856, -74.5225
+South Chili, 43.0539, -77.7814
+South Clyde, 43.0833, -76.8667
+South Colton, 44.5106, -74.8881
+South Columbia, 42.8892, -75.0075
+South Corinth, 43.1964, -73.8678
+South Corning, 42.1217, -77.0375
+South Cortland, 42.5647, -76.2225
+South Cuba, 42.1997, -78.2736
+South Danby, 42.3064, -76.4433
+South Dansville, 42.4697, -77.6542
+South Dayton, 42.3642, -79.0558
+South Dover, 41.6611, -73.5594
+South Durham, 42.3269, -74.0989
+South Easton, 42.9794, -73.5228
+South Edmeston, 42.6842, -75.3181
+South Edwards, 44.2675, -75.2075
+South Fallsburg, 41.7092, -74.6289
+South Farmingdale, 40.7206, -73.4406
+South Floral Park, 40.7142, -73.7006
+South Galway Corner, 43.0206, -73.9719
+South Gilboa, 42.4150, -74.5317
+South Glens Falls, 43.2992, -73.6356
+South Glenwood Landing, 40.8228, -73.6472
+South Granby, 43.2511, -76.4047
+South Granville, 43.3714, -73.2856
+South Greece, 43.1908, -77.7322
+South Greenfield, 43.0953, -73.8625
+South Hamilton, 42.7678, -75.4553
+South Hammond, 44.3992, -75.7333
+South Hannibal, 43.2625, -76.5244
+South Hartford(Otsego), 42.5833, -75.0667
+South Hartford(Washington), 43.3478, -73.4067
+South Hartwick, 42.6167, -75.0586
+South Haven, 40.7992, -72.8956
+South Hempstead, 40.6808, -73.6158
+South Highland, 41.3814, -73.9128
+South Hill, 42.4292, -76.4953
+South Holbrook, 40.8000, -73.0667
+South Horicon, 43.6544, -73.7611
+South Hornell, 42.3019, -77.6561
+South Hudson Falls, 43.2833, -73.5833
+South Huntington, 40.8236, -73.3992
+South Ilion, 42.9953, -75.0494
+South Jamesport, 40.9364, -72.5778
+South Jefferson, 42.4508, -74.5781
+South Jewett, 42.2233, -74.2564
+South Junction, 44.6331, -73.4544
+South Kortright, 42.3422, -74.7175
+South Lake, 41.4500, -73.6667
+South Lansing, 42.5378, -76.5061
+South Lebanon, 42.7592, -75.6583
+South Lima, 42.8553, -77.6756
+South Livonia, 42.7708, -77.6714
+South Lockport, 43.1500, -78.6969
+South Manor, 40.8556, -72.8181
+South Millbrook, 41.7742, -73.6983
+South Nassau Communities Hospital, 40.6508, -73.6314
+South New Berlin, 42.5294, -75.3856
+South New Haven, 43.4564, -76.3539
+South Newstead, 42.9622, -78.5133
+South Nineveh, 42.1833, -75.6333
+South Nyack, 41.0831, -73.9206
+South Olean, 42.0739, -78.4411
+South Onondaga, 42.9303, -76.2131
+South Otselic, 42.6467, -75.7817
+South Owego, 42.0244, -76.2144
+South Oxford, 42.3881, -75.6217
+South Ozone Park, 40.6700, -73.8194
+South Park, 42.8500, -78.8167
+South Plainedge, 40.6833, -73.4667
+South Plattsburgh, 44.6364, -73.4883
+South Plymouth, 42.5814, -75.5647
+South Pulteney, 42.5008, -77.1883
+South Richmond Hill, 40.7000, -73.8333
+South Ripley, 42.1950, -79.7208
+South Russell, 44.3714, -75.1278
+South Rutland, 43.9000, -75.8000
+South Saint Johnsville, 42.9333, -74.6167
+South Salem, 41.2722, -73.5533
+South Schenectady, 42.7869, -73.9714
+South Schodack, 42.5125, -73.7061
+South Schroon, 43.7950, -73.7925
+South Scriba, 43.4289, -76.3825
+South Setauket, 40.9136, -73.1061
+South Shore Plaza, 42.7500, -78.8500
+South Side, 42.0833, -76.8000
+South Sodus, 43.1672, -76.9872
+South Spafford, 42.7794, -76.2183
+South Stockton, 42.2444, -79.3156
+South Stony Brook, 40.9000, -73.8167
+South Thurston, 42.2025, -77.2953
+South Trenton, 43.2183, -75.1794
+South Troupsburg, 42.0178, -77.5217
+South Unadilla, 42.3133, -75.3389
+South Valley(Otsego), 42.7072, -74.7108
+South Valley(Cattaraugus), 42.0500, -79.0000
+South Valley Stream, 40.6500, -73.7167
+South Vandalia, 42.0833, -78.5906
+South Vestal, 42.0081, -76.0025
+South Wales, 42.7089, -78.5783
+South Warsaw, 42.7100, -78.1306
+South Westbury, 40.7500, -73.5667
+South Westerlo, 42.4478, -74.0275
+South Wilson, 43.4000, -78.7000
+South Windsor, 42.0275, -75.6228
+South Worcester, 42.5178, -74.7503
+Southampton, 40.8842, -72.3900
+Southburg, 42.6728, -78.3381
+Southeast, 41.4000, -73.6000
+Southeast Owasco, 42.7583, -76.4597
+Southfields, 41.2447, -74.1758
+Southgate Plaza, 42.8500, -78.7667
+Southold, 41.0647, -72.4267
+Southport(Chemung), 42.0547, -76.8194
+Southport(Suffolk), 40.9083, -72.5486
+Southside Hospital, 40.7261, -73.2419
+Southview, 42.0833, -75.9000
+Southville, 44.6736, -74.8544
+Southwest Hoosick, 42.8736, -73.4033
+Southwest Oswego, 43.4125, -76.5778
+Southwood, 42.9961, -76.1092
+Spackenkill, 41.6667, -73.9167
+Spafford, 42.8044, -76.2653
+Spafford Landing, 42.7864, -76.2747
+Spafford Valley, 42.8231, -76.2406
+Sparkill, 41.0311, -73.9275
+Sparkle Lake, 41.2833, -73.7667
+Sparrow Bush, 41.4000, -74.7236
+Sparta(Westchester), 41.1447, -73.8639
+Sparta(Livingston), 42.6333, -77.7000
+Spaulding Corner, 42.5008, -76.7506
+Spaulding Furnace, 42.0278, -73.6953
+Spawn Hollow, 42.5394, -73.8672
+Speakers Corner, 42.8700, -77.4483
+Speculator, 43.4972, -74.3622
+Speedsville, 42.3036, -76.2547
+Speigletown, 42.8044, -73.6347
+Spellmans, 44.7000, -73.4333
+Spencer, 42.2097, -76.4936
+Spencer Corners, 41.9633, -73.5028
+Spencer Settlement, 43.1692, -75.4828
+Spencerport, 43.1864, -77.8042
+Spencertown, 42.3233, -73.5464
+Speonk, 40.8194, -72.7058
+Sperryville, 43.7731, -75.3069
+Spinnerville, 42.9675, -75.0406
+Split Rock, 43.0242, -76.2236
+Spragues Corner, 42.8486, -78.0275
+Spraguetown, 43.1328, -73.4786
+Spragueville, 44.2589, -75.5367
+Sprakers, 42.8914, -74.5139
+Spring Brook, 42.8181, -78.6758
+Spring Brook Station, 42.8389, -78.6803
+Spring Cove, 44.5711, -74.4564
+Spring Glen, 41.6656, -74.4303
+Spring Lake, 43.1256, -76.6883
+Spring Mills, 42.0078, -77.7639
+Spring Valley(Rockland), 41.1131, -74.0442
+Spring Valley(Westchester), 41.1686, -73.8392
+Spring Valley General Hospital, 41.0878, -74.0511
+Springfield, 42.8361, -74.8539
+Springfield Center, 42.8289, -74.8769
+Springfield Four Corners, 42.8378, -74.8703
+Springfield Gardens, 40.6781, -73.7469
+Springport, 42.8500, -76.6667
+Springs, 41.0161, -72.1597
+Springtown, 41.7822, -74.0872
+Springvale, 42.5194, -75.4739
+Springville(Suffolk), 40.8675, -72.5283
+Springville(Erie), 42.5083, -78.6675
+Springwater, 42.6372, -77.5961
+Springwood Village, 41.7833, -73.9167
+Sprout Brook, 42.8508, -74.6856
+Sproutville, 41.5833, -73.8500
+Spruceton, 42.1917, -74.3081
+Spuyten Duyvil, 40.8811, -73.9178
+Squassux Landing, 40.7731, -72.8997
+Squiretown, 40.8947, -72.5269
+Squirrels Corners, 41.5994, -74.7500
+St Agnes Hospital, 41.0258, -73.7461
+St Albans, 40.6983, -73.7611
+St Albans Naval Hospital, 40.6892, -73.7706
+St Andrew, 41.5692, -74.1458
+St Anthonys Hospital, 40.6908, -73.8500
+St Armand, 44.4000, -74.0333
+St Barnabas Hospital, 40.8533, -73.8908
+St Bonaventure, 42.0833, -78.4667
+St Charles Hospital, 40.9458, -73.0614
+St Clares Hospital, 42.8047, -73.9161
+St Elizabeth Hospital, 43.0822, -75.2664
+St Elizabeths Home for the Aged, 42.8972, -78.6636
+St Elizabeths Hospice, 41.3572, -73.9197
+St Elizabeths Hospital, 40.8575, -73.9356
+St Elmo, 41.5886, -74.1419
+St Francis Hospital(Dutchess), 41.7181, -73.9281
+St Francis Hospital(Orange), 41.3675, -74.6819
+St Francis Hospital(Nassau), 40.8039, -73.6711
+St Francis Hospital(Bronx), 40.8100, -73.9167
+St Francis Hospital(Cattaraugus), 42.0767, -78.4561
+St Francis Hospital(Erie), 42.9422, -78.8350
+St George, 40.6444, -74.0806
+St Giles Hospital, 40.7114, -73.6456
+St Huberts, 44.1572, -73.7736
+St James, 40.8789, -73.1572
+St James Heights, 40.8667, -73.1667
+St John Fisher College, 43.1167, -77.5667
+St Johns Hospital(Westchester), 40.9686, -73.8867
+St Johns Hospital(Kings), 40.6783, -73.9381
+St Johns Hospital(Suffolk), 40.8681, -73.2236
+St Johns Hospital(Queens), 40.7469, -73.9447
+St Johns Place, 40.6667, -73.9500
+St Johnsburg, 43.0886, -78.8900
+St Johnsville, 42.9981, -74.6833
+St Josen, 41.7814, -74.2086
+St Josephs, 41.5900, -74.7106
+St Josephs Hospital(Queens) 40.5989, -73.7539
+St Josephs Hospital(Onondaga), 43.0556, -76.1500
+St Josephs Hospital(Chemung), 42.0917, -76.7978
+St Josephs Hospital(Erie), 42.9144, -78.7825
+St Lawrence, 44.1772, -76.1681
+St Lawrence Park, 44.3097, -75.9633
+St Lawrence Psychiatric Center, 44.7281, -75.4469
+St Lawrence State Hospital, 44.7281, -75.4469
+St Lukes Hospital(New York), 40.8047, -73.9617
+St Lukes Hospital(Orange), 41.5033, -74.0147
+St Mary's Park, 40.8333, -73.9000
+St Marys Hospital(Niagara), 43.0917, -79.0556
+St Marys Hospital(Rensselaer), 42.7425, -73.6756
+St Marys Hospital(Queens), 40.7764, -73.7689
+St Marys Hospital(Onondaga), 43.0792, -76.1464
+St Marys Hospital(Monroe), 43.1492, -77.6369
+St Marys Hospital(Kings), 40.6731, -73.9264
+St Marys Hospital(Montgomery), 42.9539, -74.2153
+St Peters Church, 43.1914, -75.5736
+St Peters Hospital(Kings), 40.6886, -73.9983
+St Peters Hospital(Albany), 42.6564, -73.8036
+St Regis, 44.9972, -74.6514
+St Regis Falls, 44.6739, -74.5453
+St Regis Indian Reservation, 44.9833, -74.6667
+St Remy, 41.8825, -74.0217
+St Vencent de Paul Camp, 42.6553, -79.0611
+St Vincents Hospital(Westchester), 40.9883, -73.7092
+St Vincents Hospital(New York), 40.7367, -73.9997
+St Vincents Hospital(Richmond), 40.6356, -74.1061
+Staatsburg, 41.8497, -73.9306
+Stacy Basin, 43.1944, -75.6225
+Stadium, 40.8333, -73.8667
+Stafford, 42.9817, -78.0742
+Stairs Corners, 43.0061, -74.1528
+Stalbird, 44.4000, -75.2067
+Staleyville, 42.8117, -74.5994
+Stamford, 42.4072, -74.6147
+Stanbro, 42.6681, -75.6936
+Standish, 44.6892, -73.9494
+Stanford, 41.8833, -73.7000
+Stanford Heights, 42.7656, -73.8894
+Stanfordville, 41.8672, -73.7147
+Stanley, 42.8250, -77.0961
+Stanley Manor, 43.0397, -76.2575
+Stannards, 42.0864, -77.9225
+Stanwix, 43.1931, -75.4347
+Stanwix Heights, 43.1842, -75.4289
+Stanwood, 41.2389, -73.7469
+Stapleton, 40.6264, -74.0781
+Star Lake, 44.1597, -75.0319
+Starbuckville, 43.6733, -73.7781
+Stark(St Lawrence), 44.4503, -74.7819
+Stark(Herkimer), 42.9167, -74.8167
+Stark School Corner, 44.4297, -75.6131
+Starkey, 42.5353, -76.9247
+Starks Knob, 43.1217, -73.5881
+Starks Landing, 43.1714, -75.6486
+Starkville, 42.9192, -74.7753
+State Bridge, 43.1458, -75.6769
+State Line(Chautauqua), 42.2444, -79.7589
+State Line(Dutchess), 41.9583, -73.4939
+State University, 40.8000, -73.5833
+Staten Island, 40.5833, -74.1500
+Staten Island Hospital, 40.6344, -74.0881
+Steam Valley, 42.0833, -78.4333
+Steamburg, 42.1081, -78.9044
+Stears Corners, 43.7667, -75.9500
+Stebbins Corners, 42.1628, -79.5264
+Stedman, 42.1694, -79.4769
+Steel City, 42.8167, -78.8167
+Steele Corners, 43.0653, -74.1417
+Steelton, 42.8000, -78.8167
+Steinbeck Corners, 41.4556, -73.6025
+Steinway, 40.7744, -73.9042
+Stella, 42.1167, -75.9333
+Stella Niagara, 43.2019, -79.0425
+Stellaville, 44.4806, -75.2433
+Stephens Mills, 42.3333, -77.6667
+Stephentown, 42.5486, -73.3744
+Stephentown Center, 42.5653, -73.4108
+Sterling, 43.3258, -76.6453
+Sterling Forest, 41.1825, -74.3192
+Sterling Valley, 43.3481, -76.6308
+Sterlington, 41.1453, -74.1892
+Sterlingville, 44.1031, -75.6875
+Stetsonville, 42.5997, -75.1972
+Steuben, 43.3200, -75.2833
+Steuben Valley, 43.2936, -75.2450
+Stevens Landing, 44.4872, -73.7125
+Stever Mill, 43.0664, -74.1625
+Stewart Corners(Oswego), 43.2694, -76.2394
+Stewart Corners(Herkimer), 43.0336, -75.1847
+Stewart Corners(Cayuga), 42.7392, -76.5247
+Stewart Landing, 43.1425, -74.5939
+Stewart Manor, 40.7192, -73.6889
+Stickneys, 42.4692, -77.2994
+Stiles, 43.1139, -76.2769
+Stilesville, 42.0803, -75.3994
+Stillham, 42.7617, -73.3617
+Stillman Village, 42.7500, -73.3500
+Stillwater(Essex), 43.8500, -74.0567
+Stillwater(Chautauqua), 42.0589, -79.2189
+Stillwater(Oswego), 43.5600, -75.9306
+Stillwater(Saratoga), 42.9383, -73.6536
+Stillwater(Putnam), 41.3575, -73.7747
+Stillwater Hill, 41.1667, -73.8500
+Stillwater Junction, 42.9189, -73.6847
+Stirling, 41.1139, -72.3683
+Stissing, 41.9092, -73.6825
+Stittville, 43.2231, -75.2886
+Stockbridge, 42.9911, -75.5997
+Stockholm, 44.7500, -74.8500
+Stockholm Center, 44.7594, -74.8319
+Stockport(Delaware), 41.9500, -75.2833
+Stockport(Columbia), 42.3094, -73.7467
+Stockton, 42.3175, -79.3561
+Stockwell, 42.8747, -75.3894
+Stokes, 43.3000, -75.5167
+Stokes Corner, 43.3036, -75.4736
+Stone Arabia, 42.9536, -74.5589
+Stone Church, 43.0489, -77.9631
+Stone Church Corner, 42.9556, -76.8828
+Stone Gate, 41.3500, -74.1833
+Stone Mills, 44.1144, -75.9742
+Stone Ridge(Ulster), 41.8531, -74.1394
+Stone Ridge(Montgomery), 42.9211, -74.4281
+Stonedam, 41.9833, -77.8667
+Stony Brook, 40.9256, -73.1414
+Stony Creek(Warren), 43.4242, -73.9303
+Stony Creek(Jefferson), 43.8167, -76.2333
+Stony Ford, 41.4594, -74.3053
+Stony Hollow, 41.9719, -74.0803
+Stony Point(Rockland), 41.2294, -73.9875
+Stony Point(Rensselaer), 42.5511, -73.7472
+Stoodley Corners, 42.8689, -73.9336
+Stormville, 41.5703, -73.7458
+Stottville, 42.2861, -73.7392
+Stow, 42.1567, -79.4017
+Stowersville, 44.2867, -73.5217
+Straits Corners, 42.1497, -76.3811
+Stratford, 43.1797, -74.6972
+Strathmore, 40.7919, -73.6778
+Stratton, 42.3469, -76.5414
+Street Road, 43.8803, -73.4497
+Streeters Corners, 43.2022, -78.8258
+Strong Memorial Hospital, 43.1225, -77.6267
+Stroughs Crossing, 44.1942, -75.8628
+Strykersville, 42.7050, -78.4486
+Sturges Corner, 42.4489, -74.7567
+Stuyvesant(Columbia), 42.3903, -73.7819
+Stuyvesant(Kings), 40.6794, -73.9317
+Stuyvesant Falls, 42.3553, -73.7314
+Sucker Brook, 42.7467, -78.0344
+Suffern, 41.1147, -74.1500
+Suffern Park, 41.1103, -74.1219
+Suffolk Plaza, 40.8667, -72.8167
+Sugar Loaf, 41.3208, -74.2858
+Sugarbush, 44.5417, -73.9703
+Sugartown, 42.2378, -78.5947
+Suicide Corners, 42.9050, -78.1039
+Sullivan, 43.0544, -75.8472
+Sullivanville, 42.2100, -76.7706
+Sulphur Springs, 43.9256, -76.0297
+Summer Hill, 42.6389, -76.3261
+Summerdale, 42.2139, -79.5706
+Summerville, 43.2564, -77.6014
+Summit, 42.5794, -74.5886
+Summit Crossing, 42.6817, -75.0242
+Summit Hill, 42.0589, -75.9164
+Summit Park, 41.1564, -74.0439
+Summit Park Mall, 43.1000, -78.9667
+Summit Park Sanatorium, 41.1589, -74.0422
+Summitville, 41.6214, -74.4511
+Sun, 44.9528, -74.1844
+Sun Haven, 40.9239, -73.7706
+Sundown, 41.8878, -74.4606
+Sunmount, 44.2333, -74.4667
+Sunny Brae, 40.9308, -73.8242
+Sunny Shores, 42.7619, -77.7122
+Sunnybrook, 41.3850, -73.8608
+Sunnyside(Chautauqua), 42.1181, -79.3022
+Sunnyside(Columbia), 42.3778, -73.7308
+Sunnyside(Queens), 40.7397, -73.9358
+Sunnyside(Richmond), 40.6161, -74.1042
+Sunrise Terrace, 42.1000, -75.9000
+Sunset, 40.6333, -74.0167
+Sunset Bay, 42.5631, -79.1336
+Sunset Beach(Orleans), 43.3711, -78.2725
+Sunset Beach(Niagara), 43.3153, -78.8433
+Sunset Manor, 43.1167, -75.3000
+Sunset View, 43.2444, -76.9417
+Sunside, 42.3403, -74.0789
+SUNY, 42.6667, -73.8000
+Surprise, 42.3925, -73.9503
+Suttons Corner, 43.3242, -76.2881
+Svahn Manor, 41.1333, -73.9333
+Swain, 42.4833, -77.8500
+Swan Lake, 41.7506, -74.7783
+Swancott Mill, 43.4622, -75.6033
+Swartoutville, 41.5633, -73.8494
+Swartwood, 42.2244, -76.6100
+Swastika, 44.5131, -73.7611
+Swazey Acres, 42.8000, -73.6833
+Sweden, 43.1833, -77.9333
+Sweden Center, 43.1783, -77.9453
+Sweet Meadows, 41.9994, -74.0500
+Sweets, 42.7233, -75.3050
+Sweets Crossing(Fulton), 43.1881, -74.1992
+Sweets Crossing(Onondaga), 43.0222, -76.3633
+Swenson Drive, 41.6000, -73.8833
+Sweyze, 40.9178, -72.7214
+Swift Corner, 42.8664, -76.0289
+Swifts Mills, 43.0597, -78.5186
+Swin, 42.4778, -77.8536
+Swormville, 43.0383, -78.6975
+Sycaway, 42.7419, -73.6531
+Sydenham Hospital, 40.8097, -73.9542
+Sylva, 41.6322, -74.1056
+Sylvan Beach(Oneida), 43.1964, -75.7308
+Sylvan Beach(Steuben), 42.4647, -77.1086
+Sylvan Lake, 41.6075, -73.7350
+Syosset, 40.8261, -73.5025
+Syracuse, 43.0481, -76.1478

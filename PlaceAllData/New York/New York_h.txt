@@ -1,0 +1,438 @@
+Haberman, 40.7258, -73.9203
+Hadley, 43.3172, -73.8486
+Hadley Bay, 42.1494, -79.4028
+Hagaman, 42.9744, -74.1514
+Hagedorns Mills, 43.0761, -74.1003
+Hagerman, 40.7706, -72.9644
+Hague, 43.7453, -73.4989
+Hague Crossing, 44.7278, -75.2356
+Hailesboro, 44.3100, -75.4467
+Haines Corners, 41.4736, -73.5825
+Haines Falls, 42.1958, -74.0975
+Halcott, 42.2167, -74.4667
+Halcott Center, 42.1883, -74.4917
+Halcottsville, 42.2083, -74.6014
+Hale Eddy, 42.0036, -75.3833
+Hale Mills, 43.0194, -74.3344
+Halesite, 40.8883, -73.4158
+Half Acre, 42.9167, -76.6250
+Half Hollow, 40.7764, -73.3436
+Half Hollow Hills, 40.7833, -73.3667
+Halfmoon, 42.8275, -73.7183
+Halfmoon Beach, 42.8031, -73.7544
+Halfway, 43.0253, -76.3922
+Halfway House Corners, 44.7500, -75.1333
+Halihan Hill, 41.9911, -74.0283
+Hall, 42.7939, -77.0667
+Hallock Landing, 40.9639, -72.9372
+Halls Corner(Cayuga), 42.6400, -76.2825
+Halls Corner(Jefferson), 44.1997, -75.6992
+Halls Corner(Saratoga), 42.9992, -73.8117
+Halls Corner(Wyoming), 42.7403, -78.1975
+Halls Corners, 42.6167, -77.5500
+Hallsport, 42.0753, -77.8525
+Hallsville, 42.9350, -74.7039
+Halsey, 40.6833, -73.9167
+Halsey Valley, 42.1414, -76.4394
+Halseys Corners, 44.7078, -73.4694
+Halseyville, 42.5314, -76.6342
+Hambletville, 42.0967, -75.3933
+Hamburg(Greene), 42.2342, -73.8506
+Hamburg(Erie), 42.7158, -78.8297
+Hamburg-on-the-Lake, 42.7500, -78.8500
+Hamden, 42.1911, -74.9950
+Hamilton, 42.8269, -75.5450
+Hamilton Beach, 40.6522, -73.8278
+Hamilton Center, 42.7897, -75.4961
+Hamilton Grange, 40.8167, -73.9500
+Hamilton Park, 40.6333, -74.1000
+Hamlet, 42.3697, -79.1353
+Hamlin, 43.3031, -77.9214
+Hammel, 40.5878, -73.8106
+Hammertown, 41.9756, -73.6408
+Hammond, 44.4489, -75.6944
+Hammonds Corner, 43.4725, -76.3847
+Hammondsport, 42.4078, -77.2239
+Hampshire, 42.1633, -77.5244
+Hampton, 43.5247, -73.2522
+Hampton Bays, 40.8689, -72.5181
+Hampton Beach, 40.8089, -72.5911
+Hampton Manor, 42.6500, -73.7167
+Hampton Park(Rensselaer), 42.6161, -73.7206
+Hampton Park(Suffolk), 40.9092, -72.3947
+Hamptonburgh, 41.4350, -74.2606
+Hancock, 41.9539, -75.2808
+Hands Creek Landing, 41.0189, -72.2031
+Handsome Eddy, 41.4428, -74.8911
+Hanford Bay, 42.5572, -79.1436
+Hankins, 41.8142, -75.0872
+Hanley Corner, 42.1344, -74.5439
+Hannacroix, 42.4289, -73.8097
+Hannans Corner, 43.0792, -77.4419
+Hannawa Falls, 44.6122, -74.9714
+Hannibal, 43.3211, -76.5792
+Hannibal Center, 43.2900, -76.5525
+Hanover(Oneida), 42.9669, -75.3781
+Hanover(Chautauqua), 42.5167, -79.1333
+Hanover Center, 42.5194, -79.1389
+Happy Valley(Oswego), 43.4406, -75.9750
+Happy Valley(Rockland), 41.1692, -74.0478
+Harbor, 43.0819, -75.1481
+Harbor Acres, 40.8333, -73.7000
+Harbor Green, 40.6497, -73.4631
+Harbor Heights Park, 40.8500, -73.3833
+Harbor Hills, 40.7908, -73.7469
+Harbor Isle, 40.6033, -73.6650
+Hard Point, 43.0892, -76.6631
+Hardenburg, 42.0008, -74.6656
+Harding Crossing, 42.8475, -73.9789
+Hardscrabble(Delaware), 42.3219, -74.5789
+Hardscrabble(Suffolk), 40.9711, -72.2228
+Hardy Corners, 42.3592, -78.3092
+Hardys, 42.6197, -78.1772
+Harford(North Harford Station), 42.4261, -76.2269
+Harford Mills, 42.4114, -76.2017
+Harkness, 44.5236, -73.5700
+Harlem(Erie), 42.9667, -78.8000
+Harlem(New York), 40.8078, -73.9458
+Harlem Hospital, 40.8142, -73.9389
+Harlem Valley State Hospital, 41.6358, -73.5675
+Harlemville, 42.2703, -73.5947
+Harmon Park, 42.8922, -73.9208
+Harmon-on-Hudson, 41.2000, -73.8833
+Harmony, 42.0500, -79.4333
+Harmony Corners, 42.9775, -73.9553
+Harpersfield, 42.4383, -74.6878
+Harpursville, 42.1783, -75.6250
+Harriet, 42.9667, -78.8500
+Harrietstown, 44.3969, -74.1589
+Harrigan, 44.8525, -73.9669
+Harriman, 41.3083, -74.1450
+Harris, 41.7142, -74.7267
+Harris Corners, 42.7697, -78.4422
+Harris Hill, 42.9647, -78.6778
+Harris Hill Manor, 42.0956, -76.9036
+Harrisburg(Lewis), 43.8422, -75.6031
+Harrisburg(Cattaraugus), 42.0111, -78.5453
+Harrisburg(Warren), 43.4067, -74.0750
+Harrison, 40.9689, -73.7131
+Harrison Grove, 43.2806, -78.9664
+Harrisville(Chenango), 42.6800, -75.4633
+Harrisville(Lewis), 44.1519, -75.3214
+Harrower, 42.9653, -74.1717
+Hart Lot, 43.0167, -76.4667
+Hartfield, 42.2672, -79.4725
+Hartford, 43.3636, -73.3942
+Hartland, 43.2400, -78.5764
+Hartman, 43.2636, -73.7503
+Hartmans Corners, 42.7078, -73.9228
+Harts Hill, 43.1167, -75.3000
+Hartsdale, 41.0189, -73.7986
+Hartson Point, 42.7725, -77.7131
+Hartsville, 42.2469, -77.6942
+Hartwick, 42.6597, -75.0492
+Hartwick Seminary, 42.6431, -74.9658
+Hartwood, 41.5353, -74.6981
+Hartwood Club, 41.5042, -74.7247
+Harvard, 42.0239, -75.1131
+Hasbrouck, 41.7911, -74.6150
+Hasbroucks, 43.8714, -74.6347
+Haselton(Essex), 44.4117, -73.7692
+Haselton(Oneida), 43.2167, -75.4333
+Haskell Flats, 42.1508, -78.3236
+Haskinville, 42.4231, -77.5661
+Hastings, 43.3739, -76.1528
+Hastings Center, 43.3169, -76.1547
+Hastings-on-Hudson, 41.0028, -73.8792
+Hatch's Corner, 44.4167, -75.1500
+Hatchs Corners, 43.1781, -75.5078
+Hathaway Corners, 42.9639, -77.3483
+Hauppauge, 40.8256, -73.2031
+Haven, 41.5408, -74.5244
+Havens Corner, 42.7172, -77.0894
+Haverling Heights, 42.3494, -77.3158
+Haverstraw, 41.1975, -73.9650
+Haviland, 41.7667, -73.9000
+Haviland Hollow, 41.4844, -73.5711
+Hawkeye, 44.5194, -73.8594
+Hawkins Corner(Chautauqua), 42.4925, -79.1928
+Hawkins Corner(Oneida), 43.2844, -75.4714
+Hawkinsville, 43.4936, -75.2775
+Hawley Corners, 42.5397, -75.5089
+Hawleys, 42.1819, -75.0131
+Hawleyton, 42.0186, -75.9164
+Hawthorne, 41.1072, -73.7964
+Hawthorne Hill, 42.7978, -73.8806
+Hawthorne Park, 42.3167, -79.5667
+Hawversville, 42.5144, -74.2431
+Haydenville, 42.1114, -78.3753
+Hayground, 40.9264, -72.3333
+Haynersville, 42.7906, -73.5711
+Haynes, 42.4669, -75.5461
+Hayt Corner, 42.4683, -76.5431
+Hayt Corners, 42.6958, -76.7892
+Hazel, 41.9244, -74.8706
+Head Corners, 42.5247, -76.4731
+Head of the Harbor, 40.9033, -73.1583
+Heath Grove, 42.8850, -76.2933
+Heath Ridge, 40.9775, -73.7736
+Heathcote, 40.9844, -73.7750
+Heatherwood North, 40.9333, -73.1000
+Heatherwood South, 40.8667, -72.8167
+Hebrew Home and Hospital, 40.6622, -73.9189
+Hebrew Hospital, 40.8461, -73.9047
+Hebron, 43.2833, -73.5333
+Hecla, 43.0994, -75.4542
+Hector, 42.5006, -76.8728
+Hedgesville, 42.1375, -77.4128
+Helena, 44.9217, -74.7267
+Hell Gate, 40.8000, -73.9500
+Hemlock, 42.7942, -77.6067
+Hempstead(Nassau), 40.7061, -73.6192
+Hempstead(Rockland), 41.1497, -74.0342
+Hempstead Gardens, 40.6964, -73.6456
+Hemstreet Park, 42.9044, -73.6800
+Henderson, 43.8469, -76.1822
+Henderson Harbor, 43.8642, -76.2022
+Hendy Creek, 42.0333, -76.8667
+Henrietta, 43.0592, -77.6125
+Hensonville, 42.2897, -74.2169
+Herkimer, 43.0256, -74.9864
+Herkimer Landing, 43.5094, -74.8150
+Hermitage(Wyoming), 42.6483, -78.1997
+Hermitage(Steuben), 42.3792, -77.2733
+Hermon, 44.4672, -75.2308
+Herrick Grove, 44.0581, -76.1906
+Herricks, 40.7553, -73.6672
+Herrings, 44.0239, -75.6542
+Hertel, 43.4500, -78.7167
+Herthum Heights, 43.1167, -75.3000
+Hervey Street, 42.3450, -74.1269
+Heslops Corner, 42.4778, -75.3044
+Hessville, 42.8739, -74.6875
+Heuvelton, 44.6181, -75.4075
+Hewittville, 44.7044, -75.0111
+Hewlett, 40.6431, -73.6961
+Hewlett Bay Park, 40.6331, -73.6958
+Hewlett Harbor, 40.6361, -73.6819
+Hewlett Neck, 40.6233, -73.6986
+Hibbards Corner, 42.4311, -76.4283
+Hibernia, 41.8125, -73.7631
+Hickeys Corners, 43.0833, -73.7833
+Hickory Corners, 43.1856, -78.7542
+Hickory Grove, 43.5139, -76.3208
+Hickorybush, 41.8756, -74.0481
+Hicks, 42.1236, -76.6172
+Hicksville, 40.7683, -73.5256
+Higgins, 42.2300, -78.0881
+Higgins Bay, 43.4078, -74.5342
+Higginsville, 43.1769, -75.6472
+High Bank, 44.6267, -73.9153
+High Bridge(Onodonga), 43.0139, -76.0125
+High Bridge(Bronx), 40.8367, -73.9272
+High Falls(Greene), 42.1622, -73.9681
+High Falls(Lewis), 43.9231, -75.3725
+High Falls(Ulster), 41.8267, -74.1267
+High Flats, 44.5933, -74.8892
+High Market, 44.0833, -75.4500
+High Mills, 42.8994, -73.9081
+High Point Hospital, 41.0533, -73.6942
+High View, 41.5575, -74.4581
+High Woods, 42.0456, -74.0289
+Highland, 41.7208, -73.9606
+Highland Beach, 42.8775, -76.5156
+Highland Falls, 41.3692, -73.9667
+Highland Hospital, 43.1356, -77.6053
+Highland Lake, 41.5233, -74.8517
+Highland Landing, 41.7178, -73.9486
+Highland Mills, 41.3469, -74.1267
+Highland Park, 43.1961, -78.6744
+Highland-on-the-Lake, 42.707
+Highmount, 42.1442, -74.4903
+Hiler, 42.9667, -78.8500
+Hill Corners, 43.0239, -81, -78.9783
+Highlands, 41.3667, -73.9833
+Highlawn, 40.6000, -73.96674.1736
+Hillburn, 41.1239, -74.1697
+Hillcrest(Broome), 42.1333, -75.8833
+Hillcrest(Rockland), 41.1278, -74.0414
+Hillcrest(Allegany), 42.3792, -78.2056
+Hillis, 41.6333, -73.9000
+Hillsboro, 43.3272, -75.8297
+Hillsdale(Washington), 43.3767, -73.3172
+Hillsdale(Columbia), 42.1789, -73.5264
+Hillside(Oneida), 43.3569, -75.3878
+Hillside(Queens), 40.7078, -73.7872
+Hillside Heights, 40.7500, -73.6833
+Hillside Hospital, 40.7514, -73.7103
+Hillside Lake, 41.6000, -73.8833
+Hillside Manor, 40.7500, -73.6667
+Hillside Park, 43.0000, -74.3667
+Hillview, 42.6500, -73.7167
+Hilton, 43.2881, -77.7936
+Hiltonville, 42.3683, -77.8433
+Himrod, 42.5897, -76.9553
+Hinckley, 43.3122, -75.1222
+Hinckleyville, 43.2000, -77.8000
+Hindsburg, 43.2500, -78.2000
+Hinkleyville, 43.2103, -77.8500
+Hinmans Corners, 42.1606, -75.8975
+Hinmansville, 43.2478, -76.3528
+Hinsburg, 43.2539, -78.1061
+Hinsdale(Cattaraugus), 42.1678, -78.3875
+Hinsdale(Onodonga), 43.1044, -76.1381
+Hitching Corner, 42.8886, -75.1653
+Hoag Corners, 42.5564, -73.5117
+Hobart, 42.3714, -74.6708
+Hoben, 42.0036, -78.0950
+Hobin Corners, 42.8994, -75.3067
+Hoboken, 42.6269, -75.3228
+Hoeseville, 43.0194, -74.1042
+Hoffman, 43.0694, -78.8231
+Hoffmans, 42.8950, -74.0769
+Hoffmeister, 43.3908, -74.7172
+Hogansburg, 44.9739, -74.6636
+Hogtown, 43.5203, -73.5569
+Holbrook, 40.8122, -73.0789
+Holbrook Corners, 42.9739, -73.9769
+Holbrook-Holtsville, 40.8167, -73.0667
+Holcomb, 42.9022, -77.4200
+Holcombville, 43.6883, -73.9836
+Holiday Manor, 42.8667, -76.9833
+Holland(Erie), 42.6411, -78.5419
+Holland(Queens), 40.5864, -73.8183
+Holland Cove, 43.2869, -77.1439
+Holland Patent, 43.2417, -75.2572
+Holley, 43.2264, -78.0269
+Hollis, 40.7133, -73.7675
+Hollis Court, 40.7000, -73.7333
+Holliswood, 40.7167, -73.8333
+Hollowville, 42.2053, -73.6917
+Hollywood, 44.2333, -74.6000
+Holmes, 41.5233, -73.6472
+Holmesville, 42.5128, -75.4017
+Holton Beach, 42.6186, -76.6850
+Holtsville, 40.8153, -73.0456
+Homecrest, 40.6000, -73.9500
+Homer, 42.6369, -76.1792
+Homer Folks State Hospital, 42.4744, -75.0700
+Homer Hill, 42.0956, -78.4489
+Homestead Park, 40.9164, -73.7733
+Homewood, 43.0333, -76.0167
+Homewood Park, 42.9167, -78.7667
+Honeoye, 42.7900, -77.5172
+Honeoye Falls, 42.9522, -77.5906
+Honeoye Park, 42.7797, -77.5019
+Honest Hill, 43.1453, -78.0661
+Honeyville, 43.8592, -75.9806
+Honeywell Corners, 43.0414, -74.1428
+Honk Hill, 41.7569, -74.3803
+Honnedaga, 43.3811, -75.2011
+Honnedaga Lake, 43.4500, -75.2000
+Hooker, 43.6925, -75.7442
+Hoopers Valley, 42.0264, -76.3933
+Hoosick, 42.8625, -73.3286
+Hoosick Falls, 42.9011, -73.3519
+Hoosick Junction, 42.9228, -73.3600
+Hope, 43.3036, -74.2436
+Hope Falls, 43.2167, -74.1667
+Hope Farm, 41.7333, -73.6667
+Hope Valley, 43.2167, -74.1667
+Hopewell, 42.9000, -77.1833
+Hopewell Center, 42.9011, -77.1844
+Hopewell Junction, 41.5839, -73.8092
+Hopkins Beach, 43.3014, -78.8883
+Hopkinton, 44.6903, -74.7036
+Horace Harding, 40.7500, -73.7333
+Horicon, 43.2500, -73.7333
+Hornby, 42.2442, -77.0444
+Hornell, 42.3278, -77.6614
+Hornellsville, 42.3333, -77.6667
+Horseheads, 42.1669, -76.8208
+Horseshoe, 44.1347, -74.6322
+Horseshoe Hill, 41.1961, -73.5725
+Horton, 41.9719, -75.0186
+Horton Crossing, 42.0856, -76.3197
+Horton Estates, 41.3239, -73.7456
+Horton Hospital, 41.4422, -74.4094
+Hortontown(Onodonga), 43.1886, -76.3847
+Hortontown(Putnam), 41.4986, -73.7956
+Hortonville, 41.7642, -75.0306
+Hoseaville, 42.4739, -74.8153
+Hoseville, 43.6814, -75.4450
+Houcks Corners, 42.5956, -73.8350
+Houghton, 42.4233, -78.1575
+Hounsfield, 43.9500, -76.0333
+House of Calvary Hospital, 40.8456, -73.9164
+Houseville, 44.0667, -75.5833
+Housons Corners, 42.6000, -74.3333
+Howard(New York), 40.7167, -74.0000
+Howard(Steuben), 42.3642, -77.5092
+Howard Beach, 40.6578, -73.8367
+Howard Park General Hospital, 40.6647, -73.8406
+Howardville, 43.4628, -76.0531
+Howell, 41.3817, -74.3436
+Howells, 41.4794, -74.4656
+Howes(Broome), 42.1358, -75.5244
+Howes(Wyoming), 42.5986, -78.2356
+Howes Cave, 42.6900, -74.3833
+Howes Landing, 43.8153, -73.4364
+Howland, 43.0792, -76.6828
+Howland Corners, 42.5397, -76.4542
+Howlett Hill, 43.0158, -76.2861
+Hoxie Corner, 41.7136, -73.7022
+Hub, 40.8333, -73.9000
+Hubbard Crossing, 44.0564, -75.6578
+Hubbardsville, 42.8178, -75.4636
+Hubbardtown, 42.2014, -76.3186
+Hubbell Corners, 42.3006, -74.5550
+Huddle, 43.1225, -77.2722
+Hudson, 42.2528, -73.7914
+Hudson Falls, 43.3006, -73.5864
+Hudson River State Hospital, 41.7369, -73.9036
+Hudson Upper, 42.2500, -73.7833
+Hughsonville, 41.5808, -73.9275
+Huguenot(Orange), 41.4178, -74.6314
+Huguenot(Richmond), 40.5372, -74.1950
+Huguenot Park, 40.9228, -73.7947
+Hulberton, 43.2531, -78.0661
+Huletts Landing, 43.6392, -73.5075
+Hullsville, 42.1564, -76.1692
+Hulse Landing, 40.9672, -72.8117
+Humaston, 43.2611, -75.5961
+Hume, 42.4728, -78.1367
+Humphrey, 42.2056, -78.5394
+Humphrey Center, 42.2333, -78.5264
+Hungerford Corners, 43.8506, -76.2339
+Hungry Hill, 42.7892, -73.9528
+Hunt, 42.5469, -77.9944
+Hunt Hollow(Livingston), 42.5519, -77.9789
+Hunt Hollow(Ontario), 42.6511, -77.4772
+Hunter, 42.2136, -74.2192
+Hunter Lake, 41.8667, -74.7667
+Huntersland, 42.5708, -74.2600
+Huntington, 40.8681, -73.4261
+Huntington Bay, 40.8997, -73.4153
+Huntington Beach, 40.8978, -73.3839
+Huntington Hospital, 40.8789, -73.4167
+Huntington Station, 40.8533, -73.4119
+Huntingtonville, 43.9761, -75.8622
+Huntly Corners, 42.8294, -75.1406
+Hunts Corner, 41.6025, -75.0378
+Hunts Corners(Cortland), 42.4242, -76.1097
+Hunts Corners(Erie), 43.0311, -78.5872
+Hunts Point, 40.8125, -73.8844
+Hurd Corners, 41.5894, -73.5839
+Hurd Settlement, 41.7275, -74.8828
+Hurlbutville, 43.4025, -75.3475
+Hurley, 41.9244, -74.0617
+Hurleyville, 41.7356, -74.6747
+Huron, 43.2333, -76.8803
+Hurricane, 43.2469, -74.9786
+Hutchinson Crossing, 42.8531, -73.9978
+Hyde Park(Dutchess), 41.7847, -73.9336
+Hyde Park(Otsego), 42.6608, -74.9583
+Hydesville, 43.0703, -77.1078
+Hydeville(Broome), 42.2828, -75.9517
+Hydeville(Chenango), 42.5978, -75.8756
+Hyndsville, 42.6856, -74.5619

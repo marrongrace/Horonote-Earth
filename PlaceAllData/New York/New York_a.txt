@@ -1,0 +1,229 @@
+Abbotts, 42.2569, -78.3189
+Abell Corners, 42.8983, -75.8286
+Abrams Landing, 40.9925, -72.1061
+Academy(Albany), 42.6500, -73.7833
+Academy(Ontario), 42.8833, -77.2833
+Accord, 41.7856, -74.2294
+Acidalia, 41.8994, -75.0336
+Ack, 41.0833, -73.9167
+Acra, 42.3108, -74.0558
+Adams, 43.8092, -76.0244
+Adams Basin, 43.1975, -77.8542
+Adams Center, 43.8600, -76.0058
+Adams Corner, 42.4267, -75.7286
+Adams Corners, 41.3533, -73.8400
+Adams Cove, 44.0064, -76.1589
+Adams Hospital, 42.4489, -79.0011
+Adamsville, 43.3208, -73.4736
+Addison, 42.1028, -77.2339
+Addison Hill, 41.9833, -77.3167
+Adelphi, 40.6808, -73.9650
+Aden, 41.8606, -74.6736
+Adirondack, 43.7639, -73.7589
+Adrian, 42.2544, -77.5211
+Adventist Home, 42.1394, -73.7858
+Afton, 42.2281, -75.5269
+Afton Lake, 42.2333, -75.5167
+Agnes Corners, 43.1758, -75.6067
+Aiden Lair, 43.8717, -74.0031
+Air City, 43.2200, -75.4228
+Airmont, 41.1008, -74.1167
+Airmont Heights, 41.1333, -74.1000
+Akins Corners, 41.5167, -73.6000
+Akron, 43.0208, -78.4956
+Akron Junction, 43.0047, -78.5347
+Alabama, 43.0964, -78.3911
+Albany, 42.6525, -73.7567
+Albany Hospital, 42.6531, -73.7769
+Albany Hospital For Incurables, 42.6339, -73.7686
+Albany Hospital Sanatorium, 42.6817, -73.8178
+Alberts Landing, 41.0033, -72.1200
+Albertson, 40.7733, -73.6436
+Albia, 42.7033, -73.6522
+Albion, 43.2464, -78.1939
+Albion Center, 43.4886, -76.0419
+Alburg, 44.7772, -74.5819
+Alcove, 42.4686, -73.9261
+Alden, 42.9000, -78.4922
+Alden Bend, 44.8833, -73.6500
+Alden Center, 42.9111, -78.5236
+Alden Manor, 40.6942, -73.7181
+Alder Bend, 44.8481, -73.7214
+Alder Brook, 44.5133, -73.9439
+Alder Creek, 43.4233, -75.2283
+Aldrich, 44.1486, -75.1117
+Alene, 43.0122, -75.7372
+Alewife Brook Landing, 41.0322, -72.2400
+Alexander, 42.9011, -78.2569
+Alexandria, 44.3000, -75.8667
+Alexandria Bay, 44.3358, -75.9181
+Alexandria Center, 44.3075, -75.8764
+Alfred, 42.2542, -77.7908
+Alfred Station, 42.2697, -77.7594
+Alice, 42.0208, -77.6142
+Allaben, 42.1167, -74.3708
+Allard Corners, 41.5667, -74.1833
+Allegany, 42.0900, -78.4944
+Allegany Indian Reservation, 42.1167, -78.7333
+Allen, 42.4000, -78.0167
+Allen Center, 42.3861, -78.0156
+Allen Corners, 41.4706, -73.7492
+Allendale, 43.7806, -76.0169
+Allens Hill, 42.8408, -77.5153
+Allentown(Allegany), 42.0836, -78.0647
+Allentown(Saratoga), 43.3250, -73.9553
+Allenwood, 40.8000, -73.7333
+Allerton, 40.8833, -73.8667
+Alligerville, 41.7958, -74.1794
+Alloway, 43.0236, -76.9889
+Alma, 42.0125, -78.0581
+Almond, 42.3222, -77.7386
+Aloquin, 42.8608, -77.1453
+Alpina, 44.1692, -75.4269
+Alpine, 42.3131, -76.7244
+Alpine Junction, 42.2936, -76.7106
+Alplaus, 42.8553, -73.8994
+Alps, 42.6333, -73.5500
+Alsen, 42.1581, -73.9197
+Altamont, 42.7006, -74.0342
+Altay, 42.4394, -77.0203
+Altmar, 43.5100, -76.0025
+Alton, 43.2111, -76.9808
+Altona, 44.8883, -73.6561
+Alverson, 43.9478, -76.0244
+Amagansett, 40.9736, -72.1442
+Amawalk, 41.2833, -73.7667
+Amber, 42.8872, -76.2969
+Ambierville, 42.5333, -75.3833
+Amblers Crossing, 42.6733, -75.2631
+Amblerville, 42.5411, -75.4003
+Amboy, 43.0694, -76.2728
+Amboy Center, 43.3689, -75.9422
+Amchir, 41.4667, -74.4000
+Amenia, 41.8492, -73.5572
+Amenia Union, 41.8244, -73.5056
+Ames, 42.8375, -74.6019
+Amherst, 42.9833, -78.8000
+Amity, 41.2681, -74.4553
+Amity Harbor, 40.6633, -73.3986
+Amityville, 40.6789, -73.4175
+Amsdell Heights, 42.7500, -78.8500
+Amsterdam, 42.9386, -74.1886
+Anaquassacook, 43.0747, -73.3128
+Ancram, 42.0506, -73.6367
+Ancramdale, 42.0181, -73.5917
+Anderson, 41.9031, -74.7072
+Andes, 42.1886, -74.7861
+Andover, 42.1564, -77.7958
+Andrea Park Estates, 41.2833, -73.7667
+Angelica, 42.3067, -78.0161
+Angells Corner, 43.0275, -76.8625
+Angola, 42.6383, -79.0281
+Angola Lake Shore Addition, 42.6181, -79.0986
+Angola-on-the-Lake, 42.6503, -79.0550
+Angus, 42.7347, -76.9731
+Annadale, 40.5444, -74.1769
+Annandale-on-Hudson, 42.0128, -73.9086
+Annsville, 41.3075, -73.9283
+Ansonia, 40.8000, -74.1000
+Antrim, 41.1239, -74.1417
+Antwerp, 44.1992, -75.6072
+Apalachin, 42.0694, -76.1550
+Apaquogue, 40.9428, -72.2125
+Apex, 42.0672, -75.2494
+Applegate Corner, 42.4514, -76.6117
+Appleton, 43.3275, -78.6483
+Apulia, 42.8239, -76.0539
+Apulia Station, 42.8186, -76.0728
+Aquebogue, 40.9444, -72.6275
+Aqueduct, 42.8481, -73.8894
+Aquetuck, 42.4606, -73.8389
+Arabia(Delaware), 42.2997, -75.0556
+Arabia(Schoharie), 42.5339, -74.6361
+Arcade, 42.5339, -78.4233
+Arcadia, 43.1000, -77.0667
+Archdale, 43.0331, -73.4814
+Archville, 41.1217, -73.8617
+Arctic, 42.1856, -75.4147
+Arden, 41.2744, -74.1533
+Ardonia, 41.6758, -74.0731
+Ardsley, 41.0106, -73.8442
+Ardsley-on-Hudson, 41.0250, -73.8708
+Arena, 42.1156, -74.7378
+Argo Village, 40.7000, -73.7000
+Argusville, 42.7906, -74.5194
+Argyle, 43.2378, -73.4919
+Arietta, 43.2461, -74.5181
+Aristotle, 42.3497, -78.0142
+Arkport, 42.3944, -77.6969
+Arkville, 42.1478, -74.6203
+Arkwright, 42.4069, -79.2367
+Arlington(Richmond), 40.6322, -74.1656
+Arlington(Dutchess), 41.6958, -73.8972
+Arlyn Oaks, 40.6833, -73.4667
+Armawalk, 41.2878, -73.7714
+Armonk, 41.1264, -73.7144
+Armor, 42.7406, -78.7992
+Arnett, 43.1439, -77.6408
+Arnolds Mill, 42.3414, -73.5956
+Arnot-Ogden Hospital, 42.1008, -76.8283
+Arrochar, 40.5983, -74.0731
+Arsenal Hill, 42.8833, -77.2967
+Arshamonaque, 41.0894, -72.3911
+Art Village, 40.8839, -72.4236
+Arthur, 43.4950, -76.2483
+Arthur Manor, 40.9767, -73.7933
+Arthursburg, 41.6283, -73.7719
+Arverne, 40.5911, -73.7964
+Asbury(Tompkins), 42.5267, -76.4922
+Asbury(Ulster), 42.1411, -73.9583
+Ash Grove, 43.0319, -73.3317
+Ashantee, 42.8969, -77.7650
+Asharoken, 40.9278, -73.3603
+Ashford, 42.3203, -78.6083
+Ashford Hollow, 42.4033, -78.6856
+Ashland(Greene), 42.3036, -74.3339
+Ashland(Cayuga), 42.7628, -76.4783
+Ashokan, 41.9756, -74.1972
+Ashville, 42.0964, -79.3758
+Ashville Bay, 42.1000, -79.3833
+Ashwood, 43.3278, -78.3103
+Assembly Park, 42.7797, -76.1306
+Assembly Point, 40.7833, -73.7833
+Association Island, 43.8667, -76.2000
+Astoria, 40.7719, -73.9306
+Athens, 42.2603, -73.8100
+Athol, 43.4925, -73.8433
+Athol Springs, 42.7697, -78.8667
+Atlanta, 42.5542, -77.4728
+Atlantic, 40.5167, -74.2500
+Atlantic Beach, 40.5889, -73.7294
+Atlantique, 40.6417, -73.1711
+Attica, 42.8642, -78.2806
+Attica Center, 42.8156, -78.2347
+Attlebury, 41.9172, -73.6689
+Atwaters, 42.6308, -76.6500
+Atwell, 43.5239, -74.9447
+Atwell Corners, 42.9247, -75.9067
+Atwood, 41.8928, -74.1603
+Au Sable Forks, 44.4406, -73.6750
+Auburn, 42.9317, -76.5664
+Audubon, 40.8333, -73.9333
+Augusta, 42.9747, -75.5017
+Aurelius, 42.9333, -76.6667
+Auriesville, 42.9294, -74.3169
+Aurora, 42.7539, -76.7028
+Aurora Tract, 43.1167, -76.2000
+Ausable, 44.5167, -73.6000
+Ausable Chasm, 44.5225, -73.4656
+Austerlitz, 42.3117, -73.4736
+Austin, 42.8108, -76.4711
+Ava, 43.4189, -75.4797
+Averill Park, 42.6339, -73.5542
+Averys Place, 43.2942, -74.5550
+Averyville, 44.2439, -74.0519
+Avoca, 42.4094, -77.4217
+Avon, 42.9119, -77.7458
+Awosting, 41.6692, -74.2917
+Axeville, 42.2492, -78.9594
+Axton Landing, 44.2028, -74.3292

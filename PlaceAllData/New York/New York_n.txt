@@ -1,0 +1,355 @@
+Nanticoke, 42.2747, -76.0544
+Nanuet, 41.0886, -74.0139
+Napanoch, 41.7439, -74.3719
+Napeague, 41.0094, -72.0686
+Naples, 42.6153, -77.4028
+Napoli, 42.1997, -78.8922
+Narrowsburg, 41.6086, -75.0622
+Nashville(Chautauqua), 42.4581, -79.0764
+Nashville(Niagara), 43.0772, -78.8661
+Nassau, 42.5158, -73.6106
+Nassau Farms, 41.0172, -72.4531
+Nassau Hospital, 40.7408, -73.6433
+Nassau Point, 41.0167, -72.4833
+Nassau Shores, 40.6619, -73.4406
+Natural Bridge, 44.0689, -75.4942
+Natural Dam, 44.3372, -75.5033
+Naumburg, 43.9011, -75.4944
+Nauraushaun, 41.0569, -73.9928
+Navarino, 42.9275, -76.2742
+Nazareth College, 43.1500, -77.5500
+Nedrow, 42.9750, -76.1417
+Neelytown, 41.4836, -74.2442
+Nehasane, 44.0042, -74.7769
+Nelliston, 42.9347, -74.6139
+Nelson, 42.9172, -75.7772
+Nelson Corner, 44.3722, -75.6942
+Nelson Corners, 41.4125, -73.9131
+Nelsonville, 41.4244, -73.9469
+Nepera Park, 40.9758, -73.8675
+Neponsit, 40.5717, -73.8619
+Nepperham, 40.9556, -73.8669
+Nesconset, 40.8519, -73.1544
+Netherwood, 41.7978, -73.8189
+Neversink, 41.8472, -74.6194
+Nevis, 42.0606, -73.8433
+New Albion, 42.2894, -78.8897
+New Baltimore, 42.4461, -73.7889
+New Berlin, 42.6242, -75.3319
+New Berlin Junction, 42.3000, -75.4833
+New Boston(Cortland), 42.6728, -75.9322
+New Boston(Lewis), 43.8000, -75.7461
+New Bremen, 43.8378, -75.4406
+New Brighton, 40.6422, -74.0933
+New Britain, 42.4547, -73.4903
+New Campbellwood Wye, 43.6153, -75.7175
+New Cassel, 40.7589, -73.5700
+New Castle, 41.1833, -73.7667
+New Centerville, 43.5667, -76.1167
+New City, 41.1475, -73.9897
+New City Park, 41.1333, -74.0025
+New Concord, 42.3953, -73.5269
+New Connecticut, 42.2731, -76.1483
+New Dorp, 40.5739, -74.1164
+New Dorp Beach, 40.5653, -74.1033
+New Ebenezer, 42.8567, -78.7417
+New Falconwood, 43.0167, -78.9500
+New Forge, 42.1061, -73.6750
+New Hackensack, 41.6228, -73.8711
+New Hamburg, 41.5883, -73.9456
+New Hampton, 41.4108, -74.4075
+New Hartford, 43.0733, -75.2881
+New Haven, 43.4797, -76.3156
+New Hempstead, 41.1500, -74.0333
+New Hope, 42.7981, -76.3475
+New Hudson, 42.3000, -78.2500
+New Hurley, 41.6381, -74.1442
+New Hyde Park, 40.7350, -73.6883
+New Ireland, 42.1786, -75.9544
+New Kingston, 42.2136, -74.6825
+New Lebanon, 42.4639, -73.3969
+New Lebanon Center, 42.4706, -73.4225
+New Lisbon, 42.5878, -75.1844
+New London, 43.2053, -75.5881
+New Lots, 40.6833, -73.8667
+New Market, 43.1000, -79.0333
+New Milford, 41.2344, -74.4142
+New Ohio, 42.2222, -75.7131
+New Oregon, 42.5883, -78.7919
+New Paltz, 41.7475, -74.0872
+New Rochelle, 40.9114, -73.7828
+New Russia, 44.1633, -73.6119
+New Salem(Ulster), 41.8953, -74.0164
+New Salem(Albany), 42.6228, -73.9689
+New Scotland, 42.6286, -73.9139
+New Scriba, 43.6064, -75.9311
+New Springville, 40.5933, -74.1636
+New Square, 41.1333, -74.0333
+New Suffolk, 40.9914, -72.4764
+New Utrecht, 40.6131, -73.9964
+New Vernon, 41.5017, -74.4847
+New Windsor, 41.4767, -74.0242
+New Woodstock, 42.8483, -75.8547
+New York, 40.7142, -74.0064
+New York Hospital(Westchester), 41.0250, -73.7497
+New York Hospital(New York), 40.7644, -73.9542
+New York Mills, 43.1053, -75.2917
+New York Mills Gardens, 43.1167, -75.3000
+New York State Hospital, 41.5272, -73.9522
+Newark, 43.0467, -77.0956
+Newark Valley, 42.2236, -76.1836
+Newbridge, 44.2864, -74.9758
+Newburg, 42.6931, -78.1200
+Newburgh, 41.5033, -74.0108
+Newburgh Junction, 41.2969, -74.1392
+Newcomb, 43.9694, -74.1650
+Newfane, 43.2867, -78.7106
+Newfield, 42.3619, -76.5911
+Newieden, 41.5878, -74.9897
+Newkirk(Kings), 40.6500, -73.9500
+Newkirk(Fulton), 43.1131, -74.5097
+Newmans Corner, 42.1903, -75.8814
+Newport(Herkimer), 43.1858, -75.0147
+Newport(Monroe), 43.2083, -77.5369
+Newport(Orange), 41.2758, -74.4697
+Newport(Onondaga), 43.0786, -76.3289
+Newrys, 42.4378, -73.9903
+Newstead, 43.0167, -78.5167
+Newton Falls, 44.2106, -74.9894
+Newton Hook, 42.3544, -73.7831
+Newton Memorial Hospital, 42.3533, -79.3350
+Newtonville, 42.7244, -73.7589
+Newtown(Suffolk), 40.8794, -72.5036
+Newtown(Erie), 42.5389, -78.9572
+Newtown(Saratoga), 42.8714, -73.7247
+Newville, 42.9764, -74.8261
+Niagara, 43.1167, -78.9833
+Niagara Falls, 43.0944, -79.0569
+Niagara Square, 42.8833, -78.8833
+Niagara University, 43.1333, -79.0333
+Nichols(Tioga), 42.0217, -76.3672
+Nichols(Steuben), 42.0092, -77.2656
+Nichols Corners, 42.9453, -76.2258
+Nichols Plaza, 43.9833, -75.9333
+Nichols Run, 42.0033, -78.5208
+Nicholsville, 43.2731, -75.9642
+Nicholville, 44.6972, -74.6597
+Niets Crest, 42.1181, -79.3894
+Nile, 42.1781, -78.1458
+Niles, 42.8375, -76.4139
+Nimmonsburg, 42.1333, -75.8833
+Nimmonsburg-Chenango Bridge, 42.1833, -75.8833
+Ninety Six Corners, 43.3411, -75.0942
+Nineveh, 42.1942, -75.6028
+Nineveh Junction, 42.2069, -75.5936
+Niobe, 42.0125, -79.4497
+Niskayuna, 42.7797, -73.8461
+Nissequoque, 40.9039, -73.1983
+Niverville, 42.4408, -73.6614
+Noble Corner, 43.0861, -76.8097
+Noble Hospital, 44.3378, -75.4739
+Noble Shores, 43.5450, -75.8786
+Noblesboro, 43.3958, -74.8622
+Norfolk, 44.8008, -74.9914
+Normansville, 42.6342, -73.7981
+Norrie Heights, 41.8392, -73.9256
+North, 40.9500, -73.8833
+North Afton, 42.2678, -75.5436
+North Alexander, 42.9294, -78.2419
+North Almond, 42.3906, -77.7700
+North Amboy, 43.4036, -75.8867
+North Amityville, 40.6975, -73.4256
+North Argyle, 43.2669, -73.4667
+North Avon, 42.9300, -77.6781
+North Babylon, 40.7164, -73.3222
+North Bailey, 42.9906, -78.8047
+North Baldwin, 40.6500, -73.6167
+North Ballston Spa, 43.0167, -73.8500
+North Bangor, 44.8419, -74.4014
+North Barton, 42.1189, -76.4908
+North Bay, 43.2300, -75.7486
+North Bay Shore, 40.7361, -73.2631
+North Beach, 40.7658, -73.8764
+North Belle Isle, 43.0836, -76.2522
+North Bellmore, 40.6914, -73.5339
+North Bellport, 40.7742, -72.9433
+North Bergen, 43.1236, -78.0136
+North Bethlehem, 42.6700, -73.8464
+North Blenheim, 42.4708, -74.4458
+North Bloomfield, 42.9408, -77.5772
+North Bolton, 43.6017, -73.6547
+North Boston, 42.6856, -78.7769
+North Boylston, 43.6836, -76.0058
+North Branch, 41.8067, -74.9919
+North Bridgewater, 42.9242, -75.2472
+North Broadalbin, 43.1069, -74.1628
+North Brookfield, 42.8503, -75.3911
+North Burke, 44.9867, -74.1747
+North Bush, 43.0847, -74.4928
+North Cambridge, 43.0247, -73.4503
+North Cameron, 42.2536, -77.3650
+North Castle, 41.1167, -73.7000
+North Cazenovia, 42.9919, -75.8706
+North Chatham, 42.4719, -73.6322
+North Chemung, 42.1000, -76.6922
+North Chili, 43.1197, -77.8058
+North Chittenango, 43.0811, -75.8731
+North Church Corner, 43.5053, -76.2322
+North Clove, 41.7003, -73.6669
+North Clymer, 42.0750, -79.5728
+North Cohocton, 42.5611, -77.4650
+North Colesville, 42.2411, -75.7219
+North Collins, 42.5953, -78.9414
+North Columbia, 42.9778, -75.0719
+North Constantia, 43.3425, -75.9972
+North Corners, 44.7333, -75.3167
+North Creek, 43.6978, -73.9864
+North Croghan, 44.0333, -75.5072
+North Croghan Crossing, 44.0347, -75.4972
+North Cuba, 42.2414, -78.2736
+North Dansville, 42.5500, -77.7000
+North Darien, 42.9667, -78.4000
+North Dock, 41.3975, -73.9561
+North East Junction, 42.0200, -79.4392
+North Easton, 43.0100, -73.5506
+North Edmeston, 42.7567, -75.2375
+North Elba, 44.2433, -73.9547
+North End, 41.4667, -74.4000
+North Evans, 42.6969, -78.9417
+North Fair Haven, 43.3328, -76.7000
+North Fenton, 42.2425, -75.7950
+North Forest Acres, 43.0050, -78.7458
+North Frankfort, 43.0422, -75.0594
+North Franklin, 42.3922, -75.0858
+North Gage, 43.2256, -75.1264
+North Gainesville, 42.6844, -78.1336
+North Galway, 43.0522, -74.0586
+North Gates, 43.1764, -77.7017
+North Germantown, 42.1544, -73.8778
+North Gouverneur, 44.4211, -75.4703
+North Granville, 43.4503, -73.3419
+North Great River, 40.7472, -73.1703
+North Greece, 43.2536, -77.7328
+North Greenbush, 42.6833, -73.6667
+North Greenfield, 43.1642, -73.8614
+North Greenwich, 43.1586, -73.4861
+North Hamlin, 43.3386, -77.9019
+North Hammond, 44.4833, -75.7297
+North Hannibal, 43.3558, -76.5408
+North Harmony, 42.1167, -79.4167
+North Harpersfield, 42.4725, -74.6922
+North Hartland, 43.2889, -78.6050
+North Haven, 41.0128, -72.3133
+North Hebron, 43.3231, -73.3208
+North Hempstead, 40.7833, -73.7000
+North Highland, 41.4333, -73.9500
+North Hills, 40.7808, -73.6769
+North Hillsdale, 42.2356, -73.5078
+North Hoosick, 42.9281, -73.3433
+North Hornell, 42.3461, -77.6617
+North Hudson, 43.9525, -73.7289
+North Huron, 43.2636, -76.8844
+North Ilion, 43.0219, -75.0289
+North Jasper, 42.2000, -77.4000
+North Java, 42.6836, -78.3381
+North Jay, 44.3983, -73.6739
+North Kortright, 42.4361, -74.7397
+North Landing, 43.7356, -76.1847
+North Lansing, 42.6111, -76.4978
+North Lawrence, 44.8050, -74.6753
+North Lexington, 42.2747, -74.3864
+North Lindenhurst, 40.7142, -73.3819
+North Litchfield, 43.0333, -75.0667
+North Lynbrook, 40.6667, -73.6667
+North Macedon, 43.0822, -77.3047
+North Manlius, 43.0997, -75.9775
+North Massapequa, 40.7008, -73.4625
+North Medical Center, 43.1200, -76.1603
+North Merrick, 40.6911, -73.5636
+North Milton, 43.0697, -73.8947
+North Nassau, 42.5792, -73.5436
+North New Hyde Park, 40.7547, -73.6878
+North Norwich, 42.6169, -75.5272
+North Olean, 42.0950, -78.4322
+North Osceola, 43.5708, -75.7128
+North Patchogue, 40.7869, -73.0094
+North Pelham, 40.9167, -73.8167
+North Pembroke, 43.0211, -78.3361
+North Petersburg, 42.8231, -73.3328
+North Pharsalia, 42.6083, -75.7019
+North Pitcher, 42.6225, -75.8200
+North Pole, 44.4008, -73.8494
+North Port Byron, 43.0525, -76.6328
+North Reading, 42.4517, -76.9731
+North Ridge, 43.2125, -78.8261
+North Ridgeway, 43.2908, -78.4656
+North River, 43.7386, -74.0492
+North Rockville Centre, 40.6667, -73.6333
+North Rose, 43.1856, -76.8928
+North Rush, 43.0033, -77.7058
+North Russell, 44.5025, -75.1231
+North Salem, 41.3347, -73.5717
+North Sanford, 42.1547, -75.4528
+North Schodack, 42.5844, -73.5986
+North Scriba, 43.4886, -76.3853
+North Sea, 40.9328, -72.4147
+North Seaford, 40.7833, -73.5333
+North Settlement, 42.3403, -74.2906
+North Sheldon, 42.7700, -78.4189
+North Shore Beach, 40.9500, -72.9333
+North Shore Hospital, 40.7775, -73.7019
+North Smithtown, 40.8500, -73.2333
+North Spencer, 42.2558, -76.5078
+North Stephentown, 42.5969, -73.3700
+North Sterling, 43.3697, -76.6236
+North Stockholm, 44.7694, -74.9350
+North Syracuse, 43.1347, -76.1303
+North Tarrytown, 41.0856, -73.8589
+North Thurston, 42.2675, -77.2808
+North Tonawanda, 43.0386, -78.8644
+North Urbana, 42.4128, -77.1672
+North Valley Stream, 40.6850, -73.7022
+North Victory, 43.2561, -76.6431
+North Volney, 43.4133, -76.3272
+North Wantagh, 40.6933, -73.5081
+North Waverly, 42.0217, -76.5239
+North Weedsport, 43.0589, -76.5594
+North Western, 43.3422, -75.3639
+North White Plains, 41.0550, -73.7672
+North Wilmurt, 43.4497, -75.0169
+North Wilna, 44.0956, -75.5972
+North Winfield, 42.9319, -75.1883
+North Wolcott, 43.2842, -76.7822
+North Woodmere, 40.6500, -73.7244
+Northampton(Suffolk), 40.9167, -72.6333
+Northampton(Fulton), 43.2167, -74.1833
+Northeast, 41.9500, -73.5333
+Northeast Center, 41.9317, -73.5344
+Northeast Henrietta, 43.0833, -77.5167
+Northfield, 42.2469, -75.1892
+Northport, 40.9008, -73.3436
+Northport Veterans Hospital, 40.8919, -73.3103
+Northside, 42.1333, -77.0500
+Northtown, 42.9667, -78.8000
+Northumberland, 43.1272, -73.5886
+Northville(Fulton), 43.2256, -74.1725
+Northville(Suffolk), 40.9700, -72.6194
+Northwest Corners, 42.6294, -75.7739
+Northwest Landing, 41.0100, -72.2461
+Northwood, 43.3486, -75.0717
+Northwoods Club, 43.8453, -74.1461
+Norton Hill, 42.4114, -74.0672
+Norton Summit, 42.1097, -78.0131
+Norway, 43.2083, -74.9525
+Norwich, 42.5311, -75.5239
+Norwich Corners, 43.0144, -75.2125
+Norwood, 44.7514, -74.9947
+Noseville, 44.0753, -75.9158
+Nostrand, 40.5833, -73.9500
+Nottingham Estates, 43.1831, -78.6428
+Noxon, 41.6428, -73.8156
+Noyack, 40.9956, -72.3417
+Nubia, 42.5858, -76.2897
+Number Four, 43.8656, -75.1811
+Nunda, 42.5794, -77.9428
+Nyack, 41.0906, -73.9183

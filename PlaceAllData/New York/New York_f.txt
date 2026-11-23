@@ -1,0 +1,306 @@
+Fabius, 42.8350, -75.9864
+Factory Hollow, 42.8375, -73.4939
+Factory Village, 43.0258, -73.8669
+Factoryville, 43.9517, -73.4419
+Fair Harbor, 40.6392, -73.1847
+Fair Haven(Cayuga), 43.3164, -76.7025
+Fair Haven(Cortland), 42.7692, -76.2686
+Fair Oaks, 41.5069, -74.4106
+Fairdale, 43.3236, -76.5392
+Fairfield(Herkimer), 43.1372, -74.9136
+Fairfield(Tioga), 42.2325, -76.2789
+Fairfield Farms, 43.0333, -76.0167
+Fairfield Gardens, 42.7000, -73.8000
+Fairlawn Estates, 42.7333, -73.7500
+Fairmount, 43.0472, -76.2389
+Fairport, 43.0986, -77.4422
+Fairview(Allegany), 42.4367, -78.3086
+Fairview(Dutchess), 41.7236, -73.9203
+Fairview(Westchester), 41.0433, -73.7978
+Fairview(Wyoming), 42.6794, -78.0367
+Fairville, 43.1169, -77.0794
+Fairweather Corners, 43.0172, -74.0542
+Falcon Manor, 43.1000, -78.9667
+Falconer, 42.1186, -79.1986
+Falconwood, 43.0167, -78.9500
+Falls, 43.0833, -79.0333
+Falls Mills, 41.7308, -74.9825
+Fallsburg, 41.7319, -74.6017
+Fancher, 43.2447, -78.0914
+Fantinekill, 41.8019, -74.3050
+Far Rockaway, 40.6053, -73.7556
+Fargo(Genesee), 42.9264, -78.4367
+Fargo(Jefferson), 44.0339, -75.5825
+Farleys, 42.8181, -76.7000
+Farleys Point, 42.8333, -76.7000
+Farmers Corner, 43.5508, -76.1272
+Farmers Mills(Oneida), 43.0236, -75.3978
+Farmers Mills(Outnam), 41.4956, -73.7397
+Farmersville, 42.3875, -78.3764
+Farmersville Station, 42.4275, -78.3611
+Farmingdale(Nassau), 40.7325, -73.4458
+Farmingdale(Orange), 41.4003, -74.2367
+Farmington, 43.0319, -77.3325
+Farmingville, 40.8311, -73.0300
+Farnham, 42.5944, -79.0914
+Farragut, 40.6500, -73.9333
+Farrel Corner, 43.1711, -75.0719
+Fawn Ridge, 43.1500, -76.3333
+Faxton Hospital, 43.0911, -75.2581
+Fay, 44.8928, -74.3431
+Fayette, 42.8142, -76.8094
+Fayette Manor, 43.0333, -76.0167
+Fayetteville, 43.0297, -76.0047
+Fayville, 43.1469, -74.1208
+Federal, 43.1500, -77.6167
+Federal Reserve, 40.7167, -73.8333
+Felters Corners, 41.1986, -74.0097
+Felts Mills, 44.0222, -75.7636
+Fenimore, 43.3022, -73.5950
+Fenner(Madison), 42.9694, -75.7872
+Fenner(Monroe), 43.0583, -77.6675
+Fenton, 42.1833, -75.8333
+Fentonville, 42.0039, -79.1406
+Ferenbaugh, 42.1975, -77.0081
+Fergusons Corners, 42.8667, -76.9833
+Fergusonville, 42.4928, -74.8053
+Ferndale, 41.7739, -74.7389
+Fernwood(Oswego), 43.4953, -76.1508
+Fernwood(Sullivan), 41.8744, -75.0700
+Fernwood(Saratoga), 43.2764, -73.6469
+Ferry Village, 42.9708, -78.9486
+Feura Bush, 42.5778, -73.8792
+Fey Mill, 43.4453, -75.5450
+Fickles Corner, 42.2614, -75.8186
+Field Corners, 41.4478, -73.6450
+Field Crossing, 42.6775, -75.0314
+Fields Settlement, 43.9436, -75.9797
+Fieldston, 40.8833, -73.9000
+Filer Corners, 42.5500, -75.2500
+Fillmore, 42.4661, -78.1153
+Fillmore Corner, 42.9911, -76.0181
+Finchville, 41.4278, -74.5717
+Findley Lake, 42.1192, -79.7328
+Fine, 44.2478, -75.1381
+Fineview, 44.2875, -76.0125
+Finger Lakes Manor, 42.8833, -77.2833
+Fink Basin, 43.0269, -74.8256
+Fink Hollow, 43.3525, -75.2794
+Finnegans Corners, 41.3661, -74.3603
+Fintches Corners, 43.2797, -76.6447
+Fire Island Pines, 40.6653, -73.0686
+Firemens Home, 42.2564, -73.7786
+Fireplace, 41.0464, -72.1531
+Fireplace Lodge Girls Camp, 41.0494, -72.1525
+Firthcliffe, 41.4392, -74.0456
+Firthcliffe Heights, 41.4483, -74.0578
+Fish Creek(Lewis), 43.5203, -75.5336
+Fish Creek(Ulster), 42.0619, -74.0133
+Fish Creek Landing, 43.2208, -75.7003
+Fish Creek Station, 43.1961, -75.7133
+Fish House, 43.1444, -74.1333
+Fishers, 43.0086, -77.4650
+Fishers Island, 41.2569, -72.0244
+Fishers Landing, 44.2764, -76.0083
+Fisherville, 42.1564, -76.8692
+Fishkill, 41.5356, -73.8994
+Fishkill Plains, 41.6069, -73.8308
+Fishs Eddy, 41.9636, -75.1753
+Fitch, 42.2628, -78.4378
+Fitch Point, 43.1500, -73.3803
+Fitts Corners, 42.5636, -76.3236
+Five Chimneys Corner, 43.0333, -75.6194
+Five Corners(Allegany), 42.2500, -77.7833
+Five Corners(Oeleans), 43.2628, -78.1931
+Five Corners(Chenango), 42.6422, -75.3306
+Five Corners(Gnesee), 43.0781, -78.2875
+Five Corners(Madison), 43.0761, -75.6914
+Five Corners(Cayuga), 42.6375, -76.5761
+Five Corners(Oneida), 42.8939, -75.3708
+Five Points(Monrie), 42.9614, -77.6644
+Five Points(Ontario), 42.9489, -76.9786
+Five Points(Cattaraugus), 42.3028, -78.7958
+Five Points(Otsego), 42.6786, -74.8131
+Fivemile Point, 42.0911, -75.8233
+Flackville, 44.6653, -75.3578
+Flagler Corners, 42.8547, -73.7950
+Flanders, 40.9033, -72.6181
+Flat Creek(Montgomery), 42.8428, -74.5019
+Flat Creek(Schoharie), 42.4300, -74.4019
+Flatbrook, 42.3769, -73.4294
+Flatbush(Kings), 40.6519, -73.9594
+Flatbush(Ulster), 42.0153, -73.9608
+Flatlands, 40.6211, -73.9353
+Fleetwood, 40.9250, -73.8364
+Fleischmanns, 42.1553, -74.5328
+Fleming, 42.8617, -76.5744
+Flemingville, 42.1647, -76.2492
+Flint(Ontario), 42.8578, -77.1064
+Flint(Ulster), 41.6372, -74.1369
+Flint Town, 43.3994, -75.4406
+Floodwood, 44.3336, -74.4067
+Floral Park, 40.7236, -73.7053
+Florence, 43.4383, -75.7497
+Florence Hill, 43.4231, -75.7933
+Florida, 41.3317, -74.3572
+Floridaville, 43.2386, -76.4875
+Flower Hill, 40.8072, -73.6817
+Flowerfield Estates, 40.8500, -73.8833
+Flowers, 42.0436, -75.6889
+Floyd, 43.2197, -75.3347
+Flushing, 40.7653, -73.8178
+Flushing Hospital, 40.7556, -73.8169
+Fluvanna, 42.1192, -79.2922
+Fly Creek, 42.7183, -74.9836
+Fly Summit, 43.0125, -73.4847
+Flying Point, 40.8942, -72.3547
+Folsomdale, 42.8272, -78.4483
+Fonda, 42.9544, -74.3769
+Footes, 42.5850, -78.6447
+Foots Corner, 42.7464, -77.6778
+Ford Corner, 42.9753, -77.5275
+Fordham, 40.8592, -73.8989
+Fordham Hospital, 40.8586, -73.8817
+Fordsbush, 42.9594, -74.7425
+Forest, 44.9019, -73.7564
+Forest Avenue Shoppers Town, 40.6333, -74.1333
+Forest Beach, 43.2206, -76.0919
+Forest City, 43.9519, -75.4425
+Forest Glen(Erie), 42.7317, -78.8486
+Forest Glen(Ulster), 41.7039, -74.1286
+Forest Hills, 40.7161, -73.8506
+Forest Home, 42.4536, -76.4683
+Forest Knolls, 40.9386, -73.7761
+Forest Lawn, 43.2489, -77.5036
+Forest Park(Queens), 40.7167, -73.8333
+Forest Park(Chautauqua), 42.3339, -79.6050
+Forestburg, 41.5500, -74.7517
+Forestdale, 44.4364, -73.9206
+Forestport, 43.4419, -75.2075
+Forestport Station, 43.4500, -75.2000
+Forestville, 42.4683, -79.1772
+Forge Hollow, 42.9628, -75.4092
+Forks, 42.9039, -78.7544
+Forsonville, 41.3681, -73.9300
+Forsyth, 42.2922, -79.6539
+Fort Ann, 43.4142, -73.4881
+FORT CLINTON, 41.3186, -73.9883
+Fort Covington, 44.9892, -74.4950
+Fort Covington Center, 44.9483, -74.4644
+Fort Drum, 44.0167, -75.8000
+Fort Edward, 43.2669, -73.5850
+Fort George, 40.8667, -73.9333
+Fort Greene, 40.6936, -73.9675
+Fort Hamilton, 40.6186, -74.0336
+Fort Herkimer, 43.0169, -74.9528
+Fort Hill(Genesee), 43.0167, -77.9706
+Fort Hill(Ontario), 42.9169, -77.0436
+Fort Hill(Suffolk), 40.8792, -73.4069
+Fort Hill(Wayne), 43.0533, -76.7531
+Fort Hunter(Albany), 42.7431, -73.9431
+Fort Hunter(Montgomery), 42.9422, -74.2856
+Fort Jackson, 44.7056, -74.7153
+Fort Jay, 40.6911, -74.0164
+Fort Johnson, 42.9583, -74.2333
+Fort Miller, 43.1608, -73.5783
+FORT MONTGOMERY, 41.3239, -73.9872
+Fort Niagara Beach, 43.2678, -79.0378
+Fort Ontario, 43.4658, -76.5086
+Fort Plain, 42.9314, -74.6231
+Fort Putnam, 41.3906, -73.9642
+Fort Salonga, 40.9125, -73.3014
+Fort Ticonderoga, 43.8414, -73.3881
+Fort Tilden, 40.5622, -73.8914
+Fort Wadsworth, 40.6089, -74.0631
+Fort Washington, 40.8333, -73.9333
+Fort William Henry, 43.4206, -73.7097
+Fortsville, 43.2300, -73.6822
+Foster, 42.1292, -76.1436
+Foster-Wheeler Junction, 42.5667, -77.7000
+Fosterdale, 41.7075, -74.9725
+Fostertown, 41.5533, -74.0458
+Fosterville, 42.9581, -76.6733
+Four Mile, 42.0197, -78.4653
+Fourth Lake, 43.3569, -73.8303
+Fowler, 44.2786, -75.3867
+Fowlersville, 43.6239, -75.2744
+Fowlerville(Erie), 42.6022, -78.7169
+Fowlerville(Livingston), 42.8933, -77.8458
+Fowlerville(Sullivan), 41.5561, -74.7608
+Fox, 42.4181, -78.6422
+Fox Hill, 43.1931, -74.0453
+Fox Hills, 40.6150, -74.0850
+Fox Hospital, 42.4575, -75.0533
+Fox Meadow, 41.0017, -73.7931
+Fox Ridge, 43.0553, -76.6911
+Fraleighs, 42.0033, -73.8344
+Francis Corners, 43.0133, -73.7786
+Frankfort, 43.0389, -75.0708
+Frankfort Center, 43.0511, -75.1447
+Franklin, 42.3406, -75.1656
+Franklin D Roosevelt, 40.7667, -73.9667
+Franklin D Roosevelt Veterans Administration, 41.2372, -73.9292
+Franklin Depot, 42.2825, -75.2097
+Franklin Falls, 44.4367, -73.9708
+Franklin General Hospital, 40.6811, -73.6867
+Franklin Park, 43.0825, -76.0753
+Franklin Springs, 43.0367, -75.3925
+Franklin Square, 40.7072, -73.6764
+Franklinton, 42.5208, -74.3039
+Franklinville, 42.3369, -78.4583
+Franks Corner, 42.5833, -76.2000
+Fraser(Delaware), 42.2453, -74.9650
+Fraser(Livingston), 42.9144, -77.8714
+Frear Park, 42.7447, -73.6739
+Fredonia, 42.4400, -79.3319
+Freedom, 42.4847, -78.3314
+Freedom Plains, 41.6725, -73.8000
+Freehold, 42.3592, -74.0503
+Freeman, 42.0556, -77.2728
+Freeman Mill, 43.4608, -75.5789
+Freeport, 40.6575, -73.5836
+Freer Corner, 42.4731, -75.2611
+Freetown, 40.9756, -72.1828
+Freetown Corners, 42.5219, -76.0364
+Freeville, 42.5139, -76.3469
+Fremont, 42.3944, -77.6278
+Fremont Center, 41.8422, -75.0433
+Fremont Hills, 43.0667, -76.0667
+French Creek, 42.0678, -79.7039
+French Mountain, 43.3692, -73.6989
+French Woods, 41.9211, -75.1864
+Frenchville, 43.3250, -75.3586
+Fresh Kills, 40.5642, -74.1867
+Fresh Meadows, 40.7347, -73.7939
+Fresh Pond, 40.7069, -73.9039
+Fresh Pond Junction, 40.7039, -73.8919
+Fresh Pond Landing, 40.9650, -72.7725
+Frewsburg, 42.0544, -79.1583
+Freysbush, 42.9092, -74.6633
+Friend, 42.6628, -77.1839
+Friends Point, 43.7500, -73.5000
+Friendship, 42.2064, -78.1378
+Frink Corner, 43.0817, -73.9369
+Frinks Corner, 42.7047, -78.3883
+Frone Corner, 42.4583, -75.3206
+Front Street, 42.1167, -75.9333
+Frontenac, 44.2569, -76.0500
+Frontier Plaza, 43.1333, -77.7167
+Frost Hollow, 42.8267, -77.5647
+Frost Valley, 41.9869, -74.5108
+Fruit Valley, 43.4353, -76.5642
+Fruitland, 43.2242, -77.3378
+Fullers(Albany), 42.7258, -73.9608
+Fullers(Warren), 43.4775, -74.0950
+Fullerville, 44.2681, -75.3422
+Fulmer Valley, 42.0978, -77.8303
+Fulton, 43.3228, -76.4175
+Fultonham, 42.5683, -74.3958
+Fultonville, 42.9478, -74.3708
+Furnace Brook, 41.2167, -74.2833
+Furnace Village, 43.2411, -76.8214
+Furnace Woods, 41.2647, -73.8864
+Furnaceville(Otsego), 42.6547, -74.6722
+Furnaceville(Wayne), 43.2522, -77.2742
+Furniss, 43.3953, -76.5336
+Fyler Settlement, 43.0953, -75.9214

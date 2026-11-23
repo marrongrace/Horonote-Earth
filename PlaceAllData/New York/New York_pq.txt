@@ -1,0 +1,449 @@
+Pacama, 41.9306, -74.1675
+Pachin Mills, 41.9953, -73.6586
+Packwood Corners, 42.8931, -76.9194
+Paddlefords, 42.8833, -77.2833
+Paddy Hill, 43.9997, -75.9828
+Padelford, 42.9403, -77.3181
+Page, 43.6556, -75.5619
+Page Brook, 42.2583, -75.7653
+Pages Corner, 43.0903, -73.9014
+Pail Shop Corners, 42.7239, -74.9808
+Paines Corner, 42.8394, -78.0097
+Paines Hollow, 42.9614, -74.9036
+Painted Post, 42.1619, -77.0944
+Palatine, 42.9500, -74.5500
+Palatine Bridge, 42.9108, -74.5744
+Palentown, 41.8789, -74.3219
+Palenville, 42.1744, -74.0206
+Palermo, 43.3650, -76.2828
+Palisades, 41.0111, -73.9139
+Palmer, 43.2453, -73.8178
+Palmerville, 44.4175, -75.1283
+Palmyra, 43.0639, -77.2336
+Pamelia, 44.0500, -75.9000
+Pamelia Four Corners, 44.0833, -75.8167
+Panama, 42.0750, -79.4833
+Panorama Bluff, 44.0544, -73.8883
+Panther Lake, 43.3261, -75.9008
+Pantigo, 40.9678, -72.1653
+Paper Mill Corners, 43.1522, -74.8458
+Paradise, 41.4967, -74.6450
+Paradise Beach, 43.3506, -73.6803
+Paradise Hill(Greene), 42.3836, -73.8897
+Paradise Hill(Oneida), 43.1683, -75.6406
+Paradox, 43.8914, -73.6461
+Parcells Corners, 42.4578, -79.0969
+Paris, 43.0006, -75.3142
+Paris Station, 42.9633, -75.3092
+Parish, 43.4061, -76.1261
+Parish Center, 43.4019, -76.0686
+Parishville, 44.6286, -74.8142
+Parishville Center, 44.6289, -74.8903
+Park Avenue Hospital, 43.1467, -77.5750
+Park Hill, 43.0667, -76.0667
+Park Hill, 40.9236, -73.8906
+Park of Edgewater, 40.8225, -73.8100
+Park Slope, 40.6700, -73.9864
+Park Terrace, 42.0697, -75.9133
+Park Village, 43.0250, -78.8453
+Park West Hospital, 40.7853, -73.9767
+Parkchester, 40.8389, -73.8608
+Parker, 42.4028, -75.4622
+Parkers, 43.7322, -75.6711
+Parkers Corners, 42.7433, -73.9853
+Parkis Mills, 43.0397, -74.0133
+Parkside(Queens), 40.7106, -73.8514
+Parkside(Westchester), 40.8967, -73.8256
+Parkston, 41.9044, -74.7733
+Parksville, 41.8553, -74.7600
+Parkville, 40.6331, -73.9789
+Parkway, 40.8500, -73.8667
+Parkway Hospital, 40.7236, -73.8389
+Parma, 43.2667, -77.7833
+Parma Center, 43.2586, -77.7914
+Parma Corners, 43.2183, -77.7922
+Parshall Hospital, 42.4600, -75.0644
+Parson Farms, 43.0367, -76.2806
+Parson Mill, 43.4494, -75.5669
+Parsons Beach, 40.7719, -73.7517
+Parsons Hospital, 40.7656, -73.8247
+Partello Corners, 42.7975, -76.3664
+Partlow, 43.9742, -74.8278
+Pastime Park, 42.8394, -76.9422
+Pataukunk, 41.7917, -74.3064
+Patchin(Erie), 42.6578, -78.7478
+Patchin(New York), 40.7500, -74.0000
+Patchinville, 42.5308, -77.5892
+Patchogue, 40.7656, -73.0156
+Patchogue Highlands, 40.7825, -73.0275
+Patent, 42.6772, -75.1003
+Patria, 42.6172, -74.4286
+Patroon, 42.6833, -73.7500
+Pattens Mills, 43.3828, -73.6044
+Patterson, 41.5136, -73.6067
+Pattersonville, 42.8900, -74.0819
+Paul Smiths, 44.4386, -74.2531
+Paul Smiths Easy Street, 44.4397, -74.2300
+Pavilion, 42.8761, -78.0231
+Pavilion Center, 42.9092, -78.0203
+Pawling, 41.5619, -73.6031
+Pawling Sanitorium, 42.6914, -73.6156
+Payne Beach, 43.3314, -77.7367
+Paynesville, 42.0094, -77.8433
+Pea Brook, 41.8944, -75.1483
+Peach Lake, 41.4333, -73.6000
+Peakville, 41.9806, -75.0972
+Pearl Creek, 42.8486, -78.0472
+Pearl River, 41.0589, -74.0222
+Peas Eddy, 41.9458, -75.2314
+Peasleeville, 44.6008, -73.6736
+Peat Corners, 43.3383, -76.2303
+Pebble Beach, 42.8322, -77.7081
+Peck Hill, 42.9997, -75.9189
+Peck Slip, 40.7167, -74.0000
+Pecksport, 42.8625, -75.5678
+Pecksville, 41.5192, -73.6961
+Pecktown, 42.7731, -75.1464
+Peconic, 41.0478, -72.4636
+Peekamoose, 41.9278, -74.3797
+Peekskill, 41.2900, -73.9208
+Pekin(Oswego), 43.5467, -75.9650
+Pekin(Niagara), 43.1667, -78.8833
+Pelham, 40.9097, -73.8083
+Pelham Manor, 40.8953, -73.8075
+Pelham Parkway, 40.8500, -73.8667
+Pellets Island, 41.3806, -74.4128
+Pember Corners, 43.3569, -76.5108
+Pembroke, 42.9975, -78.4350
+Pembroke Center, 42.9961, -78.3656
+Penataquit, 40.7167, -73.2500
+Pendleton, 43.0869, -78.7281
+Pendleton Center, 43.1069, -78.7731
+Penelope, 42.4136, -75.8956
+Penfield, 43.1303, -77.4758
+Penfield Center, 43.1672, -77.4314
+Penn Yan, 42.6608, -77.0542
+Pennellville, 43.2825, -76.2708
+Peoria, 42.8336, -77.9653
+Perch River, 44.0753, -76.0083
+Perinton, 43.0833, -77.4500
+Perkin, 43.1683, -78.8853
+Perkins Corner, 42.8964, -75.8808
+Perkins Crossing, 42.6731, -75.0089
+Perkinsville, 42.5397, -77.6286
+Perry, 42.7156, -78.0058
+Perry Center, 42.7489, -78.0061
+Perry City, 42.4919, -76.6950
+Perry Mills, 45.0003, -73.5067
+Perrys Mills, 44.9833, -73.4333
+Perrysburg, 42.4564, -79.0022
+Perryville, 43.0069, -75.7997
+Persia, 42.3853, -78.9364
+Persons Corners, 42.7703, -78.3889
+Perth, 43.0175, -74.1944
+Peru(Clinton), 44.5783, -73.5272
+Peru(Onondaga), 43.0822, -76.4083
+Peruton, 42.5483, -76.3542
+Peruville, 42.5503, -76.3717
+Peter Stuyvesant, 40.7333, -73.9833
+Peterboro, 42.9672, -75.6883
+Peters Corners(Fulton), 43.1658, -74.4025
+Peters Corners(Erie), 42.9414, -78.5128
+Petersburg, 42.7494, -73.3406
+Petersburg Junction, 42.8350, -73.3258
+Peth, 42.1944, -78.6594
+Petries Corners, 43.8042, -75.3619
+Petrolla, 42.0894, -78.0186
+Petty Corner, 42.9178, -76.5078
+Pharsalia, 42.5828, -75.7814
+Phelps, 42.9575, -77.0578
+Phelps Junction, 42.9675, -77.0867
+Phelps Memorial Hospital, 41.1089, -73.8636
+Philadelphia, 44.1544, -75.7092
+Philipse Manor, 41.0956, -73.8650
+Philipstown, 41.4000, -73.9167
+Phillips Creek, 42.2581, -77.8939
+Phillips Mill, 42.1667, -79.3833
+Phillips Mills, 42.1519, -79.3733
+Phillipsburg, 41.4378, -74.3597
+Phillipsport, 41.6392, -74.4461
+Philmont, 42.2483, -73.6536
+Philwold, 41.5764, -74.6692
+Phoenicia, 42.0847, -74.3158
+Phoenix, 43.2311, -76.3011
+Phoenix Mills, 42.6667, -74.9433
+Physicians Hospital, 40.7525, -73.8933
+Picketts Corners, 44.6500, -73.7500
+Pickettville, 44.6089, -74.8211
+Piercefield, 44.2319, -74.5700
+Pierces Corner, 44.3333, -75.4667
+Pierceville, 42.8500, -75.6372
+Piermont, 41.0419, -73.9186
+Pierrepont, 44.5422, -75.0122
+Pierrepont Manor, 43.7350, -76.0592
+Pierstown, 42.7717, -74.9131
+Piffard, 42.8283, -77.8511
+Pike, 42.5564, -78.1531
+Pike Five Corners, 42.5833, -78.2500
+Pikes Corner, 44.2772, -75.5178
+Pikeville, 42.0542, -78.0461
+Pilgrim, 40.8500, -73.8500
+Pilgrim Corners, 41.4614, -74.4439
+Pilgrim State Hospital, 40.7956, -73.2828
+Pilgrimport, 43.0964, -76.9703
+Pillar Point, 43.9703, -76.1261
+Pilot Knob, 43.5158, -73.6297
+Pinckney, 43.8500, -75.2167
+Pine(Albany), 42.6667, -73.8000
+Pine(Oneida), 43.2586, -75.6392
+Pine Aire, 40.7706, -73.2744
+Pine Bush, 41.6081, -74.2994
+Pine City, 42.0367, -76.8697
+Pine Corners, 42.7492, -77.2569
+Pine Creek, 42.3594, -77.0425
+Pine Crest, 43.2389, -75.6231
+Pine Crest Sanatorium, 43.1553, -74.7556
+Pine Grove(Lewis), 43.7517, -75.3772
+Pine Grove(Schoharie), 42.5306, -74.2586
+Pine Grove(Schenectady), 42.7631, -73.9872
+Pine Grove(Onondaga), 42.8406, -76.3347
+Pine Grove(St Lawrence), 44.7742, -75.2856
+Pine Hill(Oneida), 43.3075, -75.6525
+Pine Hill(Erie), 42.9200, -78.7936
+Pine Hill(Ulster), 42.1331, -74.4806
+Pine Hollow, 42.6694, -76.4786
+Pine Island, 41.2978, -74.4597
+Pine Lake, 43.1333, -74.4833
+Pine Meadows, 43.5208, -75.9106
+Pine Neck, 40.9983, -72.3425
+Pine Neck-West Tiana, 40.8500, -72.5667
+Pine Plains, 41.9797, -73.6564
+Pine Ridge, 42.6667, -73.8000
+Pine Ridge Estates, 41.0000, -73.6667
+Pine Tavern, 42.7536, -77.9289
+Pine Valley, 42.2253, -76.8458
+Pine Woods, 42.8869, -75.5794
+Pinebrook, 40.9628, -73.7767
+Pinebrook Heights, 40.9531, -73.7772
+Pinegrove Park, 42.7000, -73.8000
+Pinehurst, 42.7322, -78.9353
+Pinehurst Nursing Home, 41.1072, -74.1006
+Pinesville, 42.1553, -75.1639
+Pineville(Delaware), 42.1667, -75.1333
+Pineville(Oswego), 43.5289, -76.0394
+Pinewood Sanitarium, 41.3097, -73.6950
+Pioneer, 43.0167, -73.8500
+Piseco, 43.4483, -74.5189
+Pitcairn, 44.1811, -75.2825
+Pitcher, 42.5808, -75.8653
+Pitcher Hill, 43.1153, -76.1461
+Pitcher Springs, 42.5989, -75.8208
+Pitt, 40.7167, -73.9833
+Pittsfield, 42.6386, -75.2817
+Pittsford, 43.0906, -77.5153
+Pittstown, 42.8350, -73.4856
+Plaat Clove, 42.1344, -74.0892
+Place Corners, 42.3669, -73.9919
+Placid Memorial Hospital, 44.2672, -73.9819
+Plainedge, 40.7172, -73.4842
+Plainfield, 42.8333, -75.2000
+Plainfield Center, 42.8403, -75.1747
+Plainview, 40.7764, -73.4678
+Plainville, 43.1592, -76.4475
+Plandome, 40.8067, -73.7039
+Plandome Heights, 40.8025, -73.7047
+Plandome Manor, 40.8161, -73.6978
+Planetarium, 40.7833, -73.9833
+Plants Corner, 42.7044, -78.4183
+Plantz Corners, 43.6661, -75.9117
+Plasterville, 42.5861, -75.5222
+Plato, 42.3514, -78.6714
+Platt Cove, 42.1667, -74.1500
+Plattekill, 41.6175, -74.0764
+Platten, 43.3172, -78.3106
+Plattsburgh, 44.6994, -73.4533
+Plattsburgh Air Force Base, 44.6667, -73.4500
+Plaza, 40.7500, -73.9167
+Pleasant Brook, 42.7164, -74.7639
+Pleasant Hill, 42.2069, -75.7867
+Pleasant Plains(), 41.8478, -73.8667
+Pleasant Plains(), 40.5239, -74.2161
+Pleasant Point, 43.4500, -76.5000
+Pleasant Point Crossing, 43.4986, -76.3347
+Pleasant Ridge, 41.6475, -73.6486
+Pleasant Ridge Corners, 44.6542, -73.4967
+Pleasant Valley(Datchess), 41.7444, -73.8217
+Pleasant Valley(Oneida), 42.9186, -75.4333
+Pleasant Valley(Steuben), 42.3925, -77.2578
+Pleasant Valley(Tompkins), 42.5619, -76.3978
+Pleasant Valley(Sullivan), 41.8261, -75.0258
+Pleasantdale, 42.7833, -73.6500
+Pleasantside, 41.2775, -73.8964
+Pleasantville(Chautauqua), 42.2608, -79.4286
+Pleasantville(Westchester), 41.1328, -73.7931
+Pleasautdale, 42.7964, -73.6672
+Plessis, 44.2703, -75.8547
+Pletchers Corners, 43.1203, -78.9975
+Plumbrook, 44.8356, -74.9072
+Plutarch, 41.7781, -74.0275
+Plymouth, 42.6169, -75.6028
+Pocantico Hills, 41.0944, -73.8364
+Podunk, 42.5242, -76.6631
+Poestenkill, 42.6903, -73.5650
+Point Au Rouche, 44.7000, -73.4333
+Point Breeze, 43.3700, -78.1906
+Point Chautauqua, 42.2333, -79.4500
+Point Lookout, 40.5922, -73.5811
+Point o'Woods, 40.6514, -73.1292
+Point Peninsula, 44.0058, -76.2194
+Point Pleasant(Chautauqua), 42.2383, -79.4947
+Point Pleasant(Monre), 43.2000, -77.5667
+Point Rochester, 42.6167, -77.4000
+Point Rock, 43.3806, -75.5475
+Point Stockholm, 42.1200, -79.3178
+Point Vivian, 44.3161, -75.9503
+Pokeville, 42.5900, -76.1339
+Poland, 43.2256, -75.0617
+Poland Center, 42.1353, -79.1242
+Polkville(Onondaga), 43.0933, -76.0317
+Polkville(Chenango), 42.5156, -75.5086
+Polyclinic Hospital, 40.7633, -73.9881
+Pomfret, 42.4000, -79.3500
+Pomona, 41.1669, -74.0436
+Pomona Heights, 41.1661, -74.0692
+Pomonok, 40.7333, -73.7833
+Pompey, 42.8989, -76.0164
+Pompey Center, 42.9231, -75.9508
+Ponck Hockie, 41.9247, -73.9733
+Pond Eddy, 41.4403, -74.8236
+Pond Settlement, 44.2603, -75.2225
+Ponquogue, 40.8564, -72.5056
+Pontiac, 42.6239, -78.9694
+Poolsburg, 42.4367, -73.7717
+Poolville, 42.7756, -75.5069
+Pope, 42.2092, -79.0050
+Pope Mills, 44.4847, -75.5811
+Popes Ravine, 42.1183, -75.8697
+Poplar Beach, 42.7261, -76.7614
+Poplar Ridge, 42.7383, -76.6183
+Poquott, 40.9508, -73.0844
+Porcaville, 44.6833, -74.1869
+Port Authority, 40.7500, -74.0000
+Port Byron, 43.0344, -76.6242
+Port Chester, 41.0017, -73.6661
+Port Crane, 42.1642, -75.8339
+Port Dickinson, 42.1333, -75.8967
+Port Douglass, 44.4858, -73.4183
+Port Ewen, 41.9053, -73.9767
+Port Gibson, 43.0344, -77.1578
+Port Henry, 44.0483, -73.4603
+Port Ivory, 40.6408, -74.1806
+Port Jefferson, 40.9464, -73.0697
+Port Jefferson Station, 40.9253, -73.0478
+Port Jervis, 41.3750, -74.6931
+Port Kent, 44.5281, -73.4075
+Port Leyden, 43.5831, -75.3456
+Port Morris, 40.8014, -73.9100
+Port Ontario, 43.5667, -76.1883
+Port Orange, 41.4867, -74.5756
+Port Richmond, 40.6331, -74.1369
+Port Washington, 40.8256, -73.6986
+Port Washington North, 40.8447, -73.7022
+Portage, 42.5667, -78.0000
+Portageville, 42.5697, -78.0403
+Porter(Niagara), 43.3167, -78.9833
+Porter(Washington), 43.2936, -73.2781
+Porter Center, 43.2494, -78.9578
+Porter Corner, 42.5475, -77.0350
+Porter Corners, 43.1483, -73.8869
+Porterville, 42.7903, -78.5539
+Portland(Tompkins), 42.5228, -76.5244
+Portland(Chautauqua), 42.3797, -79.4678
+Portlandville, 42.5303, -74.9675
+Portville, 42.0386, -78.3411
+Post Creek, 42.2350, -76.9603
+Potsdam, 44.6697, -74.9817
+Potter, 42.7042, -77.2069
+Potter Hill, 42.8453, -73.3947
+Potter Hollow, 42.4250, -74.2236
+Pottersville, 43.7311, -73.8197
+Potterville, 41.8319, -74.3778
+Poughkeepsie, 41.7003, -73.9214
+Poughquag, 41.6089, -73.6822
+Pound Ridge, 41.2086, -73.5753
+Powers Corner, 42.8594, -76.6647
+Powley Place, 43.3119, -74.6533
+Pratt, 40.7000, -73.9667
+Pratt Corners, 42.6875, -76.1692
+Prattham, 43.4561, -76.1803
+Pratts, 42.9214, -75.5906
+Pratts Hollow, 42.9228, -75.6031
+Prattsburg, 42.5239, -77.2892
+Prattsville, 42.3147, -74.4333
+Pre-emption, 42.8778, -77.0167
+Preble, 42.7353, -76.1486
+Prendergast Point, 42.1922, -79.4486
+Presho, 42.0856, -77.1550
+Preston, 42.5339, -75.6236
+Preston Center, 42.5078, -75.5983
+Preston Hollow, 42.4444, -74.2083
+Price Home, 42.1094, -76.2136
+Prince, 40.7333, -74.0000
+Princes Bay, 40.5289, -74.1981
+Princetown, 42.7789, -74.0650
+Progress, 43.0431, -74.2975
+Prospect, 43.3042, -75.1525
+Prospect Heights, 42.6172, -73.7400
+Prospect Hill(Orange), 41.4586, -74.6389
+Prospect Hill(Saratoga), 42.8000, -73.6833
+Prospect Park West, 40.6667, -73.9833
+Protection, 42.6086, -78.4944
+Providence, 43.1000, -74.0500
+Prussian Settlement, 43.4525, -75.5078
+Puckerville, 42.7867, -75.8758
+Pudding Hollow, 43.7972, -74.0119
+Pulaski, 43.5669, -76.1281
+Pulteney, 42.5250, -77.1675
+Pultneyville, 43.2797, -77.1864
+Pulvers, 42.2803, -73.6486
+Pulvers Corners, 41.9767, -73.5850
+Pumpkin Hill, 43.0969, -78.0664
+Pumpkin Hollow(Columbia), 42.1281, -73.6197
+Pumpkin Hollow(Hamilton), 43.3508, -74.2622
+Pumpkin Hook, 43.0181, -73.2975
+Punkshire Corners, 42.6008, -78.4472
+Purchase, 41.0408, -73.7150
+Purdy Station, 41.3333, -73.6667
+Purdys, 41.3258, -73.6556
+Purdys Grove, 40.9925, -73.6664
+Purdys Mill, 44.8083, -73.6711
+Purling, 42.2842, -74.0058
+Putnam, 43.7467, -73.3975
+Putnam Lake, 41.4619, -73.5467
+Putnam Plaza, 41.4500, -73.6667
+Putnam Station, 43.7333, -73.4000
+Putnam Valley, 41.3358, -73.8744
+Pyrites, 44.5147, -75.1861
+Quackenbush Hill, 42.1333, -77.0500
+Quackenkill, 42.7694, -73.5194
+Quail, 42.6667, -73.7833
+Quaker Basin, 42.7667, -75.8833
+Quaker Hill, 41.5794, -73.5433
+Quaker Ridge, 40.9708, -73.7806
+Quaker Settlement, 42.7550, -75.8394
+Quaker Springs, 43.0394, -73.6433
+Quaker Street, 42.7347, -74.1867
+Quality Hill, 43.0669, -75.7753
+Quarry Heights, 41.0692, -73.7514
+Quarryville, 42.1197, -73.9875
+Queechy, 42.4047, -73.4217
+Queens, 40.7167, -73.8667
+Queens General Hospital, 40.7181, -73.8050
+Queens Village, 40.7267, -73.7419
+Queensbridge, 40.7500, -73.9167
+Queensbury, 43.3772, -73.6136
+Quigley Park, 42.1364, -79.3961
+Quincetree Landing, 41.0292, -72.0133
+Quinneville, 42.2492, -75.7742
+Quioque, 40.8197, -72.6294
+Quogue, 40.8231, -72.6100

@@ -1,0 +1,181 @@
+Oak Beach, 40.6392, -73.2889
+Oak Hill(Greene), 42.4097, -74.1528
+Oak Hill(Washington), 42.9708, -73.4044
+Oak Hill Landing, 42.1942, -73.8508
+Oak Orchard(Onondaga), 43.2058, -76.2128
+Oak Orchard(Orleans), 43.2742, -78.3328
+Oak Point(Bronx), 40.8333, -73.9000
+Oak Point(St Lawrence), 44.5142, -75.7517
+Oak Ridge, 42.7964, -74.3406
+Oak Summit, 41.7833, -73.6833
+Oakbrook, 41.1119, -74.0108
+Oakdale(Suffolk), 40.7439, -73.1392
+Oakdale(Broome), 42.1167, -75.9667
+Oakdale(Columbia), 42.2511, -73.7806
+Oakes, 41.6881, -73.9503
+Oakfield, 43.0658, -78.2700
+Oakland, 42.5778, -77.9706
+Oakland Gardens, 40.7539, -73.7664
+Oakland Valley, 41.5069, -74.6494
+Oakridge, 43.1167, -76.2000
+Oaks Corners, 42.9322, -77.0128
+Oaksville, 42.7247, -75.0053
+Oakvale, 44.3981, -75.7314
+Oakville, 40.8589, -72.6100
+Oakwood(Richmond), 40.5639, -74.1164
+Oakwood(Cayuga), 42.8894, -76.6475
+Oakwood Beach, 40.5525, -74.1147
+Oakwood Heights, 40.6333, -74.1000
+Oakwood Heights Station, 40.5647, -74.1275
+Oatka, 42.7172, -78.0892
+Obernburg, 41.8447, -75.0075
+Obi, 42.0864, -78.2581
+Occanum, 42.0858, -75.6975
+Ocean Bay Park, 40.6486, -73.1406
+Ocean Beach, 40.6467, -73.1575
+Oceanside, 40.6386, -73.6406
+Oceola Lake, 41.3386, -73.7986
+Odell, 41.6794, -74.9178
+Odessa, 42.3367, -76.7889
+Ogden(Bronx), 40.8333, -73.8667
+Ogden(Monroe), 43.1667, -77.8167
+Ogden Center, 43.1722, -77.8047
+Ogdensburg, 44.6942, -75.4867
+Ohio, 43.3222, -74.9789
+Ohioville, 41.7408, -74.0569
+Oil Springs Indian Reservation, 42.2333, -78.3167
+Oklahoma, 43.2000, -77.4833
+Oklahoma Beach, 43.2392, -77.5186
+Olcott, 43.3378, -78.7150
+Old Bethpage, 40.7625, -73.4536
+Old Brookville, 40.8319, -73.6053
+Old Campbellwood Wye, 43.6169, -75.6647
+Old Central Bridge, 42.7064, -74.3317
+Old Chatham, 42.4406, -73.5622
+Old Chelsa, 40.7500, -74.0000
+Old City, 43.1628, -74.9853
+Old Field, 40.9597, -73.1300
+Old Forge, 43.7100, -74.9747
+Old Orchard, 42.8167, -77.6667
+Old Orchard Cove, 42.8008, -77.7042
+Old Orchard Point, 42.7947, -77.7100
+Old Place, 40.6303, -74.1864
+Old Town Station, 40.5958, -74.0875
+Old Westbury, 40.7886, -73.6000
+Olean, 42.0775, -78.4300
+Olive, 41.9500, -74.2500
+Olivebridge, 41.9278, -74.2158
+Oliverea, 42.0653, -74.4606
+Olmstedville, 43.7714, -73.9317
+Omar, 44.2617, -75.9739
+Omi, 42.3250, -73.6819
+Omro, 42.7839, -76.4322
+Onativia, 42.8894, -76.0883
+Onchiota, 44.4942, -74.1239
+Oneida, 43.0925, -75.6517
+Oneida Castle, 43.0825, -75.6339
+Oneida Corners, 43.3753, -73.6292
+Oneida County Home, 43.2194, -75.4289
+Oneida Lake Beach East, 43.1664, -75.7647
+Oneida Lake Beach West, 43.1575, -75.8458
+Oneida Valley, 43.1544, -75.7217
+Oneonta, 42.4528, -75.0642
+Onesquethaw, 42.5833, -73.8833
+Oniad Lake, 41.5833, -73.8833
+Oniontown(Madison), 43.1172, -75.8303
+Oniontown(Dutchess), 41.7228, -73.5844
+Onleys Station, 41.4667, -74.4000
+Onondaga, 42.9833, -76.2000
+Onondaga Castle, 42.9706, -76.1414
+Onondaga Hill, 43.0047, -76.1836
+Onondaga Indian Reservation, 42.9500, -76.1500
+Onondaga Sanitarium, 43.0067, -76.1636
+Onoville, 42.0269, -78.9656
+Ontario, 43.2208, -77.2833
+Ontario Beach, 43.2600, -77.6114
+Ontario Center, 43.2258, -77.3061
+Ontario On the Lake, 43.2781, -77.3486
+Onteo Beach, 43.3564, -77.9106
+Onteora Park, 42.2200, -74.1358
+Oot Park, 43.0644, -76.0306
+Open Meadows, 42.1000, -79.3833
+Oppenheim, 43.0722, -74.6931
+Oquaga Lake, 42.0667, -75.4167
+Oramel, 42.3661, -78.1358
+Oran, 42.9781, -75.9333
+Orange, 42.3333, -77.0333
+Orange Lake, 41.5397, -74.0986
+Orangeburg, 41.0464, -73.9500
+Orangeport, 43.1983, -78.5961
+Orangetown, 41.0500, -73.9500
+Orangeville, 42.7333, -78.2500
+Orangeville Center, 42.7503, -78.2486
+Orangeville Corners, 42.7667, -78.3167
+Orchard Knoll, 42.1508, -76.8006
+Orchard Park, 42.7675, -78.7442
+Orchard Terrace, 42.1947, -79.4581
+Orchard Village, 43.0428, -76.2814
+Oregon(Fulton), 43.2589, -74.6550
+Oregon(Suffolk), 40.9833, -72.5333
+Oregon(Warren), 43.5575, -74.1208
+Orient, 41.1389, -72.3039
+Orient Point, 41.1522, -72.2517
+Orienta, 40.9372, -73.7289
+Oriental Park, 42.1556, -79.3850
+Oriskany, 43.1572, -75.3331
+Oriskany Falls, 42.9392, -75.4614
+Orlando, 42.3044, -78.7164
+Orleans(Ontario), 42.9186, -77.1147
+Orleans(Jefferson), 44.2167, -75.9667
+Orleans Four Corners, 44.1906, -75.9003
+Orrs Mill, 41.4344, -74.0581
+Orthopedic Hospital, 40.6675, -73.9453
+Orwell, 43.5747, -75.9967
+Oscawana, 41.2278, -73.9144
+Oscawana Corners, 41.3783, -73.8564
+Oscawana Lake, 41.3333, -73.8667
+Osceola, 43.5000, -75.7225
+Osgood Landing, 42.5722, -76.6456
+Ossian, 42.5211, -77.7797
+Ossian Center, 42.5667, -77.7000
+Ossining, 41.1628, -73.8619
+Oswegatchie, 44.1828, -75.0706
+Oswego, 43.4553, -76.5108
+Oswego Beach, 43.4500, -76.5569
+Oswego Bitter, 43.0611, -76.3639
+Oswego Center, 43.4144, -76.5342
+Otego, 42.3972, -75.1739
+Otis, 43.2586, -77.8786
+Otisco, 42.8600, -76.2183
+Otisco Valley, 42.8286, -76.2322
+Otisville, 41.4733, -74.5389
+Otsdawa, 42.4847, -75.1747
+Otsego, 42.7167, -74.9667
+Otselic, 42.7225, -75.7203
+Otselic Center, 42.7011, -75.7461
+Ott Meadows, 43.1167, -76.2000
+Otter Creek, 43.7186, -75.3678
+Otter Hook, 42.4042, -73.7994
+Otter Kill, 41.3778, -74.2950
+Otter Lake, 43.5911, -75.1122
+Otto, 42.3561, -78.8319
+Otto Mills, 43.6025, -75.8197
+Ouaquaga, 42.1261, -75.6475
+Overlook, 43.2925, -73.9469
+Ovid, 42.6764, -76.8233
+Ovid Center, 42.6167, -77.5500
+Ovington, 40.6333, -74.0167
+Owasco, 42.8550, -76.4656
+Owasco Hill, 42.7275, -76.4650
+Owasco Lake Station, 42.8406, -76.5267
+Owego, 42.1033, -76.2625
+Owens Mills, 42.0686, -76.5975
+Owls Head, 44.7344, -74.1692
+Owls Nest, 43.1819, -77.1389
+Owlsville, 42.4644, -74.4194
+Oxbow, 44.2872, -75.6233
+Oxford(Chenango), 42.4419, -75.5981
+Oxford(Orange), 41.3508, -74.2164
+Oyster Bay, 40.8656, -73.5325
+Oyster Bay Cove, 40.8708, -73.5114
+Ozone Park, 40.6767, -73.8442

@@ -1,0 +1,342 @@
+Gabriels, 44.4319, -74.1814
+Gabriels Junction, 42.4214, -76.9039
+Gaines, 43.2850, -78.2156
+Gaines Basin, 43.2586, -78.2233
+Gainesville, 42.6408, -78.1342
+Galatia, 42.4853, -76.0317
+Gale, 44.2675, -74.6314
+Galen, 43.0667, -76.8667
+Galena, 42.6131, -75.5311
+Galeville(Onondaga), 43.0900, -76.1733
+Galeville(Ulster), 41.6364, -74.1914
+Galilee, 44.6169, -75.5083
+Gallatin, 42.0667, -73.7167
+Gallatinville, 42.0344, -73.6711
+Gallows Hill, 41.3214, -73.9083
+Gallupville, 42.6625, -74.2331
+Galway, 43.0186, -74.0319
+Galway Lake, 43.0500, -74.2000
+Gamble Mill, 42.8569, -76.2525
+Ganahgote, 41.6869, -74.1758
+Gang Mills, 42.1461, -77.1119
+Gansevoort, 43.1961, -73.6522
+Garbutt, 43.0128, -77.7919
+Garden City, 40.7267, -73.6347
+Garden City Park, 40.7408, -73.6631
+Garden City South, 40.7122, -73.6614
+Garden Park Estates, 42.6667, -73.8000
+Garden Terrace, 43.0856, -76.2842
+Gardenville, 42.8586, -78.7547
+Gardiner, 41.6797, -74.1508
+Gardiners Bay Estates, 41.1333, -72.3333
+Gardners Corners, 43.9000, -75.5000
+Gardnersville, 42.7239, -74.5825
+Gardnertown, 41.5350, -74.0706
+Gardnerville, 41.3444, -74.4872
+Garfield, 42.5400, -73.3944
+Garland, 43.2250, -77.8903
+Garlinghouse, 42.6089, -77.4719
+Garnerville, 41.2017, -73.9947
+Garnet Lake, 43.5417, -74.0125
+Garoga, 43.0439, -74.5169
+Garrattsville, 42.6472, -75.1722
+Garrison, 41.3839, -73.9461
+Garrison Manor, 42.9181, -73.9086
+Garwoods, 42.4594, -77.8250
+Gas Spring, 42.4153, -77.8344
+Gaskill, 42.1300, -76.1819
+Gasport, 43.1992, -78.5764
+Gates(Monroe), 43.1500, -77.6833
+Gates(Saratoga), 43.0914, -73.6386
+Gates Center, 43.1533, -77.6911
+Gay Ridge Estates, 41.2833, -73.7667
+Gayhead(Greene), 42.3414, -73.9706
+Gayhead(Dutchess), 41.6000, -73.7833
+Gayville, 43.3058, -76.0139
+Geddes, 43.0833, -76.2333
+Gedney, 41.0167, -73.7500
+Gee Brook, 42.5092, -75.9186
+Geers Corners, 44.1811, -75.3383
+Gees Corner, 43.1358, -75.8278
+Genegantslet, 42.3503, -75.8108
+General Hospital(Oneida), 43.0911, -75.2231
+General Hospital(Broome), 42.0864, -75.9156
+Genesee, 42.0500, -78.2500
+Genesee Falls, 42.5667, -78.0667
+Genesee Hospital, 43.1500, -77.5953
+Genesee Junction, 43.0983, -77.6864
+Genesee Memorial Hospital, 43.0050, -78.1767
+Geneseo, 42.7958, -77.8172
+Geneva, 42.8689, -76.9781
+Genoa, 42.6678, -76.5361
+Georgetown(Cortland), 42.4692, -75.8933
+Georgetown(Madison), 42.7683, -75.7369
+Georgetown Square, 42.9833, -78.7500
+Georgica, 40.9453, -72.2203
+Georgtown Station, 42.8500, -75.6167
+Gerard Park, 41.0433, -72.1467
+German, 42.5000, -75.8333
+German Flatts, 42.9833, -74.9833
+German Four Corners, 42.4917, -75.8611
+German Village, 43.2239, -77.5422
+Germantown(Columbia), 42.1344, -73.8922
+Germantown(Allegany), 42.1586, -78.2806
+Germantown(Orange), 41.3806, -74.7053
+Germany Hill, 42.1489, -76.3528
+Germonds, 41.1203, -73.9936
+Gerritsen, 40.5928, -73.9261
+Gerry, 42.1933, -79.2489
+Getman Corners, 42.9500, -75.0142
+Getzville, 43.0239, -78.7681
+Ghent, 42.3292, -73.6161
+Gibson, 42.1400, -77.0311
+Gibson Corners, 42.0408, -76.2592
+Gibson Landing, 42.4989, -77.1589
+Giddingsville, 43.7783, -76.0358
+Gifford, 42.7508, -74.0489
+Gilbert, 42.6689, -76.8550
+Gilbert Corners(Putnam), 41.3989, -73.8700
+Gilbert Corners(Saratoga), 43.0681, -73.7367
+Gilbert Corners(Schoharie), 42.7839, -74.5522
+Gilbert Mills, 43.3147, -76.3094
+Gilberts Corner, 43.1550, -78.5206
+Gilbertsville, 42.4714, -75.3261
+Gilboa, 42.3972, -74.4464
+Gile, 44.6128, -74.4986
+Gilgo Beach, 40.6183, -73.3981
+Gilmantown, 43.4381, -74.3164
+Girarde, 41.4433, -74.2281
+Gladding Corner, 42.8017, -77.4514
+Glasco, 42.0436, -73.9478
+Glasgow Mills, 43.1028, -74.5311
+Glass Lake, 42.6300, -73.5314
+Gleasons Mill, 44.4606, -74.9486
+Glen, 42.8942, -74.3450
+Glen Aubrey, 42.2586, -76.0097
+Glen Castle, 42.1789, -75.9069
+Glen Cove, 40.8622, -73.6342
+Glen Cove Landing, 40.8628, -73.6544
+Glen Edith, 43.2039, -77.5203
+Glen Grove, 42.4428, -77.1878
+Glen Haven(Cayuga), 42.7656, -76.2783
+Glen Haven(Monroe), 43.1931, -77.5317
+Glen Head, 40.8353, -73.6242
+Glen Island, 40.8833, -73.7833
+Glen Lake, 41.5167, -73.7000
+Glen Oaks, 40.7469, -73.7119
+Glen Park, 44.0011, -75.9667
+Glen Spey, 41.4786, -74.8139
+Glen Wild, 41.6539, -74.5872
+Glen  The, 43.5839, -73.8633
+Glenburnie, 43.7633, -73.4567
+Glencairn, 42.0789, -76.4900
+Glenclyffe, 41.3681, -73.9489
+Glencoe Mills, 42.1494, -73.7411
+Glendale(Lewis), 43.7161, -75.4169
+Glendale(Westchester), 41.1969, -73.8456
+Glendale(Queens), 40.7014, -73.8872
+Glenerie, 42.0336, -73.9733
+Glenerie Lake Park, 42.0136, -73.9856
+Glenfield, 43.7103, -75.4025
+Glenford, 42.0025, -74.1267
+Glenham, 41.5217, -73.9269
+Glenhaven, 43.1167, -75.3000
+Glenmark, 43.1914, -76.9131
+Glenmont, 42.6047, -73.7700
+Glenmore(Essex), 44.2542, -73.7431
+Glenmore(Oneida), 43.3589, -75.6189
+Glenora, 42.4983, -76.9175
+Glenridge, 42.8669, -73.9100
+Glenridge Sanatorium, 42.8683, -73.9111
+Glens Falls, 43.3094, -73.6444
+Glenville(Livingston), 42.7800, -77.6061
+Glenville(Schenectady), 42.9292, -74.0525
+Glenville(Westchester), 41.0656, -73.8411
+Glenville Center, 42.8925, -73.9792
+Glenwild, 43.1342, -74.0653
+Glenwood(Wesrchester), 40.9489, -73.8967
+Glenwood(Erie), 42.6192, -78.6581
+Glenwood(Niagara), 43.1683, -78.9969
+Glenwood Landing, 40.8306, -73.6392
+Glenwood Park, 41.5133, -74.0503
+Globe Hotel Corners, 42.7883, -76.3808
+Gloversville, 43.0528, -74.3442
+Godeffroy, 41.4467, -74.6128
+Godfreys Corner, 44.2939, -75.8881
+Golah, 42.9703, -77.7164
+Golden Glow Heights, 42.0858, -76.8717
+Goldens Bridge, 41.2933, -73.6772
+Goldsmith, 44.5686, -73.9989
+Goldwater Memorial Hospital, 40.7547, -73.9569
+Good Samaritan Hospital, 40.6939, -73.2947
+Goodrich, 42.1017, -76.2881
+Goodrich Corners, 43.1486, -75.5283
+Goodyear Corners, 42.6364, -76.6153
+Goose Bay, 44.3667, -75.8467
+Goose Bay Estates, 41.0667, -72.4333
+Goose Island, 43.2542, -73.4242
+Goosetree, 42.6547, -76.4750
+Gordon Heights, 40.8586, -72.9711
+Gorham, 42.7989, -77.1319
+Gorthey Corners, 43.0989, -74.1681
+Goshen, 41.4019, -74.3247
+Goshen Hills, 41.4000, -74.3333
+Gothicville, 42.6731, -74.6936
+Goulds, 41.9258, -75.0836
+Goulds Mill, 43.6092, -75.3408
+Gouverneur, 44.3367, -75.4633
+Governors Island, 40.6833, -74.0167
+Gowanda, 42.4631, -78.9361
+Gowanda State Hospital, 42.4875, -78.9392
+Gowanda State Hospital Annex, 42.5383, -78.9967
+Gracie(New York), 40.7833, -73.9667
+Gracie(Cortland), 42.5656, -76.2494
+Grafton, 42.7689, -73.4514
+Graftons Square, 43.4425, -76.1511
+Graham, 41.1236, -73.8106
+Graham Beach, 40.6000, -74.0833
+Grahamsville, 41.8478, -74.5483
+Granby Center, 43.3267, -76.4664
+Grand Gorge, 42.3619, -74.4944
+Grand Island, 43.0167, -78.9667
+Grand View Beach, 43.2978, -77.6833
+Grand View Heights, 43.2953, -77.6936
+Grand View-on-Hudson, 41.0639, -73.9208
+Grandby, 43.3000, -76.4500
+Grandview Bay, 42.6333, -79.0500
+Grandview Park, 44.3194, -76.0556
+Grandyle Village, 42.9964, -78.9553
+Grange Landing, 42.7664, -77.3214
+Granger, 42.4833, -78.0167
+Grangerville, 43.1058, -73.6217
+Granite, 41.7600, -74.2694
+Granite Springs, 41.3103, -73.7578
+Graniteville, 40.6247, -74.1489
+Grant, 43.3175, -75.0608
+Grant City, 40.5819, -74.1053
+Grant Corner, 41.3189, -73.5914
+Grant Hollow, 42.8322, -73.6261
+Grant Mills, 42.0842, -74.6808
+Grant Park, 40.6500, -73.7000
+Grantville, 44.8594, -74.9214
+Granville, 43.4078, -73.2600
+Grapeville, 42.4122, -73.9336
+Graphite, 43.7511, -73.5633
+Grasmere, 40.6042, -74.0875
+Grasslands Hospital, 41.0858, -73.8067
+Grassy Point, 41.2333, -73.9833
+Gravesend, 40.5975, -73.9656
+Gravesville, 43.2531, -75.1144
+Gray, 43.2647, -74.9475
+Gray Shores, 42.8167, -77.7125
+Graymoor, 41.3544, -73.9197
+Grays Corner, 43.5303, -73.3858
+Grays Corners, 42.8197, -73.7592
+Graywood, 42.8122, -77.7150
+Great Bend, 44.0342, -75.7192
+Great Kills, 40.5542, -74.1519
+Great Neck, 40.8006, -73.7289
+Great Neck Estates, 40.7869, -73.7372
+Great Neck Plaza, 40.7867, -73.7269
+Great River, 40.7211, -73.1581
+Great Valley, 42.2144, -78.6367
+Greece, 43.2097, -77.6933
+Greeley Square, 40.7500, -73.9833
+Green Acres(Nassau), 40.6586, -73.7178
+Green Acres(Erie), 43.0000, -78.8500
+Green Acres Valley, 43.0072, -78.8317
+Green Corners, 43.0706, -74.0700
+Green Haven, 41.5872, -73.7183
+Green Hills, 42.3922, -79.4936
+Green Island, 42.7442, -73.6919
+Green River, 42.2619, -73.4728
+Green Settlement, 43.8556, -76.0378
+Green Street, 44.4231, -73.6350
+Greenboro, 43.6439, -75.8892
+Greenburgh, 41.0333, -73.8167
+Greenbush, 42.6464, -74.4442
+Greencrest, 42.4400, -79.4228
+Greendale, 42.2072, -73.8475
+Greene, 42.3292, -75.7703
+Greene County Memorial Hospital, 42.2306, -73.8786
+Greenfield, 43.1036, -73.8644
+Greenfield Center, 43.1283, -73.8469
+Greenfield Park, 41.7258, -74.4861
+Greenhaven, 40.9508, -73.7072
+Greenhurst, 42.1194, -79.3106
+Greenlawn, 40.8689, -73.3656
+Greenpoint(Kings), 40.7236, -73.9514
+Greenpoint(Suffolk), 40.7167, -73.1000
+Greenpoint Hospital, 40.7169, -73.9400
+Greenport, 41.1033, -72.3597
+Greenport Center, 42.2408, -73.7628
+Greenridge, 40.5611, -74.1703
+Greens Crossing, 42.9581, -75.2772
+Greens Landing, 42.8306, -77.2589
+Greenvale, 40.8106, -73.6289
+Greenville(Orange), 41.3606, -74.6169
+Greenville(Steuben), 42.4275, -77.5128
+Greenville(Greene), 42.4153, -74.0225
+Greenville(Westchester), 40.9931, -73.8203
+Greenville(Ulster), 41.8786, -74.4019
+Greenville Center, 42.3872, -74.0006
+Greenway, 43.1806, -75.5333
+Greenway Corners, 43.1703, -75.5261
+Greenwich, 43.0906, -73.4992
+Greenwich Junction, 43.1497, -73.3533
+Greenwich Village, 40.7283, -74.0033
+Greenwood, 42.1350, -77.6486
+Greenwood Lake, 41.2225, -74.2947
+Gregory Landing, 42.8103, -76.3128
+Gregorytown, 42.0311, -75.0367
+Greig, 43.6814, -75.3550
+Greigsville, 42.8306, -77.8972
+Grenell, 44.2833, -76.0444
+Gretna, 41.7806, -73.8464
+Grey Oaks, 40.9661, -73.8700
+Greycourt, 41.3619, -74.2558
+Greystone, 40.9711, -73.8886
+Gridleyville, 42.2450, -76.3725
+Griffin, 43.4722, -74.2233
+Griffins Corners, 42.9333, -76.1972
+Griffins Mills, 42.7239, -78.6675
+Griffiss Air Force Base, 43.2167, -75.4333
+Griffiths, 42.1217, -79.3194
+Grindstone, 44.2833, -76.1431
+Griswold(Chautauqua), 42.3672, -79.2300
+Griswold(Genesee), 42.8906, -78.3453
+Grooms Corners, 42.8350, -73.8442
+Grooville, 41.9425, -74.7678
+Grossinger, 41.7667, -74.7333
+Groton, 42.5878, -76.3672
+Groton City, 42.6150, -76.2856
+Grotto, 42.5594, -76.4100
+Grout Mill, 42.7233, -76.2589
+Grove, 42.4364, -77.8683
+Grove Springs, 42.4711, -77.1564
+Groveland, 42.6647, -77.7700
+Groveland Corners, 42.7017, -77.7519
+Grovenor Corners, 42.7283, -74.3842
+Grover, 42.9667, -78.8000
+Grover Cleveland Terrace, 42.9717, -78.8067
+Grover Hills, 44.0775, -73.5119
+Grovernor Corners, 42.7167, -74.3333
+Groveville, 41.5153, -73.9400
+Grymes Hill, 40.6186, -74.0939
+Guideboard, 42.8092, -75.3519
+Guilderland, 42.7044, -73.9119
+Guilderland Center, 42.7019, -73.9667
+Guilderland Gardens, 42.6667, -73.8000
+Guilford, 42.4042, -75.4900
+Guilford Center, 42.4053, -75.4625
+Gulf Bridge, 43.2903, -76.0650
+Gulf Summit, 42.0189, -75.5308
+Gulfport, 40.6297, -74.1961
+Gulick, 42.6917, -77.4564
+Gulph, 43.0103, -75.1597
+Gunther Park, 40.9344, -73.8531
+Gurn Spring, 43.1708, -73.7181
+Guyanoga, 42.6239, -77.1658
+Guyler Hill, 42.7131, -75.9208
+Guymard, 41.4289, -74.5992
+Gypsum, 42.9822, -77.1331

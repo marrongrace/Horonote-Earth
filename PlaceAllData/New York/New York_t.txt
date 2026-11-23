@@ -1,0 +1,214 @@
+Tabasco, 41.8475, -74.3011
+Taberg, 43.3036, -75.6172
+Tabor Corners, 42.5667, -77.6000
+Taborton, 42.6461, -73.4856
+Tacoma, 42.2353, -75.2803
+Taconic Lake, 42.7500, -73.3500
+Taghkanic, 42.1422, -73.6778
+Tahawus, 44.0506, -74.0514
+Talcottville, 43.5333, -75.3656
+Talcville, 44.3097, -75.3064
+Tallette, 42.7400, -75.3336
+Tallman, 41.1111, -74.1003
+Tamarack, 42.7719, -73.5439
+Tannersville, 42.1956, -74.1342
+Tappan, 41.0219, -73.9478
+Tarrytown(Albany), 42.5589, -73.9514
+Tarrytown(Westchester), 41.0761, -73.8592
+Tarrytown Heights, 41.0667, -73.8500
+Taughannock Falls, 42.5319, -76.6122
+Taunton, 43.0306, -76.2092
+Taylor(Cortland), 42.5669, -75.8936
+Taylor(Livingston), 42.9369, -77.8808
+Taylor Center, 42.6139, -75.9253
+Taylor Hollow, 42.5194, -78.9292
+Taylor Settlement, 43.7828, -76.0750
+Taylor Valley, 42.5931, -75.9528
+Taylors Corner, 44.7686, -74.6292
+Taylorshire, 42.7453, -78.6561
+Taylortown, 42.7639, -74.9819
+Teall Beach, 42.8147, -76.9386
+Teboville, 44.8067, -74.2447
+Teed Corners, 42.7986, -77.8967
+Ten Mile River, 41.6000, -75.0667
+Tenantville, 43.2844, -74.1158
+Tennanah, 41.9333, -74.9167
+Tennanah Lake, 41.8950, -74.9769
+Terminal, 40.6333, -74.1000
+Terpening Corners, 42.5383, -76.4931
+Terrace Heights, 40.7214, -73.7697
+Terrace Park, 44.5981, -75.6353
+Terrys Corners, 43.1742, -78.6006
+Terryville, 40.9089, -73.0656
+Texaco Town, 42.9067, -78.0647
+Texas(Lewis), 43.9850, -75.5053
+Texas(Oswego), 43.5128, -76.2514
+Texas Valley, 42.4861, -75.9733
+Thayer Corners, 44.9217, -74.1411
+The Bridges, 43.3333, -78.1333
+The Brookdale Hospital Center, 40.6550, -73.9128
+The Cape, 41.7475, -74.4336
+The Elms, 43.6639, -76.1728
+The Forge, 44.9333, -74.0833
+The Forks, 42.5667, -78.4833
+The Glen, 43.5833, -73.8667
+The Landing, 40.8614, -73.1972
+The Narrows, 42.3364, -78.4872
+The Plains, 43.0528, -73.3589
+The Springs, 40.9500, -72.1833
+The Terrace, 40.8333, -73.7000
+The Vly, 41.8500, -74.1500
+Thendara, 43.7000, -75.0022
+Theresa, 44.2153, -75.7975
+Thiells, 41.2106, -74.0181
+Thomas Settlement, 43.8139, -76.0750
+Thomaston, 40.7861, -73.7142
+Thomasville, 44.4747, -73.6144
+Thompson(Seneca), 43.0031, -76.9642
+Thompson(Sullivan), 41.6500, -74.6667
+Thompson Ridge, 41.5681, -74.3303
+Thompsons Corner, 43.2883, -75.7683
+Thompsons Crossing, 42.7803, -78.1494
+Thompsons Lake, 42.6428, -74.0444
+Thompsonville, 41.6681, -74.6256
+Thomson, 43.1258, -73.5833
+Thoracic Hospital, 40.6717, -73.9431
+Thorn Hill, 42.8978, -76.3417
+Thornton, 42.2639, -79.1575
+Thornton Grove, 42.8839, -76.4089
+Thornton Heights, 42.8800, -76.4086
+Thorntons Corner, 43.1747, -77.0114
+Thornwood, 41.1233, -73.7794
+Thousand Island Park, 44.2869, -76.0281
+Three Mile Bay, 44.0814, -76.1986
+Three Rivers, 43.2008, -76.2783
+Throgs Neck, 40.8225, -73.8200
+Throop, 42.9758, -76.5711
+Throopsville, 42.9731, -76.6022
+Thurman(Ulster), 41.6333, -73.9500
+Thurman(Warren), 43.5333, -73.9164
+Thurston, 42.2228, -77.2644
+Thurston Road, 43.1333, -77.6500
+Tiana, 40.8719, -72.5419
+Tiana Shores, 40.8333, -72.5833
+Ticonderoga, 43.8486, -73.4239
+Tillson, 41.8289, -74.0689
+Tilly Foster, 41.4164, -73.6497
+Times Plaza, 40.6833, -73.9833
+Times Square, 40.7667, -73.9833
+Timothy Heights, 41.7392, -73.8386
+Tinker Tavern Corner, 43.5067, -76.1283
+Tinkertown, 42.2678, -77.7681
+Tioga, 42.1000, -76.3500
+Tioga Center, 42.0561, -76.3483
+Tioga Terrace, 42.0667, -76.1667
+Tiona, 42.2167, -76.1833
+Tip Top, 42.2231, -77.7900
+Tiplady, 43.2519, -73.2842
+Titusville, 41.6675, -73.8744
+Tivoli, 42.0583, -73.9097
+Toad Harbor, 43.2414, -76.0753
+Toddsville, 42.6878, -74.9586
+Toddville, 41.2936, -73.8889
+Todt Hill, 40.6333, -74.1000
+Toggletown, 42.9186, -77.8131
+Toll Corner, 42.4803, -75.2792
+Toll Gate Corner, 42.0258, -78.3389
+Toll Gate Corners, 42.6956, -76.4206
+Tomantown, 43.2006, -74.2956
+Tomhannock, 42.8689, -73.5442
+Tomkins Cove, 41.2569, -73.9839
+Tomlinson Corners, 42.9647, -77.5028
+Tompkins, 42.1333, -75.2667
+Tompkins Corners(Westchester), 41.1911, -73.7831
+Tompkins Corners(Chemung), 42.2033, -76.8881
+Tompkins Corners(Putnam), 41.3989, -73.8025
+Tompkins County Hospital, 42.4703, -76.5383
+Tompkins Square, 40.7333, -73.9833
+Tompkinsville, 40.6364, -74.0858
+Toms Landing, 43.3408, -78.2239
+Tonawanda, 43.0203, -78.8806
+Tonawanda Indian Reservation, 43.0667, -78.4333
+Tonawanda Junction, 42.9667, -78.8500
+Tonetta Lake Heights, 41.4333, -73.6000
+Topps Henrietta Plaza, 43.0833, -77.6333
+Torrey, 42.6833, -76.9833
+Tottenville, 40.5106, -74.2431
+Towers Corners, 43.2581, -79.0094
+Towerville, 42.2086, -79.2956
+Towerville Corners, 42.1000, -79.2667
+Towlesville, 42.3336, -77.4561
+Town Line, 42.8906, -78.5781
+Town Line Station, 42.9014, -78.5783
+Town Pump, 43.1517, -77.8556
+Towners, 41.4797, -73.6106
+Townsend, 42.3486, -76.9567
+Townsendville, 42.5728, -76.7825
+Toziers Corner, 42.7375, -78.3625
+Tracy Creek, 42.0194, -76.0803
+Trainsmeadow, 40.7667, -73.8833
+Transitown, 42.9833, -78.7500
+Travers Corners, 43.1567, -73.7339
+Travis, 40.5931, -74.1883
+Treadwell, 42.3422, -75.0517
+Tremont, 40.8494, -73.9061
+Trenton, 43.2500, -75.2000
+Trenton Assembly Park, 43.2833, -75.1833
+Trenton Falls, 43.2714, -75.1606
+Tressmar, 43.1267, -77.6903
+Triangle, 42.3397, -75.8806
+Triangle Lake, 42.6000, -74.3333
+Tribes Hill, 42.9553, -74.2856
+Triboro Hospital, 40.7178, -73.8083
+Triborough, 40.8000, -73.9500
+Tripoli(Cortland), 42.7389, -75.9628
+Tripoli(Washington), 43.3908, -73.5800
+Tristates, 41.3606, -74.6822
+Trombley Landing, 44.6367, -74.3761
+Troupsburg, 42.0436, -77.5464
+Trout Creek, 42.2036, -75.2797
+Trout River, 44.9914, -74.3086
+Troutburg, 43.3644, -77.9903
+Troy, 42.7283, -73.6922
+Trudeau, 44.3422, -74.1217
+Truesdale Lake, 41.2833, -73.5500
+Trumansburg, 42.5422, -76.6664
+Trumbulls Corners, 42.3836, -76.6328
+Truthville, 43.4503, -73.3253
+Truxton, 42.7119, -76.0289
+Tryons Corners, 42.8172, -77.9419
+Tuckahoe(Westchester), 40.9503, -73.8278
+Tuckahoe(Suffolk), 40.8989, -72.4114
+Tucker Heights, 42.9100, -73.9375
+Tucker Terrace, 44.9486, -74.9736
+Tuckers Corner, 41.6675, -74.0294
+Tudor, 40.7500, -73.9667
+Tully, 42.7981, -76.1097
+Tully Center, 42.7989, -76.1225
+Tully Lake Park, 42.7842, -76.1364
+Tully Valley, 42.8000, -76.1000
+Tunnel, 42.2161, -75.7269
+Tupper Lake, 44.2333, -74.4667
+Turin, 43.6272, -75.4117
+Turnbull Corner, 44.7747, -75.1464
+Turnwood, 42.0242, -74.7094
+Tuscan, 42.5867, -74.7694
+Tuscarora(Steuben), 42.0500, -77.2500
+Tuscarora(Livingston), 42.6306, -77.8700
+Tuscarora Indian Reservation, 43.1667, -78.9500
+Tusten, 41.5553, -75.0194
+Tuthill, 41.6875, -74.1628
+Tuxedo, 41.2167, -74.1833
+Tuxedo Park(Livingston), 42.8197, -77.6969
+Tuxedo Park(Orange), 41.1933, -74.1847
+Twelve Corners, 43.1269, -77.5658
+Twilight Park, 42.1892, -74.0875
+Twin Lakes Village, 41.2992, -73.5703
+Twin Orchards, 42.0972, -76.0267
+Two Brooks, 44.5794, -73.9711
+Tylers Corner, 43.5136, -76.1631
+Tylersville, 43.9008, -75.7997
+Tylertown, 41.6267, -74.9492
+Tyner, 42.4303, -75.6658
+Tyre, 42.9911, -76.8025
+Tyrone, 42.4081, -77.0586

@@ -1,0 +1,333 @@
+Eagle, 42.5486, -78.2983
+Eagle Bay, 43.7694, -74.8172
+Eagle Bridge, 42.9500, -73.3967
+Eagle Center, 42.5833, -78.2500
+Eagle Harbor, 43.2533, -78.2533
+Eagle Harbor Station, 43.2358, -78.2542
+Eagle Lake, 43.8500, -73.4167
+Eagle Mills, 42.7292, -73.6042
+Eagle Nest, 43.8497, -74.4858
+Eagle Point, 42.8000, -77.7175
+Eagle Valley, 41.1547, -74.2272
+Eagle Village, 43.0131, -75.9431
+Eagleville(Washington), 42.8814, -75.6439
+Eagleville(Greene), 43.0844, -73.3133
+Earlton, 42.3556, -73.9011
+Earlville(Chenango), 42.7397, -75.5456
+Earlville(Clinton), 44.9703, -74.0503
+East Afton, 42.2069, -75.4239
+East Alexander, 42.9278, -78.1931
+East Amboy, 43.3703, -75.9108
+East Amherst, 43.0183, -78.6969
+East Arcade, 42.5706, -78.3447
+East Atlantic Beach, 40.5833, -73.7167
+East Aurora, 42.7678, -78.6136
+East Avon, 42.9092, -77.7067
+East Barre, 43.1869, -78.1506
+East Bay, 43.2167, -76.8167
+East Bay Park, 43.2919, -76.8953
+East Beekmantown, 44.7525, -73.4706
+East Bend Park, 41.6667, -73.9000
+East Bennington, 42.8586, -78.3375
+East Bergen, 43.1108, -77.9350
+East Berkshire, 42.3064, -76.1439
+East Berne, 42.6164, -74.0750
+East Bethany, 42.9314, -78.1017
+East Bloomfield, 42.8950, -77.4350
+East Boston, 43.0833, -75.8178
+East Boylston, 43.6906, -75.9300
+East Branch, 41.9883, -75.1342
+East Brentwood, 40.7919, -73.2317
+East Buskirk, 42.9444, -73.4344
+East Campbell, 42.2242, -77.1361
+East Cayuga Heights, 42.4667, -76.4667
+East Chatham, 42.4106, -73.5250
+East Chester, 41.3544, -74.2775
+East Clarence, 43.0122, -78.5878
+East Cobleskill, 42.6739, -74.3903
+East Cochecton, 41.7153, -75.0161
+East Coldenham, 41.5194, -74.1092
+East Concord, 42.5519, -78.6406
+East Corning, 42.1256, -76.9867
+East Creek, 43.0072, -74.7439
+East Cutchogue, 41.0275, -72.4708
+East DeKalb, 44.4825, -75.3008
+East Delhi, 42.2989, -74.8792
+East Dickinson, 44.7794, -74.4981
+East Durham, 42.3725, -74.0961
+East Eden, 42.6667, -78.8278
+East Elba, 43.0589, -78.1389
+East Elma, 42.8050, -78.5944
+East Elmhurst, 40.7611, -73.8656
+East Elmira, 42.0714, -76.7353
+East Farmingdale, 40.8167, -73.4500
+East Fishkill, 41.5533, -73.7961
+East Flatbush, 40.6536, -73.9308
+East Floyd, 43.2731, -75.2681
+East Frankfort, 43.0228, -75.0564
+East Freetown, 42.5519, -75.9875
+East Gaines, 43.2903, -78.1356
+East Galway, 43.0717, -73.9889
+East Geneva, 42.8792, -76.9383
+East Genoa, 42.6464, -76.5056
+East Glenville, 42.8944, -73.9283
+East Grafton, 42.7669, -73.4111
+East Greenbush, 42.5908, -73.7022
+East Greenville, 42.4144, -73.9914
+East Greenwich, 43.1456, -73.3981
+East Groveland, 42.7406, -77.7592
+East Guilford, 42.3408, -75.4072
+East Half Hollow Hills, 40.8000, -73.3167
+East Hamilton, 42.7992, -75.4658
+East Hampton, 40.9667, -72.1833
+East Hartford, 43.3342, -73.3836
+East Hauppauge, 40.8347, -73.1511
+East Hebron, 43.2617, -73.2869
+East Hempstead, 40.7000, -73.6000
+East Herkimer, 43.0303, -74.9644
+East Hill, 42.4667, -76.4833
+East Hills, 40.7936, -73.6275
+East Hillsdale, 42.1831, -73.5014
+East Homer, 42.6661, -76.1019
+East Hoosick, 42.9031, -73.2864
+East Hounsfield, 43.9714, -75.9864
+East Huntington, 40.8667, -73.4500
+East Irvington, 41.0475, -73.8492
+East Islip, 40.7319, -73.1861
+East Ithaca, 42.4394, -76.4789
+East Jefferson, 42.5039, -74.5803
+East Jewett, 42.2350, -74.1458
+East Kilns, 44.4794, -73.7850
+East Kingston, 41.9539, -73.9683
+East Koy, 42.5408, -78.1047
+East Lake Ronkonkoma, 40.8167, -73.1000
+East Lancaster, 42.8958, -78.6383
+East Lansing, 42.5683, -76.4697
+East Leon, 42.3472, -78.9581
+East Lindley, 42.0447, -77.0983
+East Line, 42.9714, -73.8311
+East Maine, 42.1919, -75.9933
+East Marion, 41.1275, -72.3406
+East Martinsburg, 43.7447, -75.4278
+East Masonville, 42.2636, -75.3028
+East Massapequa, 40.6667, -73.4333
+East McDonough, 42.4972, -75.6858
+East Meadow, 40.7139, -73.5594
+East Meredith, 42.4214, -74.8872
+East Middletown, 41.4442, -74.4003
+East Moriches, 40.8050, -72.7614
+East Nassau, 42.5078, -73.5069
+East Neck, 40.9000, -73.3833
+East New York, 40.6667, -73.8828
+East Newark, 42.2033, -76.1486
+East Nichols, 42.0067, -76.2831
+East Northport, 40.8767, -73.3250
+East Norwich, 40.8467, -73.5356
+East Oakfield, 43.0981, -78.2475
+East Olean, 42.0800, -78.4203
+East Otto, 42.3897, -78.7550
+East Palermo, 43.3511, -76.2333
+East Palmyra, 43.0850, -77.1572
+East Park(Dutchess), 41.7886, -73.9147
+East Part(St Lawrence), 44.7656, -74.8067
+East Patchogue, 40.7669, -72.9967
+East Pembroke, 42.9956, -78.3103
+East Penfield, 43.1294, -77.4125
+East Pharsalia, 42.5581, -75.7175
+East Pitcairn, 44.2181, -75.2228
+East Pittstown, 42.9025, -73.4628
+East Poestenkill, 42.6825, -73.4950
+East Potter, 42.7389, -77.1444
+East Quogue, 40.8406, -72.5819
+East Randolph, 42.1728, -78.9481
+East Richford, 42.3714, -76.1544
+East Ripley, 42.2839, -79.6728
+East River, 42.6478, -76.1144
+East Rochester, 43.1086, -77.4878
+East Rockaway, 40.6419, -73.6700
+East Rodman, 43.8700, -75.8536
+East Salamanca, 42.1500, -78.7167
+East Schodack, 42.5619, -73.6339
+East Schuyler, 43.0536, -75.0747
+East Scott, 42.7219, -76.1947
+East Seneca, 42.8347, -78.7125
+East Setauket, 40.9414, -73.1064
+East Shelby, 43.1706, -78.3256
+East Side, 42.1167, -75.8833
+East Sidney, 42.3300, -75.2325
+East Springfield, 42.8308, -74.8156
+East Steamburg, 42.5294, -76.7717
+East Steuben, 43.3764, -75.2297
+East Stone Arabia, 42.9583, -74.5183
+East Syracuse, 43.0653, -76.0789
+East Taghkanic, 42.1319, -73.6578
+East Township, 42.6997, -74.1014
+East Tremont, 40.8453, -73.8914
+East Union, 42.2978, -77.3250
+East Varick, 42.7700, -76.7697
+East Venice, 42.6908, -76.5008
+East Verona, 43.2181, -75.5492
+East Vestal, 42.1000, -75.9833
+East Victor, 42.9744, -77.3811
+East Virgil, 42.4911, -76.0983
+East Walden, 41.5586, -74.1581
+East Watertown, 43.9583, -75.8550
+East Waverly, 42.0106, -76.5183
+East Wawarsing, 41.7494, -74.3489
+East White Plains, 41.0389, -73.7481
+East Whitehall, 43.5364, -73.3272
+East Williamson, 43.2306, -77.1456
+East Williston, 40.7583, -73.6353
+East Wilson, 43.2411, -78.7594
+East Windham, 42.3367, -74.1594
+East Windsor, 42.1111, -75.6089
+East Winfield, 42.8886, -75.1456
+East Woodhull, 42.0842, -77.3550
+East Woods, 41.2111, -73.5314
+East Worcester, 42.6233, -74.6719
+Eastchester, 40.8883, -73.8286
+Eastern New York Hospital and School, 42.8208, -73.9161
+Eastern Parkway, 40.6692, -73.9397
+Eastmor, 42.6844, -73.6322
+Easton, 42.9933, -73.5528
+Eastport, 40.8258, -72.7322
+Eastside, 41.0031, -72.1333
+Eastview, 41.0814, -73.8297
+Eastwood, 43.0661, -76.1050
+Eaton, 42.8497, -75.6122
+Eaton Corners, 42.8058, -74.2472
+Eaton Corners, 43.1375, -75.8978
+Eatons Neck, 40.9000, -73.3333
+Eatonville, 43.0808, -74.9319
+Eavesport, 42.1172, -73.9361
+Eben, 44.6269, -75.0656
+Ebenezer, 42.8303, -78.7539
+Eddy, 44.5400, -75.2369
+Eddy Corners, 43.0569, -73.7692
+Eddyville(Cattaraugus), 42.3297, -78.7631
+Eddyville(Ulster), 41.8942, -74.0264
+Eden(Erie), 42.6522, -78.8972
+Eden(Orange), 41.2886, -74.4947
+Eden Valley, 42.6789, -78.8722
+Edenville, 41.2758, -74.4114
+Edgemere, 40.5961, -73.7681
+Edgemont, 40.9833, -73.8000
+Edgewater(Cayuga), 42.7678, -76.4814
+Edgewater(Erie), 43.0464, -78.9100
+Edgewater Beach, 43.2186, -75.7306
+Edgewater Park(St Lawrence), 44.6000, -75.6353
+Edgewater Park(Onodonga), 42.8808, -76.3806
+Edgewood(Greene), 42.1403, -74.2128
+Edgewood(Suffolk), 40.7833, -73.2500
+Edgewood Garden, 43.0869, -76.2689
+Edgewood Park, 44.3297, -75.9189
+Edicks, 42.9675, -74.9300
+Edinburg, 43.2217, -74.1044
+Edmeston, 42.6978, -75.2442
+Edson, 42.0267, -75.6617
+Edward Meyer Memorial Hospital, 42.9272, -78.8317
+Edwards, 44.3244, -75.2514
+Edwards Hill, 43.6283, -74.0461
+Edwards Park, 42.4167, -73.4500
+Edwardsville, 44.5222, -75.5933
+Egbertville, 40.5667, -74.1167
+Eggertsville, 42.9633, -78.8042
+Egypt, 43.0642, -77.4078
+Eighmyville, 41.9436, -73.8578
+Elayne Meadows, 42.8000, -73.6833
+Elba, 43.0772, -78.1872
+Elberta, 43.2639, -78.8706
+Elbow, 43.5500, -73.4000
+Elbridge, 43.0344, -76.4483
+Eldred, 41.5269, -74.8844
+Elgin, 42.3050, -78.3539
+Elizabethtown(Herkimer), 42.9661, -75.0794
+Elizabethtown(Essex), 44.2161, -73.5914
+Elizaville, 42.0508, -73.7942
+Elk Brook, 41.9742, -75.0553
+Elk Creek, 42.5914, -74.8239
+Elka Park, 42.1592, -74.1578
+Elkdale, 42.2150, -78.7539
+Ellenburg, 44.8939, -73.8369
+Ellenburg Center, 44.8647, -73.8975
+Ellenburg Depot, 44.9058, -73.8014
+Ellenville, 41.7169, -74.3961
+Ellery, 42.1667, -79.3500
+Ellery Center, 42.1828, -79.3472
+Ellicott, 42.7344, -78.7317
+Ellicott, 42.1333, -79.2167
+Ellicottville, 42.2750, -78.6731
+Ellington, 42.2167, -79.1081
+Ellis, 42.4253, -76.3817
+Ellis Hollow, 42.4667, -76.4833
+Ellis Hospital, 42.8197, -73.9178
+Ellisburg, 43.7328, -76.1364
+Ellistown, 42.0086, -76.4778
+Ellwood Park, 42.9756, -78.8533
+Elm Beach, 42.7011, -76.7450
+Elm Grove, 42.5553, -75.2258
+Elm Park, 40.6314, -74.1492
+Elm Tree, 42.1558, -79.4742
+Elm Valley, 42.1511, -77.8586
+Elma, 42.8508, -78.6406
+Elma Center, 42.8297, -78.6364
+Elmbois, 42.4842, -77.2303
+Elmcrest, 43.1331, -76.2361
+Elmdale, 44.3603, -75.5436
+Elmer Hill, 43.2797, -75.4500
+Elmgrove, 43.1817, -77.7319
+Elmhurst(Chautauqua), 42.1181, -79.2939
+Elmhurst(Queens), 40.7364, -73.8783
+Elmhurst Hospital, 40.7447, -73.8864
+Elmira, 42.0897, -76.8081
+Elmira Heights, 42.1297, -76.8211
+Elmont, 40.7008, -73.7133
+Elmsford, 41.0550, -73.8206
+Elmsmere, 40.9283, -73.8211
+Elmwood, 42.8267, -76.5236
+Elnora, 42.8928, -73.8217
+Elpis, 43.2836, -75.8225
+Elsinore, 44.6936, -73.6672
+Elsmere, 42.6217, -73.8186
+Elting Corners, 41.7411, -74.0353
+Eltingville, 40.5453, -74.1661
+Elton, 42.4508, -78.4292
+Elwood, 40.8453, -73.3356
+Elwood Farms, 40.8500, -73.3333
+Embarkation, 40.7167, -73.8333
+Embogcht, 42.2167, -73.8500
+Emerson, 43.1000, -76.6144
+Emerson Hill, 40.6086, -74.0964
+Emeryville, 44.2950, -75.3678
+Eminence, 42.5253, -74.5358
+Emmons, 42.4633, -75.0122
+Emmonsburg, 43.1531, -74.7100
+Empeyville, 43.3967, -75.6853
+Endicott, 42.0983, -76.0497
+Endwell, 42.1128, -76.0214
+Enfield, 42.4358, -76.6317
+Engleville, 42.7550, -74.6489
+Englewood, 42.9667, -78.8500
+Ennerdale, 42.8758, -77.1797
+Ensenore, 42.7167, -76.4167
+Ephratah, 43.0008, -74.5428
+Eppie Corners, 43.0053, -74.4711
+Erieville, 42.8517, -75.7558
+Erin, 42.1858, -76.6703
+Erwins, 42.1125, -77.1458
+Escarpment, 43.1686, -79.0069
+Esopus, 41.8278, -73.9656
+Esperance, 42.7611, -74.2569
+Esplanade, 40.8667, -73.8500
+Essex, 44.3100, -73.3531
+Etna, 42.4850, -76.3839
+Euclid, 43.1864, -76.2175
+Evans, 42.6500, -79.0333
+Evans Center, 42.6581, -79.0350
+Evans Corner, 43.0222, -76.7700
+Evans Mills, 44.0881, -75.8075
+Ewells Corner, 42.8314, -78.1242
+Ewing Memorial Hospital, 40.7644, -73.9575
+Excelsior Springs, 42.7517, -77.7131
+Exeter, 42.8000, -75.0667
+Exeter Corner, 42.7886, -75.0750

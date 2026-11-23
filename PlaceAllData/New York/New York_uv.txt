@@ -1,0 +1,176 @@
+Uihlein Mercy Center, 44.2650, -73.9831
+Ulster, 41.9833, -73.9833
+Ulster Heights, 41.7736, -74.4842
+Ulster Landing, 41.9972, -73.9481
+Ulster Park, 41.8558, -73.9775
+Ulsterville, 41.6100, -74.3361
+Ulysses, 42.5167, -76.6167
+Unadilla, 42.3253, -75.3128
+Unadilla Center, 42.4042, -75.3092
+Unadilla Forks, 42.8417, -75.2406
+Undercliff, 44.3392, -73.9697
+Underwood, 44.0878, -73.6767
+Underwood Club, 44.1667, -73.6167
+Underwood Corner, 42.1486, -78.9039
+Uneeda Beach, 43.2947, -78.9208
+Union(Broome), 42.1167, -76.0500
+Union(Madison), 42.8678, -75.8875
+Union Center(Broome), 42.1514, -76.0694
+Union Center(Ulster), 41.8511, -73.9975
+Union Corners(Genesee), 42.8950, -77.9797
+Union Corners(Livingston), 42.6275, -77.8414
+Union Falls, 44.5072, -73.9169
+Union Hill, 43.2228, -77.3719
+Union Hospital, 40.8606, -73.8961
+Union Mills, 43.0897, -74.1339
+Union Settlement, 43.3203, -76.0436
+Union Springs, 42.8397, -76.6936
+Union Vale, 41.6833, -73.7000
+Union Valley(Chenango), 42.3242, -75.5422
+Union Valley(Cortland), 42.6336, -75.8842
+Uniondale, 40.7003, -73.5933
+Unionport, 40.8272, -73.8506
+Unionville(Ontario), 42.9517, -77.0378
+Unionville(Orange), 41.3019, -74.5619
+Unionville(Albany), 42.6011, -73.8883
+Unionville(Sullivan), 41.8569, -74.5636
+Unionville(St Lawrence), 44.7128, -74.9972
+Unionville(Steuben), 42.3031, -77.3569
+United Nations Plaza, 40.7500, -73.9667
+United States Naval Clinic, 40.6967, -73.9714
+United States Public Health, 40.6167, -74.1000
+United States Public Health Service Marine Hospital, 40.6222, -74.0758
+United States Veterans Hospital, 41.5442, -73.9667
+Unity Hospital, 40.6706, -73.9269
+University, 43.0333, -76.1167
+University Gardens, 40.7772, -73.7231
+University Heights, 40.8600, -73.9097
+Upper Barbourville, 42.1600, -75.3558
+Upper Beechwood, 41.7769, -74.9900
+Upper Benson, 43.2492, -74.3367
+Upper Brookville, 40.8386, -73.5656
+Upper Fairfield, 42.2692, -76.2908
+Upper Grand View, 41.0833, -73.9333
+Upper Hollowville, 42.2067, -73.6647
+Upper Jay, 44.3364, -73.7761
+Upper Lisle, 42.3961, -75.9575
+Upper Mongaup, 41.4575, -74.7653
+Upper Nyack, 41.1069, -73.9206
+Upper Red Hook, 42.0297, -73.8450
+Upper Saint Regis, 44.3978, -74.2700
+Upper Town Landing, 44.2617, -76.1089
+Upper Union, 42.7833, -73.8833
+Upperville, 42.7003, -75.6156
+Upson Corners, 43.3617, -76.2286
+Upton, 40.8694, -72.8872
+Upton Lake, 41.8333, -73.7667
+Uptonville, 43.2031, -77.6450
+Uptown, 41.9500, -74.0000
+Urbana, 42.4544, -77.1814
+Ushers, 42.9081, -73.7742
+Utica, 43.1008, -75.2331
+Utica State Hospital, 43.1058, -75.2553
+Utopia, 40.7272, -73.7869
+Vail Mills, 43.0500, -74.2183
+Vail's Grove, 41.4333, -73.6000
+Vails Gate, 41.4542, -74.0581
+Vails Gate Junction, 41.4600, -74.0619
+Valatie, 42.4133, -73.6736
+Valatie Colony, 42.4358, -73.6725
+Valcour, 44.6050, -73.4403
+Valentines Beach, 43.1939, -76.0353
+Valhalla, 41.0747, -73.7756
+Valley Brook, 42.9289, -74.6594
+Valley Cottage, 41.1181, -73.9558
+Valley Falls, 42.9033, -73.5631
+Valley Mills, 43.0119, -75.5900
+Valley Pond Estates, 41.3089, -73.7233
+Valley Stream, 40.6642, -73.7089
+Valley View, 42.7392, -77.2561
+Vallonia Springs, 42.1797, -75.5372
+Valois, 42.5347, -76.8775
+Van Allen Park, 42.6550, -73.7089
+Van Brunt, 40.6667, -73.9833
+Van Buren, 43.1136, -76.3025
+Van Buren Bay, 42.4503, -79.4067
+Van Buren Point, 42.4489, -79.4186
+Van Burenville, 41.4986, -74.4281
+Van Cortlandtville, 41.3147, -73.9042
+Van Cott, 40.8833, -73.8667
+Van Del, 42.7833, -78.7500
+Van Deusenville, 42.8431, -74.6867
+Van Dorn Corner, 42.4522, -76.5914
+Van Duyn Hospital, 43.0103, -76.1908
+Van Etten, 42.1986, -76.5528
+Van Etten Junction, 42.1886, -76.5592
+Van Fleet, 41.9833, -77.3167
+Van Hornesville, 42.8950, -74.8281
+Van Keuren, 41.5903, -74.3100
+Van Keurens, 41.6453, -73.9442
+Van Nest, 40.8483, -73.8642
+Van Vleet, 42.0386, -77.2842
+Vandalia, 42.0961, -78.5800
+Vanderveer Station, 40.6333, -73.9500
+Varick, 42.7833, -77.3167
+Varna, 42.4550, -76.4383
+Varysburg, 42.7633, -78.3100
+Vassar Brothers Hospital, 41.6950, -73.9361
+Vaughns Corners, 43.3719, -73.5644
+Vaughs Corners, 43.3000, -73.5833
+Vega, 42.2553, -74.5303
+Venice, 42.7167, -76.5500
+Venice Center, 42.7392, -76.5569
+Verbank, 41.7286, -73.7108
+Verbank Village, 41.7283, -73.7289
+Verdoy, 42.7644, -73.8044
+Vermillion, 43.4169, -76.2781
+Vermontville, 44.4517, -74.0661
+Vernal, 42.8667, -78.2833
+Vernon, 43.0794, -75.5397
+Vernon Center, 43.0522, -75.5019
+Vernon Park, 40.9097, -73.8186
+Vernon Valley, 40.8994, -73.3294
+Verona, 43.1381, -75.5711
+Verona Beach, 43.1908, -75.7294
+Verona Mills, 43.1972, -75.5592
+Verona Station, 43.1336, -75.5869
+Verplanck, 41.2528, -73.9603
+Versailles, 42.5189, -78.9961
+Vesper, 42.8175, -76.1817
+Vestal, 42.0850, -76.0542
+Vestal Corner, 42.0328, -76.0153
+Vestal Gardens, 42.0667, -76.0167
+Veteran(Chemung), 42.2333, -76.8000
+Veteran(Ulster), 42.0803, -73.9947
+Veterans Administration Facility, 43.0000, -78.1833
+Veterans Administration Hospital, 42.9333, -78.8000
+Veterans Hospital, 43.0333, -76.1167
+Victor, 42.9825, -77.4092
+Victoria, 42.1642, -79.4275
+Victory, 43.1972, -76.6547
+Victory Heights, 42.1167, -76.8167
+Victory Memorial Hospital, 40.6150, -74.0236
+Victory Mills, 43.0878, -73.5944
+Victory Park, 40.9525, -73.7944
+Vienna, 43.2394, -75.7028
+Viewmonte, 42.0986, -73.8744
+Village, 40.7333, -74.0000
+Village of the Branch, 40.8561, -73.1878
+Villenova, 42.3833, -79.1167
+Vincent, 42.8353, -77.4014
+Vine Valley, 42.7236, -77.3250
+Vineyard, 42.3928, -79.4628
+Vintonton, 42.6106, -74.4747
+Viola, 41.1364, -74.0828
+Virgil, 42.5106, -76.1947
+Vischer Ferry, 42.7972, -73.8289
+Vista, 41.2022, -73.5106
+Vly(The Vly), 41.8864, -74.2047
+Voak, 42.7314, -77.1333
+Vollentine, 42.1047, -79.0089
+Volney, 43.3428, -76.3581
+Volusia, 42.2511, -79.5994
+Voorheesville, 42.6539, -73.9292
+Vorea, 43.6008, -75.9725
+Vosburg, 42.0714, -78.0814
+Vukote, 42.1061, -79.3600

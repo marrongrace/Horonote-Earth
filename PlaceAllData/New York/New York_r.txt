@@ -1,0 +1,305 @@
+Raceville, 43.4661, -73.2711
+Radio City, 40.7667, -74.0167
+Radison, 43.1500, -76.3333
+Rainbow Lake, 44.4669, -74.1733
+Rainbow Shores, 43.6139, -76.1981
+Ralmar Park, 42.8872, -73.9139
+Ramapo, 41.1411, -74.1689
+Ramona Beach, 43.5400, -76.2219
+Rampasture, 40.8519, -72.5289
+Randall, 42.9114, -74.4450
+Randall Corner, 43.2122, -73.7986
+Randall Crossing, 42.6161, -76.9442
+Randallsville, 42.7950, -75.5672
+Randelville, 41.3428, -74.3489
+Randolph, 42.1619, -78.9756
+Ransomville, 43.2386, -78.9100
+Rapids, 43.0983, -78.6411
+Raquette Lake, 43.8131, -74.6578
+Raquette River, 44.9511, -74.7942
+Rasbach Corner, 43.1061, -74.7422
+Rathbone, 42.1339, -77.3214
+Ravena, 42.4683, -73.8167
+Ravenwood, 42.7000, -73.8000
+Rawson, 42.3214, -78.3089
+Ray, 42.9333, -78.2975
+Ray Brook, 44.3000, -74.0858
+Raymertown, 42.8139, -73.5350
+Raymond, 43.1069, -78.6675
+Raymondville, 44.8381, -74.9783
+Rays Corners, 42.2697, -79.0458
+Rayville, 42.4642, -73.5389
+Readburn, 42.0111, -75.1744
+Reading, 42.4167, -76.9333
+Reading Center, 42.4303, -76.9331
+Reber, 44.3236, -73.4800
+Rector, 43.7556, -75.6772
+Rectors, 42.8622, -74.0169
+Red Bunch Corners, 43.0764, -74.2597
+Red Creek(Suffolk), 40.8667, -72.5167
+Red Creek(Wayne), 43.2472, -76.7239
+Red Falls, 42.3094, -74.3911
+Red Hook(Dutchess), 41.9950, -73.8758
+Red Hook(Kings), 40.6750, -74.0100
+Red Hook Mills, 42.0100, -73.8717
+Red House, 42.1122, -78.8022
+Red Mill, 43.4183, -76.1431
+Red Mills(Tompkins), 42.5275, -76.3217
+Red Mills(Columbia), 42.2208, -73.7122
+Red Mills(St Lawrence), 44.7583, -75.3867
+Red Mills(Ulster), 41.6281, -74.2728
+Red Oaks Mill, 41.6556, -73.8753
+Red Rock(Onondaga), 43.1328, -76.2886
+Red Rock(Columbia), 42.3569, -73.5108
+Redbird, 42.2303, -79.2994
+Redfield, 43.5331, -75.8219
+Redford, 44.6083, -73.8047
+Redman Corners, 43.2461, -77.9642
+Redmond Corner, 43.4644, -75.3903
+Redwood(Jefferson), 44.3008, -75.8017
+Redwood(Suffolk), 40.9978, -72.3139
+Reed Corners(Chautauqua), 42.4511, -79.3069
+Reed Corners(Ontario), 42.8364, -77.2147
+Reeds Corner, 42.5997, -77.6819
+Reedville, 44.1014, -75.6547
+Reeves Park, 40.9717, -72.7128
+Rego Park, 40.7264, -73.8531
+Reidsville, 42.5667, -74.0244
+Relius, 42.9203, -76.6586
+Remington Corners, 44.1233, -75.3625
+Remsen, 43.3269, -75.1872
+Remsenburg, 40.8075, -72.7092
+Renchans, 42.4403, -77.3253
+Reniff, 42.1164, -76.5464
+Rensselaer, 42.6425, -73.7433
+Rensselaer Falls, 44.5919, -75.3194
+Rensselaerville, 42.5161, -74.1383
+Renwick, 42.4661, -76.5000
+Residence Park, 40.9011, -73.7839
+Resort, 43.2264, -76.9242
+Result, 42.3569, -73.9483
+Retsof, 42.8353, -77.8792
+Rexford, 42.8531, -73.8883
+Rexleigh, 43.1353, -73.3553
+Rexville, 42.0842, -77.6625
+Reydon Shores, 41.0467, -72.3994
+Reynales Basin, 43.2067, -78.5464
+Reynolds, 42.8903, -73.6631
+Reynolds Corner, 44.0903, -76.0428
+Reynolds Corners, 43.2525, -73.6419
+Reynoldston, 44.7431, -74.4500
+Reynoldsville, 42.4669, -76.7706
+Rheims, 42.4008, -77.2542
+Rhinebeck, 41.9267, -73.9131
+Rhinecliff, 41.9194, -73.9517
+Rhode Island, 42.6789, -75.8000
+Ricard, 43.4981, -75.9217
+Rice Grove, 42.8514, -76.2567
+Rice Mill, 43.2339, -76.8583
+Rices, 43.9175, -75.9703
+Riceville(Cattaraugus), 42.4425, -78.6150
+Riceville(Fulton), 43.0936, -74.2822
+Richardsville, 41.4636, -73.7756
+Richburg, 42.0883, -78.1536
+Richfield, 42.8572, -75.0544
+Richfield Springs, 42.8533, -74.9858
+Richford, 42.3556, -76.2011
+Richland, 43.5694, -76.0481
+Richmond(Ontario), 42.7833, -77.5167
+Richmond(Richmond), 40.5739, -74.1308
+Richmond Center, 42.8081, -77.5331
+Richmond Hill, 40.6997, -73.8317
+Richmond Valley, 40.5200, -74.2297
+Richmondville, 42.6342, -74.5644
+Richs Corners, 43.2306, -78.1494
+Richville, 44.4172, -75.3922
+Riders, 42.4728, -73.5436
+Riders Mills, 42.4808, -73.5644
+Ridge(Suffolk), 40.8939, -72.8964
+Ridge(Livingston), 42.6761, -77.9136
+Ridge Mills, 43.2403, -75.4383
+Ridgebury, 41.3864, -74.4539
+Ridgeland, 43.0908, -77.6106
+Ridgelea Heights, 43.2011, -78.6753
+Ridgemont, 43.2167, -77.6833
+Ridgeway(Orleans), 43.2672, -78.3900
+Ridgeway(Westchester), 41.0028, -73.7633
+Ridgewood(Oneida), 43.1000, -75.2333
+Ridgewood(Queens), 40.7000, -73.9061
+Ridgewood(Niagara), 43.2503, -78.6475
+Rifton, 41.8375, -74.0378
+Riga, 43.0694, -77.8842
+Riggsville, 41.8719, -74.3392
+Rigney Bluff, 43.2731, -77.6350
+Riley Cove, 43.0133, -73.7650
+Ringdahl Court, 43.2167, -75.4333
+Rio, 41.3833, -74.7167
+Riparius, 43.6617, -73.8975
+Ripley, 42.2669, -79.7108
+Rippleton, 42.9119, -75.8686
+Risingville, 42.2192, -77.3153
+Ritchfield Junction, 42.9450, -75.2464
+River, 43.1333, -77.6333
+Riverbank, 43.6053, -73.7258
+Riverdale(Bronx), 40.9006, -73.9064
+Riverdale(Oneida), 43.2103, -75.4328
+Rivergate, 44.1886, -75.7839
+Riverhead, 40.9169, -72.6625
+Riverside(Broome), 42.0067, -75.7647
+Riverside(Saratoga), 42.9178, -73.6769
+Riverside(Steuben), 42.1561, -77.0831
+Riverside Estates, 40.9167, -72.6333
+Riverside Hospital, 40.8014, -73.8983
+Riverside Junction, 42.0808, -78.6419
+Riverside Manors, 43.1856, -79.0467
+Riverside Park, 41.9153, -74.0769
+Riverview, 44.6500, -73.7500
+Roanoke, 42.9436, -78.0522
+Roanoke Landing, 40.9767, -72.7086
+Robbins Rest, 40.6433, -73.1650
+Roberts Corner, 43.8164, -76.1206
+Roberts Hill, 42.3953, -73.8372
+Robinson, 44.8228, -73.6158
+Robinson Corners, 42.7036, -75.2042
+Robinwood, 44.0406, -74.7517
+Rochdale, 41.7183, -73.8531
+Rochdale Village, 40.6833, -73.7833
+Rochelle Heights, 40.9256, -73.7819
+Rochelle Park, 40.9178, -73.7861
+Rochester, 43.1547, -77.6158
+Rochester General Hospital, 43.1919, -77.5872
+Rochester Junction, 42.9839, -77.5933
+Rock Beach, 43.2453, -77.5825
+Rock City(Cattaraugus), 42.0144, -78.4747
+Rock City(Columbia), 42.4042, -73.5778
+Rock City(Datchess), 41.9703, -73.8214
+Rock City Falls, 43.0667, -73.9167
+Rock Cut, 43.0167, -76.1333
+Rock Falls City, 43.0619, -73.9175
+Rock Glen, 42.6858, -78.1192
+Rock Hill, 41.6258, -74.5981
+Rock Ledge Beach, 43.3694, -78.2211
+Rock Rift, 42.0922, -75.1922
+Rock Stream, 42.4711, -76.9278
+Rock Tavern, 41.4661, -74.1917
+Rock Valley, 41.8894, -75.0847
+Rockaway Beach, 40.6000, -73.8167
+Rockaway Park, 40.5800, -73.8367
+Rockaway Point, 40.5606, -73.9156
+Rockdale, 42.3781, -75.4081
+Rockefeller Center, 40.7667, -73.9833
+Rockhurst, 43.4739, -73.6358
+Rockland(Rockland), 41.0500, -73.9500
+Rockland(Sullivan), 41.9453, -74.9133
+Rockland Lake, 41.1383, -73.9375
+Rockland State Hospital, 41.0492, -73.9708
+Rockton, 42.9533, -74.1725
+Rockville(Allegany), 42.3067, -78.1647
+Rockville(Orange), 41.4844, -74.4161
+Rockville Centre, 40.6586, -73.6417
+Rockville Lake, 42.3500, -78.1167
+Rockwell Mills, 42.4486, -75.3903
+Rockwood, 43.0581, -74.5044
+Rocky Hill, 41.2294, -74.3536
+Rocky Point(Suffolk), 40.9525, -72.9258
+Rocky Point(Clinton), 44.7225, -73.4122
+Rocky Point Landing, 40.9653, -72.9553
+Rodger Corner, 43.1619, -76.1583
+Rodman, 43.8511, -75.9411
+Roe Park, 41.3064, -73.8839
+Roessleville, 42.6950, -73.8075
+Rogers, 44.4581, -73.6069
+Rogersville, 42.5147, -77.6711
+Rolling Acres, 43.2000, -77.8167
+Rolling Hills, 43.0833, -77.4667
+Rolling Meadows, 41.9231, -74.0533
+Romanoff, 41.4500, -73.6667
+Rombout Ridge, 41.6625, -73.8664
+Rome(Essex), 44.4406, -73.6886
+Rome(Oneida), 43.2128, -75.4561
+Romulus, 42.7522, -76.8339
+Rondaxe, 43.7167, -74.9667
+Rondout, 41.9206, -73.9856
+Ronkonkoma, 40.8153, -73.1128
+Ronkonkoma West, 40.8167, -73.1000
+Roosa Gap, 41.5500, -74.4333
+Roosevelt, 40.6786, -73.5894
+Roosevelt Beach, 43.3075, -78.8586
+Roosevelt Corners, 43.3044, -76.2408
+Roosevelt Field, 40.7333, -73.6500
+Roosevelt Hospital, 40.7694, -73.9869
+Rooseveltown, 44.9728, -74.7314
+Root, 42.8500, -74.4667
+Root Center, 42.8231, -74.4761
+Rootville, 42.4569, -75.2714
+Rosalyn Heights, 40.7833, -73.6333
+Roscoe, 41.9331, -74.9139
+Rose, 43.1536, -76.8789
+Rose Grove, 40.9575, -72.3928
+Rose Hill(Seneca), 42.8494, -76.9100
+Rose Hill(Onondaga), 42.9072, -76.3428
+Rosebank, 40.6139, -74.0667
+Roseboom, 42.7417, -74.7769
+Rosecrans Park, 42.5303, -73.6075
+Rosedale(Queens), 40.6619, -73.7358
+Rosedale(Westchester), 40.9933, -73.7433
+Roseland, 43.1814, -77.3867
+Roseland Park, 42.8725, -77.2514
+Rosemont Park, 42.6567, -73.7119
+Rosendale, 41.8439, -74.0825
+Roses Point, 41.4578, -74.6047
+Roseton, 41.5583, -73.9844
+Rosiere, 44.1214, -76.2419
+Roslyn, 40.7997, -73.6514
+Roslyn Estates, 40.7942, -73.6608
+Roslyn Harbor, 40.8164, -73.6375
+Roslyn Heights, 40.7886, -73.6478
+Ross Corners, 42.0675, -76.1008
+Ross Mills, 42.1600, -79.2225
+Ross Sanatorium, 40.7828, -73.2425
+Ross's Corners, 43.8000, -76.0167
+Rossburg, 42.4972, -78.0703
+Rosses, 42.5194, -77.8917
+Rossie, 44.3786, -75.6553
+Rossman, 42.3314, -73.7442
+Rosstown, 42.0242, -76.8414
+Rossville(Richmond), 40.5556, -74.2139
+Rossville(Orange), 41.5919, -74.0694
+Roswell Park Hospital, 42.8992, -78.8661
+Rotterdam, 42.8167, -74.0167
+Rotterdam Junction, 42.8744, -74.0469
+Rough and Ready, 42.1075, -77.6525
+Round Lake, 42.9386, -73.7903
+Round Top, 42.2689, -74.0278
+Rouses Point, 44.9939, -73.3653
+Rowan Corners, 42.9844, -75.8169
+Roxbury(Delaware), 42.2839, -74.5653
+Roxbury(Queens), 40.5664, -73.8911
+Royalton, 43.2000, -78.5500
+Royalton Center, 43.1636, -78.5386
+Ruback Camp, 43.0250, -74.0667
+Ruby, 42.0181, -74.0153
+Ruby Corner, 44.4522, -75.5967
+Rudco, 41.6500, -73.9417
+Rudeston, 43.4361, -74.5097
+Rugby, 40.6500, -73.9333
+Rumsey Ridge, 43.1661, -79.0175
+Rural Grove, 42.8481, -74.4414
+Rural Hill, 43.7942, -76.1736
+Rush, 42.9958, -77.6458
+Rush Run, 42.2458, -76.7575
+Rushford, 42.3922, -78.2539
+Rushford Lake, 42.3833, -78.1500
+Rushville, 42.7600, -77.2267
+Russ Mills, 43.3672, -76.2414
+Russell, 44.4294, -75.1503
+Russell Gardens, 40.7811, -73.7250
+Russia(Clinton), 44.6736, -73.7825
+Russia(Herkimer), 43.2586, -75.0825
+Rutland, 43.9667, -75.7833
+Rutland Center, 43.9544, -75.8072
+Rutsonville, 41.6706, -74.2517
+Ryder, 40.6167, -73.9333
+Rye, 40.9806, -73.6842
+Rye Hills-Rye Brook, 41.0000, -73.6667
+Rynex Corners, 42.8214, -74.0717
