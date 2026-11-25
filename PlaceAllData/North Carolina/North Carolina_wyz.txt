@@ -1,0 +1,387 @@
+Waccamaw, 34.0667, -78.5333
+Waco, 35.3614, -81.4289
+Wade, 35.1628, -78.7364
+Wade Mills, 34.9656, -80.0472
+Wades Point, 35.5333, -76.6167
+Wadesboro, 34.9681, -80.0769
+Wadeville, 35.2825, -79.9700
+Wagoner(Yadkin), 36.1569, -80.7944
+Wagoner(Ashe), 36.4017, -81.3867
+Wagram, 34.8878, -79.3664
+Wake Crossroads, 35.8831, -78.5103
+Wake Forest, 35.9797, -78.5100
+Wake Memorial Hospital, 35.7839, -78.5881
+Wakefield, 35.8167, -78.3167
+Wakelon, 36.1586, -76.8439
+Wakulia, 34.7925, -79.2553
+Wakulla, 34.8000, -79.2500
+Walkers, 34.5406, -77.8544
+Walkers Crossroads, 35.9256, -78.5047
+Walkersville, 34.9333, -80.7500
+Walkertown(Buncombe), 35.6533, -82.3392
+Walkertown(Forsyth), 36.1753, -80.1533
+Walkertown(Harnett), 35.2856, -78.8139
+Walkertown(Rowan), 35.5500, -80.6000
+Walla Watta, 35.5853, -76.8739
+Wallace, 34.7356, -77.9956
+Wallace Crossroads, 35.4183, -80.7456
+Wallace Mill, 36.5342, -79.3522
+Wallburg, 36.0100, -80.1394
+Walls Landing, 34.9672, -79.8653
+Walnut, 35.8494, -82.7389
+Walnut Cove, 36.2953, -80.1419
+Walnut Creek(Edgecombe), 35.8833, -77.6333
+Walnut Creek(Madison), 35.8472, -82.6714
+Walnut Creek(Wayne), 35.3667, -77.9667
+Walnut Hill, 36.4833, -81.4333
+Walser, 35.7797, -80.1217
+Walsh, 36.1833, -81.2833
+Walstonburg, 35.6000, -77.7000
+Walton Crossroads, 36.3633, -76.6436
+Waltons Store, 34.7500, -77.4333
+Wananish, 34.3219, -78.5006
+Wanchese, 35.8425, -75.6389
+Wanets Landing, 34.3647, -78.1406
+Warbler, 35.5833, -76.2333
+Ward Corner, 34.1300, -78.6911
+Wards, 34.3167, -78.8333
+Wards Corner, 34.5344, -78.0722
+Wards Store, 36.1000, -77.7167
+Wardsville, 36.4067, -76.5853
+Warlick, 35.3167, -81.4167
+Warne, 34.9944, -83.8931
+Warren Plains, 36.4425, -78.1606
+Warren Wilson College, 35.6167, -82.3833
+Warrensville, 36.4606, -81.5192
+Warrenton, 36.3983, -78.1556
+Warrior, 35.9000, -81.5167
+Warsaw, 34.9992, -78.0914
+Washburn(Cleveland), 35.3308, -81.6294
+Washburn(Rutherford), 35.3931, -81.8167
+Washington, 35.5464, -77.0525
+Washington Forks, 35.1422, -77.1044
+Washington Heights, 35.5494, -77.0358
+Washington Park, 35.5325, -77.0328
+Wasp, 35.2561, -77.0867
+Watauga(Macon), 35.1833, -83.3833
+Watauga(Watauga), 36.1833, -81.7500
+Waterlily, 36.3814, -75.9197
+Waterville, 35.7711, -83.1008
+Watery Branch, 35.5658, -77.8339
+Watha, 34.6403, -77.9611
+Watkins, 36.2811, -78.5056
+Watkins Mill, 35.0058, -83.3089
+Watson, 35.0747, -80.4292
+Watson Crossroads, 35.5856, -78.0481
+Watts Crossroads, 35.4717, -80.4533
+Watts Hospital, 36.0183, -78.9208
+Watts Landing, 34.4214, -77.5911
+Waughtown, 36.0694, -80.2042
+Waverly, 35.8594, -82.4500
+Waves, 35.5667, -75.4689
+Waves Landing, 35.5667, -75.4711
+Waxhaw, 34.9244, -80.7436
+Wayah Depot, 35.1647, -83.5119
+Waycross, 34.8508, -78.1811
+Wayne County Memorial Hospital, 35.3983, -77.9522
+Waynesville, 35.4886, -82.9889
+Wayside, 34.9833, -79.2167
+Weaver, 36.0486, -78.8736
+Weavers Ford, 36.5492, -81.3739
+Weavers Landing, 34.3167, -78.5244
+Weaverville, 35.6969, -82.5608
+Webb, 36.0431, -82.2814
+Webbs, 35.5333, -81.0333
+Webster, 35.3461, -83.2194
+Webster Junction, 35.3667, -83.2333
+Webtown, 35.3686, -77.9878
+Weddington, 35.0222, -80.7611
+Weeksville, 36.2053, -76.1481
+Wehutty, 35.0939, -84.2972
+Welch, 36.2167, -76.6167
+Welch Creek, 34.4167, -78.6333
+Welcome, 35.9028, -80.2572
+Weldon, 36.4269, -77.5958
+Weldons Mill, 36.2903, -78.3208
+Wellons Village, 35.9833, -78.8500
+Welmar Heights, 35.0333, -78.9500
+Wendell, 35.7808, -78.3700
+Wenona, 35.7181, -76.6497
+Wentworth, 36.4000, -79.7747
+Wesley Chapel, 35.0069, -80.6747
+Wesleyan College, 35.9667, -77.8000
+Wesser, 35.3331, -83.5914
+West, 35.0000, -78.1000
+West Asheville, 35.5778, -82.5839
+West Bend, 36.0950, -80.4889
+West Brook, 35.5167, -80.6333
+West Burlington, 36.0667, -79.4833
+West Canton, 35.5378, -82.8583
+West Concord, 35.3878, -80.5958
+West Cramerton, 35.2525, -81.0881
+West Durham, 36.0167, -78.9333
+West End, 35.2397, -79.5678
+West Gastonia, 35.2875, -81.2444
+West Hamlet, 34.9000, -79.7000
+West Haven, 35.4692, -82.5767
+West Hendersonville, 35.3167, -82.4667
+West Highlands, 36.0983, -80.2731
+West Hillsborough, 36.0744, -79.1197
+West Howellsville, 34.7167, -78.9333
+West Jefferson, 36.4036, -81.4931
+West Jutts Creek, 35.3167, -83.8000
+West Landing, 35.3192, -77.4689
+West Lumberton, 34.6000, -79.0167
+West Marion, 35.6578, -82.0256
+West Market Street, 36.0667, -79.8333
+West New Bern, 35.1000, -77.0833
+West Oaks, 36.0750, -80.3036
+West Onslow Beach, 34.4478, -77.5078
+West Parkland, 35.7422, -78.6489
+West Philadelphia, 35.3822, -79.6586
+West Rockingham, 34.9431, -79.7872
+West Rocky Mount, 35.9667, -77.8000
+West Salem, 36.0831, -80.2522
+West Salisbury, 35.6500, -80.4833
+West Sanford, 35.5000, -79.2000
+West Smithfield, 35.5269, -78.3556
+West Statesville, 35.7667, -80.9333
+West Tarboro, 35.9056, -77.5417
+West Yanceyville, 36.4061, -79.3872
+Westarea, 35.0833, -78.9500
+Westbrook, 34.4753, -78.4228
+Westbrooks, 35.2167, -78.4167
+Western Hills, 35.2667, -80.4333
+Western Prong, 34.4500, -78.7667
+Westerwood, 36.0792, -79.8039
+Westfield, 36.4753, -80.4469
+Westminister, 35.4503, -81.8892
+Westminster, 35.3667, -81.9500
+Westmont, 35.7000, -79.8167
+Westmore, 35.5019, -79.7150
+Westover(Washington), 35.9039, -76.6772
+Westover(Wake), 35.7908, -78.7156
+Westport, 35.5011, -80.9789
+Westry, 35.9631, -77.8983
+Wests Mill(P O), 35.2628, -83.4094
+Westside, 35.5500, -80.6000
+Westview, 36.1000, -80.2925
+Whalebone, 35.9133, -75.6000
+Whaley, 36.2361, -81.9319
+Wharton, 35.5333, -77.0333
+Whichard, 35.6969, -77.2553
+Whichard Beach, 35.5042, -77.0233
+Whispering Pines, 35.2556, -79.3725
+Whitakers, 36.1053, -77.7131
+White Bank Landing, 35.0561, -77.3353
+White Cross, 35.9217, -79.1878
+White Hat Landing, 36.1514, -76.3833
+White Hill, 35.3817, -79.2808
+White Lake, 34.6403, -78.4842
+White Level, 36.1331, -78.1433
+White Oak(Guilford), 36.1064, -79.7733
+White Oak(Bladen), 34.7494, -78.7083
+White Oak(Halifax), 36.1853, -77.8572
+White Oak(Jones), 34.8833, -77.2000
+White Oak(Nash), 35.9281, -78.0381
+White Oak Heights, 36.1289, -79.7753
+White Oak Landing, 35.6344, -76.5997
+White Oaks, 35.2514, -82.7147
+White Plains(Surry), 36.4456, -80.6336
+White Plains(Hyde), 35.4514, -76.0297
+White Pond, 34.4375, -79.1961
+White Rock(Madison), 35.9525, -82.7017
+White Rock(Watauga), 36.1667, -81.8667
+White Stocking, 34.5844, -77.8319
+White Store, 34.8833, -80.2667
+White Sulphur Springs, 36.5000, -80.5833
+Whitehall Landing, 34.5164, -78.4358
+Whitehead, 36.4672, -81.1531
+Whitehouse, 35.5269, -82.0919
+Whitehurst, 35.7658, -77.3325
+Whiteoak, 36.4461, -76.7872
+Whiteoak Flats, 36.0453, -82.3483
+Whitepost, 35.4914, -76.8514
+Whites, 36.1000, -76.7833
+Whites Chapel Church, 35.8167, -80.2500
+Whites Creek, 34.5000, -78.5333
+Whites Crossing, 34.2253, -78.7194
+Whites Crossroads, 36.2000, -76.7667
+Whites Garage, 36.4000, -79.3333
+Whitetown, 36.5381, -79.4475
+Whiteville, 34.3386, -78.7033
+Whitewater, 35.1000, -83.0000
+Whitfield Crossroads, 35.2333, -77.8500
+Whitford Landing, 35.0572, -77.1467
+Whitley Heights, 35.5553, -78.3864
+Whitley Place, 35.4264, -78.2636
+Whitnel, 35.8881, -81.5236
+Whitney, 35.4722, -80.1447
+Whitsett, 36.0711, -79.5647
+Whitson, 36.0908, -82.3036
+Whitt Town, 36.3692, -79.0100
+Whittier, 35.4350, -83.3603
+Whortonsville, 35.0956, -76.6289
+Whortonville, 35.1000, -76.7167
+Whynot, 35.5333, -79.7667
+Wiccacanee, 36.4500, -77.3167
+Wiggins Crossroads(Edgecombe), 35.8308, -77.6303
+Wiggins Crossroads(Gates), 36.5181, -76.6375
+Wiggins Mill, 35.6894, -77.9469
+Wil-Mar Park, 35.4247, -80.6019
+Wilbanks, 35.7478, -77.7717
+Wilbar, 36.2444, -81.2983
+Wilbon, 35.5975, -78.8372
+Wilbourns Store, 36.4889, -78.7439
+Wildacres, 35.8242, -82.1061
+Wildcat Landing(Hertford), 36.3067, -76.8372
+Wildcat Landing(Brunswick), 33.9506, -78.2308
+Wilders, 35.7167, -78.3500
+Wilders Grove, 35.7986, -78.5647
+Wildlife Landing, 35.1442, -77.0483
+Wildwood, 34.7486, -76.8261
+Wilgrove, 35.2036, -80.6703
+Wilkerson Crossroads, 35.7025, -78.1156
+Wilkes General Hospital, 36.1589, -81.1581
+Wilkes Landing, 35.2514, -77.1269
+Wilkesboro, 36.1458, -81.1608
+Wilkinson, 35.6092, -76.6992
+Wilkinson Boulevard, 35.2333, -80.8833
+Willard, 34.6900, -77.9800
+Willardville, 36.1389, -78.8572
+Willeyton, 36.5050, -76.7331
+William, 35.8167, -79.0167
+Williams(Columbus), 34.2042, -78.7631
+Williams(Wayne), 35.1858, -77.9742
+Williams Cross Roads(Columbus), 34.4531, -78.8258
+Williams Cross Roads(Wayne), 35.1833, -78.0667
+Williams Crossroads, 35.6556, -78.6664
+Williams Village, 35.0300, -78.8694
+Williamsboro, 36.4303, -78.4319
+Williamsburg(Rockingham), 36.2828, -79.5978
+Williamsburg(Iredell), 35.9836, -80.8139
+Williamson Crossroads, 34.3594, -78.9219
+Williamsons, 34.7667, -79.6000
+Williamston, 35.8544, -77.0558
+Williamston General Hospital, 35.8394, -77.0725
+Willifords Landing, 36.0217, -76.7489
+Willis Landing(Carteret), 34.6956, -76.7964
+Willis Landing(Onslow), 34.6458, -77.2119
+Williston, 34.7892, -76.5056
+Willits, 35.3667, -83.2333
+Willits-Ochre Hill, 35.4017, -83.1275
+Willow, 36.3500, -76.6000
+Willow Branch Landing, 36.0761, -76.7308
+Willow Creek, 35.5178, -77.5300
+Willow Green, 35.4667, -77.4167
+Willow Spring, 35.6000, -78.7333
+Willow Springs(Wake), 35.5956, -78.7317
+Willow Springs(Johnston), 35.5522, -78.5283
+Wilmar, 35.3000, -77.1500
+Wilmington, 34.2256, -77.9450
+Wilmington Beach, 34.0186, -77.8989
+Wilmot, 35.4022, -83.3131
+Wilshire Park, 35.5842, -82.6119
+Wilson(Buncombe), 35.5939, -82.4267
+Wilson(Wilson), 35.7211, -77.9158
+Wilson Creek, 35.9667, -81.7667
+Wilson Mills, 35.5839, -78.3561
+Wilsons Creek, 36.0333, -81.8333
+Wilsonville, 35.7364, -79.0006
+Wilton, 36.1419, -78.5769
+Wind Blow, 35.1714, -79.6672
+Winders Cross Roads, 36.1000, -80.7667
+Windom, 35.9181, -82.2550
+Windsor, 35.9983, -76.9464
+Windsors Crossroads, 36.0694, -80.8319
+Windy Gap, 36.1183, -80.9897
+Winfall, 36.2189, -76.4642
+Wing, 35.9447, -82.1458
+Wingate, 34.9842, -80.4494
+Winnabow, 34.1492, -78.0939
+Winslow, 36.1794, -76.1989
+Winstead Crossroads, 35.8414, -77.9308
+Winsteadville, 35.4644, -76.6361
+Winston-Salem, 36.0997, -80.2444
+Winter Park, 34.2103, -77.8869
+Winterville, 35.5289, -77.4014
+Winton, 36.3956, -76.9322
+Wise, 36.4864, -78.1711
+Wise Forks, 35.2178, -77.5106
+Wisemans View, 35.9036, -81.9056
+Wishart, 34.5833, -78.9167
+Witherspoon Crossroad, 35.6733, -81.1500
+Wittenberg, 35.8333, -81.2833
+Wittys Crossroads, 36.2681, -79.8439
+Wolf Creek, 35.0136, -84.3039
+Wolf Ford, 35.3431, -82.7300
+Wolf Mountain, 35.2158, -82.9867
+Wolf Pit, 34.8833, -79.7833
+Wolfscrape, 35.1333, -77.9833
+Wood, 36.1842, -78.0575
+Wood Dale, 34.2167, -77.9167
+Wood Landing, 35.0781, -76.9133
+Woodard(Bertie), 35.9158, -76.8617
+Woodard(Wilson), 35.7333, -77.9167
+Woodburn, 34.2500, -78.0500
+Woodfin, 35.6333, -82.5822
+Woodford, 36.3450, -81.5908
+Woodington, 35.1739, -77.6358
+Woodland, 36.3314, -77.2131
+Woodland Hills, 35.3617, -82.5369
+Woodlawn(Gaston), 35.2667, -81.1167
+Woodlawn(McDowell), 35.7853, -82.0406
+Woodlawn(Alamance), 36.1100, -79.2956
+Woodleaf, 35.7689, -80.5911
+Woodleigh, 36.5167, -75.9333
+Woodley, 35.8933, -76.3500
+Woodrow(Craven), 35.1000, -77.0833
+Woodrow(Haywood), 35.4761, -82.8900
+Woods Crossroads, 35.3258, -78.4958
+Woodsdale, 36.4897, -78.9600
+Woodside, 34.4192, -77.6475
+Woodside Hills, 35.5539, -82.6719
+Woodville(Perquimans), 36.2342, -76.3267
+Woodville(Surry), 36.5017, -80.4800
+Woodville(Bertie), 36.1158, -77.1847
+Woodville(Cherokee), 35.1917, -83.8828
+Woodworth, 36.5381, -78.3792
+Wooten Landing, 35.0567, -77.3100
+Wootens Crossroads(Columbus), 34.4444, -78.7414
+Wootens Crossroads(Lenoir), 35.1500, -77.7642
+Wootentown, 35.5333, -77.0333
+Worley, 35.8056, -82.7911
+Worry, 35.8269, -81.7375
+Worthville, 35.8019, -79.7803
+Wrendale, 35.9861, -77.6458
+Wright Place, 35.3453, -83.6036
+Wrightsboro, 34.2883, -77.9214
+Wrightsville, 34.2206, -77.8175
+Wrightsville Beach, 34.2083, -77.7967
+Wyanoke, 36.5436, -76.9119
+Wyatts Cross Roads, 34.4189, -78.8225
+Yadkin(Rowan), 35.7211, -80.3992
+Yadkin(Stokes), 36.3167, -80.3667
+Yadkin Junction(Rowan), 35.6703, -80.4594
+Yadkin Junction(New Hanover), 34.2167, -77.9167
+Yadkin Valley, 36.0222, -81.4903
+Yadkinville, 36.1344, -80.6597
+Yamacraw, 34.4947, -78.1108
+Yanceyville, 36.4039, -79.3364
+Yates, 36.2897, -81.4592
+Yates Hill, 34.9347, -79.7978
+Yatesville, 35.6167, -76.8667
+Yaupon Beach, 33.9000, -78.0833
+Yeatsville, 35.5283, -76.7406
+Yellow Creek, 35.4139, -83.8319
+Yellow Gap, 35.6861, -81.6514
+Yellow Hill Landing, 34.6778, -76.9578
+Yeopim, 36.1431, -76.5244
+York, 36.4167, -78.2833
+Youngsville, 36.0247, -78.4747
+Yow Mill, 35.5522, -79.7228
+Zebulon, 35.8242, -78.3150
+Zephyr, 36.3675, -80.8144
+Zion Grove, 35.3364, -79.6025
+Zionville, 36.3347, -81.7433
+Zirconia(Tuxedo Station), 35.2417, -82.4164

@@ -1,0 +1,269 @@
+Rabontown, 34.1731, -78.1778
+Radford Crossroads, 35.5200, -78.1144
+Radical, 36.3500, -81.2333
+Raeford, 34.9808, -79.2244
+Raemon, 34.6375, -79.3489
+Raft Swamp, 34.6500, -79.1000
+Rainbow Springs, 35.0942, -83.5656
+Rains Crossroads, 35.5150, -78.1447
+Raleigh, 35.7719, -78.6389
+Rama, 35.1775, -80.7694
+Ramseur, 35.7333, -79.6528
+Ramsey, 35.5828, -81.5625
+Ramseytown, 36.0006, -82.3575
+Randleman, 35.8178, -79.8033
+Randolph(Pitt), 35.6000, -77.3833
+Randolph(Mecklenburg), 35.1667, -80.8000
+Randolph Landing, 35.6486, -77.4397
+Ranger, 35.0833, -84.0333
+Rangewood, 35.7064, -78.6464
+Rankin(Guilford), 36.1169, -79.7639
+Rankin(Pender), 34.5333, -78.1667
+Ranlo, 35.2861, -81.1306
+Ranlo-Smyre, 35.2667, -81.1667
+Ransom, 34.3167, -78.2667
+Ransomville, 35.4522, -76.6856
+Rattler Ford, 35.3478, -83.9042
+Ravensford, 35.5108, -83.2956
+Ravenswood, 34.9789, -77.2344
+Rawls, 35.5369, -78.8156
+Raynham, 34.5742, -79.1953
+Raynor, 36.0083, -78.2847
+Raynor Town, 35.3950, -78.1411
+Rays Beach, 36.3772, -76.8403
+Reads Chapel, 35.3108, -76.7464
+Reb Kee, 34.6139, -78.1853
+Reba, 35.6739, -77.6394
+Rebel Acres, 35.8000, -78.6333
+Rebel City, 35.0825, -78.5489
+Red Banks, 34.7028, -79.2511
+Red Barn Landing, 35.3375, -82.2306
+Red Brush, 36.4761, -80.6950
+Red Bug, 33.9808, -78.3744
+Red Cross, 35.2672, -80.3558
+Red Hill(Bladen), 34.4697, -78.4308
+Red Hill(Duplin), 35.0789, -77.9094
+Red Hill(Edgecombe), 36.1000, -77.7167
+Red Hill(Mitchell), 36.0222, -82.2281
+Red Hill(Sampson), 35.1478, -78.3894
+Red House, 36.5000, -79.1500
+Red Oak, 36.0383, -77.9067
+Red Springs, 34.8150, -79.1833
+Redallia, 35.4847, -77.3767
+Redbank Landing(Perquimans), 36.2119, -76.2911
+Redbank Landing(Pitt), 35.6158, -77.3339
+Redbug, 34.3083, -78.6122
+Redcross, 35.8822, -79.6961
+Reddies River, 36.1833, -81.2333
+Redhill Landing, 35.2483, -77.2089
+Redland, 35.9878, -80.4728
+Redmon, 35.7956, -82.7172
+Redwood, 36.0469, -78.7717
+Reeds Crossroads, 35.8447, -80.3328
+Reedy Creek, 35.9197, -80.3339
+Reelsboro, 35.1339, -76.9136
+Reems Creek, 35.6833, -82.5500
+Reepsville, 35.5106, -81.3506
+Reepville, 35.5500, -81.4000
+Reese, 36.3256, -81.8247
+Reeves, 34.0539, -78.6006
+Refuge Mission, 35.3850, -79.9567
+Regal, 35.1219, -84.0033
+Regan, 34.0169, -78.5658
+Register, 34.8333, -78.0333
+Rehoboth, 36.3433, -77.3764
+Reid, 35.1158, -82.9031
+Reidsville, 36.3547, -79.6647
+Relief, 36.0342, -82.2936
+Ren, 35.8081, -76.7764
+Rena, 36.1872, -80.8097
+Rennert, 34.8142, -79.0811
+Renston, 35.5089, -77.4567
+Republican, 36.0822, -77.0603
+Research Triangle Park, 36.0000, -78.9167
+Rest Haven, 35.4269, -76.7311
+Retreat, 35.4506, -82.9092
+Revere, 35.9025, -82.7033
+Revolution, 36.1019, -79.7783
+Rex(Robeson), 34.8569, -79.0494
+Rex(Gaston), 35.2667, -81.1667
+Reynolda, 36.1253, -80.2856
+Reynolda Park, 36.1200, -80.2869
+Reynolds Memorial Hospital, 36.1028, -80.2319
+Reynoldson, 36.5281, -76.7925
+Rhamkatte, 35.7481, -78.6736
+Rheasville, 36.4103, -77.7006
+Rhems, 35.0725, -77.1783
+Rhems Landing, 35.0617, -77.1447
+Rhine, 36.4167, -81.4667
+Rhodes, 36.1703, -77.1244
+Rhodes-Rhyne, 35.4667, -81.2500
+Rhodhiss, 35.7739, -81.4314
+Rhodo, 35.2175, -83.7522
+Rhoney, 35.6256, -81.3328
+Rhyne, 35.2939, -80.9736
+Rhyne Crossroad, 34.5553, -78.0089
+Rice Mill, 35.9161, -82.6667
+Ricefield, 34.3658, -78.3961
+Riceville, 35.6325, -82.4703
+Rich Hill, 36.4731, -80.9903
+Rich Mountain, 35.3222, -83.0461
+Rich Square, 36.2739, -77.2847
+Richards Crossing, 34.3464, -78.0103
+Richardson, 34.5564, -78.8361
+Richardson Hospital, 36.0681, -79.7706
+Richfield, 35.4700, -80.2581
+Richland, 36.0797, -81.5983
+Richlands(Mitchell), 36.0864, -82.3144
+Richlands(Onslow), 34.8992, -77.5469
+Richmond Hill, 36.2450, -80.6108
+Richmond Mill, 34.8206, -79.5283
+Richmond Park Extension, 34.9519, -79.7544
+Rico, 34.4386, -78.6242
+Riddick Crossroads, 36.4461, -76.8697
+Riddicks Landing, 36.5311, -76.9258
+Riddicksville, 36.5272, -76.9392
+Riddle, 36.4000, -76.1000
+Ridenhour, 35.4167, -80.3000
+Ridge, 35.2667, -81.1667
+Ridge Spring, 35.4567, -77.4883
+Ridgecrest, 35.6206, -82.2828
+Ridgefield, 36.1000, -79.8667
+Ridgeville, 36.3003, -79.1808
+Ridgeway, 36.4356, -78.2369
+Riegelwood, 34.3397, -78.2256
+Riley, 35.9314, -78.3533
+Riley Hill, 35.8586, -78.4203
+Rimer, 35.4747, -80.4836
+Rimertown, 35.4667, -80.4667
+Ringwood, 36.2111, -77.8475
+Rippys, 35.2167, -81.5333
+Ritters, 35.4667, -79.5167
+River, 35.1833, -81.7167
+River Acres, 35.4972, -76.9928
+River Bend, 35.3333, -81.0500
+River Haven, 35.3153, -80.0858
+River Neck, 35.9475, -76.2814
+River Neck Landing, 35.9419, -76.3089
+Riverdale, 34.9958, -76.9869
+Rivermont, 35.2394, -77.5992
+Riverside(Macon), 35.0908, -83.3783
+Riverside(Yancey), 35.9119, -82.3467
+Riverside(Craven), 35.1000, -77.0833
+Riverside(Haywood), 35.6181, -82.9681
+Roan Landing, 34.3603, -78.1142
+Roanoke Rapids, 36.4614, -77.6544
+Roaring Creek, 36.0636, -82.0128
+Roaring Gap, 36.4028, -80.9856
+Roaring River, 36.2064, -81.0039
+Robbins, 35.4339, -79.5872
+Robbinsville, 35.3228, -83.8075
+Roberdel, 34.9714, -79.7450
+Roberdo, 35.3133, -79.9500
+Roberson Store, 35.8167, -77.1000
+Robersonville, 35.8239, -77.2556
+Roberta Mill, 35.3572, -80.6361
+Roberta Mills, 35.4167, -80.6000
+Rock Creek, 35.9744, -79.4658
+Rock Hill, 35.4167, -80.6000
+Rock Rest, 34.9544, -80.4836
+Rock Ridge, 35.7019, -78.0675
+Rock Spring, 35.6000, -77.3833
+Rock Springs, 35.3956, -82.1308
+Rockdale, 35.4825, -81.5081
+Rockfish, 34.9925, -79.0664
+Rockford, 36.2683, -80.6489
+Rockingham, 34.9392, -79.7742
+Rockview, 35.7853, -82.4297
+Rockwell, 35.5511, -80.4067
+Rockwell Park, 35.2667, -80.8000
+Rocky Cross, 35.8631, -78.2222
+Rocky Ford, 36.1997, -78.3436
+Rocky Hill, 35.2158, -82.7544
+Rocky Knoll(Durham), 36.0161, -78.8239
+Rocky Knoll(Guilford), 36.0236, -79.8028
+Rocky Mount, 35.9381, -77.7908
+Rocky Pass, 35.7167, -81.9333
+Rocky Point, 34.4350, -77.8881
+Rocky River, 35.4167, -80.6000
+Rocky Springs(Montgomery), 35.2167, -79.7333
+Rocky Springs(Alexander), 35.9514, -81.1017
+Rockyhock, 36.1808, -76.6931
+Rodanthe, 35.5933, -75.4683
+Rodmans Quarter, 35.5461, -76.7803
+Roduco, 36.4617, -76.8128
+Roe, 34.9922, -76.3092
+Rogers Crossroads, 35.7858, -78.2172
+Rolesville, 35.9231, -78.4578
+Rollins, 35.7894, -82.6636
+Rominger, 36.2261, -81.8386
+Ronda, 36.2183, -80.9414
+Rooks, 34.4964, -78.1442
+Roper, 35.8778, -76.6156
+Roper Springs, 36.4267, -77.8733
+Rose, 35.3667, -77.9667
+Rose Bay, 35.4606, -76.3839
+Rose Hill(Duplin), 34.8281, -78.0233
+Rose Hill(Warren), 36.5186, -78.3081
+Roseboro, 34.9528, -78.5089
+Roseborough, 36.0347, -81.8092
+Rosebud(Wilson), 35.7667, -77.8578
+Rosebud(Stokes), 36.3069, -80.1811
+Roseland(Columbus), 34.2325, -78.8397
+Roseland(Lincoln), 35.4447, -81.2761
+Roseland(Moore), 35.1350, -79.5094
+Rosemary, 36.4511, -77.6797
+Rosemead, 36.1800, -76.8664
+Rosemont, 36.0478, -80.2428
+Roseneath, 36.0747, -77.4786
+Roseville, 36.3547, -79.0419
+Rosewood, 35.4133, -78.0711
+Rosin Hill, 35.2083, -78.4144
+Rosindale, 34.4408, -78.5272
+Roslin, 34.9261, -78.9461
+Rosman, 35.1436, -82.8214
+Ross Store, 36.3403, -80.2203
+Rosser, 35.5553, -79.0914
+Roten, 36.4714, -81.6175
+Rougemont, 36.2183, -78.9267
+Roughedge, 34.8992, -80.6239
+Round Peak, 36.5000, -80.5833
+Roundhill, 35.4311, -83.5250
+Roundtree, 35.4803, -77.4803
+Rover, 35.4061, -77.0069
+Rowan, 34.5128, -78.2714
+Rowan Memorial Hospital, 35.6819, -80.4711
+Rowan Mill, 35.6500, -80.5000
+Rowan Mills, 35.6481, -80.5056
+Rowes Corner, 35.1722, -77.0053
+Rowland, 34.5364, -79.2917
+Roxboro, 36.3936, -78.9831
+Roxobel, 36.2028, -77.2456
+Royal(Beaufort), 35.2894, -76.7697
+Royal(Franklin), 36.0150, -78.3583
+Royal Mills, 35.9833, -78.5000
+Royal Oaks, 35.4606, -80.6072
+Royal Pines, 35.4750, -82.5161
+Ruby City, 35.3772, -83.1183
+Rubyatt, 35.2153, -79.7311
+Rudd, 36.1658, -79.7431
+Ruffin, 36.4469, -79.5442
+Rufus, 35.9986, -81.6414
+Rugby, 35.3653, -82.5206
+Ruggles, 36.2789, -77.5978
+Runion, 35.8858, -82.7733
+Rural Hall, 36.2403, -80.2936
+Rusk, 36.2500, -80.8667
+Ruskin, 34.7097, -78.6747
+Russ Landing, 34.5542, -78.4539
+Russells Creek, 34.1372, -78.1167
+Russellville, 34.9833, -80.1386
+Russtown, 33.9572, -78.4317
+Ruth, 35.3819, -81.9472
+Rutherford College, 35.7500, -81.5333
+Rutherford County Hospital, 35.3625, -81.9658
+Rutherfordton, 35.3692, -81.9569
+Rutherwood, 36.2244, -81.5989
+Ryes, 35.4322, -79.0008
+Ryland, 36.2769, -76.6236
+Rymers Ferry, 35.4450, -83.8697

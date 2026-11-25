@@ -1,0 +1,212 @@
+Fain Ford, 35.2614, -84.0458
+Fair Bluff, 34.3133, -79.0375
+Fair Grove, 35.8519, -80.0778
+Fairbrook, 35.7028, -81.2961
+Fairfax, 35.4531, -83.8400
+Fairfield(Guilford), 36.1000, -79.8189
+Fairfield(Hyde), 35.5411, -76.2247
+Fairfield(Union), 35.0603, -80.3875
+Fairgrove, 35.7072, -81.2656
+Fairmont, 34.4967, -79.1144
+Fairntosh, 36.1061, -78.8508
+Fairplains, 36.1983, -81.1531
+Fairport, 36.2272, -78.5222
+Fairview(Macon), 35.2811, -83.6328
+Fairview(Orange), 36.0869, -79.1136
+Fairview(Rockingham), 36.5272, -79.7900
+Fairview(Surry), 36.3283, -80.7206
+Fairview(Union), 35.1383, -80.5378
+Fairview(Bumcombe), 35.5139, -82.3961
+Fairview Church, 35.1950, -81.5342
+Fairview Cross Roads, 36.4000, -80.7167
+Fairview Park, 35.8831, -81.1189
+Fairway Acres, 35.7394, -78.6675
+Fairway Hills, 35.5175, -82.9817
+Faison, 35.1161, -78.1364
+Faisons, 36.4444, -77.3250
+Faith, 35.5869, -80.4631
+Falcon, 35.1897, -78.6486
+Falkland, 35.6992, -77.5133
+Fall Creek, 36.2167, -80.6000
+Fallcliff, 35.2589, -83.1806
+Falling Creek, 35.2619, -77.6908
+Falls, 35.9397, -78.5797
+Fallston, 35.4289, -81.5017
+Fallstown, 35.7000, -80.9333
+Farmer, 35.6533, -79.9772
+Farmers Store, 36.5000, -81.5000
+Farmington, 36.0156, -80.5325
+Farmville(Chatham), 35.5706, -79.2203
+Farmville(Pitt), 35.5953, -77.5856
+Faro, 35.5114, -77.8442
+Farrar, 35.8953, -77.5431
+Farrington, 35.8017, -79.0142
+Faucett, 36.3333, -77.7333
+Faucette, 36.1833, -79.4000
+Faulkner Crossroads, 36.3161, -78.3622
+Faust, 35.9111, -82.5303
+Fayetteville, 35.0525, -78.8786
+Federal Point, 34.0667, -77.9000
+Feezor, 35.6883, -80.2692
+Fellowship Sanatorium, 35.6225, -82.3572
+Feltonville, 35.6831, -78.8339
+Fenix, 35.0331, -79.0350
+Fentress, 35.9833, -79.7500
+Ferguson, 36.0856, -81.3686
+Fernside, 34.2167, -77.9167
+Fero, 35.5867, -81.9778
+Ferrells, 35.8833, -78.1667
+Few, 35.9336, -78.8883
+Fiberville, 35.5400, -82.8483
+Fields, 35.2836, -77.7311
+Fields of the Wood, 35.1233, -84.2575
+Fieldsboro, 35.6056, -77.6742
+Fig, 36.4528, -81.6044
+Fillmore, 35.7186, -78.0317
+Finch Mill, 35.7619, -77.9969
+Fines Creek, 35.6811, -82.9517
+Finger, 35.3847, -80.3581
+Finley, 36.0742, -81.5919
+Fipps Crossing, 34.2942, -78.8269
+Fires Creek, 35.0769, -83.8642
+First Landing, 35.9328, -76.3917
+Fisher Creek, 35.4036, -83.1964
+Fisher Park, 36.0797, -79.7903
+Fisher Town, 35.4947, -80.6639
+Fitch, 36.3236, -79.3619
+Fitzgerald, 36.5331, -79.6733
+Five Forks(Person), 36.4372, -79.0203
+Five Forks(Robeson), 34.4714, -79.2006
+Five Forks(Rowan), 35.5758, -80.6181
+Five Forks(Warren), 36.5133, -78.0433
+Five Points(Forsyth), 36.0272, -80.2933
+Five Points(Franklin), 35.9619, -78.2914
+Five Points(Henderson), 35.2675, -82.4097
+Five Points(Richmond), 34.9525, -79.7897
+Five Points(Rowan), 35.5708, -80.6547
+Five Points(Wake), 35.5958, -78.7592
+Five Points(Hoke), 35.0167, -79.3611
+Five Points(Beaufort), 35.5617, -76.8869
+Five Points(Cleveland), 35.4522, -81.6667
+Flanner Beach, 34.9836, -76.9486
+Flat Branch(Gates), 36.4000, -76.7500
+Flat Branch(Harnett), 35.3133, -78.8847
+Flat Creek, 35.7528, -82.5467
+Flat Gap, 35.7203, -81.5714
+Flat River, 36.3000, -78.9833
+Flat Rock(Henderson), 35.2711, -82.4417
+Flat Rock(Stokes), 36.3833, -80.3956
+Flat Rock(Surry), 36.5122, -80.5700
+Flat Rock(Vance), 36.3911, -78.3681
+Flat Rock Forest, 35.2775, -82.4431
+Flat Shoals, 36.3650, -80.2439
+Flat Springs, 36.2519, -81.9339
+Flat Top, 35.5683, -82.3817
+Flats, 35.0167, -83.3167
+Flatwood, 36.5556, -81.6536
+Flax Island, 36.4369, -76.9439
+Flay, 35.4631, -81.4361
+Fleetwood, 36.3061, -81.5136
+Fletcher, 35.4306, -82.5014
+Flint Hill(Montgomery), 35.4781, -79.9150
+Flint Hill(Randolph), 35.8017, -79.9239
+Flint Hill(Yadkin), 36.1750, -80.4781
+Floral College, 34.7783, -79.3186
+Florence(Guilford), 36.0253, -79.9592
+Florence(Pamlico), 35.1442, -76.6314
+Florence Town, 36.0775, -79.3167
+Flowers, 35.6536, -78.3453
+Flowers Corner, 34.1625, -78.2081
+Flowes Store, 35.2989, -80.5578
+Floytan Crossroads, 36.2561, -78.4614
+Folkstone, 34.5364, -77.5044
+Folly, 36.4500, -76.6167
+Folly Fork, 36.4850, -76.5778
+Fontana Dam, 35.4333, -83.8333
+Fontana Village, 35.4356, -83.8192
+Fonville, 35.2900, -78.7700
+Footville, 36.0606, -80.7022
+Forbes, 36.0000, -82.2333
+Forbush, 36.1978, -80.5744
+Forest, 35.1614, -77.0475
+Forest City, 35.3339, -81.8653
+Forest Grove, 36.3003, -81.8075
+Forest Hill, 36.1444, -80.2486
+Forest Hills(New Hanover), 34.2167, -77.9167
+Forest Hills(Rockingham), 36.3117, -79.6986
+Forest Hills(Wake), 35.7039, -78.6189
+Forest Hills(Transylvania), 35.2183, -82.7361
+Forestville, 35.9614, -78.5183
+Fork, 35.9000, -80.5667
+Fork Mountain, 36.0500, -82.1667
+Forks of Ivy, 35.7917, -82.5392
+Fort Barnwell, 35.2911, -77.3353
+Fort Bragg, 35.1500, -79.0000
+Fort Caswell, 33.9333, -78.0667
+Fort Clark, 35.1969, -75.7322
+Fort Defiance, 36.0169, -81.4953
+Fort Junction, 35.1500, -78.9667
+Fort Landing, 35.9444, -76.0644
+Fort Macon, 34.6967, -76.6803
+Fort Macon Village, 34.8833, -76.9000
+Fort Raleigh City, 35.9364, -75.7072
+Foscoe, 36.1617, -81.7658
+Foster, 35.3972, -83.1831
+Foster Creek, 35.9225, -82.6142
+Fountain, 34.8408, -77.6731
+Fountain Hill(Anson), 35.0775, -80.2886
+Fountain Hill(Lenoir), 35.4097, -77.5011
+Four Oaks, 35.4447, -78.4272
+Fourway, 35.4167, -77.5833
+Fowler Crossroads, 35.0308, -80.5383
+Fowler Landing, 34.6819, -78.3483
+Fowlers Crossroads, 35.8925, -78.4294
+Fox Run, 36.1411, -78.9647
+Foys, 35.2167, -77.4333
+Foys Landing, 34.6194, -77.4306
+Francis Mill, 36.1358, -77.1083
+Francisco, 36.5089, -80.3561
+Frank, 36.0706, -82.0028
+Franklin(Macon), 35.1822, -83.3817
+Franklin(Rowan), 35.7211, -80.4992
+Franklin Grove, 35.4356, -83.4631
+Franklinton, 36.1017, -78.4583
+Franklinville, 35.7436, -79.6925
+Franktown, 34.9133, -77.5100
+Frazier Crossroads, 35.8758, -78.1372
+Fraziers Crossroads, 36.3064, -77.0253
+Freedom, 35.2333, -80.8833
+Freeland, 34.1069, -78.5375
+Freeman, 34.3169, -78.2844
+Freeman Mill, 35.9381, -79.8906
+Fremont, 35.5453, -77.9750
+French Broad, 35.7000, -82.6167
+Frenchs Creek, 34.4667, -78.3000
+Friendship(Cherokee), 35.0753, -84.1922
+Friendship(Guilford), 36.0919, -79.9542
+Friendship(Wake), 35.6986, -78.9000
+Friendship(Yadkin), 36.2333, -80.5000
+Friendship(Duplin), 35.0633, -78.0406
+Frink Crossing, 34.3217, -78.8933
+Frisco, 35.2350, -75.6289
+Frog Level(Rutherford), 35.3167, -81.8667
+Frog Level(Pitt), 35.5719, -77.4425
+Frog Pond, 35.2733, -80.3167
+Frogsboro, 36.3453, -79.1822
+Frontis, 36.0661, -80.3086
+Fruitland(Henderson), 35.3964, -82.3933
+Fruitland(Richmond), 34.9244, -79.6506
+Fruitville, 36.5167, -75.9333
+Frying Pan, 35.8025, -76.1039
+Frying Pan Landing, 35.7994, -76.1047
+Fulchers Landing, 34.5653, -77.3831
+Fulchertown, 35.1222, -83.3583
+Fulford, 33.9675, -78.3303
+Fuller Mill, 35.7778, -80.0228
+Fullers, 35.8833, -80.0833
+Fulp, 36.3000, -80.1333
+Fulton, 35.8667, -80.4500
+Funston, 34.1008, -78.0272
+Fuquay-Varina, 35.5842, -78.8003
+Furches, 36.4533, -81.2811
+Furr, 35.2500, -80.4167

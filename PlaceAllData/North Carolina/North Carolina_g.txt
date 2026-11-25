@@ -1,0 +1,232 @@
+Gaddy, 34.4500, -79.2167
+Gaddysville, 34.4486, -79.2236
+Gaffey Landing, 36.2550, -75.8656
+Gaineys Place, 34.9550, -79.3456
+Galatia, 36.4714, -77.3028
+Galilee Mission, 35.7931, -76.4006
+Galloway Crossroads, 35.5461, -77.2619
+Gallup Acres, 35.0333, -78.9500
+Gamewell, 35.8692, -81.5964
+Gap Civil, 36.5167, -81.1333
+Gap Landing, 35.1422, -77.0661
+Garden Creek, 35.7044, -82.0361
+Gardner, 35.7333, -77.7833
+Gardner Park, 35.2542, -81.1311
+Gardner Webb College, 35.2500, -81.6667
+Gardnerville, 35.3894, -77.2992
+Garland, 34.7861, -78.3944
+Garner, 35.7111, -78.6144
+Garners Store, 35.4047, -79.5744
+Garren Hill, 35.1872, -79.5022
+Garysburg, 36.4508, -77.5592
+Gashes Creek, 35.5667, -82.4953
+Gaskill Landing, 34.7228, -76.5639
+Gaston, 36.5003, -77.6453
+Gaston Memorial Hospital, 35.2728, -81.1394
+Gastonia, 35.2619, -81.1875
+Gates, 36.5033, -76.7694
+Gatesville, 36.4033, -76.7533
+Gatewood, 36.5369, -79.4006
+Gatlington Landing, 36.5083, -76.9067
+Gause Landing, 33.8947, -78.4475
+Gay, 35.2914, -83.2733
+Gaylord, 35.4314, -76.7425
+Gela, 36.4144, -78.5903
+Genlee, 35.8708, -78.8917
+Genoa, 35.3261, -78.0406
+Gentry Store, 36.4600, -78.9206
+George, 36.3222, -77.2308
+Georges Mill, 36.5144, -80.3031
+Georgetown(Buncombe), 35.6208, -82.6544
+Georgetown(Davidson), 36.0150, -80.0997
+Georgetown(Lenoir), 35.2644, -77.5508
+Georgeville, 35.3139, -80.4594
+Gerard Landing, 35.4244, -76.9633
+Germanton, 36.2628, -80.2311
+Germantown, 35.4317, -76.4633
+Gerton, 35.4792, -82.3483
+Gethsemane, 36.0792, -77.6564
+Ghio Scholl Station, 34.8167, -79.6511
+Gibbton, 35.0989, -76.7281
+Gibson, 34.7589, -79.6108
+Gibson Landing, 34.5472, -78.4356
+Gibson Mill, 34.8389, -79.4675
+Gibsontown, 35.5275, -82.8217
+Gibsonville, 36.1056, -79.5425
+Giddensville, 35.1389, -78.2186
+Gilead, 35.4525, -76.9853
+Gilford City, 36.0667, -79.8000
+Gilkey, 35.4425, -81.9781
+Gill, 36.2658, -78.4083
+Gillburg, 36.2764, -78.3686
+Gilreath, 36.0497, -81.0786
+Glade Creek, 36.5167, -81.0000
+Glade Valley, 36.4717, -81.0517
+Glady, 35.5086, -82.7272
+Glady Fork, 35.5333, -82.6833
+Glass, 35.4772, -80.6267
+Glen Alpine, 35.7289, -81.7794
+Glen Anna, 35.8414, -80.0922
+Glen Ayre, 36.0631, -82.1167
+Glen Forest, 36.0219, -78.8100
+Glen Lennox, 35.9147, -79.0269
+Glen Raven, 36.1131, -79.4767
+Glencoe, 36.1389, -79.4281
+Glendale Springs, 36.3450, -81.3806
+Glendon, 35.4822, -79.4172
+Glenfield, 35.3831, -77.6431
+Glenfield Crossroads, 35.3931, -77.6164
+Glenlaurel, 35.8358, -82.1131
+Glenn, 36.0167, -78.9333
+Glenola, 35.8728, -79.9150
+Glenrock, 35.6000, -82.5500
+Glenview, 36.1675, -77.8119
+Glenville, 35.1733, -83.1294
+Glenwood(Guilford), 36.0550, -79.8100
+Glenwood(McDowell), 35.6144, -81.9822
+Glenwood(Richmond), 34.9319, -79.7586
+Glenwood Crossroads, 35.2675, -78.3956
+Glenwood Village, 35.8333, -78.6667
+Gliden, 36.3203, -76.6144
+Glisson, 35.1000, -77.8833
+Globe, 36.0461, -81.7083
+Gloucester(Carteret), 34.7261, -76.5414
+Gloucester(Transylvania), 35.2167, -82.8833
+Gneiss, 35.1333, -83.2814
+Goat Neck, 35.9694, -76.0781
+Godwin, 35.2175, -78.6817
+Gold, 35.7931, -81.7622
+Gold Hill(Rowan), 35.5211, -80.3383
+Gold Hill(Hoke), 34.9211, -79.1733
+Gold Hill(Rockingham), 36.3181, -79.9308
+Gold Mine(Franklin), 36.1833, -78.0833
+Gold Mine(Macon), 35.0500, -83.2000
+Gold Rock, 36.0700, -77.8133
+Gold Sand, 36.1925, -78.1739
+Gold Valley Crossroads, 35.8994, -78.1683
+Golden, 35.3667, -81.8333
+Golden Valley, 35.5333, -81.7667
+Goldpoint, 35.8703, -77.2417
+Goldsboro, 35.3847, -77.9931
+Goldston, 35.5931, -79.3286
+Good Samaritan Hospital, 35.2253, -80.8533
+Goodluck, 35.4403, -82.4400
+Goodsonville, 35.4667, -81.2500
+Goodwin Hills, 35.0022, -76.3122
+Goose Creek(Union), 35.1167, -80.5167
+Goose Creek(Camden), 36.2281, -76.0283
+Goose Hollow, 34.3436, -78.4061
+Goose Nest, 35.9833, -77.3167
+Goose Pond, 36.2000, -76.7667
+Gooseneck, 34.3453, -78.1700
+Gordon Crowell Memorial Hospital, 35.4644, -81.2550
+Gordonton, 36.2808, -79.1272
+Gordontown, 35.7556, -80.1089
+Gores Landing, 33.9242, -78.2117
+Gorman, 36.0364, -78.8236
+Goshen(Wilkes), 36.1500, -81.1667
+Goshen(Sampson), 34.9333, -78.1667
+Goshen Grove, 35.2756, -81.0556
+Governors Island, 35.4333, -83.4500
+Grabtown, 35.9664, -77.0339
+Grace, 35.6281, -82.5525
+Grace Chapel, 35.8000, -81.4333
+Grace Hartley Memorial Hospital, 36.1569, -81.8667
+Grace Hospital, 35.7253, -81.6450
+Grady, 34.4500, -78.0667
+Gradys, 35.1656, -77.8856
+Gragg, 36.0731, -81.7708
+Graham, 36.0689, -79.4008
+Graingers, 35.3197, -77.5103
+Grandfather, 36.1667, -81.8667
+Grandin, 36.0439, -81.4161
+Grandview, 35.1675, -84.0453
+Grandview Heights, 36.2189, -81.6839
+Grandy, 36.2419, -75.8794
+Granite Falls, 35.7964, -81.4308
+Granite Quarry, 35.6122, -80.4469
+Grant, 35.6667, -79.7500
+Grantham, 35.2969, -78.1639
+Granthams, 35.0700, -77.0214
+Grantsboro, 35.1403, -76.8428
+Granville Hospital, 36.3264, -78.5939
+Grape Creek, 35.1158, -84.0869
+Grapevine, 35.8000, -82.6833
+Grapevine Landing, 35.7172, -76.0611
+Grapewood, 36.1197, -80.4386
+Graphite, 35.6606, -82.2519
+Grassy Creek(Ashe), 36.5736, -81.3889
+Grassy Creek(Mitchell), 35.8822, -82.0569
+Grays Chapel, 35.8186, -79.6989
+Grays Creek, 34.9600, -78.8444
+Grayson, 36.5361, -81.6839
+Great Neck, 34.9300, -76.6750
+Great Neck Landing, 34.6675, -77.1556
+Great Swamp, 35.5500, -78.0167
+Green Acres, 35.7089, -78.6500
+Green Creek, 35.2203, -82.0508
+Green Hill(Rutherford), 35.4069, -82.0419
+Green Hill(Watauga), 36.1233, -81.6581
+Green Level, 35.7819, -78.9042
+Green Mountain, 35.9936, -82.2592
+Green Pond, 34.7844, -79.6328
+Green River, 35.2167, -82.4500
+Green Valley, 36.4086, -81.7036
+Greenbank Landing, 34.3586, -78.1586
+Greenbrier Estates, 35.7175, -78.6458
+Greene, 35.9667, -79.5833
+Greene Cove, 36.0058, -82.1125
+Greenevers, 34.8333, -78.0333
+Greenhill, 35.5833, -82.8500
+Greenleaf, 35.4103, -77.9833
+Greenlee, 35.6647, -82.0975
+Greenriver, 35.3667, -81.9500
+Greens Creek, 35.3283, -83.2622
+Greens Fork, 36.3942, -76.5458
+Greensboro, 36.0725, -79.7922
+Greenville, 35.6111, -77.3731
+Greesons Crossroads, 36.0347, -79.6389
+Gregory, 36.3839, -76.1233
+Gregory Crossroads, 34.9000, -77.5500
+Gregory Forks, 34.8817, -77.5775
+Gretna Green, 36.3897, -77.8536
+Greystone, 36.3606, -78.3494
+Griffins Crossroads(Anson), 35.0169, -80.2200
+Griffins Crossroads(Chatham), 35.7369, -79.0836
+Grifton, 35.3725, -77.4378
+Grimesdale, 35.3639, -82.4756
+Grimesland, 35.5633, -77.1925
+Grimshawes, 35.0758, -83.1106
+Grissettown, 33.9464, -78.5025
+Grissom, 36.0719, -78.5967
+Grist, 34.3167, -78.8333
+Groometown, 35.9911, -79.8678
+Groomtown, 36.0500, -79.8667
+Grove, 35.4000, -78.6667
+Grove Hill, 36.3350, -78.0094
+Grove Park, 35.2389, -80.7347
+Grovemont, 35.6097, -82.3872
+Grover, 35.1744, -81.4500
+Groves, 35.2667, -81.1667
+Grovestone, 35.6064, -82.3628
+Growers Crossroads, 36.2000, -76.7667
+Guide, 34.0783, -78.7339
+Guideway, 34.0644, -78.6961
+Guilford, 36.0767, -79.8983
+Guilford College, 36.0897, -79.8889
+Gulf, 35.5603, -79.2819
+Gulledge, 34.8667, -80.1000
+Gulrock, 35.4142, -76.0900
+Gum Branch, 34.8697, -77.4964
+Gum Corner, 36.4311, -76.0925
+Gum Forks, 36.5061, -77.6803
+Gum Neck, 35.7300, -76.1436
+Gum Neck Landing, 35.6978, -76.1100
+Gum Springs, 35.7608, -79.2322
+Gum Tree, 35.9961, -80.2003
+Gumberry, 36.4703, -77.4961
+Guntertown, 35.9308, -82.7164
+Gupton, 36.1967, -78.1608
+Guthrie, 36.1214, -80.1514
+Guyton, 34.5333, -78.8000
+Gwaltneys, 35.9833, -81.2000

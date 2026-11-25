@@ -1,0 +1,259 @@
+La Grange, 35.3067, -77.7883
+Laboratory, 35.4342, -81.2603
+Lackey Hill, 35.4369, -83.4386
+Lackey Store, 36.5314, -80.1822
+Lackey Town, 35.6117, -82.1650
+Ladonia, 36.4822, -80.8381
+Lafayette, 35.0333, -78.9500
+Lagoon, 34.6333, -78.5500
+Lake Creek, 34.6167, -78.3333
+Lake Daniel, 36.0825, -79.8119
+Lake Junaluska, 35.5278, -82.9597
+Lake Landing, 35.4833, -76.0333
+Lake Lure, 35.4278, -82.2050
+Lake Neighborhood, 35.8911, -75.9206
+Lake Toxaway, 35.1322, -82.9342
+Lake View Park, 35.7333, -81.3500
+Lake Waccamaw, 34.3189, -78.5003
+Lake Worth, 35.6967, -75.7742
+Lakecrest, 35.0667, -78.8833
+Lakedale, 35.0247, -78.8992
+Lakeside Village, 35.3186, -78.5942
+Lakeview(Alamance), 36.1550, -79.4236
+Lakeview(Davidson), 35.7394, -80.3700
+Lakeview(Moore), 35.2436, -79.3089
+Lakeview Estates, 35.3333, -82.4275
+Lakewood(Guilford), 36.1411, -79.6947
+Lakewood(Henderson), 35.2936, -82.4894
+Lakewood(Durham), 35.9667, -78.9167
+Lambert, 35.3133, -80.3597
+Lambs Corner, 36.3797, -76.2222
+Lamm, 35.7636, -78.0097
+Lamm Crossroads, 35.9094, -78.0667
+Lamms Crossroads, 35.6750, -78.0375
+Lancaster, 35.8581, -77.6933
+Lancaster Crossroads, 36.0625, -78.0831
+Landing, Lake, 35.4900, -76.0369
+Landis, 35.5456, -80.6111
+Lane, 35.1975, -78.7778
+Lane Landing, 35.2564, -77.2278
+Lanes Creek, 34.8667, -80.3833
+Lanes Store, 35.4833, -81.9667
+Lanesboro, 35.0000, -80.2500
+Langley Crossroads, 35.9047, -77.9047
+Langley Store, 35.9667, -77.8000
+Langston, 35.4153, -77.9389
+Lansdowne, 35.1667, -80.8000
+Lansing, 36.4992, -81.5111
+Lanvale, 34.2036, -78.0572
+Lasker, 36.3500, -77.3058
+Lassiter, 35.9100, -78.4247
+Lassiter Crossroads, 36.3714, -77.3047
+Last Chance, 35.4522, -76.0758
+Latham, 35.6033, -77.1344
+Latham Park, 36.0903, -79.8014
+Latham Town, 36.0508, -79.8447
+Lattimore, 35.3181, -81.6608
+Lauada, 35.3728, -83.5042
+Laurel, 35.8000, -82.6833
+Laurel Creek, 36.2500, -81.8333
+Laurel Hill(Buncombe), 35.5333, -82.6833
+Laurel Hill(Lincoln), 35.5544, -81.5031
+Laurel Hill(Scotland), 34.8089, -79.5481
+Laurel Hills, 35.8333, -78.6667
+Laurel Park(Watauga), 36.1244, -81.6811
+Laurel Park(Henderson), 35.3119, -82.5117
+Laurel Rock Acres, 35.2842, -82.4803
+Laurel Springs, 36.4114, -81.2631
+Laurinburg, 34.7739, -79.4631
+Laurinburg West, 34.7667, -79.4833
+Lawndale, 35.4139, -81.5633
+Lawrence, 36.0142, -77.4992
+Laws, 36.2397, -79.1189
+Lawsons Mill, 35.1086, -77.6919
+Lawsonville(Rockingham), 36.3928, -79.5639
+Lawsonville(Stokes), 36.4889, -80.2328
+Laxon, 36.2353, -81.5464
+Laytown, 35.9000, -81.5167
+Leaksville, 36.5019, -79.7728
+Leaman, 35.4333, -79.5833
+Leander, 36.2864, -81.8589
+Leasburg, 36.3944, -79.1547
+Leatherman, 35.2853, -83.3783
+Lebanon, 36.1000, -78.9333
+Ledbetter, 34.9881, -79.7181
+Ledger, 35.9642, -82.1297
+Lee's Mill, 35.3244, -78.4144
+Leechville, 35.5706, -76.5031
+Lees, 34.2167, -78.6667
+Lees Landing, 35.1069, -76.9336
+Lees Mills, 35.8667, -76.6167
+Leesville, 35.9069, -78.7264
+Legerwood, 36.0142, -81.5200
+Leggett, 35.9908, -77.5833
+Leggett Crossroads, 34.4414, -79.0875
+Leggetts Crossroads, 35.6811, -77.1606
+Leicester, 35.6550, -82.6964
+Leland, 34.2561, -78.0450
+Lemley, 35.4500, -80.9000
+Lemon Springs, 35.3894, -79.1947
+Lena, 34.9089, -78.7939
+Lennon Crossroads, 33.9969, -78.2353
+Lennons Cross Roads, 34.4733, -78.8725
+Lennoxville, 34.7167, -76.6500
+Lenoir, 35.9139, -81.5392
+Lenoir Rhyne, 35.7333, -81.3500
+Lenoxville, 34.7106, -76.6275
+Leon, 35.0289, -77.8203
+Lester, 35.2667, -77.5833
+Letitia, 35.0439, -84.1486
+Level Cross(Randolph), 35.8889, -79.8081
+Level Cross(Surry), 36.3444, -80.6289
+Levels, 35.9167, -76.2500
+Leware, 34.9333, -79.7667
+Lewis, 36.3758, -78.5950
+Lewis Crossroads, 36.3322, -77.7528
+Lewis Fork, 36.1500, -81.3333
+Lewis Landing, 34.4067, -77.6047
+Lewis Point, 35.9881, -76.0711
+Lewisburg, 35.9944, -82.3925
+Lewiston, 36.1228, -77.1769
+Lewisville, 36.0969, -80.4194
+Lewters Crossroad, 36.5039, -77.2567
+Lexington, 35.8239, -80.2536
+Lexington Memorial Hospital, 35.8036, -80.2886
+Liberia, 36.3564, -78.0967
+Liberty(Cherokee), 35.1231, -84.2942
+Liberty(Randolph), 35.8533, -79.5719
+Liberty(Rowan), 35.5811, -80.3358
+Liberty Hill, 35.2167, -80.0000
+Lickskillet(Warren), 36.2597, -78.1569
+Lickskillet(Macon), 35.0475, -83.2814
+Liddell, 35.1744, -77.8131
+Liledown, 35.8983, -81.2183
+Lilesville, 34.9675, -79.9847
+Lillington, 35.3992, -78.8161
+Lilly, 36.4853, -76.3031
+Lima, 35.1972, -77.1358
+Linberry, 35.8503, -79.7047
+Lincoln County Hospital, 35.4708, -81.2361
+Lincoln Heights, 34.7819, -79.4469
+Lincoln Park(Yancey), 35.9261, -82.2972
+Lincoln Park(Moore), 35.0864, -79.4722
+Lincolnton, 35.4736, -81.2547
+Lindell, 35.5492, -77.8128
+Linden, 35.2547, -78.7475
+Lindley Park, 36.0689, -79.8325
+Lineberry, 35.9167, -79.7167
+Linville, 36.0664, -81.8706
+Linville Falls, 35.9592, -81.9431
+Linwood, 35.7506, -80.3181
+Lisbon, 34.5169, -78.5272
+Listening Rock, 36.5569, -81.6400
+Listers Corner, 36.1414, -76.1717
+Litaker, 35.5833, -80.5000
+Little Coharie, 34.9667, -78.5167
+Little Creek, 35.9153, -82.5553
+Little Easonburg, 35.9658, -77.8714
+Little Horse Creek, 36.5000, -81.5000
+Little Kelly, 34.4642, -77.9522
+Little Kinnakeet, 35.4064, -75.4919
+Little Mountain, 35.7167, -81.9333
+Little Pinecreek, 35.8000, -82.6833
+Little Port, 34.8819, -76.3358
+Little Prong, 34.1039, -78.5086
+Little Richmond, 36.2947, -80.7578
+Little Richwood, 35.8667, -76.7500
+Little River(Alexander), 35.8892, -81.3064
+Little River(Transylvania), 35.2386, -82.6292
+Little River(Moore), 35.2167, -79.1667
+Little Rock Creek, 36.0833, -82.1000
+Little Switzerland, 35.8492, -82.0906
+Littlefield, 35.4342, -77.4219
+Littles Mill, 35.1525, -79.9181
+Littles Quarters, 34.8225, -80.1994
+Littleton, 36.4344, -77.9122
+Livingston Quarters, 34.7936, -79.5614
+Lizard Lick, 35.8164, -78.3753
+Lizzie, 35.5064, -77.6172
+Lizzie Cotton Mills, 35.5333, -78.2833
+Lloyd Crossroads, 36.2794, -76.7256
+Loafers Glory, 36.0131, -82.1875
+Lobelia, 35.2131, -79.2039
+Lock Landing, 34.5436, -78.4372
+Locke, 35.6500, -80.5500
+Lockwoods Folly, 33.9833, -78.3000
+Locust, 35.2597, -80.4256
+Locust Grove, 36.0000, -82.2333
+Locust Hill, 36.3625, -79.4464
+Loebs Landing, 34.3789, -78.2281
+Loftins Crossroads, 35.1997, -77.5617
+Log Landing(Jones), 35.0539, -77.3225
+Log Landing(Tyrrell), 35.9506, -76.1233
+Logan, 35.4272, -81.8994
+Logan Store, 35.4333, -81.8500
+Lola, 34.9578, -76.2797
+Lomax, 36.2933, -81.0011
+Lone Hickory, 36.0578, -80.7172
+Long Acre, 35.5500, -76.9333
+Long Acres, 34.7500, -77.4333
+Long Beach, 33.9167, -78.1167
+Long Bluff Landing, 34.4233, -78.1375
+Long Creek, 34.4419, -78.0100
+Long Hill, 36.4167, -80.5500
+Long Hospital, 36.0758, -79.7897
+Long Island, 35.6778, -80.9936
+Long Pine, 34.8239, -80.2258
+Long Ridge, 35.8089, -82.5439
+Long Shoals, 35.4147, -81.2406
+Long View, 34.4750, -78.2025
+Longhurst, 36.4250, -78.9672
+Longs Store, 36.4139, -79.0783
+Longtown(Burke), 35.7689, -81.9022
+Longtown(Yadkin), 36.1475, -80.7706
+Longview, 35.7292, -81.3836
+Longwood, 34.0033, -78.5425
+Longwood Park, 34.9167, -79.6833
+Loray, 35.8167, -80.9683
+Lost Cove, 36.0708, -82.4025
+Louisburg, 36.0989, -78.3014
+Love Field, 35.3578, -83.2017
+Love Valley, 35.9897, -80.9883
+Lovejoy, 35.4225, -79.9197
+Lovelace, 36.1000, -81.0333
+Lovill, 36.2347, -81.7336
+Low Gap, 35.8719, -82.2981
+Lowe, 34.6489, -79.1019
+Lowell, 35.2678, -81.1031
+Lowell Mill, 35.5664, -78.1611
+Lower Buck Landing, 34.4839, -78.9539
+Lower Contoe, 35.8333, -77.4667
+Lower Fishing Creek, 36.0000, -77.5833
+Lower Fork, 35.6167, -81.5667
+Lower Hominy, 35.5500, -82.6333
+Lower R, 35.7833, -77.6833
+Lowes Grove, 35.9033, -78.8892
+Lowesville, 35.4169, -81.0114
+Lowgap, 36.5256, -80.8675
+Lowland, 35.2989, -76.5647
+Lowrance Hospital, 35.5803, -80.8044
+Lowrys, 34.8686, -80.1783
+Luart, 35.4150, -78.8875
+Lucama, 35.6453, -78.0100
+Lucia, 35.3847, -81.0108
+Luck, 35.7358, -82.8664
+Lukens, 34.9706, -76.5744
+Lumber Bridge, 34.8883, -79.0725
+Lumber Mill, 36.3089, -76.2550
+Lumberton, 34.6181, -79.0089
+Lumptown, 35.8925, -82.7256
+Lunday, 35.9542, -82.1953
+Luther, 35.5358, -82.7369
+Lyman, 34.8578, -77.7475
+Lynch Beach, 35.1600, -76.6867
+Lynchs Corner, 36.4228, -76.4214
+Lynn, 35.2283, -82.2347
+Lynn Crossroads, 35.9258, -78.7617
+Lyon, 36.1167, -78.6833
+Lyon Landing, 34.3858, -78.1275
+Lyons, 36.1472, -78.7250

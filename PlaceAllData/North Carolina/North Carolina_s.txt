@@ -1,0 +1,572 @@
+Saconon, 35.3403, -82.3508
+Saddle, 36.5500, -81.0000
+Saddletree, 34.7175, -79.0331
+Sadler, 36.4086, -79.6172
+Salem(Nash), 36.1144, -77.8617
+Salem(Forsyth), 36.0836, -80.2467
+Salem(Lincoln), 35.4339, -81.1956
+Salem(Burke), 35.6986, -81.6972
+Salem(Randolph), 35.8389, -79.7894
+Salem(Surry), 36.5381, -80.6014
+Salem(Pasquotank), 36.1994, -76.1303
+Salem Chapel, 36.2000, -80.2000
+Salemburg, 35.0153, -78.5033
+Sales Ford, 35.1275, -83.9839
+Salisbury, 35.6708, -80.4744
+Salter Path, 34.6883, -76.8864
+Saluda, 35.2361, -82.3494
+Salvo, 35.5400, -75.4733
+Samarcand, 35.2994, -79.6847
+Samaria, 35.8597, -78.1786
+Sand Hill, 35.5525, -82.6308
+Sand Hill Landing, 33.9669, -78.2519
+Sandford Landing, 34.5131, -77.3894
+Sandhill, 35.1000, -77.0833
+Sands, 36.2508, -81.6483
+Sandy Bluff Landing, 34.5128, -78.2531
+Sandy Bottom(Madison), 35.8633, -82.7689
+Sandy Bottom(Lenoir), 35.2058, -77.7011
+Sandy Bottoms, 34.7803, -79.5117
+Sandy Cross(Nash), 35.8986, -77.9464
+Sandy Cross(Rockingham), 36.3533, -79.7458
+Sandy Grove(Davidson), 35.7900, -80.2161
+Sandy Grove(Hoke), 34.9478, -79.0994
+Sandy Hill, 33.9692, -78.2292
+Sandy Landing, 35.4861, -76.6886
+Sandy Mush, 35.2892, -81.8447
+Sandy Plain(Columbus), 34.0911, -78.7750
+Sandy Plain(Wake), 36.0619, -78.6967
+Sandy Plain(Duplin), 35.0500, -77.7500
+Sandy Plains(Cleveland), 35.2686, -81.3675
+Sandy Plains(Polk), 35.2439, -82.0897
+Sandy Ridge(Guilford), 36.0758, -79.9956
+Sandy Ridge(Stokes), 36.4989, -80.1044
+Sandy Run, 35.3167, -81.6500
+Sandycross, 36.3686, -76.5539
+Sandymush, 35.6725, -82.8114
+Sanford, 35.4797, -79.1806
+Sans Souci, 35.9164, -76.8189
+Santeetlah, 35.3561, -83.8383
+Sapphire, 35.1069, -83.0031
+Saratoga, 35.6536, -77.7758
+Sarecta, 34.9789, -77.8578
+Sarecta Junction, 34.9667, -77.9667
+Sarem, 36.4833, -76.7919
+Sassafras Fork, 36.4833, -78.5667
+Sassers Mill, 35.2167, -77.4333
+Satterwhite, 36.3000, -78.5833
+Saulston, 35.4400, -77.8981
+Saunders, 34.9903, -79.2400
+Saunook, 35.4517, -83.0447
+Sauratown, 36.3000, -80.1333
+Savage, 36.4850, -76.5911
+Savages Crossroads, 36.5019, -76.8111
+Savannah, 35.3092, -83.2597
+Saw, 35.5500, -80.6000
+Saw Mills, 35.8247, -81.4747
+Saxapahaw, 35.9472, -79.3222
+Saxsony, 35.4667, -81.2500
+Sayles Village, 35.5722, -82.5158
+Scalesville, 36.2361, -79.8447
+Scaly Mountain, 35.0117, -83.3164
+Schley, 36.1525, -79.0617
+Scholl, 34.9000, -79.7000
+Schoolhouse Landing, 35.4094, -76.5994
+Scotch Grove, 34.7667, -79.4667
+Scotch Irish, 35.8000, -80.6333
+Scotia, 35.8594, -76.2175
+Scotland Neck, 36.1294, -77.4206
+Scott Creek, 35.4167, -83.1167
+Scott Landing, 35.0492, -77.1864
+Scott Park, 36.0772, -79.7653
+Scotts(Wilson), 35.6814, -78.0167
+Scotts(Iredell), 35.8428, -81.0094
+Scotts Hill, 34.3211, -77.7661
+Scotts Store, 35.1000, -77.0833
+Scottville, 36.4803, -81.3078
+Scranton, 35.4969, -76.4517
+Scuffleton, 35.4667, -77.4167
+Scuppernong, 35.9019, -76.4522
+Sea Breeze, 34.0631, -77.8917
+Seaboard, 36.4900, -77.4417
+Seaforth, 35.7400, -79.0317
+Seagate, 34.2092, -77.8439
+Seagrove, 35.5403, -79.7733
+Sealevel, 34.8622, -76.3881
+Sears Landing, 34.4319, -77.5581
+Seaside, 33.8894, -78.4856
+Secession, 33.9328, -78.2953
+Sedalia, 36.0672, -79.6208
+Sedge-Town, 36.0306, -79.8683
+Sedgefield(Mecklenburg), 35.1833, -80.8500
+Sedgefield(Guilford), 36.0147, -79.8972
+Sedgefield Lakes, 36.0500, -79.8667
+Sedgefield Park, 36.0500, -79.8667
+Sedges Garden, 36.1333, -80.2333
+Seeshore, 35.1528, -82.7036
+Sega Lake, 35.2189, -82.7631
+Selica, 35.2000, -82.7783
+Selma, 35.5364, -78.2847
+Selma Cotton Mills, 35.5333, -78.2833
+Selwin, 36.3347, -76.5872
+Seminole, 35.4400, -79.0369
+Semora, 36.4983, -79.1492
+Senia, 36.0833, -81.9333
+Senter, 35.3556, -78.7939
+Sessex, 36.5617, -81.4192
+Setzer Gap, 35.9000, -81.5167
+Seven Bridges, 34.7333, -79.3500
+Seven Creeks, 34.0819, -78.6303
+Seven Lakes, 35.2783, -79.5647
+Seven Paths, 35.9975, -78.1839
+Seven Springs, 35.2272, -77.8472
+Severn, 36.5150, -77.1900
+Sevier, 35.8025, -82.0169
+Seward, 36.1864, -80.3694
+Sexton, 35.7975, -82.6144
+Seymour Johnson AFB, 35.3667, -77.9667
+Shacktown, 36.1167, -80.5939
+Shadberry Landing, 35.9592, -76.4794
+Shady Banks, 35.4947, -76.9897
+Shady Brook, 35.5167, -80.6333
+Shady Forest, 33.9000, -78.4500
+Shady Grove(Jones), 35.1400, -77.5072
+Shady Grove(Davie), 35.9500, -80.4333
+Shaken, 34.6178, -77.7594
+Shale Brick, 35.8833, -80.0833
+Shaleton, 34.9833, -80.5500
+Shaleville, 35.9089, -82.8522
+Shallotte, 33.9731, -78.3861
+Shallotte Point, 33.9000, -78.4500
+Shallow Ford, 35.2964, -83.4958
+Shallowell, 35.4667, -79.1667
+Shanghai, 34.7650, -78.2078
+Shankle, 35.2333, -80.1167
+Shankletown, 35.4167, -80.6000
+Shannon, 34.8478, -79.1372
+Sharon(Camden), 36.4956, -76.3100
+Sharon(Iredell), 35.7753, -81.0672
+Sharon(Mecklenburg), 35.1500, -80.8167
+Sharonbrook, 35.1161, -80.8769
+Sharp Point, 35.6667, -77.6333
+Sharpes, 35.9000, -81.0833
+Sharpesburg, 35.9167, -80.9667
+Sharpsburg, 35.8669, -77.8294
+Shatley Springs, 36.4761, -81.4028
+Shaw Heights, 35.0833, -78.9500
+Shaw Landing, 36.3181, -76.8722
+Shawboro, 36.4053, -76.0944
+Shawneehaw, 36.1833, -81.8167
+Shaws, 35.1142, -78.9308
+Shawtown, 35.3842, -78.8308
+Sheffield, 35.9661, -80.6803
+Sheffields, 35.4667, -79.6333
+Shelby, 35.2922, -81.5358
+Shell Landing, 35.3856, -76.8261
+Shell Rock Landing, 34.6533, -77.1644
+Shelmerdine, 35.4478, -77.2622
+Shelter Neck, 34.6200, -77.8428
+Shelton, 36.5356, -79.4583
+Shelton Laurel, 35.6808, -83.0078
+Shelton Store, 36.5111, -80.1428
+Sheltontown, 36.4933, -80.5564
+Shepard, 35.9667, -78.9167
+Shepherds, 35.6353, -80.8278
+Sherrills Ford, 35.6203, -80.9867
+Sherwood, 36.2697, -81.7767
+Sherwood Forest(Buncombe), 35.5936, -82.4311
+Sherwood Forest(Transylvania), 35.1442, -82.6875
+Sherwood Terrace, 35.1461, -82.6744
+Sherwood Village, 35.9428, -79.9861
+Shields Commissary, 36.1333, -77.4167
+Shiloh(Rockingham), 36.4475, -79.8644
+Shiloh(Rutherford), 35.2997, -81.9411
+Shiloh(Buncombe), 35.5511, -82.5328
+Shiloh(Camden), 36.2731, -76.0856
+Shiloh Mills, 35.9078, -77.4931
+Shine, 35.4403, -77.7922
+Shines Crossroads, 35.4500, -77.6667
+Shingle Hollow, 35.4708, -82.0739
+Shingleford Crossing, 34.6183, -78.8014
+Shinnville, 35.6586, -80.8033
+Shoal, 36.3333, -80.4333
+Shoal Creek(Cherokee), 35.1000, -84.2333
+Shoal Creek(jackson), 35.4333, -83.3667
+Shoals, 36.2739, -80.5114
+Shoates, 34.8653, -80.1408
+Shocco, 36.3167, -78.1667
+Shoe, 36.2667, -81.3167
+Shoeheel Cemetery, 35.6275, -78.2106
+Sholars Crossroads, 34.7619, -77.8011
+Shoofly, 36.2225, -78.7294
+Shookville, 35.1461, -83.2228
+Shooting Creek, 35.0256, -83.6669
+Shopton, 35.1714, -80.9617
+Short Off, 35.0500, -83.2000
+Shotwell, 35.7369, -78.4450
+Shoups Ford, 35.5917, -81.5600
+Shuffletown, 35.3206, -80.9528
+Shuford, 35.7333, -81.3500
+Shulls Mills, 36.1736, -81.7439
+Shumont, 35.4708, -82.2589
+Shupings Mill, 35.5514, -80.4817
+Sidestown, 35.4167, -80.6000
+Sidney(Beaufort), 35.5333, -76.6167
+Sidney(Columbus), 34.1869, -78.7894
+Sidney Crossroads, 35.4808, -76.6758
+Sign Pine, 36.3089, -76.6244
+Sikes Landing, 34.6083, -78.3067
+Siler City, 35.7233, -79.4625
+Silk Hope, 35.7808, -79.3703
+Siloam, 36.2858, -80.5628
+Silver Bluff, 35.4761, -82.8800
+Silver City, 34.9958, -79.2264
+Silver Creek, 35.6833, -81.8000
+Silver Hill(Davidson), 35.7103, -80.2067
+Silver Hill(Scotland), 34.8894, -79.4839
+Silver Hill(Pamlico), 35.1689, -76.8456
+Silver Springs(Moore), 35.0961, -79.4714
+Silver Springs(Gates), 36.4175, -76.6722
+Silver Valley, 35.7325, -80.1033
+Silverdale, 34.7686, -77.1822
+Silverstone, 36.2881, -81.7519
+Simmons Bay, 34.1339, -78.6278
+Simmons Corner, 35.0914, -77.2175
+Simmons Landing, 35.8875, -76.3306
+Simpson, 35.5833, -77.2833
+Simpsonville, 36.3167, -79.7167
+Sims, 35.7608, -78.0592
+Sioux, 36.0206, -82.3608
+Sivey Town, 33.9672, -78.3067
+Six Forks(Pender), 34.5919, -77.8867
+Six Forks(Wake), 35.9008, -78.6525
+Six Forks Crossroads, 35.8614, -78.4828
+Sixpound, 36.4833, -78.0500
+Skibo, 35.0592, -78.9706
+Skinnersville, 35.9394, -76.5375
+Sky Village, 35.3169, -82.5108
+Skyco, 35.9000, -75.6667
+Skycrest Village, 35.8000, -78.6333
+Skyland, 35.4892, -82.5244
+Skyline, 35.2500, -79.2833
+Skyway Terrace, 34.7333, -79.3500
+Sladesville, 35.4636, -76.4897
+Slatestone, 35.5725, -76.9225
+Slickrock Ford, 35.1992, -83.5250
+Sligo, 36.4517, -76.0775
+Sloan, 34.7781, -77.8294
+Slocomb, 35.1772, -78.8239
+Slocum, 35.4558, -76.0894
+Slocum Village, 34.8833, -76.9000
+Slow Creek, 35.1667, -83.9167
+Small, 35.2800, -76.8536
+Small Cross Roads, 36.0667, -76.6000
+Smethport, 36.4264, -81.5019
+Smith, 35.0000, -77.8000
+Smith Creek, 36.4833, -78.2167
+Smith Crossing, 34.3219, -78.6489
+Smith Grove, 35.9639, -80.5031
+Smithfield, 35.5083, -78.3397
+Smiths, 34.6528, -78.8678
+Smiths Bridge, 35.0667, -83.3833
+Smiths Corner, 36.3011, -76.0653
+Smiths Crossroads, 34.6942, -78.3744
+Smithtown(Beaufort), 35.5214, -76.6642
+Smithtown(Yadkin), 36.2358, -80.5778
+Smithville(Brunswick), 33.9667, -78.1667
+Smithville(Mecklenburg), 35.4842, -80.8708
+Smithwick, 35.7264, -77.0367
+Smoky Creek, 35.8000, -81.6167
+Smyre, 35.2761, -81.1261
+Smyrna, 34.7592, -76.5278
+Snake Bite, 36.0833, -77.0667
+Sneads Ferry, 34.5525, -77.3975
+Sneads Grove, 34.7667, -79.4667
+Snow Camp, 35.8933, -79.4303
+Snow Hill(Warren), 36.4161, -78.1886
+Snow Hill(Greene), 35.4514, -77.6814
+Snow Hill(Perquimans), 36.2703, -76.5700
+Snow Hill(Sampson), 34.9606, -78.4550
+Snow Hill(Stokes), 36.4853, -80.1969
+Snowden, 36.4567, -76.1089
+Snowhill, 34.1036, -78.7539
+Soapstone Mountain, 35.8000, -79.5500
+Social Plains, 35.8481, -78.2478
+Soda Hill, 36.2761, -81.6378
+Sodom, 35.8000, -82.6833
+Sodyeco, 35.2969, -80.9983
+Solo, 36.2819, -81.6178
+Solola Valley, 35.4969, -83.5008
+Somers, 36.1000, -80.9167
+Somers Crossroads, 36.0833, -80.8967
+Somerset, 36.0603, -76.4619
+Somerset Hills, 35.8000, -78.6333
+Sophia, 35.8231, -79.8611
+Soul City, 36.4083, -78.2706
+Sound Landing, 36.0694, -75.7394
+Sound Side, 35.9517, -75.6319
+Soundside, 35.9650, -76.2403
+South Albemarle, 35.3167, -80.1833
+South Belmont, 35.2303, -81.0428
+South Clinton, 34.9500, -78.3167
+South Creek, 35.3356, -76.6947
+South Fork, 36.0897, -80.3186
+South Gastonia, 35.2192, -81.2058
+South Goldsboro, 35.3575, -78.0061
+South Greensboro, 36.0500, -79.8167
+South Henderson, 36.3081, -78.4069
+South Hominy, 35.4919, -82.7383
+South Lexington, 35.8167, -80.2500
+South Lincolnton, 35.4542, -81.2439
+South Lowell, 36.1667, -78.8833
+South Lumberton, 34.6000, -79.0167
+South Mills, 36.4456, -76.3278
+South Newton, 35.6667, -81.2167
+South Point, 35.2167, -81.1000
+South River(Sampson), 34.7667, -78.3500
+South River(Carteret), 34.9586, -76.5972
+South Rocky Mount, 35.9244, -77.7969
+South Salisbury, 35.6436, -80.4628
+South Side, 36.0719, -80.2397
+South Toe, 35.8167, -82.1833
+South Tunis, 36.3636, -76.9011
+South Wadesboro, 34.9561, -80.0775
+South Weldon, 36.4158, -77.6033
+South Westfield, 36.4500, -80.5000
+South Whitakers, 36.0333, -77.8000
+South Whiteville, 34.3053, -78.7156
+South Williams, 34.1333, -78.8167
+South Wilmington, 34.2167, -77.9167
+South Wilson, 35.7333, -77.9167
+Southern Pines, 35.1739, -79.3925
+Southmont, 35.6678, -80.2672
+Southport, 33.9214, -78.0206
+Southshore Landing, 35.9194, -76.0497
+Southside, 35.4367, -81.2461
+Southwest, 35.2000, -77.5333
+Southwood, 35.2086, -77.5675
+Sparkleberry Landing, 34.4778, -78.2067
+Sparta, 36.5053, -81.1211
+Spear, 36.0222, -82.0239
+Speed, 35.9678, -77.4456
+Speedwell, 35.3167, -83.1833
+Speights Bridge, 35.5589, -77.7356
+Spellers Ferry Landing, 35.9147, -77.0253
+Spencer, 35.6922, -80.4350
+Spencer Mountain, 35.3061, -81.1108
+Spences Corner, 36.3508, -76.1961
+Spero, 35.7000, -79.8167
+Spies, 35.4217, -79.6689
+Spillcorn, 35.9544, -82.6503
+Spilona, 35.4883, -78.4722
+Spindale, 35.3600, -81.9294
+Spiveys Corner, 35.3167, -78.6167
+Spokane, 35.5333, -79.7667
+Spot, 36.1181, -75.8194
+Spout Springs, 35.2694, -79.0600
+Spray, 36.5161, -79.7608
+Spring Creek(Beaufort), 35.3242, -76.6564
+Spring Creek(Madison), 35.7986, -82.8544
+Spring Garden, 35.2042, -77.1558
+Spring Garden Landing, 35.2189, -77.1486
+Spring Hill(Haywood), 35.4869, -82.8500
+Spring Hill(Scotland), 34.8828, -79.3828
+Spring Hill(Brunswick), 34.1942, -78.0694
+Spring Hill(Halifax), 36.2069, -77.4336
+Spring Hope(Craven), 35.1950, -76.9797
+Spring Hope(Nash), 35.9450, -78.1122
+Spring Lake, 35.1678, -78.9731
+Spring Valley, 36.0500, -79.8167
+Springdale, 35.2889, -81.1450
+Springfield(Guilford), 35.9328, -79.9875
+Springfield(Scotland), 34.7828, -79.5331
+Springfield(Wilkes), 36.2500, -81.1167
+Springfield Mills, 34.8167, -79.5333
+Springwood, 35.2725, -81.0631
+Spruce Pine, 35.9153, -82.0647
+Spurgeon, 36.1667, -81.1333
+St Helena, 34.5164, -77.9158
+St John, 36.3061, -77.0867
+St Johns(Hertford), 36.3000, -77.1167
+St Johns(Chowan), 36.0306, -76.5269
+St Joseph Hospital, 35.5808, -82.5494
+St Josephs Hospital(Moore), 35.1997, -79.3886
+St Josephs Hospital(Buncombe), 35.5808, -82.5494
+St Leos Hospital, 36.0842, -79.7778
+St Lewis, 35.7814, -77.7033
+St Marys, 35.7000, -78.6000
+St Matthews, 35.8000, -78.5333
+St Pauls, 34.8064, -78.9714
+Stacey, 36.4281, -79.5817
+Stackhouse, 35.8814, -82.7700
+Stacy, 34.8497, -76.4161
+Stag Park, 34.5242, -77.8450
+Staley, 35.7958, -79.5517
+Stallings, 35.0906, -80.6864
+Stallings Crossroads(Beaufort), 35.6592, -77.0297
+Stallings Crossroads(Franklin), 36.0939, -78.1656
+Stamey Branch, 36.0833, -81.9333
+Stamey Town, 36.0047, -81.9467
+Stancell, 36.5436, -77.7403
+Stancils Chapel, 35.6811, -78.2100
+Standard, 35.5483, -77.5019
+Stanfield, 35.2333, -80.4272
+Stanhope, 35.8656, -78.0814
+Stanley, 35.3589, -81.0972
+Stanleys Store, 35.9000, -80.5667
+Stanleyville, 36.2022, -80.2811
+Stanly County Hospital, 35.3636, -80.1967
+Stanton, 36.2000, -81.3333
+Stantonsburg, 35.6067, -77.8236
+Star, 35.4019, -79.7844
+Starlight, 35.2664, -78.2586
+Starling, 34.7078, -77.2319
+Starmount(Wake), 35.8000, -78.6333
+Starmount(Mecklenburg), 35.1667, -80.8500
+Starmount Forest, 36.0794, -79.8444
+Startown, 35.6450, -81.2694
+State Road, 36.3258, -80.8678
+State University, 35.8000, -78.6833
+Statesville, 35.7825, -80.8875
+Station, 35.6886, -77.3550
+Stave Landing, 35.4178, -76.4972
+Stearns, 35.2725, -82.2164
+Stecoah, 35.3697, -83.6906
+Stedman, 35.0133, -78.6942
+Steeds, 35.4708, -79.7778
+Steel Creek, 35.1333, -80.9500
+Steele, 35.6833, -80.6333
+Steele Landing, 36.1094, -76.7367
+Steeles, 35.1333, -79.9167
+Steen Town, 34.8711, -79.6533
+Steep Pines Fork, 34.7242, -76.6483
+Stella, 34.7742, -77.1508
+Stem, 36.1997, -78.7225
+Stephens Crossroads, 36.4775, -79.6114
+Sterling, 35.1081, -80.8867
+Sterlings, 34.4000, -79.0500
+Sternberger Hospital, 36.0817, -79.7794
+Stevens Mill, 35.3447, -78.1169
+Stewart Crossroads, 34.4728, -79.2575
+Stewarts Mill, 36.0419, -79.6658
+Stewartsville, 34.7500, -79.4500
+Stiles, 35.2803, -83.4850
+Still Bluff, 34.4317, -78.1464
+Still Landing, 34.6025, -78.3031
+Stilley, 35.3386, -76.9258
+Stilleys Crossroads, 35.7178, -78.1969
+Stocksville, 35.7475, -82.5483
+Stokes, 35.7164, -77.2650
+Stokesdale, 36.2369, -79.9797
+Stokestown, 35.4667, -77.4167
+Stonehaven, 35.1667, -80.8000
+Stones Landing, 34.6075, -77.4436
+Stoneville, 36.4664, -79.9072
+Stonewall, 35.1372, -76.7481
+Stonewall Jackson Homes, 35.2333, -80.8833
+Stoney Knob, 35.6800, -82.5728
+Stoney Mountain Rest Home, 35.3522, -82.4969
+Stony Creek, 36.2586, -79.4203
+Stony Fork(Watauga), 36.2333, -81.5167
+Stony Fork(Buncombe), 35.4628, -82.7364
+Stony Hill, 35.9814, -78.6122
+Stony Knoll, 36.3114, -80.6739
+Stony Point(Alexander), 35.8633, -81.0475
+Stony Point(Cleveland), 35.3050, -81.4328
+Storys Crossroads(Gates), 36.4350, -76.8892
+Stotts Crossroads(Wilson), 35.7406, -78.0631
+Stouts, 35.0553, -80.6397
+Stovall, 36.4481, -78.5706
+Stowe, 35.2500, -81.0333
+Strabane, 35.1950, -77.7750
+Straits, 34.7289, -76.5714
+Stratford, 36.5183, -81.2161
+Strawberry Hill Landing, 34.3375, -78.0647
+Strawberry Ridge, 35.8433, -82.1114
+Strawhorn Landing, 34.5194, -78.2647
+Strickland Crossroads(Johnston), 35.3675, -78.3675
+Strickland Crossroads(Nash), 35.8553, -78.0128
+Stterwhite, 36.3864, -78.6867
+Stubbs, 35.3269, -81.4714
+Stump Sound, 34.5833, -77.4833
+Stumptown, 35.6900, -81.9847
+Stumpy Point, 35.6983, -75.7408
+Sturdivants Crossroads, 34.9058, -80.3283
+Sturgills, 36.5553, -81.4986
+Suburb, 34.0058, -78.1489
+Sugar Fork, 35.1333, -83.2500
+Sugar Grove, 36.2578, -81.7883
+Sugar Hill(Scotland), 34.7575, -79.4592
+Sugar Hill(McDowell), 35.5844, -82.0425
+Sugar Loaf, 36.0000, -81.1667
+Sugar Town, 35.0556, -80.1825
+Suggs Landing, 35.8164, -77.5519
+Suit, 35.0833, -84.0333
+Sulphur Springs(Buncombe), 35.5703, -82.6225
+Sulphur Springs(Rutherford), 35.2500, -81.9167
+Sulphur Springs(Surry), 36.5397, -80.5747
+Summerfield, 36.2086, -79.9050
+Summerhaven, 35.6381, -82.3917
+Summerlin Crossroads, 35.0842, -77.9578
+Summit(Wilkes), 36.1833, -81.2833
+Summit(Guilford), 36.1000, -79.7667
+Summit(Halifax), 36.4333, -77.9167
+Summit Hill Landing, 35.5911, -77.2756
+Sumner, 35.9833, -79.8333
+Sunburst, 35.4106, -82.9322
+Sunbury, 36.4408, -76.6119
+Sundays Landing, 34.3533, -79.0256
+Sunny Point(Brunswick), 34.6500, -77.9667
+Sunny Point(Cherokee), 35.0336, -84.2086
+Sunny Side(Dare), 35.9225, -75.7122
+Sunny Side(Halifax), 36.4333, -77.9167
+Sunny View, 35.3742, -82.1881
+Sunnyside(Forsyth), 36.0692, -80.2208
+Sunnyside(Burke), 35.6933, -81.6575
+Sunnyside(Gaston), 35.3178, -81.3089
+Sunnyvale, 35.7394, -82.1456
+Sunrise, 35.3667, -77.9667
+Sunrise Beach, 35.7625, -81.0975
+Sunset Beach, 33.8667, -78.5000
+Sunset Harbor, 34.0667, -78.1500
+Sunset Hills(Catawba), 35.7333, -81.3500
+Sunset Hills(Guilford), 36.0739, -79.8231
+Sunset Hills(Rockingham), 36.4972, -79.8117
+Sunset Park, 35.5833, -82.8500
+Sunshine, 35.4489, -81.8106
+Supply, 34.0175, -78.2678
+Surf City, 34.4269, -77.5464
+Surl, 36.2833, -78.9500
+Sussex, 36.5667, -81.3833
+Sutherland, 36.3942, -81.6919
+Sutphin, 35.8892, -79.3469
+Suttentown, 35.2067, -78.2569
+Sutton(Duplin), 34.8561, -77.9617
+Sutton(Franklin), 35.9275, -78.2614
+Sutton Park, 34.9833, -80.5500
+Suttons Corner, 34.6447, -78.5928
+Suttontown(Sampson), 35.2033, -78.2408
+Suttontown(Haywood), 35.6056, -83.0461
+Swaimtown, 36.0297, -80.2756
+Swain, 35.8833, -76.6000
+Swainsville, 35.2939, -81.6517
+Swan Creek, 36.1783, -80.8692
+Swan Station, 35.3833, -79.1167
+Swann(Caswell), 36.4914, -79.4833
+Swann(Harnett), 35.3808, -79.1092
+Swannanoa, 35.5978, -82.4000
+Swannanoa Hills, 35.5928, -82.4717
+Swanquarter, 35.4061, -76.3294
+Swansboro, 34.6875, -77.1194
+Swayney, 35.4833, -83.3167
+Sweetgum, 35.2911, -83.7711
+Sweetwater(Watauga), 36.2925, -81.8200
+Sweetwater(Catawba), 35.7306, -81.2997
+Sweetwater(Clay), 35.0667, -83.8833
+Swepsonville, 36.0211, -79.3617
+Swift Creek, 36.0000, -77.7167
+Swindell, 35.6233, -76.6903
+Swindell Fork, 35.4419, -76.2797
+Swiss, 35.9142, -82.4500
+Sykes Landing, 34.3922, -78.0228
+Sylva, 35.3736, -83.2261

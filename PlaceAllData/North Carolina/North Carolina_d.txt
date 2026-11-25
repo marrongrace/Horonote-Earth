@@ -1,0 +1,174 @@
+Dabney, 36.3528, -78.4978
+Daddysville, 35.9075, -78.2219
+Dale, 36.0000, -82.2333
+Dallas, 35.3164, -81.1764
+Dalton, 36.3089, -80.4014
+Dan River, 36.4833, -79.3333
+Dan River Shores, 36.4325, -80.2772
+Dan Valley, 36.4083, -79.9417
+Dana, 35.3292, -82.3756
+Danbury, 36.4092, -80.2061
+Daniels, 35.5161, -81.3153
+Daniels-Rhyne, 35.4500, -81.2667
+Danieltown, 35.2931, -81.9100
+Darby, 36.1189, -81.5047
+Darden, 35.8203, -76.8158
+Darkridge, 36.1500, -81.9833
+Darlington, 36.3186, -77.7183
+Davenport Forks, 35.9194, -76.4364
+Davidson, 35.4992, -80.8489
+Davidson River, 35.2533, -82.6842
+Davidson River Recreational, 35.2869, -82.7344
+Davie Circle, 35.9186, -79.0378
+Davie County Hospital, 35.8989, -80.5717
+Davie Crossroads, 35.8319, -80.5350
+Davis, 34.7972, -76.4606
+Davis Hospital, 35.7822, -80.8994
+Davis Landing(Carteret), 34.7894, -76.4603
+Davis Landing(Hyde), 35.6614, -76.6017
+Davis Landing(Bladen), 34.5372, -78.2714
+Davistown(McDowell), 35.5617, -82.1522
+Davistown(Edgecombe), 35.8286, -77.6136
+Dawson, 35.3450, -77.6367
+Dawson Crossroads, 36.1636, -77.5242
+Dawsons Crossroads, 35.2667, -77.5833
+Day Book, 35.9792, -82.3000
+Days Crossroads, 36.3903, -77.6342
+De Hart Mill, 35.3917, -83.4875
+Dean, 35.2142, -83.3597
+Deans Mill, 35.2372, -83.4728
+Deans Store, 35.9667, -77.9667
+Deaver View, 35.5811, -82.6239
+Debruhls Landing, 35.0556, -77.1811
+Deep Creek, 34.8528, -80.1589
+Deep Gap, 36.2333, -81.5333
+Deep River, 36.0303, -79.9686
+Deep Run, 35.1453, -77.7042
+Deerfield, 36.2167, -81.6667
+DeGraffenried Park, 35.1072, -77.0628
+Dehart, 36.3000, -81.1353
+Delco, 34.3156, -78.2250
+Delight, 35.4681, -81.6333
+Delight Nixon Crossroads, 36.1325, -76.4939
+Dellaplane, 36.1831, -81.0292
+Dellview, 35.3886, -81.4100
+Dellwood, 35.5233, -83.0286
+Delmar, 36.2556, -77.6272
+Delta, 36.4744, -80.1014
+Delta Landing, 34.6494, -78.2583
+Delway, 34.8011, -78.2142
+Democrat, 35.7839, -82.4869
+Dendron, 35.6492, -82.2308
+Dennis, 36.2250, -80.1703
+Denny, 36.0833, -81.3667
+Denton, 35.6333, -80.1161
+Dentons, 35.2572, -83.9125
+Denver, 35.5311, -81.0300
+Deppe, 34.8483, -77.2828
+Derby, 35.1453, -79.6350
+Derita, 35.2936, -80.7978
+Devotion, 36.4325, -80.9181
+Deweese, 35.4667, -80.8333
+Dewey Pier, 35.9167, -76.2500
+Dexter, 36.3886, -78.5139
+Dick Taylor Landing, 34.4183, -78.0311
+Dickerson(Granville), 36.2647, -78.5519
+Dickerson(Craven), 35.1372, -77.0131
+Diggs, 34.8472, -79.8569
+Dildys Mill, 36.3236, -76.9092
+Dillard, 36.4022, -80.0939
+Dillingham, 35.7536, -82.4069
+Dillion Ridge, 35.9308, -76.1819
+Dillsboro, 35.3692, -83.2525
+Dillworth, 35.2167, -80.8500
+Dimmette, 36.2167, -80.9500
+Dinah Landing, 35.4797, -76.9322
+Dismal, 35.1000, -78.5833
+Ditch Landing(Craven), 35.2975, -77.2875
+Ditch Landing(Pender), 34.3844, -78.0053
+Dixie(Mecklenburg), 35.2044, -80.9614
+Dixie(Wilson), 35.6725, -77.9486
+Dixie Crossroads, 35.6908, -78.2192
+Dixon, 34.5858, -77.4803
+Dixon Landing(Brunswick), 33.9458, -78.2233
+Dixon Landing(Pitt), 35.5961, -77.2672
+Dixon Store, 36.4872, -78.8503
+Dobbersville, 35.2261, -78.2450
+Dobson, 36.3956, -80.7228
+Dockery, 36.3072, -81.0817
+Dodgetown, 36.4325, -80.1019
+Dodsons Crossroads, 35.9722, -79.1636
+Doe Creek, 34.0072, -78.3022
+Dogwood Acres(Orange), 35.8806, -79.0783
+Dogwood Acres(Randolph), 35.7000, -79.8167
+Dolinger, 36.5000, -81.5000
+Dollisons Landing, 34.3178, -78.0286
+Donnaha, 36.2275, -80.4331
+Doolie, 35.6019, -80.8975
+Dora, 35.4978, -81.4289
+Dorothea Dix State Hospital, 35.7689, -78.6556
+Dort, 36.5294, -76.8700
+Dortches, 36.0111, -77.8578
+Dosier, 36.1500, -80.3667
+Dothan, 34.0333, -78.7478
+Double Island, 35.9550, -82.2044
+Double Shoals, 35.3808, -81.5483
+Doughton, 36.3742, -80.9572
+Douglas Crossroads, 35.5286, -76.9497
+Dover(Cleveland), 35.2833, -81.5333
+Dover(Craven), 35.2161, -77.4372
+Dover(Moore), 35.4439, -79.7225
+Dover Mill, 35.3031, -81.5731
+Downtown(Mecklenburg), 35.2167, -80.8500
+Downtown(Rowan), 35.6500, -80.4833
+Dozier, 36.1917, -80.4064
+Draco, 35.9431, -81.3856
+Drake, 36.0381, -77.8178
+Drake Park, 35.0333, -78.9500
+Draper, 36.5178, -79.6936
+Draughn, 36.0778, -77.5606
+Dresden, 36.4581, -81.5458
+Drew, 36.0467, -77.0358
+Drewry, 36.4592, -78.3103
+Drexel, 35.7578, -81.6044
+Drivers Store, 35.6964, -77.8186
+Druid Hills, 35.3167, -82.4667
+Drum Hill, 36.5417, -76.7256
+Drums Crossroads, 35.6131, -81.1089
+Dry Creek, 35.3000, -79.7500
+Dry Wells, 35.7833, -78.2167
+Drysdale Hills, 35.3242, -82.6008
+Duan, 35.6150, -81.2128
+Duart, 34.7933, -78.8181
+Dublin, 34.6567, -78.7267
+Duck, 36.1694, -75.7556
+Duck Creek, 34.5956, -77.2825
+Ducktown, 35.2314, -82.7478
+Dudley, 35.2672, -78.0378
+Dudley Landing, 35.2750, -77.2514
+Dudley Shoals, 35.8636, -81.3767
+Duff Creek, 34.7844, -78.0528
+Duffies, 34.8669, -79.2550
+Duke(Durham), 36.0000, -78.9333
+Duke(Harnett), 35.3167, -78.6667
+Duke Hospital, 36.0033, -78.9361
+Dukes, 36.0597, -77.9783
+Dukes Crossroads, 35.4667, -76.8167
+Dula Springs, 35.7117, -82.5400
+Dulah, 34.0564, -78.6872
+Dunbars Landing, 35.8861, -76.2800
+Duncan, 35.5625, -78.8722
+Duncans Creek, 35.4500, -81.7167
+Dundarrach, 34.9292, -79.1553
+Dunn, 35.3061, -78.6092
+Dunn Crossroads, 35.7914, -77.9119
+Dunns Rock, 35.1742, -82.7442
+Dunns Store, 36.1333, -77.4167
+Dupree Crossroads, 35.6667, -77.6333
+Dupree Landing(Columbus), 34.2925, -78.5494
+Dupree Landing(Pitt), 35.7281, -77.5194
+Durant, 36.1375, -76.2978
+Durants Neck, 36.1500, -76.3167
+Durham, 35.9939, -78.8989
+Dutchville, 36.1333, -78.7333
+Dysartsville, 35.6003, -81.8692

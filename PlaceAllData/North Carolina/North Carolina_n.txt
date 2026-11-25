@@ -1,0 +1,143 @@
+Nags Head, 35.9572, -75.6244
+Nahunta, 35.5078, -78.0636
+Nakina, 34.1344, -78.6683
+Nantahala, 35.2881, -83.6667
+Naples, 35.3925, -82.5008
+Narrow Gap Landing, 34.3869, -78.2444
+Narrow Ridge, 35.1203, -79.5583
+Nash General Hospital, 35.9764, -77.8525
+Nashville, 35.9744, -77.9658
+Nathans Creek, 36.4489, -81.3889
+Nations Village, 35.1667, -80.8500
+Navassa, 34.2553, -78.0078
+Nebo, 35.7150, -81.9311
+Nebo, 36.2169, -80.6547
+Nebraska, 35.4575, -76.0636
+Needmore(Columbus), 34.1736, -78.7178
+Needmore(Franklin), 36.1222, -78.4142
+Needmore(Swain), 35.3267, -83.5231
+Needmore(Rowan), 35.8094, -80.6350
+Neills Creek, 35.4333, -78.7500
+Neils Eddy Landing, 34.3525, -78.1756
+Nella, 36.5692, -81.5475
+Nellie, 35.6264, -83.1125
+Nelms, 35.0514, -76.7053
+Nelson, 35.8822, -78.8503
+Nelson Landing, 35.3192, -77.4808
+Neuse, 35.8972, -78.5694
+Neuse Crossroads, 35.8933, -78.5600
+Neuse Forest, 35.1000, -77.0833
+Neuse River, 35.8500, -78.6500
+Neverson, 35.7667, -78.0667
+New Belden, 35.6183, -77.2950
+New Bern, 35.1083, -77.0444
+New Bern Junction, 34.2167, -77.9167
+New Bethel(Orange), 36.2167, -78.9333
+New Bethel(Rockingham), 36.3167, -79.9000
+New Bridge, 35.6167, -82.5500
+New Britton, 34.1000, -78.5333
+New Candler, 35.5453, -82.6789
+New Castle, 36.1833, -80.9167
+New Hanover Memorial Hospital, 34.2053, -77.9217
+New Haven, 36.5317, -81.1603
+New Hill, 35.6808, -78.9358
+New Holland, 35.4433, -76.1700
+New Home, 35.5167, -81.6167
+New Hope(Brunswick), 34.1086, -78.1669
+New Hope(Wake), 35.8394, -78.5808
+New Hope(Wilson), 35.7953, -77.9508
+New Hope(Orange), 36.0100, -79.0742
+New Hope(Franklin), 35.9686, -78.3358
+New Hope(Iredell), 36.0147, -80.9567
+New Hope(Randolph), 35.5547, -80.0156
+New Hope(Surry), 36.4197, -80.7119
+New Hope Academy, 35.6333, -80.1167
+New House, 35.3928, -81.6919
+New Lands, 35.8403, -76.2767
+New Leaksville, 36.5000, -79.7500
+New Life, 34.1306, -78.8411
+New Light, 36.0128, -78.5975
+New London, 35.4431, -80.2194
+New Market, 35.8292, -79.8658
+New Providence, 36.4131, -76.0939
+New River, 36.2333, -81.6500
+New River-Gieger, 34.7167, -77.4500
+New Salem(Union), 35.1308, -80.3694
+New Salem(Randolph), 35.8167, -79.8000
+New Town(Richmond), 34.8767, -79.6953
+New Town(Scotland), 34.8967, -79.3647
+Newbern Landing, 36.1603, -75.8631
+Newberry Landing, 35.9683, -76.4572
+Newbold, 35.0667, -78.8833
+Newby Landing, 36.1244, -76.3083
+Newdale, 35.9106, -82.1892
+Newell, 35.2794, -80.7358
+Newfound, 35.6042, -82.7319
+Newfoundland, 35.9483, -76.1300
+Newhope, 36.1558, -76.3175
+Newhope Proper, 36.1906, -76.3797
+Newland, 36.0872, -81.9275
+Newlife, 36.2500, -81.1167
+Newlin, 35.9167, -79.3333
+Newport, 34.7864, -76.8594
+Newsom, 35.5358, -80.1878
+Newton, 35.6697, -81.2217
+Newton Grove, 35.2569, -78.3525
+Newtons Crossroads, 34.6875, -78.1625
+Niagara, 35.2072, -79.3558
+Nicanor, 36.3328, -76.4789
+Nims, 35.3094, -81.0306
+Nixonton, 36.2006, -76.2731
+Nobles Crossing, 34.2847, -78.8383
+Nobles Crossroads, 35.1033, -77.6853
+Nobles Mill, 35.0956, -77.6406
+Nocho Park, 36.0658, -79.7714
+Norfleet, 36.1419, -77.2989
+Norlina, 36.4456, -78.1986
+Norman, 35.1703, -79.7231
+Normanville, 35.9631, -82.1178
+Norrington Crossroads, 35.3533, -78.9131
+North, 36.1333, -80.2333
+North Albemarle, 35.4000, -80.1667
+North Asheboro, 35.7369, -79.8083
+North Belmont, 35.2722, -81.0483
+North Brevard, 35.2456, -82.7181
+North Brook, 35.5000, -81.4500
+North Burlington, 36.1000, -79.4500
+North Catawba, 35.8167, -81.5333
+North Charlotte, 35.2500, -80.8333
+North Clinton, 35.0167, -78.3000
+North Concord, 35.4342, -80.6208
+North Cooleemee, 35.8192, -80.5497
+North Cove, 35.8358, -81.9892
+North Cove Crossing, 35.8314, -82.0008
+North Durham, 36.0333, -78.8833
+North Elkin, 36.2883, -80.8531
+North Fork, 36.3272, -81.7778
+North Hamlet, 34.9033, -79.6914
+North Harlowe, 34.8603, -76.7722
+North Henderson, 36.3417, -78.3903
+North Hyde Park, 36.1267, -79.8094
+North Kannapolis, 35.5256, -80.6139
+North Lumberton, 34.6000, -79.0167
+North River, 34.8164, -76.6361
+North River Corner, 34.7825, -76.6267
+North Rocky Mount, 35.9667, -77.8000
+North Roxboro, 36.4000, -78.9833
+North Side, 36.0842, -78.7469
+North State Orchards, 35.0667, -79.7667
+North View, 34.7914, -79.4581
+North Whitakers, 36.1167, -77.8000
+North Wilkesboro, 36.1583, -81.1478
+North Winston, 36.1197, -80.2342
+Northgate, 36.0000, -78.9000
+Northview, 35.5289, -79.1861
+Northwest, 34.3128, -78.1614
+Norton(Macon), 35.0167, -83.3811
+Norton(Jackson), 35.1306, -83.1561
+Norwood(Rockingham), 36.3525, -79.7131
+Norwood(Stanly), 35.2194, -80.1192
+Norwood Beach, 35.2328, -80.0992
+Norwood Hollow, 36.1347, -81.8494
+Notla, 35.0167, -84.1167
+Nutbush, 36.4500, -78.2667

@@ -1,0 +1,187 @@
+Eagle, 36.1000, -80.7667
+Eagle Mills, 36.0236, -80.8003
+Eagle Rock, 35.7911, -78.4086
+Eagle Springs, 35.2914, -79.6531
+Eagleton, 36.0200, -75.7133
+Eagletown, 36.2714, -77.2286
+Eakers Corner, 35.4167, -81.5667
+Earl, 35.2000, -81.5333
+Earleys, 36.2572, -77.0278
+Earpsboro, 35.7814, -78.2936
+Easonburg, 35.9153, -77.8703
+Easons Crossroads, 36.4486, -76.7003
+Easons Store, 35.9667, -77.8000
+East Alliance, 35.1500, -76.8167
+East Arcadia, 34.3733, -78.3397
+East Bend, 36.2164, -80.5128
+East Carolina University, 35.6000, -77.3833
+East Durham, 35.9833, -78.8500
+East Fayetteville, 35.0464, -78.8550
+East Flat Rock, 35.2800, -82.4222
+East Fork, 35.1306, -82.7703
+East Franklin, 35.1906, -83.3639
+East Gastonia, 35.2794, -81.1522
+East Goldsboro, 34.7500, -76.8167
+East Hamlet, 34.8817, -79.6856
+East Hickory, 35.7333, -81.3500
+East Howellsville, 34.6833, -78.8833
+East Lake, 35.8911, -75.9631
+East Lake Landing, 35.8964, -75.9703
+East Laport, 35.3017, -83.1506
+East Laurinburg, 34.7711, -79.4439
+East Lumberton, 34.6103, -78.9925
+East Marion, 35.6842, -81.9919
+East Monbo, 35.6714, -80.9586
+East Parkland, 35.7447, -78.6314
+East Rockingham, 34.9181, -79.7628
+East Rocky Mount, 35.9667, -77.8000
+East Sanford, 35.5000, -79.1333
+East Side Park(Richmond), 34.9567, -79.7503
+East Side Park(Robeson), 34.5042, -79.0933
+East Spencer, 35.6817, -80.4325
+East Tabor, 34.1603, -78.8475
+East White Oak, 36.1011, -79.7625
+East Wilmington, 34.2167, -77.9167
+East Winston, 36.1003, -80.2292
+Eastatoe, 35.1333, -82.7833
+Eastbrook, 34.2758, -78.0489
+Eastern North Carolina Hospital, 35.7253, -77.8931
+Easton View, 36.0561, -80.2100
+Eastover, 35.0964, -78.7842
+Eastwood, 35.2456, -79.4481
+Easy Hill, 34.2222, -78.0083
+Ebbs Chapel, 35.9167, -82.5667
+Ebbs Mill, 35.8211, -82.9072
+Ebenezer, 35.1514, -84.0614
+Echo, 34.4994, -79.2778
+Echo Heights, 35.7011, -78.6481
+Echo Park, 36.1308, -81.6686
+Ecusta, 35.2722, -82.7064
+Eden, 36.4883, -79.7669
+Edenburg, 34.9056, -79.3103
+Edenhouse Point, 36.0425, -76.7075
+Edens Landing, 34.4264, -77.5747
+Edenton, 36.0606, -76.6094
+Edgar, 35.8561, -79.9056
+Edgecombe, 34.4628, -77.5953
+Edgemont, 36.0022, -81.7750
+Edgeville, 36.0931, -79.7622
+Edgewood Terrace, 35.2317, -79.5697
+Edmonds, 36.5606, -80.9436
+Edmondson, 35.5550, -78.5997
+Edmundson Crossroads, 35.5025, -77.8989
+Edneyville, 35.4167, -82.3167
+Edward, 35.3242, -76.8756
+Edwards, 36.2667, -80.9333
+Edwards Crossroads(Alleghany), 36.5300, -81.0589
+Edwards Crossroads(Nash), 36.0153, -78.0944
+Edwards Crossroads(Northampton), 36.4089, -77.3083
+Edwards Fork, 36.1189, -77.3892
+Edwards Junction, 35.1000, -77.0833
+Efland, 36.0811, -79.1694
+Egypt, 35.9833, -82.4167
+Ela, 35.4494, -83.3908
+Elams, 36.5411, -77.9431
+Elberon, 36.3131, -78.2194
+Elberta, 35.2847, -79.6328
+Elbow Landing, 35.6722, -76.6047
+Eldora, 36.3833, -80.6000
+Eldorado, 35.4669, -80.0294
+Eleanors Crossroads, 36.4367, -76.7583
+Elease, 34.8650, -78.7967
+Eleazer, 35.5147, -79.9689
+Elevation, 35.4667, -78.5167
+Elf, 35.0214, -83.7481
+Eli Whitney, 35.9067, -79.3075
+Eliah, 34.2428, -78.0569
+Elizabeth, 35.2167, -80.8333
+Elizabeth City, 36.3019, -76.2236
+Elizabethtown, 34.6292, -78.6056
+Elk Mountain, 35.6378, -82.5936
+Elk Park, 36.1572, -81.9783
+Elk Shoal, 35.9422, -82.3908
+Elk Valley, 36.1719, -81.9114
+Elkin, 36.2442, -80.8486
+Elkin Valley, 36.2731, -80.8533
+Elkton, 34.4667, -78.6056
+Elkville, 36.0697, -81.4019
+Ellenboro, 35.3289, -81.7589
+Ellendale, 35.9256, -81.2797
+Eller, 36.0667, -80.2333
+Ellerbe, 35.0711, -79.7617
+Ellerbe Grove, 34.8647, -79.7783
+Ellijay, 35.1917, -83.2706
+Elliott, 34.9839, -78.2139
+Ellis Crossroads, 35.7244, -80.4658
+Ellis Store, 36.0500, -76.9500
+Ellisboro, 36.3325, -79.9781
+Elm City, 35.8064, -77.8636
+Elm Grove, 35.1453, -77.5367
+Elm Landing, 34.7489, -77.1372
+Elmira Crossroads, 35.4292, -77.2022
+Elmore, 34.7944, -79.5089
+Elmores Crossroads, 35.2228, -81.1011
+Elmwood, 35.7511, -80.7611
+Elon College, 36.1028, -79.5069
+Elrod, 34.6139, -79.2422
+Elroy, 35.3425, -77.9089
+Embro, 36.3764, -78.0553
+Emerald Isle, 34.6778, -76.9511
+Emerald Village, 35.7189, -78.5481
+Emerson(Bladen), 34.7500, -78.8500
+Emerson(Columbus), 34.1808, -78.8664
+Emery, 35.2472, -79.7228
+Emerywood, 35.9667, -80.0000
+Emit, 35.7397, -78.2569
+Emma, 35.5967, -82.5919
+Emmons, 35.6833, -80.1000
+Emperor Landing, 36.0639, -76.6900
+Encas, 35.7333, -77.9167
+Endy, 35.3000, -80.2833
+Enfield, 36.1808, -77.6669
+Engelhard, 35.5094, -75.9964
+Englewood, 35.9667, -77.8000
+English, 35.9503, -82.5269
+Enka, 35.5497, -82.6503
+Enka Village, 35.5408, -82.6447
+Ennice, 36.5533, -80.9961
+Eno, 36.0411, -79.0144
+Enochville, 35.5297, -80.6683
+Enola, 35.6650, -81.6542
+Enon, 36.1397, -80.4692
+Enterprise(Davidson), 35.9447, -80.2767
+Enterprise(Warren), 36.4656, -77.9486
+Ephesus, 35.8419, -80.5461
+Ephraim Place, 36.0878, -82.4036
+Epsom, 36.2453, -78.3289
+Erastus, 35.1906, -83.1878
+Erect, 35.5333, -79.7667
+Erlanger, 35.8389, -80.2536
+Ernul, 35.2500, -77.0667
+Ervintown, 34.9081, -77.5622
+Erwin, 35.3267, -78.6764
+Erwin Heights, 35.9008, -80.0739
+Eskota, 35.7956, -82.3094
+Essex, 36.2467, -77.9569
+Estatoe, 35.9033, -82.1197
+Estelle, 36.5019, -79.2414
+Ether, 35.4397, -79.7842
+Etna(P O), 35.2783, -83.4428
+Etowah, 35.3175, -82.5944
+Eubanks, 35.9697, -79.0758
+Eufola, 35.7222, -80.9861
+Eure, 36.4272, -76.8536
+Eure Landing, 36.3561, -76.7950
+Eureka, 35.5425, -77.8767
+Evansdale, 35.6550, -77.8700
+Everetts, 35.8347, -77.1739
+Everetts Crossroads, 35.5228, -76.8425
+Everetts Mill, 34.8142, -79.8922
+Evergreen, 34.2958, -78.2181
+Evergreen Estates, 35.0333, -78.9500
+Everhardt, 35.5500, -80.6000
+Everton, 35.0378, -78.0461
+Ewart, 36.0167, -82.1500
+Ex-Way, 35.1719, -79.8719
+Exum, 34.1100, -78.4644
+Ezzelltown, 34.6653, -78.2025

@@ -1,0 +1,320 @@
+Hackney, 35.4697, -77.1194
+Haddocks Crossroads, 35.5333, -77.4000
+Hadley, 35.8167, -79.2833
+Hairtown, 35.2786, -78.9869
+Hale Point Landing, 34.3306, -78.0314
+Half Hell, 34.0403, -78.1556
+Half Moon, 34.8258, -77.4597
+Halifax, 36.3283, -77.5897
+Halifax Crossing, 35.9581, -77.8722
+Hall, 36.4333, -76.8500
+Hall Ferry Junction, 35.4269, -80.2147
+Hall Landing, 34.2997, -78.0350
+Halls, 35.1167, -78.3167
+Halls, 36.2833, -76.9833
+Halls Ferry Junction, 35.4500, -80.2167
+Halls Ford, 35.3553, -83.5103
+Halls Mills, 36.2922, -81.2106
+Halls Store, 35.1133, -78.5383
+Hallsboro, 34.3222, -78.5992
+Hallsville, 34.9072, -77.8392
+Hamburg, 35.1667, -83.1333
+Hamer, 36.4564, -79.2750
+Hamilton, 35.9444, -77.2100
+Hamilton Crossroads, 35.0494, -80.3447
+Hamilton Lakes, 36.0831, -79.8536
+Hamlet, 34.8847, -79.6944
+Hammond Crossroads, 34.4750, -79.2356
+Hampstead, 34.3675, -77.7108
+Hampton, 35.9667, -80.3667
+Hamptonville, 36.0983, -80.7606
+Hamrick, 35.8097, -82.1992
+Hams Crossroads, 35.5283, -77.2219
+Hamtown, 36.1000, -79.7667
+Hancock, 36.0992, -76.6289
+Hancock Village, 34.9000, -76.9000
+Handy, 35.5886, -80.1011
+Hanes, 36.0822, -80.2972
+Hankins, 35.7325, -82.0067
+Hannersville, 35.8167, -80.2500
+Hanrahan, 35.4069, -77.4275
+Happy Acres, 35.1294, -82.7064
+Happy Home, 36.4961, -79.6286
+Happy Valley, 35.9886, -81.5589
+Harbinger, 36.1019, -75.8144
+Hardee Cross Roads, 35.4733, -78.6081
+Hardin, 35.2261, -83.8444
+Hardins, 35.3792, -81.1906
+Hare, 36.4806, -80.9811
+Hares Crossroads, 35.6703, -78.2519
+Hargetts Crossroads, 35.0028, -77.6369
+Hargrove Crossroads, 35.0942, -78.2289
+Harkers Island, 34.6950, -76.5597
+Harlem Heights, 34.9667, -80.0833
+Harley, 36.1928, -81.4147
+Harlowe, 34.8458, -76.7594
+Harmony, 35.9556, -80.7719
+Harmony Grove, 36.0800, -80.3867
+Harnett(New Hanover), 34.2333, -77.8500
+Harnett(Harnett), 35.3453, -78.7925
+Harper, 35.3017, -78.3222
+Harpers Crossroads, 35.5678, -79.4633
+Harrell, 36.1167, -82.2000
+Harrell Hill, 36.0400, -82.2369
+Harrells, 34.7275, -78.2014
+Harrells Mill, 36.3856, -76.9050
+Harrellsville, 36.3025, -76.7928
+Harrelsonville, 34.3333, -78.7000
+Harrelsonville Crossroads, 34.2544, -78.7094
+Harris(Moore), 35.3036, -79.5356
+Harris(Rutherford), 35.2428, -81.8750
+Harris Crossroads(Franklin), 35.9822, -78.3825
+Harris Crossroads(Vance), 36.4003, -78.4192
+Harris Landing(Chowan), 36.1417, -76.7147
+Harris Landing(Craven), 35.2819, -77.2764
+Harrisburg, 35.3236, -80.6561
+Harrisons Crossroads, 36.4203, -79.6900
+Harrisville, 35.2089, -79.8228
+Hartland, 35.8531, -81.6464
+Hartman, 36.4219, -80.1722
+Harts Store, 36.4833, -80.2333
+Hartsboro, 35.9153, -77.6467
+Hartsease, 35.9319, -77.6436
+Harveytown, 35.2811, -77.5678
+Haslett, 36.5167, -76.7000
+Haslin Corners, 35.5600, -76.5775
+Hassell, 35.9114, -77.2786
+Hastings Corner, 36.3517, -76.1639
+Hasty, 34.6903, -79.4783
+Hatcher, 35.0958, -78.2136
+Hatteras, 35.2192, -75.6906
+Havelock, 34.8789, -76.9017
+Havelock Station, 34.8825, -76.9225
+Haw, 34.6944, -77.5528
+Haw Branch(Moore), 35.4972, -79.3711
+Haw Branch(Onslow), 34.9364, -77.6319
+Haw Creek, 35.5844, -82.5264
+Haw River, 36.0914, -79.3644
+Hawfields, 36.0592, -79.3053
+Hawk, 36.0189, -82.0917
+Hawk Branch, 35.9639, -82.3717
+Hawkins Landing, 35.4519, -76.8528
+Hawkside, 34.7700, -77.4025
+Hawra, 35.6428, -78.0889
+Hawtree, 36.5000, -78.1500
+Hayes, 35.9725, -78.8644
+Hayesville, 35.0461, -83.8181
+Haymount, 35.0567, -78.9006
+Hayne, 34.9808, -78.5903
+Hays, 36.2497, -81.1158
+Hayti, 36.0000, -78.9000
+Haywood, 35.6200, -79.0642
+Hazel Green, 35.5900, -82.5839
+Hazelton, 36.5181, -76.6994
+Hazelwood, 35.4686, -83.0042
+Healing Springs, 35.6161, -80.1783
+Heath Landing, 35.2686, -77.1306
+Heathsville, 36.2692, -77.7650
+Heaton, 36.1728, -81.9428
+Hectors Creek, 35.5000, -78.8500
+Hedden Bluff Landing, 34.3894, -78.0972
+Hedrick Grove, 35.7725, -80.1797
+Heflin, 35.7100, -78.2078
+Heilmans Mill, 35.4828, -80.5839
+Helena, 36.2858, -78.9514
+Helens Crossroads, 35.4667, -77.4167
+Helton, 36.5481, -81.4689
+Hemby, 35.0833, -80.6833
+Hemby Bridge, 35.0833, -80.6833
+Hemlock, 36.5333, -81.6667
+Henderson, 36.3294, -78.3994
+Hendersonville, 35.3186, -82.4611
+Hendrix, 36.0833, -81.3667
+Henrico, 36.5342, -77.8311
+Henrietta(Edgecombe), 35.8578, -77.5831
+Henrietta(Rutherford), 35.2578, -81.7964
+Henry, 35.5583, -81.4258
+Henry Landing, 34.6106, -78.3044
+Henry River, 35.6964, -81.4286
+Henrytown, 34.1731, -78.1078
+Hepco, 35.5833, -82.9167
+Herrings, 35.1333, -78.4333
+Herrings Crossroads(Duplin), 35.1214, -77.8661
+Herrings Crossroads(Sampson), 35.1744, -78.3961
+Hertford, 36.1900, -76.4664
+Hertford Village, 35.7489, -78.6433
+Hester, 36.1700, -78.6728
+Hesters Store, 36.2667, -79.0500
+Hestertown, 34.5975, -78.9958
+Hewitt, 35.3089, -83.6478
+Hexlena, 36.1931, -77.0292
+Hickmans Cross Roads, 34.4531, -78.8289
+Hickmans Crossroads, 33.9303, -78.6106
+Hickory(Catawba), 35.7331, -81.3414
+Hickory(Nash), 36.1289, -77.8014
+Hickory Crossroads(Johnston), 35.5458, -78.1006
+Hickory Crossroads(Perquimans), 36.3203, -76.5450
+Hickory Grove(Polk), 35.2100, -82.1042
+Hickory Grove(Hoke), 34.9236, -79.3247
+Hickory Grove(Mecklenburg), 35.2286, -80.7208
+Hickory Grove Crossroads, 34.7483, -78.4228
+Hickory Knoll, 35.1833, -83.3833
+Hickory Mountain, 35.7000, -79.3167
+Hickory Point, 35.3000, -76.7833
+Hickory Rock, 36.1242, -78.2103
+Hicks Crossroads(Mecklenburg), 35.4256, -80.9178
+Hicks Crossroads(Vance), 36.4286, -78.4986
+Hicks Village, 36.4050, -79.0222
+Hiddenite, 35.9036, -81.0908
+Hidetown, 35.3714, -83.6803
+Higdonville, 35.1775, -83.3000
+Higgins(Yancey), 35.9594, -82.3803
+Higgins(McDowell), 35.6500, -81.9500
+High Crossroads, 35.8069, -78.0453
+High Falls, 35.4836, -79.5219
+High Hampton, 35.0997, -83.0822
+High Point, 35.9556, -80.0056
+High Rock, 35.5967, -80.2214
+High Shoals(Gaston), 35.4025, -81.2025
+High Shoals(Rutherford), 35.2500, -81.8000
+Highland Hospital, 35.6106, -82.5689
+Highland Park, 34.9142, -79.6761
+Highland Park West, 36.0689, -79.8572
+Highland Pines, 34.9058, -79.7378
+Highlands, 35.0525, -83.1969
+Highsmith, 34.4750, -77.9822
+Highsmith Hospital, 35.0553, -78.8917
+Highsmiths, 34.9183, -78.4969
+Hightowers, 36.3269, -79.2436
+Hildebran, 35.7139, -81.4222
+Hill, 35.7619, -77.5144
+Hill Crest, 35.3133, -79.4167
+Hillcrest(Moore), 34.9869, -79.1894
+Hillcrest(Hoke), 36.2211, -81.6681
+Hillendale, 35.0667, -78.8833
+Hillgirt, 35.3653, -82.4839
+Hilliardston, 36.1053, -77.9300
+Hills, 35.3131, -80.2611
+Hills Crossroads(Duplin), 35.1139, -77.9419
+Hills Crossroads(Halifax), 36.1883, -77.4619
+Hillsborough, 36.0753, -79.1000
+Hillsdale(Davie), 36.0050, -80.4397
+Hillsdale(Guilford), 36.2000, -79.8444
+Hilltop(Guilford), 36.0306, -79.8847
+Hilltop(Lincoln), 35.4667, -81.2500
+Hines Crossroads, 35.2008, -77.8892
+Hines Junction, 35.2689, -77.6197
+Hinnes Crossroads, 36.4033, -77.7997
+Hinson, 35.7675, -76.7972
+Hinsons Crossroads, 34.3058, -78.9792
+Hiwassee, 35.0333, -83.7500
+Hiwassee Dam, 35.0833, -84.0333
+Hiwassee Village, 35.1489, -84.1714
+Hobbs Crossroads, 35.1719, -78.3228
+Hobbsville, 36.3469, -76.6050
+Hobbton, 35.2500, -78.3500
+Hobgood, 36.0297, -77.3981
+Hobucken, 35.2456, -76.5694
+Hocutts Crossroads, 35.7333, -78.2981
+Hodges Gap, 36.2167, -81.6667
+Hoffman, 35.0322, -79.5478
+Hog Island, 35.1933, -79.2967
+Hogback, 35.1167, -82.9167
+Hogetown, 36.1892, -81.5342
+Hoke, 35.7333, -76.8156
+Holden Beach, 33.9133, -78.2528
+Holdens Crossroads, 35.7067, -77.7833
+Holland, 35.5728, -78.7706
+Hollands, 35.7231, -77.4772
+Hollands Crossroads, 35.5231, -78.0889
+Hollemans Crossroads, 35.6161, -78.9100
+Hollifield, 35.6833, -82.0000
+Hollis, 35.4361, -81.7308
+Hollister, 36.2558, -77.9361
+Hollow, 34.7833, -78.8333
+Holloway, 36.5000, -78.8667
+Holly, 34.6333, -77.7167
+Holly Grove(Gates), 36.5053, -76.5692
+Holly Grove(Davidson), 35.8172, -80.1917
+Holly Hill, 35.3442, -82.4967
+Holly Ridge, 34.4953, -77.5553
+Holly Springs(Carteret), 34.7992, -76.9097
+Holly Springs(Macon), 35.1833, -83.3833
+Holly Springs(Wake), 35.6511, -78.8339
+Holly Springs(Henderson), 35.3456, -82.6025
+Holmesville, 34.3600, -79.1431
+Home Acres, 35.7397, -78.6325
+Homestead, 35.2833, -80.9133
+Hominy, 35.5458, -82.6764
+Honey Hill, 34.2753, -78.6333
+Honey Island, 34.1000, -78.5333
+Honey Pond, 34.0311, -78.4986
+Honey Town, 34.9500, -79.7839
+Honeycutts, 35.0500, -78.4833
+Honolulu, 35.3628, -77.2819
+Hood Creek Landing, 34.3383, -78.0775
+Hood Swamp, 35.4064, -77.8750
+Hoods, 35.1372, -80.6831
+Hoods Crossroads, 35.1167, -80.7167
+Hooker, 36.5036, -81.0256
+Hookerton, 35.4250, -77.5886
+Hoop Pole Landing, 34.7033, -76.8056
+Hooper Hill, 34.3300, -78.0758
+Hoopers Creek, 35.4389, -82.4669
+Hoophole Landing, 35.6131, -76.5769
+Hootentown, 35.5361, -77.0200
+Hoots Hospital, 36.1353, -80.6714
+Hootstown, 36.0489, -80.2669
+Hope Mills, 34.9703, -78.9456
+Hopedale, 36.1239, -79.4025
+Hopewell(Rutherford), 35.3828, -81.7347
+Hopewell(Wayne), 35.2261, -77.9881
+Hopewell(Mecklenburg), 35.4669, -80.8144
+Hopkins, 35.8847, -78.3525
+Horace, 35.3717, -82.2967
+Horner, 36.3322, -78.5694
+Horneytown, 36.0194, -80.0603
+Horse Creek, 36.5167, -81.5833
+Horse Landing, 35.0664, -77.3250
+Horse Neck, 34.8186, -78.9111
+Horse Shoe, 35.3431, -82.5567
+Horsepen Landing, 34.4806, -78.8731
+Horseshoe, 36.4600, -76.3936
+Hosiery Mill, 34.9667, -80.0833
+Hot Springs, 35.8922, -82.8292
+Hothouse, 35.0208, -84.2325
+House, 35.6544, -77.3653
+House Creek, 35.8500, -81.8667
+Houston, 34.9572, -80.6283
+Houstonville, 36.0031, -80.7664
+Howard Landing, 34.3547, -77.6886
+Howards Creek, 35.4833, -81.3500
+Howellsville, 34.6967, -78.9172
+Hubert, 34.7136, -77.2456
+Huckleberry Heights, 36.0167, -78.9333
+Huckleberry Spring, 36.0408, -78.9583
+Hudson, 35.8483, -81.4961
+Hufflers Fork, 36.3961, -76.6072
+Huffmantown, 34.9542, -77.5608
+Hughes, 36.0597, -81.9644
+Hugo, 35.3914, -77.5331
+Hulls Crossroads, 35.5086, -81.4575
+Huntdale, 36.0264, -82.3178
+Hunters Bridge, 35.6167, -76.8667
+Hunters Mill, 36.4000, -76.6000
+Huntersville, 35.4106, -80.8431
+Hunting Creek, 36.1667, -81.1333
+Huntley, 35.0706, -78.5103
+Hunts, 35.9922, -78.1253
+Huntsboro, 36.3592, -78.5381
+Huntsville(Rockingham), 36.3167, -79.9833
+Huntsville(Yadkin), 36.0822, -80.5297
+Hurdle Mills, 36.2731, -79.0478
+Hurricane, 36.5667, -81.5833
+Hurricane, 35.9142, -82.7578
+Husk, 36.5833, -81.5167
+Hutson Corner, 36.2650, -76.6553
+Hyatt Creek, 35.4653, -83.0286
+Hydeland, 35.4264, -76.2200
+Hydro, 35.2167, -80.0000
+Hymans, 35.1514, -77.1817

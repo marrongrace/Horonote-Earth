@@ -1,0 +1,149 @@
+O'Neals, 35.7000, -78.2333
+Oak City, 35.9636, -77.3083
+Oak Crest, 36.1386, -80.2825
+Oak Dale Cross Roads, 34.4197, -78.8186
+Oak Forest(Buncombe), 35.4917, -82.5281
+Oak Forest(Johnston), 35.3572, -78.4247
+Oak Grove(Durham), 35.9814, -78.8208
+Oak Grove(Guilford), 36.0478, -79.7992
+Oak Grove(Jones), 35.0339, -77.2439
+Oak Grove(Macon), 35.2800, -83.4469
+Oak Grove(Surry), 36.5000, -80.5833
+Oak Grove(Watauga), 36.2247, -81.7092
+Oak Grove(Brunswick), 33.9939, -78.3050
+Oak Grove(Cherokee), 35.2081, -83.8836
+Oak Grove Inn, 35.5672, -78.1914
+Oak Hill(Scotland), 34.9553, -79.3939
+Oak Hill(Caldwell), 35.9031, -81.4153
+Oak Hill(Granville), 36.4386, -78.7206
+Oak Hill(Macon), 35.1714, -83.4078
+Oak Hill(Burke), 35.7786, -81.7561
+Oak Hill(Henderson), 35.3661, -82.4378
+Oak Hill Court, 35.3861, -82.5631
+Oak Level, 35.9500, -77.9000
+Oak Park(Buncombe), 35.4478, -82.5083
+Oak Park(Cherokee), 35.1161, -84.2322
+Oak Ridge(Stokes), 36.5028, -80.1300
+Oak Ridge(Guilford), 36.1733, -79.9892
+Oak Ridge Park, 34.9136, -79.7733
+Oakboro, 35.2256, -80.3292
+Oakdale, 35.8500, -80.9333
+Oakdale(Iredell), 35.9817, -79.9286
+Oakdale(Guilford), 34.9833, -79.2167
+Oakdale(Hoke), 35.3017, -80.8950
+Oakgrove, 35.2731, -81.4247
+Oakland(Chatham), 35.6167, -79.2000
+Oakland(Robeson), 34.8386, -78.9608
+Oakland(Transylvania), 35.1133, -82.9756
+Oakland(Nash), 35.9947, -78.0397
+Oakley(Buncombe), 35.5619, -82.5103
+Oakley(Pitt), 35.7578, -77.2869
+Oaks(Orange), 35.9533, -79.2575
+Oaks(Craven), 35.1000, -77.0833
+Oakton, 34.4953, -79.0492
+Oakview, 35.9931, -80.0253
+Oakville, 36.4975, -78.1008
+Oakwillow, 36.3733, -76.9472
+Oakwood, 36.0397, -79.8500
+Oakwood Acres, 35.6667, -80.2667
+Oakwoods, 36.1147, -81.1342
+Obids, 36.3083, -81.3872
+Occoneechee, 36.0833, -79.1167
+Ocean, 34.7117, -76.9917
+Ocean Isle Beach, 33.8833, -78.4333
+Oconaluftee Indian Village, 35.4867, -83.3228
+Oconeechee, 36.4167, -77.5167
+Ocono Lufty, 35.4833, -83.3167
+Ocracoke, 35.1144, -75.9814
+Odell(Warren), 36.3572, -77.9439
+Odell(Cabarrus), 35.4667, -80.7333
+Oden Mill, 35.5361, -76.8439
+Ogburn Crossroads, 35.5556, -78.6383
+Ogburn Station, 36.1492, -80.2242
+Ogburns Crossroads, 36.2467, -79.9211
+Ogden(Clay), 35.0333, -83.9500
+Ogden(New Hanover), 34.2722, -77.8189
+Ogreeta, 35.1533, -84.1414
+Oine, 36.4833, -78.2308
+Okeewemee, 35.4075, -79.8542
+Okisko, 36.2592, -76.3550
+Ola, 35.6694, -83.0981
+Old, 36.1500, -80.3167
+Old Bethlehem, 36.2533, -77.9803
+Old Chapel Crossroads, 36.3381, -76.6350
+Old Cumbee Place, 34.1586, -78.2197
+Old Dock, 34.1678, -78.5975
+Old Ford, 35.6342, -77.0642
+Old Fort, 35.6289, -82.1808
+Old Gilreath, 36.0742, -81.1175
+Old Hundred, 34.8292, -79.5906
+Old Landing, 34.4483, -77.5442
+Old Mill Landing, 35.9322, -77.0267
+Old Murphy, 35.0833, -84.0333
+Old Richmond, 36.2167, -80.4000
+Old Sneedsboro, 34.8325, -79.9364
+Old Sparta, 35.7886, -77.5553
+Old Town, 34.1364, -77.9608
+Old Trap, 36.2833, -76.0833
+Olde Farm, 35.1667, -78.9667
+Olde Providence, 35.1150, -80.7917
+Olds(Currituck), 36.1750, -75.8633
+Olds(Greene), 35.5000, -77.6167
+Oldtown, 36.1525, -80.2942
+Oleander, 34.2167, -77.9167
+Olin, 35.9525, -80.8400
+Olive Branch, 35.1039, -80.3214
+Olive Crossroads, 35.0667, -77.3500
+Olive Grove, 35.5167, -81.6167
+Olive Hill(Macon), 35.2150, -83.4508
+Olive Hill(Person), 36.4244, -79.0497
+Oliver, 35.4933, -78.2594
+Olivers, 35.0142, -77.2936
+Olivers Crossroads, 35.5889, -81.1236
+Olivers Landing, 35.0133, -77.2739
+Olivet, 35.4544, -83.2967
+Olivette, 35.9461, -81.6169
+Olivia, 35.3594, -79.1100
+Olympia, 35.1389, -76.9711
+Olyphic, 33.9908, -78.6592
+Onslow County Memorial Hospital, 34.7622, -77.3853
+Onvil, 35.2167, -80.0000
+Ophir, 35.4778, -79.9792
+Ora Mill, 35.3067, -81.5836
+Orange, 35.1294, -78.5225
+Orange Factory, 36.1272, -78.8758
+Orange Grove, 35.9758, -79.1942
+Ore Knob, 36.4003, -81.3294
+Oregon Hill, 36.4483, -79.6372
+Oriental, 35.0308, -76.6933
+Orion, 36.3975, -81.4211
+Orlando, 35.0033, -83.3794
+Ormonds, 35.4667, -77.5500
+Ormondsville, 35.4719, -77.5461
+Orrum, 34.4658, -79.0094
+Osborne, 34.8117, -79.7703
+Osborne Knob, 35.8353, -82.1097
+Osbornville, 36.0756, -80.8978
+Osceola, 36.2278, -79.6158
+Osgood, 35.5539, -79.1286
+Osmond, 36.4469, -79.1586
+Ossipee, 36.1719, -79.5108
+Ostwalt, 35.6825, -80.8614
+Oswalt, 35.7000, -80.8833
+Oswego, 36.1500, -78.1975
+Oteen, 35.5872, -82.4914
+Othello, 36.3622, -81.4464
+Ottanola, 35.3917, -82.2786
+Otter Creek, 35.7167, -77.6667
+Otto, 35.0600, -83.3878
+Otway, 34.7756, -76.5583
+Outlaws Bridge, 35.1392, -77.8497
+Oval, 36.3303, -81.4883
+Overhills, 35.2208, -79.0319
+Overlook, 35.3078, -82.4839
+Overshot, 35.3064, -78.3633
+Owens, 35.0439, -78.9353
+Owltown, 35.6000, -82.7239
+Oxford, 36.3106, -78.5911
+Oxford Park, 35.7639, -81.1728
+Oyster Creek Landing, 35.3906, -76.3150

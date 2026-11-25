@@ -1,0 +1,475 @@
+Ca-Vel, 36.4000, -78.9833
+Cabarrus, 35.2369, -80.5419
+Cabarrus County Hospital, 35.4364, -80.6125
+Cabarrus Memorial Hospital, 35.4353, -80.6019
+Cabes Ford, 36.0794, -79.0075
+Cabin, 35.0500, -77.7500
+Cable, 36.0000, -79.4667
+Cady Landing, 36.4519, -76.9447
+Cahaba, 36.0403, -77.1567
+Caintuck Landing, 34.3686, -78.2108
+Cairo, 34.8844, -79.9331
+Calabash, 33.8906, -78.5686
+Calahaln, 35.9194, -80.6631
+Caldwell(Mecklenburg), 35.4536, -80.8431
+Caldwell(Orange), 36.1897, -79.0175
+Caldwell Memorial Hospital, 35.9103, -81.5350
+Calico, 35.4183, -77.2550
+California(Dare), 35.9042, -75.6808
+California(Hertford), 36.3578, -76.9786
+California(Madison), 35.8667, -82.5197
+California(Pitt), 35.6331, -77.5569
+Call, 36.1458, -81.0778
+Callisons, 35.0842, -76.7256
+Calvander, 35.9428, -79.1100
+Calvert, 35.1569, -82.8108
+Calvin, 35.7333, -81.7306
+Calypso, 35.1536, -78.1056
+Camden, 36.3283, -76.1722
+Camelot, 35.3581, -82.5353
+Cameron, 35.3267, -79.2556
+Camp Bryan, 34.8450, -76.9844
+Camp Creek, 35.5744, -81.5536
+Camp Don-Lee, 34.9742, -76.7881
+Camp Glenn, 34.7000, -76.8333
+Camp Hardee, 35.4739, -76.9950
+Camp Leach, 35.4603, -76.8872
+Camp Lejeune, 34.6667, -77.3500
+Camp Lejeune Central, 34.7333, -77.4000
+Camp Lejeune Junction, 34.7167, -77.3667
+Camp Occoneechee, 35.4086, -82.2086
+Camp Seagull, 34.9706, -76.7994
+Camp Springs, 36.2961, -79.4919
+Camp Sutton, 34.9833, -80.5500
+Campbell, 36.5278, -80.2375
+Campbell Creek, 35.2936, -76.6911
+Campbells Crossroad, 35.0869, -79.2314
+Cana, 35.9742, -80.5775
+Canada, 35.2333, -83.0167
+Canby, 35.2167, -80.0000
+Candler, 35.5364, -82.6931
+Candler Heights, 35.5400, -82.7064
+Candor, 35.2950, -79.7456
+Cane, 35.9050, -82.3864
+Cane Brake, 35.0658, -82.8903
+Cane Branch, 35.9167, -82.3000
+Cane Creek(Mitchell), 36.0167, -82.1000
+Cane Creek(Cherokee), 35.0833, -84.0333
+Cane River(P O), 35.9144, -82.3914
+Canetuck, 34.4000, -78.1667
+Caney Fork, 35.3167, -83.1000
+Cannon Crossroads, 35.5517, -77.3839
+Cannon Ferry, 36.2167, -76.6167
+Canto, 35.7014, -82.7592
+Canton, 35.5328, -82.8375
+Cape Carteret, 34.6914, -77.0633
+Cape Fear(New Hanover), 34.2167, -77.9167
+Cape Fear(Harnett), 35.4250, -78.8150
+Cape Fear Memorial Hospital, 34.2125, -77.8633
+Cape Fear Valley Hospital, 35.0322, -78.9336
+Cape Fear Valley Medical Center, 35.0322, -78.9336
+Cape Hatteras, 35.5000, -75.5000
+Cape Lookout, 34.6053, -76.5367
+Capella, 36.3617, -80.3167
+Capels Mill, 35.1558, -79.7964
+Capelsie, 35.3186, -79.8739
+Capernium, 36.0542, -80.4169
+Caraleigh, 35.7606, -78.6494
+Caraway Landing, 35.3172, -76.5811
+Carbonton, 35.5203, -79.3492
+Carlos, 35.2094, -78.7719
+Carmen, 36.0047, -82.6411
+Carmur, 35.5522, -76.1903
+Caroleen, 35.2808, -81.7964
+Carolina(Alamance), 36.1317, -79.4128
+Carolina(Pitt), 35.7167, -77.2833
+Carolina Beach, 34.0350, -77.8939
+Carolina Hills, 35.4333, -82.5000
+Carolina Hospital, 36.0853, -79.7414
+Carolina Pines, 35.7483, -78.6583
+Carpenter, 35.8206, -78.8719
+Carpenter Bottom, 36.0825, -81.9964
+Carr(Durham), 35.9667, -78.7500
+Carr(Orange), 36.2114, -79.2203
+Carrboro, 35.9100, -79.0756
+Carroll, 34.9519, -78.0764
+Carrs, 35.5333, -77.6833
+Carson Mill, 35.4022, -83.5311
+Carter, 36.3500, -76.6000
+Carter Crossroads, 36.3572, -76.6847
+Cartersville, 34.7731, -77.9197
+Carthage, 35.3458, -79.4172
+Cartoogechaye, 35.1167, -83.5000
+Carvers, 34.4608, -78.4139
+Cary, 35.7914, -78.7814
+Casar, 35.5122, -81.6175
+Cash Corner, 35.1911, -76.6856
+Cash Corner No 2, 35.0014, -76.7919
+Cashiers, 35.1056, -83.0967
+Cashoke Landing, 35.9397, -76.7444
+Cason Old Field, 34.8383, -80.0942
+Castalia, 36.0817, -78.0578
+Castle Hayne, 34.3556, -77.9003
+Castoria, 35.5364, -77.6747
+Casville, 36.3900, -79.5044
+Caswell(Jones), 35.2350, -77.5217
+Caswell(Pender), 34.5000, -78.1500
+Caswell Beach, 33.9333, -78.0667
+Caswell Landing, 35.2842, -77.4956
+Cat Square, 35.5400, -81.4108
+Cataloochee, 35.7000, -83.0667
+Catawba, 35.7072, -81.0758
+Catawba Heights, 35.2744, -81.0281
+Catawba Memorial Hospital, 35.7136, -81.2678
+Catawba Springs, 35.4667, -81.0167
+Cates, 36.2950, -78.9872
+Catfish, 35.7550, -81.1181
+Catherine Lake, 34.8175, -77.5642
+Catheys Creek, 35.2000, -82.7833
+Causeway Landing, 34.3719, -78.1378
+Cayton, 35.2636, -76.9900
+Cecil, 35.4833, -82.9333
+Cedar Bay, 33.9456, -78.5486
+Cedar Creek, 34.9558, -78.7575
+Cedar Falls, 35.7519, -79.7317
+Cedar Fork(Duplin), 34.8767, -77.7081
+Cedar Fork(Wake), 35.8500, -78.8333
+Cedar Grove(Orange), 36.1675, -79.1681
+Cedar Grove(Randolph), 35.6756, -79.8889
+Cedar Grove(Davidson), 35.7233, -80.1853
+Cedar Hill(Anson), 35.1428, -80.1183
+Cedar Hill(Brunswick), 34.2844, -78.0308
+Cedar Island, 34.9667, -76.3167
+Cedar Lodge, 35.8833, -80.0833
+Cedar Mountain, 35.1433, -82.6431
+Cedar Point, 34.6875, -77.0728
+Cedar Valley, 35.9028, -81.4347
+Cedarrock, 36.0833, -78.1500
+Ceffo, 36.4569, -79.0467
+Celeste Hinkel, 35.7569, -80.9756
+Celeste Hinkle, 35.8500, -80.9333
+Celo, 35.8550, -82.1981
+Center(Davie), 35.9117, -80.6197
+Center(Yadkin), 36.1475, -80.7144
+Center Bluff Landing, 35.6792, -77.4761
+Center Grove, 36.1667, -79.8333
+Center Hill, 36.2150, -76.6111
+Center Pigeon, 35.5061, -82.8528
+Centergrove, 36.2833, -78.9500
+Centerview, 35.4906, -80.6186
+Centerville, 36.1861, -78.1058
+Central(Bladen), 34.6833, -78.6167
+Central(Iredell), 35.9369, -80.9667
+Central Area, 36.5069, -79.7450
+Central Falls, 35.7619, -79.7764
+Century, 35.7833, -78.6667
+Cerro Gordo, 34.3219, -78.9267
+Cessons Mill, 36.2542, -76.8481
+Chadbourn, 34.3219, -78.8272
+Chadwick Acres, 34.5167, -77.3833
+Chalybeate, 35.5833, -78.8000
+Chalybeate Springs, 35.5083, -78.8142
+Chambersburg, 35.7667, -80.8000
+Champion, 36.0833, -81.3667
+Chapanoke, 36.2539, -76.3778
+Chapel Hill(Madison), 35.9428, -82.7089
+Chapel Hill(Orange), 35.9131, -79.0561
+Charity, 34.8228, -77.9461
+Charles, 35.9139, -80.8722
+Charleston(Halifax), 36.1200, -77.3758
+Charleston(Swain), 35.4333, -83.4167
+Charlotte, 35.2269, -80.8433
+Charlottetown, 35.2167, -80.8333
+Cheek Creek, 35.2333, -79.8667
+Cheeks(Orange), 36.0833, -79.2000
+Cheeks(Randolph), 35.5992, -79.5819
+Cheeks Cross Roads, 36.1000, -79.2667
+Chemway, 35.2719, -80.8972
+Cheoah, 35.3400, -83.7472
+Cherokee, 35.4742, -83.3150
+Cherokee Indian Reservation, 35.4833, -83.3167
+Cherry, 35.8486, -76.4217
+Cherry Crossroads, 36.0483, -77.7025
+Cherry Grove(Caswell), 36.3069, -79.4597
+Cherry Grove(Columbus), 34.2383, -78.9658
+Cherry Hospital, 35.3897, -78.0292
+Cherry Landing, 35.5908, -77.2828
+Cherry Lane, 36.4419, -81.0183
+Cherry Point, 34.9000, -76.9000
+Cherry Point Landing(Craven), 34.9417, -76.8692
+Cherry Ridge Landing(Tyrrell), 35.7033, -76.1417
+Cherry Springs, 35.6333, -82.1833
+Cherryfield, 35.1736, -82.8047
+Cherryville, 35.3786, -81.3792
+Chesterfield, 35.8100, -81.6611
+Chestnut Dale, 36.0664, -81.9800
+Chestnut Grove, 36.3225, -80.3850
+Chestnut Hill(Ashe), 36.5053, -81.3525
+Chestnut Hill(Henderson), 35.4747, -82.3428
+Chicod, 35.4833, -77.2667
+Chimney Rock, 35.4392, -82.2467
+China Grove, 35.5692, -80.5819
+China Grove Cotton Mill, 35.5500, -80.6000
+Chinquapin, 34.8308, -77.8167
+Chip(Montgomery), 35.2597, -79.8936
+Chip(Craven), 35.2292, -77.1367
+Chocowinity, 35.5125, -77.1008
+Chowan, 36.2664, -76.6681
+Chowan Hospital, 36.0697, -76.6083
+Chublake, 36.4000, -78.9833
+Church Hill, 36.4792, -78.0450
+Church Landing, 34.7328, -78.3939
+Churchill, 36.4333, -78.0833
+Churchland, 35.7861, -80.4178
+Cid, 35.8167, -80.2500
+Cisco, 36.1897, -76.6342
+City Memorial Hospital, 35.8794, -80.1117
+Cityview, 36.1017, -80.2050
+CJ Harris Community Hospital, 35.3858, -83.2083
+Clairmont, 34.2325, -77.9886
+Claremont, 35.7144, -81.1464
+Clarendon, 34.2100, -78.8456
+Clark(Craven), 35.1458, -77.1603
+Clark(Haywood), 35.4403, -83.0739
+Clarks Crossroads, 34.5208, -78.5569
+Clarks Landing, 34.3933, -77.9825
+Clarksville, 36.0000, -80.6333
+Clarkton, 34.4872, -78.6564
+Clarrissa, 36.0131, -82.1172
+Clay(Granville), 36.2425, -78.5881
+Clay(Guilford), 35.9667, -79.6667
+Clayroot, 35.3825, -77.2631
+Clayton, 35.6506, -78.4567
+Clear Run, 34.7558, -78.2875
+Clearcreek, 35.2000, -80.7500
+Clegg, 35.8656, -78.8497
+Clement, 35.0956, -78.6289
+Clemmons, 36.0214, -80.3822
+Clemmons Station, 35.9994, -80.3803
+Clemmonsville, 36.0167, -80.3833
+Clemont, 35.0000, -78.6333
+Cleveland, 35.7331, -80.6772
+Cleveland Memorial Hospital, 35.3019, -81.5375
+Cleveland Springs, 35.2833, -81.5333
+Clewis Corner, 34.1864, -78.4025
+Clifdale, 35.0614, -79.0156
+Cliffdale, 35.3667, -81.8333
+Cliffside, 35.2381, -81.7700
+Clifton, 36.4467, -81.5711
+Cliftonville, 35.8228, -77.9489
+Climax, 35.9128, -79.7178
+Clinchcross, 35.6833, -82.0000
+Clinchfield, 35.6989, -81.9917
+Clines, 35.7667, -81.2167
+Clingman, 36.1783, -80.9281
+Clinton, 34.9978, -78.3236
+Closs, 35.3131, -77.4628
+Clover Garden, 36.1883, -79.4631
+Cloverdale, 35.7281, -78.6197
+Clyde, 35.5333, -82.9108
+Coakley, 35.9225, -77.4189
+Coal Mine Landing, 34.5608, -78.4517
+Coalglen, 35.4667, -79.1667
+Coalville, 35.1883, -83.8911
+Coats, 35.4078, -78.6722
+Coats Crossroads, 35.5142, -78.5439
+Cobb Town, 35.6667, -77.6333
+Cobbs, 35.8000, -77.8667
+Cobbs Crossroad, 35.8242, -77.8572
+Coburn, 35.5350, -82.7553
+Cockrell Beach, 35.3992, -76.6272
+Coddle Creek, 35.5667, -80.8000
+Cofield, 36.3564, -76.9103
+Coggins Mine, 35.4867, -80.0206
+Cognac, 34.9561, -79.6100
+Coinjock, 36.3428, -75.9528
+Cokers Crossroads, 35.4061, -77.8425
+Cokesbury(Harnett), 35.5244, -78.9092
+Cokesbury(Vance), 36.3486, -78.3044
+Cokey, 35.8500, -77.7000
+Cold Springs(Cabarrus), 35.4150, -80.5133
+Cold Springs(Burke), 35.9544, -81.8714
+Cold Water, 35.4161, -80.5500
+Coleman, 35.6533, -82.2550
+Colerain, 36.2011, -76.7689
+Colerain Landing, 36.1972, -76.7489
+Coleridge, 35.6400, -79.6156
+Coleville, 36.5397, -80.2242
+Colewood Acres, 35.8000, -78.6333
+Colfax(Guilford), 36.1125, -80.0147
+Colfax(Rutherford), 35.3333, -81.7667
+Colington, 36.0078, -75.7019
+College, 36.0000, -78.9000
+College Downs, 35.2667, -80.8000
+College Lakes, 35.0667, -78.8833
+Collettsville, 35.9256, -81.6747
+Collington, 36.0667, -75.7000
+Collinstown, 36.5453, -80.3372
+Collinsville, 35.2114, -82.0875
+Colly, 34.4600, -78.2547
+Colon, 35.5267, -79.1525
+Colonial Heights(Cumberland), 34.9453, -78.9450
+Colonial Heights(Wake), 35.6972, -78.6703
+Colony Park, 36.0167, -78.9333
+Coltranes Mill, 35.9058, -79.8567
+Columbia, 35.9175, -76.2525
+Columbia Heights, 36.0903, -80.2278
+Columbus, 35.2531, -82.1972
+Columbus County Hospital, 34.3375, -78.6947
+Combs Fork, 35.0625, -77.5200
+Comet, 36.4819, -81.5547
+Comfort, 35.0056, -77.5092
+Como, 36.5014, -77.0097
+Concord(Duplin), 34.8375, -78.1164
+Concord(Person), 36.4458, -79.0667
+Concord(Cabarrus), 35.4086, -80.5797
+Concord(Sampson), 34.9828, -78.4169
+Concord(Yancey), 35.8797, -82.3228
+Concord(Rutherford), 35.3444, -81.8211
+Cone Memorial Hospital, 36.0911, -79.7869
+Conetoe, 35.8156, -77.4561
+Congleton, 35.7497, -77.2294
+Coniott Landing, 35.9458, -77.0719
+Connarista, 36.1892, -77.0750
+Connellys Springs, 35.7428, -81.5136
+Connestee, 35.2333, -82.7333
+Connestee Falls, 35.2333, -82.7333
+Connor, 35.7419, -78.1486
+Conoconnara, 36.2333, -77.4833
+Conover, 35.7064, -81.2189
+Conrad Hill, 35.8000, -80.1500
+Contentnea, 35.5056, -77.7253
+Contentnea Junction, 35.6781, -77.9328
+Contentnea Neck, 35.3667, -77.4833
+Conway, 36.4369, -77.2292
+Cooks Crossing, 35.4483, -80.6150
+Cooksville, 35.5931, -81.4761
+Cooktown, 36.0636, -82.1572
+Cool Run, 33.9514, -78.4703
+Cool Spring, 35.8447, -80.7328
+Cool Springs, 35.4692, -79.2122
+Cool Springs Landing, 35.1925, -77.0842
+Cooleemee, 35.8103, -80.5561
+Cooleemee Junction, 35.8253, -80.5839
+Cooleys Crossroads, 36.4825, -77.8814
+Coolvale, 33.9661, -78.0356
+Cooper, 35.1550, -78.6294
+Cooper Gap, 35.3667, -82.2000
+Coopers, 35.8833, -77.9667
+Copeland, 36.3383, -80.6503
+Copper Ford, 35.3611, -82.3189
+Coral Bay, 34.7000, -76.8333
+Corapeake, 36.5342, -76.5767
+Corbett, 36.2497, -79.2392
+Cordova, 34.9128, -79.8222
+Core Creek, 34.8283, -76.6933
+Core Point, 35.4242, -76.8506
+Coreys Crossroads, 35.7406, -77.0767
+Corinth(Chatham), 35.5692, -78.9983
+Corinth(Nash), 36.0039, -78.0089
+Corinth(Rutherford), 35.3614, -81.7969
+Corn Landing, 34.5569, -77.3397
+Cornatzer, 35.9236, -80.4800
+Cornelius, 35.4867, -80.8603
+Cornwall, 36.4794, -78.6656
+Corolla, 36.3811, -75.8333
+Correll Park, 35.6500, -80.4833
+Corriher Heights, 35.5606, -80.6350
+Corys, 36.5386, -75.9636
+Costin, 34.5831, -78.1017
+Cotton Grove, 35.7389, -80.2628
+Cotton Patch Landing, 35.4025, -76.9667
+Cottonade, 35.0833, -78.9500
+Cottonville, 35.1983, -80.1900
+Coulwood Hills, 35.2333, -80.9167
+Council, 34.4208, -78.4678
+Country Park Acres, 36.1000, -79.8167
+Countyline, 35.9500, -80.7667
+Court House(Buncombe), 35.5833, -82.5000
+Court House(Camden), 36.3500, -76.1500
+Courtney, 36.0600, -80.6208
+Cove(Craven), 35.1833, -77.3167
+Cove(Haywood), 35.6758, -82.9403
+Cove City, 35.1872, -77.3211
+Cove Creek(Haywood), 35.6064, -83.0114
+Cove Creek(Watauga), 36.3000, -81.7500
+Cove Landing, 35.2542, -77.1239
+Covington(Richmond), 35.1361, -79.8478
+Covington(Caswell), 36.4547, -79.3511
+Cowans Ford, 35.4267, -80.9569
+Cowarts, 35.2969, -83.1122
+Cowee, 35.2611, -83.4081
+Cowpen Landing(Craven), 35.2383, -77.1675
+Cowpen Landing(Pender), 34.3675, -77.9897
+Cox Crossing, 35.5139, -77.3178
+Cox Mill, 35.4083, -80.7283
+Coxs Crossroads, 35.3697, -76.9525
+Coxville, 35.4092, -77.3303
+Cozads Mill, 35.1581, -83.3942
+Cozart, 36.1000, -78.7800
+Crab Creek, 35.2833, -82.5667
+Crab Orchard, 35.2333, -80.7333
+Crab Point, 34.7000, -76.8333
+Crab Point Village, 34.7603, -76.7306
+Crabtree, 35.6017, -82.9414
+Craggy, 35.6314, -82.6017
+Cramerton, 35.2386, -81.0753
+Cranberry, 36.1431, -81.9672
+Cranberry Gap, 36.1161, -81.9828
+Craven, 35.6283, -80.3319
+Craven Terrace, 35.1092, -77.0511
+Crawford, 36.4333, -76.0500
+Creeches Mill, 35.4658, -78.2653
+Creedmoor, 36.1222, -78.6864
+Creeksville, 36.3939, -77.3039
+Cremo, 36.2000, -76.7667
+Crescent, 35.5753, -80.4203
+Creston, 36.4278, -81.6239
+Crestwood, 35.3675, -82.5203
+Creswell, 35.8703, -76.3925
+Cribb Town, 34.2111, -78.7983
+Cricket, 36.1714, -81.1942
+Crims Crossroads, 36.2200, -80.0881
+Crisp, 35.7506, -77.6256
+Crittenden Home, 35.2047, -80.8381
+Croatan(Craven), 34.9683, -76.9689
+Croatan(Dare), 35.7333, -75.7833
+Croatan Shores, 36.0264, -75.6647
+Crockers Nub, 35.6967, -78.1808
+Croft, 35.3447, -80.8244
+Crooked Creek, 35.5833, -82.1667
+Crooked Oak, 36.5339, -80.7589
+Cross Landing, 35.8772, -76.3369
+Cross Mill, 35.6833, -82.0000
+Cross Road, 36.5000, -80.5833
+Crossnore, 36.0217, -81.9297
+Crossway, 34.7450, -79.5267
+Crouse, 35.4208, -81.3056
+Crowder Mountain, 35.2500, -81.2833
+Crowders, 35.1861, -81.2067
+Crowells, 36.3333, -77.5833
+Crowells Crossroads, 36.2275, -77.5517
+Crump Town, 34.8867, -79.3567
+Crumpler, 36.5039, -81.3944
+Crumplers Crossroads, 35.5403, -78.2361
+Cruso, 35.4175, -82.8108
+Crusoe Island, 34.3333, -78.7000
+Crutchfield, 36.2706, -80.7228
+Crutchfield Crossroads, 35.8083, -79.4328
+Culberson, 34.9917, -84.1678
+Culbreth, 36.2636, -78.7278
+Cullasaja, 35.1650, -83.3239
+Cullowhee, 35.3136, -83.1767
+Cumberland, 35.0047, -78.9675
+Cumnock, 35.5547, -79.2381
+Cunning Bluff Landing, 34.4219, -78.1181
+Cunningham, 36.5381, -79.0786
+Currie, 34.4625, -78.1014
+Currituck(Currituck), 36.4497, -76.0158
+Currituck(Hyde), 35.5167, -76.4500
+Currytown, 35.8819, -80.3217
+Cutshalltown, 35.9606, -82.6897
+Cycle, 36.1342, -80.8422
+Cypress Creek(Duplin), 34.7514, -77.7053
+Cypress Creek(Columbus), 34.1831, -78.6347
+Cyrus, 34.7500, -77.4333

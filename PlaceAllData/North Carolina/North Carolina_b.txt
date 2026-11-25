@@ -1,0 +1,471 @@
+Bacchus, 35.9278, -82.2056
+Bachelor, 34.9078, -76.7539
+Back Creek, 35.7500, -79.8667
+Back Landing, 35.9286, -76.3175
+Back Swamp, 34.5667, -79.1167
+Badin, 35.4058, -80.1169
+Bagley, 35.5764, -78.1697
+Bahama, 36.1658, -78.8769
+Bailey(Mitchell), 36.0531, -82.3258
+Bailey(Nash), 35.7806, -78.1192
+Bailey Camp, 36.1044, -81.6461
+Bailey Town, 36.3194, -80.1425
+Baker Crossroads, 35.3925, -81.4528
+Bakers, 35.0272, -80.6039
+Bakers Crossroads, 36.3669, -79.8100
+Bakers Landing, 34.5842, -78.2750
+Bakersville, 36.0156, -82.1589
+Bakertown, 35.9300, -79.9675
+Bald Creek, 35.9119, -82.4228
+Bald Mountain(Watauga), 36.3000, -81.6000
+Bald Mountain(Yancey), 35.9644, -82.4719
+Baldwin(Ashe), 36.3475, -81.5331
+Baldwin(Chatham), 35.8167, -79.1500
+Baldwin(Moore), 35.5333, -79.7667
+Baldwin Woods, 34.3425, -78.6894
+Balfour, 35.3464, -82.4722
+Balfours, 35.7333, -79.8000
+Ball, 36.5000, -81.5000
+Ballard, 35.9036, -77.1492
+Ballard Crossroads, 36.4103, -76.7992
+Ballards Crossroads, 35.6000, -77.5833
+Ballast Bank, 35.8669, -76.3236
+Ballew Store, 35.9167, -82.3000
+Balm, 36.1697, -81.8525
+Balsam, 35.4267, -83.0853
+Balsam Grove, 35.2294, -82.8739
+Baltic, 34.9936, -78.1600
+Baltimore, 34.4364, -78.4406
+Bamboo, 36.1936, -81.6081
+Bandana, 35.9731, -82.1761
+Bandy, 35.6419, -81.0900
+Banks, 35.6356, -78.7144
+Banks Creek, 35.9167, -82.3000
+Banks Landing, 35.0489, -77.2733
+Banner, 35.3833, -78.5333
+Banner Elk, 36.1631, -81.8717
+Bannertown, 36.2519, -80.2517
+Bannertown, 36.4856, -80.5903
+Banoak, 35.5861, -81.4092
+Baptist Hospital, 36.0889, -80.2675
+Barbecue, 35.3358, -79.0389
+Barber(Chowan), 36.1225, -76.5928
+Barber(Rowan), 35.7261, -80.6419
+Barber Landing, 35.6003, -77.2992
+Barclaysville, 35.4686, -78.6944
+Barco, 36.3917, -75.9800
+Barfield, 36.3892, -76.9086
+Barham, 35.9419, -78.4044
+Barium Springs, 35.7189, -80.8983
+Barker Heights, 35.3111, -82.4442
+Barkers Creek, 35.4000, -83.3000
+Barnard, 35.8394, -82.7542
+Barnardsville, 35.7775, -82.4550
+Barnes Crossroads, 36.2533, -76.6175
+Barnesville, 34.4086, -79.0469
+Barrett, 36.5272, -80.9683
+Barretts Crossing, 36.5000, -77.0000
+Barretts Crossroads, 36.4703, -77.0558
+Barriers Mill, 35.3567, -80.4281
+Barringer, 35.6833, -80.8333
+Bartlett, 36.2892, -76.0847
+Barton Creek, 35.9500, -78.6500
+Bartonsville, 36.4750, -76.9589
+Bass Crossroads, 35.9842, -78.0789
+Bass Landing, 36.1828, -76.7203
+Bat Cave, 35.4514, -82.2872
+Batarora, 34.2400, -78.1447
+Batchelor Crossroads, 35.9483, -78.0164
+Bates Creek, 35.1131, -84.0531
+Bath, 35.4769, -76.8119
+Baton, 35.8072, -81.5319
+Battleboro, 36.0489, -77.7494
+Battleground, 36.2422, -81.9317
+Batts Crossroads, 35.6903, -77.0803
+Baumtown, 35.8503, -75.6544
+Baxter, 35.3172, -82.3481
+Bay, 35.9167, -76.2500
+Bay City, 35.1792, -76.7708
+Bay Shore Landing, 35.5375, -76.5089
+Bayboro, 35.1428, -76.7706
+Bayleaf, 35.9439, -78.6431
+Baynes, 36.2689, -79.3050
+Bayshore Park, 34.7000, -77.1000
+Bayview, 35.4367, -76.7922
+Beach Land Landing, 35.7925, -75.9089
+Beach Springs, 36.2092, -76.5150
+Beaman Crossroads, 35.1192, -78.4142
+Beams Mill, 35.3900, -81.4972
+Bear Creek(Chatham), 35.6167, -79.3850
+Bear Creek(Onslow), 34.6628, -77.1808
+Bear Creek(Graham), 35.2717, -83.7222
+Bear Creek Junction, 35.3167, -83.8000
+Bear Pond, 36.2769, -78.4061
+Bear Poplar, 35.6758, -80.6936
+Beard, 35.1164, -78.7992
+Beargrass, 35.7500, -77.1167
+Bearskin, 35.0167, -78.5000
+Bearwallow, 35.4631, -82.3164
+Beasley, 35.9156, -76.5492
+Beaufort, 34.7181, -76.6642
+Beautancus, 35.1175, -78.0386
+Beaver Creek(Cumberland), 35.0936, -78.9864
+Beaver Creek(Ashe), 36.3772, -81.5025
+Beaver Island, 36.3833, -80.0833
+Beaverbrook, 35.2783, -81.1942
+Beaverdam(Buncombe), 35.4972, -82.6869
+Beaverdam(Cumbeland), 34.9000, -78.6167
+Beaverdam(Halifax), 36.2706, -77.7072
+Beckford Junction, 36.3833, -76.5928
+Beckwith, 35.5292, -76.7811
+Bectons Old Field Landing, 35.3353, -77.4544
+Bee Log, 35.9844, -82.4089
+Beech, 35.7117, -82.4703
+Beech Bottom, 36.0719, -82.0092
+Beech Creek, 36.2575, -81.9008
+Beech Glen, 35.8186, -82.5047
+Beech Mountain, 36.2333, -81.9333
+Beechertown, 35.2733, -83.6800
+Beeson Crossroads, 36.0861, -80.1014
+Belcross, 36.3478, -76.1550
+Belews Creek, 36.2444, -80.0700
+Belfast, 35.4269, -77.9822
+Belgrade, 34.8800, -77.2353
+Belhaven, 35.5400, -76.6233
+Bell Fork(Onslow), 34.7614, -77.4006
+Bell Fork(Pitt), 35.5647, -77.3497
+Bell Swamp, 34.1331, -78.0964
+Bellair, 35.1653, -77.1214
+Bellarthur, 35.6000, -77.5167
+Bellemont, 36.0256, -79.4433
+Bells, 35.7514, -79.0086
+Bells Crossroads(Iredell), 35.6542, -80.8861
+Bells Crossroads(Pender), 34.4261, -77.9617
+Bells Crossroads(Pitt), 35.7089, -77.4633
+Bells Fork, 35.6000, -77.3833
+Bells Landing, 35.0300, -77.1797
+Belltown, 36.2692, -78.6114
+Bellview, 34.9911, -84.0672
+Belmont(Halifax), 36.4647, -77.6800
+Belmont(Gaston), 35.2428, -81.0375
+Belva, 35.9342, -82.7431
+Belvidere, 36.2686, -76.5361
+Belwood, 35.4639, -81.5219
+Benaja, 36.2497, -79.6775
+Benham, 36.2903, -80.9178
+Bennett, 35.5653, -79.5439
+Bensalem, 35.3333, -79.6333
+Benson, 35.3819, -78.5489
+Bent Creek, 36.0125, -82.3861
+Benton Crossroads, 34.9833, -80.5500
+Benton Heights, 34.9833, -80.5500
+Bentons Crossroads, 35.1039, -80.5367
+Bentonsville, 35.3333, -78.3167
+Berea, 36.3206, -78.7419
+Berry Mill, 35.2247, -83.3658
+Berryhill, 35.2167, -80.9500
+Bertha, 36.2731, -75.9108
+Bertie, 36.0500, -76.9500
+Bessemer, 36.0836, -79.7431
+Bessemer City, 35.2847, -81.2842
+Bessie, 35.1561, -83.1747
+Best, 35.3436, -77.8492
+Bests, 35.3000, -77.7833
+Beta, 35.3947, -83.1906
+Bethabara, 36.1333, -80.3000
+Bethania, 36.1822, -80.3383
+Bethania Station, 36.1694, -80.2906
+Bethany(Iredell), 35.8500, -80.8667
+Bethany(Rockingham), 36.3072, -79.8589
+Bethany Crossroads, 35.0633, -78.6969
+Bethel(Caswell), 36.4533, -79.4519
+Bethel(Columbus), 34.1239, -78.7131
+Bethel(Haywood), 35.4733, -82.8961
+Bethel(Alexander), 35.7333, -81.3500
+Bethel(Hoke), 34.9833, -79.2167
+Bethel(Madison), 35.8831, -82.4772
+Bethel(Perquimans), 36.1139, -76.4819
+Bethel(Pitt), 35.8069, -77.3792
+Bethel(Watauga), 36.2933, -81.8494
+Bethel Hill, 36.5044, -78.9172
+Bethesda(Davidson), 35.8794, -80.2411
+Bethesda(Durham), 35.9422, -78.8386
+Bethlehem(Alexander), 35.8256, -81.3072
+Bethlehem(Hertford), 36.3500, -76.9000
+Bettie, 34.7911, -76.5964
+Beulah(Hyde), 35.4214, -76.4936
+Beulah(Johnston), 35.6000, -78.1500
+Beulah(Polk), 35.2500, -82.6333
+Beulahtown, 35.5936, -78.1717
+Beulaville, 34.9236, -77.7742
+Beverly Hills, 35.5856, -82.5047
+Biddle Landing, 35.3175, -77.3261
+Big Creek, 36.5167, -80.3833
+Big Curve, 34.2183, -78.4297
+Big East Fork, 35.3642, -82.8203
+Big Junction, 35.3014, -84.0214
+Big Laurel(Swain), 35.3392, -83.3519
+Big Laurel(Madison), 35.9278, -82.6761
+Big Lick, 35.2414, -80.3442
+Big Pine, 35.7908, -82.8086
+Big Ridge, 35.2064, -83.0900
+Biggs Park, 34.6000, -79.0167
+Bilboa, 35.9558, -78.8531
+Bills Creek, 35.4486, -82.1461
+Bills Creek Landing, 35.2436, -76.5797
+Biltmore, 35.5581, -82.5336
+Biltmore Forest, 35.5336, -82.5286
+Bina, 36.4836, -81.4992
+Bingham, 35.9500, -79.2000
+Bingham Heights, 35.6106, -82.5858
+Bird Cage, 34.3458, -78.8442
+Birdtown, 35.4686, -83.3522
+Biscoe, 35.3597, -79.7800
+Bishop, 34.1789, -78.0853
+Bishops Cross, 35.6108, -76.6781
+Bixby, 35.9400, -80.4553
+Black Creek, 35.6350, -77.9333
+Black Ford, 35.0897, -79.1442
+Black Jack(Pitt), 35.5017, -77.2481
+Black Jack(Richmond), 35.0333, -79.8333
+Black Mountain, 35.6178, -82.3214
+Black Mountain Sanatorium, 35.6167, -82.3167
+Black Water, 36.3969, -80.6242
+Blackberry Inn, 35.7022, -82.4297
+Blackburn, 35.6158, -81.3311
+Blackman, 35.4500, -78.4333
+Blackmans Mills, 35.2478, -78.4081
+Blackmon Crossroads, 35.3683, -78.4286
+Blacknel, 35.6144, -79.1114
+Blackrock, 36.0533, -76.7406
+Blackwelder Hospital, 35.9125, -81.5403
+Blackwell, 36.4425, -79.4639
+Blackwood, 35.9922, -79.0725
+Bladen Springs, 34.5372, -78.4753
+Bladenboro, 34.5386, -78.7878
+Blades, 34.8858, -76.7725
+Blaine, 35.4911, -80.0594
+Blanch, 36.5078, -79.2953
+Blands, 35.8878, -78.9575
+Blands Crossroads, 35.1811, -77.7094
+Blanon Landing, 34.3725, -78.2419
+Blantyre, 35.3000, -82.6261
+Blevins Crossroads, 36.5422, -81.0142
+Blevins Store, 36.4000, -80.7167
+Blizzards Crossroads, 35.1364, -77.9019
+Bloomingdale, 34.4406, -79.0206
+Bloomington, 35.3311, -80.3186
+Blossomtown, 35.1503, -83.3936
+Blount, 35.9164, -76.6008
+Blounts Creek, 35.3497, -76.9603
+Blowertown, 34.9667, -80.0833
+Blowing Rock, 36.1350, -81.6778
+Blue Banks Landing, 35.6542, -77.4575
+Blue Ridge, 35.3503, -82.3631
+Blue Ridge Forest, 35.5411, -82.3861
+Blue Rock, 35.8906, -82.1797
+Blue Springs, 34.9500, -79.3000
+Blue Wing Church, 35.4833, -83.3167
+Bluefield, 34.4833, -78.6500
+Bluefield Crossroads, 34.5247, -78.6022
+Bluff, 35.8378, -82.8581
+Bly, 36.5000, -81.5000
+Boardman, 34.4389, -78.9494
+Bobbitt, 36.2208, -78.3969
+Boddies Pond, 35.9667, -77.9667
+Boger City, 35.4833, -81.2167
+Bogue, 34.6992, -77.0372
+Bohaynee, 35.0625, -83.0097
+Boiling Spring Lakes, 34.0167, -78.0500
+Boiling Springs(Rutherford), 35.2542, -81.6672
+Boiling Springs(Cherokee), 35.2058, -84.0097
+Bolivia, 34.0675, -78.1486
+Bolling, 36.4500, -77.6667
+Bolton, 34.3206, -78.4022
+Bon Air, 36.1283, -80.2422
+Bonaparte Landing, 33.9000, -78.4500
+Bones Ford, 35.1189, -79.0803
+Bonham Heights, 34.7000, -76.8333
+Bonlee, 35.6458, -79.4147
+Bonnerton, 35.3583, -76.8600
+Bonnetsville, 34.9903, -78.3950
+Bonnie Doone, 35.0950, -78.9558
+Bonsal, 35.6603, -78.9739
+Boogertown, 35.2181, -81.1600
+Boomer, 36.0672, -81.2539
+Boon Hill, 35.4667, -78.1833
+Boon Station, 36.1167, -79.5167
+Boone, 36.2167, -81.6747
+Boone Field Landing, 34.7442, -78.3942
+Boone Fork, 36.1222, -81.7386
+Boone Landing, 33.9125, -78.3478
+Boone Trail, 35.4172, -78.9614
+Boones Crossroads, 36.3386, -77.4189
+Boones Hill, 36.4756, -80.5753
+Boonford, 35.9303, -82.1692
+Boonville, 36.2325, -80.7083
+Bostian Heights, 35.5603, -80.5239
+Bostic, 35.3625, -81.8358
+Bostic Yard, 35.3667, -81.8333
+Boswell, 35.5789, -82.6144
+Boswellville, 35.6744, -77.9728
+Bottom, 36.4747, -80.7742
+Boulevard, 36.5000, -79.7500
+Bowdens, 35.0569, -78.1158
+Bowditch, 35.8839, -82.2164
+Bowlens Creek, 35.8778, -82.2853
+Bowman Bluff, 35.3036, -82.5619
+Bowman Gray Baptist Hospital, 36.0889, -80.2675
+Bowman Gray Hospital, 36.0889, -80.2675
+Bowmore, 34.9419, -79.3033
+Boyd, 35.3000, -82.6500
+Boyd Crossroads, 35.5306, -77.1889
+Boyds Fork, 35.5450, -76.8458
+Boyles Chapel, 36.2833, -80.3500
+Boylston Creek, 35.3156, -82.6608
+Bracey, 34.5333, -79.2833
+Brackett, 35.5500, -81.9500
+Bradford Crossroads, 35.7833, -81.0050
+Bradshaw, 36.0667, -82.2833
+Braggtown, 36.0347, -78.8922
+Brake, 35.9667, -77.8000
+Brandon, 36.5356, -81.5111
+Branon, 36.1206, -80.7397
+Brassfield, 35.9311, -78.8508
+Brasstown, 35.0394, -83.9569
+Braswell, 34.3686, -78.8678
+Braswells Crossroads, 36.0847, -77.3822
+Brendletown, 35.2403, -83.3406
+Brentwood, 35.8000, -78.6333
+Brevard, 35.2333, -82.7344
+Brewers Crossroads, 36.5089, -77.6033
+Briarcliff, 35.9283, -79.0156
+Brice, 35.1914, -81.8497
+Brices Crossroads, 34.8186, -78.1017
+Brick Cellar Landing, 36.3108, -76.8531
+Brick Landing, 33.9047, -78.3922
+Brickhaven, 35.5747, -79.0292
+Bricks, 36.1000, -77.7167
+Brickton, 35.4089, -82.5136
+Bridgersville, 35.7561, -77.7517
+Bridgeton, 35.1214, -77.0211
+Bridgewater, 35.7114, -81.8628
+Brief, 35.1900, -80.5336
+Briertown, 35.2622, -83.6125
+Brightwater, 35.3308, -82.5197
+Brightwood, 36.1328, -79.7597
+Brindletown, 35.6250, -81.8008
+Brinkleyville, 36.2761, -77.8539
+Britts, 34.5333, -78.9667
+Broad Creek, 34.7206, -76.9367
+Broad River, 35.5333, -82.2667
+Broadbay, 36.0500, -80.2167
+Broadview, 36.1194, -79.7844
+Broadview Estates, 35.2417, -82.7217
+Broadway(Columbus), 34.3058, -78.8600
+Broadway(Lee), 35.4578, -79.0533
+Brocker Health Center, 35.3050, -80.7328
+Brocks, 34.9167, -77.5256
+Brogden(Jonhston), 35.4306, -78.2483
+Brogden(Wayne), 35.2925, -78.0347
+Brook Cove, 36.2864, -80.1897
+Brookford, 35.7031, -81.3481
+Brookhaven, 35.8333, -78.6667
+Brooks Crossroads, 36.1200, -80.7733
+Brooksdale, 36.3742, -78.9808
+Brookside, 35.3667, -77.9667
+Brookston, 36.3664, -78.3408
+Brookwood, 36.1264, -80.2297
+Broughton State Hospital, 35.7303, -81.6744
+Brower, 35.5667, -79.6333
+Brown Marsh, 34.5167, -78.6333
+Brown Mountain Beach, 35.9078, -81.7267
+Brown Town(Gaston), 35.2531, -81.0225
+Brown Town(Pender), 34.3464, -77.7350
+Browns Crossroads, 35.7439, -79.5789
+Browns Summit, 36.2125, -79.7139
+Browntown Crossroads, 35.3783, -77.6672
+Brownwood, 36.2767, -81.5547
+Bruce, 35.6731, -77.4842
+Bruce, 36.2000, -79.9000
+Brunswick, 34.2867, -78.7014
+Brush Creek, 35.9833, -82.2167
+Brushy Fork, 36.2333, -81.7167
+Brushy Mountain, 36.0833, -81.1000
+Bryan, 36.3667, -80.8500
+Bryan Landing, 35.0122, -77.2656
+Bryantown, 36.2806, -77.3592
+Bryson City, 35.4308, -83.4475
+Bryson Place, 35.5208, -83.4192
+Buck, 36.1564, -81.2267
+Buck Shoal, 36.1167, -80.8167
+Buck Swamp, 35.4833, -78.0500
+Buckeye Ford, 35.2564, -82.3903
+Buckhead, 34.3744, -78.4183
+Buckhorn, 36.0833, -79.1667
+Buckhorn Crossroads, 35.6781, -78.1078
+Buckland, 36.4742, -76.7617
+Bucklesberry, 35.2300, -77.7208
+Buckner, 35.8639, -82.4842
+Bucks Corner, 34.7222, -77.0686
+Buena Vista(Forsyth), 36.1114, -80.2825
+Buena Vista(Bertie), 36.1206, -76.9647
+Buena Vista(Buncombe), 35.5319, -82.5281
+Buensville Hospital, 35.9139, -82.2886
+Buffalo(Cherokee), 35.2036, -83.7928
+Buffalo(Iredell), 35.7142, -81.0342
+Buffalo City, 35.8422, -75.9175
+Buffalo Cove, 36.0911, -81.5269
+Buford, 34.8833, -80.5500
+Bughill, 34.0786, -78.6442
+Buie, 34.7364, -79.1450
+Buies Creek, 35.4131, -78.7358
+Buies Neck, 34.7975, -78.8950
+Buladean, 36.1083, -82.1950
+Bullhead, 35.5167, -77.7833
+Bullock, 36.4911, -78.5453
+Bullocks Crossroads, 35.8794, -77.7408
+Bullocksville, 36.4531, -78.3467
+Bunker Hill, 34.9547, -79.7714
+Bunlevel, 35.3167, -78.7833
+Bunn, 35.9608, -78.2539
+Bunnlevel, 35.3094, -78.7806
+Bunyan, 35.5378, -76.9756
+Burbage Crossroads, 35.4503, -76.7033
+Burch, 36.2758, -80.7667
+Burden, 36.1589, -77.0650
+Burgaw, 34.5519, -77.9264
+Burger Town, 35.0492, -84.3044
+Burgess, 36.1347, -76.4075
+Burke Chapel, 35.7333, -81.3500
+Burke Park, 36.0792, -80.3069
+Burkemont, 35.6817, -81.6997
+Burlington, 36.0956, -79.4381
+Burlington Mills, 35.9833, -78.5000
+Burnett Fields, 35.2611, -83.5414
+Burnett Siding, 35.3958, -82.9386
+Burney, 34.7317, -78.7178
+Burningtown, 35.2311, -83.4711
+Burnsville(Anson), 35.1122, -80.2447
+Burnsville(Yancey), 35.9172, -82.3011
+Burnt Chimney Corner, 35.2069, -82.2042
+Burnt Landing, 34.4108, -78.0356
+Burnt Mills, 36.3942, -76.2653
+Burnt Swamp, 34.7000, -79.1167
+Burton, 36.0403, -78.8192
+Burton Hills, 35.2825, -81.1403
+Busbee, 35.4983, -82.5181
+Bushy Fork, 36.3078, -79.0867
+Busick, 35.7697, -82.1831
+Busick, 36.2167, -79.7167
+Butler Crossroads, 34.0858, -78.6442
+Butlers, 36.0500, -76.9500
+Butlers Crossroads, 34.9231, -78.3311
+Butner, 36.1319, -78.7569
+Butters, 34.5603, -78.8486
+Butterwood, 36.3500, -77.8500
+Buxton, 35.2675, -75.5428
+Buxton Landing, 35.2717, -75.5403
+Buzzards Crossroads, 36.2000, -76.7667
+Bynum, 35.7739, -79.1425
+Byrdville, 34.3178, -78.3114

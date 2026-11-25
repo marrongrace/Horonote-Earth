@@ -1,0 +1,225 @@
+Icard, 35.7272, -81.4708
+Icaria, 36.2558, -76.6275
+Ida, 34.7667, -79.4667
+Ida Mill, 34.7997, -79.5308
+Idalia, 35.2800, -76.7914
+Idlewild(Ashe), 36.2892, -81.4464
+Idlewild(Mecklenburg), 35.1886, -80.7442
+Ijames Crossroads, 35.9353, -80.6428
+Index, 36.4000, -81.4833
+Indian Beach, 34.7000, -76.8333
+Indian Cave Park, 35.2994, -82.5200
+Indian Hills, 35.4333, -83.3667
+Indian Landing, 35.6300, -76.5961
+Indian Place, 35.2464, -83.0950
+Indian Springs, 35.2308, -77.9481
+Indian Town, 36.3342, -76.0767
+Indian Trail, 35.0767, -80.6694
+Indian Woods, 35.9667, -77.0667
+Inez, 36.2719, -78.0919
+Ingalls, 35.9714, -82.0119
+Ingleside, 36.1761, -78.2964
+Ingold, 34.8267, -78.3475
+Ingram, 35.1003, -79.9381
+Ingrams, 35.4167, -78.4167
+Institute, 35.3575, -77.7142
+Intelligence, 36.3833, -79.9667
+Inverness, 35.1814, -79.2408
+Iotla, 35.2361, -83.3953
+Ipock Landing, 35.2625, -77.1275
+Iredell, 33.9331, -78.5914
+Iredell Memorial Hospital, 35.8008, -80.8792
+Iron Duff, 35.5789, -82.9706
+Iron Station, 35.4414, -81.1564
+Ironhill, 34.1383, -78.7833
+Ironton, 35.4833, -81.1500
+Irving Park, 36.0953, -79.7994
+Irvings Crossroads, 35.0714, -77.6411
+Isenhour, 35.4497, -80.1567
+Isenhour Park, 35.8683, -81.1878
+Island Creek, 34.7833, -77.9333
+Island Ford, 35.2306, -83.0406
+Ita, 36.1744, -77.9108
+Ivanhoe, 34.6106, -78.2422
+Ivey Crossroads, 34.4222, -79.0953
+Ivy, 35.8144, -82.5150
+Ivy Hills, 35.5275, -82.9947
+Ivy Ridge, 35.9117, -82.5886
+J A Dasher Hospital, 33.9294, -78.0222
+J M Sykes Landing, 34.3544, -78.1717
+Jackie Landing, 34.6525, -78.2547
+Jacks Creek, 35.9667, -82.3333
+Jackson, 36.3894, -77.4217
+Jackson, 34.8667, -80.6836
+Jackson Creek, 35.6939, -80.0039
+Jackson Hill, 35.5725, -80.1503
+Jackson Line, 35.3981, -83.4750
+Jackson Park, 35.3758, -80.5997
+Jackson Springs, 35.2094, -79.6261
+Jacksons Creek, 35.6333, -80.1167
+Jacksons Crossroads, 35.2233, -77.6461
+Jacksons Store, 34.9167, -77.7667
+Jacksontown, 36.4233, -78.3297
+Jacksonville, 34.7539, -77.4306
+Jacktown, 35.6678, -81.9681
+Jacobs Fork, 35.6000, -81.3167
+Jacocks, 36.1492, -76.2644
+Jakesville, 35.8536, -80.2800
+James City, 35.0886, -77.0353
+Jamestown, 35.9942, -79.9356
+Jamesville, 35.8111, -76.8969
+Janeiro, 34.9956, -76.7656
+Jarman Forks, 34.9000, -77.5500
+Jarmantown, 34.9700, -77.6325
+Jarrett Cove, 35.8983, -82.6436
+Jarvisburg, 36.2028, -75.8669
+Jason, 35.3811, -77.7744
+Jasper, 35.2014, -77.2069
+Jefferson, 36.4203, -81.4736
+Jefferson Park, 34.9178, -79.7853
+Jenkins Heights, 35.2747, -81.2103
+Jenkins Meadow, 35.3819, -83.9531
+Jenkins Place, 35.4850, -83.4242
+Jennings, 36.0119, -80.8806
+Jenny Lind, 35.2569, -77.7783
+Jericho, 36.2869, -79.3667
+Jerome, 34.8425, -78.7342
+Jerry, 35.8819, -76.2272
+Jerusalem, 35.8150, -80.5158
+Jessup Mill, 36.5256, -80.3708
+Jessups Landing, 34.5483, -78.4369
+Jeter Mountain Terrace, 35.2475, -82.5475
+Jinnys Branch, 33.9131, -78.3994
+Jobs Cabin, 36.2500, -81.4000
+Joe(P o), 35.7967, -82.9089
+Johns, 34.6997, -79.4431
+Johns River, 35.9333, -81.6833
+Johnson Crossroads, 35.5208, -78.6028
+Johnsons Corner, 36.4344, -76.2989
+Johnsons Crossing, 35.6042, -79.4025
+Johnsons Mill, 35.0206, -79.1297
+Johnsons Mills, 35.3861, -77.3525
+Johnsontown(Bladen), 34.7419, -78.5717
+Johnsontown(Davidson), 35.8719, -80.1083
+Johnsontown(Sampson), 34.9969, -78.3442
+Johnsonville(Harnett), 35.2828, -79.1075
+Johnsonville(Cherokee), 35.0114, -84.2631
+Johnstown(Lincoln), 35.4475, -81.3639
+Johnstown(Bladen), 34.6333, -78.5500
+Jollys Old Field Landing, 35.3481, -77.3917
+Jonas Ridge, 35.9725, -81.8950
+Jonathan, 35.5500, -82.9833
+Jonathans Creek, 35.6167, -83.0333
+Jones, 36.4292, -79.4303
+Jones Corner, 35.0586, -77.2044
+Jones Mill, 35.1097, -83.9056
+Jonesboro, 35.4500, -79.1667
+Jonesboro Crossing, 34.3217, -78.6239
+Jonesboro Heights, 35.4567, -79.1522
+Jonestown(Forsyth), 36.0533, -80.3447
+Jonestown(Lenoir), 35.0839, -77.6428
+Jonesville, 36.2392, -80.8447
+Joplor, 35.3683, -80.8228
+Joppa, 36.3550, -76.5603
+Jordan, 35.6689, -78.3072
+Joy, 35.7333, -81.7000
+Joyce Mill, 36.5367, -80.4003
+Joyceton, 35.8672, -81.5081
+Joyland, 35.9911, -78.8547
+Joyners Crossing, 35.8914, -77.8650
+Joyners Crossroads, 35.9667, -77.8000
+Joynes, 36.3708, -81.0669
+Jubilee, 35.7500, -80.3167
+Judkins, 36.3833, -78.0000
+Judson, 35.0019, -78.8092
+Jugtown(Buncombe), 35.5575, -82.7231
+Jugtown(Moore), 35.5081, -79.6503
+Julian, 35.9050, -79.6606
+Junction, 35.2650, -83.9378
+Juniper, 35.6317, -78.6417
+Junker, 35.2622, -80.7628
+Juno, 35.6400, -82.6469
+Jupiter, 35.7608, -82.5936
+Just, 35.8333, -82.5500
+Just Crossroads, 36.1892, -79.2825
+Justice, 36.0583, -78.1708
+Kalmia, 35.9297, -82.0231
+Kannapolis, 35.4872, -80.6219
+Kanuga Pines, 35.2789, -82.4872
+Kappa, 35.9000, -80.5667
+Kapps Mill, 36.3167, -80.8667
+Katesville, 36.0889, -78.3661
+Kawana, 35.9806, -81.8233
+Keane, 35.9667, -78.9167
+Kearney, 36.2244, -78.2736
+Kedron, 36.3606, -78.7019
+Keene, 35.9492, -78.9044
+Keener, 35.1069, -78.3189
+Kelford, 36.1794, -77.2239
+Kellersville, 36.1667, -81.8667
+Kellerville, 36.2453, -81.8978
+Kellogs Fork, 36.4558, -76.6053
+Kellum, 34.8044, -77.3564
+Kellumtown, 34.7167, -77.2333
+Kelly, 34.4661, -78.3247
+Kellys Crossroads, 36.3892, -78.4492
+Kenansville, 34.9622, -77.9625
+Kendall Chapel, 34.0897, -77.9631
+Kenilworth, 35.5758, -82.5389
+Kenly, 35.5961, -78.1244
+Kennebec, 35.5400, -78.7475
+Kennekeet, 35.7000, -75.6500
+Kennel Beach, 35.0242, -76.9003
+Kennells Beach, 35.1333, -76.8500
+Kernersville, 36.1197, -80.0739
+Kerr, 34.6561, -78.2822
+Kershaw, 35.0478, -76.7369
+Keys Crossroads, 36.3689, -76.5808
+Kikers, 35.0756, -80.2114
+Kilby, 35.9167, -81.1667
+Kilkenny, 35.6361, -76.2161
+Kilkenny Landing, 35.6419, -76.1947
+Kill Devil Hills, 36.0167, -75.6500
+Killian Crossroads, 35.5586, -81.0642
+Kimesville, 35.9522, -79.5397
+Kindy Forest, 35.3217, -82.5169
+King, 36.2806, -80.3594
+King Charles, 35.7667, -78.6167
+King Whites Fork, 36.0333, -77.4000
+Kingdale, 34.5444, -79.0147
+Kings Creek, 35.9922, -81.4019
+Kings Crossroads(Guilford), 36.2128, -79.9903
+Kings Crossroads(Pitt), 35.6667, -77.6333
+Kings Landing, 34.3742, -77.6525
+Kings Mountain, 35.2450, -81.3414
+Kingsboro, 35.9667, -77.8000
+Kinston, 35.2625, -77.5819
+Kinston Clinic, 35.2728, -77.5836
+Kinton Fork, 36.3000, -78.5833
+Kintons Cross Road, 36.3536, -78.6311
+Kipling, 35.4797, -78.8214
+Kirby, 36.4667, -77.2000
+Kirbys Crossing, 35.6133, -78.0906
+Kirkman Crossroad, 35.9683, -79.8794
+Kirkwood, 36.1044, -79.8094
+Kittrell, 36.2219, -78.4381
+Kitty Fork, 35.0000, -78.3333
+Kitty Hawk, 36.0644, -75.7061
+Kitty Hawk Beach, 36.0939, -75.7069
+Knightdale, 35.7875, -78.4808
+Knob Creek, 35.5125, -81.5453
+Knob Hill, 34.9536, -79.7458
+Knobs, 36.2000, -80.8167
+Knollwood, 35.2008, -79.3994
+Knotts Crossroads, 36.4064, -78.4928
+Knotts Island, 36.5167, -75.9333
+Kona, 35.9500, -82.1919
+Koontzville, 36.1433, -79.7689
+Kornbow, 35.0833, -78.9500
+Kornegay, 35.0578, -77.8258
+Kross Keys, 35.1833, -82.1833
+Kuhns, 34.7900, -77.1300
+Kungsboro, 35.9178, -77.6711
+Kure Beach, 33.9967, -77.9075
+Kyle, 35.2211, -83.6156
+Kyles Crossroads, 35.7350, -80.9444

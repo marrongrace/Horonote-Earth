@@ -1,0 +1,175 @@
+Aarons Corner, 36.5381, -80.2961
+Abbotts, 34.5333, -78.7167
+Abbottsburg, 34.5169, -78.7253
+Aberdeen, 35.1314, -79.4297
+Abingdon, 35.9111, -81.5961
+Abner, 35.4981, -79.9081
+Abshers, 36.3686, -81.1111
+Aces Landing, 34.3953, -78.9708
+Acme(Columbus), 34.3256, -78.2050
+Acme(Gaston), 35.2500, -81.0333
+Acorn Hill, 36.4425, -76.5481
+Acre, 35.6167, -76.8667
+Action, 35.5614, -82.6392
+Acton, 35.5833, -82.6000
+Adako, 35.9042, -81.7042
+Adams, 36.2167, -81.6667
+Adamsville, 35.3708, -77.9536
+Adcock Crossroads, 36.3294, -78.3553
+Addie, 35.4058, -83.1600
+Addington Mill, 35.1133, -83.3981
+Addor, 35.0778, -79.4622
+Adoniram, 36.5500, -78.7833
+Advance, 35.9411, -80.4094
+Advent Crossroads, 35.6692, -81.4261
+Afton, 36.3386, -78.2164
+Aho, 36.1592, -81.6167
+Ahoskie, 36.2867, -76.9850
+Ai, 36.2833, -78.9500
+Airboro, 35.3592, -77.9917
+Airlie, 36.3356, -77.8847
+Alamance, 36.0350, -79.4861
+Alarka, 35.3531, -83.4456
+Albemarle, 35.3500, -80.2003
+Albemarle Beach, 35.9358, -76.6417
+Albermarle Hospital, 36.3236, -76.2186
+Albertson, 35.1142, -77.8192
+Albrittons, 35.1978, -77.6653
+Albrittons Landing, 35.2967, -77.4950
+Alder Branch, 36.2517, -76.0311
+Alert, 36.2308, -78.2228
+Alexander, 35.7000, -82.6167
+Alexander Mills, 35.3106, -81.8589
+Alexanders Store, 35.2667, -80.8000
+Alexis, 35.3997, -81.1181
+Alfordsville, 34.5800, -79.3186
+All Healing Springs, 35.9167, -81.1667
+Alleghany, 35.5333, -80.1167
+Allegheny, 35.9883, -82.6675
+Allen, 35.2258, -80.6142
+Allen Grove, 36.3053, -77.6447
+Allen Jay, 35.9239, -79.9656
+Allendale, 34.8667, -79.2833
+Allens Crossroads, 34.9119, -80.4078
+Allens Level, 36.3253, -79.0211
+Allenstand, 35.9728, -82.7531
+Allensville, 36.3903, -78.8889
+Allenton, 34.5922, -78.9264
+Alliance, 35.1447, -76.8025
+Alligator, 35.9144, -76.1128
+Alligoods, 35.5597, -76.9464
+Allison, 36.4089, -79.4644
+Allison Ferry, 35.3886, -80.9578
+Allreds, 35.4000, -79.7833
+Alma, 34.7236, -79.3128
+Almond, 35.3697, -83.5653
+Alspaugh, 36.1453, -80.2558
+Altamahaw, 36.1842, -79.5075
+Altamont, 35.9908, -81.9444
+Altapass, 35.8933, -82.0181
+Alton, 34.8808, -80.5419
+Amantha, 36.2786, -81.7800
+Amelia, 36.5425, -81.2033
+Amerotron Mill, 34.8167, -79.1833
+Amherst, 35.7989, -81.5964
+Amity, 35.7333, -80.6833
+Amity Gardens, 35.2333, -80.7833
+Amity Hill, 35.6972, -80.7736
+Ammon, 34.8000, -78.5806
+Ammon Ford, 34.7925, -78.5869
+Amostown, 36.5242, -80.0544
+Anderson(Dare), 36.0667, -75.7000
+Anderson(Caswell), 36.2669, -79.3456
+Anderson Creek, 35.2833, -78.9172
+Anderson Crossroads, 36.4333, -77.9167
+Anderson Landing, 34.0411, -77.9436
+Andersons Crossroads, 36.3619, -77.7419
+Andrews, 35.2017, -83.8242
+Andy Cove, 35.8947, -82.7131
+Angier, 35.5069, -78.7394
+Ansley Heights, 36.1381, -81.7131
+Anson County Hospital, 34.9606, -80.0764
+Ansonville, 35.1044, -80.1094
+Antioch(Brunswick), 34.0228, -78.1519
+Antioch(Madison), 35.9075, -82.8878
+Antioch(Wilkes), 36.1533, -81.0214
+Antioch(Columbus), 34.2394, -78.7186
+Antioch(Hoke), 34.8856, -79.2086
+Apex, 35.7325, -78.8506
+Appalachian Hall Hospital, 35.5728, -82.5414
+Apple Grove, 36.5286, -81.5850
+Aquadale, 35.2272, -80.2258
+Aquone, 35.2072, -83.6272
+Arabia, 34.9500, -79.1258
+Arapahoe, 35.0256, -76.8258
+Ararat, 36.4039, -80.5608
+Arba, 35.4011, -77.7025
+Arcadia, 35.9472, -80.3086
+Archdale(Cleveland), 35.1939, -81.4019
+Archdale(Randolph), 35.9144, -79.9722
+Archer, 35.6500, -78.4500
+Archers Lodge, 35.6939, -78.3758
+Arcola, 36.2894, -77.9803
+Arden, 35.4661, -82.5167
+Ardmore, 36.0847, -80.2742
+Ardulusa, 34.9628, -78.9172
+Argura, 35.2675, -83.0411
+Arlington, 36.2272, -80.8336
+Armour, 34.3469, -78.2544
+Arnold, 35.8933, -80.2808
+Arrwood Mill, 35.1106, -83.9408
+Artesia, 34.3222, -78.5753
+Arthur, 35.5833, -77.4833
+Asbury(Montgomery), 35.5008, -79.7769
+Asbury(Chatham), 35.6081, -79.2000
+Asbury(Stokes), 36.5294, -80.4214
+Asbury(Wake), 35.7900, -78.7378
+Ash, 34.0667, -78.5267
+Ash Hill, 36.3931, -80.5733
+Asheboro, 35.7078, -79.8139
+Ashebrook Park, 35.3422, -81.2264
+Asheville, 35.6008, -82.5542
+Ashford, 35.8714, -81.9481
+Ashland(Caswell), 36.3297, -79.5169
+Ashland(Ashe), 36.4408, -81.6597
+Ashley Heights, 35.0903, -79.3700
+Ashmont, 35.0703, -79.3553
+Ashton, 34.4753, -77.9014
+Ashton Forrest, 35.0333, -78.9500
+Ashwood, 35.0739, -76.7164
+Askewville, 36.1097, -76.9403
+Askin, 35.2203, -77.0669
+Aspen, 36.4333, -77.9167
+Assembly, 35.5333, -82.9667
+Aston Park Hospital, 35.5914, -82.5600
+Atando, 35.2500, -80.8333
+Atando Junction, 35.2608, -80.8169
+Athens, 34.9000, -79.0167
+Atkinson, 34.5283, -78.1714
+Atkinson Landing, 34.5783, -78.4967
+Atlantic, 34.8847, -76.3408
+Atlantic Beach, 34.6989, -76.7406
+Atlantic Christian College, 35.7333, -77.9167
+Atwell, 35.5667, -80.6833
+Atwood, 36.0497, -80.3267
+Auburn, 35.6931, -78.5556
+Audubon, 34.2167, -77.9167
+Aulander, 36.2294, -77.1144
+Aumans Crossroads, 35.5586, -79.8394
+Aurelian Springs, 36.3642, -77.8072
+Aurora, 35.3053, -76.7889
+Austin, 36.3236, -80.9772
+Austins Mill, 35.4500, -80.2167
+Autryville, 34.9978, -78.6428
+Aventon, 36.1528, -77.9500
+Averasboro, 35.3167, -78.6000
+Avery Creek, 35.4633, -82.5828
+Avon, 35.3519, -75.5108
+Avondale, 35.2694, -81.7908
+Axtell, 36.3625, -78.2567
+Aycock Crossing, 35.6267, -78.0544
+Ayden, 35.4725, -77.4158
+Aydlett, 36.3258, -75.9072
+Ayersville, 36.4869, -80.0253
+Azalea(New Hanover), 34.2167, -77.9167
+Azalea(Buncombe), 35.5800, -82.4714
