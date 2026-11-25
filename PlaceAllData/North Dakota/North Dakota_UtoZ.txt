@@ -1,0 +1,91 @@
+Underwood, 47.4564, -101.1367
+Union, 48.5578, -97.9486
+University, 47.9333, -97.2000
+Upham, 48.5817, -100.7278
+Urbana, 46.9344, -98.4114
+Valley City, 46.9233, -98.0028
+Vance, 47.0339, -97.2175
+Vang, 48.9058, -98.1244
+Vashti, 47.1889, -99.0803
+Velva, 48.0561, -100.9289
+Venlo, 46.4864, -97.4458
+Venturia, 45.9986, -99.5458
+Verendrye, 48.1211, -100.7386
+Verona, 46.3639, -98.0719
+Veseleyville, 48.3253, -97.5569
+Voltaire, 48.0206, -100.8411
+Voss, 48.2964, -97.4550
+Wabek, 47.9719, -101.9561
+Wahpeton, 46.2653, -96.6056
+Walcott, 46.5489, -96.9364
+Walden, 47.1747, -97.6897
+Wales, 48.8958, -98.6022
+Walhalla, 48.9233, -97.9178
+Walser Crossing, 46.6192, -103.5958
+Walum, 47.2697, -98.1942
+Warren, 46.7272, -97.0100
+Warsaw, 48.2961, -97.2544
+Warwick, 47.8550, -98.7097
+Washburn, 47.2892, -101.0286
+Wassaic, 48.4061, -102.3778
+Watford City, 47.8022, -103.2828
+Watrous, 46.3258, -102.1925
+Weaver, 48.5911, -98.7242
+Webster, 48.2822, -98.8758
+Wellsburg, 47.8317, -99.7611
+Werner, 47.3606, -102.4567
+West Adams, 46.0833, -102.7667
+West Bonetraill, 48.4019, -103.9483
+West Bottineau, 48.7667, -101.4000
+West Bowman, 46.0833, -103.6833
+West Cavalier, 48.7667, -98.7833
+West Dickey, 46.1167, -98.8833
+West Eddy, 47.7167, -99.1000
+West Emmons, 46.2833, -100.4833
+West Fargo, 46.8750, -96.9000
+West Foster, 47.4500, -99.0500
+West Griggs, 47.4667, -98.3833
+West Hettinger, 46.4333, -102.7500
+West Logan, 46.4667, -99.6667
+West Mc Lean, 47.7000, -101.9167
+West Mercer, 47.2833, -101.9500
+West Morton, 46.8500, -101.8833
+West Oliver, 47.1167, -101.5667
+West Sargent, 46.1333, -97.8833
+West Slope, 46.4500, -103.6167
+West Stark, 46.8167, -103.1000
+Westby, 48.8703, -104.0514
+Westfield, 46.0294, -100.2019
+Westhope, 48.9094, -101.0203
+Wheatland, 46.9075, -97.3450
+Wheelock, 48.2964, -103.2519
+White, 48.6961, -100.6236
+White Earth, 48.3806, -102.7728
+White Shield, 47.6500, -101.6500
+Whitman, 48.1586, -98.1194
+Wild Rice, 46.7464, -96.8092
+Wildrose, 48.6306, -103.1839
+Williston, 48.1333, -103.6333
+Willow City, 48.6044, -100.2939
+Wilton, 47.1586, -100.7831
+Wimbledon, 47.1697, -98.4594
+Windsor, 46.8964, -99.0425
+Wing, 47.1408, -100.2786
+Wirch, 46.0775, -98.9436
+Wishek, 46.2569, -99.5567
+Wishek Nursing Home, 46.2544, -99.5619
+Woburn, 48.8286, -102.4189
+Wogansport, 47.0347, -100.8736
+Wolford, 48.4986, -99.7039
+Wolseth, 48.4464, -101.1236
+Woods, 46.6800, -97.1886
+Woodworth, 47.1425, -99.3028
+Wyndmere, 46.2667, -97.1319
+Yellowstone, 47.8667, -104.0000
+York, 48.3128, -99.5731
+Youngtown, 46.9425, -101.4075
+Ypsilanti, 46.7819, -98.5628
+Zahl, 48.5733, -103.6917
+Zap, 47.2864, -101.9222
+Zeeland, 45.9700, -99.8303
+Zenith, 46.8794, -103.0961

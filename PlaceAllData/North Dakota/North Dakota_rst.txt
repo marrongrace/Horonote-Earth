@@ -1,0 +1,165 @@
+Raleigh, 46.3578, -101.3061
+Ralston, 48.2486, -101.4758
+Ramsey, 48.1583, -99.0881
+Rangeley, 48.0428, -100.4906
+Raub, 47.7464, -102.0428
+Rawson, 47.8194, -103.5403
+Ray, 48.3444, -103.1647
+Reeder, 46.1058, -102.9450
+Reeves, 46.8631, -98.5822
+Regan, 47.1581, -100.5278
+Regent, 46.4217, -102.5553
+Renville, 48.7631, -101.2997
+Revere, 47.3556, -98.3283
+Reynolds, 47.6722, -97.1064
+Rhame, 46.2325, -103.6550
+Richardton, 46.8839, -102.3153
+Rider, 46.9142, -103.6369
+Riga, 48.2939, -100.7069
+Rising, 48.3361, -100.9553
+Rival, 48.9017, -102.6114
+Riverdale, 47.4975, -101.3708
+Riverdale Junction, 47.4989, -101.1747
+Riverside, 46.8861, -96.9000
+Robinson, 47.1428, -99.7808
+Rock Haven, 46.8733, -100.8886
+Rock Lake, 48.7903, -99.2458
+Rogers, 47.0728, -98.1992
+Rohrville, 48.1425, -98.6597
+Rolette, 48.6608, -99.8411
+Rolla, 48.8578, -99.6175
+Roseglen, 47.7514, -101.8358
+Roseville, 47.4403, -97.3886
+Ross, 48.3111, -102.5461
+Roth, 48.9078, -100.8022
+Rugby, 48.3689, -99.9958
+Ruso, 47.8383, -100.9331
+Russell, 48.6714, -100.9011
+Ruthville, 48.3717, -101.2983
+Rutland, 46.0531, -97.5086
+Ryder, 47.9175, -101.6775
+San Haven, 48.8347, -100.0386
+Sanborn, 46.9422, -98.2239
+Sand Hills, 46.4333, -97.4000
+Sanger, 47.1797, -100.9950
+Sanish, 47.9739, -102.5456
+Sarles, 48.9458, -98.9956
+Sawyer, 48.0897, -101.0533
+Schafer, 47.7994, -103.1861
+Schefield, 46.6747, -102.8542
+Schmidt, 46.6736, -100.7817
+Scoria Point, 46.9311, -103.4850
+Scranton, 46.1481, -103.1425
+Selfridge, 46.0414, -100.9247
+Selz, 47.8572, -99.8914
+Sentinel Butte, 46.9183, -103.8383
+Sevenmile Corner, 48.8944, -102.5456
+Sharlow, 46.6800, -98.8597
+Sharon, 47.5972, -97.8936
+Shawnee, 47.9553, -97.7508
+Sheldon, 46.5858, -97.4908
+Shepard, 47.3897, -98.1317
+Sherbrooke, 47.4608, -97.7192
+Sherwood, 48.9600, -101.6322
+Sheyenne, 47.8281, -99.1197
+Shields, 46.2336, -101.1256
+Sibley, 47.2172, -97.9642
+Silva, 48.1689, -99.9181
+Silver Strip, 48.1500, -103.6167
+Simcoe, 48.1564, -100.8664
+Sims, 46.7722, -101.4981
+Six Mile Corner, 46.9806, -103.1903
+Skaar, 47.3733, -104.0397
+Skogmo, 47.8667, -100.5000
+Solen, 46.3889, -100.7981
+Sonora, 46.0667, -96.7411
+Souris, 48.9097, -100.6811
+South Billings, 46.7667, -103.4333
+South Dunn, 47.0833, -102.6000
+South Grant, 46.2000, -101.5000
+South Heart, 46.8647, -102.9911
+South Kidder, 46.7833, -99.8333
+South Mc Lean, 47.3000, -100.9167
+South Mountrail, 48.0167, -102.1333
+South Pierce, 47.9500, -99.9667
+South Prairie, 48.0519, -101.2953
+South Renville, 48.5333, -101.5333
+South Washington, 47.9333, -97.2000
+South Wells, 47.4333, -99.7333
+Southam, 48.1583, -98.5517
+Southwest, 48.8000, -103.6500
+Spiritwood, 46.9361, -98.4953
+Spiritwood Lake, 46.9000, -98.7167
+Spotted Horn, 47.7133, -102.7064
+Spring Brook, 48.2525, -103.4583
+St Alexis Hospital, 46.8081, -100.7772
+St Anthony, 46.6169, -100.9128
+St Benedict, 46.7244, -96.8411
+St Gertrude, 46.2844, -101.3289
+St Joe, 48.5136, -98.9269
+St John, 48.9444, -99.7106
+St Johns Hospital, 46.8692, -96.7844
+St Joseph Hospital, 48.4111, -97.4139
+St Josephs Hospital, 48.2319, -101.2869
+St Lukes Hospital, 46.8844, -96.7864
+St Michael, 47.9850, -98.8717
+St Thomas, 48.6192, -97.4461
+Stady, 48.7206, -103.7056
+Stampede, 48.8872, -102.7372
+Standing Rock Indian Reservation, 46.1000, -100.6333
+Stanley, 48.3172, -102.3900
+Stanton, 47.3211, -101.3811
+Starkweather, 48.4519, -98.8833
+State Hospital, 46.9000, -98.7167
+State University, 46.8833, -96.8000
+Steele, 46.8547, -99.9156
+Sterling, 46.8139, -100.2911
+Stiles, 46.0753, -97.0522
+Still, 47.1606, -100.6358
+Stirum, 46.2103, -97.8061
+Strasburg, 46.1336, -100.1611
+Straubville, 46.0439, -97.8997
+Streeter, 46.6553, -99.3536
+Sully Springs, 46.8672, -103.3911
+Sunny, 46.8294, -100.9567
+Surrey, 48.2364, -101.1331
+Sutton, 47.4019, -98.4389
+Svold, 48.8078, -97.7964
+Sweet Briar, 46.8244, -101.1544
+Sweetwater, 48.2158, -98.8708
+Sydney, 46.7308, -98.7694
+Sykeston, 47.4650, -99.3992
+Taft, 47.4564, -97.0697
+Tagus, 48.3464, -101.9336
+Tappen, 46.8750, -99.6361
+Tasco, 48.6872, -100.2547
+Taylor, 46.9006, -102.4247
+Temple, 48.3889, -103.0556
+Temvik, 46.3697, -100.2581
+Thelan, 46.8036, -103.9714
+Thompson, 47.7736, -97.1094
+Thorne, 48.7392, -99.9311
+Three V Crossing, 46.5569, -103.7914
+Tilden, 48.1558, -99.2464
+Timmer, 46.3714, -101.0175
+Tioga, 48.3972, -102.9378
+Tioga Medical Center, 48.4028, -102.9344
+Tokio, 47.9247, -98.8158
+Tolley, 48.7289, -101.8269
+Tolna, 47.8272, -98.4397
+Tower City, 46.9228, -97.6736
+Town and Country Shop Center, 48.3333, -101.3167
+Towner, 48.3458, -100.4050
+Trenton, 48.0706, -103.8364
+Trinity Hospital, 48.2325, -101.2936
+Trotters, 47.3231, -103.9178
+Truax, 47.3583, -101.6464
+Truro, 48.6939, -101.4458
+Tunbridge, 48.3658, -100.1058
+Turtle Lake, 47.5200, -100.8897
+Turtle Mountain Indian Reservation, 48.8333, -99.7500
+Turtle Mountains, 48.9000, -100.3333
+Tuttle, 47.1436, -99.9942
+Twin Buttes, 47.5164, -102.2458
+Tyler, 46.1492, -96.6050
+Tyler's Western Village, 46.8167, -100.7833

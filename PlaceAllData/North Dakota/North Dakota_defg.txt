@@ -1,0 +1,186 @@
+Daglum, 46.7089, -103.0200
+Dahlen, 48.1581, -97.9292
+Daily, 46.7175, -97.9758
+Dakota Boys Ranch, 48.3333, -101.3167
+Dana, 46.5767, -100.2333
+Danzig, 46.1381, -99.4744
+Darby, 48.1536, -98.9672
+Davenport, 46.7142, -97.0697
+Dawson, 46.8686, -99.7511
+Dazey, 47.1906, -98.2014
+De Lamere, 46.2672, -97.3347
+De Mores, 46.9219, -103.7419
+De Sart, 46.3789, -102.9578
+De Villo, 46.0656, -96.6372
+Deaconess Hospital, 48.4136, -97.4097
+Deering, 48.3956, -101.0514
+Deisem, 46.4425, -98.7894
+Denbigh, 48.3153, -100.5867
+Dengate, 46.8456, -101.6350
+Denhoff, 47.4767, -100.2592
+Derrick, 48.4769, -98.5572
+Des Lacs, 48.2578, -101.5631
+Des Lacs Valley, 48.6500, -102.0167
+Devils Lake, 48.1128, -98.8647
+Dickey, 46.5369, -98.4675
+Dickinson, 46.8792, -102.7892
+Divide, 47.7697, -99.1244
+Dodge, 47.3061, -102.2039
+Dogden Butte, 47.7667, -100.8333
+Donnybrook, 48.5094, -101.8847
+Dore, 47.9206, -104.0306
+Double Ditch Indian Village, 46.9364, -100.9006
+Douglas, 47.8572, -101.5025
+Dover, 47.4603, -99.2758
+Doyon, 48.0528, -98.5364
+Drady, 48.1519, -101.4253
+Drake, 47.9242, -100.3719
+Drayton, 48.5711, -97.1775
+Dresden, 48.8275, -98.4808
+Driscoll, 46.8442, -100.1411
+Duane, 46.0722, -98.5419
+Dundas, 47.6400, -99.0292
+Dunn Center, 47.3536, -102.6200
+Dunning, 48.7194, -101.0394
+Dunseith, 48.8131, -100.0606
+Durbin, 46.8086, -97.1492
+Durupt, 47.0953, -98.4697
+Dwight, 46.3042, -96.7378
+Eagle Nest, 46.8525, -101.9239
+Easby, 48.7103, -98.2531
+East Adams, 46.0667, -102.2000
+East Bowman, 46.1333, -103.2500
+East Eddy, 47.7500, -98.7167
+East Fairview, 47.8533, -104.0392
+East Foster, 47.4667, -98.6833
+East Griggs, 47.4500, -98.1167
+East Hettinger, 46.4333, -102.3667
+East Kidder, 46.9667, -99.6333
+East La Moure, 46.4833, -98.3000
+East Logan, 46.4500, -99.2667
+East Mercer, 47.3833, -101.6333
+East Ramsey, 48.2333, -98.4500
+East Sheridan, 47.5167, -100.2000
+East Slope, 46.4667, -103.1167
+East Stark, 46.8000, -102.3333
+Eastedge, 46.6567, -97.8919
+Eckelson, 46.9381, -98.3328
+Eckman, 48.6581, -101.0575
+Edgeley, 46.3592, -98.7153
+Edinburg, 48.4967, -97.8617
+Edmore, 48.4133, -98.4539
+Edmunds, 47.2472, -98.9678
+Egeland, 48.6264, -99.0969
+Eland, 46.8622, -102.8814
+Eldridge, 46.9025, -98.8514
+Elgin, 46.4039, -101.8456
+Ellendale, 46.0028, -98.5267
+Elliott, 46.4022, -97.8144
+Elmore, 46.1958, -96.6050
+Embden, 46.8022, -97.4328
+Emerado, 47.9189, -97.3647
+Emerson, 47.1836, -102.6344
+Emmet, 47.6464, -101.6531
+Emrick, 47.5947, -99.5117
+Enderlin, 46.6231, -97.6011
+Englevale, 46.3928, -97.9131
+Enloe, 46.4997, -96.7572
+Epping, 48.2792, -103.3567
+Epworth, 48.1161, -102.2239
+Erie, 47.1153, -97.3875
+Erie Junction, 47.0933, -97.3842
+Esmond, 48.0358, -99.7617
+Essex, 48.1225, -98.7456
+Everest, 46.8597, -97.2208
+Fairdale, 48.4908, -98.2308
+Fairfield, 47.1894, -103.2217
+Fairmount, 46.0550, -96.6019
+Fairview Junction, 46.2683, -96.8236
+Falkirk, 47.3619, -101.0942
+Fallon, 46.5122, -101.0906
+Fargo, 46.8772, -96.7894
+Farmington, 46.2678, -96.7511
+Fayette, 47.2617, -102.9433
+Fessenden, 47.6492, -99.6289
+Fife, 46.8853, -96.9639
+Fillmore, 48.1803, -99.8003
+Fingal, 46.7606, -97.7900
+Finley, 47.5142, -97.8356
+Flasher, 46.4561, -101.2322
+Flaxton, 48.8986, -102.3919
+Fleece, 48.7603, -97.2064
+Flora, 47.9503, -99.4175
+Fonda, 48.6697, -100.0183
+Forbes, 45.9436, -98.7817
+Fordville, 48.2175, -97.7903
+Forest River, 48.2153, -97.4678
+Forest River Colony, 48.1822, -97.7031
+Forfar, 48.5706, -101.2981
+Forman, 46.1078, -97.6361
+Fort Berthold Indian Reservation, 47.9833, -102.4833
+Fort Clark, 47.2400, -101.2517
+Fort Lincoln Estates, 46.8167, -100.7833
+Fort Ransom, 46.5208, -97.9258
+Fort Rice, 46.5261, -100.5839
+Fort Totten, 47.9800, -98.9925
+Fort Totten Indian Reservation, 47.9833, -99.0000
+Fort Yates, 46.0922, -100.6286
+Fortuna, 48.9100, -103.7789
+Four Bears, 47.9000, -102.8167
+Four Bears Health Center, 47.9833, -102.4833
+Foxholm, 48.3694, -101.5708
+Frazier, 47.1667, -98.4500
+Freda, 46.3472, -101.1733
+Fredonia, 46.3261, -99.0936
+Fried, 47.0458, -98.6575
+Frontier Village, 46.8894, -98.7003
+Fryburg, 46.8706, -103.3025
+Fullerton, 46.1653, -98.4267
+Funston, 47.9958, -100.2628
+Gackle, 46.6258, -99.1417
+Galchutt, 46.3875, -96.8092
+Galesburg, 47.2700, -97.4061
+Gardar, 48.5892, -97.8736
+Gardena, 48.7008, -100.4972
+Gardner, 47.1472, -96.9675
+Garrison, 47.6522, -101.4153
+Garske, 48.3578, -98.8769
+Gascoyne, 46.1183, -103.0794
+Geneseo, 46.0739, -97.2783
+Genoa, 48.1936, -100.9939
+Gilby, 48.0853, -97.4703
+Gladstone, 46.8608, -102.5675
+Gladys, 48.4953, -103.8197
+Glasston, 48.7058, -97.4472
+Glen Ullin, 46.8150, -101.8294
+Glenburn, 48.5131, -101.2203
+Glenfield, 47.4533, -98.5669
+Glenwood Estates, 46.8167, -100.7833
+Glover, 46.2417, -98.1386
+Golden Valley, 47.2908, -102.0642
+Goldwin, 47.1489, -99.2008
+Golva, 46.7342, -103.9858
+Goodrich, 47.4750, -100.1258
+Gorham, 47.1486, -103.3069
+Grace City, 47.5514, -98.8050
+Grafton, 48.4122, -97.4103
+Grand Forks, 47.9253, -97.0325
+Grand Forks Air Force Base, 47.9333, -97.2000
+Grand Harbor, 48.1697, -98.9839
+Grand Rapids, 46.4444, -98.3703
+Grandin, 47.2369, -97.0011
+Grano, 48.6150, -101.5861
+Granville, 48.2678, -100.8422
+Grassna, 46.0878, -100.2953
+Grassy Butte, 47.3925, -103.2475
+Great Bend, 46.1539, -96.8017
+Green Acres Estates, 46.8167, -100.7833
+Greene, 48.6564, -101.7008
+Greenfield, 47.2744, -97.2172
+Grenora, 48.6183, -103.9375
+Griffin, 46.2158, -103.5403
+Guelph, 46.0228, -98.2356
+Guptill, 47.5156, -99.1381
+Guthrie, 48.0011, -100.3769
+Guyson, 46.2975, -99.2050
+Gwinner, 46.2258, -97.6622
