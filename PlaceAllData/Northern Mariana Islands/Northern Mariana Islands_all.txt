@@ -1,0 +1,20 @@
+Agrihan Island, 18.7667, 145.6667
+Alamagan Island, 17.6000, 145.8333
+Anatahan Island, 16.3667, 145.6667
+Asuncion Island, 19.6667, 145.4000
+Chalan Kanoa(Charan Kanoa), 15.1333, 145.7167
+Farallon de Pajaros Island, 20.5333, 144.9000
+Garapan, 15.2000, 145.7167
+Guguan Island, 17.3167, 145.8500
+Leprosarium, 14.9833, 145.6000
+Mariana Ridge, 17.0000, 146.0000
+Maug Islands, 20.0167, 145.2167
+Pagan Island, 18.1167, 145.7667
+Rota Island, 14.1667, 145.2000
+Saipan Island, 15.2000, 145.7500
+San Antonio, 15.1333, 145.7167
+San Jose, 15.1500, 145.7167
+San Roque, 15.2500, 145.7833
+Sunharon, 14.9500, 145.6000
+Tanapag, 15.2333, 145.7500
+Tinian Island(Tinian), 14.9833, 145.6333 
